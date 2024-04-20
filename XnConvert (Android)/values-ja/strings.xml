@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+
+    <string name="menu_sort_path">パス</string>
+    <string name="menu_sort_name">名称</string>
+    <string name="menu_sort_size">サイズ</string>
+    <string name="menu_sort_date">日付</string>
+    <string name="menu_sort_type">タイプ</string>
+    <string name="menu_sort_ascending">昇順</string>
+    <string name="menu_sort_descending">降順</string>
+
+    <string name="menu_infos">情報</string>
+    <string name="menu_share">シェア</string>
+    <string name="menu_delete">削除する</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_show_name">情報を表示する</string>
+
+    <string name="menu_filter">フィルタ</string>
+    <string name="menu_group">グループ化</string>
+
+    <string name="menu_custom_size">カスタムサイズ</string>
+    <string name="menu_predefined_size">定義済みのサイズ</string>
+    <string name="menu_choose_template">サイズまたはテンプレートを選ぶ</string>
+    <string name="menu_choose_size">サイズを選ぶ</string>
+
+    <string name="menu_create_template">テンプレートを作成する</string>
+    <string name="menu_report">バグを報告する</string>
+    <string name="menu_restore">復元する</string>
+
+    <string name="menu_clear">消去する</string>
+    <string name="menu_append">追加する</string>
+    <string name="menu_select_all">すべて選択する</string>
+
+    <string name="group_none">グループ化しない</string>
+    <string name="group_path">パス名</string>
+    <string name="group_date">日付</string>
+    <string name="group_type">タイプ</string>
+    <string name="group_extension">拡張</string>
+
+    <string name="today">今日</string>
+    <string name="yesterday">昨日</string>
+
+    <string name="mail_message">XnConvertアプリで変換された写真</string>
+    <string name="template_message">写真はサンプルです。テンプレートを保存してファイルに適用してください。</string>
+    <string name="template_title">テンプレート作成</string>
+
+    <string name="drawer_allphotos">すべての写真</string>
+    <string name="drawer_photos">写真</string>
+    <string name="drawer_downloads">ダウンロード</string>
+    <string name="drawer_storage">ストレージ</string>
+    <string name="drawer_output">出力フォルダ</string>
+
+    <string name="pro_version">PROバージョンを入手する</string>
+    <string name="message_saved">保存済み画像：</string>
+
+    <string name="pane_convert">変換する</string>
+    <string name="pane_next">次</string>
+    <string name="resize">サイズを変更する</string>
+    <string name="text">テキスト</string>
+    <string name="watermark">ウォーターマーク</string>
+    <string name="output">出力</string>
+    <string name="size_default">デフォルト</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">キャンセル</string>
+
+    <string name="resize_method">方法</string>
+    <string name="quality">品質</string>
+    <string name="keep_metadata">メタデータを保持する</string>
+    <string name="fitin">サイズに合う</string>
+    <string name="fitover">サイズオーバー</string>
+    <string name="stretch">ストレッチ</string>
+
+    <string name="settings_global">グローバル</string>
+    <string name="settings">設定</string>
+    <string name="settings_output">出力</string>
+    <string name="settings_misc">その他</string>
+
+    <string name="settings_keepMetadata">メタデータを保持する</string>
+    <string name="settings_keepMetadataSummary">元のExifタグが保存されます</string>
+    <string name="settings_keepFileDate">ファイルの日付を保存する</string>
+    <string name="settings_keepFileDateSummary">出力ファイルには元のファイルの日付があります</string>
+
+    <string name="settings_sharpen">シャープにする</string>
+    <string name="settings_manageSize">デフォルトサイズを管理する</string>
+    <string name="settings_manageTemplate">テンプレートを管理する</string>
+
+    <string name="settings_qualitySave">品質</string>
+    <string name="settings_qualityLow">低（70）</string>
+    <string name="settings_qualityMedium">中（80）</string>
+    <string name="settings_qualityHigh">高（90）</string>
+    <string name="settings_qualityBest">ベスト（100）</string>
+
+    <string name="settings_none">無し</string>
+    <string name="settings_low">低</string>
+    <string name="settings_medium">中</string>
+    <string name="settings_high">高</string>
+
+    <string name="settings_hideXnFolder">非表示の出力フォルダ</string>
+    <string name="settings_hideXnFolderSummary">出力フォルダからのファイルを非表示にする</string>
+
+    <string name="settings_show_text">テキスト</string>
+    <string name="settings_show_watermark">ウォーターマーク</string>
+
+    <string name="setttings_reset_template">テンプレートをリセットする</string>
+    <string name="setttings_reset_template_summary">テンプレートリストをデフォルトにリセットする</string>
+
+    <string name="enterCustomSize">カスタムサイズを入力する</string>
+    <string name="resize_dialog_info">指定できる寸法は1つだけです</string>
+
+    <string name="settings_portraitColumnsCount">列数（縦位置）</string>
+    <string name="settings_landscapeColumnsCount">列数（横位置）</string>
+
+    <string name="title_settings">設定</string>
+    <string name="title_template">テンプレート</string>
+    <string name="title_size">サイズ・プリセット</string>
+
+    <string name="infos_filename">ファイル名：</string>
+    <string name="infos_path">パス：</string>
+    <string name="infos_date">日付：</string>
+    <string name="infos_size">サイズ：</string>
+    <string name="infos_dimensions">寸法：</string>
+
+    <string name="choose_size">サイズを選ぶ</string>
+
+    <string name="pro_title">PROバージョンへ移動</string>
+    <string name="pro_item1">• 広告なし</string>
+    <string name="pro_item2">•バッチ変換に制限なし</string>
+    <string name="pro_item3">•テンプレートに制限なし</string>
+    <string name="pro_item4">•アプリの改良へのご協力</string>
+    <string name="pro_purchase">購入</string>
+
+</resources>

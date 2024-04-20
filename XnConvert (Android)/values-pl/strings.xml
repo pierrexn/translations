@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+
+    <string name="menu_sort_path">Ścieżka</string>
+    <string name="menu_sort_name">Nazwa</string>
+    <string name="menu_sort_size">Rozmiar</string>
+    <string name="menu_sort_date">Data</string>
+    <string name="menu_sort_type">Rodzaj</string>
+    <string name="menu_sort_ascending">Rosnąco</string>
+    <string name="menu_sort_descending">Malejąco</string>
+
+    <string name="menu_infos">Informacje</string>
+    <string name="menu_share">Udostępnij</string>
+    <string name="menu_delete">Usuń</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_show_name">Pokaż informacje</string>
+
+    <string name="menu_filter">Filtr</string>
+    <string name="menu_group">Grupuj według</string>
+
+    <string name="menu_custom_size">Niestandardowy rozmiar</string>
+    <string name="menu_predefined_size">Predefiniowane rozmiary</string>
+    <string name="menu_choose_template">Wybierz rozmiar lub szablon</string>
+    <string name="menu_choose_size">Wybierz rozmiar</string>
+
+    <string name="menu_create_template">Utwórz szablon</string>
+    <string name="menu_report">Zgłoś błąd</string>
+    <string name="menu_restore">Przywróć</string>
+
+    <string name="menu_clear">Wyczyść</string>
+    <string name="menu_append">Dodaj</string>
+    <string name="menu_select_all">Zaznacz wszystko</string>
+
+    <string name="group_none">Nie grupuj</string>
+    <string name="group_path">Nazw ścieżki</string>
+    <string name="group_date">Data</string>
+    <string name="group_type">Rodzaj</string>
+    <string name="group_extension">Rozszerzenie</string>
+
+    <string name="today">Dzisiaj</string>
+    <string name="yesterday">Wczoraj</string>
+
+    <string name="mail_message">Zdjęcia przekształcone za pomocą aplikacji XnConvert</string>
+    <string name="template_message">Obraz jest przykładem, zapisz szablon i zastosuj go do swoich plików.</string>
+    <string name="template_title">Utwórz szablon</string>
+
+    <string name="drawer_allphotos">Wszystkie zdjęcia</string>
+    <string name="drawer_photos">Zdjęcia</string>
+    <string name="drawer_downloads">Pobrane</string>
+    <string name="drawer_storage">Przechowywanie</string>
+    <string name="drawer_output">Folder wyjściowy</string>
+
+    <string name="pro_version">Pobierz wersję PRO</string>
+    <string name="message_saved">Zapisany obraz:</string>
+
+    <string name="pane_convert">Konwertuj</string>
+    <string name="pane_next">Kolejny</string>
+    <string name="resize">Zmień rozmiar</string>
+    <string name="text">Tekst</string>
+    <string name="watermark">Znak wodny</string>
+    <string name="output">Produkt końcowy</string>
+    <string name="size_default">Domyślne</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Anuluj</string>
+
+    <string name="resize_method">Metoda</string>
+    <string name="quality">Jakość</string>
+    <string name="keep_metadata">Zachowaj metadane</string>
+    <string name="fitin">Dopasuj do</string>
+    <string name="fitover">Nałóż</string>
+    <string name="stretch">Rozciągnij</string>
+
+    <string name="settings_global">Globalne</string>
+    <string name="settings">Ustawienia</string>
+    <string name="settings_output">Produkt końcowy</string>
+    <string name="settings_misc">Różne</string>
+
+    <string name="settings_keepMetadata">Zachowaj metadane</string>
+    <string name="settings_keepMetadataSummary">Oryginalne tagi Exif zostaną zapisane</string>
+    <string name="settings_keepFileDate">Zachowaj datę pliku</string>
+    <string name="settings_keepFileDateSummary">Plik wyjściowy będzie miał oryginalną datę pliku</string>
+
+    <string name="settings_sharpen">Wyostrz</string>
+    <string name="settings_manageSize">Zarządzaj domyślnym rozmiarem</string>
+    <string name="settings_manageTemplate">Zarządzaj szablonem</string>
+
+    <string name="settings_qualitySave">Jakość</string>
+    <string name="settings_qualityLow">Niska (70)</string>
+    <string name="settings_qualityMedium">Średnia (80)</string>
+    <string name="settings_qualityHigh">Wysoka (90)</string>
+    <string name="settings_qualityBest">Najlepsza (100)</string>
+
+    <string name="settings_none">Żadna</string>
+    <string name="settings_low">Niska</string>
+    <string name="settings_medium">Średnia</string>
+    <string name="settings_high">Wysoka</string>
+
+    <string name="settings_hideXnFolder">Folder wyjściowy ukryty</string>
+    <string name="settings_hideXnFolderSummary">Ukryj pliki z folderu wyjściowego</string>
+
+    <string name="settings_show_text">Tekst</string>
+    <string name="settings_show_watermark">Znak wodny</string>
+
+    <string name="setttings_reset_template">Zresetuj szablon</string>
+    <string name="setttings_reset_template_summary">Przywróć domyślną listę szablonów</string>
+
+    <string name="enterCustomSize">Wprowadź rozmiar niestandardowy</string>
+    <string name="resize_dialog_info">Możesz określić tylko jeden wymiar</string>
+
+    <string name="settings_portraitColumnsCount">Liczba kolumn (pionowa)</string>
+    <string name="settings_landscapeColumnsCount">Liczba kolumn (pozioma)</string>
+
+    <string name="title_settings">Ustawienia</string>
+    <string name="title_template">Szablon</string>
+    <string name="title_size">Presety rozmiaru</string>
+
+    <string name="infos_filename">Nazwa pliku:</string>
+    <string name="infos_path">Ścieżka:</string>
+    <string name="infos_date">Data:</string>
+    <string name="infos_size">Rozmiar:</string>
+    <string name="infos_dimensions">Wymiary:</string>
+
+    <string name="choose_size">Wybierz rozmiar</string>
+
+    <string name="pro_title">Przejdź do wersji PRO</string>
+    <string name="pro_item1">• Bez reklam</string>
+    <string name="pro_item2">• Brak limitu w konwersji masowej</string>
+    <string name="pro_item3">• Brak limitu w szablonie</string>
+    <string name="pro_item4">• Pomóż nam pracować nad dalszymi ulepszeniami</string>
+    <string name="pro_purchase">Kup</string>
+
+</resources>

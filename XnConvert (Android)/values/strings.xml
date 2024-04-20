@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <string name="app_name">XnConvert</string>
+
+    <!-- Sort menu -->
+    <string name="menu_sort_path">Path</string>
+    <string name="menu_sort_name">Name</string>
+    <string name="menu_sort_size">Size</string>
+    <string name="menu_sort_date">Date</string>
+    <string name="menu_sort_type">Type</string>
+    <string name="menu_sort_ascending">Ascending</string>
+    <string name="menu_sort_descending">Descending</string>
+
+    <string name="menu_infos">Infos</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_show_name">Show info</string>
+
+    <string name="menu_filter">Filter</string>
+    <string name="menu_group">Group by</string>
+
+    <string name="menu_custom_size">Custom size</string>
+    <string name="menu_predefined_size">Predefined Sizes</string>
+    <string name="menu_choose_template">Choose a size or template</string>
+    <string name="menu_choose_size">Choose size</string>
+
+    <string name="menu_create_template">Create Template</string>
+    <string name="menu_report">Report a Bug</string>
+    <string name="menu_restore">Restore</string>
+
+    <string name="menu_clear">Clear</string>
+    <string name="menu_append">Append</string>
+    <string name="menu_select_all">Select All</string>
+
+    <string name="group_none">Don\'t group</string>
+    <string name="group_path">Pathname</string>
+    <string name="group_date">Date</string>
+    <string name="group_type">Type</string>
+    <string name="group_extension">Extension</string>
+
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+
+    <string name="mail_message">Photos converted with XnConvert App</string>
+    <string name="template_message">The picture is a sample, save your template and apply it to your files. </string>
+    <string name="template_title">Template create</string>
+    <string name="delete_all_selected_files">Do you want to delete ALL selected files?</string>
+
+    <string name="image_converting">Image converting...</string>
+    <string name="result_files">Result files</string>
+
+    <!-- Drawer menu -->
+    <string name="drawer_allphotos">All Photos</string>
+    <string name="drawer_photos">Photos</string>
+    <string name="drawer_downloads">Downloads</string>
+    <string name="drawer_storage">Storage</string>
+    <string name="drawer_output">Output folder</string>
+    <string name="drawer_sdcard">SDCard</string>
+
+    <string name="pro_version">Get PRO version</string>
+    <string name="message_saved">Image saved: </string>
+
+    <string name="pane_convert">Convert</string>
+    <string name="pane_next">Next</string>
+    <string name="resize">Resize</string>
+    <string name="text">Text</string>
+    <string name="watermark">Watermark</string>
+    <string name="output">Output</string>
+    <string name="size_default">Default</string>
+    <string name="rotate">Rotate</string>
+    <string name="adjust">Adjust</string>
+    <string name="canvas">Canvas</string>
+    <string name="canvas_resize">Canvas Resize</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="resize_method">Method</string>
+    <string name="quality">Quality</string>
+    <string name="keep_metadata">Keep Metadata</string>
+    <string name="fitin">Fit in</string>
+    <string name="fitover">Fit over</string>
+    <string name="stretch">Stretch</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="saturation">Saturation</string>
+    <string name="gamma">Gamma</string>
+    <string name="exposure">Exposure</string>
+    <string name="white_balance">White Balance</string>
+    <string name="cut_limit">Cut limit</string>
+
+    <!-- Dialog size -->
+    <string name="dialog_size_title">"Only 12 sizes will shown"</string>
+
+    <!-- Preferences -->
+    <string name="settings_global">Global</string>
+    <string name="settings">Settings</string>
+    <string name="settings_output">Output</string>
+    <string name="settings_misc">Misc.</string>
+
+    <string name="settings_keepMetadata">Keep Metadata</string>
+    <string name="settings_keepMetadataSummary">Original Exif tags will be saved</string>
+    <string name="settings_keepFileDate">Keep File Date</string>
+    <string name="settings_keepFileDateSummary">Output file will have original file\'s date</string>
+    <string name="settings_keepAlpha">Use alpha channel</string>
+
+    <string name="settings_sharpen">Sharpen</string>
+    <string name="settings_manageSize">Manage default size</string>
+    <string name="settings_manageTemplate">Manage template</string>
+
+    <string name="settings_qualitySave">Quality</string>
+    <string name="settings_qualityLow">Low (70)</string>
+    <string name="settings_qualityMedium">Medium (80)</string>
+    <string name="settings_qualityHigh">High (90)</string>
+    <string name="settings_qualityBest">Best (100)</string>
+
+    <string name="settings_none">None</string>
+    <string name="settings_low">Low</string>
+    <string name="settings_medium">Medium</string>
+    <string name="settings_high">High</string>
+
+    <string name="settings_hideXnFolder">Output folder hidden</string>
+    <string name="settings_hideXnFolderSummary">Hide files from output folder</string>
+
+    <string name="settings_show_text">Text</string>
+    <string name="settings_show_watermark">Watermark</string>
+
+    <string name="setttings_reset_template">Reset template</string>
+    <string name="setttings_reset_template_summary">Reset template list to default</string>
+
+    <string name="settings_singleMode">One photo mode</string>
+    <string name="settings_singleModeSummary">Open template view when selecting one photo</string>
+
+    <string name="settings_manageExcluded">Manage excluded folders</string>
+
+    <string name="enterCustomSize">Enter a custom size</string>
+    <string name="resize_dialog_info">You can specify only one dimension</string>
+
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="percent">Percent</string>
+
+    <string-array name="size_mode_array">
+        <item>PIXELS</item>
+        <item>%</item>
+        <item>RATIO</item>
+    </string-array>
+
+    <string-array name="resize_array">
+        <item>Bilinear</item>
+        <item>Lanzcos</item>
+    </string-array>
+
+    <string name="settings_portraitColumnsCount">Column count (Portrait)</string>
+    <string name="settings_landscapeColumnsCount">Column count (Landscape)</string>
+
+    <string name="title_settings">Settings</string>
+    <string name="title_template">Template</string>
+    <string name="title_size">Size presets</string>
+    <string name="title_excluded_folders">Excluded folders</string>
+
+    <!-- Infos -->
+    <string name="infos_filename">Filename:</string>
+    <string name="infos_path">Path:</string>
+    <string name="infos_date">Date:</string>
+    <string name="infos_size">Size:</string>
+    <string name="infos_dimensions">Dimensions:</string>
+
+    <!-- Common -->
+    <string name="an_error_occurred">An error occurred: %s</string>
+    <string name="no_app_found">No valid app found</string>
+    <string name="share_via">Share via</string>
+    <string name="maximum_share_reached">You cannot share this much content at once</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+
+    <string name="choose_size">Choose size</string>
+
+    <!-- Rate -->
+    <string name="rate_question">Do you love XnConvert?</string>
+    <string name="rate_using">If you enjoy using APPNAME please take a moment to rate it. Thanks for your support!</string> <!-- Don't translate APPNAME -->
+    <string name="rate_rate">Rate</string>
+    <string name="rate_remind">Remind me later</string>
+    <string name="rate_no">No, thanks</string>
+
+    <!-- INAPP -->
+    <string name="pro_title">Go to PRO version</string>
+    <string name="pro_item1">&#8226; No Ads</string>
+    <string name="pro_item2">&#8226; No limit in Batch convert</string>
+    <string name="pro_item3">&#8226; No limit in Template</string>
+    <string name="pro_item4">&#8226; To help us to continue improvement</string>
+    <string name="pro_purchase">Purchase</string>
+
+</resources>

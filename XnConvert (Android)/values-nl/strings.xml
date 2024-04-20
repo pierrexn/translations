@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+
+    <string name="menu_sort_path">Pad</string>
+    <string name="menu_sort_name">Naam</string>
+    <string name="menu_sort_size">Grootte</string>
+    <string name="menu_sort_date">Datum</string>
+    <string name="menu_sort_type">Type</string>
+    <string name="menu_sort_ascending">Oplopend</string>
+    <string name="menu_sort_descending">Aflopend</string>
+
+    <string name="menu_infos">Info</string>
+    <string name="menu_share">Delen</string>
+    <string name="menu_delete">Verwijderen</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="menu_show_name">Info weergeven</string>
+
+    <string name="menu_filter">Filter</string>
+    <string name="menu_group">Groeperen op</string>
+
+    <string name="menu_custom_size">Aangepaste grootte</string>
+    <string name="menu_predefined_size">Voorgedefinieerde groottes</string>
+    <string name="menu_choose_template">Kies een grootte of sjabloon</string>
+    <string name="menu_choose_size">Kies de grootte</string>
+
+    <string name="menu_create_template">Sjabloon creëren</string>
+    <string name="menu_report">Bug rapporteren</string>
+    <string name="menu_restore">Herstellen</string>
+
+    <string name="menu_clear">Wissen</string>
+    <string name="menu_append">Toevoegen</string>
+    <string name="menu_select_all">Alles selecteren</string>
+
+    <string name="group_none">Niet groeperen</string>
+    <string name="group_path">Naam pad</string>
+    <string name="group_date">Datum</string>
+    <string name="group_type">Type</string>
+    <string name="group_extension">Extensie</string>
+
+    <string name="today">Vandaag</string>
+    <string name="yesterday">Gisteren</string>
+
+    <string name="mail_message">Foto\'s geconverteerd met de app XnConvert</string>
+    <string name="template_message">De afbeelding is een voorbeeld. Sla uw sjabloon op en pas deze toe op uw bestanden.</string>
+    <string name="template_title">Sjabloon creëren</string>
+
+    <string name="drawer_allphotos">Alle foto\'s.</string>
+    <string name="drawer_photos">Foto\'s</string>
+    <string name="drawer_downloads">Downloads</string>
+    <string name="drawer_storage">Opslagruimte</string>
+    <string name="drawer_output">Uitvoermap</string>
+
+    <string name="pro_version">Pro-versie verkrijgen</string>
+    <string name="message_saved">Afbeelding opgeslagen</string>
+
+    <string name="pane_convert">Converteren</string>
+    <string name="pane_next">Volgende</string>
+    <string name="resize">Grootte opnieuw instellen</string>
+    <string name="text">Tekst</string>
+    <string name="watermark">Watermerk</string>
+    <string name="output">Uitvoer</string>
+    <string name="size_default">Standaard</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Annuleren</string>
+
+    <string name="resize_method">Methode</string>
+    <string name="quality">Kwaliteit</string>
+    <string name="keep_metadata">Metadata behouden</string>
+    <string name="fitin">Fit in</string> <!-- <string name="fitin">Erin passen</string> -->
+    <string name="fitover">Fit over</string> <!-- <string name="fitover">Er over heen passen</string> -->
+    <string name="stretch">Uitrekken</string>
+
+    <string name="settings_global">Globaal</string>
+    <string name="settings">Instellingen</string>
+    <string name="settings_output">Uitvoer</string>
+    <string name="settings_misc">Diversen</string>
+
+    <string name="settings_keepMetadata">Metadata behouden</string>
+    <string name="settings_keepMetadataSummary">De originele Exif-tags worden opgeslagen</string>
+    <string name="settings_keepFileDate">Bestandsdatum behouden</string>
+    <string name="settings_keepFileDateSummary">Het uitvoerbestand zal de datum van het originele bestand bevatten</string>
+
+    <string name="settings_sharpen">Verscherpen</string>
+    <string name="settings_manageSize">Standaardgrootte beheren</string>
+    <string name="settings_manageTemplate">Sjabloon beheren</string>
+
+    <string name="settings_qualitySave">Kwaliteit</string>
+    <string name="settings_qualityLow">Laag (70)</string>
+    <string name="settings_qualityMedium">Gemiddeld (80)</string>
+    <string name="settings_qualityHigh">Hoog (90)</string>
+    <string name="settings_qualityBest">Beste (100)</string>
+
+    <string name="settings_none">Geen</string>
+    <string name="settings_low">Laag</string>
+    <string name="settings_medium">Gemiddeld</string>
+    <string name="settings_high">Hoog</string>
+
+    <string name="settings_hideXnFolder">Uitvoermap is verborgen</string>
+    <string name="settings_hideXnFolderSummary">Verberg bestanden uit de uitvoermap</string>
+
+    <string name="settings_show_text">Tekst</string>
+    <string name="settings_show_watermark">Watermerk</string>
+
+    <string name="setttings_reset_template">sjabloon resetten</string>
+    <string name="setttings_reset_template_summary">Sjabloonlijst resetten naar standaard</string>
+
+    <string name="enterCustomSize">Aangpaste grootte invoeren</string>
+    <string name="resize_dialog_info">U kunt slecht één afmeting invoeren</string>
+
+    <string name="settings_portraitColumnsCount">Kolomtelling (portret)</string>
+    <string name="settings_landscapeColumnsCount">Kolomtelling (landschap)</string>
+
+    <string name="title_settings">Instellingen</string>
+    <string name="title_template">Sjabloon</string>
+    <string name="title_size">Voorinstellingen voor grootte</string>
+
+    <string name="infos_filename">Bestandsnaam:</string>
+    <string name="infos_path">Pad:</string>
+    <string name="infos_date">Datum:</string>
+    <string name="infos_size">Grootte:</string>
+    <string name="infos_dimensions">Afmetingen:</string>
+
+    <string name="choose_size">Kies de grootte</string>
+
+    <string name="pro_title">Ga naar de PRO-versie</string>
+    <string name="pro_item1">• Geen advertenties</string>
+    <string name="pro_item2">• Geen limiet in Batch-conversie</string>
+    <string name="pro_item3">• Geen limiet in Sjabloon</string>
+    <string name="pro_item4">• Ons te helpen door te gaan met verbeteren</string>
+    <string name="pro_purchase">Kopen</string>
+
+</resources>

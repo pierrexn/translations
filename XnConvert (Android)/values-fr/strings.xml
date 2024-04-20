@@ -1,0 +1,163 @@
+<resources>
+    <!-- Sort menu -->
+    <string name="menu_sort_path">Dossier</string>
+    <string name="menu_sort_name">Nom</string>
+    <string name="menu_sort_size">Taille</string>
+    <string name="menu_sort_date">Date</string>
+    <string name="menu_sort_type">Type</string>
+    <string name="menu_sort_ascending">Ascendant</string>
+    <string name="menu_sort_descending">Descendant</string>
+
+    <string name="menu_infos">Infos</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_delete">Effacer</string>
+    <string name="menu_settings">Paramêtres</string>
+    <string name="menu_show_name">Voir info</string>
+
+    <string name="menu_filter">Filtrer</string>
+    <string name="menu_group">Grouper par</string>
+
+    <string name="menu_custom_size">Taille Personnalisé</string>
+    <string name="menu_predefined_size">Tailles Personnalisées</string>
+    <string name="menu_choose_template">Choisissez une taille ou un modèle</string>
+    <string name="menu_choose_size">Choisissez une taille</string>
+
+    <string name="menu_create_template">Créer un modèle</string>
+    <string name="menu_report">Rapporter un Bug</string>
+    <string name="menu_restore">Restorer</string>
+
+    <string name="menu_clear">Défaut</string>
+    <string name="menu_append">Ajouter</string>
+    <string name="menu_select_all">Tout sélectionner</string>
+
+    <string name="group_none">Ne pas grouper</string>
+    <string name="group_path">Chemin</string>
+    <string name="group_date">Date</string>
+    <string name="group_type">Type</string>
+    <string name="group_extension">Extension</string>
+
+    <string name="today">Aujourdh\'ui</string>
+    <string name="yesterday">Hier</string>
+
+    <string name="mail_message">Photos converties avec XnConvert App</string>
+    <string name="template_message">The picture is a sample, save your template and apply it to your files. </string>
+    <string name="template_title">Création de modèle</string>
+
+    <string name="image_converting">Conversion des images...</string>
+    <string name="result_files">Fichiers résultats</string>
+
+    <!-- Drawer menu -->
+    <string name="drawer_allphotos">Toutes les Photos</string>
+    <string name="drawer_photos">Photos</string>
+    <string name="drawer_downloads">Téléchargements</string>
+    <string name="drawer_storage">Stockage</string>
+    <string name="drawer_output">Dossier destination</string>
+
+    <string name="pro_version">Obtenir la version PRO</string>
+    <string name="message_saved">Image sauvée: </string>
+
+    <string name="pane_convert">Convertir</string>
+    <string name="pane_next">Suivant</string>
+    <string name="resize">Redimensionner</string>
+    <string name="text">Texte</string>
+    <string name="watermark">Filigrane</string>
+    <string name="output">Sortie</string>
+    <string name="size_default">Défaut</string>
+    <string name="rotate">Rotation</string>
+    <string name="adjust">Ajuster</string>
+    <string name="canvas">Canevas</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Annuler</string>
+
+    <string name="resize_method">Méthode</string>
+    <string name="quality">Qualité</string>
+    <string name="keep_metadata">Conserver les Métadonnées</string>
+    <string name="fitin">Fit in</string>
+    <string name="fitover">Fit over</string>
+    <string name="stretch">Stretch</string>
+    <string name="brightness">Luminosité</string>
+    <string name="contrast">Contraste</string>
+    <string name="saturation">Saturation</string>
+
+    <!-- Preferences -->
+    <string name="settings_global">Global</string>
+    <string name="settings">Paramêtres</string>
+    <string name="settings_output">Destination</string>
+    <string name="settings_misc">Divers</string>
+
+    <string name="settings_keepMetadata">Conserver les Métadonnées</string>
+    <string name="settings_keepMetadataSummary">Les champs EXIF origines seront sauvés</string>
+    <string name="settings_keepFileDate">Conserver la Date</string>
+    <string name="settings_keepFileDateSummary">Le fichier de sortie aura la date du fichier original</string>
+
+    <string name="settings_manageSize">Gestion des tailles</string>
+    <string name="settings_manageTemplate">Gestion des modèles</string>
+
+    <string name="settings_qualitySave">Qualité</string>
+    <string name="settings_qualityLow">Basse (70)</string>
+    <string name="settings_qualityMedium">Moyenne (80)</string>
+    <string name="settings_qualityHigh">Haute (90)</string>
+    <string name="settings_qualityBest">Meilleure (100)</string>
+
+    <string name="settings_sharpen">Accentuation</string>
+    <string name="settings_none">Aucun</string>
+    <string name="settings_low">Bas</string>
+    <string name="settings_medium">Moyen</string>
+    <string name="settings_high">Haut</string>
+
+    <string name="settings_hideXnFolder">Destination caché</string>
+    <string name="settings_hideXnFolderSummary">Cache les fichiers du dossier destination</string>
+
+    <string name="settings_show_text">Texte</string>
+    <string name="settings_show_watermark">Filigrane</string>
+
+    <string name="setttings_reset_template">Réinitialiser les modèles</string>
+    <string name="setttings_reset_template_summary">Réinitialiser la liste des modèles par défaut</string>
+
+    <string name="enterCustomSize">Enter a custom size</string>
+    <string name="resize_dialog_info">You can specify only one dimension</string>
+
+    <string name="width">Largeur</string>
+    <string name="height">Hauteur</string>
+    <string name="percent">Pourcentage</string>
+
+    <string name="settings_portraitColumnsCount">Nombre de colonnes (Portrait)</string>
+    <string name="settings_landscapeColumnsCount">Nombre de colonnes (Paysage)</string>
+
+    <string name="title_settings">Paramêtres</string>
+    <string name="title_template">Modèle</string>
+    <string name="title_size">Tailles prédéfinies</string>
+
+    <!-- Infos -->
+    <string name="infos_filename">Nom:</string>
+    <string name="infos_path">Chemin:</string>
+    <string name="infos_date">Date:</string>
+    <string name="infos_size">Taille:</string>
+    <string name="infos_dimensions">Dimensions:</string>
+
+    <!-- Common -->
+    <string name="an_error_occurred">An error occurred: %s</string>
+    <string name="no_app_found">No valid app found</string>
+    <string name="share_via">Share via</string>
+    <string name="maximum_share_reached">You cannot share this much content at once</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+
+    <string name="choose_size">Choisissez une taille</string>
+
+    <!-- Rate -->
+    <string name="rate_question">Aimez-vous XnConvert?</string>
+    <string name="rate_using">Si vous aimez utiliser APPNAME merci de prendre un moment pour le noter. Merci de votre support!</string> <!-- Don't translate APPNAME -->
+    <string name="rate_rate">Noter</string>
+    <string name="rate_remind">Me le rappeler plus tard</string>
+    <string name="rate_no">Non, merci</string>
+
+    <!-- INAPP -->
+    <string name="pro_title">Obtenez la version PRO</string>
+    <string name="pro_item1">&#8226; Pas de publicités</string>
+    <string name="pro_item2">&#8226; Pas de limite dans la conversion par lot</string>
+    <string name="pro_item3">&#8226; Pas de limite dans les modèles</string>
+    <string name="pro_item4">&#8226; Nous aider à continuer à l\'améliorer</string>
+    <string name="pro_purchase">Acheter</string>
+
+</resources>

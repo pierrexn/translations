@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+
+    <string name="menu_sort_path">Ruta</string>
+    <string name="menu_sort_name">Nombre</string>
+    <string name="menu_sort_size">Tamaño</string>
+    <string name="menu_sort_date">Fecha</string>
+    <string name="menu_sort_type">Tipo</string>
+    <string name="menu_sort_ascending">Ascendente</string>
+    <string name="menu_sort_descending">Descendente</string>
+
+    <string name="menu_infos">Información</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_delete">Eliminar</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_show_name">Mostrar información</string>
+
+    <string name="menu_filter">Filtrar</string>
+    <string name="menu_group">Agrupar por</string>
+
+    <string name="menu_custom_size">Tamaño personalizado</string>
+    <string name="menu_predefined_size">Tamaños predefinidos</string>
+    <string name="menu_choose_template">Elige un tamaño o plantilla</string>
+    <string name="menu_choose_size">Elegir tamaño</string>
+
+    <string name="menu_create_template">Crear plantilla</string>
+    <string name="menu_report">Reportar un error</string>
+    <string name="menu_restore">Restaurar</string>
+
+    <string name="menu_clear">Borrar</string>
+    <string name="menu_append">Adjuntar</string>
+    <string name="menu_select_all">Seleccionar todo</string>
+
+    <string name="group_none">No agrupar</string>
+    <string name="group_path">Nombre de ruta</string>
+    <string name="group_date">Fecha</string>
+    <string name="group_type">Tipo</string>
+    <string name="group_extension">Extensión</string>
+
+    <string name="today">Hoy</string>
+    <string name="yesterday">Ayer</string>
+
+    <string name="mail_message">Fotos convertidas con la aplicación XnConvert</string>
+    <string name="template_message">La imagen es una muestra, guarda tu plantilla y aplícala a tus archivos.</string>
+    <string name="template_title">Crear plantilla</string>
+
+    <string name="drawer_allphotos">Todas las fotos</string>
+    <string name="drawer_photos">Fotos</string>
+    <string name="drawer_downloads">Descargas</string>
+    <string name="drawer_storage">Almacenamiento</string>
+    <string name="drawer_output">Carpeta de salida</string>
+
+    <string name="pro_version">Obtener la versión PRO</string>
+    <string name="message_saved">Imagen guardada:</string>
+
+    <string name="pane_convert">Convertir</string>
+    <string name="pane_next">Siguiente</string>
+    <string name="resize">Redimensionar</string>
+    <string name="text">Texto</string>
+    <string name="watermark">Marca de agua</string>
+    <string name="output">Salida</string>
+    <string name="size_default">Predeterminado</string>
+
+    <string name="dialog_ok">Aceptar</string>
+    <string name="dialog_cancel">Cancelar</string>
+
+    <string name="resize_method">Método</string>
+    <string name="quality">Calidad</string>
+    <string name="keep_metadata">Guardar metadatos</string>
+    <string name="fitin">Recortar</string>
+    <string name="fitover">Ampliar</string>
+    <string name="stretch">Estirar</string>
+
+    <string name="settings_global">Global</string>
+    <string name="settings">Ajustes</string>
+    <string name="settings_output">Salida</string>
+    <string name="settings_misc">Misc.</string>
+
+    <string name="settings_keepMetadata">Guardar metadatos</string>
+    <string name="settings_keepMetadataSummary">Se guardarán las etiquetas Exif originales</string>
+    <string name="settings_keepFileDate">Guardar la fecha del archivo</string>
+    <string name="settings_keepFileDateSummary">El archivo de salida tendrá la fecha del archivo original</string>
+
+    <string name="settings_sharpen">Mejorar</string>
+    <string name="settings_manageSize">Gestionar tamaño predeterminado</string>
+    <string name="settings_manageTemplate">Gestionar plantilla</string>
+
+    <string name="settings_qualitySave">Calidad</string>
+    <string name="settings_qualityLow">Baja (70)</string>
+    <string name="settings_qualityMedium">Media (80)</string>
+    <string name="settings_qualityHigh">Alta (90)</string>
+    <string name="settings_qualityBest">Mejor (100)</string>
+
+    <string name="settings_none">Ninguno</string>
+    <string name="settings_low">Bajo</string>
+    <string name="settings_medium">Medio</string>
+    <string name="settings_high">Alto</string>
+
+    <string name="settings_hideXnFolder">Carpeta de salida oculta</string>
+    <string name="settings_hideXnFolderSummary">Ocultar archivos de la carpeta de salida</string>
+
+    <string name="settings_show_text">Texto</string>
+    <string name="settings_show_watermark">Marca de agua</string>
+
+    <string name="setttings_reset_template">Restablecer plantilla</string>
+    <string name="setttings_reset_template_summary">Restablecer la lista de plantillas a la predeterminada</string>
+
+    <string name="enterCustomSize">Ingresa un tamaño personalizado</string>
+    <string name="resize_dialog_info">Puedes especificar solo una dimensión</string>
+
+    <string name="settings_portraitColumnsCount">Conteo de columnas (verticales)</string>
+    <string name="settings_landscapeColumnsCount">Conteo de columnas (horizontales)</string>
+
+    <string name="title_settings">Ajustes</string>
+    <string name="title_template">Plantilla</string>
+    <string name="title_size">Preajustes de tamaño</string>
+
+    <string name="infos_filename">Nombre del archivo:</string>
+    <string name="infos_path">Ruta:</string>
+    <string name="infos_date">Fecha:</string>
+    <string name="infos_size">Tamaño:</string>
+    <string name="infos_dimensions">Dimensiones:</string>
+
+    <string name="choose_size">Elegir tamaño</string>
+
+    <string name="pro_title">Adquiere la versión PRO</string>
+    <string name="pro_item1">• Sin anuncios</string>
+    <string name="pro_item2">• Sin límites para convertir por lotes</string>
+    <string name="pro_item3">• Sin límites de plantillas</string>
+    <string name="pro_item4">• Para ayudarnos a seguir mejorando</string>
+    <string name="pro_purchase">Comprar</string>
+
+</resources>

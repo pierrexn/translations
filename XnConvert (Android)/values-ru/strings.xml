@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+
+    <string name="menu_sort_path">Путь</string>
+    <string name="menu_sort_name">Имя</string>
+    <string name="menu_sort_size">Размер</string>
+    <string name="menu_sort_date">Дата</string>
+    <string name="menu_sort_type">Тип</string>
+    <string name="menu_sort_ascending">По возрастанию</string>
+    <string name="menu_sort_descending">По убыванию</string>
+
+    <string name="menu_infos">Инфо</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_show_name">Показать инфо</string>
+
+    <string name="menu_filter">Фильтр</string>
+    <string name="menu_group">Группировать по:</string>
+
+    <string name="menu_custom_size">Обычный размер</string>
+    <string name="menu_predefined_size">Предустановленный размер</string>
+    <string name="menu_choose_template">Выберите размер или шаблон</string>
+    <string name="menu_choose_size">Выберите размер</string>
+
+    <string name="menu_create_template">Создать шаблон</string>
+    <string name="menu_report">Сообщить об ошибке</string>
+    <string name="menu_restore">Восстановить</string>
+
+    <string name="menu_clear">Очистить</string>
+    <string name="menu_append">Дополнить</string>
+    <string name="menu_select_all">Выбрать все</string>
+
+    <string name="group_none">Не группировать</string>
+    <string name="group_path">Имя пути</string>
+    <string name="group_date">Дата</string>
+    <string name="group_type">Тип</string>
+    <string name="group_extension">Расширение</string>
+
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+
+    <string name="mail_message">Фотографии, конвертированные с помощью приложения XnConvert</string>
+    <string name="template_message">Это изображение — образец. Сохраните шаблон и применяйте его к своим файлам.</string>
+    <string name="template_title">Создание шаблона</string>
+
+    <string name="drawer_allphotos">Все фото</string>
+    <string name="drawer_photos">Фото</string>
+    <string name="drawer_downloads">Загрузки</string>
+    <string name="drawer_storage">Хранилище</string>
+    <string name="drawer_output">Папка для готовых</string>
+
+    <string name="pro_version">Получить версию PRO</string>
+    <string name="message_saved">Изображение сохранено:</string>
+
+    <string name="pane_convert">Конвертировать</string>
+    <string name="pane_next">Далее</string>
+    <string name="resize">Изменить размер</string>
+    <string name="text">Текст</string>
+    <string name="watermark">Водяной знак</string>
+    <string name="output">Готовые</string>
+    <string name="size_default">По умолчанию</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Отмена</string>
+
+    <string name="resize_method">Метод</string>
+    <string name="quality">Качество</string>
+    <string name="keep_metadata">Сохранить метаданные</string>
+    <string name="fitin">По ширине</string>
+    <string name="fitover">По высоте</string>
+    <string name="stretch">Растянуть</string>
+
+    <string name="settings_global">Общие</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_output">Готовые</string>
+    <string name="settings_misc">Разное</string>
+
+    <string name="settings_keepMetadata">Сохранить метаданные</string>
+    <string name="settings_keepMetadataSummary">Оригинальные теги Exif будут сохранены</string>
+    <string name="settings_keepFileDate">Сохранить дату создания файла</string>
+    <string name="settings_keepFileDateSummary">Готовый файл будет иметь дату оригинального файла</string>
+
+    <string name="settings_sharpen">Увеличить резкость</string>
+    <string name="settings_manageSize">Управлять размером по умолчанию</string>
+    <string name="settings_manageTemplate">Управлять шаблоном</string>
+
+    <string name="settings_qualitySave">Качество</string>
+    <string name="settings_qualityLow">Низкое (70)</string>
+    <string name="settings_qualityMedium">Среднее (80)</string>
+    <string name="settings_qualityHigh">Высокое (90)</string>
+    <string name="settings_qualityBest">Лучшее (100)</string>
+
+    <string name="settings_none">Нет</string>
+    <string name="settings_low">Низкое</string>
+    <string name="settings_medium">Среднее</string>
+    <string name="settings_high">Высокое</string>
+
+    <string name="settings_hideXnFolder">Целевая папка скрыта</string>
+    <string name="settings_hideXnFolderSummary">Скрыть файлы из целевой папки</string>
+
+    <string name="settings_show_text">Текст</string>
+    <string name="settings_show_watermark">Водяной знак</string>
+
+    <string name="setttings_reset_template">Сбросить шаблон</string>
+    <string name="setttings_reset_template_summary">Сбросить список шаблонов по умолчанию</string>
+
+    <string name="enterCustomSize">Введите стандартный размер</string>
+    <string name="resize_dialog_info">Вы можете указать только один размер</string>
+
+    <string name="settings_portraitColumnsCount">Количество столбцов (Портрет)</string>
+    <string name="settings_landscapeColumnsCount">Количество столбцов (Пейзаж)</string>
+
+    <string name="title_settings">Настройки</string>
+    <string name="title_template">Шаблон</string>
+    <string name="title_size">Предустановленные размеры</string>
+
+    <string name="infos_filename">Имя файла:</string>
+    <string name="infos_path">Путь:</string>
+    <string name="infos_date">Дата:</string>
+    <string name="infos_size">Размер файла:</string>
+    <string name="infos_dimensions">Высота и ширина:</string>
+
+    <string name="choose_size">Выбрать размер</string>
+
+    <!-- Rate -->
+    <string name="rate_question">Ты любишь XnConvert?</string>
+    <string name="rate_using">Если вам понравилась APPNAME, пожалуйста, уделите минуту, чтобы оставить о ней отзыв. Спасибо за вашу поддержку!</string> <!-- Don't translate APPNAME -->
+    <string name="rate_rate">Оставить отзыв</string>
+    <string name="rate_remind">Напомнить мне позже</string>
+    <string name="rate_no">Нет, спасибо</string>
+
+    <string name="pro_title">Перейти к версии PRO</string>
+    <string name="pro_item1">• Без рекламы</string>
+    <string name="pro_item2">• Нет ограничений при пакетной конвертации</string>
+    <string name="pro_item3">• Нет ограничений в количестве шаблонов</string>
+    <string name="pro_item4">• Чтобы помочь нам продолжить улучшение</string>
+    <string name="pro_purchase">Покупка</string>
+
+</resources>
