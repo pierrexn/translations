@@ -10578,7 +10578,7 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
     <message>
         <location filename="DlgRename.ui" line="76"/>
         <source>Step</source>
-        <translation>  스텝</translation>
+        <translation>스텝</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="92"/>
@@ -11464,7 +11464,7 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">미리보기</translation>
+        <translation>미리보기</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
@@ -12183,32 +12183,32 @@ Preview</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>정렬</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">선택</translation>
+        <translation>선택</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>첫번째 항목을 자동으로 선택하기</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>새 파일 자동 선택</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">보기 형식</translation>
+        <translation>보기 형식</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">파일 크기를 바이트(Bytes)로 표시하기</translation>
+        <translation>파일 크기를 바이트(Bytes)로 표시하기</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13097,7 +13097,10 @@ Preview</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 는 다음 항목으로 설정되어 있습니다:
+%2
+
+재 지정 하시겠습니까?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -14402,7 +14405,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">다음/이전 파일에서 &apos;자동 이미지 크기&apos; 설정 초기화하기</translation>
+        <translation>다음/이전 파일에서 &apos;자동 이미지 크기&apos; 설정 초기화하기</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -16396,7 +16399,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>XYB 색 공간으로 변환</translation>
     </message>
 </context>
 <context>
@@ -20296,7 +20299,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with test</source>
         <oldsource>Open with</oldsource>
-        <translation type="unfinished">다른 방법으로 열기</translation>
+        <translation>다른 방법으로 열기</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -22013,7 +22016,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">크기 변경...</translation>
+        <translation>크기 변경...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
