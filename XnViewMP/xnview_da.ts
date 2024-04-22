@@ -368,7 +368,8 @@
 </source>
         <oldsource>Do you want to save changes to &quot;%1&quot;?
 </oldsource>
-        <translation>Ønsker du at gemme ændringer i &apos;%1&apos;?
+        <translation>Ønsker du at gemme ændringer i 
+&apos;%1&apos;?
 </translation>
     </message>
     <message>
@@ -662,7 +663,9 @@ Vil du slette favoritten &quot;%1&quot;?</translation>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation>Klik for at filtrere - brug Skift og CTRL til flere valg. højreklik på forskellige pop-op menuer med muligheder. Træk og slip over det ønskede knudepunktet for at tildele.</translation>
+        <translation>Klik for at filtrere - brug Skift og CTRL til flere valg.
+Højreklik på forskellige pop-op menuer med muligheder.
+Træk og slip over det ønskede knudepunktet for at tildele.</translation>
     </message>
     <message>
         <source>Any</source>
@@ -4009,7 +4012,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.cpp" line="2836"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation>Indstillingen &quot;Anvend flere CPU-kerner&quot; blev disabled. Denne indstilling kan ikke kombineres med &quot;Spørge-situationen&quot;  eller mangesidede PDF-filer.</translation>
+        <translation>Indstillingen &quot;Anvend flere CPU-kerner&quot; blev disabled. Denne indstilling kan ikke kombineres med &quot;Spørge-situationen&quot; eller mangesidede PDF-filer.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2838"/>
@@ -4713,7 +4716,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="417"/>
         <source>Remove file from filelist</source>
         <translatorcomment>Fjern fil fra filliste</translatorcomment>
-        <translation></translation>
+        <translation>Fjern fil from filliste</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="488"/>
@@ -5726,7 +5729,8 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertIptc.ui" line="124"/>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>Behold og tilføj ny værdi (søgeord og supplerende kategorier)</translation>
+        <translation>Behold og tilføj ny værdi
+ (Søgeord og supplerende kategorier)</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="135"/>
@@ -5859,7 +5863,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertMask.ui" line="19"/>
         <source>Mask</source>
-        <translation>Mask</translation>
+        <translation>Maske</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="38"/>
@@ -7534,7 +7538,8 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgEditXMP.cpp" line="602"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>IPTC data er ændret. Vil du gemme ændringerne?</translation>
+        <translation>IPTC data er ændret. 
+Vil du gemme ændringerne?</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="976"/>
@@ -8131,7 +8136,8 @@ Vær sikker på, at filerne ikke er read-only!</translation>
         <source>Select the file-types which you would like to associate with XnViewMP
 (E.g. when double-clicking on a file to open under Windows Explorer)</source>
         <translatorcomment>(F.eks. ved at dobbeltklikke på en fil for at åbne i Windows Stifinder)</translatorcomment>
-        <translation>Vælg de fil-typer, som du gerne vil tilknytte til XnViewMP</translation>
+        <translation>Vælg de fil-typer, som du gerne vil tilknytte til XnViewMP
+(f.eks dobbeltklik for at åbne en fil i Windows Stifinder)</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.ui" line="41"/>
@@ -9152,7 +9158,8 @@ Undermapper vil blive oprettet. </translation>
         <location filename="DlgIptc.cpp" line="900"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>IPTC data er ændret. Vil du gemme ændringerne?</translation>
+        <translation>IPTC data er ændret.
+Vil du gemme ændringerne?</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="920"/>
@@ -11549,7 +11556,7 @@ Tak for dit køb af %1.</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">Forhåndsvisning</translation>
+        <translation>Forhåndsvisning</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
@@ -11767,7 +11774,7 @@ Tak for dit køb af %1.</translation>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
-        <translation>Katalog -  Absolutte/relative stier</translation>
+        <translation>Katalog - Absolutte/relative stier</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
@@ -11797,7 +11804,9 @@ Vil du ændre basis-mappen&apos;?</translation>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation>Denne handling vil slette alle skygge-filer fra kataloget. Vil du fortsætte?</translation>
+        <translation>Denne handling vil slette alle skygge-filer fra kataloget.
+
+ Vil du fortsætte?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="546"/>
@@ -11827,7 +11836,10 @@ Color labels, Keywords may be deleted.
 
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
-        <translation>Denne handling kan slette nogle indgange fra DB som har bedømmelser farver/eller søgeord tildelt. Ønsker du at kontrollere, disse først?</translation>
+        <translation>Nogle indgange med tilknyttede bedømmelser,
+farver, søgeord mv. kan blive slettet.
+
+Ønsker du at kontrollere de berørte elemnter først?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="883"/>
@@ -12096,7 +12108,8 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Show as 
 Thumbnail</source>
-        <translation>Vis som miniature</translation>
+        <translation>Vis som
+miniature</translation>
     </message>
     <message>
         <source>Show in 
@@ -12261,32 +12274,32 @@ Preview</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortering</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">Valg</translation>
+        <translation>Valg</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg automatisk første element ved tilgang til mappe</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg automatisk nye filer</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">Se som</translation>
+        <translation>Se som</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Vis filstørrelse i bytes</translation>
+        <translation>Vis filstørrelse i bytes</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13182,7 +13195,10 @@ Preview</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 er allerede tilknyttet:
+%2
+
+Vil du tilknytte igen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -14000,7 +14016,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
-        <translation>Genstart venligst applikationen</translation>
+        <translation>Genstart venligst applikationen.</translation>
     </message>
 </context>
 <context>
@@ -14526,7 +14542,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">Reset &apos;Auto Image size&apos; indstillingen med næste/foregående fil</translation>
+        <translation>Reset &apos;Auto-zoom&apos; indstillingen på næste/foregående fil</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -16503,7 +16519,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertér til XYB farvespektrum</translation>
     </message>
 </context>
 <context>
@@ -19219,7 +19235,9 @@ Vil du slette favoritten &quot;%1&quot;?</translation>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>JPEG tabsfrie operationer vil ændre oprindelige fil(er), og kan fjerne nogle ubrugte pixels (bredde og højde skal være multipla af 8 pixler)! Vil du fortsætte?</translation>
+        <translation>JPEG tabsfrie operationer vil ændre oprindelige fil(er), og kan fjerne nogle ubrugte pixels (bredde og højde skal være multipla af 8 pixler)!
+
+ Vil du fortsætte?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="318"/>
@@ -20380,7 +20398,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with test</source>
         <oldsource>Open with</oldsource>
-        <translation type="unfinished">Åbn med</translation>
+        <translation>Åbn med test</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -20945,7 +20963,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Video thumbnails gallery...</source>
-        <translation>Videominiaturer-galleri</translation>
+        <translation>Videominiature-galleri...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="634"/>
@@ -21056,7 +21074,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="667"/>
         <source>Path focus...</source>
-        <translation>Sti i fokus</translation>
+        <translation>Sti i fokus...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
@@ -22242,7 +22260,7 @@ Vil du fortsætte?</translation>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Ændre størrelse...</translation>
+        <translation>Ændr størrelse...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
@@ -22899,8 +22917,7 @@ Vil du fortsætte?</translation>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <oldsource>Click to change between width of thumbnail
  and number of thumbnails per row</oldsource>
-        <translation>Klik for at ændre miniaturebredde
- og miniatureantal pr. kolonne</translation>
+        <translation>Klik for at ændre miniaturebredde [pixels] og miniatureantal pr. kolonne</translation>
     </message>
 </context>
 <context>
@@ -23575,55 +23592,64 @@ Højreklik for pop-op-menu med handlinger.</translation>
         <location filename="qftp.cpp" line="2110"/>
         <source>Connecting to host failed:
 %1</source>
-        <translation>Forbindelse til værten mislykkedes: %1</translation>
+        <translation>Forbindelse til værten mislykkedes:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2114"/>
         <source>Login failed:
 %1</source>
-        <translation>login mislykkedes: %1</translation>
+        <translation>Login mislykkedes:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2118"/>
         <source>Listing directory failed:
 %1</source>
-        <translation>Registrerings mappen mislykkedes: %1</translation>
+        <translation>Listning af mappen mislykkedes:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2122"/>
         <source>Changing directory failed:
 %1</source>
-        <translation>Ændring af mappen mislykkedes: %1</translation>
+        <translation>Ændring af mappen mislykkedes:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2126"/>
         <source>Downloading file failed:
 %1</source>
-        <translation>Hentning af fil mislykkedes: %1</translation>
+        <translation>Hent af fil mislykkedes:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2130"/>
         <source>Uploading file failed:
 %1</source>
-        <translation>Sending af fil mislykkedes: %1</translation>
+        <translation>Upload af fil mislykkedes:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2134"/>
         <source>Removing file failed:
 %1</source>
-        <translation>Fjernelse af fil mislykkedes: %1</translation>
+        <translation>Fjernelse af fil mislykkedes:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2138"/>
         <source>Creating directory failed:
 %1</source>
-        <translation>Oprettelse af mappe mislykkedes: %1</translation>
+        <translation>Oprettelse af katalog mislykkedes:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2142"/>
         <source>Removing directory failed:
 %1</source>
-        <translation>Fjernelse af mappen mislykkedes: %1</translation>
+        <translation>Fjernelse af katalog mislykkedes:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2170"/>
@@ -24593,7 +24619,7 @@ Højreklik for pop-op-menu med handlinger.</translation>
         <location filename="WebError.cpp" line="74"/>
         <source>The access to the remote content was denied (similar to HTTP error 401).</source>
         <translatorcomment>Adgangen til fjernindholdet blev nægtet (svarende til HTTP-fejl 401).</translatorcomment>
-        <translation></translation>
+        <translation>Adgang til remote indhold blev ikke givet (lig med HTTP-fejl 401).</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="77"/>
@@ -24884,7 +24910,8 @@ Vil du beholde miniaturerne?
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
-        <translation>Katalog og Metadata er ikke aktiveret - Bedømmelses-/Tags-/Farve-etiket(ter) vil ikke blive gemt.</translation>
+        <translation>Katalog og Metadata er ikke aktiveret -
+Bedømmelse, tags og farve-etiket(ter) vil ikke blive gemt.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1040"/>
@@ -24905,7 +24932,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <location filename="xnview.cpp" line="1666"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
-        <translation>Gem af mange faner kan mærkbart sløve genåbningen af XnView MP</translation>
+        <translation>Gem af mange faner kan mærkbart sløve genåbningen af applikationen.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1672"/>
