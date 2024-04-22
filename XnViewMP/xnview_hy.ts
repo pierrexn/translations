@@ -5788,7 +5788,7 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Creation Date: </source>
-        <translation>Ստեղծման ամսաթիվ</translation>
+        <translation>Ստեղծման ամսաթիվ </translation>
     </message>
     <message>
         <source>Modification Date: </source>
