@@ -7323,7 +7323,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgEditXMP.ui" line="169"/>
         <source>Creation Date: </source>
-        <translation>创建日期:</translation>
+        <translation>创建日期: </translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="183"/>
