@@ -301,7 +301,8 @@
         <oldsource>Do you want to save changes to &quot;%1&quot;?
 </oldsource>
         <translation>Wilt u de wijzigingen opslaan naar
- &quot;%1&quot;?</translation>
+ &quot;%1&quot;?
+</translation>
     </message>
     <message>
         <source>Save as...</source>
@@ -725,7 +726,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="3850"/>
         <source>The files cannot be renamed, an error occurred.</source>
-        <translation>De bestanden zijn niet  hernoemd , er trad een fout op.</translation>
+        <translation>De bestanden zijn niet hernoemd , er trad een fout op.</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
@@ -2109,7 +2110,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgAcquireInto.cpp" line="74"/>
         <source>Please enter a valid output pathname!</source>
-        <translation>Gelieve een geldig uitvoer pad  in te geven!</translation>
+        <translation>Voer een geldig uitvoer pad in!</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="78"/>
@@ -2482,7 +2483,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="626"/>
         <source>Keep ratio</source>
-        <translation>Verhoudingen  behouden</translation>
+        <translation>Verhoudingen behouden</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="636"/>
@@ -2747,7 +2748,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="1357"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Draai afbeeldingen  overeenkomstid de EXIF orientatie</translation>
+        <translation>Afbeeldingen roteren overeenkomstig de EXIF-oriëntatie</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1371"/>
@@ -2798,16 +2799,16 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgBatchResize.cpp" line="460"/>
         <source>Select Photos: %n file(s)</source>
         <translation>
-            <numerusform>Afbeeldingen selecteren: %n bestand(en)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Afbeeldingen selecteren: %n bestand</numerusform>
+            <numerusform>Afbeeldingen selecteren: %n bestanden</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="496"/>
         <source>%n file(s)</source>
         <translation>
-            <numerusform>%n bestand(en)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n bestand</numerusform>
+            <numerusform>%n bestanden</numerusform>
         </translation>
     </message>
     <message>
@@ -3172,7 +3173,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="172"/>
         <source>Choose a Set</source>
-        <translation>Kies  een verzameling</translation>
+        <translation>Kies een verzameling</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="172"/>
@@ -3352,7 +3353,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgContactSheet.ui" line="114"/>
         <source>inches</source>
-        <translation>inches</translation>
+        <translation>inch</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="119"/>
@@ -3654,7 +3655,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvert.cpp" line="1133"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
-        <translation>&lt;br&gt;XnConvert wordt aangeboden als freeware voor privé (niet-commercieel) of educatief gebruik, inclusief non-profit organisatie. &lt;br&gt;Bedrijven moet licenties kopen om het te kunnen gebruiken.&lt;br&gt; &lt;br&gt;U krijgt het recht om deze software te gebruiken en een onbeperkt aantal kopieën te maken.&lt;br&gt; &lt;br&gt;Deze software wordt geleverd &quot;as-is&quot;.&lt;br&gt;Geen enkele garantie wordt uitgedrukt of geïmpliceerd.&lt;br&gt; De auteur is niet aansprakelijk voor gegevensverlies, schade, winstderving of enig ander verlies tijdens het gebruik of misbruik van deze software.&lt;br&gt; &lt;br&gt;Alle suggesties, feedback en opmerkingen zijn welkom.</translation>
+        <translation>&lt;br&gt;XnConvert wordt aangeboden als freeware voor privé (niet-commercieel) of educatief gebruik, inclusief non-profit organisatie. &lt;br&gt;Bedrijven moet licenties kopen om het te kunnen gebruiken.&lt;br&gt; &lt;br&gt;U krijgt het recht om deze software te gebruiken en een onbeperkt aantal kopieën te maken.&lt;br&gt; &lt;br&gt;Deze software wordt geleverd &quot;as-is&quot;.&lt;br&gt;Geen enkele garantie wordt uitgedrukt of geïmpliceerd.&lt;br&gt; De auteur is niet aansprakelijk voor gegevensverlies, schade, winstderving of enig ander verlies tijdens het gebruik of misbruik van deze software.&lt;br&gt; &lt;br&gt;Alle suggesties, feedback en opmerkingen zijn welkom. </translation>
     </message>
     <message>
         <source>Information</source>
@@ -4432,7 +4433,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertCanvas.ui" line="290"/>
         <source>inches</source>
-        <translation>inches</translation>
+        <translation>inch</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="295"/>
@@ -4866,7 +4867,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.ui" line="1707"/>
         <source>Use color based on file format</source>
-        <translation>Gebruik kleuren op basis van  het bestandsformaat</translation>
+        <translation>Gebruik kleuren op basis van het bestandsformaat</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1812"/>
@@ -6266,7 +6267,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertResize.ui" line="346"/>
         <source>inches</source>
-        <translation>inches</translation>
+        <translation>inch</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="351"/>
@@ -8133,7 +8134,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgFile.ui" line="56"/>
         <source>Clear history entries</source>
-        <translation>Ruim de Geschiedenis  ingaves</translation>
+        <translation>Geschiedenis wissen</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="70"/>
@@ -8515,7 +8516,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
         <source>Unable to go to folder %1</source>
-        <translation>Kan niet naar de de map %1 gaan</translation>
+        <translation>Kan niet naar de map %1 gaan</translation>
     </message>
 </context>
 <context>
@@ -8903,7 +8904,7 @@ Submappen worden aangemaakt. </translation>
     <message>
         <location filename="DlgImport.ui" line="231"/>
         <source>Videos</source>
-        <translation>Videos</translation>
+        <translation>Video&apos;s</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="287"/>
@@ -9086,7 +9087,7 @@ Submappen worden aangemaakt. </translation>
     <message>
         <location filename="DlgIptc.cpp" line="319"/>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
-        <translation>Als u XMP-metagegevens wilt bewerken, gebruik dan het nieuwe dialoogvenster &apos;XMP bewerken&apos;.</translation>
+        <translation>Als je XMP-metagegevens wilt bewerken, gebruik dan het nieuwe dialoogvenster &apos;XMP bewerken&apos;. </translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="363"/>
@@ -9645,7 +9646,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgPalette.ui" line="78"/>
         <source>Set</source>
-        <translation type="unfinished">Verzameling</translation>
+        <translation>Verzameling</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="85"/>
@@ -11485,7 +11486,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">Voorbeeld</translation>
+        <translation>Voorbeeld</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
@@ -12201,32 +12202,32 @@ Voorvertoning</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortering</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">Selectie</translation>
+        <translation>Selectie</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Het eerste item automatisch selecteren bij het openen van een map</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe bestanden automatisch selecteren</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">Weergeven als</translation>
+        <translation>Weergeven als</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Bestandsgootte in bytes weergeven</translation>
+        <translation>Bestandsgrootte in bytes weergeven</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13118,7 +13119,10 @@ Voorvertoning</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 is al toegewezen aan:
+%2
+
+Wil je opnieuw toewijzen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -14494,7 +14498,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">Automatisch schalen deactiveren bij volgend/vorig bestand</translation>
+        <translation>Automatisch schalen deactiveren bij volgend/vorig bestand</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -16425,7 +16429,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Converteren naar XYB-kleurenruimte</translation>
     </message>
 </context>
 <context>
@@ -20406,7 +20410,7 @@ Wilt u doorgaan?</translation>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with test</source>
         <oldsource>Open with</oldsource>
-        <translation type="unfinished">Openen met</translation>
+        <translation>Openen met test</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -22262,7 +22266,7 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Grootte aanpassen...</translation>
+        <translation>Grootte aanpassen...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
