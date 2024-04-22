@@ -7397,7 +7397,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgEditXMP.ui" line="169"/>
         <source>Creation Date: </source>
-        <translation>作成日付:</translation>
+        <translation>作成日付: </translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="183"/>
@@ -8124,7 +8124,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="491"/>
         <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1.1x1 (最高品質)</translation>
+        <translation>1x1,1x1,1x1 (最高品質)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="605"/>
