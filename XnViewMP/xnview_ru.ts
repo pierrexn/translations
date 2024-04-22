@@ -668,12 +668,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="1857"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
-        <translation>Фильтр по категориям</translation>
+        <translation>Фильтр Каталога</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1872"/>
         <source>Category Sets</source>
-        <translation>Набор категорий</translation>
+        <translation>Наборы категорий</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2084"/>
@@ -918,7 +918,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategorySets.cpp" line="48"/>
         <source>&lt;Unsaved Layout&gt;</source>
-        <translation>&lt;Не сохранённый макет&gt;</translation>
+        <translation>&lt;Несохранённый макет&gt;</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="178"/>
@@ -1528,7 +1528,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2697"/>
         <source>Swap color</source>
-        <translation>Поменять</translation>
+        <translation>Поменять местами цвета</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2939"/>
@@ -2118,7 +2118,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="119"/>
         <source>Settings...</source>
-        <translation> Настройки... </translation>
+        <translation>Настройки...</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="141"/>
@@ -2457,7 +2457,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="392"/>
         <source>Mpixels</source>
-        <translation>Мегапикселы</translation>
+        <translation>Мегапиксели</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="397"/>
@@ -2665,7 +2665,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1027"/>
         <source>Settings...</source>
-        <translation> Настройки... </translation>
+        <translation>Настройки...</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1039"/>
@@ -3005,7 +3005,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="1526"/>
         <source>&amp;Rename</source>
-        <translation> &amp;Переименовать </translation>
+        <translation>&amp;Переименовать</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1527"/>
@@ -3112,7 +3112,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
-        <translation> Настройки... </translation>
+        <translation>Настройки...</translation>
     </message>
     <message>
         <source>Open in draw module</source>
@@ -3554,7 +3554,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgContactSheet.ui" line="690"/>
         <source>Settings...</source>
-        <translation> Настройки... </translation>
+        <translation>Настройки...</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="701"/>
@@ -3569,13 +3569,13 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgContactSheet.ui" line="714"/>
         <source>Open Browser</source>
-        <translation>Открывать Обозреватель</translation>
+        <translation>Открыть Обозреватель</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="719"/>
         <source>Open File Explorer</source>
         <oldsource>Open System Explorer</oldsource>
-        <translation>Открыть файлы в проводнике</translation>
+        <translation>Открыть проводник</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -4056,7 +4056,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="2617"/>
         <source>&amp;Rename</source>
-        <translation> &amp;Переименовать </translation>
+        <translation>&amp;Переименовать</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2618"/>
@@ -4418,7 +4418,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="35"/>
         <source>Presets</source>
-        <translation>Предустановки:</translation>
+        <translation>Предустановки</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="43"/>
@@ -4700,7 +4700,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert-old.ui" line="1322"/>
         <location filename="DlgConvert-old.ui" line="1473"/>
         <source>Settings...</source>
-        <translation>Параметры...</translation>
+        <translation>Настройки...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="488"/>
@@ -4831,7 +4831,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="1151"/>
         <location filename="DlgConvert-old.ui" line="1610"/>
         <source>Open file explorer</source>
-        <translation>Открыть файлы в проводнике</translation>
+        <translation>Открыть проводник</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
@@ -5000,17 +5000,17 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert-old.ui" line="65"/>
         <source>Remove filtered</source>
-        <translation> Удалить найденные </translation>
+        <translation>Удалить найденные</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="72"/>
         <source>Remove unfiltered</source>
-        <translation> Удалить отфильтрованные </translation>
+        <translation>Удалить отфильтрованные</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="49"/>
         <source>Hot folders...</source>
-        <translation> Часто используемые папки... </translation>
+        <translation>Папки отслеживания...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="107"/>
@@ -6301,7 +6301,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertResize.ui" line="147"/>
         <source>Mpixels</source>
         <translatorcomment>Точно ли так?</translatorcomment>
-        <translation>Мегапикселы</translation>
+        <translation>Мегапиксели</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="152"/>
@@ -7070,13 +7070,13 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="246"/>
         <source>Open Browser</source>
-        <translation>Открывать Обозреватель</translation>
+        <translation>Открыть Обозреватель</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Explorer</source>
         <oldsource>Open System Explorer</oldsource>
-        <translation>Открыть файлы в проводнике</translation>
+        <translation>Открыть проводник</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -7086,7 +7086,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="222"/>
         <source>Settings...</source>
-        <translation> Настройки... </translation>
+        <translation>Настройки...</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="125"/>
@@ -7375,7 +7375,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgEditXMP.ui" line="119"/>
         <source>Public domain</source>
-        <translation>Открытый источник</translation>
+        <translation>Общественное достояние</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="169"/>
@@ -10890,7 +10890,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRenameFile.ui" line="99"/>
         <source>Insert Date/Time&gt;&gt;</source>
-        <translation> Вставить дату/время&gt;&gt; </translation>
+        <translation>Вставить дату/время&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -10909,7 +10909,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgResize.cpp" line="1116"/>
         <source>&lt;Last Used&gt;</source>
-        <translation>&lt;Последняя использованная&gt;</translation>
+        <translation>&lt;Последние использованные&gt;</translation>
     </message>
     <message>
         <location filename="DlgResize.cpp" line="1117"/>
@@ -10994,7 +10994,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgResize.ui" line="197"/>
         <source>Mpixels</source>
-        <translation>Мегапикселы</translation>
+        <translation>Мегапиксели</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="228"/>
@@ -12813,7 +12813,7 @@ Preview</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="381"/>
         <source>Open browser</source>
-        <translation>Открывать обозреватель</translation>
+        <translation>Открыть Обозреватель</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="390"/>
@@ -15408,7 +15408,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="276"/>
         <source>Settings...</source>
-        <translation>Параметры...</translation>
+        <translation>Настройки...</translation>
     </message>
     <message>
         <location filename="DlgSplit.cpp" line="25"/>
@@ -17717,7 +17717,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2478"/>
         <source>MPixels</source>
-        <translation>Мегапикселы</translation>
+        <translation>Мегапиксели</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2677"/>
@@ -20505,12 +20505,12 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="328"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
-        <translation>Фильтр по категориям</translation>
+        <translation>Фильтр Каталога</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="330"/>
         <source>Category Sets</source>
-        <translation>Набор категорий</translation>
+        <translation>Наборы категорий</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="441"/>
