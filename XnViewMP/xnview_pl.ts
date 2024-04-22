@@ -12244,32 +12244,32 @@ w podglądzie</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortowanie</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">Obszar zaznaczenia</translation>
+        <translation>Obszar zaznaczenia</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie zaznaczaj pierwszy element po wejściu do folderu</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie zaznaczaj nowe pliki</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">Wyświetl jako</translation>
+        <translation>Wyświetl jako</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Wyświetlaj rozmiar plików w bajtach</translation>
+        <translation>Wyświetlaj rozmiar plików w bajtach</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13162,7 +13162,10 @@ w podglądzie</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 jest już przypisany do:
+%2
+
+Czy zmienić przypisanie?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -14417,7 +14420,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">Przywracaj ww. rozmiar obrazu, po przejściu do kolejnego/poprzedniego pliku</translation>
+        <translation>Przywracaj ustawienie powiększania obrazu, po przejściu do kolejnego/poprzedniego pliku</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -16471,7 +16474,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Konwertuj do przestrzeni barw XYB</translation>
     </message>
 </context>
 <context>
@@ -20380,7 +20383,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with test</source>
         <oldsource>Open with</oldsource>
-        <translation type="unfinished">Otwórz w</translation>
+        <translation>Otwórz w</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -22181,7 +22184,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Zmień rozmiar...</translation>
+        <translation>Zmień rozmiar...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
