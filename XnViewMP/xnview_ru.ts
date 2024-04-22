@@ -428,7 +428,7 @@
         <location filename="ViewWindow.cpp" line="2201"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished">Вы действительно хотите отменить изменения и удалить
+        <translation>Вы действительно хотите отменить изменения и удалить 
 &quot;%1&quot;?</translation>
     </message>
     <message>
@@ -550,7 +550,7 @@ Do you want to overwrite it?</source>
         <location filename="ViewWindow.cpp" line="4672"/>
         <location filename="ViewWindow.cpp" line="4681"/>
         <source>File can&apos;t be loaded!</source>
-        <translation>Не удалось загрузить файл.</translation>
+        <translation>Не удалось загрузить файл!</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4672"/>
@@ -11597,7 +11597,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
@@ -12322,7 +12322,7 @@ Preview</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировка</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
@@ -12332,12 +12332,12 @@ Preview</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматический выбор первого элемента при входе в папку</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматический выбор новых файлов</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -13243,7 +13243,10 @@ Preview</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 уже назначен:
+%2
+
+Вы хотите переназначить?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -16565,7 +16568,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать в XYB цветовое пространство</translation>
     </message>
 </context>
 <context>
