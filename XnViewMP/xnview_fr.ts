@@ -16353,7 +16353,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="151"/>
         <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (défault)</translation>
+        <translation>2x2,1x1,1x1 (défaut)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="156"/>
