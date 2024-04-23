@@ -812,7 +812,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
         <source>Search...</source>
-        <translation>Найти...</translation>
+        <translation>Поиск...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4211"/>
@@ -2123,7 +2123,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="141"/>
         <source>Save as multipage (TIFF/PDF)</source>
-        <translation>Сохранить как многостраничный файл  (TIFF/PDF)</translation>
+        <translation>Сохранить как многостраничный файл (TIFF/PDF)</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="166"/>
@@ -2133,7 +2133,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="200"/>
         <source>Scan</source>
-        <translation> Сканировать </translation>
+        <translation>Сканировать</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="220"/>
@@ -2711,7 +2711,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1133"/>
         <source>Keep original date/time attributes</source>
-        <translation>Coхранять исходные атрибуты даты/времени </translation>
+        <translation>Coхранять исходные атрибуты даты/времени</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1140"/>
@@ -2751,7 +2751,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1280"/>
         <source>Check for program updates</source>
-        <translation>Выполнять поиск обновлений </translation>
+        <translation>Выполнять поиск обновлений</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1288"/>
@@ -4127,7 +4127,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="19"/>
         <source>Ratio</source>
-        <translation>Оценка</translation>
+        <translation>Соотношение</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="50"/>
@@ -4772,7 +4772,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="1017"/>
         <location filename="DlgConvert-old.ui" line="1540"/>
         <source>Keep original date/time attributes</source>
-        <translation>Coхранять исходные атрибуты даты/времени </translation>
+        <translation>Coхранять исходные атрибуты даты/времени</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1024"/>
@@ -4819,7 +4819,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="1129"/>
         <location filename="DlgConvert-old.ui" line="1588"/>
         <source>Convert all pages from multipage file</source>
-        <translation>Преобразовывать все страницы в многостраничный файл</translation>
+        <translation>Преобразовывать все страницы из многостраничного файла</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1145"/>
@@ -4898,7 +4898,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="1165"/>
         <location filename="DlgConvert-old.ui" line="1617"/>
         <source>Clear the &apos;Input&apos; file(s)</source>
-        <translation>Очищать вкладку &quot;Входные данные&quot;</translation>
+        <translation>Очистить вкладку &quot;Входные данные&quot;</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1586"/>
@@ -5201,7 +5201,7 @@ Drag and Drop over the desired node to assign.</source>
         <source>Exit after conversion</source>
         <oldsource>Close after conversion</oldsource>
         <translatorcomment>Или XnConvert закрыт?</translatorcomment>
-        <translation>Закрыть XnConvert</translation>
+        <translation>Закрыть инструмент</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1444"/>
@@ -5211,7 +5211,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.ui" line="1497"/>
         <source>Theme</source>
-        <translation>Стиль оформления</translation>
+        <translation>Тема оформления</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1505"/>
@@ -5221,12 +5221,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.ui" line="1510"/>
         <source>Light</source>
-        <translation>Легкая</translation>
+        <translation>Светлая</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1515"/>
         <source>Dark</source>
-        <translation>Тёмный Fusion</translation>
+        <translation>Тёмная</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1540"/>
@@ -5256,7 +5256,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.ui" line="1593"/>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
-        <translation>Добавить пункт &quot;Преобразовать в XnConvert» в контекстное меню проводника</translation>
+        <translation>Добавить пункт &quot;Преобразовать в XnConvert&quot; в контекстное меню проводника</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1618"/>
@@ -10637,7 +10637,7 @@ Please make sure that files are not read-only!</oldsource>
 Thank you for purchasing %1.</source>
         <translation>Регистрация выполнена успешно.
 
-Благодарим вас за покупку  %1.</translation>
+Благодарим вас за покупку %1.</translation>
     </message>
 </context>
 <context>
@@ -10692,7 +10692,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRename.ui" line="45"/>
         <source>Clear templates</source>
-        <translation> Удалить шаблоны </translation>
+        <translation>Удалить шаблоны</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="58"/>
@@ -10707,7 +10707,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRename.ui" line="92"/>
         <source>Duplicate...</source>
-        <translation> Дублирование... </translation>
+        <translation>Дублирование...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="121"/>
@@ -11203,14 +11203,14 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSearch.cpp" line="495"/>
         <source>Finished.</source>
-        <translation>Завершено...</translation>
+        <translation>Завершено.</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="497"/>
         <location filename="DlgSearch.cpp" line="498"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
-        <translation>Завершено: найдено файлов %1...</translation>
+        <translation>Завершено: найдено файлов %1</translation>
     </message>
 </context>
 <context>
@@ -11263,12 +11263,12 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSearch.ui" line="135"/>
         <source>Add &gt;&gt;</source>
-        <translation> Добавить &gt;</translation>
+        <translation>Добавить &gt;</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Clear all</source>
-        <translation> Очистить все </translation>
+        <translation>Очистить все</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="165"/>
@@ -11308,7 +11308,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSearch.ui" line="232"/>
         <source>Current pathname:</source>
-        <translation>Текущий  путь:</translation>
+        <translation>Текущий путь:</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="356"/>
@@ -11324,7 +11324,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSearch.ui" line="393"/>
         <source>Close</source>
-        <translation> Закрыть </translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="400"/>
@@ -11364,14 +11364,14 @@ Thank you for purchasing %1.</source>
         <location filename="DlgSearchProgress.cpp" line="91"/>
         <source>Finished.</source>
         <oldsource>Finished...</oldsource>
-        <translation>Завершено...</translation>
+        <translation>Завершено.</translation>
     </message>
     <message>
         <location filename="DlgSearchProgress.cpp" line="93"/>
         <location filename="DlgSearchProgress.cpp" line="94"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
-        <translation>Завершено: найдено файлов %1...</translation>
+        <translation>Завершено: найдено файлов %1</translation>
     </message>
 </context>
 <context>
@@ -11384,7 +11384,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSearchProgress.ui" line="31"/>
         <source>Current pathname:</source>
-        <translation>Текущий  путь:</translation>
+        <translation>Текущий путь:</translation>
     </message>
 </context>
 <context>
@@ -12415,7 +12415,7 @@ Preview</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter&gt;Custom</source>
         <translatorcomment>Склонение не то, но в меню не возможно изменить</translatorcomment>
-        <translation>Использование: Вид -&gt; Фильтр -&gt; Пользовательская</translation>
+        <translation>Использование: Вид &gt; Фильтр &gt; Пользовательский</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -12774,7 +12774,7 @@ Preview</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="245"/>
         <source>Check for program updates</source>
-        <translation>Выполнять поиск обновлений </translation>
+        <translation>Выполнять поиск обновлений</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="258"/>
@@ -14076,7 +14076,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
-        <translation>Показывать по 4 эскиза на значке папки (вместо одного)</translation>
+        <translation>Показывать 4 эскиза на значке папки (вместо одного)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
@@ -14143,7 +14143,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="204"/>
         <source>Go to Thumbnail DB related settings &gt;&gt;</source>
-        <translation> Перейти к настройкам эскизов в базе данных &gt;&gt; </translation>
+        <translation>Перейти к настройкам эскизов в базе данных &gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="240"/>
@@ -14457,7 +14457,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
         <source>Pixel ratio</source>
-        <translation>Соотношение сторон</translation>
+        <translation>Соотношение сторон пикселя</translation>
     </message>
     <message>
         <source>Zoom-out</source>
@@ -15155,7 +15155,7 @@ Do you want to reassign?</source>
         <location filename="DlgSizeEdit.ui" line="66"/>
         <source>ratio</source>
         <translatorcomment>?</translatorcomment>
-        <translation>коэффициент</translation>
+        <translation>соотношение</translation>
     </message>
 </context>
 <context>
@@ -15421,7 +15421,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.cpp" line="166"/>
         <source>Splitting image(s), please wait...</source>
-        <translation>Выполняется разбивка изображения (й)...</translation>
+        <translation>Выполняется разбивка изображения(й)...</translation>
     </message>
 </context>
 <context>
@@ -15444,7 +15444,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="59"/>
         <source>Theme</source>
-        <translation>Стиль оформления</translation>
+        <translation>Тема оформления</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="70"/>
@@ -15454,17 +15454,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="75"/>
         <source>Light</source>
-        <translation>Легкая</translation>
+        <translation>Светлая</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="80"/>
         <source>Dark</source>
-        <translation>Тёмный Fusion</translation>
+        <translation>Тёмная</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="85"/>
         <source>Black</source>
-        <translation>Черный</translation>
+        <translation>Черная</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="111"/>
@@ -15525,7 +15525,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="273"/>
         <source>Check for program updates</source>
-        <translation>Выполнять поиск обновлений </translation>
+        <translation>Выполнять поиск обновлений</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="284"/>
@@ -15888,7 +15888,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTransfer.ui" line="36"/>
         <source>Clear all</source>
-        <translation> Очистить всё </translation>
+        <translation>Очистить всё</translation>
     </message>
     <message>
         <location filename="DlgTransfer.cpp" line="204"/>
@@ -17088,7 +17088,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ThumbInfo.cpp" line="164"/>
         <source>Ratio</source>
-        <translation>Оценка</translation>
+        <translation>Соотношение</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="165"/>
@@ -17495,7 +17495,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2474"/>
         <source>Ratio</source>
         <translatorcomment>Рейтинг?</translatorcomment>
-        <translation>Оценка</translation>
+        <translation>Соотношение</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1082"/>
@@ -19848,7 +19848,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="56"/>
         <source>Ratio</source>
-        <translation>Оценка</translation>
+        <translation>Соотношение</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="57"/>
@@ -20127,7 +20127,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="4"/>
         <source>Dark</source>
         <oldsource>Fusion dark</oldsource>
-        <translation>Тёмный Fusion</translation>
+        <translation>Тёмная</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="435"/>
@@ -20137,7 +20137,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Theme</source>
-        <translation>Стиль оформления</translation>
+        <translation>Тема оформления</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="521"/>
@@ -20410,7 +20410,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="3"/>
         <source>Light</source>
-        <translation>Легкая</translation>
+        <translation>Светлая</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="5"/>
@@ -20420,7 +20420,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="7"/>
         <source>Old Dark</source>
-        <translation>Старый тёмный</translation>
+        <translation>Старая тёмная</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="79"/>
@@ -20995,7 +20995,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
         <source>Search...</source>
-        <translation>Найти...</translation>
+        <translation>Поиск...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="598"/>
@@ -22737,7 +22737,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="865"/>
         <source>Open XnView database</source>
-        <translation> Открыть базу данных XnView</translation>
+        <translation>Открыть базу данных XnView</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="18"/>
