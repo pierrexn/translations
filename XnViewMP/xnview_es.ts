@@ -3998,7 +3998,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Load last script used at startup</source>
-        <translation>Cargar el último script utilizado al iniciar</translation>
+        <translation>Cargar el último script utilizado al inicio</translation>
     </message>
     <message>
         <source>Name uppercase</source>
@@ -9512,7 +9512,7 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     </message>
     <message>
         <source>Check integrity of catalog at startup</source>
-        <translation>Comprobar la integridad del catálogo al iniciar</translation>
+        <translation>Comprobar la integridad del catálogo al inicio</translation>
     </message>
     <message>
         <source>Excluded/Included</source>
@@ -10189,7 +10189,7 @@ Vista previa</translation>
     </message>
     <message>
         <source>Startup</source>
-        <translation>Arrancar</translation>
+        <translation>Inicio</translation>
     </message>
     <message>
         <source>Start with file</source>
@@ -10229,7 +10229,7 @@ Vista previa</translation>
     </message>
     <message>
         <source>Lossless operations</source>
-        <translation>Operciones sin pérdidas</translation>
+        <translation>Operaciones sin pérdidas</translation>
     </message>
     <message>
         <source>Adjust image if X/Y DPI are different</source>
@@ -13934,7 +13934,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Are you sure that you want to start importing categories file?</source>
-        <translation>¿Está seguro de que quiere importar el archivo de categorías?</translation>
+        <translation>¿Está seguro de que desea empezar a importar el archivo de categorías?</translation>
     </message>
     <message>
         <source>Clear all...</source>
