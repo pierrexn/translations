@@ -11516,7 +11516,7 @@ Tack för att du köper %1.</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">Förhandsvisning</translation>
+        <translation>Förhandsvisning</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
@@ -12236,32 +12236,32 @@ förhandsvisning</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortering</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">Val</translation>
+        <translation>Urval</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera första objektet automatiskt vid mappöppning</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera nya filer automatiskt</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">Visa som</translation>
+        <translation>Visa som</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Visa filstorlek i byte</translation>
+        <translation>Visa filstorlek i byte</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13154,7 +13154,10 @@ förhandsvisning</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är redan tilldelad:
+%2
+
+Vill du ta bort tilldelningen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -14410,7 +14413,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">Återställ inställningen för &quot;Automatisk bildstorlek&quot; med nästa/föregående fil</translation>
+        <translation>Återställ inställningen för &quot;Automatisk zoom&quot; med nästa/föregående fil</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -16464,7 +16467,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertera till XYB-färgrymd</translation>
     </message>
 </context>
 <context>
@@ -20432,7 +20435,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with test</source>
         <oldsource>Open with</oldsource>
-        <translation type="unfinished">Öppna med</translation>
+        <translation>Öppna med test</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -22171,7 +22174,7 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Ändra storlek...</translation>
+        <translation>Ändra storlek...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
