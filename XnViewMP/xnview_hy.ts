@@ -9296,7 +9296,7 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Նախատեսք</translation>
     </message>
 </context>
 <context>
@@ -9851,19 +9851,19 @@ Preview</source>
     </message>
     <message>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Տեսակավորում</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished">Ընտրել</translation>
+        <translation>Ընտրվածք</translation>
     </message>
     <message>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ինքնաընտրել մուտքագրված պանակի առաջին միավորը</translation>
     </message>
     <message>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ինքնաընտրել նոր ֆայլերը</translation>
     </message>
     <message>
         <source>View as</source>
@@ -10523,7 +10523,10 @@ Preview</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-ն արդեն վերագրված է հետևյալին՝
+%2
+
+Կրկին վերագրե՞լ:</translation>
     </message>
 </context>
 <context>
@@ -11776,7 +11779,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերակայել «Ինքնաչափափոխում» կարգավորումը հաջորդ/նախորդ ֆայլով</translation>
     </message>
 </context>
 <context>
@@ -13111,7 +13114,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Փոխարկել XYB colorspace</translation>
     </message>
 </context>
 <context>
@@ -16599,7 +16602,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open with test</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացեք թեստով</translation>
     </message>
 </context>
 <context>
