@@ -14038,7 +14038,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="204"/>
         <source>Go to Thumbnail DB related settings &gt;&gt;</source>
-        <translation>Ves a la pestanya  configuració de la BDD&gt;&gt;</translation>
+        <translation>Ves a la pestanya configuració de la BDD&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="240"/>
