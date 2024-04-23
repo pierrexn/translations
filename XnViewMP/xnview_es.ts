@@ -357,12 +357,14 @@ Do you want to overwrite it?</source>
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation>¿Está seguro de eliminar &quot;%1&quot;?</translation>
+        <translation>¿Está seguro de eliminar
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation>¿Está seguro de eliminar &quot;%1&quot; (%2 elementos)?</translation>
+        <translation>¿Está seguro de eliminar
+&quot;%1&quot; (%2 elementos)?</translation>
     </message>
     <message>
         <source>Confirm Save</source>
@@ -1526,7 +1528,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Videos</translation>
+        <translation>Vídeos</translation>
     </message>
     <message>
         <source>Animals</source>
@@ -4468,7 +4470,8 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>Mantener y añadir nuevo valor (Palabras clave y categorías suplementarias)</translation>
+        <translation>Mantener y añadir nuevo valor
+(Palabras clave y categorías suplementarias)</translation>
     </message>
     <message>
         <source>Load template...</source>
@@ -5719,7 +5722,8 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>Los datos IPTC han cambiado. ¿Desea guardar los cambios?</translation>
+        <translation>Los datos IPTC han cambiado.
+¿Desea guardar los cambios?</translation>
     </message>
     <message>
         <source>XMP only</source>
@@ -5900,7 +5904,8 @@ Do you want to save your changes?</source>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation>Se ha producido un error durante el procesamiento. ¡Asegúrese de que los archivos no sean de solo lectura!</translation>
+        <translation>Se ha producido un error durante el procesamiento.
+¡Asegúrese de que los archivos no sean de solo lectura!</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
@@ -6254,7 +6259,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remove all Metadata</source>
-        <translation>Eliminar todos los  metadatos</translation>
+        <translation>Eliminar todos los metadatos</translation>
     </message>
     <message>
         <source>Float (best but slowest)</source>
@@ -7128,11 +7133,12 @@ Se crearán subcarpetas. </translation>
     <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>Los datos IPTC han cambiado. ¿Desea guardar los cambios?</translation>
+        <translation>Los datos IPTC han cambiado.
+¿Desea guardar los cambios?</translation>
     </message>
     <message>
         <source>File modified date/time</source>
-        <translation>Fecha/hora de  modificación de archivo</translation>
+        <translation>Fecha/hora de modificación del archivo</translation>
     </message>
     <message>
         <source>Library</source>
@@ -7233,7 +7239,8 @@ Do you want to save your changes?</source>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation>Se ha producido un error durante el procesamiento. ¡Asegúrese de que los archivos no sean de solo lectura!</translation>
+        <translation>Se ha producido un error durante el procesamiento.
+¡Asegúrese de que los archivos no sean de solo lectura!</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
@@ -9584,7 +9591,8 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     <message>
         <source>Show as 
 Thumbnail</source>
-        <translation>Mostrar como miniatura</translation>
+        <translation>Mostrar como
+miniatura</translation>
     </message>
     <message>
         <source>Archives</source>
@@ -10121,10 +10129,7 @@ Vista previa</translation>
     </message>
     <message>
         <source>Lossless transformations</source>
-        <translation variants="yes">
-            <lengthvariant>Transformaciones sin pérdidas</lengthvariant>
-            <lengthvariant></lengthvariant>
-        </translation>
+        <translation>Transformaciones sin pérdidas</translation>
     </message>
     <message>
         <source>Save as copy for &apos;Save&apos; action</source>
@@ -10526,7 +10531,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Maximum of view tabs:</source>
-        <translation>Número máximo de pestañas en Visor  :</translation>
+        <translation>Número máximo de pestañas a mostrar:</translation>
     </message>
     <message>
         <source>Always</source>
@@ -13449,7 +13454,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>An error has occurred!!</source>
-        <translation>¡Se ha producido un error¡</translation>
+        <translation>¡¡Se ha producido un error!!</translation>
     </message>
 </context>
 <context>
@@ -14359,7 +14364,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Date/time modified</source>
-        <translation>Fecha/hora de  modificación</translation>
+        <translation>Fecha/hora de modificación</translation>
     </message>
     <message>
         <source>Subject Distance (m)</source>
@@ -14545,7 +14550,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Original tr. ref.</source>
-        <translation>Original tr. ref.</translation>
+        <translation>Ref. tr. original</translation>
     </message>
     <message>
         <source>Location</source>
@@ -14776,7 +14781,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Modified date/time</source>
-        <translation>Fecha/hora de  modificación</translation>
+        <translation>Fecha/hora de modificación</translation>
     </message>
     <message>
         <source>Colour Label</source>
@@ -19376,10 +19381,10 @@ Clic Derecho para menú contextual con acciones.</translation>
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>XnViewMP actualizará el catálogo. Puede llevar un tiempo. 
+        <translation>XnViewMP actualizará el catálogo. Puede que tarde un poco.
 
-¿Desea  mantener las miniaturas?
- (Si elige SÍ, el proceso de actualización será lento)</translation>
+¿Desea conservar las miniaturas?
+(Si elige SÍ, el proceso de actualización será lento)</translation>
     </message>
     <message>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
