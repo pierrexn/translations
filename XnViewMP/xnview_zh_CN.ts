@@ -427,7 +427,8 @@
         <location filename="ViewWindow.cpp" line="2201"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否要放弃编辑并删除
+&quot;%1&quot;？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2207"/>
@@ -7133,7 +7134,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgDBClean.ui" line="27"/>
         <source>Clean up</source>
-        <translation type="unfinished">清理</translation>
+        <translation>清理</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="33"/>
@@ -7446,13 +7447,13 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgEditXMP.cpp" line="49"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation type="unfinished">写入(&amp;W)</translation>
+        <translation>写入(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="50"/>
         <source>&amp;Apply</source>
         <oldsource>Apply</oldsource>
-        <translation type="unfinished">应用(&amp;A)</translation>
+        <translation>应用(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="101"/>
@@ -10690,7 +10691,7 @@ Thank you for purchasing %1.</source>
         <location filename="DlgRename.ui" line="114"/>
         <source>Ignore extension for # enumerator</source>
         <translatorcomment>？</translatorcomment>
-        <translation type="unfinished">忽略 # 枚举器的扩展名</translation>
+        <translation>忽略 # 枚举器的扩展名</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="225"/>
@@ -11522,7 +11523,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">预览</translation>
+        <translation>预览</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
@@ -12245,12 +12246,12 @@ Preview</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>分类</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>自动选择新文件</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -13476,21 +13477,21 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1524"/>
         <location filename="DlgSettingsInterface.ui" line="1733"/>
         <source>Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1365"/>
         <location filename="DlgSettingsInterface.ui" line="1574"/>
         <location filename="DlgSettingsInterface.ui" line="1740"/>
         <source>Alt</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1455"/>
         <location filename="DlgSettingsInterface.ui" line="1664"/>
         <location filename="DlgSettingsInterface.ui" line="1808"/>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1727"/>
@@ -16470,7 +16471,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>转换为 XYB 色彩空间</translation>
     </message>
 </context>
 <context>
