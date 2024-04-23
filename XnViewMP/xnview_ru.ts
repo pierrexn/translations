@@ -7261,7 +7261,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgEditFav.ui" line="83"/>
         <source>Create subfolder</source>
-        <translation> Создать подпапку </translation>
+        <translation>Создать подпапку</translation>
     </message>
     <message>
         <location filename="DlgEditFav.ui" line="93"/>
@@ -12730,7 +12730,7 @@ Preview</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="221"/>
         <source>Reset all confirm prompts</source>
-        <translation> Сбросить информацию о всех подтверждающих сообщениях </translation>
+        <translation>Сбросить информацию о всех подтверждающих сообщениях</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="493"/>
@@ -12764,7 +12764,7 @@ Preview</source>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
-        <translation>Полноэкранный режим - Режим просмотра</translation>
+        <translation>Режим просмотра - Полноэкранный режим</translation>
     </message>
     <message>
         <source>Fullscreen - Browser</source>
@@ -13053,7 +13053,7 @@ Preview</source>
         <location filename="DlgSettingsIntegration.cpp" line="131"/>
         <source>Browse with XnViewMP</source>
         <translatorcomment>Открыть с помощью  XnViewMP</translatorcomment>
-        <translation>Открыть с помощью  XnViewMP</translation>
+        <translation>Открыть с помощью XnViewMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="315"/>
@@ -13120,7 +13120,7 @@ Preview</source>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Set file associations...</source>
         <oldsource>Run the File association(s) tool...</oldsource>
-        <translation> Запустить программу &quot;Ассоциация файлов&quot; ... </translation>
+        <translation>Запустить программу &quot;Ассоциация файлов&quot;...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="87"/>
@@ -13136,7 +13136,7 @@ Preview</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="211"/>
         <source>Open the Catalog Location</source>
-        <translation> Открыть расположение каталога </translation>
+        <translation>Открыть расположение каталога</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="218"/>
@@ -13156,7 +13156,7 @@ Preview</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="127"/>
         <source>Open Config Files Location</source>
-        <translation> Открыть расположение файла конфигурации </translation>
+        <translation>Открыть расположение файла конфигурации</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="136"/>
@@ -13234,7 +13234,7 @@ Preview</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1130"/>
         <source>This shortcut is already assigned for </source>
-        <translation>Назначить данный ярлык для </translation>
+        <translation>Данный ярлык уже назначен для </translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1145"/>
@@ -19006,7 +19006,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="153"/>
         <source>Person in image</source>
-        <translation>Человек нак изображении</translation>
+        <translation>Человек на изображении</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="154"/>
@@ -19274,7 +19274,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemProcess.cpp" line="293"/>
         <source>Lossless Crop</source>
-        <translation type="unfinished">Обрезка без потерь</translation>
+        <translation>Обрезка без потерь</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="294"/>
@@ -19300,7 +19300,7 @@ Do you want to continue?</source>
         <location filename="ItemProcess.cpp" line="404"/>
         <source>An error has occurred, the lossless rotation can&apos;t be executed.</source>
         <oldsource>An error occured, the lossless rotation can&apos;t be executed.</oldsource>
-        <translation type="unfinished">Возникла ошибка, поворот без потерь не возможно выполнить.</translation>
+        <translation>Возникла ошибка, поворот без потерь не может быть выполнен.</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="361"/>
@@ -19337,7 +19337,7 @@ Do you want to continue?</source>
         <location filename="ItemProcess.cpp" line="497"/>
         <source>An error has occurred.</source>
         <oldsource>An error occured.</oldsource>
-        <translation type="unfinished">Произошла ошибка.</translation>
+        <translation>Произошла ошибка.</translation>
     </message>
     <message>
         <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
@@ -19359,25 +19359,25 @@ Do you want to continue?</source>
         <location filename="GFFHelper.h" line="76"/>
         <location filename="GFFHelper.h" line="90"/>
         <source>Confirm Save - Format</source>
-        <translation type="unfinished">Подтверждение сохранения - Формат</translation>
+        <translation>Подтверждение сохранения - Формат</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="20"/>
         <location filename="GFFHelper.h" line="64"/>
         <source>Saving in this format will discard comment and any existing metadata!</source>
-        <translation type="unfinished">При сохрании в этот формат удалятся комментарии и все метаданные!</translation>
+        <translation>При сохранении в этот формат удалятся комментарий и все метаданные!</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="34"/>
         <location filename="GFFHelper.h" line="77"/>
         <source>Saving in this format will discard any existing metadata!</source>
-        <translation type="unfinished">При сохрании в этот формат удалятся все метаданные!</translation>
+        <translation>При сохранении в этот формат удалятся все метаданные!</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="48"/>
         <location filename="GFFHelper.h" line="91"/>
         <source>Saving in this format will discard some metadata!</source>
-        <translation type="unfinished">При сохрании в этот формат удалятся некоторые метаданные.</translation>
+        <translation>При сохранении в этот формат удалятся некоторые метаданные!</translation>
     </message>
 </context>
 <context>
@@ -19385,12 +19385,12 @@ Do you want to continue?</source>
     <message>
         <location filename="ItemSelection.cpp" line="110"/>
         <source>&amp;Selected files</source>
-        <translation> &amp;Выделенные файлы </translation>
+        <translation>&amp;Выделенные файлы</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="111"/>
         <source>&amp;Tagged files</source>
-        <translation> &amp;Отмеченные файлы </translation>
+        <translation>&amp;Отмеченные файлы</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="113"/>
