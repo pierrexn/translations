@@ -11619,7 +11619,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">プレビュー</translation>
+        <translation>プレビュー</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
@@ -12345,32 +12345,32 @@ Preview</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>並べ替え</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">選択</translation>
+        <translation>選択</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダに入ったときに最初のアイテムを自動選択</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいファイルを自動選択</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">指定形式表示</translation>
+        <translation>指定形式表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">バイト数でファイルサイズを表示</translation>
+        <translation>バイト数でファイルサイズを表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13268,7 +13268,10 @@ Preview</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1はすでに割り当てられています:
+%2
+
+割り当て直しますか？</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -14524,7 +14527,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">前の/次のファイルでは自動画像サイズをリセット</translation>
+        <translation>前の/次のファイルでは自動画像サイズ設定をリセット</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -16580,7 +16583,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>XYB色空間へ変換</translation>
     </message>
 </context>
 <context>
@@ -20729,7 +20732,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with test</source>
         <oldsource>Open with</oldsource>
-        <translation type="unfinished">プログラムから開く</translation>
+        <translation>テストで開く</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -22514,7 +22517,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">リサイズ...</translation>
+        <translation>リサイズ...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
