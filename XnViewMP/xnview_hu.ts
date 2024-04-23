@@ -3893,7 +3893,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="2273"/>
         <source>Extracted pages:</source>
-        <translation>Kivont  oldalak:</translation>
+        <translation>Kivont oldalak:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2276"/>
@@ -7434,7 +7434,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgEditXMP.cpp" line="101"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation>(Az értékek elválasztásához  ; vagy , )</translation>
+        <translation>(Az értékek elválasztásához ; vagy , )</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="139"/>
@@ -8523,7 +8523,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
         <source>Unable to go to folder %1</source>
-        <translation>Nem lehet a mappába belépni:  %1</translation>
+        <translation>Nem lehet a mappába belépni: %1</translation>
     </message>
 </context>
 <context>
@@ -8655,7 +8655,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgFtp.h" line="369"/>
         <source>Unable to go to folder %1</source>
-        <translation>Nem lehet a mappába belépni:  %1</translation>
+        <translation>Nem lehet a mappába belépni: %1</translation>
     </message>
 </context>
 <context>
@@ -9366,7 +9366,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgIptc.ui" line="645"/>
         <source>IPTC-IIM, update or create XMP</source>
         <oldsource>IPTC, update or create XMP</oldsource>
-        <translation>IPTC-IIM, XMP  frissítése vagy létrehozása</translation>
+        <translation>IPTC-IIM, XMP frissítése vagy létrehozása</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="650"/>
@@ -9377,7 +9377,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgIptc.ui" line="655"/>
         <source>XMP, update or create IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC</oldsource>
-        <translation>XMP, IPTC-IIM  frissítése vagy létrehozása</translation>
+        <translation>XMP, IPTC-IIM frissítése vagy létrehozása</translation>
     </message>
 </context>
 <context>
@@ -11427,7 +11427,7 @@ Köszönjük a(z) %1 megvásárlását.</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="89"/>
         <source>Show ratings</source>
-        <translation>Értékelések  mutatása</translation>
+        <translation>Értékelések mutatása</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="99"/>
@@ -11822,7 +11822,8 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>A katalógus kategóriákkal, minősítéssel és színcímkével ellátott bejegyzései törlésre kerülnek. 
+        <translation>A katalógus kategóriákkal, minősítéssel és színcímkével ellátott bejegyzései törlésre kerülnek.
+
 Ha az információk beágyazott vagy kiegészítőfájlos (Sidecar) metaadatokba
 vannak exportálva, később újra importálhatja őket.
 
@@ -12236,12 +12237,12 @@ előnézetben</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">Nézet</translation>
+        <translation>Nézet</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Fájlméret megjelenítése bájtban</translation>
+        <translation>Fájlméret megjelenítése bájtban</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13290,7 +13291,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="342"/>
         <source>Duplicate tab</source>
-        <translation>Lap  duplikálása</translation>
+        <translation>Lap duplikálása</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="379"/>
@@ -19234,7 +19235,7 @@ Biztosan folytassuk?</translation>
         <location filename="GFFHelper.h" line="34"/>
         <location filename="GFFHelper.h" line="77"/>
         <source>Saving in this format will discard any existing metadata!</source>
-        <translation>Ebbe a formátumba történő mentéssel elveszik  minden létező metaadat!</translation>
+        <translation>Ebbe a formátumba történő mentéssel elveszik minden létező metaadat!</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="48"/>
@@ -19408,7 +19409,7 @@ Biztosan folytassuk?</translation>
         <location filename="LanguageComboBox.cpp" line="43"/>
         <location filename="LanguageComboBox.cpp" line="44"/>
         <source>Portuguese - Portugal</source>
-        <translation>Portugál -  Portugália</translation>
+        <translation>Portugál - Portugália</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="45"/>
@@ -20891,7 +20892,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="641"/>
         <source>Show alpha</source>
-        <translation>Alfa csatorna  megjelenítése</translation>
+        <translation>Alfa csatorna megjelenítése</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="642"/>
@@ -21827,7 +21828,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Show alpha</source>
-        <translation>Alfa csatorna  megjelenítése</translation>
+        <translation>Alfa csatorna megjelenítése</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
@@ -22058,7 +22059,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="480"/>
         <source>Clean metadata...</source>
-        <translation>Metaadatok törlése</translation>
+        <translation>Metaadatok törlése...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="486"/>
@@ -22347,7 +22348,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Átméretezés...</translation>
+        <translation>Átméretezés...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
@@ -22788,8 +22789,7 @@ Biztosan folytassuk?</translation>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <oldsource>Click to change between width of thumbnail
  and number of thumbnails per row</oldsource>
-        <translation>Kattintásra változtat a miniatűrök szélességén [képpontok]
- és az oszloponkénti számán</translation>
+        <translation>Kattintásra változtat a miniatűrök szélességén [képpontok] és az oszloponkénti számán</translation>
     </message>
 </context>
 <context>
@@ -22874,7 +22874,7 @@ Biztosan folytassuk?</translation>
         <source>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings&gt;Catalog.</source>
         <oldsource>The thumbnail size in catalog is smaller than the chosen size, you can change it in Options&gt;Catalog</oldsource>
-        <translation>A miniatűrök mérete  kisebb, mint a választott méret.
+        <translation>A miniatűrök mérete kisebb, mint a választott méret.
 Megváltoztathatja a Beállítások&gt;Katalógusban.</translation>
     </message>
     <message>
@@ -24257,7 +24257,7 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
     <message>
         <location filename="ViewCropAction.cpp" line="216"/>
         <source>Selection vertical position</source>
-        <translation>Kijelölés függőleges  pozíciója</translation>
+        <translation>Kijelölés függőleges pozíciója</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="228"/>
