@@ -343,7 +343,8 @@ Do you want to overwrite it?</source>
  &quot;%1&quot;?
 </source>
         <translation>Ցանկանո՞ւմ եք պահել փոփոխությունները
- &quot;%1&quot;-ում:</translation>
+ &quot;%1&quot;-ում:
+</translation>
     </message>
     <message>
         <source>Save &amp;as...</source>
