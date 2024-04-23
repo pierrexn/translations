@@ -324,7 +324,7 @@
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Czy na pewno odrzuć zmiany i usunąć
-&quot;%1&quot;</translation>
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2207"/>
@@ -11525,7 +11525,7 @@ Dziękujmy za zakup %1.</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">Podgląd</translation>
+        <translation>Podgląd</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
