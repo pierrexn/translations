@@ -165,7 +165,7 @@
     <message>
         <location filename="AboutWidget.ui" line="110"/>
         <source>Social</source>
-        <translation>Social media</translation>
+        <translation>Sociale media</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="117"/>
@@ -199,7 +199,7 @@
     <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
-        <translation>INI bestandsnaam</translation>
+        <translation>INI-bestandsnaam</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="354"/>
@@ -340,7 +340,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>This picture will be saved as RGB with 8bits per component</source>
-        <translation>Dit bestand zal als RGB met 8bits percomponent opgeslagen worden</translation>
+        <translation>Deze afbeelding wordt opgeslagen als RGB met 8bits per component</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -363,7 +363,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving picture...</source>
         <oldsource>Saving picture... </oldsource>
-        <translation>Afbeelding opslaan...</translation>
+        <translation>Afbeelding opslaan…</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -385,7 +385,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Colors count</source>
-        <translation>Kleurdiepte</translation>
+        <translation>Aantal kleuren</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
@@ -395,12 +395,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="1942"/>
         <source>Customize toolbar...</source>
-        <translation>Werkbalk aanpassen...</translation>
+        <translation>Werkbalk aanpassen…</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
         <source>Save &amp;as...</source>
-        <translation>Opslaan &amp;als...</translation>
+        <translation>Opslaan &amp;als…</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="219"/>
@@ -482,12 +482,12 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="CategorySetPanel.cpp" line="287"/>
         <source>Edit...</source>
-        <translation>Bewerken...</translation>
+        <translation>Bewerken…</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="288"/>
         <source>Create Set from selection...</source>
-        <translation>Verzameling aanmaken van selectie...</translation>
+        <translation>Verzameling aanmaken van selectie…</translation>
     </message>
 </context>
 <context>
@@ -516,7 +516,7 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="BannerProcess.h" line="54"/>
         <source>Creating contact sheet...</source>
-        <translation>Contactafdrukkenblad aanmaken...</translation>
+        <translation>Contactafdrukkenblad aanmaken…</translation>
     </message>
 </context>
 <context>
@@ -557,7 +557,7 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="BatchRenameProcess.h" line="21"/>
         <source>Renaming files...</source>
-        <translation>Bestanden hernoemen...</translation>
+        <translation>Bestanden hernoemen…</translation>
     </message>
 </context>
 <context>
@@ -601,7 +601,7 @@ Wil u deze favoriet verwijderen &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="1625"/>
         <source>Add Favorite...</source>
-        <translation>Toevoegen aan favorieten...</translation>
+        <translation>Toevoegen aan favorieten…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1849"/>
@@ -760,7 +760,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4211"/>
         <source>Add to favorites...</source>
-        <translation>Toevoegen aan favorieten...</translation>
+        <translation>Toevoegen aan favorieten…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4219"/>
@@ -780,7 +780,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="657"/>
         <source>Customize toolbar...</source>
-        <translation>Werkbalk aanpassen...</translation>
+        <translation>Werkbalk aanpassen…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1911"/>
@@ -800,7 +800,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2106"/>
         <source>Match all selected entries (AND)</source>
-        <translation>Overeenkomst alle geselecteerde items (AND)</translation>
+        <translation>Overeenkomst met alle geselecteerde items (AND)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3215"/>
@@ -814,7 +814,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
         <source>Search...</source>
-        <translation>Zoeken...</translation>
+        <translation>Zoeken…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4214"/>
@@ -872,17 +872,17 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategorySetPanel.cpp" line="203"/>
         <source>Edit...</source>
-        <translation>Bewerken...</translation>
+        <translation>Bewerken…</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection...</source>
-        <translation>Verzameling toekennen aan selectie...</translation>
+        <translation>Verzameling toekennen aan selectie…</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set to selection...</source>
-        <translation>Verzameling loskoppelen van selectie...</translation>
+        <translation>Verzameling loskoppelen van selectie…</translation>
     </message>
 </context>
 <context>
@@ -890,7 +890,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategorySets.cpp" line="32"/>
         <source>Manager...</source>
-        <translation>Beheren...</translation>
+        <translation>Beheren…</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="48"/>
@@ -900,7 +900,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategorySets.cpp" line="178"/>
         <source>Save layout...</source>
-        <translation>Indeling opslaan...</translation>
+        <translation>Indeling opslaan…</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="243"/>
@@ -959,7 +959,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategoryView.cpp" line="400"/>
         <source>New album...</source>
-        <translation>Nieuw album...</translation>
+        <translation>Nieuw album…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="405"/>
@@ -985,22 +985,22 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategoryView.cpp" line="407"/>
         <source>Empty</source>
-        <translation>Ledigen</translation>
+        <translation>Leegmaken</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="409"/>
         <source>Export (Bridge format)...</source>
-        <translation>Exporteren (Bridge-formaat)...</translation>
+        <translation>Exporteren (Bridge-formaat)…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="412"/>
         <source>Import (Bridge format)...</source>
-        <translation>Importeren (Bridge-formaat)...</translation>
+        <translation>Importeren (Bridge-formaat)…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="437"/>
         <source>Delete album</source>
-        <translation>Verwijder album</translation>
+        <translation>Album verwijderen</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="437"/>
@@ -1015,22 +1015,22 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategoryView.cpp" line="455"/>
         <source>Empty album</source>
-        <translation>Ledig Album</translation>
+        <translation>Album leegmaken</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="455"/>
         <source>Are you sure to clear this album?</source>
-        <translation>Wil u dit album echt ledigen ?</translation>
+        <translation>Wil u dit album echt leegmaken?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="462"/>
         <source>Import collection</source>
-        <translation>Importeren Collectie</translation>
+        <translation>Collectie importeren</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="468"/>
         <source>Export collection</source>
-        <translation>Exporteren Collectie</translation>
+        <translation>Collectie exporteren</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="544"/>
@@ -1185,7 +1185,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="ContactSheetProcess.h" line="44"/>
         <source>Creating contact sheet...</source>
-        <translation>Contactafdrukkenblad aanmaken...</translation>
+        <translation>Contactafdrukkenblad aanmaken…</translation>
     </message>
 </context>
 <context>
@@ -1244,7 +1244,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="628"/>
         <source>Clean metadata</source>
-        <translation>Metagegevens opschonen</translation>
+        <translation>Metagegevens wissen</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="667"/>
@@ -1269,7 +1269,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="1639"/>
         <source>Resize</source>
-        <translation>Formaat aanpassen</translation>
+        <translation>Grootte aanpassen</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2057"/>
@@ -1293,7 +1293,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="394"/>
         <source>Levels</source>
-        <translation>Niveau&apos;s</translation>
+        <translation>Niveaus</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2469"/>
@@ -1338,7 +1338,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="2897"/>
         <source>De-interlace</source>
-        <translation>Deïnterliëren</translation>
+        <translation>De-interliniëren</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2919"/>
@@ -1372,7 +1372,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvertProcess.h" line="4666"/>
         <location filename="DlgWhiteBalance.h" line="88"/>
         <source>White Balance</source>
-        <translation>Wit balans</translation>
+        <translation>Witbalans</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2448"/>
@@ -1382,7 +1382,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="2525"/>
         <source>Transparent color</source>
-        <translation>Doorzichtige kleur</translation>
+        <translation>Transparante kleur</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2572"/>
@@ -1516,7 +1516,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="4564"/>
         <source>Clear transparent pixels</source>
-        <translation>Zuiver Tranparante pixels</translation>
+        <translation>Transparante pixels wissen</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4578"/>
@@ -1627,7 +1627,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="192"/>
         <source>Automatic levels</source>
-        <translation>Automatische niveau&apos;s</translation>
+        <translation>Automatische niveaus</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="193"/>
@@ -1859,7 +1859,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1646"/>
         <source>Misc</source>
-        <translation>Diversen</translation>
+        <translation>Div</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1570"/>
@@ -1875,7 +1875,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgLevels.h" line="47"/>
         <source>Levels...</source>
-        <translation>Niveau&apos;s...</translation>
+        <translation>Niveaus…</translation>
     </message>
     <message>
         <location filename="DlgFilm.cpp" line="133"/>
@@ -2085,7 +2085,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgAcquireInto.ui" line="119"/>
         <source>Settings...</source>
-        <translation>Instellingen...</translation>
+        <translation>Instellingen…</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="141"/>
@@ -2120,7 +2120,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgAcquireInto.cpp" line="81"/>
         <source>Scan started...</source>
-        <translation>Scan gestart ...</translation>
+        <translation>Scan gestart...</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="149"/>
@@ -2154,7 +2154,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgAdobeConfigure.ui" line="48"/>
         <source>Add...</source>
-        <translation>Toevoegen...</translation>
+        <translation>Toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgAdobeConfigure.ui" line="58"/>
@@ -2172,17 +2172,17 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgAdobePlugin.ui" line="51"/>
         <source>Start...</source>
-        <translation>Starten...</translation>
+        <translation>Starten…</translation>
     </message>
     <message>
         <location filename="DlgAdobePlugin.ui" line="61"/>
         <source>About...</source>
-        <translation>Over...</translation>
+        <translation>Over…</translation>
     </message>
     <message>
         <location filename="DlgAdobePlugin.ui" line="81"/>
         <source>Configure...</source>
-        <translation>Instellingen...</translation>
+        <translation>Instellingen…</translation>
     </message>
 </context>
 <context>
@@ -2195,7 +2195,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgArchive.ui" line="32"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgArchive.ui" line="41"/>
@@ -2206,7 +2206,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgArchive.cpp" line="103"/>
         <source>Creating archive, please wait...</source>
         <oldsource>Creating archive, please wait... </oldsource>
-        <translation>Archiveren, even geduld...</translation>
+        <translation>Archiveren, even geduld…</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="124"/>
@@ -2632,7 +2632,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="1027"/>
         <source>Settings...</source>
-        <translation>Instellingen...</translation>
+        <translation>Instellingen…</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1039"/>
@@ -2753,7 +2753,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="1371"/>
         <source>Load format settings...</source>
-        <translation>Formaatinstellingen laden...</translation>
+        <translation>Formaatinstellingen laden…</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="199"/>
@@ -3071,7 +3071,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
-        <translation>Instellingen...</translation>
+        <translation>Instellingen…</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="261"/>
@@ -22163,7 +22163,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="427"/>
         <source>Automatic levels</source>
-        <translation>Automatische niveau&apos;s</translation>
+        <translation>Automatische niveaus</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="428"/>
@@ -22223,7 +22223,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="439"/>
         <source>Levels...</source>
-        <translation>Niveau&apos;s...</translation>
+        <translation>Niveaus…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="440"/>
