@@ -14327,7 +14327,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="654"/>
         <source>Sidecar</source>
-        <translation type="unfinished">Sidecar</translation>
+        <translation>Sidecar</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="843"/>
