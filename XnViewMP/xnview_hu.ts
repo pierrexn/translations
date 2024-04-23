@@ -11497,7 +11497,7 @@ Köszönjük a(z) %1 megvásárlását.</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">Előnézet</translation>
+        <translation>Előnézet</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
