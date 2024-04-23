@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
     <string name="menu_sort_path">Sentiero</string>
     <string name="menu_sort_name">Nome</string>
     <string name="menu_sort_size">Proporzioni</string>
@@ -7,51 +7,40 @@
     <string name="menu_sort_type">Tipo</string>
     <string name="menu_sort_ascending">Ascendente</string>
     <string name="menu_sort_descending">Discendente</string>
-
     <string name="menu_infos">Informazioni</string>
     <string name="menu_share">Condividi</string>
     <string name="menu_delete">Elimina</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="menu_show_name">Mostra informazioni</string>
-
     <string name="menu_filter">Filtro</string>
     <string name="menu_group">Raggruppa per</string>
-
     <string name="menu_custom_size">Proporzioni personalizzate</string>
     <string name="menu_predefined_size">Proporzioni predefinite</string>
     <string name="menu_choose_template">Scegli le proporzioni o un modello</string>
     <string name="menu_choose_size">Scegli le proporzioni</string>
-
     <string name="menu_create_template">Crea modello</string>
     <string name="menu_report">Segnala un bug</string>
     <string name="menu_restore">Ripristina</string>
-
     <string name="menu_clear">Cancella</string>
     <string name="menu_append">Aggiungi</string>
     <string name="menu_select_all">Seleziona tutto</string>
-
     <string name="group_none">Non raggruppare</string>
     <string name="group_path">Nome del sentiero</string>
     <string name="group_date">Data</string>
     <string name="group_type">Tipo</string>
     <string name="group_extension">Estensione</string>
-
     <string name="today">Oggi</string>
     <string name="yesterday">Ieri</string>
-
     <string name="mail_message">Foto convertite con l\'app XnConvert</string>
     <string name="template_message">L\'immagine è un esempio, salva il modello e applicarlo ai file.</string>
     <string name="template_title">Crea modello</string>
-
     <string name="drawer_allphotos">Tutte le foto</string>
     <string name="drawer_photos">Fotografie</string>
     <string name="drawer_downloads">Download</string>
     <string name="drawer_storage">Memoria</string>
     <string name="drawer_output">Cartella output</string>
-
     <string name="pro_version">Ottieni la versione Pro</string>
     <string name="message_saved">Immagine salvata:</string>
-
     <string name="pane_convert">Converti</string>
     <string name="pane_next">Successivo</string>
     <string name="resize">Ridimensiona</string>
@@ -59,74 +48,92 @@
     <string name="watermark">Filigrana</string>
     <string name="output">Output</string>
     <string name="size_default">Predefinito</string>
-
     <string name="dialog_ok">OK</string>
     <string name="dialog_cancel">Annulla</string>
-
     <string name="resize_method">Metodo</string>
     <string name="quality">Qualità</string>
     <string name="keep_metadata">Mantieni i metadati</string>
     <string name="fitin">Adatta</string>
     <string name="fitover">Posiziona</string>
     <string name="stretch">Allunga</string>
-
     <string name="settings_global">Globale</string>
     <string name="settings">Impostazioni</string>
     <string name="settings_output">Output</string>
     <string name="settings_misc">Varie.</string>
-
     <string name="settings_keepMetadata">Mantieni i metadati</string>
     <string name="settings_keepMetadataSummary">I tag Exif originali verranno salvati</string>
     <string name="settings_keepFileDate">Mantieni la data del file</string>
     <string name="settings_keepFileDateSummary">Il file di output avrà la data del file originale</string>
-
     <string name="settings_sharpen">Affina</string>
     <string name="settings_manageSize">Gestisci le proporzioni predefinite</string>
     <string name="settings_manageTemplate">Gestisci modello</string>
-
     <string name="settings_qualitySave">Qualità</string>
     <string name="settings_qualityLow">Basso (70)</string>
     <string name="settings_qualityMedium">Medio (80)</string>
     <string name="settings_qualityHigh">Alto (90)</string>
     <string name="settings_qualityBest">I migliori (100)</string>
-
     <string name="settings_none">Nessuna</string>
     <string name="settings_low">Basso</string>
     <string name="settings_medium">Medio</string>
     <string name="settings_high">Alto</string>
-
     <string name="settings_hideXnFolder">Cartella di output nascosta</string>
     <string name="settings_hideXnFolderSummary">Nascondi i file dalla cartella di output</string>
-
     <string name="settings_show_text">Testo</string>
     <string name="settings_show_watermark">Filigrana</string>
-
     <string name="setttings_reset_template">Reimposta modello</string>
     <string name="setttings_reset_template_summary">Ripristina l\'elenco dei modelli come predefinito</string>
-
     <string name="enterCustomSize">Inserisci proporzioni personalizzate</string>
     <string name="resize_dialog_info">È possibile specificare solo una dimensione</string>
-
     <string name="settings_portraitColumnsCount">Colonna (ritratto)</string>
     <string name="settings_landscapeColumnsCount">Colonna (Paesaggio)</string>
-
     <string name="title_settings">Impostazioni</string>
     <string name="title_template">Modello</string>
     <string name="title_size">Programma Proporzioni</string>
-
     <string name="infos_filename">Nome del file:</string>
     <string name="infos_path">Sentiero:</string>
     <string name="infos_date">Data:</string>
     <string name="infos_size">Proporzioni:</string>
     <string name="infos_dimensions">Dimensioni:</string>
-
     <string name="choose_size">Scegli Proporzioni</string>
-
     <string name="pro_title">Ottieni la versione PRO</string>
     <string name="pro_item1">• Nessuna pubblicità</string>
     <string name="pro_item2">• Nessun limite nella conversione in serie</string>
     <string name="pro_item3">• Nessun limite nel modello</string>
     <string name="pro_item4">• Per aiutarci e continuare a migliorare l\'app</string>
     <string name="pro_purchase">Acquista</string>
-
+    <string name="image_converting">Immagine in conversione...</string>
+    <string name="drawer_sdcard">Scheda SD</string>
+    <string name="adjust">Ritocca</string>
+    <string name="canvas">Tela</string>
+    <string name="canvas_resize">Ridimensiona tela</string>
+    <string name="contrast">Contrasto</string>
+    <string name="saturation">Saturazione</string>
+    <string name="gamma">Gamma</string>
+    <string name="exposure">Esposizione</string>
+    <string name="cut_limit">Limite ritaglio</string>
+    <string name="dialog_size_title">Saranno mostrate solo 12 dimensioni</string>
+    <string name="settings_manageExcluded">Gestisci cartelle escluse</string>
+    <string name="width">Larghezza</string>
+    <string name="height">Altezza</string>
+    <string name="percent">Percentuale</string>
+    <string name="no_app_found">Nessuna app valida trovata</string>
+    <string name="share_via">Condividi via</string>
+    <string name="maximum_share_reached">Non è possibile condividere tutti questi contenuti insieme</string>
+    <string name="unknown_error_occurred">È occorso un errore sconosciuto</string>
+    <string name="rate_question">Vi piace XnConvert?</string>
+    <string name="rate_rate">Valutazione</string>
+    <string name="rate_remind">Ricordamelo più tardi</string>
+    <string name="rate_no">No, grazie</string>
+    <string name="settings_singleMode">Modalità singola foto</string>
+    <string name="title_excluded_folders">Cartelle escluse</string>
+    <string name="app_name">XnConvert</string>
+    <string name="rotate">Ruota</string>
+    <string name="settings_keepAlpha">Usa canale alfa</string>
+    <string name="an_error_occurred">È occorso un errore: %s</string>
+    <string name="delete_all_selected_files">Volete eliminare TUTTI i file selezionati?</string>
+    <string name="result_files">File risultanti</string>
+    <string name="brightness">Luminosità</string>
+    <string name="white_balance">Bilanciamento del bianco</string>
+    <string name="settings_singleModeSummary">Apri visualizzazione del modello alla selezione di una singola foto</string>
+    <string name="rate_using">Se vi piace usare APPNAME, prendetevi un momento per valutarlo. Grazie per il vostro sostegno!</string>
 </resources>
