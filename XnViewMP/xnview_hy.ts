@@ -9871,7 +9871,7 @@ Preview</source>
     </message>
     <message>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Ցուցադրել ֆայլի չափը բայթերով</translation>
+        <translation>Ցուցադրել ֆայլի չափը բայթերով</translation>
     </message>
 </context>
 <context>
