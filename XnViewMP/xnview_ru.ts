@@ -13331,7 +13331,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="342"/>
         <source>Duplicate tab</source>
-        <translation>Копия вкладки</translation>
+        <translation>Дублировать вкладку</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="379"/>
@@ -14480,7 +14480,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="508"/>
         <location filename="DlgSettingsView.ui" line="1344"/>
         <source>Show scrollbars</source>
-        <translation>Показывать полосу прокрутки</translation>
+        <translation>Показывать полосы прокрутки</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="921"/>
@@ -14517,7 +14517,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="591"/>
         <source>Like Browser</source>
-        <translation>Как в Режиме обозревателя</translation>
+        <translation>Как в режиме обозревателя</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="598"/>
@@ -14537,7 +14537,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="643"/>
         <source>Text</source>
-        <translation>Текстовый файл</translation>
+        <translation>Текстовые файлы</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="650"/>
@@ -22991,7 +22991,7 @@ Do you want to continue?</source>
     <message>
         <location filename="MyTabBar.cpp" line="236"/>
         <source>Duplicate tab</source>
-        <translation>Копия вкладки</translation>
+        <translation>Дублировать вкладку</translation>
     </message>
     <message>
         <location filename="MyTabBar.cpp" line="245"/>
