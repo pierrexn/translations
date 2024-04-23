@@ -305,7 +305,8 @@
 </source>
         <oldsource>Do you want to save changes to &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Volete salvare le modifiche a &apos;%1&apos;?
+        <translation>Volete salvare le modifiche a
+ &apos;%1&apos;?
 </translation>
     </message>
     <message>
@@ -2272,7 +2273,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&amp;quot; &lt;span style=&quot; font-style:italic;&quot;&gt;Note: &amp;quot;S&amp;quot; is supposed to be in square bracket&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tutte le specifiche dello striscione (carattere, colore, dimensioni, ecc.) sono riportate da quello precedentemente creato. Eccezion fatta per la dimensione del testo, che è calcolata per meglio adattarla all&apos;altezza dello striscione.&lt;/p&gt;&lt;p&gt;Potete selezionare molteplici immagini per applicare a tutte lo stesso striscione. Si noti che il testo sarà delle stesse dimenzioni in tutte le immagini.&lt;/p&gt;&lt;p&gt;Tasti di scelta rapida:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per aumentare/ridurre la dimensione dei caratteri di 2 punti, usate [Ctrl] + [Più] / [Ctrl] + [Meno]&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per aumentare/ridurre la dimensione dello striscione dello 1%, usate [Ctrl] + [Maiusc] + [Più] o [Ctrl] + [Maiusc] + [Meno]&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per salvare il file, usate [Ctrl] + [S]&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tutte le specifiche dello striscione (carattere, colore, dimensioni, ecc.) sono riportate da quello precedentemente creato. Eccezion fatta per la dimensione del testo, che è calcolata per meglio adattarla all&apos;altezza dello striscione.&lt;/p&gt;&lt;p&gt;Potete selezionare molteplici immagini per applicare a tutte lo stesso striscione. Si noti che il testo sarà delle stesse dimenzioni in tutte le immagini.&lt;/p&gt;&lt;p&gt;Tasti di scelta rapida:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per aumentare/ridurre la dimensione dei caratteri di 2 punti, usate [Ctrl] + [Più] / [Ctrl] + [Meno]&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per aumentare/ridurre la dimensione dello striscione dello 1%, usate [Ctrl] + [Maiusc] + [Più] o [Ctrl] + [Maiusc] + [Meno]&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per salvare il file, usate [Ctrl] + [S]&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="48"/>
@@ -7592,7 +7593,8 @@ Volete salvare le vostre modifiche?</translation>
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
-        <translation type="unfinished">Un errore è occorso durante il processo, si prega di controllare che i file non siano a sola lettura!</translation>
+        <translation>Un errore è occorso durante l&apos;elaborazione. 
+Si prega di controllare che i file non siano a sola lettura!</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="1106"/>
@@ -9260,7 +9262,8 @@ Volete salvare le vostre modifiche?</translation>
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
-        <translation type="unfinished">Un errore è occorso durante il processo, si prega di controllare che i file non siano a sola lettura!</translation>
+        <translation>Un errore è occorso durante l&apos;elaborazione.
+Si prega di controllare che i file non siano a sola lettura!</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1681"/>
@@ -11862,7 +11865,9 @@ Desiderate modificare il &apos;percorso di base&apos;?</translation>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation type="unfinished">Attenzione! Questa operazione eliminerà tutti i file orfani dal catalogo. Volete continuare?</translation>
+        <translation>Tutti i file orfani saranno eliminati dal Catalogo. 
+
+Volete continuare?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="546"/>
@@ -11892,7 +11897,10 @@ Color labels, Keywords may be deleted.
 
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
-        <translation type="unfinished">Attenzione! Questa operazione può eliminare alcuni elementi dal DB che hanno valutazioni, colori o parole chiave assegnate. Volete rilevare questi casi per prima di iniziare?</translation>
+        <translation>Potrebbero venire eliminati alcuni elementi del database a cui
+sono assegnate valutazioni, etichette colorate o parole chiave. 
+
+Volete rilevare questi casi per prima di iniziare?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="883"/>
@@ -11933,10 +11941,12 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation type="unfinished">Siate cauti, questa operazione rimuoverà le voci del catalogo con categorie, valutazione ed etichette colorate.
-(Se le informazioni sono esportate nei metadati incorporati o sidecar, sarete in grado di iimportarli nuovamente successivamente.
+        <translation>Le voci del Catalogo con Categorie, Valutazioni ed Etichette colorate saranno rimosse. 
 
-Volete rimuovere le voci assegnate ad una categoria?</translation>
+Se le informazioni sono esportate nei metadati incorporati o dei sidecar, 
+sarete in grado di importarli nuovamente successivamente.
+
+Volete rimuovere le voci assegnate ad una Categoria?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="931"/>
@@ -12162,7 +12172,8 @@ Volete rimuovere le voci assegnate ad una categoria?</translation>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Show as 
 Thumbnail</source>
-        <translation>Mostra come miniatura</translation>
+        <translation>Mostra come 
+miniatura</translation>
     </message>
     <message>
         <source>Show in 
@@ -12329,7 +12340,7 @@ Preview</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordinamento</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
@@ -12339,12 +12350,12 @@ Preview</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-seleziona il primo elemento all&apos;ingresso nella cartella</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-seleziona nuovi file</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -13255,7 +13266,10 @@ Preview</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 è già assegnato a:
+%2
+
+Desiderate riassegnarlo?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -14110,7 +14124,7 @@ Do you want to reassign?</source>
         <oldsource>Create from original image if embedded thumbnail is smaller than thubnail size</oldsource>
         <translatorcomment>Alternative: Crea dal&apos;immagine originale se la miniatura incorporata è più piccola delle dimensioni della miniatura;
  Crea dal&apos;immagine originale se la miniatura incorporata ha dimensioni inferiori alle miniature</translatorcomment>
-        <translation> Crea dal&apos;immagine originale se la miniatura incorporata è più piccola delle dimensioni della miniatura</translation>
+        <translation>Crea dall&apos;immagine originale se la miniatura incorporata è più piccola delle dimensioni della miniatura</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="103"/>
@@ -16586,7 +16600,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Converti verso lo spazio colori XYB</translation>
     </message>
 </context>
 <context>
@@ -19291,7 +19305,8 @@ Volete eliminare il preferito &quot;%1&quot;?</translation>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation type="unfinished">L&apos;operazione JPEG senza perdite modificherà i(l) file originari(o), e potrebbe rimuovere alcuni pixel inutilizzati (larghezza ed altezza devono essere multipli di 8 pixel)!
+        <translation>L&apos;operazione JPEG senza perdite modificherà i(l) file originari(o), e potrebbe rimuovere alcuni pixel inutilizzati (larghezza ed altezza devono essere multipli di 8 pixel)!
+
 Volete procedere?</translation>
     </message>
     <message>
@@ -22965,8 +22980,7 @@ Volete procedere?</translation>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <oldsource>Click to change between width of thumbnail
  and number of thumbnails per row</oldsource>
-        <translation type="unfinished">Cliccate per cambiare tra  larghezza delle miniature
- ed numero di miniature per colonna</translation>
+        <translation>Cliccate per scegliere tra larghezza delle miniature [pixel] o il numero di miniature per colonna</translation>
     </message>
 </context>
 <context>
@@ -22974,7 +22988,7 @@ Volete procedere?</translation>
     <message>
         <location filename="MyProgressDialog.ui" line="20"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <location filename="MyProgressDialog.ui" line="67"/>
