@@ -795,12 +795,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2100"/>
         <source>Match any selected entry (OR)</source>
-        <translation>Overeenkomst met elke gekozen entry (OR)</translation>
+        <translation>Overeenkomst met elk geselecteerd item (OR)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2106"/>
         <source>Match all selected entries (AND)</source>
-        <translation>Bron tekst</translation>
+        <translation>Overeenkomst alle geselecteerde items (AND)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3215"/>
@@ -2748,7 +2748,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="1357"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Afbeeldingen roteren overeenkomstig de EXIF-oriëntatie</translation>
+        <translation>Afbeeldingen draaien op basis van de EXIF-oriëntatie</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1371"/>
@@ -2891,7 +2891,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgBatchResize.cpp" line="1379"/>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation></translation>
+        <translation>&lt;br&gt;XnResize wordt geleverd als freeware voor privé- of commercieel gebruik.&lt;br&gt;U krijgt het recht om deze software te gebruiken en een onbeperkt aantal exemplaren te maken.&lt;br&gt;&lt;br&gt;Deze software wordt geleverd &quot;as-is&quot;.&lt;br&gt;Geen enkele garantie wordt uitgedrukt of geïmpliceerd.&lt;br&gt;De auteur is niet aansprakelijk voor gegevensverlies, schade, winstderving of enig ander verlies tijdens het gebruik of misbruik van deze software.&lt;br&gt;&lt;br&gt;Eventuele suggesties, feedback en opmerkingen zijn welkom. </translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1425"/>
@@ -6606,7 +6606,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertText.ui" line="640"/>
         <source>Adjust to image&apos;s width</source>
-        <translation>Pas aan naar breedte vh bestand</translation>
+        <translation>Aanpassen naar breedte</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="50"/>
@@ -9087,7 +9087,7 @@ Submappen worden aangemaakt. </translation>
     <message>
         <location filename="DlgIptc.cpp" line="319"/>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
-        <translation>Als je XMP-metagegevens wilt bewerken, gebruik dan het nieuwe dialoogvenster &apos;XMP bewerken&apos;. </translation>
+        <translation>Als u XMP-metagegevens wilt bewerken, gebruik dan het nieuwe dialoogvenster &apos;XMP bewerken&apos;. </translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="363"/>
@@ -10563,7 +10563,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgRename.cpp" line="312"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. Do you want to remove them?</source>
-        <translation>Bijbehorende bestanden in de bestandenlijst zijn automatisch hernoemd naar  follow master filename. Wil u deze verwijderen?</translation>
+        <translation>Bijbehorende bestanden in de bestandenlijst zijn automatisch hernoemd volgens gegeven bestandsnaam. Wilt u deze verwijderen?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -10657,7 +10657,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgRename.ui" line="114"/>
         <source>Ignore extension for # enumerator</source>
-        <translation>Negeer uitbreiding voor  # enumerator</translation>
+        <translation>Uitbreiding voor # enumerator negeren</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="225"/>
@@ -11159,7 +11159,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgSearch.ui" line="294"/>
         <source>Presets: </source>
-        <translation>Voorinstellingen:</translation>
+        <translation>Voorinstellingen: </translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="356"/>
@@ -11303,7 +11303,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgSetDpi.ui" line="144"/>
         <source>Change EXIF DPI if exists</source>
-        <translation>Pas  EXIF DPI aan indien bestaand</translation>
+        <translation>EXIF DPI aanpassen indien aanwezig</translation>
     </message>
 </context>
 <context>
@@ -11634,7 +11634,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="581"/>
         <source>Misc.</source>
-        <translation>Diversen</translation>
+        <translation>Div.</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="587"/>
@@ -12757,17 +12757,17 @@ Voorvertoning</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="580"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation>&lt;Filename&gt; - Copy (#)</translation>
+        <translation>&lt;Filename&gt; - Kopie (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="585"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>Copy (#) of &lt;Filename&gt;</translation>
+        <translation>Kopie (#) van &lt;Filename&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="590"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation></translation>
+        <translation>&lt;Filename&gt;-Kopie (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="595"/>
@@ -13122,7 +13122,7 @@ Do you want to reassign?</source>
         <translation>%1 is al toegewezen aan:
 %2
 
-Wil je opnieuw toewijzen?</translation>
+Opnieuw toewijzen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -13182,7 +13182,7 @@ Wil je opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="87"/>
         <source>Maximum entries:</source>
         <oldsource>Maximum entries</oldsource>
-        <translation>Maximum aantal</translation>
+        <translation>Maximum aantal items:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="218"/>
@@ -13421,7 +13421,7 @@ Wil je opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1683"/>
         <location filename="DlgSettingsInterface.ui" line="1774"/>
         <source>No modifier</source>
-        <translation>Standaard</translation>
+        <translation>Geen aanpassing</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1307"/>
@@ -13864,7 +13864,7 @@ Wil je opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="398"/>
         <source>Other files</source>
-        <translation>Overige  bestanden</translation>
+        <translation>Overige bestanden</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
@@ -14262,7 +14262,7 @@ Wil je opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
         <source>Pixel ratio</source>
-        <translation>Pixel ratio</translation>
+        <translation>Pixel-ratio</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="309"/>
@@ -14492,7 +14492,7 @@ Wil je opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="700"/>
         <source>Misc.</source>
-        <translation>Diversen</translation>
+        <translation>Div.</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="91"/>
@@ -15148,7 +15148,7 @@ Wil je opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="336"/>
         <source>Auto hide cursor (fullscreen)</source>
-        <translation></translation>
+        <translation>Cursor automatisch verbergen (volledig scherm)</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="369"/>
@@ -15364,7 +15364,7 @@ Wil je opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="189"/>
         <source>Other settings</source>
-        <translation>Overige  instellingen</translation>
+        <translation>Overige instellingen</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="322"/>
@@ -16838,12 +16838,12 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
     <message>
         <location filename="GeneralSettings.cpp" line="912"/>
         <source>%1-Copy%2</source>
-        <translation>%1-Copy%2</translation>
+        <translation>%1-Kopie%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="914"/>
         <source>%1-Copy (%3)%2</source>
-        <translation>%1-Copy (%3)%2</translation>
+        <translation>%1-Kopie (%3)%2</translation>
     </message>
 </context>
 <context>
@@ -17697,7 +17697,7 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="96"/>
         <source>Partial Match Anywhere</source>
-        <translation>Deeloverneenkomst algemeen</translation>
+        <translation>Deel-overeenkomst waar dan ook</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="101"/>
@@ -18867,7 +18867,7 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="155"/>
         <source>Code of organization represented</source>
-        <translation>Code  van de organisatie vertegenwoordigd</translation>
+        <translation>Code van de vertegenwoordigde organisatie</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="156"/>
@@ -21865,7 +21865,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="408"/>
         <source>Show people&apos;s region</source>
-        <translation>Toon  mensen landstreek</translation>
+        <translation>Toon de regio van mensen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="409"/>
@@ -22198,12 +22198,12 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="434"/>
         <source>Posterize...</source>
-        <translation>Posterize...</translation>
+        <translation>Posterize…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="435"/>
         <source>Sepia...</source>
-        <translation>Sepia...</translation>
+        <translation>Sepia…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="436"/>
@@ -22228,7 +22228,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="440"/>
         <source>Effect...</source>
-        <translation>Effect...</translation>
+        <translation>Effect…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="442"/>
@@ -22271,7 +22271,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="463"/>
         <source>Canvas resize...</source>
-        <translation>Doekgroote aanpassen...</translation>
+        <translation>Doekgrootte aanpassen...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="464"/>
@@ -22408,7 +22408,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="Helper.h" line="98"/>
         <source>inches</source>
-        <translation>inches</translation>
+        <translation>inch</translation>
     </message>
     <message>
         <location filename="Helper.h" line="103"/>
@@ -22842,7 +22842,7 @@ U kunt dit wijzigen in Instellingen&gt; Catalogus.</translation>
         <source>%n object(s)</source>
         <translation>
             <numerusform>%n object</numerusform>
-            <numerusform>%n object(en)</numerusform>
+            <numerusform>%n objecten</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -22951,7 +22951,7 @@ U kunt dit wijzigen in Instellingen&gt; Catalogus.</translation>
         <location filename="PaintDialog.cpp" line="64"/>
         <source>Do you want to exit drawing and discard your changes?</source>
         <oldsource>Do you want to close the draw tools?</oldsource>
-        <translation>Wil uw &quot;Tekenen&quot; verlaten  zonderuw aanpassingen ?</translation>
+        <translation>Wilt u de tekening verlaten en uw wijzigingen weggooien?</translation>
     </message>
     <message>
         <location filename="PaintDialog.cpp" line="64"/>
@@ -23375,7 +23375,7 @@ Rechtermuisklik opent het actiemenu.</translation>
         <location filename="qftp.cpp" line="671"/>
         <source>Not connected</source>
         <translatorcomment>Connection protocol texts in English</translatorcomment>
-        <translation></translation>
+        <translation>Not connected</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="739"/>
@@ -24400,7 +24400,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="WebError.cpp" line="47"/>
         <source>The connection to the remote server timed out.</source>
-        <translation>De verbinding met de externe server  &quot;timed out&quot;.</translation>
+        <translation>De verbinding met de externe server is verlopen.</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="50"/>
@@ -24415,7 +24415,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="WebError.cpp" line="56"/>
         <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation>De verbinding was verbroken wegens verbreking verbinding van het netwerk , alhoewel het systeem roaming heeft gestart naar het Access punt .  Het verzoek moet opnieuw ingediend worden en zal worden verwerkt als de verbinding hersteld is .</translation>
+        <translation>De verbinding was verbroken wegens verbreking verbinding van het netwerk , alhoewel het systeem roaming heeft gestart naar het Access punt . Het verzoek moet opnieuw ingediend worden en zal worden verwerkt als de verbinding hersteld is .</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="59"/>
@@ -24465,7 +24465,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="WebError.cpp" line="86"/>
         <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation>Het verzoek diende opnieuw verstuurd , maar dit mislukte  omdat de upload data niet nogmaals kon gelezen worden .</translation>
+        <translation>Het verzoek diende opnieuw verstuurd , maar dit mislukte omdat de upload data niet nogmaals kon gelezen worden .</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="89"/>
@@ -24495,7 +24495,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="WebError.cpp" line="104"/>
         <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
-        <translation>Een falen in het protocol was opgemerkt  (splitsing fout,ongeldig of onverwachte antwoorden enz.).</translation>
+        <translation>Er is een storing in het protocol gedetecteerd (parseerfout, ongeldige of onverwachte reacties, enz.).</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="124"/>
@@ -24580,17 +24580,17 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="WebError.cpp" line="172"/>
         <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation>Het bron CA certificaat is gemarkeert als te verwerpen voor het specifieke doel.</translation>
+        <translation>Het root CA-certificaat is gemarkeerd om het gespecificeerde doel te weigeren.</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="175"/>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation>Het huidige kandidaat verlener certificaat was verworpen  omdat de Onderwerp naam niet overeenkwam met het huidige certificaat .</translation>
+        <translation>Het huidige certificaat van kandidaat-emittent werd afgewezen omdat de onderwerpnaam niet overeenkwam met de naam van de uitgevende instelling van het huidige certificaat.</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="179"/>
         <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation>Het huidige kandidaat verlener certificaat was verworpen  omdat de Onderwerp naam en het Serienummer aanwezig was maar niet overeenkwam met de&quot;Authority key identifier&quot; van het huidige certificaat .</translation>
+        <translation>Het huidige certificaat van kandidaat-emittent werd afgewezen omdat de gegeven naam en serienummer van de uitgevende instelling niet overeenkwamen met de autoriteitssleutelidentificatie van het huidige certificaat.</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="184"/>
@@ -24600,7 +24600,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="WebError.cpp" line="187"/>
         <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation>De host name kwam met geen enkele  geldige host overeen voor dit certificaat .</translation>
+        <translation>De host name kwam met geen enkele geldige host overeen voor dit certificaat .</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="191"/>
@@ -24757,7 +24757,7 @@ Waardering-, Labels- en Kleurlabels worden niet opgeslagen.</translation>
         <location filename="xnview.cpp" line="1666"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
-        <translation>Veel opgeslagen tabbladen kan de opstart van de toepassing merkbaar vertragen</translation>
+        <translation>Het opslaan van veel tabbladen kan de heropening van applicaties merkbaar vertragen.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1672"/>
