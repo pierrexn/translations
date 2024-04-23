@@ -2676,7 +2676,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.ui" line="1047"/>
         <source>If an output file already exists</source>
         <oldsource>If an output file arealdy exists</oldsource>
-        <translation>Если файл уже существует, то </translation>
+        <translation>Если файл уже существует, то</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1058"/>
@@ -5161,7 +5161,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert-old.ui" line="1713"/>
         <source>Remaining:</source>
         <translatorcomment>Двоеточие не надо, а то по смыслу не подходит</translatorcomment>
-        <translation>Осталось файлов: </translation>
+        <translation>Осталось файлов:</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1380"/>
@@ -5183,7 +5183,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="924"/>
         <source>If an output file already exists</source>
         <oldsource>If an output file arealdy exists</oldsource>
-        <translation>Если файл уже существует, то </translation>
+        <translation>Если файл уже существует, то</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="973"/>
@@ -5231,7 +5231,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.ui" line="1540"/>
         <source>Check for program updates</source>
-        <translation>Выполнять поиск обновлений </translation>
+        <translation>Выполнять поиск обновлений</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1548"/>
