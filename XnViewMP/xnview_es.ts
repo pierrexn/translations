@@ -9773,7 +9773,7 @@ Vista previa</translation>
     </message>
     <message>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Clasificación</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -9781,11 +9781,11 @@ Vista previa</translation>
     </message>
     <message>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar automáticamente el primer elemento al entrar en la carpeta</translation>
     </message>
     <message>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar automáticamente nuevos archivos</translation>
     </message>
     <message>
         <source>View as</source>
@@ -10436,7 +10436,10 @@ Vista previa</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ya está asignado a:
+%2
+
+¿Desea reasignar?</translation>
     </message>
 </context>
 <context>
@@ -11649,7 +11652,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer ajuste &quot;Zoom automático&quot; con archivo siguiente/anterior</translation>
     </message>
 </context>
 <context>
@@ -12980,7 +12983,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir a espacio de color XYB</translation>
     </message>
 </context>
 <context>
@@ -16397,7 +16400,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open with test</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir con prueba</translation>
     </message>
 </context>
 <context>
