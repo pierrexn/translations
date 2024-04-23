@@ -9867,7 +9867,7 @@ Preview</source>
     </message>
     <message>
         <source>View as</source>
-        <translation type="unfinished">Դիտել որպես՝</translation>
+        <translation>Դիտել որպես</translation>
     </message>
     <message>
         <source>Display file size in bytes</source>
