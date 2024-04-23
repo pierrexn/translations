@@ -12217,22 +12217,22 @@ előnézetben</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendezés</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">Kijelölés</translation>
+        <translation>Kijelölés</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Első elem automatikus kiválasztása a mappába lépéskor</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Új fájlok automatikus kijelölése</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -13134,7 +13134,10 @@ előnézetben</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 már hozzá van rendelve:
+%2
+
+Szeretné újratársítani?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
