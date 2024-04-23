@@ -15247,7 +15247,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="270"/>
         <source>Window title bar</source>
-        <translation>Панель задач Windows</translation>
+        <translation>Заголовок окна</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="277"/>
@@ -15278,7 +15278,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
-        <translation>Использовать аудиофайлы</translation>
+        <translation>Использовать аудиофайл</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="336"/>
@@ -19251,7 +19251,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1052"/>
         <source>EXIF Date Taken</source>
-        <translation>Дата EXIF</translation>
+        <translation>EXIF: Дата съёмки</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1054"/>
@@ -20195,12 +20195,12 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="577"/>
         <source>Rotate 90° right</source>
-        <translation type="unfinished">На 90° вправо</translation>
+        <translation>Повернуть на 90° вправо</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="578"/>
         <source>Rotate 90° left</source>
-        <translation type="unfinished">На 90° влево</translation>
+        <translation>Повернуть на 90° влево</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="579"/>
@@ -20256,7 +20256,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="603"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
-        <translation>Правка GPS...</translation>
+        <translation>Изменить данные GPS...</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rotate 90°</source>
@@ -22129,12 +22129,12 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="453"/>
         <source>Rotate 90° right</source>
-        <translation type="unfinished">На 90° вправо</translation>
+        <translation>Повернуть на 90° вправо</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="455"/>
         <source>Rotate 90° left</source>
-        <translation type="unfinished">На 90° влево</translation>
+        <translation>Повернуть на 90° влево</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="457"/>
