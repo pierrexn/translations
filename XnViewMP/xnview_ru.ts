@@ -789,7 +789,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3217"/>
         <source>&lt;files&gt;</source>
-        <translation type="unfinished">&lt;файлы&gt;</translation>
+        <translation>&lt;файлы&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3758"/>
@@ -1125,7 +1125,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="546"/>
         <source>Best fit</source>
-        <translation>По размеру окна</translation>
+        <translation>Наилучшая подгонка</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="570"/>
@@ -1194,7 +1194,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="CompareWindow.cpp" line="41"/>
         <source>Thumbnails</source>
         <translatorcomment>Пробелы, чтобы смотрелось лучше</translatorcomment>
-        <translation>  Эскизы изображений </translation>
+        <translation>Эскизы изображений</translation>
     </message>
     <message>
         <location filename="CompareWindow.cpp" line="130"/>
@@ -2164,7 +2164,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgAcquireInto.cpp" line="173"/>
         <source>An error has occurred when saving %1</source>
         <oldsource>An error occured when saving %1</oldsource>
-        <translation type="unfinished">Произошла ошибка при сохранении %1</translation>
+        <translation>Произошла ошибка при сохранении %1</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="179"/>
@@ -3175,23 +3175,23 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="57"/>
         <source>Copy Categories to Set...</source>
-        <translation> Копировать категорию в набор... </translation>
+        <translation>Копировать категории в набор...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="83"/>
         <source>Add Set...</source>
-        <translation> Добавить набор... </translation>
+        <translation>Добавить набор...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="90"/>
         <source>Rename Set...</source>
-        <translation> Переименовать набор... </translation>
+        <translation>Переименовать набор...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="97"/>
         <location filename="DlgCategorySetsSettings.cpp" line="236"/>
         <source>Delete Set</source>
-        <translation> Удалить набор </translation>
+        <translation>Удалить набор</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="137"/>
@@ -3600,7 +3600,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
         <source>Best fit</source>
-        <translation>По размеру окна</translation>
+        <translation>Наилучшая подгонка</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
@@ -5050,7 +5050,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="339"/>
         <location filename="DlgConvert-old.ui" line="871"/>
         <source>Best fit</source>
-        <translation>По размеру окна</translation>
+        <translation>Наилучшая подгонка</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="367"/>
@@ -7860,7 +7860,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.cpp" line="181"/>
         <source>Best fit</source>
-        <translation>По размеру окна</translation>
+        <translation>Наилучшая подгонка</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="194"/>
@@ -8085,7 +8085,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="468"/>
         <source>Subsampling factor</source>
-        <translation>Дискретизация</translation>
+        <translation>Субдискретизация</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -8157,7 +8157,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFile.cpp" line="103"/>
         <source>Move</source>
-        <translation> Переместить </translation>
+        <translation>Переместить</translation>
     </message>
 </context>
 <context>
@@ -8330,7 +8330,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileReplace.ui" line="165"/>
         <source>Best fit</source>
-        <translation>По размеру окна</translation>
+        <translation>Наилучшая подгонка</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="192"/>
@@ -10291,7 +10291,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.cpp" line="53"/>
         <source>Best fit</source>
-        <translation>По размеру окна</translation>
+        <translation>Наилучшая подгонка</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="305"/>
@@ -15003,7 +15003,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="126"/>
         <location filename="DlgSimilarResult.ui" line="278"/>
         <source>Best fit</source>
-        <translation>В размер окна</translation>
+        <translation>Наилучшая подгонка</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="153"/>
@@ -15351,7 +15351,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
         <source>Best fit</source>
-        <translation>Подогнать под размер окна</translation>
+        <translation>Наилучшая подгонка</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="55"/>
@@ -16537,7 +16537,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="143"/>
         <source>Subsampling factor</source>
-        <translation>Дискретизация</translation>
+        <translation>Субдискретизация</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="151"/>
@@ -17256,7 +17256,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Sub-sampling</source>
-        <translation>Дискретизация</translation>
+        <translation>Субдискретизация</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -19162,13 +19162,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="675"/>
         <source>Video</source>
-        <translation>Видеофайлы</translation>
+        <translation>Видео</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="693"/>
         <location filename="InfoPropertiesView.cpp" line="712"/>
         <source>Audio</source>
-        <translation>Аудиофайлы</translation>
+        <translation>Аудио</translation>
     </message>
 </context>
 <context>
@@ -22125,7 +22125,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Remove Background</source>
-        <translation type="unfinished">Удаление цвета фона</translation>
+        <translation>Удалить фон</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="453"/>
@@ -23194,7 +23194,7 @@ You can change it in Settings&gt;Catalog.</source>
     <message>
         <location filename="PaintWidget.ui" line="391"/>
         <source>Best fit</source>
-        <translation>По размеру окна</translation>
+        <translation>Наилучшая подгонка</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="46"/>

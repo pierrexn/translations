@@ -373,7 +373,8 @@
 </source>
         <oldsource>Do you want to save changes to &quot;%1&quot;?
 </oldsource>
-        <translation>Ali želite shraniti spremembe v &quot;%1&quot;?
+        <translation>Ali želite shraniti spremembe v
+ &quot;%1&quot;?
 </translation>
     </message>
     <message>
@@ -394,7 +395,7 @@
         <location filename="ViewWindow.cpp" line="220"/>
         <source>&amp;Don&apos;t Save</source>
         <translatorcomment>&amp;Ne shrani</translatorcomment>
-        <translation></translation>
+        <translation>&amp;Ne shranjuj</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="223"/>
@@ -1359,7 +1360,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="2572"/>
         <source>Aspect Pad</source>
-        <translation>Aspect Pad</translation>
+        <translation>Podoba Pad</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2631"/>
@@ -1424,7 +1425,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="4508"/>
         <source>Bloom</source>
-        <translation>Bloom</translation>
+        <translation>Cvetanje</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4532"/>
@@ -1536,7 +1537,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="2973"/>
         <source>Amount</source>
-        <translation>Intenzivnost</translation>
+        <translation>Znesek</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3015"/>
@@ -1680,7 +1681,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvert.cpp" line="205"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
-        <translation>Sepia</translation>
+        <translation>Sepija</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="206"/>
@@ -1852,7 +1853,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvert.cpp" line="273"/>
         <location filename="DlgFilter.cpp" line="77"/>
         <source>Pointillize</source>
-        <translation>Pointillize</translation>
+        <translation>Pointiliziraj</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1643"/>
@@ -11548,7 +11549,7 @@ Hvala za nakup %1.</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">Predogled</translation>
+        <translation>Predogled</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
@@ -12267,32 +12268,32 @@ predogledu</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvrščanje</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">Izbira</translation>
+        <translation>Izbira</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejna izbira prvega elementa ob vstopu v mapo</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno izberite nove datoteke</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">Pogled kot</translation>
+        <translation>Pogled kot</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Prikaži velikost datoteke v bajtih</translation>
+        <translation>Prikaži velikost datoteke v bajtih</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13185,7 +13186,10 @@ predogledu</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je že dodeljen:
+%2
+
+Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1194"/>
@@ -14490,7 +14494,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">Z naslednjo/predhodno datoteko ponastavi nastavitev &apos;Samodejna velikost slike&apos;</translation>
+        <translation>Ponastavite nastavitev &apos;Samodejna povečava&apos; z naslednjo/prejšnjo datoteko</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -16489,7 +16493,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori v XYB barvni prostor</translation>
     </message>
 </context>
 <context>
@@ -20572,7 +20576,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with test</source>
         <oldsource>Open with</oldsource>
-        <translation type="unfinished">Odpri z</translation>
+        <translation>Odpri s testom</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -22122,7 +22126,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Spremeni velikost...</translation>
+        <translation>Spremeni velikost...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
