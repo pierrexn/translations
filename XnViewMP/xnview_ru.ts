@@ -382,7 +382,7 @@
         <location filename="ViewWindow.cpp" line="2207"/>
         <location filename="ViewWindow.cpp" line="2211"/>
         <source>Delete items</source>
-        <translation>Удаление элементов</translation>
+        <translation>Удаление файлов</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2201"/>
@@ -761,7 +761,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3764"/>
         <source>Delete items</source>
-        <translation>Удаление элементов</translation>
+        <translation>Удаление файлов</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4208"/>
@@ -2408,7 +2408,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="661"/>
         <source>Resample</source>
-        <translation>Повторная выборка</translation>
+        <translation>Ресамплинг</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="672"/>
@@ -4681,7 +4681,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.ui" line="1707"/>
         <source>Use color based on file format</source>
-        <translation>Использовать исходный цвет для подсветки формата файла</translation>
+        <translation>Использовать цвет для подсветки формата файла</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1172"/>
@@ -6198,7 +6198,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertResize.ui" line="486"/>
         <source>Resample</source>
         <translatorcomment>Делать повторную выборку (изображения) (с изменением его разрешения)</translatorcomment>
-        <translation>Повторная выборка</translation>
+        <translation>Ресамплинг</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="497"/>
@@ -10677,7 +10677,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgResize.ui" line="133"/>
         <source>Resample</source>
-        <translation>Повторная выборка</translation>
+        <translation>Ресамплинг</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="245"/>
@@ -12044,7 +12044,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="284"/>
         <source>Use color based on file format</source>
-        <translation>Использовать исходный цвет для подсветки формата файла</translation>
+        <translation>Использовать цвет для подсветки формата файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="297"/>
