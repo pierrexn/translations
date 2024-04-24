@@ -2401,22 +2401,22 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="719"/>
         <source>Enlarge/Reduce</source>
-        <translation type="unfinished">Agrandir/Réduire</translation>
+        <translation>Agrandir/Réduire</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="730"/>
         <source>Always</source>
-        <translation type="unfinished">Toujours</translation>
+        <translation>Toujours</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="735"/>
         <source>Reduce only</source>
-        <translation type="unfinished">Réduire seulement</translation>
+        <translation>Réduire seulement</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="740"/>
         <source>Enlarge only</source>
-        <translation type="unfinished">Agrandir seulement</translation>
+        <translation>Agrandir seulement</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="780"/>
@@ -3262,7 +3262,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgContactSheet.ui" line="207"/>
         <source>Vertical margin</source>
-        <translation>MArge verticale</translation>
+        <translation>Marge verticale</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="231"/>
@@ -3845,7 +3845,8 @@ Do you want to overwrite it?</source>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Un fichier nommé %1 existe déjà. Voulez-vous l&apos;écraser ?</translation>
+        <translation>Un fichier nommé %1 existe déjà. 
+Voulez-vous l&apos;écraser ?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2614"/>
@@ -8971,7 +8972,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgIptc.ui" line="870"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished">Ne pas charger les champs</translation>
+        <translation>Ne pas charger les champs</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="802"/>
@@ -10086,7 +10087,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgReadFITS.ui" line="30"/>
         <source>Min/Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Min/Max</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="35"/>
@@ -10106,7 +10107,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgReadFITS.ui" line="50"/>
         <source>Square</source>
-        <translation type="unfinished">Carré</translation>
+        <translation>Carré</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="55"/>
@@ -10317,7 +10318,7 @@ Merci d&apos;avoir acheté %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools&gt;Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Merci de l&apos;installer via Tools›Plugins</translation>
     </message>
 </context>
 <context>
@@ -11212,7 +11213,7 @@ Merci d&apos;avoir acheté %1.</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
         <source>Preview</source>
-        <translation type="unfinished">Aperçu</translation>
+        <translation>Aperçu</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="120"/>
@@ -11899,27 +11900,27 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">Sélection</translation>
+        <translation>Sélection</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-sélection du premier élement en ouvrant un dossier</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-sélection des nouveaux fichiers</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">Afficher en</translation>
+        <translation>Afficher en</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Afficher la taille de fichier en octets</translation>
+        <translation>Afficher la taille de fichier en octets</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -12023,7 +12024,7 @@ Vignette</translation>
         <location filename="DlgSettingsFormat.ui" line="116"/>
         <source>Show most used formats at beginning</source>
         <oldsource>Show most used format at beginning</oldsource>
-        <translation type="unfinished">Formats les plus utilisés en haut</translation>
+        <translation>Formats les plus utilisés en haut</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12273,7 +12274,7 @@ Vignette</translation>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
-        <translation type="unfinished">Profil de couleur</translation>
+        <translation>Gestion de la couleur</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1001"/>
@@ -13468,7 +13469,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
-        <translation type="unfinished">Créer toutes les vignettes du dossier</translation>
+        <translation>Créer toutes les vignettes du dossier</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -15749,7 +15750,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir dans l&apos;espace de couleur XYB</translation>
     </message>
 </context>
 <context>
@@ -16637,7 +16638,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="699"/>
         <location filename="InfoPropertiesView.cpp" line="718"/>
         <source>Duration</source>
-        <translation type="unfinished">Durée</translation>
+        <translation>Durée</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="683"/>
@@ -16691,7 +16692,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="697"/>
         <location filename="InfoPropertiesView.cpp" line="716"/>
         <source>Format settings</source>
-        <translation type="unfinished">Paramètres des formats</translation>
+        <translation>Paramètres des formats</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="700"/>
@@ -16708,12 +16709,12 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="725"/>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="726"/>
         <source>Title</source>
-        <translation type="unfinished">Titre</translation>
+        <translation>Titre</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="727"/>
@@ -20809,31 +20810,31 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="199"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
-        <translation type="unfinished">RVB=&gt;RBV</translation>
+        <translation>RVB→RBV</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
-        <translation type="unfinished">RVB=&gt;BVR</translation>
+        <translation>RVB→BVR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
-        <translation type="unfinished">RVB=&gt;BRV</translation>
+        <translation>RVB→BRV</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
-        <translation type="unfinished">RVB=&gt;VRB</translation>
+        <translation>RVB→VRB</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
-        <translation type="unfinished">RVB=&gt;VBR</translation>
+        <translation>RVB→VBR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -21202,7 +21203,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Redimensionner...</translation>
+        <translation>Redimensionner...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
@@ -21429,7 +21430,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">Editer la palette...</translation>
+        <translation>Editer la palette...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="481"/>
@@ -23339,17 +23340,17 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ViewCropAction.cpp" line="228"/>
         <source>Swap selection width and height</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervertir largeur et hauteur de la sélection</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="240"/>
         <source>Show selection grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Montrer la grille dans la sélection</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="246"/>
         <source>Center selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrer la sélection</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="250"/>
