@@ -2842,7 +2842,8 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Een bestand met de naam %1 bestaat al. Wilt u het overschrijven?</translation>
+        <translation>Een bestand met de naam %1 bestaat al.
+Wilt u het overschrijven?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
@@ -3847,7 +3848,8 @@ Do you want to overwrite it?</source>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Een bestand met de naam %1 bestaat al. Wilt u het overschrijven?</translation>
+        <translation>Een bestand met de naam %1 bestaat al.
+Wilt u het overschrijven?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2614"/>
@@ -6268,7 +6270,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertSwap.ui" line="19"/>
         <source>RGB →</source>
         <oldsource>RGB ==&gt;</oldsource>
-        <translation type="unfinished">RGB ==&gt;</translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
@@ -8988,7 +8990,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgIptc.ui" line="870"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished">Geen veldgegevens laden</translation>
+        <translation>Geen veldwaarden laden</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="836"/>
@@ -12025,7 +12027,7 @@ Miniatuur</translation>
         <location filename="DlgSettingsFormat.ui" line="116"/>
         <source>Show most used formats at beginning</source>
         <oldsource>Show most used format at beginning</oldsource>
-        <translation type="unfinished">Toon meest gebruikt formaat aan het begin</translation>
+        <translation>Meest gebruikte formaten eerst tonen</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12440,7 +12442,7 @@ Miniatuur</translation>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
-        <translation type="unfinished">Kleurprofiel</translation>
+        <translation>Kleurenbeheer</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="812"/>
@@ -13477,7 +13479,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
-        <translation type="unfinished">Miniaturen voor de hele map aanmaken</translation>
+        <translation>Miniaturen voor de hele map aanmaken</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13840,7 +13842,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gulden snede (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="790"/>
@@ -16007,7 +16009,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">Gebruik scherp (en traag) RGB-&gt;YUV conversie</translation>
+        <translation>Gebruik scherp (en traag) RGB→YUV conversie</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -20560,31 +20562,31 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="199"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
-        <translation type="unfinished">RGB=&gt;RBG</translation>
+        <translation>RGB→RBG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
-        <translation type="unfinished">RGB=&gt;BGR</translation>
+        <translation>RGB→BGR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
-        <translation type="unfinished">RGB=&gt;BRG</translation>
+        <translation>RGB→BRG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
-        <translation type="unfinished">RGB=&gt;GRB</translation>
+        <translation>RGB→GRB</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
-        <translation type="unfinished">RGB=&gt;GBR</translation>
+        <translation>RGB→GBR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -21200,7 +21202,7 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">Kleurenkaart bewerken…</translation>
+        <translation>Palet bewerken…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
