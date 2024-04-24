@@ -3026,12 +3026,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="83"/>
         <source>Add Set...</source>
-        <translation>Verzameling toevoegen...</translation>
+        <translation>Verzameling toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="90"/>
         <source>Rename Set...</source>
-        <translation>Verzameling hernoemen...</translation>
+        <translation>Verzameling hernoemen…</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="97"/>
@@ -3378,7 +3378,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgContactSheet.ui" line="690"/>
         <source>Settings...</source>
-        <translation>Instellingen...</translation>
+        <translation>Instellingen…</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="701"/>
@@ -3615,7 +3615,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
         <source>Saving ZIP file...</source>
-        <translation>ZIP-bestand opslaan...</translation>
+        <translation>ZIP-bestand opslaan…</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2347"/>
@@ -3625,7 +3625,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="2373"/>
         <source>Uploading image(s) to server...</source>
-        <translation>Afbeelding(en) uploaden naar server...</translation>
+        <translation>Afbeelding(en) uploaden naar server…</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2436"/>
@@ -3682,7 +3682,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="593"/>
         <source>Save log as...</source>
-        <translation>Logboek opslaan als...</translation>
+        <translation>Logboek opslaan als…</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="599"/>
@@ -3698,7 +3698,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1516"/>
         <source>Load image...</source>
-        <translation>Afbeelding laden...</translation>
+        <translation>Afbeelding laden…</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1520"/>
@@ -4416,18 +4416,18 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert-old.ui" line="83"/>
         <source>Add files...</source>
-        <translation>Bestanden toevoegen...</translation>
+        <translation>Bestanden toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="94"/>
         <source>Add folder...</source>
-        <translation>Map toevoegen...</translation>
+        <translation>Map toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1716"/>
         <location filename="DlgConvert-old.ui" line="101"/>
         <source>Load format settings...</source>
-        <translation>Formaatinstellingen laden...</translation>
+        <translation>Formaatinstellingen laden…</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="124"/>
@@ -4495,7 +4495,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvert-old.ui" line="896"/>
         <location filename="DlgConvert-old.ui" line="1175"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="231"/>
@@ -4554,7 +4554,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvert.ui" line="407"/>
         <location filename="DlgConvert-old.ui" line="933"/>
         <source>Load image...</source>
-        <translation>Afbeelding laden...</translation>
+        <translation>Afbeelding laden…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="450"/>
@@ -4757,7 +4757,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvert-old.ui" line="1322"/>
         <location filename="DlgConvert-old.ui" line="1473"/>
         <source>Settings...</source>
-        <translation>Instellingen...</translation>
+        <translation>Instellingen…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="916"/>
@@ -4875,7 +4875,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.ui" line="49"/>
         <source>Hot folders...</source>
-        <translation>Veelgebruikte mappen...</translation>
+        <translation>Veelgebruikte mappen…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="107"/>
@@ -5025,7 +5025,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.ui" line="1642"/>
         <source>Registration...</source>
-        <translation>Registratie...</translation>
+        <translation>Registratie…</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="1855"/>
@@ -5041,17 +5041,17 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvert.ui" line="1893"/>
         <location filename="DlgConvert-old.ui" line="1916"/>
         <source>Export for NConvert...</source>
-        <translation>NConvert .bat exporteren...</translation>
+        <translation>NConvert .bat exporteren…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1941"/>
         <source>Follow us on Facebook...</source>
-        <translation>Volg ons op Facebook...</translation>
+        <translation>Volg ons op Facebook…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1964"/>
         <source>Follow us on Twitter...</source>
-        <translation>Volg ons op X (Twitter)...</translation>
+        <translation>Volg ons op X (Twitter)…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="2003"/>
@@ -5558,7 +5558,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertIptc.ui" line="240"/>
         <source>Load template...</source>
-        <translation>Sjabloon laden...</translation>
+        <translation>Sjabloon laden…</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="37"/>
@@ -5652,7 +5652,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="90"/>
@@ -6755,7 +6755,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgCreateMulti.ui" line="116"/>
         <source>Add...</source>
-        <translation>Toevoegen...</translation>
+        <translation>Toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="123"/>
@@ -6801,13 +6801,13 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgCreateMulti.ui" line="222"/>
         <source>Settings...</source>
-        <translation>Instellingen...</translation>
+        <translation>Instellingen…</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="125"/>
         <source>Creating multipage file, please wait...</source>
         <oldsource>Create multipage file, please wait...</oldsource>
-        <translation>Meerpagina-bestand aanmaken, even geduld...</translation>
+        <translation>Meerpagina-bestand aanmaken, even geduld…</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="128"/>
@@ -6823,7 +6823,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgCreateMulti.cpp" line="160"/>
         <source>Loading file(s). Please wait...</source>
         <oldsource>Load file(s), please wait... </oldsource>
-        <translation>Bestand(en) laden, even geduld...</translation>
+        <translation>Bestanden laden, even geduld…</translation>
     </message>
 </context>
 <context>
@@ -6837,12 +6837,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgCropSize.ui" line="37"/>
         <source>New...</source>
         <oldsource>Add...</oldsource>
-        <translation>Nieuw...</translation>
+        <translation>Nieuw…</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="44"/>
         <source>Edit...</source>
-        <translation>Bewerken...</translation>
+        <translation>Bewerken…</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="51"/>
@@ -6967,12 +6967,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgEditFav.ui" line="66"/>
         <source>Edit...</source>
-        <translation>Bewerken...</translation>
+        <translation>Bewerken…</translation>
     </message>
     <message>
         <location filename="DlgEditFav.ui" line="76"/>
         <source>Rename...</source>
-        <translation>Hernoemen...</translation>
+        <translation>Hernoemen…</translation>
     </message>
     <message>
         <location filename="DlgEditFav.ui" line="83"/>
@@ -7189,12 +7189,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgEditXMP.ui" line="666"/>
         <source>Save template...</source>
-        <translation>Sjabloon opslaan...</translation>
+        <translation>Sjabloon opslaan…</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="676"/>
         <source>Load template...</source>
-        <translation>Sjabloon laden...</translation>
+        <translation>Sjabloon laden…</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="702"/>
@@ -7278,7 +7278,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="574"/>
         <source>Edit history...</source>
-        <translation>Geschiedenis bewerken...</translation>
+        <translation>Geschiedenis bewerken…</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="575"/>
@@ -7318,7 +7318,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgEditXMP.cpp" line="1131"/>
         <source>Changing files, please wait...</source>
         <oldsource>Changing files, please wait... </oldsource>
-        <translation>Bestanden aanpassen , even geduld...</translation>
+        <translation>Bestanden aanpassen, even geduld…</translation>
     </message>
 </context>
 <context>
@@ -7351,7 +7351,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgEmail.ui" line="79"/>
         <source>SMTP settings...</source>
-        <translation>SMTP-instellingen...</translation>
+        <translation>SMTP-instellingen…</translation>
     </message>
     <message>
         <location filename="DlgEmail.ui" line="88"/>
@@ -7740,7 +7740,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Set transparency color...</source>
-        <translation>Transparantiekleur instellen...</translation>
+        <translation>Transparantiekleur instellen…</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="327"/>
@@ -7825,7 +7825,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="605"/>
         <source>&amp;Export...</source>
-        <translation>&amp;Exporteren...</translation>
+        <translation>&amp;Exporteren…</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="612"/>
@@ -7985,7 +7985,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="80"/>
         <source>Save as...</source>
-        <translation>Opslaan als...</translation>
+        <translation>Opslaan als…</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="120"/>
@@ -8199,7 +8199,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgFlickrSettings.ui" line="59"/>
         <source>New user...</source>
-        <translation>Nieuwe gebruiker...</translation>
+        <translation>Nieuwe gebruiker…</translation>
     </message>
     <message>
         <location filename="DlgFlickrSettings.h" line="134"/>
@@ -8227,7 +8227,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgFtp.cpp" line="440"/>
         <source>Connecting to FTP server %1...</source>
-        <translation>Verbinden met FTP-server %1...</translation>
+        <translation>Verbinden met FTP-server %1…</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="505"/>
@@ -8247,7 +8247,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgFtp.cpp" line="559"/>
         <source>Uploading...</source>
-        <translation>Uploaden...</translation>
+        <translation>Uploaden…</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="586"/>
@@ -8578,7 +8578,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgHotFolder.ui" line="56"/>
         <source>Add folder...</source>
-        <translation>Map toevoegen...</translation>
+        <translation>Map toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.ui" line="66"/>
@@ -8660,7 +8660,7 @@ Submappen worden aangemaakt. </translation>
         <location filename="DlgImport.ui" line="146"/>
         <location filename="DlgImport.ui" line="255"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="167"/>
@@ -8783,7 +8783,7 @@ Submappen worden aangemaakt. </translation>
     <message>
         <location filename="DlgImportThread.h" line="92"/>
         <source>Import and sort files...</source>
-        <translation>Bestanden importeren en sorteren...</translation>
+        <translation>Bestanden importeren en sorteren…</translation>
     </message>
 </context>
 <context>
@@ -8916,7 +8916,7 @@ Wilt u de wijzigingen opslaan?</translation>
     <message>
         <location filename="DlgIptc.cpp" line="1108"/>
         <source>Edit history...</source>
-        <translation>Geschiedenis bewerken...</translation>
+        <translation>Geschiedenis bewerken…</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1109"/>
@@ -8971,7 +8971,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgIptc.ui" line="846"/>
         <source>Load template...</source>
-        <translation>Sjabloon laden...</translation>
+        <translation>Sjabloon laden…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="730"/>
@@ -8987,7 +8987,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgIptc.ui" line="836"/>
         <source>Save template...</source>
-        <translation>Sjabloon opslaan...</translation>
+        <translation>Sjabloon opslaan…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="863"/>
@@ -9022,7 +9022,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgIptc.ui" line="107"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="163"/>
@@ -9032,7 +9032,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgIptc.ui" line="198"/>
         <source>Import...</source>
-        <translation>Importeren...</translation>
+        <translation>Importeren…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="225"/>
@@ -9108,7 +9108,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgIptc.ui" line="853"/>
         <source>Load template V1...</source>
-        <translation>Sjabloon V1 laden...</translation>
+        <translation>Sjabloon V1 laden…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="713"/>
@@ -9247,7 +9247,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgLayout.ui" line="16"/>
         <source>Change layout...</source>
-        <translation>Indeling aanpassen...</translation>
+        <translation>Indeling aanpassen…</translation>
     </message>
     <message>
         <location filename="DlgLayout.ui" line="28"/>
@@ -9374,7 +9374,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs...</source>
-        <translation>Programma&apos;s instellen...</translation>
+        <translation>Programma&apos;s instellen…</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9390,7 +9390,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="62"/>
         <source>Add...</source>
-        <translation>Toevoegen...</translation>
+        <translation>Toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="69"/>
@@ -9428,12 +9428,12 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgPalette.ui" line="124"/>
         <source>Load...</source>
-        <translation>Laden...</translation>
+        <translation>Laden…</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="131"/>
         <source>Save...</source>
-        <translation>Opslaan...</translation>
+        <translation>Opslaan…</translation>
     </message>
     <message>
         <location filename="DlgPalette.cpp" line="384"/>
@@ -9904,12 +9904,12 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgPrint.ui" line="996"/>
         <location filename="DlgPrint.ui" line="1019"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="1061"/>
         <source>Page setup...</source>
-        <translation>Pagina-instellingen...</translation>
+        <translation>Pagina-instellingen…</translation>
     </message>
     <message>
         <location filename="DlgPrint.cpp" line="1613"/>
@@ -10370,7 +10370,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgRename.ui" line="92"/>
         <source>Duplicate...</source>
-        <translation>Dupliceren...</translation>
+        <translation>Dupliceren…</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="121"/>
@@ -10484,7 +10484,7 @@ Dank u voor de aanschaf van %1.</translation>
         <location filename="DlgRename.ui" line="415"/>
         <location filename="DlgRename.ui" line="429"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
 </context>
 <context>
@@ -10854,7 +10854,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgSearch.cpp" line="469"/>
         <source>Searching...</source>
-        <translation>Zoeken...</translation>
+        <translation>Zoeken…</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="495"/>
@@ -10926,7 +10926,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgSearch.ui" line="386"/>
         <source>Browse...</source>
-        <translation>Verkennen...</translation>
+        <translation>Verkennen…</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="393"/>
@@ -10994,7 +10994,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgSearchProgress.cpp" line="24"/>
         <source>Browse...</source>
-        <translation>Verkennen...</translation>
+        <translation>Verkennen…</translation>
     </message>
     <message>
         <location filename="DlgSearchProgress.cpp" line="45"/>
@@ -11641,12 +11641,12 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="361"/>
         <source>Maintenance...</source>
-        <translation>Onderhoud...</translation>
+        <translation>Onderhoud…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="368"/>
         <source>Import folder...</source>
-        <translation>Map importeren...</translation>
+        <translation>Map importeren…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="402"/>
@@ -11661,23 +11661,23 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView category db...</source>
-        <translation>XnView categorieën-database importeren...</translation>
+        <translation>XnView categorieën-database importeren…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
         <source>Add folder...</source>
-        <translation>Map toevoegen...</translation>
+        <translation>Map toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="378"/>
         <source>Relocate...</source>
-        <translation>Verplaatsen...</translation>
+        <translation>Verplaatsen…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="409"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
-        <translation>Mappen synchroniseren...</translation>
+        <translation>Mappen synchroniseren…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="432"/>
@@ -11822,7 +11822,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
-        <translation>Verwijderen...</translation>
+        <translation>Verwijderen…</translation>
     </message>
 </context>
 <context>
@@ -12150,7 +12150,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="400"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="344"/>
@@ -12572,7 +12572,7 @@ Miniatuur</translation>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Set file associations...</source>
         <oldsource>Run the File association(s) tool...</oldsource>
-        <translation>Bestandsassociaties...</translation>
+        <translation>Bestandsassociaties…</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="87"/>
@@ -12670,7 +12670,7 @@ Miniatuur</translation>
         <location filename="DlgSettingsInterface.cpp" line="778"/>
         <location filename="DlgSettingsInterface.cpp" line="798"/>
         <source>Set Icon...</source>
-        <translation>Pictogram toekennen...</translation>
+        <translation>Pictogram toekennen…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="976"/>
@@ -12872,18 +12872,18 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
-        <translation>Laden...</translation>
+        <translation>Laden…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="608"/>
         <location filename="DlgSettingsInterface.ui" line="1065"/>
         <source>Save...</source>
-        <translation>Opslaan...</translation>
+        <translation>Opslaan…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="445"/>
         <source>Set label...</source>
-        <translation>Label toekennen...</translation>
+        <translation>Label toekennen…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="554"/>
@@ -12903,12 +12903,12 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
         <source>Set command...</source>
-        <translation>Opdracht plaatsen...</translation>
+        <translation>Opdracht instellen…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="455"/>
         <source>Set Icon...</source>
-        <translation>Pictogram toekennen...</translation>
+        <translation>Pictogram toekennen…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="594"/>
@@ -14187,12 +14187,12 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSimilar.ui" line="56"/>
         <source>Add files...</source>
-        <translation>Bestanden toevoegen...</translation>
+        <translation>Bestanden toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="67"/>
         <source>Add folder...</source>
-        <translation>Map toevoegen...</translation>
+        <translation>Map toevoegen…</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="90"/>
@@ -14397,7 +14397,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSimilarResult.cpp" line="292"/>
         <source>Move file to...</source>
-        <translation>Bestand verplaatsen naar...</translation>
+        <translation>Bestand verplaatsen naar…</translation>
     </message>
 </context>
 <context>
@@ -14584,12 +14584,12 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="559"/>
         <source>Open...</source>
-        <translation>Openen...</translation>
+        <translation>Openen…</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="566"/>
         <source>Save...</source>
-        <translation>Opslaan...</translation>
+        <translation>Opslaan…</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.cpp" line="186"/>
@@ -14672,7 +14672,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSplit.ui" line="276"/>
         <source>Settings...</source>
-        <translation>Instellingen...</translation>
+        <translation>Instellingen…</translation>
     </message>
     <message>
         <location filename="DlgSplit.cpp" line="25"/>
@@ -14682,7 +14682,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSplit.cpp" line="166"/>
         <source>Splitting image(s), please wait...</source>
-        <translation>Afbeelding(en) splitsen, even geduld...</translation>
+        <translation>Afbeelding(en) splitsen, even geduld…</translation>
     </message>
 </context>
 <context>
@@ -14740,7 +14740,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="124"/>
         <source>Run the File association(s) tool...</source>
-        <translation>Bestandsassociatie-hulpmiddel...</translation>
+        <translation>Bestandsassociatie-hulpmiddel…</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
@@ -14957,7 +14957,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgTagPhoto.ui" line="283"/>
         <source>Write...</source>
-        <translation>Schrijven...</translation>
+        <translation>Schrijven…</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
@@ -15019,7 +15019,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgTimestamp.cpp" line="608"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
-        <translation>Tijdstempel aanpassen, even geduld...</translation>
+        <translation>Tijdstempel aanpassen, even geduld…</translation>
     </message>
 </context>
 <context>
@@ -15234,7 +15234,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgUpdate.ui" line="106"/>
         <source>Download new version...</source>
-        <translation>Nieuwe versie downloaden...</translation>
+        <translation>Nieuwe versie downloaden…</translation>
     </message>
 </context>
 <context>
@@ -15264,12 +15264,12 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="203"/>
         <source>Unable to load image file...</source>
-        <translation>Kan afbeeldingsbestand niet laden...</translation>
+        <translation>Kan afbeeldingsbestand niet laden…</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="229"/>
         <source>Unable to upload image file...</source>
-        <translation>Kan afbeeldingsbestand niet uploaden...</translation>
+        <translation>Kan afbeeldingsbestand niet uploaden…</translation>
     </message>
 </context>
 <context>
@@ -15328,7 +15328,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgUpload.ui" line="202"/>
         <source>New user...</source>
-        <translation>Nieuwe gebruiker...</translation>
+        <translation>Nieuwe gebruiker…</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="233"/>
@@ -15471,7 +15471,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgVideoGallery.cpp" line="72"/>
         <source>Creating video thumbnails, please wait...</source>
-        <translation>Videominiaturen aanmaken, even geduld...</translation>
+        <translation>Videominiaturen aanmaken, even geduld…</translation>
     </message>
 </context>
 <context>
@@ -16029,7 +16029,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="Email.h" line="333"/>
         <source>Sending...</source>
-        <translation>Versturen...</translation>
+        <translation>Versturen…</translation>
     </message>
     <message>
         <location filename="Email.h" line="333"/>
@@ -16103,7 +16103,7 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
         <location filename="FavoritesView.cpp" line="110"/>
         <location filename="FavoritesView.cpp" line="204"/>
         <source>Edit pathname...</source>
-        <translation>Padnaam bewerken...</translation>
+        <translation>Padnaam bewerken…</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="181"/>
@@ -16198,12 +16198,12 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.ui" line="34"/>
         <source>Add files...</source>
-        <translation>Bestanden toevoegen...</translation>
+        <translation>Bestanden toevoegen…</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="45"/>
         <source>Add folder...</source>
-        <translation>Map toevoegen...</translation>
+        <translation>Map toevoegen…</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="71"/>
@@ -16936,12 +16936,12 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="1122"/>
         <source>Move to...</source>
-        <translation>Verplaatsen naar...</translation>
+        <translation>Verplaatsen naar…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1123"/>
         <source>Merge with...</source>
-        <translation>Samenvoegen met...</translation>
+        <translation>Samenvoegen met…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1124"/>
@@ -16951,7 +16951,7 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="1128"/>
         <source>Edit...</source>
-        <translation>Bewerken...</translation>
+        <translation>Bewerken…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1087"/>
@@ -17027,7 +17027,7 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="135"/>
         <source>Auto Correct...</source>
-        <translation>Automatisch corrigeren...</translation>
+        <translation>Automatisch corrigeren…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="137"/>
@@ -17083,14 +17083,14 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="299"/>
         <source>Importing categories file, please wait...</source>
         <oldsource>Importing categories file, please wait... </oldsource>
-        <translation>Categorieën-bestand importeren, even geduld...</translation>
+        <translation>Categorieën-bestand importeren, even geduld…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="274"/>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Exporting categories file, please wait...</source>
         <oldsource>Exporting categories file, please wait... </oldsource>
-        <translation>Categorieën-bestand exporteren, even geduld...</translation>
+        <translation>Categorieën-bestand exporteren, even geduld…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
@@ -18343,7 +18343,7 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
     <message>
         <location filename="IptcEditBase.cpp" line="177"/>
         <source>Edit history...</source>
-        <translation>Geschiedenis bewerken...</translation>
+        <translation>Geschiedenis bewerken…</translation>
     </message>
     <message>
         <location filename="IptcEditBase.cpp" line="178"/>
@@ -18799,7 +18799,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="240"/>
         <source>Save frame as...</source>
-        <translation>Frame opslaan als...</translation>
+        <translation>Frame opslaan als…</translation>
     </message>
 </context>
 <context>
@@ -19203,17 +19203,17 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Video thumbnails gallery...</source>
-        <translation>Videominiaturen-gallerij...</translation>
+        <translation>Videominiaturen-gallerij…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="666"/>
         <source>Switch panel...</source>
-        <translation>Paneel wisselen...</translation>
+        <translation>Paneel wisselen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="667"/>
         <source>Path focus...</source>
-        <translation>Pad focus...</translation>
+        <translation>Pad focus…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
@@ -19223,7 +19223,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="670"/>
         <source>Face tag...</source>
-        <translation>Gezichtslabel...</translation>
+        <translation>Gezichtslabel…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="678"/>
@@ -19293,12 +19293,12 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="623"/>
         <source>Import and sort...</source>
-        <translation>Importeren en sorteren...</translation>
+        <translation>Importeren en sorteren…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="624"/>
         <source>Multi-page file...</source>
-        <translation>Meerpagina-bestand...</translation>
+        <translation>Meerpagina-bestand…</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
@@ -19355,7 +19355,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="435"/>
         <source>Open file list...</source>
-        <translation>Bestandenlijst openen...</translation>
+        <translation>Bestandenlijst openen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
@@ -19385,65 +19385,65 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="601"/>
         <source>Edit IPTC...</source>
-        <translation>IPTC bewerken...</translation>
+        <translation>IPTC bewerken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="602"/>
         <source>Edit XMP...</source>
-        <translation>XMP bewerken...</translation>
+        <translation>XMP bewerken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
-        <translation>GPS-gegevens bewerken...</translation>
+        <translation>GPS-gegevens bewerken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="609"/>
         <source>Transfer...</source>
-        <translation>Overdragen...</translation>
+        <translation>Overdragen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="616"/>
         <source>File listing...</source>
-        <translation>Bestandenlijst...</translation>
+        <translation>Bestandenlijst…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="618"/>
         <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
-        <translation>Per e-mail versturen...</translation>
+        <translation>Per e-mail versturen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="625"/>
         <source>Join images...</source>
-        <translation>Afbeelingen samenvoegen…</translation>
+        <translation>Afbeeldingen samenvoegen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="626"/>
         <source>Contact sheet...</source>
-        <translation>Contactafdrukkenblad...</translation>
+        <translation>Contactafdrukkenblad…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="627"/>
         <source>Slideshow...</source>
-        <translation>Diavoorstelling...</translation>
+        <translation>Diavoorstelling…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="628"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
-        <translation>Afbeeldingen splitsen...</translation>
+        <translation>Afbeeldingen splitsen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="629"/>
         <source>Banner...</source>
-        <translation>Banier...</translation>
+        <translation>Banier…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="630"/>
         <source>New image...</source>
-        <translation>Nieuwe afbeelding...</translation>
+        <translation>Nieuwe afbeelding…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="645"/>
@@ -19453,7 +19453,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="661"/>
         <source>Clear &amp;&amp; Import...</source>
-        <translation>Wissen &amp;&amp; importeren...</translation>
+        <translation>Wissen &amp;&amp; importeren…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
@@ -19468,7 +19468,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="673"/>
         <source>Capture...</source>
-        <translation>Opname...</translation>
+        <translation>Opname…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="674"/>
@@ -19478,12 +19478,12 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="675"/>
         <source>Empty tab...</source>
-        <translation>Lege tab...</translation>
+        <translation>Lege tab…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
         <source>Select TWAIN source...</source>
-        <translation>Selecteer TWAIN-bron...</translation>
+        <translation>Selecteer TWAIN-bron…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="818"/>
@@ -19543,7 +19543,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="679"/>
         <source>Acquire into (TWAIN)...</source>
-        <translation>Verkrijgen in (TWAIN)...</translation>
+        <translation>Verkrijgen in (TWAIN)…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="823"/>
@@ -19649,7 +19649,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="434"/>
         <source>Open...</source>
-        <translation>Openen...</translation>
+        <translation>Openen…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4191"/>
@@ -19703,13 +19703,13 @@ Wilt u doorgaan?</translation>
         <location filename="BrowserWindow.cpp" line="4203"/>
         <location filename="BrowserMenu.h" line="454"/>
         <source>Copy to...</source>
-        <translation>Kopiëren naar...</translation>
+        <translation>Kopiëren naar…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4205"/>
         <location filename="BrowserMenu.h" line="455"/>
         <source>Move to...</source>
-        <translation>Verplaatsen naar...</translation>
+        <translation>Verplaatsen naar…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4198"/>
@@ -19720,7 +19720,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
         <source>Rename...</source>
-        <translation>Hernoemen...</translation>
+        <translation>Hernoemen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="458"/>
@@ -20010,7 +20010,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="570"/>
         <source>Add to favorites...</source>
-        <translation>Aan favorieten toevoegen...</translation>
+        <translation>Aan favorieten toevoegen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="572"/>
@@ -20025,44 +20025,44 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
         <source>Batch rename...</source>
-        <translation>Reeks hernoemen...</translation>
+        <translation>Reeks hernoemen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Compare...</source>
-        <translation>Vergelijken...</translation>
+        <translation>Vergelijken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
         <source>Search...</source>
-        <translation>Zoeken...</translation>
+        <translation>Zoeken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="598"/>
         <source>Find similar files...</source>
-        <translation>Vergelijkbare bestanden zoeken...</translation>
+        <translation>Vergelijkbare bestanden zoeken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
-        <translation>Commentaar bewerken...</translation>
+        <translation>Commentaar bewerken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="600"/>
         <source>Change timestamp...</source>
-        <translation>Tijdstempel wijzigen...</translation>
+        <translation>Tijdstempel wijzigen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="604"/>
         <location filename="BrowserMenu.h" line="660"/>
         <source>Export...</source>
-        <translation>Exporteren...</translation>
+        <translation>Exporteren…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="605"/>
         <source>Clean...</source>
-        <translation>Opschonen...</translation>
+        <translation>Opschonen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="608"/>
@@ -20082,37 +20082,37 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="613"/>
         <source>Batch convert...</source>
-        <translation>Reeks converteren...</translation>
+        <translation>Reeks converteren…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="614"/>
         <source>Send by FTP...</source>
-        <translation>Verzenden via FTP...</translation>
+        <translation>Verzenden via FTP…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="615"/>
         <source>Upload on web...</source>
-        <translation>Naar web uploaden...</translation>
+        <translation>Naar web uploaden…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="617"/>
         <source>Archive...</source>
-        <translation>Archiveren...</translation>
+        <translation>Archiveren…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="619"/>
         <source>Set as wallpaper...</source>
-        <translation>Als achtergrond instellen...</translation>
+        <translation>Als achtergrond instellen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="620"/>
         <source>Print...</source>
-        <translation>Afdrukken...</translation>
+        <translation>Afdrukken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="621"/>
         <source>Properties...</source>
-        <translation>Eigenschappen...</translation>
+        <translation>Eigenschappen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="634"/>
@@ -20228,12 +20228,12 @@ Wilt u doorgaan?</translation>
         <location filename="xnview.cpp" line="1436"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
-        <translation>Website...</translation>
+        <translation>Website…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1441"/>
         <source>Make a donation...</source>
-        <translation>Maak een donatie...</translation>
+        <translation>Maak een donatie…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1434"/>
@@ -20243,49 +20243,49 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="xnview.cpp" line="1435"/>
         <source>PlugIns...</source>
-        <translation>Plug-ins...</translation>
+        <translation>Plug-ins…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1437"/>
         <source>Forum...</source>
-        <translation>Forum...</translation>
+        <translation>Forum…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1438"/>
         <source>Technical Support...</source>
-        <translation>Technische ondersteuning...</translation>
+        <translation>Technische ondersteuning…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1439"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
-        <translation>Meld een fout...</translation>
+        <translation>Meld een fout…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1440"/>
         <source>Wiki...</source>
-        <translation>Wiki ...</translation>
+        <translation>Wiki…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1442"/>
         <source>Check for update...</source>
-        <translation>Op nieuwe versie controleren...</translation>
+        <translation>Controleren op nieuwe versie…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1443"/>
         <source>Registration...</source>
-        <translation>Registratie...</translation>
+        <translation>Registratie…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1444"/>
         <source>Purchase...</source>
-        <translation>Aanschaffen...</translation>
+        <translation>Aanschaffen…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1454"/>
         <location filename="xnview.cpp" line="1456"/>
         <source>Settings...</source>
-        <translation>Instellingen...</translation>
+        <translation>Instellingen…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1460"/>
@@ -20606,7 +20606,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="266"/>
         <source>Open...</source>
-        <translation>Openen...</translation>
+        <translation>Openen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="267"/>
@@ -20626,7 +20626,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="270"/>
         <source>Format settings...</source>
-        <translation>Formaat-instellingen...</translation>
+        <translation>Formaat-instellingen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="274"/>
@@ -20651,22 +20651,22 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="280"/>
         <source>Save as...</source>
-        <translation>Opslaan als...</translation>
+        <translation>Opslaan als…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="281"/>
         <source>Save selection...</source>
-        <translation>Selectie opslaan...</translation>
+        <translation>Selectie opslaan…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="282"/>
         <source>Print...</source>
-        <translation>Afdrukken...</translation>
+        <translation>Afdrukken…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="283"/>
         <source>Print selection...</source>
-        <translation>Selectie afdrukken...</translation>
+        <translation>Selectie afdrukken…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="284"/>
@@ -20721,29 +20721,29 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="296"/>
         <source>Background color...</source>
-        <translation>Achtergrondkleur...</translation>
+        <translation>Achtergrondkleur…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="297"/>
         <source>Crop...</source>
         <oldsource>Crop</oldsource>
-        <translation>Bijsnijden...</translation>
+        <translation>Bijsnijden…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="298"/>
         <source>Add text...</source>
-        <translation>Tekst toevoegen...</translation>
+        <translation>Tekst toevoegen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="299"/>
         <source>Add watermark...</source>
         <oldsource>Watermark...</oldsource>
-        <translation>Watermerk toevoegen...</translation>
+        <translation>Watermerk toevoegen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="300"/>
         <source>Spotlight...</source>
-        <translation>Spotlicht...</translation>
+        <translation>Spotlicht…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="301"/>
@@ -20799,22 +20799,22 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="325"/>
         <source>Copy to...</source>
-        <translation>Kopiëren naar...</translation>
+        <translation>Kopiëren naar…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="326"/>
         <source>Move to...</source>
-        <translation>Verplaatsen naar...</translation>
+        <translation>Verplaatsen naar…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="327"/>
         <source>Delete...</source>
-        <translation>Verwijderen...</translation>
+        <translation>Verwijderen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="328"/>
         <source>Rename...</source>
-        <translation>Hernoemen...</translation>
+        <translation>Hernoemen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
@@ -21004,7 +21004,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="398"/>
         <source>Grid settings...</source>
-        <translation>Raster-instellingen...</translation>
+        <translation>Raster-instellingen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="399"/>
@@ -21029,7 +21029,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="407"/>
         <source>Go to x,y location...</source>
-        <translation>Ga naar x,y-locatie...</translation>
+        <translation>Ga naar x,y-locatie…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="408"/>
@@ -21055,32 +21055,32 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="421"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
-        <translation>Commentaar bewerken...</translation>
+        <translation>Commentaar bewerken…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Draw...</source>
-        <translation>Tekenen...</translation>
+        <translation>Tekenen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="423"/>
         <source>Set DPI...</source>
-        <translation>DPI instellen...</translation>
+        <translation>DPI instellen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="441"/>
         <source>User filter...</source>
-        <translation>Aangepast filter...</translation>
+        <translation>Aangepast filter…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="446"/>
         <source>Film simulation...</source>
-        <translation>Filmsimulatie...</translation>
+        <translation>Filmsimulatie…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Curves...</source>
-        <translation>Curven...</translation>
+        <translation>Curven…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="448"/>
@@ -21090,12 +21090,12 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Offset...</source>
-        <translation>Verplaatsing...</translation>
+        <translation>Verplaatsing…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
         <source>White Balance...</source>
-        <translation>Witbalans...</translation>
+        <translation>Witbalans…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
@@ -21142,22 +21142,22 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="474"/>
         <source>Adobe Photoshop Plugin...</source>
-        <translation>Adobe Photoshop plug-in...</translation>
+        <translation>Adobe Photoshop plug-in…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="477"/>
         <source>Edit IPTC...</source>
-        <translation>IPTC bewerken...</translation>
+        <translation>IPTC bewerken…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="478"/>
         <source>Edit XMP...</source>
-        <translation>XMP bewerken...</translation>
+        <translation>XMP bewerken…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="480"/>
         <source>Clean metadata...</source>
-        <translation>Metagegevens opschonen...</translation>
+        <translation>Metagegevens opschonen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -21168,7 +21168,7 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="502"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
-        <translation>Verkrijgen in (TWAIN)...</translation>
+        <translation>Verkrijgen in (TWAIN)…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
@@ -21178,7 +21178,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit colormap...</source>
-        <translation>Kleuren bewerken...</translation>
+        <translation>Kleurenkaart bewerken…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
@@ -21218,7 +21218,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="496"/>
         <source>Capture...</source>
-        <translation>Opname...</translation>
+        <translation>Opname…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="497"/>
@@ -21228,17 +21228,17 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="498"/>
         <source>Empty tab...</source>
-        <translation>Lege tab...</translation>
+        <translation>Lege tab…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="500"/>
         <source>Select TWAIN source...</source>
-        <translation>TWAIN-bron selecteren...</translation>
+        <translation>TWAIN-bron selecteren…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="504"/>
         <source>New image...</source>
-        <translation>Nieuwe afbeelding...</translation>
+        <translation>Nieuwe afbeelding…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="403"/>
@@ -21258,32 +21258,32 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="412"/>
         <source>Export...</source>
-        <translation>Exporteren...</translation>
+        <translation>Exporteren…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="413"/>
         <source>Batch convert...</source>
-        <translation>Reeks converteren...</translation>
+        <translation>Reeks converteren…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
         <source>Set as wallpaper...</source>
-        <translation>Als achtergrond instellen...</translation>
+        <translation>Als achtergrond instellen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="420"/>
         <source>Properties...</source>
-        <translation>Eigenschappen...</translation>
+        <translation>Eigenschappen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="424"/>
         <source>Send by FTP...</source>
-        <translation>Verzenden via FTP...</translation>
+        <translation>Verzenden via FTP…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="426"/>
         <source>Change color depth...</source>
-        <translation>Kleurdiepte aanpassen...</translation>
+        <translation>Kleurdiepte aanpassen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="427"/>
@@ -21318,7 +21318,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="433"/>
         <source>Solarize...</source>
-        <translation>Overbelichten...</translation>
+        <translation>Overbelichten…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="434"/>
@@ -21333,17 +21333,17 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="436"/>
         <source>Old camera...</source>
-        <translation>Oude camera...</translation>
+        <translation>Oude camera…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
         <source>Vignetting...</source>
-        <translation>Vigneteren...</translation>
+        <translation>Vigneteren…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
         <source>Enhance colors...</source>
-        <translation>Kleuren versterken...</translation>
+        <translation>Kleuren versterken…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="439"/>
@@ -21358,33 +21358,33 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="442"/>
         <source>Shadow/Highlight...</source>
-        <translation>Schaduw/Highlight...</translation>
+        <translation>Schaduw/Highlight…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="443"/>
         <source>Normalize...</source>
-        <translation>Normaliseren...</translation>
+        <translation>Normaliseren…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="444"/>
         <source>Align...</source>
-        <translation>Uitlijnen...</translation>
+        <translation>Uitlijnen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
-        <translation>Draaien...</translation>
+        <translation>Draaien…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation>Grootte aanpassen...</translation>
+        <translation>Grootte aanpassen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
         <source>Canvas resize...</source>
-        <translation>Doekgrootte aanpassen...</translation>
+        <translation>Doekgrootte aanpassen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="464"/>
@@ -21404,17 +21404,17 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="481"/>
         <source>Join images...</source>
-        <translation>Afbeelingen samenvoegen…</translation>
+        <translation>Afbeeldingen samenvoegen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Contact sheet...</source>
-        <translation>Contactafdrukkenblad...</translation>
+        <translation>Contactafdrukkenblad…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="483"/>
         <source>Slideshow...</source>
-        <translation>Diavoorstelling...</translation>
+        <translation>Diavoorstelling…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="486"/>
@@ -21493,7 +21493,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewCropAction.cpp" line="149"/>
         <source>A4, A3, ... (1.41)</source>
-        <translation>A4, A3, ... (1.41)</translation>
+        <translation>A4, A3, … (1.41)</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="150"/>
@@ -21684,7 +21684,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="MyAddFolderProcess.h" line="55"/>
         <source>Building catalog entries...</source>
-        <translation>Catalogus-gegevens aanmaken...</translation>
+        <translation>Catalogus-gegevens aanmaken…</translation>
     </message>
 </context>
 <context>
@@ -21692,7 +21692,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
-        <translation>Miniaturen opbouwen...</translation>
+        <translation>Miniaturen opbouwen…</translation>
     </message>
 </context>
 <context>
@@ -21705,7 +21705,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="MyAddFolderProcess.h" line="296"/>
         <source>Check folders...</source>
-        <translation>Mappen controleren...</translation>
+        <translation>Mappen controleren…</translation>
     </message>
 </context>
 <context>
@@ -21713,7 +21713,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading picture... </source>
-        <translation>Afbeelding laden... </translation>
+        <translation>Afbeelding laden… </translation>
     </message>
 </context>
 <context>
@@ -21874,7 +21874,7 @@ Wilt u doorgaan?</translation>
         <location filename="MyProgressThreadDialog.h" line="30"/>
         <source>Please wait...</source>
         <oldsource>Please wait... </oldsource>
-        <translation>Even geduld...</translation>
+        <translation>Even geduld…</translation>
     </message>
     <message>
         <location filename="MyProgressThreadDialog.h" line="40"/>
@@ -21902,7 +21902,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="MyTabBar.cpp" line="245"/>
         <source>Tab settings...</source>
-        <translation>Tab-instellingen...</translation>
+        <translation>Tab-instellingen…</translation>
     </message>
     <message>
         <location filename="MyTabBar.cpp" line="247"/>
@@ -21937,13 +21937,13 @@ U kunt dit wijzigen in Instellingen&gt; Catalogus.</translation>
         <location filename="MyThumbView.cpp" line="603"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
-        <translation>Catalogus vernieuwen, even geduld...</translation>
+        <translation>Catalogus vernieuwen, even geduld…</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="617"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
-        <translation>Bestanden vernieuwen, even geduld...</translation>
+        <translation>Bestanden vernieuwen, even geduld…</translation>
     </message>
     <message numerus="yes">
         <location filename="MyThumbView.cpp" line="1200"/>
@@ -22033,7 +22033,7 @@ U kunt dit wijzigen in Instellingen&gt; Catalogus.</translation>
     <message>
         <location filename="OpenWithMenu.cpp" line="329"/>
         <source>Configure programs...</source>
-        <translation>Programma&apos;s instellen...</translation>
+        <translation>Programma&apos;s instellen…</translation>
     </message>
 </context>
 <context>
@@ -22346,12 +22346,12 @@ U kunt dit wijzigen in Instellingen&gt; Catalogus.</translation>
     <message>
         <location filename="PaintWidget.ui" line="1530"/>
         <source>Add...</source>
-        <translation>Toevoegen...</translation>
+        <translation>Toevoegen…</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
-        <translation>Beheren...</translation>
+        <translation>Beheren…</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -22704,7 +22704,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="qtcopydialog.ui" line="22"/>
         <source>24% of 100MB (Copying...)</source>
-        <translation>24% van 100MB (kopiëren...)</translation>
+        <translation>24% van 100MB (kopiëren…)</translation>
     </message>
     <message>
         <location filename="qtcopydialog.ui" line="50"/>
@@ -22789,12 +22789,12 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="qtcopydialog.cpp" line="515"/>
         <source>Copying...</source>
-        <translation>Kopiëren...</translation>
+        <translation>Kopiëren…</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="515"/>
         <source>Moving...</source>
-        <translation>Verplaatsen...</translation>
+        <translation>Verplaatsen…</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="517"/>
@@ -23341,7 +23341,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="ViewCropAction.cpp" line="274"/>
         <source>Save selection as...</source>
-        <translation>Selectie opslaan als...</translation>
+        <translation>Selectie opslaan als…</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="279"/>
@@ -23417,7 +23417,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="ViewTextAction.cpp" line="144"/>
         <source>Text...</source>
-        <translation>Tekst...</translation>
+        <translation>Tekst…</translation>
     </message>
     <message>
         <location filename="ViewTextAction.cpp" line="150"/>
@@ -23463,7 +23463,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="WebCapture.h" line="73"/>
         <source>Generating image...</source>
-        <translation>Afbeelding aanmaken...</translation>
+        <translation>Afbeelding aanmaken…</translation>
     </message>
     <message>
         <location filename="WebCapture.h" line="73"/>
@@ -23771,7 +23771,7 @@ Rechtermuisklik opent het actiemenu.</translation>
         <location filename="xnview.cpp" line="504"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
-        <translation>Backup aanmaken, even geduld...</translation>
+        <translation>Back-up aanmaken, even geduld…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="476"/>
@@ -23800,7 +23800,7 @@ Wilt u de miniaturen behouden?
         <location filename="xnview.cpp" line="486"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
-        <translation>Catalogus bijwerken, even geduld...</translation>
+        <translation>Catalogus bijwerken, even geduld…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="489"/>
