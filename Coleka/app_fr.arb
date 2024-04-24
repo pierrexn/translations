@@ -163,5 +163,5 @@
 	"scanScanButton": "Frame, click on \"SCAN\" and don't move", 
 	"scanNoMoreTry": "You no longer have a test!", 
 	"scanInfo": "{count, plural, =1{You can't anymore scan card!} other{You can scan {count} cards}",
-	"scanResult": "{count, plural, =1{1 possible result} other{{count} possible results}",
+	"scanResult": "{count, plural, =1{1 possible result} other{{count} possible results}"
 }
