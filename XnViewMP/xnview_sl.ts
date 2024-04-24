@@ -89,17 +89,9 @@
         <translation>Oranžna</translation>
     </message>
     <message>
-        <source>6</source>
-        <translation type="obsolete">100% {6?}</translation>
-    </message>
-    <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
         <translation>Siva</translation>
-    </message>
-    <message>
-        <source>7</source>
-        <translation type="obsolete">100% {7?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -107,17 +99,9 @@
         <translation>Črna</translation>
     </message>
     <message>
-        <source>8</source>
-        <translation type="obsolete">100% {8?}</translation>
-    </message>
-    <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
         <translation>Bela</translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation type="obsolete">100% {9?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -193,10 +177,6 @@
         <translation>Wiki</translation>
     </message>
     <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
         <translation>INI ime</translation>
@@ -245,10 +225,6 @@
         <location filename="AboutWidget.ui" line="481"/>
         <source>What&apos;s New</source>
         <translation>Kaj je novega</translation>
-    </message>
-    <message>
-        <source>INI filename: </source>
-        <translation type="vanished">Ime INI datoteke: </translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -378,10 +354,6 @@
 </translation>
     </message>
     <message>
-        <source>Save as...</source>
-        <translation type="vanished">Shrani kot...</translation>
-    </message>
-    <message>
         <location filename="ViewWindow.cpp" line="211"/>
         <source>Save &amp;as...</source>
         <translation>Shrani &amp;kot...</translation>
@@ -403,14 +375,6 @@
         <translation>Ne sprašuj več</translation>
     </message>
     <message>
-        <source>Are you sure to delete &quot;%1&quot;?</source>
-        <translation type="vanished">Ali ste prepričani, da želite izbrisati &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Are you sure to delete &quot;%1&quot; (%2 items)?</source>
-        <translation type="vanished">Ali ste prepričani, da želite izbrisati &quot;%1&quot; (%2 postavke)?</translation>
-    </message>
-    <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>This picture will be saved as RGB with 8bits per component</source>
         <translation>Ta slika bo shranjena kot RGB z 8 biti na komponento</translation>
@@ -425,14 +389,6 @@
         <location filename="ViewWindow.cpp" line="2799"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Datoteka &lt;%1&gt; je samo za branje, izberite drugo ime datoteke.</translation>
-    </message>
-    <message>
-        <source>The file &lt;%1&gt; already exists!
-
-Do you want to overwrite it?</source>
-        <translation type="vanished">Datoteka &lt;%1&gt; že obstaja!
-
-Ali jo želite prepisati?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2833"/>
@@ -455,17 +411,9 @@ Ali jo želite prepisati?</translation>
         <translation>Med shranjevanjem je prišlo do napake!</translation>
     </message>
     <message>
-        <source>An error occurs durng saving file!</source>
-        <translation type="vanished">Med shranjevanjem datoteke je prišlo do napake!</translation>
-    </message>
-    <message>
         <location filename="ViewWindow.cpp" line="3089"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
-    </message>
-    <message>
-        <source>This picture will be converted to RGB with 8bits per component</source>
-        <translation type="vanished">Ta slika bo pretvorjena v RGB z 8 bitov na komponento</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
@@ -530,10 +478,6 @@ Ali jo želite prepisati?</translation>
 </context>
 <context>
     <name>BaseViewWindow</name>
-    <message>
-        <source>This picture will be converted to RGB with 8bits per component</source>
-        <translation type="vanished">Ta slika bo pretvorjena v RGB z 8 bitov na komponento</translation>
-    </message>
     <message>
         <location filename="ViewWindow.cpp" line="4672"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
@@ -723,10 +667,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>&lt;Označene datoteke&gt;</translation>
     </message>
     <message>
-        <source>&lt;DB result&gt;</source>
-        <translation type="vanished">&lt;Izid DB&gt;</translation>
-    </message>
-    <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Ta mapa ne obstaja!</translation>
@@ -783,10 +723,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         </translation>
     </message>
     <message>
-        <source>Show all files (recursive)</source>
-        <translation type="vanished">Prikaži vse datoteke (rekurzivno)</translation>
-    </message>
-    <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
         <source>Search...</source>
         <translation>Najdi...</translation>
@@ -815,14 +751,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="BrowserWindow.cpp" line="2084"/>
         <source>Match</source>
         <translation>Ujemanje</translation>
-    </message>
-    <message>
-        <source>Any</source>
-        <translation type="vanished">Katerakoli</translation>
-    </message>
-    <message>
-        <source>All</source>
-        <translation type="vanished">Vse</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3764"/>
@@ -1091,10 +1019,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Histogram</translation>
     </message>
     <message>
-        <source>Use tabs</source>
-        <translation type="vanished">Uporabi zavihke</translation>
-    </message>
-    <message>
         <location filename="CompareWidget.cpp" line="537"/>
         <source>Zoom out</source>
         <translation>Pomanjšaj</translation>
@@ -1306,10 +1230,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Rotation</translation>
     </message>
     <message>
-        <source>Gammasat</source>
-        <translation type="vanished">Gammasat</translation>
-    </message>
-    <message>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
@@ -1371,10 +1291,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvertProcess.h" line="2657"/>
         <source>HLS</source>
         <translation>HLS</translation>
-    </message>
-    <message>
-        <source>Swap component</source>
-        <translation type="vanished">Zamenjaj komponente</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2732"/>
@@ -1492,11 +1408,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvertProcess.h" line="4794"/>
         <source>Halftone</source>
         <translation>Polton</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertProcess.h" line="4813"/>
-        <source>IPTC-IIM/XMP</source>
-        <translation>IPTC-IIM/XMP</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
@@ -1674,10 +1585,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Izenači</translation>
     </message>
     <message>
-        <source>Conbright</source>
-        <translation type="vanished">Conbright</translation>
-    </message>
-    <message>
         <location filename="DlgConvert.cpp" line="205"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
@@ -1688,10 +1595,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>Solarizacija</translation>
-    </message>
-    <message>
-        <source>Exposure</source>
-        <translation type="vanished">Osvetlitev</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="223"/>
@@ -2207,11 +2110,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Vnesite celotno pot arhivske datoteke</translation>
     </message>
     <message>
-        <location filename="DlgArchive.ui" line="32"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open File Explorer after compressing</source>
         <translation>Po stiskanju odpri raziskovalca datotek</translation>
@@ -2226,18 +2124,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgArchive.cpp" line="124"/>
         <source>Archive file</source>
         <translation>Arhivska datoteka</translation>
-    </message>
-</context>
-<context>
-    <name>DlgAskClass</name>
-    <message>
-        <source>Confirm</source>
-        <translation type="vanished">Potrdi</translation>
-    </message>
-    <message>
-        <source>Remember my answer and don&apos;t ask again</source>
-        <oldsource>Do not show this message again.</oldsource>
-        <translation type="vanished">Zapomni si moj odgovor in ne sprašuj več</translation>
     </message>
 </context>
 <context>
@@ -3067,10 +2953,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>sekund(a)</translation>
     </message>
     <message>
-        <source>Delay (sec)</source>
-        <translation type="vanished">Zakasnitev (sek)</translation>
-    </message>
-    <message>
         <location filename="DlgCapture.ui" line="138"/>
         <source>Hotkey</source>
         <translation>Vroča tipka</translation>
@@ -3100,10 +2982,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
         <translation>Nastavitve...</translation>
-    </message>
-    <message>
-        <source>Open in draw module</source>
-        <translation type="vanished">Odpri v modulu za risanje</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="261"/>
@@ -3253,11 +3131,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Komentar</translation>
     </message>
     <message>
-        <location filename="DlgClean.ui" line="40"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF sličico</translation>
@@ -3266,17 +3139,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
         <translation>GPS</translation>
-    </message>
-    <message>
-        <location filename="DlgClean.ui" line="101"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
-        <location filename="DlgClean.ui" line="108"/>
-        <source>IPTC-IIM</source>
-        <oldsource>IPTC</oldsource>
-        <translation>IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="115"/>
@@ -3483,12 +3345,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Glava</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="472"/>
-        <location filename="DlgContactSheet.ui" line="500"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
-    </message>
-    <message>
         <location filename="DlgContactSheet.ui" line="482"/>
         <source>Footer</source>
         <translation>Noga</translation>
@@ -3688,10 +3544,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>&lt;br&gt;XnConvert je na voljo kot brezplačen&lt;br&gt;&lt;br&gt;Imate pravico do uporabe in ustvarjanja neomejenega števila kopij te programske opreme.&lt;br&gt;&lt;br&gt;Ta programska oprema je na voljo &quot;taka kot je&quot;.&lt;br&gt;Nobena garancija ni izrecna ali implicitna.&lt;br&gt;Avtor ne odgovarja za izgubo podatkov, škodo, izgubo dobička ali kakršno koli drugo izgubo pri uporabi ali zlorabi te programske opreme.&lt;br&gt;&lt;br&gt;Predlogi, povratne informacije in komentarji so dobrodošli. </translation>
     </message>
     <message>
-        <source>Information</source>
-        <translation type="vanished">Informacije</translation>
-    </message>
-    <message>
         <location filename="DlgConvert.cpp" line="1283"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
@@ -3727,10 +3579,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvert.cpp" line="1552"/>
         <source>Export script</source>
         <translation>Izvozi skript</translation>
-    </message>
-    <message>
-        <source>Do you would like to export filenames too?</source>
-        <translation type="vanished">Ali želite izvoziti tudi imena datotek?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1874"/>
@@ -4126,10 +3974,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
         <translation>Orientacija</translation>
-    </message>
-    <message>
-        <source>Mode</source>
-        <translation type="vanished">Način</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
@@ -4875,10 +4719,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Seznam obdelave:</translation>
     </message>
     <message>
-        <source>TextLabel</source>
-        <translation type="vanished">Oznaka besedila</translation>
-    </message>
-    <message>
         <location filename="DlgConvert.ui" line="1172"/>
         <source>Beep at the end of process</source>
         <translation></translation>
@@ -4968,7 +4808,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
-        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -5218,10 +5057,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Obnovi prejšnji seznam vhodnih datotek</translation>
     </message>
     <message>
-        <source>&apos;Hot folders&apos; process files</source>
-        <translation type="vanished">Procesne datoteke &apos;vročih map&apos;</translation>
-    </message>
-    <message>
         <location filename="DlgConvert.ui" line="1707"/>
         <source>Use color based on file format</source>
         <translation>Uporabi barvo, ki temelji na datotečnem formatu</translation>
@@ -5281,24 +5116,9 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Komentar</translation>
     </message>
     <message>
-        <location filename="DlgConvertCleanMeta.ui" line="24"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertCleanMeta.ui" line="31"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF sličica</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertCleanMeta.ui" line="45"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
@@ -5650,12 +5470,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Vhodni profil (sRGB privzeto)</translation>
     </message>
     <message>
-        <location filename="DlgConvertICC.ui" line="45"/>
-        <location filename="DlgConvertICC.ui" line="82"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation>Izhodni profil (sRGB privzeto)</translation>
@@ -5798,14 +5612,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <source>Insert from</source>
         <translation>Vstavi iz</translation>
     </message>
-    <message>
-        <source>Edit history...</source>
-        <translation type="vanished">Uredi zgodovino...</translation>
-    </message>
-    <message>
-        <source>Sort alphabetically</source>
-        <translation type="vanished">Razvrsti po abecedi</translation>
-    </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
@@ -5876,7 +5682,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Maska</translation>
     </message>
     <message>
-        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation>...</translation>
@@ -6799,10 +6604,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <source>Color</source>
         <translation>Barva</translation>
     </message>
-    <message>
-        <source>Add vignetting</source>
-        <translation type="vanished">Dodaj vinjetiranje</translation>
-    </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
@@ -6840,22 +6641,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvertWatermark.ui" line="31"/>
         <source>Size</source>
         <translation>Velikost</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Običajno</translation>
-    </message>
-    <message>
-        <source>Repeat image</source>
-        <translation type="vanished">Ponovi sliko</translation>
-    </message>
-    <message>
-        <source>Stretch image</source>
-        <translation type="vanished">Raztegni sliko</translation>
-    </message>
-    <message>
-        <source>Percentage (width)</source>
-        <translation type="vanished">Odstotek (širina)</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="46"/>
@@ -6897,10 +6682,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Fill</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Repeat</source>
-        <translation type="vanished">Ponovi</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -6956,10 +6737,6 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom right</source>
         <translation>Spodaj desno</translation>
-    </message>
-    <message>
-        <source>Delta</source>
-        <translation type="vanished">Delta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7997,10 +7774,6 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <translation>Nastavi prosojno barvo...</translation>
     </message>
     <message>
-        <source>Auto refresh</source>
-        <translation type="vanished">Samodejna osvežitev</translation>
-    </message>
-    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -8090,10 +7863,6 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <source>Best</source>
         <translation>Najboljše</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation type="vanished">Osveži</translation>
-    </message>
 </context>
 <context>
     <name>DlgFile</name>
@@ -8180,11 +7949,6 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translation>Prikaži izbrano mapo v drevesu map</translation>
-    </message>
-    <message>
-        <location filename="DlgFile.ui" line="36"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -8547,11 +8311,6 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <translation>Datoteke %1: %2 ni bilo mogoče naložiti.</translation>
     </message>
     <message>
-        <source>Uploading %1...</source>
-        <oldsource>Upoading %1...</oldsource>
-        <translation type="vanished">Nalaganje %1...</translation>
-    </message>
-    <message>
         <location filename="DlgFtp.cpp" line="573"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>Ni mogoče vzpostaviti povezave s strežnikom FTP %1. Preverite ime gostitelja.</translation>
@@ -8560,14 +8319,6 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgFtp.cpp" line="578"/>
         <source>Logged onto %1.</source>
         <translation>Prijavljeni ste na %1.</translation>
-    </message>
-    <message>
-        <source>Canceled upload of %1.</source>
-        <translation type="vanished">Preklicano nalaganje %1.</translation>
-    </message>
-    <message>
-        <source>Uploaded %1 to current directory.</source>
-        <translation type="vanished">Naloži %1 v trenutni imenik.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
@@ -9663,14 +9414,6 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <translation>Ime</translation>
     </message>
     <message>
-        <source>Parameter</source>
-        <translation type="vanished">Parameter</translation>
-    </message>
-    <message>
-        <source>First Argument</source>
-        <translation type="vanished">Prvi argument</translation>
-    </message>
-    <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
@@ -10091,10 +9834,6 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
         <translation>Spodaj-Desno</translation>
-    </message>
-    <message>
-        <source>Gamma</source>
-        <translation type="vanished">Gama</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -11117,10 +10856,6 @@ Hvala za nakup %1.</translation>
         <translation>Uporabi anti-aliasing</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation type="vanished">Gladko</translation>
-    </message>
-    <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
         <translation>Samodejni obrez</translation>
@@ -11178,14 +10913,6 @@ Hvala za nakup %1.</translation>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
         <translation>Uporabi RegExp</translation>
-    </message>
-    <message>
-        <source>Match All of the following conditions</source>
-        <translation type="vanished">Ustreza vsem naslednjim pogojem</translation>
-    </message>
-    <message>
-        <source>Match Any of the following conditions</source>
-        <translation type="vanished">Ustreza enemu od naslednjih pogojev</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11382,10 +11109,6 @@ Hvala za nakup %1.</translation>
         <translation>Seznam datotek</translation>
     </message>
     <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Celozaslonski način</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
         <translation>Splošno</translation>
@@ -11416,11 +11139,6 @@ Hvala za nakup %1.</translation>
         <translation>Pogled</translation>
     </message>
     <message>
-        <source>Auto text correction</source>
-        <oldsource>Auto correct</oldsource>
-        <translation type="vanished">Samodejna korekcija besedila</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
         <translation>Formati</translation>
@@ -11432,39 +11150,11 @@ Hvala za nakup %1.</translation>
     </message>
 </context>
 <context>
-    <name>DlgSettingsAuto</name>
-    <message>
-        <source>Auto Correct</source>
-        <translation type="vanished">Samodejna poprava</translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="vanished">Zamenjaj</translation>
-    </message>
-    <message>
-        <source>With</source>
-        <translation type="vanished">z</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">Izbriši</translation>
-    </message>
-    <message>
-        <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation type="vanished">Želite izbrisati izbrani vnos za Samodejno popravo?</translation>
-    </message>
-</context>
-<context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
         <translation>Brskalnik</translation>
-    </message>
-    <message>
-        <source>Display file size in bytes</source>
-        <oldsource>Display bytes for file size</oldsource>
-        <translation type="vanished">Prikaži velikost datoteke v bajtih</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
@@ -11768,10 +11458,6 @@ Hvala za nakup %1.</translation>
         <translation>Katalog - absolutne/relativne poti</translation>
     </message>
     <message>
-        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database, you need this only if you intend to share same folder between computers. Do you want still to change &apos;base path&apos;?</source>
-        <translation type="vanished">Bodite previdni, spreminjanje &apos;osnovne poti&apos; lahko prekine povezavo med datotekami, ki so že shranjene v zbirki podatkov, to potrebujete samo, če nameravate deliti isto mapo med računalniki. Ali še vedno želite spremeniti &apos;osnovno pot&apos;?</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
@@ -11838,10 +11524,6 @@ Do you want to continue?</source>
         <location filename="DlgSettingsCache.cpp" line="971"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
-    </message>
-    <message>
-        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database. Please change &apos;base path&apos; only if you want to share same folder between several computers. Do you still want to change the &apos;base path&apos;?</source>
-        <translation type="vanished">Bodite previdni, spreminjanje &apos;osnovne poti&apos; lahko prekine povezavo datotek, ki so že shranjene v bazi podatkov. Spremenite &apos;osnovno pot&apos; samo, če želite isto mapo deliti med več računalniki. Ali še vedno želite spremeniti &apos;osnovno pot&apos;?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
@@ -12005,10 +11687,6 @@ Ali želite najprej preveriti prizadete vnose?</translation>
         <translation>Ponovno ustvari sličice</translation>
     </message>
     <message>
-        <source>Optimize...</source>
-        <translation type="vanished">Optimiziraj...</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Tools</source>
         <translation>Orodja</translation>
@@ -12088,11 +11766,6 @@ Ali želite najprej preveriti prizadete vnose?</translation>
         <translation>Pridruženi program</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="193"/>
-        <source>XnView</source>
-        <translation>XnView</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation>Vidno</translation>
@@ -12103,12 +11776,6 @@ Ali želite najprej preveriti prizadete vnose?</translation>
 Thumbnail</source>
         <translation>Prikaži kot 
 sličico</translation>
-    </message>
-    <message>
-        <source>Show in 
-Preview</source>
-        <translation type="vanished">Prikaži v 
-predogledu</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -12186,10 +11853,6 @@ predogledu</translation>
         <translation>Spremljevalec</translation>
     </message>
     <message>
-        <source>Companion (separated by ;)</source>
-        <translation type="vanished">Spremljevalec (ločeno z ;)</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
         <translation>Izbriši...</translation>
@@ -12228,17 +11891,9 @@ predogledu</translation>
         <translation>Mapa je vedno razvrščena po abecedi</translation>
     </message>
     <message>
-        <source>Automatically select new files</source>
-        <translation type="vanished">Samodejno izberi nove datoteke</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
         <source>New files are added at the end of the list</source>
         <translation>Ajout à la fin des nouveaux fichiers</translation>
-    </message>
-    <message>
-        <source>Select first item on entering folder</source>
-        <translation type="vanished">Izberi prvo postavko v vnešeni mapi</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
@@ -12316,41 +11971,9 @@ predogledu</translation>
         <translation>Seznam povezav (uporabi ; kot ločilo)</translation>
     </message>
     <message>
-        <source>Detail mode</source>
-        <translation type="vanished">Podrobni način</translation>
-    </message>
-    <message>
-        <source>Comment field</source>
-        <translation type="vanished">Polje komentarja</translation>
-    </message>
-    <message>
-        <source>Embedded comment, description</source>
-        <translation type="vanished">Integrirani komentar, opis</translation>
-    </message>
-    <message>
-        <source>Description, Embedded comment</source>
-        <translation type="vanished">Opis, integrirani komentar</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation type="vanished">Integrirani komentar</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="vanished">Opis</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
         <translation>Spremljevalne datoteke</translation>
-    </message>
-    <message>
-        <source>Companions files linked for delete action</source>
-        <translation type="vanished">Spremljevalne datoteke, povezane z dejanjem brisanja</translation>
-    </message>
-    <message>
-        <source>Companions files linked for copy/move/rename action</source>
-        <translation type="vanished">Spremljevalne datoteke, povezane z dejanjem kopiranja/premikanja/preimenovanja</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -12401,10 +12024,6 @@ predogledu</translation>
 <context>
     <name>DlgSettingsFormat</name>
     <message>
-        <source>Saving</source>
-        <translation type="vanished">Shranjevanje</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
         <translation>Formati</translation>
@@ -12448,53 +12067,6 @@ predogledu</translation>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
         <translation>Pisanje</translation>
-    </message>
-</context>
-<context>
-    <name>DlgSettingsFullscreenClass</name>
-    <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Celozaslonski način</translation>
-    </message>
-    <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Samodejna velikost slike</translation>
-    </message>
-    <message>
-        <source>Show playbar</source>
-        <translation type="vanished">Prikaži predvajalno vrstico</translation>
-    </message>
-    <message>
-        <source>Show info</source>
-        <translation type="vanished">Prikaži info</translation>
-    </message>
-    <message>
-        <source>Show scrollbars</source>
-        <translation type="vanished">Pokaži drsnike</translation>
-    </message>
-    <message>
-        <source>Show toolbar</source>
-        <translation type="vanished">Prikaži orodno vrstico</translation>
-    </message>
-    <message>
-        <source>Hide mouse cursor</source>
-        <translation type="vanished">Skrij kazalec miške</translation>
-    </message>
-    <message>
-        <source>Background color</source>
-        <translation type="vanished">Barva ozadja</translation>
-    </message>
-    <message>
-        <source>Dual monitor: Use second monitor</source>
-        <translation type="vanished">Dvojni monitor: uporabite drugi monitor</translation>
-    </message>
-    <message>
-        <source>Floating views</source>
-        <translation type="vanished">Plavajoči pogledi</translation>
-    </message>
-    <message>
-        <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation type="vanished">(pojavi se, ko se miška premakne na zgornjo ali desno stran zaslona)</translation>
     </message>
 </context>
 <context>
@@ -12631,17 +12203,9 @@ predogledu</translation>
         <translation>Pošlji anonimne dnevnike</translation>
     </message>
     <message>
-        <source>Open browser at startup</source>
-        <translation type="vanished">Odpri brskalnik ob zagonu</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="430"/>
         <source>Directory</source>
         <translation>Imenik</translation>
-    </message>
-    <message>
-        <source>Restore last selected filename</source>
-        <translation type="vanished">Obnovi zadnje izbrano ime datoteke</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="334"/>
@@ -12809,10 +12373,6 @@ predogledu</translation>
         <translation>Sprememba integriranih metapodatkov</translation>
     </message>
     <message>
-        <source>ICC</source>
-        <translation type="vanished">ICC</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="741"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
@@ -12898,22 +12458,10 @@ predogledu</translation>
         <translation>Samodejno zasukaj slike glede na oznako EXIF orientacije</translation>
     </message>
     <message>
-        <source>Mode when starting with a file</source>
-        <translation type="vanished">Način pri zagonu z datoteko</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Običajno</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation>Pregledovalnik – Celozaslonski način</translation>
-    </message>
-    <message>
-        <source>Fullscreen - Browser</source>
-        <translation type="vanished">Celozaslonski način - Brskalnik</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="493"/>
@@ -13048,13 +12596,6 @@ predogledu</translation>
         <location filename="DlgSettingsIntegration.ui" line="36"/>
         <source>Integration</source>
         <translation>Integracija</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.ui" line="168"/>
-        <location filename="DlgSettingsIntegration.ui" line="195"/>
-        <location filename="DlgSettingsIntegration.ui" line="231"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="42"/>
@@ -13362,10 +12903,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Brskalnik</translation>
     </message>
     <message>
-        <source>View mode</source>
-        <translation type="vanished">Način pogleda</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
@@ -13390,20 +12927,12 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Filter</translation>
     </message>
     <message>
-        <source>Pressing Esc once quits XnViewMP</source>
-        <translation type="vanished">Če enkrat pritisnete Esc, se XnViewMP zapre</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1302"/>
         <location filename="DlgSettingsInterface.ui" line="1352"/>
         <location filename="DlgSettingsInterface.ui" line="1402"/>
         <location filename="DlgSettingsInterface.ui" line="1442"/>
         <source>Previous file</source>
         <translation>Predhodna datoteka</translation>
-    </message>
-    <message>
-        <source>Use &quot;Pan and Zoom&quot; tool</source>
-        <translation type="vanished">Uporabi &quot;Pan and Zoom&quot; orodje</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
@@ -13431,14 +12960,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="847"/>
         <source>Shortcuts</source>
         <translation>Bližnjice</translation>
-    </message>
-    <message>
-        <source>Browser mode</source>
-        <translation type="vanished">Način brskalnika</translation>
-    </message>
-    <message>
-        <source>Viewer mode</source>
-        <translation type="vanished">Način pogleda</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="987"/>
@@ -13537,18 +13058,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Pomik navzgor/navzdol</translation>
     </message>
     <message>
-        <source>Never</source>
-        <translation type="vanished">Nikoli</translation>
-    </message>
-    <message>
-        <source>Only in fullscreen</source>
-        <translation type="vanished">Samo v celozaslonskem načinu</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="vanished">Vedno</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
         <source>Mouse</source>
         <translation>Miška</translation>
@@ -13597,10 +13106,6 @@ Ali želite ponovno dodeliti?</translation>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation>Izbira povečave</translation>
-    </message>
-    <message>
-        <source>Left button + CTRL</source>
-        <translation type="vanished">Levi gumb + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1677"/>
@@ -13688,24 +13193,12 @@ Ali želite ponovno dodeliti?</translation>
         <translation>S pritiskom na ESC se zapre</translation>
     </message>
     <message>
-        <source>Right button + CTRL</source>
-        <translation type="vanished">Desni gumb + CTRL</translation>
-    </message>
-    <message>
-        <source>Mouse wheel</source>
-        <translation type="vanished">Kolešček miške</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
         <location filename="DlgSettingsInterface.ui" line="1861"/>
         <source>Zoom in/out</source>
         <translation>Povečaj/Pomanjšaj</translation>
-    </message>
-    <message>
-        <source>Mouse wheel + CTRL</source>
-        <translation type="vanished">Kolešček miške + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1916"/>
@@ -13727,10 +13220,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="2015"/>
         <source>Enter</source>
         <translation>Enter</translation>
-    </message>
-    <message>
-        <source>Use double click to switch between:</source>
-        <translation type="vanished">Uporabi dvoklik za preklop med:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
@@ -13761,14 +13250,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Brskalnik &gt; Pregledovalnik &gt; Celozaslonski način</translation>
     </message>
     <message>
-        <source>Use middle click to switch between:</source>
-        <translation type="vanished">Uporabi srednji klik za preklop med:</translation>
-    </message>
-    <message>
-        <source>Use ENTER to switch between:</source>
-        <translation type="vanished">Uporabi ENTER za preklop med:</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
         <location filename="DlgSettingsInterface.ui" line="996"/>
         <source>None</source>
@@ -13795,14 +13276,6 @@ Ali želite ponovno dodeliti?</translation>
 </context>
 <context>
     <name>DlgSettingsKeywordsClass</name>
-    <message>
-        <source>IPTC &amp;&amp; XMP</source>
-        <translation type="vanished">IPTC &amp;&amp; XMP</translation>
-    </message>
-    <message>
-        <source>Keywords</source>
-        <translation type="vanished">Ključne besede</translation>
-    </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
@@ -13915,14 +13388,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Sidecar</translation>
     </message>
     <message>
-        <source>Yes</source>
-        <translation type="vanished">Da</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Ne</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
         <translation>Video datoteke</translation>
@@ -13936,11 +13401,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
         <translation>Kodiranje</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="428"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
@@ -13975,10 +13435,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Podprti formati</translation>
     </message>
     <message>
-        <source>JPEG</source>
-        <translation type="obsolete">JPEG</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Write</source>
         <translation>Piši</translation>
@@ -13998,10 +13454,6 @@ Ali želite ponovno dodeliti?</translation>
 <context>
     <name>DlgSettingsPanel</name>
     <message>
-        <source>Information</source>
-        <translation type="vanished">Informacije</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
@@ -14011,10 +13463,6 @@ Ali želite ponovno dodeliti?</translation>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
-    <message>
-        <source>Misc</source>
-        <translation type="vanished">Razno</translation>
-    </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -14163,10 +13611,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Ima razred</translation>
     </message>
     <message>
-        <source>Background color</source>
-        <translation type="vanished">Barva ozadja</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="39"/>
         <location filename="DlgSettingsThumbnail.ui" line="329"/>
         <source>Thumbnail</source>
@@ -14193,11 +13637,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Bližnjica</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="634"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="534"/>
         <source>Tag</source>
         <translation>Oznaka</translation>
@@ -14206,11 +13645,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="833"/>
         <source>Automatic rotation</source>
         <translation>Samodejna rotacija</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="541"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
@@ -14223,19 +13657,9 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Integrirana sličica</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="826"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
         <translation>Barvna oznaka</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="766"/>
-        <source>GPS</source>
-        <translation>GPS</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -14258,10 +13682,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Oznake</translation>
     </message>
     <message>
-        <source>Text color</source>
-        <translation type="vanished">Barva besedila</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Reset color</source>
         <translation>Ponastavi barvo</translation>
@@ -14275,11 +13695,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
         <translation>Brskalnik - Sličica</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="988"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -14378,18 +13793,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Samodejna povečava</translation>
     </message>
     <message>
-        <source>Zoom-out</source>
-        <translation type="vanished">Pomanjšaj</translation>
-    </message>
-    <message>
-        <source>Zoom-in</source>
-        <translation type="vanished">Povečaj</translation>
-    </message>
-    <message>
-        <source>Zoom-out &amp; Zoom-in</source>
-        <translation type="vanished">Pomanjšaj &amp; Povečaj</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="494"/>
         <source>Show Pan tool</source>
         <translation>Prikaži orodje za prilagajanje</translation>
@@ -14479,11 +13882,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsView.ui" line="914"/>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Onemogoči GIF/JIF/APNG/ANI animacijo</translation>
-    </message>
-    <message>
-        <source>Show Video</source>
-        <oldsource>Play video</oldsource>
-        <translation type="vanished">Pokaži video</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="480"/>
@@ -14767,14 +14165,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>(pojavi se, ko se miška premakne na zgornjo ali desno stran zaslona)</translation>
     </message>
     <message>
-        <source>Information displayed</source>
-        <translation type="vanished">Prikazane informacije</translation>
-    </message>
-    <message>
-        <source>HTML tags supported</source>
-        <translation type="vanished">Podprte HTML oznake</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
         <source>Text color</source>
         <translation>Barva besedila</translation>
@@ -14803,10 +14193,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Position</source>
         <translation>Pozicija</translation>
-    </message>
-    <message>
-        <source>Always in fullscreen</source>
-        <translation type="vanished">Vedno na celotnem zaslonu</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="933"/>
@@ -14914,13 +14300,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
         <translation>Pomanjšaj</translation>
-    </message>
-    <message>
-        <location filename="DlgSimilarResult.ui" line="87"/>
-        <location filename="DlgSimilarResult.ui" line="156"/>
-        <location filename="DlgSimilarResult.ui" line="239"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
@@ -15201,16 +14580,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Uporabi učinke prehoda</translation>
     </message>
     <message>
-        <location filename="DlgSlideshow.ui" line="210"/>
-        <location filename="DlgSlideshow.ui" line="314"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <source>Save SLD with relative paths</source>
-        <translation type="vanished">Shrani SLD z relativnimi potmi</translation>
-    </message>
-    <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
         <translation>Uporabite zvočno datoteko</translation>
@@ -15272,15 +14641,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
         <translation>Razdelitev</translation>
-    </message>
-    <message>
-        <location filename="DlgSplit.ui" line="30"/>
-        <location filename="DlgSplit.ui" line="44"/>
-        <location filename="DlgSplit.ui" line="58"/>
-        <location filename="DlgSplit.ui" line="72"/>
-        <location filename="DlgSplit.ui" line="96"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -15623,10 +14983,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Išči obraz</translation>
     </message>
     <message>
-        <source>Add region</source>
-        <translation type="vanished">Dodaj regijo</translation>
-    </message>
-    <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
         <translation>Počisti območja</translation>
@@ -15777,11 +15133,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: datum posnetka</translation>
-    </message>
-    <message>
-        <location filename="DlgTimestamp.ui" line="488"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
@@ -15988,38 +15339,32 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Preverjanje pristnosti</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="138"/>
+        <location filename="DlgUpload.ui" line="147"/>
         <source>Username</source>
         <translation>Uporabniško ime</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="148"/>
+        <location filename="DlgUpload.ui" line="157"/>
         <source>Password</source>
         <translation>Geslo</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="168"/>
+        <location filename="DlgUpload.ui" line="177"/>
         <source>User</source>
         <translation>Uporabnik</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="193"/>
+        <location filename="DlgUpload.ui" line="202"/>
         <source>New user...</source>
         <translation>Nov uporabnik...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="224"/>
+        <location filename="DlgUpload.ui" line="233"/>
         <source>Thumbnail link</source>
         <translation>Povezava s sličico</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="241"/>
-        <location filename="DlgUpload.ui" line="269"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <location filename="DlgUpload.ui" line="252"/>
+        <location filename="DlgUpload.ui" line="261"/>
         <source>Image link</source>
         <translation>Povezava slike</translation>
     </message>
@@ -16041,12 +15386,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
         <translation>Dodaj filter</translation>
-    </message>
-    <message>
-        <location filename="DlgUserFilter.ui" line="36"/>
-        <location filename="DlgUserFilter.ui" line="63"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="60"/>
@@ -16083,14 +15422,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
         <translation>Ali želite shraniti spremenjene filtre?</translation>
-    </message>
-    <message>
-        <source>Changes</source>
-        <translation type="vanished">Spremembe</translation>
-    </message>
-    <message>
-        <source>There is some changes, do you want to save filters?</source>
-        <translation type="vanished">Obstaja nekaj sprememb, ali želite shraniti filtre?</translation>
     </message>
 </context>
 <context>
@@ -16139,34 +15470,6 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
         <translation>Začetni okvir</translation>
-    </message>
-    <message>
-        <source>Unit:</source>
-        <translation type="vanished">Enota:</translation>
-    </message>
-    <message>
-        <source>points</source>
-        <translation type="vanished">točke</translation>
-    </message>
-    <message>
-        <source>Style</source>
-        <translation type="vanished">Slog</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="vanished">B</translation>
-    </message>
-    <message>
-        <source>I</source>
-        <translation type="vanished">I</translation>
-    </message>
-    <message>
-        <source>U</source>
-        <translation type="vanished">U</translation>
-    </message>
-    <message>
-        <source>S</source>
-        <translation type="vanished">S</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -16232,10 +15535,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Raztegnjeno</translation>
     </message>
     <message>
-        <source>Scaled</source>
-        <translation type="vanished">Gradacija</translation>
-    </message>
-    <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
         <translation>Prilagojeno</translation>
@@ -16292,10 +15591,6 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Format</translation>
     </message>
     <message>
-        <source>Codec</source>
-        <translation type="vanished">Kodek</translation>
-    </message>
-    <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
         <source>Speed</source>
         <translation>Hitrost</translation>
@@ -16305,28 +15600,6 @@ Ali želite ponovno dodeliti?</translation>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
         <translation>(10 = najhitreje)</translation>
-    </message>
-    <message>
-        <source>Quantization for color</source>
-        <oldsource>Quantizer for color</oldsource>
-        <translation type="vanished">Kvantizacija za barvo</translation>
-    </message>
-    <message>
-        <source>Lossless</source>
-        <translation type="vanished">Brez izgube</translation>
-    </message>
-    <message>
-        <source>Min</source>
-        <translation type="vanished">Min</translation>
-    </message>
-    <message>
-        <source>Max</source>
-        <translation type="vanished">Maks</translation>
-    </message>
-    <message>
-        <source>Quantization for alpha</source>
-        <oldsource>Quantizer for alpha</oldsource>
-        <translation type="vanished">Kvantizacija za alfa</translation>
     </message>
 </context>
 <context>
@@ -16577,18 +15850,6 @@ Ali želite ponovno dodeliti?</translation>
 </context>
 <context>
     <name>DlgWritePDFClass</name>
-    <message>
-        <source>B&amp;W compression type</source>
-        <translation type="vanished">Vrsta stiskanja Črno&amp;Belo</translation>
-    </message>
-    <message>
-        <source>Grayscale compression type</source>
-        <translation type="vanished">Vrsta stiskanja sivine</translation>
-    </message>
-    <message>
-        <source>Color compression type</source>
-        <translation type="vanished">Vrsta stiskanja barv</translation>
-    </message>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
@@ -16931,10 +16192,6 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>FileListWidget</name>
     <message>
-        <source>View as:</source>
-        <translation type="vanished">Prikaži kot:</translation>
-    </message>
-    <message>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Small thumbnails</source>
         <translation>Majhne sličice</translation>
@@ -16959,10 +16216,6 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
         <translation>Seznam</translation>
-    </message>
-    <message>
-        <source>You can drag&amp;drop your files on the list below.</source>
-        <translation type="vanished">Datoteke lahko povlečete&amp;spustite na spodnji seznam.</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
@@ -17822,10 +17075,6 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
-    </message>
-    <message>
-        <source>File&apos;s categories</source>
-        <translation type="vanished">Datoteke razredov</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
@@ -19254,18 +18503,6 @@ Do you want to continue?</source>
         <translation>Prišlo je do napake.</translation>
     </message>
     <message>
-        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
-        <translation type="vanished">Bodite previdni, komentar in metapodatki bodo izgubljeni s shranjevanjem v tem formatu!</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard any existing metadata!</source>
-        <translation type="vanished">Bodite previdni, shranjevanje v tem formatu bo zavrglo vse obstoječe metapodatke!</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard some metadata!</source>
-        <translation type="vanished">Bodite previdni, nekateri metapodatki bodo izgubljeni s shranjevanjem v tem formatu!</translation>
-    </message>
-    <message>
         <location filename="GFFHelper.h" line="19"/>
         <location filename="GFFHelper.h" line="33"/>
         <location filename="GFFHelper.h" line="47"/>
@@ -19520,11 +18757,6 @@ Do you want to continue?</source>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
         <translation></translation>
-    </message>
-    <message>
-        <location filename="LanguageComboBox.cpp" line="57"/>
-        <source>Hebrew</source>
-        <translation>Hébreu</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19912,18 +19144,6 @@ Do you want to continue?</source>
         <translation>Info paneli</translation>
     </message>
     <message>
-        <source>Google Map...</source>
-        <translation type="vanished">Google Zemljevid...</translation>
-    </message>
-    <message>
-        <source>Open Street...</source>
-        <translation type="vanished">Odpri Ulico...</translation>
-    </message>
-    <message>
-        <source>Google Earth App...</source>
-        <translation type="vanished">Google Zemlja aplikacija...</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Open GPS location in</source>
         <translation>Odpri GPS lokacijo v</translation>
@@ -20064,10 +19284,6 @@ Do you want to continue?</source>
         <translation>Orodna vrstica seznama datotek</translation>
     </message>
     <message>
-        <source>Show title of panes</source>
-        <translation type="vanished">Pokaži naslov panela</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="555"/>
         <source>Open in file explorer</source>
         <translation>Odpri v raziskovalcu datotek</translation>
@@ -20127,14 +19343,6 @@ Do you want to continue?</source>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation>Uredi GPS podatke...</translation>
-    </message>
-    <message>
-        <source>EXIF thumbnail - Rotate 90°</source>
-        <translation type="vanished">EXIF sličica - Zasuk 90°</translation>
-    </message>
-    <message>
-        <source>EXIF thumbnail - Rotate 270°</source>
-        <translation type="vanished">EXIF sličica - Zasuk 270°</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="609"/>
@@ -20360,26 +19568,6 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="484"/>
         <source>Unrated</source>
         <translation>Neocenjeno</translation>
-    </message>
-    <message>
-        <source>Important</source>
-        <translation type="vanished">Pomembno</translation>
-    </message>
-    <message>
-        <source>Work</source>
-        <translation type="vanished">Delo</translation>
-    </message>
-    <message>
-        <source>Personal</source>
-        <translation type="vanished">Osebno</translation>
-    </message>
-    <message>
-        <source>To do</source>
-        <translation type="vanished">Stori</translation>
-    </message>
-    <message>
-        <source>Later</source>
-        <translation type="vanished">Kasneje</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
@@ -20738,10 +19926,6 @@ Do you want to continue?</source>
         <translation>Označi izbor</translation>
     </message>
     <message>
-        <source>Untag current</source>
-        <translation type="vanished">Odznači izbor</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="473"/>
         <source>Invert</source>
         <translation>Preobrni</translation>
@@ -20846,10 +20030,6 @@ Do you want to continue?</source>
         <translation>Osveži</translation>
     </message>
     <message>
-        <source>Show files in subfolder</source>
-        <translation type="vanished">Prikaži datoteke v podmapi</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Stop</source>
         <translation>Ustavi</translation>
@@ -20865,25 +20045,9 @@ Do you want to continue?</source>
         <translation>Odpri vsebino mape</translation>
     </message>
     <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Zrcali vodoravno</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Zrcali navpično</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>JPEG lossless transformations</source>
         <translation>JPEG transformacije brez izgube</translation>
-    </message>
-    <message>
-        <source>Open GPS location in GeoHack...</source>
-        <translation type="vanished">Odpri GPS lokacijo v GeoHack...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in Google Earth...</source>
-        <translation type="vanished">Odpri GPS lokacijo v Google Earth...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="598"/>
@@ -20934,10 +20098,6 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="567"/>
         <source>Vertical tabs</source>
         <translation>Navpični zavihki</translation>
-    </message>
-    <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">Rotiraj v smeri urinega kazalca</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="581"/>
@@ -21063,10 +20223,6 @@ Do you want to continue?</source>
         <translation>Uporabi alfa kanal</translation>
     </message>
     <message>
-        <source>Auto Image Size</source>
-        <translation type="vanished">Samodejna velikost slike</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Zoom</source>
         <translation>Povečava</translation>
@@ -21109,10 +20265,6 @@ Do you want to continue?</source>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Spletna stran...</translation>
-    </message>
-    <message>
-        <source>Visit XnView&apos;s Forum...</source>
-        <translation type="vanished">Obiščite XnView Forum...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1441"/>
@@ -21164,18 +20316,6 @@ Do you want to continue?</source>
         <location filename="xnview.cpp" line="1444"/>
         <source>Purchase...</source>
         <translation>Nakup...</translation>
-    </message>
-    <message>
-        <source>Follow XnView on Twitter...</source>
-        <translation type="vanished">Sledite XnView na Twitter-ju...</translation>
-    </message>
-    <message>
-        <source>Become a fan of XnView on Facebook...</source>
-        <translation type="vanished">Postanite fan XnView-a na Facebook-u...</translation>
-    </message>
-    <message>
-        <source>Web capture...</source>
-        <translation type="vanished">Zajemi na spletu...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1454"/>
@@ -21575,14 +20715,6 @@ Do you want to continue?</source>
         <translation>Preimenuj...</translation>
     </message>
     <message>
-        <source>Tag current</source>
-        <translation type="vanished">Označi izbor</translation>
-    </message>
-    <message>
-        <source>Untag current</source>
-        <translation type="vanished">Odznači izbor</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="366"/>
         <source>Previous file</source>
         <translation>Predhodna datoteka</translation>
@@ -21656,10 +20788,6 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="384"/>
         <source>Lock zoom</source>
         <translation>Zakleni povečavo</translation>
-    </message>
-    <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Samodejna velikost slike</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="393"/>
@@ -21919,10 +21047,6 @@ Do you want to continue?</source>
         <translation>Pretvorba v paketu...</translation>
     </message>
     <message>
-        <source>Remove Background...</source>
-        <translation type="vanished">Odstrani ozadje...</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="690"/>
         <source>Metadata</source>
         <translation>Metapodatki</translation>
@@ -21931,18 +21055,6 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="691"/>
         <source>Effect</source>
         <translation>Efekt</translation>
-    </message>
-    <message>
-        <source>Effe&amp;ct</source>
-        <translation type="vanished">Učine&amp;k</translation>
-    </message>
-    <message>
-        <source>Open GPS location in GeoHack...</source>
-        <translation type="vanished">Odpri GPS lokacijo v GeoHack...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in Google Earth...</source>
-        <translation type="vanished">Odpri GPS lokacijo v Google Earth...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
@@ -22041,10 +21153,6 @@ Do you want to continue?</source>
         <translation>Ravni...</translation>
     </message>
     <message>
-        <source>Filter...</source>
-        <translation type="vanished">Filter...</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="441"/>
         <source>User filter...</source>
         <translation>Uporabniški filter...</translation>
@@ -22090,27 +21198,9 @@ Do you want to continue?</source>
         <translation>Ravnovesje beline...</translation>
     </message>
     <message>
-        <source>90° right</source>
-        <oldsource>90� right</oldsource>
-        <translation type="vanished">90° desno</translation>
-    </message>
-    <message>
-        <source>90° left</source>
-        <oldsource>90� left</oldsource>
-        <translation type="vanished">90° levo</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
         <translation>Rotiraj...</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation type="vanished">Vodoravno</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="vanished">Navpično</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
@@ -22282,10 +21372,6 @@ Do you want to continue?</source>
         <translation>&amp;Slika</translation>
     </message>
     <message>
-        <source>F&amp;ilter</source>
-        <translation type="vanished">F&amp;ilter</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="692"/>
         <source>&amp;Tools</source>
         <translation>&amp;Orodja</translation>
@@ -22348,18 +21434,6 @@ Do you want to continue?</source>
         <translation>Prikaži histogram</translation>
     </message>
     <message>
-        <source>Google Map...</source>
-        <translation type="vanished">Google Zemljevid...</translation>
-    </message>
-    <message>
-        <source>Google Earth App...</source>
-        <translation type="vanished">Google Zemlja aplikacija...</translation>
-    </message>
-    <message>
-        <source>Open Street...</source>
-        <translation type="vanished">Odpri Ulico...</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="418"/>
         <source>Open GPS location in</source>
         <translation>Odpri GPS lokacijo v</translation>
@@ -22391,14 +21465,6 @@ Do you want to continue?</source>
         <translation>Uredi barvno mapo...</translation>
     </message>
     <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">Rotiraj v smeri urinega kazalca</translation>
-    </message>
-    <message>
-        <source>Rotate counter clockwise</source>
-        <translation type="vanished">Rotiraj v nasprotni smeri urinega kazalca</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="454"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
@@ -22413,18 +21479,6 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="490"/>
         <source>Reset EXIF orientation field</source>
         <translation>Ponastavi polje za usmerjanje EXIF</translation>
-    </message>
-    <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Zrcali vodoravno</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Zrcali navpično</translation>
-    </message>
-    <message>
-        <source>Crop</source>
-        <translation type="vanished">Obreži</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -22678,10 +21732,6 @@ Do you want to continue?</source>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
-        <source>Abort</source>
-        <translation type="vanished">Preklic</translation>
-    </message>
-    <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
         <translation>Gradnja sličic...</translation>
@@ -22856,13 +21906,6 @@ Do you want to continue?</source>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
         <translation>Preklic</translation>
-    </message>
-</context>
-<context>
-    <name>MyProgressDialogEx</name>
-    <message>
-        <source>Creating contact sheet...</source>
-        <translation type="obsolete">Ustvari list stika...</translation>
     </message>
 </context>
 <context>
@@ -23356,14 +22399,6 @@ Spremenite jo lahko v Nastavitve&gt;Katalog.</translation>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
         <translation>Upravljaj...</translation>
-    </message>
-    <message>
-        <source>Apply actions</source>
-        <translation type="vanished">Uporabi ukrepe</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -24245,10 +23280,6 @@ Desni klik za pojavni meni z ukrepi.</translation>
         <translation>Vstavi &gt;&gt;</translation>
     </message>
     <message>
-        <source>Default value</source>
-        <translation type="vanished">Privzeta vrednost</translation>
-    </message>
-    <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
         <translation>Shrani prednastavitev</translation>
@@ -24820,10 +23851,6 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="596"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Prišlo je do težave pri odpiranju kataloga, preverjanju nastavitev ali uporabljene mape!</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation type="vanished">Različica</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="973"/>

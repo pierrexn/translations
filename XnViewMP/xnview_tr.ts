@@ -89,17 +89,9 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6</source>
-        <translation type="obsolete">100% {6?}</translation>
-    </message>
-    <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>7</source>
-        <translation type="obsolete">100% {7?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -107,17 +99,9 @@
         <translation type="unfinished">Siyah</translation>
     </message>
     <message>
-        <source>8</source>
-        <translation type="obsolete">100% {8?}</translation>
-    </message>
-    <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
         <translation type="unfinished">Beyaz</translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation type="obsolete">100% {9?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -193,10 +177,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
         <translation type="unfinished"></translation>
@@ -245,10 +225,6 @@
         <location filename="AboutWidget.ui" line="481"/>
         <source>What&apos;s New</source>
         <translation>Neler Yeni</translation>
-    </message>
-    <message>
-        <source>INI filename: </source>
-        <translation type="vanished">INI dosya adı: </translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -368,10 +344,6 @@
 </translation>
     </message>
     <message>
-        <source>Save as...</source>
-        <translation type="vanished">Farklı kaydet...</translation>
-    </message>
-    <message>
         <location filename="ViewWindow.cpp" line="211"/>
         <source>Save &amp;as...</source>
         <translation type="unfinished"></translation>
@@ -398,14 +370,6 @@
         <translation>&lt; Boş &gt;</translation>
     </message>
     <message>
-        <source>Are you sure to delete &quot;%1&quot;?</source>
-        <translation type="vanished">&quot;%1&quot; dosyasını silmek istiyor musunuz?</translation>
-    </message>
-    <message>
-        <source>Are you sure to delete &quot;%1&quot; (%2 items)?</source>
-        <translation type="vanished">&quot;%1&quot; dosyasını silmek istiyor musunuz (%2 nesne)?</translation>
-    </message>
-    <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>This picture will be saved as RGB with 8bits per component</source>
         <translation>Bu resim, bileşen başına 8 bit RGB olarak kaydedilecektir</translation>
@@ -420,14 +384,6 @@
         <location filename="ViewWindow.cpp" line="2799"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>&lt;%1&gt; dosyası salt okunur, lütfen başka bir dosya adı seçin.</translation>
-    </message>
-    <message>
-        <source>The file &lt;%1&gt; already exists!
-
-Do you want to overwrite it?</source>
-        <translation type="vanished">&lt;%1&gt; dosyası zaten mevcut!
-
-Üzerine yazmak istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2833"/>
@@ -450,17 +406,9 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error occurs durng saving file!</source>
-        <translation type="vanished">Dosya kaydedilirken bir hata oluşur!</translation>
-    </message>
-    <message>
         <location filename="ViewWindow.cpp" line="3089"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
-    </message>
-    <message>
-        <source>This picture will be converted to RGB with 8bits per component</source>
-        <translation type="vanished">Bu resim her parçada 8bit ile RGB ye dönüştürülecek</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
@@ -525,10 +473,6 @@ Do you want to overwrite it?</source>
 </context>
 <context>
     <name>BaseViewWindow</name>
-    <message>
-        <source>This picture will be converted to RGB with 8bits per component</source>
-        <translation type="vanished">Bu resim her parçada 8bit ile RGB ye dönüştürülecek</translation>
-    </message>
     <message>
         <location filename="ViewWindow.cpp" line="4681"/>
         <source>Error</source>
@@ -673,14 +617,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
 İstenen düğüm (nod) üzerine atama yapmak için Sürükle ve Bırakınız.</translation>
     </message>
     <message>
-        <source>Any</source>
-        <translation type="vanished">Herhangi biri</translation>
-    </message>
-    <message>
-        <source>All</source>
-        <translation type="vanished">Tümü</translation>
-    </message>
-    <message>
         <location filename="BrowserWindow.cpp" line="2117"/>
         <source>Global</source>
         <translation>Genel</translation>
@@ -704,10 +640,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="BrowserWindow.cpp" line="3213"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Tagged files&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;DB result&gt;</source>
-        <translation type="vanished">&lt;DB result&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
@@ -808,10 +740,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="BrowserWindow.cpp" line="3850"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Dosyalar yeniden adlandırılamıyor, bir hata oluştu.</translation>
-    </message>
-    <message>
-        <source>Show all files (recursive)</source>
-        <translation type="vanished">Bütün dosyaları göster(alt klasörler dahil)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
@@ -1080,10 +1008,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Histogram</translation>
     </message>
     <message>
-        <source>Use tabs</source>
-        <translation type="vanished">Sekmeleri kullan</translation>
-    </message>
-    <message>
         <location filename="CompareWidget.cpp" line="537"/>
         <source>Zoom out</source>
         <translation>Uzaklaştır</translation>
@@ -1295,10 +1219,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Döndür</translation>
     </message>
     <message>
-        <source>Gammasat</source>
-        <translation type="vanished">Gamadoygunluk</translation>
-    </message>
-    <message>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
@@ -1360,10 +1280,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvertProcess.h" line="2657"/>
         <source>HLS</source>
         <translation>HLS</translation>
-    </message>
-    <message>
-        <source>Swap component</source>
-        <translation type="vanished">Bileşen Takası</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2732"/>
@@ -1481,11 +1397,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvertProcess.h" line="4794"/>
         <source>Halftone</source>
         <translation>Yarım Ton</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertProcess.h" line="4813"/>
-        <source>IPTC-IIM/XMP</source>
-        <translation>IPTC-IIM/XMP</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
@@ -1661,14 +1572,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvert.cpp" line="204"/>
         <source>Equalize</source>
         <translation>Eşitle</translation>
-    </message>
-    <message>
-        <source>Conbright</source>
-        <translation type="vanished">Conbright</translation>
-    </message>
-    <message>
-        <source>Exposure</source>
-        <translation type="vanished">Pozlama</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="223"/>
@@ -2196,11 +2099,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Lütfen arşiv dosyası için tam yolu girin</translation>
     </message>
     <message>
-        <location filename="DlgArchive.ui" line="32"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open File Explorer after compressing</source>
         <translation>Sıkıştırma işleminden sonra Dosya Gezgini açılsın</translation>
@@ -2215,18 +2113,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgArchive.cpp" line="124"/>
         <source>Archive file</source>
         <translation>Arşiv Dosyası</translation>
-    </message>
-</context>
-<context>
-    <name>DlgAskClass</name>
-    <message>
-        <source>Confirm</source>
-        <translation type="vanished">Onaylama</translation>
-    </message>
-    <message>
-        <source>Remember my answer and don&apos;t ask again</source>
-        <oldsource>Do not show this message again.</oldsource>
-        <translation type="vanished">Cevabımı hatırla ve tekrar gösterme</translation>
     </message>
 </context>
 <context>
@@ -3035,10 +2921,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delay (sec)</source>
-        <translation type="vanished">Gecikme (sn)</translation>
-    </message>
-    <message>
         <location filename="DlgCapture.ui" line="138"/>
         <source>Hotkey</source>
         <translation>Kısayol</translation>
@@ -3068,10 +2950,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
         <translation>Ayarlar...</translation>
-    </message>
-    <message>
-        <source>Open in draw module</source>
-        <translation type="vanished">Çizim modülünde aç</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="261"/>
@@ -3221,11 +3099,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Yorum</translation>
     </message>
     <message>
-        <location filename="DlgClean.ui" line="40"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF küçük resim</translation>
@@ -3234,16 +3107,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
         <translation>GPS</translation>
-    </message>
-    <message>
-        <location filename="DlgClean.ui" line="101"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
-        <location filename="DlgClean.ui" line="108"/>
-        <source>IPTC-IIM</source>
-        <translation>IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="115"/>
@@ -3450,12 +3313,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Başlık</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="472"/>
-        <location filename="DlgContactSheet.ui" line="500"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
-    </message>
-    <message>
         <location filename="DlgContactSheet.ui" line="482"/>
         <source>Footer</source>
         <translation>Dipnot</translation>
@@ -3656,10 +3513,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>&lt;br&gt;XnConvert ücretsiz bir yazılımdır. Ancak kullanımdan kaynaklanabilecek sorunlardan yazılımcı sorumlu tutulamaz.&lt;br&gt;Yazılım sınırsız kopyasını çıkarma ve kullanma hakkınız vardır. Yazılım kullanmak sizin sorumluluğunuzda olup, yazılım geliştiricileri herhangi bir garanti sunmamaktadır. Oluşabilecek veri kaybı, bozulma ve olabilecek tüm kayıplarda sorumluluk size aittir. &lt;br&gt;Yazılımı geliştirenler tüm öneri ve yorumlarınıza açıktır. </translation>
     </message>
     <message>
-        <source>Information</source>
-        <translation type="vanished">Bilgi</translation>
-    </message>
-    <message>
         <location filename="DlgConvert.cpp" line="1283"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
@@ -3695,10 +3548,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvert.cpp" line="1552"/>
         <source>Export script</source>
         <translation>Betik Çıkart</translation>
-    </message>
-    <message>
-        <source>Do you would like to export filenames too?</source>
-        <translation type="vanished">Dosya adlarını da dışa aktarmak istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1874"/>
@@ -4076,10 +3925,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
         <translation type="unfinished">Yönelim</translation>
-    </message>
-    <message>
-        <source>Mode</source>
-        <translation type="obsolete">Mod</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
@@ -4582,7 +4427,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
-        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -5052,10 +4896,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Önceki giriş dosya listesini geriyükle</translation>
     </message>
     <message>
-        <source>&apos;Hot folders&apos; process files</source>
-        <translation type="vanished">&apos;Gözetimsiz dönüşüm&apos; işlem dosyaları</translation>
-    </message>
-    <message>
         <location filename="DlgConvert.ui" line="1707"/>
         <source>Use color based on file format</source>
         <translation>Dosya biçimine göre renk kullan</translation>
@@ -5224,24 +5064,9 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Yorum</translation>
     </message>
     <message>
-        <location filename="DlgConvertCleanMeta.ui" line="24"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertCleanMeta.ui" line="31"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF Küçük Resim</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertCleanMeta.ui" line="45"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
@@ -5593,12 +5418,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Girdi Profili (Varsayılan sRGB)</translation>
     </message>
     <message>
-        <location filename="DlgConvertICC.ui" line="45"/>
-        <location filename="DlgConvertICC.ui" line="82"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation>Çıktı Profili (Varsayılan sRGB)</translation>
@@ -5809,7 +5628,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Maske</translation>
     </message>
     <message>
-        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation>...</translation>
@@ -6732,10 +6550,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <source>Color</source>
         <translation type="unfinished">Renk</translation>
     </message>
-    <message>
-        <source>Add vignetting</source>
-        <translation type="vanished">Skeç Ekle</translation>
-    </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
@@ -6773,22 +6587,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvertWatermark.ui" line="31"/>
         <source>Size</source>
         <translation>Boyut</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Normal</translation>
-    </message>
-    <message>
-        <source>Repeat image</source>
-        <translation type="vanished">Resmi Tekrarla</translation>
-    </message>
-    <message>
-        <source>Stretch image</source>
-        <translation type="vanished">Resmi Uzat</translation>
-    </message>
-    <message>
-        <source>Percentage (width)</source>
-        <translation type="vanished">Yüzde (Genişlik)</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="46"/>
@@ -6885,10 +6683,6 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom right</source>
         <translation>Alt Sağ</translation>
-    </message>
-    <message>
-        <source>Delta</source>
-        <translation type="vanished">Delta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7926,10 +7720,6 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Şeffaflık rengini ayarla...</translation>
     </message>
     <message>
-        <source>Auto refresh</source>
-        <translation type="vanished">Otomatik Yenileme</translation>
-    </message>
-    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -8008,10 +7798,6 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="491"/>
         <source>1x1,1x1,1x1 (best quality)</source>
         <translation>1x1,1x1,1x1 (en iyi kalite)</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation type="vanished">Yenile</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="605"/>
@@ -8109,11 +7895,6 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translation>Seçili klasörü klasör ağaç yapısında göster</translation>
-    </message>
-    <message>
-        <location filename="DlgFile.ui" line="36"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -8471,10 +8252,6 @@ Please make sure that files are not read-only!</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Uploading %1...</source>
-        <translation type="vanished">%1 Yükleniyor...</translation>
-    </message>
-    <message>
         <location filename="DlgFtp.cpp" line="573"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>%1 adresindeki FTP sunucusuna bağlanılamadı. Lütfen sunucu adresini kontrol edin.</translation>
@@ -8488,14 +8265,6 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFtp.cpp" line="586"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
         <translation>%1 daki FTP sunucusuna bağlanılamadı. Lütfen kullanıcı adı ve şifresini kontrol edin.</translation>
-    </message>
-    <message>
-        <source>Canceled upload of %1.</source>
-        <translation type="vanished">%1 yüklemesi iptal edildi.</translation>
-    </message>
-    <message>
-        <source>Uploaded %1 to current directory.</source>
-        <translation type="vanished">%1 Mevcut Dizine Yüklendi.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
@@ -9586,10 +9355,6 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Ad</translation>
     </message>
     <message>
-        <source>Parameter</source>
-        <translation type="vanished">Parametre</translation>
-    </message>
-    <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
@@ -10010,10 +9775,6 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
         <translation>Alt-Sağ</translation>
-    </message>
-    <message>
-        <source>Gamma</source>
-        <translation type="vanished">Gama</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -11036,10 +10797,6 @@ Thank you for purchasing %1.</source>
         <translation>Kenar yumuşatma kullan</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation type="vanished">Pürüzsüz</translation>
-    </message>
-    <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
         <translation>Otomatik Kırp</translation>
@@ -11097,14 +10854,6 @@ Thank you for purchasing %1.</source>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
         <translation>Düzenli İfade Kullan</translation>
-    </message>
-    <message>
-        <source>Match All of the following conditions</source>
-        <translation type="vanished">Aşağıdaki bütün durumları karşılaştır</translation>
-    </message>
-    <message>
-        <source>Match Any of the following conditions</source>
-        <translation type="vanished">Aşağıdaki herhangi bir durumu karşılaştır</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11299,10 +11048,6 @@ Thank you for purchasing %1.</source>
         <translation>Dosya Listesi</translation>
     </message>
     <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Tam Ekran</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
         <translation>Genel</translation>
@@ -11333,11 +11078,6 @@ Thank you for purchasing %1.</source>
         <translation>Görünüm</translation>
     </message>
     <message>
-        <source>Auto text correction</source>
-        <oldsource>Auto correct</oldsource>
-        <translation type="vanished">Otomatik metin doğrulama</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
         <translation>Dosya türleri</translation>
@@ -11349,39 +11089,11 @@ Thank you for purchasing %1.</source>
     </message>
 </context>
 <context>
-    <name>DlgSettingsAuto</name>
-    <message>
-        <source>Auto Correct</source>
-        <translation type="vanished">Otomatik Düzeltme</translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="vanished">Değiştir</translation>
-    </message>
-    <message>
-        <source>With</source>
-        <translation type="vanished">İle</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">Sil</translation>
-    </message>
-    <message>
-        <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation type="vanished">Mevcut otomatik düzeltme girişini silmek istiyor musunuz?</translation>
-    </message>
-</context>
-<context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
         <translation>Gezgin</translation>
-    </message>
-    <message>
-        <source>Display file size in bytes</source>
-        <oldsource>Display bytes for file size</oldsource>
-        <translation type="vanished">Dosya boyutunun byte&apos;ını göster</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
@@ -11685,10 +11397,6 @@ Thank you for purchasing %1.</source>
         <translation type="unfinished">Mutlak/göreceli yolları değiştir</translation>
     </message>
     <message>
-        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database, you need this only if you intend to share same folder between computers. Do you want still to change &apos;base path&apos;?</source>
-        <translation type="vanished">Dikkatli olun, &apos;temel yolu&apos; değiştirmek, veritabanında önceden depolanmış dosyaların bağlantısını kesebilir, buna yalnızca bilgisayarlar arasında aynı klasörü paylaşmayı düşünüyorsanız ihtiyacınız vardır. Hâlâ &apos;temel yolu&apos; değiştirmek istiyor musunuz?</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
@@ -11909,10 +11617,6 @@ Bir kategoriye atanan girdileri kaldırmak istiyor musunuz?</translation>
         <translation>Küçük resimleri yeniden oluştur</translation>
     </message>
     <message>
-        <source>Optimize...</source>
-        <translation type="vanished">Optimize Et...</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
         <source>Add folder...</source>
         <translation>Klasör Ekle...</translation>
@@ -11992,11 +11696,6 @@ Bir kategoriye atanan girdileri kaldırmak istiyor musunuz?</translation>
         <translation>İlişkilendirilen Program</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="193"/>
-        <source>XnView</source>
-        <translation>XnView</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation>Görünür</translation>
@@ -12006,11 +11705,6 @@ Bir kategoriye atanan girdileri kaldırmak istiyor musunuz?</translation>
         <source>Show as 
 Thumbnail</source>
         <translation>Küçük Resim Olarak Göster</translation>
-    </message>
-    <message>
-        <source>Show in 
-Preview</source>
-        <translation type="vanished">Önizlemede Göster</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -12088,10 +11782,6 @@ Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Companion (separated by ;)</source>
-        <translation type="vanished">Eşlik (ile ayrılmış ;)</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
         <translation>Sil...</translation>
@@ -12130,17 +11820,9 @@ Preview</source>
         <translation>Klasörler devamlı alfabetik olarak sıralanır</translation>
     </message>
     <message>
-        <source>Automatically select new files</source>
-        <translation type="vanished">Yeni dosyaları otomatik olarak seç</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
         <source>New files are added at the end of the list</source>
         <translation>Yeni dosyaları listenin sonuna ekle</translation>
-    </message>
-    <message>
-        <source>Select first item on entering folder</source>
-        <translation type="vanished">Klasöre girildiğinde ilk dosyayı seçili yap</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
@@ -12218,41 +11900,9 @@ Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detail mode</source>
-        <translation type="vanished">Ayrıntı modu</translation>
-    </message>
-    <message>
-        <source>Comment field</source>
-        <translation type="vanished">Yorum alanı</translation>
-    </message>
-    <message>
-        <source>Embedded comment, description</source>
-        <translation type="vanished">Gömülü yorum, açıklama</translation>
-    </message>
-    <message>
-        <source>Description, Embedded comment</source>
-        <translation type="vanished">Açıklama, Gömülü yorum</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation type="vanished">Gömülü yorum</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="vanished">Açıklama</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
         <translation>Tamamlayıcı dosyaları</translation>
-    </message>
-    <message>
-        <source>Companions files linked for delete action</source>
-        <translation type="vanished">Sil eylemine bağlı tamamlayıcı dosyaları</translation>
-    </message>
-    <message>
-        <source>Companions files linked for copy/move/rename action</source>
-        <translation type="vanished">Kopyala/taşı/yeniden adlandır eylemi için bağlanan yardımcı dosyalar</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -12303,10 +11953,6 @@ Preview</source>
 <context>
     <name>DlgSettingsFormat</name>
     <message>
-        <source>Saving</source>
-        <translation type="vanished">Kaydetme</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
         <translation type="unfinished"></translation>
@@ -12350,53 +11996,6 @@ Preview</source>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
         <translation>Yaz</translation>
-    </message>
-</context>
-<context>
-    <name>DlgSettingsFullscreenClass</name>
-    <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Tam Ekran</translation>
-    </message>
-    <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Otomatik resim boyutu</translation>
-    </message>
-    <message>
-        <source>Show playbar</source>
-        <translation type="vanished">Oynatma Çubuğunu Göster</translation>
-    </message>
-    <message>
-        <source>Show info</source>
-        <translation type="vanished">Bilgileri Göster</translation>
-    </message>
-    <message>
-        <source>Show scrollbars</source>
-        <translation type="vanished">Kaydırma Çubuklarını Göster</translation>
-    </message>
-    <message>
-        <source>Show toolbar</source>
-        <translation type="vanished">Araç Çubuğunu Göster</translation>
-    </message>
-    <message>
-        <source>Hide mouse cursor</source>
-        <translation type="vanished">Fare imlecini gizle</translation>
-    </message>
-    <message>
-        <source>Background color</source>
-        <translation type="vanished">Arkaplan Rengi</translation>
-    </message>
-    <message>
-        <source>Dual monitor: Use second monitor</source>
-        <translation type="vanished">Çift Monitör: İkinci Monitörü Kullan</translation>
-    </message>
-    <message>
-        <source>Floating views</source>
-        <translation type="vanished">Kayan Görünümler</translation>
-    </message>
-    <message>
-        <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation type="vanished">(fare ekranın sağına veya üstüne götürüldüğünde görünür)</translation>
     </message>
 </context>
 <context>
@@ -12587,22 +12186,10 @@ Preview</source>
         <translation>Asla</translation>
     </message>
     <message>
-        <source>Mode when starting with a file</source>
-        <translation type="vanished">Bir dosya başlatma sırasında modu</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Normal</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation type="unfinished">Tam ekran - Görüntüleyici</translation>
-    </message>
-    <message>
-        <source>Fullscreen - Browser</source>
-        <translation type="vanished">Tam ekran - Tarayıcı</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="245"/>
@@ -12630,17 +12217,9 @@ Preview</source>
         <translation>Anonim günlükleri gönder</translation>
     </message>
     <message>
-        <source>Open browser at startup</source>
-        <translation type="vanished">Başlangıçta tarayıcıyı aç</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="430"/>
         <source>Directory</source>
         <translation>Dizin</translation>
-    </message>
-    <message>
-        <source>Restore last selected filename</source>
-        <translation type="vanished">Son seçilen dosya adını geri yükle</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="334"/>
@@ -12776,10 +12355,6 @@ Preview</source>
         <location filename="DlgSettingsGeneral.ui" line="709"/>
         <source>Embedded Metadata change</source>
         <translation>Gömülü Metaveri Değiştirme</translation>
-    </message>
-    <message>
-        <source>ICC</source>
-        <translation type="vanished">ICC</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="741"/>
@@ -12959,13 +12534,6 @@ Preview</source>
         <location filename="DlgSettingsIntegration.ui" line="87"/>
         <source>Paths</source>
         <translation>Yollar</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.ui" line="168"/>
-        <location filename="DlgSettingsIntegration.ui" line="195"/>
-        <location filename="DlgSettingsIntegration.ui" line="231"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
@@ -13260,10 +12828,6 @@ Do you want to reassign?</source>
         <translation type="unfinished">Gözatma Modu</translation>
     </message>
     <message>
-        <source>View mode</source>
-        <translation type="vanished">Görüntüleme Modu</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
@@ -13288,20 +12852,12 @@ Do you want to reassign?</source>
         <translation>Filtre</translation>
     </message>
     <message>
-        <source>Pressing Esc once quits XnViewMP</source>
-        <translation type="vanished">Bir kere Esc tuşuna basıldığında XnViewMP&apos;den çıkar</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1302"/>
         <location filename="DlgSettingsInterface.ui" line="1352"/>
         <location filename="DlgSettingsInterface.ui" line="1402"/>
         <location filename="DlgSettingsInterface.ui" line="1442"/>
         <source>Previous file</source>
         <translation>Önceki dosya</translation>
-    </message>
-    <message>
-        <source>Use &quot;Pan and Zoom&quot; tool</source>
-        <translation type="vanished">&quot;Kaydırma ve Yakınlaştırma&quot; aracını kullan</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
@@ -13329,14 +12885,6 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="847"/>
         <source>Shortcuts</source>
         <translation>Kısayollar</translation>
-    </message>
-    <message>
-        <source>Browser mode</source>
-        <translation type="vanished">Tarayıcı modu</translation>
-    </message>
-    <message>
-        <source>Viewer mode</source>
-        <translation type="vanished">İzleyici modu</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="987"/>
@@ -13435,18 +12983,6 @@ Do you want to reassign?</source>
         <translation>Yukarı/Aşağı kaydır</translation>
     </message>
     <message>
-        <source>Never</source>
-        <translation type="vanished">Asla</translation>
-    </message>
-    <message>
-        <source>Only in fullscreen</source>
-        <translation type="vanished">Sadece tam ekranda çalışırken</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="vanished">Her Zaman</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
         <source>Mouse</source>
         <translation>Fare</translation>
@@ -13495,10 +13031,6 @@ Do you want to reassign?</source>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation type="unfinished">Yakınlaştırılmış Seçim</translation>
-    </message>
-    <message>
-        <source>Left button + CTRL</source>
-        <translation type="vanished">Sol Tuş + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1677"/>
@@ -13586,24 +13118,12 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Right button + CTRL</source>
-        <translation type="vanished">Sağ Tuş + CTRL</translation>
-    </message>
-    <message>
-        <source>Mouse wheel</source>
-        <translation type="vanished">Fare Tekerleği</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
         <location filename="DlgSettingsInterface.ui" line="1861"/>
         <source>Zoom in/out</source>
         <translation>Yakınlaştır/Uzaklaştır</translation>
-    </message>
-    <message>
-        <source>Mouse wheel + CTRL</source>
-        <translation type="vanished">Fae tekerleği + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1916"/>
@@ -13625,10 +13145,6 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2015"/>
         <source>Enter</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use double click to switch between:</source>
-        <translation type="vanished">Çift tıklandığında yapılacak işlem:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
@@ -13659,14 +13175,6 @@ Do you want to reassign?</source>
         <translation>Gezgin &gt; Görüntüleyici &gt; Tam Ekran</translation>
     </message>
     <message>
-        <source>Use middle click to switch between:</source>
-        <translation type="vanished">Orta tuşa tıklandığında yapılacak işlem:</translation>
-    </message>
-    <message>
-        <source>Use ENTER to switch between:</source>
-        <translation type="vanished">ENTER tuşuna basıldığında yapılacak işlem:</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
         <location filename="DlgSettingsInterface.ui" line="996"/>
         <source>None</source>
@@ -13693,14 +13201,6 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsKeywordsClass</name>
-    <message>
-        <source>IPTC &amp;&amp; XMP</source>
-        <translation type="vanished">IPTC &amp;&amp; XMP</translation>
-    </message>
-    <message>
-        <source>Keywords</source>
-        <translation type="vanished">Anahtar Kelimeler</translation>
-    </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
@@ -13808,14 +13308,6 @@ Do you want to reassign?</source>
         <translation type="unfinished">Sepet</translation>
     </message>
     <message>
-        <source>Yes</source>
-        <translation type="obsolete">Evet</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="obsolete">Hayır</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
         <translation type="unfinished"></translation>
@@ -13829,11 +13321,6 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
         <translation>Kodlama</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="428"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
@@ -13884,10 +13371,6 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>JPEG</source>
-        <translation type="obsolete">JPEG</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Labels</source>
         <translation>Etiketler</translation>
@@ -13895,10 +13378,6 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsPanel</name>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Bilgi</translation>
-    </message>
     <message>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
@@ -13908,10 +13387,6 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
-    <message>
-        <source>Misc</source>
-        <translation type="vanished">Çeşitli</translation>
-    </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -14010,10 +13485,6 @@ Do you want to reassign?</source>
         <translation>Kategori vardır</translation>
     </message>
     <message>
-        <source>Background color</source>
-        <translation type="vanished">Arkaplan Rengi</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Border size</source>
         <translation>Kenarlık Boyutu</translation>
@@ -14079,11 +13550,6 @@ Do you want to reassign?</source>
         <translation>Kısayol</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="634"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="997"/>
         <source>Color</source>
         <translation type="unfinished">Renk</translation>
@@ -14104,11 +13570,6 @@ Do you want to reassign?</source>
         <translation>Otomatik Döndürme</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="541"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
         <source>Rating</source>
         <translation>Puanlama</translation>
@@ -14119,19 +13580,9 @@ Do you want to reassign?</source>
         <translation>Gömülü Küçük Resim</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="826"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
         <translation>Renk Etiketi</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="766"/>
-        <source>GPS</source>
-        <translation>GPS</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -14154,10 +13605,6 @@ Do you want to reassign?</source>
         <translation>Etiketler</translation>
     </message>
     <message>
-        <source>Text color</source>
-        <translation type="vanished">Yazı Rengi</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Reset color</source>
         <translation>Rengi Sıfırla</translation>
@@ -14171,11 +13618,6 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="988"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -14384,18 +13826,6 @@ Do you want to reassign?</source>
         <translation type="unfinished">(fare ekranın sağına veya üstüne götürüldüğünde görünür)</translation>
     </message>
     <message>
-        <source>Zoom-out</source>
-        <translation type="vanished">Uzaklaştır</translation>
-    </message>
-    <message>
-        <source>Zoom-in</source>
-        <translation type="vanished">Yakınlaştır</translation>
-    </message>
-    <message>
-        <source>Zoom-out &amp; Zoom-in</source>
-        <translation type="vanished">Uzaklaştır &amp; Yakınlaştır</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="494"/>
         <source>Show Pan tool</source>
         <translation>Pan Aracını Göster</translation>
@@ -14518,11 +13948,6 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="749"/>
         <source>Loop on the file list</source>
         <translation>Dosya listesinde döngü yap</translation>
-    </message>
-    <message>
-        <source>Show Video</source>
-        <oldsource>Play video</oldsource>
-        <translation type="vanished">Video&apos;yu göster</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="763"/>
@@ -14665,14 +14090,6 @@ Do you want to reassign?</source>
         <translation>Bilgi</translation>
     </message>
     <message>
-        <source>Information displayed</source>
-        <translation type="vanished">Görüntülenen Bilgi</translation>
-    </message>
-    <message>
-        <source>HTML tags supported</source>
-        <translation type="vanished">HTML etiketleri desteklenir</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
         <source>Text color</source>
         <translation>Yazı Rengi</translation>
@@ -14701,10 +14118,6 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Position</source>
         <translation>Pozisyon</translation>
-    </message>
-    <message>
-        <source>Always in fullscreen</source>
-        <translation type="vanished">Her zaman tam ekran</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="933"/>
@@ -14812,13 +14225,6 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
         <translation>Uzaklaştır</translation>
-    </message>
-    <message>
-        <location filename="DlgSimilarResult.ui" line="87"/>
-        <location filename="DlgSimilarResult.ui" line="156"/>
-        <location filename="DlgSimilarResult.ui" line="239"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
@@ -15109,16 +14515,6 @@ Do you want to reassign?</source>
         <translation>Geçiş efektleri kullan</translation>
     </message>
     <message>
-        <location filename="DlgSlideshow.ui" line="210"/>
-        <location filename="DlgSlideshow.ui" line="314"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <source>Save SLD with relative paths</source>
-        <translation type="vanished">Göreli yollar ile SDL&apos;yi kaydet</translation>
-    </message>
-    <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
         <translation>Ses dosyasını kullan</translation>
@@ -15170,15 +14566,6 @@ Do you want to reassign?</source>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
         <translation>Böl</translation>
-    </message>
-    <message>
-        <location filename="DlgSplit.ui" line="30"/>
-        <location filename="DlgSplit.ui" line="44"/>
-        <location filename="DlgSplit.ui" line="58"/>
-        <location filename="DlgSplit.ui" line="72"/>
-        <location filename="DlgSplit.ui" line="96"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -15521,10 +14908,6 @@ Do you want to reassign?</source>
         <translation>Yüz ara</translation>
     </message>
     <message>
-        <source>Add region</source>
-        <translation type="vanished">Bölge ekle</translation>
-    </message>
-    <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
         <translation>Bölgeleri temizle</translation>
@@ -15675,11 +15058,6 @@ Do you want to reassign?</source>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Çekildiği Tarih</translation>
-    </message>
-    <message>
-        <location filename="DlgTimestamp.ui" line="488"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
@@ -15891,38 +15269,32 @@ Do you want to reassign?</source>
         <translation>Kimlik Doğrulama</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="138"/>
+        <location filename="DlgUpload.ui" line="147"/>
         <source>Username</source>
         <translation>Kullanıcı Adı</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="148"/>
+        <location filename="DlgUpload.ui" line="157"/>
         <source>Password</source>
         <translation>Şifre</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="168"/>
+        <location filename="DlgUpload.ui" line="177"/>
         <source>User</source>
         <translation>Kullanıcı</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="193"/>
+        <location filename="DlgUpload.ui" line="202"/>
         <source>New user...</source>
         <translation>Yeni Kullanıcı...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="224"/>
+        <location filename="DlgUpload.ui" line="233"/>
         <source>Thumbnail link</source>
         <translation>Küçük Resim Linki</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="241"/>
-        <location filename="DlgUpload.ui" line="269"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <location filename="DlgUpload.ui" line="252"/>
+        <location filename="DlgUpload.ui" line="261"/>
         <source>Image link</source>
         <translation>Resim Linki</translation>
     </message>
@@ -15944,12 +15316,6 @@ Do you want to reassign?</source>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
         <translation>Filtre Ekle</translation>
-    </message>
-    <message>
-        <location filename="DlgUserFilter.ui" line="36"/>
-        <location filename="DlgUserFilter.ui" line="63"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="60"/>
@@ -15986,14 +15352,6 @@ Do you want to reassign?</source>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Changes</source>
-        <translation type="vanished">Değişiklikler</translation>
-    </message>
-    <message>
-        <source>There is some changes, do you want to save filters?</source>
-        <translation type="vanished">Bazı değişiklikler var, filtreleri kaydetmek ister misiniz?</translation>
     </message>
 </context>
 <context>
@@ -16042,34 +15400,6 @@ Do you want to reassign?</source>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unit:</source>
-        <translation type="vanished">Birim:</translation>
-    </message>
-    <message>
-        <source>points</source>
-        <translation type="vanished">nokta</translation>
-    </message>
-    <message>
-        <source>Style</source>
-        <translation type="vanished">Stil</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="vanished">K</translation>
-    </message>
-    <message>
-        <source>I</source>
-        <translation type="vanished">I</translation>
-    </message>
-    <message>
-        <source>U</source>
-        <translation type="vanished">A</translation>
-    </message>
-    <message>
-        <source>S</source>
-        <translation type="vanished">S</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -16135,10 +15465,6 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Scaled</source>
-        <translation type="vanished">Ölçeklendir</translation>
-    </message>
-    <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
         <translation>Sığdır</translation>
@@ -16195,10 +15521,6 @@ Do you want to reassign?</source>
         <translation>Biçim</translation>
     </message>
     <message>
-        <source>Codec</source>
-        <translation type="vanished">Kodek</translation>
-    </message>
-    <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
         <source>Speed</source>
         <translation>Sürat</translation>
@@ -16208,28 +15530,6 @@ Do you want to reassign?</source>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
         <translation>(10 = en hızlı)</translation>
-    </message>
-    <message>
-        <source>Quantization for color</source>
-        <oldsource>Quantizer for color</oldsource>
-        <translation type="vanished">Renk için niceleme</translation>
-    </message>
-    <message>
-        <source>Lossless</source>
-        <translation type="vanished">Kayıpsız</translation>
-    </message>
-    <message>
-        <source>Min</source>
-        <translation type="vanished">Asgari</translation>
-    </message>
-    <message>
-        <source>Max</source>
-        <translation type="vanished">Azami</translation>
-    </message>
-    <message>
-        <source>Quantization for alpha</source>
-        <oldsource>Quantizer for alpha</oldsource>
-        <translation type="vanished">Alfa için niceleme</translation>
     </message>
 </context>
 <context>
@@ -16480,18 +15780,6 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgWritePDFClass</name>
-    <message>
-        <source>B&amp;W compression type</source>
-        <translation type="vanished">B&amp;W sıkıştırma türü</translation>
-    </message>
-    <message>
-        <source>Grayscale compression type</source>
-        <translation type="vanished">Gri Tonlu sıkıştırma türü</translation>
-    </message>
-    <message>
-        <source>Color compression type</source>
-        <translation type="vanished">Renkli sıkıştırma türü</translation>
-    </message>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
@@ -16834,10 +16122,6 @@ Sık kullanılan &quot;%1&quot; silinmesini istiyor musunuz?</translation>
 <context>
     <name>FileListWidget</name>
     <message>
-        <source>View as:</source>
-        <translation type="vanished">Görünüm olarak:</translation>
-    </message>
-    <message>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Small thumbnails</source>
         <translation>Küçük minyatürler</translation>
@@ -16862,10 +16146,6 @@ Sık kullanılan &quot;%1&quot; silinmesini istiyor musunuz?</translation>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
         <translation type="unfinished">Liste</translation>
-    </message>
-    <message>
-        <source>You can drag&amp;drop your files on the list below.</source>
-        <translation type="vanished">Dosyalarınızı aşağıdaki listeye sürükle&amp;bırakyapabilirsiniz.</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
@@ -17725,10 +17005,6 @@ Sık kullanılan &quot;%1&quot; silinmesini istiyor musunuz?</translation>
         <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Catalog</source>
         <translation type="unfinished">Katalog</translation>
-    </message>
-    <message>
-        <source>File&apos;s categories</source>
-        <translation type="vanished">Dosyanın kategorileri</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
@@ -19156,18 +18432,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation type="unfinished">Bir hata oluştu.</translation>
     </message>
     <message>
-        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
-        <translation type="vanished">Dikkatli ol, bu dosya biçiminde kaydetmek mevcut metaveri ve yorumları kaybedecektir!</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard any existing metadata!</source>
-        <translation type="vanished">Dikkatli ol, bu dosya biçiminde kaydetmek mevcut metaveriler kaybedecektir!</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard some metadata!</source>
-        <translation type="vanished">Dikkatli ol, bu biçimde kaydetmek bazı meta verileri atacaktır!</translation>
-    </message>
-    <message>
         <location filename="GFFHelper.h" line="19"/>
         <location filename="GFFHelper.h" line="33"/>
         <location filename="GFFHelper.h" line="47"/>
@@ -19415,19 +18679,6 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Simplified Chinese</source>
-        <translation type="vanished">Basit Çince</translation>
-    </message>
-    <message>
-        <source>Traditional Chinese</source>
-        <translation type="vanished">Geleneksel Çince</translation>
-    </message>
-    <message>
-        <location filename="LanguageComboBox.cpp" line="57"/>
-        <source>Hebrew</source>
-        <translation>İbranice</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19895,26 +19146,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Puanlanmamış</translation>
     </message>
     <message>
-        <source>Important</source>
-        <translation type="vanished">Önemli</translation>
-    </message>
-    <message>
-        <source>Work</source>
-        <translation type="vanished">İş</translation>
-    </message>
-    <message>
-        <source>Personal</source>
-        <translation type="vanished">Kişisel</translation>
-    </message>
-    <message>
-        <source>To do</source>
-        <translation type="vanished">Yapılacak</translation>
-    </message>
-    <message>
-        <source>Later</source>
-        <translation type="vanished">Daha Sonra</translation>
-    </message>
-    <message>
         <location filename="CompareWidget.cpp" line="486"/>
         <location filename="BrowserMenu.h" line="122"/>
         <location filename="BrowserMenu.h" line="502"/>
@@ -19976,14 +19207,6 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="602"/>
         <source>Edit XMP...</source>
         <translation>XMP&apos;yi Düzenle...</translation>
-    </message>
-    <message>
-        <source>EXIF thumbnail - Rotate 90°</source>
-        <translation type="vanished">EXIF Küçük Resim - 90° Döndü</translation>
-    </message>
-    <message>
-        <source>EXIF thumbnail - Rotate 270°</source>
-        <translation type="vanished">EXIF Küçük Resim - 270° Döndür</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="609"/>
@@ -20092,10 +19315,6 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Filelist toolbar</source>
         <translation>Dosya Listesi Araç Çubuğu</translation>
-    </message>
-    <message>
-        <source>Show title of panes</source>
-        <translation type="vanished">Panel Başlıklarını Göster</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="272"/>
@@ -20406,10 +19625,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation type="unfinished">Etiketle</translation>
     </message>
     <message>
-        <source>Untag current</source>
-        <translation type="vanished">Etiketi Kaldır</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="473"/>
         <source>Invert</source>
         <translation>Ters Çevir</translation>
@@ -20614,10 +19829,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Yenile</translation>
     </message>
     <message>
-        <source>Show files in subfolder</source>
-        <translation type="vanished">Alt Klasörlerdeki Dosyaları Göster</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Stop</source>
         <translation>Dur</translation>
@@ -20688,10 +19899,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Sadece Küçük Resim Görünümü</translation>
     </message>
     <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">Saat Yönünde Döndür</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="584"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>EXIF Yönelim Alanına Göre Döndür</translation>
@@ -20700,14 +19907,6 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF Yönelim Alanını Sıfırla</translation>
-    </message>
-    <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Yatay Çevir</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Dikey Çevir</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="588"/>
@@ -20723,14 +19922,6 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Compare...</source>
         <translation>Karşılaştır...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in GeoHack...</source>
-        <translation type="vanished">GPS konumunu Geohack ile aç...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in Google Earth...</source>
-        <translation type="vanished">GPS konumunu Google Earth ile Aç...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -20888,10 +20079,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Resim pencerden küçükse,pencereye sığdır</translation>
     </message>
     <message>
-        <source>Auto Image Size</source>
-        <translation type="vanished">Otomatik Resim Boyutu</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Zoom</source>
         <translation>Yakınlaştır</translation>
@@ -21011,10 +20198,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation type="unfinished">XnView web sitesine git...</translation>
     </message>
     <message>
-        <source>Visit XnView&apos;s Forum...</source>
-        <translation type="vanished">XnView forumlarına git...</translation>
-    </message>
-    <message>
         <location filename="xnview.cpp" line="1437"/>
         <source>Forum...</source>
         <translation type="unfinished"></translation>
@@ -21054,18 +20237,6 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="xnview.cpp" line="1444"/>
         <source>Purchase...</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Follow XnView on Twitter...</source>
-        <translation type="vanished">XnView Twitter hesabını takip et...</translation>
-    </message>
-    <message>
-        <source>Become a fan of XnView on Facebook...</source>
-        <translation type="vanished">XnView Facebook sayfasını beğen...</translation>
-    </message>
-    <message>
-        <source>Web capture...</source>
-        <translation type="vanished">Web sayfası görüntü yakalama...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1454"/>
@@ -21592,14 +20763,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tag current</source>
-        <translation type="vanished">Etiket</translation>
-    </message>
-    <message>
-        <source>Untag current</source>
-        <translation type="vanished">Etiket Kaldır</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next photo)</source>
         <translation>Harika (sonraki resme geç)</translation>
@@ -21756,10 +20919,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Yakınlaştırmayı Sabitle</translation>
     </message>
     <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Otomatik Resim Boyutu</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="387"/>
         <source>Zoom</source>
         <translation>Yakınlaştırma</translation>
@@ -21880,14 +21039,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Çoklu Dönüştürme...</translation>
     </message>
     <message>
-        <source>Open GPS location in GeoHack...</source>
-        <translation type="vanished">GPS konumunu Geohack ile aç...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in Google Earth...</source>
-        <translation type="vanished">GPS Konumunu  Google Earth ile aç...</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="419"/>
         <source>Set as wallpaper...</source>
         <translation>Duvar Kağıdı Olarak Ayarla...</translation>
@@ -21978,10 +21129,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Seviyeler...</translation>
     </message>
     <message>
-        <source>Filter...</source>
-        <translation type="vanished">Filtre...</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="441"/>
         <source>User filter...</source>
         <translation>Filtre Kullan...</translation>
@@ -22027,27 +21174,9 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Beyaz Dengesi...</translation>
     </message>
     <message>
-        <source>90° right</source>
-        <oldsource>90� right</oldsource>
-        <translation type="vanished">90° Sağ</translation>
-    </message>
-    <message>
-        <source>90° left</source>
-        <oldsource>90� left</oldsource>
-        <translation type="vanished">90° Sol</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
         <translation>Döndür...</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation type="vanished">Yatay</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="vanished">Dikey</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
@@ -22209,14 +21338,6 @@ Devam etmek istiyor musunuz?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">Saat Yönünde Döndür</translation>
-    </message>
-    <message>
-        <source>Rotate counter clockwise</source>
-        <translation type="vanished">Saat Yönü Tersine Döndür</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="454"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
@@ -22246,18 +21367,6 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="ViewMenu.h" line="490"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF Yönlendirme Alanını Sıfırla</translation>
-    </message>
-    <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Yatay Çevir</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Dikey Çevir</translation>
-    </message>
-    <message>
-        <source>Crop</source>
-        <translation type="vanished">Kırp</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -22538,10 +21647,6 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
-        <source>Abort</source>
-        <translation type="vanished">İptal</translation>
-    </message>
-    <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
         <translation>Küçük Resimleri Oluştur...</translation>
@@ -22718,13 +21823,6 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MyProgressDialogEx</name>
-    <message>
-        <source>Creating contact sheet...</source>
-        <translation type="obsolete">İletişim formu oluşturma...</translation>
     </message>
 </context>
 <context>
@@ -23207,14 +22305,6 @@ You can change it in Settings&gt;Catalog.</source>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply actions</source>
-        <translation type="obsolete">Görevleri Uygula</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -24087,10 +23177,6 @@ Görevlerle ilgili açılır menü için sağ tıklayın.</translation>
         <translation>Ekle &gt;&gt;</translation>
     </message>
     <message>
-        <source>Default value</source>
-        <translation type="vanished">Varsayılan Değer</translation>
-    </message>
-    <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
         <translation>Varolanı Kaydet</translation>
@@ -24662,10 +23748,6 @@ Varolan küçük resimleri saklamak ister misiniz?
         <location filename="xnview.cpp" line="596"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation type="vanished">Versiyon</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="973"/>

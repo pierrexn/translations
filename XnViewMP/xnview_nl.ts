@@ -89,17 +89,9 @@
         <translation>Oranje</translation>
     </message>
     <message>
-        <source>6</source>
-        <translation type="obsolete">100% {6?}</translation>
-    </message>
-    <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
         <translation>Grijs</translation>
-    </message>
-    <message>
-        <source>7</source>
-        <translation type="obsolete">100% {7?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -107,17 +99,9 @@
         <translation>Zwart</translation>
     </message>
     <message>
-        <source>8</source>
-        <translation type="obsolete">100% {8?}</translation>
-    </message>
-    <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
         <translation>Wit</translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation type="obsolete">100% {9?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -191,10 +175,6 @@
         <location filename="AboutWidget.ui" line="263"/>
         <source>Wiki</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="138"/>
@@ -305,10 +285,6 @@
 </translation>
     </message>
     <message>
-        <source>Save as...</source>
-        <translation type="vanished">Opslaan als...</translation>
-    </message>
-    <message>
         <location filename="ViewWindow.cpp" line="1353"/>
         <source>Frame %1/%2</source>
         <translation>Kader %1/%2</translation>
@@ -328,14 +304,6 @@
         <location filename="ViewWindow.cpp" line="1571"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Leeg &gt;</translation>
-    </message>
-    <message>
-        <source>Are you sure to delete &quot;%1&quot;?</source>
-        <translation type="vanished">%1 verwijderen?</translation>
-    </message>
-    <message>
-        <source>Are you sure to delete &quot;%1&quot; (%2 items)?</source>
-        <translation type="vanished">%1 (%2 items) verwijderen?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
@@ -456,18 +424,6 @@
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Bestand &lt;%1&gt; is schrijfbeveiligd, kies een andere bestandsnaam.</translation>
     </message>
-    <message>
-        <source>The file &lt;%1&gt; already exists!
-
-Do you want to overwrite it?</source>
-        <translation type="vanished">Bestand &lt;%1&gt; bestaat al !
-
-Wilt u het overschrijven?</translation>
-    </message>
-    <message>
-        <source>This picture will be converted to RGB with 8bits per component</source>
-        <translation type="vanished">Deze afbeelding wordt omgezet naar RGB met 8 bits kleurdiepte</translation>
-    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -521,10 +477,6 @@ Wilt u het overschrijven?</translation>
 </context>
 <context>
     <name>BaseViewWindow</name>
-    <message>
-        <source>This picture will be converted to RGB with 8bits per component</source>
-        <translation type="vanished">Deze afbeelding wordt omgezet naar RGB met 8 bits kleurdiepte</translation>
-    </message>
     <message>
         <location filename="ViewWindow.cpp" line="4681"/>
         <source>Error</source>
@@ -669,14 +621,6 @@ Rechtermuisklik opent het actiemenu.
 Sleep bestanden hierheen om label toe te kennen.</translation>
     </message>
     <message>
-        <source>Any</source>
-        <translation type="vanished">Elke</translation>
-    </message>
-    <message>
-        <source>All</source>
-        <translation type="vanished">Alle</translation>
-    </message>
-    <message>
         <location filename="BrowserWindow.cpp" line="2117"/>
         <source>Global</source>
         <translation>Overal</translation>
@@ -700,10 +644,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="BrowserWindow.cpp" line="3213"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Gelabelde bestanden&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;DB result&gt;</source>
-        <translation type="vanished">&lt;DB resultaten&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
@@ -806,10 +746,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="BrowserWindow.cpp" line="3215"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Catalogus filterresultaten&gt;</translation>
-    </message>
-    <message>
-        <source>Show all files (recursive)</source>
-        <translation type="vanished">Alle bestanden weergeven (incl. submappen)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
@@ -1078,10 +1014,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Histogram</translation>
     </message>
     <message>
-        <source>Use tabs</source>
-        <translation type="vanished">Tabs gebruiken</translation>
-    </message>
-    <message>
         <location filename="CompareWidget.cpp" line="537"/>
         <source>Zoom out</source>
         <translation>Uitzoomen</translation>
@@ -1277,10 +1209,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Draaien</translation>
     </message>
     <message>
-        <source>Gammasat</source>
-        <translation type="vanished">Gammaverzadiging</translation>
-    </message>
-    <message>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <translation>DPI instellen</translation>
@@ -1314,10 +1242,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvertProcess.h" line="2657"/>
         <source>HLS</source>
         <translation>Tint/Helderheid/Verzadiging</translation>
-    </message>
-    <message>
-        <source>Swap component</source>
-        <translation type="vanished">Component wisselen</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2732"/>
@@ -1575,11 +1499,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Halftoon</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4813"/>
-        <source>IPTC-IIM/XMP</source>
-        <translation>IPTC-IIM/XMP</translation>
-    </message>
-    <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
         <source>QR Code</source>
         <translation>QR Code</translation>
@@ -1660,10 +1579,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Gelijkmaken</translation>
     </message>
     <message>
-        <source>Conbright</source>
-        <translation type="vanished">ConBright</translation>
-    </message>
-    <message>
         <location filename="DlgConvert.cpp" line="205"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
@@ -1674,10 +1589,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>Overbelichten</translation>
-    </message>
-    <message>
-        <source>Exposure</source>
-        <translation type="vanished">Belichting</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="223"/>
@@ -2193,11 +2104,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Het volledige pad van het archiefbestand</translation>
     </message>
     <message>
-        <location filename="DlgArchive.ui" line="32"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open File Explorer after compressing</source>
         <translation>Open de verkenner na archiveren</translation>
@@ -2212,18 +2118,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgArchive.cpp" line="124"/>
         <source>Archive file</source>
         <translation>Archiefbestand</translation>
-    </message>
-</context>
-<context>
-    <name>DlgAskClass</name>
-    <message>
-        <source>Confirm</source>
-        <translation type="vanished">Bevestigen</translation>
-    </message>
-    <message>
-        <source>Remember my answer and don&apos;t ask again</source>
-        <oldsource>Do not show this message again.</oldsource>
-        <translation type="vanished">Onthou mijn antwoord en vraag niet opnieuw</translation>
     </message>
 </context>
 <context>
@@ -3029,10 +2923,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Methode</translation>
     </message>
     <message>
-        <source>Delay (sec)</source>
-        <translation type="vanished">Vertraging (sec)</translation>
-    </message>
-    <message>
         <location filename="DlgCapture.ui" line="117"/>
         <source>Delay</source>
         <translation>Vertraging</translation>
@@ -3222,11 +3112,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Commentaar</translation>
     </message>
     <message>
-        <location filename="DlgClean.ui" line="40"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF-miniatuur</translation>
@@ -3235,17 +3120,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
         <translation>GPS</translation>
-    </message>
-    <message>
-        <location filename="DlgClean.ui" line="101"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
-        <location filename="DlgClean.ui" line="108"/>
-        <source>IPTC-IIM</source>
-        <oldsource>IPTC</oldsource>
-        <translation>IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="115"/>
@@ -3452,12 +3326,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Koptekst</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="472"/>
-        <location filename="DlgContactSheet.ui" line="500"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
-    </message>
-    <message>
         <location filename="DlgContactSheet.ui" line="482"/>
         <source>Footer</source>
         <translation>Voettekst</translation>
@@ -3656,10 +3524,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;XnConvert wordt aangeboden als freeware voor privé (niet-commercieel) of educatief gebruik, inclusief non-profit organisatie. &lt;br&gt;Bedrijven moet licenties kopen om het te kunnen gebruiken.&lt;br&gt; &lt;br&gt;U krijgt het recht om deze software te gebruiken en een onbeperkt aantal kopieën te maken.&lt;br&gt; &lt;br&gt;Deze software wordt geleverd &quot;as-is&quot;.&lt;br&gt;Geen enkele garantie wordt uitgedrukt of geïmpliceerd.&lt;br&gt; De auteur is niet aansprakelijk voor gegevensverlies, schade, winstderving of enig ander verlies tijdens het gebruik of misbruik van deze software.&lt;br&gt; &lt;br&gt;Alle suggesties, feedback en opmerkingen zijn welkom. </translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Informatie</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1283"/>
@@ -4080,10 +3944,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
         <translation>Oriëntatie</translation>
-    </message>
-    <message>
-        <source>Mode</source>
-        <translation type="obsolete">Modus</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
@@ -4627,7 +4487,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
-        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -4859,10 +4718,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvert.ui" line="1654"/>
         <source>Preview background color</source>
         <translation>Achtergrondkleur voorvertoning</translation>
-    </message>
-    <message>
-        <source>&apos;Hot folders&apos; process files</source>
-        <translation type="vanished">Hot-map process bestanden</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1707"/>
@@ -5228,24 +5083,9 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Commentaar</translation>
     </message>
     <message>
-        <location filename="DlgConvertCleanMeta.ui" line="24"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertCleanMeta.ui" line="31"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF-miniatuur</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertCleanMeta.ui" line="45"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
@@ -5597,12 +5437,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Invoerprofiel (standaard sRGB)</translation>
     </message>
     <message>
-        <location filename="DlgConvertICC.ui" line="45"/>
-        <location filename="DlgConvertICC.ui" line="82"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation>Uitvoerprofiel (standaard sRGB)</translation>
@@ -5746,14 +5580,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <source>Insert from</source>
         <translation>Invoegen van</translation>
     </message>
-    <message>
-        <source>Edit history...</source>
-        <translation type="obsolete">Geschiedenis bewerken...</translation>
-    </message>
-    <message>
-        <source>Sort alphabetically</source>
-        <translation type="obsolete">Alfabetisch sorteren</translation>
-    </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
@@ -5824,7 +5650,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Masker</translation>
     </message>
     <message>
-        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation>...</translation>
@@ -6747,10 +6572,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <source>Color</source>
         <translation>Kleur</translation>
     </message>
-    <message>
-        <source>Add vignetting</source>
-        <translation type="vanished">Vervloeiing toevoegen</translation>
-    </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
@@ -6788,22 +6609,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvertWatermark.ui" line="31"/>
         <source>Size</source>
         <translation>Grootte</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Normaal</translation>
-    </message>
-    <message>
-        <source>Repeat image</source>
-        <translation type="vanished">Afbeelding herhalen</translation>
-    </message>
-    <message>
-        <source>Stretch image</source>
-        <translation type="vanished">Afbeelding uitrekken</translation>
-    </message>
-    <message>
-        <source>Percentage (width)</source>
-        <translation type="vanished">Percentage (breedte)</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="46"/>
@@ -6900,10 +6705,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom right</source>
         <translation>Rechtsonder</translation>
-    </message>
-    <message>
-        <source>Delta</source>
-        <translation type="vanished">Verplaatsing</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7942,10 +7743,6 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <translation>Transparantiekleur instellen...</translation>
     </message>
     <message>
-        <source>Auto refresh</source>
-        <translation type="vanished">Automatisch bijwerken</translation>
-    </message>
-    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -8035,10 +7832,6 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation type="vanished">Bijwerken</translation>
-    </message>
 </context>
 <context>
     <name>DlgFile</name>
@@ -8125,11 +7918,6 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translation>Map in mappenstructuur tonen</translation>
-    </message>
-    <message>
-        <location filename="DlgFile.ui" line="36"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -8492,10 +8280,6 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <translation>Kan bestand %1: %2 niet laden.</translation>
     </message>
     <message>
-        <source>Uploading %1...</source>
-        <translation type="vanished">Uploaden %1...</translation>
-    </message>
-    <message>
         <location filename="DlgFtp.cpp" line="573"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>Kan niet verbinden met de FTP server op %1. Controleer of de hostnaam correct is.</translation>
@@ -8504,14 +8288,6 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgFtp.cpp" line="578"/>
         <source>Logged onto %1.</source>
         <translation>Aangemeld bij %1.</translation>
-    </message>
-    <message>
-        <source>Canceled upload of %1.</source>
-        <translation type="vanished">Upload geannuleerd bij %1.</translation>
-    </message>
-    <message>
-        <source>Uploaded %1 to current directory.</source>
-        <translation type="vanished">%1 geupload in de huidige directory.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
@@ -9606,10 +9382,6 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <translation>Naam</translation>
     </message>
     <message>
-        <source>Parameter</source>
-        <translation type="vanished">Parameter</translation>
-    </message>
-    <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
@@ -10030,10 +9802,6 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
         <translation>Rechtsonder</translation>
-    </message>
-    <message>
-        <source>Gamma</source>
-        <translation type="vanished">Gamma</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -11056,10 +10824,6 @@ Dank u voor de aanschaf van %1.</translation>
         <translation>Anti-aliasing gebruiken</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation type="vanished">Gelijkmatig</translation>
-    </message>
-    <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
         <translation>Automatisch bijsnijden</translation>
@@ -11117,14 +10881,6 @@ Dank u voor de aanschaf van %1.</translation>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
         <translation>Expressies</translation>
-    </message>
-    <message>
-        <source>Match All of the following conditions</source>
-        <translation type="vanished">Aan alle criteria voldoen</translation>
-    </message>
-    <message>
-        <source>Match Any of the following conditions</source>
-        <translation type="vanished">Aan enkele criteria voldoen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11319,10 +11075,6 @@ Dank u voor de aanschaf van %1.</translation>
         <translation>Bestandenlijst</translation>
     </message>
     <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Volledig scherm</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
         <translation>Algemeen</translation>
@@ -11353,11 +11105,6 @@ Dank u voor de aanschaf van %1.</translation>
         <translation>Beeld</translation>
     </message>
     <message>
-        <source>Auto text correction</source>
-        <oldsource>Auto correct</oldsource>
-        <translation type="vanished">Automatisch corrigeren</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
         <translation>Formaten</translation>
@@ -11369,39 +11116,11 @@ Dank u voor de aanschaf van %1.</translation>
     </message>
 </context>
 <context>
-    <name>DlgSettingsAuto</name>
-    <message>
-        <source>Auto Correct</source>
-        <translation type="vanished">Automatisch corrigeren</translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="vanished">Vervangen</translation>
-    </message>
-    <message>
-        <source>With</source>
-        <translation type="vanished">Door</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">Verwijderen</translation>
-    </message>
-    <message>
-        <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation type="vanished">Wilt u deze Auto-correctie verwijderen?</translation>
-    </message>
-</context>
-<context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
         <translation>Verkenner</translation>
-    </message>
-    <message>
-        <source>Display file size in bytes</source>
-        <oldsource>Display bytes for file size</oldsource>
-        <translation type="vanished">Bestandsgootte in bytes weergeven</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
@@ -11791,10 +11510,6 @@ Wilt u eerst controleren op getroffen items?</translation>
         <translation>Catalogus</translation>
     </message>
     <message>
-        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database. Please change &apos;base path&apos; only if you want to share same folder between several computers. Do you still want to change the &apos;base path&apos;?</source>
-        <translation type="vanished">Voorzichtig,het &quot;base pad&quot; veranderen kan bestanden loskoppelen reeds in de database. Gelieve &quot;Base pad veranderen&quot; enkel te gebruiken indien u dezelfde folder op meerdere computers  wil delen. Wil U alsnog &quot;Base pad&quot; wijzigen ?</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
         <location filename="DlgSettingsCache.cpp" line="979"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
@@ -11939,10 +11654,6 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
         <translation>Miniaturen verversen</translation>
     </message>
     <message>
-        <source>Optimize...</source>
-        <translation type="vanished">Optimaliseren...</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Tools</source>
         <translation>Hulpmiddelen</translation>
@@ -12022,11 +11733,6 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
         <translation>Gekoppeld programma</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="193"/>
-        <source>XnView</source>
-        <translation>XnView</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation>Zichtbaar</translation>
@@ -12037,12 +11743,6 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
 Thumbnail</source>
         <translation>Weergeven als
 Miniatuur</translation>
-    </message>
-    <message>
-        <source>Show in 
-Preview</source>
-        <translation type="vanished">Weergegeven in 
-Voorvertoning</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -12120,10 +11820,6 @@ Voorvertoning</translation>
         <translation>Bijbehorend</translation>
     </message>
     <message>
-        <source>Companion (separated by ;)</source>
-        <translation type="vanished">Bijbehorend (gescheiden door ;)</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
         <translation>Verwijderen...</translation>
@@ -12162,17 +11858,9 @@ Voorvertoning</translation>
         <translation>Map altijd alphabetisch gesorteerd</translation>
     </message>
     <message>
-        <source>Automatically select new files</source>
-        <translation type="vanished">Nieuwe bestanden automatisch selecteren</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
         <source>New files are added at the end of the list</source>
         <translation>Nieuwe bestanden aan het einde van de lijst toevoegen</translation>
-    </message>
-    <message>
-        <source>Select first item on entering folder</source>
-        <translation type="vanished">Eerste bestand in map selecteren</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
@@ -12250,41 +11938,9 @@ Voorvertoning</translation>
         <translation>Associatiellijst (gebruik ; als scheidingsteken)</translation>
     </message>
     <message>
-        <source>Detail mode</source>
-        <translation type="vanished">Details</translation>
-    </message>
-    <message>
-        <source>Comment field</source>
-        <translation type="vanished">Commentaar</translation>
-    </message>
-    <message>
-        <source>Embedded comment, description</source>
-        <translation type="vanished">Ingesloten commentaa, beschrijvingr</translation>
-    </message>
-    <message>
-        <source>Description, Embedded comment</source>
-        <translation type="vanished">Beschrijving, ingesloten commentaar</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation type="vanished">Ingesloten commentaar</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="vanished">Beschrijving</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
         <translation>Bijbehorende bestanden</translation>
-    </message>
-    <message>
-        <source>Companions files linked for delete action</source>
-        <translation type="vanished">Bijbehorende bestanden die zijn gemarkeerd voor verwijdering</translation>
-    </message>
-    <message>
-        <source>Companions files linked for copy/move/rename action</source>
-        <translation type="vanished">Bijbehorende bestanden die zijn gemarkeerd voor kopiëren/verplaatsen/hernoemen</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -12335,10 +11991,6 @@ Voorvertoning</translation>
 <context>
     <name>DlgSettingsFormat</name>
     <message>
-        <source>Saving</source>
-        <translation type="vanished">Opslaan</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
         <translation>Formaten</translation>
@@ -12382,53 +12034,6 @@ Voorvertoning</translation>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
         <translation>Schrijven</translation>
-    </message>
-</context>
-<context>
-    <name>DlgSettingsFullscreenClass</name>
-    <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Volledig scherm</translation>
-    </message>
-    <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Automatisch schalen</translation>
-    </message>
-    <message>
-        <source>Show playbar</source>
-        <translation type="vanished">Afspeelbalk weergeven</translation>
-    </message>
-    <message>
-        <source>Show info</source>
-        <translation type="vanished">Info tonen</translation>
-    </message>
-    <message>
-        <source>Show scrollbars</source>
-        <translation type="vanished">Scrollbars weergeven</translation>
-    </message>
-    <message>
-        <source>Show toolbar</source>
-        <translation type="vanished">Werkbalk weergeven</translation>
-    </message>
-    <message>
-        <source>Hide mouse cursor</source>
-        <translation type="vanished">Verberg de muis cursor</translation>
-    </message>
-    <message>
-        <source>Background color</source>
-        <translation type="vanished">Achtergrondkleur</translation>
-    </message>
-    <message>
-        <source>Dual monitor: Use second monitor</source>
-        <translation type="vanished">Tweede beeldscherm gebruiken</translation>
-    </message>
-    <message>
-        <source>Floating views</source>
-        <translation type="vanished">Zwevende vensters</translation>
-    </message>
-    <message>
-        <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation type="vanished">(verschijnen zodra de muis over de bovenkant of rechts van het scherm beweegt)</translation>
     </message>
 </context>
 <context>
@@ -12599,22 +12204,10 @@ Voorvertoning</translation>
         <translation>Nooit</translation>
     </message>
     <message>
-        <source>Mode when starting with a file</source>
-        <translation type="vanished">Modus bij opstarten met een bestand</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Normaal</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation>Viewer-Volledig scherm</translation>
-    </message>
-    <message>
-        <source>Fullscreen - Browser</source>
-        <translation type="vanished">Volledig scherm - Verkenner</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="245"/>
@@ -12662,17 +12255,9 @@ Voorvertoning</translation>
         <translation>Anonieme logboeken versturen</translation>
     </message>
     <message>
-        <source>Open browser at startup</source>
-        <translation type="vanished">Open browser bij de start</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="430"/>
         <source>Directory</source>
         <translation>Map</translation>
-    </message>
-    <message>
-        <source>Restore last selected filename</source>
-        <translation type="vanished">Herstel de laatst geselecteerde bestandsnaam</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="334"/>
@@ -12808,10 +12393,6 @@ Voorvertoning</translation>
         <location filename="DlgSettingsGeneral.ui" line="709"/>
         <source>Embedded Metadata change</source>
         <translation>Ingesloten Metatdata aanpassen</translation>
-    </message>
-    <message>
-        <source>ICC</source>
-        <translation type="vanished">ICC</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="741"/>
@@ -12981,13 +12562,6 @@ Voorvertoning</translation>
         <location filename="DlgSettingsIntegration.ui" line="36"/>
         <source>Integration</source>
         <translation>Integratie</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.ui" line="168"/>
-        <location filename="DlgSettingsIntegration.ui" line="195"/>
-        <location filename="DlgSettingsIntegration.ui" line="231"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="42"/>
@@ -13295,10 +12869,6 @@ Opnieuw toewijzen?</translation>
         <translation>Verkenner</translation>
     </message>
     <message>
-        <source>View mode</source>
-        <translation type="vanished">Beeld-modus</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
@@ -13323,20 +12893,12 @@ Opnieuw toewijzen?</translation>
         <translation>Filter</translation>
     </message>
     <message>
-        <source>Pressing Esc once quits XnViewMP</source>
-        <translation type="vanished">ESC eenmaal drukken sluit XNViewMP</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1302"/>
         <location filename="DlgSettingsInterface.ui" line="1352"/>
         <location filename="DlgSettingsInterface.ui" line="1402"/>
         <location filename="DlgSettingsInterface.ui" line="1442"/>
         <source>Previous file</source>
         <translation>Vorig bestand</translation>
-    </message>
-    <message>
-        <source>Use &quot;Pan and Zoom&quot; tool</source>
-        <translation type="vanished">Gebruik &quot;Pan en Zoom&quot; gereedschap</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
@@ -13364,14 +12926,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="847"/>
         <source>Shortcuts</source>
         <translation>Sneltoetsen</translation>
-    </message>
-    <message>
-        <source>Browser mode</source>
-        <translation type="vanished">Verkenner-modus</translation>
-    </message>
-    <message>
-        <source>Viewer mode</source>
-        <translation type="vanished">Weergave-modus</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="987"/>
@@ -13470,18 +13024,6 @@ Opnieuw toewijzen?</translation>
         <translation>Omhoog/Omlaag bladeren</translation>
     </message>
     <message>
-        <source>Never</source>
-        <translation type="vanished">Nooit</translation>
-    </message>
-    <message>
-        <source>Only in fullscreen</source>
-        <translation type="vanished">Alleen in volledig scherm</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="vanished">Altijd</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
         <source>Mouse</source>
         <translation>Muis</translation>
@@ -13530,10 +13072,6 @@ Opnieuw toewijzen?</translation>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation>Selectie zoomen</translation>
-    </message>
-    <message>
-        <source>Left button + CTRL</source>
-        <translation type="vanished">Linkerknop + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1677"/>
@@ -13621,24 +13159,12 @@ Opnieuw toewijzen?</translation>
         <translation>Esc-toets sluit</translation>
     </message>
     <message>
-        <source>Right button + CTRL</source>
-        <translation type="vanished">Rechterknop + CTRL</translation>
-    </message>
-    <message>
-        <source>Mouse wheel</source>
-        <translation type="vanished">Muiswiel</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
         <location filename="DlgSettingsInterface.ui" line="1861"/>
         <source>Zoom in/out</source>
         <translation>Zoom in/uit</translation>
-    </message>
-    <message>
-        <source>Mouse wheel + CTRL</source>
-        <translation type="vanished">Muiswiel + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1916"/>
@@ -13660,10 +13186,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2015"/>
         <source>Enter</source>
         <translation>Enter</translation>
-    </message>
-    <message>
-        <source>Use double click to switch between:</source>
-        <translation type="vanished">Dubbelklik om te wisselen tussen:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
@@ -13694,14 +13216,6 @@ Opnieuw toewijzen?</translation>
         <translation>Verkenner &gt; Viewer &gt; Volledig scherm</translation>
     </message>
     <message>
-        <source>Use middle click to switch between:</source>
-        <translation type="vanished">Middenklik om te wisselen tussen:</translation>
-    </message>
-    <message>
-        <source>Use ENTER to switch between:</source>
-        <translation type="vanished">ENTER om te wisselen tussen:</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
         <location filename="DlgSettingsInterface.ui" line="996"/>
         <source>None</source>
@@ -13728,14 +13242,6 @@ Opnieuw toewijzen?</translation>
 </context>
 <context>
     <name>DlgSettingsKeywordsClass</name>
-    <message>
-        <source>IPTC &amp;&amp; XMP</source>
-        <translation type="vanished">IPTC &amp;&amp; XMP</translation>
-    </message>
-    <message>
-        <source>Keywords</source>
-        <translation type="vanished">Trefwoorden</translation>
-    </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
@@ -13849,14 +13355,6 @@ Opnieuw toewijzen?</translation>
         <translation>Sidecar</translation>
     </message>
     <message>
-        <source>Yes</source>
-        <translation type="vanished">Ja</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Nee</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
         <translation>Videobestanden</translation>
@@ -13870,11 +13368,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
         <translation>Codering</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="428"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
@@ -13914,10 +13407,6 @@ Opnieuw toewijzen?</translation>
         <translation>Ondersteunde formaten</translation>
     </message>
     <message>
-        <source>JPEG</source>
-        <translation type="obsolete">JPEG</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Write</source>
         <translation>Schrijven</translation>
@@ -13932,10 +13421,6 @@ Opnieuw toewijzen?</translation>
 <context>
     <name>DlgSettingsPanel</name>
     <message>
-        <source>Information</source>
-        <translation type="vanished">Informatie</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
@@ -13944,10 +13429,6 @@ Opnieuw toewijzen?</translation>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
-    <message>
-        <source>Misc</source>
-        <translation type="vanished">Diversen</translation>
-    </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -14081,10 +13562,6 @@ Opnieuw toewijzen?</translation>
         <translation>Heeft category</translation>
     </message>
     <message>
-        <source>Background color</source>
-        <translation type="vanished">Achtergrondkleur</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Border size</source>
         <translation>Randomvang</translation>
@@ -14125,11 +13602,6 @@ Opnieuw toewijzen?</translation>
         <translation>Sneltoets</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="634"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="534"/>
         <source>Tag</source>
         <translation>Label</translation>
@@ -14138,11 +13610,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="833"/>
         <source>Automatic rotation</source>
         <translation>Automatisch draaien</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="541"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
@@ -14155,19 +13622,9 @@ Opnieuw toewijzen?</translation>
         <translation>Ingesloten miniatuur</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="826"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
         <translation>Kleurlabel</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="766"/>
-        <source>GPS</source>
-        <translation>GPS</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -14190,10 +13647,6 @@ Opnieuw toewijzen?</translation>
         <translation>Labels</translation>
     </message>
     <message>
-        <source>Text color</source>
-        <translation type="vanished">Tekstkleur</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Reset color</source>
         <translation>Kleur herstellen</translation>
@@ -14207,11 +13660,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
         <translation>Verkenner - Miniatuur</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="988"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -14420,18 +13868,6 @@ Opnieuw toewijzen?</translation>
         <translation>(verschijnen zodra de muis over de bovenkant of rechts van het scherm beweegt)</translation>
     </message>
     <message>
-        <source>Zoom-out</source>
-        <translation type="vanished">Uitzoomen</translation>
-    </message>
-    <message>
-        <source>Zoom-in</source>
-        <translation type="vanished">Inzoomen</translation>
-    </message>
-    <message>
-        <source>Zoom-out &amp; Zoom-in</source>
-        <translation type="vanished">Uitzoomen &amp; Inzoomen</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="494"/>
         <source>Show Pan tool</source>
         <translation>Pan-gereedschap weergeven</translation>
@@ -14554,11 +13990,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="749"/>
         <source>Loop on the file list</source>
         <translation>Bestandenlijst rondbladeren</translation>
-    </message>
-    <message>
-        <source>Show Video</source>
-        <oldsource>Play video</oldsource>
-        <translation type="vanished">Video afspelen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="763"/>
@@ -14701,14 +14132,6 @@ Opnieuw toewijzen?</translation>
         <translation>Info</translation>
     </message>
     <message>
-        <source>Information displayed</source>
-        <translation type="vanished">Weergegeven informatie</translation>
-    </message>
-    <message>
-        <source>HTML tags supported</source>
-        <translation type="vanished">HTML tags ondersteund</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
         <source>Text color</source>
         <translation>Tekstkleur</translation>
@@ -14844,13 +14267,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
         <translation>Uitzoomen</translation>
-    </message>
-    <message>
-        <location filename="DlgSimilarResult.ui" line="87"/>
-        <location filename="DlgSimilarResult.ui" line="156"/>
-        <location filename="DlgSimilarResult.ui" line="239"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
@@ -15131,16 +14547,6 @@ Opnieuw toewijzen?</translation>
         <translation>Overgangseffecten</translation>
     </message>
     <message>
-        <location filename="DlgSlideshow.ui" line="210"/>
-        <location filename="DlgSlideshow.ui" line="314"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <source>Save SLD with relative paths</source>
-        <translation type="vanished">SLD met relatief pad opslaan</translation>
-    </message>
-    <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
         <translation>Audiobestand gebruiken</translation>
@@ -15202,15 +14608,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
         <translation>Splitsen</translation>
-    </message>
-    <message>
-        <location filename="DlgSplit.ui" line="30"/>
-        <location filename="DlgSplit.ui" line="44"/>
-        <location filename="DlgSplit.ui" line="58"/>
-        <location filename="DlgSplit.ui" line="72"/>
-        <location filename="DlgSplit.ui" line="96"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -15553,10 +14950,6 @@ Opnieuw toewijzen?</translation>
         <translation>Zoek Gelaat</translation>
     </message>
     <message>
-        <source>Add region</source>
-        <translation type="vanished">Voeg Regio toe</translation>
-    </message>
-    <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
         <translation>Ledig Regio&apos;s</translation>
@@ -15707,11 +15100,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Datum opname</translation>
-    </message>
-    <message>
-        <location filename="DlgTimestamp.ui" line="488"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
@@ -15923,38 +15311,32 @@ Opnieuw toewijzen?</translation>
         <translation>Authenticatie</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="138"/>
+        <location filename="DlgUpload.ui" line="147"/>
         <source>Username</source>
         <translation>Gebruikersnaam</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="148"/>
+        <location filename="DlgUpload.ui" line="157"/>
         <source>Password</source>
         <translation>Wachtwoord</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="168"/>
+        <location filename="DlgUpload.ui" line="177"/>
         <source>User</source>
         <translation>Gebruiker</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="193"/>
+        <location filename="DlgUpload.ui" line="202"/>
         <source>New user...</source>
         <translation>Nieuwe gebruiker...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="224"/>
+        <location filename="DlgUpload.ui" line="233"/>
         <source>Thumbnail link</source>
         <translation>Miniatuur-link</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="241"/>
-        <location filename="DlgUpload.ui" line="269"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <location filename="DlgUpload.ui" line="252"/>
+        <location filename="DlgUpload.ui" line="261"/>
         <source>Image link</source>
         <translation>Afbeelding-link</translation>
     </message>
@@ -15976,12 +15358,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
         <translation>Filter toevoegen</translation>
-    </message>
-    <message>
-        <location filename="DlgUserFilter.ui" line="36"/>
-        <location filename="DlgUserFilter.ui" line="63"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="60"/>
@@ -16018,14 +15394,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
         <translation>Wilt u de gewijzigde filters opslaan?</translation>
-    </message>
-    <message>
-        <source>Changes</source>
-        <translation type="vanished">Aanpassingen</translation>
-    </message>
-    <message>
-        <source>There is some changes, do you want to save filters?</source>
-        <translation type="vanished">Aanpassingen opslaan?</translation>
     </message>
 </context>
 <context>
@@ -16074,34 +15442,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
         <translation>Startframe</translation>
-    </message>
-    <message>
-        <source>Unit:</source>
-        <translation type="vanished">Eenheid:</translation>
-    </message>
-    <message>
-        <source>points</source>
-        <translation type="vanished">punts</translation>
-    </message>
-    <message>
-        <source>Style</source>
-        <translation type="vanished">Stijl</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="vanished">B</translation>
-    </message>
-    <message>
-        <source>I</source>
-        <translation type="vanished">I</translation>
-    </message>
-    <message>
-        <source>U</source>
-        <translation type="vanished">U</translation>
-    </message>
-    <message>
-        <source>S</source>
-        <translation type="vanished">S</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -16167,10 +15507,6 @@ Opnieuw toewijzen?</translation>
         <translation>Uitgestrekt</translation>
     </message>
     <message>
-        <source>Scaled</source>
-        <translation type="vanished">Geschaald</translation>
-    </message>
-    <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
         <translation>Passend</translation>
@@ -16227,10 +15563,6 @@ Opnieuw toewijzen?</translation>
         <translation>Formaat</translation>
     </message>
     <message>
-        <source>Codec</source>
-        <translation type="vanished">Codec</translation>
-    </message>
-    <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
         <source>Speed</source>
         <translation>Snelheid</translation>
@@ -16240,28 +15572,6 @@ Opnieuw toewijzen?</translation>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
         <translation>(10 = snelst)</translation>
-    </message>
-    <message>
-        <source>Quantization for color</source>
-        <oldsource>Quantizer for color</oldsource>
-        <translation type="vanished">Kwantisatie voor kleur</translation>
-    </message>
-    <message>
-        <source>Lossless</source>
-        <translation type="vanished">Lossless</translation>
-    </message>
-    <message>
-        <source>Min</source>
-        <translation type="vanished">Min</translation>
-    </message>
-    <message>
-        <source>Max</source>
-        <translation type="vanished">Max</translation>
-    </message>
-    <message>
-        <source>Quantization for alpha</source>
-        <oldsource>Quantizer for alpha</oldsource>
-        <translation type="vanished">Kwantisatie voor Alpha</translation>
     </message>
 </context>
 <context>
@@ -16513,18 +15823,6 @@ Opnieuw toewijzen?</translation>
 </context>
 <context>
     <name>DlgWritePDFClass</name>
-    <message>
-        <source>B&amp;W compression type</source>
-        <translation type="vanished">Zwart/wit-compressie</translation>
-    </message>
-    <message>
-        <source>Grayscale compression type</source>
-        <translation type="vanished">Grijstinten-compressie</translation>
-    </message>
-    <message>
-        <source>Color compression type</source>
-        <translation type="vanished">Kleuren-compressie</translation>
-    </message>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
@@ -16867,10 +16165,6 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
 <context>
     <name>FileListWidget</name>
     <message>
-        <source>View as:</source>
-        <translation type="vanished">Weergeven als:</translation>
-    </message>
-    <message>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Small thumbnails</source>
         <translation>Kleine miniaturen</translation>
@@ -16895,10 +16189,6 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
         <translation>Lijst</translation>
-    </message>
-    <message>
-        <source>You can drag&amp;drop your files on the list below.</source>
-        <translation type="vanished">Sleep de bestanden naar de onderstaande lijst.</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
@@ -17758,10 +17048,6 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Catalog</source>
         <translation>Catalogus</translation>
-    </message>
-    <message>
-        <source>File&apos;s categories</source>
-        <translation type="vanished">Bestandscategorieën</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
@@ -19191,18 +18477,6 @@ Wilt u doorgaan?</translation>
         <translation>Er is een fout opgetreden.</translation>
     </message>
     <message>
-        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
-        <translation type="vanished">Let op, opslaan in dit formaat leidt tot verlies van eventuele commentaar en metadata!</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard any existing metadata!</source>
-        <translation type="vanished">Let op, opslaan in dit formaat leidt tot negeren van  eventuele metadata!</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard some metadata!</source>
-        <translation type="vanished">Let op, opslaan in dit formaat leidt tot negeren van sommige metadata!</translation>
-    </message>
-    <message>
         <location filename="GFFHelper.h" line="19"/>
         <location filename="GFFHelper.h" line="33"/>
         <location filename="GFFHelper.h" line="47"/>
@@ -19449,19 +18723,6 @@ Wilt u doorgaan?</translation>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
         <translation>Traditioneel Chinees</translation>
-    </message>
-    <message>
-        <source>Simplified Chinese</source>
-        <translation type="vanished">Vereenvoudigd Chinees</translation>
-    </message>
-    <message>
-        <source>Traditional Chinese</source>
-        <translation type="vanished">Traditioneel Chinees</translation>
-    </message>
-    <message>
-        <location filename="LanguageComboBox.cpp" line="57"/>
-        <source>Hebrew</source>
-        <translation>Hebreeuws</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19994,26 +19255,6 @@ Wilt u doorgaan?</translation>
         <translation>Zonder waardering</translation>
     </message>
     <message>
-        <source>Important</source>
-        <translation type="vanished">Belangrijk</translation>
-    </message>
-    <message>
-        <source>Work</source>
-        <translation type="vanished">Werk</translation>
-    </message>
-    <message>
-        <source>Personal</source>
-        <translation type="vanished">Persoonlijk</translation>
-    </message>
-    <message>
-        <source>To do</source>
-        <translation type="vanished">Te doen</translation>
-    </message>
-    <message>
-        <source>Later</source>
-        <translation type="vanished">Later</translation>
-    </message>
-    <message>
         <location filename="CompareWidget.cpp" line="486"/>
         <location filename="BrowserMenu.h" line="122"/>
         <location filename="BrowserMenu.h" line="502"/>
@@ -20122,10 +19363,6 @@ Wilt u doorgaan?</translation>
         <translation>Werkbalk Bestandenlijst</translation>
     </message>
     <message>
-        <source>Show title of panes</source>
-        <translation type="vanished">Venstertitels weergeven</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Update catalog from files</source>
         <translation>Catalogus bijwerken aan de hand van bestanden</translation>
@@ -20160,14 +19397,6 @@ Wilt u doorgaan?</translation>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation>GPS-gegevens bewerken...</translation>
-    </message>
-    <message>
-        <source>EXIF thumbnail - Rotate 90°</source>
-        <translation type="vanished">EXIF-miniatuur - 90° draaien</translation>
-    </message>
-    <message>
-        <source>EXIF thumbnail - Rotate 270°</source>
-        <translation type="vanished">EXIF-miniatuur - 270° draaien</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="609"/>
@@ -20556,10 +19785,6 @@ Wilt u doorgaan?</translation>
         <translation>Label toevoegen/verwijderen</translation>
     </message>
     <message>
-        <source>Untag current</source>
-        <translation type="vanished">Label wegnemen</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="473"/>
         <source>Invert</source>
         <translation>Omkeren</translation>
@@ -20723,10 +19948,6 @@ Wilt u doorgaan?</translation>
         <translation>Bijwerken</translation>
     </message>
     <message>
-        <source>Show files in subfolder</source>
-        <translation type="vanished">Bestanden in submap weergeven</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Stop</source>
         <translation>Stoppen</translation>
@@ -20797,18 +20018,6 @@ Wilt u doorgaan?</translation>
         <translation>Alleen als miniaturen</translation>
     </message>
     <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">90° rechtsom</translation>
-    </message>
-    <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Horizontaal spiegelen</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Verticaal spiegelen</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>JPEG lossless transformations</source>
         <translation>JPEG verliesloze transformaties</translation>
@@ -20822,14 +20031,6 @@ Wilt u doorgaan?</translation>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Compare...</source>
         <translation>Vergelijken...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in GeoHack...</source>
-        <translation type="vanished">GPS locatie openen in GeoHack...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in Google Earth...</source>
-        <translation type="vanished">GPS locatie openen in Google Earth...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -20976,10 +20177,6 @@ Wilt u doorgaan?</translation>
         <translation>Afbeelding passen in venster, alleen klein</translation>
     </message>
     <message>
-        <source>Auto Image Size</source>
-        <translation type="vanished">Automatisch schalen</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
@@ -21034,10 +20231,6 @@ Wilt u doorgaan?</translation>
         <translation>Website...</translation>
     </message>
     <message>
-        <source>Visit XnView&apos;s Forum...</source>
-        <translation type="vanished">XnView forum...</translation>
-    </message>
-    <message>
         <location filename="xnview.cpp" line="1441"/>
         <source>Make a donation...</source>
         <translation>Maak een donatie...</translation>
@@ -21087,18 +20280,6 @@ Wilt u doorgaan?</translation>
         <location filename="xnview.cpp" line="1444"/>
         <source>Purchase...</source>
         <translation>Aanschaffen...</translation>
-    </message>
-    <message>
-        <source>Follow XnView on Twitter...</source>
-        <translation type="vanished">Volgen op Twitter...</translation>
-    </message>
-    <message>
-        <source>Become a fan of XnView on Facebook...</source>
-        <translation type="vanished">Fan worden op Facebook...</translation>
-    </message>
-    <message>
-        <source>Web capture...</source>
-        <translation type="vanished">Web-schermafbeelding...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1454"/>
@@ -21646,14 +20827,6 @@ Wilt u doorgaan?</translation>
         <translation>90° rechtsom draaien</translation>
     </message>
     <message>
-        <source>Tag current</source>
-        <translation type="vanished">Label toevoegen</translation>
-    </message>
-    <message>
-        <source>Untag current</source>
-        <translation type="vanished">Label verwijderen</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next photo)</source>
         <translation>Uitstekend (naar volgende foto)</translation>
@@ -21772,10 +20945,6 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="384"/>
         <source>Lock zoom</source>
         <translation>Zoom vergrendelen</translation>
-    </message>
-    <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Automatisch schalen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="387"/>
@@ -21899,14 +21068,6 @@ Wilt u doorgaan?</translation>
         <translation>DPI instellen...</translation>
     </message>
     <message>
-        <source>Effe&amp;ct</source>
-        <translation type="vanished">Effe&amp;ct</translation>
-    </message>
-    <message>
-        <source>Filter...</source>
-        <translation type="vanished">Filteren...</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="441"/>
         <source>User filter...</source>
         <translation>Aangepast filter...</translation>
@@ -21935,14 +21096,6 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="450"/>
         <source>White Balance...</source>
         <translation>Witbalans...</translation>
-    </message>
-    <message>
-        <source>90° right</source>
-        <translation type="vanished">90° rechtsom</translation>
-    </message>
-    <message>
-        <source>90° left</source>
-        <translation type="vanished">90° linksom</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
@@ -22028,14 +21181,6 @@ Wilt u doorgaan?</translation>
         <translation>Kleuren bewerken...</translation>
     </message>
     <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">Rechtsom draaien</translation>
-    </message>
-    <message>
-        <source>Rotate counter clockwise</source>
-        <translation type="vanished">Linksom draaien</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="454"/>
         <source>Rotate 180°</source>
         <translation>180° draaien</translation>
@@ -22064,18 +21209,6 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="490"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF-oriëntatie herstellen</translation>
-    </message>
-    <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Horizontaal spiegelen</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Verticaal spiegelen</translation>
-    </message>
-    <message>
-        <source>Crop</source>
-        <translation type="vanished">Bijsnijden</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -22131,14 +21264,6 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="413"/>
         <source>Batch convert...</source>
         <translation>Reeks converteren...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in GeoHack...</source>
-        <translation type="vanished">GPS locatie openen in GeoHack...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in Google Earth...</source>
-        <translation type="vanished">GPS locatie openen in Google Earth...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
@@ -22246,21 +21371,9 @@ Wilt u doorgaan?</translation>
         <translation>Uitlijnen...</translation>
     </message>
     <message>
-        <source>Remove Background...</source>
-        <translation type="vanished">Achtergrond verwijderen...</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
         <translation>Draaien...</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation type="vanished">Horizontaal</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="vanished">Verticaal</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
@@ -22576,10 +21689,6 @@ Wilt u doorgaan?</translation>
 </context>
 <context>
     <name>MyAddFolderProcess2</name>
-    <message>
-        <source>Abort</source>
-        <translation type="vanished">Afbreken</translation>
-    </message>
     <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
@@ -23243,14 +22352,6 @@ U kunt dit wijzigen in Instellingen&gt; Catalogus.</translation>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
         <translation>Beheren...</translation>
-    </message>
-    <message>
-        <source>Apply actions</source>
-        <translation type="vanished">Acties toepassen</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -24144,10 +23245,6 @@ Rechtermuisklik opent het actiemenu.</translation>
         <translation>Invoegen &gt;&gt;</translation>
     </message>
     <message>
-        <source>Default value</source>
-        <translation type="vanished">Standaardwaarde</translation>
-    </message>
-    <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
         <translation>Voorinstelling opslaan</translation>
@@ -24719,10 +23816,6 @@ Wilt u de miniaturen behouden?
         <location filename="xnview.cpp" line="596"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Er is een probleem bij het openen van de catalogus, controleer uw instellingen of gebruikte map!</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation type="vanished">Versie</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="973"/>
