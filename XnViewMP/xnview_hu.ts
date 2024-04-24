@@ -2834,7 +2834,8 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">A fájl már létezik: %1. Felül szeretné írni?</translation>
+        <translation>A fájl már létezik: %1.
+Felül szeretné írni?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
@@ -3830,7 +3831,8 @@ Do you want to overwrite it?</source>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">A fájl már létezik: %1. Felül szeretné írni?</translation>
+        <translation>A fájl már létezik: %1.
+Felül szeretné írni?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2614"/>
@@ -6251,7 +6253,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertSwap.ui" line="19"/>
         <source>RGB →</source>
         <oldsource>RGB ==&gt;</oldsource>
-        <translation type="unfinished">RGB ==&gt;</translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
