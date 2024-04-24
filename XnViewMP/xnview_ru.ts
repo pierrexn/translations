@@ -554,7 +554,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="ViewWindow.cpp" line="4672"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1. </translation>
+        <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4673"/>
@@ -783,7 +783,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3215"/>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation>&lt;Результат фильтрации по категориям&gt;</translation>
+        <translation>&lt;Результат фильтрации каталога&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3217"/>
@@ -1193,7 +1193,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="CompareWindow.cpp" line="41"/>
         <source>Thumbnails</source>
         <translatorcomment>Пробелы, чтобы смотрелось лучше</translatorcomment>
-        <translation>Эскизы изображений</translation>
+        <translation>Эскизы</translation>
     </message>
     <message>
         <location filename="CompareWindow.cpp" line="130"/>
@@ -4086,7 +4086,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="2675"/>
         <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
-        <translation>Опция &apos;Удалять исходный файл&apos; включена,  Вы хотите продолжить?</translation>
+        <translation>Опция &apos;Удалять исходный файл&apos; включена, Вы хотите продолжить?</translation>
     </message>
 </context>
 <context>
@@ -4145,12 +4145,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
         <source>Landscape</source>
-        <translation>Пейзаж</translation>
+        <translation>Альбомная</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="90"/>
         <source>Portrait</source>
-        <translation>Портрет</translation>
+        <translation>Портретная</translation>
     </message>
 </context>
 <context>
@@ -4174,7 +4174,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Edges:</source>
-        <translation>Обрамление</translation>
+        <translation>Обрезать</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="111"/>
@@ -7469,7 +7469,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgEditXMP.ui" line="652"/>
         <source>Ctrl+Right</source>
-        <translation>Ctrl+Left</translation>
+        <translation>Ctrl+Right</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="666"/>
@@ -7513,7 +7513,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="101"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation>(Используйте ; или ,  для разделения ключевых слов)</translation>
+        <translation>(Используйте ; или , для разделения ключевых слов)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="139"/>
@@ -7538,7 +7538,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="265"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>Значение поля не загружено по причине проверки значения &apos;Не загружено значение поля&apos;</translation>
+        <translation>Значения полей не загружаются, поскольку установлен флажок «Не загружать значения полей».</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="512"/>
@@ -7603,7 +7603,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgEditXMP.cpp" line="1131"/>
         <source>Changing files, please wait...</source>
         <oldsource>Changing files, please wait... </oldsource>
-        <translation>Изменение файлов... </translation>
+        <translation>Изменение файлов...</translation>
     </message>
 </context>
 <context>
@@ -9187,7 +9187,7 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="363"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translatorcomment>Проверить смысл выражения</translatorcomment>
-        <translation>Значение поля не загружено по причине проверки значения &apos;Не загружено значение поля&apos;</translation>
+        <translation>Значения полей не загружаются, поскольку установлен флажок «Не загружать значения полей».</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="49"/>
@@ -11566,7 +11566,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="224"/>
         <source>Thumbnails</source>
-        <translation>Эскизы изображений</translation>
+        <translation>Эскизы</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="231"/>
@@ -11931,7 +11931,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.cpp" line="931"/>
         <source>Can&apos;t import XnView database</source>
-        <translation>Не возможно импортировать базу данных XnView</translation>
+        <translation>Невозможно импортировать базу данных XnView</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="999"/>
@@ -12267,7 +12267,7 @@ Preview</source>
         <location filename="DlgSettingsFilelist.ui" line="110"/>
         <source>Mixed file/folder sorting</source>
         <translatorcomment>??</translatorcomment>
-        <translation>Сортировка файлов\папок</translation>
+        <translation>Смешанная сортировка файлов/папок</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="49"/>
@@ -15973,7 +15973,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgUpdate.ui" line="46"/>
         <source>Current version:</source>
-        <translation>Текущая версия: </translation>
+        <translation>Текущая версия:</translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="75"/>
@@ -15983,7 +15983,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgUpdate.ui" line="106"/>
         <source>Download new version...</source>
-        <translation> Скачать новую версию... </translation>
+        <translation>Скачать новую версию...</translation>
     </message>
 </context>
 <context>
@@ -17591,13 +17591,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2468"/>
         <location filename="TemplateData.cpp" line="2488"/>
         <source>Width (inch)</source>
-        <translation>Ширина (дюймов)</translation>
+        <translation>Ширина (дюймы)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2469"/>
         <location filename="TemplateData.cpp" line="2489"/>
         <source>Height (inch)</source>
-        <translation>Высота (дюймов)</translation>
+        <translation>Высота (дюймы)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2470"/>
@@ -17724,7 +17724,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2677"/>
         <source>Filename (with extension)</source>
-        <translation>Имя файла (с  расширением)</translation>
+        <translation>Имя файла (с расширением)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2687"/>
@@ -19645,7 +19645,7 @@ Do you want to continue?</source>
         <location filename="MediaPlayerAv.cpp" line="42"/>
         <source>Can not create video renderer</source>
         <translatorcomment>?</translatorcomment>
-        <translation>Не возможно создать рендер видео</translation>
+        <translation>Невозможно создать рендер видео</translation>
     </message>
     <message>
         <location filename="MediaPlayerAv.cpp" line="347"/>
@@ -19807,7 +19807,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="48"/>
         <source>EXIF Date Taken</source>
         <oldsource>EXIF Date</oldsource>
-        <translation>Дата EXIF</translation>
+        <translation>EXIF: Дата съёмки</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="49"/>
@@ -22923,7 +22923,7 @@ Do you want to continue?</source>
     <message>
         <location filename="MyHistogram.cpp" line="228"/>
         <source>Transparent</source>
-        <translation>Прозрачность</translation>
+        <translation>Прозрачный фон</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="240"/>
@@ -22938,7 +22938,7 @@ Do you want to continue?</source>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <oldsource>Click to change between width of thumbnail
  and number of thumbnails per row</oldsource>
-        <translation>Щёлкните, чтобы изменить ширину эскизов и количество эскизов в столбце</translation>
+        <translation>Переключить функцию ползунка: размер эскизов [в пикселях] или количество эскизов в столбце</translation>
     </message>
 </context>
 <context>
@@ -22967,7 +22967,7 @@ Do you want to continue?</source>
         <location filename="MyProgressThreadDialog.h" line="30"/>
         <source>Please wait...</source>
         <oldsource>Please wait... </oldsource>
-        <translation>Пожалуйста ждите... </translation>
+        <translation>Пожалуйста ждите...</translation>
     </message>
     <message>
         <location filename="MyProgressThreadDialog.h" line="40"/>
@@ -23023,13 +23023,14 @@ Do you want to continue?</source>
         <source>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings&gt;Catalog.</source>
         <oldsource>The thumbnail size in catalog is smaller than the chosen size, you can change it in Options&gt;Catalog</oldsource>
-        <translation type="unfinished">Размер эскиза указанный в каталоге меньше выбранного вами  размера. Вы можете изменить размер эскиза в настроках (Настройки&gt;Каталог).</translation>
+        <translation>Размер кэшированного эскиза меньше выбранного.
+Вы можете изменить размер эскиза в настройках (Настройки&gt;Каталог).</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
-        <translation>Обновление каталога... </translation>
+        <translation>Обновление каталога...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="617"/>
@@ -23097,7 +23098,7 @@ You can change it in Settings&gt;Catalog.</source>
         <location filename="MyView.cpp" line="949"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
-        <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1. </translation>
+        <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1.</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="950"/>
