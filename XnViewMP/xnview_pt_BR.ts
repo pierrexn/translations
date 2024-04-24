@@ -2175,10 +2175,6 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished">Sobrescrever arquivo?</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation type="unfinished">Um arquivo de nome %1 já existe. Você gostaria de sobrescrevê-lo?</translation>
-    </message>
-    <message>
         <source>Yes to &amp;all</source>
         <translation type="unfinished">Sim para &amp;todos</translation>
     </message>
@@ -2251,6 +2247,11 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <source>Enlarge only</source>
         <translation type="unfinished">Apenas alargar</translation>
+    </message>
+    <message>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2789,10 +2790,6 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Sobrescrever arquivo?</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>Um arquivo de nome %1 já existe. Você gostaria de sobrescrevê-lo?</translation>
-    </message>
-    <message>
         <source>&amp;Yes</source>
         <translation>&amp;Sim</translation>
     </message>
@@ -3048,6 +3045,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Please restart application.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4876,8 +4878,8 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>DlgConvertSwapClass</name>
     <message>
-        <source>RGB ==&gt;</source>
-        <translation>RGB ==&gt;</translation>
+        <source>RGB →</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7133,15 +7135,15 @@ Please make sure that files are not read-only!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Don&apos;t  load field values</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open last opened tab</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit IPTC-IIM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t load field values</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9407,16 +9409,16 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show most used format at beginning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select most used</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Formats</source>
         <translation type="unfinished">Formatos</translation>
+    </message>
+    <message>
+        <source>Show most used formats at beginning</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9753,11 +9755,11 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Color profile</source>
-        <translation type="unfinished">Perfil de cores</translation>
+        <source>Auto-rotate images according to EXIF orientation tag</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Auto-rotate images according to EXIF orientation tag</source>
+        <source>Color management</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10090,10 +10092,6 @@ Do you want to reassign?</source>
     <message>
         <source>Up/Down</source>
         <translation>Para cima / Para baixo</translation>
-    </message>
-    <message>
-        <source>Scroll up/down</source>
-        <translation>Rolar para cima / para baixo</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -10532,10 +10530,6 @@ Do you want to reassign?</source>
         <translation>Etiqueta personalizada</translation>
     </message>
     <message>
-        <source>Create  thumbnails for whole folder</source>
-        <translation>Criar miniaturas para toda a pasta</translation>
-    </message>
-    <message>
         <source>For video files, extract frame at</source>
         <translation>Extrair &quot;frames&quot; de arquivos de vídeo a</translation>
     </message>
@@ -10602,6 +10596,10 @@ Do you want to reassign?</source>
     <message>
         <source>Text</source>
         <translation type="unfinished">Texto</translation>
+    </message>
+    <message>
+        <source>Create thumbnails for whole folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10834,10 +10832,6 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Phi grid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show Rating &amp;&amp; Label color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10999,6 +10993,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Golden ratio (Phi)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12460,7 +12458,7 @@ Do you want to reassign?</source>
         <translation type="unfinished">Texto</translation>
     </message>
     <message>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16145,26 +16143,6 @@ Do you want to continue?</source>
         <translation>Pobre</translation>
     </message>
     <message>
-        <source>RGB=&gt;RBG</source>
-        <translation>RGB=&gt;RBG</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;BGR</source>
-        <translation>RGB=&gt;BGR</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;BRG</source>
-        <translation>RGB=&gt;BRG</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;GRB</source>
-        <translation>RGB=&gt;GRB</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;GBR</source>
-        <translation>RGB=&gt;GBR</translation>
-    </message>
-    <message>
         <source>Red</source>
         <translation>Vermelho</translation>
     </message>
@@ -16330,10 +16308,6 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Go to x,y location...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit colormap...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16554,6 +16528,30 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Crop (lossless)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→RBG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→BGR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→BRG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GRB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GBR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit palette...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

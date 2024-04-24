@@ -1900,10 +1900,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Käytä gammakorjausta</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>Tiedosto %1 on jo olemassa, Haluatko korvata sen?</translation>
-    </message>
-    <message>
         <source>Nearest Neighbour</source>
         <translation>Lähin naapuri</translation>
     </message>
@@ -2259,6 +2255,11 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Enlarge only</source>
         <translation>Vain suurenna</translation>
+    </message>
+    <message>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2816,10 +2817,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>Total Duration:</source>
         <translation>Kokonaiskesto:</translation>
     </message>
-    <message>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>Tiedosto %1 on jo olemassa, Haluatko korvata sen?</translation>
-    </message>
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
@@ -3057,6 +3054,11 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Please restart application.</source>
         <translation>Uudelleenkäynnistä sovellus</translation>
+    </message>
+    <message>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4885,8 +4887,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
 <context>
     <name>DlgConvertSwapClass</name>
     <message>
-        <source>RGB ==&gt;</source>
-        <translation>RGB ==&gt;</translation>
+        <source>RGB →</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7076,10 +7078,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation>Tuo...</translation>
     </message>
     <message>
-        <source>Don&apos;t  load field values</source>
-        <translation>Älä lataa kenttien arvoja</translation>
-    </message>
-    <message>
         <source>Open last opened tab</source>
         <translation>Avaa viimeksi avattu välilehti</translation>
     </message>
@@ -7154,6 +7152,10 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Text file</source>
         <translation>Tekstitiedosto</translation>
+    </message>
+    <message>
+        <source>Don&apos;t load field values</source>
+        <translation type="unfinished">Älä lataa kenttäarvoja</translation>
     </message>
 </context>
 <context>
@@ -9431,10 +9433,6 @@ esikatselukuvina</translation>
         <translation>Valitse tallennukseen käytettävät formaatit.</translation>
     </message>
     <message>
-        <source>Show most used format at beginning</source>
-        <translation>Näytä eniten käyttämät formaatit aloituksessa</translation>
-    </message>
-    <message>
         <source>Show write settings before saving</source>
         <translation>Näytä kirjoitusasetukset ennen tallennusta</translation>
     </message>
@@ -9449,6 +9447,10 @@ esikatselukuvina</translation>
     <message>
         <source>Formats</source>
         <translation>Formaatti</translation>
+    </message>
+    <message>
+        <source>Show most used formats at beginning</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9785,12 +9787,12 @@ esikatselukuvina</translation>
         <translation>Erotinmerkki</translation>
     </message>
     <message>
-        <source>Color profile</source>
-        <translation>Väriprofiili</translation>
-    </message>
-    <message>
         <source>Auto-rotate images according to EXIF orientation tag</source>
         <translation>Käännä kuvat EXIF-suuntausmerkintöjen mukaisesti</translation>
+    </message>
+    <message>
+        <source>Color management</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10082,10 +10084,6 @@ Do you want to reassign?</source>
     <message>
         <source>Zoom in/out</source>
         <translation>Lähennä/loitonna</translation>
-    </message>
-    <message>
-        <source>Scroll up/down</source>
-        <translation>Rullaus ylös/alas</translation>
     </message>
     <message>
         <source>Left button</source>
@@ -10477,10 +10475,6 @@ Do you want to reassign?</source>
         <translation>Leveys</translation>
     </message>
     <message>
-        <source>Create  thumbnails for whole folder</source>
-        <translation>Luo esikatselukuvat kaikille kansioille</translation>
-    </message>
-    <message>
         <source>For video files, extract frame at</source>
         <translation>Ikkunakoko videotiedostoille</translation>
     </message>
@@ -10635,6 +10629,10 @@ Do you want to reassign?</source>
     <message>
         <source>Text</source>
         <translation>Teksti</translation>
+    </message>
+    <message>
+        <source>Create thumbnails for whole folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10939,10 +10937,6 @@ Do you want to reassign?</source>
         <translation>D1/DV NTSC Laajakuva (1.2)</translation>
     </message>
     <message>
-        <source>Phi grid</source>
-        <translation>Fii ruudukko</translation>
-    </message>
-    <message>
         <source>Loop on the file list</source>
         <translation>Jatkuva toisto (Tiedostolistalla olevat)</translation>
     </message>
@@ -11032,6 +11026,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Golden ratio (Phi)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12485,16 +12483,16 @@ Do you want to reassign?</source>
         <translation>Piirretty</translation>
     </message>
     <message>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
-        <translation>Käytä terävää (ja hidasta) RGB-&gt;YUV-muuntamista</translation>
-    </message>
-    <message>
         <source>Compression method</source>
         <translation>Pakkausmenetelmä</translation>
     </message>
     <message>
         <source>File size (kbytes)</source>
         <translation>Tiedostokoko (kbittiä)</translation>
+    </message>
+    <message>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16344,26 +16342,6 @@ Haluatko jatkaa?</translation>
         <translation>Aseta valinnan kuvasuhde</translation>
     </message>
     <message>
-        <source>RGB=&gt;BRG</source>
-        <translation>RGB=&gt;BRG</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;BGR</source>
-        <translation>RGB=&gt;BGR</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;GRB</source>
-        <translation>RGB=&gt;GRB</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;GBR</source>
-        <translation>RGB=&gt;GBR</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;RBG</source>
-        <translation>RGB=&gt;RBG</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Työkalupalkki</translation>
     </message>
@@ -16504,10 +16482,6 @@ Haluatko jatkaa?</translation>
         <translation>Sovita kuva ikkunan leveyteen tai korkeuteen</translation>
     </message>
     <message>
-        <source>Edit colormap...</source>
-        <translation>Muokkaa värikarttaa...</translation>
-    </message>
-    <message>
         <source>Next file</source>
         <translation>Seuraava tiedosto</translation>
     </message>
@@ -16590,6 +16564,30 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Metadata</source>
         <translation>Metatiedot</translation>
+    </message>
+    <message>
+        <source>RGB→RBG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→BGR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→BRG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GRB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GBR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit palette...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

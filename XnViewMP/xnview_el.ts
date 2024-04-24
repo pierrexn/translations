@@ -2831,7 +2831,9 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3805,7 +3807,9 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6245,7 +6249,8 @@ Drag and Drop over the desired node to assign.</source>
     <name>DlgConvertSwapClass</name>
     <message>
         <location filename="DlgConvertSwap.ui" line="19"/>
-        <source>RGB ==&gt;</source>
+        <source>RGB →</source>
+        <oldsource>RGB ==&gt;</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8941,7 +8946,8 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
-        <source>Don&apos;t  load field values</source>
+        <source>Don&apos;t load field values</source>
+        <oldsource>Don&apos;t  load field values</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11970,7 +11976,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="116"/>
-        <source>Show most used format at beginning</source>
+        <source>Show most used formats at beginning</source>
+        <oldsource>Show most used format at beginning</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12384,7 +12391,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
-        <source>Color profile</source>
+        <source>Color management</source>
+        <oldsource>Color profile</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12861,6 +12869,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1142"/>
+        <location filename="DlgSettingsInterface.ui" line="1761"/>
+        <location filename="DlgSettingsInterface.ui" line="1795"/>
+        <location filename="DlgSettingsInterface.ui" line="1829"/>
+        <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13046,11 +13058,13 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsInterface.ui" line="1142"/>
         <location filename="DlgSettingsInterface.ui" line="1761"/>
         <location filename="DlgSettingsInterface.ui" line="1795"/>
         <location filename="DlgSettingsInterface.ui" line="1829"/>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
-        <source>Scroll up/down</source>
+        <source>Vertical scroll</source>
+        <oldsource>Scroll up/down</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13414,7 +13428,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
-        <source>Create  thumbnails for whole folder</source>
+        <source>Create thumbnails for whole folder</source>
+        <oldsource>Create  thumbnails for whole folder</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13792,6 +13807,11 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsView.ui" line="726"/>
+        <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsView.ui" line="790"/>
         <source>Never</source>
         <translation type="unfinished"></translation>
@@ -13854,11 +13874,6 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="721"/>
         <source>Rule of thirds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="726"/>
-        <source>Phi grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15928,7 +15943,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="292"/>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
+        <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20406,27 +20422,32 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="199"/>
-        <source>RGB=&gt;RBG</source>
+        <source>RGB→RBG</source>
+        <oldsource>RGB=&gt;RBG</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
-        <source>RGB=&gt;BGR</source>
+        <source>RGB→BGR</source>
+        <oldsource>RGB=&gt;BGR</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
-        <source>RGB=&gt;BRG</source>
+        <source>RGB→BRG</source>
+        <oldsource>RGB=&gt;BRG</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
-        <source>RGB=&gt;GRB</source>
+        <source>RGB→GRB</source>
+        <oldsource>RGB=&gt;GRB</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
-        <source>RGB=&gt;GBR</source>
+        <source>RGB→GBR</source>
+        <oldsource>RGB=&gt;GBR</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21281,7 +21302,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="479"/>
-        <source>Edit colormap...</source>
+        <source>Edit palette...</source>
+        <oldsource>Edit colormap...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

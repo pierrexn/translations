@@ -2183,10 +2183,6 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Վրագրե՞լ ֆայլը։</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>%1 անունով ֆայլ արդեն առկա է։ Վրագրե՞լ այն։</translation>
-    </message>
-    <message>
         <source>Yes to &amp;all</source>
         <translation>Այո &amp;բոլորի համար</translation>
     </message>
@@ -2259,6 +2255,11 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>Enlarge only</source>
         <translation>Միայն մեծացնել</translation>
+    </message>
+    <message>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2792,10 +2793,6 @@ Drag and Drop over the desired node to assign.</translation>
         <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
         <translation>&apos;Ջնջել սկզբնական ֆայլըl&apos; ընտրանքը միացված է, շարունակե՞լ։</translation>
     </message>
-    <message>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>%1 անունով ֆայլ արդեն առկա է։ Վրագրե՞լ այն։</translation>
-    </message>
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
@@ -3057,6 +3054,11 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>Please restart application.</source>
         <translation>Վերամեկնարկեք ծրագիրը</translation>
+    </message>
+    <message>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4885,8 +4887,8 @@ Drag and Drop over the desired node to assign.</translation>
 <context>
     <name>DlgConvertSwapClass</name>
     <message>
-        <source>RGB ==&gt;</source>
-        <translation>RGB ==&gt;</translation>
+        <source>RGB →</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7144,16 +7146,16 @@ Please make sure that files are not read-only!</source>
         <translation>Օգտ. ծնող հիմնաբառեր</translation>
     </message>
     <message>
-        <source>Don&apos;t  load field values</source>
-        <translation>Չբեռնել դաշտի տվյալները</translation>
-    </message>
-    <message>
         <source>Open last opened tab</source>
         <translation>Բացել վերջին բացված ներդիրը</translation>
     </message>
     <message>
         <source>Edit IPTC-IIM</source>
         <translation>Խմբագրել IPTC-IIM-ը</translation>
+    </message>
+    <message>
+        <source>Don&apos;t load field values</source>
+        <translation type="unfinished">Չբեռնել դաշտի արժեքները</translation>
     </message>
 </context>
 <context>
@@ -9434,16 +9436,16 @@ Thumbnail</source>
         <translation>Պահելուց առաջ ցուցադրել գրելու կարգավորումները</translation>
     </message>
     <message>
-        <source>Show most used format at beginning</source>
-        <translation>Մեկնարկում ցուցադրել առավել շատ գործածված ձևաչափը:</translation>
-    </message>
-    <message>
         <source>Select most used</source>
         <translation>Ընտրեք առավել օգտագործվածը</translation>
     </message>
     <message>
         <source>Formats</source>
         <translation>Ձևաչափեր</translation>
+    </message>
+    <message>
+        <source>Show most used formats at beginning</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9780,12 +9782,12 @@ Thumbnail</source>
         <translation>Սահմանանշիչ գրանշան</translation>
     </message>
     <message>
-        <source>Color profile</source>
-        <translation>Գույնային սխեմա</translation>
-    </message>
-    <message>
         <source>Auto-rotate images according to EXIF orientation tag</source>
         <translation>Ինքնապտտել պատկերները համաձայն EXIF դիրքավորման պիտակի</translation>
+    </message>
+    <message>
+        <source>Color management</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10120,10 +10122,6 @@ Do you want to reassign?</source>
     <message>
         <source>Up/Down</source>
         <translation>Վերև/ներքև</translation>
-    </message>
-    <message>
-        <source>Scroll up/down</source>
-        <translation>Սղացնել վերև/ներքև</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -10470,10 +10468,6 @@ Do you want to reassign?</source>
         <translation>Աջ</translation>
     </message>
     <message>
-        <source>Create  thumbnails for whole folder</source>
-        <translation>Ստեղծել մանրապատկերներ ամբողջ պանակի համար</translation>
-    </message>
-    <message>
         <source>For video files, extract frame at</source>
         <translation>Տեսանյութերի համար հանել շրջանակը՝</translation>
     </message>
@@ -10632,6 +10626,10 @@ Do you want to reassign?</source>
     <message>
         <source>Text</source>
         <translation>Տեքստ</translation>
+    </message>
+    <message>
+        <source>Create thumbnails for whole folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10864,10 +10862,6 @@ Do you want to reassign?</source>
         <translation>Երրորդի կանոնը</translation>
     </message>
     <message>
-        <source>Phi grid</source>
-        <translation>Phi ցանց</translation>
-    </message>
-    <message>
         <source>Show Rating &amp;&amp; Label color</source>
         <translation>Ցուցադրել գնահատականը և պիտակի գույները</translation>
     </message>
@@ -11030,6 +11024,10 @@ Do you want to reassign?</source>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <translation>Վերակայել «Ինքնաչափափոխում» կարգավորումը հաջորդ/նախորդ ֆայլով</translation>
+    </message>
+    <message>
+        <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12490,8 +12488,8 @@ Do you want to reassign?</source>
         <translation>Տեքստ</translation>
     </message>
     <message>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
-        <translation>Օգտագործեք սուր (և դանդաղ) RGB-&gt;YUV փոխարկում</translation>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16140,26 +16138,6 @@ Do you want to continue?</source>
         <translation>Համամասնորեն</translation>
     </message>
     <message>
-        <source>RGB=&gt;BRG</source>
-        <translation>RGB=&gt;BRG</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;BGR</source>
-        <translation>RGB=&gt;BGR</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;GRB</source>
-        <translation>RGB=&gt;GRB</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;GBR</source>
-        <translation>RGB=&gt;GBR</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;RBG</source>
-        <translation>RGB=&gt;RBG</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Գործիքագոտի</translation>
     </message>
@@ -16362,10 +16340,6 @@ Do you want to continue?</source>
     <message>
         <source>Go to x,y location...</source>
         <translation>Անցնել x,y տեղադրության...</translation>
-    </message>
-    <message>
-        <source>Edit colormap...</source>
-        <translation>Խմբագրել գույները...</translation>
     </message>
     <message>
         <source>Curves...</source>
@@ -16586,6 +16560,30 @@ Do you want to continue?</source>
     <message>
         <source>Crop (lossless)</source>
         <translation>Եզրատել (առանց կորստի)</translation>
+    </message>
+    <message>
+        <source>RGB→RBG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→BGR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→BRG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GRB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GBR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit palette...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

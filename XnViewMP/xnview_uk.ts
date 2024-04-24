@@ -1014,7 +1014,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="68"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="71"/>
@@ -2848,7 +2848,9 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
         <translation type="unfinished">Файл &quot;%1&quot; вже існує.
 Ви хочете перезаписати його?</translation>
     </message>
@@ -3860,8 +3862,10 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>Файл &quot;%1&quot; вже існує.
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <translation type="unfinished">Файл &quot;%1&quot; вже існує.
 Ви хочете перезаписати його?</translation>
     </message>
     <message>
@@ -4280,7 +4284,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="130"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="135"/>
@@ -6294,8 +6298,9 @@ Drag and Drop over the desired node to assign.</source>
     <name>DlgConvertSwapClass</name>
     <message>
         <location filename="DlgConvertSwap.ui" line="19"/>
-        <source>RGB ==&gt;</source>
-        <translation>RGB ==&gt;</translation>
+        <source>RGB →</source>
+        <oldsource>RGB ==&gt;</oldsource>
+        <translation type="unfinished">RGB ==&gt;</translation>
     </message>
 </context>
 <context>
@@ -9012,7 +9017,8 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
-        <source>Don&apos;t  load field values</source>
+        <source>Don&apos;t load field values</source>
+        <oldsource>Don&apos;t  load field values</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10963,7 +10969,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSearch.ui" line="172"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Все</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="179"/>
@@ -12044,7 +12050,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="116"/>
-        <source>Show most used format at beginning</source>
+        <source>Show most used formats at beginning</source>
+        <oldsource>Show most used format at beginning</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12373,7 +12380,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
-        <source>Color profile</source>
+        <source>Color management</source>
+        <oldsource>Color profile</oldsource>
         <translation type="unfinished">Кольоровий профіль</translation>
     </message>
     <message>
@@ -12900,12 +12908,14 @@ Do you want to reassign?</source>
         <translation type="unfinished">Попередній файл</translation>
     </message>
     <message>
+        <location filename="DlgSettingsInterface.ui" line="1142"/>
         <location filename="DlgSettingsInterface.ui" line="1761"/>
         <location filename="DlgSettingsInterface.ui" line="1795"/>
         <location filename="DlgSettingsInterface.ui" line="1829"/>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
-        <source>Scroll up/down</source>
-        <translation>Прокрутка вгору/вниз</translation>
+        <source>Vertical scroll</source>
+        <oldsource>Scroll up/down</oldsource>
+        <translation type="unfinished">Прокрутка вгору/вниз</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13015,8 +13025,12 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1142"/>
+        <location filename="DlgSettingsInterface.ui" line="1761"/>
+        <location filename="DlgSettingsInterface.ui" line="1795"/>
+        <location filename="DlgSettingsInterface.ui" line="1829"/>
+        <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прокрутка вгору/вниз</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1183"/>
@@ -13489,8 +13503,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
-        <source>Create  thumbnails for whole folder</source>
-        <translation>Створити ескізи для всієї папки</translation>
+        <source>Create thumbnails for whole folder</source>
+        <oldsource>Create  thumbnails for whole folder</oldsource>
+        <translation type="unfinished">Створити ескізи для всієї папки</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13903,16 +13918,11 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="716"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="721"/>
         <source>Rule of thirds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="726"/>
-        <source>Phi grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13933,6 +13943,11 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="501"/>
         <source>Show Rating &amp;&amp; Label color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="726"/>
+        <source>Golden ratio (Phi)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14083,7 +14098,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1293"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">На весь екран</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1330"/>
@@ -14525,7 +14540,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="93"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">На весь екран</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="53"/>
@@ -15198,7 +15213,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTransitionEffects.ui" line="56"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Все</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="88"/>
@@ -16023,7 +16038,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="292"/>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
+        <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16181,7 +16197,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListViewEx.cpp" line="217"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Все</translation>
     </message>
     <message>
         <location filename="FileListViewEx.cpp" line="221"/>
@@ -20582,28 +20598,33 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="199"/>
-        <source>RGB=&gt;RBG</source>
-        <translation>RGB=&gt;RBG</translation>
+        <source>RGB→RBG</source>
+        <oldsource>RGB=&gt;RBG</oldsource>
+        <translation type="unfinished">RGB=&gt;RBG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
-        <source>RGB=&gt;BGR</source>
-        <translation></translation>
+        <source>RGB→BGR</source>
+        <oldsource>RGB=&gt;BGR</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
-        <source>RGB=&gt;BRG</source>
-        <translation></translation>
+        <source>RGB→BRG</source>
+        <oldsource>RGB=&gt;BRG</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
-        <source>RGB=&gt;GRB</source>
-        <translation></translation>
+        <source>RGB→GRB</source>
+        <oldsource>RGB=&gt;GRB</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
-        <source>RGB=&gt;GBR</source>
-        <translation></translation>
+        <source>RGB→GBR</source>
+        <oldsource>RGB=&gt;GBR</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -21044,7 +21065,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="479"/>
-        <source>Edit colormap...</source>
+        <source>Edit palette...</source>
+        <oldsource>Edit colormap...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

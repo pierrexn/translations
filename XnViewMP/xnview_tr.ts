@@ -2380,8 +2380,10 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>%1 dosyası zaten mevcut. Üzerine yazmak istiyor musunuz?</translation>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <translation type="unfinished">%1 dosyası zaten mevcut. Üzerine yazmak istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
@@ -3765,8 +3767,10 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>%1 dosyası zaten mevcut. Üzerine yazmak istiyor musunuz?</translation>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <translation type="unfinished">%1 dosyası zaten mevcut. Üzerine yazmak istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2614"/>
@@ -6240,8 +6244,9 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     <name>DlgConvertSwapClass</name>
     <message>
         <location filename="DlgConvertSwap.ui" line="19"/>
-        <source>RGB ==&gt;</source>
-        <translation>RGB ==&gt;</translation>
+        <source>RGB →</source>
+        <oldsource>RGB ==&gt;</oldsource>
+        <translation type="unfinished">RGB ==&gt;</translation>
     </message>
 </context>
 <context>
@@ -8130,7 +8135,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFilter.cpp" line="83"/>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genel</translation>
     </message>
 </context>
 <context>
@@ -8957,8 +8962,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
-        <source>Don&apos;t  load field values</source>
-        <translation>Alan değerleri yüklenemez</translation>
+        <source>Don&apos;t load field values</source>
+        <oldsource>Don&apos;t  load field values</oldsource>
+        <translation type="unfinished">Alan değerleri yüklenemez</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="836"/>
@@ -11979,7 +11985,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="116"/>
-        <source>Show most used format at beginning</source>
+        <source>Show most used formats at beginning</source>
+        <oldsource>Show most used format at beginning</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12393,7 +12400,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
-        <source>Color profile</source>
+        <source>Color management</source>
+        <oldsource>Color profile</oldsource>
         <translation type="unfinished">Renk Profili</translation>
     </message>
     <message>
@@ -12975,12 +12983,14 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsInterface.ui" line="1142"/>
         <location filename="DlgSettingsInterface.ui" line="1761"/>
         <location filename="DlgSettingsInterface.ui" line="1795"/>
         <location filename="DlgSettingsInterface.ui" line="1829"/>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
-        <source>Scroll up/down</source>
-        <translation>Yukarı/Aşağı kaydır</translation>
+        <source>Vertical scroll</source>
+        <oldsource>Scroll up/down</oldsource>
+        <translation type="unfinished">Yukarı/Aşağı kaydır</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13090,8 +13100,12 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1142"/>
+        <location filename="DlgSettingsInterface.ui" line="1761"/>
+        <location filename="DlgSettingsInterface.ui" line="1795"/>
+        <location filename="DlgSettingsInterface.ui" line="1829"/>
+        <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yukarı/Aşağı kaydır</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1183"/>
@@ -13414,8 +13428,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
-        <source>Create  thumbnails for whole folder</source>
-        <translation>Bütün klasör için küçük resimleri oluştur</translation>
+        <source>Create thumbnails for whole folder</source>
+        <oldsource>Create  thumbnails for whole folder</oldsource>
+        <translation type="unfinished">Bütün klasör için küçük resimleri oluştur</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13781,6 +13796,11 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsView.ui" line="726"/>
+        <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsView.ui" line="790"/>
         <source>Never</source>
         <translation>Asla</translation>
@@ -13793,7 +13813,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1330"/>
         <source>Show playbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oynatma çubuğunu göster</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1337"/>
@@ -13918,11 +13938,6 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="721"/>
         <source>Rule of thirds</source>
         <translation>Üçte biri kuralı</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="726"/>
-        <source>Phi grid</source>
-        <translation>Phi ızgarası</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="487"/>
@@ -15947,7 +15962,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="292"/>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
+        <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20489,28 +20505,33 @@ Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="199"/>
-        <source>RGB=&gt;RBG</source>
-        <translation>RGB=&gt;RBG</translation>
+        <source>RGB→RBG</source>
+        <oldsource>RGB=&gt;RBG</oldsource>
+        <translation type="unfinished">RGB=&gt;RBG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
-        <source>RGB=&gt;BGR</source>
-        <translation>RGB=&gt;BGR</translation>
+        <source>RGB→BGR</source>
+        <oldsource>RGB=&gt;BGR</oldsource>
+        <translation type="unfinished">RGB=&gt;BGR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
-        <source>RGB=&gt;BRG</source>
-        <translation>RGB=&gt;BRG</translation>
+        <source>RGB→BRG</source>
+        <oldsource>RGB=&gt;BRG</oldsource>
+        <translation type="unfinished">RGB=&gt;BRG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
-        <source>RGB=&gt;GRB</source>
-        <translation>RGB=&gt;GRB</translation>
+        <source>RGB→GRB</source>
+        <oldsource>RGB=&gt;GRB</oldsource>
+        <translation type="unfinished">RGB=&gt;GRB</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
-        <source>RGB=&gt;GBR</source>
-        <translation>RGB=&gt;GBR</translation>
+        <source>RGB→GBR</source>
+        <oldsource>RGB=&gt;GBR</oldsource>
+        <translation type="unfinished">RGB=&gt;GBR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -21324,8 +21345,9 @@ Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="479"/>
-        <source>Edit colormap...</source>
-        <translation>Renk haritasını düzenle...</translation>
+        <source>Edit palette...</source>
+        <oldsource>Edit colormap...</oldsource>
+        <translation type="unfinished">Renk haritasını düzenle...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="424"/>

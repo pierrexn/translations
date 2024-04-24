@@ -2835,7 +2835,9 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
         <translation type="unfinished">En fil med navnet %1 eksisterer.Vil du overskrive den?</translation>
     </message>
     <message>
@@ -3786,8 +3788,10 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>En fil med navnet %1 eksisterer.Vil du overskrive den?</translation>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <translation type="unfinished">En fil med navnet %1 eksisterer.Vil du overskrive den?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2614"/>
@@ -4004,7 +4008,7 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rolig</translation>
     </message>
 </context>
 <context>
@@ -6257,8 +6261,9 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
     <name>DlgConvertSwapClass</name>
     <message>
         <location filename="DlgConvertSwap.ui" line="19"/>
-        <source>RGB ==&gt;</source>
-        <translation>RGB ==&gt;</translation>
+        <source>RGB →</source>
+        <oldsource>RGB ==&gt;</oldsource>
+        <translation type="unfinished">RGB ==&gt;</translation>
     </message>
 </context>
 <context>
@@ -8974,8 +8979,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
-        <source>Don&apos;t  load field values</source>
-        <translation>Ikke last inn feltverdier</translation>
+        <source>Don&apos;t load field values</source>
+        <oldsource>Don&apos;t  load field values</oldsource>
+        <translation type="unfinished">Ikke last inn feltverdier</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="836"/>
@@ -11998,8 +12004,9 @@ Miniatyrbilde</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="116"/>
-        <source>Show most used format at beginning</source>
-        <translation>Vis det mest brukte formatet til å begynne med</translation>
+        <source>Show most used formats at beginning</source>
+        <oldsource>Show most used format at beginning</oldsource>
+        <translation type="unfinished">Vis det mest brukte formatet til å begynne med</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12327,7 +12334,8 @@ Miniatyrbilde</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
-        <source>Color profile</source>
+        <source>Color management</source>
+        <oldsource>Color profile</oldsource>
         <translation type="unfinished">Fargeprofil</translation>
     </message>
     <message>
@@ -12343,7 +12351,7 @@ Miniatyrbilde</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1034"/>
         <source>With</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Med</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1071"/>
@@ -12995,12 +13003,14 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsInterface.ui" line="1142"/>
         <location filename="DlgSettingsInterface.ui" line="1761"/>
         <location filename="DlgSettingsInterface.ui" line="1795"/>
         <location filename="DlgSettingsInterface.ui" line="1829"/>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
-        <source>Scroll up/down</source>
-        <translation>Rull opp/ned</translation>
+        <source>Vertical scroll</source>
+        <oldsource>Scroll up/down</oldsource>
+        <translation type="unfinished">Rull opp/ned</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13110,8 +13120,12 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1142"/>
+        <location filename="DlgSettingsInterface.ui" line="1761"/>
+        <location filename="DlgSettingsInterface.ui" line="1795"/>
+        <location filename="DlgSettingsInterface.ui" line="1829"/>
+        <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rull opp/ned</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1183"/>
@@ -13442,8 +13456,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
-        <source>Create  thumbnails for whole folder</source>
-        <translation>Lag småbilder for hele mappen</translation>
+        <source>Create thumbnails for whole folder</source>
+        <oldsource>Create  thumbnails for whole folder</oldsource>
+        <translation type="unfinished">Lag småbilder for hele mappen</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13903,11 +13918,6 @@ Do you want to reassign?</source>
         <translation>3x3-mønster</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="726"/>
-        <source>Phi grid</source>
-        <translation>Phi-mønster</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="487"/>
         <source>Show highlight selection</source>
         <translation>Vis høydepunktutvalg</translation>
@@ -13926,6 +13936,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="501"/>
         <source>Show Rating &amp;&amp; Label color</source>
         <translation>Vis rangerings- og etikettfarge</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="726"/>
+        <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="749"/>
@@ -15970,7 +15985,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="292"/>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
+        <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20524,28 +20540,33 @@ Er du sikker på at du vil fortsette?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="199"/>
-        <source>RGB=&gt;RBG</source>
-        <translation>RGB→RBG</translation>
+        <source>RGB→RBG</source>
+        <oldsource>RGB=&gt;RBG</oldsource>
+        <translation type="unfinished">RGB→RBG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
-        <source>RGB=&gt;BGR</source>
-        <translation>RGB→BGR</translation>
+        <source>RGB→BGR</source>
+        <oldsource>RGB=&gt;BGR</oldsource>
+        <translation type="unfinished">RGB→BGR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
-        <source>RGB=&gt;BRG</source>
-        <translation>RGB→BRG</translation>
+        <source>RGB→BRG</source>
+        <oldsource>RGB=&gt;BRG</oldsource>
+        <translation type="unfinished">RGB→BRG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
-        <source>RGB=&gt;GRB</source>
-        <translation>RGB→GRB</translation>
+        <source>RGB→GRB</source>
+        <oldsource>RGB=&gt;GRB</oldsource>
+        <translation type="unfinished">RGB→GRB</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
-        <source>RGB=&gt;GBR</source>
-        <translation>RGB→GBR</translation>
+        <source>RGB→GBR</source>
+        <oldsource>RGB=&gt;GBR</oldsource>
+        <translation type="unfinished">RGB→GBR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -21159,8 +21180,9 @@ Er du sikker på at du vil fortsette?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="479"/>
-        <source>Edit colormap...</source>
-        <translation>Rediger fargekart …</translation>
+        <source>Edit palette...</source>
+        <oldsource>Edit colormap...</oldsource>
+        <translation type="unfinished">Rediger fargekart …</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>

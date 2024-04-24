@@ -2827,8 +2827,10 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>檔案 %1 已存在. 要覆蓋嗎?</translation>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <translation type="unfinished">檔案 %1 已存在. 要覆蓋嗎?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
@@ -3811,8 +3813,10 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>檔案 %1 已存在. 要覆蓋嗎?</translation>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <translation type="unfinished">檔案 %1 已存在. 要覆蓋嗎?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2614"/>
@@ -6240,8 +6244,9 @@ Drag and Drop over the desired node to assign.</source>
     <name>DlgConvertSwapClass</name>
     <message>
         <location filename="DlgConvertSwap.ui" line="19"/>
-        <source>RGB ==&gt;</source>
-        <translation></translation>
+        <source>RGB →</source>
+        <oldsource>RGB ==&gt;</oldsource>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8941,8 +8946,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
-        <source>Don&apos;t  load field values</source>
-        <translation>不載入欄位值</translation>
+        <source>Don&apos;t load field values</source>
+        <oldsource>Don&apos;t  load field values</oldsource>
+        <translation type="unfinished">不載入欄位值</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="802"/>
@@ -11993,8 +11999,9 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="116"/>
-        <source>Show most used format at beginning</source>
-        <translation>開始時顯示最常用的格式</translation>
+        <source>Show most used formats at beginning</source>
+        <oldsource>Show most used format at beginning</oldsource>
+        <translation type="unfinished">開始時顯示最常用的格式</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12408,8 +12415,9 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
-        <source>Color profile</source>
-        <translation>顏色配置</translation>
+        <source>Color management</source>
+        <oldsource>Color profile</oldsource>
+        <translation type="unfinished">顏色配置</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="812"/>
@@ -12990,12 +12998,14 @@ Do you want to reassign?</source>
         <translation>滾輪</translation>
     </message>
     <message>
+        <location filename="DlgSettingsInterface.ui" line="1142"/>
         <location filename="DlgSettingsInterface.ui" line="1761"/>
         <location filename="DlgSettingsInterface.ui" line="1795"/>
         <location filename="DlgSettingsInterface.ui" line="1829"/>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
-        <source>Scroll up/down</source>
-        <translation>往上/往下 捲動</translation>
+        <source>Vertical scroll</source>
+        <oldsource>Scroll up/down</oldsource>
+        <translation type="unfinished">往上/往下 捲動</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13105,6 +13115,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1142"/>
+        <location filename="DlgSettingsInterface.ui" line="1761"/>
+        <location filename="DlgSettingsInterface.ui" line="1795"/>
+        <location filename="DlgSettingsInterface.ui" line="1829"/>
+        <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <translation>垂直捲動</translation>
     </message>
@@ -13435,8 +13449,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
-        <source>Create  thumbnails for whole folder</source>
-        <translation>為整個資料夾建立縮圖</translation>
+        <source>Create thumbnails for whole folder</source>
+        <oldsource>Create  thumbnails for whole folder</oldsource>
+        <translation type="unfinished">為整個資料夾建立縮圖</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13896,11 +13911,6 @@ Do you want to reassign?</source>
         <translation>三分法</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="726"/>
-        <source>Phi grid</source>
-        <translation>黃金分割網格</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="487"/>
         <source>Show highlight selection</source>
         <translation>顯示醒目標示</translation>
@@ -13919,6 +13929,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="501"/>
         <source>Show Rating &amp;&amp; Label color</source>
         <translation>顯示評等和顏色標籤</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="726"/>
+        <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="749"/>
@@ -15963,8 +15978,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="292"/>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
-        <translation>使用銳化RGB(較慢)-&gt;YUV轉換</translation>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
+        <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
+        <translation type="unfinished">使用銳化RGB(較慢)-&gt;YUV轉換</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -20520,28 +20536,33 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="199"/>
-        <source>RGB=&gt;RBG</source>
-        <translation></translation>
+        <source>RGB→RBG</source>
+        <oldsource>RGB=&gt;RBG</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
-        <source>RGB=&gt;BGR</source>
-        <translation></translation>
+        <source>RGB→BGR</source>
+        <oldsource>RGB=&gt;BGR</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
-        <source>RGB=&gt;BRG</source>
-        <translation></translation>
+        <source>RGB→BRG</source>
+        <oldsource>RGB=&gt;BRG</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
-        <source>RGB=&gt;GRB</source>
-        <translation></translation>
+        <source>RGB→GRB</source>
+        <oldsource>RGB=&gt;GRB</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
-        <source>RGB=&gt;GBR</source>
-        <translation></translation>
+        <source>RGB→GBR</source>
+        <oldsource>RGB=&gt;GBR</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -21210,8 +21231,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="479"/>
-        <source>Edit colormap...</source>
-        <translation>編輯顏色對應表...</translation>
+        <source>Edit palette...</source>
+        <oldsource>Edit colormap...</oldsource>
+        <translation type="unfinished">編輯顏色對應表...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>

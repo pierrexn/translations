@@ -2837,8 +2837,10 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>Un fitxer anomenat %1 ja existeix. Sobrescric el fitxer?</translation>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <translation type="unfinished">Un fitxer anomenat %1 ja existeix. Sobrescric el fitxer?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
@@ -3840,8 +3842,10 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>Un fitxer anomenat %1 ja existeix. Sobrescric el fitxer?</translation>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <translation type="unfinished">Un fitxer anomenat %1 ja existeix. Sobrescric el fitxer?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2614"/>
@@ -6262,8 +6266,9 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
     <name>DlgConvertSwapClass</name>
     <message>
         <location filename="DlgConvertSwap.ui" line="19"/>
-        <source>RGB ==&gt;</source>
-        <translation>RGB ==&gt;</translation>
+        <source>RGB →</source>
+        <oldsource>RGB ==&gt;</oldsource>
+        <translation type="unfinished">RGB ==&gt;</translation>
     </message>
 </context>
 <context>
@@ -8996,8 +9001,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
-        <source>Don&apos;t  load field values</source>
-        <translation>No carreguis valors dels camps</translation>
+        <source>Don&apos;t load field values</source>
+        <oldsource>Don&apos;t  load field values</oldsource>
+        <translation type="unfinished">No carreguis valors dels camps</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="836"/>
@@ -12028,8 +12034,9 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="116"/>
-        <source>Show most used format at beginning</source>
-        <translation>En començar mostra el format més usat</translation>
+        <source>Show most used formats at beginning</source>
+        <oldsource>Show most used format at beginning</oldsource>
+        <translation type="unfinished">En començar mostra el format més usat</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12363,8 +12370,9 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
-        <source>Color profile</source>
-        <translation>Perfil de color</translation>
+        <source>Color management</source>
+        <oldsource>Color profile</oldsource>
+        <translation type="unfinished">Perfil de color</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1001"/>
@@ -13025,12 +13033,14 @@ Do you want to reassign?</source>
         <translation>Roda</translation>
     </message>
     <message>
+        <location filename="DlgSettingsInterface.ui" line="1142"/>
         <location filename="DlgSettingsInterface.ui" line="1761"/>
         <location filename="DlgSettingsInterface.ui" line="1795"/>
         <location filename="DlgSettingsInterface.ui" line="1829"/>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
-        <source>Scroll up/down</source>
-        <translation>Desplaçament dalt/baix</translation>
+        <source>Vertical scroll</source>
+        <oldsource>Scroll up/down</oldsource>
+        <translation type="unfinished">Desplaçament dalt/baix</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13140,6 +13150,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1142"/>
+        <location filename="DlgSettingsInterface.ui" line="1761"/>
+        <location filename="DlgSettingsInterface.ui" line="1795"/>
+        <location filename="DlgSettingsInterface.ui" line="1829"/>
+        <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <translation>Desplaçament vertical
 </translation>
@@ -13467,8 +13481,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
-        <source>Create  thumbnails for whole folder</source>
-        <translation>Crea totes les miniatures de la carpeta</translation>
+        <source>Create thumbnails for whole folder</source>
+        <oldsource>Create  thumbnails for whole folder</oldsource>
+        <translation type="unfinished">Crea totes les miniatures de la carpeta</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13903,11 +13918,6 @@ Do you want to reassign?</source>
         <translation>Regla de tercers</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="726"/>
-        <source>Phi grid</source>
-        <translation>Graella Phi</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="487"/>
         <source>Show highlight selection</source>
         <translation>Mostra la selecció realçada</translation>
@@ -13976,6 +13986,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings&gt;File list&gt;Custom Filter)</source>
         <translation>(Configuració&gt;Llista de fitxers&gt;Filtre personal)</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="726"/>
+        <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="763"/>
@@ -16000,8 +16015,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="292"/>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
-        <translation>Usa RGB precís (i lent) RGB-&gt;conversió YUV</translation>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
+        <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
+        <translation type="unfinished">Usa RGB precís (i lent) RGB-&gt;conversió YUV</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -20803,28 +20819,33 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="199"/>
-        <source>RGB=&gt;RBG</source>
-        <translation>RGB=RBG</translation>
+        <source>RGB→RBG</source>
+        <oldsource>RGB=&gt;RBG</oldsource>
+        <translation type="unfinished">RGB=RBG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
-        <source>RGB=&gt;BGR</source>
-        <translation>RGB=&gt;BGR</translation>
+        <source>RGB→BGR</source>
+        <oldsource>RGB=&gt;BGR</oldsource>
+        <translation type="unfinished">RGB=&gt;BGR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
-        <source>RGB=&gt;BRG</source>
-        <translation>RGB=&gt;BRG</translation>
+        <source>RGB→BRG</source>
+        <oldsource>RGB=&gt;BRG</oldsource>
+        <translation type="unfinished">RGB=&gt;BRG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
-        <source>RGB=&gt;GRB</source>
-        <translation>RGB=&gt;GRB</translation>
+        <source>RGB→GRB</source>
+        <oldsource>RGB=&gt;GRB</oldsource>
+        <translation type="unfinished">RGB=&gt;GRB</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
-        <source>RGB=&gt;GBR</source>
-        <translation>RGB=&gt;GBR</translation>
+        <source>RGB→GBR</source>
+        <oldsource>RGB=&gt;GBR</oldsource>
+        <translation type="unfinished">RGB=&gt;GBR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -21358,8 +21379,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="479"/>
-        <source>Edit colormap...</source>
-        <translation>Edita mapa de color...</translation>
+        <source>Edit palette...</source>
+        <oldsource>Edit colormap...</oldsource>
+        <translation type="unfinished">Edita mapa de color...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="440"/>

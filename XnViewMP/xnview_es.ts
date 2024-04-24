@@ -1900,10 +1900,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Usar corrección gamma</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>El archivo %1 ya existe. ¿Desea sobreescribirlo?</translation>
-    </message>
-    <message>
         <source>Nearest Neighbour</source>
         <translation>Vecino más cercano</translation>
     </message>
@@ -2259,6 +2255,11 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Enlarge only</source>
         <translation>Solo ampliar</translation>
+    </message>
+    <message>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2816,10 +2817,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <source>Total Duration:</source>
         <translation>Duración total:</translation>
     </message>
-    <message>
-        <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>El archivo %1 ya existe. ¿Desea sobreescribirlo?</translation>
-    </message>
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
@@ -3057,6 +3054,11 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Please restart application.</source>
         <translation>Por favor, reiniciar la aplicación.</translation>
+    </message>
+    <message>
+        <source>A file called %1 already exists.
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4885,8 +4887,8 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
 <context>
     <name>DlgConvertSwapClass</name>
     <message>
-        <source>RGB ==&gt;</source>
-        <translation>RGB ==&gt;</translation>
+        <source>RGB →</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7077,10 +7079,6 @@ Please make sure that files are not read-only!</source>
         <translation>Importar...</translation>
     </message>
     <message>
-        <source>Don&apos;t  load field values</source>
-        <translation>No cargar los valores de campo</translation>
-    </message>
-    <message>
         <source>Open last opened tab</source>
         <translation>Abrir última pestaña abierta</translation>
     </message>
@@ -7155,6 +7153,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Text file</source>
         <translation>Archivo de texto</translation>
+    </message>
+    <message>
+        <source>Don&apos;t load field values</source>
+        <translation type="unfinished">No cargar los valores de los campos</translation>
     </message>
 </context>
 <context>
@@ -9427,10 +9429,6 @@ miniatura</translation>
         <translation>Elegir formatos que se desea guardar.</translation>
     </message>
     <message>
-        <source>Show most used format at beginning</source>
-        <translation>Mostrar formatos más utilizados al principio</translation>
-    </message>
-    <message>
         <source>Show write settings before saving</source>
         <translation>Mostrar configuración de escritura antes de guardar</translation>
     </message>
@@ -9445,6 +9443,10 @@ miniatura</translation>
     <message>
         <source>Formats</source>
         <translation>Formatos</translation>
+    </message>
+    <message>
+        <source>Show most used formats at beginning</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9781,12 +9783,12 @@ miniatura</translation>
         <translation>Carácter delimitador</translation>
     </message>
     <message>
-        <source>Color profile</source>
-        <translation>Perfil de color</translation>
-    </message>
-    <message>
         <source>Auto-rotate images according to EXIF orientation tag</source>
         <translation>Girar imágenes automáticamente de acuerdo con la orientación de la etiqueta EXIF</translation>
+    </message>
+    <message>
+        <source>Color management</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10081,10 +10083,6 @@ Do you want to reassign?</source>
     <message>
         <source>Zoom in/out</source>
         <translation>Acercar/Alejar</translation>
-    </message>
-    <message>
-        <source>Scroll up/down</source>
-        <translation>Desplazar arriba/abajo</translation>
     </message>
     <message>
         <source>Left button</source>
@@ -10475,10 +10473,6 @@ Do you want to reassign?</source>
         <translation>Ancho</translation>
     </message>
     <message>
-        <source>Create  thumbnails for whole folder</source>
-        <translation>Crear miniaturas para toda la carpeta</translation>
-    </message>
-    <message>
         <source>For video files, extract frame at</source>
         <translation>Para archivos de video, extraer fotograma al</translation>
     </message>
@@ -10633,6 +10627,10 @@ Do you want to reassign?</source>
     <message>
         <source>Text</source>
         <translation>Texto</translation>
+    </message>
+    <message>
+        <source>Create thumbnails for whole folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10877,10 +10875,6 @@ Do you want to reassign?</source>
         <translation>D1/DV NTSC Panorámica (1.2)</translation>
     </message>
     <message>
-        <source>Phi grid</source>
-        <translation>Cuadrícula Phi</translation>
-    </message>
-    <message>
         <source>Loop on the file list</source>
         <translation>Bucle en la lista de archivos</translation>
     </message>
@@ -11031,6 +11025,10 @@ Do you want to reassign?</source>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <translation>Restablecer ajuste &quot;Zoom automático&quot; con archivo siguiente/anterior</translation>
+    </message>
+    <message>
+        <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12491,8 +12489,8 @@ Do you want to reassign?</source>
         <translation>Tamaño de archivo (kbytes)</translation>
     </message>
     <message>
-        <source>Use sharp (and slow) RGB-&gt;YUV conversion</source>
-        <translation>Usar conversión RGB-&gt;YUV nítida (pero lenta)</translation>
+        <source>Use sharp (and slow) RGB→YUV conversion</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16326,26 +16324,6 @@ Do you want to continue?</source>
         <translation>Establecer relación de la selección</translation>
     </message>
     <message>
-        <source>RGB=&gt;BRG</source>
-        <translation>RGB=&gt;BRG</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;BGR</source>
-        <translation>RGB=&gt;BGR</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;GRB</source>
-        <translation>RGB=&gt;GRB</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;GBR</source>
-        <translation>RGB=&gt;GBR</translation>
-    </message>
-    <message>
-        <source>RGB=&gt;RBG</source>
-        <translation>RGB=&gt;RBG</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Barra de herramientas</translation>
     </message>
@@ -16474,10 +16452,6 @@ Do you want to continue?</source>
         <translation>Ajustar imagen al ancho o alto de la ventana</translation>
     </message>
     <message>
-        <source>Edit colormap...</source>
-        <translation>Editar mapa de colores...</translation>
-    </message>
-    <message>
         <source>Next file</source>
         <translation>Archivo siguiente</translation>
     </message>
@@ -16588,6 +16562,30 @@ Do you want to continue?</source>
     <message>
         <source>Crop (lossless)</source>
         <translation>Recortar (sin pérdidas)</translation>
+    </message>
+    <message>
+        <source>RGB→RBG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→BGR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→BRG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GRB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GBR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit palette...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
