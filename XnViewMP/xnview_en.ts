@@ -1722,6 +1722,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgConvertProcess.h" line="4813"/>
+        <source>IPTC-IIM/XMP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
         <source>QR Code</source>
         <translation type="unfinished"></translation>
@@ -2086,6 +2091,11 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgArchive.ui" line="20"/>
         <source>Please enter the full path of the archive file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgArchive.ui" line="32"/>
+        <source>...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3086,6 +3096,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgClean.ui" line="40"/>
+        <source>EXIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation type="unfinished"></translation>
@@ -3093,6 +3108,16 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="101"/>
+        <source>XMP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="108"/>
+        <source>IPTC-IIM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3293,6 +3318,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgContactSheet.ui" line="454"/>
         <source>Header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgContactSheet.ui" line="472"/>
+        <location filename="DlgContactSheet.ui" line="500"/>
+        <source>&gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4403,6 +4434,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
+        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -5041,8 +5073,23 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgConvertCleanMeta.ui" line="24"/>
+        <source>EXIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="31"/>
+        <source>XMP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="45"/>
+        <source>IPTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5393,6 +5440,12 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgConvertICC.ui" line="45"/>
+        <location filename="DlgConvertICC.ui" line="82"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation type="unfinished"></translation>
@@ -5602,6 +5655,7 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation type="unfinished"></translation>
@@ -7845,6 +7899,11 @@ Please make sure that files are not read-only!</source>
     <message>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgFile.ui" line="36"/>
+        <source>...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11595,6 +11654,11 @@ Do you want to check for affected entries first?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsFilelist.cpp" line="193"/>
+        <source>XnView</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation type="unfinished"></translation>
@@ -12461,6 +12525,13 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsIntegration.ui" line="168"/>
+        <location filename="DlgSettingsIntegration.ui" line="195"/>
+        <location filename="DlgSettingsIntegration.ui" line="231"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsIntegration.ui" line="175"/>
         <source>Folder for other files</source>
         <translation type="unfinished"></translation>
@@ -13214,6 +13285,11 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsKeywords.ui" line="428"/>
+        <source>IPTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
         <location filename="DlgSettingsKeywords.ui" line="486"/>
         <location filename="DlgSettingsKeywords.ui" line="529"/>
@@ -13424,6 +13500,11 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="541"/>
+        <source>EXIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="548"/>
         <source>Has category</source>
         <translation type="unfinished"></translation>
@@ -13436,6 +13517,11 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="634"/>
+        <source>IPTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13454,6 +13540,11 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="766"/>
+        <source>GPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="786"/>
         <source>Shortcut</source>
         <translation type="unfinished"></translation>
@@ -13461,6 +13552,11 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="806"/>
         <source>Embedded thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="826"/>
+        <source>XMP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13481,6 +13577,11 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="969"/>
         <source>Custom label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="988"/>
+        <source>&gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14102,6 +14203,13 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSimilarResult.ui" line="87"/>
+        <location filename="DlgSimilarResult.ui" line="156"/>
+        <location filename="DlgSimilarResult.ui" line="239"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
         <location filename="DlgSimilarResult.ui" line="250"/>
         <source>Zoom in</source>
@@ -14339,6 +14447,12 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSlideshow.ui" line="210"/>
+        <location filename="DlgSlideshow.ui" line="314"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSlideshow.ui" line="237"/>
         <source>Options</source>
         <translation type="unfinished"></translation>
@@ -14440,6 +14554,15 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSplit.ui" line="30"/>
+        <location filename="DlgSplit.ui" line="44"/>
+        <location filename="DlgSplit.ui" line="58"/>
+        <location filename="DlgSplit.ui" line="72"/>
+        <location filename="DlgSplit.ui" line="96"/>
+        <source>...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14929,6 +15052,11 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgTimestamp.ui" line="488"/>
+        <source>&gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgTimestamp.ui" line="498"/>
         <source>EXIF: Date digitized</source>
         <translation type="unfinished"></translation>
@@ -15131,32 +15259,38 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="147"/>
+        <location filename="DlgUpload.ui" line="138"/>
         <source>Username</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="157"/>
+        <location filename="DlgUpload.ui" line="148"/>
         <source>Password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="177"/>
+        <location filename="DlgUpload.ui" line="168"/>
         <source>User</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="202"/>
+        <location filename="DlgUpload.ui" line="193"/>
         <source>New user...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="233"/>
+        <location filename="DlgUpload.ui" line="224"/>
         <source>Thumbnail link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="261"/>
+        <location filename="DlgUpload.ui" line="241"/>
+        <location filename="DlgUpload.ui" line="269"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUpload.ui" line="252"/>
         <source>Image link</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15177,6 +15311,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUserFilter.ui" line="36"/>
+        <location filename="DlgUserFilter.ui" line="63"/>
+        <source>...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18522,6 +18662,11 @@ Do you want to continue?</source>
     <message>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="LanguageComboBox.cpp" line="57"/>
+        <source>Hebrew</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -89,9 +89,17 @@
         <translation>오렌지</translation>
     </message>
     <message>
+        <source>6</source>
+        <translation type="obsolete">100% {6?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
         <translation>회색</translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation type="obsolete">100% {7?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -99,9 +107,17 @@
         <translation>검정</translation>
     </message>
     <message>
+        <source>8</source>
+        <translation type="obsolete">100% {8?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
         <translation>흰색</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="obsolete">100% {9?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -177,6 +193,10 @@
         <translation>위키</translation>
     </message>
     <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
         <translation>INI 파일명</translation>
@@ -225,6 +245,10 @@
         <location filename="AboutWidget.ui" line="481"/>
         <source>What&apos;s New</source>
         <translation>새로운 사항</translation>
+    </message>
+    <message>
+        <source>INI filename: </source>
+        <translation type="vanished">INI 파일명: </translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -350,6 +374,10 @@
         <translation>변경사항을 &apos;%1&apos;에 저장할까요?</translation>
     </message>
     <message>
+        <source>Save as...</source>
+        <translation type="vanished">다른 이름으로 저장...</translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="211"/>
         <source>Save &amp;as...</source>
         <translation>다른 이름으로 저장... (%A)</translation>
@@ -370,6 +398,14 @@
         <translation>다시 묻지 않기</translation>
     </message>
     <message>
+        <source>Are you sure to delete &quot;%1&quot;?</source>
+        <translation type="vanished">&quot;%1&quot;를 삭제 하시겠습니까?</translation>
+    </message>
+    <message>
+        <source>Are you sure to delete &quot;%1&quot; (%2 items)?</source>
+        <translation type="vanished">&quot;%1&quot;를 삭제 하시겠습니까 (%2 항목)?</translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>This picture will be saved as RGB with 8bits per component</source>
         <translation>이 이미지는 채널당 8비트인 RGB 형식으로 저장됩니다</translation>
@@ -384,6 +420,14 @@
         <location filename="ViewWindow.cpp" line="2799"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>&lt;%1&gt; 파일이 읽기 전용입니다, 다른 파일 이름을 선택하세요.</translation>
+    </message>
+    <message>
+        <source>The file &lt;%1&gt; already exists!
+
+Do you want to overwrite it?</source>
+        <translation type="vanished">파일 &lt;%1&gt;은 이미 존재합니다!
+
+덮어쓸까요?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2833"/>
@@ -406,9 +450,17 @@
         <translation>저장중 오류가 발생하였습니다!</translation>
     </message>
     <message>
+        <source>An error occurs durng saving file!</source>
+        <translation type="vanished">파일 저장중 오류가 발생하였습니다</translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="3089"/>
         <source>Properties</source>
         <translation>속성</translation>
+    </message>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">이 사진은 컴포넌트당 8비트인 RGB로 변환됩니다</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
@@ -473,6 +525,10 @@
 </context>
 <context>
     <name>BaseViewWindow</name>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">이 이미지는 컴포넌트당 8비트인 RGB로 변환됩니다</translation>
+    </message>
     <message>
         <location filename="ViewWindow.cpp" line="4681"/>
         <source>Error</source>
@@ -662,6 +718,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>&lt;태그된 파일&gt;</translation>
     </message>
     <message>
+        <source>&lt;DB result&gt;</source>
+        <translation type="vanished">&lt;DB 결과&gt;</translation>
+    </message>
+    <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>이 폴더는 존재하지 않습니다!</translation>
@@ -712,6 +772,10 @@ Drag and Drop over the desired node to assign.</source>
         </translation>
     </message>
     <message>
+        <source>Show all files (recursive)</source>
+        <translation type="vanished">모든 파일 보이기 (재귀적)</translation>
+    </message>
+    <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
         <source>Search...</source>
         <translation>검색...</translation>
@@ -740,6 +804,14 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="BrowserWindow.cpp" line="2084"/>
         <source>Match</source>
         <translation>일치</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation type="vanished">모두</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="vanished">모두</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3764"/>
@@ -1008,6 +1080,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>히스토그램</translation>
     </message>
     <message>
+        <source>Use tabs</source>
+        <translation type="vanished">탭 사용</translation>
+    </message>
+    <message>
         <location filename="CompareWidget.cpp" line="537"/>
         <source>Zoom out</source>
         <translation>축소</translation>
@@ -1219,6 +1295,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>회전</translation>
     </message>
     <message>
+        <source>Gammasat</source>
+        <translation type="vanished">감마 채도 (Gammasat)</translation>
+    </message>
+    <message>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <translation>DPI 설정</translation>
@@ -1279,6 +1359,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="2657"/>
         <source>HLS</source>
         <translation>HLS (색상/명도/채도)</translation>
+    </message>
+    <message>
+        <source>Swap component</source>
+        <translation type="vanished">컴포넌트 교환</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2732"/>
@@ -1396,6 +1480,11 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="4794"/>
         <source>Halftone</source>
         <translation>하프톤 (Halftone)</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertProcess.h" line="4813"/>
+        <source>IPTC-IIM/XMP</source>
+        <translation>IPTC-IIM/XMP</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
@@ -1573,6 +1662,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>이퀄라이즈 (Equalize)</translation>
     </message>
     <message>
+        <source>Conbright</source>
+        <translation type="vanished">밝기 대조 (Conbright)</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.cpp" line="205"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
@@ -1583,6 +1676,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>과다 감광 (Solarize)</translation>
+    </message>
+    <message>
+        <source>Exposure</source>
+        <translation type="vanished">노출 (Exposure)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="223"/>
@@ -2098,6 +2195,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation>압축 파일의 전체 경로를 입력하세요</translation>
     </message>
     <message>
+        <location filename="DlgArchive.ui" line="32"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open File Explorer after compressing</source>
         <translation>압축 후 파일 탐색기 열기</translation>
@@ -2112,6 +2214,17 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgArchive.cpp" line="124"/>
         <source>Archive file</source>
         <translation>압축 파일</translation>
+    </message>
+</context>
+<context>
+    <name>DlgAskClass</name>
+    <message>
+        <source>Confirm</source>
+        <translation type="vanished">확인</translation>
+    </message>
+    <message>
+        <source>Remember my answer and don&apos;t ask again</source>
+        <translation type="vanished">내 응답을 기억하고 다시 묻지 않기</translation>
     </message>
 </context>
 <context>
@@ -2920,6 +3033,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>초</translation>
     </message>
     <message>
+        <source>Delay (sec)</source>
+        <translation type="vanished">지연 시간 (초)</translation>
+    </message>
+    <message>
         <location filename="DlgCapture.ui" line="138"/>
         <source>Hotkey</source>
         <translation>단축키</translation>
@@ -2949,6 +3066,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
         <translation>설정...</translation>
+    </message>
+    <message>
+        <source>Open in draw module</source>
+        <translation type="vanished">그리기 모듈에서 열기</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="261"/>
@@ -3098,6 +3219,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation>코멘트</translation>
     </message>
     <message>
+        <location filename="DlgClean.ui" line="40"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF 썸네일</translation>
@@ -3106,6 +3232,16 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
         <translation>GPS</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="101"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="108"/>
+        <source>IPTC-IIM</source>
+        <translation>IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="115"/>
@@ -3310,6 +3446,12 @@ Drag and Drop over the desired node to assign.</source>
         <translation>헤더</translation>
     </message>
     <message>
+        <location filename="DlgContactSheet.ui" line="472"/>
+        <location filename="DlgContactSheet.ui" line="500"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
+    </message>
+    <message>
         <location filename="DlgContactSheet.ui" line="482"/>
         <source>Footer</source>
         <translation>풋터</translation>
@@ -3510,6 +3652,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>&lt;br&gt;XnConvert는 무료로 제공됩니다&lt;br&gt;&lt;br&gt;이 소프트웨어를 사용할 수 있고 무제한으로 복사할 수 있습니다.&lt;br&gt;&lt;br&gt;이 소프트웨어는 &quot;있는 그대로&quot; 제공됩니다.&lt;br&gt;어떠한 종류의 보증도 명시적으로나 묵시적으로  제공하지 않습니다.&lt;br&gt;저자는 이 소프트웨어를 사용하거나 오용하는 동안 발생하는 데이터 손실, 손해, 이익 손실 또는 손실의 다른 유형에 대해 책임을 지지 않습니다.&lt;br&gt;&lt;br&gt;아무 제안이나 피드백 및 코멘트는 환영합니다.</translation>
     </message>
     <message>
+        <source>Information</source>
+        <translation type="vanished">정보</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.cpp" line="1283"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
@@ -3545,6 +3691,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.cpp" line="1552"/>
         <source>Export script</source>
         <translation>스크립트 내보내기</translation>
+    </message>
+    <message>
+        <source>Do you would like to export filenames too?</source>
+        <translation type="vanished">파일명 또한 내보내기 하시겠습니까?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1874"/>
@@ -3922,6 +4072,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
         <translation>방향</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="vanished">모드</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
@@ -4665,6 +4819,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>처리 목록:</translation>
     </message>
     <message>
+        <source>TextLabel</source>
+        <translation type="vanished">텍스트라벨</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.ui" line="1618"/>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
         <translation>참고: 이 옵션을 변경하기 위해서는 프로그램을 관리자 권한으로 실행해야 합니다</translation>
@@ -4673,6 +4831,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="1693"/>
         <source>Restore previous input file list</source>
         <translation>이전 파일 목록 복원</translation>
+    </message>
+    <message>
+        <source>&apos;Hot folders&apos; process files</source>
+        <translation type="vanished">&apos;핫 폴더&apos; 파일 처리</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1752"/>
@@ -4742,6 +4904,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
+        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -5060,9 +5223,24 @@ Drag and Drop over the desired node to assign.</source>
         <translation>코멘트</translation>
     </message>
     <message>
+        <location filename="DlgConvertCleanMeta.ui" line="24"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="31"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF 썸네일</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="45"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
@@ -5413,6 +5591,12 @@ Drag and Drop over the desired node to assign.</source>
         <translation>입력 프로파일 (기본값은 sRGB)</translation>
     </message>
     <message>
+        <location filename="DlgConvertICC.ui" line="45"/>
+        <location filename="DlgConvertICC.ui" line="82"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation>출력 프로파일 (기본값은 sRGB)</translation>
@@ -5553,6 +5737,14 @@ Drag and Drop over the desired node to assign.</source>
         <source>Insert from</source>
         <translation>넣기 &lt;&lt;</translation>
     </message>
+    <message>
+        <source>Edit history...</source>
+        <translation type="vanished">히스토리 편집...</translation>
+    </message>
+    <message>
+        <source>Sort alphabetically</source>
+        <translation type="vanished">알파벳순 정렬</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
@@ -5623,6 +5815,7 @@ Drag and Drop over the desired node to assign.</source>
         <translation>마스크</translation>
     </message>
     <message>
+        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation>...</translation>
@@ -6544,6 +6737,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>Color</source>
         <translation>색상</translation>
     </message>
+    <message>
+        <source>Add vignetting</source>
+        <translation type="vanished">비네팅 추가하기</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
@@ -6581,6 +6778,22 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertWatermark.ui" line="31"/>
         <source>Size</source>
         <translation>크기</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="vanished">보통</translation>
+    </message>
+    <message>
+        <source>Repeat image</source>
+        <translation type="vanished">이미지 반복</translation>
+    </message>
+    <message>
+        <source>Stretch image</source>
+        <translation type="vanished">이미지 늘이기</translation>
+    </message>
+    <message>
+        <source>Percentage (width)</source>
+        <translation type="vanished">퍼센트 (너비)</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="46"/>
@@ -6622,6 +6835,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Fill</source>
         <translation>채우기</translation>
+    </message>
+    <message>
+        <source>Repeat</source>
+        <translation type="vanished">반복</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -6677,6 +6894,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom right</source>
         <translation>하단 오른쪽</translation>
+    </message>
+    <message>
+        <source>Delta</source>
+        <translation type="vanished">델타</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7706,6 +7927,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation>투명 색상 지정</translation>
     </message>
     <message>
+        <source>Auto refresh</source>
+        <translation type="vanished">자동 새로 고침</translation>
+    </message>
+    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -7795,6 +8020,10 @@ Please make sure that files are not read-only!</oldsource>
         <source>Best</source>
         <translation>최고</translation>
     </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="vanished">새로 고침</translation>
+    </message>
 </context>
 <context>
     <name>DlgFile</name>
@@ -7881,6 +8110,11 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translation>폴더 트리에서 선택한 폴더 보이기</translation>
+    </message>
+    <message>
+        <location filename="DlgFile.ui" line="36"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -8243,6 +8477,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation>%1 파일을 불러올 수 없음: %2.</translation>
     </message>
     <message>
+        <source>Uploading %1...</source>
+        <translation type="vanished">%1 업로드 중...</translation>
+    </message>
+    <message>
         <location filename="DlgFtp.cpp" line="573"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>%1의 FTP 서버에 연결할 수 없습니다. 호스트 이름이 맞는지 확인하세요.</translation>
@@ -8251,6 +8489,14 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFtp.cpp" line="578"/>
         <source>Logged onto %1.</source>
         <translation>%1에 로그인했습니다.</translation>
+    </message>
+    <message>
+        <source>Canceled upload of %1.</source>
+        <translation type="vanished">%1의 업로드를 취소했습니다.</translation>
+    </message>
+    <message>
+        <source>Uploaded %1 to current directory.</source>
+        <translation type="vanished">현재 폴더에 업로드했습니다: %1</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
@@ -9337,6 +9583,14 @@ Please make sure that files are not read-only!</oldsource>
         <translation>이름</translation>
     </message>
     <message>
+        <source>Parameter</source>
+        <translation type="vanished">매개변수</translation>
+    </message>
+    <message>
+        <source>First Argument</source>
+        <translation type="vanished">첫번째 매개변수</translation>
+    </message>
+    <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
@@ -9757,6 +10011,10 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
         <translation>하단-오른쪽</translation>
+    </message>
+    <message>
+        <source>Gamma</source>
+        <translation type="vanished">감마</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -10777,6 +11035,10 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
         <translation>안티 에일리어싱 사용하기</translation>
     </message>
     <message>
+        <source>Smooth</source>
+        <translation type="vanished">부드럽게</translation>
+    </message>
+    <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
         <translation>자동 오리기</translation>
@@ -10834,6 +11096,14 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
         <translation>RegExp 사용</translation>
+    </message>
+    <message>
+        <source>Match All of the following conditions</source>
+        <translation type="vanished">다음의 모든 조건과 일치</translation>
+    </message>
+    <message>
+        <source>Match Any of the following conditions</source>
+        <translation type="vanished">다음의 조건 중 하나와 일치</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11028,6 +11298,10 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
         <translation>파일 목록</translation>
     </message>
     <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">전체 화면</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
         <translation>일반</translation>
@@ -11058,6 +11332,10 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
         <translation>보기</translation>
     </message>
     <message>
+        <source>Auto text correction</source>
+        <translation type="vanished">자동 텍스트 교정</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
         <translation>형식</translation>
@@ -11069,11 +11347,39 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
     </message>
 </context>
 <context>
+    <name>DlgSettingsAuto</name>
+    <message>
+        <source>Auto Correct</source>
+        <translation type="vanished">자동 교정</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="vanished">바꾸기</translation>
+    </message>
+    <message>
+        <source>With</source>
+        <translation type="vanished">바꿀 항목</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="vanished">삭제</translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected Auto Correct entry?</source>
+        <translation type="vanished">선택한 자동 교정 항목을 삭제할까요?</translation>
+    </message>
+</context>
+<context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
         <translation>브라우저</translation>
+    </message>
+    <message>
+        <source>Display file size in bytes</source>
+        <oldsource>Display bytes for file size</oldsource>
+        <translation type="vanished">파일 크기를 바이트(Bytes)로 표시하기</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
@@ -11377,6 +11683,10 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
         <translation>카탈로그 - 절대/상대 경로</translation>
     </message>
     <message>
+        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database, you need this only if you intend to share same folder between computers. Do you want still to change &apos;base path&apos;?</source>
+        <translation type="vanished">&apos;베이스 경로&apos;를 변경하는 경우 데이터베이스에 저장되어 있는 파일들의 연결이 해제될 수 있기에 다른 컴퓨터간 같은 디렉터리를 가진 환경에서만 사용하여야 합니다. &apos;베이스 경로&apos;를 변경 하시겠습니까?</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
@@ -11461,6 +11771,10 @@ Do you want to check for affected entries first?</source>
         <location filename="DlgSettingsCache.cpp" line="971"/>
         <source>Catalog</source>
         <translation>카테고리</translation>
+    </message>
+    <message>
+        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database. Please change &apos;base path&apos; only if you want to share same folder between several computers. Do you still want to change the &apos;base path&apos;?</source>
+        <translation type="vanished">&apos;베이스 경로&apos;를 변경하는 경우 데이터베이스에 저장되어 있는 파일들의 연결이 해제될 수 있기에 다른 컴퓨터간 같은 디렉터리를 가진 환경에서만 사용하여야 합니다. &apos;베이스 경로&apos;를 변경 하시겠습니까?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
@@ -11606,6 +11920,10 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>썸네일 다시 만들기</translation>
     </message>
     <message>
+        <source>Optimize...</source>
+        <translation type="vanished">최적화...</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Tools</source>
         <translation>도구</translation>
@@ -11685,6 +12003,11 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>연결된 프로그램</translation>
     </message>
     <message>
+        <location filename="DlgSettingsFilelist.cpp" line="193"/>
+        <source>XnView</source>
+        <translation>XnView</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation>보이기</translation>
@@ -11694,6 +12017,12 @@ Do you want to remove entries assigned to a category?</oldsource>
         <source>Show as 
 Thumbnail</source>
         <translation>썸네일로
+보이기</translation>
+    </message>
+    <message>
+        <source>Show in 
+Preview</source>
+        <translation type="vanished">미리보기
 보이기</translation>
     </message>
     <message>
@@ -11772,6 +12101,10 @@ Thumbnail</source>
         <translation>컴패니언</translation>
     </message>
     <message>
+        <source>Companion (separated by ;)</source>
+        <translation type="vanished">컴패니언 (;로 구분)</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
         <translation>삭제...</translation>
@@ -11810,9 +12143,17 @@ Thumbnail</source>
         <translation>항상 폴더를 알파벳 순서로 정렬하기</translation>
     </message>
     <message>
+        <source>Automatically select new files</source>
+        <translation type="vanished">새 파일을 자동으로 선택하기</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
         <source>New files are added at the end of the list</source>
         <translation>새 파일을 목록의 끝에 추가하기</translation>
+    </message>
+    <message>
+        <source>Select first item on entering folder</source>
+        <translation type="vanished">폴더에 들어갈 때 첫 번째 항목 선택하기</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
@@ -11890,9 +12231,41 @@ Thumbnail</source>
         <translation>연결된 목록(; 를 사용해 구분)</translation>
     </message>
     <message>
+        <source>Detail mode</source>
+        <translation type="vanished">상세 모드</translation>
+    </message>
+    <message>
+        <source>Comment field</source>
+        <translation type="vanished">코멘트 필드</translation>
+    </message>
+    <message>
+        <source>Embedded comment, description</source>
+        <translation type="vanished">내장 코멘트, 설명</translation>
+    </message>
+    <message>
+        <source>Description, Embedded comment</source>
+        <translation type="vanished">설명, 내장 코멘트</translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="vanished">내장 코멘트</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="vanished">설명</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
         <translation>컴패니언 파일</translation>
+    </message>
+    <message>
+        <source>Companions files linked for delete action</source>
+        <translation type="vanished">컴패니언 파일을 삭제시 연동</translation>
+    </message>
+    <message>
+        <source>Companions files linked for copy/move/rename action</source>
+        <translation type="vanished">컴패니언 파일을 복사/이동/이름 변경시 연동</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -11943,6 +12316,10 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsFormat</name>
     <message>
+        <source>Saving</source>
+        <translation type="vanished">저장</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
         <translation>형식</translation>
@@ -11986,6 +12363,53 @@ Thumbnail</source>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
         <translation>쓰기</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsFullscreenClass</name>
+    <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">전체 화면</translation>
+    </message>
+    <message>
+        <source>Auto image size</source>
+        <translation type="vanished">자동 이미지 크기</translation>
+    </message>
+    <message>
+        <source>Show playbar</source>
+        <translation type="vanished">재생 막대 보이기</translation>
+    </message>
+    <message>
+        <source>Show info</source>
+        <translation type="vanished">정보 보이기</translation>
+    </message>
+    <message>
+        <source>Show scrollbars</source>
+        <translation type="vanished">스크롤바 보이기</translation>
+    </message>
+    <message>
+        <source>Show toolbar</source>
+        <translation type="vanished">도구모음 보이기</translation>
+    </message>
+    <message>
+        <source>Hide mouse cursor</source>
+        <translation type="vanished">마우스 커서 숨기기</translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation type="vanished">배경색</translation>
+    </message>
+    <message>
+        <source>Dual monitor: Use second monitor</source>
+        <translation type="vanished">듀얼 모니터: 두 번째 모니터 사용하기</translation>
+    </message>
+    <message>
+        <source>Floating views</source>
+        <translation type="vanished">플로팅 보기</translation>
+    </message>
+    <message>
+        <source>(appear when the mouse is moved to the top or right of the screen)</source>
+        <translation type="vanished">(마우스를 화면의 상단이나 오른쪽으로 이동할 때 나타납니다)</translation>
     </message>
 </context>
 <context>
@@ -12071,9 +12495,17 @@ Thumbnail</source>
         <translation>mm</translation>
     </message>
     <message>
+        <source>Open browser at startup</source>
+        <translation type="vanished">시작시 브라우저 열기</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="430"/>
         <source>Directory</source>
         <translation>디렉터리</translation>
+    </message>
+    <message>
+        <source>Restore last selected filename</source>
+        <translation type="vanished">마지막으로 선택한 파일명 기억하기</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="344"/>
@@ -12286,6 +12718,10 @@ Thumbnail</source>
         <translation>내장 메타데이터 변경</translation>
     </message>
     <message>
+        <source>ICC</source>
+        <translation type="vanished">ICC</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="741"/>
         <source>Use ICC profile for monitor (slower)</source>
         <translation>모니터에 ICC 프로파일 사용하기 (더 느림)</translation>
@@ -12365,10 +12801,22 @@ Thumbnail</source>
         <translation>EXIF 방향 태그에 따라서 자동으로 이미지 회전하기</translation>
     </message>
     <message>
+        <source>Mode when starting with a file</source>
+        <translation type="vanished">파일로 시작시 모드</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="vanished">보통</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation>뷰어 - 전체 화면</translation>
+    </message>
+    <message>
+        <source>Fullscreen - Browser</source>
+        <translation type="vanished">전체 화면 - 브라우저</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="493"/>
@@ -12513,6 +12961,13 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="36"/>
         <source>Integration</source>
         <translation>통합</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="168"/>
+        <location filename="DlgSettingsIntegration.ui" line="195"/>
+        <location filename="DlgSettingsIntegration.ui" line="231"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="42"/>
@@ -12817,6 +13272,10 @@ Do you want to reassign?</source>
         <translation>브라우저</translation>
     </message>
     <message>
+        <source>View mode</source>
+        <translation type="vanished">보기 모드</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
@@ -12841,12 +13300,20 @@ Do you want to reassign?</source>
         <translation>필터</translation>
     </message>
     <message>
+        <source>Pressing Esc once quits XnViewMP</source>
+        <translation type="vanished">ESC키를 눌러 XnViewMP를 종료하기</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1302"/>
         <location filename="DlgSettingsInterface.ui" line="1352"/>
         <location filename="DlgSettingsInterface.ui" line="1402"/>
         <location filename="DlgSettingsInterface.ui" line="1442"/>
         <source>Previous file</source>
         <translation>이전 파일</translation>
+    </message>
+    <message>
+        <source>Use &quot;Pan and Zoom&quot; tool</source>
+        <translation type="vanished">&quot;패닝과 확대&quot; 도구 사용</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
@@ -12874,6 +13341,14 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="847"/>
         <source>Shortcuts</source>
         <translation>바로가기</translation>
+    </message>
+    <message>
+        <source>Browser mode</source>
+        <translation type="vanished">브라우저 모드</translation>
+    </message>
+    <message>
+        <source>Viewer mode</source>
+        <translation type="vanished">뷰어 모드</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="987"/>
@@ -12972,6 +13447,18 @@ Do you want to reassign?</source>
         <translation>위/아래로 스크롤</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation type="vanished">전혀 안 함</translation>
+    </message>
+    <message>
+        <source>Only in fullscreen</source>
+        <translation type="vanished">전체 화면에서만</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="vanished">항상</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
         <source>Mouse</source>
         <translation>마우스</translation>
@@ -13020,6 +13507,10 @@ Do you want to reassign?</source>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation>배율 선택</translation>
+    </message>
+    <message>
+        <source>Left button + CTRL</source>
+        <translation type="vanished">왼쪽 버튼 + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1677"/>
@@ -13107,12 +13598,24 @@ Do you want to reassign?</source>
         <translation>ESC 키를 눌러 닫기</translation>
     </message>
     <message>
+        <source>Right button + CTRL</source>
+        <translation type="vanished">오른쪽 버튼 + CTRL</translation>
+    </message>
+    <message>
+        <source>Mouse wheel</source>
+        <translation type="vanished">마우스 휠</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
         <location filename="DlgSettingsInterface.ui" line="1861"/>
         <source>Zoom in/out</source>
         <translation>확대/축소</translation>
+    </message>
+    <message>
+        <source>Mouse wheel + CTRL</source>
+        <translation type="vanished">마우스 휠 + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1916"/>
@@ -13134,6 +13637,10 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2015"/>
         <source>Enter</source>
         <translation>엔터</translation>
+    </message>
+    <message>
+        <source>Use double click to switch between:</source>
+        <translation type="vanished">더블 클릭으로 전환:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
@@ -13164,6 +13671,14 @@ Do you want to reassign?</source>
         <translation>브라우저 &gt; 뷰어 &gt; 전체 화면</translation>
     </message>
     <message>
+        <source>Use middle click to switch between:</source>
+        <translation type="vanished">가운데 클릭으로 전환:</translation>
+    </message>
+    <message>
+        <source>Use ENTER to switch between:</source>
+        <translation type="vanished">엔터 키로 전환:</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
         <location filename="DlgSettingsInterface.ui" line="996"/>
         <source>None</source>
@@ -13190,6 +13705,14 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsKeywordsClass</name>
+    <message>
+        <source>IPTC &amp;&amp; XMP</source>
+        <translation type="vanished">IPTC &amp;&amp; XMP</translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation type="vanished">키워드</translation>
+    </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
@@ -13300,6 +13823,14 @@ Do you want to reassign?</source>
         <translation>사이드카</translation>
     </message>
     <message>
+        <source>Yes</source>
+        <translation type="vanished">예</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="vanished">아니오</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
         <translation>동영상 파일</translation>
@@ -13313,6 +13844,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
         <translation>인코딩</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="428"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
@@ -13347,6 +13883,10 @@ Do you want to reassign?</source>
         <translation>지원되는 형식</translation>
     </message>
     <message>
+        <source>JPEG</source>
+        <translation type="obsolete">JPEG</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Write</source>
         <translation>쓰기</translation>
@@ -13365,6 +13905,10 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsPanel</name>
     <message>
+        <source>Information</source>
+        <translation type="vanished">정보</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
@@ -13373,6 +13917,10 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
+    <message>
+        <source>Misc</source>
+        <translation type="vanished">기타</translation>
+    </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -13520,6 +14068,10 @@ Do you want to reassign?</source>
         <translation>카테고리</translation>
     </message>
     <message>
+        <source>Background color</source>
+        <translation type="vanished">배경색</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="39"/>
         <location filename="DlgSettingsThumbnail.ui" line="329"/>
         <source>Thumbnail</source>
@@ -13546,6 +14098,11 @@ Do you want to reassign?</source>
         <translation>단축키</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="634"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="534"/>
         <source>Tag</source>
         <translation>태그</translation>
@@ -13554,6 +14111,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="833"/>
         <source>Automatic rotation</source>
         <translation>자동 회전</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="541"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
@@ -13566,9 +14128,19 @@ Do you want to reassign?</source>
         <translation>내장 썸네일</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="826"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
         <translation>색 레이블</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="766"/>
+        <source>GPS</source>
+        <translation>GPS</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -13591,6 +14163,10 @@ Do you want to reassign?</source>
         <translation>레이블</translation>
     </message>
     <message>
+        <source>Text color</source>
+        <translation type="vanished">텍스트 색상</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Reset color</source>
         <translation>색상 초기화</translation>
@@ -13604,6 +14180,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
         <translation>브라우저 - 썸네일</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="988"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -13700,6 +14281,18 @@ Do you want to reassign?</source>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
         <translation>자동 확대</translation>
+    </message>
+    <message>
+        <source>Zoom-out</source>
+        <translation type="vanished">축소</translation>
+    </message>
+    <message>
+        <source>Zoom-in</source>
+        <translation type="vanished">확대</translation>
+    </message>
+    <message>
+        <source>Zoom-out &amp; Zoom-in</source>
+        <translation type="vanished">확대 &amp; 축소</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="494"/>
@@ -13803,6 +14396,10 @@ Do you want to reassign?</source>
         <source>Display multi-resolution icons as snapshots</source>
         <oldsource>Icon files display as &apos;Snapshot&apos;</oldsource>
         <translation>여러 해상도의 아이콘을 스냅샷으로 표시하기</translation>
+    </message>
+    <message>
+        <source>Show Video</source>
+        <translation type="vanished">비디오 보이기</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="91"/>
@@ -14076,6 +14673,14 @@ Do you want to reassign?</source>
         <translation>(마우스를 화면의 상단이나 오른쪽으로 이동할 때 나타납니다)</translation>
     </message>
     <message>
+        <source>Information displayed</source>
+        <translation type="vanished">표시할 정보</translation>
+    </message>
+    <message>
+        <source>HTML tags supported</source>
+        <translation type="vanished">HTML 태그 지원</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
         <source>Text color</source>
         <translation>텍스트 색상</translation>
@@ -14104,6 +14709,10 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Position</source>
         <translation>위치</translation>
+    </message>
+    <message>
+        <source>Always in fullscreen</source>
+        <translation type="vanished">항상 전체화면으로</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="933"/>
@@ -14211,6 +14820,13 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
         <translation>축소</translation>
+    </message>
+    <message>
+        <location filename="DlgSimilarResult.ui" line="87"/>
+        <location filename="DlgSimilarResult.ui" line="156"/>
+        <location filename="DlgSimilarResult.ui" line="239"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
@@ -14491,6 +15107,16 @@ Do you want to reassign?</source>
         <translation>장면 전환 효과 사용</translation>
     </message>
     <message>
+        <location filename="DlgSlideshow.ui" line="210"/>
+        <location filename="DlgSlideshow.ui" line="314"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <source>Save SLD with relative paths</source>
+        <translation type="vanished">SLD 저장에 상대 경로 사용</translation>
+    </message>
+    <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
         <translation>오디오 파일 사용</translation>
@@ -14552,6 +15178,15 @@ Do you want to reassign?</source>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
         <translation>분할</translation>
+    </message>
+    <message>
+        <location filename="DlgSplit.ui" line="30"/>
+        <location filename="DlgSplit.ui" line="44"/>
+        <location filename="DlgSplit.ui" line="58"/>
+        <location filename="DlgSplit.ui" line="72"/>
+        <location filename="DlgSplit.ui" line="96"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -14892,6 +15527,10 @@ Do you want to reassign?</source>
         <translation>얼굴 찾기</translation>
     </message>
     <message>
+        <source>Add region</source>
+        <translation type="vanished">지역 추가</translation>
+    </message>
+    <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
         <translation>영역 삭제</translation>
@@ -15042,6 +15681,11 @@ Do you want to reassign?</source>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
         <translation>촬영일</translation>
+    </message>
+    <message>
+        <location filename="DlgTimestamp.ui" line="488"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
@@ -15251,32 +15895,38 @@ Do you want to reassign?</source>
         <translation>인증</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="147"/>
+        <location filename="DlgUpload.ui" line="138"/>
         <source>Username</source>
         <translation>사용자 이름</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="157"/>
+        <location filename="DlgUpload.ui" line="148"/>
         <source>Password</source>
         <translation>암호</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="177"/>
+        <location filename="DlgUpload.ui" line="168"/>
         <source>User</source>
         <translation>사용자</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="202"/>
+        <location filename="DlgUpload.ui" line="193"/>
         <source>New user...</source>
         <translation>새 사용자...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="233"/>
+        <location filename="DlgUpload.ui" line="224"/>
         <source>Thumbnail link</source>
         <translation>썸네일 링크</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="261"/>
+        <location filename="DlgUpload.ui" line="241"/>
+        <location filename="DlgUpload.ui" line="269"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <location filename="DlgUpload.ui" line="252"/>
         <source>Image link</source>
         <translation>이미지 링크</translation>
     </message>
@@ -15298,6 +15948,12 @@ Do you want to reassign?</source>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
         <translation>필터 추가</translation>
+    </message>
+    <message>
+        <location filename="DlgUserFilter.ui" line="36"/>
+        <location filename="DlgUserFilter.ui" line="63"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="60"/>
@@ -15334,6 +15990,14 @@ Do you want to reassign?</source>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
         <translation>변경된 필터를 저장할까요?</translation>
+    </message>
+    <message>
+        <source>Changes</source>
+        <translation type="vanished">변경 사항</translation>
+    </message>
+    <message>
+        <source>There is some changes, do you want to save filters?</source>
+        <translation type="vanished">몇 가지 변경 사항이 있습니다, 필터를 저장할까요?</translation>
     </message>
 </context>
 <context>
@@ -15382,6 +16046,34 @@ Do you want to reassign?</source>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
         <translation>시작 프레임</translation>
+    </message>
+    <message>
+        <source>Unit:</source>
+        <translation type="vanished">단위:</translation>
+    </message>
+    <message>
+        <source>points</source>
+        <translation type="vanished">포인트</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="vanished">모양</translation>
+    </message>
+    <message>
+        <source>B</source>
+        <translation type="vanished">B</translation>
+    </message>
+    <message>
+        <source>I</source>
+        <translation type="vanished">I</translation>
+    </message>
+    <message>
+        <source>U</source>
+        <translation type="vanished">U</translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation type="vanished">S</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -15447,6 +16139,10 @@ Do you want to reassign?</source>
         <translation>늘리기</translation>
     </message>
     <message>
+        <source>Scaled</source>
+        <translation type="vanished">확대</translation>
+    </message>
+    <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
         <translation>맞추기</translation>
@@ -15503,6 +16199,10 @@ Do you want to reassign?</source>
         <translation>형식</translation>
     </message>
     <message>
+        <source>Codec</source>
+        <translation type="vanished">코덱</translation>
+    </message>
+    <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
         <source>Speed</source>
         <translation>속도</translation>
@@ -15512,6 +16212,28 @@ Do you want to reassign?</source>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
         <translation>(10 = 가장 빠르게)</translation>
+    </message>
+    <message>
+        <source>Quantization for color</source>
+        <oldsource>Quantizer for color</oldsource>
+        <translation type="vanished">색상 양자화</translation>
+    </message>
+    <message>
+        <source>Lossless</source>
+        <translation type="vanished">무손실</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation type="vanished">최소</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation type="vanished">최대</translation>
+    </message>
+    <message>
+        <source>Quantization for alpha</source>
+        <oldsource>Quantizer for alpha</oldsource>
+        <translation type="vanished">알파 양자화</translation>
     </message>
 </context>
 <context>
@@ -15761,6 +16483,18 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgWritePDFClass</name>
+    <message>
+        <source>B&amp;W compression type</source>
+        <translation type="vanished">흑백 압축 형식</translation>
+    </message>
+    <message>
+        <source>Grayscale compression type</source>
+        <translation type="vanished">그레이스케일 압축 형식</translation>
+    </message>
+    <message>
+        <source>Color compression type</source>
+        <translation type="vanished">컬러 압축 형식</translation>
+    </message>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
@@ -16103,6 +16837,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>FileListWidget</name>
     <message>
+        <source>View as:</source>
+        <translation type="vanished">보기 형식:</translation>
+    </message>
+    <message>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Small thumbnails</source>
         <translation>작은 썸네일</translation>
@@ -16127,6 +16865,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
         <translation>목록</translation>
+    </message>
+    <message>
+        <source>You can drag&amp;drop your files on the list below.</source>
+        <translation type="vanished">아래 목록에 마우스로 파일을 끌어다 놓을 수 있습니다.</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
@@ -16985,6 +17727,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Catalog</source>
         <translation>카탈로그</translation>
+    </message>
+    <message>
+        <source>File&apos;s categories</source>
+        <translation type="vanished">파일의 카테고리</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
@@ -18413,6 +19159,18 @@ Do you want to continue?</source>
         <translation>오류가 발생했습니다.</translation>
     </message>
     <message>
+        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
+        <translation type="vanished">주의하세요, 이 형식으로 저장하면 코멘트와 기존의 메타데이터가 삭제됩니다!</translation>
+    </message>
+    <message>
+        <source>Be careful, saving in this format will discard any existing metadata!</source>
+        <translation type="vanished">주의하세요, 이 형식으로 저장하면 기존의 메타데이터가 삭제됩니다!</translation>
+    </message>
+    <message>
+        <source>Be careful, saving in this format will discard some metadata!</source>
+        <translation type="vanished">주의하세요, 이 형식으로 저장하면 일부 메타데이터가 삭제됩니다!</translation>
+    </message>
+    <message>
         <location filename="GFFHelper.h" line="19"/>
         <location filename="GFFHelper.h" line="33"/>
         <location filename="GFFHelper.h" line="47"/>
@@ -18665,6 +19423,19 @@ Do you want to continue?</source>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
         <translation>중국어 번체</translation>
+    </message>
+    <message>
+        <source>Simplified Chinese</source>
+        <translation type="vanished">중국어 간체</translation>
+    </message>
+    <message>
+        <source>Traditional Chinese</source>
+        <translation type="vanished">중국어 번체</translation>
+    </message>
+    <message>
+        <location filename="LanguageComboBox.cpp" line="57"/>
+        <source>Hebrew</source>
+        <translation>히브리어</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19085,6 +19856,10 @@ Do you want to continue?</source>
         <translation>파일목록 도구모음</translation>
     </message>
     <message>
+        <source>Show title of panes</source>
+        <translation type="vanished">창의 제목 보이기</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="555"/>
         <source>Open in file explorer</source>
         <translation>파일 탐색기에서 열기</translation>
@@ -19153,6 +19928,14 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="603"/>
         <source>Edit GPS data...</source>
         <translation>GPS 데이터 편집</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 90°</source>
+        <translation type="vanished">EXIF 썸네일 - 90° 회전</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 270°</source>
+        <translation type="vanished">EXIF 썸네일 - 270° 회전</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="611"/>
@@ -19342,6 +20125,26 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="484"/>
         <source>Unrated</source>
         <translation>무등급</translation>
+    </message>
+    <message>
+        <source>Important</source>
+        <translation type="vanished">중요</translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="vanished">작업</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="vanished">개인</translation>
+    </message>
+    <message>
+        <source>To do</source>
+        <translation type="vanished">할 것</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="vanished">보류</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
@@ -19647,6 +20450,10 @@ Do you want to continue?</source>
         <translation>현재 태그 추가/제거</translation>
     </message>
     <message>
+        <source>Untag current</source>
+        <translation type="vanished">현재 태그 해제하기</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="473"/>
         <source>Invert</source>
         <translation>반전하기</translation>
@@ -19800,6 +20607,10 @@ Do you want to continue?</source>
         <translation>새로 고침</translation>
     </message>
     <message>
+        <source>Show files in subfolder</source>
+        <translation type="vanished">하위폴더 내의 파일 보이기</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Stop</source>
         <translation>중지</translation>
@@ -19835,9 +20646,25 @@ Do you want to continue?</source>
         <translation>정보 패널</translation>
     </message>
     <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">수평 뒤집기</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">수직 뒤집기</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>JPEG lossless transformations</source>
         <translation>JPEG 무손실 변환</translation>
+    </message>
+    <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">GeoHack에서 GPS 위치 열기...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">구글 어스에서 GPS 위치 열기...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="598"/>
@@ -20016,6 +20843,10 @@ Do you want to continue?</source>
         <translation>수직 탭</translation>
     </message>
     <message>
+        <source>Rotate clockwise</source>
+        <translation type="vanished">시계 방향 회전</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="590"/>
         <source>Batch rename...</source>
         <translation>일괄 이름 변경...</translation>
@@ -20024,6 +20855,25 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Compare...</source>
         <translation>비교...</translation>
+    </message>
+    <message>
+        <source>GeoHack...</source>
+        <translatorcomment>고유명사</translatorcomment>
+        <translation type="vanished">GeoHack...</translation>
+    </message>
+    <message>
+        <source>Google Map...</source>
+        <translatorcomment>GeoHack 과 달리 구글은 한국어 상표명이 있으므로 한글로 표현</translatorcomment>
+        <translation type="vanished">구글 지도...</translation>
+    </message>
+    <message>
+        <source>Open Street...</source>
+        <translatorcomment>오픈스트리트 맵</translatorcomment>
+        <translation type="vanished">오픈 스트리트...</translation>
+    </message>
+    <message>
+        <source>Google Earth App...</source>
+        <translation type="vanished">구글 어스 앱...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
@@ -20107,6 +20957,10 @@ Do you want to continue?</source>
         <translation>알파 채널 사용</translation>
     </message>
     <message>
+        <source>Auto Image Size</source>
+        <translation type="vanished">자동 이미지 크기</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Zoom</source>
         <translation>배율</translation>
@@ -20149,6 +21003,10 @@ Do you want to continue?</source>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>웹사이트...</translation>
+    </message>
+    <message>
+        <source>Visit XnView&apos;s Forum...</source>
+        <translation type="vanished">XnView 포럼 방문...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1438"/>
@@ -20195,6 +21053,18 @@ Do you want to continue?</source>
         <location filename="xnview.cpp" line="1443"/>
         <source>Registration...</source>
         <translation>등록...</translation>
+    </message>
+    <message>
+        <source>Follow XnView on Twitter...</source>
+        <translation type="vanished">트위터에서 XnView 팔로우하기...</translation>
+    </message>
+    <message>
+        <source>Become a fan of XnView on Facebook...</source>
+        <translation type="vanished">페이스북에서 XnView의 팬 되기...</translation>
+    </message>
+    <message>
+        <source>Web capture...</source>
+        <translation type="vanished">웹 캡처...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1444"/>
@@ -20574,6 +21444,14 @@ Do you want to continue?</source>
         <translation>이름 변경...</translation>
     </message>
     <message>
+        <source>Tag current</source>
+        <translation type="vanished">현재 태그</translation>
+    </message>
+    <message>
+        <source>Untag current</source>
+        <translation type="vanished">현재 태그 해제</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="366"/>
         <source>Previous file</source>
         <translation>이전 파일</translation>
@@ -20647,6 +21525,10 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="384"/>
         <source>Lock zoom</source>
         <translation>배율 잠금</translation>
+    </message>
+    <message>
+        <source>Auto image size</source>
+        <translation type="vanished">자동 이미지 크기</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="393"/>
@@ -20925,6 +21807,10 @@ Do you want to continue?</source>
         <translation>일괄 변환...</translation>
     </message>
     <message>
+        <source>Remove Background...</source>
+        <translation type="vanished">배경 제거...</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="690"/>
         <source>Metadata</source>
         <translation>메타데이터</translation>
@@ -20933,6 +21819,18 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="691"/>
         <source>Effect</source>
         <translation>효과</translation>
+    </message>
+    <message>
+        <source>Effe&amp;ct</source>
+        <translation type="vanished">효과 (&amp;C)</translation>
+    </message>
+    <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">GeoHack에서 GPS 위치 열기...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">구글 어스에서 GPS 위치 열기...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
@@ -21035,6 +21933,10 @@ Do you want to continue?</source>
         <translation>레벨...</translation>
     </message>
     <message>
+        <source>Filter...</source>
+        <translation type="vanished">필터...</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="441"/>
         <source>User filter...</source>
         <translation>필터 사용...</translation>
@@ -21080,9 +21982,25 @@ Do you want to continue?</source>
         <translation>화이트 밸런스...</translation>
     </message>
     <message>
+        <source>90° right</source>
+        <translation type="vanished">90° 오른쪽으로</translation>
+    </message>
+    <message>
+        <source>90° left</source>
+        <translation type="vanished">90° 왼쪽으로</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
         <translation>회전...</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="vanished">수평</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="vanished">수직</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
@@ -21273,6 +22191,10 @@ Do you want to continue?</source>
         <translation>이미지(&amp;I)</translation>
     </message>
     <message>
+        <source>F&amp;ilter</source>
+        <translation type="vanished">필터(&amp;I)</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="692"/>
         <source>&amp;Tools</source>
         <translation>도구(&amp;T)</translation>
@@ -21333,6 +22255,22 @@ Do you want to continue?</source>
         <translation>히스토그램 보이기</translation>
     </message>
     <message>
+        <source>Google Map...</source>
+        <translation type="vanished">구글 지도...</translation>
+    </message>
+    <message>
+        <source>Google Earth App...</source>
+        <translation type="vanished">구글 어스 앱...</translation>
+    </message>
+    <message>
+        <source>GeoHack...</source>
+        <translation type="vanished">GeoHack...</translation>
+    </message>
+    <message>
+        <source>Open Street...</source>
+        <translation type="vanished">오픈 스트리트...</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="418"/>
         <source>Open GPS location in</source>
         <translation>GPS 위치 열기</translation>
@@ -21358,6 +22296,14 @@ Do you want to continue?</source>
         <translation>XMP 편집...</translation>
     </message>
     <message>
+        <source>Rotate clockwise</source>
+        <translation type="vanished">시계 방향 회전</translation>
+    </message>
+    <message>
+        <source>Rotate counter clockwise</source>
+        <translation type="vanished">반시계 방향 회전</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="454"/>
         <source>Rotate 180°</source>
         <translation>180° 회전</translation>
@@ -21371,6 +22317,18 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="490"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF 방향 필드 초기화</translation>
+    </message>
+    <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">수평 뒤집기</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">수직 뒤집기</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="vanished">자르기</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -21603,6 +22561,10 @@ Do you want to continue?</source>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
+        <source>Abort</source>
+        <translation type="vanished">중단</translation>
+    </message>
+    <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
         <translation>썸네일 만들기...</translation>
@@ -21779,6 +22741,13 @@ Do you want to continue?</source>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
         <translation>중단</translation>
+    </message>
+</context>
+<context>
+    <name>MyProgressDialogEx</name>
+    <message>
+        <source>Creating contact sheet...</source>
+        <translation type="obsolete">컨택트 시트 만드는 중...</translation>
     </message>
 </context>
 <context>
@@ -22262,6 +23231,14 @@ You can change it in Settings&gt;Catalog.</source>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
         <translation>관리...</translation>
+    </message>
+    <message>
+        <source>Apply actions</source>
+        <translation type="vanished">작업 적용</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -23142,6 +24119,10 @@ Right Click for pop-up menu with actions.</source>
         <translation>삽입 &gt;&gt;</translation>
     </message>
     <message>
+        <source>Default value</source>
+        <translation type="vanished">기본값</translation>
+    </message>
+    <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
         <translation>프리셋 저장</translation>
@@ -23714,6 +24695,10 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="596"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>카탈로그를 여는 중 문제가 발생하였습니다. 설정이나 폴더를 확인해 주세요!</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="vanished">버전</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="973"/>

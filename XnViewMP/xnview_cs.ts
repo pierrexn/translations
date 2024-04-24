@@ -89,9 +89,17 @@
         <translation>Oranžová</translation>
     </message>
     <message>
+        <source>6</source>
+        <translation type="obsolete">100% {6?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
         <translation>Šedá</translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation type="obsolete">100% {7?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -99,9 +107,17 @@
         <translation>Černá</translation>
     </message>
     <message>
+        <source>8</source>
+        <translation type="obsolete">100% {8?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
         <translation>Bílá</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="obsolete">100% {9?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -178,6 +194,10 @@
         <translation>Wiki</translation>
     </message>
     <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
         <translation>Jméno INI souboru</translation>
@@ -226,6 +246,10 @@
         <location filename="AboutWidget.ui" line="481"/>
         <source>What&apos;s New</source>
         <translation>Co je nového</translation>
+    </message>
+    <message>
+        <source>INI filename: </source>
+        <translation type="vanished">Jméno INI souboru: </translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -287,6 +311,10 @@
 </translation>
     </message>
     <message>
+        <source>Save as...</source>
+        <translation type="vanished">Uložit jako...</translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="1353"/>
         <source>Frame %1/%2</source>
         <translation>Snímek %1/%2</translation>
@@ -306,6 +334,15 @@
         <location filename="ViewWindow.cpp" line="1571"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Empty &gt;</translation>
+    </message>
+    <message>
+        <source>Are you sure to delete &quot;%1&quot;?</source>
+        <translatorcomment>Also please unify usage of &apos;single quotes&apos;&apos; and &quot;double quotes&quot; (double quotes are probably preferred in human languages)...</translatorcomment>
+        <translation type="vanished">Skutečně chcete odstranit &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>Are you sure to delete &quot;%1&quot; (%2 items)?</source>
+        <translation type="vanished">Skutečně chcete smazat &quot;%1&quot; (%2 položek)?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
@@ -426,6 +463,18 @@
         <translatorcomment>Better to divide into two sentences...</translatorcomment>
         <translation>Soubor &lt;%1&gt; je pouze pro čtení. Zvolte prosím jiné jméno souboru.</translation>
     </message>
+    <message>
+        <source>The file &lt;%1&gt; already exists!
+
+Do you want to overwrite it?</source>
+        <translation type="vanished">Soubor &lt;%1&gt; již existuje!
+
+Chcete jej přepsat?</translation>
+    </message>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">Tento obrázek bude zkonvertován do formátu RGB - 8 bitů na kanál</translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -479,6 +528,10 @@
 </context>
 <context>
     <name>BaseViewWindow</name>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">Tento obrázek bude zkonvertován do formátu RGB - 8 bitů na kanál</translation>
+    </message>
     <message>
         <location filename="ViewWindow.cpp" line="4681"/>
         <source>Error</source>
@@ -629,6 +682,14 @@ Kliknutím pravým tlačítkem na položku zobrazíte kontextovou nabídku s akc
 Položky můžete přiřazovat přetažením.</translation>
     </message>
     <message>
+        <source>Any</source>
+        <translation type="vanished">Libovolná</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="vanished">Vše</translation>
+    </message>
+    <message>
         <location filename="BrowserWindow.cpp" line="2117"/>
         <source>Global</source>
         <translation>Globálně</translation>
@@ -652,6 +713,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="BrowserWindow.cpp" line="3213"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Označené soubory&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;DB result&gt;</source>
+        <translation type="vanished">&lt;Výsledek dotazu do DB&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
@@ -721,6 +786,10 @@ Položky můžete přiřazovat přetažením.</translation>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Show all files (recursive)</source>
+        <translation type="vanished">Zobrazit všechny soubory (rekurzivně)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
@@ -1021,6 +1090,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Histogram</translation>
     </message>
     <message>
+        <source>Use tabs</source>
+        <translation type="vanished">Použít záložky</translation>
+    </message>
+    <message>
         <location filename="CompareWidget.cpp" line="537"/>
         <source>Zoom out</source>
         <translation>Zmenšit</translation>
@@ -1233,6 +1306,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Otočit</translation>
     </message>
     <message>
+        <source>Gammasat</source>
+        <translation type="vanished">Gammasat</translation>
+    </message>
+    <message>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
@@ -1295,6 +1372,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgConvertProcess.h" line="2657"/>
         <source>HLS</source>
         <translation>HLS</translation>
+    </message>
+    <message>
+        <source>Swap component</source>
+        <translation type="vanished">Zaměnit komponenty</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2732"/>
@@ -1412,6 +1493,11 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgConvertProcess.h" line="4794"/>
         <source>Halftone</source>
         <translation>Půltónování</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertProcess.h" line="4813"/>
+        <source>IPTC-IIM/XMP</source>
+        <translation>IPTC-IIM/XMP</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
@@ -1590,6 +1676,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Vyrovnání</translation>
     </message>
     <message>
+        <source>Conbright</source>
+        <translation type="vanished">Conbright</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.cpp" line="205"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
@@ -1600,6 +1690,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>Solarizace</translation>
+    </message>
+    <message>
+        <source>Exposure</source>
+        <translation type="vanished">Expozice</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="223"/>
@@ -2117,6 +2211,11 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Zadejte prosím úplnou cestu k archivnímu souboru</translation>
     </message>
     <message>
+        <location filename="DlgArchive.ui" line="32"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open File Explorer after compressing</source>
         <translation>Po zabalení otevřít průzkumník souborů</translation>
@@ -2131,6 +2230,18 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgArchive.cpp" line="124"/>
         <source>Archive file</source>
         <translation>Archivní soubor</translation>
+    </message>
+</context>
+<context>
+    <name>DlgAskClass</name>
+    <message>
+        <source>Confirm</source>
+        <translation type="vanished">Potvrdit</translation>
+    </message>
+    <message>
+        <source>Remember my answer and don&apos;t ask again</source>
+        <oldsource>Do not show this message again.</oldsource>
+        <translation type="vanished">Zapamatovat mou odpověď a příště se již nedotazovat</translation>
     </message>
 </context>
 <context>
@@ -2952,6 +3063,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>sekund(y)</translation>
     </message>
     <message>
+        <source>Delay (sec)</source>
+        <translation type="vanished">Prodleva (s)</translation>
+    </message>
+    <message>
         <location filename="DlgCapture.ui" line="138"/>
         <source>Hotkey</source>
         <translation>Horká klávesa</translation>
@@ -2981,6 +3096,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
         <translation>Nastavení...</translation>
+    </message>
+    <message>
+        <source>Open in draw module</source>
+        <translation type="vanished">Otevřít v modulu kreslení</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="261"/>
@@ -3130,6 +3249,11 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Komentář</translation>
     </message>
     <message>
+        <location filename="DlgClean.ui" line="40"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF náhled</translation>
@@ -3138,6 +3262,17 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
         <translation>GPS</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="101"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="108"/>
+        <source>IPTC-IIM</source>
+        <oldsource>IPTC</oldsource>
+        <translation>IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="115"/>
@@ -3344,6 +3479,12 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Záhlaví</translation>
     </message>
     <message>
+        <location filename="DlgContactSheet.ui" line="472"/>
+        <location filename="DlgContactSheet.ui" line="500"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
+    </message>
+    <message>
         <location filename="DlgContactSheet.ui" line="482"/>
         <source>Footer</source>
         <translation>Zápatí</translation>
@@ -3545,6 +3686,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;Nástroj XnConvert je poskytován jako freeware pro soukromé (nekomerční) použití, včetně vzdělávacích a neziskových organizací. &lt;br&gt;Komerční firmy si musí zakoupit odpovídající počet licencí.&lt;br&gt;&lt;br&gt;&lt;br&gt;Máte právo používat tento software a vytvořit libovolný počet kopií.&lt;br&gt;&lt;br&gt;Tento software je poskytován ve formě &quot;as-is&quot;.&lt;br&gt;Není poskytována záruka žádného typu.&lt;br&gt;Autor neručí za ztrátu nebo poškození dat, ušlý zisk ani žádné jiné ztráty způsobené používáním nebo zneužitím tohoto software.&lt;br&gt;&lt;br&gt;Náměty, připomínky a komentáře jsou vítány. </translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation type="vanished">Informace</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1283"/>
@@ -3974,6 +4119,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
         <translation>Orientace</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="vanished">Režim</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
@@ -4684,6 +4833,11 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Seznam ke zpracování:</translation>
     </message>
     <message>
+        <source>TextLabel</source>
+        <translatorcomment>Probably missing space in English?</translatorcomment>
+        <translation type="vanished">Textový popisek</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.ui" line="1707"/>
         <source>Use color based on file format</source>
         <translation>Použít barvu podle formátu souboru</translation>
@@ -4743,6 +4897,11 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Obnovit předchozí seznam vstupních souborů</translation>
     </message>
     <message>
+        <source>&apos;Hot folders&apos; process files</source>
+        <translatorcomment>What does it mean? To process files from any favorite folders?</translatorcomment>
+        <translation type="vanished">Zpracovat soubory z &apos;horkých složek&apos;</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.ui" line="1642"/>
         <source>Registration...</source>
         <translation>Registrace...</translation>
@@ -4797,6 +4956,7 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
+        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -5115,9 +5275,24 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Komentář</translation>
     </message>
     <message>
+        <location filename="DlgConvertCleanMeta.ui" line="24"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="31"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF náhled</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="45"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
@@ -5469,6 +5644,12 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Vstupní profil (výchozí je sRGB)</translation>
     </message>
     <message>
+        <location filename="DlgConvertICC.ui" line="45"/>
+        <location filename="DlgConvertICC.ui" line="82"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation>Výstupní profil (výchozí je sRGB)</translation>
@@ -5612,6 +5793,14 @@ Položky můžete přiřazovat přetažením.</translation>
         <source>Insert from</source>
         <translation>Vložit z</translation>
     </message>
+    <message>
+        <source>Edit history...</source>
+        <translation type="obsolete">Upravit historii...</translation>
+    </message>
+    <message>
+        <source>Sort alphabetically</source>
+        <translation type="obsolete">Seřadit abecedně</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
@@ -5683,6 +5872,7 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Maska</translation>
     </message>
     <message>
+        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation>...</translation>
@@ -6608,6 +6798,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <source>Color</source>
         <translation>Barva</translation>
     </message>
+    <message>
+        <source>Add vignetting</source>
+        <translation type="vanished">Přidat vinětaci</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
@@ -6645,6 +6839,22 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgConvertWatermark.ui" line="31"/>
         <source>Size</source>
         <translation>Velikost</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="vanished">Normální</translation>
+    </message>
+    <message>
+        <source>Repeat image</source>
+        <translation type="vanished">Opakovat obrázek</translation>
+    </message>
+    <message>
+        <source>Stretch image</source>
+        <translation type="vanished">Roztáhnout obrázek</translation>
+    </message>
+    <message>
+        <source>Percentage (width)</source>
+        <translation type="vanished">Procenta (šířka)</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="46"/>
@@ -6688,6 +6898,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Fill</source>
         <translation>Výplň</translation>
+    </message>
+    <message>
+        <source>Repeat</source>
+        <translation type="vanished">Opakovat</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -6743,6 +6957,10 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom right</source>
         <translation>Vpravo dole</translation>
+    </message>
+    <message>
+        <source>Delta</source>
+        <translation type="vanished">Delta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7786,6 +8004,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Nastavit transparentní barvu</translation>
     </message>
     <message>
+        <source>Auto refresh</source>
+        <translation type="vanished">Automatické obnovování</translation>
+    </message>
+    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -7875,6 +8097,10 @@ Please make sure that files are not read-only!</oldsource>
         <source>Best</source>
         <translation>Nejlepší</translation>
     </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="vanished">Obnovit</translation>
+    </message>
 </context>
 <context>
     <name>DlgFile</name>
@@ -7961,6 +8187,11 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translation>Zobrazit vybranou složku ve stromu složek</translation>
+    </message>
+    <message>
+        <location filename="DlgFile.ui" line="36"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -8324,6 +8555,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Nelze načíst soubor %1: %2.</translation>
     </message>
     <message>
+        <source>Uploading %1...</source>
+        <translation type="vanished">Nahrávání %1...</translation>
+    </message>
+    <message>
         <location filename="DlgFtp.cpp" line="573"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>Nelze se připojit k FTP serveru %1. Zkontrolujte prosím, zda je jméno serveru zadáno správně.</translation>
@@ -8332,6 +8567,14 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFtp.cpp" line="578"/>
         <source>Logged onto %1.</source>
         <translation>Přihlášen k %1.</translation>
+    </message>
+    <message>
+        <source>Canceled upload of %1.</source>
+        <translation type="vanished">Nehrávání %1 bylo zrušeno.</translation>
+    </message>
+    <message>
+        <source>Uploaded %1 to current directory.</source>
+        <translation type="vanished">Nahrávání %1 do aktuálního adresáře.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
@@ -9431,6 +9674,14 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
         <translation>Jméno</translation>
     </message>
     <message>
+        <source>Parameter</source>
+        <translation type="vanished">Parametr</translation>
+    </message>
+    <message>
+        <source>First Argument</source>
+        <translation type="vanished">První parametr</translation>
+    </message>
+    <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
@@ -9854,6 +10105,10 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
         <translation>Vpravo dole</translation>
+    </message>
+    <message>
+        <source>Gamma</source>
+        <translation type="vanished">Gama</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -10884,6 +11139,10 @@ Děkujeme za zakoupení %1.</translation>
         <translation>Použít antialiasing</translation>
     </message>
     <message>
+        <source>Smooth</source>
+        <translation type="vanished">Jemný</translation>
+    </message>
+    <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
         <translation>Automaticky oříznout</translation>
@@ -10941,6 +11200,14 @@ Děkujeme za zakoupení %1.</translation>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
         <translation>Použít reg. výraz</translation>
+    </message>
+    <message>
+        <source>Match All of the following conditions</source>
+        <translation type="vanished">Musí splňovat všechny následující podmínky</translation>
+    </message>
+    <message>
+        <source>Match Any of the following conditions</source>
+        <translation type="vanished">Musí splňovat alespoň jednu z následujících podmínek</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11138,6 +11405,10 @@ Děkujeme za zakoupení %1.</translation>
         <translation>Seznam souborů</translation>
     </message>
     <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">Celá obrazovka</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
         <translation>Obecné</translation>
@@ -11168,6 +11439,11 @@ Děkujeme za zakoupení %1.</translation>
         <translation>Zobrazit</translation>
     </message>
     <message>
+        <source>Auto text correction</source>
+        <oldsource>Auto correct</oldsource>
+        <translation type="vanished">Automatická korekce textu</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
         <translation>Formáty</translation>
@@ -11179,11 +11455,39 @@ Děkujeme za zakoupení %1.</translation>
     </message>
 </context>
 <context>
+    <name>DlgSettingsAuto</name>
+    <message>
+        <source>Auto Correct</source>
+        <translation type="vanished">Automatická korekce</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="vanished">Nahradit</translation>
+    </message>
+    <message>
+        <source>With</source>
+        <translation type="vanished">Čím</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="vanished">Odstranit</translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected Auto Correct entry?</source>
+        <translation type="vanished">Skutečně chcete odstranit vybranou položku Automatické korekce?</translation>
+    </message>
+</context>
+<context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
         <translation>Průzkumník</translation>
+    </message>
+    <message>
+        <source>Display file size in bytes</source>
+        <oldsource>Display bytes for file size</oldsource>
+        <translation type="vanished">Velikost souboru zobrazovat v bytech</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
@@ -11575,6 +11879,11 @@ Chcete je nejprve zkontrolovat?</translation>
         <translation>Katalog</translation>
     </message>
     <message>
+        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database. Please change &apos;base path&apos; only if you want to share same folder between several computers. Do you still want to change the &apos;base path&apos;?</source>
+        <translatorcomment>Disconnect files? In my translation, I used a phrase meaning &apos;make inaccessible&apos;.</translatorcomment>
+        <translation type="vanished">Pozor: Změna &apos;základní cesty&apos; může znepřístupnit soubory, které jsou již uložené v databázi. &apos;Základní cestu&apos; měňte prosím pouze v případě, kdy chcete sdílet stejnou složku mezi několika počítači. Skutečně chcete změnit &apos;základní cestu&apos;?</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
         <location filename="DlgSettingsCache.cpp" line="979"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
@@ -11719,6 +12028,10 @@ Skutečně chcete odebrat záznamy přiřazené ke kategorii?</translation>
         <translation>Přegenerovat náhledy</translation>
     </message>
     <message>
+        <source>Optimize...</source>
+        <translation type="vanished">Optimalizovat...</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Tools</source>
         <translation>Nástroje</translation>
@@ -11799,6 +12112,11 @@ Skutečně chcete odebrat záznamy přiřazené ke kategorii?</translation>
         <translation>Přiřazený program</translation>
     </message>
     <message>
+        <location filename="DlgSettingsFilelist.cpp" line="193"/>
+        <source>XnView</source>
+        <translation>XnView</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation>Viditelný</translation>
@@ -11809,6 +12127,12 @@ Skutečně chcete odebrat záznamy přiřazené ke kategorii?</translation>
 Thumbnail</source>
         <translation>Zobrazit jako 
 Náhled</translation>
+    </message>
+    <message>
+        <source>Show in 
+Preview</source>
+        <translation type="vanished">Zobrazit v
+Náhledu</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -11887,6 +12211,10 @@ Náhled</translation>
         <translation>Doprovodné soubory</translation>
     </message>
     <message>
+        <source>Companion (separated by ;)</source>
+        <translation type="vanished">Přípony doprovodných souborů (oddělené středníky ;)</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
         <translation>Odstranit...</translation>
@@ -11925,9 +12253,17 @@ Náhled</translation>
         <translation>Složky řadit vždy abecedně</translation>
     </message>
     <message>
+        <source>Automatically select new files</source>
+        <translation type="vanished">Automaticky vybírat nové soubory</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
         <source>New files are added at the end of the list</source>
         <translation>Nové soubory se přidávají na konec seznamu</translation>
+    </message>
+    <message>
+        <source>Select first item on entering folder</source>
+        <translation type="vanished">Při otevření složky vybrat první položku</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
@@ -12006,9 +12342,42 @@ Náhled</translation>
         <translation>Seznam asociací (pro oddělení použijte středníky ; )</translation>
     </message>
     <message>
+        <source>Detail mode</source>
+        <translation type="vanished">Režim zobrazení podrobností</translation>
+    </message>
+    <message>
+        <source>Comment field</source>
+        <translation type="vanished">Pole s komentářem</translation>
+    </message>
+    <message>
+        <source>Embedded comment, description</source>
+        <translation type="vanished">Připojený komentář, popis</translation>
+    </message>
+    <message>
+        <source>Description, Embedded comment</source>
+        <translation type="vanished">Popis, připojený komentář</translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="vanished">Připojený komentář</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="vanished">Popis</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
         <translation>Doprovodné soubory</translation>
+    </message>
+    <message>
+        <source>Companions files linked for delete action</source>
+        <translatorcomment>Don&apos;t understand this at all... :-(</translatorcomment>
+        <translation type="vanished">Doprovodné soubory souboru ke smazání</translation>
+    </message>
+    <message>
+        <source>Companions files linked for copy/move/rename action</source>
+        <translation type="vanished">Doprovodné soubory souboru ke kopírování, přesunu nebo přejmenování</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -12059,6 +12428,10 @@ Náhled</translation>
 <context>
     <name>DlgSettingsFormat</name>
     <message>
+        <source>Saving</source>
+        <translation type="vanished">Ukládání</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
         <translation>Formáty</translation>
@@ -12102,6 +12475,54 @@ Náhled</translation>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
         <translation>Zápis</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsFullscreenClass</name>
+    <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">Celá obrazovka</translation>
+    </message>
+    <message>
+        <source>Auto image size</source>
+        <translation type="vanished">Automatická velikost obrázku</translation>
+    </message>
+    <message>
+        <source>Show playbar</source>
+        <translatorcomment>I&apos;m afraid this cannot be translated exactly... :-(</translatorcomment>
+        <translation type="vanished">Zobrazit ovládací prvky</translation>
+    </message>
+    <message>
+        <source>Show info</source>
+        <translation type="vanished">Zobrazit informace</translation>
+    </message>
+    <message>
+        <source>Show scrollbars</source>
+        <translation type="vanished">Zobrazit posuvníky</translation>
+    </message>
+    <message>
+        <source>Show toolbar</source>
+        <translation type="vanished">Zobrazit nástrojovou lištu</translation>
+    </message>
+    <message>
+        <source>Hide mouse cursor</source>
+        <translation type="vanished">Skrýt ukazatel myši</translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation type="vanished">Barva pozadí</translation>
+    </message>
+    <message>
+        <source>Dual monitor: Use second monitor</source>
+        <translation type="vanished">Dva monitory: Použít druhý monitor</translation>
+    </message>
+    <message>
+        <source>Floating views</source>
+        <translation type="vanished">Plovoucí zobrazení</translation>
+    </message>
+    <message>
+        <source>(appear when the mouse is moved to the top or right of the screen)</source>
+        <translation type="vanished">(při najetí kurzorem myši na horní nebo pravý okraj obrazovky)</translation>
     </message>
 </context>
 <context>
@@ -12162,10 +12583,22 @@ Náhled</translation>
         <translation>Přizpůsobit obrázek, pokud se liší DPI ve směru X a Y</translation>
     </message>
     <message>
+        <source>Mode when starting with a file</source>
+        <translation type="vanished">Režim při spuštění se souborem</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="vanished">Normální</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation>Prohlížeč - celá obrazovka</translation>
+    </message>
+    <message>
+        <source>Fullscreen - Browser</source>
+        <translation type="vanished">Celá obrazovka - průzkumník</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="221"/>
@@ -12334,9 +12767,17 @@ Náhled</translation>
         <translation>Při použití akce &apos;Uložit&apos; ukládat jako kopii</translation>
     </message>
     <message>
+        <source>Open browser at startup</source>
+        <translation type="vanished">Při spuštění otevřít prohlížeč</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="430"/>
         <source>Directory</source>
         <translation>Adresář</translation>
+    </message>
+    <message>
+        <source>Restore last selected filename</source>
+        <translation type="vanished">Obnovit naposledy vybrané jméno souboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="334"/>
@@ -12468,6 +12909,10 @@ Náhled</translation>
         <location filename="DlgSettingsGeneral.ui" line="709"/>
         <source>Embedded Metadata change</source>
         <translation>Změnit připojená metadata</translation>
+    </message>
+    <message>
+        <source>ICC</source>
+        <translation type="vanished">ICC</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="785"/>
@@ -12634,6 +13079,13 @@ Náhled</translation>
         <location filename="DlgSettingsIntegration.ui" line="36"/>
         <source>Integration</source>
         <translation>Integrace</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="168"/>
+        <location filename="DlgSettingsIntegration.ui" line="195"/>
+        <location filename="DlgSettingsIntegration.ui" line="231"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="42"/>
@@ -12866,6 +13318,10 @@ Do you want to reassign?</source>
         <translation>Průzkumník</translation>
     </message>
     <message>
+        <source>View mode</source>
+        <translation type="vanished">Režim zobrazení</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
@@ -12881,6 +13337,14 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="628"/>
         <source>Large icons</source>
         <translation>Velké ikony</translation>
+    </message>
+    <message>
+        <source>Browser mode</source>
+        <translation type="vanished">Režim průzkumníka</translation>
+    </message>
+    <message>
+        <source>Viewer mode</source>
+        <translation type="vanished">Režim prohlížeče</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="554"/>
@@ -12927,6 +13391,10 @@ Do you want to reassign?</source>
         <translation>Nahoru / dolů</translation>
     </message>
     <message>
+        <source>Pressing Esc once quits XnViewMP</source>
+        <translation type="vanished">Ukončit XnViewMP jedním stisknutím klávesy Esc</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1302"/>
         <location filename="DlgSettingsInterface.ui" line="1352"/>
         <location filename="DlgSettingsInterface.ui" line="1402"/>
@@ -12935,12 +13403,28 @@ Do you want to reassign?</source>
         <translation>Předchozí soubor</translation>
     </message>
     <message>
+        <source>Use &quot;Pan and Zoom&quot; tool</source>
+        <translation type="vanished">Použít nástroj &quot;Posun a zvětšení&quot;</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1761"/>
         <location filename="DlgSettingsInterface.ui" line="1795"/>
         <location filename="DlgSettingsInterface.ui" line="1829"/>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Scroll up/down</source>
         <translation>Rolovat nahoru / dolů</translation>
+    </message>
+    <message>
+        <source>Never</source>
+        <translation type="vanished">Nikdy</translation>
+    </message>
+    <message>
+        <source>Only in fullscreen</source>
+        <translation type="vanished">Pouze v režimu celé obrazovky</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="vanished">Vždy</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -12999,6 +13483,11 @@ Do you want to reassign?</source>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation>Zvětšený výběr</translation>
+    </message>
+    <message>
+        <source>Left button + CTRL</source>
+        <translatorcomment>...should be Ctrl...</translatorcomment>
+        <translation type="vanished">Ctrl + levé tlačítko</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1677"/>
@@ -13125,12 +13614,25 @@ Do you want to reassign?</source>
         <translation>Kolečko myši</translation>
     </message>
     <message>
+        <source>Right button + CTRL</source>
+        <translatorcomment>...should be Ctrl...</translatorcomment>
+        <translation type="vanished">Ctrl + pravé tlačítko</translation>
+    </message>
+    <message>
+        <source>Mouse wheel</source>
+        <translation type="vanished">Kolečko myši</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
         <location filename="DlgSettingsInterface.ui" line="1861"/>
         <source>Zoom in/out</source>
         <translation>Zvětšit / zmenšit</translation>
+    </message>
+    <message>
+        <source>Mouse wheel + CTRL</source>
+        <translation type="vanished">Ctrl + kolečko myši</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1916"/>
@@ -13152,6 +13654,10 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2015"/>
         <source>Enter</source>
         <translation>Kláveska Enter</translation>
+    </message>
+    <message>
+        <source>Use double click to switch between:</source>
+        <translation type="vanished">Dvojitým kliknutím přepínat:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
@@ -13180,6 +13686,14 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser &gt; Viewer &gt; Fullscreen</source>
         <translation>Průzkumník &gt; Prohlížeč &gt; Celá obrazovka</translation>
+    </message>
+    <message>
+        <source>Use middle click to switch between:</source>
+        <translation type="vanished">Kliknutím prostředním tlačítkem přepínat:</translation>
+    </message>
+    <message>
+        <source>Use ENTER to switch between:</source>
+        <translation type="vanished">Klávesou Enter přepínat:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -13313,6 +13827,14 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
+        <source>IPTC &amp;&amp; XMP</source>
+        <translation type="vanished">IPTC &amp;&amp; XMP</translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation type="vanished">Klíčová slova</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to DB Categories</oldsource>
@@ -13425,6 +13947,14 @@ Do you want to reassign?</source>
         <translation>Doprovodný soubor</translation>
     </message>
     <message>
+        <source>Yes</source>
+        <translation type="vanished">Ano</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="vanished">Ne</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
         <translation>Videosoubory</translation>
@@ -13438,6 +13968,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
         <translation>Kódování</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="428"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
@@ -13477,6 +14012,10 @@ Do you want to reassign?</source>
         <translation>Podporované formáty</translation>
     </message>
     <message>
+        <source>JPEG</source>
+        <translation type="obsolete">JPEG</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Write</source>
         <translation>Zapsat</translation>
@@ -13491,6 +14030,10 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsPanel</name>
     <message>
+        <source>Information</source>
+        <translation type="vanished">Informace</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
@@ -13499,6 +14042,10 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
+    <message>
+        <source>Misc</source>
+        <translation type="vanished">Různé</translation>
+    </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -13633,6 +14180,10 @@ Do you want to reassign?</source>
         <translation>Má kategorii</translation>
     </message>
     <message>
+        <source>Background color</source>
+        <translation type="vanished">Barva pozadí</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Border size</source>
         <translation>Velikost okraje</translation>
@@ -13673,6 +14224,11 @@ Do you want to reassign?</source>
         <translation>Klávesová zkratka</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="634"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="534"/>
         <source>Tag</source>
         <translation>Štítek</translation>
@@ -13681,6 +14237,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="833"/>
         <source>Automatic rotation</source>
         <translation>Automatické otáčení</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="541"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
@@ -13693,9 +14254,19 @@ Do you want to reassign?</source>
         <translation>Připojený náhled</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="826"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
         <translation>Barevné označení</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="766"/>
+        <source>GPS</source>
+        <translation>GPS</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -13718,6 +14289,10 @@ Do you want to reassign?</source>
         <translation>Popisky</translation>
     </message>
     <message>
+        <source>Text color</source>
+        <translation type="vanished">Barva textu</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Reset color</source>
         <translation>Obnovit nastavení barvy</translation>
@@ -13731,6 +14306,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
         <translation>Prohlížeč - náhled</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="988"/>
+        <source>&gt;&gt;</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -13847,6 +14427,19 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="301"/>
         <source>Pixel ratio</source>
         <translation>Rozlišení</translation>
+    </message>
+    <message>
+        <source>Zoom-out</source>
+        <translation type="vanished">Zmenšit</translation>
+    </message>
+    <message>
+        <source>Zoom-in</source>
+        <translation type="vanished">Zvětšit</translation>
+    </message>
+    <message>
+        <source>Zoom-out &amp; Zoom-in</source>
+        <translatorcomment>Wouldn&apos;t it be better to say &apos;zoom-out or zoom-in&apos;?</translatorcomment>
+        <translation type="vanished">Zmenšit nebo zvětšit</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="494"/>
@@ -13984,6 +14577,12 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="749"/>
         <source>Loop on the file list</source>
         <translation>Po posledním souboru přejít na první</translation>
+    </message>
+    <message>
+        <source>Show Video</source>
+        <oldsource>Play video</oldsource>
+        <translatorcomment>Play video?</translatorcomment>
+        <translation type="vanished">Přehrát video</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="763"/>
@@ -14166,6 +14765,14 @@ Do you want to reassign?</source>
         <translation>(při najetí kurzorem myši na horní nebo pravý okraj obrazovky)</translation>
     </message>
     <message>
+        <source>Information displayed</source>
+        <translation type="vanished">Zobrazená informace</translation>
+    </message>
+    <message>
+        <source>HTML tags supported</source>
+        <translation type="vanished">Podporované HTML tagy</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
         <source>Text color</source>
         <translation>Barva textu</translation>
@@ -14194,6 +14801,10 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Position</source>
         <translation>Pozice</translation>
+    </message>
+    <message>
+        <source>Always in fullscreen</source>
+        <translation type="vanished">Vždy v režimu celé obrazovky</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="933"/>
@@ -14342,6 +14953,13 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
         <translation>Zmenšit</translation>
+    </message>
+    <message>
+        <location filename="DlgSimilarResult.ui" line="87"/>
+        <location filename="DlgSimilarResult.ui" line="156"/>
+        <location filename="DlgSimilarResult.ui" line="239"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
@@ -14623,6 +15241,16 @@ Do you want to reassign?</source>
         <translation>Použít přechodové efekty</translation>
     </message>
     <message>
+        <location filename="DlgSlideshow.ui" line="210"/>
+        <location filename="DlgSlideshow.ui" line="314"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <source>Save SLD with relative paths</source>
+        <translation type="vanished">Uložit SLD s relativními cestami</translation>
+    </message>
+    <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
         <translation>Použít zvukový soubor</translation>
@@ -14684,6 +15312,15 @@ Do you want to reassign?</source>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
         <translation>Rozdělit</translation>
+    </message>
+    <message>
+        <location filename="DlgSplit.ui" line="30"/>
+        <location filename="DlgSplit.ui" line="44"/>
+        <location filename="DlgSplit.ui" line="58"/>
+        <location filename="DlgSplit.ui" line="72"/>
+        <location filename="DlgSplit.ui" line="96"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -15028,6 +15665,10 @@ Do you want to reassign?</source>
         <translation>Hleda obličej</translation>
     </message>
     <message>
+        <source>Add region</source>
+        <translation type="vanished">Přidat oblast</translation>
+    </message>
+    <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
         <translation>Smazat oblasti</translation>
@@ -15180,6 +15821,11 @@ Do you want to reassign?</source>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Datum pořízení</translation>
+    </message>
+    <message>
+        <location filename="DlgTimestamp.ui" line="488"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
@@ -15392,32 +16038,38 @@ Do you want to reassign?</source>
         <translation>Ověření</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="147"/>
+        <location filename="DlgUpload.ui" line="138"/>
         <source>Username</source>
         <translation>Uživatelské jméno</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="157"/>
+        <location filename="DlgUpload.ui" line="148"/>
         <source>Password</source>
         <translation>Heslo</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="177"/>
+        <location filename="DlgUpload.ui" line="168"/>
         <source>User</source>
         <translation>Uživatel</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="202"/>
+        <location filename="DlgUpload.ui" line="193"/>
         <source>New user...</source>
         <translation>Nový uživatel...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="233"/>
+        <location filename="DlgUpload.ui" line="224"/>
         <source>Thumbnail link</source>
         <translation>Odkaz na náhled</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="261"/>
+        <location filename="DlgUpload.ui" line="241"/>
+        <location filename="DlgUpload.ui" line="269"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <location filename="DlgUpload.ui" line="252"/>
         <source>Image link</source>
         <translation>Odkaz na obrázek</translation>
     </message>
@@ -15439,6 +16091,12 @@ Do you want to reassign?</source>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
         <translation>Přidat filtr</translation>
+    </message>
+    <message>
+        <location filename="DlgUserFilter.ui" line="36"/>
+        <location filename="DlgUserFilter.ui" line="63"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="60"/>
@@ -15475,6 +16133,15 @@ Do you want to reassign?</source>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
         <translation>Chcete uložit změněné filtry?</translation>
+    </message>
+    <message>
+        <source>Changes</source>
+        <translation type="vanished">Změny</translation>
+    </message>
+    <message>
+        <source>There is some changes, do you want to save filters?</source>
+        <translatorcomment>Better as two sentences...</translatorcomment>
+        <translation type="vanished">Ve filtrech byly provedeny změny. Chcete filtry uložit?</translation>
     </message>
 </context>
 <context>
@@ -15523,6 +16190,34 @@ Do you want to reassign?</source>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
         <translation>Počáteční snímek</translation>
+    </message>
+    <message>
+        <source>Unit:</source>
+        <translation type="vanished">Jednotky:</translation>
+    </message>
+    <message>
+        <source>points</source>
+        <translation type="vanished">body</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="vanished">Styl</translation>
+    </message>
+    <message>
+        <source>B</source>
+        <translation type="vanished">B</translation>
+    </message>
+    <message>
+        <source>I</source>
+        <translation type="vanished">I</translation>
+    </message>
+    <message>
+        <source>U</source>
+        <translation type="vanished">U</translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation type="vanished">S</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -15588,6 +16283,10 @@ Do you want to reassign?</source>
         <translation>Roztáhnout</translation>
     </message>
     <message>
+        <source>Scaled</source>
+        <translation type="vanished">Zvětšení</translation>
+    </message>
+    <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
         <translation>Přizpůsobit</translation>
@@ -15644,6 +16343,10 @@ Do you want to reassign?</source>
         <translation>Formát</translation>
     </message>
     <message>
+        <source>Codec</source>
+        <translation type="vanished">Kodek</translation>
+    </message>
+    <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
         <source>Speed</source>
         <translation>Rychlost</translation>
@@ -15653,6 +16356,30 @@ Do you want to reassign?</source>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
         <translation>(10 = nejrychlejší)</translation>
+    </message>
+    <message>
+        <source>Quantization for color</source>
+        <oldsource>Quantizer for color</oldsource>
+        <translatorcomment>What&apos;s this?</translatorcomment>
+        <translation type="vanished">Kvantifikace barvy</translation>
+    </message>
+    <message>
+        <source>Lossless</source>
+        <translation type="vanished">Bezeztrátová komprese</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation type="vanished">Min.</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation type="vanished">Max.</translation>
+    </message>
+    <message>
+        <source>Quantization for alpha</source>
+        <oldsource>Quantizer for alpha</oldsource>
+        <translatorcomment>What&apos;s this?</translatorcomment>
+        <translation type="vanished">Kvantifikace alfa kanálu</translation>
     </message>
 </context>
 <context>
@@ -15903,6 +16630,18 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgWritePDFClass</name>
+    <message>
+        <source>B&amp;W compression type</source>
+        <translation type="vanished">Typ komprese černobílého obrazu</translation>
+    </message>
+    <message>
+        <source>Grayscale compression type</source>
+        <translation type="vanished">Typ komprese pro stupně šedi </translation>
+    </message>
+    <message>
+        <source>Color compression type</source>
+        <translation type="vanished">Typ komprese barevného obrazu</translation>
+    </message>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
@@ -16245,6 +16984,10 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
 <context>
     <name>FileListWidget</name>
     <message>
+        <source>View as:</source>
+        <translation type="vanished">Zobrazit jako:</translation>
+    </message>
+    <message>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Small thumbnails</source>
         <translation>Malé náhledy</translation>
@@ -16269,6 +17012,10 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
         <translation>Seznam</translation>
+    </message>
+    <message>
+        <source>You can drag&amp;drop your files on the list below.</source>
+        <translation type="vanished">Vaše soubory můžete přetáhnout &amp;do seznamu níže.</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
@@ -17131,6 +17878,11 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
+    </message>
+    <message>
+        <source>File&apos;s categories</source>
+        <translatorcomment>IMHO better: File categories</translatorcomment>
+        <translation type="vanished">Kategorie souborů</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
@@ -18569,6 +19321,18 @@ Do you want to continue?</source>
         <translation>Došlo k chybě.</translation>
     </message>
     <message>
+        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
+        <translation type="vanished">Pozor - při uložení obrázku v tomto formátu budou ztraceny komentáře a všechna metadata!</translation>
+    </message>
+    <message>
+        <source>Be careful, saving in this format will discard any existing metadata!</source>
+        <translation type="vanished">Pozor - při uložení obrázku v tomto formátu budou ztracena všechna metadata!</translation>
+    </message>
+    <message>
+        <source>Be careful, saving in this format will discard some metadata!</source>
+        <translation type="vanished">Pozor: Při uložení v tomto formátu dojde ke ztrátě některých metadat!</translation>
+    </message>
+    <message>
         <location filename="GFFHelper.h" line="19"/>
         <location filename="GFFHelper.h" line="33"/>
         <location filename="GFFHelper.h" line="47"/>
@@ -18818,6 +19582,19 @@ Do you want to continue?</source>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
         <translation>Tradiční čínština</translation>
+    </message>
+    <message>
+        <source>Simplified Chinese</source>
+        <translation type="vanished">Zjednodušená čínština</translation>
+    </message>
+    <message>
+        <source>Traditional Chinese</source>
+        <translation type="vanished">Tradiční čínština</translation>
+    </message>
+    <message>
+        <location filename="LanguageComboBox.cpp" line="57"/>
+        <source>Hebrew</source>
+        <translation>Hebrejština</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19197,6 +19974,26 @@ Do you want to continue?</source>
         <translation>Nehodnoceno</translation>
     </message>
     <message>
+        <source>Important</source>
+        <translation type="vanished">Důležité</translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="vanished">Pracovní</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="vanished">Osobní</translation>
+    </message>
+    <message>
+        <source>To do</source>
+        <translation type="vanished">Úkol</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="vanished">Odloženo</translation>
+    </message>
+    <message>
         <location filename="CompareWidget.cpp" line="486"/>
         <location filename="BrowserMenu.h" line="122"/>
         <location filename="BrowserMenu.h" line="502"/>
@@ -19377,6 +20174,10 @@ Do you want to continue?</source>
         <translation>Nástrojový pruh pro seznam souborů</translation>
     </message>
     <message>
+        <source>Show title of panes</source>
+        <translation type="vanished">Zobrazovat názvy panelů</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Update catalog from files</source>
         <translation>Aktualizovat katalog ze souborů</translation>
@@ -19407,6 +20208,23 @@ Do you want to continue?</source>
         <translation>Obnovit nastavení orientace v EXIF</translation>
     </message>
     <message>
+        <source>GeoHack...</source>
+        <translation type="vanished">GeoHack...</translation>
+    </message>
+    <message>
+        <source>Google Map...</source>
+        <translation type="vanished">Mapy Google...</translation>
+    </message>
+    <message>
+        <source>Open Street...</source>
+        <translatorcomment>Should be Open Street Maps</translatorcomment>
+        <translation type="vanished">Open Street...</translation>
+    </message>
+    <message>
+        <source>Google Earth App...</source>
+        <translation type="vanished">Aplikace Google Earth...</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Open GPS location in</source>
         <translation>Otevřít GPS polohu v</translation>
@@ -19420,6 +20238,14 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="602"/>
         <source>Edit XMP...</source>
         <translation>Upravit XMP...</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 90°</source>
+        <translation type="vanished">EXIF náhled - otočit o 270° {90°?}</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 270°</source>
+        <translation type="vanished">EXIF náhled - otočit o 270°</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="616"/>
@@ -19874,6 +20700,10 @@ Do you want to continue?</source>
         <translation>Přidat / odebrat štítek na aktuální</translation>
     </message>
     <message>
+        <source>Untag current</source>
+        <translation type="vanished">Odebrat štítek z aktuálního</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="473"/>
         <source>Invert</source>
         <translation>Obrátit</translation>
@@ -20007,6 +20837,10 @@ Do you want to continue?</source>
         <translation>Obnovit</translation>
     </message>
     <message>
+        <source>Show files in subfolder</source>
+        <translation type="vanished">Zobrazit soubory v podsložce</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Stop</source>
         <translation>Zastavit</translation>
@@ -20058,6 +20892,18 @@ Do you want to continue?</source>
         <translation>Zobrazit pouze náhledy</translation>
     </message>
     <message>
+        <source>Rotate clockwise</source>
+        <translation type="vanished">Otočit po směru hod. ručiček</translation>
+    </message>
+    <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">Převrátit vodorovně</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">Převrátit svisle</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>JPEG lossless transformations</source>
         <translation>Bezeztrátové transformace JPEG</translation>
@@ -20072,6 +20918,14 @@ Do you want to continue?</source>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Porovnat...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">Otevřít GPS lokaci v GeoHack...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">Otevřít GPS lokaci v Google Earth...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -20280,6 +21134,10 @@ Do you want to continue?</source>
         <translation>Přizpůsobit obrázek oknu - pouze malé obrázky</translation>
     </message>
     <message>
+        <source>Auto Image Size</source>
+        <translation type="vanished">Automatická velikost obrázku</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Zoom</source>
         <translation>Zvětšení</translation>
@@ -20334,6 +21192,10 @@ Do you want to continue?</source>
         <translation>WWW stránka...</translation>
     </message>
     <message>
+        <source>Visit XnView&apos;s Forum...</source>
+        <translation type="vanished">Navštívit fórum o XnView...</translation>
+    </message>
+    <message>
         <location filename="xnview.cpp" line="1441"/>
         <source>Make a donation...</source>
         <translation>Poslat příspěvek...</translation>
@@ -20383,6 +21245,18 @@ Do you want to continue?</source>
         <location filename="xnview.cpp" line="1444"/>
         <source>Purchase...</source>
         <translation>Koupit...</translation>
+    </message>
+    <message>
+        <source>Follow XnView on Twitter...</source>
+        <translation type="vanished">Následovat XnView na Twitteru...</translation>
+    </message>
+    <message>
+        <source>Become a fan of XnView on Facebook...</source>
+        <translation type="vanished">Stát se fanouškem XnView na Facebooku...</translation>
+    </message>
+    <message>
+        <source>Web capture...</source>
+        <translation type="vanished">Načtení z webu...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1454"/>
@@ -20920,6 +21794,14 @@ Do you want to continue?</source>
         <translation>Přejmenovat...</translation>
     </message>
     <message>
+        <source>Tag current</source>
+        <translation type="vanished">Přidat štítek na aktuální</translation>
+    </message>
+    <message>
+        <source>Untag current</source>
+        <translation type="vanished">Odebrat štítek z aktuálního</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next photo)</source>
         <translation>Nejlepší (přejít k další fotografii)</translation>
@@ -21040,6 +21922,10 @@ Do you want to continue?</source>
         <translation>Uzamknout zvětšení</translation>
     </message>
     <message>
+        <source>Auto image size</source>
+        <translation type="vanished">Automatická velikost obrázku</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="387"/>
         <source>Zoom</source>
         <translation>Zvětšení</translation>
@@ -21140,6 +22026,10 @@ Do you want to continue?</source>
         <translation>Použít šachovnicový vzor</translation>
     </message>
     <message>
+        <source>Remove Background...</source>
+        <translation type="vanished">Ostranit pozadí...</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="690"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
@@ -21148,6 +22038,29 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="691"/>
         <source>Effect</source>
         <translation>Efekt</translation>
+    </message>
+    <message>
+        <source>Effe&amp;ct</source>
+        <translatorcomment>Maybe the hotkey wouldn&apos;t collide. :-)</translatorcomment>
+        <translation type="vanished">Efe&amp;kt</translation>
+    </message>
+    <message>
+        <source>Google Map...</source>
+        <translatorcomment>Should be Google Maps, I think</translatorcomment>
+        <translation type="vanished">Mapy Google...</translation>
+    </message>
+    <message>
+        <source>Google Earth App...</source>
+        <translation type="vanished">Aplikace Google Earth...</translation>
+    </message>
+    <message>
+        <source>GeoHack...</source>
+        <translation type="vanished">GeoHack...</translation>
+    </message>
+    <message>
+        <source>Open Street...</source>
+        <translatorcomment>Should be Open Street Maps, I think</translatorcomment>
+        <translation type="vanished">Open Street...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="418"/>
@@ -21169,6 +22082,10 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="423"/>
         <source>Set DPI...</source>
         <translation>Nastavit DPI...</translation>
+    </message>
+    <message>
+        <source>Filter...</source>
+        <translation type="vanished">Filtr...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="441"/>
@@ -21334,6 +22251,14 @@ Do you want to continue?</source>
         <translation>Upravit mapu barev...</translation>
     </message>
     <message>
+        <source>Rotate clockwise</source>
+        <translation type="vanished">Otočit po směru hod. ručiček</translation>
+    </message>
+    <message>
+        <source>Rotate counter clockwise</source>
+        <translation type="vanished">Otočit proti směru hod. ručiček</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="454"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
@@ -21348,6 +22273,18 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="490"/>
         <source>Reset EXIF orientation field</source>
         <translation>Obnovit nastavení orientace v EXIF</translation>
+    </message>
+    <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">Převrátit vodorovně</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">Převrátit svisle</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="vanished">Oříznout</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -21405,6 +22342,14 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="413"/>
         <source>Batch convert...</source>
         <translation>Dávková konverze...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">Otevřít GPS lokaci v GeoHack...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">Otevřít GPS lokaci v Google Earth...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
@@ -21512,9 +22457,27 @@ Do you want to continue?</source>
         <translation>Zarovnání...</translation>
     </message>
     <message>
+        <source>90° right</source>
+        <oldsource>90� right</oldsource>
+        <translation type="vanished">O 90° vpravo</translation>
+    </message>
+    <message>
+        <source>90° left</source>
+        <oldsource>90� left</oldsource>
+        <translation type="vanished">O 90° vlevo</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
         <translation>Otočit...</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="vanished">Vodorovně</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="vanished">Svisle</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
@@ -21584,6 +22547,10 @@ Do you want to continue?</source>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Obrázek</translation>
+    </message>
+    <message>
+        <source>F&amp;ilter</source>
+        <translation type="vanished">F&amp;iltr</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="692"/>
@@ -21797,6 +22764,10 @@ Do you want to continue?</source>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
+        <source>Abort</source>
+        <translation type="vanished">Zrušit</translation>
+    </message>
+    <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
         <translatorcomment>Shouldn&apos;t it be &apos;building&apos;?</translatorcomment>
@@ -21974,6 +22945,13 @@ Do you want to continue?</source>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
         <translation>Zrušit</translation>
+    </message>
+</context>
+<context>
+    <name>MyProgressDialogEx</name>
+    <message>
+        <source>Creating contact sheet...</source>
+        <translation type="obsolete">Vytvořit kontaktní otisk...</translation>
     </message>
 </context>
 <context>
@@ -22290,6 +23268,10 @@ Můžete ji změnit v nabídce Možnosti &gt; Katalog.</translation>
         <translation>Průhlednost</translation>
     </message>
     <message>
+        <source>Thickness:</source>
+        <translation type="vanished">Tloušťka:</translation>
+    </message>
+    <message>
         <location filename="PaintWidget.ui" line="952"/>
         <source>Enter your text</source>
         <translation>Zadejte text</translation>
@@ -22341,6 +23323,10 @@ Můžete ji změnit v nabídce Možnosti &gt; Katalog.</translation>
         <translation>Zpět</translation>
     </message>
     <message>
+        <source>Style:</source>
+        <translation type="vanished">Styl:</translation>
+    </message>
+    <message>
         <location filename="PaintWidget.ui" line="531"/>
         <source>Fill + Contour</source>
         <translatorcomment>I would use &apos;and&apos; instead of +</translatorcomment>
@@ -22355,6 +23341,14 @@ Můžete ji změnit v nabídce Možnosti &gt; Katalog.</translation>
         <location filename="PaintWidget.ui" line="541"/>
         <source>Contour only</source>
         <translation>Pouze obrys</translation>
+    </message>
+    <message>
+        <source>Fill:</source>
+        <translation type="vanished">Výplň:</translation>
+    </message>
+    <message>
+        <source>Arrows:</source>
+        <translation type="vanished">Šipky:</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="829"/>
@@ -22463,6 +23457,14 @@ Můžete ji změnit v nabídce Možnosti &gt; Katalog.</translation>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
         <translation>Spravovat...</translation>
+    </message>
+    <message>
+        <source>Apply actions</source>
+        <translation type="vanished">Provést akce</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -23348,6 +24350,10 @@ Kliknutím pravým tlačítkem zobrazíte kontextovou nápovědu s akcemi.</tran
         <translation>Vložit &gt;&gt;</translation>
     </message>
     <message>
+        <source>Default value</source>
+        <translation type="vanished">Výchozí hodnota</translation>
+    </message>
+    <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
         <translation>Uložit předvolbu</translation>
@@ -23926,6 +24932,10 @@ Chcete zachovat náhledy?
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translatorcomment>IMHO better as two sentences.</translatorcomment>
         <translation>Došlo k problému s otevřením katalogu. Zkontrolujte vaše nastavení a použitou složku!</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="vanished">Verze</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="973"/>

@@ -89,9 +89,17 @@
         <translation>Orange</translation>
     </message>
     <message>
+        <source>6</source>
+        <translation type="obsolete">100 % {6?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
         <translation>Grå</translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation type="obsolete">100 % {7?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -99,9 +107,17 @@
         <translation>Sort</translation>
     </message>
     <message>
+        <source>8</source>
+        <translation type="obsolete">100 % {8?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
         <translation>Hvid</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="obsolete">100 % {9?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -177,6 +193,10 @@
         <translation>Wiki</translation>
     </message>
     <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
         <translation>INI-filnavn</translation>
@@ -226,6 +246,10 @@
         <location filename="AboutWidget.ui" line="481"/>
         <source>What&apos;s New</source>
         <translation>Nyheder</translation>
+    </message>
+    <message>
+        <source>INI filename: </source>
+        <translation type="vanished">INI filnavn: </translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -349,6 +373,10 @@
 </translation>
     </message>
     <message>
+        <source>Save as...</source>
+        <translation type="vanished">Gem som...</translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="211"/>
         <source>Save &amp;as...</source>
         <translation>Gem som...</translation>
@@ -375,6 +403,14 @@
         <translation>&lt;Tom&gt;</translation>
     </message>
     <message>
+        <source>Are you sure to delete &quot;%1&quot;?</source>
+        <translation type="vanished">Er du sikker på du vil slette &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>Are you sure to delete &quot;%1&quot; (%2 items)?</source>
+        <translation type="vanished">Er du sikker på du vil slette &quot;%1&quot; (%2 items)?</translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>This picture will be saved as RGB with 8bits per component</source>
         <translation>Gemmes som RGB med 8 bits pr. komponent</translation>
@@ -389,6 +425,12 @@
         <location filename="ViewWindow.cpp" line="2799"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Filen &lt;%1&gt; er skrivebeskyttet, vælg venligst et andet filnavn.</translation>
+    </message>
+    <message>
+        <source>The file &lt;%1&gt; already exists!
+
+Do you want to overwrite it?</source>
+        <translation type="vanished">Filen &lt;%1&gt; eksisterer allerede! Ønsker du at overskrive den?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2833"/>
@@ -414,6 +456,10 @@
         <location filename="ViewWindow.cpp" line="3089"/>
         <source>Properties</source>
         <translation>Egenskaber</translation>
+    </message>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">Dette billede vil blive konverteret til RGB med 8bits pr. komponent</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
@@ -478,6 +524,10 @@
 </context>
 <context>
     <name>BaseViewWindow</name>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">Dette billede vil blive konverteret til RGB med 8bits pr. komponent</translation>
+    </message>
     <message>
         <location filename="ViewWindow.cpp" line="4681"/>
         <source>Error</source>
@@ -618,6 +668,14 @@ Højreklik på forskellige pop-op menuer med muligheder.
 Træk og slip over det ønskede knudepunktet for at tildele.</translation>
     </message>
     <message>
+        <source>Any</source>
+        <translation type="vanished">Enhver</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="vanished">Alle</translation>
+    </message>
+    <message>
         <location filename="BrowserWindow.cpp" line="2117"/>
         <source>Global</source>
         <translatorcomment>Globalt</translatorcomment>
@@ -644,6 +702,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="BrowserWindow.cpp" line="3213"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Markerede filer&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;DB result&gt;</source>
+        <translation type="vanished">DB resultat</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
@@ -716,6 +778,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
             <numerusform>Vil du virkelig fjerne dette %n-objekt? - %1 objekt markeret?</numerusform>
             <numerusform>Vil du virkelig fjerne disse %n-objekter? - %1 objekter er markeret?</numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Show all files (recursive)</source>
+        <translation type="vanished">Vis alle filer (rekursive)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
@@ -1020,6 +1086,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Historik</translation>
     </message>
     <message>
+        <source>Use tabs</source>
+        <translation type="vanished">Brug faner</translation>
+    </message>
+    <message>
         <location filename="CompareWidget.cpp" line="537"/>
         <source>Zoom out</source>
         <translation>Zoom ud</translation>
@@ -1231,6 +1301,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Drej</translation>
     </message>
     <message>
+        <source>Gammasat</source>
+        <translation type="vanished">Gammamætning</translation>
+    </message>
+    <message>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
@@ -1292,6 +1366,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgConvertProcess.h" line="2657"/>
         <source>HLS</source>
         <translation>HLS</translation>
+    </message>
+    <message>
+        <source>Swap component</source>
+        <translation type="vanished">Byt element</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2732"/>
@@ -1409,6 +1487,11 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgConvertProcess.h" line="4794"/>
         <source>Halftone</source>
         <translation>Halvtone</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertProcess.h" line="4813"/>
+        <source>IPTC-IIM/XMP</source>
+        <translation>IPTC-IIM-XMP</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
@@ -1588,6 +1671,11 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Udjævn</translation>
     </message>
     <message>
+        <source>Conbright</source>
+        <translatorcomment>Kontrast/lys</translatorcomment>
+        <translation type="vanished">Conbright</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.cpp" line="205"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
@@ -1599,6 +1687,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>Solarisér</translation>
+    </message>
+    <message>
+        <source>Exposure</source>
+        <translation type="vanished">Eksponering</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="223"/>
@@ -2119,6 +2211,11 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Indtast den fulde sti på den arkiverede fil</translation>
     </message>
     <message>
+        <location filename="DlgArchive.ui" line="32"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open File Explorer after compressing</source>
         <translation>Åbn Stifinder efter komprimering</translation>
@@ -2133,6 +2230,18 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgArchive.cpp" line="124"/>
         <source>Archive file</source>
         <translation>Arkiv fil</translation>
+    </message>
+</context>
+<context>
+    <name>DlgAskClass</name>
+    <message>
+        <source>Confirm</source>
+        <translation type="vanished">Bekræft</translation>
+    </message>
+    <message>
+        <source>Remember my answer and don&apos;t ask again</source>
+        <oldsource>Do not show this message again.</oldsource>
+        <translation type="vanished">Husk mit svar og spørg ikke igen</translation>
     </message>
 </context>
 <context>
@@ -2949,6 +3058,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>sekund(er)</translation>
     </message>
     <message>
+        <source>Delay (sec)</source>
+        <translation type="vanished">Forsinkelse( sek.)</translation>
+    </message>
+    <message>
         <location filename="DlgCapture.ui" line="138"/>
         <source>Hotkey</source>
         <translation>Genvejstast</translation>
@@ -2978,6 +3091,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
         <translation>Indstillinger...</translation>
+    </message>
+    <message>
+        <source>Open in draw module</source>
+        <translation type="vanished">Åbn i tegningsmodulet</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="261"/>
@@ -3127,6 +3244,11 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Kommentar</translation>
     </message>
     <message>
+        <location filename="DlgClean.ui" line="40"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF-miniature</translation>
@@ -3135,6 +3257,16 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
         <translation>GPS</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="101"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="108"/>
+        <source>IPTC-IIM</source>
+        <translation>IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="115"/>
@@ -3340,6 +3472,12 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgContactSheet.ui" line="454"/>
         <source>Header</source>
         <translation>Sidehoved</translation>
+    </message>
+    <message>
+        <location filename="DlgContactSheet.ui" line="472"/>
+        <location filename="DlgContactSheet.ui" line="500"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="482"/>
@@ -3550,6 +3688,11 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt; XnConvert leveres som freeware til private (ikke-kommercelle) eller til uddannelsesmæssige formål, herunder i non-profit organisationer. &lt;br&gt;Selskaber skal købe licens for at kunne bruge det. &lt;br&gt;&lt;br&gt;Du får ret til at bruge og lave et ubegrænset antal kopier af denne software.&lt;br&gt; Denne software leveres &quot;som den er&quot;.&lt;br&gt; Ingen garanti af nogen art er udtrykt eller underforstået.&lt;br&gt; Forfatteren er ikke ansvarlig for tab af data, skader, tab af fortjeneste eller nogen anden form for tab ved brug eller misbrug af denne software.&lt;br&gt;&lt;br&gt;Alle forslag, tilbagemeldinger og kommentarer er velkomne. </translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translatorcomment>Oplysninger</translatorcomment>
+        <translation type="vanished">Information</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1283"/>
@@ -3965,6 +4108,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
         <translation>Retning</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="vanished">Tilstand</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
@@ -4743,6 +4890,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Behandler liste:</translation>
     </message>
     <message>
+        <source>TextLabel</source>
+        <translation type="vanished">Tekst-etiket</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.ui" line="1444"/>
         <source>Settings</source>
         <translation>Indstillinger</translation>
@@ -4818,6 +4969,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgConvert.ui" line="1693"/>
         <source>Restore previous input file list</source>
         <translation>Gendan den foregående inputfilliste</translation>
+    </message>
+    <message>
+        <source>&apos;Hot folders&apos; process files</source>
+        <translation type="vanished">&apos;Hot mappe&apos; behandlingsfiler</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1707"/>
@@ -4917,6 +5072,7 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
+        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -5115,9 +5271,24 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Kommentar</translation>
     </message>
     <message>
+        <location filename="DlgConvertCleanMeta.ui" line="24"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="31"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF Miniaturer</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="45"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
@@ -5470,6 +5641,12 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Indlæs profil (sRGB som standard)</translation>
     </message>
     <message>
+        <location filename="DlgConvertICC.ui" line="45"/>
+        <location filename="DlgConvertICC.ui" line="82"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation>Output profil (sRGB som standard)</translation>
@@ -5610,6 +5787,14 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <source>Insert from</source>
         <translation>Indsæt fra</translation>
     </message>
+    <message>
+        <source>Edit history...</source>
+        <translation type="vanished">Redigér historik...</translation>
+    </message>
+    <message>
+        <source>Sort alphabetically</source>
+        <translation type="vanished">Sortér alfabetisk</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
@@ -5681,6 +5866,7 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Maske</translation>
     </message>
     <message>
+        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation>...</translation>
@@ -6607,6 +6793,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <source>Color</source>
         <translation>Farve</translation>
     </message>
+    <message>
+        <source>Add vignetting</source>
+        <translation type="vanished">Tilføj mærkat</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
@@ -6644,6 +6834,22 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgConvertWatermark.ui" line="31"/>
         <source>Size</source>
         <translation>Størrelse</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="vanished">Normal</translation>
+    </message>
+    <message>
+        <source>Repeat image</source>
+        <translation type="vanished">Gentag billede</translation>
+    </message>
+    <message>
+        <source>Stretch image</source>
+        <translation type="vanished">Stræk billede</translation>
+    </message>
+    <message>
+        <source>Percentage (width)</source>
+        <translation type="vanished">Procent (bredde)</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="46"/>
@@ -6685,6 +6891,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Fill</source>
         <translation>Udfyld</translation>
+    </message>
+    <message>
+        <source>Repeat</source>
+        <translation type="vanished">Gentag</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -6740,6 +6950,10 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom right</source>
         <translation>Højre nederst</translation>
+    </message>
+    <message>
+        <source>Delta</source>
+        <translation type="vanished">Delta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7779,6 +7993,10 @@ Vær sikker på, at filerne ikke er read-only!</translation>
         <translation>Sæt farve-transparens...</translation>
     </message>
     <message>
+        <source>Auto refresh</source>
+        <translation type="vanished">Automatisk genopfrisk</translation>
+    </message>
+    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -7868,6 +8086,10 @@ Vær sikker på, at filerne ikke er read-only!</translation>
         <source>Best</source>
         <translation>Bedst</translation>
     </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="vanished">Opfrisk</translation>
+    </message>
 </context>
 <context>
     <name>DlgFile</name>
@@ -7956,6 +8178,11 @@ Vær sikker på, at filerne ikke er read-only!</translation>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translation>Vis valgte mappe i mappetræet</translation>
+    </message>
+    <message>
+        <location filename="DlgFile.ui" line="36"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -8313,6 +8540,10 @@ Vær sikker på, at filerne ikke er read-only!</translation>
         <translation>Bibliotek ændret til %1.</translation>
     </message>
     <message>
+        <source>Uploading %1...</source>
+        <translation type="vanished">Overfører %1...</translation>
+    </message>
+    <message>
         <location filename="DlgFtp.cpp" line="573"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>Kunne ikke oprette forbindelse til FTP-serveren på %1. Tjek venligst, at værtsnavnet er korrekt.</translation>
@@ -8326,6 +8557,14 @@ Vær sikker på, at filerne ikke er read-only!</translation>
         <location filename="DlgFtp.cpp" line="586"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
         <translation>Kunne ikke oprette forbindelse til FTP-serveren på %1. Kontroller, at brugernavn og adgangskode er korrekt.</translation>
+    </message>
+    <message>
+        <source>Canceled upload of %1.</source>
+        <translation type="vanished">Overførslen af %1. annulleret.</translation>
+    </message>
+    <message>
+        <source>Uploaded %1 to current directory.</source>
+        <translation type="vanished">Overført %1 til nuværende bibliotek.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
@@ -9420,6 +9659,14 @@ Tjek at filerne ikke er read-only!</translation>
         <translation>Navn</translation>
     </message>
     <message>
+        <source>Parameter</source>
+        <translation type="vanished">Parameter</translation>
+    </message>
+    <message>
+        <source>First Argument</source>
+        <translation type="vanished">Første argument</translation>
+    </message>
+    <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
@@ -9842,6 +10089,10 @@ Tjek at filerne ikke er read-only!</translation>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
         <translation>Højre nederst</translation>
+    </message>
+    <message>
+        <source>Gamma</source>
+        <translation type="vanished">Gamma</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -10872,6 +11123,10 @@ Tak for dit køb af %1.</translation>
         <translation>Brug anti-aliasing</translation>
     </message>
     <message>
+        <source>Smooth</source>
+        <translation type="vanished">Udglat</translation>
+    </message>
+    <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
         <translation>Automatisk beskæring</translation>
@@ -10929,6 +11184,14 @@ Tak for dit køb af %1.</translation>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
         <translation>Brug RegExp</translation>
+    </message>
+    <message>
+        <source>Match All of the following conditions</source>
+        <translation type="vanished">Match alle de følgende betingelser</translation>
+    </message>
+    <message>
+        <source>Match Any of the following conditions</source>
+        <translation type="vanished">Match Enhver de følgende betingelser</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11126,6 +11389,10 @@ Tak for dit køb af %1.</translation>
         <translation>Filliste</translation>
     </message>
     <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">Fuldskærm</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
         <translation>Generelt</translation>
@@ -11156,6 +11423,11 @@ Tak for dit køb af %1.</translation>
         <translation>Se</translation>
     </message>
     <message>
+        <source>Auto text correction</source>
+        <oldsource>Auto correct</oldsource>
+        <translation type="vanished">Automatisk tekst korrektion</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
         <translation>Formater</translation>
@@ -11167,11 +11439,39 @@ Tak for dit køb af %1.</translation>
     </message>
 </context>
 <context>
+    <name>DlgSettingsAuto</name>
+    <message>
+        <source>Auto Correct</source>
+        <translation type="vanished">Automatisk korrektion</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="vanished">Erstat</translation>
+    </message>
+    <message>
+        <source>With</source>
+        <translation type="vanished">Med</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="vanished">Slet</translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected Auto Correct entry?</source>
+        <translation type="vanished">Vil du slette den valgte Automatiske korrektions indtastning?</translation>
+    </message>
+</context>
+<context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
         <translation>Browser</translation>
+    </message>
+    <message>
+        <source>Display file size in bytes</source>
+        <oldsource>Display bytes for file size</oldsource>
+        <translation type="vanished">Vis filstørrelse i bytes</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
@@ -11563,6 +11863,10 @@ farver, søgeord mv. kan blive slettet.
         <translation>Katalog</translation>
     </message>
     <message>
+        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database. Please change &apos;base path&apos; only if you want to share same folder between several computers. Do you still want to change the &apos;base path&apos;?</source>
+        <translation type="vanished">Vær omhyggelig, ændring af &apos;base sti&apos; kan afregistrere filer allerede gemt i dfatabasen. Ændr kun &apos;base sti&apos; hvis du vil dele den samme mappe mellem flere computere.only if you want to share same folder between several computers. Vil du stadig ændre &apos;base sti&apos;?</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
         <location filename="DlgSettingsCache.cpp" line="979"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
@@ -11707,6 +12011,10 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
         <translation>Genopbyg miniaturer</translation>
     </message>
     <message>
+        <source>Optimize...</source>
+        <translation type="vanished">Optimer...</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Tools</source>
         <translation>Værktøjer</translation>
@@ -11787,6 +12095,11 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
         <translation>Tilknyttet program</translation>
     </message>
     <message>
+        <location filename="DlgSettingsFilelist.cpp" line="193"/>
+        <source>XnView</source>
+        <translation>XnView</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation>Synlig</translation>
@@ -11797,6 +12110,11 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
 Thumbnail</source>
         <translation>Vis som
 miniature</translation>
+    </message>
+    <message>
+        <source>Show in 
+Preview</source>
+        <translation type="vanished">Vis i forhåndsvisning</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -11874,6 +12192,10 @@ miniature</translation>
         <translation>Ledsager</translation>
     </message>
     <message>
+        <source>Companion (separated by ;)</source>
+        <translation type="vanished">Følge (adskilt af ;)(</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
         <translation>Slet...</translation>
@@ -11912,9 +12234,17 @@ miniature</translation>
         <translation>Mappe(r) sorteres altid alfabetisk</translation>
     </message>
     <message>
+        <source>Automatically select new files</source>
+        <translation type="vanished">Vælg automatisk nye filer</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
         <source>New files are added at the end of the list</source>
         <translation>Nye filer tilføjes i slutningen af listen</translation>
+    </message>
+    <message>
+        <source>Select first item on entering folder</source>
+        <translation type="vanished">Vælg første punkt i åbningsmappen</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
@@ -11992,9 +12322,41 @@ miniature</translation>
         <translation>Associeringsliste (brug ; til adskillelse)</translation>
     </message>
     <message>
+        <source>Detail mode</source>
+        <translation type="vanished">Detaljeret tilstand</translation>
+    </message>
+    <message>
+        <source>Comment field</source>
+        <translation type="vanished">Kommentarfelt</translation>
+    </message>
+    <message>
+        <source>Embedded comment, description</source>
+        <translation type="vanished">Indlejret kommentarbeskrivelse</translation>
+    </message>
+    <message>
+        <source>Description, Embedded comment</source>
+        <translation type="vanished">Beskrivelse. Indlejret kommentar</translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="vanished">Indlejrett kommentar</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="vanished">Beskrivelse</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
         <translation>Følge-filer</translation>
+    </message>
+    <message>
+        <source>Companions files linked for delete action</source>
+        <translation type="vanished">Følge-filer, der er markeret til sletning</translation>
+    </message>
+    <message>
+        <source>Companions files linked for copy/move/rename action</source>
+        <translation type="vanished">Følge-filer, der er markeret til kopiering/flytning/omdøbning</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -12045,6 +12407,10 @@ miniature</translation>
 <context>
     <name>DlgSettingsFormat</name>
     <message>
+        <source>Saving</source>
+        <translation type="vanished">Gemmer</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
         <translation>Formater</translation>
@@ -12088,6 +12454,53 @@ miniature</translation>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
         <translation>Skriv</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsFullscreenClass</name>
+    <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">Fuldskærm</translation>
+    </message>
+    <message>
+        <source>Auto image size</source>
+        <translation type="vanished">Automatisk billedstørrelse</translation>
+    </message>
+    <message>
+        <source>Show playbar</source>
+        <translation type="vanished">Vis afspilningslinien</translation>
+    </message>
+    <message>
+        <source>Show info</source>
+        <translation type="vanished">Vis oplysninger</translation>
+    </message>
+    <message>
+        <source>Show scrollbars</source>
+        <translation type="vanished">Vis rullepaneler</translation>
+    </message>
+    <message>
+        <source>Show toolbar</source>
+        <translation type="vanished">Vis værktøjslinien</translation>
+    </message>
+    <message>
+        <source>Hide mouse cursor</source>
+        <translation type="vanished">Skjul musepil</translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation type="vanished">Baggrundsfarve</translation>
+    </message>
+    <message>
+        <source>Dual monitor: Use second monitor</source>
+        <translation type="vanished">Dobbelt skærm: Brug sekundær skærm</translation>
+    </message>
+    <message>
+        <source>Floating views</source>
+        <translation type="vanished">Flydende visninger</translation>
+    </message>
+    <message>
+        <source>(appear when the mouse is moved to the top or right of the screen)</source>
+        <translation type="vanished">(vises, når musen flyttes til toppen eller højre på skærmen)</translation>
     </message>
 </context>
 <context>
@@ -12273,10 +12686,22 @@ miniature</translation>
         <translation>Brug Papirkurv</translation>
     </message>
     <message>
+        <source>Mode when starting with a file</source>
+        <translation type="vanished">Tilstand når du starter med en fil</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="vanished">Normal</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation>Fuldskærms - Billedviser</translation>
+    </message>
+    <message>
+        <source>Fullscreen - Browser</source>
+        <translation type="vanished">Fuldskærms - Browser</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="245"/>
@@ -12304,9 +12729,17 @@ miniature</translation>
         <translation>Send anonyme logfiler</translation>
     </message>
     <message>
+        <source>Open browser at startup</source>
+        <translation type="vanished">Åbn browser ved opstart</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="430"/>
         <source>Directory</source>
         <translation>Katalog</translation>
+    </message>
+    <message>
+        <source>Restore last selected filename</source>
+        <translation type="vanished">Gendan sidst valgte filnavn</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="334"/>
@@ -12474,6 +12907,10 @@ miniature</translation>
         <translation>Integreret Metadata ændring</translation>
     </message>
     <message>
+        <source>ICC</source>
+        <translation type="vanished">ICC</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="741"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
@@ -12633,6 +13070,13 @@ miniature</translation>
         <location filename="DlgSettingsIntegration.ui" line="87"/>
         <source>Paths</source>
         <translation>Sti</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="168"/>
+        <location filename="DlgSettingsIntegration.ui" line="195"/>
+        <location filename="DlgSettingsIntegration.ui" line="231"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="182"/>
@@ -12927,6 +13371,10 @@ Vil du tilknytte igen?</translation>
         <translation>Browsertilstand</translation>
     </message>
     <message>
+        <source>View mode</source>
+        <translation type="vanished">Visningstilstand</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
@@ -12952,12 +13400,20 @@ Vil du tilknytte igen?</translation>
         <translation>Filter</translation>
     </message>
     <message>
+        <source>Pressing Esc once quits XnViewMP</source>
+        <translation type="vanished">Tryk Esc én gang for at afslutte XnView</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1302"/>
         <location filename="DlgSettingsInterface.ui" line="1352"/>
         <location filename="DlgSettingsInterface.ui" line="1402"/>
         <location filename="DlgSettingsInterface.ui" line="1442"/>
         <source>Previous file</source>
         <translation>Tidligere fil</translation>
+    </message>
+    <message>
+        <source>Use &quot;Pan and Zoom&quot; tool</source>
+        <translation type="vanished">Brug &quot;Pan og Zoom&quot; værktøj</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
@@ -12985,6 +13441,14 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsInterface.ui" line="847"/>
         <source>Shortcuts</source>
         <translation>Genveje</translation>
+    </message>
+    <message>
+        <source>Browser mode</source>
+        <translation type="vanished">Browsertilstand</translation>
+    </message>
+    <message>
+        <source>Viewer mode</source>
+        <translation type="vanished">Visningstilstand</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="987"/>
@@ -13083,6 +13547,18 @@ Vil du tilknytte igen?</translation>
         <translation>Rul op/rul ned</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation type="vanished">Aldrig</translation>
+    </message>
+    <message>
+        <source>Only in fullscreen</source>
+        <translation type="vanished">Kun ved fuldskærm</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="vanished">Altid</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
         <source>Mouse</source>
         <translation>Mus</translation>
@@ -13131,6 +13607,10 @@ Vil du tilknytte igen?</translation>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation>Zoom det valgte</translation>
+    </message>
+    <message>
+        <source>Left button + CTRL</source>
+        <translation type="vanished">Venstre knap + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1677"/>
@@ -13218,12 +13698,24 @@ Vil du tilknytte igen?</translation>
         <translation>Tryk på ESC afslutter</translation>
     </message>
     <message>
+        <source>Right button + CTRL</source>
+        <translation type="vanished">Højre knap + CTRL</translation>
+    </message>
+    <message>
+        <source>Mouse wheel</source>
+        <translation type="vanished">Muse hjul</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
         <location filename="DlgSettingsInterface.ui" line="1861"/>
         <source>Zoom in/out</source>
         <translation>Zoom ind/ud</translation>
+    </message>
+    <message>
+        <source>Mouse wheel + CTRL</source>
+        <translation type="vanished">Muse hjul + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1916"/>
@@ -13245,6 +13737,10 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2015"/>
         <source>Enter</source>
         <translation>Enter-tast</translation>
+    </message>
+    <message>
+        <source>Use double click to switch between:</source>
+        <translation type="vanished">Brug dobbeltklik for at skifte mellem:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
@@ -13275,6 +13771,14 @@ Vil du tilknytte igen?</translation>
         <translation>Browser &gt; Fremviser&gt; Fuldskærm</translation>
     </message>
     <message>
+        <source>Use middle click to switch between:</source>
+        <translation type="vanished">Brug musehjul/knap til at skifte mellem:</translation>
+    </message>
+    <message>
+        <source>Use ENTER to switch between:</source>
+        <translation type="vanished">Brug ENTER til at skifte mellem:</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
         <location filename="DlgSettingsInterface.ui" line="996"/>
         <source>None</source>
@@ -13301,6 +13805,14 @@ Vil du tilknytte igen?</translation>
 </context>
 <context>
     <name>DlgSettingsKeywordsClass</name>
+    <message>
+        <source>IPTC &amp;&amp; XMP</source>
+        <translation type="vanished">IPTC &amp;&amp; XMP</translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation type="vanished">Nøgleord</translation>
+    </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
@@ -13409,6 +13921,14 @@ Vil du tilknytte igen?</translation>
         <translation>Sidecar</translation>
     </message>
     <message>
+        <source>Yes</source>
+        <translation type="vanished">Ja</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="vanished">Nej</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
         <translation>Videofiler</translation>
@@ -13422,6 +13942,11 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
         <translation>Indkodning</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="428"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
@@ -13472,6 +13997,10 @@ Vil du tilknytte igen?</translation>
         <translation>Understøttede formater</translation>
     </message>
     <message>
+        <source>JPEG</source>
+        <translation type="obsolete">JPEG</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Labels</source>
         <translation>Etiketter</translation>
@@ -13479,6 +14008,10 @@ Vil du tilknytte igen?</translation>
 </context>
 <context>
     <name>DlgSettingsPanel</name>
+    <message>
+        <source>Information</source>
+        <translation type="vanished">Information</translation>
+    </message>
     <message>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
@@ -13488,6 +14021,10 @@ Vil du tilknytte igen?</translation>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
+    <message>
+        <source>Misc</source>
+        <translation type="vanished">Diverse</translation>
+    </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -13587,6 +14124,10 @@ Vil du tilknytte igen?</translation>
         <translation>Har kategori</translation>
     </message>
     <message>
+        <source>Background color</source>
+        <translation type="vanished">Baggrundsfarve</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Border size</source>
         <translation>Kant størrelse</translation>
@@ -13653,6 +14194,11 @@ Vil du tilknytte igen?</translation>
         <translation>Genvej</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="634"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="997"/>
         <source>Color</source>
         <translation>Farve</translation>
@@ -13673,6 +14219,11 @@ Vil du tilknytte igen?</translation>
         <translation>Automatisk drejning</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="541"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
         <source>Rating</source>
         <translation>Bedømmelse</translation>
@@ -13683,10 +14234,20 @@ Vil du tilknytte igen?</translation>
         <translation>Integreret miniature</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="826"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
         <translatorcomment>Farve etiket</translatorcomment>
         <translation>Farve Label</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="766"/>
+        <source>GPS</source>
+        <translation>GPS</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -13710,6 +14271,10 @@ Vil du tilknytte igen?</translation>
         <translation>Labels</translation>
     </message>
     <message>
+        <source>Text color</source>
+        <translation type="vanished">Tekstfarve</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Reset color</source>
         <translation>Nulstil farve</translation>
@@ -13724,6 +14289,11 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
         <translation>Browser-miniature</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="988"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -13841,6 +14411,18 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsView.ui" line="301"/>
         <source>Pixel ratio</source>
         <translation>Pixel-forhold</translation>
+    </message>
+    <message>
+        <source>Zoom-out</source>
+        <translation type="vanished">Zoom ud</translation>
+    </message>
+    <message>
+        <source>Zoom-in</source>
+        <translation type="vanished">Zoom ind</translation>
+    </message>
+    <message>
+        <source>Zoom-out &amp; Zoom-in</source>
+        <translation type="vanished">Zoom ud &amp; Zoom ind</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="494"/>
@@ -14016,6 +14598,11 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsView.ui" line="749"/>
         <source>Loop on the file list</source>
         <translation>Sløjfe på fillisten</translation>
+    </message>
+    <message>
+        <source>Show Video</source>
+        <oldsource>Play video</oldsource>
+        <translation type="vanished">Vis video</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="763"/>
@@ -14199,6 +14786,14 @@ Vil du tilknytte igen?</translation>
         <translation>(vises, når musen flyttes til toppen eller til højre på skærmen)</translation>
     </message>
     <message>
+        <source>Information displayed</source>
+        <translation type="vanished">Viste oplysninger</translation>
+    </message>
+    <message>
+        <source>HTML tags supported</source>
+        <translation type="vanished">HTML-tags understøttes</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
         <source>Text color</source>
         <translation>Tekstfarve</translation>
@@ -14335,6 +14930,13 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
         <translation>Zoom ud</translation>
+    </message>
+    <message>
+        <location filename="DlgSimilarResult.ui" line="87"/>
+        <location filename="DlgSimilarResult.ui" line="156"/>
+        <location filename="DlgSimilarResult.ui" line="239"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
@@ -14617,6 +15219,16 @@ Vil du tilknytte igen?</translation>
         <translation>Brug transitionseffekter</translation>
     </message>
     <message>
+        <location filename="DlgSlideshow.ui" line="210"/>
+        <location filename="DlgSlideshow.ui" line="314"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <source>Save SLD with relative paths</source>
+        <translation type="vanished">Gem SLD med relative stier</translation>
+    </message>
+    <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
         <translation>Brug lyd-fil</translation>
@@ -14678,6 +15290,15 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
         <translation>Opdel</translation>
+    </message>
+    <message>
+        <location filename="DlgSplit.ui" line="30"/>
+        <location filename="DlgSplit.ui" line="44"/>
+        <location filename="DlgSplit.ui" line="58"/>
+        <location filename="DlgSplit.ui" line="72"/>
+        <location filename="DlgSplit.ui" line="96"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -15021,6 +15642,10 @@ Vil du tilknytte igen?</translation>
         <translation>Søg efter ansigt</translation>
     </message>
     <message>
+        <source>Add region</source>
+        <translation type="vanished">Tilføj område</translation>
+    </message>
+    <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
         <translation>Fjern områder</translation>
@@ -15171,6 +15796,11 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Dato taget</translation>
+    </message>
+    <message>
+        <location filename="DlgTimestamp.ui" line="488"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
@@ -15382,32 +16012,38 @@ Vil du tilknytte igen?</translation>
         <translation>Godkendelse</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="147"/>
+        <location filename="DlgUpload.ui" line="138"/>
         <source>Username</source>
         <translation>Brugernavn</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="157"/>
+        <location filename="DlgUpload.ui" line="148"/>
         <source>Password</source>
         <translation>Adgangskode</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="177"/>
+        <location filename="DlgUpload.ui" line="168"/>
         <source>User</source>
         <translation>Bruger</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="202"/>
+        <location filename="DlgUpload.ui" line="193"/>
         <source>New user...</source>
         <translation>Ny bruger...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="233"/>
+        <location filename="DlgUpload.ui" line="224"/>
         <source>Thumbnail link</source>
         <translation>Miniature genvej</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="261"/>
+        <location filename="DlgUpload.ui" line="241"/>
+        <location filename="DlgUpload.ui" line="269"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <location filename="DlgUpload.ui" line="252"/>
         <source>Image link</source>
         <translation>Billed genvej</translation>
     </message>
@@ -15429,6 +16065,12 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
         <translation>Tilføj filter</translation>
+    </message>
+    <message>
+        <location filename="DlgUserFilter.ui" line="36"/>
+        <location filename="DlgUserFilter.ui" line="63"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="60"/>
@@ -15465,6 +16107,14 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
         <translation>Vil du gemme ændrede filtre?</translation>
+    </message>
+    <message>
+        <source>Changes</source>
+        <translation type="vanished">Ændringer</translation>
+    </message>
+    <message>
+        <source>There is some changes, do you want to save filters?</source>
+        <translation type="vanished">Der er nogle ændringer, vil du gemme filtrene?</translation>
     </message>
 </context>
 <context>
@@ -15513,6 +16163,34 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
         <translation>Start-ramme</translation>
+    </message>
+    <message>
+        <source>Unit:</source>
+        <translation type="vanished">Enhed:</translation>
+    </message>
+    <message>
+        <source>points</source>
+        <translation type="vanished">punkter</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="vanished">Stilart</translation>
+    </message>
+    <message>
+        <source>B</source>
+        <translation type="vanished">B</translation>
+    </message>
+    <message>
+        <source>I</source>
+        <translation type="vanished">I</translation>
+    </message>
+    <message>
+        <source>U</source>
+        <translation type="vanished">U</translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation type="vanished">S</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -15579,6 +16257,10 @@ Vil du tilknytte igen?</translation>
         <translation>Strakt</translation>
     </message>
     <message>
+        <source>Scaled</source>
+        <translation type="vanished">Skaleret</translation>
+    </message>
+    <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
         <translation>Tilpas</translation>
@@ -15636,6 +16318,10 @@ Vil du tilknytte igen?</translation>
         <translation>Format</translation>
     </message>
     <message>
+        <source>Codec</source>
+        <translation type="vanished">Codec</translation>
+    </message>
+    <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
         <source>Speed</source>
         <translation>Hastighed</translation>
@@ -15645,6 +16331,28 @@ Vil du tilknytte igen?</translation>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
         <translation>(10 = hurtigst)</translation>
+    </message>
+    <message>
+        <source>Quantization for color</source>
+        <oldsource>Quantizer for color</oldsource>
+        <translation type="vanished">Mængdeangivelse af farve</translation>
+    </message>
+    <message>
+        <source>Lossless</source>
+        <translation type="vanished">Tabsfri</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation type="vanished">Minimum</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation type="vanished">Maksimum</translation>
+    </message>
+    <message>
+        <source>Quantization for alpha</source>
+        <oldsource>Quantizer for alpha</oldsource>
+        <translation type="vanished">Mængdeangivelse af alpha</translation>
     </message>
 </context>
 <context>
@@ -15895,6 +16603,18 @@ Vil du tilknytte igen?</translation>
 </context>
 <context>
     <name>DlgWritePDFClass</name>
+    <message>
+        <source>B&amp;W compression type</source>
+        <translation type="vanished">Sort/H&amp;vid-kompressionstype</translation>
+    </message>
+    <message>
+        <source>Grayscale compression type</source>
+        <translation type="vanished">Gråskala-kompressionstype</translation>
+    </message>
+    <message>
+        <source>Color compression type</source>
+        <translation type="vanished">Farve-kompressionstype</translation>
+    </message>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
@@ -16238,6 +16958,10 @@ Vil du slette favoritten &quot;%1&quot;?</translation>
 <context>
     <name>FileListWidget</name>
     <message>
+        <source>View as:</source>
+        <translation type="vanished">Se som:</translation>
+    </message>
+    <message>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Small thumbnails</source>
         <translation>Små miniaturer</translation>
@@ -16262,6 +16986,10 @@ Vil du slette favoritten &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
         <translation>Liste</translation>
+    </message>
+    <message>
+        <source>You can drag&amp;drop your files on the list below.</source>
+        <translation type="vanished">Du kan trække&amp;slippe dine filer på listen nedenfor.</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
@@ -17127,6 +17855,10 @@ Vil du slette favoritten &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
+    </message>
+    <message>
+        <source>File&apos;s categories</source>
+        <translation type="vanished">Fil kategorier</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
@@ -18562,6 +19294,18 @@ Vil du fortsætte?</translation>
         <translation>En fejl opstod.</translation>
     </message>
     <message>
+        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
+        <translation type="vanished">OBS. GEM i dette format det vil kassere kommentarer og eventuelle eksisterende metadata!</translation>
+    </message>
+    <message>
+        <source>Be careful, saving in this format will discard any existing metadata!</source>
+        <translation type="vanished">OBS. GEM i dette format vil  kassere alle eksisterende metadata!</translation>
+    </message>
+    <message>
+        <source>Be careful, saving in this format will discard some metadata!</source>
+        <translation type="vanished">OBS. GEM i dette format vil slette nogle metadata!</translation>
+    </message>
+    <message>
         <location filename="GFFHelper.h" line="19"/>
         <location filename="GFFHelper.h" line="33"/>
         <location filename="GFFHelper.h" line="47"/>
@@ -18810,6 +19554,19 @@ Vil du fortsætte?</translation>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
         <translation>Kinesisk (traditionelt)</translation>
+    </message>
+    <message>
+        <source>Simplified Chinese</source>
+        <translation type="vanished">Simplified Chinese</translation>
+    </message>
+    <message>
+        <source>Traditional Chinese</source>
+        <translation type="vanished">Traditional Chinese</translation>
+    </message>
+    <message>
+        <location filename="LanguageComboBox.cpp" line="57"/>
+        <source>Hebrew</source>
+        <translation>Hebrew</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19150,6 +19907,22 @@ Vil du fortsætte?</translation>
         <translation>Info-paneler</translation>
     </message>
     <message>
+        <source>GeoHack...</source>
+        <translation type="vanished">GeoHack...</translation>
+    </message>
+    <message>
+        <source>Google Map...</source>
+        <translation type="vanished">Google Map...</translation>
+    </message>
+    <message>
+        <source>Open Street...</source>
+        <translation type="vanished">Open Street...</translation>
+    </message>
+    <message>
+        <source>Google Earth App...</source>
+        <translation type="vanished">Google Earth App...</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Open GPS location in</source>
         <translation>Åbn GPS-placering med</translation>
@@ -19192,6 +19965,26 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="484"/>
         <source>Unrated</source>
         <translation>Uklassificeret</translation>
+    </message>
+    <message>
+        <source>Important</source>
+        <translation type="vanished">Vigtigt</translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="vanished">Arbejde</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="vanished">Personlig</translation>
+    </message>
+    <message>
+        <source>To do</source>
+        <translation type="vanished">Skal gøres</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="vanished">Senere</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
@@ -19311,6 +20104,14 @@ Vil du fortsætte?</translation>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation>Redigér GPS data...</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 90°</source>
+        <translation type="vanished">EXIF miniaturer - Drej 90°</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 270°</source>
+        <translation type="vanished">EXIF miniaturer - Drej 270°</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="609"/>
@@ -19489,6 +20290,10 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="540"/>
         <source>Status bar</source>
         <translation>Statuslinie</translation>
+    </message>
+    <message>
+        <source>Show title of panes</source>
+        <translation type="vanished">Vis rudetitler</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="326"/>
@@ -19754,6 +20559,10 @@ Vil du fortsætte?</translation>
         <translation>Markér/afmarkér nuværende</translation>
     </message>
     <message>
+        <source>Untag current</source>
+        <translation type="vanished">Fjern markering fra nuværende</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="473"/>
         <source>Invert</source>
         <translation>Omvend</translation>
@@ -19944,6 +20753,10 @@ Vil du fortsætte?</translation>
         <translation>Opfrisk</translation>
     </message>
     <message>
+        <source>Show files in subfolder</source>
+        <translation type="vanished">Vis filer i undermappe</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Stop</source>
         <translation>Stop</translation>
@@ -19999,6 +20812,10 @@ Vil du fortsætte?</translation>
         <translation>Se kun miniaturer</translation>
     </message>
     <message>
+        <source>Rotate clockwise</source>
+        <translation type="vanished">Drej med uret</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="584"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Drej baseret på EXIF retning</translation>
@@ -20007,6 +20824,14 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Reset EXIF orientation field</source>
         <translation>Nulstil EXIF retning</translation>
+    </message>
+    <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">Vend vandret</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">Vend lodret</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="588"/>
@@ -20023,6 +20848,14 @@ Vil du fortsætte?</translation>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Sammenlign...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">Åbn GPS-placering på GeoHack...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">Åbn GPS-placering i Google Earth...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -20200,6 +21033,10 @@ Vil du fortsætte?</translation>
         <translation>Tilpas billede til vindue, kun små</translation>
     </message>
     <message>
+        <source>Auto Image Size</source>
+        <translation type="vanished">Automatisk billedstørrelse</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
@@ -20349,6 +21186,10 @@ Vil du fortsætte?</translation>
         <translation>Hjemmeside...</translation>
     </message>
     <message>
+        <source>Visit XnView&apos;s Forum...</source>
+        <translation type="vanished">Besøg XnView&apos;s Forum...</translation>
+    </message>
+    <message>
         <location filename="xnview.cpp" line="1437"/>
         <source>Forum...</source>
         <translation>Forum..</translation>
@@ -20388,6 +21229,18 @@ Vil du fortsætte?</translation>
         <location filename="xnview.cpp" line="1444"/>
         <source>Purchase...</source>
         <translation>Køb...</translation>
+    </message>
+    <message>
+        <source>Follow XnView on Twitter...</source>
+        <translation type="vanished">Følg XnView på Twitter...</translation>
+    </message>
+    <message>
+        <source>Become a fan of XnView on Facebook...</source>
+        <translation type="vanished">Bliv fan af XnView på Facebook...</translation>
+    </message>
+    <message>
+        <source>Web capture...</source>
+        <translation type="vanished">Hent fra Internettet...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1454"/>
@@ -20935,6 +21788,14 @@ Vil du fortsætte?</translation>
         <translation>Rotér 90° til højre</translation>
     </message>
     <message>
+        <source>Tag current</source>
+        <translation type="vanished">Marker nuværende</translation>
+    </message>
+    <message>
+        <source>Untag current</source>
+        <translation type="vanished">Fjern markering fra nuværende</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next photo)</source>
         <translation>Fremragende (flyt til næste foto)</translation>
@@ -21054,6 +21915,10 @@ Vil du fortsætte?</translation>
         <location filename="ViewMenu.h" line="384"/>
         <source>Lock zoom</source>
         <translation>Lås Zoom</translation>
+    </message>
+    <message>
+        <source>Auto image size</source>
+        <translation type="vanished">Automatisk billedstørrelse</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="387"/>
@@ -21185,6 +22050,10 @@ Vil du fortsætte?</translation>
         <translation>Gruppe konvertering...</translation>
     </message>
     <message>
+        <source>Remove Background...</source>
+        <translation type="vanished">Fjern baggrund</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="690"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
@@ -21193,6 +22062,18 @@ Vil du fortsætte?</translation>
         <location filename="ViewMenu.h" line="691"/>
         <source>Effect</source>
         <translation>Effekt</translation>
+    </message>
+    <message>
+        <source>Effe&amp;ct</source>
+        <translation type="vanished">Effekt</translation>
+    </message>
+    <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">Åbn GPS-placering i GeoHack...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">Åbn GPS-placering i Google Earth...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
@@ -21294,6 +22175,10 @@ Vil du fortsætte?</translation>
         <translation>Niveauer...</translation>
     </message>
     <message>
+        <source>Filter...</source>
+        <translation type="vanished">Filter...</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="441"/>
         <source>User filter...</source>
         <translation>Bruger filter...</translation>
@@ -21339,9 +22224,27 @@ Vil du fortsætte?</translation>
         <translation>Hvidbalance...</translation>
     </message>
     <message>
+        <source>90° right</source>
+        <oldsource>90� right</oldsource>
+        <translation type="vanished">90° højre</translation>
+    </message>
+    <message>
+        <source>90° left</source>
+        <oldsource>90� left</oldsource>
+        <translation type="vanished">90° venstre</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
         <translation>Drej...</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="vanished">Vandret</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="vanished">Lodret</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
@@ -21494,6 +22397,22 @@ Vil du fortsætte?</translation>
         <translation>Ret farveskala...</translation>
     </message>
     <message>
+        <source>Google Map...</source>
+        <translation type="vanished">Google Map...</translation>
+    </message>
+    <message>
+        <source>Google Earth App...</source>
+        <translation type="vanished">Google Earth App...</translation>
+    </message>
+    <message>
+        <source>GeoHack...</source>
+        <translation type="vanished">GeoHack...</translation>
+    </message>
+    <message>
+        <source>Open Street...</source>
+        <translation type="vanished">Open Street...</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="418"/>
         <source>Open GPS location in</source>
         <translation>Åbn GPS-lokation i</translation>
@@ -21507,6 +22426,14 @@ Vil du fortsætte?</translation>
         <location filename="ViewMenu.h" line="440"/>
         <source>Effect...</source>
         <translation>Effekt...</translation>
+    </message>
+    <message>
+        <source>Rotate clockwise</source>
+        <translation type="vanished">Drej med uret</translation>
+    </message>
+    <message>
+        <source>Rotate counter clockwise</source>
+        <translation type="vanished">Drej mod uret</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
@@ -21538,6 +22465,18 @@ Vil du fortsætte?</translation>
         <location filename="ViewMenu.h" line="490"/>
         <source>Reset EXIF orientation field</source>
         <translation>Nulstil EXIF retnings felt</translation>
+    </message>
+    <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">Vend vandret</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">Vend lodret</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="vanished">Beskær</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -21596,6 +22535,10 @@ Vil du fortsætte?</translation>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Billede</translation>
+    </message>
+    <message>
+        <source>F&amp;ilter</source>
+        <translation type="vanished">F&amp;ilter</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="692"/>
@@ -21808,6 +22751,10 @@ Vil du fortsætte?</translation>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
+        <source>Abort</source>
+        <translation type="vanished">OM</translation>
+    </message>
+    <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
         <translation>Lav miniaturer...</translation>
@@ -21984,6 +22931,13 @@ Vil du fortsætte?</translation>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
         <translation>Forlad/afbryd</translation>
+    </message>
+</context>
+<context>
+    <name>MyProgressDialogEx</name>
+    <message>
+        <source>Creating contact sheet...</source>
+        <translation type="obsolete">Opretter kontaktark...</translation>
     </message>
 </context>
 <context>
@@ -22471,6 +23425,14 @@ Du kan ændre det i Indstillinger&gt;Katalog.</translation>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
         <translation>Håndter...</translation>
+    </message>
+    <message>
+        <source>Apply actions</source>
+        <translation type="vanished">Anvend handlinger</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -23353,6 +24315,10 @@ Højreklik for pop-op-menu med handlinger.</translation>
         <translation>Indsæt &gt;&gt;</translation>
     </message>
     <message>
+        <source>Default value</source>
+        <translation type="vanished">Standardværdi</translation>
+    </message>
+    <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
         <translation>Gem forudindstilling</translation>
@@ -23928,6 +24894,10 @@ Vil du beholde miniaturerne?
         <location filename="xnview.cpp" line="596"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Problem ved åbning af kataloget; kontrollér dine indstillinger eller den anvendte mappe!</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="vanished">Version</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="973"/>

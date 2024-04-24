@@ -89,9 +89,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>6</source>
+        <translation type="obsolete">100% {6?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation type="obsolete">100% {7?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -99,9 +107,17 @@
         <translation type="unfinished">Must</translation>
     </message>
     <message>
+        <source>8</source>
+        <translation type="obsolete">100% {8?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
         <translation type="unfinished">Valge</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="obsolete">100% {9?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -177,6 +193,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
         <translation type="unfinished"></translation>
@@ -225,6 +245,10 @@
         <location filename="AboutWidget.ui" line="481"/>
         <source>What&apos;s New</source>
         <translation>Mida uut</translation>
+    </message>
+    <message>
+        <source>INI filename: </source>
+        <translation type="vanished">INI faili nimi: </translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -343,6 +367,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Save as...</source>
+        <translation type="obsolete">Salvesta kui...</translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="211"/>
         <source>Save &amp;as...</source>
         <translation type="unfinished"></translation>
@@ -369,6 +397,10 @@
         <translation>&lt; Tühi &gt;</translation>
     </message>
     <message>
+        <source>Are you sure to delete &quot;%1&quot;?</source>
+        <translation type="vanished">Kas soovite tõesti kustutada &quot;%1&quot;?</translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>This picture will be saved as RGB with 8bits per component</source>
         <translation type="unfinished"></translation>
@@ -383,6 +415,14 @@
         <location filename="ViewWindow.cpp" line="2799"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Fail &lt;%1&gt;on kirjutuskaitstud, palun valige teine nimi.</translation>
+    </message>
+    <message>
+        <source>The file &lt;%1&gt; already exists!
+
+Do you want to overwrite it?</source>
+        <translation type="vanished">Fail &lt;%1&gt; on olemas!
+
+Kas soovite seda üle kirjutada?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2833"/>
@@ -408,6 +448,10 @@
         <location filename="ViewWindow.cpp" line="3089"/>
         <source>Properties</source>
         <translation>Omadused</translation>
+    </message>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">See pilt teisendatakse RGB-formaati, mis sisaldab 8bitiseid komponente</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
@@ -472,6 +516,10 @@
 </context>
 <context>
     <name>BaseViewWindow</name>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">See pilt teisendatakse RGB-formaati, mis sisaldab 8bitiseid komponente</translation>
+    </message>
     <message>
         <location filename="ViewWindow.cpp" line="4681"/>
         <source>Error</source>
@@ -621,6 +669,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Sobita</translation>
     </message>
     <message>
+        <source>Any</source>
+        <translation type="vanished">Suvaline</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="vanished">Kõik</translation>
+    </message>
+    <message>
         <location filename="BrowserWindow.cpp" line="2117"/>
         <source>Global</source>
         <translation type="unfinished"></translation>
@@ -644,6 +700,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="3213"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Märgitud failid&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;DB result&gt;</source>
+        <translation type="vanished">&lt;AB tulemus&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
@@ -714,6 +774,10 @@ Drag and Drop over the desired node to assign.</source>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Show all files (recursive)</source>
+        <translation type="vanished">Näita kõiki faile (rekursiivselt)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
@@ -1010,6 +1074,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Histogramm</translation>
     </message>
     <message>
+        <source>Use tabs</source>
+        <translation type="obsolete">Kasuta sakke</translation>
+    </message>
+    <message>
         <location filename="CompareWidget.cpp" line="68"/>
         <source>Normal</source>
         <translation type="unfinished">Normaal</translation>
@@ -1221,6 +1289,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Pööra</translation>
     </message>
     <message>
+        <source>Gammasat</source>
+        <translation type="vanished">Gammasat</translation>
+    </message>
+    <message>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
@@ -1282,6 +1354,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="2657"/>
         <source>HLS</source>
         <translation>HLS</translation>
+    </message>
+    <message>
+        <source>Swap component</source>
+        <translation type="vanished">Vaheta komponent</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2732"/>
@@ -1399,6 +1475,11 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="4794"/>
         <source>Halftone</source>
         <translation>Pooltoonid</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertProcess.h" line="4813"/>
+        <source>IPTC-IIM/XMP</source>
+        <translation>IPC-IIM/XMP</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
@@ -1576,6 +1657,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Tasanda</translation>
     </message>
     <message>
+        <source>Conbright</source>
+        <translatorcomment>???</translatorcomment>
+        <translation type="vanished">Conbright</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.cpp" line="205"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
@@ -1586,6 +1672,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>Ülesäritus</translation>
+    </message>
+    <message>
+        <source>Exposure</source>
+        <translation type="vanished">Säritus</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="223"/>
@@ -2106,6 +2196,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgArchive.ui" line="32"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open File Explorer after compressing</source>
         <translation type="unfinished"></translation>
@@ -2120,6 +2215,18 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgArchive.cpp" line="124"/>
         <source>Archive file</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DlgAskClass</name>
+    <message>
+        <source>Confirm</source>
+        <translation type="vanished">Kinnitus</translation>
+    </message>
+    <message>
+        <source>Remember my answer and don&apos;t ask again</source>
+        <oldsource>Do not show this message again.</oldsource>
+        <translation type="obsolete">Ära seda teadet enam näita.</translation>
     </message>
 </context>
 <context>
@@ -2925,6 +3032,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Meetod</translation>
     </message>
     <message>
+        <source>Delay (sec)</source>
+        <translation type="vanished">Viivitus (sek)</translation>
+    </message>
+    <message>
         <location filename="DlgCapture.ui" line="117"/>
         <source>Delay</source>
         <translation type="unfinished"></translation>
@@ -3113,6 +3224,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Kommentaar</translation>
     </message>
     <message>
+        <location filename="DlgClean.ui" line="40"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF pisipilt</translation>
@@ -3121,6 +3237,17 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
         <translation>GPS</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="101"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="108"/>
+        <source>IPTC-IIM</source>
+        <oldsource>IPTC</oldsource>
+        <translation>IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="115"/>
@@ -3327,6 +3454,12 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished">Päis</translation>
     </message>
     <message>
+        <location filename="DlgContactSheet.ui" line="472"/>
+        <location filename="DlgContactSheet.ui" line="500"/>
+        <source>&gt;&gt;</source>
+        <translation type="unfinished">&gt;&gt;</translation>
+    </message>
+    <message>
         <location filename="DlgContactSheet.ui" line="482"/>
         <source>Footer</source>
         <translation type="unfinished">Jalus</translation>
@@ -3525,6 +3658,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation type="unfinished">&lt;br&gt;XnConvert on vabavara&lt;br&gt;&lt;br&gt;Teile on antud õigus kasutada  seda tarkvara piiramatul hulgal koopiatena.&lt;br&gt;&lt;br&gt;Tarkvara on antud kujul &quot;nagu on&quot; (&quot;as-is&quot;).&lt;br&gt;Mitte mingisugust garantiid ei anta ega saa nõuda.&lt;br&gt;Autor ei ole vastutav mitte mingil moel ühegi andmekao, andmete kaotsi mineku ega saamata jäänud tulu eest, kui seda tarkvara on kasutatud kas õigel või valel moel või suvalisel muul eesmärgil.&lt;br&gt;&lt;br&gt;Kõik ettepanekud, tagasiside ja kommentaarid on teretulnud. </translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation type="vanished">Informatsioon</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1283"/>
@@ -3945,6 +4082,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
         <translation type="unfinished">Orientatsioon</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="obsolete">Režiim</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
@@ -4932,6 +5073,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
+        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -5084,9 +5226,24 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Kommentaar</translation>
     </message>
     <message>
+        <location filename="DlgConvertCleanMeta.ui" line="24"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="31"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF pisipilt</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="45"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
@@ -5438,6 +5595,12 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Sisendprofiil (vaikimisi sRGB)</translation>
     </message>
     <message>
+        <location filename="DlgConvertICC.ui" line="45"/>
+        <location filename="DlgConvertICC.ui" line="82"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation>Väljundprofiil (vaikimisi sRGB)</translation>
@@ -5578,6 +5741,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>Insert from</source>
         <translation type="unfinished">Lisa</translation>
     </message>
+    <message>
+        <source>Edit history...</source>
+        <translation type="obsolete">Redigeeri ajalugu...</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
@@ -5648,6 +5815,7 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Mask</translation>
     </message>
     <message>
+        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation>...</translation>
@@ -6570,6 +6738,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>Color</source>
         <translation type="unfinished">Värv</translation>
     </message>
+    <message>
+        <source>Add vignetting</source>
+        <translation type="vanished">Lisa vinjett</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
@@ -6607,6 +6779,18 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertWatermark.ui" line="31"/>
         <source>Size</source>
         <translation>Suurus</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="vanished">Normaal</translation>
+    </message>
+    <message>
+        <source>Repeat image</source>
+        <translation type="vanished">Korda pilti</translation>
+    </message>
+    <message>
+        <source>Percentage (width)</source>
+        <translation type="vanished">Protent (laius)</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="46"/>
@@ -6703,6 +6887,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom right</source>
         <translation>Alla paremale</translation>
+    </message>
+    <message>
+        <source>Delta</source>
+        <translation type="vanished">Delta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7740,6 +7928,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Auto refresh</source>
+        <translation type="vanished">Automaatvärskendus</translation>
+    </message>
+    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -7829,6 +8021,10 @@ Please make sure that files are not read-only!</oldsource>
         <source>Best</source>
         <translation>Parim</translation>
     </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="vanished">Värskenda</translation>
+    </message>
 </context>
 <context>
     <name>DlgFile</name>
@@ -7914,6 +8110,11 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translation>Näita valitud kausta kaustapuus</translation>
+    </message>
+    <message>
+        <location filename="DlgFile.ui" line="36"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -8271,6 +8472,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Uploading %1...</source>
+        <translation type="vanished">Laen üles %1...</translation>
+    </message>
+    <message>
         <location filename="DlgFtp.cpp" line="573"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>Ei õnnestu luua ühendust FTP serveriga %1. Palun kontrollige, et serveri nimi on õige.</translation>
@@ -8284,6 +8489,14 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFtp.cpp" line="586"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
         <translation>Ei õnnestu luua ühendust FTP serveriga %1. Palun kontrollige, et kasutajatunnus ja parool on õiged.</translation>
+    </message>
+    <message>
+        <source>Canceled upload of %1.</source>
+        <translation type="vanished">Üleslaadimine (%1) tühistatud.</translation>
+    </message>
+    <message>
+        <source>Uploaded %1 to current directory.</source>
+        <translation type="vanished">%1 üles laetud aktiivsesse kausta.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
@@ -9372,6 +9585,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Nimi</translation>
     </message>
     <message>
+        <source>Parameter</source>
+        <translation type="vanished">Parameeter</translation>
+    </message>
+    <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
@@ -9792,6 +10009,10 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
         <translation>Alla paremale</translation>
+    </message>
+    <message>
+        <source>Gamma</source>
+        <translation type="vanished">Gamma</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -10813,6 +11034,10 @@ Thank you for purchasing %1.</source>
         <translation type="unfinished">Kasuta anti-aliast</translation>
     </message>
     <message>
+        <source>Smooth</source>
+        <translation type="vanished">Sujuv</translation>
+    </message>
+    <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
         <translation>Automaatne lõige</translation>
@@ -10870,6 +11095,14 @@ Thank you for purchasing %1.</source>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
         <translation>Kasuta reg. av</translation>
+    </message>
+    <message>
+        <source>Match All of the following conditions</source>
+        <translation type="vanished">Vastab kõikidele järgmistele tingimustele</translation>
+    </message>
+    <message>
+        <source>Match Any of the following conditions</source>
+        <translation type="vanished">Vastab suvalisele järgmistest tingimustest</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11071,6 +11304,10 @@ Thank you for purchasing %1.</source>
         <translation>Failinimekiri</translation>
     </message>
     <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">Täisekraan</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
         <translation>Üldine</translation>
@@ -11104,6 +11341,21 @@ Thank you for purchasing %1.</source>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
         <translation type="unfinished">Formaadid</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsAuto</name>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">Asenda</translation>
+    </message>
+    <message>
+        <source>With</source>
+        <translation type="obsolete">järgnevaks</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="obsolete">Kustuta</translation>
     </message>
 </context>
 <context>
@@ -11712,6 +11964,11 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>Seostatud programm</translation>
     </message>
     <message>
+        <location filename="DlgSettingsFilelist.cpp" line="193"/>
+        <source>XnView</source>
+        <translation>XnView</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation>Nähtav</translation>
@@ -11721,6 +11978,11 @@ Do you want to remove entries assigned to a category?</oldsource>
         <source>Show as 
 Thumbnail</source>
         <translation>Näita pisipildina</translation>
+    </message>
+    <message>
+        <source>Show in 
+Preview</source>
+        <translation type="vanished">Näita eelvaates</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -11836,9 +12098,17 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Automatically select new files</source>
+        <translation type="obsolete">Vali automaatselt uued failid</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
         <source>New files are added at the end of the list</source>
         <translation>Uued failid lisatakse nimekirja lõppu</translation>
+    </message>
+    <message>
+        <source>Select first item on entering folder</source>
+        <translation type="vanished">Kausta sisenedes vali esimene üksus</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
@@ -11914,6 +12184,14 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="226"/>
         <source>Association list (use ; as separator)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="obsolete">Sisemine kommentaar</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="obsolete">Kirjeldus</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
@@ -12014,6 +12292,51 @@ Thumbnail</source>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsFullscreenClass</name>
+    <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">Täisekraan</translation>
+    </message>
+    <message>
+        <source>Auto image size</source>
+        <translation type="obsolete">Automaatne pildi suurus</translation>
+    </message>
+    <message>
+        <source>Show playbar</source>
+        <translation type="vanished">Näita mängimise riba</translation>
+    </message>
+    <message>
+        <source>Show info</source>
+        <translation type="vanished">Näita infot</translation>
+    </message>
+    <message>
+        <source>Show scrollbars</source>
+        <oldsource>Hide scrollbars</oldsource>
+        <translation type="obsolete">Peida kerimisribad</translation>
+    </message>
+    <message>
+        <source>Show toolbar</source>
+        <oldsource>Hide toolbar</oldsource>
+        <translation type="obsolete">Peida tööriistariba</translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation type="vanished">Tausta värv</translation>
+    </message>
+    <message>
+        <source>Dual monitor: Use second monitor</source>
+        <translation type="vanished">Kaks monitori: kasuta teist monitori</translation>
+    </message>
+    <message>
+        <source>Floating views</source>
+        <translation type="vanished">Liikuvad vaated</translation>
+    </message>
+    <message>
+        <source>(appear when the mouse is moved to the top or right of the screen)</source>
+        <translation type="vanished">(ilmuvad, kui viia hiirekursor ekraani ülemisse või paremasse serva)</translation>
     </message>
 </context>
 <context>
@@ -12199,6 +12522,10 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="514"/>
         <source>For &apos;Save as&apos;, use original pathname</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="obsolete">Normaal</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
@@ -12402,6 +12729,10 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>ICC</source>
+        <translation type="vanished">ICC</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="741"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
@@ -12545,6 +12876,13 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="36"/>
         <source>Integration</source>
         <translation>Integratsioon</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="168"/>
+        <location filename="DlgSettingsIntegration.ui" line="195"/>
+        <location filename="DlgSettingsIntegration.ui" line="231"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="42"/>
@@ -12778,6 +13116,10 @@ Do you want to reassign?</source>
         <translation type="unfinished">Lehitsemise režiim</translation>
     </message>
     <message>
+        <source>View mode</source>
+        <translation type="vanished">Vaate režiim</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
@@ -12793,6 +13135,10 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="628"/>
         <source>Large icons</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Viewer mode</source>
+        <translation type="obsolete">Vaate režiim</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="554"/>
@@ -12863,6 +13209,18 @@ Do you want to reassign?</source>
         <translation type="unfinished">Keri üles/alla</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation type="obsolete">Mitte kunagi</translation>
+    </message>
+    <message>
+        <source>Only in fullscreen</source>
+        <translation type="obsolete">Ainult täisekraanis</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="obsolete">Alati</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
         <source>Mouse</source>
         <translation type="unfinished">Hiir</translation>
@@ -12911,6 +13269,10 @@ Do you want to reassign?</source>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation type="unfinished">Suumitud valikala</translation>
+    </message>
+    <message>
+        <source>Left button + CTRL</source>
+        <translation type="obsolete">Vasak nupp + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1677"/>
@@ -13036,6 +13398,14 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Right button + CTRL</source>
+        <translation type="obsolete">Parem nupp + CTRL</translation>
+    </message>
+    <message>
+        <source>Mouse wheel</source>
+        <translation type="obsolete">Hiire ratas</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
@@ -13065,6 +13435,10 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Use double click to switch between:</source>
+        <translation type="obsolete">Kasuta topeltklõpsu vahetamaks:</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
         <location filename="DlgSettingsInterface.ui" line="1987"/>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
@@ -13091,6 +13465,14 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser &gt; Viewer &gt; Fullscreen</source>
         <translation type="unfinished">Lehitseja &gt; Tavavaade &gt; Täisekraanivaade</translation>
+    </message>
+    <message>
+        <source>Use middle click to switch between:</source>
+        <translation type="obsolete">Kasuta keskmist nuppu vahetamaks:</translation>
+    </message>
+    <message>
+        <source>Use ENTER to switch between:</source>
+        <translation type="obsolete">Kasuta ENTER-klahvi vahetamaks:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -13224,6 +13606,14 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
+        <source>IPTC &amp;&amp; XMP</source>
+        <translation type="vanished">IPTC ja XMP</translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation type="vanished">Võtmesõnad</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to DB Categories</oldsource>
@@ -13330,6 +13720,14 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Yes</source>
+        <translation type="obsolete">Jah</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="obsolete">Ei</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
         <translation type="unfinished"></translation>
@@ -13343,6 +13741,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="428"/>
+        <source>IPTC</source>
+        <translation type="unfinished">IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
@@ -13393,6 +13796,10 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>JPEG</source>
+        <translation type="obsolete">JPEG</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Labels</source>
         <translation type="unfinished">Sildid</translation>
@@ -13400,6 +13807,10 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsPanel</name>
+    <message>
+        <source>Information</source>
+        <translation type="obsolete">Informatsioon</translation>
+    </message>
     <message>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
@@ -13409,6 +13820,10 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
+    <message>
+        <source>Misc</source>
+        <translation type="vanished">Muud</translation>
+    </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -13543,6 +13958,10 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Background color</source>
+        <translation type="vanished">Tausta värv</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Border size</source>
         <translation>Raami suurus</translation>
@@ -13583,6 +14002,11 @@ Do you want to reassign?</source>
         <translation>Otsetee</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="634"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="534"/>
         <source>Tag</source>
         <translation>Märge</translation>
@@ -13591,6 +14015,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="833"/>
         <source>Automatic rotation</source>
         <translation>Automaatne pööramine</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="541"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
@@ -13603,9 +14032,19 @@ Do you want to reassign?</source>
         <translation>Sisemine pisipilt</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="826"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
         <translation>Värvi silt</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="766"/>
+        <source>GPS</source>
+        <translation>GPS</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -13628,6 +14067,10 @@ Do you want to reassign?</source>
         <translation>Sildid</translation>
     </message>
     <message>
+        <source>Text color</source>
+        <translation type="vanished">Teksti värv</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Reset color</source>
         <translation>Taasta värv</translation>
@@ -13641,6 +14084,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="988"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -14083,6 +14531,10 @@ Do you want to reassign?</source>
         <translation type="unfinished">(ilmuvad, kui viia hiirekursor ekraani ülemisse või paremasse serva)</translation>
     </message>
     <message>
+        <source>Information displayed</source>
+        <translation type="vanished">Näidatud informatsioon</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
         <source>Text color</source>
         <translation>Teksti värv</translation>
@@ -14248,6 +14700,13 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
         <translation>Vähenda</translation>
+    </message>
+    <message>
+        <location filename="DlgSimilarResult.ui" line="87"/>
+        <location filename="DlgSimilarResult.ui" line="156"/>
+        <location filename="DlgSimilarResult.ui" line="239"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
@@ -14528,6 +14987,12 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSlideshow.ui" line="210"/>
+        <location filename="DlgSlideshow.ui" line="314"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
         <translation type="unfinished"></translation>
@@ -14589,6 +15054,15 @@ Do you want to reassign?</source>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSplit.ui" line="30"/>
+        <location filename="DlgSplit.ui" line="44"/>
+        <location filename="DlgSplit.ui" line="58"/>
+        <location filename="DlgSplit.ui" line="72"/>
+        <location filename="DlgSplit.ui" line="96"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -15083,6 +15557,11 @@ Do you want to reassign?</source>
         <translation>EXIF: Pildistamise kuupäev</translation>
     </message>
     <message>
+        <location filename="DlgTimestamp.ui" line="488"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
+    </message>
+    <message>
         <location filename="DlgTimestamp.ui" line="498"/>
         <source>EXIF: Date digitized</source>
         <translation>EXIF: Digitaliseerimise kuupäev</translation>
@@ -15292,32 +15771,38 @@ Do you want to reassign?</source>
         <translation>Autentimine</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="147"/>
+        <location filename="DlgUpload.ui" line="138"/>
         <source>Username</source>
         <translation>Kasutajatunnus</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="157"/>
+        <location filename="DlgUpload.ui" line="148"/>
         <source>Password</source>
         <translation>Parool</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="177"/>
+        <location filename="DlgUpload.ui" line="168"/>
         <source>User</source>
         <translation>Kasutaja</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="202"/>
+        <location filename="DlgUpload.ui" line="193"/>
         <source>New user...</source>
         <translation>Uus kasutaja...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="233"/>
+        <location filename="DlgUpload.ui" line="224"/>
         <source>Thumbnail link</source>
         <translation>Pisipildi viide</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="261"/>
+        <location filename="DlgUpload.ui" line="241"/>
+        <location filename="DlgUpload.ui" line="269"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <location filename="DlgUpload.ui" line="252"/>
         <source>Image link</source>
         <translation>Pildi viide</translation>
     </message>
@@ -15339,6 +15824,12 @@ Do you want to reassign?</source>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUserFilter.ui" line="36"/>
+        <location filename="DlgUserFilter.ui" line="63"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="60"/>
@@ -15425,6 +15916,34 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unit:</source>
+        <translation type="obsolete">Ühik:</translation>
+    </message>
+    <message>
+        <source>points</source>
+        <translation type="obsolete">punkti</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="obsolete">Stiil</translation>
+    </message>
+    <message>
+        <source>B</source>
+        <translation type="obsolete">B</translation>
+    </message>
+    <message>
+        <source>I</source>
+        <translation type="obsolete">I</translation>
+    </message>
+    <message>
+        <source>U</source>
+        <translation type="obsolete">U</translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation type="obsolete">S</translation>
+    </message>
+    <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
         <source>Color</source>
         <translation type="unfinished">Värv</translation>
@@ -15486,6 +16005,10 @@ Do you want to reassign?</source>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretched</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scaled</source>
+        <translation type="vanished">Venitatuna</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16169,6 +16692,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
         <translation type="unfinished">Nimekiri</translation>
+    </message>
+    <message>
+        <source>You can drag&amp;drop your files on the list below.</source>
+        <translation type="obsolete">Allolevasse nimekirja saate oma faile lohistada.</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
@@ -18457,6 +18984,14 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished">Tekkis viga.</translation>
     </message>
     <message>
+        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
+        <translation type="obsolete">Tähelepanu! Sellesse formaati salvestades kaotate kommentaarid ja kõik metaandmed!</translation>
+    </message>
+    <message>
+        <source>Be careful, saving in this format will discard any existing metadata!</source>
+        <translation type="obsolete">Tähelepanu! Sellesse formaati salvestades kaotate kõik meteaandmed!</translation>
+    </message>
+    <message>
         <location filename="GFFHelper.h" line="19"/>
         <location filename="GFFHelper.h" line="33"/>
         <location filename="GFFHelper.h" line="47"/>
@@ -18704,6 +19239,19 @@ Kas soovite jätkata?</translation>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simplified Chinese</source>
+        <translation type="vanished">Lihtsustatud Hiina</translation>
+    </message>
+    <message>
+        <source>Traditional Chinese</source>
+        <translation type="vanished">Traditsiooniline Hiina</translation>
+    </message>
+    <message>
+        <location filename="LanguageComboBox.cpp" line="57"/>
+        <source>Hebrew</source>
+        <translation>Heebrea</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19155,6 +19703,26 @@ Kas soovite jätkata?</translation>
         <translation>Hindamata</translation>
     </message>
     <message>
+        <source>Important</source>
+        <translation type="vanished">Tähtis</translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="vanished">Töö</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="vanished">Isiklik</translation>
+    </message>
+    <message>
+        <source>To do</source>
+        <translation type="vanished">Tegemiseks</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="vanished">Hiljem</translation>
+    </message>
+    <message>
         <location filename="CompareWidget.cpp" line="486"/>
         <location filename="BrowserMenu.h" line="122"/>
         <location filename="BrowserMenu.h" line="502"/>
@@ -19280,9 +19848,18 @@ Kas soovite jätkata?</translation>
         <translation>Failinimistu tööriistariba</translation>
     </message>
     <message>
+        <source>Show title of panes</source>
+        <translation type="vanished">Näita tiitlit paanidel</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Preview as tab</source>
         <translation>Eelvaade sakina</translation>
+    </message>
+    <message>
+        <source>Rotate clockwise</source>
+        <oldsource>Rotate 180�</oldsource>
+        <translation type="obsolete">Pööra 180° {180�?}</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="584"/>
@@ -19748,6 +20325,10 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished">Märgi aktiivne</translation>
     </message>
     <message>
+        <source>Untag current</source>
+        <translation type="vanished">Võta aktiivselt märge maha</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="473"/>
         <source>Invert</source>
         <translation>Märge vastupidiseks</translation>
@@ -19942,6 +20523,10 @@ Kas soovite jätkata?</translation>
         <translation>Värskenda</translation>
     </message>
     <message>
+        <source>Show files in subfolder</source>
+        <translation type="vanished">Näita faile alamkaustas</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Stop</source>
         <translation>Seiska</translation>
@@ -20008,6 +20593,14 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished">Pööra kellaosutile vastu</translation>
     </message>
     <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">Peegelda horisontaalis</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">Peegelda vertikaalis</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>JPEG lossless transformations</source>
         <translation>JPEG kadudeta teisendused</translation>
@@ -20022,6 +20615,14 @@ Kas soovite jätkata?</translation>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Võrdle...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">Ava GPS asukoht GeoHack abil...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">Ava GPS asukoht Google Earth abil...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -20060,6 +20661,14 @@ Kas soovite jätkata?</translation>
         <location filename="BrowserMenu.h" line="605"/>
         <source>Clean...</source>
         <translation>Puhasta...</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 90°</source>
+        <translation type="vanished">EXIF pisipilt - pööra 90°</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 270°</source>
+        <translation type="vanished">EXIF pisipilt - pööra 270°</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="608"/>
@@ -20162,6 +20771,10 @@ Kas soovite jätkata?</translation>
         <translation>Näita sinist</translation>
     </message>
     <message>
+        <source>Auto Image Size</source>
+        <translation type="vanished">Automaatne pildi suurus</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Zoom</source>
         <translation>Suum</translation>
@@ -20216,6 +20829,10 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished">Külastage XnView veebi...</translation>
     </message>
     <message>
+        <source>Visit XnView&apos;s Forum...</source>
+        <translation type="vanished">Külasta XnView foorumit...</translation>
+    </message>
+    <message>
         <location filename="xnview.cpp" line="1441"/>
         <source>Make a donation...</source>
         <translation>Toeta rahaliselt...</translation>
@@ -20265,6 +20882,18 @@ Kas soovite jätkata?</translation>
         <location filename="xnview.cpp" line="1444"/>
         <source>Purchase...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow XnView on Twitter...</source>
+        <translation type="vanished">Järgi XnView&apos;d Twitter&apos;is...</translation>
+    </message>
+    <message>
+        <source>Become a fan of XnView on Facebook...</source>
+        <translation type="vanished">Hakka XnView&apos;d Facebook &apos;i fänniks...</translation>
+    </message>
+    <message>
+        <source>Web capture...</source>
+        <translation type="vanished">Veebi pildihõive...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1454"/>
@@ -20786,6 +21415,14 @@ Kas soovite jätkata?</translation>
         <translation>Nimeta ringi...</translation>
     </message>
     <message>
+        <source>Tag current</source>
+        <translation type="vanished">Märgi aktiivne</translation>
+    </message>
+    <message>
+        <source>Untag current</source>
+        <translation type="vanished">Võta aktiivselt märge maha</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next photo)</source>
         <translation type="unfinished"></translation>
@@ -20904,6 +21541,10 @@ Kas soovite jätkata?</translation>
         <location filename="ViewMenu.h" line="384"/>
         <source>Lock zoom</source>
         <translation>Lukusta suum</translation>
+    </message>
+    <message>
+        <source>Auto image size</source>
+        <translation type="vanished">Automaatne pildi suurus</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="387"/>
@@ -21031,6 +21672,14 @@ Kas soovite jätkata?</translation>
         <location filename="ViewMenu.h" line="413"/>
         <source>Batch convert...</source>
         <translation>Rühmakaupa teisendus...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">Ava GPS asukoht GeoHack abil...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">Ava GPS asukoht Google Earth abil...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
@@ -21172,6 +21821,16 @@ Kas soovite jätkata?</translation>
         <location filename="ViewMenu.h" line="450"/>
         <source>White Balance...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>90° right</source>
+        <oldsource>90� right</oldsource>
+        <translation type="obsolete">90° paremale {90�?}</translation>
+    </message>
+    <message>
+        <source>90° left</source>
+        <oldsource>90� left</oldsource>
+        <translation type="obsolete">90° vasakule {90�?}</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
@@ -21353,6 +22012,14 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Horizontal</source>
+        <translation type="vanished">Horisontaalis</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="vanished">Vertikaalis</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
@@ -21420,6 +22087,14 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Rotate clockwise</source>
+        <translation type="vanished">Pööra kellaosuti suunas</translation>
+    </message>
+    <message>
+        <source>Rotate counter clockwise</source>
+        <translation type="vanished">Pööra kellaosutile vastu</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="489"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Pööra pilti EXIF välja järgi</translation>
@@ -21428,6 +22103,18 @@ Kas soovite jätkata?</translation>
         <location filename="ViewMenu.h" line="490"/>
         <source>Reset EXIF orientation field</source>
         <translation>Määra EXIF pöörde väli </translation>
+    </message>
+    <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">Peegelda horisontaalis</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">Peegelda vertikaalis</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="vanished">Kärbi</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -21677,6 +22364,10 @@ Kas soovite jätkata?</translation>
 </context>
 <context>
     <name>MyAddFolderProcess2</name>
+    <message>
+        <source>Abort</source>
+        <translation type="obsolete">Katkesta</translation>
+    </message>
     <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
@@ -22344,6 +23035,14 @@ You can change it in Settings&gt;Catalog.</source>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply actions</source>
+        <translation type="obsolete">Rakenda tegevused</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -23208,6 +23907,10 @@ Right Click for pop-up menu with actions.</source>
         <location filename="TemplateWidget.ui" line="129"/>
         <source>Insert &gt;&gt;</source>
         <translation>Lisa &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Default value</source>
+        <translation type="vanished">Vaikeväärtus</translation>
     </message>
     <message>
         <location filename="TemplateWidget.ui" line="70"/>

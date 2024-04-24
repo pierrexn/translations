@@ -89,9 +89,17 @@
         <translation>橙色</translation>
     </message>
     <message>
+        <source>6</source>
+        <translation type="obsolete">100% {6?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
         <translation>灰色</translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation type="obsolete">100% {7?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -99,9 +107,17 @@
         <translation>黑色</translation>
     </message>
     <message>
+        <source>8</source>
+        <translation type="obsolete">100% {8?}</translation>
+    </message>
+    <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
         <translation>白色</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="obsolete">100% {9?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -228,6 +244,10 @@
         <translation>更新日志</translation>
     </message>
     <message>
+        <source>INI filename: </source>
+        <translation type="vanished">INI 文件名:</translation>
+    </message>
+    <message>
         <location filename="AboutWidget.cpp" line="228"/>
         <source>Format</source>
         <translation>格式</translation>
@@ -284,6 +304,10 @@
         <translation>是否想要保存更改到“%1”？</translation>
     </message>
     <message>
+        <source>Save as...</source>
+        <translation type="vanished">另存为...</translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="1353"/>
         <source>Frame %1/%2</source>
         <translation>帧 %1/%2</translation>
@@ -303,6 +327,14 @@
         <location filename="ViewWindow.cpp" line="1571"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 空 &gt;</translation>
+    </message>
+    <message>
+        <source>Are you sure to delete &quot;%1&quot;?</source>
+        <translation type="vanished">是否要删除 &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>Are you sure to delete &quot;%1&quot; (%2 items)?</source>
+        <translation type="vanished">确定要删除这 &quot;%1&quot; 个文件(共 %2 个文件）吗?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
@@ -423,6 +455,18 @@
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>文件&lt;%1&gt;是只读的，请选择另外一个文件名。</translation>
     </message>
+    <message>
+        <source>The file &lt;%1&gt; already exists!
+
+Do you want to overwrite it?</source>
+        <translation type="vanished">文件&lt;%1&gt;已存在！
+
+是否覆盖？</translation>
+    </message>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">当前图像会被转换为8位RGB</translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -476,6 +520,10 @@
 </context>
 <context>
     <name>BaseViewWindow</name>
+    <message>
+        <source>This picture will be converted to RGB with 8bits per component</source>
+        <translation type="vanished">当前图像会被转换为8位RGB</translation>
+    </message>
     <message>
         <location filename="ViewWindow.cpp" line="4681"/>
         <source>Error</source>
@@ -587,6 +635,16 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>匹配</translation>
     </message>
     <message>
+        <source>Any</source>
+        <translatorcomment>这个什么意思？</translatorcomment>
+        <translation type="vanished">任意</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translatorcomment>这个什么意思？</translatorcomment>
+        <translation type="obsolete">全部</translation>
+    </message>
+    <message>
         <location filename="BrowserWindow.cpp" line="2117"/>
         <source>Global</source>
         <translatorcomment>整个电脑内的文件？</translatorcomment>
@@ -612,6 +670,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="3213"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;标记的文件&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;DB result&gt;</source>
+        <translation type="vanished">&lt;数据库结果&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
@@ -712,6 +774,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>
             <numerusform>确定要删除选中的 %n 项 - %1 项吗?</numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Show all files (recursive)</source>
+        <translation type="vanished">显示所有文件（含子目录）</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
@@ -1016,6 +1082,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>直方图</translation>
     </message>
     <message>
+        <source>Use tabs</source>
+        <translation type="vanished">使用标签卡</translation>
+    </message>
+    <message>
         <location filename="CompareWidget.cpp" line="537"/>
         <source>Zoom out</source>
         <translation>缩小</translation>
@@ -1211,6 +1281,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>旋转</translation>
     </message>
     <message>
+        <source>Gammasat</source>
+        <translation type="obsolete">光彩度</translation>
+    </message>
+    <message>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <translation>设定 DPI</translation>
@@ -1244,6 +1318,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="2657"/>
         <source>HLS</source>
         <translation>HLS</translation>
+    </message>
+    <message>
+        <source>Swap component</source>
+        <translation type="vanished">交换通道</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2732"/>
@@ -1503,6 +1581,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation>半调</translation>
     </message>
     <message>
+        <location filename="DlgConvertProcess.h" line="4813"/>
+        <source>IPTC-IIM/XMP</source>
+        <translation>IPTC-IIM/XMP</translation>
+    </message>
+    <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
         <source>QR Code</source>
         <translation>二维码</translation>
@@ -1583,6 +1666,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>补偿</translation>
     </message>
     <message>
+        <source>Conbright</source>
+        <translation type="obsolete">光亮度</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.cpp" line="205"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
@@ -1593,6 +1680,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>曝光过度</translation>
+    </message>
+    <message>
+        <source>Exposure</source>
+        <translation type="vanished">曝光度</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="223"/>
@@ -1811,6 +1902,21 @@ Drag and Drop over the desired node to assign.</source>
         <source>WARNING: The picture will be converted to RGB with 8bits per component</source>
         <oldsource>WARNING: the picture will be converted to RGB with 8bits per component</oldsource>
         <translation>警告：当前图像会被转换为 8 位 RGB 颜色</translation>
+    </message>
+</context>
+<context>
+    <name>CropSize</name>
+    <message>
+        <source>inch</source>
+        <translation type="obsolete">英寸</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="obsolete">毫米</translation>
+    </message>
+    <message>
+        <source>pixel</source>
+        <translation type="obsolete">像素</translation>
     </message>
 </context>
 <context>
@@ -2109,6 +2215,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation>请输入压缩存档文件的完整路径</translation>
     </message>
     <message>
+        <location filename="DlgArchive.ui" line="32"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open File Explorer after compressing</source>
         <translation>压缩后打开资源管理器</translation>
@@ -2123,6 +2234,18 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgArchive.cpp" line="124"/>
         <source>Archive file</source>
         <translation>压缩存档文件</translation>
+    </message>
+</context>
+<context>
+    <name>DlgAskClass</name>
+    <message>
+        <source>Confirm</source>
+        <translation type="vanished">确认</translation>
+    </message>
+    <message>
+        <source>Remember my answer and don&apos;t ask again</source>
+        <oldsource>Do not show this message again.</oldsource>
+        <translation type="vanished">记住操作并且不再显示此信息。</translation>
     </message>
 </context>
 <context>
@@ -2932,6 +3055,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>秒</translation>
     </message>
     <message>
+        <source>Delay (sec)</source>
+        <translation type="vanished">延时(秒)</translation>
+    </message>
+    <message>
         <location filename="DlgCapture.ui" line="138"/>
         <source>Hotkey</source>
         <translation>快捷键</translation>
@@ -2961,6 +3088,11 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
         <translation>设置……</translation>
+    </message>
+    <message>
+        <source>Open in draw module</source>
+        <translatorcomment>啥？</translatorcomment>
+        <translation type="vanished">用画图模式打开</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="261"/>
@@ -3111,6 +3243,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation>注释</translation>
     </message>
     <message>
+        <location filename="DlgClean.ui" line="40"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF 缩略图</translation>
@@ -3119,6 +3256,17 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
         <translation>GPS</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="101"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
+        <location filename="DlgClean.ui" line="108"/>
+        <source>IPTC-IIM</source>
+        <oldsource>IPTC</oldsource>
+        <translation>IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="115"/>
@@ -3327,6 +3475,12 @@ Drag and Drop over the desired node to assign.</source>
         <translation>页眉</translation>
     </message>
     <message>
+        <location filename="DlgContactSheet.ui" line="472"/>
+        <location filename="DlgContactSheet.ui" line="500"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
+    </message>
+    <message>
         <location filename="DlgContactSheet.ui" line="482"/>
         <source>Footer</source>
         <translation>页脚</translation>
@@ -3525,6 +3679,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;XnView以免费软件(Freeware)的方式提供。 &lt;br&gt;&lt;br&gt;您被授予可使用及不限套数复制这些软件的权利。&lt;br&gt;&lt;br&gt;这些软件如原样提供。&lt;br&gt;不做任何明示或暗示的保证。&lt;br&gt;作者不承担使用或误用此软件所导致资料的遗失损坏、利润损失或任何种类的损失。&lt;br&gt;&lt;br&gt;欢迎任何建议、回馈和意见。 </translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation type="vanished">信息</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1283"/>
@@ -3939,6 +4097,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
         <translation>方向</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="obsolete">模式</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
@@ -4522,6 +4684,10 @@ Drag and Drop over the desired node to assign.</source>
         <translation>处理列表：</translation>
     </message>
     <message>
+        <source>&apos;Hot folders&apos; process files</source>
+        <translation type="vanished">“热力文件夹”处理文件</translation>
+    </message>
+    <message>
         <location filename="DlgConvert.ui" line="1642"/>
         <source>Registration...</source>
         <translation>注册...</translation>
@@ -4801,6 +4967,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
+        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -5078,9 +5245,24 @@ Drag and Drop over the desired node to assign.</source>
         <translation>注释</translation>
     </message>
     <message>
+        <location filename="DlgConvertCleanMeta.ui" line="24"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="31"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
         <translation>EXIF 缩略图</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertCleanMeta.ui" line="45"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
@@ -5432,6 +5614,12 @@ Drag and Drop over the desired node to assign.</source>
         <translation>输入配置文件（默认sRGB）</translation>
     </message>
     <message>
+        <location filename="DlgConvertICC.ui" line="45"/>
+        <location filename="DlgConvertICC.ui" line="82"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation>输出配置文件（默认sRGB）</translation>
@@ -5575,6 +5763,14 @@ Drag and Drop over the desired node to assign.</source>
         <source>Insert from</source>
         <translation>插入于</translation>
     </message>
+    <message>
+        <source>Edit history...</source>
+        <translation type="vanished">编辑历史……</translation>
+    </message>
+    <message>
+        <source>Sort alphabetically</source>
+        <translation type="vanished">按字母排序</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
@@ -5645,6 +5841,7 @@ Drag and Drop over the desired node to assign.</source>
         <translation>遮罩</translation>
     </message>
     <message>
+        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation>...</translation>
@@ -6566,6 +6763,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>Color</source>
         <translation>颜色</translation>
     </message>
+    <message>
+        <source>Add vignetting</source>
+        <translation type="vanished">添加光晕</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
@@ -6603,6 +6804,22 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertWatermark.ui" line="31"/>
         <source>Size</source>
         <translation>尺寸</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="vanished">正常</translation>
+    </message>
+    <message>
+        <source>Repeat image</source>
+        <translation type="vanished">重复图像</translation>
+    </message>
+    <message>
+        <source>Stretch image</source>
+        <translation type="vanished">拉伸图像</translation>
+    </message>
+    <message>
+        <source>Percentage (width)</source>
+        <translation type="vanished">百分比（宽度）</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="46"/>
@@ -6644,6 +6861,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Fill</source>
         <translation>填充</translation>
+    </message>
+    <message>
+        <source>Repeat</source>
+        <translation type="vanished">重复</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -6699,6 +6920,10 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom right</source>
         <translation>右下</translation>
+    </message>
+    <message>
+        <source>Delta</source>
+        <translation type="vanished">偏差</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -6949,6 +7174,17 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgDBClean.cpp" line="23"/>
         <source>Run</source>
         <translation>运行</translation>
+    </message>
+</context>
+<context>
+    <name>DlgEditFav</name>
+    <message>
+        <source>New name:</source>
+        <translation type="obsolete">新文件名:</translation>
+    </message>
+    <message>
+        <source>New folder</source>
+        <translation type="obsolete">新建文件夹</translation>
     </message>
 </context>
 <context>
@@ -7738,6 +7974,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation>设置透明色...</translation>
     </message>
     <message>
+        <source>Auto refresh</source>
+        <translation type="vanished">自动更新</translation>
+    </message>
+    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -7827,6 +8067,10 @@ Please make sure that files are not read-only!</oldsource>
         <source>Best</source>
         <translation>最高</translation>
     </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="vanished">刷新</translation>
+    </message>
 </context>
 <context>
     <name>DlgFile</name>
@@ -7912,6 +8156,11 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translation>在文件夹树中显示所选文件夹</translation>
+    </message>
+    <message>
+        <location filename="DlgFile.ui" line="36"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -8274,6 +8523,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation>无法加载文件 %1: %2。</translation>
     </message>
     <message>
+        <source>Uploading %1...</source>
+        <translation type="vanished">上传 %1...</translation>
+    </message>
+    <message>
         <location filename="DlgFtp.cpp" line="573"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>无法连接到FTP服务器 %1, 请检查主机名是否正确。</translation>
@@ -8282,6 +8535,14 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFtp.cpp" line="578"/>
         <source>Logged onto %1.</source>
         <translation>已登录 %1。</translation>
+    </message>
+    <message>
+        <source>Canceled upload of %1.</source>
+        <translation type="vanished">取消上传 %1。</translation>
+    </message>
+    <message>
+        <source>Uploaded %1 to current directory.</source>
+        <translation type="vanished">已上传 %1 到当前目录。</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
@@ -9378,6 +9639,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation>名称</translation>
     </message>
     <message>
+        <source>Parameter</source>
+        <translation type="vanished">参数</translation>
+    </message>
+    <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
@@ -9798,6 +10063,10 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
         <translation>右下</translation>
+    </message>
+    <message>
+        <source>Gamma</source>
+        <translation type="vanished">Gamma值</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -10822,6 +11091,10 @@ Thank you for purchasing %1.</source>
         <translation>使用抗锯齿</translation>
     </message>
     <message>
+        <source>Smooth</source>
+        <translation type="vanished">平滑</translation>
+    </message>
+    <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
         <translation>自动裁剪</translation>
@@ -10879,6 +11152,14 @@ Thank you for purchasing %1.</source>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
         <translation>使用正则表达式</translation>
+    </message>
+    <message>
+        <source>Match All of the following conditions</source>
+        <translation type="vanished">匹配下列所有条件</translation>
+    </message>
+    <message>
+        <source>Match Any of the following conditions</source>
+        <translation type="vanished">匹配下列任一条件</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11075,6 +11356,10 @@ Thank you for purchasing %1.</source>
         <translation>文件列表</translation>
     </message>
     <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">全屏</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
         <translation>常规</translation>
@@ -11105,6 +11390,11 @@ Thank you for purchasing %1.</source>
         <translation>查看器</translation>
     </message>
     <message>
+        <source>Auto text correction</source>
+        <oldsource>Auto correct</oldsource>
+        <translation type="vanished">自动校正文字</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
         <translation>格式</translation>
@@ -11116,11 +11406,39 @@ Thank you for purchasing %1.</source>
     </message>
 </context>
 <context>
+    <name>DlgSettingsAuto</name>
+    <message>
+        <source>Auto Correct</source>
+        <translation type="vanished">自动校正</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="vanished">替换</translation>
+    </message>
+    <message>
+        <source>With</source>
+        <translation type="vanished">替换为</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="vanished">删除</translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected Auto Correct entry?</source>
+        <translation type="vanished">是否想要删除选择的自动替换条目?</translation>
+    </message>
+</context>
+<context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
         <translation>浏览器</translation>
+    </message>
+    <message>
+        <source>Display file size in bytes</source>
+        <oldsource>Display bytes for file size</oldsource>
+        <translation type="vanished">按字节显示文件大小</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
@@ -11508,6 +11826,10 @@ Do you want to check for affected entries first?</source>
         <translation>缓存数据库</translation>
     </message>
     <message>
+        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database. Please change &apos;base path&apos; only if you want to share same folder between several computers. Do you still want to change the &apos;base path&apos;?</source>
+        <translation type="obsolete">请注意，改变 &quot;基本路径 &quot;可能会断开已经存储在数据库中的文件。只有当你想在几台电脑之间共享同一个文件夹时，才请改变 &quot;基本路径&quot;。你还想改变 &quot;基本路径 &quot;吗？</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
         <location filename="DlgSettingsCache.cpp" line="979"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
@@ -11651,6 +11973,10 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>重建缩略图</translation>
     </message>
     <message>
+        <source>Optimize...</source>
+        <translation type="vanished">优化...</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Tools</source>
         <translation>工具</translation>
@@ -11730,6 +12056,11 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>关联程序</translation>
     </message>
     <message>
+        <location filename="DlgSettingsFilelist.cpp" line="193"/>
+        <source>XnView</source>
+        <translation></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation>显示</translation>
@@ -11740,6 +12071,12 @@ Do you want to remove entries assigned to a category?</oldsource>
 Thumbnail</source>
         <translation>显示为
 缩略图</translation>
+    </message>
+    <message>
+        <source>Show in 
+Preview</source>
+        <translation type="vanished">显示于
+预览</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -11817,6 +12154,10 @@ Thumbnail</source>
         <translation type="unfinished">配套文件</translation>
     </message>
     <message>
+        <source>Companion (separated by ;)</source>
+        <translation type="obsolete">关联配套文件格式(以 ; 分隔)</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
         <translation>删除……</translation>
@@ -11855,9 +12196,17 @@ Thumbnail</source>
         <translation>文件夹总是按字母序排列</translation>
     </message>
     <message>
+        <source>Automatically select new files</source>
+        <translation type="vanished">自动选择新的文件</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
         <source>New files are added at the end of the list</source>
         <translation>新文件添加至列表末尾</translation>
+    </message>
+    <message>
+        <source>Select first item on entering folder</source>
+        <translation type="vanished">打开文件夹时选中第一项</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
@@ -11935,9 +12284,41 @@ Thumbnail</source>
         <translation>关联列表（使用 ; 作为分隔符）</translation>
     </message>
     <message>
+        <source>Detail mode</source>
+        <translation type="vanished">详情模式</translation>
+    </message>
+    <message>
+        <source>Comment field</source>
+        <translation type="obsolete">注释</translation>
+    </message>
+    <message>
+        <source>Embedded comment, description</source>
+        <translation type="obsolete">内嵌注释，描述</translation>
+    </message>
+    <message>
+        <source>Description, Embedded comment</source>
+        <translation type="obsolete">描述，内嵌注释</translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="obsolete">内嵌注释</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="vanished">描述</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
         <translation>配套文件</translation>
+    </message>
+    <message>
+        <source>Companions files linked for delete action</source>
+        <translation type="obsolete">删除时同步操作相关联的配套文件</translation>
+    </message>
+    <message>
+        <source>Companions files linked for copy/move/rename action</source>
+        <translation type="obsolete">复制/移动/重命名同步操作相关联的配套文件</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -11989,6 +12370,10 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsFormat</name>
     <message>
+        <source>Saving</source>
+        <translation type="vanished">保存</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
         <translation>格式</translation>
@@ -12032,6 +12417,53 @@ Thumbnail</source>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
         <translation>写入</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsFullscreenClass</name>
+    <message>
+        <source>Fullscreen</source>
+        <translation type="vanished">全屏</translation>
+    </message>
+    <message>
+        <source>Auto image size</source>
+        <translation type="vanished">自动调整图像大小</translation>
+    </message>
+    <message>
+        <source>Show playbar</source>
+        <translation type="vanished">显示播放条</translation>
+    </message>
+    <message>
+        <source>Show info</source>
+        <translation type="vanished">显示信息</translation>
+    </message>
+    <message>
+        <source>Show scrollbars</source>
+        <translation type="vanished">显示滚动条</translation>
+    </message>
+    <message>
+        <source>Show toolbar</source>
+        <translation type="vanished">显示工具栏</translation>
+    </message>
+    <message>
+        <source>Hide mouse cursor</source>
+        <translation type="vanished">隐藏鼠标箭头</translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation type="vanished">背景色</translation>
+    </message>
+    <message>
+        <source>Dual monitor: Use second monitor</source>
+        <translation type="vanished">双显示器: 使用第二显示器</translation>
+    </message>
+    <message>
+        <source>Floating views</source>
+        <translation type="vanished">浮动视图</translation>
+    </message>
+    <message>
+        <source>(appear when the mouse is moved to the top or right of the screen)</source>
+        <translation type="vanished">（当鼠标移动到屏幕顶侧或右侧时出现）</translation>
     </message>
 </context>
 <context>
@@ -12177,10 +12609,22 @@ Thumbnail</source>
         <translation>语言</translation>
     </message>
     <message>
+        <source>Mode when starting with a file</source>
+        <translation type="vanished">文件打开模式</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="vanished">正常</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation>全屏 - 查看器</translation>
+    </message>
+    <message>
+        <source>Fullscreen - Browser</source>
+        <translation type="vanished">全屏 - 浏览器</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="344"/>
@@ -12218,9 +12662,18 @@ Thumbnail</source>
         <translation>发送匿名数据日志</translation>
     </message>
     <message>
+        <source>Open browser at startup</source>
+        <translation type="vanished">启动时显示浏览器</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="430"/>
         <source>Directory</source>
         <translation>目录</translation>
+    </message>
+    <message>
+        <source>Restore last selected filename</source>
+        <translatorcomment>啥意思？</translatorcomment>
+        <translation type="vanished">恢复最后选择的文件名</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="334"/>
@@ -12409,6 +12862,10 @@ Thumbnail</source>
         <translation>更改内嵌元数据</translation>
     </message>
     <message>
+        <source>ICC</source>
+        <translation type="obsolete">ICC配置文件</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="741"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
@@ -12563,6 +13020,13 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="36"/>
         <source>Integration</source>
         <translation>系统集成</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="168"/>
+        <location filename="DlgSettingsIntegration.ui" line="195"/>
+        <location filename="DlgSettingsIntegration.ui" line="231"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="42"/>
@@ -12868,6 +13332,10 @@ Do you want to reassign?</source>
         <translation>浏览器模式</translation>
     </message>
     <message>
+        <source>View mode</source>
+        <translation type="vanished">查看器模式</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
@@ -12892,12 +13360,20 @@ Do you want to reassign?</source>
         <translation>筛选</translation>
     </message>
     <message>
+        <source>Pressing Esc once quits XnViewMP</source>
+        <translation type="vanished">按 esc 退出 XnViewMP</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1302"/>
         <location filename="DlgSettingsInterface.ui" line="1352"/>
         <location filename="DlgSettingsInterface.ui" line="1402"/>
         <location filename="DlgSettingsInterface.ui" line="1442"/>
         <source>Previous file</source>
         <translation>上一个文件</translation>
+    </message>
+    <message>
+        <source>Use &quot;Pan and Zoom&quot; tool</source>
+        <translation type="vanished">使用 &quot;平摊和缩放&quot; 工具</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
@@ -12925,6 +13401,14 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="847"/>
         <source>Shortcuts</source>
         <translation>快捷方式</translation>
+    </message>
+    <message>
+        <source>Browser mode</source>
+        <translation type="vanished">浏览器模式</translation>
+    </message>
+    <message>
+        <source>Viewer mode</source>
+        <translation type="vanished">查看器模式</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="987"/>
@@ -13023,6 +13507,18 @@ Do you want to reassign?</source>
         <translation>向上/向下滚动</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation type="vanished">从不</translation>
+    </message>
+    <message>
+        <source>Only in fullscreen</source>
+        <translation type="vanished">仅当全屏时</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="vanished">总是</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
         <source>Mouse</source>
         <translation>鼠标</translation>
@@ -13071,6 +13567,10 @@ Do you want to reassign?</source>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation type="unfinished">缩放选区</translation>
+    </message>
+    <message>
+        <source>Left button + CTRL</source>
+        <translation type="vanished">CTRL + 鼠标左键</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1677"/>
@@ -13158,12 +13658,24 @@ Do you want to reassign?</source>
         <translation>按 ESC 关闭</translation>
     </message>
     <message>
+        <source>Right button + CTRL</source>
+        <translation type="vanished">CTRL + 鼠标右键</translation>
+    </message>
+    <message>
+        <source>Mouse wheel</source>
+        <translation type="vanished">鼠标滚轮</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
         <location filename="DlgSettingsInterface.ui" line="1861"/>
         <source>Zoom in/out</source>
         <translation>放大/缩小</translation>
+    </message>
+    <message>
+        <source>Mouse wheel + CTRL</source>
+        <translation type="vanished">Ctrl + 鼠标滚轮</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1916"/>
@@ -13185,6 +13697,10 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2015"/>
         <source>Enter</source>
         <translation>回车键</translation>
+    </message>
+    <message>
+        <source>Use double click to switch between:</source>
+        <translation type="vanished">双击切换:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
@@ -13215,6 +13731,14 @@ Do you want to reassign?</source>
         <translation>浏览器 &gt; 查看器 &gt; 全屏</translation>
     </message>
     <message>
+        <source>Use middle click to switch between:</source>
+        <translation type="vanished">点击鼠标中键切换:</translation>
+    </message>
+    <message>
+        <source>Use ENTER to switch between:</source>
+        <translation type="vanished">使用回车键切换:</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
         <location filename="DlgSettingsInterface.ui" line="996"/>
         <source>None</source>
@@ -13241,6 +13765,14 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsKeywordsClass</name>
+    <message>
+        <source>IPTC &amp;&amp; XMP</source>
+        <translation type="vanished">IPTC和XMP</translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation type="vanished">关键字</translation>
+    </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
@@ -13355,6 +13887,14 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Yes</source>
+        <translation type="vanished">是</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="vanished">否</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
         <translation>视频文件</translation>
@@ -13368,6 +13908,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
         <translation>编码</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="428"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
@@ -13407,6 +13952,10 @@ Do you want to reassign?</source>
         <translation type="unfinished">支持的格式</translation>
     </message>
     <message>
+        <source>JPEG</source>
+        <translation type="obsolete">JPEG</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Write</source>
         <translation>写入</translation>
@@ -13420,6 +13969,10 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsPanel</name>
     <message>
+        <source>Information</source>
+        <translation type="vanished">信息</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
@@ -13428,6 +13981,10 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
+    <message>
+        <source>Misc</source>
+        <translation type="vanished">其他</translation>
+    </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -13562,6 +14119,10 @@ Do you want to reassign?</source>
         <translation>已分类</translation>
     </message>
     <message>
+        <source>Background color</source>
+        <translation type="vanished">背景色</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Border size</source>
         <translation>边框粗细</translation>
@@ -13602,6 +14163,11 @@ Do you want to reassign?</source>
         <translation>快捷方式</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="634"/>
+        <source>IPTC</source>
+        <translation>IPTC</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="534"/>
         <source>Tag</source>
         <translation>标签</translation>
@@ -13610,6 +14176,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="833"/>
         <source>Automatic rotation</source>
         <translation>自动旋转</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="541"/>
+        <source>EXIF</source>
+        <translation>EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
@@ -13622,9 +14193,19 @@ Do you want to reassign?</source>
         <translation>内嵌缩略图</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="826"/>
+        <source>XMP</source>
+        <translation>XMP</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
         <translation>颜色标签</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="766"/>
+        <source>GPS</source>
+        <translation>GPS</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -13647,6 +14228,10 @@ Do you want to reassign?</source>
         <translation>标签</translation>
     </message>
     <message>
+        <source>Text color</source>
+        <translation type="vanished">文字颜色</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Reset color</source>
         <translation>重置颜色</translation>
@@ -13660,6 +14245,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
         <translation>浏览器 - 缩略图</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="988"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -13781,6 +14371,18 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="524"/>
         <source>Camera RAW, use</source>
         <translation>Camera Raw 使用</translation>
+    </message>
+    <message>
+        <source>Zoom-out</source>
+        <translation type="vanished">缩小</translation>
+    </message>
+    <message>
+        <source>Zoom-in</source>
+        <translation type="vanished">放大</translation>
+    </message>
+    <message>
+        <source>Zoom-out &amp; Zoom-in</source>
+        <translation type="vanished">缩小 &amp; 放大</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="494"/>
@@ -13950,6 +14552,11 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="749"/>
         <source>Loop on the file list</source>
         <translation>循环文件列表</translation>
+    </message>
+    <message>
+        <source>Show Video</source>
+        <oldsource>Play video</oldsource>
+        <translation type="vanished">显示视频</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="763"/>
@@ -14132,6 +14739,14 @@ Do you want to reassign?</source>
         <translation>（当鼠标移动到屏幕顶侧或右侧时出现）</translation>
     </message>
     <message>
+        <source>Information displayed</source>
+        <translation type="vanished">显示信息</translation>
+    </message>
+    <message>
+        <source>HTML tags supported</source>
+        <translation type="vanished">支持 HTML 标记</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
         <source>Text color</source>
         <translation>文字颜色</translation>
@@ -14160,6 +14775,10 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Position</source>
         <translation>位置</translation>
+    </message>
+    <message>
+        <source>Always in fullscreen</source>
+        <translation type="vanished">总是全屏</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="933"/>
@@ -14267,6 +14886,13 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
         <translation>缩小</translation>
+    </message>
+    <message>
+        <location filename="DlgSimilarResult.ui" line="87"/>
+        <location filename="DlgSimilarResult.ui" line="156"/>
+        <location filename="DlgSimilarResult.ui" line="239"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
@@ -14549,6 +15175,16 @@ Do you want to reassign?</source>
         <translation>使用转场特效</translation>
     </message>
     <message>
+        <location filename="DlgSlideshow.ui" line="210"/>
+        <location filename="DlgSlideshow.ui" line="314"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <source>Save SLD with relative paths</source>
+        <translation type="vanished">保存带有相对路径的SLD</translation>
+    </message>
+    <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
         <translation>使用音频文件</translation>
@@ -14610,6 +15246,15 @@ Do you want to reassign?</source>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
         <translation>分割</translation>
+    </message>
+    <message>
+        <location filename="DlgSplit.ui" line="30"/>
+        <location filename="DlgSplit.ui" line="44"/>
+        <location filename="DlgSplit.ui" line="58"/>
+        <location filename="DlgSplit.ui" line="72"/>
+        <location filename="DlgSplit.ui" line="96"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -14952,6 +15597,10 @@ Do you want to reassign?</source>
         <translation>搜索人脸</translation>
     </message>
     <message>
+        <source>Add region</source>
+        <translation type="vanished">添加区域</translation>
+    </message>
+    <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
         <translation>清空区域</translation>
@@ -15102,6 +15751,11 @@ Do you want to reassign?</source>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF：拍摄日期</translation>
+    </message>
+    <message>
+        <location filename="DlgTimestamp.ui" line="488"/>
+        <source>&gt;&gt;</source>
+        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
@@ -15312,32 +15966,38 @@ Do you want to reassign?</source>
         <translation>身份验证</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="147"/>
+        <location filename="DlgUpload.ui" line="138"/>
         <source>Username</source>
         <translation>用户名</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="157"/>
+        <location filename="DlgUpload.ui" line="148"/>
         <source>Password</source>
         <translation>密码</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="177"/>
+        <location filename="DlgUpload.ui" line="168"/>
         <source>User</source>
         <translation>用户</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="202"/>
+        <location filename="DlgUpload.ui" line="193"/>
         <source>New user...</source>
         <translation>新用户...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="233"/>
+        <location filename="DlgUpload.ui" line="224"/>
         <source>Thumbnail link</source>
         <translation>缩略图链接</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="261"/>
+        <location filename="DlgUpload.ui" line="241"/>
+        <location filename="DlgUpload.ui" line="269"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <location filename="DlgUpload.ui" line="252"/>
         <source>Image link</source>
         <translation>图像链接</translation>
     </message>
@@ -15359,6 +16019,12 @@ Do you want to reassign?</source>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
         <translation>添加滤镜</translation>
+    </message>
+    <message>
+        <location filename="DlgUserFilter.ui" line="36"/>
+        <location filename="DlgUserFilter.ui" line="63"/>
+        <source>...</source>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="60"/>
@@ -15396,6 +16062,14 @@ Do you want to reassign?</source>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
         <translation type="unfinished">您想保存更改过的过滤器吗？</translation>
+    </message>
+    <message>
+        <source>Changes</source>
+        <translation type="vanished">变更</translation>
+    </message>
+    <message>
+        <source>There is some changes, do you want to save filters?</source>
+        <translation type="vanished">某些设置已更改, 是否想要保存滤镜？</translation>
     </message>
 </context>
 <context>
@@ -15444,6 +16118,34 @@ Do you want to reassign?</source>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
         <translation>起始帧</translation>
+    </message>
+    <message>
+        <source>Unit:</source>
+        <translation type="vanished">单位:</translation>
+    </message>
+    <message>
+        <source>points</source>
+        <translation type="vanished">点</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="vanished">样式</translation>
+    </message>
+    <message>
+        <source>B</source>
+        <translation type="vanished">B</translation>
+    </message>
+    <message>
+        <source>I</source>
+        <translation type="vanished">I</translation>
+    </message>
+    <message>
+        <source>U</source>
+        <translation type="vanished">U</translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation type="vanished">S</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -15509,6 +16211,10 @@ Do you want to reassign?</source>
         <translation>拉伸</translation>
     </message>
     <message>
+        <source>Scaled</source>
+        <translation type="vanished">缩放</translation>
+    </message>
+    <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
         <translation>适应</translation>
@@ -15565,6 +16271,10 @@ Do you want to reassign?</source>
         <translation>格式</translation>
     </message>
     <message>
+        <source>Codec</source>
+        <translation type="vanished">编码</translation>
+    </message>
+    <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
         <source>Speed</source>
         <translation>速度</translation>
@@ -15574,6 +16284,28 @@ Do you want to reassign?</source>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
         <translation>(10 = 最快)</translation>
+    </message>
+    <message>
+        <source>Quantization for color</source>
+        <oldsource>Quantizer for color</oldsource>
+        <translation type="vanished">颜色量化</translation>
+    </message>
+    <message>
+        <source>Lossless</source>
+        <translation type="vanished">无损</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation type="vanished">最小</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation type="vanished">最大</translation>
+    </message>
+    <message>
+        <source>Quantization for alpha</source>
+        <oldsource>Quantizer for alpha</oldsource>
+        <translation type="vanished">alpha量化</translation>
     </message>
 </context>
 <context>
@@ -15823,6 +16555,18 @@ Do you want to reassign?</source>
 </context>
 <context>
     <name>DlgWritePDFClass</name>
+    <message>
+        <source>B&amp;W compression type</source>
+        <translation type="vanished">黑白图压缩类型</translation>
+    </message>
+    <message>
+        <source>Grayscale compression type</source>
+        <translation type="vanished">灰度图压缩类型</translation>
+    </message>
+    <message>
+        <source>Color compression type</source>
+        <translation type="vanished">彩色图压缩类型</translation>
+    </message>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
@@ -16167,6 +16911,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>FileListWidget</name>
     <message>
+        <source>View as:</source>
+        <translation type="vanished">查看方式:</translation>
+    </message>
+    <message>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Small thumbnails</source>
         <translation>小缩略图</translation>
@@ -16191,6 +16939,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
         <translation>列表</translation>
+    </message>
+    <message>
+        <source>You can drag&amp;drop your files on the list below.</source>
+        <translation type="vanished">你可以拖放你的文件到如下列表中.</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
@@ -17058,6 +17810,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Catalog</source>
         <translation>缓存数据库</translation>
+    </message>
+    <message>
+        <source>File&apos;s categories</source>
+        <translation type="vanished">文件的分类</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
@@ -18496,6 +19252,18 @@ Do you want to continue?</source>
         <translation>发生错误。</translation>
     </message>
     <message>
+        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
+        <translation type="obsolete">小心，保存为这种文件格式会丢失评论和任何现存的元数据！</translation>
+    </message>
+    <message>
+        <source>Be careful, saving in this format will discard any existing metadata!</source>
+        <translation type="obsolete">小心，保存为这种文件格式会丢失元数据！</translation>
+    </message>
+    <message>
+        <source>Be careful, saving in this format will discard some metadata!</source>
+        <translation type="obsolete">注意，以此格式保存将舍弃某些元数据！</translation>
+    </message>
+    <message>
         <location filename="GFFHelper.h" line="19"/>
         <location filename="GFFHelper.h" line="33"/>
         <location filename="GFFHelper.h" line="47"/>
@@ -18743,6 +19511,19 @@ Do you want to continue?</source>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
         <translation>繁体中文</translation>
+    </message>
+    <message>
+        <source>Simplified Chinese</source>
+        <translation type="vanished">简体中文</translation>
+    </message>
+    <message>
+        <source>Traditional Chinese</source>
+        <translation type="vanished">繁体中文</translation>
+    </message>
+    <message>
+        <location filename="LanguageComboBox.cpp" line="57"/>
+        <source>Hebrew</source>
+        <translation>希伯来语</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19336,6 +20117,26 @@ Do you want to continue?</source>
         <translation>不评级</translation>
     </message>
     <message>
+        <source>Important</source>
+        <translation type="vanished">重要</translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="vanished">工作</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation type="vanished">个人</translation>
+    </message>
+    <message>
+        <source>To do</source>
+        <translation type="vanished">待办</translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="vanished">稍后</translation>
+    </message>
+    <message>
         <location filename="CompareWidget.cpp" line="486"/>
         <location filename="BrowserMenu.h" line="122"/>
         <location filename="BrowserMenu.h" line="502"/>
@@ -19433,6 +20234,14 @@ Do you want to continue?</source>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation>编辑 GPS 数据...</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 90°</source>
+        <translation type="obsolete">EXIF缩略图 顺时旋转90°</translation>
+    </message>
+    <message>
+        <source>EXIF thumbnail - Rotate 270°</source>
+        <translation type="obsolete">EXIF缩略图 逆时旋转90°</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="609"/>
@@ -19826,6 +20635,10 @@ Do you want to continue?</source>
         <translation type="unfinished">标记选中文件</translation>
     </message>
     <message>
+        <source>Untag current</source>
+        <translation type="vanished">不标记选中文件</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="473"/>
         <source>Invert</source>
         <translation type="unfinished">反转</translation>
@@ -19902,6 +20715,10 @@ Do you want to continue?</source>
         <translation>文件列表工具条</translation>
     </message>
     <message>
+        <source>Show title of panes</source>
+        <translation type="vanished">显示面板标题</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="543"/>
         <source>Rebuild thumbnails</source>
         <translation>重建缩略图</translation>
@@ -19910,6 +20727,10 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Refresh</source>
         <translation>刷新</translation>
+    </message>
+    <message>
+        <source>Show files in subfolder</source>
+        <translation type="vanished">显示子文件夹中的文件</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -19963,6 +20784,18 @@ Do you want to continue?</source>
         <translation>只显示缩略图</translation>
     </message>
     <message>
+        <source>Rotate clockwise</source>
+        <translation type="vanished">顺时针旋转</translation>
+    </message>
+    <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">水平翻转</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">垂直翻转</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>JPEG lossless transformations</source>
         <translation>无损JPEG旋转</translation>
@@ -19977,6 +20810,14 @@ Do you want to continue?</source>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>比较...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">在GeoHack中打开GPS位置...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">在Google Earth中打开GPS位置...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -20136,6 +20977,10 @@ Do you want to continue?</source>
         <translation>图像适应窗口大小，仅针对小图片</translation>
     </message>
     <message>
+        <source>Auto Image Size</source>
+        <translation type="vanished">自动调整图像大小</translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Zoom</source>
         <translation>缩放</translation>
@@ -20267,6 +21112,10 @@ Do you want to continue?</source>
         <translation>网站……</translation>
     </message>
     <message>
+        <source>Visit XnView&apos;s Forum...</source>
+        <translation type="vanished">访问 XnView 论坛……</translation>
+    </message>
+    <message>
         <location filename="xnview.cpp" line="1441"/>
         <source>Make a donation...</source>
         <translation>捐赠...</translation>
@@ -20316,6 +21165,18 @@ Do you want to continue?</source>
         <location filename="xnview.cpp" line="1444"/>
         <source>Purchase...</source>
         <translation>购买……</translation>
+    </message>
+    <message>
+        <source>Follow XnView on Twitter...</source>
+        <translation type="vanished">在Twitter上关注XnView...</translation>
+    </message>
+    <message>
+        <source>Become a fan of XnView on Facebook...</source>
+        <translation type="vanished">成为XnView的Facebook粉丝...</translation>
+    </message>
+    <message>
+        <source>Web capture...</source>
+        <translation type="vanished">网页截图……</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1454"/>
@@ -20629,6 +21490,10 @@ Do you want to continue?</source>
         <translation type="unfinished">效果……</translation>
     </message>
     <message>
+        <source>Remove Background...</source>
+        <translation type="obsolete">删除背景……</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="467"/>
         <source>Mirror</source>
         <translation>镜像</translation>
@@ -20685,6 +21550,14 @@ Do you want to continue?</source>
         <translation>幻灯片……</translation>
     </message>
     <message>
+        <source>Rotate clockwise</source>
+        <translation type="vanished">顺时针旋转</translation>
+    </message>
+    <message>
+        <source>Rotate counter clockwise</source>
+        <translation type="vanished">逆时针旋转</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="454"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
@@ -20699,6 +21572,18 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="490"/>
         <source>Reset EXIF orientation field</source>
         <translation>重置EXIF方向字段</translation>
+    </message>
+    <message>
+        <source>Flip horizontal</source>
+        <translation type="vanished">水平翻转</translation>
+    </message>
+    <message>
+        <source>Flip vertical</source>
+        <translation type="vanished">垂直翻转</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="vanished">裁剪</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="332"/>
@@ -20930,6 +21815,14 @@ Do you want to continue?</source>
         <translation>重命名...</translation>
     </message>
     <message>
+        <source>Tag current</source>
+        <translation type="vanished">标记选中文件</translation>
+    </message>
+    <message>
+        <source>Untag current</source>
+        <translation type="vanished">不标记选中文件</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next photo)</source>
         <translation>极佳 (转到下一图)</translation>
@@ -21048,6 +21941,10 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="384"/>
         <source>Lock zoom</source>
         <translation>锁定缩放</translation>
+    </message>
+    <message>
+        <source>Auto image size</source>
+        <translation type="vanished">自动调整图像大小</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="387"/>
@@ -21170,6 +22067,10 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="423"/>
         <source>Set DPI...</source>
         <translation>设定 DPI……</translation>
+    </message>
+    <message>
+        <source>Filter...</source>
+        <translation type="obsolete">滤镜...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="441"/>
@@ -21356,6 +22257,14 @@ Do you want to continue?</source>
         <translation>批量转换...</translation>
     </message>
     <message>
+        <source>Open GPS location in GeoHack...</source>
+        <translation type="vanished">在GeoHack中打开GPS位置...</translation>
+    </message>
+    <message>
+        <source>Open GPS location in Google Earth...</source>
+        <translation type="vanished">在Google Earth中打开GPS位置...</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="419"/>
         <source>Set as wallpaper...</source>
         <translation>设为壁纸...</translation>
@@ -21451,9 +22360,27 @@ Do you want to continue?</source>
         <translation>调节...</translation>
     </message>
     <message>
+        <source>90° right</source>
+        <oldsource>90� right</oldsource>
+        <translation type="vanished">向右旋转90度</translation>
+    </message>
+    <message>
+        <source>90° left</source>
+        <oldsource>90� left</oldsource>
+        <translation type="vanished">向左旋转90度</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
         <translation>旋转...</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="vanished">水平</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="vanished">垂直</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
@@ -21727,6 +22654,10 @@ Do you want to continue?</source>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
+        <source>Abort</source>
+        <translation type="vanished">中止</translation>
+    </message>
+    <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
         <translation>生成缩略图……</translation>
@@ -21785,6 +22716,17 @@ Do you want to continue?</source>
         <location filename="MyDirModel.cpp" line="1929"/>
         <source>New Folder %1</source>
         <translation>新建文件夹 %1</translation>
+    </message>
+</context>
+<context>
+    <name>MyEXIFView</name>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="obsolete">缩略图</translation>
+    </message>
+    <message>
+        <source>Makernotes</source>
+        <translation type="obsolete">厂商注释</translation>
     </message>
 </context>
 <context>
@@ -21883,6 +22825,17 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
+    <name>MyIPTCView</name>
+    <message>
+        <source>Keywords &amp; Categories</source>
+        <translation type="obsolete">关键字及分类</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">状态</translation>
+    </message>
+</context>
+<context>
     <name>MyLittleToolBar</name>
     <message>
         <location filename="MyLittleToolBar.h" line="343"/>
@@ -21890,6 +22843,13 @@ Do you want to continue?</source>
         <oldsource>Click to change between width of thumbnail
  and number of thumbnails per row</oldsource>
         <translation>勾选幻灯片功能: 缩略图尺寸 [像素] 或每列的缩略图</translation>
+    </message>
+</context>
+<context>
+    <name>MyPreview</name>
+    <message>
+        <source>Preview</source>
+        <translation type="obsolete">预览</translation>
     </message>
 </context>
 <context>
@@ -21906,6 +22866,13 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
+    <name>MyProgressDialogEx</name>
+    <message>
+        <source>Creating contact sheet...</source>
+        <translation type="obsolete">创建相版...</translation>
+    </message>
+</context>
+<context>
     <name>MyProgressThreadDialog</name>
     <message>
         <location filename="MyProgressThreadDialog.h" line="30"/>
@@ -21917,6 +22884,77 @@ Do you want to continue?</source>
         <location filename="MyProgressThreadDialog.h" line="40"/>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>MyPropertiesView</name>
+    <message>
+        <source>Yes</source>
+        <translation type="obsolete">是</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="obsolete">否</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="obsolete">右上</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="obsolete">左下</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="obsolete">右下</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="obsolete">左上</translation>
+    </message>
+    <message>
+        <source>Color Profile</source>
+        <translation type="obsolete">颜色配置文件</translation>
+    </message>
+    <message>
+        <source>Extra info</source>
+        <translation type="obsolete">扩展信息</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="obsolete">文件</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="obsolete">文件名</translation>
+    </message>
+    <message>
+        <source>Filepath</source>
+        <translation type="obsolete">文件路径</translation>
+    </message>
+    <message>
+        <source>File size</source>
+        <translation type="obsolete">文件大小</translation>
+    </message>
+    <message>
+        <source>Creation date/time</source>
+        <translation type="obsolete">创建日期</translation>
+    </message>
+    <message>
+        <source>Accessed date/time</source>
+        <translation type="obsolete">访问日期</translation>
+    </message>
+    <message>
+        <source>Rating</source>
+        <translation type="obsolete">评级</translation>
+    </message>
+    <message>
+        <source>Colour Label</source>
+        <translation type="obsolete">颜色标签</translation>
+    </message>
+    <message>
+        <source>Annotation</source>
+        <translation type="obsolete">注解</translation>
     </message>
 </context>
 <context>
@@ -22392,6 +23430,14 @@ You can change it in Settings&gt;Catalog.</source>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
         <translation>管理……</translation>
+    </message>
+    <message>
+        <source>Apply actions</source>
+        <translation type="obsolete">应用动作</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">……</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -23273,6 +24319,10 @@ Right Click for pop-up menu with actions.</source>
         <translation>插入&gt;&gt;</translation>
     </message>
     <message>
+        <source>Default value</source>
+        <translation type="vanished">默认值</translation>
+    </message>
+    <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
         <translation>保存预设</translation>
@@ -23451,6 +24501,30 @@ Right Click for pop-up menu with actions.</source>
         <location filename="ViewTextAction.cpp" line="150"/>
         <source>Font</source>
         <translation>字体</translation>
+    </message>
+    <message>
+        <source>B</source>
+        <translation type="obsolete">B</translation>
+    </message>
+    <message>
+        <source>I</source>
+        <translation type="obsolete">I</translation>
+    </message>
+    <message>
+        <source>U</source>
+        <translation type="obsolete">U</translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation type="obsolete">S</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="obsolete">填充</translation>
+    </message>
+    <message>
+        <source>Border</source>
+        <translation type="obsolete">边框</translation>
     </message>
     <message>
         <location filename="ViewTextAction.cpp" line="256"/>
@@ -23844,6 +24918,10 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="596"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation type="unfinished">打开目录有问题，请检查设置或使用的文件夹！</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="vanished">版本</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="973"/>
