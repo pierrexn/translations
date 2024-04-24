@@ -129,7 +129,7 @@
 	"connectDialogMessage": "Vous devez vous connecter à votre compte pour pouvoir suivre votre collection.", 
 	"skip": "PASSER", 
 	"surveyMessage": "Pourriez-vous prendre quelques minutes pour répondre à ce questionnaire, afin de mieux connaitre vos besoins?", 
-	"noImageMessage": "Nous n\'avons pas d\'images... Mais peut-être en avez-vous une?", 
+	"noImageMessage": "Nous n'avons pas d'images... Mais peut-être en avez-vous une?", 
 
 	"invInventory": "Inventaire", 
 	"invOwnCollection": "Collection personnelle", 
