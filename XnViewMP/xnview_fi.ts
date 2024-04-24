@@ -167,10 +167,6 @@
         <translation>Tiedostomuoto</translation>
     </message>
     <message>
-        <source>INI filename: </source>
-        <translation type="vanished">INI-tiedosto:</translation>
-    </message>
-    <message>
         <source>Formats</source>
         <translation>Formaatti</translation>
     </message>
@@ -205,10 +201,6 @@
     <message>
         <source>Wiki</source>
         <translation>Wiki</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
     </message>
     <message>
         <source>INI filename</source>
@@ -253,16 +245,6 @@
         <translation>Tallenna &amp;nimellä...</translation>
     </message>
     <message>
-        <source>Are you sure to delete &quot;%1&quot; (%2 items)?</source>
-        <translation type="vanished">Oletko varma että haluat poistaa &quot;%1&quot; (%2 kohteet)?</translation>
-    </message>
-    <message>
-        <source>The file &lt;%1&gt; already exists!
-
-Do you want to overwrite it?</source>
-        <translation type="vanished">Tiedosto &lt;%1&gt; on jo olemassa! Haluatko korvata sen tällä?</translation>
-    </message>
-    <message>
         <source>Delete items</source>
         <translation>Poista kohteet</translation>
     </message>
@@ -273,10 +255,6 @@ Do you want to overwrite it?</source>
         <translation>Tallennetaanko muutokset tiedostoon 
  &quot;%1&quot;?
 </translation>
-    </message>
-    <message>
-        <source>Are you sure to delete &quot;%1&quot;?</source>
-        <translation type="vanished">Oletko varma että haluat poistaa &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>There is %1 colors used in this picture</source>
@@ -535,14 +513,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>Search...</source>
         <translation>Etsi...</translation>
     </message>
-    <message>
-        <source>&lt;DB result&gt;</source>
-        <translation type="vanished">&lt;DB result&gt;</translation>
-    </message>
-    <message>
-        <source>Show all files (recursive)</source>
-        <translation type="vanished">Näytä kaikki tiedostot (rekursiivinen)</translation>
-    </message>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
@@ -572,10 +542,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
             <numerusform>Haluatko varmasti poistaa tämän valitun kohteen %n - %1 ?</numerusform>
             <numerusform>Haluatko varmasti poistaa nämä valitut kohteet %n - %1 ?</numerusform>
         </translation>
-    </message>
-    <message>
-        <source>Categories Filter</source>
-        <translation type="vanished">Kategoriasuotimet</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -1270,20 +1236,12 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Normalisoi</translation>
     </message>
     <message>
-        <source>IPTC-IIM/XMP</source>
-        <translation>IPTC-IIM/XMP</translation>
-    </message>
-    <message>
         <source>Set DPI</source>
         <translation>Aseta DPI</translation>
     </message>
     <message>
         <source>Sharpen</source>
         <translation>Terävyys</translation>
-    </message>
-    <message>
-        <source>Swap component</source>
-        <translation type="vanished">Vaihda komponentti</translation>
     </message>
     <message>
         <source>Emboss more</source>
@@ -1584,10 +1542,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Sulje</translation>
     </message>
     <message>
-        <source>An error occured when saving %1</source>
-        <translation type="vanished">Virhe tallennettaessatiedostoa %1</translation>
-    </message>
-    <message>
         <source>Scan started...</source>
         <translation>Skannaus aloitettu...</translation>
     </message>
@@ -1685,10 +1639,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
 <context>
     <name>DlgArchive</name>
     <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <source>Archive file</source>
         <translation>Pakattu tiedosto</translation>
     </message>
@@ -1703,17 +1653,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Creating archive, please wait...</source>
         <translation>Luodaan arkistoa, odota...</translation>
-    </message>
-</context>
-<context>
-    <name>DlgAskClass</name>
-    <message>
-        <source>Remember my answer and don&apos;t ask again</source>
-        <translation type="vanished">Muista vastaukseni ja älä kysy uudestaan</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation type="vanished">Vahvista</translation>
     </message>
 </context>
 <context>
@@ -2389,10 +2328,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Työpöytä</translation>
     </message>
     <message>
-        <source>Delay (sec)</source>
-        <translation type="vanished">Viive (sekuntia)</translation>
-    </message>
-    <message>
         <source>Capture area</source>
         <translation>Kaapattava alue</translation>
     </message>
@@ -2490,18 +2425,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>GPS</translation>
     </message>
     <message>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
-        <source>IPTC-IIM</source>
-        <translation>IPTC-IIM</translation>
-    </message>
-    <message>
         <source>Remove</source>
         <translation>Poista</translation>
     </message>
@@ -2578,10 +2501,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
 </context>
 <context>
     <name>DlgContactSheet</name>
-    <message>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
-    </message>
     <message>
         <source>cm</source>
         <translation>cm</translation>
@@ -2925,10 +2844,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Valitse ZIP-tiedostonimi</translation>
     </message>
     <message>
-        <source>Please restart XnConvert</source>
-        <translation type="vanished">Käynnistät XnConvert uudelleen</translation>
-    </message>
-    <message>
         <source>[Finished]</source>
         <translation>(Suoritettu]</translation>
     </message>
@@ -3020,10 +2935,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>vain lukuoikeudet, ei voida korvata!</translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Tiedot</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -4009,10 +3920,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Käytettävä väri perustuu tiedostomuotoon</translation>
     </message>
     <message>
-        <source>Keep original file when encoded result is larger</source>
-        <translation type="vanished">Säilytä alkuperäinen tiedosto, kun koodattu tulos on suurempi</translation>
-    </message>
-    <message>
         <source>Keep original file when encoded result is larger (experimental)</source>
         <translation>Säilytä alkuperäinen tiedosto, kun koodattu tulos on suurempi (kokeellinen)</translation>
     </message>
@@ -4023,18 +3930,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
 </context>
 <context>
     <name>DlgConvertCleanMetaClass</name>
-    <message>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
-    </message>
     <message>
         <source>ICC profile</source>
         <translation>ICC profiili</translation>
@@ -4323,10 +4218,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
 <context>
     <name>DlgConvertICCClass</name>
     <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <source>Absolute colorimetric</source>
         <translation>Absoluuttinen kolorometri</translation>
     </message>
@@ -4444,14 +4335,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Insert from</source>
         <translation>Lisää kohteesta</translation>
-    </message>
-    <message>
-        <source>Edit history...</source>
-        <translation type="vanished">Muokkaushistoria...</translation>
-    </message>
-    <message>
-        <source>Sort alphabetically</source>
-        <translation type="vanished">Järjestä aakkosjärjestykseen</translation>
     </message>
 </context>
 <context>
@@ -5276,24 +5159,12 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Koko</translation>
     </message>
     <message>
-        <source>Delta</source>
-        <translation type="vanished">Delta</translation>
-    </message>
-    <message>
         <source>Right</source>
         <translation>Oikealla</translation>
     </message>
     <message>
-        <source>Stretch image</source>
-        <translation type="vanished">Venytä kuva</translation>
-    </message>
-    <message>
         <source>Top right</source>
         <translation>Ylhäällä oikealla</translation>
-    </message>
-    <message>
-        <source>Repeat image</source>
-        <translation type="vanished">Toista kuva</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -5302,10 +5173,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Center</source>
         <translation>Keskellä</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Normaali</translation>
     </message>
     <message>
         <source>Bottom left</source>
@@ -5336,10 +5203,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Kuvan tiedostonimi</translation>
     </message>
     <message>
-        <source>Percentage (width)</source>
-        <translation type="vanished">Prosenttia (Leveys)</translation>
-    </message>
-    <message>
         <source>Proportional</source>
         <translation>Suhteellinen</translation>
     </message>
@@ -5366,10 +5229,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Fill</source>
         <translation>Täytä</translation>
-    </message>
-    <message>
-        <source>Repeat</source>
-        <translation type="vanished">Toisto</translation>
     </message>
     <message>
         <source>Anchor</source>
@@ -5656,16 +5515,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
 <context>
     <name>DlgEditXMP</name>
     <message>
-        <source>Apply</source>
-        <translation type="vanished">Käytä</translation>
-    </message>
-    <message>
         <source>Mode:</source>
         <translation>Tila:</translation>
-    </message>
-    <message>
-        <source>Write</source>
-        <translation type="vanished">Kirjoita</translation>
     </message>
     <message>
         <source>Public domain</source>
@@ -5696,10 +5547,6 @@ Haluatko tallentaa muutokset?</translation>
     <message>
         <source>0: None</source>
         <translation>0: Ei mitään</translation>
-    </message>
-    <message>
-        <source>An error occured during processing. Please make sure that files are not read-only!</source>
-        <translation type="vanished">Käsittelyn aikana tapahtui virhe. Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
@@ -5812,10 +5659,6 @@ Haluatko tallentaa muutokset?</translation>
     <message>
         <source>Protected by copyright</source>
         <translation>Suojattu tekijänoikeuksilla</translation>
-    </message>
-    <message>
-        <source>Write to all files</source>
-        <translation type="vanished">Kirjoita kaikkiin tiedostoihin</translation>
     </message>
     <message>
         <source>Urgency</source>
@@ -6265,16 +6108,8 @@ Please make sure that files are not read-only!</source>
         <translation>Laatu</translation>
     </message>
     <message>
-        <source>Refresh</source>
-        <translation type="vanished">Päivitä</translation>
-    </message>
-    <message>
         <source>Dithering</source>
         <translation>Rasterointi</translation>
-    </message>
-    <message>
-        <source>Auto refresh</source>
-        <translation type="vanished">Automaattipäivitys</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
@@ -6355,10 +6190,6 @@ Please make sure that files are not read-only!</source>
 </context>
 <context>
     <name>DlgFileClass</name>
-    <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
     <message>
         <source>Show selected folder in folder tree</source>
         <translation>Näytä valittu kansio kansiopuussa</translation>
@@ -6446,10 +6277,6 @@ Please make sure that files are not read-only!</source>
         <translation>Alkuperäinen zoomaus</translation>
     </message>
     <message>
-        <source>Skip all</source>
-        <translation type="vanished">Ohita kaikki</translation>
-    </message>
-    <message>
         <source>Are you sure to delete this file?</source>
         <translation>Oletko varma että haluat poistaa tiedoston?</translation>
     </message>
@@ -6466,20 +6293,12 @@ Please make sure that files are not read-only!</source>
         <translation>Kohde sisältää jo samannimisen kansion, mitä haluat tehdä?</translation>
     </message>
     <message>
-        <source>Rename</source>
-        <translation type="vanished">Nimeä uudelleen</translation>
-    </message>
-    <message>
         <source>Status</source>
         <translation>Tila</translation>
     </message>
     <message>
         <source>Zoom out</source>
         <translation>Loitonna</translation>
-    </message>
-    <message>
-        <source>Replace all</source>
-        <translation type="vanished">Korvaa kaikki</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -7062,16 +6881,8 @@ ja luodaan alikansiot. </translation>
         <translation>IPTC/XMP-data päällekirjoitetaan kaikkiin tiedostoihin nykyisillä kenttäarvoilla, oletko varma?</translation>
     </message>
     <message>
-        <source>Apply</source>
-        <translation type="vanished">Käytä</translation>
-    </message>
-    <message>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
         <translation>Jos haluat muokata XMP-metatietoja, tarkista uusi &apos;Muokkaa XMP:tä&apos;-ikkuna.</translation>
-    </message>
-    <message>
-        <source>Write</source>
-        <translation type="vanished">Kirjoita</translation>
     </message>
     <message>
         <source>IPTC data has changed.
@@ -7098,10 +6909,6 @@ Haluatko tallentaa muutokset?</translation>
     <message>
         <source>0: None</source>
         <translation>0: Ei mitään</translation>
-    </message>
-    <message>
-        <source>An error occured during processing. Please make sure that files are not read-only!</source>
-        <translation type="vanished">Käsittelyn aikana tapahtui virhe. Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
@@ -7150,10 +6957,6 @@ Haluatko tallentaa muutokset?</translation>
     <message>
         <source>Edit history...</source>
         <translation>Muokkaushistoria...</translation>
-    </message>
-    <message>
-        <source>Write to all files</source>
-        <translation type="vanished">Kirjoita kaikkiin tiedostoihin</translation>
     </message>
     <message>
         <source>IPTC has changed</source>
@@ -7542,14 +7345,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Remove</source>
         <translation>Poista</translation>
-    </message>
-    <message>
-        <source>First Argument</source>
-        <translation type="vanished">Ensimmäinen argumentti</translation>
-    </message>
-    <message>
-        <source>Last Argument</source>
-        <translation type="vanished">Viimeinen argumentti</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -8778,14 +8573,6 @@ Kiitos että tilasit %1.</translation>
         <translation>Nykyinen tiedostopolku:</translation>
     </message>
     <message>
-        <source>Match All of the following conditions</source>
-        <translation type="vanished">Vastaa kaikkia seuraavia ehtoja</translation>
-    </message>
-    <message>
-        <source>Match Any of the following conditions</source>
-        <translation type="vanished">Vastaa mitä tahansa seuraavista ehdoista</translation>
-    </message>
-    <message>
         <source>Delete current search</source>
         <translation>Poista nykyinen haku</translation>
     </message>
@@ -8906,10 +8693,6 @@ Kiitos että tilasit %1.</translation>
         <translation>Tiedostolista</translation>
     </message>
     <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Koko näyttö</translation>
-    </message>
-    <message>
         <source>Catalog</source>
         <translation>Luettelo</translation>
     </message>
@@ -8920,10 +8703,6 @@ Kiitos että tilasit %1.</translation>
     <message>
         <source>Interface</source>
         <translation>Ulkoasu</translation>
-    </message>
-    <message>
-        <source>Auto text correction</source>
-        <translation type="vanished">Automaattikorjaus</translation>
     </message>
     <message>
         <source>Thumbnail</source>
@@ -8947,29 +8726,6 @@ Kiitos että tilasit %1.</translation>
     </message>
 </context>
 <context>
-    <name>DlgSettingsAuto</name>
-    <message>
-        <source>With</source>
-        <translation type="vanished">Tällä</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">Poista</translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="vanished">Korvaa</translation>
-    </message>
-    <message>
-        <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation type="vanished">Haluatko poistaa valitut automaattikorjauskohteet?</translation>
-    </message>
-    <message>
-        <source>Auto Correct</source>
-        <translation type="vanished">Automaattikorjaus</translation>
-    </message>
-</context>
-<context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <source>Tag</source>
@@ -8982,10 +8738,6 @@ Kiitos että tilasit %1.</translation>
     <message>
         <source>Sort</source>
         <translation>Järjestä</translation>
-    </message>
-    <message>
-        <source>Display file size in bytes</source>
-        <translation type="vanished">Näytä tiedostokoko tavuina</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -9183,20 +8935,8 @@ Kiitos että tilasit %1.</translation>
         <translation>Ei mitään</translation>
     </message>
     <message>
-        <source>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</source>
-        <translation type="vanished">Varoitus! Tämä toiminto poistaa kaikki orvoiksi jääneet tiedostot luettelosta. Haluatko jatkaa?</translation>
-    </message>
-    <message>
         <source>Lossless (ZIP)</source>
         <translation>Häviötön (ZIP)</translation>
-    </message>
-    <message>
-        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database. Please change &apos;base path&apos; only if you want to share same folder between several computers. Do you still want to change the &apos;base path&apos;?</source>
-        <translation type="vanished">Ole varovainen, &apos;peruspolun&apos; muuttaminen voi katkaista yhteyden jo tallennettujen tiedostojen tietokantaan, Muuta &apos;peruspolkua&apos; vain jos aiot jakaa saman kansion eri tietokoneiden välillä. Haluatko silti muuttaa &quot;peruspolkua&quot;?</translation>
-    </message>
-    <message>
-        <source>Relocate the folder</source>
-        <translation type="vanished">Muuta kansion sijainti</translation>
     </message>
     <message>
         <source>Included</source>
@@ -9231,10 +8971,6 @@ Kiitos että tilasit %1.</translation>
         <translation>Häviöllinen - Heikkolaatu (JPEG)</translation>
     </message>
     <message>
-        <source>Change absolute/relative paths</source>
-        <translation type="vanished">Muuta polkua- absoluuttinen/suhteellinen</translation>
-    </message>
-    <message>
         <source>Can&apos;t import XnView database</source>
         <translation>XnView-tietokantaa ei voi tuoda</translation>
     </message>
@@ -9251,10 +8987,6 @@ Kiitos että tilasit %1.</translation>
         <translation>Häviöllinen - Korkealaatu (JPEG)</translation>
     </message>
     <message>
-        <source>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</source>
-        <translation type="vanished">Varoitus! Tämä toiminto voi poistaa joitain tietokannan merkitöjä, jos niitä on määritelty luokituksilla / väreillä / avainsanoilla. Haluatko tarkistaa nämä merkinnät ensin?</translation>
-    </message>
-    <message>
         <source>Catalog maintenance [Catalog size %1 %2 - %3 %4]</source>
         <translation>Luettelon ylläpito [Luettelon koko %1 %2 - %3 %4]</translation>
     </message>
@@ -9265,16 +8997,6 @@ Kiitos että tilasit %1.</translation>
     <message>
         <source>Can&apos;t import XnView category database</source>
         <translation>XnView-kategorian tietokantaa ei voitu tuoda</translation>
-    </message>
-    <message>
-        <source>Be careful, this will remove entries of catalog with categories, rating &amp; color label. 
-(If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
-
-Do you want to remove entries assigned to a category?</source>
-        <translation type="vanished">Ole varovainen, tämä poistaa luettelomerkinnät kategorioista, luokituksista ja väritarroista.
-(Jos tiedot viedään upotettuihin- tai sivuvau-metatietoihin, voit tuoda ne myöhemmin uudelleen)
-
-Haluatko poistaa luokkaan määritetyt merkinnät?</translation>
     </message>
     <message>
         <source>Catalog - Absolute/Relative paths</source>
@@ -9389,10 +9111,6 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
     <message>
         <source>Import folder...</source>
         <translation>Tuo kansio...</translation>
-    </message>
-    <message>
-        <source>Optimize...</source>
-        <translation type="vanished">Optimoi...</translation>
     </message>
     <message>
         <source>Rebuild thumbnails</source>
@@ -9517,16 +9235,8 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
         <translation>AI/PS/PDF</translation>
     </message>
     <message>
-        <source>Companion (separated by ;)</source>
-        <translation type="vanished">Oheistiedostot (erotettu ; merkillä)</translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>Kuvat</translation>
-    </message>
-    <message>
-        <source>XnView</source>
-        <translation>XnView</translation>
     </message>
     <message>
         <source>Parent folder (&apos;..&apos;)</source>
@@ -9567,11 +9277,6 @@ esikatselukuvina</translation>
         <translation>Kansiot</translation>
     </message>
     <message>
-        <source>Show in 
-Preview</source>
-        <translation type="vanished">Näytä esikatselussa</translation>
-    </message>
-    <message>
         <source>Companion</source>
         <translation>Oheistiedosto</translation>
     </message>
@@ -9581,10 +9286,6 @@ Preview</source>
     <message>
         <source>New</source>
         <translation>Uusi</translation>
-    </message>
-    <message>
-        <source>Companions files linked for copy/move/rename action</source>
-        <translation type="vanished">Oheistiedostot linkitetetään kopioi-, siirrä- ja nimeä uudelleen-toimintoihin</translation>
     </message>
     <message>
         <source>Never</source>
@@ -9597,10 +9298,6 @@ Preview</source>
     <message>
         <source>File list</source>
         <translation>Tiedostolista</translation>
-    </message>
-    <message>
-        <source>Companions files linked for delete action</source>
-        <translation type="vanished">Oheistiedostot linkitetetään poistotoimintoon</translation>
     </message>
     <message>
         <source>Companion files</source>
@@ -9643,10 +9340,6 @@ Preview</source>
         <translation>Skannaa tiedostojen otsikot</translation>
     </message>
     <message>
-        <source>Select first item on entering folder</source>
-        <translation type="vanished">Valitse ensimmäinen nimike avattavasta kansiosta</translation>
-    </message>
-    <message>
         <source>Show companion files</source>
         <translation>Näytä oheistiedostot</translation>
     </message>
@@ -9669,10 +9362,6 @@ Preview</source>
     <message>
         <source>Only fixed disks</source>
         <translation>Vain kiinteät levyt</translation>
-    </message>
-    <message>
-        <source>Automatically select new files</source>
-        <translation type="vanished">Uusien tiedostojen automaattivalinta</translation>
     </message>
     <message>
         <source>or choose a format:</source>
@@ -9742,10 +9431,6 @@ Preview</source>
         <translation>Valitse tallennukseen käytettävät formaatit.</translation>
     </message>
     <message>
-        <source>Saving</source>
-        <translation type="vanished">Tallennus</translation>
-    </message>
-    <message>
         <source>Show most used format at beginning</source>
         <translation>Näytä eniten käyttämät formaatit aloituksessa</translation>
     </message>
@@ -9764,53 +9449,6 @@ Preview</source>
     <message>
         <source>Formats</source>
         <translation>Formaatti</translation>
-    </message>
-</context>
-<context>
-    <name>DlgSettingsFullscreenClass</name>
-    <message>
-        <source>Show toolbar</source>
-        <translation type="vanished">Näytä työkalupalkki</translation>
-    </message>
-    <message>
-        <source>Hide mouse cursor</source>
-        <translation type="vanished">Piilota hiiren kursori</translation>
-    </message>
-    <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Koko näyttö</translation>
-    </message>
-    <message>
-        <source>Show playbar</source>
-        <translation type="vanished">Näytä toistopalkki</translation>
-    </message>
-    <message>
-        <source>Show scrollbars</source>
-        <translation type="vanished">Näytä hiiripalkit</translation>
-    </message>
-    <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Automaattinen kuvakoko</translation>
-    </message>
-    <message>
-        <source>Show info</source>
-        <translation type="vanished">Näytä tiedot</translation>
-    </message>
-    <message>
-        <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation type="vanished">(ilmestyy kun hiirtä liikutetaan ruudulla ylös tai oikealle)</translation>
-    </message>
-    <message>
-        <source>Background color</source>
-        <translation type="vanished">Taustaväri</translation>
-    </message>
-    <message>
-        <source>Floating views</source>
-        <translation type="vanished">Kelluvat näkymät</translation>
-    </message>
-    <message>
-        <source>Dual monitor: Use second monitor</source>
-        <translation type="vanished">Kaksoisnäyttö: Käytä toista näyttöä</translation>
     </message>
 </context>
 <context>
@@ -9863,10 +9501,6 @@ Preview</source>
         <translation>Kysy</translation>
     </message>
     <message>
-        <source>ICC</source>
-        <translation type="vanished">ICC</translation>
-    </message>
-    <message>
         <source>Last</source>
         <translation>Viimeisin</translation>
     </message>
@@ -9881,10 +9515,6 @@ Preview</source>
     <message>
         <source>sRGB</source>
         <translation>sRGB</translation>
-    </message>
-    <message>
-        <source>Open browser at startup</source>
-        <translation type="vanished">Avaa kuvaselain käynnistettäessä</translation>
     </message>
     <message>
         <source>Duplicate files</source>
@@ -10039,14 +9669,6 @@ Preview</source>
         <translation>Määritelty</translation>
     </message>
     <message>
-        <source>Adjust zoom if X/Y DPI are different</source>
-        <translation type="vanished">Säädä zoomia jos X/Y DPI:t ovat erilaisia</translation>
-    </message>
-    <message>
-        <source>Rotate images according to EXIF orientation tag</source>
-        <translation type="vanished">Käännä kuvat EXIF-suuntausmerkintöjen mukaisesti</translation>
-    </message>
-    <message>
         <source>Copy (#) of &lt;Filename&gt;</source>
         <translation>&lt;Tiedostonimi&gt;:n Kopio (#)</translation>
     </message>
@@ -10057,10 +9679,6 @@ Preview</source>
     <message>
         <source>Save as copy for &apos;Save&apos; action</source>
         <translation>Tallenna kopio &apos;Tallenna&apos;-toiminolla</translation>
-    </message>
-    <message>
-        <source>Mode when starting with a file</source>
-        <translation type="vanished">Tiedoston näyttötila</translation>
     </message>
     <message>
         <source>Make backup for lossless crop</source>
@@ -10085,10 +9703,6 @@ Preview</source>
     <message>
         <source>Use EXIF DPI (if exists)</source>
         <translation>Käytä EXIF DPI:tä (jos mahdollista)</translation>
-    </message>
-    <message>
-        <source>Restore last selected filename</source>
-        <translation type="vanished">Palauta viimeksi valittu tiedostonimi</translation>
     </message>
     <message>
         <source>Check for program updates</source>
@@ -10237,10 +9851,6 @@ Preview</source>
 <context>
     <name>DlgSettingsIntegrationClass</name>
     <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <source>Folder for Catalog (.db)</source>
         <translation>Kansio luettelolle (.db)</translation>
     </message>
@@ -10386,16 +9996,8 @@ Do you want to reassign?</source>
         <translation>Pika-kuvaesitys</translation>
     </message>
     <message>
-        <source>Mouse wheel + CTRL</source>
-        <translation type="vanished">Hiiren rulla + CTRL</translation>
-    </message>
-    <message>
         <source>Mouse</source>
         <translation>Hiiri</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">Ei koskaan</translation>
     </message>
     <message>
         <source>SPACE</source>
@@ -10404,10 +10006,6 @@ Do you want to reassign?</source>
     <message>
         <source>Display:</source>
         <translation>Näkymä:</translation>
-    </message>
-    <message>
-        <source>Zoomed selection</source>
-        <translation type="vanished">Zoomaa valinta</translation>
     </message>
     <message>
         <source>Shortcut for selected action</source>
@@ -10438,20 +10036,12 @@ Do you want to reassign?</source>
         <translation>Siirrä kuvaa</translation>
     </message>
     <message>
-        <source>Right button + CTRL</source>
-        <translation type="vanished">Oikea painike + CTRL</translation>
-    </message>
-    <message>
         <source>Recent files</source>
         <translation>Viimeksi käytetyt tiedostot</translation>
     </message>
     <message>
         <source>Maximum of view tabs:</source>
         <translation>Näytettävien välilehtien maksimimäärä:</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="vanished">Aina</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10474,24 +10064,12 @@ Do you want to reassign?</source>
         <translation>Ei mitään</translation>
     </message>
     <message>
-        <source>Scroll left/right</source>
-        <translation type="vanished">Rullaus vasen/oikea</translation>
-    </message>
-    <message>
         <source>Viewer</source>
         <translation>Katselin</translation>
     </message>
     <message>
         <source>Maximum entries:</source>
         <translation>Näytä enintään:</translation>
-    </message>
-    <message>
-        <source>Use double click to switch between:</source>
-        <translation type="vanished">Käytä kaksoisklikkausta valitaksesi:</translation>
-    </message>
-    <message>
-        <source>No action</source>
-        <translation type="vanished">Ei toimintoa</translation>
     </message>
     <message>
         <source>Close tab</source>
@@ -10512,10 +10090,6 @@ Do you want to reassign?</source>
     <message>
         <source>Left button</source>
         <translation>Vasen painike</translation>
-    </message>
-    <message>
-        <source>Mouse wheel</source>
-        <translation type="vanished">Hiiren rulla</translation>
     </message>
     <message>
         <source>Large icons</source>
@@ -10556,10 +10130,6 @@ Do you want to reassign?</source>
     <message>
         <source>Purge now</source>
         <translation>Tyhjennä nyt</translation>
-    </message>
-    <message>
-        <source>Only in fullscreen</source>
-        <translation type="vanished">Vain koko näyttö-tilassa</translation>
     </message>
     <message>
         <source>Double-click on tab: </source>
@@ -10630,14 +10200,6 @@ Do you want to reassign?</source>
         <translation>Edellinen tiedosto</translation>
     </message>
     <message>
-        <source>Pressing Esc once quits XnViewMP</source>
-        <translation type="vanished">Esc-näppäimen painaminen sulkee XnViewMP:n</translation>
-    </message>
-    <message>
-        <source>Use &quot;Pan and Zoom&quot; tool</source>
-        <translation type="vanished">Käytä &apos;Panoroi ja zoomaa&apos; -työkalua</translation>
-    </message>
-    <message>
         <source>Up/Down</source>
         <translation>Ylos/alas</translation>
     </message>
@@ -10660,18 +10222,6 @@ Do you want to reassign?</source>
     <message>
         <source>Browser - Preview</source>
         <translation>Kuvaselain - Esikatselu</translation>
-    </message>
-    <message>
-        <source>Left button + CTRL</source>
-        <translation type="vanished">Vasen painike + CTRL</translation>
-    </message>
-    <message>
-        <source>Use middle click to switch between:</source>
-        <translation type="vanished">Käytä keskipainiketta valitaksesi:</translation>
-    </message>
-    <message>
-        <source>Use ENTER to switch between:</source>
-        <translation type="vanished">Käytä ENTER-näppäintä valitaksesi:</translation>
     </message>
     <message>
         <source>Set command...</source>
@@ -10760,18 +10310,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <source>No</source>
-        <translation type="vanished">Ei</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Kyllä</translation>
-    </message>
-    <message>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
-    </message>
-    <message>
         <source>Automatically apply parent category (Ctrl+click for single category)</source>
         <translation>Käytä automaattisesti pääkategoriaa (Klikkaa Ctrl+päästäksesi yksittäiseen kategoriaan)</translation>
     </message>
@@ -10802,10 +10340,6 @@ Do you want to reassign?</source>
     <message>
         <source>Import XMP Face tag</source>
         <translation>Tuo XMP -kasvotunniste</translation>
-    </message>
-    <message>
-        <source>IPTC &amp;&amp; XMP</source>
-        <translation type="vanished">IPTC ja XMP</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Label</source>
@@ -10907,21 +10441,9 @@ Do you want to reassign?</source>
         <source>Supported formats</source>
         <translation>Tuetut formaatit</translation>
     </message>
-    <message>
-        <source>JPEG</source>
-        <translation type="obsolete">JPEG</translation>
-    </message>
 </context>
 <context>
     <name>DlgSettingsPanel</name>
-    <message>
-        <source>Please restart XnView</source>
-        <translation type="vanished">Ole hyvä ja käynnistä XnView uudelleen</translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Tiedot</translation>
-    </message>
     <message>
         <source>Please restart application.</source>
         <translatorcomment>Uudelleenkäynnistä sovellus.</translatorcomment>
@@ -10935,36 +10457,12 @@ Do you want to reassign?</source>
         <translation>%</translation>
     </message>
     <message>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
-    </message>
-    <message>
-        <source>GPS</source>
-        <translation>GPS</translation>
-    </message>
-    <message>
         <source>Tag</source>
         <translation>Merkintä (Tagi)</translation>
     </message>
     <message>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation>Vasen</translation>
-    </message>
-    <message>
-        <source>Misc</source>
-        <translation type="vanished">Sekalaiset</translation>
     </message>
     <message>
         <source>Thumbnail cell</source>
@@ -11051,16 +10549,8 @@ Do you want to reassign?</source>
         <translation>Upotettu esikatselukuva</translation>
     </message>
     <message>
-        <source>Text color</source>
-        <translation type="vanished">Tekstin väri</translation>
-    </message>
-    <message>
         <source>Label alignment</source>
         <translation>Ikkunajärjestys</translation>
-    </message>
-    <message>
-        <source>Background color</source>
-        <translation type="vanished">Taustaväri</translation>
     </message>
     <message>
         <source>Face tag</source>
@@ -11313,10 +10803,6 @@ Do you want to reassign?</source>
         <translation>Loitonna</translation>
     </message>
     <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Automaattinen kuvakoko</translation>
-    </message>
-    <message>
         <source>Opacity</source>
         <translation>Peittävyys</translation>
     </message>
@@ -11365,16 +10851,8 @@ Do you want to reassign?</source>
         <translation>Automaattitoisto (video)</translation>
     </message>
     <message>
-        <source>Information displayed</source>
-        <translation type="vanished">Näytettävät tiedot</translation>
-    </message>
-    <message>
         <source>Description</source>
         <translation>Selitys</translation>
-    </message>
-    <message>
-        <source>Show Video</source>
-        <translation type="vanished">Näytä video</translation>
     </message>
     <message>
         <source>Two-pass rendering at loading</source>
@@ -11441,10 +10919,6 @@ Do you want to reassign?</source>
         <translation>D1/DV NTSC (0.9)</translation>
     </message>
     <message>
-        <source>HTML tags supported</source>
-        <translation type="vanished">HTML-tunnisteita tuetaan</translation>
-    </message>
-    <message>
         <source>Forward</source>
         <translation>Eteenpäin</translation>
     </message>
@@ -11471,10 +10945,6 @@ Do you want to reassign?</source>
     <message>
         <source>Loop on the file list</source>
         <translation>Jatkuva toisto (Tiedostolistalla olevat)</translation>
-    </message>
-    <message>
-        <source>Reset &apos;Auto Image size&apos; setting with next/previous file</source>
-        <translation type="vanished">Nollaa asetus: &apos;Automaattinen kuvakoko&apos; toiminnoille seuraava/edellinen tiedosto</translation>
     </message>
     <message>
         <source>Show Pan tool</source>
@@ -11639,10 +11109,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSimilarResult</name>
     <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Päiväys</translation>
     </message>
@@ -11773,10 +11239,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSlideshow</name>
     <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <source>Font</source>
         <translation>Fontti</translation>
     </message>
@@ -11815,10 +11277,6 @@ Do you want to reassign?</source>
     <message>
         <source>Transition</source>
         <translation>Siirtyminen</translation>
-    </message>
-    <message>
-        <source>Save SLD with relative paths</source>
-        <translation type="vanished">Tallenna SLD suhteellisten polkujen kanssa</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -11912,10 +11370,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSplit</name>
     <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <source>Rows</source>
         <translation>Rivit</translation>
     </message>
@@ -11989,10 +11443,6 @@ Do you want to reassign?</source>
     <message>
         <source>Folder for Catalog (.db)</source>
         <translation>Kansio luettelolle (.db)</translation>
-    </message>
-    <message>
-        <source>XnView settings</source>
-        <translation type="vanished">XnView-asetukset</translation>
     </message>
     <message>
         <source>Black</source>
@@ -12185,10 +11635,6 @@ Do you want to reassign?</source>
         <translation>Poista</translation>
     </message>
     <message>
-        <source>Add region</source>
-        <translation type="vanished">Lisää alue</translation>
-    </message>
-    <message>
         <source>Overwrite face regions</source>
         <translation>Korvaa alueet</translation>
     </message>
@@ -12261,10 +11707,6 @@ Do you want to reassign?</source>
     <message>
         <source>-</source>
         <translation>-</translation>
-    </message>
-    <message>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <source>Use</source>
@@ -12450,10 +11892,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgUploadClass</name>
     <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <source>User</source>
         <translation>Käyttäjä</translation>
     </message>
@@ -12509,10 +11947,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgUserFilter</name>
     <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <source>Bias</source>
         <translation>Vinous</translation>
     </message>
@@ -12533,16 +11967,8 @@ Do you want to reassign?</source>
         <translation>Lisää suodin</translation>
     </message>
     <message>
-        <source>Changes</source>
-        <translation type="vanished">Muutokset</translation>
-    </message>
-    <message>
         <source>Divisor</source>
         <translation>Jakaja</translation>
-    </message>
-    <message>
-        <source>There is some changes, do you want to save filters?</source>
-        <translation type="vanished">Suotimessa on tapahtunut Joitakin muutoksia, haluatko tallentaa suotimen?</translation>
     </message>
     <message>
         <source>Filter list</source>
@@ -12643,10 +12069,6 @@ Do you want to reassign?</source>
         <translation>Keskitä vierekkäin</translation>
     </message>
     <message>
-        <source>Scaled</source>
-        <translation type="vanished">Skaalaa</translation>
-    </message>
-    <message>
         <source>Set as wallpaper</source>
         <translation>Aseta taustakuvaksi</translation>
     </message>
@@ -12685,18 +12107,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgWriteAvif</name>
     <message>
-        <source>Max</source>
-        <translation type="vanished">Max</translation>
-    </message>
-    <message>
-        <source>Min</source>
-        <translation type="vanished">Min</translation>
-    </message>
-    <message>
-        <source>Codec</source>
-        <translation type="vanished">Koodekki</translation>
-    </message>
-    <message>
         <source>Speed</source>
         <translation>Nopeus</translation>
     </message>
@@ -12705,20 +12115,8 @@ Do you want to reassign?</source>
         <translation>Formaatti</translation>
     </message>
     <message>
-        <source>Lossless</source>
-        <translation type="vanished">Häviötön</translation>
-    </message>
-    <message>
         <source>(10 = fastest)</source>
         <translation>(10 = nopein)</translation>
-    </message>
-    <message>
-        <source>Quantization for alpha</source>
-        <translation type="vanished">Alfan kvantisointi</translation>
-    </message>
-    <message>
-        <source>Quantization for color</source>
-        <translation type="vanished">Värien kvantisointi</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -13248,10 +12646,6 @@ Haluatko poistaa suosikin &quot;%1&quot;?</translation>
         <translation>Lisää tiedostot...</translation>
     </message>
     <message>
-        <source>You can drag&amp;drop your files on the list below.</source>
-        <translation type="vanished">Voit raahata ja pudottaa tiedostot listalle</translation>
-    </message>
-    <message>
         <source>Large thumbnails</source>
         <translation>Suuret esikatselukuvat</translation>
     </message>
@@ -13313,10 +12707,6 @@ Haluatko poistaa suosikin &quot;%1&quot;?</translation>
 </context>
 <context>
     <name>Flickr</name>
-    <message>
-        <source>An error has occured!!</source>
-        <translation type="vanished">Tapahtui virhe!</translation>
-    </message>
     <message>
         <source>Authorization</source>
         <translation>Valtuudet</translation>
@@ -13826,10 +13216,6 @@ Haluatko poistaa suosikin &quot;%1&quot;?</translation>
         <translation>Tuo</translation>
     </message>
     <message>
-        <source>File&apos;s categories</source>
-        <translation type="vanished">Tiedostoluokat</translation>
-    </message>
-    <message>
         <source>Options</source>
         <translation>Valinnat</translation>
     </message>
@@ -13856,10 +13242,6 @@ Haluatko poistaa suosikin &quot;%1&quot;?</translation>
     <message>
         <source>Search Mode</source>
         <translation>Hakutila</translation>
-    </message>
-    <message>
-        <source>Importing categories file, please wait.. </source>
-        <translation type="vanished">Tuodaan kategoriatiedosto, odota...</translation>
     </message>
     <message>
         <source>Importing categories file, please wait...</source>
@@ -14809,10 +14191,6 @@ Haluatko poistaa suosikin &quot;%1&quot;?</translation>
         <translation>Tiedot</translation>
     </message>
     <message>
-        <source>An error occured.</source>
-        <translation type="vanished">Virhe tapahtunut.</translation>
-    </message>
-    <message>
         <source>This file uses a nonwritable format, so it&apos;s not possible to rotate it.</source>
         <translation>Tiedosto on kirjoitussuojattu. Sitä ei voida kääntää.</translation>
     </message>
@@ -14825,16 +14203,8 @@ Do you want to continue?</source>
 Haluatko jatkaa?</translation>
     </message>
     <message>
-        <source>An error occured, the lossless rotation can&apos;t be executed.</source>
-        <translation type="vanished">Tapahtui virhe. Häviötöntä kääntämistä ei voida suorittaa.</translation>
-    </message>
-    <message>
         <source>Problem</source>
         <translation>Ongelma</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard some metadata!</source>
-        <translation type="vanished">Ole tarkkana, tallentaminen tässä formaatissa kadottaa joitakin metatietoja!</translation>
     </message>
     <message>
         <source>The picture will be converted in 8 bits per component
@@ -14843,16 +14213,8 @@ Do you want to continue?</source>
 Haluatko jatkaa?</translation>
     </message>
     <message>
-        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
-        <translation type="vanished">Ole huolellinen, tallentaminen tässä muodossa poistaa  kommentit ja kaiken olemassa olevan metadatan!</translation>
-    </message>
-    <message>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
         <translation>Tämä tiedosto sisältää enemmän kuin yhden sivun/kuvan. Sen vuoksi sitä ei voi kääntää.</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard any existing metadata!</source>
-        <translation type="vanished">Ole huolellinen, tallentaminen tässä muodossa poistaa kaikki olemassa olevat metatiedot!</translation>
     </message>
     <message>
         <source>Lossless Crop</source>
@@ -14943,10 +14305,6 @@ Haluatko jatkaa?</translation>
         <translation>Bulgaria</translation>
     </message>
     <message>
-        <source>Simplified Chinese</source>
-        <translation type="vanished">Yksinkertaistettu Kiina</translation>
-    </message>
-    <message>
         <source>Basque</source>
         <translation>Baski</translation>
     </message>
@@ -14965,10 +14323,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>German</source>
         <translation>Saksa</translation>
-    </message>
-    <message>
-        <source>Hebrew</source>
-        <translation>Hebrea</translation>
     </message>
     <message>
         <source>Korean</source>
@@ -15049,10 +14403,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Turkish</source>
         <translation>Turkki</translation>
-    </message>
-    <message>
-        <source>Traditional Chinese</source>
-        <translation type="vanished">Perinteinen Kiina</translation>
     </message>
     <message>
         <source>your name</source>
@@ -15289,20 +14639,12 @@ Haluatko jatkaa?</translation>
         <translation>Värimerkintä</translation>
     </message>
     <message>
-        <source>EXIF thumbnail - Rotate 270°</source>
-        <translation type="vanished">EXIF-Esikatselukuva - Käännä 270°</translation>
-    </message>
-    <message>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF-esikatselukuva - Päivitä</translation>
     </message>
     <message>
         <source>Show title of panels</source>
         <translation>Näytä paneelien otsikot</translation>
-    </message>
-    <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Käännä vaakasuunnassa</translation>
     </message>
     <message>
         <source>Quick Filter</source>
@@ -15351,10 +14693,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Käännä EXIF-suuntausmerkintöjen mukaisesti</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Käännä pystysuunnassa</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
@@ -15471,10 +14809,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Recent files</source>
         <translation>Viimeksi käytetyt tiedostot</translation>
-    </message>
-    <message>
-        <source>EXIF thumbnail - Rotate 90°</source>
-        <translation type="vanished">EXIF-esikatselukuva - Käännä 90°</translation>
     </message>
     <message>
         <source>Thumbnails + Filenames</source>
@@ -15629,10 +14963,6 @@ Haluatko jatkaa?</translation>
         <translation>Loitonna</translation>
     </message>
     <message>
-        <source>Auto Image Size</source>
-        <translation type="vanished">Automaattinen kuvakoko</translation>
-    </message>
-    <message>
         <source>Open...</source>
         <translation>Avaa...</translation>
     </message>
@@ -15643,10 +14973,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Compare...</source>
         <translation>Vertailu...</translation>
-    </message>
-    <message>
-        <source>Untag current</source>
-        <translation type="vanished">Poista merkintä</translation>
     </message>
     <message>
         <source>Show blue</source>
@@ -15731,10 +15057,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Refresh</source>
         <translation>Päivitä</translation>
-    </message>
-    <message>
-        <source>Show files in subfolder</source>
-        <translation type="vanished">Näytä alikansioiden tiedostot</translation>
     </message>
     <message>
         <source>Average</source>
@@ -15905,10 +15227,6 @@ Haluatko jatkaa?</translation>
         <translation>Älä merkitse mitään</translation>
     </message>
     <message>
-        <source>Tag current</source>
-        <translation type="vanished">Merkitse valittu tiedosto</translation>
-    </message>
-    <message>
         <source>Show source panels</source>
         <translation>Näytä lähdeikkunat</translation>
     </message>
@@ -15935,10 +15253,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Edit IPTC...</source>
         <translation>Muokkaa IPTC:tä...</translation>
-    </message>
-    <message>
-        <source>Categories Filter</source>
-        <translation type="vanished">Kategoriat</translation>
     </message>
     <message>
         <source>File operations</source>
@@ -16009,10 +15323,6 @@ Haluatko jatkaa?</translation>
         <translation>Kategoriat</translation>
     </message>
     <message>
-        <source>Open with</source>
-        <translation type="vanished">Avaa sovelluksessa</translation>
-    </message>
-    <message>
         <source>##label## (move to next image)</source>
         <translation>##ikkuna## (siirry seuraavaan kuvaan))</translation>
     </message>
@@ -16023,10 +15333,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Unrated</source>
         <translation>Luokittelematon</translation>
-    </message>
-    <message>
-        <source>Rotate counter clockwise</source>
-        <translation type="vanished">Käännä vastapäivään</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -16051,10 +15357,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Selected path(s)</source>
         <translation>Valitut kansiot</translation>
-    </message>
-    <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">Käännä myötäpäivään</translation>
     </message>
     <message>
         <source>Thumbnails view only</source>
@@ -16284,10 +15586,6 @@ Haluatko jatkaa?</translation>
         <translation>Tietoja</translation>
     </message>
     <message>
-        <source>Web capture...</source>
-        <translation type="vanished">Web-kaappaus...</translation>
-    </message>
-    <message>
         <source>Titlebar</source>
         <translation>Nimipalkki</translation>
     </message>
@@ -16298,10 +15596,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Report a Bug...</source>
         <translation>Ilmoita virheestä...</translation>
-    </message>
-    <message>
-        <source>Visit XnView&apos;s Website...</source>
-        <translation type="vanished">Käy XnView-kotisivulla...</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -16316,10 +15610,6 @@ Haluatko jatkaa?</translation>
         <translation>Tekninen tuki...</translation>
     </message>
     <message>
-        <source>Visit XnView&apos;s Forum...</source>
-        <translation type="vanished">Käy XnView-foorumilla...</translation>
-    </message>
-    <message>
         <source>Check for update...</source>
         <translation>Tarkista päivitykset...</translation>
     </message>
@@ -16328,16 +15618,8 @@ Haluatko jatkaa?</translation>
         <translation>Lahjoita...</translation>
     </message>
     <message>
-        <source>Follow XnView on Twitter...</source>
-        <translation type="vanished">Seuraa XnViewiä Twitterissä...</translation>
-    </message>
-    <message>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
-    </message>
-    <message>
-        <source>Become a fan of XnView on Facebook...</source>
-        <translation type="vanished">Fanita XnViewiä Facebookissa...</translation>
     </message>
     <message>
         <source>Always on top</source>
@@ -16494,10 +15776,6 @@ Haluatko jatkaa?</translation>
         <translation>Kopioi</translation>
     </message>
     <message>
-        <source>Crop</source>
-        <translation type="vanished">Rajaa</translation>
-    </message>
-    <message>
         <source>Fair</source>
         <translation>Kohtuullinen</translation>
     </message>
@@ -16536,10 +15814,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Save</source>
         <translation>Tallenna</translation>
-    </message>
-    <message>
-        <source>Swap</source>
-        <translation type="vanished">Vaihda</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -16626,14 +15900,6 @@ Haluatko jatkaa?</translation>
         <translation>Automaattitasot</translation>
     </message>
     <message>
-        <source>Horizontal</source>
-        <translation type="vanished">Vaakasuunnassa</translation>
-    </message>
-    <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Käännä vaakasuunnassa</translation>
-    </message>
-    <message>
         <source>Zoom in</source>
         <translation>Lähennä</translation>
     </message>
@@ -16644,10 +15910,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Käännä EXIF-suuntausmerkintöjen mukaisesti</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Käännä pystysuunnassa</translation>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
@@ -16680,10 +15942,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Extract channel</source>
         <translation>Poimi värikanava</translation>
-    </message>
-    <message>
-        <source>90° right</source>
-        <translation type="vanished">90° oikealle</translation>
     </message>
     <message>
         <source>Automatic Deskew</source>
@@ -16854,16 +16112,8 @@ Haluatko jatkaa?</translation>
         <translation>Muokattu kuvasuhde</translation>
     </message>
     <message>
-        <source>Watermark...</source>
-        <translation type="vanished">Vesileima...</translation>
-    </message>
-    <message>
         <source>Zoom out</source>
         <translation>Loitonna</translation>
-    </message>
-    <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Automaattinen koko</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -16884,10 +16134,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Canvas resize...</source>
         <translation>Kuva-alueen koko...</translation>
-    </message>
-    <message>
-        <source>Untag current</source>
-        <translation type="vanished">Poista viimeisimmät merkinnät (tagit)</translation>
     </message>
     <message>
         <source>Show grid</source>
@@ -17070,10 +16316,6 @@ Haluatko jatkaa?</translation>
         <translation>Käännä...</translation>
     </message>
     <message>
-        <source>Tag current</source>
-        <translation type="vanished">Merkitse nykyinen</translation>
-    </message>
-    <message>
         <source>Crop...</source>
         <translation>Rajaa...</translation>
     </message>
@@ -17182,16 +16424,8 @@ Haluatko jatkaa?</translation>
         <translation>Luokittelematon</translation>
     </message>
     <message>
-        <source>Rotate counter clockwise</source>
-        <translation type="vanished">Käännä vastapäivään</translation>
-    </message>
-    <message>
         <source>Sepia...</source>
         <translation>Seepia...</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="vanished">Pystysuunnassa</translation>
     </message>
     <message>
         <source>Effect...</source>
@@ -17212,14 +16446,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Fit image to window</source>
         <translation>Sovita kuva ikkunaan</translation>
-    </message>
-    <message>
-        <source>90° left</source>
-        <translation type="vanished">90° vasemmalle</translation>
-    </message>
-    <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">Käännä myötäpäivään</translation>
     </message>
     <message>
         <source>Save selection...</source>
@@ -17308,10 +16534,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Swap color</source>
         <translation>Vaihda väriä</translation>
-    </message>
-    <message>
-        <source>Remove Background...</source>
-        <translation type="vanished">Poista tausta...</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
@@ -17646,13 +16868,6 @@ Haluatko jatkaa?</translation>
     </message>
 </context>
 <context>
-    <name>MyProgressDialogEx</name>
-    <message>
-        <source>Creating contact sheet...</source>
-        <translation type="obsolete">Luodaan kontaktiarkki...</translation>
-    </message>
-</context>
-<context>
     <name>MyProgressThreadDialog</name>
     <message>
         <source>Cancel</source>
@@ -17739,10 +16954,6 @@ Haluatko jatkaa?</translation>
     <message>
         <source>[Free disk space: %1 %2]</source>
         <translation>Vapaa levytila: %1 %2]</translation>
-    </message>
-    <message>
-        <source>The thumbnail size in catalog is smaller than the chosen size, you can change it in Options&gt;Catalog</source>
-        <translation type="vanished">Esikatselukuvan koko kuvastossa on pienempi kuin valittu koko. Voit muuttaa sitä kohdasta: Asetukset &gt; Luettelo</translation>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
@@ -17876,10 +17087,6 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
         <translation>Peruuta</translation>
     </message>
     <message>
-        <source>Fill:</source>
-        <translation type="vanished">Täyttö:</translation>
-    </message>
-    <message>
         <source>Right</source>
         <translation>Oikealle</translation>
     </message>
@@ -17940,10 +17147,6 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
         <translation>Yliviivattu</translation>
     </message>
     <message>
-        <source>Style:</source>
-        <translation type="vanished">Tyyli:</translation>
-    </message>
-    <message>
         <source>Bottom-Left</source>
         <translation>Ala-vasemmalla</translation>
     </message>
@@ -17996,16 +17199,8 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
         <translation>Piirrä [%1]</translation>
     </message>
     <message>
-        <source>Arrows:</source>
-        <translation type="vanished">Nuolet:</translation>
-    </message>
-    <message>
         <source>Contour only</source>
         <translation>Vain ääriviivat</translation>
-    </message>
-    <message>
-        <source>Thickness:</source>
-        <translation type="vanished">Paksuus:</translation>
     </message>
     <message>
         <source>Add text</source>
@@ -18102,10 +17297,6 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     <message>
         <source>Arrows</source>
         <translation>Nuolet</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
     </message>
 </context>
 <context>
@@ -18235,155 +17426,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <message>
         <source>Connection closed</source>
         <translation>Yhteys suljettu</translation>
-    </message>
-</context>
-<context>
-    <name>QGnomeTheme</name>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="vanished">&amp;Tallenna</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Sulje</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <translation type="vanished">Ohita</translation>
-    </message>
-    <message>
-        <source>Close without Saving</source>
-        <translation type="vanished">Sulje tallentamatta</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Peruuta</translation>
-    </message>
-</context>
-<context>
-    <name>QPlatformTheme</name>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">OK</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ei</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Kyllä</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Ohje</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="vanished">Avaa</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation type="vanished">Tallenna</translation>
-    </message>
-    <message>
-        <source>Abort</source>
-        <translation type="vanished">Keskeytä</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="vanished">Käytä</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Sulje</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation type="vanished">Palauta</translation>
-    </message>
-    <message>
-        <source>Retry</source>
-        <translation type="vanished">Yritä uudelleen</translation>
-    </message>
-    <message>
-        <source>Restore Defaults</source>
-        <translation type="vanished">Palauta oletukset</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Peruuta</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <translation type="vanished">Ohita</translation>
-    </message>
-    <message>
-        <source>N&amp;o to All</source>
-        <translation type="vanished">E&amp;i kaikkiin</translation>
-    </message>
-    <message>
-        <source>Save All</source>
-        <translation type="vanished">Tallenna kaikki</translation>
-    </message>
-    <message>
-        <source>Discard</source>
-        <translation type="vanished">Hylkää</translation>
-    </message>
-    <message>
-        <source>Yes to &amp;All</source>
-        <translation type="vanished">Kyllä k&amp;aikkiin</translation>
-    </message>
-</context>
-<context>
-    <name>QWizard</name>
-    <message>
-        <source>Done</source>
-        <translation type="vanished">Valmis</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Ohje</translation>
-    </message>
-    <message>
-        <source>&amp;Help</source>
-        <translation type="vanished">O&amp;hje</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Seuraava</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Peruuta</translation>
-    </message>
-    <message>
-        <source>Commit</source>
-        <translation type="vanished">Vahvista</translation>
-    </message>
-    <message>
-        <source>Continue</source>
-        <translation type="vanished">Jatka</translation>
-    </message>
-    <message>
-        <source>&amp;Finish</source>
-        <translation type="vanished">Valm&amp;is</translation>
-    </message>
-    <message>
-        <source>&amp;Next &gt;</source>
-        <translation type="vanished">&amp;Seuraava &gt;</translation>
-    </message>
-    <message>
-        <source>Go Back</source>
-        <translation type="vanished">Takaisin</translation>
-    </message>
-    <message>
-        <source>&lt; &amp;Back</source>
-        <translation type="vanished">&lt; E&amp;dellinen</translation>
     </message>
 </context>
 <context>
@@ -18741,10 +17783,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
 <context>
     <name>Rename</name>
     <message>
-        <source>An error occured during renaming!</source>
-        <translation type="vanished">Virhe uudelleen nimeämisessä!</translation>
-    </message>
-    <message>
         <source>An error has occurred during renaming!</source>
         <translation>Virhe uudelleen nimeämisessä!</translation>
     </message>
@@ -18850,10 +17888,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
 </context>
 <context>
     <name>SearchLineEdit</name>
-    <message>
-        <source>Quick search</source>
-        <translation type="vanished">Pikahaku</translation>
-    </message>
     <message>
         <source>Quick filter</source>
         <translation>Pikasuodin</translation>
@@ -19316,10 +18350,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
         <translation>Luodaan varmuuskopiota, odota...</translation>
     </message>
     <message>
-        <source>Saving many tabs may noticeably slow reopening XnView MP</source>
-        <translation type="vanished">Monen välilehden tallentaminen voi hidastaa XnView MP:n uudelleen avautumista</translation>
-    </message>
-    <message>
         <source>File not found!</source>
         <translation>Tiedostoa ei löytynyt!</translation>
     </message>
@@ -19332,18 +18362,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
         <translation>Hitauden syy, edellinen istuntosi sisältää useita ladattavia kuvia!</translation>
     </message>
     <message>
-        <source>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</source>
-        <translation type="vanished">Luokitusta / Merkintää (Tagia) / Värimerkintää ei voi tallentaa, jos luetteloiden ja metatietojen vienti on poistettu käytöstä!</translation>
-    </message>
-    <message>
-        <source>Do not ask again</source>
-        <translation type="vanished">Älä kysy uudestaan</translation>
-    </message>
-    <message>
-        <source>XnView MP is currently up to date.</source>
-        <translation type="vanished">Käytössäsi on uusin versio XnView MP:stä.</translation>
-    </message>
-    <message>
         <source>Catalog</source>
         <translation>Luettelo</translation>
     </message>
@@ -19354,10 +18372,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <message>
         <source>Do you want to quit?</source>
         <translation>Haluatko lopettaa?</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation type="vanished">Versio</translation>
     </message>
     <message>
         <source>XnViewMP will upgrade the catalog. It may take a while. 

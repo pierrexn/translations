@@ -89,17 +89,9 @@
         <translation type="unfinished">Arancione</translation>
     </message>
     <message>
-        <source>6</source>
-        <translation type="obsolete">100% {6?}</translation>
-    </message>
-    <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
         <translation type="unfinished">Grigio</translation>
-    </message>
-    <message>
-        <source>7</source>
-        <translation type="obsolete">100% {7?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -107,17 +99,9 @@
         <translation type="unfinished">Nero</translation>
     </message>
     <message>
-        <source>8</source>
-        <translation type="obsolete">100% {8?}</translation>
-    </message>
-    <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
         <translation type="unfinished">Bianco</translation>
-    </message>
-    <message>
-        <source>9</source>
-        <translation type="obsolete">100% {9?}</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -194,10 +178,6 @@
         <translation type="unfinished">Wiki</translation>
     </message>
     <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
         <translation type="unfinished">Nome del file INI</translation>
@@ -246,10 +226,6 @@
         <location filename="AboutWidget.ui" line="481"/>
         <source>What&apos;s New</source>
         <translation>Novità</translation>
-    </message>
-    <message>
-        <source>INI filename: </source>
-        <translation type="vanished">Nome del file INI:</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -310,10 +286,6 @@
 </translation>
     </message>
     <message>
-        <source>Save as...</source>
-        <translation type="obsolete">Salva come...</translation>
-    </message>
-    <message>
         <location filename="ViewWindow.cpp" line="1353"/>
         <source>Frame %1/%2</source>
         <translation>Fotogramma %1/%2</translation>
@@ -333,14 +305,6 @@
         <location filename="ViewWindow.cpp" line="1571"/>
         <source>&lt; Empty &gt;</source>
         <translation type="unfinished">&lt; Vuoto &gt;</translation>
-    </message>
-    <message>
-        <source>Are you sure to delete &quot;%1&quot;?</source>
-        <translation type="vanished">Volete davvero eliminare &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Are you sure to delete &quot;%1&quot; (%2 items)?</source>
-        <translation type="obsolete">Volete davvero eliminare &quot;%1&quot; (%2 elementi)?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
@@ -381,10 +345,6 @@
         <location filename="ViewWindow.cpp" line="3015"/>
         <source>An error occurred during saving!</source>
         <translation type="unfinished">È stato rilevato un errore durante lil salvataggio del file!</translation>
-    </message>
-    <message>
-        <source>An error occurs durng saving file!</source>
-        <translation type="obsolete">È stato rilevato un errore durante lil salvataggio del file!</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3089"/>
@@ -465,18 +425,6 @@
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation type="unfinished">Il file &lt;%1&gt; è di sola lettura, si prega di scegliere un altro nome.</translation>
     </message>
-    <message>
-        <source>The file &lt;%1&gt; already exists!
-
-Do you want to overwrite it?</source>
-        <translation type="obsolete">Il file &lt;%1&gt; esiste già!
-
-Volete sovrascriverlo?</translation>
-    </message>
-    <message>
-        <source>This picture will be converted to RGB with 8bits per component</source>
-        <translation type="vanished">Questa immagine sarà convertita in RGB con 8bit per componente</translation>
-    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -530,10 +478,6 @@ Volete sovrascriverlo?</translation>
 </context>
 <context>
     <name>BaseViewWindow</name>
-    <message>
-        <source>This picture will be converted to RGB with 8bits per component</source>
-        <translation type="vanished">Questa immagine sarà convertita in RGB con 8bit per componente</translation>
-    </message>
     <message>
         <location filename="ViewWindow.cpp" line="4681"/>
         <source>Error</source>
@@ -685,16 +629,6 @@ Fate clic destro sui differenti elementi per i menu di scelta rapida con le azio
 Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     </message>
     <message>
-        <source>Any</source>
-        <translatorcomment>Verificare: Probabilmente indica una ricerca se il contesto è Match All/Any; Alternative:Qualsiasi,Alcuni</translatorcomment>
-        <translation type="vanished">Alcuni</translation>
-    </message>
-    <message>
-        <source>All</source>
-        <translatorcomment>Verificare: Probabilmente indica una ricerca se il contesto è Match All/Any</translatorcomment>
-        <translation type="vanished">Tutti</translation>
-    </message>
-    <message>
         <location filename="BrowserWindow.cpp" line="2117"/>
         <source>Global</source>
         <translation type="unfinished">Globale</translation>
@@ -718,10 +652,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="BrowserWindow.cpp" line="3213"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;File contrassegnati&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;DB result&gt;</source>
-        <translation type="vanished">&lt;Risultato DB&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
@@ -796,10 +726,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
             <numerusform>Volete davvero eliminare questo %n elemento - %1 elemento selezionato?</numerusform>
             <numerusform>Volete davvero eliminare questi %n elementi - %1 elementi selezionati?</numerusform>
         </translation>
-    </message>
-    <message>
-        <source>Show all files (recursive)</source>
-        <translation type="vanished">Mostra tutti i file (ricorsivamente)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
@@ -1097,10 +1023,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Istogramma</translation>
     </message>
     <message>
-        <source>Use tabs</source>
-        <translation type="obsolete">Usa schede</translation>
-    </message>
-    <message>
         <location filename="CompareWidget.cpp" line="537"/>
         <source>Zoom out</source>
         <translation>Riduci</translation>
@@ -1314,10 +1236,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Ruota</translation>
     </message>
     <message>
-        <source>Gammasat</source>
-        <translation type="vanished">Gammasat</translation>
-    </message>
-    <message>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
@@ -1380,10 +1298,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgConvertProcess.h" line="2657"/>
         <source>HLS</source>
         <translation>HLS</translation>
-    </message>
-    <message>
-        <source>Swap component</source>
-        <translation type="vanished">Scambia componenti</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2732"/>
@@ -1504,11 +1418,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgConvertProcess.h" line="4794"/>
         <source>Halftone</source>
         <translation>Mezzitoni</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertProcess.h" line="4813"/>
-        <source>IPTC-IIM/XMP</source>
-        <translation>IPTC-IIM/XMP</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4890"/>
@@ -1686,10 +1595,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Equalizza</translation>
     </message>
     <message>
-        <source>Conbright</source>
-        <translation type="vanished">Conbright</translation>
-    </message>
-    <message>
         <location filename="DlgConvert.cpp" line="205"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
@@ -1700,10 +1605,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>Solarizza</translation>
-    </message>
-    <message>
-        <source>Exposure</source>
-        <translation type="vanished">Esposizione</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="223"/>
@@ -2221,11 +2122,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Si prega di inserire il percorso completo del file archivio</translation>
     </message>
     <message>
-        <location filename="DlgArchive.ui" line="32"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open File Explorer after compressing</source>
         <translation>Apri Esplora risorse dopo la compressione</translation>
@@ -2240,18 +2136,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgArchive.cpp" line="124"/>
         <source>Archive file</source>
         <translation>File archivio</translation>
-    </message>
-</context>
-<context>
-    <name>DlgAskClass</name>
-    <message>
-        <source>Confirm</source>
-        <translation type="vanished">Conferma</translation>
-    </message>
-    <message>
-        <source>Remember my answer and don&apos;t ask again</source>
-        <oldsource>Do not show this message again.</oldsource>
-        <translation type="vanished">Ricorda la mia risposta e non chiedermela più</translation>
     </message>
 </context>
 <context>
@@ -3069,10 +2953,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation type="unfinished">s</translation>
     </message>
     <message>
-        <source>Delay (sec)</source>
-        <translation type="vanished">Ritardo (sec)</translation>
-    </message>
-    <message>
         <location filename="DlgCapture.ui" line="138"/>
         <source>Hotkey</source>
         <translatorcomment>Alternative: Tasto di scelta rapida</translatorcomment>
@@ -3105,10 +2985,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
         <translation type="unfinished">Impostazioni...</translation>
-    </message>
-    <message>
-        <source>Open in draw module</source>
-        <translation type="obsolete">Apri nel modulo di disegno</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="261"/>
@@ -3262,11 +3138,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Commento</translation>
     </message>
     <message>
-        <location filename="DlgClean.ui" line="40"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
         <translation>Miniatura EXIF</translation>
@@ -3275,17 +3146,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgClean.ui" line="92"/>
         <source>GPS</source>
         <translation>GPS</translation>
-    </message>
-    <message>
-        <location filename="DlgClean.ui" line="101"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
-        <location filename="DlgClean.ui" line="108"/>
-        <source>IPTC-IIM</source>
-        <oldsource>IPTC</oldsource>
-        <translation>IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="115"/>
@@ -3493,12 +3353,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation type="unfinished">Intestazione</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="472"/>
-        <location filename="DlgContactSheet.ui" line="500"/>
-        <source>&gt;&gt;</source>
-        <translation type="unfinished">&gt;&gt;</translation>
-    </message>
-    <message>
         <location filename="DlgContactSheet.ui" line="482"/>
         <source>Footer</source>
         <translation type="unfinished">Piè di pagina</translation>
@@ -3697,10 +3551,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation type="unfinished">&lt;br&gt;XnConvert è disponibile gratuitamente&lt;br&gt;&lt;br&gt;Vi viene concesso il diritto di utilizzare questi applicativi e di farne un numero illimitato di copie.&lt;br&gt;&lt;br&gt;Questi applicativi sono forniti &quot;come-sono&quot;.&lt;br&gt;Non viene fornita alcuna garanzia espressa o implicita.&lt;br&gt;L&apos;autore non sarà responsabile per perdita dati, danni, perdita di profitti o qualsiasi altro tipo di perdita conseguente all&apos;uso corretto od all&apos;uso scorretto di questi applicativi.&lt;br&gt;&lt;br&gt;Qualsiasi suggerimento, feedback e commento è accolto. </translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Informazione</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1283"/>
@@ -3903,10 +3753,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <source>Use image from input files</source>
         <translatorcomment>Alterative: dai file di Origine</translatorcomment>
         <translation type="unfinished">Usa immagine dai file di origine</translation>
-    </message>
-    <message>
-        <source>Do you would like to export filenames too?</source>
-        <translation type="obsolete">Volete esportare anche i nomi dei file?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2272"/>
@@ -4129,10 +3975,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
         <translation type="unfinished">Orientamento</translation>
-    </message>
-    <message>
-        <source>Mode</source>
-        <translation type="obsolete">Modalità</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
@@ -4930,10 +4772,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation type="unfinished">Ripristina lista precedente dei file origine</translation>
     </message>
     <message>
-        <source>&apos;Hot folders&apos; process files</source>
-        <translation type="obsolete">&apos;Cartelle osservate&apos; elabora file</translation>
-    </message>
-    <message>
         <location filename="DlgConvert.ui" line="1642"/>
         <source>Registration...</source>
         <translation type="unfinished">Registrazione...</translation>
@@ -4990,7 +4828,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgConvert.ui" line="342"/>
         <location filename="DlgConvert.ui" line="356"/>
         <location filename="DlgConvert.ui" line="370"/>
-        <location filename="DlgConvert.ui" line="647"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -5296,24 +5133,9 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Commento</translation>
     </message>
     <message>
-        <location filename="DlgConvertCleanMeta.ui" line="24"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertCleanMeta.ui" line="31"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
         <source>EXIF thumbnail</source>
         <translation>Miniatura EXIF</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertCleanMeta.ui" line="45"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
@@ -5668,12 +5490,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Profilo di origine (sRGB predefinito)</translation>
     </message>
     <message>
-        <location filename="DlgConvertICC.ui" line="45"/>
-        <location filename="DlgConvertICC.ui" line="82"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translation>Profilo di destinazione (sRGB predefinito)</translation>
@@ -5818,14 +5634,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <source>Insert from</source>
         <translation type="unfinished">Inserisci da</translation>
     </message>
-    <message>
-        <source>Edit history...</source>
-        <translation type="obsolete">Modifica cronologia...</translation>
-    </message>
-    <message>
-        <source>Sort alphabetically</source>
-        <translation type="obsolete">Ordina alfabeticamente</translation>
-    </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
@@ -5896,7 +5704,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Maschera</translation>
     </message>
     <message>
-        <location filename="DlgConvertMask.ui" line="38"/>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
         <translation>...</translation>
@@ -6823,10 +6630,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <source>Color</source>
         <translation type="unfinished">Colore</translation>
     </message>
-    <message>
-        <source>Add vignetting</source>
-        <translation type="vanished">Aggiungi vignettatura</translation>
-    </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
@@ -6868,23 +6671,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Dimensione</translation>
     </message>
     <message>
-        <source>Normal</source>
-        <translation type="vanished">Normale</translation>
-    </message>
-    <message>
-        <source>Repeat image</source>
-        <translation type="vanished">Ripeti immagine</translation>
-    </message>
-    <message>
-        <source>Stretch image</source>
-        <translatorcomment>alternative:Estendi immagine</translatorcomment>
-        <translation type="vanished">Adatta immagine</translation>
-    </message>
-    <message>
-        <source>Percentage (width)</source>
-        <translation type="vanished">Percentuale (larghezza)</translation>
-    </message>
-    <message>
         <location filename="DlgConvertWatermark.ui" line="46"/>
         <source>%</source>
         <translation>%</translation>
@@ -6924,10 +6710,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Fill</source>
         <translation type="unfinished">Riempi</translation>
-    </message>
-    <message>
-        <source>Repeat</source>
-        <translation type="obsolete">Ripeti</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -6983,10 +6765,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom right</source>
         <translation type="unfinished">Inferiore Destro</translation>
-    </message>
-    <message>
-        <source>Delta</source>
-        <translation type="vanished">Delta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -8031,10 +7809,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <translation>Imposta colore di trasparenza...</translation>
     </message>
     <message>
-        <source>Auto refresh</source>
-        <translation type="vanished">Aggiornamento automatico</translation>
-    </message>
-    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -8124,10 +7898,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <source>Best</source>
         <translation>Migliore</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation type="vanished">Aggiorna</translation>
-    </message>
 </context>
 <context>
     <name>DlgFile</name>
@@ -8214,11 +7984,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translation>Mostra cartella selezionata nella gerarchia delle cartelle</translation>
-    </message>
-    <message>
-        <location filename="DlgFile.ui" line="36"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -8582,10 +8347,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <translation>Impossibile caricare il file %1: %2.</translation>
     </message>
     <message>
-        <source>Uploading %1...</source>
-        <translation type="vanished">Invio di %1 in corso...</translation>
-    </message>
-    <message>
         <location filename="DlgFtp.cpp" line="573"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>Impossibile connettersi al server FTP presso %1. Si prega di controllare che il nome dell&apos;host sia corretto.</translation>
@@ -8594,14 +8355,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgFtp.cpp" line="578"/>
         <source>Logged onto %1.</source>
         <translation>Autenticato presso %1.</translation>
-    </message>
-    <message>
-        <source>Canceled upload of %1.</source>
-        <translation type="vanished">Interrotto invio di %1.</translation>
-    </message>
-    <message>
-        <source>Uploaded %1 to current directory.</source>
-        <translation type="vanished">Inviato %1 alla cartella corrente.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
@@ -9709,14 +9462,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <translation>Nome</translation>
     </message>
     <message>
-        <source>Parameter</source>
-        <translation type="vanished">Parametri</translation>
-    </message>
-    <message>
-        <source>First Argument</source>
-        <translation type="obsolete">Primo argomento</translation>
-    </message>
-    <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
@@ -10139,10 +9884,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
         <translation>Inferiore-Destra</translation>
-    </message>
-    <message>
-        <source>Gamma</source>
-        <translation type="vanished">Gamma</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -11179,10 +10920,6 @@ Grazie per aver acquistato %1.</translation>
         <translation type="unfinished">Usa anti-aliansing</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation type="obsolete">Ammorbidisci</translation>
-    </message>
-    <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
         <translation type="unfinished">Ritaglia automaticamente</translation>
@@ -11240,14 +10977,6 @@ Grazie per aver acquistato %1.</translation>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
         <translation>Usa RegExp</translation>
-    </message>
-    <message>
-        <source>Match All of the following conditions</source>
-        <translation type="vanished">Riscontra tutte le seguenti condizioni</translation>
-    </message>
-    <message>
-        <source>Match Any of the following conditions</source>
-        <translation type="vanished">Riscontra qualsiasi delle seguenti condizioni</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11443,10 +11172,6 @@ Grazie per aver acquistato %1.</translation>
         <translation>Elenco file</translation>
     </message>
     <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Schermo intero</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
         <translation>Generale</translation>
@@ -11477,11 +11202,6 @@ Grazie per aver acquistato %1.</translation>
         <translation>Visualizza</translation>
     </message>
     <message>
-        <source>Auto text correction</source>
-        <oldsource>Auto correct</oldsource>
-        <translation type="obsolete">Correzione automatica</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
         <translation type="unfinished">Formati</translation>
@@ -11493,39 +11213,11 @@ Grazie per aver acquistato %1.</translation>
     </message>
 </context>
 <context>
-    <name>DlgSettingsAuto</name>
-    <message>
-        <source>Auto Correct</source>
-        <translation type="vanished">Correzione automatica</translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="vanished">Sostituisci</translation>
-    </message>
-    <message>
-        <source>With</source>
-        <translation type="vanished">Con</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">Elimina</translation>
-    </message>
-    <message>
-        <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation type="obsolete">Volete eliminare la voce di correzione automatica selezionata?</translation>
-    </message>
-</context>
-<context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
         <translation>Catalogatore</translation>
-    </message>
-    <message>
-        <source>Display file size in bytes</source>
-        <oldsource>Display bytes for file size</oldsource>
-        <translation type="obsolete">Riporta dimensione dei file in byte</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
@@ -11834,10 +11526,6 @@ Grazie per aver acquistato %1.</translation>
         <translation type="unfinished">Modifica percorsi assoluti/relativi</translation>
     </message>
     <message>
-        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database, you need this only if you intend to share same folder between computers. Do you want still to change &apos;base path&apos;?</source>
-        <translation type="obsolete">Siate cauti, la modifica del &apos;percorso base&apos; può scollegare i file già inseriti nel database e risulta nesessario solo se intedete condividere la stessa cartella tra vari computer. Desiderate davvero modificare il &apos;percorso di base&apos;?</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
@@ -11923,10 +11611,6 @@ Volete rilevare questi casi per prima di iniziare?</translation>
         <location filename="DlgSettingsCache.cpp" line="971"/>
         <source>Catalog</source>
         <translation>Catalogo</translation>
-    </message>
-    <message>
-        <source>Be careful, changing &apos;base path&apos; can disconnect files already stored in database. Please change &apos;base path&apos; only if you want to share same folder between several computers. Do you still want to change the &apos;base path&apos;?</source>
-        <translation type="obsolete">Siate cauti, la modifica del &apos;percorso base&apos; può scollegare i file già inseriti nel database. Siete prgati di modificare il &apos;percorso base&apos; solo se intedete condividere la stessa cartella tra vari computer. Desiderate davvero modificare il &apos;percorso di base&apos;?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
@@ -12076,10 +11760,6 @@ Volete rimuovere le voci assegnate ad una Categoria?</translation>
         <translation>Ricostruisci miniature</translation>
     </message>
     <message>
-        <source>Optimize...</source>
-        <translation type="vanished">Ottimizza...</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Tools</source>
         <translation>Strumenti</translation>
@@ -12159,11 +11839,6 @@ Volete rimuovere le voci assegnate ad una Categoria?</translation>
         <translation>Applicazione associata</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="193"/>
-        <source>XnView</source>
-        <translation>XnView</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Visible</source>
         <translation>Visibile</translation>
@@ -12174,11 +11849,6 @@ Volete rimuovere le voci assegnate ad una Categoria?</translation>
 Thumbnail</source>
         <translation>Mostra come 
 miniatura</translation>
-    </message>
-    <message>
-        <source>Show in 
-Preview</source>
-        <translation type="vanished">Mostra nell&apos;anteprima</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -12256,10 +11926,6 @@ Preview</source>
         <translation type="unfinished">File ausiliario</translation>
     </message>
     <message>
-        <source>Companion (separated by ;)</source>
-        <translation type="obsolete">Ausiliari (separate da ;)</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
         <translation type="unfinished">Elimina...</translation>
@@ -12299,17 +11965,9 @@ Preview</source>
         <translation type="unfinished">Cartelle sempre ordinate alfabeticamente</translation>
     </message>
     <message>
-        <source>Automatically select new files</source>
-        <translation type="vanished">Seleziona automaticamente nuovi file</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
         <source>New files are added at the end of the list</source>
         <translation>Aggiungi nuovi file alla fine dell&apos;elenco</translation>
-    </message>
-    <message>
-        <source>Select first item on entering folder</source>
-        <translation type="vanished">Seleziona primo elemento all&apos;ingresso nelle cartelle</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
@@ -12389,43 +12047,9 @@ Preview</source>
         <translation type="unfinished">Lista di associazione (usare ; come separatore)</translation>
     </message>
     <message>
-        <source>Detail mode</source>
-        <translation type="obsolete">Modalità dettagli</translation>
-    </message>
-    <message>
-        <source>Comment field</source>
-        <translation type="obsolete">Campo commento</translation>
-    </message>
-    <message>
-        <source>Embedded comment, description</source>
-        <translation type="obsolete">Commento incorporato, descrizione</translation>
-    </message>
-    <message>
-        <source>Description, Embedded comment</source>
-        <translation type="obsolete">Descrizione, commento incorporato</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation type="obsolete">Commento incorporato</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="obsolete">Descrizione</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
         <translation type="unfinished">File ausiliari</translation>
-    </message>
-    <message>
-        <source>Companions files linked for delete action</source>
-        <translatorcomment>Alternative: File ausiliari collegati per le opeazioni...</translatorcomment>
-        <translation type="obsolete">Includi file ausiliari nelle operazioni di eliminazione</translation>
-    </message>
-    <message>
-        <source>Companions files linked for copy/move/rename action</source>
-        <translatorcomment>Alternative: File ausiliari collegati per le opeazioni...</translatorcomment>
-        <translation type="obsolete">Includi file ausiliari nelle operazioni di copia/spostamento/ridenominazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -12476,10 +12100,6 @@ Preview</source>
 <context>
     <name>DlgSettingsFormat</name>
     <message>
-        <source>Saving</source>
-        <translation type="vanished">Salvataggio</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
         <translation type="unfinished">Formati</translation>
@@ -12523,54 +12143,6 @@ Preview</source>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
         <translation type="unfinished">Scrittura</translation>
-    </message>
-</context>
-<context>
-    <name>DlgSettingsFullscreenClass</name>
-    <message>
-        <source>Fullscreen</source>
-        <translation type="vanished">Schermo intero</translation>
-    </message>
-    <message>
-        <source>Auto image size</source>
-        <translation type="obsolete">Dimensione automatica immagine</translation>
-    </message>
-    <message>
-        <source>Show playbar</source>
-        <translatorcomment>Alternative: Mostra barra di riproduzione</translatorcomment>
-        <translation type="vanished">Mostra barra di esecuzione</translation>
-    </message>
-    <message>
-        <source>Show info</source>
-        <translation type="vanished">Mostra informazioni</translation>
-    </message>
-    <message>
-        <source>Show scrollbars</source>
-        <translation type="vanished">Mostra barre di scorrimento</translation>
-    </message>
-    <message>
-        <source>Show toolbar</source>
-        <translation type="vanished">Mostra barra degli strumenti</translation>
-    </message>
-    <message>
-        <source>Hide mouse cursor</source>
-        <translation type="obsolete">Nascondi puntatore del mouse</translation>
-    </message>
-    <message>
-        <source>Background color</source>
-        <translation type="vanished">Colore sfondo</translation>
-    </message>
-    <message>
-        <source>Dual monitor: Use second monitor</source>
-        <translation type="vanished">Doppio monitor: usa secondo monitor</translation>
-    </message>
-    <message>
-        <source>Floating views</source>
-        <translation type="obsolete">Viste galleggianti</translation>
-    </message>
-    <message>
-        <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation type="vanished">(appaiono quando il puntatore viene mosso all&apos;estremità superiore oppure alla destra dello schermo</translation>
     </message>
 </context>
 <context>
@@ -12700,10 +12272,6 @@ Preview</source>
         <translation type="unfinished">Mai</translation>
     </message>
     <message>
-        <source>Open browser at startup</source>
-        <translation type="obsolete">Apri Catalogatore all&apos;avvio</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="430"/>
         <source>Directory</source>
         <translation type="unfinished">Cartella</translation>
@@ -12727,11 +12295,6 @@ Preview</source>
         <location filename="DlgSettingsGeneral.ui" line="291"/>
         <source>Send anonymous logs</source>
         <translation type="unfinished">Invia dati anonimi</translation>
-    </message>
-    <message>
-        <source>Restore last selected filename</source>
-        <translatorcomment>Alternative: Carica ultimo file selezionato</translatorcomment>
-        <translation type="obsolete">Ripristina ultimo nome di file selezionato</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="507"/>
@@ -12776,23 +12339,10 @@ Preview</source>
         <translation>Usa Cestino</translation>
     </message>
     <message>
-        <source>Mode when starting with a file</source>
-        <translatorcomment>Alternative: Modalità di avvio con un file</translatorcomment>
-        <translation type="obsolete">Modalità quando avviato con un file</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="obsolete">Normale</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation type="unfinished">Schermo intero - Visualizzazione</translation>
-    </message>
-    <message>
-        <source>Fullscreen - Browser</source>
-        <translation type="obsolete">Schermo intero - Catalogatore</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="245"/>
@@ -12986,10 +12536,6 @@ Preview</source>
         <translation>Modifica dei Metadati incorporati</translation>
     </message>
     <message>
-        <source>ICC</source>
-        <translation type="vanished">ICC</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsGeneral.ui" line="785"/>
         <source>System</source>
         <translation>Sistema</translation>
@@ -13127,13 +12673,6 @@ Preview</source>
         <location filename="DlgSettingsIntegration.ui" line="36"/>
         <source>Integration</source>
         <translation>Integrazione</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.ui" line="168"/>
-        <location filename="DlgSettingsIntegration.ui" line="195"/>
-        <location filename="DlgSettingsIntegration.ui" line="231"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="42"/>
@@ -13444,10 +12983,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Modalità Catalogatore</translation>
     </message>
     <message>
-        <source>View mode</source>
-        <translation type="vanished">Modalità Visualizzazione</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
@@ -13472,21 +13007,12 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Filtro</translation>
     </message>
     <message>
-        <source>Pressing Esc once quits XnViewMP</source>
-        <translation type="obsolete">Premendo ESC una volta si termina XnViewMP</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1302"/>
         <location filename="DlgSettingsInterface.ui" line="1352"/>
         <location filename="DlgSettingsInterface.ui" line="1402"/>
         <location filename="DlgSettingsInterface.ui" line="1442"/>
         <source>Previous file</source>
         <translation type="unfinished">File precedente</translation>
-    </message>
-    <message>
-        <source>Use &quot;Pan and Zoom&quot; tool</source>
-        <translatorcomment>Alternative: usa strumento panoramica</translatorcomment>
-        <translation type="obsolete">Usa strumento &apos;Panoramica con ingrandimento&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
@@ -13514,14 +13040,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="847"/>
         <source>Shortcuts</source>
         <translation>Tasti di scelta rapida</translation>
-    </message>
-    <message>
-        <source>Browser mode</source>
-        <translation type="obsolete">Modalità Catalogatore</translation>
-    </message>
-    <message>
-        <source>Viewer mode</source>
-        <translation type="obsolete">Modalità Visualizzazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="987"/>
@@ -13620,19 +13138,6 @@ Desiderate riassegnarlo?</translation>
         <translation>Scorrimento su/giù</translation>
     </message>
     <message>
-        <source>Never</source>
-        <translation type="vanished">Mai</translation>
-    </message>
-    <message>
-        <source>Only in fullscreen</source>
-        <translatorcomment>Alternative: solo a schermo intero</translatorcomment>
-        <translation type="obsolete">Se a schermo intero</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="vanished">Sempre</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
         <source>Mouse</source>
         <translation>Mouse</translation>
@@ -13681,10 +13186,6 @@ Desiderate riassegnarlo?</translation>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation type="unfinished">Ingrandisci sulla selezione</translation>
-    </message>
-    <message>
-        <source>Left button + CTRL</source>
-        <translation type="vanished">Pulsante sinistro + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1677"/>
@@ -13772,24 +13273,12 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Premendo ESC chiude</translation>
     </message>
     <message>
-        <source>Right button + CTRL</source>
-        <translation type="vanished">Pulsante destro + CTRL</translation>
-    </message>
-    <message>
-        <source>Mouse wheel</source>
-        <translation type="vanished">Rotellina mouse</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
         <location filename="DlgSettingsInterface.ui" line="1861"/>
         <source>Zoom in/out</source>
         <translation>Ingrandimento/Riduzione</translation>
-    </message>
-    <message>
-        <source>Mouse wheel + CTRL</source>
-        <translation type="vanished">Rotella del mouse + CTRL</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1916"/>
@@ -13812,10 +13301,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2015"/>
         <source>Enter</source>
         <translation type="unfinished">Invio</translation>
-    </message>
-    <message>
-        <source>Use double click to switch between:</source>
-        <translation type="vanished">Usate doppio clic per cambiare tra:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
@@ -13846,14 +13331,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Catalogatore &gt; Visualizzatore &gt; Schermo intero</translation>
     </message>
     <message>
-        <source>Use middle click to switch between:</source>
-        <translation type="vanished">Usate clic pulsante centrale per cambiare tra:</translation>
-    </message>
-    <message>
-        <source>Use ENTER to switch between:</source>
-        <translation type="vanished">Usate INVIO per cambiare tra:</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
         <location filename="DlgSettingsInterface.ui" line="996"/>
         <source>None</source>
@@ -13880,14 +13357,6 @@ Desiderate riassegnarlo?</translation>
 </context>
 <context>
     <name>DlgSettingsKeywordsClass</name>
-    <message>
-        <source>IPTC &amp;&amp; XMP</source>
-        <translation type="vanished">IPTC &amp;&amp; XMP</translation>
-    </message>
-    <message>
-        <source>Keywords</source>
-        <translation type="vanished">Parole chiave</translation>
-    </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
@@ -14003,14 +13472,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Sidecar</translation>
     </message>
     <message>
-        <source>Yes</source>
-        <translation type="obsolete">Sì</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="obsolete">No</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
         <translation type="unfinished">File video</translation>
@@ -14024,11 +13485,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
         <translation type="unfinished">Codifica</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="428"/>
-        <source>IPTC</source>
-        <translation type="unfinished">IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
@@ -14068,10 +13524,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Formati supportati</translation>
     </message>
     <message>
-        <source>JPEG</source>
-        <translation type="obsolete">JPEG</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Write</source>
         <translation type="unfinished">Scrivi</translation>
@@ -14086,10 +13538,6 @@ Desiderate riassegnarlo?</translation>
 <context>
     <name>DlgSettingsPanel</name>
     <message>
-        <source>Information</source>
-        <translation type="vanished">Informazione</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsPanel.h" line="89"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
@@ -14098,10 +13546,6 @@ Desiderate riassegnarlo?</translation>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
-    <message>
-        <source>Misc</source>
-        <translation type="vanished">Miscellanea</translation>
-    </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -14240,10 +13684,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Ha categoria</translation>
     </message>
     <message>
-        <source>Background color</source>
-        <translation type="vanished">Colore sfondo</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Border size</source>
         <translation>Dimensioni bordo</translation>
@@ -14284,11 +13724,6 @@ Desiderate riassegnarlo?</translation>
         <translation>Collegamento</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="634"/>
-        <source>IPTC</source>
-        <translation>IPTC</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="534"/>
         <source>Tag</source>
         <translation>Contrassegno</translation>
@@ -14297,11 +13732,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="833"/>
         <source>Automatic rotation</source>
         <translation>Rotazione automatica</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="541"/>
-        <source>EXIF</source>
-        <translation>EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
@@ -14314,19 +13744,9 @@ Desiderate riassegnarlo?</translation>
         <translation>Miniatura incorporata</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="826"/>
-        <source>XMP</source>
-        <translation>XMP</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
         <translation>Etichetta colorata</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="766"/>
-        <source>GPS</source>
-        <translation>GPS</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -14349,10 +13769,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Etichette</translation>
     </message>
     <message>
-        <source>Text color</source>
-        <translation type="vanished">Colore testo</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Reset color</source>
         <translation>Ripristina colore</translation>
@@ -14366,11 +13782,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
         <translation type="unfinished">Catalogatore - Diapositive</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="988"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -14487,18 +13898,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="301"/>
         <source>Pixel ratio</source>
         <translation>Rapporto pixel</translation>
-    </message>
-    <message>
-        <source>Zoom-out</source>
-        <translation type="vanished">Riduci</translation>
-    </message>
-    <message>
-        <source>Zoom-in</source>
-        <translation type="vanished">Ingrandisci</translation>
-    </message>
-    <message>
-        <source>Zoom-out &amp; Zoom-in</source>
-        <translation type="vanished">Riduzione &amp; Ingrandimento</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="494"/>
@@ -14633,12 +14032,6 @@ Desiderate riassegnarlo?</translation>
         <source>Loop on the file list</source>
         <translatorcomment>Alternative: Lista dei file ciclica, ricomincia nella lista dei file, reitera elenco file</translatorcomment>
         <translation>Reitera file nell&apos;elenco</translation>
-    </message>
-    <message>
-        <source>Show Video</source>
-        <oldsource>Play video</oldsource>
-        <translatorcomment>Alternative: Riproduci filmati, Riproduci video</translatorcomment>
-        <translation type="obsolete">Esegui filmati</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="763"/>
@@ -14821,14 +14214,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">(appaiono quando il puntatore viene mosso all&apos;estremità superiore oppure alla destra dello schermo</translation>
     </message>
     <message>
-        <source>Information displayed</source>
-        <translation type="vanished">Informazioni visualizzate</translation>
-    </message>
-    <message>
-        <source>HTML tags supported</source>
-        <translation type="obsolete">Tag HTML supportati</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
         <source>Text color</source>
         <translation>Colore testo</translation>
@@ -14857,10 +14242,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Position</source>
         <translation>Posizione</translation>
-    </message>
-    <message>
-        <source>Always in fullscreen</source>
-        <translation type="obsolete">Sempre a schermo intero</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="933"/>
@@ -15010,13 +14391,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
         <translation>Riduci</translation>
-    </message>
-    <message>
-        <location filename="DlgSimilarResult.ui" line="87"/>
-        <location filename="DlgSimilarResult.ui" line="156"/>
-        <location filename="DlgSimilarResult.ui" line="239"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
@@ -15298,16 +14672,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Usa effetti di transizione</translation>
     </message>
     <message>
-        <location filename="DlgSlideshow.ui" line="210"/>
-        <location filename="DlgSlideshow.ui" line="314"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <source>Save SLD with relative paths</source>
-        <translation type="obsolete">Salva SLD con percorsi relativi</translation>
-    </message>
-    <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
         <translation type="unfinished">Usa file audio</translation>
@@ -15369,15 +14733,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
         <translation type="unfinished">Suddivisione</translation>
-    </message>
-    <message>
-        <location filename="DlgSplit.ui" line="30"/>
-        <location filename="DlgSplit.ui" line="44"/>
-        <location filename="DlgSplit.ui" line="58"/>
-        <location filename="DlgSplit.ui" line="72"/>
-        <location filename="DlgSplit.ui" line="96"/>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -15722,10 +15077,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Cerca volto</translation>
     </message>
     <message>
-        <source>Add region</source>
-        <translation type="obsolete">Aggiungi regione</translation>
-    </message>
-    <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
         <translation type="unfinished">Cancella le regioni</translation>
@@ -15876,11 +15227,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Data cattura</translation>
-    </message>
-    <message>
-        <location filename="DlgTimestamp.ui" line="488"/>
-        <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
@@ -16093,38 +15439,32 @@ Desiderate riassegnarlo?</translation>
         <translation>Autenticazione</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="138"/>
+        <location filename="DlgUpload.ui" line="147"/>
         <source>Username</source>
         <translation>Nome utente</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="148"/>
+        <location filename="DlgUpload.ui" line="157"/>
         <source>Password</source>
         <translation>Password</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="168"/>
+        <location filename="DlgUpload.ui" line="177"/>
         <source>User</source>
         <translation>Utente</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="193"/>
+        <location filename="DlgUpload.ui" line="202"/>
         <source>New user...</source>
         <translation>Nuovo utente...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="224"/>
+        <location filename="DlgUpload.ui" line="233"/>
         <source>Thumbnail link</source>
         <translation>Collegamento miniatura</translation>
     </message>
     <message>
-        <location filename="DlgUpload.ui" line="241"/>
-        <location filename="DlgUpload.ui" line="269"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <location filename="DlgUpload.ui" line="252"/>
+        <location filename="DlgUpload.ui" line="261"/>
         <source>Image link</source>
         <translation>Collegamento immagine</translation>
     </message>
@@ -16146,12 +15486,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgUserFilter.ui" line="33"/>
         <source>Add filter</source>
         <translation>Aggiungi filtro</translation>
-    </message>
-    <message>
-        <location filename="DlgUserFilter.ui" line="36"/>
-        <location filename="DlgUserFilter.ui" line="63"/>
-        <source>...</source>
-        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="60"/>
@@ -16188,14 +15522,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
         <translation type="unfinished">Volete salvare i filtri modificati?</translation>
-    </message>
-    <message>
-        <source>Changes</source>
-        <translation type="vanished">Modifiche</translation>
-    </message>
-    <message>
-        <source>There is some changes, do you want to save filters?</source>
-        <translation type="vanished">Ci sono alcune modifiche, volete salvare i filtri?</translation>
     </message>
 </context>
 <context>
@@ -16245,34 +15571,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
         <translation type="unfinished">Fotogramma iniziale</translation>
-    </message>
-    <message>
-        <source>Unit:</source>
-        <translation type="vanished">Unità:</translation>
-    </message>
-    <message>
-        <source>points</source>
-        <translation type="vanished">punti</translation>
-    </message>
-    <message>
-        <source>Style</source>
-        <translation type="vanished">Stile</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="vanished">B</translation>
-    </message>
-    <message>
-        <source>I</source>
-        <translation type="vanished">I</translation>
-    </message>
-    <message>
-        <source>U</source>
-        <translation type="vanished">U</translation>
-    </message>
-    <message>
-        <source>S</source>
-        <translation type="vanished">S</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -16339,10 +15637,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Esteso</translation>
     </message>
     <message>
-        <source>Scaled</source>
-        <translation type="vanished">Scalato</translation>
-    </message>
-    <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
         <translation>Adattato</translation>
@@ -16399,10 +15693,6 @@ Desiderate riassegnarlo?</translation>
         <translation type="unfinished">Formato</translation>
     </message>
     <message>
-        <source>Codec</source>
-        <translation type="obsolete">Codec</translation>
-    </message>
-    <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
         <source>Speed</source>
         <translation type="unfinished">Velocità</translation>
@@ -16412,28 +15702,6 @@ Desiderate riassegnarlo?</translation>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
         <translation type="unfinished">(10 la più veloce)</translation>
-    </message>
-    <message>
-        <source>Quantization for color</source>
-        <oldsource>Quantizer for color</oldsource>
-        <translation type="obsolete">Quantizzazione per colore</translation>
-    </message>
-    <message>
-        <source>Lossless</source>
-        <translation type="obsolete">Senza perdite</translation>
-    </message>
-    <message>
-        <source>Min</source>
-        <translation type="obsolete">Minimo</translation>
-    </message>
-    <message>
-        <source>Max</source>
-        <translation type="obsolete">Massimo</translation>
-    </message>
-    <message>
-        <source>Quantization for alpha</source>
-        <oldsource>Quantizer for alpha</oldsource>
-        <translation type="obsolete">Quantizzazione per alfa</translation>
     </message>
 </context>
 <context>
@@ -16684,18 +15952,6 @@ Desiderate riassegnarlo?</translation>
 </context>
 <context>
     <name>DlgWritePDFClass</name>
-    <message>
-        <source>B&amp;W compression type</source>
-        <translation type="vanished">Tipo di compressione B&amp;N</translation>
-    </message>
-    <message>
-        <source>Grayscale compression type</source>
-        <translation type="vanished">Tipo di compressione Scala di grigi</translation>
-    </message>
-    <message>
-        <source>Color compression type</source>
-        <translation type="vanished">Tipo di compressione Colore</translation>
-    </message>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
@@ -17038,10 +16294,6 @@ Volete eliminare il preferito &quot;%1&quot;?</translation>
 <context>
     <name>FileListWidget</name>
     <message>
-        <source>View as:</source>
-        <translation type="obsolete">Visualizza come:</translation>
-    </message>
-    <message>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Small thumbnails</source>
         <translation type="unfinished">Miniature piccole</translation>
@@ -17066,10 +16318,6 @@ Volete eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
         <translation type="unfinished">Elenco</translation>
-    </message>
-    <message>
-        <source>You can drag&amp;drop your files on the list below.</source>
-        <translation type="obsolete">Potete Trascinare&amp;Rilasciare i vostri file nella lista sottostante.</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
@@ -17930,10 +17178,6 @@ Volete eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Catalog</source>
         <translation type="unfinished">Catalogo</translation>
-    </message>
-    <message>
-        <source>File&apos;s categories</source>
-        <translation type="obsolete">Categorie dei file</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
@@ -19363,18 +18607,6 @@ Volete procedere?</translation>
         <translation type="unfinished">È stato rilevato un errore.</translation>
     </message>
     <message>
-        <source>Be careful, saving in this format will discard comment and any existing metadata!</source>
-        <translation type="obsolete">Siate prudente, salvando in questo formato ci si disferà del commento e di qualisasi metadato esistente!</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard any existing metadata!</source>
-        <translation type="obsolete">Siate prudente, salvando in questo formato ci si disferà di qualsiasi metadato esistente!</translation>
-    </message>
-    <message>
-        <source>Be careful, saving in this format will discard some metadata!</source>
-        <translation type="obsolete">Siate prudente, salvando in questo formato ci si disferà di alcuni metadati!</translation>
-    </message>
-    <message>
         <location filename="GFFHelper.h" line="19"/>
         <location filename="GFFHelper.h" line="33"/>
         <location filename="GFFHelper.h" line="47"/>
@@ -19623,19 +18855,6 @@ Volete procedere?</translation>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
         <translation>Cinese tradizionale</translation>
-    </message>
-    <message>
-        <source>Simplified Chinese</source>
-        <translation type="vanished">Cinese semplificato</translation>
-    </message>
-    <message>
-        <source>Traditional Chinese</source>
-        <translation type="vanished">Cinese tradizionale</translation>
-    </message>
-    <message>
-        <location filename="LanguageComboBox.cpp" line="57"/>
-        <source>Hebrew</source>
-        <translation>Ebraico</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19971,22 +19190,6 @@ Volete procedere?</translation>
         <translation type="unfinished">File contrassegnato(i)</translation>
     </message>
     <message>
-        <source>GeoHack...</source>
-        <translation type="obsolete">GeoHack...</translation>
-    </message>
-    <message>
-        <source>Google Map...</source>
-        <translation type="obsolete">google Map...</translation>
-    </message>
-    <message>
-        <source>Open Street...</source>
-        <translation type="obsolete">Open street...</translation>
-    </message>
-    <message>
-        <source>Google Earth App...</source>
-        <translation type="obsolete">App Google Earth...</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Open GPS location in</source>
         <translation type="unfinished">Apri ubicazione GPS in</translation>
@@ -20030,26 +19233,6 @@ Volete procedere?</translation>
         <location filename="BrowserMenu.h" line="484"/>
         <source>Unrated</source>
         <translation type="unfinished">Non valutato</translation>
-    </message>
-    <message>
-        <source>Important</source>
-        <translation type="vanished">Importante</translation>
-    </message>
-    <message>
-        <source>Work</source>
-        <translation type="vanished">Lavoro</translation>
-    </message>
-    <message>
-        <source>Personal</source>
-        <translation type="vanished">Personale</translation>
-    </message>
-    <message>
-        <source>To do</source>
-        <translation type="vanished">Da fare</translation>
-    </message>
-    <message>
-        <source>Later</source>
-        <translation type="vanished">Più tardi</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
@@ -20191,10 +19374,6 @@ Volete procedere?</translation>
         <translation type="unfinished">Barra degli strumenti dell&apos;elenco di file</translation>
     </message>
     <message>
-        <source>Show title of panes</source>
-        <translation type="vanished">Mostra titoli dei pannelli</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Update catalog from files</source>
         <translation type="unfinished">Aggiorna catalogo dai file</translation>
@@ -20290,14 +19469,6 @@ Volete procedere?</translation>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation type="unfinished">Modifica dati GPS...</translation>
-    </message>
-    <message>
-        <source>EXIF thumbnail - Rotate 90°</source>
-        <translation type="obsolete">Miniatura EXIF - Ruota 90°</translation>
-    </message>
-    <message>
-        <source>EXIF thumbnail - Rotate 270°</source>
-        <translation type="obsolete">Miniatura EXIF - Ruota 270°</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="609"/>
@@ -20793,10 +19964,6 @@ Volete procedere?</translation>
         <translation type="unfinished">Attiva contrassegno sugli elementi selezionati</translation>
     </message>
     <message>
-        <source>Untag current</source>
-        <translation type="vanished">Disattiva contrassegno sugli elementi selezionati</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="473"/>
         <source>Invert</source>
         <translation>Inverti contrassegno sugli elementi selezionati</translation>
@@ -20931,10 +20098,6 @@ Volete procedere?</translation>
         <translation>Aggiorna</translation>
     </message>
     <message>
-        <source>Show files in subfolder</source>
-        <translation type="vanished">Mostra file nelle sottocartelle</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Stop</source>
         <translation>Stop</translation>
@@ -20996,18 +20159,6 @@ Volete procedere?</translation>
         <translation>Solo miniature</translation>
     </message>
     <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">Ruota in senso orario</translation>
-    </message>
-    <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Ribaltamento orizzontale</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Ribaltamento verticale</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>JPEG lossless transformations</source>
         <translation>Trasformazioni JPEG senza perdite</translation>
@@ -21022,14 +20173,6 @@ Volete procedere?</translation>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Confronta...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in GeoHack...</source>
-        <translation type="vanished">Apri ubicazione GPS in GeoHack...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in Google Earth...</source>
-        <translation type="vanished">Apri ubicazione GPS in Google Earth...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -21187,10 +20330,6 @@ Volete procedere?</translation>
         <translation>Adatta l&apos;immagine alla finestra, solo le piccole</translation>
     </message>
     <message>
-        <source>Auto Image Size</source>
-        <translation type="vanished">Dimensione automatica immagine</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Zoom</source>
         <translation>Scala</translation>
@@ -21238,10 +20377,6 @@ Volete procedere?</translation>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation type="unfinished">Visitate il Sito web XnView...</translation>
-    </message>
-    <message>
-        <source>Visit XnView&apos;s Forum...</source>
-        <translation type="vanished">Visitate il Forum di XnView...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1441"/>
@@ -21293,18 +20428,6 @@ Volete procedere?</translation>
         <location filename="xnview.cpp" line="1444"/>
         <source>Purchase...</source>
         <translation type="unfinished">Acquista...</translation>
-    </message>
-    <message>
-        <source>Follow XnView on Twitter...</source>
-        <translation type="vanished">Seguite XnView su Twitter...</translation>
-    </message>
-    <message>
-        <source>Become a fan of XnView on Facebook...</source>
-        <translation type="vanished">Diventate fan di Xnview su Facebook...</translation>
-    </message>
-    <message>
-        <source>Web capture...</source>
-        <translation type="vanished">Cattura Web...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1454"/>
@@ -21844,14 +20967,6 @@ Volete procedere?</translation>
         <translation>Rinomina...</translation>
     </message>
     <message>
-        <source>Tag current</source>
-        <translation type="vanished">Contrassegna la selezione corrente</translation>
-    </message>
-    <message>
-        <source>Untag current</source>
-        <translation type="vanished">Rimuovi contrassegno dalla selezione corrente</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next photo)</source>
         <translation>Eccellente (muovi all&apos;immagine successiva)</translation>
@@ -21973,10 +21088,6 @@ Volete procedere?</translation>
         <translation>Blocca scala</translation>
     </message>
     <message>
-        <source>Auto image size</source>
-        <translation type="vanished">Dimensione automatica immagine</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="387"/>
         <source>Zoom</source>
         <translation>Scala</translation>
@@ -22077,10 +21188,6 @@ Volete procedere?</translation>
         <translation type="unfinished">Usa motivo a scacchiera</translation>
     </message>
     <message>
-        <source>Remove Background...</source>
-        <translation type="obsolete">Rimuovi Sfondo...</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="690"/>
         <source>Metadata</source>
         <translation type="unfinished">Metadati</translation>
@@ -22089,26 +21196,6 @@ Volete procedere?</translation>
         <location filename="ViewMenu.h" line="691"/>
         <source>Effect</source>
         <translation type="unfinished">Effetto</translation>
-    </message>
-    <message>
-        <source>Effe&amp;ct</source>
-        <translation type="obsolete">Effetto</translation>
-    </message>
-    <message>
-        <source>Google Map...</source>
-        <translation type="obsolete">Google map...</translation>
-    </message>
-    <message>
-        <source>Google Earth App...</source>
-        <translation type="obsolete">App Google Earth...</translation>
-    </message>
-    <message>
-        <source>GeoHack...</source>
-        <translation type="obsolete">GeoHack...</translation>
-    </message>
-    <message>
-        <source>Open Street...</source>
-        <translation type="obsolete">Open Street...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="418"/>
@@ -22130,10 +21217,6 @@ Volete procedere?</translation>
         <location filename="ViewMenu.h" line="423"/>
         <source>Set DPI...</source>
         <translation type="unfinished">Imposta DPI...</translation>
-    </message>
-    <message>
-        <source>Filter...</source>
-        <translation type="vanished">Filtro...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="441"/>
@@ -22304,14 +21387,6 @@ Volete procedere?</translation>
         <translation type="unfinished">Modifica tavolozza colori...</translation>
     </message>
     <message>
-        <source>Rotate clockwise</source>
-        <translation type="vanished">Ruota in senso orario</translation>
-    </message>
-    <message>
-        <source>Rotate counter clockwise</source>
-        <translation type="vanished">Ruota in senso antiorario</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="454"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
@@ -22326,18 +21401,6 @@ Volete procedere?</translation>
         <location filename="ViewMenu.h" line="490"/>
         <source>Reset EXIF orientation field</source>
         <translation>Reimposta campo EXIF di orientamento</translation>
-    </message>
-    <message>
-        <source>Flip horizontal</source>
-        <translation type="vanished">Ribaltamento orizzontale</translation>
-    </message>
-    <message>
-        <source>Flip vertical</source>
-        <translation type="vanished">Ribaltamento verticale</translation>
-    </message>
-    <message>
-        <source>Crop</source>
-        <translation type="vanished">Ritaglia</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -22395,14 +21458,6 @@ Volete procedere?</translation>
         <location filename="ViewMenu.h" line="413"/>
         <source>Batch convert...</source>
         <translation type="unfinished">Converti in serie...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in GeoHack...</source>
-        <translation type="vanished">Apri ubicazione GPS in GeoHack...</translation>
-    </message>
-    <message>
-        <source>Open GPS location in Google Earth...</source>
-        <translation type="vanished">Apri ubicazione GPS in Google Earth...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
@@ -22510,27 +21565,9 @@ Volete procedere?</translation>
         <translation>Allinea...</translation>
     </message>
     <message>
-        <source>90° right</source>
-        <oldsource>90� right</oldsource>
-        <translation type="vanished">90° destra</translation>
-    </message>
-    <message>
-        <source>90° left</source>
-        <oldsource>90� left</oldsource>
-        <translation type="vanished">90° sinistra</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
         <translation>Ruota...</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation type="vanished">Orizzontale</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="vanished">Verticale</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
@@ -22596,10 +21633,6 @@ Volete procedere?</translation>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Immagine</translation>
-    </message>
-    <message>
-        <source>F&amp;ilter</source>
-        <translation type="obsolete">F&amp;iltro</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="692"/>
@@ -22813,10 +21846,6 @@ Volete procedere?</translation>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
-        <source>Abort</source>
-        <translation type="vanished">Interrompi</translation>
-    </message>
-    <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
         <translation>Genera miniature...</translation>
@@ -22994,13 +22023,6 @@ Volete procedere?</translation>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
         <translation type="unfinished">Interrompi</translation>
-    </message>
-</context>
-<context>
-    <name>MyProgressDialogEx</name>
-    <message>
-        <source>Creating contact sheet...</source>
-        <translation type="obsolete">Creazione di un provino a contatto...</translation>
     </message>
 </context>
 <context>
@@ -23489,14 +22511,6 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
         <translation type="unfinished">Gestisci...</translation>
-    </message>
-    <message>
-        <source>Apply actions</source>
-        <translation type="obsolete">Applica azioni</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -24379,10 +23393,6 @@ Clic destro per il menu di scelta rapida con le azioni. </translation>
         <translation>Inserisci&gt;&gt;</translation>
     </message>
     <message>
-        <source>Default value</source>
-        <translation type="obsolete">Valore predefinito</translation>
-    </message>
-    <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
         <translation>Salva configurazione</translation>
@@ -24954,10 +23964,6 @@ Volete preservare le miniature?
         <location filename="xnview.cpp" line="596"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation type="unfinished">C&apos;è un problema nell&apos;apertura del catalogo, si prega di controllare le impostazioni o la cartella impiegate!</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation type="obsolete">Versione</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="973"/>
