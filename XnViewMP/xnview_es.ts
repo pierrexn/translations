@@ -9230,7 +9230,7 @@ Gracias por su compra %1.</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Vista previa</translation>
+        <translation>Vista previa</translation>
     </message>
 </context>
 <context>
@@ -9785,7 +9785,7 @@ Vista previa</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished">Selección</translation>
+        <translation>Selección</translation>
     </message>
     <message>
         <source>Auto-select first item on entering folder</source>
@@ -9797,11 +9797,11 @@ Vista previa</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation type="unfinished">Ver como</translation>
+        <translation>Ver como</translation>
     </message>
     <message>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Mostrar tamaño de archivo en bytes</translation>
+        <translation>Mostrar tamaño de archivo en bytes</translation>
     </message>
 </context>
 <context>
