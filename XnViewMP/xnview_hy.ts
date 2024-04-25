@@ -2259,7 +2259,8 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 անունով ֆայլ արդեն կա:
+Վրագրե՞լ այն:</translation>
     </message>
 </context>
 <context>
@@ -3058,7 +3059,8 @@ Do you want to overwrite it?</source>
     <message>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 անունով ֆայլն արդեն կա:
+Վրագրե՞լ այն:</translation>
     </message>
 </context>
 <context>
@@ -4888,7 +4890,7 @@ Do you want to overwrite it?</source>
     <name>DlgConvertSwapClass</name>
     <message>
         <source>RGB →</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
@@ -7155,7 +7157,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
-        <translation type="unfinished">Չբեռնել դաշտի արժեքները</translation>
+        <translation>Չբեռնել դաշտի արժեքները</translation>
     </message>
 </context>
 <context>
@@ -9445,7 +9447,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Show most used formats at beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Սկզբում ցուցադրել հաճախակի օգտագործված ձևաչափերը</translation>
     </message>
 </context>
 <context>
@@ -9787,7 +9789,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Color management</source>
-        <translation type="unfinished"></translation>
+        <translation>Գույների կառավարում</translation>
     </message>
 </context>
 <context>
@@ -10629,7 +10631,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create thumbnails for whole folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ստեղծել մանրապատկերներ ամբողջ պանակի համար</translation>
     </message>
 </context>
 <context>
@@ -11027,7 +11029,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Golden ratio (Phi)</translation>
     </message>
 </context>
 <context>
@@ -12489,7 +12491,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Օգտագործել sharp (և դանդաղ) RGB→YUV փոխարկում</translation>
     </message>
 </context>
 <context>
@@ -16563,27 +16565,27 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>RGB→RBG</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→RBG</translation>
     </message>
     <message>
         <source>RGB→BGR</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BGR</translation>
     </message>
     <message>
         <source>RGB→BRG</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BRG</translation>
     </message>
     <message>
         <source>RGB→GRB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GRB</translation>
     </message>
     <message>
         <source>RGB→GBR</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GBR</translation>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation type="unfinished"></translation>
+        <translation>Խմբագրել նախշը...</translation>
     </message>
 </context>
 <context>
