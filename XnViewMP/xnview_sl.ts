@@ -2346,7 +2346,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="508"/>
         <source>Size</source>
-        <translation></translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="518"/>
@@ -2858,7 +2858,8 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Datoteka, po imenu %1, že obstaja. Ali jo želite prepisati?</translation>
+        <translation>Datoteka, po imenu %1, že obstaja. 
+Ali jo želite prepisati?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
@@ -3877,7 +3878,8 @@ Do you want to overwrite it?</source>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Datoteka, po imenu %1, že obstaja. Ali jo želite prepisati?</translation>
+        <translation>Datoteka, po imenu %1, že obstaja. 
+Ali jo želite prepisati?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2614"/>
@@ -4204,7 +4206,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top center</source>
-        <translation></translation>
+        <translation>Zgoraj sredina</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
@@ -4214,7 +4216,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center left</source>
-        <translation></translation>
+        <translation>Sredina levo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4224,7 +4226,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center right</source>
-        <translation></translation>
+        <translation>Sredina desno</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
@@ -4725,7 +4727,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.ui" line="1172"/>
         <source>Beep at the end of process</source>
-        <translation></translation>
+        <translation>Pisk na koncu postopka</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1752"/>
@@ -5556,7 +5558,8 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertIptc.ui" line="124"/>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>Ohrani in dodaj novo vrednost (ključne besede in dodatni razredi)</translation>
+        <translation>Ohrani in dodaj novo vrednost
+ (ključne besede in dodatni razredi)</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="135"/>
@@ -6300,7 +6303,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertSwap.ui" line="19"/>
         <source>RGB →</source>
         <oldsource>RGB ==&gt;</oldsource>
-        <translation type="unfinished">RGB ==&gt;</translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
@@ -6686,7 +6689,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Fill</source>
-        <translation></translation>
+        <translation>Izpolni</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -9004,7 +9007,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgIptc.ui" line="870"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished">Ne naloži vrednosti polja</translation>
+        <translation>Ne naloži vrednosti polja</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="802"/>
@@ -9225,7 +9228,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgIptcTemplate.cpp" line="103"/>
         <source>IPTC file</source>
         <translatorcomment>IPTC datoteka</translatorcomment>
-        <translation></translation>
+        <translation>IPTC datoteka</translation>
     </message>
 </context>
 <context>
@@ -12058,7 +12061,7 @@ sličico</translation>
         <location filename="DlgSettingsFormat.ui" line="116"/>
         <source>Show most used formats at beginning</source>
         <oldsource>Show most used format at beginning</oldsource>
-        <translation type="unfinished">Na začetku prikaži najpogosteje uporabljeno obliko</translation>
+        <translation>Pokaži najpogosteje uporabljene formate na začetku</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12308,7 +12311,7 @@ sličico</translation>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
-        <translation type="unfinished">Barvni profil</translation>
+        <translation>Upravljanje barv</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1001"/>
@@ -13180,7 +13183,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="1829"/>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
-        <translation>Navpični pomik</translation>
+        <translation>Navpično drsenje</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1183"/>
@@ -13472,7 +13475,7 @@ Ali želite ponovno dodeliti?</translation>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
         <translatorcomment>Ponovno zaženite aplikacijo.</translatorcomment>
-        <translation>Ponovno zaženite XnView</translation>
+        <translation>Ponovno zaženite aplikacijo.</translation>
     </message>
 </context>
 <context>
@@ -13507,7 +13510,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
-        <translation type="unfinished">Ustvari sličice za celotno mapo</translation>
+        <translation>Ustvari sličice za celotno mapo</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13684,7 +13687,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="694"/>
         <source>Face tag</source>
-        <translation>Face tag</translation>
+        <translation>Oznaka obraza</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="654"/>
@@ -14007,7 +14010,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlati rez (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="763"/>
@@ -16034,7 +16037,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">Uporabi ostro (in počasno) pretvorbo RGB-&gt;YUV</translation>
+        <translation>Uporabi ostro (in počasno) pretvorbo RGB→YUV</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -17476,7 +17479,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2540"/>
         <source>Subj. Dist. Range</source>
-        <translation>Območje odd. obj.</translation>
+        <translation>Subj. Razst. Razpon</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2541"/>
@@ -20844,31 +20847,31 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="199"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
-        <translation type="unfinished">RGB=&gt;RBG</translation>
+        <translation>RGB→RBG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
-        <translation type="unfinished">RGB=&gt;BGR</translation>
+        <translation>RGB→BGR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
-        <translation type="unfinished">RGB=&gt;BRG</translation>
+        <translation>RGB→BRG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
-        <translation type="unfinished">RGB=&gt;GRB</translation>
+        <translation>RGB→GRB</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
-        <translation type="unfinished">RGB=&gt;GBR</translation>
+        <translation>RGB→GBR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -21484,7 +21487,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">Uredi barvno mapo...</translation>
+        <translation>Uredi paleto...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
