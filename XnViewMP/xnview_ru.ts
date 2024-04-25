@@ -190,7 +190,7 @@
     <message>
         <location filename="AboutWidget.ui" line="368"/>
         <source>Credits</source>
-        <translation>Авторские права</translation>
+        <translation>Благодарности</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="382"/>
@@ -1218,7 +1218,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="826"/>
         <source>Text</source>
-        <translation>Добавление текста</translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="1335"/>
@@ -1362,7 +1362,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4564"/>
         <source>Clear transparent pixels</source>
-        <translation>Удалить прозрачные пикселы</translation>
+        <translation>Удалить прозрачные пиксели</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4578"/>
@@ -2133,7 +2133,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgArchive.cpp" line="103"/>
         <source>Creating archive, please wait...</source>
         <oldsource>Creating archive, please wait... </oldsource>
-        <translation>Создание архива... </translation>
+        <translation>Создание архива...</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="124"/>
@@ -2319,12 +2319,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="372"/>
         <source>Fit</source>
-        <translation>По размеру</translation>
+        <translation>Подогнать</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="377"/>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заполнить</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="382"/>
@@ -2373,17 +2373,17 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="581"/>
         <source>pixels</source>
-        <translation>пикселей</translation>
+        <translation>пиксели</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="586"/>
         <source>percent</source>
-        <translation>процентов</translation>
+        <translation>проценты</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="591"/>
         <source>inches</source>
-        <translation>дюймов</translation>
+        <translation>дюймы</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="596"/>
@@ -2413,12 +2413,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="672"/>
         <source>Nearest Neighbour</source>
-        <translation>Соседние пикселы</translation>
+        <translation>Nearest Neighbour</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="677"/>
         <source>Bilinear</source>
-        <translation>Билинейная</translation>
+        <translation>Bilinear</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="719"/>
@@ -3252,7 +3252,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgContactSheet.ui" line="109"/>
         <source>pixels</source>
-        <translation>пиксел</translation>
+        <translation>пиксели</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="114"/>
@@ -3282,7 +3282,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgContactSheet.ui" line="193"/>
         <source>Margin (pixels)</source>
-        <translation>Смещение (пикселей)</translation>
+        <translation>Смещение (пиксели)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="200"/>
@@ -3328,7 +3328,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgContactSheet.ui" line="358"/>
         <source>Spacing (pixels)</source>
-        <translation>Интервал (пикселей)</translation>
+        <translation>Интервал (пиксели)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="365"/>
@@ -4158,7 +4158,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertBorder.ui" line="166"/>
         <location filename="DlgConvertBorder.ui" line="260"/>
         <source>pixels</source>
-        <translation>пиксел</translation>
+        <translation>пиксели</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="92"/>
@@ -4327,17 +4327,17 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="280"/>
         <source>pixels</source>
-        <translation>пикселей</translation>
+        <translation>пиксели</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="285"/>
         <source>percent</source>
-        <translation>процентов</translation>
+        <translation>проценты</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="290"/>
         <source>inches</source>
-        <translation>дюймов</translation>
+        <translation>дюймы</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="295"/>
@@ -6043,8 +6043,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="32"/>
         <source>Presets</source>
-        <translation>Предустановленный
-размер</translation>
+        <translation>Предустановки</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="40"/>
@@ -6085,7 +6084,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertResize.ui" line="127"/>
         <source>Fit</source>
         <translatorcomment>Верно ли?</translatorcomment>
-        <translation>Соответсвующий</translation>
+        <translation>Подогнать</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="132"/>
@@ -6141,7 +6140,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="336"/>
         <source>pixels</source>
-        <translation>пиксел</translation>
+        <translation>пиксели</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="341"/>
@@ -6207,12 +6206,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="497"/>
         <source>Nearest Neighbour</source>
-        <translation>Соседние пикселы</translation>
+        <translation>Nearest Neighbour</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="502"/>
         <source>Bilinear</source>
-        <translation>Билинейная</translation>
+        <translation>Bilinear</translation>
     </message>
 </context>
 <context>
@@ -6706,12 +6705,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="141"/>
         <source>Fit</source>
-        <translation>По размеру</translation>
+        <translation>Подогнать</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Fill</source>
-        <translation>Растянуть</translation>
+        <translation>Фон</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -8030,7 +8029,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileListing.ui" line="91"/>
         <source>Only image files</source>
-        <translation>Только файлы с изображениями</translation>
+        <translation>Только изображения</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="98"/>
@@ -8629,7 +8628,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgHotFolder.ui" line="14"/>
         <source>Hot folders</source>
-        <translation> Часто используемые папки </translation>
+        <translation>Папки отслеживания</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.ui" line="27"/>
@@ -8699,7 +8698,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="89"/>
         <source>Destination</source>
-        <translation>Конечный путь</translation>
+        <translation>Место назначения</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="58"/>
@@ -8714,7 +8713,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="111"/>
         <source>Move files</source>
-        <translation>Перемещать файл</translation>
+        <translation>Перемещать файлы</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="125"/>
@@ -8756,13 +8755,13 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="287"/>
         <source>Rename like photos</source>
-        <translation>Переименовывать понравившиеся фотографии</translation>
+        <translation>Переименовывать также как изображения</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="297"/>
         <source>Categories to assign</source>
         <oldsource>Keywords to assign at import (XMP)</oldsource>
-        <translation>Ключевые слова, присваиваемые при импорте (XMP)</translation>
+        <translation>Категории, присваиваемые при импорте</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="303"/>
@@ -8830,13 +8829,13 @@ Subfolders will be created. </source>
         <location filename="DlgImport.cpp" line="277"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG)</oldsource>
-        <translation>Обновить встроенные метаданные (JPEG/TIFF/PNG)</translation>
+        <translation>Записать во встроенные метаданные (JPEG/TIFF/PNG)</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG) and sidecar (others)</oldsource>
-        <translation>Обновить встроенные метаданные (JPEG/TIFF/PNG) и связанные файлы XMP (прочие)</translation>
+        <translation>Записать во встроенные метаданные (JPEG/TIFF/PNG) и создать связанные файлы XMP (прочие)</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="283"/>
@@ -9039,7 +9038,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="822"/>
         <source>Ctrl+Right</source>
-        <translation>Ctrl+Left</translation>
+        <translation>Ctrl+Right</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="846"/>
@@ -9247,7 +9246,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptcTemplate.ui" line="41"/>
         <source>Merge data</source>
         <oldsource>Merge datas</oldsource>
-        <translation>Объединить даты</translation>
+        <translation>Объединить данные</translation>
     </message>
     <message>
         <location filename="DlgIptcTemplate.cpp" line="38"/>
@@ -9984,7 +9983,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="1061"/>
         <source>Page setup...</source>
-        <translation> Настройки страницы... </translation>
+        <translation>Настройки страницы...</translation>
     </message>
     <message>
         <location filename="DlgPrint.cpp" line="1613"/>
@@ -9994,7 +9993,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.cpp" line="1617"/>
         <source>Page size: %1x%2 inches, %3x%4 mm</source>
-        <translation>Размер страницы: %1x%2 дюймов, %3x%4 мм </translation>
+        <translation>Размер страницы: %1x%2 дюймов, %3x%4 мм</translation>
     </message>
     <message>
         <location filename="DlgPrint.cpp" line="1625"/>
@@ -10308,7 +10307,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadRaw.ui" line="77"/>
         <source>Bits per pixel</source>
-        <translation>Кол-во бит/пиксел</translation>
+        <translation>Кол-во бит/пиксель</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.h" line="106"/>
@@ -10386,7 +10385,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Background remover</source>
-        <translation>Удаление цвета фона</translation>
+        <translation>Удаление фона</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
@@ -10404,7 +10403,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRename.cpp" line="312"/>
         <source>Companion renaming</source>
-        <translation>Сопутствующее переименование</translation>
+        <translation>Переименование сопутствующих файлов</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="312"/>
@@ -10694,7 +10693,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgResize.ui" line="497"/>
         <source>percent</source>
-        <translation>процентов</translation>
+        <translation>проценты</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="262"/>
@@ -10715,7 +10714,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgResize.ui" line="177"/>
         <source>Size (pixels)</source>
-        <translation>Размер (пикселей)</translation>
+        <translation>Размер (пиксели)</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="182"/>
@@ -10762,12 +10761,12 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgResize.ui" line="384"/>
         <source>Nearest Neighbour</source>
-        <translation>Соседние пикселы</translation>
+        <translation>Nearest Neighbour</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="389"/>
         <source>Bilinear</source>
-        <translation>Билинейная</translation>
+        <translation>Bilinear</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="413"/>
@@ -10829,7 +10828,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgResize.ui" line="593"/>
         <source>Position</source>
-        <translation>Ориентация</translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="604"/>
@@ -14767,7 +14766,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="205"/>
         <source>Size (pixels)</source>
-        <translation>Размер (пикселей)</translation>
+        <translation>Размер (пиксели)</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="230"/>
@@ -16850,7 +16849,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2465"/>
         <location filename="TemplateData.cpp" line="2486"/>
         <source>BPP</source>
-        <translation>Кол-во бит/пиксел</translation>
+        <translation>Кол-во бит/пиксель</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2468"/>
