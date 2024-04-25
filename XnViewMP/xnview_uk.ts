@@ -6300,7 +6300,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertSwap.ui" line="19"/>
         <source>RGB →</source>
         <oldsource>RGB ==&gt;</oldsource>
-        <translation type="unfinished">RGB ==&gt;</translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
@@ -20600,7 +20600,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="199"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
-        <translation type="unfinished">RGB=&gt;RBG</translation>
+        <translation>RGB→RBG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
