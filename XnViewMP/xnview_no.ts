@@ -6263,7 +6263,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertSwap.ui" line="19"/>
         <source>RGB →</source>
         <oldsource>RGB ==&gt;</oldsource>
-        <translation type="unfinished">RGB ==&gt;</translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
