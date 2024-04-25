@@ -6269,7 +6269,7 @@ Voulez-vous l&apos;écraser ?</translation>
         <location filename="DlgConvertSwap.ui" line="19"/>
         <source>RGB →</source>
         <oldsource>RGB ==&gt;</oldsource>
-        <translation type="unfinished">RVB ==&gt;</translation>
+        <translation>RVB →</translation>
     </message>
 </context>
 <context>
