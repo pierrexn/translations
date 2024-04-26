@@ -320,5 +320,7 @@
   "scanNoMoreTry": "¡Ya no tienes examen!",
   "@scanNoMoreTry": {},
   "scanInfo": "",
-  "@scanInfo": {}
+  "@scanInfo": {}, 
+    "scanResult": "{count, plural, =1{1 possible result} other{{count} possible results}", 
+  "@scanResult": {}
 }

@@ -320,5 +320,7 @@
   "scanNoMoreTry": "You no longer have a test!",
   "@scanNoMoreTry": {},
   "scanInfo": "{count, plural, =1{You can't anymore scan card!} other{You can scan {count} cards}",
-  "@scanInfo": {}
+  "@scanInfo": {},
+  "scanResult": "{count, plural, =1{1 possible result} other{{count} possible results}", 
+  "@scanResult": {}
 }
