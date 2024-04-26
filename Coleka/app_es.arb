@@ -320,7 +320,5 @@
   "scanNoMoreTry": "¡Ya no tienes examen!",
   "@scanNoMoreTry": {},
   "scanInfo": "",
-  "@scanInfo": {},
-  "scanResult": "",
-  "@scanResult": {}
+  "@scanInfo": {}
 }
