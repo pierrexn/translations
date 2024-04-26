@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <!-- Sort menu -->
+    <string name="menu_sort_path"></string>
+    <string name="menu_sort_name"></string>
+    <string name="menu_sort_size"></string>
+    <string name="menu_sort_date"></string>
+    <string name="menu_sort_type"></string>
+    <string name="menu_sort_ascending"></string>
+    <string name="menu_sort_descending"></string>
+    <string name="menu_infos"></string>
+    <string name="menu_share"></string>
+    <string name="menu_delete"></string>
+    <string name="menu_settings"></string>
+    <string name="menu_show_name"></string>
+    <string name="menu_filter"></string>
+    <string name="menu_group"></string>
+    <string name="menu_custom_size"></string>
+    <string name="menu_predefined_size"></string>
+    <string name="menu_choose_template"></string>
+    <string name="menu_choose_size"></string>
+    <string name="menu_create_template"></string>
+    <string name="menu_report"></string>
+    <string name="menu_restore"></string>
+    <string name="menu_clear"></string>
+    <string name="menu_append"></string>
+    <string name="menu_select_all"></string>
+    <string name="group_none"></string>
+    <string name="group_path"></string>
+    <string name="group_date"></string>
+    <string name="group_type"></string>
+    <string name="group_extension"></string>
+    <string name="today"></string>
+    <string name="yesterday"></string>
+    <string name="mail_message"></string>
+    <string name="template_message"></string>
+    <string name="template_title"></string>
+    <string name="delete_all_selected_files"></string>
+    <string name="image_converting"></string>
+    <string name="result_files"></string>
+    <!-- Drawer menu -->
+    <string name="drawer_allphotos"></string>
+    <string name="drawer_photos"></string>
+    <string name="drawer_downloads"></string>
+    <string name="drawer_storage"></string>
+    <string name="drawer_output"></string>
+    <string name="drawer_sdcard"></string>
+    <string name="pro_version"></string>
+    <string name="message_saved"></string>
+    <string name="pane_convert"></string>
+    <string name="pane_next"></string>
+    <string name="resize"></string>
+    <string name="text"></string>
+    <string name="watermark"></string>
+    <string name="output"></string>
+    <string name="size_default"></string>
+    <string name="rotate"></string>
+    <string name="adjust"></string>
+    <string name="canvas"></string>
+    <string name="canvas_resize"></string>
+    <string name="dialog_ok"></string>
+    <string name="dialog_cancel"></string>
+    <string name="resize_method"></string>
+    <string name="quality"></string>
+    <string name="keep_metadata"></string>
+    <string name="fitin"></string>
+    <string name="fitover"></string>
+    <string name="stretch"></string>
+    <string name="brightness"></string>
+    <string name="contrast"></string>
+    <string name="saturation"></string>
+    <string name="gamma"></string>
+    <string name="exposure"></string>
+    <string name="white_balance"></string>
+    <string name="cut_limit"></string>
+    <!-- Dialog size -->
+    <string name="dialog_size_title"></string>
+    <!-- Preferences -->
+    <string name="settings_global"></string>
+    <string name="settings"></string>
+    <string name="settings_output"></string>
+    <string name="settings_misc"></string>
+    <string name="settings_keepMetadata"></string>
+    <string name="settings_keepMetadataSummary"></string>
+    <string name="settings_keepFileDate"></string>
+    <string name="settings_keepFileDateSummary"></string>
+    <string name="settings_keepAlpha"></string>
+    <string name="settings_sharpen"></string>
+    <string name="settings_manageSize"></string>
+    <string name="settings_manageTemplate"></string>
+    <string name="settings_qualitySave"></string>
+    <string name="settings_qualityLow"></string>
+    <string name="settings_qualityMedium"></string>
+    <string name="settings_qualityHigh"></string>
+    <string name="settings_qualityBest"></string>
+    <string name="settings_none"></string>
+    <string name="settings_low"></string>
+    <string name="settings_medium"></string>
+    <string name="settings_high"></string>
+    <string name="settings_hideXnFolder"></string>
+    <string name="settings_hideXnFolderSummary"></string>
+    <string name="settings_show_text"></string>
+    <string name="settings_show_watermark"></string>
+    <string name="setttings_reset_template"></string>
+    <string name="setttings_reset_template_summary"></string>
+    <string name="settings_singleMode"></string>
+    <string name="settings_singleModeSummary"></string>
+    <string name="settings_manageExcluded"></string>
+    <string name="enterCustomSize"></string>
+    <string name="resize_dialog_info"></string>
+    <string name="width"></string>
+    <string name="height"></string>
+    <string name="percent"></string>
+    <string-array name="size_mode_array">
+        <item>PIXELS</item>
+        <item>%</item>
+        <item>RATIO</item>
+    </string-array>
+    <string-array name="resize_array">
+        <item>Bilinear</item>
+        <item>Lanzcos</item>
+    </string-array>
+    <string name="settings_portraitColumnsCount"></string>
+    <string name="settings_landscapeColumnsCount"></string>
+    <string name="title_settings"></string>
+    <string name="title_template"></string>
+    <string name="title_size"></string>
+    <string name="title_excluded_folders"></string>
+    <!-- Infos -->
+    <string name="infos_filename"></string>
+    <string name="infos_path"></string>
+    <string name="infos_date"></string>
+    <string name="infos_size"></string>
+    <string name="infos_dimensions"></string>
+    <!-- Common -->
+    <string name="an_error_occurred"></string>
+    <string name="no_app_found"></string>
+    <string name="share_via"></string>
+    <string name="maximum_share_reached"></string>
+    <string name="unknown_error_occurred"></string>
+    <string name="choose_size"></string>
+    <!-- Rate -->
+    <string name="rate_question"></string>
+    <string name="rate_using"></string>
+    <!-- Don't translate APPNAME -->
+    <string name="rate_rate"></string>
+    <string name="rate_remind"></string>
+    <string name="rate_no"></string>
+    <!-- INAPP -->
+    <string name="pro_title"></string>
+    <string name="pro_item1"></string>
+    <string name="pro_item2"></string>
+    <string name="pro_item3"></string>
+    <string name="pro_item4"></string>
+    <string name="pro_purchase"></string>
+</resources>
