@@ -1930,7 +1930,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="124"/>
         <source>Rating</source>
-        <translation>Оценка</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="128"/>
@@ -7131,12 +7131,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="71"/>
         <source>Rating</source>
-        <translation>Оценка</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="101"/>
         <source>Copyright status</source>
-        <translation>Статус Авторского права</translation>
+        <translation>Статус авторских прав</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="109"/>
@@ -7759,7 +7759,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Label</source>
-        <translation>Экспортировать Оценки и Выбранные цвета</translation>
+        <translation>Экспортировать Рейтинг и Цветовые метки</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -8039,17 +8039,17 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileListing.cpp" line="76"/>
         <source>Preview</source>
-        <translation> Предпросмотр </translation>
+        <translation>Предпросмотр</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="78"/>
         <source>Copy to Clipboard</source>
-        <translation> Копировать в буфер обмена </translation>
+        <translation>Копировать в буфер обмена</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="80"/>
         <source>Save as...</source>
-        <translation> Сохранить как... </translation>
+        <translation>Сохранить как...</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="120"/>
@@ -11217,7 +11217,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="89"/>
         <source>Show ratings</source>
-        <translation>Отображать оценку в области предпросмотра</translation>
+        <translation>Отображать Рейтинг в области предпросмотра</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="99"/>
@@ -11308,7 +11308,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="316"/>
         <source>Rating</source>
-        <translation>Оценка</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="339"/>
@@ -11338,7 +11338,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="375"/>
         <source>File date</source>
-        <translation>Дата файла </translation>
+        <translation>Дата файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="383"/>
@@ -11399,7 +11399,7 @@ Thank you for purchasing %1.</source>
         <location filename="DlgSettingsBrowser.ui" line="523"/>
         <source>Search in</source>
         <oldsource>Search in IPTC fields</oldsource>
-        <translation>Искать в IPTC</translation>
+        <translation>Искать в</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="529"/>
@@ -11566,10 +11566,10 @@ Color labels, Keywords may be deleted.
 
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
-        <translation type="unfinished">Эта операция может удалить некоторые записи из БД 
-(рейтинги/цвета/ключевые слова). 
+        <translation>Могут быть удалены некоторые записи базы данных с присвоенными:
+Рейтингом, Цветными метками, Ключевыми словами.
 
-Вы хотите проверить эти записи перед выполнением данной операции?</translation>
+Вы хотите сначала проверить наличие затронутых записей?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="883"/>
@@ -11605,12 +11605,13 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation type="unfinished">Эта операция может удалить некоторые записи из БД (рейтинги/цвета/ключевые слова).
+        <translation>Будут удалены записи с присвоенными:
+Рейтингом, Цветными метками, Ключевыми словами и Категориями.
 
-(Если информация экспортируется во встроенные или связанные файлы XMP, 
-вы сможете повторно импортировать их позже)
+Если метаданные были экспортированы как встроенные или связанные файлы
+они могут быть реимпортированы позже.
 
- Вы хотите проверить эти записи перед выполнением данной операции?</translation>
+Вы хотите удалить записи?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="931"/>
@@ -13364,7 +13365,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
         <source>Update when file is changed outside (date/size)</source>
-        <translation>Обновлять при изменении выходного файла (дата/размер)</translation>
+        <translation>Обновлять при изменении файла вне программы (дата/размер)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
@@ -13390,19 +13391,19 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
         <source>Naming convention</source>
-        <translation type="unfinished">Наименование сопутствующего файла</translation>
+        <translation>Наименование</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="341"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
-        <translation>Имя файла.xmp</translation>
+        <translation>&lt;имя файла&gt;.xmp</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="348"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
-        <translation>Имя файла.расширение.xmp</translation>
+        <translation>&lt;имя файла&gt;.&lt;расширение&gt;.xmp</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
@@ -13423,12 +13424,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="262"/>
         <source>Rating &amp;&amp; Label</source>
-        <translation>Оценка и выбранный цвет</translation>
+        <translation>Рейтинг и Цветовая метка</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="268"/>
         <source>Export rating in XMP metadata</source>
-        <translation>Экспортировать оценку в метаданные XMP</translation>
+        <translation>Экспортировать Рейтинг в метаданные XMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="275"/>
@@ -13714,8 +13715,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="833"/>
         <source>Automatic rotation</source>
-        <translation>Автоматически повёрнутое
-изображение</translation>
+        <translation>Автоматическое вращение</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
@@ -13790,7 +13790,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="1301"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
-        <translation type="unfinished">Автомасштабирование изображения</translation>
+        <translation>Автомасштабирование</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
@@ -13920,7 +13920,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="480"/>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation>Масштабировать до разрешения HiDPI: 1 пиксел изображения равен 1 пикселу на экране</translation>
+        <translation>Масштабирование на HiDPI экране: 1 пиксель изображения равен 1 пикселю экрана</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="579"/>
@@ -13970,7 +13970,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings&gt;File list&gt;Custom Filter)</source>
-        <translation>(Из настроек&gt;Список файлов&gt; Пользовательский фильтр)</translation>
+        <translation>(из Настройки &gt; Список файлов &gt; Пользовательский фильтр)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="708"/>
@@ -13990,7 +13990,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="487"/>
         <source>Show highlight selection</source>
-        <translation>Отображать цветное выделение</translation>
+        <translation>Подсвечивать область выделения</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="428"/>
@@ -14100,7 +14100,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="974"/>
         <source>File date</source>
-        <translation>Дата файла </translation>
+        <translation>Дата файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="982"/>
@@ -14210,7 +14210,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1103"/>
         <source>Support HTML tags</source>
-        <translation>Поддержка HTML маркеров</translation>
+        <translation>Поддержка HTML тегов</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1285"/>
@@ -18216,7 +18216,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="121"/>
         <source>Copyright Notice</source>
-        <translation>Авторские права</translation>
+        <translation>Уведомление об авторских правах</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="122"/>
@@ -18435,7 +18435,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPanel.cpp" line="60"/>
         <source>Copy this item</source>
-        <translation>Копировать эти элементы</translation>
+        <translation>Копировать этот элемент</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="61"/>
@@ -19609,7 +19609,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="5"/>
         <source>Black</source>
-        <translation>Черный</translation>
+        <translation>Черная</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="7"/>
