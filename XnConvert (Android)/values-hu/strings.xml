@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">XnConvert</string>
-    <!-- Sort menu -->
-    <string name="menu_sort_path"></string>
-    <string name="menu_sort_name"></string>
-    <string name="menu_sort_size"></string>
-    <string name="menu_sort_date"></string>
-    <string name="menu_sort_type"></string>
-    <string name="menu_sort_ascending"></string>
-    <string name="menu_sort_descending"></string>
-    <string name="menu_infos"></string>
-    <string name="menu_share"></string>
-    <string name="menu_delete"></string>
-    <string name="menu_settings"></string>
-    <string name="menu_show_name"></string>
-    <string name="menu_filter"></string>
-    <string name="menu_group"></string>
-    <string name="menu_custom_size"></string>
-    <string name="menu_predefined_size"></string>
-    <string name="menu_choose_template"></string>
-    <string name="menu_choose_size"></string>
-    <string name="menu_create_template"></string>
-    <string name="menu_report"></string>
     <string name="menu_restore">Restore</string>
     <string name="menu_clear">Clear</string>
     <string name="menu_append">Append</string>
