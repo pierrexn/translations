@@ -6,7 +6,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="419"/>
         <source>Uncolored</source>
-        <translation>Без цвета</translation>
+        <translation>Без цветовой метки</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="425"/>
@@ -107,17 +107,17 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
         <source>Unrated</source>
-        <translation>Без оценки</translation>
+        <translation>Без рейтинга</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="334"/>
         <source>Poor</source>
-        <translation>Очень плохо</translation>
+        <translation>Плохо</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="335"/>
         <source>Fair</source>
-        <translation>Плохо</translation>
+        <translation>Неплохо</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="336"/>
@@ -1586,7 +1586,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic lut</source>
-        <translation>Логарифмическая Lut</translation>
+        <translation>Логарифмическая LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -1935,7 +1935,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="128"/>
         <source>Colour Label</source>
-        <translation>Выбранный цвет</translation>
+        <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="132"/>
@@ -5570,8 +5570,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertIptc.ui" line="124"/>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>Добавлять новые значения к текущим (&quot;Ключевые слова&quot; и
-&quot;Дополнительные категории&quot;)</translation>
+        <translation>Добавлять новые значения к текущим (Ключевые слова и Дополнительные категории)</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="135"/>
@@ -5619,8 +5618,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="193"/>
         <source>Works only for JPEG, TIFF, PNG output format</source>
-        <translation>Будет работать только с JPEG, TIFF и PNG
-выходными форматами</translation>
+        <translation>Работает только с выходными форматами: JPEG, TIFF, PNG</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.h" line="235"/>
@@ -5691,8 +5689,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertLossless.ui" line="57"/>
         <source>based on EXIF rotation value</source>
-        <translation>Повернуть, основываясь
-на значении EXIF</translation>
+        <translation>Повернуть, основываясь на значении EXIF</translation>
     </message>
 </context>
 <context>
@@ -7171,7 +7168,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="221"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation>(Используйте | для разделения ключевых слов)</translation>
+        <translation>(используйте | для разделения иерархии Ключевых слов)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="248"/>
@@ -7236,7 +7233,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="573"/>
         <source>Open last opened tab</source>
-        <translation>Открывать последнюю открытую вкладку</translation>
+        <translation>Запоминать открытую вкладку</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7290,7 +7287,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="101"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation>(Используйте ; или , для разделения ключевых слов)</translation>
+        <translation>(используйте ; или , для разделения)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="139"/>
@@ -8119,18 +8116,18 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileReplace.ui" line="432"/>
         <source>&amp;Replace</source>
-        <translation> Заменить </translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="442"/>
         <source>Replace &amp;all</source>
         <oldsource>Replace all</oldsource>
-        <translation> Заменить все </translation>
+        <translation>Заменить все</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="449"/>
         <source>&amp;Skip</source>
-        <translation> Пропустить </translation>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.cpp" line="123"/>
@@ -8141,7 +8138,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileReplace.ui" line="459"/>
         <source>Skip a&amp;ll</source>
         <oldsource>Skip all</oldsource>
-        <translation> Пропустить все </translation>
+        <translation>Пропустить все</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="479"/>
@@ -8767,7 +8764,7 @@ Subfolders will be created. </source>
         <location filename="DlgImport.ui" line="303"/>
         <source>Use ; to separate categories</source>
         <oldsource>Use ; to separate keywords</oldsource>
-        <translation>Используйте ; для разделения ключевых слов</translation>
+        <translation>Используйте ; для разделения</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="330"/>
@@ -9049,7 +9046,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptc.ui" line="730"/>
         <source>Open last opened tab</source>
         <oldsource>Open lastest opened tab</oldsource>
-        <translation>Открывать последнюю открытую вкладку</translation>
+        <translation>Запоминать открытую вкладку</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
@@ -10267,12 +10264,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadRaw.ui" line="30"/>
         <source>Header size</source>
-        <translation>Размер верхнего колонтитула</translation>
+        <translation>Размер заголовка</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="70"/>
         <source>Channel type</source>
-        <translation>Цветовая модель</translation>
+        <translation>Тип канала</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="174"/>
@@ -10282,7 +10279,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadRaw.ui" line="184"/>
         <source>Byte order</source>
-        <translation>Порядок следования байт</translation>
+        <translation>Порядок байтов</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="195"/>
@@ -11534,7 +11531,7 @@ Do you want to change the &apos;base path&apos;?</source>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation type="unfinished">Эта операция удалит все потерянные файлы из каталога.
+        <translation>Все осиротевшие файлы будут удалены из Каталога.
 
 Вы хотите продолжить?</translation>
     </message>
@@ -12024,7 +12021,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="226"/>
         <source>Association list (use ; as separator)</source>
-        <translation>Список ассоциаций (Используйте ; или ,  для разделения)</translation>
+        <translation>Список ассоциаций (; для разделения)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
@@ -12599,7 +12596,7 @@ Thumbnail</source>
         <location filename="DlgStartupWizard.cpp" line="47"/>
         <location filename="DlgStartupWizard.cpp" line="159"/>
         <source>Same as Catalog</source>
-        <translation>Такая же, как у каталога</translation>
+        <translation>Как у Каталога</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="130"/>
@@ -13315,7 +13312,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="987"/>
         <source>Shortcut for selected action</source>
-        <translation>Горячие клавиши для выделенного элемента</translation>
+        <translation>Горячие клавиши для выделенного действия</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
@@ -13348,7 +13345,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to DB Categories</oldsource>
-        <translation>Импортировать субъекты XMP и ключевые слова IPTC в категории базы данных</translation>
+        <translation>Импортировать XMP:Subject и IPTC:Keywords в Категории Каталога</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13360,7 +13357,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically apply parent category (Ctrl+click for single category)</source>
         <oldsource>Automatically apply parent keywords (Ctrl+click for single keyword)</oldsource>
-        <translation>Автоматически применять родительские ключевые слова (Ctrl+клик для одиночных ключевых слов)</translation>
+        <translation>Автоматически присваивать родительскую Категорию (Ctrl+клик только для текущей)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -13409,7 +13406,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
         <source>Write categories into images as hierachical keywords</source>
         <oldsource>Write hierarchical keywords</oldsource>
-        <translation>Сохранять иерархические символы</translation>
+        <translation>Записывать Категории в изображения как иерархию Ключевых слов</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="33"/>
@@ -13434,7 +13431,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="275"/>
         <source>Export color label in XMP metadata</source>
-        <translation>Экспортировать выбранный цвет в метаданные XMP</translation>
+        <translation>Экспортировать Цветовую метку в метаданные XMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="285"/>
@@ -13491,12 +13488,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Labels</source>
-        <translation>Подписи эскиза</translation>
+        <translation>Цветовые метки</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="613"/>
         <source>Label</source>
-        <translation>Выбранный цвет</translation>
+        <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="606"/>
@@ -13720,7 +13717,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
         <source>Rating</source>
-        <translation>Оценка</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="806"/>
@@ -13730,7 +13727,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
-        <translation>Выбранный цвет</translation>
+        <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -13899,7 +13896,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="921"/>
         <source>Display multi-resolution icons as snapshots</source>
         <oldsource>Icon files display as &apos;Snapshot&apos;</oldsource>
-        <translation>Файлы иконок отображать одним снимком</translation>
+        <translation>Отображать иконки с несколькими разрешениями в виде снимков</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="700"/>
@@ -13910,7 +13907,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">Сбрасывать настройки &quot;Автомасштабирование изображения&quot; при переходе к следующему / предыдущему файлу</translation>
+        <translation>Сбрасывать настройки Автомасштабирования при переходе к следующему/предыдущему файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -14005,7 +14002,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="501"/>
         <source>Show Rating &amp;&amp; Label color</source>
-        <translation>Отображать Оценку и Выбранный цвет</translation>
+        <translation>Отображать Рейтинг и Цветовую метку</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
@@ -16318,7 +16315,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.ui" line="45"/>
         <source>Add folder...</source>
-        <translation> Добавить папку... </translation>
+        <translation>Добавить папку...</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="71"/>
@@ -16328,7 +16325,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.ui" line="85"/>
         <source>Remove all</source>
-        <translation> Удалить все </translation>
+        <translation>Удалить все</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="321"/>
@@ -16356,12 +16353,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ThumbInfo.cpp" line="165"/>
         <source>Rating</source>
-        <translation>Оценка</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="166"/>
         <source>Color label</source>
-        <translation>Выбранный цвет</translation>
+        <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="167"/>
@@ -16704,7 +16701,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="379"/>
         <location filename="InfoPropertiesView.cpp" line="405"/>
         <source>Model</source>
-        <translation>Model &lt;Модель камеры&gt;</translation>
+        <translation>Камера, модель</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="384"/>
@@ -16725,12 +16722,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="133"/>
         <location filename="TemplateData.cpp" line="2664"/>
         <source>Rating</source>
-        <translation>Оценка</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1064"/>
         <source>Colour label</source>
-        <translation>Выбранный цвет</translation>
+        <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1066"/>
@@ -16784,7 +16781,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="140"/>
         <location filename="TemplateData.cpp" line="2666"/>
         <source>Color label</source>
-        <translation>Выбранный цвет</translation>
+        <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="31"/>
@@ -16951,7 +16948,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2686"/>
         <source>Size (KB)</source>
-        <translation>Размер (Кбайты)</translation>
+        <translation>Размер (Кб)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2472"/>
@@ -16966,19 +16963,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2475"/>
         <source>Ratio Decimal</source>
-        <translation>Десятичное соотношение</translation>
+        <translation>Соотношение (десятичное)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2476"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
-        <translation>Коэффициент ширины/высоты</translation>
+        <translation>Соотношение ширина/высота</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2477"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
-        <translation>Коэффициент высоты/ширины</translation>
+        <translation>Соотношение высота/ширина</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2478"/>
@@ -17008,7 +17005,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
         <source>File index</source>
-        <translation>Файл-индекс</translation>
+        <translation>Индекс файла</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2661"/>
@@ -17029,12 +17026,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2665"/>
         <source>Rating (number)</source>
         <translatorcomment>рейтинг?</translatorcomment>
-        <translation>Оценка (числовое)</translation>
+        <translation>Рейтинг (число)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2667"/>
         <source>Color label (number)</source>
-        <translation>Выбранный цвет (числовое)</translation>
+        <translation>Цветовая метка (число)</translation>
     </message>
 </context>
 <context>
@@ -17300,24 +17297,24 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="285"/>
         <location filename="TemplateData.cpp" line="2496"/>
         <source>Maker</source>
-        <translation>Make &lt;Производитель камеры&gt;</translation>
+        <translation>Камера, производитель</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1089"/>
         <location filename="SearchField.cpp" line="291"/>
         <location filename="TemplateData.cpp" line="2497"/>
         <source>Model</source>
-        <translation>Model &lt;Модель камеры&gt;</translation>
+        <translation>Камера, модель</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1091"/>
         <source>ISO</source>
-        <translation>ISOSpeedRatings &lt;Эквивалентная светочувствительности&gt;</translation>
+        <translation>ISO</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1093"/>
         <source>ShutterSpeed</source>
-        <translation>Shutter speed &lt;Величина выдержки&gt;</translation>
+        <translation>Скорость затвора</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1095"/>
@@ -17328,13 +17325,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1097"/>
         <source>Focal Length</source>
-        <translation>FocalLength &lt;Фокусное расстояние&gt;</translation>
+        <translation>Фокусное расстояние</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1099"/>
         <location filename="TemplateData.cpp" line="2535"/>
         <source>Aperture</source>
-        <translation>Aperture &lt;Апертура&gt;</translation>
+        <translation>Диафрагма</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1101"/>
@@ -17352,19 +17349,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="297"/>
         <location filename="TemplateData.cpp" line="2509"/>
         <source>Software</source>
-        <translation>Software &lt;Программное обеспечение&gt;</translation>
+        <translation>Программное обеспечение</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="303"/>
         <location filename="TemplateData.cpp" line="2498"/>
         <source>Artist</source>
-        <translation>Artist &lt;Автор&gt;</translation>
+        <translation>Автор</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="309"/>
         <location filename="TemplateData.cpp" line="2522"/>
         <source>User comment</source>
-        <translation>UserComment &lt;Комментарий пользователя&gt;</translation>
+        <translation>Комментарий пользователя</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="315"/>
@@ -17395,7 +17392,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="356"/>
         <location filename="TemplateData.cpp" line="2530"/>
         <source>F-Number</source>
-        <translation>Размер диафрагмы</translation>
+        <translation>Светосила</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2499"/>
@@ -17435,17 +17432,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2506"/>
         <source>YCbCr-Coefficients</source>
-        <translation>Коэффициенты YCbCr</translation>
+        <translation>YCbCr-коэффициенты</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2507"/>
         <source>YCbCr-Positioning</source>
-        <translation>Положение YCbCr</translation>
+        <translation>YCbCr-положение</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2508"/>
         <source>Ref. black/white</source>
-        <translation></translation>
+        <translation>Эталонный черный/белый</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2511"/>
@@ -17455,27 +17452,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2513"/>
         <source>XP Title</source>
-        <translation></translation>
+        <translation>XP Заголовок</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2514"/>
         <source>XP Comment</source>
-        <translation></translation>
+        <translation>XP Комментарий</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2515"/>
         <source>XP Author</source>
-        <translation></translation>
+        <translation>XP Автор</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2516"/>
         <source>XP Keywords</source>
-        <translation></translation>
+        <translation>XP Ключевые слова</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2517"/>
         <source>XP Subject</source>
-        <translation></translation>
+        <translation>XP Тема</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2523"/>
@@ -17490,102 +17487,102 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time [s]</source>
-        <translation>Выдержка [c]</translation>
+        <translation>Выдержка (c)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
         <source>Exposure Program</source>
-        <translation></translation>
+        <translation>Программа экспозиции</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2527"/>
         <source>Exposure Mode</source>
-        <translation></translation>
+        <translation>Режим экспозиции</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2528"/>
         <source>Exposure Bias</source>
-        <translation></translation>
+        <translation>Компенсация экспозиции</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2529"/>
         <source>Exposure Index</source>
-        <translation></translation>
+        <translation>Индекс экспозиции</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length [mm]</source>
-        <translation></translation>
+        <translation>Фокусное расстояние (мм)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
         <source>35mm Focal length</source>
-        <translation></translation>
+        <translation>Фокусное расстояние 35мм</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2533"/>
         <source>ISO Value</source>
-        <translation></translation>
+        <translation>Скорость ISO</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2534"/>
         <source>Shutter speed [s]</source>
-        <translation>Скорость затвора [c]</translation>
+        <translation>Скорость затвора (c)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
         <source>Max. aperture</source>
-        <translation></translation>
+        <translation>Диафрагма макс.</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2537"/>
         <source>Colour space</source>
-        <translation></translation>
+        <translation>Цветовое пространство</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2538"/>
         <source>Digital zoom</source>
-        <translation></translation>
+        <translation>Цифровое увеличение</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2539"/>
         <source>Subject Distance (m)</source>
-        <translation></translation>
+        <translation>Расстояние до объекта (м)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2540"/>
         <source>Subj. Dist. Range</source>
-        <translation></translation>
+        <translation>Дистанция съемки</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2541"/>
         <source>Subject location</source>
-        <translation></translation>
+        <translation>Положение объекта</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2542"/>
         <source>Flash</source>
-        <translation></translation>
+        <translation>Вспышка</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2543"/>
         <source>Flash energy</source>
-        <translation></translation>
+        <translation>Вспышка, энергия</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2544"/>
         <source>Metering mode</source>
-        <translation></translation>
+        <translation>Фокусировка</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2545"/>
         <source>Gain control</source>
-        <translation></translation>
+        <translation>Регулировка усиления</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2546"/>
         <source>Light source</source>
-        <translation></translation>
+        <translation>Источник света</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2547"/>
@@ -17615,47 +17612,47 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2552"/>
         <source>Spectral sensitivity</source>
-        <translation></translation>
+        <translation>Спектральная чувствительность</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2553"/>
         <source>Spatial freq. response</source>
-        <translation></translation>
+        <translation>Пространственно-частотная хар-ка</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2554"/>
         <source>Sensing method</source>
-        <translation></translation>
+        <translation>Метод измерения</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2555"/>
         <source>File source</source>
-        <translation></translation>
+        <translation>Файл источник</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2556"/>
         <source>CFA pattern</source>
-        <translation></translation>
+        <translation>Модель CFA</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2557"/>
         <source>Custom rendered</source>
-        <translation></translation>
+        <translation>Режим рендеринга</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2558"/>
         <source>Device settings desc.</source>
-        <translation></translation>
+        <translation>Настройка устройства</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2559"/>
         <source>Scene type</source>
-        <translation></translation>
+        <translation>Тип сцены</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2560"/>
         <source>Scene capture type</source>
-        <translation></translation>
+        <translation>Тип снимка</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
@@ -17680,32 +17677,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2565"/>
         <source>Components configuration</source>
-        <translation></translation>
+        <translation>Конфигурация компонентов</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2566"/>
         <source>Photometric interpretation</source>
-        <translation></translation>
+        <translation>Фотометрическая интерпретация</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2567"/>
         <source>Focal Plane X-Resolution</source>
-        <translation></translation>
+        <translation>Разрешение фокальной плоскости по Х</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2568"/>
         <source>Focal Plane Y-Resolution</source>
-        <translation></translation>
+        <translation>Разрешение фокальной плоскости по Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2569"/>
         <source>Focal Plane Res. Unit</source>
-        <translation></translation>
+        <translation>Единица измерения фокальной плоскости</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2570"/>
         <source>EXIF Version</source>
-        <translation>ExifVersion &lt;Версия EXIF&gt;</translation>
+        <translation>Версия EXIF</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2571"/>
@@ -18400,12 +18397,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="627"/>
         <source>Rating</source>
-        <translation>Оценка</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="631"/>
         <source>Colour Label</source>
-        <translation>Выбранный цвет</translation>
+        <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="641"/>
@@ -19110,12 +19107,12 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="60"/>
         <source>Rating</source>
-        <translation>Оценка</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="61"/>
         <source>Colour label</source>
-        <translation>Выбранный цвет</translation>
+        <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="63"/>
@@ -19222,14 +19219,14 @@ Do you want to continue?</source>
         <location filename="CompareWidget.cpp" line="454"/>
         <location filename="BrowserMenu.h" line="484"/>
         <source>Unrated</source>
-        <translation>Без оценки</translation>
+        <translation>Без рейтинга</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
         <location filename="BrowserMenu.h" line="122"/>
         <location filename="BrowserMenu.h" line="502"/>
         <source>Uncolored</source>
-        <translation>Без цвета</translation>
+        <translation>Без цветовой метки</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="486"/>
@@ -19247,25 +19244,25 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="488"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation>Удовлетворительно (перейти к следующему файлу)</translation>
+        <translation>Средне (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="489"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Плохо (перейти к следующему файлу)</translation>
+        <translation>Неплохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="490"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation>Очень плохо (перейти к следующему файлу)</translation>
+        <translation>Плохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="491"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation>Без оценки (перейти к следующему файлу)</translation>
+        <translation>Без рейтинга (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="623"/>
@@ -19358,7 +19355,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Filelist toolbar</source>
-        <translation>Малая панель инструментов</translation>
+        <translation>Панель инструментов списка файлов</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
@@ -19383,7 +19380,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Preview as tab</source>
-        <translation>Область предпросмотра как вкладка</translation>
+        <translation>Предпросмотр как вкладка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="570"/>
@@ -19393,7 +19390,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="574"/>
         <source>Info panels</source>
-        <translation>Область информации</translation>
+        <translation>Панель информации</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="577"/>
@@ -19524,7 +19521,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="645"/>
         <source>Draw as tiled</source>
         <translatorcomment>Имеется ввиду замостить изображением в окне предпросмотра</translatorcomment>
-        <translation>Предпросмотр в виде плитки</translation>
+        <translation>Отображать в виде плитки</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="658"/>
@@ -19764,13 +19761,13 @@ Do you want to continue?</source>
         <location filename="CompareWidget.cpp" line="448"/>
         <location filename="BrowserMenu.h" line="482"/>
         <source>Fair</source>
-        <translation>Плохо</translation>
+        <translation>Неплохо</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="451"/>
         <location filename="BrowserMenu.h" line="483"/>
         <source>Poor</source>
-        <translation>Очень плохо</translation>
+        <translation>Плохо</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="275"/>
@@ -20013,7 +20010,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="519"/>
         <source>Rating &amp;&amp; Colour label</source>
-        <translation>Оценка и выбранный цвет</translation>
+        <translation>Рейтинг и Цветовая метка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
@@ -20075,7 +20072,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
         <source>Show title of panels</source>
-        <translation>Показывать названия областей</translation>
+        <translation>Показывать названия панелей</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="543"/>
@@ -20130,7 +20127,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="565"/>
         <source>Show source panels</source>
-        <translation>Показать исходные панели</translation>
+        <translation>Отображать панели навигации</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="567"/>
@@ -20511,7 +20508,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2673"/>
         <source>#: Numeric enumerator</source>
-        <translation>#: Числовой номер</translation>
+        <translation># - счётчик</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -20646,22 +20643,22 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="335"/>
         <source>Fair</source>
-        <translation>Неплохое</translation>
+        <translation>Неплохо</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="336"/>
         <source>Poor</source>
-        <translation>Очень плохо</translation>
+        <translation>Плохо</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="337"/>
         <source>Unrated</source>
-        <translation>Без оценки</translation>
+        <translation>Без рейтинга</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="355"/>
         <source>Uncolored</source>
-        <translation>Без цвета</translation>
+        <translation>Без цветовой метки</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="318"/>
@@ -20671,7 +20668,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Same as image</source>
-        <translation>Такая как у изображения</translation>
+        <translation>Как у изображения</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="199"/>
@@ -20918,7 +20915,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="312"/>
         <source>Set selection ratio</source>
-        <translation>Задать выделенной области пропорцию</translation>
+        <translation>Задать выделенной области соотношение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
@@ -20968,22 +20965,22 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next photo)</source>
-        <translation>Удовлетворительно (перейти к следующему файлу)</translation>
+        <translation>Средне (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next photo)</source>
-        <translation>Плохо (перейти к следующему файлу)</translation>
+        <translation>Неплохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next photo)</source>
-        <translation>Очень плохо (перейти к следующему файлу)</translation>
+        <translation>Плохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next photo)</source>
-        <translation>Без оценки (перейти к следующему файлу)</translation>
+        <translation>Без рейтинга (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
@@ -20993,7 +20990,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Rating &amp;&amp; Colour label</source>
-        <translation>Оценка и выбранный цвет</translation>
+        <translation>Рейтинг и Цветовая метка</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
@@ -21153,7 +21150,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="402"/>
         <source>Icon snapshot on/off</source>
-        <translation>Снимок иконки вкл/выкл</translation>
+        <translation>Отображать в виде снимка (только для иконок)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="407"/>
