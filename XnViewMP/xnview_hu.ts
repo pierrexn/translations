@@ -8973,7 +8973,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgIptc.ui" line="870"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished">Ne töltse be a mező értékeit</translation>
+        <translation>Ne töltse be a mező értékeit</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="836"/>
