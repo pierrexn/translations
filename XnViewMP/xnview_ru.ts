@@ -1877,7 +1877,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="MyDB.cpp" line="730"/>
         <source>Travel</source>
-        <translation>Путешествие</translation>
+        <translation>Путешествия</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="731"/>
