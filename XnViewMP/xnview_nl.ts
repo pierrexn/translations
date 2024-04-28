@@ -20190,7 +20190,7 @@ Wilt u doorgaan?</translation>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Transparantie-index gebruiken (&lt;=8bits)</translation>
+        <translation>Transparantie-index gebruiken (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21025,7 +21025,7 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Transparantie-index gebruiken (&lt;=8bits)</translation>
+        <translation>Transparantie-index gebruiken (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
