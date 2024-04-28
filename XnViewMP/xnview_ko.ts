@@ -1559,8 +1559,9 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="198"/>
-        <source>Logarithmic lut</source>
-        <translation>로그 LUT (LookUp Table)</translation>
+        <source>Logarithmic LUT</source>
+        <oldsource>Logarithmic lut</oldsource>
+        <translation type="unfinished">로그 LUT (LookUp Table)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -4324,24 +4325,27 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="491"/>
-        <source>Top left</source>
-        <translation>상단 왼쪽</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">상단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
-        <source>Top center</source>
-        <translation>상단 중앙</translation>
+        <source>Top-Center</source>
+        <oldsource>Top center</oldsource>
+        <translation type="unfinished">상단 중앙</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
-        <source>Top right</source>
-        <translation>상단 오른쪽</translation>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">상단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
-        <source>Center left</source>
-        <oldsource>Left</oldsource>
-        <translation>왼쪽</translation>
+        <source>Center-Left</source>
+        <oldsource>Center left</oldsource>
+        <translation type="unfinished">왼쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4350,25 +4354,27 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="516"/>
-        <source>Center right</source>
-        <oldsource>Right</oldsource>
-        <translation>오른쪽</translation>
+        <source>Center-Right</source>
+        <oldsource>Center right</oldsource>
+        <translation type="unfinished">오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
-        <source>Bottom left</source>
-        <translation>하단 왼쪽</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">하단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
-        <source>Bottom center</source>
-        <oldsource>Bottom</oldsource>
-        <translation>하단 가운데</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom center</oldsource>
+        <translation type="unfinished">하단 가운데</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
-        <source>Bottom right</source>
-        <translation>하단 오른쪽</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">하단 오른쪽</translation>
     </message>
 </context>
 <context>
@@ -6319,23 +6325,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="109"/>
-        <source>Top left</source>
-        <translation>상단 왼쪽</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertText.ui" line="114"/>
-        <source>Top</source>
-        <translation>상단</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">상단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
-        <source>Top right</source>
-        <translation>상단 오른쪽</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertText.ui" line="124"/>
-        <source>Left</source>
-        <translation>왼쪽</translation>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">상단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6343,24 +6341,22 @@ Do you want to overwrite it?</source>
         <translation>가운데</translation>
     </message>
     <message>
-        <location filename="DlgConvertText.ui" line="134"/>
-        <source>Right</source>
-        <translation>오른쪽</translation>
-    </message>
-    <message>
         <location filename="DlgConvertText.ui" line="139"/>
-        <source>Bottom left</source>
-        <translation>하단 왼쪽</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">하단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
-        <source>Bottom</source>
-        <translation>하단</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
+        <translation type="unfinished">하단</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
-        <source>Bottom right</source>
-        <translation>하단 오른쪽</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">하단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6419,6 +6415,21 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertText.ui" line="58"/>
         <source>points</source>
         <translation>포인트</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertText.ui" line="114"/>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertText.ui" line="124"/>
+        <source>Center-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertText.ui" line="134"/>
+        <source>Center-Right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6568,6 +6579,21 @@ Do you want to overwrite it?</source>
         <translation>반복</translation>
     </message>
     <message>
+        <location filename="DlgConvertWatermark.ui" line="189"/>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertWatermark.ui" line="199"/>
+        <source>Center-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertWatermark.ui" line="209"/>
+        <source>Center-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
         <source>Offset</source>
         <translation>오프셋</translation>
@@ -6640,23 +6666,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="184"/>
-        <source>Top left</source>
-        <translation>상단 왼쪽</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertWatermark.ui" line="189"/>
-        <source>Top</source>
-        <translation>상단</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">상단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
-        <source>Top right</source>
-        <translation>상단 오른쪽</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertWatermark.ui" line="199"/>
-        <source>Left</source>
-        <translation>왼쪽</translation>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">상단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6664,24 +6682,22 @@ Do you want to overwrite it?</source>
         <translation>가운데</translation>
     </message>
     <message>
-        <location filename="DlgConvertWatermark.ui" line="209"/>
-        <source>Right</source>
-        <translation>오른쪽</translation>
-    </message>
-    <message>
         <location filename="DlgConvertWatermark.ui" line="214"/>
-        <source>Bottom left</source>
-        <translation>하단 왼쪽</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">하단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
-        <source>Bottom</source>
-        <translation>하단</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
+        <translation type="unfinished">하단</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
-        <source>Bottom right</source>
-        <translation>하단 오른쪽</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">하단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7141,8 +7157,9 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="573"/>
-        <source>Open last opened tab</source>
-        <translation>마지막으로 열었던 탭 열기</translation>
+        <source>Remember opened tab</source>
+        <oldsource>Open last opened tab</oldsource>
+        <translation type="unfinished">마지막으로 열었던 탭 열기</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7664,8 +7681,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="41"/>
-        <source>Export Rating &amp;&amp; Label</source>
-        <translation>등급과 레이블 내보내기</translation>
+        <source>Export Rating &amp;&amp; Color labels</source>
+        <oldsource>Export Rating &amp;&amp; Label</oldsource>
+        <translation type="unfinished">등급과 레이블 내보내기</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -7951,12 +7969,12 @@ Please make sure that files are not read-only!</oldsource>
         <translation>클립보드에 복사</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="80"/>
+        <location filename="DlgFileListing.cpp" line="81"/>
         <source>Save as...</source>
         <translation>새로 저장...</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="120"/>
+        <location filename="DlgFileListing.cpp" line="121"/>
         <source>Export file listing</source>
         <translation>파일 목록 내보내기</translation>
     </message>
@@ -8924,9 +8942,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="730"/>
-        <source>Open last opened tab</source>
-        <oldsource>Open lastest opened tab</oldsource>
-        <translation>마지막으로 열었던 탭 열기</translation>
+        <source>Remember opened tab</source>
+        <oldsource>Open last opened tab</oldsource>
+        <translation type="unfinished">마지막으로 열었던 탭 열기</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
@@ -10273,8 +10291,8 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools&gt;Plugins</source>
-        <translation>도구&gt;플러그인 에서 설치하십시오</translation>
+        <source>Please install it by using Tools � Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10711,23 +10729,30 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="604"/>
-        <source>Top left</source>
-        <translation>상단 왼쪽</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">상단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="609"/>
-        <source>Top</source>
-        <translation>상단</translation>
-    </message>
-    <message>
-        <location filename="DlgResize.ui" line="614"/>
-        <source>Top right</source>
-        <translation>상단 오른쪽</translation>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="619"/>
-        <source>Left</source>
-        <translation>왼쪽</translation>
+        <source>Center-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgResize.ui" line="629"/>
+        <source>Center-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgResize.ui" line="614"/>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">상단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="624"/>
@@ -10735,24 +10760,22 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
         <translation>가운데</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="629"/>
-        <source>Right</source>
-        <translation>오른쪽</translation>
-    </message>
-    <message>
         <location filename="DlgResize.ui" line="634"/>
-        <source>Bottom left</source>
-        <translation>하단 왼쪽</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">하단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="639"/>
-        <source>Bottom</source>
-        <translation>하단</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
+        <translation type="unfinished">하단</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="644"/>
-        <source>Bottom right</source>
-        <translation>하단 오른쪽</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">하단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="666"/>
@@ -11449,8 +11472,9 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="883"/>
-        <source>Can&apos;t import XnView category database</source>
-        <translation>XnView 카테고리 데이터베이스를 가져올 수 없습니다</translation>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <oldsource>Can&apos;t import XnView category database</oldsource>
+        <translation type="unfinished">XnView 카테고리 데이터베이스를 가져올 수 없습니다</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11618,8 +11642,9 @@ Do you want to remove entries assigned to a category?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="548"/>
-        <source>Import XnView category db...</source>
-        <translation>XnView 카테고리 DB 가져오기...</translation>
+        <source>Import XnView Classic category db...</source>
+        <oldsource>Import XnView category db...</oldsource>
+        <translation type="unfinished">XnView 카테고리 DB 가져오기...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -11907,8 +11932,9 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
-        <source>Used by Filter&gt;Custom</source>
-        <translation>&quot;필터&gt;사용자 정의&quot;순으로 사용되었습니다</translation>
+        <source>Used by Filter › Custom</source>
+        <oldsource>Used by Filter&gt;Custom</oldsource>
+        <translation type="unfinished">&quot;필터&gt;사용자 정의&quot;순으로 사용되었습니다</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13088,15 +13114,6 @@ Do you want to reassign?</source>
         <translation>명령 이름</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1142"/>
-        <location filename="DlgSettingsInterface.ui" line="1761"/>
-        <location filename="DlgSettingsInterface.ui" line="1795"/>
-        <location filename="DlgSettingsInterface.ui" line="1829"/>
-        <location filename="DlgSettingsInterface.ui" line="1856"/>
-        <source>Vertical scroll</source>
-        <translation>위/아래 스크롤</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1183"/>
         <source>SPACE</source>
         <translation>스페이스</translation>
@@ -13153,29 +13170,33 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
         <location filename="DlgSettingsInterface.ui" line="1987"/>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
-        <source>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</source>
-        <translation>브라우저 &lt;&gt; 전체 화면 | 뷰어 &lt;&gt; 전체 화면</translation>
+        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
+        <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
+        <translation type="unfinished">브라우저 &lt;&gt; 전체 화면 | 뷰어 &lt;&gt; 전체 화면</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
         <location filename="DlgSettingsInterface.ui" line="1992"/>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
-        <source>Browser &lt;&gt; Viewer</source>
-        <translation>브라우저 &lt;&gt; 뷰어</translation>
+        <source>Browser ↔ Viewer</source>
+        <oldsource>Browser &lt;&gt; Viewer</oldsource>
+        <translation type="unfinished">브라우저 &lt;&gt; 뷰어</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
         <location filename="DlgSettingsInterface.ui" line="1997"/>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
-        <source>Browser &gt; Fullscreen &gt; Viewer</source>
-        <translation>브라우저 &gt; 전체 화면 &gt; 뷰어</translation>
+        <source>Browser → Fullscreen → Viewer</source>
+        <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
+        <translation type="unfinished">브라우저 &gt; 전체 화면 &gt; 뷰어</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
         <location filename="DlgSettingsInterface.ui" line="2002"/>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
-        <source>Browser &gt; Viewer &gt; Fullscreen</source>
-        <translation>브라우저 &gt; 뷰어 &gt; 전체 화면</translation>
+        <source>Browser → Viewer → Fullscreen</source>
+        <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
+        <translation type="unfinished">브라우저 &gt; 뷰어 &gt; 전체 화면</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
@@ -13206,9 +13227,9 @@ Do you want to reassign?</source>
     <name>DlgSettingsKeywordsClass</name>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
-        <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
-        <oldsource>Import XMP subject or IPTC keyword to DB Categories</oldsource>
-        <translation>XMP 제목 또는 IPTC 키워드를 카탈로그의 카테고리에 불러오기</translation>
+        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
+        <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
+        <translation type="unfinished">XMP 제목 또는 IPTC 키워드를 카탈로그의 카테고리에 불러오기</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13250,8 +13271,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
-        <source>Write categories into images as hierachical keywords</source>
-        <translation>카테고리를 이미지의 계층 구조 키워드로 쓰기</translation>
+        <source>Write categories into images as hierarchical keywords</source>
+        <oldsource>Write categories into images as hierachical keywords</oldsource>
+        <translation type="unfinished">카테고리를 이미지의 계층 구조 키워드로 쓰기</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
@@ -13815,9 +13837,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="921"/>
-        <source>Display multi-resolution icons as snapshots</source>
-        <oldsource>Icon files display as &apos;Snapshot&apos;</oldsource>
-        <translation>여러 해상도의 아이콘을 스냅샷으로 표시하기</translation>
+        <source>Draw multi-resolution icons as Snapshots</source>
+        <oldsource>Display multi-resolution icons as snapshots</oldsource>
+        <translation type="unfinished">여러 해상도의 아이콘을 스냅샷으로 표시하기</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="91"/>
@@ -13867,8 +13889,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="501"/>
-        <source>Show Rating &amp;&amp; Label color</source>
-        <translation>등급과 레이블 색 표시</translation>
+        <source>Show Rating &amp;&amp; Color labels</source>
+        <oldsource>Show Rating &amp;&amp; Label color</oldsource>
+        <translation type="unfinished">등급과 레이블 색 표시</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="579"/>
@@ -13917,8 +13940,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="671"/>
-        <source>(From Settings&gt;File list&gt;Custom Filter)</source>
-        <translation>(설정&gt;파일 목록&gt;커스텀 필터)</translation>
+        <source>(From Settings › File list › Custom Filter)</source>
+        <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
+        <translation type="unfinished">(설정&gt;파일 목록&gt;커스텀 필터)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
@@ -16500,8 +16524,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="112"/>
-        <source>Sub-sampling</source>
-        <translation>서브 샘플링</translation>
+        <source>Subsampling</source>
+        <oldsource>Sub-sampling</oldsource>
+        <translation type="unfinished">서브 샘플링</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -18683,6 +18708,11 @@ Do you want to continue?</source>
         <translation>중국어 번체</translation>
     </message>
     <message>
+        <location filename="LanguageComboBox.cpp" line="57"/>
+        <source>Hebrew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
         <source>&lt;Autodetect&gt;</source>
         <translation>&lt;자동 감지&gt;</translation>
@@ -19202,7 +19232,6 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="618"/>
-        <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
         <translation>이메일로 보내기...</translation>
     </message>
@@ -19720,8 +19749,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="519"/>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>등급 &amp;&amp; 색 레이블</translation>
+        <source>Rating &amp;&amp; Color label</source>
+        <oldsource>Rating &amp;&amp; Colour label</oldsource>
+        <translation type="unfinished">등급 &amp;&amp; 색 레이블</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
@@ -20114,8 +20144,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="639"/>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>투명 인덱스 사용 (&lt;=8비트)</translation>
+        <source>Use transparent index (≤ 8bits)</source>
+        <oldsource>Use transparent index (&lt;=8bits)</oldsource>
+        <translation type="unfinished">투명 인덱스 사용 (&lt;=8비트)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -20313,8 +20344,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2673"/>
-        <source>#: Numeric enumerator</source>
-        <translation>#: 일련번호 매기기</translation>
+        <source># - Numeric enumerator</source>
+        <oldsource>#: Numeric enumerator</oldsource>
+        <translation type="unfinished">#: 일련번호 매기기</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -20862,8 +20894,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>등급 &amp;&amp; 색 레이블</translation>
+        <source>Rating &amp;&amp; Color label</source>
+        <oldsource>Rating &amp;&amp; Colour label</oldsource>
+        <translation type="unfinished">등급 &amp;&amp; 색 레이블</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="370"/>
@@ -20897,8 +20930,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="402"/>
-        <source>Icon snapshot on/off</source>
-        <translation>아이콘 스냅샷 on/off</translation>
+        <source>Draw as Snapshot (icons only)</source>
+        <oldsource>Icon snapshot on/off</oldsource>
+        <translation type="unfinished">아이콘 스냅샷 on/off</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="403"/>
@@ -21007,8 +21041,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="430"/>
-        <source>Logarithmic lut</source>
-        <translation>로그 LUT</translation>
+        <source>Logarithmic LUT</source>
+        <oldsource>Logarithmic lut</oldsource>
+        <translation type="unfinished">로그 LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -21194,6 +21229,11 @@ Do you want to continue?</source>
         <translation>슬라이드쇼...</translation>
     </message>
     <message>
+        <location filename="ViewMenu.h" line="484"/>
+        <source>Send by email...</source>
+        <translation type="unfinished">이메일로 보내기...</translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="486"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>우로 90° 회전 (무손실)</translation>
@@ -21326,8 +21366,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="391"/>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>투명 지수 사용 (&lt;=8비트)</translation>
+        <source>Use transparent index (≤ 8bits)</source>
+        <oldsource>Use transparent index (&lt;=8bits)</oldsource>
+        <translation type="unfinished">투명 지수 사용 (&lt;=8비트)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
@@ -21793,11 +21834,6 @@ Do you want to continue?</source>
 <context>
     <name>MyProgressDialog</name>
     <message>
-        <location filename="MyProgressDialog.ui" line="20"/>
-        <source>TextLabel</source>
-        <translation>텍스트라벨</translation>
-    </message>
-    <message>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
         <translation>중단</translation>
@@ -21863,9 +21899,10 @@ Do you want to continue?</source>
     <message>
         <location filename="MyThumbView.cpp" line="484"/>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</source>
-        <oldsource>The thumbnail size in catalog is smaller than the chosen size, you can change it in Options&gt;Catalog</oldsource>
-        <translation>카탈로그의 썸네일 크기는 선택된 크기보다 더 작습니다.
+You can change it in Settings � Catalog.</source>
+        <oldsource>Size of cached thumbnails is smaller than choosen one. 
+You can change it in Settings&gt;Catalog.</oldsource>
+        <translation type="unfinished">카탈로그의 썸네일 크기는 선택된 크기보다 더 작습니다.
 옵션&gt;카탈로그에서 바꿀 수 있습니다.</translation>
     </message>
     <message>

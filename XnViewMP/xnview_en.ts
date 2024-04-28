@@ -1150,7 +1150,8 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="198"/>
-        <source>Logarithmic lut</source>
+        <source>Logarithmic LUT</source>
+        <oldsource>Logarithmic lut</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4312,22 +4313,26 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="491"/>
-        <source>Top left</source>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
-        <source>Top center</source>
+        <source>Top-Center</source>
+        <oldsource>Top center</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
-        <source>Top right</source>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
-        <source>Center left</source>
+        <source>Center-Left</source>
+        <oldsource>Center left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4337,22 +4342,26 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="516"/>
-        <source>Center right</source>
+        <source>Center-Right</source>
+        <oldsource>Center right</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
-        <source>Bottom left</source>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
-        <source>Bottom center</source>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom center</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
-        <source>Bottom right</source>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6308,22 +6317,14 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="109"/>
-        <source>Top left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgConvertText.ui" line="114"/>
-        <source>Top</source>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
-        <source>Top right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgConvertText.ui" line="124"/>
-        <source>Left</source>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6332,23 +6333,36 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgConvertText.ui" line="114"/>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertText.ui" line="124"/>
+        <source>Center-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgConvertText.ui" line="134"/>
-        <source>Right</source>
+        <source>Center-Right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="139"/>
-        <source>Bottom left</source>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
-        <source>Bottom</source>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
-        <source>Bottom right</source>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6602,22 +6616,29 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="184"/>
-        <source>Top left</source>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
-        <source>Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgConvertWatermark.ui" line="194"/>
-        <source>Top right</source>
+        <source>Top-Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
-        <source>Left</source>
+        <source>Center-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertWatermark.ui" line="209"/>
+        <source>Center-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertWatermark.ui" line="194"/>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6626,23 +6647,21 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvertWatermark.ui" line="209"/>
-        <source>Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgConvertWatermark.ui" line="214"/>
-        <source>Bottom left</source>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
-        <source>Bottom</source>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
-        <source>Bottom right</source>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7116,7 +7135,8 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="573"/>
-        <source>Open last opened tab</source>
+        <source>Remember opened tab</source>
+        <oldsource>Open last opened tab</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7630,7 +7650,8 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="41"/>
-        <source>Export Rating &amp;&amp; Label</source>
+        <source>Export Rating &amp;&amp; Color labels</source>
+        <oldsource>Export Rating &amp;&amp; Label</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7916,12 +7937,12 @@ Please make sure that files are not read-only!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="80"/>
+        <location filename="DlgFileListing.cpp" line="81"/>
         <source>Save as...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="120"/>
+        <location filename="DlgFileListing.cpp" line="121"/>
         <source>Export file listing</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9019,7 +9040,8 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="730"/>
-        <source>Open last opened tab</source>
+        <source>Remember opened tab</source>
+        <oldsource>Open last opened tab</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10216,7 +10238,7 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools&gt;Plugins</source>
+        <source>Please install it by using Tools � Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10652,22 +10674,29 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <location filename="DlgResize.ui" line="604"/>
-        <source>Top left</source>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="609"/>
-        <source>Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgResize.ui" line="614"/>
-        <source>Top right</source>
+        <source>Top-Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="619"/>
-        <source>Left</source>
+        <source>Center-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgResize.ui" line="629"/>
+        <source>Center-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgResize.ui" line="614"/>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10676,23 +10705,21 @@ Thank you for purchasing %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="629"/>
-        <source>Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgResize.ui" line="634"/>
-        <source>Bottom left</source>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="639"/>
-        <source>Bottom</source>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="644"/>
-        <source>Bottom right</source>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11382,7 +11409,8 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="883"/>
-        <source>Can&apos;t import XnView category database</source>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <oldsource>Can&apos;t import XnView category database</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11569,7 +11597,8 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="548"/>
-        <source>Import XnView category db...</source>
+        <source>Import XnView Classic category db...</source>
+        <oldsource>Import XnView category db...</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11816,7 +11845,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
-        <source>Used by Filter&gt;Custom</source>
+        <source>Used by Filter › Custom</source>
+        <oldsource>Used by Filter&gt;Custom</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13026,16 +13056,6 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1142"/>
-        <location filename="DlgSettingsInterface.ui" line="1761"/>
-        <location filename="DlgSettingsInterface.ui" line="1795"/>
-        <location filename="DlgSettingsInterface.ui" line="1829"/>
-        <location filename="DlgSettingsInterface.ui" line="1856"/>
-        <source>Vertical scroll</source>
-        <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1800"/>
         <location filename="DlgSettingsInterface.ui" line="1834"/>
@@ -13057,28 +13077,32 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
         <location filename="DlgSettingsInterface.ui" line="1987"/>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
-        <source>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</source>
+        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
+        <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
         <location filename="DlgSettingsInterface.ui" line="1992"/>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
-        <source>Browser &lt;&gt; Viewer</source>
+        <source>Browser ↔ Viewer</source>
+        <oldsource>Browser &lt;&gt; Viewer</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
         <location filename="DlgSettingsInterface.ui" line="1997"/>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
-        <source>Browser &gt; Fullscreen &gt; Viewer</source>
+        <source>Browser → Fullscreen → Viewer</source>
+        <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
         <location filename="DlgSettingsInterface.ui" line="2002"/>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
-        <source>Browser &gt; Viewer &gt; Fullscreen</source>
+        <source>Browser → Viewer → Fullscreen</source>
+        <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13114,7 +13138,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
-        <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
+        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
+        <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13144,7 +13169,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
-        <source>Write categories into images as hierachical keywords</source>
+        <source>Write categories into images as hierarchical keywords</source>
+        <oldsource>Write categories into images as hierachical keywords</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13660,7 +13686,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="501"/>
-        <source>Show Rating &amp;&amp; Label color</source>
+        <source>Show Rating &amp;&amp; Color labels</source>
+        <oldsource>Show Rating &amp;&amp; Label color</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13741,7 +13768,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="671"/>
-        <source>(From Settings&gt;File list&gt;Custom Filter)</source>
+        <source>(From Settings › File list › Custom Filter)</source>
+        <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13866,7 +13894,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="921"/>
-        <source>Display multi-resolution icons as snapshots</source>
+        <source>Draw multi-resolution icons as Snapshots</source>
+        <oldsource>Display multi-resolution icons as snapshots</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16317,7 +16346,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="112"/>
-        <source>Sub-sampling</source>
+        <source>Subsampling</source>
+        <oldsource>Sub-sampling</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18541,6 +18571,11 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="LanguageComboBox.cpp" line="57"/>
+        <source>Hebrew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
         <source>&lt;Autodetect&gt;</source>
         <translation type="unfinished"></translation>
@@ -19310,7 +19345,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="519"/>
-        <source>Rating &amp;&amp; Colour label</source>
+        <source>Rating &amp;&amp; Color label</source>
+        <oldsource>Rating &amp;&amp; Colour label</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19686,7 +19722,6 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="618"/>
-        <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19777,7 +19812,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="639"/>
-        <source>Use transparent index (&lt;=8bits)</source>
+        <source>Use transparent index (≤ 8bits)</source>
+        <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20158,7 +20194,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2673"/>
-        <source>#: Numeric enumerator</source>
+        <source># - Numeric enumerator</source>
+        <oldsource>#: Numeric enumerator</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20662,7 +20699,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
-        <source>Rating &amp;&amp; Colour label</source>
+        <source>Rating &amp;&amp; Color label</source>
+        <oldsource>Rating &amp;&amp; Colour label</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20767,7 +20805,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="391"/>
-        <source>Use transparent index (&lt;=8bits)</source>
+        <source>Use transparent index (≤ 8bits)</source>
+        <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20822,7 +20861,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="402"/>
-        <source>Icon snapshot on/off</source>
+        <source>Draw as Snapshot (icons only)</source>
+        <oldsource>Icon snapshot on/off</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20927,7 +20967,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ViewMenu.h" line="430"/>
-        <source>Logarithmic lut</source>
+        <source>Logarithmic LUT</source>
+        <oldsource>Logarithmic lut</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21164,6 +21205,11 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="483"/>
         <source>Slideshow...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="484"/>
+        <source>Send by email...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21631,11 +21677,6 @@ Do you want to continue?</source>
 <context>
     <name>MyProgressDialog</name>
     <message>
-        <location filename="MyProgressDialog.ui" line="20"/>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
@@ -21700,7 +21741,9 @@ Do you want to continue?</source>
     <message>
         <location filename="MyThumbView.cpp" line="484"/>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</source>
+You can change it in Settings � Catalog.</source>
+        <oldsource>Size of cached thumbnails is smaller than choosen one. 
+You can change it in Settings&gt;Catalog.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -1568,8 +1568,9 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="198"/>
-        <source>Logarithmic lut</source>
-        <translation>Logarytmiczna lut</translation>
+        <source>Logarithmic LUT</source>
+        <oldsource>Logarithmic lut</oldsource>
+        <translation type="unfinished">Logarytmiczna lut</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -4362,24 +4363,27 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="491"/>
-        <source>Top left</source>
-        <translation>U góry po lewej</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">U góry po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
-        <source>Top center</source>
-        <translation>U góry po środku</translation>
+        <source>Top-Center</source>
+        <oldsource>Top center</oldsource>
+        <translation type="unfinished">U góry po środku</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
-        <source>Top right</source>
-        <translation>U góry po prawej</translation>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">U góry po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
-        <source>Center left</source>
-        <oldsource>Left</oldsource>
-        <translation>Na środku po lewej</translation>
+        <source>Center-Left</source>
+        <oldsource>Center left</oldsource>
+        <translation type="unfinished">Na środku po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4388,25 +4392,27 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="516"/>
-        <source>Center right</source>
-        <oldsource>Right</oldsource>
-        <translation>Na środku po prawej</translation>
+        <source>Center-Right</source>
+        <oldsource>Center right</oldsource>
+        <translation type="unfinished">Na środku po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
-        <source>Bottom left</source>
-        <translation>U dołu po lewej</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">U dołu po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
-        <source>Bottom center</source>
-        <oldsource>Bottom</oldsource>
-        <translation>U dołu po środku</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom center</oldsource>
+        <translation type="unfinished">U dołu po środku</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
-        <source>Bottom right</source>
-        <translation>U dołu po prawej</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">U dołu po prawej</translation>
     </message>
 </context>
 <context>
@@ -6362,23 +6368,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="109"/>
-        <source>Top left</source>
-        <translation>U góry po lewej</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertText.ui" line="114"/>
-        <source>Top</source>
-        <translation>U góry</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">U góry po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
-        <source>Top right</source>
-        <translation>U góry po prawej</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertText.ui" line="124"/>
-        <source>Left</source>
-        <translation>Po lewej</translation>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">U góry po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6386,24 +6384,22 @@ Do you want to overwrite it?</source>
         <translation>Na środku</translation>
     </message>
     <message>
-        <location filename="DlgConvertText.ui" line="134"/>
-        <source>Right</source>
-        <translation>Po prawej</translation>
-    </message>
-    <message>
         <location filename="DlgConvertText.ui" line="139"/>
-        <source>Bottom left</source>
-        <translation>U dołu po lewej</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">U dołu po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
-        <source>Bottom</source>
-        <translation>U dołu</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
+        <translation type="unfinished">U dołu</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
-        <source>Bottom right</source>
-        <translation>U dołu po prawej</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">U dołu po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6462,6 +6458,21 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertText.ui" line="58"/>
         <source>points</source>
         <translation>punkty</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertText.ui" line="114"/>
+        <source>Top-Center</source>
+        <translation type="unfinished">U góry po środku</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertText.ui" line="124"/>
+        <source>Center-Left</source>
+        <translation type="unfinished">Na środku po lewej</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertText.ui" line="134"/>
+        <source>Center-Right</source>
+        <translation type="unfinished">Na środku po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6611,6 +6622,21 @@ Do you want to overwrite it?</source>
         <translation>Mozaika</translation>
     </message>
     <message>
+        <location filename="DlgConvertWatermark.ui" line="189"/>
+        <source>Top-Center</source>
+        <translation type="unfinished">U góry po środku</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertWatermark.ui" line="199"/>
+        <source>Center-Left</source>
+        <translation type="unfinished">Na środku po lewej</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertWatermark.ui" line="209"/>
+        <source>Center-Right</source>
+        <translation type="unfinished">Na środku po prawej</translation>
+    </message>
+    <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
         <source>Offset</source>
         <translation>Przesunięcie</translation>
@@ -6683,23 +6709,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="184"/>
-        <source>Top left</source>
-        <translation>Do góry po lewej</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertWatermark.ui" line="189"/>
-        <source>Top</source>
-        <translation>Do góry</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">Do góry po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
-        <source>Top right</source>
-        <translation>Do góry po prawej</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertWatermark.ui" line="199"/>
-        <source>Left</source>
-        <translation>Do lewej</translation>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">Do góry po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6707,24 +6725,22 @@ Do you want to overwrite it?</source>
         <translation>Do środka</translation>
     </message>
     <message>
-        <location filename="DlgConvertWatermark.ui" line="209"/>
-        <source>Right</source>
-        <translation>Do prawej</translation>
-    </message>
-    <message>
         <location filename="DlgConvertWatermark.ui" line="214"/>
-        <source>Bottom left</source>
-        <translation>Do dołu po lewej</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">Do dołu po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
-        <source>Bottom</source>
-        <translation>Do dołu</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
+        <translation type="unfinished">Do dołu</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
-        <source>Bottom right</source>
-        <translation>Do dołu po prawej</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">Do dołu po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7193,8 +7209,9 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="573"/>
-        <source>Open last opened tab</source>
-        <translation>Otwieraj ostatnio używaną kartę</translation>
+        <source>Remember opened tab</source>
+        <oldsource>Open last opened tab</oldsource>
+        <translation type="unfinished">Otwieraj ostatnio używaną kartę</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7716,8 +7733,9 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="41"/>
-        <source>Export Rating &amp;&amp; Label</source>
-        <translation>Eksportuj oceny i etykiety</translation>
+        <source>Export Rating &amp;&amp; Color labels</source>
+        <oldsource>Export Rating &amp;&amp; Label</oldsource>
+        <translation type="unfinished">Eksportuj oceny i etykiety</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -8003,12 +8021,12 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
         <translation>Kopiuj do schowka</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="80"/>
+        <location filename="DlgFileListing.cpp" line="81"/>
         <source>Save as...</source>
         <translation>Zapisz jako...</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="120"/>
+        <location filename="DlgFileListing.cpp" line="121"/>
         <source>Export file listing</source>
         <translation>Eksportuj listę plików</translation>
     </message>
@@ -8995,9 +9013,9 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="730"/>
-        <source>Open last opened tab</source>
-        <oldsource>Open lastest opened tab</oldsource>
-        <translation>Otwieraj ostatnio używaną kartę</translation>
+        <source>Remember opened tab</source>
+        <oldsource>Open last opened tab</oldsource>
+        <translation type="unfinished">Otwieraj ostatnio używaną kartę</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
@@ -10333,8 +10351,8 @@ Dziękujmy za zakup %1.</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools&gt;Plugins</source>
-        <translation>Proszę zainstalować wtyczkę przy użyciu Narzędzia&gt;Wtyczki</translation>
+        <source>Please install it by using Tools � Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10773,23 +10791,30 @@ Dziękujmy za zakup %1.</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="604"/>
-        <source>Top left</source>
-        <translation>U góry po lewej</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">U góry po lewej</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="609"/>
-        <source>Top</source>
-        <translation>U góry</translation>
-    </message>
-    <message>
-        <location filename="DlgResize.ui" line="614"/>
-        <source>Top right</source>
-        <translation>U góry po prawej</translation>
+        <source>Top-Center</source>
+        <translation type="unfinished">U góry po środku</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="619"/>
-        <source>Left</source>
-        <translation>Po lewej</translation>
+        <source>Center-Left</source>
+        <translation type="unfinished">Na środku po lewej</translation>
+    </message>
+    <message>
+        <location filename="DlgResize.ui" line="629"/>
+        <source>Center-Right</source>
+        <translation type="unfinished">Na środku po prawej</translation>
+    </message>
+    <message>
+        <location filename="DlgResize.ui" line="614"/>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">U góry po prawej</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="624"/>
@@ -10797,24 +10822,22 @@ Dziękujmy za zakup %1.</translation>
         <translation>Na środku</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="629"/>
-        <source>Right</source>
-        <translation>Po prawej</translation>
-    </message>
-    <message>
         <location filename="DlgResize.ui" line="634"/>
-        <source>Bottom left</source>
-        <translation>U dołu po lewej</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">U dołu po lewej</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="639"/>
-        <source>Bottom</source>
-        <translation>U dołu</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
+        <translation type="unfinished">U dołu</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="644"/>
-        <source>Bottom right</source>
-        <translation>U dołu po prawej</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">U dołu po prawej</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="666"/>
@@ -11510,8 +11533,9 @@ Czy wyszukać wpisy dotknięte taką możliwością?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="883"/>
-        <source>Can&apos;t import XnView category database</source>
-        <translation>Nie można zaimportować bazy danych kategorii XnView</translation>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <oldsource>Can&apos;t import XnView category database</oldsource>
+        <translation type="unfinished">Nie można zaimportować bazy danych kategorii XnView</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11680,8 +11704,9 @@ Czy na pewno usunąć wpisy przypisane do kategorii?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="548"/>
-        <source>Import XnView category db...</source>
-        <translation>Importuj bazę danych kategorii XnView...</translation>
+        <source>Import XnView Classic category db...</source>
+        <oldsource>Import XnView category db...</oldsource>
+        <translation type="unfinished">Importuj bazę danych kategorii XnView...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -11969,8 +11994,9 @@ miniatury</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
-        <source>Used by Filter&gt;Custom</source>
-        <translation>Aby użyć filtru użytkownika, wybierz Filtr -&gt; Użytkownika</translation>
+        <source>Used by Filter › Custom</source>
+        <oldsource>Used by Filter&gt;Custom</oldsource>
+        <translation type="unfinished">Aby użyć filtru użytkownika, wybierz Filtr -&gt; Użytkownika</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13013,15 +13039,6 @@ Czy zmienić przypisanie?</translation>
         <translation>Nazwa polecenia</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1142"/>
-        <location filename="DlgSettingsInterface.ui" line="1761"/>
-        <location filename="DlgSettingsInterface.ui" line="1795"/>
-        <location filename="DlgSettingsInterface.ui" line="1829"/>
-        <location filename="DlgSettingsInterface.ui" line="1856"/>
-        <source>Vertical scroll</source>
-        <translation>Przewijaj w pionie</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsInterface.ui" line="1183"/>
         <source>SPACE</source>
         <translation>Spacja</translation>
@@ -13116,29 +13133,33 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
         <location filename="DlgSettingsInterface.ui" line="1987"/>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
-        <source>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</source>
-        <translation>Przeglądarka &lt;&gt; Pełny ekran | Wyświetlarka &lt;&gt; Pełny ekran</translation>
+        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
+        <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
+        <translation type="unfinished">Przeglądarka &lt;&gt; Pełny ekran | Wyświetlarka &lt;&gt; Pełny ekran</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
         <location filename="DlgSettingsInterface.ui" line="1992"/>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
-        <source>Browser &lt;&gt; Viewer</source>
-        <translation>Przeglądarka &lt;&gt; Wyświetlarka</translation>
+        <source>Browser ↔ Viewer</source>
+        <oldsource>Browser &lt;&gt; Viewer</oldsource>
+        <translation type="unfinished">Przeglądarka &lt;&gt; Wyświetlarka</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
         <location filename="DlgSettingsInterface.ui" line="1997"/>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
-        <source>Browser &gt; Fullscreen &gt; Viewer</source>
-        <translation>Przeglądarka &gt; Pełny ekran &gt; Wyświetlarka</translation>
+        <source>Browser → Fullscreen → Viewer</source>
+        <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
+        <translation type="unfinished">Przeglądarka &gt; Pełny ekran &gt; Wyświetlarka</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
         <location filename="DlgSettingsInterface.ui" line="2002"/>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
-        <source>Browser &gt; Viewer &gt; Fullscreen</source>
-        <translation>Przeglądarka &gt; Wyświetlarka &gt; Pełny ekran</translation>
+        <source>Browser → Viewer → Fullscreen</source>
+        <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
+        <translation type="unfinished">Przeglądarka &gt; Wyświetlarka &gt; Pełny ekran</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -13273,9 +13294,9 @@ Czy zmienić przypisanie?</translation>
     <name>DlgSettingsKeywordsClass</name>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
-        <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
-        <oldsource>Import XMP subject or IPTC keyword to DB Categories</oldsource>
-        <translation>Importuj temat XMP albo słowa kluczowe IPTC do kategorii katalogu</translation>
+        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
+        <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
+        <translation type="unfinished">Importuj temat XMP albo słowa kluczowe IPTC do kategorii katalogu</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13307,8 +13328,9 @@ Czy zmienić przypisanie?</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
-        <source>Write categories into images as hierachical keywords</source>
-        <translation>Zapisz kategorie do obrazów jako zhierarchizowane słowa kluczowe</translation>
+        <source>Write categories into images as hierarchical keywords</source>
+        <oldsource>Write categories into images as hierachical keywords</oldsource>
+        <translation type="unfinished">Zapisz kategorie do obrazów jako zhierarchizowane słowa kluczowe</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
@@ -13830,9 +13852,9 @@ Czy zmienić przypisanie?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="921"/>
-        <source>Display multi-resolution icons as snapshots</source>
-        <oldsource>Icon files display as &apos;Snapshot&apos;</oldsource>
-        <translation>Wyświetlaj sąsiadująco wszystkie rozmiary dla plików ikon</translation>
+        <source>Draw multi-resolution icons as Snapshots</source>
+        <oldsource>Display multi-resolution icons as snapshots</oldsource>
+        <translation type="unfinished">Wyświetlaj sąsiadująco wszystkie rozmiary dla plików ikon</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="700"/>
@@ -13902,8 +13924,9 @@ Czy zmienić przypisanie?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="671"/>
-        <source>(From Settings&gt;File list&gt;Custom Filter)</source>
-        <translation>(z ustawień &gt; Lista plików &gt; Filtr użytkownika)</translation>
+        <source>(From Settings › File list › Custom Filter)</source>
+        <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
+        <translation type="unfinished">(z ustawień &gt; Lista plików &gt; Filtr użytkownika)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="708"/>
@@ -13937,8 +13960,9 @@ Czy zmienić przypisanie?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="501"/>
-        <source>Show Rating &amp;&amp; Label color</source>
-        <translation>Pokazuj ocenę i kolorową etykietę</translation>
+        <source>Show Rating &amp;&amp; Color labels</source>
+        <oldsource>Show Rating &amp;&amp; Label color</oldsource>
+        <translation type="unfinished">Pokazuj ocenę i kolorową etykietę</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
@@ -16431,8 +16455,9 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="112"/>
-        <source>Sub-sampling</source>
-        <translation>Podpróbkowanie</translation>
+        <source>Subsampling</source>
+        <oldsource>Sub-sampling</oldsource>
+        <translation type="unfinished">Podpróbkowanie</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -18758,6 +18783,11 @@ Czy chcesz kontynuować?</translation>
         <translation>chiński tradycyjny</translation>
     </message>
     <message>
+        <location filename="LanguageComboBox.cpp" line="57"/>
+        <source>Hebrew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
         <source>&lt;Autodetect&gt;</source>
         <translation>&lt;autowykrywanie&gt;</translation>
@@ -19834,8 +19864,9 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="519"/>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>Ocena i etykiety</translation>
+        <source>Rating &amp;&amp; Color label</source>
+        <oldsource>Rating &amp;&amp; Colour label</oldsource>
+        <translation type="unfinished">Ocena i etykiety</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
@@ -20084,7 +20115,6 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="618"/>
-        <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
         <translation>Wyślij przez e-mail</translation>
     </message>
@@ -20171,8 +20201,9 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="639"/>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>Użyj indeksu przezroczystości (&lt;= 8bitów)</translation>
+        <source>Use transparent index (≤ 8bits)</source>
+        <oldsource>Use transparent index (&lt;=8bits)</oldsource>
+        <translation type="unfinished">Użyj indeksu przezroczystości (&lt;= 8bitów)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -20412,8 +20443,9 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2673"/>
-        <source>#: Numeric enumerator</source>
-        <translation># - licznik</translation>
+        <source># - Numeric enumerator</source>
+        <oldsource>#: Numeric enumerator</oldsource>
+        <translation type="unfinished"># - licznik</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -20903,8 +20935,9 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>Ocena i etykiety</translation>
+        <source>Rating &amp;&amp; Color label</source>
+        <oldsource>Rating &amp;&amp; Colour label</oldsource>
+        <translation type="unfinished">Ocena i etykiety</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
@@ -21008,8 +21041,9 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="391"/>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>Użyj indeksu przezroczystości (&lt;= 8bitów)</translation>
+        <source>Use transparent index (≤ 8bits)</source>
+        <oldsource>Use transparent index (&lt;=8bits)</oldsource>
+        <translation type="unfinished">Użyj indeksu przezroczystości (&lt;= 8bitów)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
@@ -21063,8 +21097,9 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="402"/>
-        <source>Icon snapshot on/off</source>
-        <translation>Podgląd ikon włączony/wyłączony</translation>
+        <source>Draw as Snapshot (icons only)</source>
+        <oldsource>Icon snapshot on/off</oldsource>
+        <translation type="unfinished">Podgląd ikon włączony/wyłączony</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="403"/>
@@ -21176,8 +21211,9 @@ Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="430"/>
-        <source>Logarithmic lut</source>
-        <translation>Logarytmiczna tablica lut</translation>
+        <source>Logarithmic LUT</source>
+        <oldsource>Logarithmic lut</oldsource>
+        <translation type="unfinished">Logarytmiczna tablica lut</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -21376,6 +21412,11 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="483"/>
         <source>Slideshow...</source>
         <translation>Pokaz slajdów</translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="484"/>
+        <source>Send by email...</source>
+        <translation type="unfinished">Wyślij przez e-mail</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="486"/>
@@ -21902,11 +21943,6 @@ Czy chcesz kontynuować?</translation>
 <context>
     <name>MyProgressDialog</name>
     <message>
-        <location filename="MyProgressDialog.ui" line="20"/>
-        <source>TextLabel</source>
-        <translation>TextLabel</translation>
-    </message>
-    <message>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
@@ -21972,9 +22008,10 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MyThumbView.cpp" line="484"/>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</source>
-        <oldsource>The thumbnail size in catalog is smaller than the chosen size, you can change it in Options&gt;Catalog</oldsource>
-        <translation>Wielkość miniatur w katalogu jest mniejsza niż wybrany rozmiar.
+You can change it in Settings � Catalog.</source>
+        <oldsource>Size of cached thumbnails is smaller than choosen one. 
+You can change it in Settings&gt;Catalog.</oldsource>
+        <translation type="unfinished">Wielkość miniatur w katalogu jest mniejsza niż wybrany rozmiar.
 Można go zmienić w Ustawienia&gt;Katalog</translation>
     </message>
     <message>

@@ -1264,10 +1264,6 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Վերամիահյուսում</translation>
     </message>
     <message>
-        <source>Logarithmic lut</source>
-        <translation>Logarithmic lut</translation>
-    </message>
-    <message>
         <source>White limit %</source>
         <translation>Սպիտակի սահմանափակում %</translation>
     </message>
@@ -1398,6 +1394,10 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>Remove alpha channel</source>
         <translation>Ջնջել ալֆա ալիքը</translation>
+    </message>
+    <message>
+        <source>Logarithmic LUT</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3413,44 +3413,44 @@ Do you want to overwrite it?</source>
         <translation>Դիրքը</translation>
     </message>
     <message>
-        <source>Top left</source>
-        <translation>Վերև ձախ</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Վերև աջ</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Կենտրոն</translation>
     </message>
     <message>
-        <source>Bottom left</source>
-        <translation>Ներքև ձախ</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation>Ներքև աջ</translation>
-    </message>
-    <message>
-        <source>Top center</source>
-        <translation>Վերև կենտրոն</translation>
-    </message>
-    <message>
-        <source>Center left</source>
-        <translation>Կենտրոն ձախ</translation>
-    </message>
-    <message>
-        <source>Center right</source>
-        <translation>Կենտրոն աջ</translation>
-    </message>
-    <message>
-        <source>Bottom center</source>
-        <translation>Ներքև կենտրոն</translation>
-    </message>
-    <message>
         <source>Color of pixel at</source>
         <translation>Գույն փիքսելի համար՝</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished">Վերև ձախ</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Վերև աջ</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Կենտրոն ձախ</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Կենտրոն աջ</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Ներքև ձախ</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Ներքև կենտրոնից</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Ներքև աջ</translation>
     </message>
 </context>
 <context>
@@ -4954,10 +4954,6 @@ Do you want to overwrite it?</source>
         <translation>U</translation>
     </message>
     <message>
-        <source>Top</source>
-        <translation>Վերևից</translation>
-    </message>
-    <message>
         <source>Blur</source>
         <translation>Լղոզում</translation>
     </message>
@@ -4968,10 +4964,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Font</source>
         <translation>Տառատեսակ</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Ձախ</translation>
     </message>
     <message>
         <source>Size</source>
@@ -4986,20 +4978,12 @@ Do you want to overwrite it?</source>
         <translation>Գույն</translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation>Աջ</translation>
-    </message>
-    <message>
         <source>Style</source>
         <translation>Ոճը</translation>
     </message>
     <message>
         <source>Unit:</source>
         <translation>Միավորը.</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Վերև աջ</translation>
     </message>
     <message>
         <source>Aspect</source>
@@ -5010,24 +4994,12 @@ Do you want to overwrite it?</source>
         <translation>Շրջանակը</translation>
     </message>
     <message>
-        <source>Bottom</source>
-        <translation>Ներքևից</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Կենտրոն</translation>
     </message>
     <message>
         <source>Shadow</source>
         <translation>Ստվեր</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Ներքև ձախ</translation>
-    </message>
-    <message>
-        <source>Top left</source>
-        <translation>Վերև ձախ</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -5062,10 +5034,6 @@ Do you want to overwrite it?</source>
         <translation>Ակտիվացված</translation>
     </message>
     <message>
-        <source>Bottom right</source>
-        <translation>Ներքև աջ</translation>
-    </message>
-    <message>
         <source>Offset X</source>
         <translation>Շեղում X</translation>
     </message>
@@ -5096,6 +5064,38 @@ Do you want to overwrite it?</source>
     <message>
         <source>Use anti-aliasing</source>
         <translation>Օգտ. հականշանակում</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished">Վերև ձախ</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Վերև աջ</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Կենտրոն ձախ</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Կենտրոն աջ</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Ներքև ձախ</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Ներքև կենտրոնից</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Ներքև աջ</translation>
     </message>
 </context>
 <context>
@@ -5147,40 +5147,12 @@ Do you want to overwrite it?</source>
         <translation>Y</translation>
     </message>
     <message>
-        <source>Top</source>
-        <translation>Վերևում</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Ձախ</translation>
-    </message>
-    <message>
         <source>Size</source>
         <translation>Չափ</translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation>Աջ</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Վերև աջ</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Ներքևում</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Կենտրոն</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Ներքև ձախ</translation>
-    </message>
-    <message>
-        <source>Top left</source>
-        <translation>Վերև ձախ</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -5193,10 +5165,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Don&apos;t use alpha channel</source>
         <translation>Չօգտագործել ալֆա ալիքներ</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation>Ներքև աջ</translation>
     </message>
     <message>
         <source>Image filename</source>
@@ -5249,6 +5217,38 @@ Do you want to overwrite it?</source>
     <message>
         <source>Tiling</source>
         <translation>Սալիկապատում</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished">Վերև ձախ</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Վերև աջ</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Կենտրոն ձախ</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Կենտրոն աջ</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Ներքև ձախ</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Ներքև կենտրոնից</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Ներքև աջ</translation>
     </message>
 </context>
 <context>
@@ -5587,10 +5587,6 @@ Do you want to overwrite it?</source>
         <translation>Պահպանել սկզբնական նշանակությունը, եթե նոր արժեքը դատարկ է</translation>
     </message>
     <message>
-        <source>Open last opened tab</source>
-        <translation>Բացել վերջին բացված ներդիրը</translation>
-    </message>
-    <message>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Left</translation>
     </message>
@@ -5721,6 +5717,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Գործադրել</translation>
+    </message>
+    <message>
+        <source>Remember opened tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6018,16 +6018,16 @@ Please make sure that files are not read-only!</source>
         <translation>Ֆայլի անուն</translation>
     </message>
     <message>
-        <source>Export Rating &amp;&amp; Label</source>
-        <translation>Գնահատականի և պիտակի արտահանում</translation>
-    </message>
-    <message>
         <source>Export all files from catalog</source>
         <translation>Արտահանել բոլոր ֆայլերը գրացուցակից</translation>
     </message>
     <message>
         <source>Categories file</source>
         <translation>Գրացուցակների ֆայլ</translation>
+    </message>
+    <message>
+        <source>Export Rating &amp;&amp; Color labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7148,16 +7148,16 @@ Please make sure that files are not read-only!</source>
         <translation>Օգտ. ծնող հիմնաբառեր</translation>
     </message>
     <message>
-        <source>Open last opened tab</source>
-        <translation>Բացել վերջին բացված ներդիրը</translation>
-    </message>
-    <message>
         <source>Edit IPTC-IIM</source>
         <translation>Խմբագրել IPTC-IIM-ը</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
         <translation>Չբեռնել դաշտի արժեքները</translation>
+    </message>
+    <message>
+        <source>Remember opened tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8090,8 +8090,8 @@ Thank you for purchasing %1.</source>
         <translation>Հեռացնել խորքը</translation>
     </message>
     <message>
-        <source>Please install it by using Tools&gt;Plugins</source>
-        <translation>Տեղադրեք այն՝ օգտագործելով Գործիքներ»Բաղադրիչներ</translation>
+        <source>Please install it by using Tools � Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8312,14 +8312,6 @@ Thank you for purchasing %1.</source>
         <translation>մմ</translation>
     </message>
     <message>
-        <source>Top</source>
-        <translation>Վերևում</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Ձախ</translation>
-    </message>
-    <message>
         <source>dots</source>
         <translation>փիքսել</translation>
     </message>
@@ -8328,16 +8320,8 @@ Thank you for purchasing %1.</source>
         <translation>Bilinear</translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation>Աջ</translation>
-    </message>
-    <message>
         <source>Width</source>
         <translation>Լայնություն</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Վերև աջ</translation>
     </message>
     <message>
         <source>Keep ratio</source>
@@ -8350,10 +8334,6 @@ Thank you for purchasing %1.</source>
     <message>
         <source>pixels/inch</source>
         <translation>փիքսել/դյույմ</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Ներքևից</translation>
     </message>
     <message>
         <source>Center</source>
@@ -8374,14 +8354,6 @@ Thank you for purchasing %1.</source>
     <message>
         <source>Resize</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Ներքև ձախ</translation>
-    </message>
-    <message>
-        <source>Top left</source>
-        <translation>Վերև ձախ</translation>
     </message>
     <message>
         <source>Resolution</source>
@@ -8406,10 +8378,6 @@ Thank you for purchasing %1.</source>
     <message>
         <source>Presets:</source>
         <translation>Նախակայումներ.</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation>Ներքև աջ</translation>
     </message>
     <message>
         <source>Resample</source>
@@ -8474,6 +8442,38 @@ Thank you for purchasing %1.</source>
     <message>
         <source>Load &apos;Default values&apos;</source>
         <translation>Բեռնել &apos;Սկզբնադիր արժեքները&apos;</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished">Վերև ձախ</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Վերև աջ</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Կենտրոն ձախ</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Կենտրոն աջ</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Ներքև ձախ</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Ներքև կենտրոնից</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Ներքև աջ</translation>
     </message>
 </context>
 <context>
@@ -8975,10 +8975,6 @@ Thank you for purchasing %1.</source>
         <translation>Նոր ուղի.</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView category database</source>
-        <translation>Հնարավոր չէ ներմուծել XnView-ի անվանակարգի շտեմարանը</translation>
-    </message>
-    <message>
         <source>Problem during database import!</source>
         <translation>Խնդիր՝ շտեմարանը ներմուծելիս</translation>
     </message>
@@ -9059,6 +9055,10 @@ Do you want to check for affected entries first?</source>
 Գույնի պիտակներին, հիմնաբառերը կարող են ջնջվել: 
 
 Ցանկանո՞ւմ եք նախ ստուգել ազդված գրառումները:</translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9156,10 +9156,6 @@ Do you want to check for affected entries first?</source>
         <translation>Գործիքներ</translation>
     </message>
     <message>
-        <source>Import XnView category db...</source>
-        <translation>Ներմուծել XnView-ի անվանակարգի DB-ը...</translation>
-    </message>
-    <message>
         <source>Enable Catalog</source>
         <translation>Միացնել Գրացուցակը</translation>
     </message>
@@ -9182,6 +9178,10 @@ Do you want to check for affected entries first?</source>
     <message>
         <source>Maintenance...</source>
         <translation>Սպասարկում...</translation>
+    </message>
+    <message>
+        <source>Import XnView Classic category db...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9289,10 +9289,6 @@ Thumbnail</source>
     <message>
         <source>Show hidden files &amp;&amp; folders</source>
         <translation>Ցուցադրել թաքնված ֆայլերը և պանակները</translation>
-    </message>
-    <message>
-        <source>Used by Filter&gt;Custom</source>
-        <translation>Օգտ. ըստ Զտիչի&gt;Ընտրվածի</translation>
     </message>
     <message>
         <source>Mixed file/folder sorting</source>
@@ -9409,6 +9405,10 @@ Thumbnail</source>
     <message>
         <source>Display file size in bytes</source>
         <translation>Ցուցադրել ֆայլի չափը բայթերով</translation>
+    </message>
+    <message>
+        <source>Used by Filter › Custom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10158,22 +10158,6 @@ Do you want to reassign?</source>
         <translation>Փոխանջատելու կերպ</translation>
     </message>
     <message>
-        <source>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</source>
-        <translation>Զննիչ &lt;&gt; Լիաէկրան | Դիտակ &lt;&gt; Լիաէկրան</translation>
-    </message>
-    <message>
-        <source>Browser &lt;&gt; Viewer</source>
-        <translation>Զննիչ &lt;&gt; Դիտակ</translation>
-    </message>
-    <message>
-        <source>Browser &gt; Fullscreen &gt; Viewer</source>
-        <translation>Զննիչ &gt; Լիաէկրան &gt;Դիտակ</translation>
-    </message>
-    <message>
-        <source>Browser &gt; Viewer &gt; Fullscreen</source>
-        <translation>Զննիչ &gt; Դիտակ &gt; Լիաէկրան</translation>
-    </message>
-    <message>
         <source>Automatic</source>
         <translation>Ինքնաշխատ</translation>
     </message>
@@ -10297,6 +10281,22 @@ Do you want to reassign?</source>
         <source>Wheel</source>
         <translation>Անիվ</translation>
     </message>
+    <message>
+        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser ↔ Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser → Fullscreen → Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser → Viewer → Fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10380,10 +10380,6 @@ Do you want to reassign?</source>
         <translation>Արդացնել, երբ ֆայլը փոխվել է դրսում (ամսաթիվ/չափ)</translation>
     </message>
     <message>
-        <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
-        <translation>Ներմուծել XMP առարկա կամ IPTC հիմնաբառ գրացուցակի անվանակարգերում</translation>
-    </message>
-    <message>
         <source>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</source>
         <translation>Արտահանել գրացուցակի անվանակարգը XMP առարկա և IPTC հիմնաբառ</translation>
     </message>
@@ -10406,10 +10402,6 @@ Do you want to reassign?</source>
     <message>
         <source>Read hierarchical keywords from images as categories</source>
         <translation>Կարդալ աստիճանական հիմնաբառերը պատկերներից որպես նվանակարգեր</translation>
-    </message>
-    <message>
-        <source>Write categories into images as hierachical keywords</source>
-        <translation>Գրել անվանակարգերը պատկերներում որպես աստիճանական հիմնաբառեր</translation>
     </message>
     <message>
         <source>Automatically apply parent category (Ctrl+click for single category)</source>
@@ -10438,6 +10430,14 @@ Do you want to reassign?</source>
     <message>
         <source>Supported formats</source>
         <translation>Աջակցվող ձևաչափեր</translation>
+    </message>
+    <message>
+        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write categories into images as hierarchical keywords</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10836,10 +10836,6 @@ Do you want to reassign?</source>
         <translation>Վերակայել X/Y (չհարմարեցնել)</translation>
     </message>
     <message>
-        <source>Display multi-resolution icons as snapshots</source>
-        <translation>Ցուցադրել բազմակի տարլուծման պատկերակները որպես լուսանկարներ</translation>
-    </message>
-    <message>
         <source>Save changes to file</source>
         <translation>Պահել փոփոխությունները ֆայլում</translation>
     </message>
@@ -10862,10 +10858,6 @@ Do you want to reassign?</source>
     <message>
         <source>Rule of thirds</source>
         <translation>Երրորդի կանոնը</translation>
-    </message>
-    <message>
-        <source>Show Rating &amp;&amp; Label color</source>
-        <translation>Ցուցադրել գնահատականը և պիտակի գույները</translation>
     </message>
     <message>
         <source>Loop video playing</source>
@@ -10980,10 +10972,6 @@ Do you want to reassign?</source>
         <translation>Ներառել</translation>
     </message>
     <message>
-        <source>(From Settings&gt;File list&gt;Custom Filter)</source>
-        <translation>(Կարգավորումներ»Ֆայլի ցանկ»Հարմարեցված զտիչ)</translation>
-    </message>
-    <message>
         <source>Support HTML tags</source>
         <translation>HTML պիտակների աջակցում</translation>
     </message>
@@ -11030,6 +11018,18 @@ Do you want to reassign?</source>
     <message>
         <source>Golden ratio (Phi)</source>
         <translation>Golden ratio (Phi)</translation>
+    </message>
+    <message>
+        <source>Show Rating &amp;&amp; Color labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(From Settings › File list › Custom Filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw multi-resolution icons as Snapshots</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12979,10 +12979,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Մուտք գործելու ֆայլի ամսաթիվ</translation>
     </message>
     <message>
-        <source>Sub-sampling</source>
-        <translation>Ենթանմուշառում</translation>
-    </message>
-    <message>
         <source>Type</source>
         <translation>Տեսակը</translation>
     </message>
@@ -13121,6 +13117,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Ratio Decimal</source>
         <translation>Հարաբերակցություն տասնորդական</translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14428,6 +14428,10 @@ Do you want to continue?</source>
         <source>Chinese Traditional</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Hebrew</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainMenu</name>
@@ -14599,10 +14603,6 @@ Do you want to continue?</source>
         <translation>Մաքրել տվյալները</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>Գնահատականը և գույնի պիտակ</translation>
-    </message>
-    <message>
         <source>Colour label</source>
         <translation>Գույնի պիտակ</translation>
     </message>
@@ -14673,10 +14673,6 @@ Do you want to continue?</source>
     <message>
         <source>Clean...</source>
         <translation>Մաքրել...</translation>
-    </message>
-    <message>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>Օգտագործել թափանցիկության ինդեքս (&lt;=8 բիթ)</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -15558,6 +15554,14 @@ Do you want to continue?</source>
         <source>Open with test</source>
         <translation>Բացեք թեստով</translation>
     </message>
+    <message>
+        <source>Rating &amp;&amp; Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparent index (≤ 8bits)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15689,10 +15693,6 @@ Do you want to continue?</source>
         <translation>A - Շաբաթվա օրը (Օր.՝ հինգշաբթի)</translation>
     </message>
     <message>
-        <source>#: Numeric enumerator</source>
-        <translation>#. Հերթական համարը</translation>
-    </message>
-    <message>
         <source>IPTC - Origin</source>
         <translation>IPTC - Բնօրինակ</translation>
     </message>
@@ -15739,6 +15739,10 @@ Do you want to continue?</source>
     <message>
         <source>Extra</source>
         <translation>Լրացուցիչ</translation>
+    </message>
+    <message>
+        <source># - Numeric enumerator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15848,10 +15852,6 @@ Do you want to continue?</source>
         <translation>US Letter (1.29)</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>Գնահատականը և գույնի պիտակ</translation>
-    </message>
-    <message>
         <source>Automatic levels</source>
         <translation>Automatic levels</translation>
     </message>
@@ -15886,10 +15886,6 @@ Do you want to continue?</source>
     <message>
         <source>&amp;Image</source>
         <translation>&amp;Պատկեր</translation>
-    </message>
-    <message>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>Օգտագործել թափանցիկության ինդեքս (&lt;=8 բիթ)</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -15938,10 +15934,6 @@ Do you want to continue?</source>
     <message>
         <source>No fit</source>
         <translation>Չհարմարեցնել</translation>
-    </message>
-    <message>
-        <source>Icon snapshot on/off</source>
-        <translation>Մանրապատկերումը միաց./անջ.</translation>
     </message>
     <message>
         <source>Batch convert...</source>
@@ -16214,10 +16206,6 @@ Do you want to continue?</source>
     <message>
         <source>JPEG lossless transformations</source>
         <translation>Փոխել JPEG-ի՝ առանց կորստի</translation>
-    </message>
-    <message>
-        <source>Logarithmic lut</source>
-        <translation>Logarithmic lut</translation>
     </message>
     <message>
         <source>Posterize...</source>
@@ -16587,6 +16575,26 @@ Do you want to continue?</source>
         <source>Edit palette...</source>
         <translation>Խմբագրել նախշը...</translation>
     </message>
+    <message>
+        <source>Rating &amp;&amp; Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparent index (≤ 8bits)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw as Snapshot (icons only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logarithmic LUT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send by email...</source>
+        <translation type="unfinished">Ուղարկել էլ. փոստով...</translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -16855,10 +16863,6 @@ Do you want to continue?</source>
 <context>
     <name>MyProgressDialog</name>
     <message>
-        <source>TextLabel</source>
-        <translation>TextLabel</translation>
-    </message>
-    <message>
         <source>Abort</source>
         <translation>Ընդհատել</translation>
     </message>
@@ -16953,9 +16957,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</source>
-        <translation>Շտեմված մանրապատկերների չափը ավելի փոքր է, քան ընտրվածինը: 
-Դուք կարող եք փոխել այն Կարգավորումներ»Գրացուցակում:</translation>
+You can change it in Settings � Catalog.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

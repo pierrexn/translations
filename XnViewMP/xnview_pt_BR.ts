@@ -984,10 +984,6 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Negativo</translation>
     </message>
     <message>
-        <source>Logarithmic lut</source>
-        <translation>L.U.T. logarítmico</translation>
-    </message>
-    <message>
         <source>Normalize</source>
         <translation>Normalizar</translation>
     </message>
@@ -1389,6 +1385,10 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Remove alpha channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logarithmic LUT</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3403,44 +3403,44 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Posição</translation>
     </message>
     <message>
-        <source>Top left</source>
-        <translation type="unfinished">Margem superior esquerda</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation type="unfinished">Margem superior direita</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation type="unfinished">Centro</translation>
     </message>
     <message>
-        <source>Bottom left</source>
-        <translation type="unfinished">Borda inferior esquerda</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation type="unfinished">Borda inferior direita</translation>
-    </message>
-    <message>
-        <source>Top center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color of pixel at</source>
         <translation type="unfinished">Cor do pixel a</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Centro da borda superior</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro da borda esquerda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro da borda direita</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Centro da borda inferior</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4931,40 +4931,8 @@ Do you want to overwrite it?</source>
         <translation>Posição</translation>
     </message>
     <message>
-        <source>Top left</source>
-        <translation>Margem superior esquerda</translation>
-    </message>
-    <message>
-        <source>Top</source>
-        <translation>Superior</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Margem superior direita</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Esquerda</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Centro</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Direita</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Borda inferior esquerda</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Inferior</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation>Borda inferior direita</translation>
     </message>
     <message>
         <source>X margin</source>
@@ -5086,6 +5054,38 @@ Do you want to overwrite it?</source>
         <source>Use anti-aliasing</source>
         <translation type="unfinished">Usar antisserrilhado</translation>
     </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Centro da borda superior</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro da borda esquerda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro da borda direita</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Centro da borda inferior</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertUnsharp</name>
@@ -5144,40 +5144,8 @@ Do you want to overwrite it?</source>
         <translation>Posição</translation>
     </message>
     <message>
-        <source>Top left</source>
-        <translation>Margem superior esquerda</translation>
-    </message>
-    <message>
-        <source>Top</source>
-        <translation>Superior</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Margem superior direita</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Esquerda</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Centro</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Direita</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Borda inferior esquerda</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Inferior</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation>Borda inferior direita</translation>
     </message>
     <message>
         <source>X</source>
@@ -5237,6 +5205,38 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Tiling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Centro da borda superior</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro da borda esquerda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro da borda direita</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Centro da borda inferior</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5576,10 +5576,6 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Manter os valores originais quando os novos valores estiverem vazios</translation>
     </message>
     <message>
-        <source>Open last opened tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ctrl+Left</source>
         <translation type="unfinished">Ctrl+Left</translation>
     </message>
@@ -5708,6 +5704,10 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>&amp;Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember opened tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6006,16 +6006,16 @@ Please make sure that files are not read-only!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Rating &amp;&amp; Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export all files from catalog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Categories file</source>
         <translation type="unfinished">Arquivo de categorias</translation>
+    </message>
+    <message>
+        <source>Export Rating &amp;&amp; Color labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7135,15 +7135,15 @@ Please make sure that files are not read-only!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open last opened tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edit IPTC-IIM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember opened tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8075,7 +8075,7 @@ Thank you for purchasing %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please install it by using Tools&gt;Plugins</source>
+        <source>Please install it by using Tools � Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8369,40 +8369,8 @@ Thank you for purchasing %1.</source>
         <translation>Posição</translation>
     </message>
     <message>
-        <source>Top left</source>
-        <translation>Margem superior esquerda</translation>
-    </message>
-    <message>
-        <source>Top</source>
-        <translation>Superior</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Margem superior direita</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Esquerda</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Centro</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Direita</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Borda inferior esquerda</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Borda inferior</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation>Borda inferior direita</translation>
     </message>
     <message>
         <source>Background color</source>
@@ -8458,6 +8426,38 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <source>Load &apos;Default values&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Centro da borda superior</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro da borda esquerda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro da borda direita</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Centro da borda inferior</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8964,10 +8964,6 @@ Thank you for purchasing %1.</source>
         <translation>Catálogo</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView category database</source>
-        <translation>Não foi possível importar o banco de dados de categorias</translation>
-    </message>
-    <message>
         <source>Problem during database import!</source>
         <translation>Problemas ao importar o banco de dados!</translation>
     </message>
@@ -9030,6 +9026,10 @@ Do you want to continue?</source>
 Color labels, Keywords may be deleted. 
 
 Do you want to check for affected entries first?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView Classic category database</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9128,10 +9128,6 @@ Do you want to check for affected entries first?</source>
         <translation>Ferramentas</translation>
     </message>
     <message>
-        <source>Import XnView category db...</source>
-        <translation>Importar banco de dados Categorias...</translation>
-    </message>
-    <message>
         <source>Enable Catalog</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9153,6 +9149,10 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Maintenance...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import XnView Classic category db...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9278,10 +9278,6 @@ Thumbnail</source>
         <translation>Filtro personalizado</translation>
     </message>
     <message>
-        <source>Used by Filter&gt;Custom</source>
-        <translation>Usado por Filtro-&gt;Personalizado</translation>
-    </message>
-    <message>
         <source>Mixed file/folder sorting</source>
         <translation>Ordenar arquivos / pastas misturadas</translation>
     </message>
@@ -9379,6 +9375,10 @@ Thumbnail</source>
     </message>
     <message>
         <source>Display file size in bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Used by Filter › Custom</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10126,22 +10126,6 @@ Do you want to reassign?</source>
         <translation>Modo de alternar</translation>
     </message>
     <message>
-        <source>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</source>
-        <translation>Navegador &lt;&gt; Tela cheia |  Visualizador &lt;&gt; Tela cheia</translation>
-    </message>
-    <message>
-        <source>Browser &lt;&gt; Viewer</source>
-        <translation>Navegador &lt;&gt; Visualizador</translation>
-    </message>
-    <message>
-        <source>Browser &gt; Fullscreen &gt; Viewer</source>
-        <translation>Navegador &gt; Tela cheia &gt; Visualizador</translation>
-    </message>
-    <message>
-        <source>Browser &gt; Viewer &gt; Fullscreen</source>
-        <translation>Navegador &gt; Visualizador &gt; Tela cheia</translation>
-    </message>
-    <message>
         <source>Automatic</source>
         <translation>Automático</translation>
     </message>
@@ -10265,6 +10249,22 @@ Do you want to reassign?</source>
         <source>Wheel</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser ↔ Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser → Fullscreen → Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser → Viewer → Fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10348,10 +10348,6 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10373,10 +10369,6 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Read hierarchical keywords from images as categories</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Write categories into images as hierachical keywords</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10405,6 +10397,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Supported formats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write categories into images as hierarchical keywords</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10804,10 +10804,6 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Display multi-resolution icons as snapshots</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save changes to file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10829,10 +10825,6 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Rule of thirds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Rating &amp;&amp; Label color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10948,10 +10940,6 @@ Do you want to reassign?</source>
         <translation type="unfinished">Incluir</translation>
     </message>
     <message>
-        <source>(From Settings&gt;File list&gt;Custom Filter)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Support HTML tags</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10997,6 +10985,18 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Rating &amp;&amp; Color labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(From Settings › File list › Custom Filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw multi-resolution icons as Snapshots</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12946,10 +12946,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Data da fotografia</translation>
     </message>
     <message>
-        <source>Sub-sampling</source>
-        <translation>Sub amostragem</translation>
-    </message>
-    <message>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
@@ -13087,6 +13083,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Ratio Decimal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14395,6 +14395,10 @@ Do you want to continue?</source>
         <source>Chinese Traditional</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hebrew</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainMenu</name>
@@ -14826,10 +14830,6 @@ Do you want to continue?</source>
         <translation>Marcação</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>Pontuação &amp;&amp; Cor da etiqueta</translation>
-    </message>
-    <message>
         <source>Category</source>
         <translation>Categoria</translation>
     </message>
@@ -14932,10 +14932,6 @@ Do you want to continue?</source>
     <message>
         <source>Lock zoom</source>
         <translation>Travar zoom</translation>
-    </message>
-    <message>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>Usar índice de transparência (&lt;=8bits)</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
@@ -15525,6 +15521,14 @@ Do you want to continue?</source>
         <source>Open with test</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Rating &amp;&amp; Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparent index (≤ 8bits)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15656,10 +15660,6 @@ Do you want to continue?</source>
         <translation>a - Nome abreviado do dia da semana (exemplo : qua)</translation>
     </message>
     <message>
-        <source>#: Numeric enumerator</source>
-        <translation>#: Enumerador</translation>
-    </message>
-    <message>
         <source>Image</source>
         <translation>Imagem</translation>
     </message>
@@ -15705,6 +15705,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Extra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source># - Numeric enumerator</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15899,10 +15903,6 @@ Do you want to continue?</source>
         <translation>Página</translation>
     </message>
     <message>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>Usar índice de transparência (&lt;=8bits)</translation>
-    </message>
-    <message>
         <source>Use alpha channel</source>
         <translation>Usar &quot;alpha channel&quot;</translation>
     </message>
@@ -15961,10 +15961,6 @@ Do you want to continue?</source>
     <message>
         <source>Negative</source>
         <translation>Negativo</translation>
-    </message>
-    <message>
-        <source>Logarithmic lut</source>
-        <translation>L.U.T. logarítmico</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -16111,10 +16107,6 @@ Do you want to continue?</source>
         <translation>Foco...</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>Pontuação &amp;&amp; Cor da etiqueta</translation>
-    </message>
-    <message>
         <source>Show red</source>
         <translation>Mostrar vermelho</translation>
     </message>
@@ -16129,10 +16121,6 @@ Do you want to continue?</source>
     <message>
         <source>Start/stop animation</source>
         <translation>Iniciar/parar animação</translation>
-    </message>
-    <message>
-        <source>Icon snapshot on/off</source>
-        <translation>Ligar/desligar ícones de &quot;snapshots&quot;</translation>
     </message>
     <message>
         <source>Fair</source>
@@ -16554,6 +16542,26 @@ Do you want to continue?</source>
         <source>Edit palette...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Rating &amp;&amp; Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparent index (≤ 8bits)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw as Snapshot (icons only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logarithmic LUT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send by email...</source>
+        <translation type="unfinished">Enviar por email...</translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -16823,10 +16831,6 @@ Do you want to continue?</source>
 <context>
     <name>MyProgressDialog</name>
     <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Abort</source>
         <translation type="unfinished">Abortar</translation>
     </message>
@@ -16921,7 +16925,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</source>
+You can change it in Settings � Catalog.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

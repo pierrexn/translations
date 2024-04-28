@@ -1364,10 +1364,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Desentrelazar</translation>
     </message>
     <message>
-        <source>Logarithmic lut</source>
-        <translation>Corrección logarítmica</translation>
-    </message>
-    <message>
         <source>White limit %</source>
         <translation>Límite blanco %</translation>
     </message>
@@ -1398,6 +1394,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Remove alpha channel</source>
         <translation>Eliminar canal alfa</translation>
+    </message>
+    <message>
+        <source>Logarithmic LUT</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3335,16 +3335,8 @@ Do you want to overwrite it?</source>
         <translation>Ancho</translation>
     </message>
     <message>
-        <source>Center right</source>
-        <translation>Centro derecha</translation>
-    </message>
-    <message>
         <source>Original size</source>
         <translation>Tamaño original</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Superior derecha</translation>
     </message>
     <message>
         <source>Keep ratio</source>
@@ -3369,18 +3361,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Normal</source>
         <translation>Normal</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Inferior izquierda</translation>
-    </message>
-    <message>
-        <source>Top left</source>
-        <translation>Superior izquierda</translation>
-    </message>
-    <message>
-        <source>Top center</source>
-        <translation>Superior centro</translation>
     </message>
     <message>
         <source>Position</source>
@@ -3431,14 +3411,6 @@ Do you want to overwrite it?</source>
         <translation>Foto 15x20 cm (6x8 pulgadas)</translation>
     </message>
     <message>
-        <source>Bottom right</source>
-        <translation>Inferior derecha</translation>
-    </message>
-    <message>
-        <source>Center left</source>
-        <translation>Centro izquierda</translation>
-    </message>
-    <message>
         <source>Relative</source>
         <translation>Relativo</translation>
     </message>
@@ -3447,8 +3419,36 @@ Do you want to overwrite it?</source>
         <translation>Foto 20x25 cm (8x10 pulgadas)</translation>
     </message>
     <message>
-        <source>Bottom center</source>
-        <translation>Inferior centro</translation>
+        <source>Top-Left</source>
+        <translation type="unfinished">Superior-Izquierda</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Superior-Centro</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Superior-Derecha</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro-Izquierda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro-Derecha</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Inferior-Izquierda</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Inferior-Centro</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -4952,10 +4952,6 @@ Do you want to overwrite it?</source>
         <translation>S</translation>
     </message>
     <message>
-        <source>Top</source>
-        <translation>Superior</translation>
-    </message>
-    <message>
         <source>Blur</source>
         <translation>Desenfoque</translation>
     </message>
@@ -4966,10 +4962,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Font</source>
         <translation>Fuente</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Izquierda</translation>
     </message>
     <message>
         <source>Size</source>
@@ -4984,10 +4976,6 @@ Do you want to overwrite it?</source>
         <translation>Color</translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation>Derecha</translation>
-    </message>
-    <message>
         <source>Style</source>
         <translation>Estilo</translation>
     </message>
@@ -4998,10 +4986,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>% (Minimum)</source>
         <translation>% (Mínimo)</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Superior dcha</translation>
     </message>
     <message>
         <source>Adjust to image&apos;s width</source>
@@ -5016,24 +5000,12 @@ Do you want to overwrite it?</source>
         <translation>Borde</translation>
     </message>
     <message>
-        <source>Bottom</source>
-        <translation>Inferior</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Centro</translation>
     </message>
     <message>
         <source>Shadow</source>
         <translation>Sombra</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Inferior izqda</translation>
-    </message>
-    <message>
-        <source>Top left</source>
-        <translation>Superior izqda</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -5072,10 +5044,6 @@ Do you want to overwrite it?</source>
         <translation>Activada</translation>
     </message>
     <message>
-        <source>Bottom right</source>
-        <translation>Inferior dcha</translation>
-    </message>
-    <message>
         <source>Offset X</source>
         <translation>Desplazamiento X</translation>
     </message>
@@ -5094,6 +5062,38 @@ Do you want to overwrite it?</source>
     <message>
         <source>Alignment</source>
         <translation>Alineación</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished">Superior-Izquierda</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Superior-Centro</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Superior-Derecha</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro-Izquierda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro-Derecha</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Inferior-Izquierda</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Inferior-Centro</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -5149,40 +5149,12 @@ Do you want to overwrite it?</source>
         <translation>Y</translation>
     </message>
     <message>
-        <source>Top</source>
-        <translation>Superior</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Izquierda</translation>
-    </message>
-    <message>
         <source>Size</source>
         <translation>Tamaño</translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation>Derecha</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Superior dcha</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Inferior</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Centro</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Inferior izqda</translation>
-    </message>
-    <message>
-        <source>Top left</source>
-        <translation>Superior izqda</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -5195,10 +5167,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Don&apos;t use alpha channel</source>
         <translation>No utilizar canal alfa</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation>Inferior dcha</translation>
     </message>
     <message>
         <source>Image filename</source>
@@ -5247,6 +5215,38 @@ Do you want to overwrite it?</source>
     <message>
         <source>Tiling</source>
         <translation>Mosaico</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished">Superior-Izquierda</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Superior-Centro</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Superior-Derecha</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro-Izquierda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro-Derecha</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Inferior-Izquierda</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Inferior-Centro</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -5619,10 +5619,6 @@ Do you want to save your changes?</source>
         <translation>Copiar en</translation>
     </message>
     <message>
-        <source>Open last opened tab</source>
-        <translation>Abrir última pestaña abierta</translation>
-    </message>
-    <message>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Izquierdo</translation>
     </message>
@@ -5719,6 +5715,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Aplicar</translation>
+    </message>
+    <message>
+        <source>Remember opened tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6016,16 +6016,16 @@ Please make sure that files are not read-only!</source>
         <translation>Exportar todos los archivos del catálogo</translation>
     </message>
     <message>
-        <source>Export Rating &amp;&amp; Label</source>
-        <translation>Exportar calificación y Etiqueta</translation>
-    </message>
-    <message>
         <source>Categories file</source>
         <translation>Archivo de Categorías</translation>
     </message>
     <message>
         <source>Catalog export</source>
         <translation>Exportar catálogo</translation>
+    </message>
+    <message>
+        <source>Export Rating &amp;&amp; Color labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7079,10 +7079,6 @@ Please make sure that files are not read-only!</source>
         <translation>Importar...</translation>
     </message>
     <message>
-        <source>Open last opened tab</source>
-        <translation>Abrir última pestaña abierta</translation>
-    </message>
-    <message>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Izquierda</translation>
     </message>
@@ -7157,6 +7153,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Don&apos;t load field values</source>
         <translation type="unfinished">No cargar los valores de los campos</translation>
+    </message>
+    <message>
+        <source>Remember opened tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8089,8 +8089,8 @@ Gracias por su compra %1.</translation>
         <translation>Eliminador de fondo</translation>
     </message>
     <message>
-        <source>Please install it by using Tools&gt;Plugins</source>
-        <translation>Por favor, instálelo usando Herramientas&gt;Complementos</translation>
+        <source>Please install it by using Tools � Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8315,14 +8315,6 @@ Gracias por su compra %1.</translation>
         <translation>mm</translation>
     </message>
     <message>
-        <source>Top</source>
-        <translation>Superior</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Izquierda</translation>
-    </message>
-    <message>
         <source>Mode</source>
         <translation>Modo</translation>
     </message>
@@ -8339,20 +8331,12 @@ Gracias por su compra %1.</translation>
         <translation>Bilineal</translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation>Derecha</translation>
-    </message>
-    <message>
         <source>Width</source>
         <translation>Ancho</translation>
     </message>
     <message>
         <source>Size (%)</source>
         <translation>Tamaño (%)</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Superior derecha</translation>
     </message>
     <message>
         <source>Keep ratio</source>
@@ -8379,10 +8363,6 @@ Gracias por su compra %1.</translation>
         <translation>Megapixeles</translation>
     </message>
     <message>
-        <source>Bottom</source>
-        <translation>Inferior</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Centro</translation>
     </message>
@@ -8401,14 +8381,6 @@ Gracias por su compra %1.</translation>
     <message>
         <source>Resize</source>
         <translation>Redimensionar</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Inferior izquierda</translation>
-    </message>
-    <message>
-        <source>Top left</source>
-        <translation>Superior izquierda</translation>
     </message>
     <message>
         <source>Resolution</source>
@@ -8447,10 +8419,6 @@ Gracias por su compra %1.</translation>
         <translation>Afilar</translation>
     </message>
     <message>
-        <source>Bottom right</source>
-        <translation>Inferior derecha</translation>
-    </message>
-    <message>
         <source>Resample</source>
         <translation>Remuestrear</translation>
     </message>
@@ -8473,6 +8441,38 @@ Gracias por su compra %1.</translation>
     <message>
         <source>Remove preset</source>
         <translation>Eliminar ajuste preestablecido</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished">Superior-Izquierda</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Superior-Centro</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Superior-Derecha</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro-Izquierda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro-Derecha</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Inferior-Izquierda</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Inferior-Centro</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -8994,10 +8994,6 @@ Gracias por su compra %1.</translation>
         <translation>Excluido</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView category database</source>
-        <translation>No se puede importar la base de datos de categorías de XnView</translation>
-    </message>
-    <message>
         <source>Catalog - Absolute/Relative paths</source>
         <translation>Catálogo - Rutas absolutas/relativas</translation>
     </message>
@@ -9058,6 +9054,10 @@ Do you want to check for affected entries first?</source>
 etiquetas de color o palabras clave pueden ser eliminadas. 
 
 ¿Desea comprobar primero si hay entradas afectadas?</translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9151,10 +9151,6 @@ etiquetas de color o palabras clave pueden ser eliminadas.
         <translation>Catálogo</translation>
     </message>
     <message>
-        <source>Import XnView category db...</source>
-        <translation>Importar base de datos de categorías XnView...</translation>
-    </message>
-    <message>
         <source>Relocate...</source>
         <translation>Reubicar...</translation>
     </message>
@@ -9181,6 +9177,10 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     <message>
         <source>Maintenance...</source>
         <translation>Mantenimiento...</translation>
+    </message>
+    <message>
+        <source>Import XnView Classic category db...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9314,10 +9314,6 @@ miniatura</translation>
         <translation>Siempre</translation>
     </message>
     <message>
-        <source>Used by Filter&gt;Custom</source>
-        <translation>Utilizado por Filtro &gt; Personalizado</translation>
-    </message>
-    <message>
         <source>Folder always sorted alphabetically</source>
         <translation>Ordenar siempre las carpetas alfabéticamente</translation>
     </message>
@@ -9408,6 +9404,10 @@ miniatura</translation>
     <message>
         <source>Display file size in bytes</source>
         <translation>Mostrar tamaño de archivo en bytes</translation>
+    </message>
+    <message>
+        <source>Used by Filter › Custom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10053,10 +10053,6 @@ Do you want to reassign?</source>
         <translation>Filtro</translation>
     </message>
     <message>
-        <source>Browser &gt; Viewer &gt; Fullscreen</source>
-        <translation>Navegador &gt; Visor &gt; Pantalla completa</translation>
-    </message>
-    <message>
         <source>Middle button</source>
         <translation>Botón central</translation>
     </message>
@@ -10101,10 +10097,6 @@ Do you want to reassign?</source>
         <translation>píxeles</translation>
     </message>
     <message>
-        <source>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</source>
-        <translation>Navegador &lt;&gt; Pantalla completa | Visor &lt;&gt; Pantalla completa</translation>
-    </message>
-    <message>
         <source>Synchronize browser when view is closed</source>
         <translation>Cambiar a navegador al cerrar vista</translation>
     </message>
@@ -10127,10 +10119,6 @@ Do you want to reassign?</source>
     <message>
         <source>Double-click on tab: </source>
         <translation>Doble clic en la pestaña: </translation>
-    </message>
-    <message>
-        <source>Browser &gt; Fullscreen &gt; Viewer</source>
-        <translation>Navegador &gt; Pantalla completa &gt; Visor</translation>
     </message>
     <message>
         <source>Closing last tab exits XnView</source>
@@ -10191,10 +10179,6 @@ Do you want to reassign?</source>
     <message>
         <source>Thumbnail</source>
         <translation>Miniatura</translation>
-    </message>
-    <message>
-        <source>Browser &lt;&gt; Viewer</source>
-        <translation>Navegador &lt;&gt; Visor</translation>
     </message>
     <message>
         <source>Previous/next file</source>
@@ -10296,6 +10280,22 @@ Do you want to reassign?</source>
         <source>Wheel</source>
         <translation>Rueda</translation>
     </message>
+    <message>
+        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser ↔ Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser → Fullscreen → Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser → Viewer → Fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10329,10 +10329,6 @@ Do you want to reassign?</source>
     <message>
         <source>Video files</source>
         <translation>Archivos de vídeo</translation>
-    </message>
-    <message>
-        <source>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</source>
-        <translation>Importar asunto XMP o palabra clave IPTC a las Categorías del Catálogo</translation>
     </message>
     <message>
         <source>Import XMP Face tag</source>
@@ -10395,10 +10391,6 @@ Do you want to reassign?</source>
         <translation>Exportar Categorias del Catálogo a asunto XMP y palabra clave IPTC</translation>
     </message>
     <message>
-        <source>Write categories into images as hierachical keywords</source>
-        <translation>Escribir categorías en las imágenes como palabras clave jerárquicas</translation>
-    </message>
-    <message>
         <source>Default encoding</source>
         <translation>Codificación predeterminada</translation>
     </message>
@@ -10437,6 +10429,14 @@ Do you want to reassign?</source>
     <message>
         <source>Supported formats</source>
         <translation>Formatos compatibles</translation>
+    </message>
+    <message>
+        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write categories into images as hierarchical keywords</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10711,10 +10711,6 @@ Do you want to reassign?</source>
         <translation>Deshabilitar animaciones GIF/JIF/APNG/ANI</translation>
     </message>
     <message>
-        <source>Show Rating &amp;&amp; Label color</source>
-        <translation>Mostrar Calificación y Etiqueta de color</translation>
-    </message>
-    <message>
         <source>D4/D16 Standard (0.95)</source>
         <translation>D4/D16 Estandard (0.95)</translation>
     </message>
@@ -10785,10 +10781,6 @@ Do you want to reassign?</source>
     <message>
         <source>Backward</source>
         <translation>Atrás</translation>
-    </message>
-    <message>
-        <source>Display multi-resolution icons as snapshots</source>
-        <translation>Mostrar iconos de resolución múltiple como instantáneas</translation>
     </message>
     <message>
         <source>Delay (ms)</source>
@@ -10979,10 +10971,6 @@ Do you want to reassign?</source>
         <translation>Incluir</translation>
     </message>
     <message>
-        <source>(From Settings&gt;File list&gt;Custom Filter)</source>
-        <translation>(Desde Configuración&gt;Lista de archivos&gt;Filtro personalizado)</translation>
-    </message>
-    <message>
         <source>Support HTML tags</source>
         <translation>Admite etiquetas HTML</translation>
     </message>
@@ -11028,6 +11016,18 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Rating &amp;&amp; Color labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(From Settings › File list › Custom Filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw multi-resolution icons as Snapshots</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12882,10 +12882,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Alto de imagen</translation>
     </message>
     <message>
-        <source>Sub-sampling</source>
-        <translation>Sub-muestreo</translation>
-    </message>
-    <message>
         <source>Embedded comment</source>
         <translation>Comentario incrustado</translation>
     </message>
@@ -13120,6 +13116,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Ratio Decimal</source>
         <translation>Relación Decimal</translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14428,6 +14428,10 @@ Do you want to continue?</source>
         <source>Chinese Traditional</source>
         <translation>Chino Tradicional</translation>
     </message>
+    <message>
+        <source>Hebrew</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainMenu</name>
@@ -14627,10 +14631,6 @@ Do you want to continue?</source>
         <translation>Limpiar todas las marcas</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>Calificación y Etiqueta de color</translation>
-    </message>
-    <message>
         <source>Colour label</source>
         <translation>Etiqueta de color</translation>
     </message>
@@ -14741,10 +14741,6 @@ Do you want to continue?</source>
     <message>
         <source>Clean...</source>
         <translation>Limpiar...</translation>
-    </message>
-    <message>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>Utilizar índice de transparencia (&lt;=8bits)</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -15558,6 +15554,14 @@ Do you want to continue?</source>
         <source>Open with test</source>
         <translation>Abrir con prueba</translation>
     </message>
+    <message>
+        <source>Rating &amp;&amp; Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparent index (≤ 8bits)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15697,10 +15701,6 @@ Do you want to continue?</source>
         <translation>A - Nombre del día de la semana (ej. miércoles)</translation>
     </message>
     <message>
-        <source>#: Numeric enumerator</source>
-        <translation>#: Contador numérico</translation>
-    </message>
-    <message>
         <source>IPTC - Origin</source>
         <translation>Origen IPTC</translation>
     </message>
@@ -15739,6 +15739,10 @@ Do you want to continue?</source>
     <message>
         <source>H - Hour (01-24)</source>
         <translation>H - Hora (01-24)</translation>
+    </message>
+    <message>
+        <source># - Numeric enumerator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15880,10 +15884,6 @@ Do you want to continue?</source>
         <translation>Carta EEUU (1.29)</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Colour label</source>
-        <translation>Calificación y Etiqueta de color</translation>
-    </message>
-    <message>
         <source>High zoom quality</source>
         <translation>Zoom de alta calidad</translation>
     </message>
@@ -15950,10 +15950,6 @@ Do you want to continue?</source>
     <message>
         <source>&amp;Image</source>
         <translation>&amp;Imagen</translation>
-    </message>
-    <message>
-        <source>Use transparent index (&lt;=8bits)</source>
-        <translation>Utilizar índice de transparencia (&lt;=8bits)</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -16026,10 +16022,6 @@ Do you want to continue?</source>
     <message>
         <source>No fit</source>
         <translation>Sin ajustar</translation>
-    </message>
-    <message>
-        <source>Icon snapshot on/off</source>
-        <translation>Mostrar/ocultar icono de instantánea</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
@@ -16432,10 +16424,6 @@ Do you want to continue?</source>
         <translation>Abrir en explorador de archivos</translation>
     </message>
     <message>
-        <source>Logarithmic lut</source>
-        <translation>Corrección logarítmica</translation>
-    </message>
-    <message>
         <source>Posterize...</source>
         <translation>Posterizar...</translation>
     </message>
@@ -16586,6 +16574,26 @@ Do you want to continue?</source>
     <message>
         <source>Edit palette...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rating &amp;&amp; Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparent index (≤ 8bits)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw as Snapshot (icons only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logarithmic LUT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send by email...</source>
+        <translation type="unfinished">Enviar por correo electrónico...</translation>
     </message>
 </context>
 <context>
@@ -16855,10 +16863,6 @@ Do you want to continue?</source>
 <context>
     <name>MyProgressDialog</name>
     <message>
-        <source>TextLabel</source>
-        <translation>Etiqueta de texto</translation>
-    </message>
-    <message>
         <source>Abort</source>
         <translation>Interrumpir</translation>
     </message>
@@ -16953,9 +16957,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</source>
-        <translation>El tamaño de las miniaturas en caché es menor que el elegido. 
-Puede cambiarlo en Configuración&gt;Catálogo.</translation>
+You can change it in Settings � Catalog.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
