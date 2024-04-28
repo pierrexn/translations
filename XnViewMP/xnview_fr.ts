@@ -1566,7 +1566,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Lut logarithmique</translation>
+        <translation>LUT logarithmique</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -3465,52 +3465,52 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgContactSheet.cpp" line="389"/>
         <source>Letter (8.5x11 inch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettre (8.5x11 pouces)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="391"/>
         <source>Legal (8.5x14 inch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Legal (8.5x14 pouces)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="393"/>
         <source>A4 (21.0x29.7cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A4 (21.0x29.7cm)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="395"/>
         <source>A3 (29.7x42.0cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A3 (29.7x42.0cm)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="397"/>
         <source>4x6 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>4 x 6 pouces</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="399"/>
         <source>5x7 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>5x7 pouces</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="401"/>
         <source>6x8 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>6x8 pouces</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="403"/>
         <source>8x10 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>8x10 pouces</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="405"/>
         <source>9x12 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>9x12 pouces</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="407"/>
         <source>11x14 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>11x14 pouces</translation>
     </message>
 </context>
 <context>
@@ -4348,25 +4348,25 @@ Voulez-vous l&apos;écraser ?</translation>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Haut gauche</translation>
+        <translation>Haut-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Haut centre</translation>
+        <translation>Haut-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Haut droite</translation>
+        <translation>Haut-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Centre gauche</translation>
+        <translation>Centre-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4377,25 +4377,25 @@ Voulez-vous l&apos;écraser ?</translation>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Centre droite</translation>
+        <translation>Centre-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bas gauche</translation>
+        <translation>Bas-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Bas centre</translation>
+        <translation>Bas-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Bas droite</translation>
+        <translation>Bas-Droite</translation>
     </message>
 </context>
 <context>
@@ -6356,13 +6356,13 @@ Voulez-vous l&apos;écraser ?</translation>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Haut gauche</translation>
+        <translation>Haut-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Haut droite</translation>
+        <translation>Haut-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6373,19 +6373,19 @@ Voulez-vous l&apos;écraser ?</translation>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bas gauche</translation>
+        <translation>Bas-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Bas</translation>
+        <translation>Bas-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Bas droite</translation>
+        <translation>Bas-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6448,17 +6448,17 @@ Voulez-vous l&apos;écraser ?</translation>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Haut-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished">Centre gauche</translation>
+        <translation>Centre-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centre-Droit</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6610,17 +6610,17 @@ Voulez-vous l&apos;écraser ?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Haut-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished">Centre gauche</translation>
+        <translation>Centre-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centre-Droit</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6697,13 +6697,13 @@ Voulez-vous l&apos;écraser ?</translation>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Haut gauche</translation>
+        <translation>Haut-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Haut droite</translation>
+        <translation>Haut-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6714,19 +6714,19 @@ Voulez-vous l&apos;écraser ?</translation>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bas gauche</translation>
+        <translation>Bas-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Bas</translation>
+        <translation>Bas-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Bas droite</translation>
+        <translation>Bas-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7197,7 +7197,7 @@ Voulez-vous l&apos;écraser ?</translation>
         <location filename="DlgEditXMP.ui" line="573"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Ré-ouvrir le dernier onglet</translation>
+        <translation>Ré-ouvrir le dernier onglet</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7721,7 +7721,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation type="unfinished">Exporter Note &amp;&amp; Libellé</translation>
+        <translation>Exporter Note &amp;&amp; Libellé</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -8984,7 +8984,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgIptc.ui" line="730"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Ré-ouvrir le dernier onglet</translation>
+        <translation>Ré-ouvrir le dernier onglet</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
@@ -10331,12 +10331,12 @@ Merci d&apos;avoir acheté %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Background remover</source>
-        <translation type="unfinished"></translation>
+        <translation>Suppression de l&apos;arrière-plan</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Merci de l&apos;installer via Outils › Plugins</translation>
     </message>
 </context>
 <context>
@@ -10778,28 +10778,28 @@ Merci d&apos;avoir acheté %1.</translation>
         <location filename="DlgResize.ui" line="604"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Haut gauche</translation>
+        <translation>Haut-Gauche</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="609"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Haut-Centre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="619"/>
         <source>Center-Left</source>
-        <translation type="unfinished">Centre gauche</translation>
+        <translation>Centre-Gauche</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="629"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centre-Droit</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="614"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Haut droite</translation>
+        <translation>Haut-Droite</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="624"/>
@@ -10810,19 +10810,19 @@ Merci d&apos;avoir acheté %1.</translation>
         <location filename="DlgResize.ui" line="634"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bas gauche</translation>
+        <translation>Bas-Gauche</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="639"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Bas</translation>
+        <translation>Bas-Centre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="644"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Bas droite</translation>
+        <translation>Bas-Droite</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="666"/>
@@ -11520,7 +11520,7 @@ Voulez-vous vérifier avant?</translation>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation type="unfinished">Impossible d&apos;importer la base de données des catégories XnView</translation>
+        <translation>Impossible d&apos;importer la base de données des catégories XnView Classic</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11691,7 +11691,7 @@ Voulez-vous supprimer les entrées attribuées à une catégorie?</translation>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">Importer la base de données des catégories de XnView...</translation>
+        <translation>Importer la base de données des catégories de XnView Classic...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -11981,7 +11981,7 @@ Vignette</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Utilisé par Filtre&gt;Personnalisé</translation>
+        <translation>Utilisé par Filtre › Personnalisé</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13054,7 +13054,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished">Déplacement haut/bas</translation>
+        <translation>Déplacement vertical</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13221,7 +13221,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Explorateur &lt;&gt; Plein écran | Vue &lt;&gt; Plein écran</translation>
+        <translation>Explorateur ↔ Plein écran | Vue ↔ Plein écran</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13229,7 +13229,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Explorateur &lt;&gt; Vue</translation>
+        <translation>Explorateur ↔ Vue</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13237,7 +13237,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Explorateur &gt; Plein écran &gt; Vue</translation>
+        <translation>Explorateur → Plein écran → Vue</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13245,7 +13245,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Explorateur &gt; Vue &gt; Plein écran</translation>
+        <translation>Explorateur → Vue → Plein écran</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
@@ -13278,7 +13278,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation type="unfinished">Importer les mots clés XMP ou IPTC dans les Catégories du Catalogue</translation>
+        <translation>Importer les mots clés XMP ou IPTC dans les Catégories du Catalogue</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13322,7 +13322,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
-        <translation type="unfinished">Ecriture des catégories comme mots clés hiérarchiques</translation>
+        <translation>Ecriture des catégories comme mots clés hiérarchiques</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
@@ -13892,7 +13892,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="921"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation type="unfinished">Fichiers icônes vus en instantané</translation>
+        <translation>Fichiers icônes vus en instantané</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="91"/>
@@ -13944,7 +13944,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="501"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation type="unfinished">Afficher Note &amp;&amp; Libellé de couleur</translation>
+        <translation>Afficher Note &amp;&amp; Libellé de couleur</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="579"/>
@@ -13995,7 +13995,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(Paramètres&gt;Liste fichiers&gt;Filter personnalisé)</translation>
+        <translation>(Paramètres › Liste fichiers › Filter personnalisé)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
@@ -16585,7 +16585,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
-        <translation type="unfinished">Sous-échantillonnage</translation>
+        <translation>Sous-échantillonnage</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -16699,13 +16699,13 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="688"/>
         <source>Bits/sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits/échantillon</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="695"/>
         <location filename="InfoPropertiesView.cpp" line="714"/>
         <source>Format version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version du format</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="696"/>
@@ -16723,13 +16723,13 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="700"/>
         <location filename="InfoPropertiesView.cpp" line="719"/>
         <source>Bit rate mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode de débit binaire</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="702"/>
         <location filename="InfoPropertiesView.cpp" line="721"/>
         <source>Sampling rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Taux d&apos;échantillonnage</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="725"/>
@@ -16744,17 +16744,17 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="727"/>
         <source>Performer</source>
-        <translation type="unfinished"></translation>
+        <translation>Interprète</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="728"/>
         <source>Genre</source>
-        <translation type="unfinished"></translation>
+        <translation>Genre</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="729"/>
         <source>Recorded date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date d&apos;enregistrement</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2465"/>
@@ -16799,7 +16799,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2475"/>
         <source>Ratio Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Ratio Décimal</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2476"/>
@@ -18140,17 +18140,17 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="123"/>
         <source>Copyright usage terms</source>
-        <translation type="unfinished"></translation>
+        <translation>Conditions d&apos;utilisation des droits d&apos;auteur</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="129"/>
         <source>Sublocation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sous-localisation</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="137"/>
         <source>Transmission reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Référence de la transmission</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="143"/>
@@ -18180,22 +18180,22 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="153"/>
         <source>Person in image</source>
-        <translation type="unfinished"></translation>
+        <translation>Personne dans l&apos;image</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="154"/>
         <source>Name of organization represented</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l&apos;organisation représentée</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="155"/>
         <source>Code of organization represented</source>
-        <translation type="unfinished"></translation>
+        <translation>Code de l&apos;organisation représentée</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="156"/>
         <source>Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Événement</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="164"/>
@@ -18768,7 +18768,7 @@ Do you want to continue?</source>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hébreu</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19920,7 +19920,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="519"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Note &amp;&amp; libellé de couleur</translation>
+        <translation>Note &amp;&amp; libellé de couleur</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
@@ -20228,7 +20228,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Utiliser l&apos;index de transparence (&lt;=8bits)</translation>
+        <translation>Utiliser l&apos;index de transparence (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -20428,7 +20428,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished"># : Enumérateur numérique</translation>
+        <translation># - Enumérateur numérique</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -20982,7 +20982,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="364"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Note &amp;&amp; libellé de couleur</translation>
+        <translation>Note &amp;&amp; libellé de couleur</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="370"/>
@@ -21018,7 +21018,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="402"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">Instantané d&apos;icônes oui/non</translation>
+        <translation>Instantané d&apos;icônes</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="403"/>
@@ -21127,7 +21127,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Lut logarithmique</translation>
+        <translation>LUT logarithmique</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -21304,7 +21304,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
-        <translation type="unfinished">Envoyer par courriel...</translation>
+        <translation>Envoyer par courriel...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="486"/>
@@ -21388,7 +21388,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Utiliser l&apos;index de transparence (&lt;=8bits)</translation>
+        <translation>Utiliser l&apos;index de transparence (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
@@ -23359,7 +23359,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="VideoGalleryProcess.h" line="100"/>
         <source>Bit rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Débit binaire</translation>
     </message>
 </context>
 <context>
@@ -23367,12 +23367,12 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ViewCropAction.cpp" line="213"/>
         <source>Selection horizontal position</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection de la position horizontale</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="216"/>
         <source>Selection vertical position</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection de la position verticale</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="228"/>
@@ -23533,7 +23533,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="WebError.cpp" line="35"/>
         <location filename="WebError.cpp" line="121"/>
         <source>No error</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas d&apos;erreur</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="38"/>
