@@ -133,4 +133,12 @@
     <string name="pro_item3">• No limit in Template</string>
     <string name="pro_item4">• To help us to continue improvement</string>
     <string name="pro_purchase">Purchase</string>
+    <string name="menu_sort_size">Méret</string>
+    <string name="menu_sort_date">Dátum</string>
+    <string name="menu_sort_type">Típus</string>
+    <string name="menu_sort_descending">Csökkenő</string>
+    <string name="menu_delete">Törlés</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="menu_filter">Szűrő</string>
+    <string name="menu_group">Csoportosítás</string>
 </resources>
