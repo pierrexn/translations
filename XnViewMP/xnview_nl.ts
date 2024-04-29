@@ -1567,7 +1567,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logarithmisch</translation>
+        <translation>Logaritmische LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -4351,25 +4351,25 @@ Wilt u het overschrijven?</translation>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Linksboven</translation>
+        <translation>Linksboven</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Top-Midden</translation>
+        <translation>Middenboven</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Rechtsboven</translation>
+        <translation>Rechtsboven</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Links-Midden</translation>
+        <translation>Linksmidden</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4380,25 +4380,25 @@ Wilt u het overschrijven?</translation>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Rechts-Midden</translation>
+        <translation>Rechtsmidden</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Linksonder</translation>
+        <translation>Linksonder</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Onder-Midden</translation>
+        <translation>Middenonder</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Rechtsonder</translation>
+        <translation>Rechtsonder</translation>
     </message>
 </context>
 <context>
@@ -6357,13 +6357,13 @@ Wilt u het overschrijven?</translation>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Linksboven</translation>
+        <translation>Linksboven</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Rechtsboven</translation>
+        <translation>Rechtsboven</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6374,19 +6374,19 @@ Wilt u het overschrijven?</translation>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Linksonder</translation>
+        <translation>Linksonder</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Onder</translation>
+        <translation>Middenonder</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Rechtsonder</translation>
+        <translation>Rechtsonder</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6449,17 +6449,17 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Middenboven</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksmidden</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsmidden</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6611,17 +6611,17 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Middenboven</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksmidden</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsmidden</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6698,13 +6698,13 @@ Wilt u het overschrijven?</translation>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Linksboven</translation>
+        <translation>Linksboven</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Rechtsboven</translation>
+        <translation>Rechtsboven</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6715,19 +6715,19 @@ Wilt u het overschrijven?</translation>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Linksonder</translation>
+        <translation>Linksonder</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Onder</translation>
+        <translation>Middenonder</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Rechtsonder</translation>
+        <translation>Rechtsonder</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7198,7 +7198,7 @@ Wilt u het overschrijven?</translation>
         <location filename="DlgEditXMP.ui" line="573"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Meest recente tabblad openen</translation>
+        <translation>Geopende tab onthouden</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7722,7 +7722,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation type="unfinished">Waardering &amp;&amp; Labels exporteren</translation>
+        <translation>Waardering &amp;&amp; kleurlabels exporteren</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -9002,7 +9002,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgIptc.ui" line="730"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Meest recente tabblad openen</translation>
+        <translation>Geopende tab onthouden</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
@@ -10339,7 +10339,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Installeren via Hulpmiddelen en plug-ins</translation>
     </message>
 </context>
 <context>
@@ -10780,28 +10780,28 @@ Dank u voor de aanschaf van %1.</translation>
         <location filename="DlgResize.ui" line="604"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Linksboven</translation>
+        <translation>Linksboven</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="609"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Middenboven</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="619"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksmidden</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="629"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsmidden</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="614"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Rechtsboven</translation>
+        <translation>Rechtsboven</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="624"/>
@@ -10812,19 +10812,19 @@ Dank u voor de aanschaf van %1.</translation>
         <location filename="DlgResize.ui" line="634"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Linksonder</translation>
+        <translation>Linksonder</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="639"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Onder</translation>
+        <translation>Middenonder</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="644"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Rechtsonder</translation>
+        <translation>Rechtsonder</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="666"/>
@@ -11523,7 +11523,7 @@ Wilt u eerst controleren op getroffen items?</translation>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation type="unfinished">Kan XnView categorie-database niet importeren</translation>
+        <translation>Kan XnView Classic categorieën-database niet importeren</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11554,7 +11554,7 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>Catalogusvermeldingen met Categorieën, Beoordeling en Kleurlabels worden verwijderd.
+        <translation>Catalogusvermeldingen met Categorieën, Waardering en Kleurlabels worden verwijderd.
  
 Als informatie wordt geëxporteerd naar embedded of sidecar metagegevens,
 kunt u dit later opnieuw importeren.
@@ -11694,7 +11694,7 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">XnView categorieën-database importeren…</translation>
+        <translation>XnView Classic categorieën-database importeren…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -11984,7 +11984,7 @@ Miniatuur</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Gebruikt door Filter&gt;Aangepast</translation>
+        <translation>Gebruikt door Filter › Aangepast</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13059,7 +13059,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished">Omhoog/Omlaag bladeren</translation>
+        <translation>Verticaal bladeren</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13226,7 +13226,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Verkenner &lt;&gt; Volledig scherm | Viewer &lt;&gt; Volledig scherm</translation>
+        <translation>Verkenner ↔ Volledig scherm | Viewer ↔ Volledig scherm</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13234,7 +13234,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Verkenner &lt;&gt; Viewer</translation>
+        <translation>Verkenner ↔ Viewer</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13242,7 +13242,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Verkenner &gt; Volledig scherm &gt; Viewer</translation>
+        <translation>Verkenner → Volledig scherm → Viewer</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13250,7 +13250,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Verkenner &gt; Viewer &gt; Volledig scherm</translation>
+        <translation>Verkenner → Viewer → Volledig scherm</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
@@ -13283,7 +13283,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation type="unfinished">XMP/IPTC trefwoorden importeren naar DB categorieën</translation>
+        <translation>XMP:Subject en IPTC:Keywords automatisch importeren in de Categorieën-catalogus</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13344,7 +13344,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
-        <translation type="unfinished">Schrijf categorieën in afbeeldingen als hiërarchische trefwoorden</translation>
+        <translation>Categorieën als hiërarchische trefwoorden in afbeeldingen schrijven</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="33"/>
@@ -13859,7 +13859,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(Van Instellingen&gt;Bestandenlijst&gt;Aangepast filter)</translation>
+        <translation>(Van Instellingen › Bestandenlijst › Aangepast filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
@@ -13967,7 +13967,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="921"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation type="unfinished">Pictogrambestanden tonen als &apos;snapshot&apos;</translation>
+        <translation>Meervoudige pictogrammen tekenen als &apos;snapshot&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="700"/>
@@ -14024,7 +14024,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="501"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation type="unfinished">Toon Waardering &amp;&amp; Labelkleur</translation>
+        <translation>Waardering &amp;&amp; kleurlabels tonen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="749"/>
@@ -16445,7 +16445,7 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
-        <translation type="unfinished">Sub-sampling</translation>
+        <translation>Sub-sampling</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -16950,7 +16950,7 @@ Wilt u de favoriet te verwijderen ? &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2665"/>
         <source>Rating (number)</source>
-        <translation>Waardering (nummer)</translation>
+        <translation>Waardering (getal)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2667"/>
@@ -18769,7 +18769,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebreeuws</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19890,7 +19890,7 @@ Wilt u doorgaan?</translation>
         <location filename="BrowserMenu.h" line="519"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Waardering &amp;&amp; kleurlabel</translation>
+        <translation>Waardering &amp;&amp; kleurlabel</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
@@ -20422,7 +20422,7 @@ Wilt u doorgaan?</translation>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: teller</translation>
+        <translation># - Numerieke rangorde</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2674"/>
@@ -20919,7 +20919,7 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="364"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Waardering &amp;&amp; kleurlabel</translation>
+        <translation>Waardering &amp;&amp; kleurlabel</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
@@ -21081,7 +21081,7 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="402"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">Pictogram snapshot aan/uit</translation>
+        <translation>Als snapshot tekenen (alleen pictogrammen)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="407"/>
@@ -21219,7 +21219,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
-        <translation type="unfinished">Per e-mail versturen…</translation>
+        <translation>Per e-mail versturen…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -21367,7 +21367,7 @@ Wilt u doorgaan?</translation>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logarithmic lut</translation>
+        <translation>Logaritmische LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -21990,8 +21990,8 @@ Wilt u doorgaan?</translation>
 You can change it in Settings � Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings&gt;Catalog.</oldsource>
-        <translation type="unfinished">De grootte van opgeslagen miniaturen is kleiner dan gekozen.
-U kunt dit wijzigen in Instellingen&gt; Catalogus.</translation>
+        <translation>De grootte van opgeslagen miniaturen is kleiner dan gekozen.
+U kunt dit wijzigen in Instellingen › Catalogus.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
@@ -23889,7 +23889,7 @@ Wilt u de miniaturen behouden?
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
         <translation>Catalogus en metagegevens zijn uitgeschakeld -
-Waardering-, Labels- en Kleurlabels worden niet opgeslagen.</translation>
+Waardering, Labels en Kleurlabels worden niet opgeslagen.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1040"/>
