@@ -13101,7 +13101,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Lehitseja &lt;&gt; Täisekraanivaade | Tavavaade &lt;&gt; Täisekraanivaade</translation>
+        <translation>Lehitseja ↔ Täisekraanivaade | Tavavaade ↔ Täisekraanivaade</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13109,7 +13109,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Lehitseja &lt;&gt; Tavavaade</translation>
+        <translation>Lehitseja ↔ Tavavaade</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13117,7 +13117,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Lehitseja &gt; Täisekraanivaade &gt; Tavavaade</translation>
+        <translation>Lehitseja → Täisekraanivaade → Tavavaade</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13125,7 +13125,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Lehitseja &gt; Tavavaade &gt; Täisekraanivaade</translation>
+        <translation>Lehitseja → Tavavaade → Täisekraanivaade</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -20181,7 +20181,7 @@ Kas soovite jätkata?</translation>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Kasuta läbipaistvuse indeksit (&lt;=8bit)</translation>
+        <translation>Kasuta läbipaistvuse indeksit (≤ 8bit)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -20983,7 +20983,7 @@ Kas soovite jätkata?</translation>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Kasuta läbipaistvuse indeksit (&lt;=8bit)</translation>
+        <translation>Kasuta läbipaistvuse indeksit (≤ 8bit)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
