@@ -13135,7 +13135,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Przeglądarka &lt;&gt; Pełny ekran | Wyświetlarka &lt;&gt; Pełny ekran</translation>
+        <translation>Przeglądarka ↔ Pełny ekran | Wyświetlarka ↔ Pełny ekran</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13143,7 +13143,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Przeglądarka &lt;&gt; Wyświetlarka</translation>
+        <translation>Przeglądarka ↔ Wyświetlarka</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13151,7 +13151,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Przeglądarka &gt; Pełny ekran &gt; Wyświetlarka</translation>
+        <translation>Przeglądarka → Pełny ekran → Wyświetlarka</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13159,7 +13159,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Przeglądarka &gt; Wyświetlarka &gt; Pełny ekran</translation>
+        <translation>Przeglądarka → Wyświetlarka → Pełny ekran</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -20203,7 +20203,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Użyj indeksu przezroczystości (&lt;= 8bitów)</translation>
+        <translation>Użyj indeksu przezroczystości (≤ 8bitów)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21043,7 +21043,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Użyj indeksu przezroczystości (&lt;= 8bitów)</translation>
+        <translation>Użyj indeksu przezroczystości (≤ 8bitów)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
