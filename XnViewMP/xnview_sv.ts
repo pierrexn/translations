@@ -13123,7 +13123,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Filläsare &lt;&gt; Helskärm | Visning &lt;&gt; Helskärm</translation>
+        <translation>Filläsare ↔ Helskärm | Visning ↔ Helskärm</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13131,7 +13131,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Filläsare &lt;&gt; Visning</translation>
+        <translation>Filläsare ↔ Visning</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13139,7 +13139,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Filläsare &gt; Helskärm &gt; Visning</translation>
+        <translation>Filläsare → Helskärm → Visning</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13147,7 +13147,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Filläsare &gt; Visning &gt; Helskärm</translation>
+        <translation>Filläsare → Visning → Helskärm</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -20199,7 +20199,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Använd transparensindex (&lt;=8bitar)</translation>
+        <translation>Använd transparensindex (≤ 8bitar)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21029,7 +21029,7 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Använd transparensindex (&lt;=8bitar)</translation>
+        <translation>Använd transparensindex (≤ 8bitar)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
