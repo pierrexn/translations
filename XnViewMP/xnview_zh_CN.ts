@@ -13223,7 +13223,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">浏览器 &lt;&gt; 全屏 | 查看器 &lt;&gt; 全屏</translation>
+        <translation>浏览器 ↔ 全屏 | 查看器 ↔ 全屏</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13231,7 +13231,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">浏览器 &lt;&gt; 查看器</translation>
+        <translation>浏览器 ↔ 查看器</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13239,7 +13239,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">浏览器 &gt; 全屏 &gt; 查看器</translation>
+        <translation>浏览器 → 全屏 → 查看器</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13247,7 +13247,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">浏览器 &gt; 查看器 &gt; 全屏</translation>
+        <translation>浏览器 → 查看器 → 全屏</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
@@ -20141,7 +20141,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">使用透明索引（&lt;=8位）</translation>
+        <translation>使用透明索引（≤ 8位）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21126,7 +21126,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">使用透明索引</translation>
+        <translation>使用透明索引（≤ 8位）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
