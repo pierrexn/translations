@@ -13339,7 +13339,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Catalogatore &lt;&gt; Schermo intero | Visualizzatore &lt;&gt; Schermo intero</translation>
+        <translation>Catalogatore ↔ Schermo intero | Visualizzatore ↔ Schermo intero</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13347,7 +13347,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Catalogatore &lt;&gt; Visualizzatore</translation>
+        <translation>Catalogatore ↔ Visualizzatore</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13355,7 +13355,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Catalogatore &gt; Schermo intero &gt; Visualizzatore</translation>
+        <translation>Catalogatore → Schermo intero → Visualizzatore</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13363,7 +13363,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Catalogatore &gt; Visualizzatore &gt; Schermo intero</translation>
+        <translation>Catalogatore → Visualizzatore → Schermo intero</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
@@ -20341,7 +20341,7 @@ Volete procedere?</translation>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Usa indice di trasparenza (&lt;=8bit)</translation>
+        <translation>Usa indice di trasparenza (≤ 8bit)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21164,7 +21164,7 @@ Volete procedere?</translation>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Usa indice di trasparenza (&lt;=8bit)</translation>
+        <translation>Usa indice di trasparenza (≤ 8bit)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
