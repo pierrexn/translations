@@ -86,7 +86,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="428"/>
         <source>To do</source>
-        <translation></translation>
+        <translation>To do</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="428"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="429"/>
         <source>To Do</source>
-        <translation></translation>
+        <translation>To do</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="430"/>
@@ -121,17 +121,17 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Grey</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Black</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>White</translation>
     </message>
 </context>
 <context>
@@ -139,87 +139,87 @@
     <message>
         <location filename="AboutWidget.ui" line="36"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="103"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="110"/>
         <source>Social</source>
-        <translation type="unfinished"></translation>
+        <translation>Social</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="117"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
-        <translation type="unfinished"></translation>
+        <translation>INI file</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="190"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Website</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="197"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="204"/>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="263"/>
         <source>Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="354"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>License</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="368"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Credits</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="382"/>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formats</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="420"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plug-ins</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="452"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Filename</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="457"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Description</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="462"/>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="471"/>
         <source>Command line</source>
-        <translation type="unfinished"></translation>
+        <translation>Command line</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="481"/>
@@ -229,28 +229,28 @@
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation>Read</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Write</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Extension</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="258"/>
         <location filename="AboutWidget.cpp" line="259"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="266"/>
@@ -263,7 +263,7 @@
     <message>
         <location filename="AboutWindow.h" line="24"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>About</translation>
     </message>
 </context>
 <context>
