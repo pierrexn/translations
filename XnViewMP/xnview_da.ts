@@ -13283,7 +13283,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Browser &lt;&gt; Fuldskærm | Fremviser &lt;&gt; Fuldskærm</translation>
+        <translation>Browser ↔ Fuldskærm | Fremviser ↔ Fuldskærm</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13291,7 +13291,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Browser&lt;&gt;Fremviser</translation>
+        <translation>Browser ↔ Fremviser</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13299,7 +13299,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Browser &gt; Fuldskærm &gt;Fremviser</translation>
+        <translation>Browser → Fuldskærm → Fremviser</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13307,7 +13307,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Browser &gt; Fremviser&gt; Fuldskærm</translation>
+        <translation>Browser → Fremviser → Fuldskærm</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
@@ -20207,7 +20207,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Brug gennemsigtigt indeks (&lt;= 8bits)</translation>
+        <translation>Brug gennemsigtigt indeks (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21133,7 +21133,7 @@ Vil du fortsætte?</translation>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Brug gennemsigtig indeks (&lt;= 8bits)</translation>
+        <translation>Brug gennemsigtig indeks (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
