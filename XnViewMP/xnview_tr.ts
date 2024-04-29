@@ -13183,7 +13183,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Gezgin &lt;&gt; Tam Ekran | Görüntüleyici &lt;&gt; Tam Ekran</translation>
+        <translation>Gezgin ↔ Tam Ekran | Görüntüleyici ↔ Tam Ekran</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13191,7 +13191,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Gezgin &lt;&gt; Görüntüleyici</translation>
+        <translation>Gezgin ↔ Görüntüleyici</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13199,7 +13199,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Gezgin &gt; Tam Ekran &gt; Görüntüleyici</translation>
+        <translation>Gezgin → Tam Ekran → Görüntüleyici</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13207,7 +13207,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Gezgin &gt; Görüntüleyici &gt; Tam Ekran</translation>
+        <translation>Gezgin → Görüntüleyici → Tam Ekran</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
@@ -20086,7 +20086,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Transparan İndex Kullan(&lt;=8bits)</translation>
+        <translation>Transparan İndex Kullan(≤ 8bits)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -20991,7 +20991,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Transparan İndex Kullan (&lt;=8bits)</translation>
+        <translation>Transparan İndex Kullan (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
