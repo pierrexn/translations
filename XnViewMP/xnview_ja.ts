@@ -13244,7 +13244,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">ブラウザ &lt;&gt; 全画面表示 | ビューア &lt;&gt; 全画面表示</translation>
+        <translation>ブラウザ ↔ 全画面表示 | ビューア ↔ 全画面表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13252,7 +13252,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">ブラウザ &lt;&gt; ビューア</translation>
+        <translation>ブラウザ ↔ ビューア</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13260,7 +13260,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">ブラウザ &gt; 全画面表示 &gt;ビューア</translation>
+        <translation>ブラウザ → 全画面表示 →ビューア</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13268,7 +13268,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">ブラウザ &gt; ビューア &gt; 全画面表示</translation>
+        <translation>ブラウザ → ビューア → 全画面表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -20506,7 +20506,7 @@ Do you want to continue?</source>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translatorcomment>TXT_NviewMenu_Use_Transparent_Index</translatorcomment>
-        <translation type="unfinished">透過インデックスを使用(&lt;=8ビット)</translation>
+        <translation>透過インデックスを使用(≤ 8ビット)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21368,7 +21368,7 @@ Do you want to continue?</source>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translatorcomment>TXT_NviewMenu_Use_Transparent_Index</translatorcomment>
-        <translation type="unfinished">透過インデックスを使用(&lt;=8ビット)</translation>
+        <translation>透過インデックスを使用(≤ 8ビット)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
