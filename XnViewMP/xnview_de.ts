@@ -13098,7 +13098,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Bildverwaltung &lt;&gt;Vollbild | Bildansicht &lt;&gt;Vollbild</translation>
+        <translation>Bildverwaltung ↔ Vollbild | Bildansicht ↔ Vollbild</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13106,7 +13106,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Bildverwaltung &lt;&gt; Bildansicht</translation>
+        <translation>Bildverwaltung ↔ Bildansicht</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13114,7 +13114,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Bildverwaltung &gt; Vollbild &gt; Bildansicht</translation>
+        <translation>Bildverwaltung → Vollbild → Bildansicht</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13122,7 +13122,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Bildverwaltung &gt; Bildansicht &gt; Vollbild</translation>
+        <translation>Bildverwaltung → Bildansicht → Vollbild</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -20171,7 +20171,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Transparenten Index verwenden (&lt;=8bits)</translation>
+        <translation>Transparenten Index verwenden (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21001,7 +21001,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Transparenz anzeigen (&lt;=8 Bit)</translation>
+        <translation>Transparenten Index verwenden (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
