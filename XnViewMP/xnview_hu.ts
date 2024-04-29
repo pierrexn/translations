@@ -13209,7 +13209,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation type="unfinished">Böngésző &lt;&gt; Teljes képernyő | Betekintő &lt;&gt; Teljes képernyő</translation>
+        <translation>Böngésző ↔ Teljes képernyő | Betekintő ↔ Teljes képernyő</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13217,7 +13217,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation type="unfinished">Böngésző &lt;&gt; Betekintő</translation>
+        <translation>Böngésző ↔ Betekintő</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13225,7 +13225,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation type="unfinished">Böngésző &gt; Teljes képernyő &gt; Betekintő</translation>
+        <translation>Böngésző → Teljes képernyő → Betekintő</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13233,7 +13233,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation type="unfinished">Böngésző &gt; Betekintő &gt; Teljes képernyő</translation>
+        <translation>Böngésző → Betekintő → Teljes képernyő</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="241"/>
@@ -20084,7 +20084,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="639"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Áttetszési index használata (&lt;=8bits)</translation>
+        <translation>Áttetszési index használata (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21001,7 +21001,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished">Áttetszési index használata (&lt;=8bits)</translation>
+        <translation>Áttetszési index használata (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
