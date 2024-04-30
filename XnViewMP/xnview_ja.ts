@@ -12100,7 +12100,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">フィルター＞カスタム</translation>
+        <translation>フィルター › カスタム</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -14037,7 +14037,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">（設定から＞ファイルリスト＞カスタム検索）</translation>
+        <translation>（設定から › ファイルリスト › カスタム検索）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="708"/>
