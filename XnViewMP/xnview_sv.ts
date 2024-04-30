@@ -11984,7 +11984,7 @@ miniatyr</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Använt av filter&gt;Anpassat</translation>
+        <translation>Använt av filter › Anpassat</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13915,7 +13915,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(Från Inställningar&gt;Fillista&gt;Anpassat filter)</translation>
+        <translation>(Från Inställningar › Fillista › Anpassat filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="708"/>
