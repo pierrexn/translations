@@ -11963,7 +11963,7 @@ Miniatyrbilde</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Brukt av Filter→Tilpasset</translation>
+        <translation>Brukt av Filter › Tilpasset</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
