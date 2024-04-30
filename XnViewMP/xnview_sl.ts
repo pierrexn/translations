@@ -12018,7 +12018,7 @@ sličico</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Uporabi z Filter&gt; Po meri</translation>
+        <translation>Uporabi z Filter › Po meri</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -14029,7 +14029,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(Iz Nastavitve&gt;Seznam datotek&gt;Filter po meri)</translation>
+        <translation>(Iz Nastavitve › Seznam datotek › Filter po meri)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
