@@ -11944,7 +11944,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Filtre&gt;Özel Kullanımı</translation>
+        <translation>Filtre › Özel Kullanımı</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
