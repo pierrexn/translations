@@ -12050,7 +12050,7 @@ Náhled</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Používá se ve Filtr&gt;Vlastní</translation>
+        <translation>Používá se ve Filtr › Vlastní</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13973,7 +13973,7 @@ Do you want to reassign?</source>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
         <translatorcomment>For better readability, I would add spaces aroud the &gt; characters.</translatorcomment>
-        <translation type="unfinished">(Podle Nastavení &gt; Seznam souborů &gt; Vlastní filtr)</translation>
+        <translation>(Podle Nastavení › Seznam souborů › Vlastní filtr)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="708"/>
