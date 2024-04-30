@@ -13967,7 +13967,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="921"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation>Meervoudige pictogrammen tekenen als &apos;snapshot&apos;</translation>
+        <translation>Meervoudige .ico-bestanden als verzameling weergeven</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="700"/>
