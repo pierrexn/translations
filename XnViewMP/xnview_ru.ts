@@ -396,7 +396,7 @@
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Вы действительно хотите удалить 
-&quot; %1&quot;?</translation>
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2211"/>
@@ -2053,7 +2053,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.cpp" line="81"/>
         <source>Scan started...</source>
-        <translation>Сканирование началось ...</translation>
+        <translation>Сканирование началось...</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="149"/>
@@ -2979,12 +2979,12 @@ Do you want to overwrite it?</source>
         <location filename="DlgCapture.ui" line="172"/>
         <source>Open in View mode</source>
         <oldsource>Open in editor</oldsource>
-        <translation>Открыть в редакторе</translation>
+        <translation>Открыть в режиме Просмотра</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="179"/>
         <source>Open in Draw mode</source>
-        <translation>Открыть в режиме &quot;Рисование&quot;</translation>
+        <translation>Открыть в режиме Рисование</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="188"/>
@@ -3208,7 +3208,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgComment.ui" line="145"/>
         <source>Write &amp;all</source>
         <oldsource>Write all</oldsource>
-        <translation>Сохранить все</translation>
+        <translation>Записать все</translation>
     </message>
 </context>
 <context>
@@ -4742,7 +4742,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.ui" line="1158"/>
         <source>Open in Browser</source>
-        <translation>Открыть в обозревателе</translation>
+        <translation>Открыть в Обозревателе</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1165"/>
@@ -7119,12 +7119,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgEditGps.ui" line="270"/>
         <source>Write</source>
-        <translation>Сохранить</translation>
+        <translation>Записать</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="277"/>
         <source>Write all</source>
-        <translation>Сохранить все</translation>
+        <translation>Записать все</translation>
     </message>
     <message>
         <location filename="DlgEditGps.cpp" line="34"/>
@@ -7749,7 +7749,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.cpp" line="348"/>
         <location filename="DlgExport.cpp" line="350"/>
         <source>Packbits</source>
-        <translation>Битовое сжатие</translation>
+        <translation>PackBits</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="598"/>
@@ -8435,7 +8435,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.ui" line="72"/>
         <source>Overwrite</source>
-        <translation>Переписать</translation>
+        <translation>Перезаписать</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="79"/>
@@ -10659,7 +10659,7 @@ Thank you for purchasing %1.</source>
         <location filename="DlgResize.cpp" line="422"/>
         <source>Result image size: %1x%2 - %3 Mpixels</source>
         <oldsource>Result image size: %1x%2 - %1 Mpixels</oldsource>
-        <translation>Итоговый размер изображения: %1 Мп</translation>
+        <translation>Итоговый размер: %1x%2 - %3 Мп</translation>
     </message>
     <message>
         <location filename="DlgResize.cpp" line="1102"/>
@@ -10724,7 +10724,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgResize.ui" line="113"/>
         <source>Load &apos;Default values&apos;</source>
-        <translation>Загрузить &quot;Настройки по умолчанию&quot;</translation>
+        <translation>Загрузить &quot;Значения по умолчанию&quot;</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="163"/>
@@ -10985,7 +10985,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use RegExp</source>
-        <translation>Использовать RegExp</translation>
+        <translation>Использовать регулярные выражения</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11051,7 +11051,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSearch.ui" line="325"/>
         <source>Save current search</source>
-        <translation>Сохранить текущий поиск как...</translation>
+        <translation>Сохранить текущий поиск как</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="339"/>
@@ -11529,7 +11529,7 @@ Thank you for purchasing %1.</source>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
-        <translation>База данных - Абсолютный/относительный путь</translation>
+        <translation>Каталог - Абсолютные/относительные пути</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
@@ -11546,7 +11546,7 @@ Do you want to change the &apos;base path&apos;?</source>
         <location filename="DlgSettingsCache.cpp" line="360"/>
         <location filename="DlgSettingsCache.cpp" line="978"/>
         <source>Catalog - Remove Entries</source>
-        <translation>База данных - Удалить записи</translation>
+        <translation>Каталог - Удалить записи</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="511"/>
@@ -11567,7 +11567,7 @@ Do you want to continue?</source>
         <location filename="DlgSettingsCache.cpp" line="546"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
-        <translation>База данных - Переместить папку</translation>
+        <translation>Каталог - Переместить папку</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="546"/>
@@ -11677,7 +11677,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of your pictures</source>
-        <translation>Основной путь к изображениям</translation>
+        <translation>Базовый путь к изображениям</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
@@ -11688,7 +11688,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="42"/>
         <source>Enable Catalog</source>
         <translatorcomment>????</translatorcomment>
-        <translation>Включить каталог</translation>
+        <translation>Включить Каталог</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="105"/>
@@ -11747,7 +11747,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="322"/>
         <location filename="DlgSettingsCache.ui" line="505"/>
         <source>Delete all</source>
-        <translation>Удалить всё</translation>
+        <translation>Удалить все</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="361"/>
@@ -12278,7 +12278,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="186"/>
         <source>Ask</source>
-        <translation>Уведомление</translation>
+        <translation>Уведомлять</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="191"/>
@@ -15248,13 +15248,13 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="548"/>
         <source>Write</source>
-        <translation>Сохранить</translation>
+        <translation>Записать</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="555"/>
         <source>Write to all files</source>
         <oldsource>Write all</oldsource>
-        <translation>Сохранить все</translation>
+        <translation>Записать во все файлы</translation>
     </message>
 </context>
 <context>
@@ -15700,7 +15700,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
         <source>Speed</source>
-        <translation>Скорость смены переходов</translation>
+        <translation>Скорость</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="128"/>
@@ -15873,7 +15873,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation>Преобразовать в XYB цветовое пространство</translation>
+        <translation>Преобразовать в цветовое пространство XYB</translation>
     </message>
 </context>
 <context>
@@ -19325,7 +19325,7 @@ Do you want to continue?</source>
         <location filename="DlgSettingsView.cpp" line="284"/>
         <location filename="BrowserMenu.h" line="648"/>
         <source>Fit image to window, large only</source>
-        <translation>По размеру окна, только если изображение больше размера окна</translation>
+        <translation>По размеру окна, только большие</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
@@ -20134,7 +20134,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="555"/>
         <source>Open in file explorer</source>
-        <translation>Открыть файл в проводнике</translation>
+        <translation>Открыть в проводнике</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="557"/>
@@ -20341,7 +20341,7 @@ Do you want to continue?</source>
         <location filename="DlgSettingsView.cpp" line="283"/>
         <location filename="BrowserMenu.h" line="649"/>
         <source>Fit image to window, small only</source>
-        <translation>По размеру окна, только если изображение меньше размера окна</translation>
+        <translation>По размеру окна, только маленькие</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -20620,7 +20620,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="317"/>
         <source>Fit image to window, large only</source>
-        <translation>По размеру окна, только если изображение больше размера окна</translation>
+        <translation>По размеру окна, только большие</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="319"/>
@@ -20697,7 +20697,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="318"/>
         <source>Fit image to window, small only</source>
-        <translation>По размеру окна, только если изображение меньше размера окна</translation>
+        <translation>По размеру окна, только маленькие</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="305"/>
@@ -20805,7 +20805,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="276"/>
         <source>Open in file explorer</source>
-        <translation>Открыть файл в проводнике</translation>
+        <translation>Открыть в проводнике</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="278"/>
@@ -21595,7 +21595,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="444"/>
         <source>Align...</source>
-        <translation>Выровнить...</translation>
+        <translation>Выровнять...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="456"/>
@@ -22540,7 +22540,7 @@ You can change it in Settings&gt;Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
-        <translation type="unfinished">Управлять...</translation>
+        <translation>Управлять...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -22600,7 +22600,7 @@ You can change it in Settings&gt;Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.cpp" line="1399"/>
         <source>Include color</source>
-        <translation type="unfinished">Захватить цвет</translation>
+        <translation>Захватить цвет</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="1406"/>
@@ -23168,12 +23168,12 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtoverwritedialog.ui" line="167"/>
         <source>Overwrite</source>
-        <translation>Переписать</translation>
+        <translation>Перезаписать</translation>
     </message>
     <message>
         <location filename="qtoverwritedialog.ui" line="174"/>
         <source>Overwrite All</source>
-        <translation>Переписать все</translation>
+        <translation>Перезаписать все</translation>
     </message>
     <message>
         <location filename="qtoverwritedialog.ui" line="181"/>
@@ -23915,7 +23915,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>Packbits</source>
-        <translation>Битовое сжатие</translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
@@ -23970,8 +23970,8 @@ Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
         <translation>XnViewMP обновит каталог. Этот процесс может занять некоторое время.
 
-Вы хотите сохранить эскизы изображений?
- (Если вы выберете ДА, то на обновление потребуется больше времени)</translation>
+Вы хотите сохранить эскизы? 
+(Если вы выберете ДА, то на обновление потребуется больше времени)</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="486"/>
