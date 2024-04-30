@@ -11934,7 +11934,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">&quot;필터&gt;사용자 정의&quot;순으로 사용되었습니다</translation>
+        <translation>&quot;필터 › 사용자 정의&quot;순으로 사용되었습니다</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13942,7 +13942,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(설정&gt;파일 목록&gt;커스텀 필터)</translation>
+        <translation>(설정 › 파일 목록 › 커스텀 필터)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
