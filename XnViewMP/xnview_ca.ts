@@ -11993,7 +11993,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Usat per Filtre&gt;Personal</translation>
+        <translation>Usat per Filtre › Personal</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -14007,7 +14007,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(Configuració&gt;Llista de fitxers&gt;Filtre personal)</translation>
+        <translation>(Configuració › Llista de fitxers › Filtre personal)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
