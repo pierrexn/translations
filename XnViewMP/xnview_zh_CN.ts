@@ -10335,7 +10335,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation>请从 工具 &gt; 插件 处安装</translation>
+        <translation>请从 工具 › 插件 处安装</translation>
     </message>
 </context>
 <context>
@@ -11982,7 +11982,7 @@ Thumbnail</source>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
         <translatorcomment>是指在浏览器模式菜单的“筛选”-》“自定义”？？？</translatorcomment>
-        <translation type="unfinished">用于 筛选 &gt; 自定义</translation>
+        <translation>用于 筛选 › 自定义</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13943,7 +13943,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">来自 设置 &gt; 文件列表 &gt; 自定义过滤器</translation>
+        <translation>来自 设置 › 文件列表 › 自定义过滤器</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="708"/>
