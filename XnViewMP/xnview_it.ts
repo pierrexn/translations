@@ -12091,7 +12091,7 @@ miniatura</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Utilizzato da Filtro&gt;Personalizzato</translation>
+        <translation>Utilizzato da Filtro › Personalizzato</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -14022,7 +14022,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(Da Impostzioni&gt; Elenco dei file&gt;Filtro Personalato)</translation>
+        <translation>(Da Impostzioni › Elenco dei file › Filtro Personalato)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="708"/>
