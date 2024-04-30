@@ -11960,7 +11960,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Kasutatud filter&gt;Kohandatud</translation>
+        <translation>Kasutatud filter › Kohandatud</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
