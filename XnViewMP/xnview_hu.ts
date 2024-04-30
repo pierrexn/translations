@@ -13842,7 +13842,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(Beállítások&gt;Fájllista&gt;Egyéni szűrő)</translation>
+        <translation>(Beállítások › Fájllista › Egyéni szűrő)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
