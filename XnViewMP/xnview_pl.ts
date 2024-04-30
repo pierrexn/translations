@@ -11996,7 +11996,7 @@ miniatury</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Aby użyć filtru użytkownika, wybierz Filtr -&gt; Użytkownika</translation>
+        <translation>Aby użyć filtru użytkownika, wybierz Filtr › Użytkownika</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13926,7 +13926,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(z ustawień &gt; Lista plików &gt; Filtr użytkownika)</translation>
+        <translation>(z ustawień › Lista plików › Filtr użytkownika)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="708"/>
