@@ -12009,7 +12009,7 @@ Thumbnail</source>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
         <translatorcomment>Схиляння не те, але в меню не можливо змінити</translatorcomment>
-        <translation type="unfinished">Використання: Вид -&gt;Фільтр -&gt;Призначена для користувача</translation>
+        <translation>Використання: Вид › Фільтр › Призначена для користувача</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
