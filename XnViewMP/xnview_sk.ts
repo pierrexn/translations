@@ -11991,7 +11991,7 @@ Miniatúru</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Použitý pri možnosti Filtrovať&gt;Vlastné</translation>
+        <translation>Použitý pri možnosti Filtrovať › Vlastné</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -13919,7 +13919,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="671"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished">(Z Nastavenia&gt;Zoznam súborov&gt;Vlastný filter)</translation>
+        <translation>(Z Nastavenia › Zoznam súborov › Vlastný filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="708"/>
