@@ -1540,7 +1540,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertText.h" line="27"/>
         <source>Center</source>
-        <translation>中间</translation>
+        <translation>中</translation>
     </message>
     <message>
         <location filename="DlgConvertText.h" line="28"/>
@@ -2844,7 +2844,8 @@ Drag and Drop over the desired node to assign.</source>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">文件 %1 已存在。确定要覆盖吗?</translation>
+        <translation>文件 %1 已存在。
+确定要覆盖吗?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
@@ -3843,7 +3844,8 @@ Do you want to overwrite it?</source>
         <source>A file called %1 already exists.
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">文件%1已存在。是确定要覆盖吗?</translation>
+        <translation>文件%1已存在。
+是确定要覆盖吗?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2614"/>
@@ -4171,7 +4173,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top center</source>
-        <translation>顶部居中</translation>
+        <translation>中上</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
@@ -4181,17 +4183,17 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center left</source>
-        <translation>中部靠左</translation>
+        <translation>左中</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
         <source>Center</source>
-        <translation></translation>
+        <translation>中</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center right</source>
-        <translation>中部靠右</translation>
+        <translation>右中</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
@@ -4201,7 +4203,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom center</source>
-        <translation>底部居中</translation>
+        <translation>中下</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
@@ -4345,7 +4347,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">左上</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
@@ -6372,7 +6374,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>中下</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
@@ -6446,12 +6448,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左中</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右中</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6608,12 +6610,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左中</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右中</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6713,7 +6715,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>中下</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
@@ -9796,7 +9798,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="574"/>
         <source>Center-Left</source>
-        <translation>中左</translation>
+        <translation>左中</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="579"/>
@@ -10333,7 +10335,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>请从 工具 &gt; 插件 处安装</translation>
     </message>
 </context>
 <context>
@@ -10786,12 +10788,12 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgResize.ui" line="619"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>中-左</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="629"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>中-右</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="614"/>
@@ -11918,7 +11920,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>排序</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
@@ -13982,7 +13984,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>黄金分割(Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="749"/>
@@ -18787,7 +18789,7 @@ Do you want to continue?</source>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>希伯来文</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
