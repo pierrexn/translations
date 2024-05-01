@@ -814,13 +814,13 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Tilldela uppsättning till samlingen...</translation>
+        <translation>Tilldela uppsättning till samlingen</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Ta bort tilldelning från samlingen...</translation>
+        <translation>Ta bort tilldelning från samlingen</translation>
     </message>
 </context>
 <context>
