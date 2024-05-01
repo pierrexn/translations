@@ -819,14 +819,14 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Přiřadit sadu k výběru...</translation>
+        <translation>Přiřadit sadu k výběru</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
         <translatorcomment>Unassign FROM selection?</translatorcomment>
-        <translation type="unfinished">Odebrat sadu od výběru...</translation>
+        <translation>Odebrat sadu od výběru</translation>
     </message>
 </context>
 <context>
@@ -3842,7 +3842,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Přepsat soubor?</translation>
+        <translation>Přepsat soubor</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
