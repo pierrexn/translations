@@ -517,14 +517,16 @@
     <message>
         <location filename="Bookmarks.cpp" line="162"/>
         <source>Favorite doesn&apos;t exist</source>
-        <translation>La favori n&apos;existe pas</translation>
+        <translation>Le favori n&apos;existe pas</translation>
     </message>
     <message>
         <location filename="Bookmarks.cpp" line="162"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce favori pointe vers un dossier inexistant. 
+
+Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -812,13 +814,13 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Assigner le Groupe à la sélection...</translation>
+        <translation>Assigner le Groupe à la sélection</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Enlever le Groupe de la sélection...</translation>
+        <translation>Enlever le Groupe de la sélection</translation>
     </message>
 </context>
 <context>
@@ -2838,7 +2840,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Ecraser le fichier ?</translation>
+        <translation>Ecraser le fichier</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -2846,7 +2848,8 @@ Drag and Drop over the desired node to assign.</source>
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Un fichier nommé %1 existe déjà. Voulez-vous l&apos;écraser ?</translation>
+        <translation>Un fichier nommé %1 existe déjà. 
+Voulez-vous l&apos;écraser ?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3547,7 +3550,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">La version %1 de XnConvert est disponible, voulez-vous aller à la page de téléchargement ?</translation>
+        <translation>La version %1 de XnConvert est disponible. 
+
+Voulez-vous aller à la page de téléchargement ?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1411"/>
@@ -3609,7 +3614,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Le fichier destination existe déjà, voulez-vous l&apos;écraser ?</translation>
+        <translation>Le fichier destination existe déjà. 
+
+Voulez-vous l&apos;écraser ?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3852,7 +3859,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Ecraser le fichier ?</translation>
+        <translation>Ecraser le fichier</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -3860,7 +3867,7 @@ Do you want to continue?</source>
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Un fichier nommé %1 existe déjà. 
+        <translation>Un fichier nommé %1 existe déjà. 
 Voulez-vous l&apos;écraser ?</translation>
     </message>
     <message>
@@ -10353,7 +10360,7 @@ Merci d&apos;avoir acheté %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Merci de l&apos;installer via Outils › Plugins</translation>
     </message>
 </context>
 <context>
@@ -10373,7 +10380,9 @@ Merci d&apos;avoir acheté %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Des fichiers companions ont été détectés, ils seront automatiquement renommés pour suivre le ficher maître. 
+
+Voulez-vous les enlever?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -11479,7 +11488,10 @@ Do you want to remove them?</source>
 Do it only if you want to share same folder between several computers. 
 
 Do you want to change the &apos;base path&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>La modification du &quot;chemin de base&quot; peut déconnecter les fichiers stockés dans la base de données. 
+Ne le faites que si vous souhaitez partager le même dossier entre plusieurs ordinateurs. 
+
+Voulez-vous modifier le &quot;chemin de base&quot; ?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="360"/>
@@ -11923,7 +11935,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Tri</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
@@ -12584,7 +12596,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="713"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez démarrer XnViewMP avec les droits d&apos;administrateur (uniquement la première fois).</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.cpp" line="30"/>
@@ -12730,7 +12742,10 @@ Vignette</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 est déjà affecté à :
+%2
+
+Voulez-vous le réaffecter ?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1197"/>
@@ -13293,7 +13308,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation type="unfinished">Appliquer automatiquement les mots-clés parents (Ctrl + clic pour un seul mot-clé)</translation>
+        <translation>Appliquer automatiquement les mots-clés parents (Ctrl + clic pour un seul mot-clé)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
@@ -14003,7 +14018,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ratio d&apos;or (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="763"/>
@@ -15014,7 +15029,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Cela modifiera les régions XMP du fichier.  
+
+Voulez-vous continuer?</translation>
     </message>
 </context>
 <context>
@@ -15106,7 +15123,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation type="unfinished">Incrémenter à chaque fichiers de</translation>
+        <translation>Incrémenter à chaque fichier de</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -16033,7 +16050,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser une conversion RVB→YUV nette (et lente)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -16128,7 +16145,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce favori pointe vers un dossier inexistant. 
+
+Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -16676,31 +16695,31 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="701"/>
         <location filename="InfoPropertiesView.cpp" line="720"/>
         <source>Bit rate</source>
-        <translation type="unfinished">Débit binaire</translation>
+        <translation>Débit binaire</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="684"/>
         <source>Aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport d&apos;aspect</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="685"/>
         <source>Frame rate mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode de fréquence d&apos;images</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="686"/>
         <location filename="InfoPropertiesView.cpp" line="703"/>
         <location filename="InfoPropertiesView.cpp" line="722"/>
         <source>Frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Taux de rafraîchissement</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="687"/>
         <location filename="InfoPropertiesView.cpp" line="704"/>
         <location filename="InfoPropertiesView.cpp" line="723"/>
         <source>Compression mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode de compression</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="688"/>
@@ -16717,7 +16736,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="696"/>
         <location filename="InfoPropertiesView.cpp" line="715"/>
         <source>Format profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil de format</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="697"/>
@@ -17686,7 +17705,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2589"/>
         <source>Location Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code de localisation</translation>
     </message>
 </context>
 <context>
@@ -18510,7 +18529,9 @@ Do you want to continue?</source>
 Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Cette image sera convertie en RGB avec 8 bits par composant.\nVoulez-vous continuer ?</translation>
+        <translation>Cette image sera convertie en RGB avec 8 bits par composant. 
+
+Voulez-vous continuer ?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
@@ -19708,7 +19729,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">Ouvrir avec</translation>
+        <translation>Ouvrir avec</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -22007,8 +22028,8 @@ Do you want to continue?</oldsource>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">Les vignettes dans le catalogue sont plus petites que la taille voulue.
-Vous pouvez changer celle-ci dans Paramêtres &gt; Catalogue</translation>
+        <translation>Les vignettes dans le catalogue sont plus petites que la taille voulue. 
+Vous pouvez changer celle-ci dans Paramêtres › Catalogue</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
