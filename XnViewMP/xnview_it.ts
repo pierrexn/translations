@@ -820,14 +820,14 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
         <translatorcomment>Alternative: Set=insieme,collezione</translatorcomment>
-        <translation type="unfinished">Assegna gruppo alla selezione...</translation>
+        <translation>Assegna gruppo alla selezione</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
         <translatorcomment>Alternative: Set=insieme,collezione</translatorcomment>
-        <translation type="unfinished">Rimuovi gruppo dalla selezione...</translation>
+        <translation>Rimuovi gruppo dalla selezione</translation>
     </message>
 </context>
 <context>
