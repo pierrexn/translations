@@ -518,9 +518,9 @@
     <message>
         <location filename="Bookmarks.cpp" line="162"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>이 즐겨찾기는 존재하지 않는 폴더를 가리키고 있습니다.
-&quot;%1&quot; 즐겨찾기를 삭제할까요?</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -806,13 +806,15 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="208"/>
-        <source>Assign Set to selection...</source>
-        <translation>선택에 세트 할당하기...</translation>
+        <source>Assign Set to selection</source>
+        <oldsource>Assign Set to selection...</oldsource>
+        <translation type="unfinished">선택에 세트 할당하기...</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
-        <source>Unassign Set to selection...</source>
-        <translation>선택에 세트 할당 해제하기...</translation>
+        <source>Unassign Set from selection</source>
+        <oldsource>Unassign Set to selection...</oldsource>
+        <translation type="unfinished">선택에 세트 할당 해제하기...</translation>
     </message>
 </context>
 <context>
@@ -1768,8 +1770,8 @@ Drag and Drop over the desired node to assign.</source>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1570"/>
-        <location filename="DlgConvert.cpp" line="2661"/>
+        <location filename="DlgBatchResize.cpp" line="1569"/>
+        <location filename="DlgConvert.cpp" line="2660"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 파일 - %2% - %3</translation>
     </message>
@@ -2761,7 +2763,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="662"/>
-        <location filename="DlgBatchResize.cpp" line="1562"/>
+        <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n 시간 및</numerusform>
@@ -2824,51 +2826,53 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1519"/>
-        <source>Overwrite file?</source>
-        <translation>파일을 덮어쓸까요?</translation>
+        <source>Overwrite file</source>
+        <oldsource>Overwrite file?</oldsource>
+        <translation type="unfinished">파일을 덮어쓸까요?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <oldsource>A file called %1 already exists.
+Do you want to overwrite it?</oldsource>
         <translation type="unfinished">%1 파일은 이미 존재합니다. 덮어쓸까요?</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1523"/>
+        <location filename="DlgBatchResize.cpp" line="1522"/>
         <source>Yes to &amp;all</source>
         <translation>모두 예(&amp;A)</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1524"/>
+        <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>&amp;Yes</source>
         <translation>예(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1525"/>
+        <location filename="DlgBatchResize.cpp" line="1524"/>
         <source>&amp;No</source>
         <translation>아니오(&amp;N)</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1526"/>
+        <location filename="DlgBatchResize.cpp" line="1525"/>
         <source>&amp;Rename</source>
         <translation>이름 변경(&amp;R)</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1527"/>
+        <location filename="DlgBatchResize.cpp" line="1526"/>
         <source>&amp;Cancel</source>
         <translation>취소(&amp;C)</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1555"/>
+        <location filename="DlgBatchResize.cpp" line="1554"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n 초 남음</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1558"/>
-        <location filename="DlgBatchResize.cpp" line="1562"/>
+        <location filename="DlgBatchResize.cpp" line="1557"/>
+        <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n 분 남음</numerusform>
@@ -3525,8 +3529,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1306"/>
-        <source>The %1 version of XnConvert is available, do you want to go on the download page?</source>
-        <translation>%1 버전의 XnViewMP를 이용 가능합니다. 다운로드 페이지로 이동할까요?</translation>
+        <source>The %1 version of XnConvert is available. 
+
+Do you want to go on the download page?</source>
+        <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
+        <translation type="unfinished">%1 버전의 XnViewMP를 이용 가능합니다. 다운로드 페이지로 이동할까요?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1411"/>
@@ -3583,8 +3590,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2335"/>
-        <source>Output file exists already, do you want to overwrite it?</source>
-        <translation>출력 파일이 이미 존재합니다, 덮어쓸까요?</translation>
+        <source>Output file already exist. 
+
+Do you want to overwrite it?</source>
+        <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
+        <translation type="unfinished">출력 파일이 이미 존재합니다, 덮어쓸까요?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3618,39 +3628,34 @@ Do you want to overwrite it?</source>
         <translation>로딩</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2646"/>
+        <location filename="DlgConvert.cpp" line="2645"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n 초 남음</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2649"/>
-        <location filename="DlgConvert.cpp" line="2653"/>
+        <location filename="DlgConvert.cpp" line="2648"/>
+        <location filename="DlgConvert.cpp" line="2652"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n 분 남음</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2708"/>
-        <source>You have the option to keep original file if result is larger and some actions, do you want to continue?</source>
-        <translation>일부 액션이나 결과물이 원본 파일보다 클 경우 원본 파일을 유지하는 옵션을 선택하였습니다. 계속하시겠습니까?</translation>
-    </message>
-    <message>
-        <location filename="DlgConvert.cpp" line="2836"/>
+        <location filename="DlgConvert.cpp" line="2835"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>&apos;멀티코어 사용&apos;옵션이 꺼져 있습니다. 이 옵션은 &apos;묻기&apos;모드 또는 여러 페이지의 PDF파일과 함께 사용할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2838"/>
+        <location filename="DlgConvert.cpp" line="2837"/>
         <source>Started at: </source>
         <translation>시작: </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2304"/>
-        <location filename="DlgConvert.cpp" line="2653"/>
+        <location filename="DlgConvert.cpp" line="2652"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n 시간 및</numerusform>
@@ -3692,14 +3697,16 @@ Do you want to overwrite it?</source>
         <translation>전체 시간:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
-        <source>Output filename</source>
-        <translation>출력 파일명</translation>
+        <location filename="DlgConvert.cpp" line="2674"/>
+        <source>The &apos;Delete original&apos; option is enabled
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
-        <source>Output filename will be the same for all converted files, do you want to continue?</source>
-        <translation>출력 파일명이 전체 변환된 파일에 대해 동일합니다, 계속할까요?</translation>
+        <location filename="DlgConvert.cpp" line="2684"/>
+        <source>Output filename</source>
+        <translation>출력 파일명</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2481"/>
@@ -3834,48 +3841,59 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2610"/>
-        <source>Overwrite file?</source>
-        <translation>파일을 덮어쓸까요?</translation>
+        <source>Overwrite file</source>
+        <oldsource>Overwrite file?</oldsource>
+        <translation type="unfinished">파일을 덮어쓸까요?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <oldsource>A file called %1 already exists.
+Do you want to overwrite it?</oldsource>
         <translation type="unfinished">%1 파일은 이미 존재합니다. 덮어쓸까요?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2614"/>
+        <location filename="DlgConvert.cpp" line="2613"/>
         <source>Yes to &amp;all</source>
         <translation>모두 예(&amp;A)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2615"/>
+        <location filename="DlgConvert.cpp" line="2614"/>
         <source>&amp;Yes</source>
         <translation>예(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2616"/>
+        <location filename="DlgConvert.cpp" line="2615"/>
         <source>&amp;No</source>
         <translation>아니오(&amp;N)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2617"/>
+        <location filename="DlgConvert.cpp" line="2616"/>
         <source>&amp;Rename</source>
         <translation>이름 변경(&amp;R)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2618"/>
+        <location filename="DlgConvert.cpp" line="2617"/>
         <source>&amp;Cancel</source>
         <translation>취소(&amp;C)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2675"/>
-        <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
-        <translation>&apos;원본 삭제&apos; 옵션이 활성화되었습니다, 계속할까요?</translation>
+        <location filename="DlgConvert.cpp" line="2684"/>
+        <source>Output filename will be the same for all converted files. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2694"/>
+        <location filename="DlgConvert.cpp" line="2707"/>
+        <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="2693"/>
         <source>Choose output pathname</source>
         <translation>출력 경로명을 선택하세요</translation>
     </message>
@@ -8639,7 +8657,6 @@ Subfolders will be created. </source>
         <translation>하위 폴더</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="146"/>
         <location filename="DlgImport.ui" line="255"/>
         <source>...</source>
         <translation>...</translation>
@@ -10291,7 +10308,7 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10309,8 +10326,10 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="312"/>
-        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. Do you want to remove them?</source>
-        <translation>파일 목록에서 컴패니언 파일이 감지되었으며 해당되는 마스터 파일명으로 이름이 변경됩니다. 제거 하시겠습니까?</translation>
+        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
+
+Do you want to remove them?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -11384,7 +11403,7 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="91"/>
         <location filename="DlgSettingsCache.cpp" line="293"/>
-        <location filename="DlgSettingsCache.cpp" line="1107"/>
+        <location filename="DlgSettingsCache.cpp" line="1084"/>
         <source>Excluded</source>
         <translation>제외</translation>
     </message>
@@ -11418,7 +11437,7 @@ Do you want to change the &apos;base path&apos;?</source>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="360"/>
-        <location filename="DlgSettingsCache.cpp" line="978"/>
+        <location filename="DlgSettingsCache.cpp" line="970"/>
         <source>Catalog - Remove Entries</source>
         <translation>카탈로그 - 항목 제거</translation>
     </message>
@@ -11488,13 +11507,8 @@ Do you want to check for affected entries first?</source>
         <translation>카테고리 트리를 XnView 카테고리로 성공적으로 가져왔습니다</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="971"/>
-        <source>Catalog</source>
-        <translation>카테고리</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
-        <location filename="DlgSettingsCache.cpp" line="979"/>
+        <location filename="DlgSettingsCache.cpp" line="971"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -11516,17 +11530,6 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.cpp" line="931"/>
         <source>Can&apos;t import XnView database</source>
         <translation>XnView 데이터베이스를 불러올 수 없습니다</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.cpp" line="999"/>
-        <source>Database</source>
-        <translation>데이터베이스</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.cpp" line="972"/>
-        <location filename="DlgSettingsCache.cpp" line="1000"/>
-        <source>Now we&apos;ll clean the thumbs. Do you want to shrink the database also?</source>
-        <translation>지금 썸네일을 지울 것입니다. 데이터베이스도 줄일까요?</translation>
     </message>
 </context>
 <context>
@@ -12640,38 +12643,38 @@ Thumbnail</source>
         <translation>-- 새 XMP 템플릿 --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="500"/>
+        <location filename="DlgSettingsInterface.cpp" line="507"/>
         <source>Browse mode</source>
         <translation>찾아보기 모드</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="501"/>
+        <location filename="DlgSettingsInterface.cpp" line="508"/>
         <source>Viewer mode</source>
         <translation>뷰어 모드</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="778"/>
-        <location filename="DlgSettingsInterface.cpp" line="798"/>
+        <location filename="DlgSettingsInterface.cpp" line="785"/>
+        <location filename="DlgSettingsInterface.cpp" line="805"/>
         <source>Set Icon...</source>
         <translation>아이콘 설정...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="976"/>
+        <location filename="DlgSettingsInterface.cpp" line="983"/>
         <source>Set label</source>
         <translation>레이블 설정</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="977"/>
+        <location filename="DlgSettingsInterface.cpp" line="984"/>
         <source>Label:</source>
         <translation>레이블:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1130"/>
+        <location filename="DlgSettingsInterface.cpp" line="1133"/>
         <source>This shortcut is already assigned for </source>
         <translation>이 단축기는 이미 할당되어 있습니다</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1145"/>
+        <location filename="DlgSettingsInterface.cpp" line="1148"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12682,22 +12685,22 @@ Do you want to reassign?</source>
 재 지정 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1194"/>
+        <location filename="DlgSettingsInterface.cpp" line="1197"/>
         <source>Load toolbar</source>
         <translation>도구모음 불러오기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1212"/>
+        <location filename="DlgSettingsInterface.cpp" line="1215"/>
         <source>Save toolbar</source>
         <translation>도구모음 저장</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1268"/>
+        <location filename="DlgSettingsInterface.cpp" line="1271"/>
         <source>Load shortcuts</source>
         <translation>바로가기 불러오기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1299"/>
+        <location filename="DlgSettingsInterface.cpp" line="1302"/>
         <source>Save shortcuts</source>
         <translation>바로가기 저장</translation>
     </message>
@@ -13239,9 +13242,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
-        <source>Automatically apply parent category (Ctrl+click for single category)</source>
-        <oldsource>Automatically apply parent keywords (Ctrl+click for single keyword)</oldsource>
-        <translation>자동으로 상위 키워드 적용하기 (단일 키워드는 Ctrl+클릭)</translation>
+        <source>Automatically assign parent Category (Ctrl+click for current only)</source>
+        <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
+        <translation type="unfinished">자동으로 상위 키워드 적용하기 (단일 키워드는 Ctrl+클릭)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
@@ -14953,8 +14956,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTagPhoto.cpp" line="417"/>
-        <source>This will overwrite XMP face&apos;s regions of the file. Do you want to continue?</source>
-        <translation>이 작업은 XMP 얼굴 영역을 덮어씁니다. 계속 하시겠습니까?</translation>
+        <source>This will overwrite XMP face&apos;s regions of the file. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15044,8 +15049,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="262"/>
-        <source>Increment at each images by</source>
-        <translation>각 이미지마다 다음씩 증가</translation>
+        <source>Increment at each image by</source>
+        <oldsource>Increment at each images by</oldsource>
+        <translation type="unfinished">각 이미지마다 다음씩 증가</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -16062,9 +16068,9 @@ Do you want to reassign?</source>
     <message>
         <location filename="FavoritesView.cpp" line="73"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>이 즐겨찾기는 존재하지 않는 폴더를 가리키고 있습니다.
-&quot;%1&quot; 즐겨찾기를 삭제할까요?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -18442,9 +18448,12 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="464"/>
-        <source>The picture will be converted in 8 bits per component
+        <source>The picture will be converted in 8 bits per component. 
+
 Do you want to continue?</source>
-        <translation>이 사진은 컴포넌트당 8비트로 변환됩니다
+        <oldsource>The picture will be converted in 8 bits per component
+Do you want to continue?</oldsource>
+        <translation type="unfinished">이 사진은 컴포넌트당 8비트로 변환됩니다
 계속할까요?</translation>
     </message>
     <message>
@@ -19539,9 +19548,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="430"/>
-        <source>Open with test</source>
-        <oldsource>Open with</oldsource>
-        <translation>다른 방법으로 열기</translation>
+        <source>Open with</source>
+        <oldsource>Open with test</oldsource>
+        <translation type="unfinished">다른 방법으로 열기</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -21618,12 +21627,12 @@ Do you want to continue?</source>
         <translation>하단-오른쪽</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="920"/>
+        <location filename="DlgSettingsInterface.cpp" line="927"/>
         <source>Choose command</source>
         <translation>명령 선택</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="952"/>
+        <location filename="DlgSettingsInterface.cpp" line="959"/>
         <source>Choose icon</source>
         <translation>아이콘 선택</translation>
     </message>
@@ -21899,9 +21908,9 @@ Do you want to continue?</source>
     <message>
         <location filename="MyThumbView.cpp" line="484"/>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings � Catalog.</source>
+You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</oldsource>
+You can change it in Settings � Catalog.</oldsource>
         <translation type="unfinished">카탈로그의 썸네일 크기는 선택된 크기보다 더 작습니다.
 옵션&gt;카탈로그에서 바꿀 수 있습니다.</translation>
     </message>

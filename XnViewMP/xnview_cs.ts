@@ -524,9 +524,9 @@
     <message>
         <location filename="Bookmarks.cpp" line="162"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Tato oblíbená položka odkazuje do neexistující složky. 
-Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -817,14 +817,16 @@ Položky můžete přiřazovat přetažením.</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="208"/>
-        <source>Assign Set to selection...</source>
-        <translation>Přiřadit sadu k výběru...</translation>
+        <source>Assign Set to selection</source>
+        <oldsource>Assign Set to selection...</oldsource>
+        <translation type="unfinished">Přiřadit sadu k výběru...</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
-        <source>Unassign Set to selection...</source>
+        <source>Unassign Set from selection</source>
+        <oldsource>Unassign Set to selection...</oldsource>
         <translatorcomment>Unassign FROM selection?</translatorcomment>
-        <translation>Odebrat sadu od výběru...</translation>
+        <translation type="unfinished">Odebrat sadu od výběru...</translation>
     </message>
 </context>
 <context>
@@ -1785,8 +1787,8 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Různé</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1570"/>
-        <location filename="DlgConvert.cpp" line="2661"/>
+        <location filename="DlgBatchResize.cpp" line="1569"/>
+        <location filename="DlgConvert.cpp" line="2660"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 soubor(ů) - %2% - %3</translation>
     </message>
@@ -2787,7 +2789,7 @@ Položky můžete přiřazovat přetažením.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="662"/>
-        <location filename="DlgBatchResize.cpp" line="1562"/>
+        <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n hodina</numerusform>
@@ -2852,43 +2854,45 @@ Položky můžete přiřazovat přetažením.</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1519"/>
-        <source>Overwrite file?</source>
-        <translation>Přepsat soubor?</translation>
+        <source>Overwrite file</source>
+        <oldsource>Overwrite file?</oldsource>
+        <translation type="unfinished">Přepsat soubor?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <oldsource>A file called %1 already exists.
+Do you want to overwrite it?</oldsource>
         <translation type="unfinished">Soubor %1 již existuje. Chcete jej přepsat?</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1523"/>
+        <location filename="DlgBatchResize.cpp" line="1522"/>
         <source>Yes to &amp;all</source>
         <translation>Ano &amp;všem</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1524"/>
+        <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>&amp;Yes</source>
         <translation>&amp;Ano</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1525"/>
+        <location filename="DlgBatchResize.cpp" line="1524"/>
         <source>&amp;No</source>
         <translation>&amp;Ne</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1526"/>
+        <location filename="DlgBatchResize.cpp" line="1525"/>
         <source>&amp;Rename</source>
         <translation>&amp;Přejmenovat</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1527"/>
+        <location filename="DlgBatchResize.cpp" line="1526"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Storno</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1555"/>
+        <location filename="DlgBatchResize.cpp" line="1554"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>zbývá %n sekunda</numerusform>
@@ -2897,8 +2901,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1558"/>
-        <location filename="DlgBatchResize.cpp" line="1562"/>
+        <location filename="DlgBatchResize.cpp" line="1557"/>
+        <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>zbývá %n minuta</numerusform>
@@ -3562,9 +3566,12 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1306"/>
-        <source>The %1 version of XnConvert is available, do you want to go on the download page?</source>
+        <source>The %1 version of XnConvert is available. 
+
+Do you want to go on the download page?</source>
+        <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
         <translatorcomment>Better to divide into two sentences.</translatorcomment>
-        <translation>K dispozici je nová verze XnConvert %1. Chcete otevřít stránku pro stažení?</translation>
+        <translation type="unfinished">K dispozici je nová verze XnConvert %1. Chcete otevřít stránku pro stažení?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1552"/>
@@ -3739,8 +3746,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2335"/>
-        <source>Output file exists already, do you want to overwrite it?</source>
-        <translation>Výstupní soubor již existuje. Chcete jej přepsat?</translation>
+        <source>Output file already exist. 
+
+Do you want to overwrite it?</source>
+        <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
+        <translation type="unfinished">Výstupní soubor již existuje. Chcete jej přepsat?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3830,43 +3840,45 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2610"/>
-        <source>Overwrite file?</source>
-        <translation>Přepsat soubor?</translation>
+        <source>Overwrite file</source>
+        <oldsource>Overwrite file?</oldsource>
+        <translation type="unfinished">Přepsat soubor?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <oldsource>A file called %1 already exists.
+Do you want to overwrite it?</oldsource>
         <translation type="unfinished">Soubor %1 již existuje. Chcete jej přepsat?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2614"/>
+        <location filename="DlgConvert.cpp" line="2613"/>
         <source>Yes to &amp;all</source>
         <translation>Ano &amp;všem</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2615"/>
+        <location filename="DlgConvert.cpp" line="2614"/>
         <source>&amp;Yes</source>
         <translation>&amp;Ano</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2616"/>
+        <location filename="DlgConvert.cpp" line="2615"/>
         <source>&amp;No</source>
         <translation>&amp;Ne</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2617"/>
+        <location filename="DlgConvert.cpp" line="2616"/>
         <source>&amp;Rename</source>
         <translation>&amp;Přejmenovat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2618"/>
+        <location filename="DlgConvert.cpp" line="2617"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Storno</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2646"/>
+        <location filename="DlgConvert.cpp" line="2645"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>zbývá %n sekund</numerusform>
@@ -3875,8 +3887,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2649"/>
-        <location filename="DlgConvert.cpp" line="2653"/>
+        <location filename="DlgConvert.cpp" line="2648"/>
+        <location filename="DlgConvert.cpp" line="2652"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>zbývá %n minut</numerusform>
@@ -3885,29 +3897,44 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2694"/>
+        <location filename="DlgConvert.cpp" line="2674"/>
+        <source>The &apos;Delete original&apos; option is enabled
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="2684"/>
+        <source>Output filename will be the same for all converted files. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="2693"/>
         <source>Choose output pathname</source>
         <translation>Vybrat cílovou cestu</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2708"/>
-        <source>You have the option to keep original file if result is larger and some actions, do you want to continue?</source>
-        <translatorcomment>I don&apos;t much understand, especially the part &quot;and some actions&quot;. I would also recommend to divide the long message into two sentences (as in my Czech translation).</translatorcomment>
-        <translation>Máte možnost zachovat originální soubor, pokud bude výsledek větší a budou prováděny nějaké akce. Chcete pokračovat?</translation>
+        <location filename="DlgConvert.cpp" line="2707"/>
+        <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2836"/>
+        <location filename="DlgConvert.cpp" line="2835"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <translation>Nastavení &apos;Použít více jader CPU&apos; je neaktivní. Toto nastavení nelze kombinovat s režimem &apos;Ptát se&apos; nebo vícestránkovými soubory PDF.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2838"/>
+        <location filename="DlgConvert.cpp" line="2837"/>
         <source>Started at: </source>
         <translation>Spuštěno v: </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2304"/>
-        <location filename="DlgConvert.cpp" line="2653"/>
+        <location filename="DlgConvert.cpp" line="2652"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n hodin a</numerusform>
@@ -3916,20 +3943,9 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
+        <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename</source>
         <translation>Jméno výstupního souboru</translation>
-    </message>
-    <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
-        <source>Output filename will be the same for all converted files, do you want to continue?</source>
-        <translatorcomment>Maybe two sentences would be better (such as is my translation)...</translatorcomment>
-        <translation>Jméno výstupního souboru bude shodné pro všechny výstupní soubory. Chcete pokračovat?</translation>
-    </message>
-    <message>
-        <location filename="DlgConvert.cpp" line="2675"/>
-        <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
-        <translation>Je zapnuta volba &apos;Smazat původní soubor&apos;, chcete pokračovat?</translation>
     </message>
 </context>
 <context>
@@ -8724,7 +8740,6 @@ Budou vytvořeny odpovídající podsložky.</translation>
         <translation>Podsložka</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="146"/>
         <location filename="DlgImport.ui" line="255"/>
         <source>...</source>
         <translation>...</translation>
@@ -10391,7 +10406,7 @@ Děkujeme za zakoupení %1.</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10409,8 +10424,10 @@ Děkujeme za zakoupení %1.</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="312"/>
-        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. Do you want to remove them?</source>
-        <translation>V seznamu souborů byly detekovány doprovodné soubory, které byly automaticky přejmenovány podle hlavních souborů. Chcete je odstranit?</translation>
+        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
+
+Do you want to remove them?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -11497,7 +11514,7 @@ Děkujeme za zakoupení %1.</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="91"/>
         <location filename="DlgSettingsCache.cpp" line="293"/>
-        <location filename="DlgSettingsCache.cpp" line="1107"/>
+        <location filename="DlgSettingsCache.cpp" line="1084"/>
         <source>Excluded</source>
         <translation>Mimo</translation>
     </message>
@@ -11531,7 +11548,7 @@ Skutečně chcete změnit &apos;základní cestu&apos;?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="360"/>
-        <location filename="DlgSettingsCache.cpp" line="978"/>
+        <location filename="DlgSettingsCache.cpp" line="970"/>
         <source>Catalog - Remove Entries</source>
         <translation>Katalog - odebrat záznamy</translation>
     </message>
@@ -11600,13 +11617,8 @@ Chcete je nejprve zkontrolovat?</translation>
         <translation>Strom kategorií byl úspěšně naimportován do kategorií XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="971"/>
-        <source>Catalog</source>
-        <translation>Katalog</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
-        <location filename="DlgSettingsCache.cpp" line="979"/>
+        <location filename="DlgSettingsCache.cpp" line="971"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -11628,17 +11640,6 @@ Skutečně chcete odebrat záznamy přiřazené ke kategorii?</translation>
         <location filename="DlgSettingsCache.cpp" line="931"/>
         <source>Can&apos;t import XnView database</source>
         <translation>Nelze importovat databázi XnView</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.cpp" line="999"/>
-        <source>Database</source>
-        <translation>Databáze</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.cpp" line="972"/>
-        <location filename="DlgSettingsCache.cpp" line="1000"/>
-        <source>Now we&apos;ll clean the thumbs. Do you want to shrink the database also?</source>
-        <translation>Nyní budou vymazány náhledy. Chcete také provést údržbu databáze?</translation>
     </message>
 </context>
 <context>
@@ -12762,39 +12763,39 @@ Náhled</translation>
         <translation>-- NOVÁ ŠABLONA XMP --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="500"/>
+        <location filename="DlgSettingsInterface.cpp" line="507"/>
         <source>Browse mode</source>
         <translation>Režim průzkumníka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="501"/>
+        <location filename="DlgSettingsInterface.cpp" line="508"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>Režim prohlížeče</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="778"/>
-        <location filename="DlgSettingsInterface.cpp" line="798"/>
+        <location filename="DlgSettingsInterface.cpp" line="785"/>
+        <location filename="DlgSettingsInterface.cpp" line="805"/>
         <source>Set Icon...</source>
         <translation>Nastavit ikonu...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="976"/>
+        <location filename="DlgSettingsInterface.cpp" line="983"/>
         <source>Set label</source>
         <translation>Nastavit popisek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="977"/>
+        <location filename="DlgSettingsInterface.cpp" line="984"/>
         <source>Label:</source>
         <translation>Popisek:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1130"/>
+        <location filename="DlgSettingsInterface.cpp" line="1133"/>
         <source>This shortcut is already assigned for </source>
         <translation>Tato zkratka je již přiřazena k akci</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1145"/>
+        <location filename="DlgSettingsInterface.cpp" line="1148"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12802,22 +12803,22 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1194"/>
+        <location filename="DlgSettingsInterface.cpp" line="1197"/>
         <source>Load toolbar</source>
         <translation>Načíst nástrojovou lištu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1212"/>
+        <location filename="DlgSettingsInterface.cpp" line="1215"/>
         <source>Save toolbar</source>
         <translation>Uložit nástrojovou lištu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1268"/>
+        <location filename="DlgSettingsInterface.cpp" line="1271"/>
         <source>Load shortcuts</source>
         <translation>Načíst klávesové zkratky</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1299"/>
+        <location filename="DlgSettingsInterface.cpp" line="1302"/>
         <source>Save shortcuts</source>
         <translation>Uložit klávesové zkratky</translation>
     </message>
@@ -13361,9 +13362,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
-        <source>Automatically apply parent category (Ctrl+click for single category)</source>
-        <oldsource>Automatically apply parent keywords (Ctrl+click for single keyword)</oldsource>
-        <translation>Automaticky používat nadřazené kategorie (Ctrl + kliknutí pro jednotlivé kategorie)</translation>
+        <source>Automatically assign parent Category (Ctrl+click for current only)</source>
+        <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
+        <translation type="unfinished">Automaticky používat nadřazené kategorie (Ctrl + kliknutí pro jednotlivé kategorie)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -15087,8 +15088,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTagPhoto.cpp" line="417"/>
-        <source>This will overwrite XMP face&apos;s regions of the file. Do you want to continue?</source>
-        <translation>Tato akce přepíše v souboru XMP informace o oblastech obličejů. Chcete pokračovat?</translation>
+        <source>This will overwrite XMP face&apos;s regions of the file. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15178,9 +15181,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="262"/>
-        <source>Increment at each images by</source>
+        <source>Increment at each image by</source>
+        <oldsource>Increment at each images by</oldsource>
         <translatorcomment>at each image?</translatorcomment>
-        <translation>S každým obrázkem zvýšit o</translation>
+        <translation type="unfinished">S každým obrázkem zvýšit o</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -16202,9 +16206,9 @@ Do you want to reassign?</source>
     <message>
         <location filename="FavoritesView.cpp" line="73"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Tato oblíbená položka odkazuje do neexistující složky. 
-Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -18597,9 +18601,12 @@ Chcete pokračovat?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="464"/>
-        <source>The picture will be converted in 8 bits per component
+        <source>The picture will be converted in 8 bits per component. 
+
 Do you want to continue?</source>
-        <translation></translation>
+        <oldsource>The picture will be converted in 8 bits per component
+Do you want to continue?</oldsource>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
@@ -19768,8 +19775,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="430"/>
-        <source>Open with test</source>
-        <oldsource>Open with</oldsource>
+        <source>Open with</source>
+        <oldsource>Open with test</oldsource>
         <translation type="unfinished">Otevřít v</translation>
     </message>
     <message>
@@ -21810,12 +21817,12 @@ Do you want to continue?</source>
         <translation>Vpravo dole</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="920"/>
+        <location filename="DlgSettingsInterface.cpp" line="927"/>
         <source>Choose command</source>
         <translation>Vybrat příkaz</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="952"/>
+        <location filename="DlgSettingsInterface.cpp" line="959"/>
         <source>Choose icon</source>
         <translation>Vybrat ikonu</translation>
     </message>
@@ -22093,9 +22100,9 @@ Do you want to continue?</source>
     <message>
         <location filename="MyThumbView.cpp" line="484"/>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings � Catalog.</source>
+You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</oldsource>
+You can change it in Settings � Catalog.</oldsource>
         <translation type="unfinished">Velikost uložených náhledů jemenší než zvolená velikost.
 Můžete ji změnit v nabídce Možnosti &gt; Katalog.</translation>
     </message>

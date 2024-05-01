@@ -523,9 +523,9 @@
     <message>
         <location filename="Bookmarks.cpp" line="162"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Denne favorit peger hen til en mappe, der ikke eksierer. 
-Vil du slette favoritten &quot;%1&quot;?</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -817,13 +817,15 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="208"/>
-        <source>Assign Set to selection...</source>
-        <translation>Tildel sæt til valg...</translation>
+        <source>Assign Set to selection</source>
+        <oldsource>Assign Set to selection...</oldsource>
+        <translation type="unfinished">Tildel sæt til valg...</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
-        <source>Unassign Set to selection...</source>
-        <translation>Fravælg valgte sæt...</translation>
+        <source>Unassign Set from selection</source>
+        <oldsource>Unassign Set to selection...</oldsource>
+        <translation type="unfinished">Fravælg valgte sæt...</translation>
     </message>
 </context>
 <context>
@@ -1788,8 +1790,8 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Diverse</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1570"/>
-        <location filename="DlgConvert.cpp" line="2661"/>
+        <location filename="DlgBatchResize.cpp" line="1569"/>
+        <location filename="DlgConvert.cpp" line="2660"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 fil(er) - %2% - %3</translation>
     </message>
@@ -2786,7 +2788,7 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="662"/>
-        <location filename="DlgBatchResize.cpp" line="1562"/>
+        <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n time og </numerusform>
@@ -2850,43 +2852,45 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1519"/>
-        <source>Overwrite file?</source>
-        <translation>Overskriv fil?</translation>
+        <source>Overwrite file</source>
+        <oldsource>Overwrite file?</oldsource>
+        <translation type="unfinished">Overskriv fil?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <oldsource>A file called %1 already exists.
+Do you want to overwrite it?</oldsource>
         <translation type="unfinished">En fil kaldet %1 eksisterer allerede. Ønsker du at overskrive den?</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1523"/>
+        <location filename="DlgBatchResize.cpp" line="1522"/>
         <source>Yes to &amp;all</source>
         <translation>Ja til &amp;alle</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1524"/>
+        <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>&amp;Yes</source>
         <translation>&amp;Ja</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1525"/>
+        <location filename="DlgBatchResize.cpp" line="1524"/>
         <source>&amp;No</source>
         <translation>&amp;Nej</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1526"/>
+        <location filename="DlgBatchResize.cpp" line="1525"/>
         <source>&amp;Rename</source>
         <translation>&amp;Omdøb</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1527"/>
+        <location filename="DlgBatchResize.cpp" line="1526"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Afbryd</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1555"/>
+        <location filename="DlgBatchResize.cpp" line="1554"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n sekund tilbage</numerusform>
@@ -2894,8 +2898,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1558"/>
-        <location filename="DlgBatchResize.cpp" line="1562"/>
+        <location filename="DlgBatchResize.cpp" line="1557"/>
+        <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minut tilbage</numerusform>
@@ -3567,8 +3571,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1306"/>
-        <source>The %1 version of XnConvert is available, do you want to go on the download page?</source>
-        <translation>Den %1 version af XnConvert er tilgængelig, vil du gå til hentningssiden?</translation>
+        <source>The %1 version of XnConvert is available. 
+
+Do you want to go on the download page?</source>
+        <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
+        <translation type="unfinished">Den %1 version af XnConvert er tilgængelig, vil du gå til hentningssiden?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1411"/>
@@ -3716,9 +3723,12 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2335"/>
-        <source>Output file exists already, do you want to overwrite it?</source>
+        <source>Output file already exist. 
+
+Do you want to overwrite it?</source>
+        <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
         <translatorcomment>Uddata fil</translatorcomment>
-        <translation>Output filen eksisterer allerede, vil du overskrive den?</translation>
+        <translation type="unfinished">Output filen eksisterer allerede, vil du overskrive den?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3808,43 +3818,45 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2610"/>
-        <source>Overwrite file?</source>
-        <translation>Overskriv fil?</translation>
+        <source>Overwrite file</source>
+        <oldsource>Overwrite file?</oldsource>
+        <translation type="unfinished">Overskriv fil?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <oldsource>A file called %1 already exists.
+Do you want to overwrite it?</oldsource>
         <translation type="unfinished">En fil kaldet %1 eksisterer allerede. Ønsker du at overskrive den?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2614"/>
+        <location filename="DlgConvert.cpp" line="2613"/>
         <source>Yes to &amp;all</source>
         <translation>Ja til &amp;alle</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2615"/>
+        <location filename="DlgConvert.cpp" line="2614"/>
         <source>&amp;Yes</source>
         <translation>&amp;Ja</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2616"/>
+        <location filename="DlgConvert.cpp" line="2615"/>
         <source>&amp;No</source>
         <translation>&amp;Nej</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2617"/>
+        <location filename="DlgConvert.cpp" line="2616"/>
         <source>&amp;Rename</source>
         <translation>&amp;Omdøb</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2618"/>
+        <location filename="DlgConvert.cpp" line="2617"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Afbryd</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2646"/>
+        <location filename="DlgConvert.cpp" line="2645"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>Sekund tilbage</numerusform>
@@ -3852,8 +3864,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2649"/>
-        <location filename="DlgConvert.cpp" line="2653"/>
+        <location filename="DlgConvert.cpp" line="2648"/>
+        <location filename="DlgConvert.cpp" line="2652"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>minut tilbage</numerusform>
@@ -3861,29 +3873,45 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2694"/>
+        <location filename="DlgConvert.cpp" line="2674"/>
+        <source>The &apos;Delete original&apos; option is enabled
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="2684"/>
+        <source>Output filename will be the same for all converted files. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="2693"/>
         <source>Choose output pathname</source>
         <translation>Vælg uddata stinavn</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2708"/>
-        <source>You have the option to keep original file if result is larger and some actions, do you want to continue?</source>
-        <translation>Du har mulighed for at gemme den originale fil hvis resultatet er større/har flere handlinger. Vil du fortsætte?</translation>
+        <location filename="DlgConvert.cpp" line="2707"/>
+        <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2836"/>
+        <location filename="DlgConvert.cpp" line="2835"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>Indstillingen &quot;Anvend flere CPU-kerner&quot; blev disabled. Denne indstilling kan ikke kombineres med &quot;Spørge-situationen&quot; eller mangesidede PDF-filer.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2838"/>
+        <location filename="DlgConvert.cpp" line="2837"/>
         <source>Started at: </source>
         <translation>Påbegyndt: </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2304"/>
-        <location filename="DlgConvert.cpp" line="2653"/>
+        <location filename="DlgConvert.cpp" line="2652"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n time og </numerusform>
@@ -3906,21 +3934,10 @@ Do you want to overwrite it?</source>
         <translation>Vil du også eksportere filnavne?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2675"/>
-        <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
-        <translation>&apos;Slet original&apos; muligheden er aktiveret, vil du fortsætte?</translation>
-    </message>
-    <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
+        <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename</source>
         <translatorcomment>Uddata filnavn</translatorcomment>
         <translation>Output-filnavn</translation>
-    </message>
-    <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
-        <source>Output filename will be the same for all converted files, do you want to continue?</source>
-        <translatorcomment>Uddata filnavn</translatorcomment>
-        <translation>Output-filnavn vil være det samme for alle konverterede filer, vil du fortsætte?</translation>
     </message>
 </context>
 <context>
@@ -8719,7 +8736,6 @@ Undermapper vil blive oprettet. </translation>
         <translation>Undermappe</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="146"/>
         <location filename="DlgImport.ui" line="255"/>
         <source>...</source>
         <translation>...</translation>
@@ -10379,7 +10395,7 @@ Tak for dit køb af %1.</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10397,8 +10413,10 @@ Tak for dit køb af %1.</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="312"/>
-        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. Do you want to remove them?</source>
-        <translation>Tilknyttede filer fundet i fillisten omdøbes automatisk så de følger det overordnede filnavn. Vil du fjerne dem?</translation>
+        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
+
+Do you want to remove them?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -11482,7 +11500,7 @@ Tak for dit køb af %1.</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="91"/>
         <location filename="DlgSettingsCache.cpp" line="293"/>
-        <location filename="DlgSettingsCache.cpp" line="1107"/>
+        <location filename="DlgSettingsCache.cpp" line="1084"/>
         <source>Excluded</source>
         <translatorcomment>Udeladt</translatorcomment>
         <translation>Ekskluderet</translation>
@@ -11518,7 +11536,7 @@ Vil du ændre basis-mappen&apos;?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="360"/>
-        <location filename="DlgSettingsCache.cpp" line="978"/>
+        <location filename="DlgSettingsCache.cpp" line="970"/>
         <source>Catalog - Remove Entries</source>
         <translation>Katalog - Fjern elementer</translation>
     </message>
@@ -11588,13 +11606,8 @@ farver, søgeord mv. kan blive slettet.
         <translation>Kategoritræet korrekt indlæst i XnViews kategori katalog</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="971"/>
-        <source>Catalog</source>
-        <translation>Katalog</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
-        <location filename="DlgSettingsCache.cpp" line="979"/>
+        <location filename="DlgSettingsCache.cpp" line="971"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -11616,17 +11629,6 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
         <location filename="DlgSettingsCache.cpp" line="931"/>
         <source>Can&apos;t import XnView database</source>
         <translation>Kan ikke importere XnView-database</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.cpp" line="999"/>
-        <source>Database</source>
-        <translation>Database</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.cpp" line="972"/>
-        <location filename="DlgSettingsCache.cpp" line="1000"/>
-        <source>Now we&apos;ll clean the thumbs. Do you want to shrink the database also?</source>
-        <translation>Nu vill vi fjerne miniaturerne. Ønsker du at formindske databasen også?</translation>
     </message>
 </context>
 <context>
@@ -12746,41 +12748,41 @@ miniature</translation>
         <translation>-- NY XMP-SKABELON --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="500"/>
+        <location filename="DlgSettingsInterface.cpp" line="507"/>
         <source>Browse mode</source>
         <translation>Browsertilstand</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="501"/>
+        <location filename="DlgSettingsInterface.cpp" line="508"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>Visningstilstand</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="778"/>
-        <location filename="DlgSettingsInterface.cpp" line="798"/>
+        <location filename="DlgSettingsInterface.cpp" line="785"/>
+        <location filename="DlgSettingsInterface.cpp" line="805"/>
         <source>Set Icon...</source>
         <translation>Angiv ikon...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="976"/>
+        <location filename="DlgSettingsInterface.cpp" line="983"/>
         <source>Set label</source>
         <translatorcomment>angiv etiket</translatorcomment>
         <translation>Angiv etiket</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="977"/>
+        <location filename="DlgSettingsInterface.cpp" line="984"/>
         <source>Label:</source>
         <translatorcomment>etiket</translatorcomment>
         <translation>Label:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1130"/>
+        <location filename="DlgSettingsInterface.cpp" line="1133"/>
         <source>This shortcut is already assigned for </source>
         <translation>Denne genvej er allerede tildelt til </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1145"/>
+        <location filename="DlgSettingsInterface.cpp" line="1148"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12791,22 +12793,22 @@ Do you want to reassign?</source>
 Vil du tilknytte igen?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1194"/>
+        <location filename="DlgSettingsInterface.cpp" line="1197"/>
         <source>Load toolbar</source>
         <translation>Indlæs værktøjslinie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1212"/>
+        <location filename="DlgSettingsInterface.cpp" line="1215"/>
         <source>Save toolbar</source>
         <translation>Gem værktøjslinie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1268"/>
+        <location filename="DlgSettingsInterface.cpp" line="1271"/>
         <source>Load shortcuts</source>
         <translation>Indlæs genveje</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1299"/>
+        <location filename="DlgSettingsInterface.cpp" line="1302"/>
         <source>Save shortcuts</source>
         <translation>Gem genveje</translation>
     </message>
@@ -13350,9 +13352,9 @@ Vil du tilknytte igen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
-        <source>Automatically apply parent category (Ctrl+click for single category)</source>
-        <oldsource>Automatically apply parent keywords (Ctrl+click for single keyword)</oldsource>
-        <translation>Anvend automatisk overordnede nøgleord (Ctrl + klik for enkelt søgeord)</translation>
+        <source>Automatically assign parent Category (Ctrl+click for current only)</source>
+        <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
+        <translation type="unfinished">Anvend automatisk overordnede nøgleord (Ctrl + klik for enkelt søgeord)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -15082,8 +15084,10 @@ Vil du tilknytte igen?</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.cpp" line="417"/>
-        <source>This will overwrite XMP face&apos;s regions of the file. Do you want to continue?</source>
-        <translation>Dette vil overskrive filens XMP ansigts&apos;s områder. Vil du fortsætte?</translation>
+        <source>This will overwrite XMP face&apos;s regions of the file. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15173,8 +15177,9 @@ Vil du tilknytte igen?</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="262"/>
-        <source>Increment at each images by</source>
-        <translation>Forøgelse af de enkelte billeder med</translation>
+        <source>Increment at each image by</source>
+        <oldsource>Increment at each images by</oldsource>
+        <translation type="unfinished">Forøgelse af de enkelte billeder med</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -16197,9 +16202,9 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="FavoritesView.cpp" line="73"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Denne favorit henviser til en mappe som ikke eksisterer. 
-Vil du slette favoritten &quot;%1&quot;?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -18591,9 +18596,12 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="464"/>
-        <source>The picture will be converted in 8 bits per component
+        <source>The picture will be converted in 8 bits per component. 
+
 Do you want to continue?</source>
-        <translation>Billedet vil blive konverteret med 8 bit pr komponent
+        <oldsource>The picture will be converted in 8 bits per component
+Do you want to continue?</oldsource>
+        <translation type="unfinished">Billedet vil blive konverteret med 8 bit pr komponent
 Vil du fortsætte?</translation>
     </message>
     <message>
@@ -19637,9 +19645,9 @@ Vil du fortsætte?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="430"/>
-        <source>Open with test</source>
-        <oldsource>Open with</oldsource>
-        <translation>Åbn med test</translation>
+        <source>Open with</source>
+        <oldsource>Open with test</oldsource>
+        <translation type="unfinished">Åbn med test</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -21823,12 +21831,12 @@ Vil du fortsætte?</translation>
         <translation>Højre nederst</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="920"/>
+        <location filename="DlgSettingsInterface.cpp" line="927"/>
         <source>Choose command</source>
         <translation>Vælg kommando</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="952"/>
+        <location filename="DlgSettingsInterface.cpp" line="959"/>
         <source>Choose icon</source>
         <translation>Vælg ikon</translation>
     </message>
@@ -22104,9 +22112,9 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MyThumbView.cpp" line="484"/>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings � Catalog.</source>
+You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</oldsource>
+You can change it in Settings � Catalog.</oldsource>
         <translation type="unfinished">Miniature størrelserne i kataloget er mindre end den valgte størrelse.
 Du kan ændre det i Indstillinger&gt;Katalog.</translation>
     </message>

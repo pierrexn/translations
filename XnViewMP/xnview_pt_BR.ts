@@ -411,6 +411,7 @@
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -644,12 +645,12 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Editar...</translation>
     </message>
     <message>
-        <source>Assign Set to selection...</source>
-        <translation>Atribuir ajuste para a seleção...</translation>
+        <source>Assign Set to selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unassign Set to selection...</source>
-        <translation>Destativar ajuste para a seleção...</translation>
+        <source>Unassign Set from selection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2171,10 +2172,6 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished">salvo</translation>
     </message>
     <message>
-        <source>Overwrite file?</source>
-        <translation type="unfinished">Sobrescrever arquivo?</translation>
-    </message>
-    <message>
         <source>Yes to &amp;all</source>
         <translation type="unfinished">Sim para &amp;todos</translation>
     </message>
@@ -2249,7 +2246,11 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished">Apenas alargar</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.
+        <source>Overwrite file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2786,10 +2787,6 @@ Do you want to overwrite it?</source>
         <translation>salvo</translation>
     </message>
     <message>
-        <source>Overwrite file?</source>
-        <translation>Sobrescrever arquivo?</translation>
-    </message>
-    <message>
         <source>&amp;Yes</source>
         <translation>&amp;Sim</translation>
     </message>
@@ -2811,10 +2808,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Choose a directory</source>
         <translation>Escolha uma pasta</translation>
-    </message>
-    <message>
-        <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
-        <translation>A opção &quot;Apagar o original&quot; está habilitada. Você deseja continuar mesmo assim?</translation>
     </message>
     <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
@@ -2841,10 +2834,6 @@ Do you want to overwrite it?</source>
         <translation>Sobrescrever</translation>
     </message>
     <message>
-        <source>Output file exists already, do you want to overwrite it?</source>
-        <translation>O arquivo de saída já existe. Você gostaria de sobrescrevê-lo?</translation>
-    </message>
-    <message>
         <source>Saving ZIP file...</source>
         <translation>Salvando o arquivo ZIP...</translation>
     </message>
@@ -2867,10 +2856,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>[Finished]</source>
         <translation>Terminado</translation>
-    </message>
-    <message>
-        <source>The %1 version of XnConvert is available, do you want to go on the download page?</source>
-        <translation>A versão %1 do XnConvert está disponível. Você quer visitar a página de download?</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
@@ -2914,10 +2899,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Output filename</source>
         <translation>Arquivo de saída</translation>
-    </message>
-    <message>
-        <source>Output filename will be the same for all converted files, do you want to continue?</source>
-        <translation>O arquivo de saída será o mesmo para todos os arquivos convertidos. Você deseja continuar?</translation>
     </message>
     <message>
         <source>Input files:</source>
@@ -3040,16 +3021,46 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have the option to keep original file if result is larger and some actions, do you want to continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please restart application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A file called %1 already exists.
+        <source>The %1 version of XnConvert is available. 
+
+Do you want to go on the download page?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output file already exist. 
+
 Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: %1
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The &apos;Delete original&apos; option is enabled
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output filename will be the same for all converted files. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
+
+Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8075,7 +8086,7 @@ Thank you for purchasing %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8094,7 +8105,9 @@ Thank you for purchasing %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. Do you want to remove them?</source>
+        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
+
+Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8940,14 +8953,6 @@ Thank you for purchasing %1.</source>
         <translation>Incluído</translation>
     </message>
     <message>
-        <source>Database</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Now we&apos;ll clean the thumbs. Do you want to shrink the database also?</source>
-        <translation>Agora vamos limpar as miniaturas. Você gostaria também de comprimir o banco de dados?</translation>
-    </message>
-    <message>
         <source>Lossy - High quality (WebP)</source>
         <translation>Alta qualidade (WebP) com perdas</translation>
     </message>
@@ -8958,10 +8963,6 @@ Thank you for purchasing %1.</source>
     <message>
         <source>Old path:</source>
         <translation>Caminho antigo:</translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation>Catálogo</translation>
     </message>
     <message>
         <source>Problem during database import!</source>
@@ -10372,10 +10373,6 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Automatically apply parent category (Ctrl+click for single category)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sidecar</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10405,6 +10402,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Write categories into images as hierarchical keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11616,16 +11617,18 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This will overwrite XMP face&apos;s regions of the file. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Face Tag</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
         <translation type="unfinished">Adicionar</translation>
+    </message>
+    <message>
+        <source>This will overwrite XMP face&apos;s regions of the file. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11730,15 +11733,15 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Increment at each images by</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>seconds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Force the update in case of anomaly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increment at each image by</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12525,6 +12528,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14175,11 +14179,6 @@ Você quer continuar?</translation>
         <translation>Esse arquivo usa um formato somente para leitura e por isso não pode ser girado.</translation>
     </message>
     <message>
-        <source>The picture will be converted in 8 bits per component
-Do you want to continue?</source>
-        <translation>Essa figura será convertida para 8 bits por componente. Você deseja continuar?</translation>
-    </message>
-    <message>
         <source>Lossless Crop</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14209,6 +14208,12 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>An error has occurred.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The picture will be converted in 8 bits per component. 
+
+Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15518,16 +15523,16 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open with test</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Rating &amp;&amp; Color label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open with</source>
+        <translation type="unfinished">Abrir com</translation>
     </message>
 </context>
 <context>
@@ -16925,7 +16930,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings � Catalog.</source>
+You can change it in Settings › Catalog.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

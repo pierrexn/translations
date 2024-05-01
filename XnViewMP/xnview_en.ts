@@ -514,6 +514,7 @@
     <message>
         <location filename="Bookmarks.cpp" line="162"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -800,12 +801,14 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="208"/>
-        <source>Assign Set to selection...</source>
+        <source>Assign Set to selection</source>
+        <oldsource>Assign Set to selection...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
-        <source>Unassign Set to selection...</source>
+        <source>Unassign Set from selection</source>
+        <oldsource>Unassign Set to selection...</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1347,8 +1350,8 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1570"/>
-        <location filename="DlgConvert.cpp" line="2661"/>
+        <location filename="DlgBatchResize.cpp" line="1569"/>
+        <location filename="DlgConvert.cpp" line="2660"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1940,7 +1943,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAbout.ui" line="14"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">About</translation>
     </message>
 </context>
 <context>
@@ -1963,7 +1966,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="53"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="67"/>
@@ -1978,7 +1981,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="105"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Format</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="119"/>
@@ -2251,7 +2254,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="199"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">About</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="257"/>
@@ -2455,7 +2458,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="880"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="909"/>
@@ -2510,7 +2513,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1003"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Format</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1013"/>
@@ -2748,7 +2751,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="662"/>
-        <location filename="DlgBatchResize.cpp" line="1562"/>
+        <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n hour(s) and </source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -2812,43 +2815,45 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1519"/>
-        <source>Overwrite file?</source>
+        <source>Overwrite file</source>
+        <oldsource>Overwrite file?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>A file called %1 already exists.
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <oldsource>A file called %1 already exists.
+Do you want to overwrite it?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1523"/>
+        <location filename="DlgBatchResize.cpp" line="1522"/>
         <source>Yes to &amp;all</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1524"/>
+        <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>&amp;Yes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1525"/>
+        <location filename="DlgBatchResize.cpp" line="1524"/>
         <source>&amp;No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1526"/>
+        <location filename="DlgBatchResize.cpp" line="1525"/>
         <source>&amp;Rename</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1527"/>
+        <location filename="DlgBatchResize.cpp" line="1526"/>
         <source>&amp;Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1555"/>
+        <location filename="DlgBatchResize.cpp" line="1554"/>
         <source>%n second(s) remaining</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -2856,8 +2861,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1558"/>
-        <location filename="DlgBatchResize.cpp" line="1562"/>
+        <location filename="DlgBatchResize.cpp" line="1557"/>
+        <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n minute(s) remaining</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -3346,7 +3351,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgContactSheet.ui" line="660"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="690"/>
@@ -3528,7 +3533,10 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1306"/>
-        <source>The %1 version of XnConvert is available, do you want to go on the download page?</source>
+        <source>The %1 version of XnConvert is available. 
+
+Do you want to go on the download page?</source>
+        <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3675,7 +3683,7 @@ Do you want to overwrite it?</source>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2304"/>
-        <location filename="DlgConvert.cpp" line="2653"/>
+        <location filename="DlgConvert.cpp" line="2652"/>
         <source>%n hour(s) and </source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -3689,7 +3697,10 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2335"/>
-        <source>Output file exists already, do you want to overwrite it?</source>
+        <source>Output file already exist. 
+
+Do you want to overwrite it?</source>
+        <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3780,43 +3791,45 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2610"/>
-        <source>Overwrite file?</source>
+        <source>Overwrite file</source>
+        <oldsource>Overwrite file?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>A file called %1 already exists.
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.Do you want to overwrite it?</oldsource>
+        <oldsource>A file called %1 already exists.
+Do you want to overwrite it?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2614"/>
+        <location filename="DlgConvert.cpp" line="2613"/>
         <source>Yes to &amp;all</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2615"/>
+        <location filename="DlgConvert.cpp" line="2614"/>
         <source>&amp;Yes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2616"/>
+        <location filename="DlgConvert.cpp" line="2615"/>
         <source>&amp;No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2617"/>
+        <location filename="DlgConvert.cpp" line="2616"/>
         <source>&amp;Rename</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2618"/>
+        <location filename="DlgConvert.cpp" line="2617"/>
         <source>&amp;Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2646"/>
+        <location filename="DlgConvert.cpp" line="2645"/>
         <source>%n second(s) remaining</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -3824,8 +3837,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2649"/>
-        <location filename="DlgConvert.cpp" line="2653"/>
+        <location filename="DlgConvert.cpp" line="2648"/>
+        <location filename="DlgConvert.cpp" line="2652"/>
         <source>%n minute(s) remaining</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -3833,37 +3846,43 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2675"/>
-        <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
+        <location filename="DlgConvert.cpp" line="2674"/>
+        <source>The &apos;Delete original&apos; option is enabled
+
+Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
+        <location filename="DlgConvert.cpp" line="2684"/>
+        <source>Output filename will be the same for all converted files. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="2707"/>
+        <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
-        <source>Output filename will be the same for all converted files, do you want to continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgConvert.cpp" line="2694"/>
+        <location filename="DlgConvert.cpp" line="2693"/>
         <source>Choose output pathname</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2708"/>
-        <source>You have the option to keep original file if result is larger and some actions, do you want to continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgConvert.cpp" line="2836"/>
+        <location filename="DlgConvert.cpp" line="2835"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2838"/>
+        <location filename="DlgConvert.cpp" line="2837"/>
         <source>Started at: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -4551,7 +4570,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert-old.ui" line="1370"/>
         <location filename="DlgConvert-old.ui" line="1379"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="787"/>
@@ -4616,7 +4635,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.ui" line="881"/>
         <location filename="DlgConvert-old.ui" line="1449"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Format</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="916"/>
@@ -4901,7 +4920,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.ui" line="1752"/>
         <location filename="DlgConvert-old.ui" line="1763"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">About</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1812"/>
@@ -6748,7 +6767,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="222"/>
@@ -7003,7 +7022,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgEditGps.ui" line="270"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Write</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="277"/>
@@ -7026,7 +7045,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="44"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Description</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="71"/>
@@ -7646,7 +7665,7 @@ Please make sure that files are not read-only!</source>
     <message>
         <location filename="DlgExportCatalog.ui" line="22"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="41"/>
@@ -7837,7 +7856,7 @@ Please make sure that files are not read-only!</source>
     <message>
         <location filename="DlgFileAssociation.ui" line="41"/>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extension</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.ui" line="46"/>
@@ -7904,7 +7923,7 @@ Please make sure that files are not read-only!</source>
     <message>
         <location filename="DlgFileListing.ui" line="53"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Format</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="61"/>
@@ -8608,7 +8627,6 @@ Subfolders will be created. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="146"/>
         <location filename="DlgImport.ui" line="255"/>
         <source>...</source>
         <translation type="unfinished"></translation>
@@ -8656,7 +8674,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="338"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Date</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="361"/>
@@ -8940,7 +8958,7 @@ Please make sure that files are not read-only!</source>
     <message>
         <location filename="DlgIptc.ui" line="258"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Credits</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="296"/>
@@ -9141,7 +9159,7 @@ Please make sure that files are not read-only!</source>
     <message>
         <location filename="DlgKeywordProperties.ui" line="40"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Description</translation>
     </message>
     <message>
         <location filename="DlgKeywordProperties.ui" line="50"/>
@@ -9462,12 +9480,12 @@ Please make sure that files are not read-only!</source>
         <location filename="DlgPlugins.ui" line="42"/>
         <location filename="DlgPlugins.ui" line="66"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Description</translation>
     </message>
     <message>
         <location filename="DlgPlugins.ui" line="51"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plug-ins</translation>
     </message>
 </context>
 <context>
@@ -9584,7 +9602,7 @@ Please make sure that files are not read-only!</source>
     <message>
         <location filename="DlgPrint.ui" line="345"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Format</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="359"/>
@@ -10186,12 +10204,12 @@ Please make sure that files are not read-only!</source>
     <message>
         <location filename="DlgReadWriteSettings.ui" line="27"/>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Read</translation>
     </message>
     <message>
         <location filename="DlgReadWriteSettings.ui" line="37"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Write</translation>
     </message>
 </context>
 <context>
@@ -10238,7 +10256,7 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10256,7 +10274,9 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="312"/>
-        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. Do you want to remove them?</source>
+        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
+
+Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10310,7 +10330,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRename.ui" line="145"/>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extension</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="172"/>
@@ -10806,7 +10826,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSearch.ui" line="53"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="60"/>
@@ -11004,12 +11024,12 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formats</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.h" line="13"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">General</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.h" line="15"/>
@@ -11162,7 +11182,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="345"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="352"/>
@@ -11214,7 +11234,7 @@ Thank you for purchasing %1.</source>
         <location filename="DlgSettingsBrowser.ui" line="428"/>
         <location filename="DlgSettingsBrowser.ui" line="550"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Description</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="449"/>
@@ -11297,7 +11317,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="91"/>
         <location filename="DlgSettingsCache.cpp" line="293"/>
-        <location filename="DlgSettingsCache.cpp" line="1107"/>
+        <location filename="DlgSettingsCache.cpp" line="1084"/>
         <source>Excluded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11352,13 +11372,13 @@ Do you want to change the &apos;base path&apos;?</source>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="360"/>
-        <location filename="DlgSettingsCache.cpp" line="978"/>
+        <location filename="DlgSettingsCache.cpp" line="970"/>
         <source>Catalog - Remove Entries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
-        <location filename="DlgSettingsCache.cpp" line="979"/>
+        <location filename="DlgSettingsCache.cpp" line="971"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -11426,22 +11446,6 @@ Do you want to check for affected entries first?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="931"/>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.cpp" line="971"/>
-        <source>Catalog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.cpp" line="972"/>
-        <location filename="DlgSettingsCache.cpp" line="1000"/>
-        <source>Now we&apos;ll clean the thumbs. Do you want to shrink the database also?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.cpp" line="999"/>
-        <source>Database</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11890,7 +11894,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formats</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="42"/>
@@ -11926,12 +11930,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="131"/>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Read</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Write</translation>
     </message>
 </context>
 <context>
@@ -11978,7 +11982,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="36"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">General</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="44"/>
@@ -12550,38 +12554,38 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="500"/>
+        <location filename="DlgSettingsInterface.cpp" line="507"/>
         <source>Browse mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="501"/>
+        <location filename="DlgSettingsInterface.cpp" line="508"/>
         <source>Viewer mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="778"/>
-        <location filename="DlgSettingsInterface.cpp" line="798"/>
+        <location filename="DlgSettingsInterface.cpp" line="785"/>
+        <location filename="DlgSettingsInterface.cpp" line="805"/>
         <source>Set Icon...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="976"/>
+        <location filename="DlgSettingsInterface.cpp" line="983"/>
         <source>Set label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="977"/>
+        <location filename="DlgSettingsInterface.cpp" line="984"/>
         <source>Label:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1130"/>
+        <location filename="DlgSettingsInterface.cpp" line="1133"/>
         <source>This shortcut is already assigned for </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1145"/>
+        <location filename="DlgSettingsInterface.cpp" line="1148"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12589,22 +12593,22 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1194"/>
+        <location filename="DlgSettingsInterface.cpp" line="1197"/>
         <source>Load toolbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1212"/>
+        <location filename="DlgSettingsInterface.cpp" line="1215"/>
         <source>Save toolbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1268"/>
+        <location filename="DlgSettingsInterface.cpp" line="1271"/>
         <source>Load shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1299"/>
+        <location filename="DlgSettingsInterface.cpp" line="1302"/>
         <source>Save shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13175,7 +13179,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
-        <source>Automatically apply parent category (Ctrl+click for single category)</source>
+        <source>Automatically assign parent Category (Ctrl+click for current only)</source>
+        <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13293,7 +13298,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Write</translation>
     </message>
 </context>
 <context>
@@ -13911,7 +13916,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="965"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="974"/>
@@ -13966,7 +13971,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1055"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Description</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1076"/>
@@ -14192,7 +14197,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.cpp" line="109"/>
         <location filename="DlgSimilarResult.cpp" line="116"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="394"/>
@@ -14254,7 +14259,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.cpp" line="110"/>
         <location filename="DlgSimilarResult.cpp" line="117"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Date</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.cpp" line="276"/>
@@ -14572,7 +14577,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">General</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="28"/>
@@ -14602,7 +14607,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="85"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Black</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="111"/>
@@ -14844,7 +14849,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTagPhoto.cpp" line="417"/>
-        <source>This will overwrite XMP face&apos;s regions of the file. Do you want to continue?</source>
+        <source>This will overwrite XMP face&apos;s regions of the file. 
+
+Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14934,7 +14941,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="262"/>
-        <source>Increment at each images by</source>
+        <source>Increment at each image by</source>
+        <oldsource>Increment at each images by</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14985,7 +14993,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="548"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Write</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="555"/>
@@ -15434,7 +15442,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Format</translation>
     </message>
 </context>
 <context>
@@ -15933,6 +15941,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="FavoritesView.cpp" line="73"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16182,7 +16191,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="110"/>
         <location filename="TemplateData.cpp" line="2676"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="402"/>
@@ -16266,7 +16275,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="35"/>
         <location filename="TemplateData.cpp" line="2460"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Format</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="73"/>
@@ -16389,7 +16398,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="254"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Date</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="256"/>
@@ -16416,7 +16425,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="369"/>
         <location filename="InfoPropertiesView.cpp" line="393"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Description</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="374"/>
@@ -16430,7 +16439,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="690"/>
         <location filename="InfoPropertiesView.cpp" line="730"/>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copyright</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="677"/>
@@ -16590,7 +16599,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1082"/>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extension</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1084"/>
@@ -17131,7 +17140,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2499"/>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copyright</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2500"/>
@@ -17514,7 +17523,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="124"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Credits</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="128"/>
@@ -17553,7 +17562,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="381"/>
         <location filename="TemplateData.cpp" line="2643"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Description</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="120"/>
@@ -17703,7 +17712,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="149"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">E-mail</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="150"/>
@@ -17795,7 +17804,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2609"/>
         <location filename="TemplateData.cpp" line="2644"/>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copyright</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="41"/>
@@ -17821,7 +17830,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="28"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Credits</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="49"/>
@@ -18038,7 +18047,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="103"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Yes</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="103"/>
@@ -18094,7 +18103,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="610"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="611"/>
@@ -18104,7 +18113,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="616"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Description</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="622"/>
@@ -18313,8 +18322,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="464"/>
-        <source>The picture will be converted in 8 bits per component
+        <source>The picture will be converted in 8 bits per component. 
+
 Do you want to continue?</source>
+        <oldsource>The picture will be converted in 8 bits per component
+Do you want to continue?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18673,7 +18685,7 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="5"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Black</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="7"/>
@@ -18778,12 +18790,12 @@ Do you want to continue?</source>
     <message>
         <location filename="BrowserMenu.h" line="45"/>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extension</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="46"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Date</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="47"/>
@@ -19035,8 +19047,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="430"/>
-        <source>Open with test</source>
-        <oldsource>Open with</oldsource>
+        <source>Open with</source>
+        <oldsource>Open with test</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20051,7 +20063,7 @@ Do you want to continue?</source>
     <message>
         <location filename="xnview.cpp" line="1434"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">About</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1435"/>
@@ -20480,7 +20492,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="294"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="295"/>
@@ -21362,12 +21374,12 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="920"/>
+        <location filename="DlgSettingsInterface.cpp" line="927"/>
         <source>Choose command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="952"/>
+        <location filename="DlgSettingsInterface.cpp" line="959"/>
         <source>Choose icon</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21741,9 +21753,9 @@ Do you want to continue?</source>
     <message>
         <location filename="MyThumbView.cpp" line="484"/>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings � Catalog.</source>
+You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings&gt;Catalog.</oldsource>
+You can change it in Settings � Catalog.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22378,13 +22390,13 @@ Right Click for pop-up menu with actions.</source>
         <location filename="qtcolorpicker.cpp" line="267"/>
         <location filename="qtcolorpicker.cpp" line="370"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Black</translation>
     </message>
     <message>
         <location filename="qtcolorpicker.cpp" line="268"/>
         <location filename="qtcolorpicker.cpp" line="371"/>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">White</translation>
     </message>
     <message>
         <location filename="qtcolorpicker.cpp" line="269"/>
@@ -23062,7 +23074,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="VideoGalleryProcess.h" line="99"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filename</translation>
     </message>
     <message>
         <location filename="VideoGalleryProcess.h" line="99"/>

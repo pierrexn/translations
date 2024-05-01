@@ -411,14 +411,14 @@
 <context>
     <name>BookmarksManager</name>
     <message>
-        <source>This favorite points to a folder which doesn&apos;t exist. 
-Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Este favorito apunta a una carpeta que no existe. 
-¿Desea eliminar el favorito &quot;%1&quot;?</translation>
-    </message>
-    <message>
         <source>Favorite doesn&apos;t exist</source>
         <translation>No existe Favorito</translation>
+    </message>
+    <message>
+        <source>This favorite points to a folder which doesn&apos;t exist. 
+
+Do you want to delete the favorite &quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -652,12 +652,12 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Editar...</translation>
     </message>
     <message>
-        <source>Assign Set to selection...</source>
-        <translation>Asignar Conjunto a la selección...</translation>
+        <source>Assign Set to selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unassign Set to selection...</source>
-        <translation>Desasignar Conjunto a la selección...</translation>
+        <source>Unassign Set from selection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2147,10 +2147,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Foto 15x20 cm (6x8 pulgadas)</translation>
     </message>
     <message>
-        <source>Overwrite file?</source>
-        <translation>¿Sobreescribir archivo?</translation>
-    </message>
-    <message>
         <source>-90° (counter clockwise)</source>
         <translation>-90° (90º a la izquierda)</translation>
     </message>
@@ -2257,7 +2253,11 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Solo ampliar</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.
+        <source>Overwrite file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2786,10 +2786,6 @@ Do you want to overwrite it?</source>
         <translation>Se ha desactivado el ajuste &quot;Usar varios núcleos de CPU&quot;. Este ajuste no puede combinarse con el modo &apos;Preguntar&apos; ni con archivos PDF de varias páginas.</translation>
     </message>
     <message>
-        <source>The %1 version of XnConvert is available, do you want to go on the download page?</source>
-        <translation>La %1 versión de XnConvert está disponible, ¿desea ir a la página de descarga?</translation>
-    </message>
-    <message>
         <source>File size ratio:</source>
         <translation>Relación de tamaño del archivo:</translation>
     </message>
@@ -2804,10 +2800,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>create error</source>
         <translation>error al crear</translation>
-    </message>
-    <message>
-        <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
-        <translation>La opción &apos;Eliminar archivo original&apos; está activada. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Skipped:</source>
@@ -2961,10 +2953,6 @@ Do you want to overwrite it?</source>
         <translation>Cambia&amp;r nombre</translation>
     </message>
     <message>
-        <source>Overwrite file?</source>
-        <translation>¿Sobreescribir archivo?</translation>
-    </message>
-    <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <translation>&lt;br&gt;XnConvert se proporciona como software gratuito para uso privado (no comercial), o educativo, incluidas las organizaciones sin ánimo de lucro. &lt;br&gt;Las empresas deben adquirir licencias para poder utilizarlo.&lt;br&gt;&lt;br&gt;Se otorga el derecho de usar y hacer un número ilimitado de copias de este software.&lt;br&gt;&lt;br&gt;Este software se proporciona &quot; tal cual&quot;.&lt;br&gt;No se expresa ni implica garantía de ningún tipo.&lt;br&gt;El autor no se hace responsable de la pérdida de datos, daños, pérdida de ganancias o cualquier otro tipo de pérdida durante el uso o mal uso de este software.&lt;br&gt;&lt;br&gt;Cualquier sugerencia, opinión o comentario son bien recibidos. </translation>
     </message>
@@ -3000,10 +2988,6 @@ Do you want to overwrite it?</source>
         <translation>Subiendo imágen(es) al servidor...</translation>
     </message>
     <message>
-        <source>Output file exists already, do you want to overwrite it?</source>
-        <translation>El fichero de salida ya existe, ¿desea sobreescribirlo?</translation>
-    </message>
-    <message>
         <source>Overwritten:</source>
         <translation>Sobrescritos:</translation>
     </message>
@@ -3018,10 +3002,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Extracted pages:</source>
         <translation>Páginas extraídas:</translation>
-    </message>
-    <message>
-        <source>Output filename will be the same for all converted files, do you want to continue?</source>
-        <translation>E nomrbe del archivo de salida será el mismo para todos los archivos convertidos ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Same as original</source>
@@ -3048,16 +3028,46 @@ Do you want to overwrite it?</source>
         <translation>copiado</translation>
     </message>
     <message>
-        <source>You have the option to keep original file if result is larger and some actions, do you want to continue?</source>
-        <translation>Tiene la opción de conservar el archivo original si el resultado es mayor y algunas acciones, ¿desea continuar?</translation>
-    </message>
-    <message>
         <source>Please restart application.</source>
         <translation>Por favor, reiniciar la aplicación.</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.
+        <source>The %1 version of XnConvert is available. 
+
+Do you want to go on the download page?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output file already exist. 
+
 Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: %1
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The &apos;Delete original&apos; option is enabled
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output filename will be the same for all converted files. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
+
+Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8089,7 +8099,7 @@ Gracias por su compra %1.</translation>
         <translation>Eliminador de fondo</translation>
     </message>
     <message>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8108,8 +8118,10 @@ Gracias por su compra %1.</translation>
         <translation>Cambio de nombre del complementario</translation>
     </message>
     <message>
-        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. Do you want to remove them?</source>
-        <translation>Los archivos complementarios se detectan en la lista de archivos y se cambian de nombre automáticamente para que concuerden con el nombre del archivo principal. ¿Desea eliminarlos?</translation>
+        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
+
+Do you want to remove them?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8954,16 +8966,8 @@ Gracias por su compra %1.</translation>
         <translation>Árbol de categorías importado correctamente en categorías XnView</translation>
     </message>
     <message>
-        <source>Database</source>
-        <translation>Base de datos</translation>
-    </message>
-    <message>
         <source>New path:</source>
         <translation>Nueva ruta:</translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation>Catálogo</translation>
     </message>
     <message>
         <source>Lossy - Low quality (JPEG)</source>
@@ -8972,10 +8976,6 @@ Gracias por su compra %1.</translation>
     <message>
         <source>Can&apos;t import XnView database</source>
         <translation>No se puede importar la base de datos de categorías de XnView</translation>
-    </message>
-    <message>
-        <source>Now we&apos;ll clean the thumbs. Do you want to shrink the database also?</source>
-        <translation>Ahora se limpiarán las miniaturas. ¿Desea reducir también la base de datos?</translation>
     </message>
     <message>
         <source>Lossy - High quality (WebP)</source>
@@ -10307,10 +10307,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <source>Automatically apply parent category (Ctrl+click for single category)</source>
-        <translation>Aplicar automáticamente la categoría principal (Ctrl+clic para una sola categoría)</translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation>Etiqueta</translation>
     </message>
@@ -10436,6 +10432,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Write categories into images as hierarchical keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11639,10 +11639,6 @@ Do you want to reassign?</source>
         <translation>Etiqueta facial</translation>
     </message>
     <message>
-        <source>This will overwrite XMP face&apos;s regions of the file. Do you want to continue?</source>
-        <translation>Esto puede sobreescribir zonas faciales XMP del archivo. ¿Desea continuar?</translation>
-    </message>
-    <message>
         <source>Threshold</source>
         <translation>Umbral</translation>
     </message>
@@ -11657,6 +11653,12 @@ Do you want to reassign?</source>
     <message>
         <source>Add</source>
         <translation>Añadir</translation>
+    </message>
+    <message>
+        <source>This will overwrite XMP face&apos;s regions of the file. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11765,12 +11767,12 @@ Do you want to reassign?</source>
         <translation>Escribir en todos los archivos</translation>
     </message>
     <message>
-        <source>Increment at each images by</source>
-        <translation>Incrementar cada imagenes en</translation>
-    </message>
-    <message>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Fecha de captura</translation>
+    </message>
+    <message>
+        <source>Increment at each image by</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12547,18 +12549,18 @@ Do you want to reassign?</source>
         <translation>Cambiar nombre</translation>
     </message>
     <message>
-        <source>This favorite points to a folder which doesn&apos;t exist. 
-Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Este favorito apunta a una carpeta que no existe. 
-¿Desea eliminar el favorito &quot;%1&quot;?</translation>
-    </message>
-    <message>
         <source>Favorite doesn&apos;t exist</source>
         <translation>El favorito no existe</translation>
     </message>
     <message>
         <source>New subfolder</source>
         <translation>Nueva subcarpeta</translation>
+    </message>
+    <message>
+        <source>This favorite points to a folder which doesn&apos;t exist. 
+
+Do you want to delete the favorite &quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14203,12 +14205,6 @@ Do you want to continue?</source>
         <translation>Problema</translation>
     </message>
     <message>
-        <source>The picture will be converted in 8 bits per component
-Do you want to continue?</source>
-        <translation>La imagen se convertirá a 8 bits por componente
-¿Desea continuar?</translation>
-    </message>
-    <message>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
         <translation>Este archivo contiene más de una página/imagen, no es posible girarla.</translation>
     </message>
@@ -14243,6 +14239,12 @@ Do you want to continue?</source>
     <message>
         <source>An error has occurred.</source>
         <translation>Se ha producido un error.</translation>
+    </message>
+    <message>
+        <source>The picture will be converted in 8 bits per component. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15551,16 +15553,16 @@ Do you want to continue?</source>
         <translation>Miniatura EXIF - Girar 90º a la derecha</translation>
     </message>
     <message>
-        <source>Open with test</source>
-        <translation>Abrir con prueba</translation>
-    </message>
-    <message>
         <source>Rating &amp;&amp; Color label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open with</source>
+        <translation type="unfinished">Abrir con</translation>
     </message>
 </context>
 <context>
@@ -16957,7 +16959,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings � Catalog.</source>
+You can change it in Settings › Catalog.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

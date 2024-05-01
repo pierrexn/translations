@@ -416,9 +416,9 @@
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Այս ընտրյալը հղվում է պանակի, որը գոյություն չունի:
-Ցանկանո՞ւմ եք ջնջել &quot;%1&quot; ընտրյալը:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -652,12 +652,12 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Խմբագրել...</translation>
     </message>
     <message>
-        <source>Assign Set to selection...</source>
-        <translation>Նշանակել ընտրման կայումը...</translation>
+        <source>Assign Set to selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unassign Set to selection...</source>
-        <translation>Ապանշանակել ընտրման կայումը...</translation>
+        <source>Unassign Set from selection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2179,10 +2179,6 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>պահպանվեց</translation>
     </message>
     <message>
-        <source>Overwrite file?</source>
-        <translation>Վրագրե՞լ ֆայլը։</translation>
-    </message>
-    <message>
         <source>Yes to &amp;all</source>
         <translation>Այո &amp;բոլորի համար</translation>
     </message>
@@ -2257,10 +2253,13 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Միայն մեծացնել</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.
+        <source>Overwrite file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
-        <translation>%1 անունով ֆայլ արդեն կա:
-Վրագրե՞լ այն:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2783,16 +2782,8 @@ Do you want to overwrite it?</source>
         <translation>պահվեց</translation>
     </message>
     <message>
-        <source>The %1 version of XnConvert is available, do you want to go on the download page?</source>
-        <translation>Հասանելի է XnConvert-ի %1 տարբերակը, բացե՞լ կայքը՝ ներբեռնելու համար:</translation>
-    </message>
-    <message>
         <source>create error</source>
         <translation>ստեղծելու սխալ</translation>
-    </message>
-    <message>
-        <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
-        <translation>&apos;Ջնջել սկզբնական ֆայլըl&apos; ընտրանքը միացված է, շարունակե՞լ։</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) and </source>
@@ -2898,10 +2889,6 @@ Do you want to overwrite it?</source>
         <translation>&amp;Վերանվանել</translation>
     </message>
     <message>
-        <source>Overwrite file?</source>
-        <translation>Վրագրե՞լ ֆայլը։</translation>
-    </message>
-    <message>
         <source>: saved</source>
         <translation>։ պահվեց</translation>
     </message>
@@ -2925,16 +2912,8 @@ Do you want to overwrite it?</source>
         <translation>Պատկերը վերբեռնվում է...</translation>
     </message>
     <message>
-        <source>Output file exists already, do you want to overwrite it?</source>
-        <translation>Արտածվող ֆայլը արդեն առկա է, վրագրե՞լ այն։</translation>
-    </message>
-    <message>
         <source>skipped, file already exists!</source>
         <translation>բաց է թողնված, ֆայլը արդեն առկա է</translation>
-    </message>
-    <message>
-        <source>Output filename will be the same for all converted files, do you want to continue?</source>
-        <translation>Արտածվող ֆայլի անունը կլինի նույնը, ինչ փոխարկվող ֆայլինը, շարունակե՞լ։</translation>
     </message>
     <message>
         <source>Convert with XnConvert</source>
@@ -3049,18 +3028,47 @@ Do you want to overwrite it?</source>
         <translation>պատճենված</translation>
     </message>
     <message>
-        <source>You have the option to keep original file if result is larger and some actions, do you want to continue?</source>
-        <translation>Դուք ունեք բնօրինակ ֆայլը պահելու տարբերակ, եթե արդյունքն ավելի մեծ է և որոշ գործողություններ, ցանկանո՞ւմ եք շարունակել:</translation>
-    </message>
-    <message>
         <source>Please restart application.</source>
         <translation>Վերամեկնարկեք ծրագիրը</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.
+        <source>The %1 version of XnConvert is available. 
+
+Do you want to go on the download page?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output file already exist. 
+
 Do you want to overwrite it?</source>
-        <translation>%1 անունով ֆայլն արդեն կա:
-Վրագրե՞լ այն:</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: %1
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The &apos;Delete original&apos; option is enabled
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output filename will be the same for all converted files. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8090,7 +8098,7 @@ Thank you for purchasing %1.</source>
         <translation>Հեռացնել խորքը</translation>
     </message>
     <message>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8109,8 +8117,10 @@ Thank you for purchasing %1.</source>
         <translation>Ուղեկից է մնացել</translation>
     </message>
     <message>
-        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. Do you want to remove them?</source>
-        <translation>Ուղեկից ֆայլերը են հայտնաբերվել ֆայլերի ցանկում, դրանք ինքնաբար կանվանափոխվեն հետևյալ գլխավոր ֆայլի անունով: Հեռացնե՞լ դրանք:</translation>
+        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
+
+Do you want to remove them?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8955,14 +8965,6 @@ Thank you for purchasing %1.</source>
         <translation>Բացառված</translation>
     </message>
     <message>
-        <source>Database</source>
-        <translation>Տվյալների շտեմարանը</translation>
-    </message>
-    <message>
-        <source>Now we&apos;ll clean the thumbs. Do you want to shrink the database also?</source>
-        <translation>Մանրապատկերները կմաքրվեն: Տեղ բացե՞լ նաև տվյալների շտեմարանում:</translation>
-    </message>
-    <message>
         <source>Lossy - High quality (WebP)</source>
         <translation>Կորստով՝ բարձր որակ (WebP)</translation>
     </message>
@@ -8977,10 +8979,6 @@ Thank you for purchasing %1.</source>
     <message>
         <source>Problem during database import!</source>
         <translation>Խնդիր՝ շտեմարանը ներմուծելիս</translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation>Գրացուցակ</translation>
     </message>
     <message>
         <source>Category tree successfully imported into XnView categories</source>
@@ -10404,10 +10402,6 @@ Do you want to reassign?</source>
         <translation>Կարդալ աստիճանական հիմնաբառերը պատկերներից որպես նվանակարգեր</translation>
     </message>
     <message>
-        <source>Automatically apply parent category (Ctrl+click for single category)</source>
-        <translation>Ինքնաբար գործադրել ծնող անվանակարգը (Ctrl + կտտոց՝ միակ անվանակարգի համար)</translation>
-    </message>
-    <message>
         <source>Sidecar</source>
         <translation>Կողաֆայլ</translation>
     </message>
@@ -10437,6 +10431,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Write categories into images as hierarchical keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11648,16 +11646,18 @@ Do you want to reassign?</source>
         <translation>Վրագրել դեմքի շրջանները</translation>
     </message>
     <message>
-        <source>This will overwrite XMP face&apos;s regions of the file. Do you want to continue?</source>
-        <translation>Սա կմաքրի ֆայլի XMP դեմքի շրջանները: Շարունակե՞լ:</translation>
-    </message>
-    <message>
         <source>Face Tag</source>
         <translation>Դիմային պիտակ</translation>
     </message>
     <message>
         <source>Add</source>
         <translation>Ավելացնել</translation>
+    </message>
+    <message>
+        <source>This will overwrite XMP face&apos;s regions of the file. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11762,16 +11762,16 @@ Do you want to reassign?</source>
         <translation>Գրել բոլոր ֆայլերում</translation>
     </message>
     <message>
-        <source>Increment at each images by</source>
-        <translation>Մեծացնել յուրք. պատկերը ըստ</translation>
-    </message>
-    <message>
         <source>seconds</source>
         <translation>վայրկյան</translation>
     </message>
     <message>
         <source>Force the update in case of anomaly</source>
         <translation>Անկանոնության դեպքում պարտադրված արդիացում</translation>
+    </message>
+    <message>
+        <source>Increment at each image by</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12557,9 +12557,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
+
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Այս ընտրյալը հղվում է պանակի, որը գոյություն չունի:
-Ցանկանո՞ւմ եք ջնջել &quot;%1&quot; ընտրյալը:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14203,12 +14203,6 @@ Do you want to continue?</source>
         <translation>Խնդիր</translation>
     </message>
     <message>
-        <source>The picture will be converted in 8 bits per component
-Do you want to continue?</source>
-        <translation>Նկարը կփոխարկվի 8 բիթ.՝ յուրք. բաղադրիչի համար
-Շարունակե՞լ։</translation>
-    </message>
-    <message>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
         <translation>Ֆայլը պարունակում է մեկից ավելի էջեր, ուստի հնարավոր չէ պտտել այն։</translation>
     </message>
@@ -14243,6 +14237,12 @@ Do you want to continue?</source>
     <message>
         <source>An error has occurred.</source>
         <translation>Սխալ է տեղի ունեցնել:</translation>
+    </message>
+    <message>
+        <source>The picture will be converted in 8 bits per component. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15551,16 +15551,16 @@ Do you want to continue?</source>
         <translation>EXIF մանրապատկեր - Պտտել 90° աջ</translation>
     </message>
     <message>
-        <source>Open with test</source>
-        <translation>Բացեք թեստով</translation>
-    </message>
-    <message>
         <source>Rating &amp;&amp; Color label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open with</source>
+        <translation type="unfinished">Բացել՝</translation>
     </message>
 </context>
 <context>
@@ -16957,7 +16957,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings � Catalog.</source>
+You can change it in Settings › Catalog.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

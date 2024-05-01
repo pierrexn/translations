@@ -411,14 +411,14 @@
 <context>
     <name>BookmarksManager</name>
     <message>
-        <source>This favorite points to a folder which doesn&apos;t exist. 
-Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Suosikin osoittamaa kansiota ei löydy. 
-Haluatko poistaa suosikin &quot;%1&quot;?</translation>
-    </message>
-    <message>
         <source>Favorite doesn&apos;t exist</source>
         <translation>Suosikkia ei löydy</translation>
+    </message>
+    <message>
+        <source>This favorite points to a folder which doesn&apos;t exist. 
+
+Do you want to delete the favorite &quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -652,12 +652,12 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Muokkaa...</translation>
     </message>
     <message>
-        <source>Assign Set to selection...</source>
-        <translation>Määritä rymä valinnalle...</translation>
+        <source>Assign Set to selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unassign Set to selection...</source>
-        <translation>Älä määritä rymää valinnalle...</translation>
+        <source>Unassign Set from selection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2147,10 +2147,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Valokuva 6x8 tuumaa (15x20 cm)</translation>
     </message>
     <message>
-        <source>Overwrite file?</source>
-        <translation>Korvataanko tiedosto??</translation>
-    </message>
-    <message>
         <source>-90° (counter clockwise)</source>
         <translation>-90° (vastapäivään)</translation>
     </message>
@@ -2257,7 +2253,11 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Vain suurenna</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.
+        <source>Overwrite file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: %1
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2786,10 +2786,6 @@ Do you want to overwrite it?</source>
         <translation>&apos;Käytä montaa CPU-ydintä&apos; -asetus on poistettu käytöstä. Tätä asetusta ei voi yhdistää &apos;Kysy&apos;-tilaan tai monisivuisiin PDF-tiedostoihin.</translation>
     </message>
     <message>
-        <source>The %1 version of XnConvert is available, do you want to go on the download page?</source>
-        <translation>%1 versio XnConvertista saatavilla, haluatko siirtyä lataussivulle?</translation>
-    </message>
-    <message>
         <source>File size ratio:</source>
         <translation>Tiedostokoon suhde:</translation>
     </message>
@@ -2804,10 +2800,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>create error</source>
         <translation>Luo virhe</translation>
-    </message>
-    <message>
-        <source>The &apos;Delete original&apos; option is enabled, do you want to continue?</source>
-        <translation>&apos;Poista alkuperäinen&apos; -valinta sallittu, haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Skipped:</source>
@@ -2961,10 +2953,6 @@ Do you want to overwrite it?</source>
         <translation>&amp;Nimeä uudelleen</translation>
     </message>
     <message>
-        <source>Overwrite file?</source>
-        <translation>Korvataanko tiedosto??</translation>
-    </message>
-    <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita</translation>
     </message>
@@ -3000,10 +2988,6 @@ Do you want to overwrite it?</source>
         <translation>Lähetä kuvasi palvelimelle...</translation>
     </message>
     <message>
-        <source>Output file exists already, do you want to overwrite it?</source>
-        <translation>Ulostulo-tiedosto on jo olemassa, haluatko korvata sen?</translation>
-    </message>
-    <message>
         <source>Overwritten:</source>
         <translation>Korvatut:</translation>
     </message>
@@ -3018,10 +3002,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Extracted pages:</source>
         <translation>Poimitut sivut:</translation>
-    </message>
-    <message>
-        <source>Output filename will be the same for all converted files, do you want to continue?</source>
-        <translation>Ulostulo-tiedoston nimi on sama kaikille muunnettaville tiedostoille, jatketaanko?</translation>
     </message>
     <message>
         <source>Same as original</source>
@@ -3048,16 +3028,46 @@ Do you want to overwrite it?</source>
         <translation>Kopioitu</translation>
     </message>
     <message>
-        <source>You have the option to keep original file if result is larger and some actions, do you want to continue?</source>
-        <translation>Sinulla on mahdollisuus säilyttää alkuperäinen tiedosto, ja joitain toimintoja jos tulos on suurempi, haluatko jatkaa?</translation>
-    </message>
-    <message>
         <source>Please restart application.</source>
         <translation>Uudelleenkäynnistä sovellus</translation>
     </message>
     <message>
-        <source>A file called %1 already exists.
+        <source>The %1 version of XnConvert is available. 
+
+Do you want to go on the download page?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output file already exist. 
+
 Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overwrite file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: %1
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The &apos;Delete original&apos; option is enabled
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output filename will be the same for all converted files. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
+
+Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8092,7 +8102,7 @@ Kiitos että tilasit %1.</translation>
         <translation>Taustan poistaja</translation>
     </message>
     <message>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8103,16 +8113,18 @@ Kiitos että tilasit %1.</translation>
         <translation>(%1 tiedostoa)</translation>
     </message>
     <message>
-        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. Do you want to remove them?</source>
-        <translation>Oheistiedostot tunnistetaan tiedostoluettelosta ja ne nimetään automaattisesti uudelleen päätiedostonimen mukaan. Haluatko poistaa ne?</translation>
-    </message>
-    <message>
         <source>Do you want to delete all your name templates?</source>
         <translation>Haluatko poistaa kaikki nimi-mallipohjasi? </translation>
     </message>
     <message>
         <source>Companion renaming</source>
         <translation>Oheistiedostojen uudelleen nimeäminen</translation>
+    </message>
+    <message>
+        <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
+
+Do you want to remove them?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8957,16 +8969,8 @@ Kiitos että tilasit %1.</translation>
         <translation>Kategoriapuu tuotu onnistuneesti XnViewin kategorialuetteloon</translation>
     </message>
     <message>
-        <source>Database</source>
-        <translation>Tietokanta</translation>
-    </message>
-    <message>
         <source>New path:</source>
         <translation>Uusi polku:</translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation>Luettelo</translation>
     </message>
     <message>
         <source>Lossy - Low quality (JPEG)</source>
@@ -8975,10 +8979,6 @@ Kiitos että tilasit %1.</translation>
     <message>
         <source>Can&apos;t import XnView database</source>
         <translation>XnView-tietokantaa ei voi tuoda</translation>
-    </message>
-    <message>
-        <source>Now we&apos;ll clean the thumbs. Do you want to shrink the database also?</source>
-        <translation>Selaus poistetaan. Haluatko pienentää myös tietokantaa?</translation>
     </message>
     <message>
         <source>Lossy - High quality (WebP)</source>
@@ -10308,10 +10308,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <source>Automatically apply parent category (Ctrl+click for single category)</source>
-        <translation>Käytä automaattisesti pääkategoriaa (Klikkaa Ctrl+päästäksesi yksittäiseen kategoriaan)</translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation>Merkintä</translation>
     </message>
@@ -10437,6 +10433,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Write categories into images as hierarchical keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11641,10 +11641,6 @@ Do you want to reassign?</source>
         <translation>Kasvojen tunnistus</translation>
     </message>
     <message>
-        <source>This will overwrite XMP face&apos;s regions of the file. Do you want to continue?</source>
-        <translation>Tämä muuttaa tiedoston XMP-alueita. Haluatko jatkaa?</translation>
-    </message>
-    <message>
         <source>Threshold</source>
         <translation>Aloituspiste</translation>
     </message>
@@ -11659,6 +11655,12 @@ Do you want to reassign?</source>
     <message>
         <source>Add</source>
         <translation>Lisää</translation>
+    </message>
+    <message>
+        <source>This will overwrite XMP face&apos;s regions of the file. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11767,12 +11769,12 @@ Do you want to reassign?</source>
         <translation>Kirjoita kaikkiin tiedostoihin</translation>
     </message>
     <message>
-        <source>Increment at each images by</source>
-        <translation>Lisätään jokaiseen kuvaan</translation>
-    </message>
-    <message>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Kuvauspäivä</translation>
+    </message>
+    <message>
+        <source>Increment at each image by</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12549,18 +12551,18 @@ Do you want to reassign?</source>
         <translation>Nimeä uudelleen</translation>
     </message>
     <message>
-        <source>This favorite points to a folder which doesn&apos;t exist. 
-Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Suosikin osoittamaa kansiota ei löydy. 
-Haluatko poistaa suosikin &quot;%1&quot;?</translation>
-    </message>
-    <message>
         <source>Favorite doesn&apos;t exist</source>
         <translation>Suosikkia ei ole olemassa</translation>
     </message>
     <message>
         <source>New subfolder</source>
         <translation>Uusi alikansio</translation>
+    </message>
+    <message>
+        <source>This favorite points to a folder which doesn&apos;t exist. 
+
+Do you want to delete the favorite &quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14205,12 +14207,6 @@ Haluatko jatkaa?</translation>
         <translation>Ongelma</translation>
     </message>
     <message>
-        <source>The picture will be converted in 8 bits per component
-Do you want to continue?</source>
-        <translation>Kuvan muunnos sisältää 8-bittiä per komponentti
-Haluatko jatkaa?</translation>
-    </message>
-    <message>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
         <translation>Tämä tiedosto sisältää enemmän kuin yhden sivun/kuvan. Sen vuoksi sitä ei voi kääntää.</translation>
     </message>
@@ -14245,6 +14241,12 @@ Haluatko jatkaa?</translation>
     <message>
         <source>An error has occurred.</source>
         <translation>Tapahtui virhe!</translation>
+    </message>
+    <message>
+        <source>The picture will be converted in 8 bits per component. 
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15553,16 +15555,16 @@ Haluatko jatkaa?</translation>
         <translation>EXIF-esikatselukuva - Käännä 90° oikealle</translation>
     </message>
     <message>
-        <source>Open with test</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Rating &amp;&amp; Color label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open with</source>
+        <translation type="unfinished">Avaa sovelluksessa</translation>
     </message>
 </context>
 <context>
@@ -16959,7 +16961,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings � Catalog.</source>
+You can change it in Settings › Catalog.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
