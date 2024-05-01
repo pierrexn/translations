@@ -812,13 +812,13 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Beállítás hozzárendelése a kijelöléshez...</translation>
+        <translation>Beállítás hozzárendelése a kijelöléshez</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Beállítás törlése a kijelölésből...</translation>
+        <translation>Beállítás törlése a kijelölésből</translation>
     </message>
 </context>
 <context>
