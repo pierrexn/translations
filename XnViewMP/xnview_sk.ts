@@ -813,13 +813,13 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Priradiť sériu k výberu...</translation>
+        <translation>Priradiť sériu k výberu</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Zrušiť priradenie série k výberu...</translation>
+        <translation>Zrušiť priradenie série k výberu</translation>
     </message>
 </context>
 <context>
