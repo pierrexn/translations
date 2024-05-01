@@ -819,13 +819,13 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Nabor dodeli izbiri...</translation>
+        <translation>Nabor dodeli izbiri</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Odstrani Nabor iz izbora...</translation>
+        <translation>Odstrani Nabor iz izbora</translation>
     </message>
 </context>
 <context>
