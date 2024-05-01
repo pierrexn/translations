@@ -309,7 +309,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>This picture will be saved as RGB with 8bits per component</source>
-        <translation>Изображение будет сохранено как 8 битное RGB изображение</translation>
+        <translation>Изображение будет сохранено в формате RGB с 8 битами на компонент</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -324,7 +324,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2808"/>
         <source>Do you want to overwrite it?</source>
-        <translation>Вы действительно хотите перезаписать его?</translation>
+        <translation>Вы хотите его перезаписать?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2833"/>
@@ -531,7 +531,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Избранное указывает на несуществующую папку. 
+
+Вы хотите удалить избранное &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -652,12 +654,12 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="BrowserWindow.cpp" line="3211"/>
         <source>&lt;Search results&gt;</source>
         <translatorcomment>Результат поиска</translatorcomment>
-        <translation>&lt; Результаты поиска &gt;</translation>
+        <translation>&lt;Результат поиска&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3213"/>
         <source>&lt;Tagged files&gt;</source>
-        <translation>&lt; Отмеченные файлы &gt;</translation>
+        <translation>&lt;Отмеченные файлы&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3302"/>
@@ -702,12 +704,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2100"/>
         <source>Match any selected entry (OR)</source>
-        <translation>Совпадение с любой выбранной записью (ИЛИ)</translation>
+        <translation>Совпадение с любой из выбранных записей (ИЛИ)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2106"/>
         <source>Match all selected entries (AND)</source>
-        <translation>Совпадение с любой выбранной записью (И)</translation>
+        <translation>Совпадение со всеми выбранными записями (И)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3215"/>
@@ -825,13 +827,13 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Назначить Набор выделенным объектам...</translation>
+        <translation>Назначить Набор выделенным объектам</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Снять Набор с выделенных объектов...</translation>
+        <translation>Снять Набор с выделенных объектов</translation>
     </message>
 </context>
 <context>
@@ -2099,7 +2101,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAdobeConfigure.cpp" line="32"/>
         <source>Select a folder</source>
-        <translation>Выбарть папку</translation>
+        <translation>Выбрать папку</translation>
     </message>
 </context>
 <context>
@@ -2814,7 +2816,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="1379"/>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnResize бесплатна для персонального и коммерческого использования. &lt;br&gt;Вы имеете право использовать и делать неограниченное количество копий данного приложения.&lt;br&gt;&lt;br&gt;Приложение предоставляется на условиях «как есть».&lt;br&gt;Автор не предоставляет и не подразумевает каких-либо гарантий. Автор не несет ответственности за потерю данных, убытки, потерю прибыли или любой другой вид убытков при использовании или невозможности использования этого приложения. &lt;br&gt;&lt;br&gt;Приветствуются любые предложения, пожелания и комментарии.</translation>
+        <translation>&lt;br&gt;XnResize бесплатна для персонального и коммерческого использования. &lt;br&gt;Вы имеете право использовать и делать неограниченное количество копий данного приложения.&lt;br&gt;&lt;br&gt;Приложение предоставляется на условиях «как есть».&lt;br&gt;Автор не предоставляет и не подразумевает каких-либо гарантий. Автор не несет ответственности за потерю данных, убытки, потерю прибыли или любой другой вид убытков при использовании или невозможности использования этого приложения. &lt;br&gt;&lt;br&gt;Приветствуются любые предложения, пожелания и комментарии. </translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1425"/>
@@ -2865,7 +2867,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Перезапись файла</translation>
+        <translation>Перезапись файла</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -2873,9 +2875,10 @@ Drag and Drop over the desired node to assign.</source>
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Файл &quot;%1&quot; уже существует.
+        <translation>В пункте назначения уже есть файл с именем:
+&quot;%1&quot;
 
-Вы хотите перезаписать его?</translation>
+Вы хотите его перезаписать?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3578,7 +3581,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">Версия %1 XnConvert доступна, вы хотите перейти на страницу загрузки?</translation>
+        <translation>Доступна версия %1 XnConvert. 
+
+Вы хотите перейти на страницу загрузки?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1552"/>
@@ -3675,7 +3680,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Конечный файл уже существует, вы хотите перезаписать его?</translation>
+        <translation>Конечный файл уже существует. 
+
+Вы хотите его перезаписать?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3883,7 +3890,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Перезапись файла</translation>
+        <translation>Перезапись файла</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -3891,9 +3898,10 @@ Do you want to overwrite it?</source>
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Файл &quot;%1&quot; уже существует.
+        <translation>В пункте назначения уже есть файл с именем:
+&quot;%1&quot;
 
-Вы хотите перезаписать его?</translation>
+Вы хотите его перезаписать?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2613"/>
@@ -3926,14 +3934,18 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Включена опция &quot;Удалять исходный файл&quot;. 
+
+Вы хотите продолжить?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя выходного файла будет одинаковым для всех преобразованных файлов. 
+
+Вы хотите продолжить?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -3945,7 +3957,9 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Включена опция &quot;Сохранять исходный файл, если результат больше&quot; и некоторые действия. 
+
+Вы хотите продолжить?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -4288,7 +4302,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="43"/>
         <source>Custom</source>
-        <translation>Пользовательские</translation>
+        <translation>Пользовательская</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="48"/>
@@ -4494,7 +4508,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="140"/>
         <location filename="DlgConvert-old.ui" line="195"/>
         <source>Clear all</source>
-        <translation>Очистить всё</translation>
+        <translation>Очистить все</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="669"/>
@@ -6071,7 +6085,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="40"/>
         <source>Custom</source>
-        <translation>Пользовательский</translation>
+        <translation>Пользовательская</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="45"/>
@@ -6859,7 +6873,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="182"/>
         <source>Insert all pages from multipage source files</source>
-        <translation>Добавить все страницы в многостраничный файл</translation>
+        <translation>Добавить все страницы из многостраничных исходных файлов</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="191"/>
@@ -7995,7 +8009,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileAssociation.ui" line="63"/>
         <source>Select all</source>
-        <translation>Выделить всё</translation>
+        <translation>Выделить все</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.ui" line="87"/>
@@ -8353,7 +8367,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFtp.cpp" line="550"/>
         <source>Unable to load the file %1: %2.</source>
         <translatorcomment>???</translatorcomment>
-        <translation>Невозможно загрузить файл %1: %2.</translation>
+        <translation>Не удалось загрузить файл %1: %2.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="559"/>
@@ -8393,7 +8407,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="617"/>
         <source>Unable to go to folder %1</source>
-        <translation>Невозможно войти в папку %1</translation>
+        <translation>Не удалось войти в папку %1</translation>
     </message>
 </context>
 <context>
@@ -8505,7 +8519,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.h" line="269"/>
         <source>Unable to load the file %1: %2.</source>
-        <translation>Невозможно загрузить файл %1: %2.</translation>
+        <translation>Не удалось загрузить файл %1: %2.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="311"/>
@@ -8525,7 +8539,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.h" line="369"/>
         <source>Unable to go to folder %1</source>
-        <translation>Невозможно войти в папку %1</translation>
+        <translation>Не удалось войти в папку %1</translation>
     </message>
 </context>
 <context>
@@ -8594,7 +8608,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgGrid.ui" line="20"/>
         <source>Defined grids</source>
-        <translation>Настройка сетки</translation>
+        <translation>Сохраненные сетки</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="34"/>
@@ -10425,7 +10439,8 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагин не установлен.
+Вы можете установить его в Инструменты › Подключаемые модули.</translation>
     </message>
 </context>
 <context>
@@ -10438,14 +10453,16 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRename.cpp" line="312"/>
         <source>Companion renaming</source>
-        <translation>Переименование сопутствующих файлов</translation>
+        <translation>Переименование Сопутствующих файлов</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="312"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>В списке файлов обнаружены Сопутствующие файлы, они автоматически переименовываются в соответствии с именем основного файла. 
+
+Вы хотите убрать их из списка?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -11013,7 +11030,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="81"/>
         <source>Use catalog</source>
         <translatorcomment>???</translatorcomment>
-        <translation>Учитывать данные каталога</translation>
+        <translation>Учитывать данные Каталога</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="108"/>
@@ -11048,12 +11065,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="172"/>
         <source>All</source>
-        <translation>всем условиям</translation>
+        <translation>всем</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="179"/>
         <source>Any</source>
-        <translation>любому из условий</translation>
+        <translation>любому</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="294"/>
@@ -11473,7 +11490,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="557"/>
         <source>Categories (catalog)</source>
-        <translation>Категории (каталог)</translation>
+        <translation>Категории (Каталог)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="581"/>
@@ -11719,7 +11736,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="244"/>
         <source>Check integrity of catalog at startup</source>
-        <translation>Проверка целостности каталога при запуске</translation>
+        <translation>Проверка целостности Каталога при запуске</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="290"/>
@@ -11864,7 +11881,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Open with</source>
-        <translation>Открыть c помощью</translation>
+        <translation>Открыть c</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="286"/>
@@ -12120,7 +12137,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="80"/>
         <source>Select all</source>
-        <translation>Выделить всё</translation>
+        <translation>Выделить все</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="87"/>
@@ -12130,7 +12147,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="94"/>
         <source>Clear all</source>
-        <translation>Очистить всё</translation>
+        <translation>Очистить все</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="116"/>
@@ -12355,7 +12372,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
-        <translation>Режим просмотра - Полноэкранный режим</translation>
+        <translation>Просмотр - Полноэкранный режим</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="245"/>
@@ -12380,7 +12397,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="334"/>
         <source>Viewer</source>
-        <translation>Режим просмотра</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="349"/>
@@ -12619,7 +12636,7 @@ Thumbnail</source>
         <location filename="DlgStartupWizard.cpp" line="152"/>
         <location filename="DlgStartupWizard.cpp" line="159"/>
         <source>Custom</source>
-        <translation>Выборочная</translation>
+        <translation>Пользовательская</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="43"/>
@@ -12704,17 +12721,17 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="182"/>
         <source>Folder for Catalog (.db)</source>
-        <translation>Папка для каталога (.db)</translation>
+        <translation>Папка для Каталога (.db)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="211"/>
         <source>Open the Catalog Location</source>
-        <translation>Открыть расположение каталога</translation>
+        <translation>Открыть расположение Каталога</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="218"/>
         <source>Folder for Thumbnails Database</source>
-        <translation>Папка для кэша эскизов базы данных</translation>
+        <translation>Папка для кэша эскизов Каталога</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="93"/>
@@ -12861,7 +12878,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="291"/>
         <source>characters</source>
-        <translation>символа(-ов)</translation>
+        <translation>символов</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="296"/>
@@ -13237,19 +13254,19 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits XnView</source>
-        <translation>Выход из XnView при закрытии последней вкладки</translation>
+        <translation>Выходить из программы при закрытии последней вкладки</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Synchronize browser when view is closed</source>
         <translatorcomment>Режим ли???</translatorcomment>
-        <translation>Синхронизировать обозреватель при закрытии режима просмотра</translation>
+        <translation>Синхронизировать Обозреватель при закрытии режима Просмотра</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open one view for filelist</source>
         <oldsource>Only one view per file</oldsource>
-        <translation>Одно окно для нескольких открытых файлов</translation>
+        <translation>Drag&amp;&amp;Drop: открывать список файлов в одной вкладке Просмотра</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13260,7 +13277,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="186"/>
         <source>Maximum of view tabs:</source>
-        <translation>Максимально открытых вкладок:</translation>
+        <translation>Максимум открытых вкладок Просмотра:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="218"/>
@@ -13376,13 +13393,13 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
         <source>Read hierarchical keywords from images as categories</source>
         <oldsource>Read hierarchical keywords</oldsource>
-        <translation>Читать иерархические символы</translation>
+        <translation>Читать иерархию Ключевых слов как Категории</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation type="unfinished">Автоматически присваивать родительскую Категорию (Ctrl+клик только для текущей)</translation>
+        <translation>Автоматически присваивать родительскую Категорию (Ctrl+клик только для текущей)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -13393,22 +13410,22 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</source>
         <oldsource>Export DB Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation>Экспортировать категории базы данных в субъекты XMP и ключевые слова IPTC</translation>
+        <translation>Экспортировать Категории Каталога в XMP:Subject и IPTC:Keywords</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
         <source>Create XMP data</source>
-        <translation>Создать данные XMP</translation>
+        <translation>Создавать XMP данные</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="140"/>
         <source>Create IPTC data</source>
-        <translation>Создать данные IPTC</translation>
+        <translation>Создавать IPTC данные</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Update or create XMP Sidecar</source>
-        <translation>Обновить или создать связанные файлы XMP</translation>
+        <translation>Обновлять или создавать связанные файлы XMP (sidecar)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -14904,7 +14921,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="248"/>
         <source>Folder for Thumbnails Database</source>
-        <translation>Папка для кэша эскизов каталога</translation>
+        <translation>Папка для кэша эскизов Каталога</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="228"/>
@@ -14914,7 +14931,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="221"/>
         <source>Folder for Catalog (.db)</source>
-        <translation>Папка для каталога (.db)</translation>
+        <translation>Папка для Каталога (.db)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="273"/>
@@ -15109,7 +15126,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>В файле будут перезаписаны XMP области с лицами.
+
+Вы хотите продолжить?</translation>
     </message>
 </context>
 <context>
@@ -15201,7 +15220,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation type="unfinished">Увеличивать на каждом изображении на</translation>
+        <translation>Увеличивать на каждом изображении на</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -15275,7 +15294,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransfer.ui" line="36"/>
         <source>Clear all</source>
-        <translation>Очистить всё</translation>
+        <translation>Очистить все</translation>
     </message>
     <message>
         <location filename="DlgTransfer.cpp" line="204"/>
@@ -15401,12 +15420,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="203"/>
         <source>Unable to load image file...</source>
-        <translation>Невозможно загрузить файл изображения...</translation>
+        <translation>Не удалось загрузить файл изображения...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="229"/>
         <source>Unable to upload image file...</source>
-        <translation>Невозможно закачать файл изображения...</translation>
+        <translation>Не удалось закачать файл изображения...</translation>
     </message>
 </context>
 <context>
@@ -16227,7 +16246,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Избранное указывает на несуществующую папку. 
+
+Вы хотите удалить избранное &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -18620,8 +18641,9 @@ Do you want to continue?</source>
 Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Изображение будет переведено в 8 битный режим
-Хотите продолжить?</translation>
+        <translation>Изображение будет преобразовано в 8 бит на компонент. 
+
+Вы хотите продолжить?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
@@ -19398,12 +19420,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Update catalog from files</source>
-        <translation>Обновить каталог из файлов</translation>
+        <translation>Обновить Каталог из файлов</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Update files from catalog</source>
-        <translation>Обновить файлы из каталога</translation>
+        <translation>Обновить файлы из Каталога</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -19843,7 +19865,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">Открыть c проверкой</translation>
+        <translation>Открыть c</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -19876,7 +19898,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="447"/>
         <source>Select all</source>
-        <translation>Выделить всё</translation>
+        <translation>Выделить все</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="448"/>
@@ -20786,7 +20808,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="267"/>
         <source>Open with</source>
-        <translation>Открыть c помощью</translation>
+        <translation>Открыть c</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="268"/>
@@ -21203,7 +21225,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="408"/>
         <source>Show people&apos;s region</source>
-        <translation>Отображать распознанные регионы</translation>
+        <translation>Отображать области с лицами</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="409"/>
@@ -21879,7 +21901,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyAddFolderProcess.h" line="55"/>
         <source>Building catalog entries...</source>
-        <translation>Создание записи в каталоге...</translation>
+        <translation>Создание записей в Каталоге...</translation>
     </message>
 </context>
 <context>
@@ -22121,14 +22143,14 @@ Do you want to continue?</oldsource>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">Размер кэшированного эскиза меньше выбранного. 
-Вы можете изменить размер эскиза в настройках (Настройки › Каталог).</translation>
+        <translation>Размер кэшированного эскиза меньше выбранного. 
+Вы можете это изменить в Настройки › Каталог.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
-        <translation>Обновление каталога...</translation>
+        <translation>Обновление Каталога...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="617"/>
@@ -22720,14 +22742,14 @@ Right Click for pop-up menu with actions.</source>
         <location filename="qftp.cpp" line="2118"/>
         <source>Listing directory failed:
 %1</source>
-        <translation>Ошибка получения списка каталогов:
+        <translation>Ошибка получения списка папок:
 %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2122"/>
         <source>Changing directory failed:
 %1</source>
-        <translation>Ошибка изменения каталога:
+        <translation>Ошибка изменения папки:
 %1</translation>
     </message>
     <message>
@@ -22755,14 +22777,14 @@ Right Click for pop-up menu with actions.</source>
         <location filename="qftp.cpp" line="2138"/>
         <source>Creating directory failed:
 %1</source>
-        <translation>Ошибка при создании каталога:
+        <translation>Ошибка при создании папки:
 %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2142"/>
         <source>Removing directory failed:
 %1</source>
-        <translation>Ошибка при удалении каталога:
+        <translation>Ошибка при удалении папки:
 %1</translation>
     </message>
     <message>
@@ -23974,7 +23996,7 @@ Right Click for pop-up menu with actions.</source>
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>XnViewMP обновит каталог. Этот процесс может занять некоторое время.
+        <translation>XnViewMP обновит Каталог. Этот процесс может занять некоторое время.
 
 Вы хотите сохранить эскизы? 
 (Если вы выберете ДА, то на обновление потребуется больше времени)</translation>
@@ -23983,22 +24005,23 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="486"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
-        <translation>Обновление каталога...</translation>
+        <translation>Обновление Каталога...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="489"/>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Проблема при обновлении каталога (Ошибка: %1). Пожалуйста, свяжитесь с разработчиком.</translation>
+        <translation>XnViewMP - Проблема при обновлении Каталога (Ошибка: %1). 
+Пожалуйста, свяжитесь с разработчиком.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="596"/>
         <source>Catalog problem</source>
-        <translation>Проблема с каталогом</translation>
+        <translation>Проблема с Каталогом</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="596"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation>Возникла проблема с открытием каталога, проверкой ваших настроек или используемой папки!</translation>
+        <translation>Возникла проблема с открытием Каталога, проверьте ваши настройки или используемую папку!</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="973"/>
