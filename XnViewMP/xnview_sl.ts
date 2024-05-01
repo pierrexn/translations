@@ -1573,7 +1573,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Lut logaritemsko</translation>
+        <translation>Logaritemski LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -4381,25 +4381,25 @@ Ali jo želite prepisati?</translation>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Zgoraj levo</translation>
+        <translation>Zgoraj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Zgoraj center</translation>
+        <translation>Zgoraj-center</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Zgoraj desno</translation>
+        <translation>Zgoraj-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Center levo</translation>
+        <translation>Center-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4410,25 +4410,25 @@ Ali jo želite prepisati?</translation>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Center desno</translation>
+        <translation>Center-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Spodaj levo</translation>
+        <translation>Spodaj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Spodaj center</translation>
+        <translation>Spodaj-center</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Spodaj desno</translation>
+        <translation>Spodaj-desno</translation>
     </message>
 </context>
 <context>
@@ -6390,13 +6390,13 @@ Ali jo želite prepisati?</translation>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Zgoraj levo</translation>
+        <translation>Zgoraj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Zgoraj desno</translation>
+        <translation>Zgoraj-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6407,19 +6407,19 @@ Ali jo želite prepisati?</translation>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Spodaj levo</translation>
+        <translation>Spodaj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Spodaj</translation>
+        <translation>Spodaj-center</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Spodaj desno</translation>
+        <translation>Spodaj-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6482,17 +6482,17 @@ Ali jo želite prepisati?</translation>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj-center</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Center-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Center-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6644,17 +6644,17 @@ Ali jo želite prepisati?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj-center</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Center-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Center-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6731,13 +6731,13 @@ Ali jo želite prepisati?</translation>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Zgoraj levo</translation>
+        <translation>Zgoraj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Zgoraj desno</translation>
+        <translation>Zgoraj-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6748,19 +6748,19 @@ Ali jo želite prepisati?</translation>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Spodaj levo</translation>
+        <translation>Spodaj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Spodaj</translation>
+        <translation>Spodaj-center</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Spodaj desno</translation>
+        <translation>Spodaj-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7230,7 +7230,7 @@ Ali jo želite prepisati?</translation>
         <location filename="DlgEditXMP.ui" line="573"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Odpri nazadnje odprti zavihek</translation>
+        <translation>Zapomni si odprt zavihek</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7754,7 +7754,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation type="unfinished">Ocena izvoza &amp;&amp; Oznaka</translation>
+        <translation>Izvozi oceno in &amp;barvne oznake</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -9019,7 +9019,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgIptc.ui" line="730"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Odpri nazadnje odprti zavihek</translation>
+        <translation>Zapomni si odprt zavihek</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
@@ -10372,7 +10372,7 @@ Hvala za nakup %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Namestite ga z uporabo orodij � vtičnikov</translation>
     </message>
 </context>
 <context>
@@ -10813,28 +10813,28 @@ Hvala za nakup %1.</translation>
         <location filename="DlgResize.ui" line="604"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Zgoraj levo</translation>
+        <translation>Zgoraj-levo</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="609"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj-center</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="619"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Center-levo</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="629"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Center-desno</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="614"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Zgoraj desno</translation>
+        <translation>Zgoraj-desno</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="624"/>
@@ -10845,19 +10845,19 @@ Hvala za nakup %1.</translation>
         <location filename="DlgResize.ui" line="634"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Spodaj levo</translation>
+        <translation>Spodaj-levo</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="639"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Spodaj</translation>
+        <translation>Spodaj-center</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="644"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Spodaj desno</translation>
+        <translation>Spodaj-desno</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="666"/>
@@ -11546,7 +11546,7 @@ Do you want to continue?</source>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation type="unfinished">Ne morem uvoziti zbirke podatkov XnView razreda</translation>
+        <translation>Ni mogoče uvoziti baze podatkov kategorij XnView Classic</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11728,7 +11728,7 @@ Ali želite najprej preveriti prizadete vnose?</translation>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">Uvozi zbirko podatkov XnView razreda...</translation>
+        <translation>Uvoz baze podatkov kategorije XnView Classic...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -13094,7 +13094,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished">Pomik navzgor/navzdol</translation>
+        <translation>Navpično drsenje</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13318,7 +13318,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation type="unfinished">Uvozi XMP subjekt ali IPTC ključne besede v kataloge razredov</translation>
+        <translation>Samodejno uvozi XMP:Subject in IPTC:Keywords v kategorije kataloga</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13362,7 +13362,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
-        <translation type="unfinished">Zapiši kategorije v slike kot hierahične ključne besede</translation>
+        <translation>Zapiši kategorije v slike kot hierahične ključne besede</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
@@ -13973,7 +13973,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsView.ui" line="501"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation type="unfinished">Prikaži oceno &amp;&amp; barvno oznako</translation>
+        <translation>Prikaži oceno in&amp; barvno oznako</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="515"/>
@@ -14095,7 +14095,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsView.ui" line="921"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation type="unfinished">Prikaži ikone večje ločljivosti kot posnetke</translation>
+        <translation>Nariši ikone z več ločljivostmi kot posnetke</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="959"/>
@@ -16620,7 +16620,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
-        <translation type="unfinished">Sub-vzorčenje</translation>
+        <translation>Sub-vzorčenje</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -18806,7 +18806,7 @@ Do you want to continue?</source>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebrew</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -20035,7 +20035,7 @@ Do you want to continue?</source>
         <location filename="BrowserMenu.h" line="519"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Ocena &amp;&amp; barvna oznaka</translation>
+        <translation>Ocena in&amp; barvna oznaka</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
@@ -20466,7 +20466,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: Numerični popisovalec</translation>
+        <translation># - Numerični popisovalec</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -21020,7 +21020,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="364"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Ocena &amp;&amp; barvna oznaka</translation>
+        <translation>Ocena in &amp; barvna oznaka</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="370"/>
@@ -21056,7 +21056,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="402"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">Ikona posnetka vklopl/izklop</translation>
+        <translation>Nariši kot posnetek (samo ikone)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="403"/>
@@ -21108,7 +21108,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
-        <translation type="unfinished">Pošlji po e-pošti...</translation>
+        <translation>Pošlji po e-pošti...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="690"/>
@@ -21170,7 +21170,7 @@ Do you want to continue?</source>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Lut logaritemsko</translation>
+        <translation>Logaritemski LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -22033,8 +22033,8 @@ Do you want to continue?</source>
 You can change it in Settings � Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings&gt;Catalog.</oldsource>
-        <translation type="unfinished">Velikost predpomnjenih sličic je manjša od izbrane.
-Spremenite jo lahko v Nastavitve&gt;Katalog.</translation>
+        <translation>Velikost predpomnjenih sličic je manjša od izbrane.
+Spremenite ga lahko v nastavitvah � katalog.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
