@@ -816,13 +816,13 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Przypisz zestaw do zaznaczania...</translation>
+        <translation>Przypisz zestaw do zaznaczania</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Odłącz zestaw od zaznaczenia...</translation>
+        <translation>Odłącz zestaw od zaznaczenia</translation>
     </message>
 </context>
 <context>
