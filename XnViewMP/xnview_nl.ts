@@ -814,13 +814,13 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Verzameling toekennen aan selectie…</translation>
+        <translation>Verzameling toekennen aan selectie</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Verzameling loskoppelen van selectie…</translation>
+        <translation>Verzameling loskoppelen van selectie</translation>
     </message>
 </context>
 <context>
