@@ -820,13 +820,13 @@ Arrastar e largar sobre o nó pretendido.</translation>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
         <translatorcomment>Set is translated as conjunto</translatorcomment>
-        <translation type="unfinished">Designar um Conjunto para os seleccionados...</translation>
+        <translation>Designar um Conjunto para os seleccionados</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Remover atribuição do Conjunto para os seleccionados...</translation>
+        <translation>Remover atribuição do Conjunto para os seleccionados</translation>
     </message>
 </context>
 <context>
