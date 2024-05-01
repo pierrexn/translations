@@ -810,13 +810,13 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Tilegn settet til utvalget...</translation>
+        <translation>Tilegn settet til utvalget</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Fjern tilegning av settet fra utvalget...</translation>
+        <translation>Fjern tilegning av settet fra utvalget</translation>
     </message>
 </context>
 <context>
