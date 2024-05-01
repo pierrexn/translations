@@ -811,13 +811,13 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Assigna conjunt a la selecció...</translation>
+        <translation>Assigna conjunt a la selecció</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Desassigna conjunt a la selecció...</translation>
+        <translation>Desassigna conjunt a la selecció</translation>
     </message>
 </context>
 <context>
@@ -3852,7 +3852,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Sobrescric el fitxer?</translation>
+        <translation>Sobrescric el fitxer</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
