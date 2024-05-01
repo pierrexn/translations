@@ -808,13 +808,13 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation type="unfinished">Seçim için set ata...</translation>
+        <translation>Seçim için set ata</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation type="unfinished">Seçime atanan seti kaldır...</translation>
+        <translation>Seçime atanan seti kaldır</translation>
     </message>
 </context>
 <context>
