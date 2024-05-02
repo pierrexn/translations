@@ -524,7 +524,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze favoriet verwijst naar een map die niet bestaat. 
+
+Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     </message>
 </context>
 <context>
@@ -2839,7 +2841,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Bestand overschrijven?</translation>
+        <translation>Bestand overschrijven</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -2847,8 +2849,8 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Een bestand met de naam %1 bestaat al.
-Wilt u het overschrijven?</translation>
+        <translation>Een bestand met de naam %1 bestaat al.
+Overschrijven?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3550,7 +3552,9 @@ Wilt u het overschrijven?</translation>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">Versie %1 van XnConvert is beschikbaar, wilt u naar de download-pagina?</translation>
+        <translation>Versie %1 van XnConvert is beschikbaar.
+
+Wil je naar de download-pagina gaan?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1552"/>
@@ -3624,7 +3628,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Uitvoerbestand bestaat al, wilt u het overschrijven?</translation>
+        <translation>Uitvoerbestand bestaat al.
+
+Overschrijven?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3848,7 +3854,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Bestand overschrijven?</translation>
+        <translation>Bestand overschrijven</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -3856,8 +3862,8 @@ Do you want to overwrite it?</source>
 Do you want to overwrite it?</source>
         <oldsource>A file called %1 already exists.
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Een bestand met de naam %1 bestaat al.
-Wilt u het overschrijven?</translation>
+        <translation>De bestemming bevat al een bestand met naam: %1.
+Overschrijven?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2613"/>
@@ -3889,14 +3895,18 @@ Wilt u het overschrijven?</translation>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>De optie &apos;Origineel verwijderen&apos; is geaccepteerd
+
+Wil je doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>De uitvoerbestandsnaam is hetzelfde voor alle geconverteerde bestanden.
+
+Wil je doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -3908,7 +3918,9 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt de optie &apos;origineel bestand behouden als het resultaat groter is&apos; en enkele acties.
+
+Wil je doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -4431,7 +4443,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert-old.ui" line="30"/>
         <source>You can drag&amp;drop your files on the list below.</source>
         <translatorcomment>slepen   =   drag&amp;drop</translatorcomment>
-        <translation>U kan de bestanden slepen naar de onderstaande lijst.</translation>
+        <translation>Sleep de bestanden naar de onderstaande lijst.</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="65"/>
@@ -4742,7 +4754,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1618"/>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
-        <translation>Opmerking: U moet starten met beheerdersrechten om deze instelling te kunnen wijzigen</translation>
+        <translation>Opmerking: Start met beheerdersrechten om deze instelling te kunnen wijzigen</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1654"/>
@@ -8475,7 +8487,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
         <source>You can paste values as Xx, Yy</source>
-        <translation>U kunt waardes als Xx, Yy invoegen</translation>
+        <translation>Je kunt waarden als Xx, Yy invoegen</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="123"/>
@@ -10356,7 +10368,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Installeer het via Hulpmiddelen › Plug-ins</translation>
     </message>
 </context>
 <context>
@@ -10376,7 +10388,9 @@ Dank u voor de aanschaf van %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijbehorende bestanden gedetecteerd in de bestandslijst. Deze worden automatisch hernoemd in overeenstemming met de naam van het hoofdbestand. 
+
+Wil je ze verwijderen?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -13298,7 +13312,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation type="unfinished">Bovenliggende trefwoorden overnemen (CTRL+klik voor enkel trefwoord)</translation>
+        <translation>Automatisch bovenliggende categorie toewijzen (Ctrl + klik alleen voor huidige)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -15018,7 +15032,9 @@ Opnieuw toewijzen?</translation>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit overschrijft de XMP gezichtsregio&apos;s van het bestand.
+
+Doorgaan?</translation>
     </message>
 </context>
 <context>
@@ -15110,7 +15126,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation type="unfinished">Elke afbeelding ophogen met</translation>
+        <translation>Elke afbeelding ophogen met</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -16133,7 +16149,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze favoriet verwijst naar een map die niet bestaat. 
+
+Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -18516,8 +18534,9 @@ Wilt u doorgaan?</translation>
 Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component
 Do you want to continue?</oldsource>
-        <translation type="unfinished">De afbeelding wordt omgezet in 8-bits per componen.t
-Wilt u doorgaan?</translation>
+        <translation>De afbeelding wordt omgezet in 8-bits per component.
+
+Wil je doorgaan?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
@@ -19692,7 +19711,7 @@ Wilt u doorgaan?</translation>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">Openen met test</translation>
+        <translation>Openen met</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -21997,8 +22016,8 @@ Wilt u doorgaan?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">De grootte van opgeslagen miniaturen is kleiner dan gekozen.
-U kunt dit wijzigen in Instellingen › Catalogus.</translation>
+        <translation>De grootte van opgeslagen miniaturen is kleiner dan gekozen.
+Je kunt dit wijzigen in Instellingen › Catalogus.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
@@ -23901,7 +23920,7 @@ Waardering, Labels en Kleurlabels worden niet opgeslagen.</translation>
     <message>
         <location filename="xnview.cpp" line="1040"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
-        <translation>Uw vorige sessie omvat veel geladen afbeeldingen, dit kan een trage start veroorzaken!</translation>
+        <translation>De vorige sessie omvat veel geladen afbeeldingen, dit kan een vertraging veroorzaken!</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1040"/>
