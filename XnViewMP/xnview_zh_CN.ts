@@ -277,11 +277,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="208"/>
         <source>Do you want to save changes to
- &quot;%1&quot;?
+&quot;%1&quot;?
 </source>
-        <oldsource>Do you want to save changes to &quot;%1&quot;?
+        <oldsource>Do you want to save changes to
+ &quot;%1&quot;?
 </oldsource>
-        <translation>是否想要保存更改到“%1”？</translation>
+        <translation type="unfinished">是否想要保存更改到“%1”？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1353"/>
@@ -306,8 +307,8 @@
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
-        <source>This picture will be saved as RGB with 8bits per component</source>
-        <translation>当前图像会被保存为8位RGB</translation>
+        <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -353,11 +354,6 @@
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Colors count</source>
         <translation>颜色统计</translation>
-    </message>
-    <message>
-        <location filename="ViewWindow.cpp" line="4202"/>
-        <source>There is %1 colors used in this picture</source>
-        <translation>这张图片共有%1种颜色</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1942"/>
@@ -422,6 +418,11 @@
         <location filename="ViewWindow.cpp" line="2799"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>文件&lt;%1&gt;是只读的，请选择另外一个文件名。</translation>
+    </message>
+    <message>
+        <location filename="ViewWindow.cpp" line="4202"/>
+        <source>Number of unique colors: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -514,12 +515,12 @@
 <context>
     <name>BookmarksManager</name>
     <message>
-        <location filename="Bookmarks.cpp" line="162"/>
+        <location filename="Bookmarks.cpp" line="160"/>
         <source>Favorite doesn&apos;t exist</source>
         <translation>收藏夹不存在</translation>
     </message>
     <message>
-        <location filename="Bookmarks.cpp" line="162"/>
+        <location filename="Bookmarks.cpp" line="160"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
@@ -529,7 +530,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BookmarksMenu</name>
     <message>
-        <location filename="Bookmarks.cpp" line="894"/>
+        <location filename="Bookmarks.cpp" line="879"/>
         <source>No favorites</source>
         <translation>没有收藏夹</translation>
     </message>
@@ -537,12 +538,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BookmarksModel</name>
     <message>
-        <location filename="Bookmarks.cpp" line="365"/>
+        <location filename="Bookmarks.cpp" line="363"/>
         <source>Label</source>
         <translation>书签</translation>
     </message>
     <message>
-        <location filename="Bookmarks.cpp" line="366"/>
+        <location filename="Bookmarks.cpp" line="364"/>
         <source>Pathname</source>
         <translation>路径</translation>
     </message>
@@ -1811,9 +1812,9 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="ConvertThread.cpp" line="777"/>
         <location filename="ConvertThread.cpp" line="1258"/>
-        <source>WARNING: The picture will be converted to RGB with 8bits per component</source>
-        <oldsource>WARNING: the picture will be converted to RGB with 8bits per component</oldsource>
-        <translation>警告：当前图像会被转换为 8 位 RGB 颜色</translation>
+        <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
+        <translation type="unfinished">警告：当前图像会被转换为 8 位 RGB 颜色</translation>
     </message>
 </context>
 <context>
@@ -2844,9 +2845,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>Destination already has a file named: %1
+        <source>Destination already has a file named: 
+%1
+
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.
+        <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
         <translation type="unfinished">文件 %1 已存在。
 确定要覆盖吗?</translation>
@@ -3847,9 +3850,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>Destination already has a file named: %1
+        <source>Destination already has a file named: 
+%1
+
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.
+        <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
         <translation type="unfinished">文件%1已存在。
 是确定要覆盖吗?</translation>
@@ -5610,18 +5615,19 @@ Do you want to continue?</source>
     <name>DlgConvertLevelsClass</name>
     <message>
         <location filename="DlgConvertLevels.ui" line="38"/>
-        <source>Luminosity</source>
-        <translation>光度</translation>
+        <source>Luminance</source>
+        <oldsource>Luminosity</oldsource>
+        <translation type="unfinished">光度</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
-        <source>Colors</source>
-        <translation>色彩</translation>
+        <source>RGB</source>
+        <translation type="unfinished">RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
-        <source>Colors+Luminosity</source>
-        <translation>色彩+光度</translation>
+        <source>RGB+Luminance</source>
+        <translation type="unfinished">RGB+亮度</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -6899,8 +6905,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="22"/>
-        <source>Luminosity</source>
-        <translation>明度</translation>
+        <source>Luminance</source>
+        <oldsource>Luminosity</oldsource>
+        <translation type="unfinished">明度</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7670,8 +7677,6 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="323"/>
-        <location filename="DlgExport.cpp" line="348"/>
-        <location filename="DlgExport.cpp" line="350"/>
         <source>None</source>
         <translation>没有</translation>
     </message>
@@ -7703,18 +7708,12 @@ Please make sure that files are not read-only!</oldsource>
         <translation>自适应</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="348"/>
-        <location filename="DlgExport.cpp" line="350"/>
-        <source>Packbits</source>
-        <translation>位压缩</translation>
-    </message>
-    <message>
-        <location filename="DlgExport.cpp" line="598"/>
+        <location filename="DlgExport.cpp" line="586"/>
         <source>Images</source>
         <translation>图像</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="617"/>
+        <location filename="DlgExport.cpp" line="605"/>
         <source>Save File</source>
         <translation>保存文件</translation>
     </message>
@@ -7776,11 +7775,6 @@ Please make sure that files are not read-only!</oldsource>
         <translation>抖动</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="278"/>
-        <source>Set transparency color...</source>
-        <translation>设置透明色...</translation>
-    </message>
-    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -7834,6 +7828,11 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="468"/>
         <source>Subsampling factor</source>
         <translation>二次采样系数</translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="278"/>
+        <source>Edit palette...</source>
+        <translation type="unfinished">编辑彩色地图……</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -10927,8 +10926,9 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="60"/>
-        <source>Use RegExp</source>
-        <translation>使用正则表达式</translation>
+        <source>Use Regular Expression</source>
+        <oldsource>Use RegExp</oldsource>
+        <translation type="unfinished">使用正则表达式</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -12480,6 +12480,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="772"/>
+        <location filename="DlgSettingsGeneral.ui" line="834"/>
+        <location filename="DlgSettingsGeneral.ui" line="901"/>
         <source>Custom</source>
         <translation>自定义</translation>
     </message>
@@ -12487,12 +12489,6 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="825"/>
         <source>sRGB</source>
         <translation>sRGB</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsGeneral.ui" line="834"/>
-        <location filename="DlgSettingsGeneral.ui" line="901"/>
-        <source>Other</source>
-        <translation>其他</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="879"/>
@@ -12775,8 +12771,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
-        <source>Closing last tab exits XnView</source>
-        <translation>退出XnView时，关闭最后一个标签卡</translation>
+        <source>Closing last tab exits application</source>
+        <oldsource>Closing last tab exits XnView</oldsource>
+        <translation type="unfinished">退出XnView时，关闭最后一个标签卡</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
@@ -13306,8 +13303,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
-        <source>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</source>
-        <oldsource>Export DB Category to XMP Subject and IPTC Keyword</oldsource>
+        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
+        <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
         <translation type="unfinished">导出缓存数据库中的分类到XMP和IPTC关键字</translation>
     </message>
     <message>
@@ -13322,9 +13319,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
-        <source>Update or create XMP Sidecar</source>
+        <source>Create or update XMP Sidecar</source>
+        <oldsource>Update or create XMP Sidecar</oldsource>
         <translatorcomment>待确定</translatorcomment>
-        <translation>更新或创建 XMP Sidecar</translation>
+        <translation type="unfinished">更新或创建 XMP Sidecar</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -15607,8 +15605,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
-        <source>Format</source>
-        <translation>格式</translation>
+        <source>Subsampling</source>
+        <translation type="unfinished">次级采样</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15835,8 +15833,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
-        <source>Internal color format</source>
-        <translation>内部颜色格式</translation>
+        <source>Subsampling</source>
+        <translation type="unfinished">次级采样</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -17431,7 +17429,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2525"/>
-        <source>Exposure Time [s]</source>
+        <source>Exposure Time (s)</source>
+        <oldsource>Exposure Time [s]</oldsource>
         <translation type="unfinished">曝光时间[s]</translation>
     </message>
     <message>
@@ -17456,7 +17455,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2531"/>
-        <source>Focal length [mm]</source>
+        <source>Focal length (mm)</source>
+        <oldsource>Focal length [mm]</oldsource>
         <translation type="unfinished">焦距[mm]</translation>
     </message>
     <message>
@@ -17471,7 +17471,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2534"/>
-        <source>Shutter speed [s]</source>
+        <source>Shutter speed (s)</source>
+        <oldsource>Shutter speed [s]</oldsource>
         <translation type="unfinished">快门速度[s]</translation>
     </message>
     <message>
@@ -18533,10 +18534,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="464"/>
-        <source>The picture will be converted in 8 bits per component. 
+        <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
-        <oldsource>The picture will be converted in 8 bits per component
+        <oldsource>The picture will be converted in 8 bits per component. 
+
 Do you want to continue?</oldsource>
         <translation type="unfinished">这个图片会被转换为8bit。确定要继续吗？</translation>
     </message>
@@ -19265,43 +19267,43 @@ Do you want to continue?</oldsource>
         <translation>EXIF 缩略图</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Video thumbnails gallery...</source>
         <translation>视频缩略图库……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation type="unfinished">清理 &amp;&amp; 导入……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="662"/>
+        <location filename="BrowserMenu.h" line="664"/>
         <source>Catalog</source>
         <translation type="unfinished">缓存数据库</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Switch panel...</source>
         <translation>切换面板……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="667"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Path focus...</source>
         <translation>路径聚焦……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="670"/>
         <source>Filter by All</source>
         <translation type="unfinished">全部过滤</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="672"/>
         <source>Face tag...</source>
         <translatorcomment>这个在哪个位置？</translatorcomment>
         <translation>脸部标记……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="678"/>
+        <location filename="BrowserMenu.h" line="680"/>
         <source>Acquire (TWAIN)</source>
         <translation>获取 (TWAIN)</translation>
     </message>
@@ -19497,88 +19499,88 @@ Do you want to continue?</oldsource>
         <translation type="unfinished">转换元数据……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>Import and sort...</source>
         <translation>导入并分类...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Multi-page file...</source>
         <translation>多页文件...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Join images...</source>
         <translatorcomment>合并，拼合，拼贴更准确吧，追加意味不明</translatorcomment>
         <translation>拼合图像...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Contact sheet...</source>
         <translation>相版...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Slideshow...</source>
         <translation>幻灯片...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translatorcomment>切片，切割，切分，Slice</translatorcomment>
         <translation type="unfinished">图像切片...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Banner...</source>
         <translatorcomment>不用翻译也可以吧</translatorcomment>
         <translation type="unfinished">横幅……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>New image...</source>
         <translation>新建图像...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="281"/>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>No fit</source>
         <translation type="unfinished">不缩放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="282"/>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Fit image to window</source>
         <translation>适应窗口</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="284"/>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Fit image to window, large only</source>
         <translation>适应窗口大小（仅大图片）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="285"/>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Fit image to window width</source>
         <translation>适应窗口宽度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="286"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Fit image to window height</source>
         <translation>适应窗口高度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="287"/>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Fit image to window width or height</source>
         <translation>适应窗口宽或高</translation>
     </message>
@@ -19699,7 +19701,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="332"/>
         <location filename="BrowserMenu.h" line="343"/>
         <location filename="BrowserMenu.h" line="568"/>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Preview</source>
         <translatorcomment>勾选Info Panes-&gt;Preview&quot;预览&quot;后菜单项才会变亮可用</translatorcomment>
         <translation>预览</translation>
@@ -19908,7 +19910,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Layout</source>
         <translation>布局</translation>
     </message>
@@ -20053,7 +20055,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="604"/>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="662"/>
         <source>Export...</source>
         <translation>导出...</translation>
     </message>
@@ -20119,68 +20121,68 @@ Do you want to continue?</oldsource>
         <translation>打印...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>Properties...</source>
         <translation>属性...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Real size</source>
         <translation>实际尺寸</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Zoom in</source>
         <translation>放大</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Zoom out</source>
         <translation>缩小</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Lock zoom</source>
         <translation>锁定缩放</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>使用透明索引（≤ 8位）</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Use alpha channel</source>
         <translation>使用alpha通道</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Show alpha</source>
         <translation type="unfinished">显示alpha</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Show red</source>
         <translation>显示红色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Show green</source>
         <translation>显示绿色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Show blue</source>
         <translation>显示蓝色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Draw as tiled</source>
         <translatorcomment>TODO，什么意思？</translatorcomment>
         <translation>以瓷砖形式绘制</translation>
@@ -20188,79 +20190,79 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="283"/>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Fit image to window, small only</source>
         <translation>图像适应窗口大小，仅针对小图片</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Zoom</source>
         <translation>缩放</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Copy to clipboard</source>
         <translation>复制到剪贴板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>File operations</source>
         <translation>文件操作</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="666"/>
         <source>Quick Filter</source>
         <translatorcomment>这个在哪个位置？</translatorcomment>
         <translation>快速过滤</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="665"/>
+        <location filename="BrowserMenu.h" line="667"/>
         <source>Category Search</source>
         <translation>分类搜索</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="673"/>
+        <location filename="BrowserMenu.h" line="675"/>
         <source>Capture...</source>
         <translation>截屏……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="674"/>
+        <location filename="BrowserMenu.h" line="676"/>
         <source>Import clipboard</source>
         <translation>导入剪贴板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="675"/>
+        <location filename="BrowserMenu.h" line="677"/>
         <source>Empty tab...</source>
         <translatorcomment>这个在哪个位置？</translatorcomment>
         <translation>空标签卡...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="677"/>
+        <location filename="BrowserMenu.h" line="679"/>
         <source>Select TWAIN source...</source>
         <translation>选择 TWAIN(图像通讯) 来源...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="818"/>
+        <location filename="BrowserMenu.h" line="820"/>
         <source>&amp;File</source>
         <translation>文件(&amp;F)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="819"/>
+        <location filename="BrowserMenu.h" line="821"/>
         <source>&amp;Edit</source>
         <translation>编辑(&amp;E)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="820"/>
+        <location filename="BrowserMenu.h" line="822"/>
         <source>&amp;View</source>
         <translation>查看(&amp;V)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="821"/>
+        <location filename="BrowserMenu.h" line="823"/>
         <source>Meta&amp;data</source>
         <translation type="unfinished">元数据(&amp;d)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="822"/>
+        <location filename="BrowserMenu.h" line="824"/>
         <source>&amp;Tools</source>
         <translation>工具(&amp;T)</translation>
     </message>
@@ -20275,17 +20277,17 @@ Do you want to continue?</oldsource>
         <translation>视频(+目录)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="679"/>
+        <location filename="BrowserMenu.h" line="681"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>批量获取 (TWAIN)……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="823"/>
+        <location filename="BrowserMenu.h" line="825"/>
         <source>C&amp;reate</source>
         <translation>创建(&amp;C)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="824"/>
+        <location filename="BrowserMenu.h" line="826"/>
         <source>&amp;Help</source>
         <translation>帮助(&amp;H)</translation>
     </message>
@@ -20308,100 +20310,100 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1432"/>
+        <location filename="xnview.cpp" line="1434"/>
         <source>Recent files</source>
         <translation>最近的文件</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1433"/>
+        <location filename="xnview.cpp" line="1435"/>
         <source>Quit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1436"/>
+        <location filename="xnview.cpp" line="1438"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>网站……</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1441"/>
+        <location filename="xnview.cpp" line="1443"/>
         <source>Make a donation...</source>
         <translation>捐赠...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1434"/>
+        <location filename="xnview.cpp" line="1436"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1435"/>
+        <location filename="xnview.cpp" line="1437"/>
         <source>PlugIns...</source>
         <translation>插件……</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1437"/>
+        <location filename="xnview.cpp" line="1439"/>
         <source>Forum...</source>
         <translation>论坛……</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1438"/>
+        <location filename="xnview.cpp" line="1440"/>
         <source>Technical Support...</source>
         <translation>技术支持……</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1439"/>
+        <location filename="xnview.cpp" line="1441"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>报告Bug问题......</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1440"/>
+        <location filename="xnview.cpp" line="1442"/>
         <source>Wiki...</source>
         <translation>维基百科……</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1442"/>
+        <location filename="xnview.cpp" line="1444"/>
         <source>Check for update...</source>
         <translation>检查更新...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1443"/>
+        <location filename="xnview.cpp" line="1445"/>
         <source>Registration...</source>
         <translation>注册...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1444"/>
+        <location filename="xnview.cpp" line="1446"/>
         <source>Purchase...</source>
         <translation>购买……</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1454"/>
         <location filename="xnview.cpp" line="1456"/>
+        <location filename="xnview.cpp" line="1458"/>
         <source>Settings...</source>
         <translation>设置...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1460"/>
+        <location filename="xnview.cpp" line="1462"/>
         <source>Always on top</source>
         <translation>总在最前</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1462"/>
+        <location filename="xnview.cpp" line="1464"/>
         <source>Titlebar</source>
         <translation>标题栏</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1463"/>
+        <location filename="xnview.cpp" line="1465"/>
         <source>Show</source>
         <translation>显示</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1464"/>
+        <location filename="xnview.cpp" line="1466"/>
         <source>Bottom</source>
         <translation>窗口底部</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1465"/>
+        <location filename="xnview.cpp" line="1467"/>
         <source>Tab</source>
         <translation>标签卡</translation>
     </message>
@@ -21808,12 +21810,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyAddFolderProcess3</name>
     <message>
-        <location filename="MyAddFolderProcess.h" line="296"/>
+        <location filename="MyAddFolderProcess.h" line="297"/>
         <source>Abort</source>
         <translation>放弃</translation>
     </message>
     <message>
-        <location filename="MyAddFolderProcess.h" line="296"/>
+        <location filename="MyAddFolderProcess.h" line="297"/>
         <source>Check folders...</source>
         <translation>检查文件夹...</translation>
     </message>
@@ -21892,12 +21894,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyFolderView</name>
     <message>
-        <location filename="MyFolderView.cpp" line="515"/>
+        <location filename="MyFolderView.cpp" line="520"/>
         <source>Delete folder</source>
         <translation>删除文件夹</translation>
     </message>
     <message>
-        <location filename="MyFolderView.cpp" line="515"/>
+        <location filename="MyFolderView.cpp" line="520"/>
         <source>Are you sure to delete this folder?</source>
         <translation>确定要删除此文件夹吗?</translation>
     </message>
@@ -23834,8 +23836,8 @@ Right Click for pop-up menu with actions.</source>
         <location filename="DlgWritePDF.h" line="21"/>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
-        <source>Packbits</source>
-        <translation>位压缩</translation>
+        <source>PackBits</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -23915,13 +23917,13 @@ Do you want to keep the thumbnails?
         <translation type="unfinished">打开目录有问题，请检查设置或使用的文件夹！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="973"/>
+        <location filename="xnview.cpp" line="975"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>软件已经是最新版本。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3104"/>
+        <location filename="xnview.cpp" line="3106"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -23929,45 +23931,45 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 评级、标记、颜色等标签无法被保存。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1040"/>
+        <location filename="xnview.cpp" line="1042"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>上一次的会话包含了大量已加载的图像，可能会影响流畅度！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1040"/>
+        <location filename="xnview.cpp" line="1042"/>
         <source>Session</source>
         <translation>进程</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1590"/>
+        <location filename="xnview.cpp" line="1592"/>
         <source>Do you want to quit?</source>
         <translation>是否想要退出？</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1666"/>
+        <location filename="xnview.cpp" line="1668"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation type="unfinished">保存多个标签卡可能会导致再次打开软件的速度变慢。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1672"/>
+        <location filename="xnview.cpp" line="1674"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>不要再次询问</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1231"/>
+        <location filename="xnview.cpp" line="1233"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1231"/>
+        <location filename="xnview.cpp" line="1233"/>
         <source>File not found!</source>
         <translation>未找到文件！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1665"/>
-        <location filename="xnview.cpp" line="1691"/>
+        <location filename="xnview.cpp" line="1667"/>
+        <location filename="xnview.cpp" line="1693"/>
         <source>Do you want to save this session?</source>
         <translation>是否想要保存本次会话？</translation>
     </message>

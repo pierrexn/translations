@@ -233,10 +233,6 @@
         <translation>Ջնջել միույթները</translation>
     </message>
     <message>
-        <source>There is %1 colors used in this picture</source>
-        <translation>%1 գույն է օգտագործվում նկարում</translation>
-    </message>
-    <message>
         <source>Properties</source>
         <translation>Հատկությունները</translation>
     </message>
@@ -269,24 +265,12 @@
         <translation>Պահպանվում է պատկերը...</translation>
     </message>
     <message>
-        <source>This picture will be saved as RGB with 8bits per component</source>
-        <translation>Այս նկարը կպահվի որպես RGB՝ 8 բիթանոց համակարգով</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Սխալ</translation>
     </message>
     <message>
         <source>An error occurred during saving!</source>
         <translation>Սխալ՝ պահպանելիս</translation>
-    </message>
-    <message>
-        <source>Do you want to save changes to
- &quot;%1&quot;?
-</source>
-        <translation>Ցանկանո՞ւմ եք պահել փոփոխությունները
- &quot;%1&quot;-ում:
-</translation>
     </message>
     <message>
         <source>Save &amp;as...</source>
@@ -333,6 +317,20 @@
 &quot;%1&quot;?</source>
         <translation>Ցանկանո՞ւմ եք հրաժարվել խմբագրումներից և ջնջել 
 &quot;%1&quot;-ը:</translation>
+    </message>
+    <message>
+        <source>Do you want to save changes to
+&quot;%1&quot;?
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of unique colors: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1403,8 +1401,8 @@ Drag and Drop over the desired node to assign.</translation>
 <context>
     <name>ConvertThread</name>
     <message>
-        <source>WARNING: The picture will be converted to RGB with 8bits per component</source>
-        <translation>ԶԳՈՒՇԱՑՈՒՄ. Պատկերը կփոխվի RGB՝ 8 բիթ ըստ բաղադրիչի</translation>
+        <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2257,7 +2255,9 @@ Drag and Drop over the desired node to assign.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Destination already has a file named: %1
+        <source>Destination already has a file named: 
+%1
+
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3048,11 +3048,6 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Destination already has a file named: %1
-Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3068,6 +3063,13 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: 
+%1
+
+Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4352,18 +4354,6 @@ Do you want to continue?</source>
 <context>
     <name>DlgConvertLevelsClass</name>
     <message>
-        <source>Luminosity</source>
-        <translation>Պայծառություն</translation>
-    </message>
-    <message>
-        <source>Colors</source>
-        <translation>Գույները</translation>
-    </message>
-    <message>
-        <source>Colors+Luminosity</source>
-        <translation>Գույներ+Պայծառություն</translation>
-    </message>
-    <message>
         <source>Red</source>
         <translation>Կարմիր</translation>
     </message>
@@ -4378,6 +4368,18 @@ Do you want to continue?</source>
     <message>
         <source>Output</source>
         <translation>Արտածում</translation>
+    </message>
+    <message>
+        <source>Luminance</source>
+        <translation type="unfinished">Բացությունը</translation>
+    </message>
+    <message>
+        <source>RGB</source>
+        <translation type="unfinished">RGB</translation>
+    </message>
+    <message>
+        <source>RGB+Luminance</source>
+        <translation type="unfinished">RGB+Բացությունը</translation>
     </message>
 </context>
 <context>
@@ -5375,10 +5377,6 @@ Do you want to continue?</source>
         <translation>Կորեր</translation>
     </message>
     <message>
-        <source>Luminosity</source>
-        <translation>Պայծառություն</translation>
-    </message>
-    <message>
         <source>RGB</source>
         <translation>RGB</translation>
     </message>
@@ -5401,6 +5399,10 @@ Do you want to continue?</source>
     <message>
         <source>Blue</source>
         <translation>Կապույտ</translation>
+    </message>
+    <message>
+        <source>Luminance</source>
+        <translation type="unfinished">Բացությունը</translation>
     </message>
 </context>
 <context>
@@ -5979,10 +5981,6 @@ Please make sure that files are not read-only!</source>
         <translation>Խնդիր</translation>
     </message>
     <message>
-        <source>Packbits</source>
-        <translation>Packbits</translation>
-    </message>
-    <message>
         <source>Adaptive</source>
         <translation>Ադապտացված</translation>
     </message>
@@ -6125,16 +6123,16 @@ Please make sure that files are not read-only!</source>
         <translation>&amp;Արտահանել...</translation>
     </message>
     <message>
-        <source>Set transparency color...</source>
-        <translation>Կայել թափանցիկության գույնը…</translation>
-    </message>
-    <message>
         <source>Automatic preview refresh</source>
         <translation>Ինքնաշխատ նախադիտման թարմացում</translation>
     </message>
     <message>
         <source>Refresh preview</source>
         <translation>Թարմացնել նախադիտումը</translation>
+    </message>
+    <message>
+        <source>Edit palette...</source>
+        <translation type="unfinished">Խմբագրել նախշը...</translation>
     </message>
 </context>
 <context>
@@ -8571,10 +8569,6 @@ Do you want to remove them?</source>
         <translation>Որոնում ենթապանակներում</translation>
     </message>
     <message>
-        <source>Use RegExp</source>
-        <translation>Օգտ. RegExp</translation>
-    </message>
-    <message>
         <source>Use catalog</source>
         <translation>Օգտագործել գրացուցակ</translation>
     </message>
@@ -8633,6 +8627,10 @@ Do you want to remove them?</source>
     <message>
         <source>Presets: </source>
         <translation>Նախակայումներ՝ </translation>
+    </message>
+    <message>
+        <source>Use Regular Expression</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9498,10 +9496,6 @@ Thumbnail</source>
         <translation>sRGB</translation>
     </message>
     <message>
-        <source>Other</source>
-        <translation>Այլ</translation>
-    </message>
-    <message>
         <source>Use ICC profile for monitor (slower)</source>
         <translation>Օգտագործել ICC պրոֆիլը (դանդաղեցնում է ծրագրի աշխատանքը)</translation>
     </message>
@@ -10064,10 +10058,6 @@ Do you want to reassign?</source>
         <translation>Կրկնակի սեղմում էջի վրա.</translation>
     </message>
     <message>
-        <source>Closing last tab exits XnView</source>
-        <translation>Վերջին էջը փակելիս կփակվի նաև XnView-ն</translation>
-    </message>
-    <message>
         <source>Save...</source>
         <translation>Պահել...</translation>
     </message>
@@ -10295,6 +10285,10 @@ Do you want to reassign?</source>
         <source>Browser → Viewer → Fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Closing last tab exits application</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10342,10 +10336,6 @@ Do you want to reassign?</source>
         <translation>Ստեղծել IPTC տվյալ</translation>
     </message>
     <message>
-        <source>Update or create XMP Sidecar</source>
-        <translation>Թարմացնել կամ ստեղծել XMP կողաֆայլ</translation>
-    </message>
-    <message>
         <source>&lt;filename&gt;.xmp</source>
         <translation>&lt;filename&gt;.xmp</translation>
     </message>
@@ -10376,10 +10366,6 @@ Do you want to reassign?</source>
     <message>
         <source>Update when file is changed outside (date/size)</source>
         <translation>Արդացնել, երբ ֆայլը փոխվել է դրսում (ամսաթիվ/չափ)</translation>
-    </message>
-    <message>
-        <source>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</source>
-        <translation>Արտահանել գրացուցակի անվանակարգը XMP առարկա և IPTC հիմնաբառ</translation>
     </message>
     <message>
         <source>Import XMP Face tag</source>
@@ -10435,6 +10421,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create or update XMP Sidecar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12104,10 +12098,6 @@ Do you want to continue?</source>
 <context>
     <name>DlgWriteAvif</name>
     <message>
-        <source>Format</source>
-        <translation>Ձևաչափ</translation>
-    </message>
-    <message>
         <source>Speed</source>
         <translation>Արագություն</translation>
     </message>
@@ -12126,6 +12116,10 @@ Do you want to continue?</source>
     <message>
         <source>Best (lossless)</source>
         <translation>Լավագույն (առանց կորստի)</translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12309,16 +12303,16 @@ Do you want to continue?</source>
         <translation>Որակը</translation>
     </message>
     <message>
-        <source>Internal color format</source>
-        <translation>Ներքին գույնի ձևաչափ</translation>
-    </message>
-    <message>
         <source>Overlapped block filtering</source>
         <translation>Հատվածի զտում</translation>
     </message>
     <message>
         <source>HP only</source>
         <translation>Միայն HP</translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13347,10 +13341,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Զգայունությունը</translation>
     </message>
     <message>
-        <source>Shutter speed [s]</source>
-        <translation>Փականակի արագ-ը [վ]</translation>
-    </message>
-    <message>
         <source>Exposure Program</source>
         <translation>Ցուցադրման ծրագիրը</translation>
     </message>
@@ -13459,10 +13449,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Ապարատ</translation>
     </message>
     <message>
-        <source>Focal length [mm]</source>
-        <translation>Ֆոկուսային լայնություն [մմ]</translation>
-    </message>
-    <message>
         <source>Longitude</source>
         <translation>Երկայնությունը</translation>
     </message>
@@ -13505,10 +13491,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Date digitized</source>
         <translation>Թվայնացման ամսաթվիը</translation>
-    </message>
-    <message>
-        <source>Exposure Time [s]</source>
-        <translation>Ցուցադրման ժ-ը [վ]</translation>
     </message>
     <message>
         <source>Aperture</source>
@@ -13689,6 +13671,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Exposure Time</source>
         <translation>Ցուցահանդես</translation>
+    </message>
+    <message>
+        <source>Exposure Time (s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Focal length (mm)</source>
+        <translation type="unfinished">Կիզակետային երկարություն (մմ)</translation>
+    </message>
+    <message>
+        <source>Shutter speed (s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14239,7 +14233,7 @@ Do you want to continue?</source>
         <translation>Սխալ է տեղի ունեցնել:</translation>
     </message>
     <message>
-        <source>The picture will be converted in 8 bits per component. 
+        <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
@@ -18312,8 +18306,8 @@ Right Click for pop-up menu with actions.</source>
         <translation>Ոչինչ</translation>
     </message>
     <message>
-        <source>Packbits</source>
-        <translation>Packbits</translation>
+        <source>PackBits</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

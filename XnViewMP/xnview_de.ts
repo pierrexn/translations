@@ -329,6 +329,11 @@
         <translation>Wollen Sie die vorhandene Datei überschreiben?</translation>
     </message>
     <message>
+        <location filename="ViewWindow.cpp" line="4202"/>
+        <source>Number of unique colors: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="ViewWindow.cpp" line="207"/>
         <source>Save changed file</source>
         <translation>Geänderte Datei speichern</translation>
@@ -336,11 +341,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="208"/>
         <source>Do you want to save changes to
- &quot;%1&quot;?
+&quot;%1&quot;?
 </source>
-        <oldsource>Do you want to save changes to &quot;%1&quot;?
+        <oldsource>Do you want to save changes to
+ &quot;%1&quot;?
 </oldsource>
-        <translation>Änderungen an &quot;%1&quot; speichern?</translation>
+        <translation type="unfinished">Änderungen an &quot;%1&quot; speichern?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
@@ -370,14 +376,14 @@
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
-        <source>This picture will be saved as RGB with 8bits per component</source>
-        <translation>Das Bild wird im RGB-Farbmodus mit 8 Bit je Farbkomponente gespeichert.</translation>
-    </message>
-    <message>
-        <location filename="ViewWindow.cpp" line="2789"/>
         <location filename="ViewWindow.cpp" line="2799"/>
         <source>Save</source>
         <translation>Speichern</translation>
+    </message>
+    <message>
+        <location filename="ViewWindow.cpp" line="2789"/>
+        <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -413,11 +419,6 @@
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Colors count</source>
         <translation>Verwendete Farben zählen</translation>
-    </message>
-    <message>
-        <location filename="ViewWindow.cpp" line="4202"/>
-        <source>There is %1 colors used in this picture</source>
-        <translation>In diesem Bild werden %1 Farben verwendet</translation>
     </message>
 </context>
 <context>
@@ -510,12 +511,12 @@
 <context>
     <name>BookmarksManager</name>
     <message>
-        <location filename="Bookmarks.cpp" line="162"/>
+        <location filename="Bookmarks.cpp" line="160"/>
         <source>Favorite doesn&apos;t exist</source>
         <translation>Verzeichnis nicht vorhanden</translation>
     </message>
     <message>
-        <location filename="Bookmarks.cpp" line="162"/>
+        <location filename="Bookmarks.cpp" line="160"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
@@ -525,7 +526,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BookmarksMenu</name>
     <message>
-        <location filename="Bookmarks.cpp" line="894"/>
+        <location filename="Bookmarks.cpp" line="879"/>
         <source>No favorites</source>
         <translation>Keine Lesezeichen</translation>
     </message>
@@ -533,12 +534,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BookmarksModel</name>
     <message>
-        <location filename="Bookmarks.cpp" line="365"/>
+        <location filename="Bookmarks.cpp" line="363"/>
         <source>Label</source>
         <translation>Bezeichnung</translation>
     </message>
     <message>
-        <location filename="Bookmarks.cpp" line="366"/>
+        <location filename="Bookmarks.cpp" line="364"/>
         <source>Pathname</source>
         <translation>Verzeichnis</translation>
     </message>
@@ -1803,9 +1804,9 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="ConvertThread.cpp" line="777"/>
         <location filename="ConvertThread.cpp" line="1258"/>
-        <source>WARNING: The picture will be converted to RGB with 8bits per component</source>
-        <oldsource>WARNING: the picture will be converted to RGB with 8bits per component</oldsource>
-        <translation>Warnung: Das Bild wird nach RGB mit 8 Bits je Farbkomponente konvertiert.</translation>
+        <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
+        <translation type="unfinished">Warnung: Das Bild wird nach RGB mit 8 Bits je Farbkomponente konvertiert.</translation>
     </message>
 </context>
 <context>
@@ -2838,9 +2839,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
-        <source>Destination already has a file named: %1
+        <source>Destination already has a file named: 
+%1
+
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.
+        <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
         <translation type="unfinished">Eine Datei mit dem Namen %1 ist bereits vorhanden. Wollen Sie die Datei überschreiben?</translation>
     </message>
@@ -3851,9 +3854,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
-        <source>Destination already has a file named: %1
+        <source>Destination already has a file named: 
+%1
+
 Do you want to overwrite it?</source>
-        <oldsource>A file called %1 already exists.
+        <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
         <translation type="unfinished">Eine Datei mit dem Namen %1 ist bereits vorhanden. Wollen Sie die Datei überschreiben?</translation>
     </message>
@@ -5604,18 +5609,19 @@ Do you want to continue?</source>
     <name>DlgConvertLevelsClass</name>
     <message>
         <location filename="DlgConvertLevels.ui" line="38"/>
-        <source>Luminosity</source>
-        <translation>Brillanz</translation>
+        <source>Luminance</source>
+        <oldsource>Luminosity</oldsource>
+        <translation type="unfinished">Brillanz</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
-        <source>Colors</source>
-        <translation>Farben (8 Bit)</translation>
+        <source>RGB</source>
+        <translation type="unfinished">RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
-        <source>Colors+Luminosity</source>
-        <translation>Farben + Brillanz</translation>
+        <source>RGB+Luminance</source>
+        <translation type="unfinished">RGB+Helligkeit</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -6894,8 +6900,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="22"/>
-        <source>Luminosity</source>
-        <translation>Brillanz</translation>
+        <source>Luminance</source>
+        <oldsource>Luminosity</oldsource>
+        <translation type="unfinished">Brillanz</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7664,8 +7671,6 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="323"/>
-        <location filename="DlgExport.cpp" line="348"/>
-        <location filename="DlgExport.cpp" line="350"/>
         <source>None</source>
         <translation>Keine</translation>
     </message>
@@ -7697,18 +7702,12 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Adaptiv</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="348"/>
-        <location filename="DlgExport.cpp" line="350"/>
-        <source>Packbits</source>
-        <translation>Packbits</translation>
-    </message>
-    <message>
-        <location filename="DlgExport.cpp" line="598"/>
+        <location filename="DlgExport.cpp" line="586"/>
         <source>Images</source>
         <translation>Bilder</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="617"/>
+        <location filename="DlgExport.cpp" line="605"/>
         <source>Save File</source>
         <translation>Datei speichern</translation>
     </message>
@@ -7770,11 +7769,6 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Rasterung</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="278"/>
-        <source>Set transparency color...</source>
-        <translation>Transparente Farbe...</translation>
-    </message>
-    <message>
         <location filename="DlgExport.ui" line="327"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
@@ -7828,6 +7822,11 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="468"/>
         <source>Subsampling factor</source>
         <translation>Subsampling-Faktor</translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="278"/>
+        <source>Edit palette...</source>
+        <translation type="unfinished">Farbpalette bearbeiten...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -10918,8 +10917,9 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="60"/>
-        <source>Use RegExp</source>
-        <translation>RegExp verwenden</translation>
+        <source>Use Regular Expression</source>
+        <oldsource>Use RegExp</oldsource>
+        <translation type="unfinished">RegExp verwenden</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -12449,6 +12449,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="772"/>
+        <location filename="DlgSettingsGeneral.ui" line="834"/>
+        <location filename="DlgSettingsGeneral.ui" line="901"/>
         <source>Custom</source>
         <translation>Benutzerdefiniert</translation>
     </message>
@@ -12461,12 +12463,6 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="825"/>
         <source>sRGB</source>
         <translation>sRGB</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsGeneral.ui" line="834"/>
-        <location filename="DlgSettingsGeneral.ui" line="901"/>
-        <source>Other</source>
-        <translation>Anderes Profil:</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="879"/>
@@ -13129,8 +13125,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
-        <source>Closing last tab exits XnView</source>
-        <translation>XnView bei Schließen der letzten Registerkarte beenden</translation>
+        <source>Closing last tab exits application</source>
+        <oldsource>Closing last tab exits XnView</oldsource>
+        <translation type="unfinished">XnView bei Schließen der letzten Registerkarte beenden</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
@@ -13283,9 +13280,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
-        <source>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</source>
-        <oldsource>Export DB Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation>Kategorien im Katalog als XMP/IPTC-Stichwörter exportieren</translation>
+        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
+        <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
+        <translation type="unfinished">Kategorien im Katalog als XMP/IPTC-Stichwörter exportieren</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13299,8 +13296,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
-        <source>Update or create XMP Sidecar</source>
-        <translation>Erzeuge oder aktualisiere XMP-Begleitdatei (Sidecar)</translation>
+        <source>Create or update XMP Sidecar</source>
+        <oldsource>Update or create XMP Sidecar</oldsource>
+        <translation type="unfinished">Erzeuge oder aktualisiere XMP-Begleitdatei (Sidecar)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -15582,8 +15580,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
-        <source>Format</source>
-        <translation>Format</translation>
+        <source>Subsampling</source>
+        <translation type="unfinished">Sub-sampling</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15811,8 +15809,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
-        <source>Internal color format</source>
-        <translation>Internes Farbformat</translation>
+        <source>Subsampling</source>
+        <translation type="unfinished">Sub-sampling</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -17391,8 +17389,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2525"/>
-        <source>Exposure Time [s]</source>
-        <translation>Belichtungszeit [s]</translation>
+        <source>Exposure Time (s)</source>
+        <oldsource>Exposure Time [s]</oldsource>
+        <translation type="unfinished">Belichtungszeit [s]</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17416,8 +17415,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2531"/>
-        <source>Focal length [mm]</source>
-        <translation>Brennweite [mm]</translation>
+        <source>Focal length (mm)</source>
+        <oldsource>Focal length [mm]</oldsource>
+        <translation type="unfinished">Brennweite [mm]</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -17431,8 +17431,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2534"/>
-        <source>Shutter speed [s]</source>
-        <translation>Verschlusszeit [s]</translation>
+        <source>Shutter speed (s)</source>
+        <oldsource>Shutter speed [s]</oldsource>
+        <translation type="unfinished">Verschlusszeit [s]</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
@@ -18488,10 +18489,11 @@ Wollen Sie das verlustfreie Drehen jetzt durchführen?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="464"/>
-        <source>The picture will be converted in 8 bits per component. 
+        <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
-        <oldsource>The picture will be converted in 8 bits per component
+        <oldsource>The picture will be converted in 8 bits per component. 
+
 Do you want to continue?</oldsource>
         <translation type="unfinished">Das Bild wird nach RGB mit 8 Bits je Farbkomponente konvertiert. Wollen Sie die Konvertierung fortsetzen?</translation>
     </message>
@@ -19096,17 +19098,17 @@ Do you want to continue?</oldsource>
         <translation>GPS-Position öffnen in</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Switch panel...</source>
         <translation>Bereich wechseln...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="672"/>
         <source>Face tag...</source>
         <translation>Gesichtsbereich (Face-Tag)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="678"/>
+        <location filename="BrowserMenu.h" line="680"/>
         <source>Acquire (TWAIN)</source>
         <translation>Einlesen (TWAIN)</translation>
     </message>
@@ -19149,42 +19151,42 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="281"/>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>No fit</source>
         <translation>Nicht anpassen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="282"/>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Fit image to window</source>
         <translation>Auf Fenstergröße anpassen, alle Bilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="284"/>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Fit image to window, large only</source>
         <translation>Auf Fenstergröße anpassen, nur große Bilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="285"/>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Fit image to window width</source>
         <translation>Auf Fensterbreite anpassen, alle Bilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="286"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Fit image to window height</source>
         <translation>Auf Fensterhöhe anpassen, alle Bilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="287"/>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Fit image to window width or height</source>
         <translation>Auf Fensterhöhe oder Fensterbreite anpassen, alle Bilder</translation>
     </message>
@@ -19376,143 +19378,143 @@ Do you want to continue?</oldsource>
         <translation>Per E-Mail verschicken...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>Import and sort...</source>
         <translation>Importieren und sortieren...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Multi-page file...</source>
         <translation>Multi-Frame-Datei...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Join images...</source>
         <translation>Bilder aneinanderreihen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Contact sheet...</source>
         <translation>Kontaktabzug...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Slideshow...</source>
         <translation>Diashow...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>Bild in Kacheln zerschneiden...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Banner...</source>
         <translation>Banner...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>New image...</source>
         <translation>Neues Bild...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Video thumbnails gallery...</source>
         <translation type="unfinished">Galerie der Video-Miniaturbilder...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Draw as tiled</source>
         <translation>Gekachelt anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>File operations</source>
         <translation>Dateioperationen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation type="unfinished">Entfernen &amp;&amp; Importieren...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="662"/>
+        <location filename="BrowserMenu.h" line="664"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="665"/>
+        <location filename="BrowserMenu.h" line="667"/>
         <source>Category Search</source>
         <translation>Kategoriensuche</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="667"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Path focus...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="670"/>
         <source>Filter by All</source>
         <translation type="unfinished">Filtern nach Alle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="673"/>
+        <location filename="BrowserMenu.h" line="675"/>
         <source>Capture...</source>
         <translation>Bildschirminhalt erfassen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="674"/>
+        <location filename="BrowserMenu.h" line="676"/>
         <source>Import clipboard</source>
         <translation>Einfügen als neues Bild</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="675"/>
+        <location filename="BrowserMenu.h" line="677"/>
         <source>Empty tab...</source>
         <translation>Leere Registerkarte...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="677"/>
+        <location filename="BrowserMenu.h" line="679"/>
         <source>Select TWAIN source...</source>
         <translation>TWAIN-Quelle wählen (Scanner, Kamera, etc.)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="818"/>
+        <location filename="BrowserMenu.h" line="820"/>
         <source>&amp;File</source>
         <translation>&amp;Datei</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="819"/>
+        <location filename="BrowserMenu.h" line="821"/>
         <source>&amp;Edit</source>
         <translation>&amp;Bearbeiten</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="820"/>
+        <location filename="BrowserMenu.h" line="822"/>
         <source>&amp;View</source>
         <translation>&amp;Ansicht</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="821"/>
+        <location filename="BrowserMenu.h" line="823"/>
         <source>Meta&amp;data</source>
         <translation type="unfinished">Meta&amp;daten</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="822"/>
+        <location filename="BrowserMenu.h" line="824"/>
         <source>&amp;Tools</source>
         <translation>&amp;Werkzeuge</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="679"/>
+        <location filename="BrowserMenu.h" line="681"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Stapel-Einlesen (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="823"/>
+        <location filename="BrowserMenu.h" line="825"/>
         <source>C&amp;reate</source>
         <translation>&amp;Erstellen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="824"/>
+        <location filename="BrowserMenu.h" line="826"/>
         <source>&amp;Help</source>
         <translation>I&amp;nfo</translation>
     </message>
@@ -19648,7 +19650,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="332"/>
         <location filename="BrowserMenu.h" line="343"/>
         <location filename="BrowserMenu.h" line="568"/>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Preview</source>
         <translation>Vorschau</translation>
     </message>
@@ -19881,7 +19883,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Layout</source>
         <translation>Anordnung</translation>
     </message>
@@ -20082,7 +20084,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="604"/>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="662"/>
         <source>Export...</source>
         <translation>Exportieren...</translation>
     </message>
@@ -20147,85 +20149,85 @@ Do you want to continue?</oldsource>
         <translation>Drucken...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>Properties...</source>
         <translation>Eigenschaften...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Real size</source>
         <translation>Originalgröße</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Zoom in</source>
         <translation>Vergrößern</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Zoom out</source>
         <translation>Verkleinern</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Lock zoom</source>
         <translation>Zoom beibehalten</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Transparenten Index verwenden (≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Use alpha channel</source>
         <translation>Alphakanal verwenden</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Show alpha</source>
         <translation>Alphakanal anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Show red</source>
         <translation>Rot anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Show green</source>
         <translation>Grün anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Show blue</source>
         <translation>Blau anzeigen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="283"/>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Fit image to window, small only</source>
         <translation>Auf Fenstergröße anpassen, nur kleine Bilder</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Copy to clipboard</source>
         <translation>In die Zwischenablage kopieren</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="666"/>
         <source>Quick Filter</source>
         <translation>Schnellfilter</translation>
     </message>
@@ -20248,100 +20250,100 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1432"/>
+        <location filename="xnview.cpp" line="1434"/>
         <source>Recent files</source>
         <translation>Zuletzt geöffnete Dateien</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1433"/>
+        <location filename="xnview.cpp" line="1435"/>
         <source>Quit</source>
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1436"/>
+        <location filename="xnview.cpp" line="1438"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation type="unfinished">Besuchen Sie XnView.com...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1441"/>
+        <location filename="xnview.cpp" line="1443"/>
         <source>Make a donation...</source>
         <translation>Spende an den Programmautor...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1434"/>
+        <location filename="xnview.cpp" line="1436"/>
         <source>About</source>
         <translation>Über XnView MP...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1435"/>
+        <location filename="xnview.cpp" line="1437"/>
         <source>PlugIns...</source>
         <translation>I/O-Plug-Ins...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1437"/>
+        <location filename="xnview.cpp" line="1439"/>
         <source>Forum...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1438"/>
+        <location filename="xnview.cpp" line="1440"/>
         <source>Technical Support...</source>
         <translation>Technischer Support...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1439"/>
+        <location filename="xnview.cpp" line="1441"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Einen Fehler melden...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1440"/>
+        <location filename="xnview.cpp" line="1442"/>
         <source>Wiki...</source>
         <translation>XnView Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1442"/>
+        <location filename="xnview.cpp" line="1444"/>
         <source>Check for update...</source>
         <translation>Internet auf Programmupdate prüfen...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1443"/>
+        <location filename="xnview.cpp" line="1445"/>
         <source>Registration...</source>
         <translation>Registrierung...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1444"/>
+        <location filename="xnview.cpp" line="1446"/>
         <source>Purchase...</source>
         <translation>Kaufen...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1454"/>
         <location filename="xnview.cpp" line="1456"/>
+        <location filename="xnview.cpp" line="1458"/>
         <source>Settings...</source>
         <translation>Einstellungen...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1460"/>
+        <location filename="xnview.cpp" line="1462"/>
         <source>Always on top</source>
         <translation>Immer im Vordergrund</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1462"/>
+        <location filename="xnview.cpp" line="1464"/>
         <source>Titlebar</source>
         <translation>Titelleiste</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1463"/>
+        <location filename="xnview.cpp" line="1465"/>
         <source>Show</source>
         <translation>Anzeigen</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1464"/>
+        <location filename="xnview.cpp" line="1466"/>
         <source>Bottom</source>
         <translation>Unten platzieren</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1465"/>
+        <location filename="xnview.cpp" line="1467"/>
         <source>Tab</source>
         <translation>Registerkarten</translation>
     </message>
@@ -21750,12 +21752,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyAddFolderProcess3</name>
     <message>
-        <location filename="MyAddFolderProcess.h" line="296"/>
+        <location filename="MyAddFolderProcess.h" line="297"/>
         <source>Abort</source>
         <translation>Stoppen</translation>
     </message>
     <message>
-        <location filename="MyAddFolderProcess.h" line="296"/>
+        <location filename="MyAddFolderProcess.h" line="297"/>
         <source>Check folders...</source>
         <translation>Ordner prüfen...</translation>
     </message>
@@ -21834,12 +21836,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyFolderView</name>
     <message>
-        <location filename="MyFolderView.cpp" line="515"/>
+        <location filename="MyFolderView.cpp" line="520"/>
         <source>Delete folder</source>
         <translation>Ordner löschen</translation>
     </message>
     <message>
-        <location filename="MyFolderView.cpp" line="515"/>
+        <location filename="MyFolderView.cpp" line="520"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Wollen Sie diesen Ordner wirklich löschen?</translation>
     </message>
@@ -23773,8 +23775,8 @@ Rechte Maustaste öffnet Kontextmenü mit weiteren Aktionen.</translation>
         <location filename="DlgWritePDF.h" line="21"/>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
-        <source>Packbits</source>
-        <translation>Packbits</translation>
+        <source>PackBits</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -23854,54 +23856,54 @@ Wollen Sie die Miniaturbilder beibehalten?
         <translation type="unfinished">Der Katalog kann nicht geöffnet werden. Bitte überprüfen Sie Ihre Einstellungen und den verwendeten Ordner.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="973"/>
+        <location filename="xnview.cpp" line="975"/>
         <source>Application is up to date.</source>
         <translation type="unfinished">Die Anwendung ist auf dem aktuellen Stand.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1666"/>
+        <location filename="xnview.cpp" line="1668"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <translation type="unfinished">Ihre Sitzung hat viele geöffnete Bilder. Dies kann den nächsten Programmstart merklich verlangsamen.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1672"/>
+        <location filename="xnview.cpp" line="1674"/>
         <source>Don&apos;t ask again</source>
         <translation type="unfinished">Nicht mehr fragen</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3104"/>
+        <location filename="xnview.cpp" line="3106"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <translation type="unfinished">Bewertung/Kennzeichnung/Farbkennzeichnung können nicht gespeichert werden, wenn Katalog oder Metadatenexport deaktiviert sind!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1040"/>
+        <location filename="xnview.cpp" line="1042"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Die zuletzt gespeicherte Sitzung enthält viele Bilder, dies kann den Programmstart verlangsamen!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1040"/>
+        <location filename="xnview.cpp" line="1042"/>
         <source>Session</source>
         <translation type="unfinished">Sitzung</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1590"/>
+        <location filename="xnview.cpp" line="1592"/>
         <source>Do you want to quit?</source>
         <translation>Wollen Sie XnView beenden?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1231"/>
+        <location filename="xnview.cpp" line="1233"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1231"/>
+        <location filename="xnview.cpp" line="1233"/>
         <source>File not found!</source>
         <translation>Datei nicht vorhanden!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1665"/>
-        <location filename="xnview.cpp" line="1691"/>
+        <location filename="xnview.cpp" line="1667"/>
+        <location filename="xnview.cpp" line="1693"/>
         <source>Do you want to save this session?</source>
         <translation>Wollen Sie diese Sitzung speichern?</translation>
     </message>

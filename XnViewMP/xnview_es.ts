@@ -229,20 +229,12 @@
         <translation>Error</translation>
     </message>
     <message>
-        <source>This picture will be saved as RGB with 8bits per component</source>
-        <translation>Esta imagen se guardará como RGB con 8bits por componente</translation>
-    </message>
-    <message>
         <source>Colors count</source>
         <translation>Recuento de colores</translation>
     </message>
     <message>
         <source>Delete items</source>
         <translation>Eliminar elementos</translation>
-    </message>
-    <message>
-        <source>There is %1 colors used in this picture</source>
-        <translation>Hay %1 colores utilizados en esta imagen</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -279,14 +271,6 @@
     <message>
         <source>Saving picture...</source>
         <translation>Guardando imagen...</translation>
-    </message>
-    <message>
-        <source>Do you want to save changes to
- &quot;%1&quot;?
-</source>
-        <translation>¿Desea guardar los cambios en
- &quot;%1&quot;?
-</translation>
     </message>
     <message>
         <source>Save &amp;as...</source>
@@ -333,6 +317,20 @@
 &quot;%1&quot;?</source>
         <translation>¿Desea descartar sus modificaciones y eliminar 
 &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>Do you want to save changes to
+&quot;%1&quot;?
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of unique colors: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1403,8 +1401,8 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
 <context>
     <name>ConvertThread</name>
     <message>
-        <source>WARNING: The picture will be converted to RGB with 8bits per component</source>
-        <translation>ADVERTENCIA: La imagen será convertida a RGB con 8bits por componente</translation>
+        <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2257,7 +2255,9 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Destination already has a file named: %1
+        <source>Destination already has a file named: 
+%1
+
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3048,11 +3048,6 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Destination already has a file named: %1
-Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3068,6 +3063,13 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: 
+%1
+
+Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4364,20 +4366,20 @@ Do you want to continue?</source>
         <translation>Verde</translation>
     </message>
     <message>
-        <source>Luminosity</source>
-        <translation>Luminosidad</translation>
-    </message>
-    <message>
-        <source>Colors</source>
-        <translation>Colores</translation>
-    </message>
-    <message>
         <source>Output</source>
         <translation>Salida</translation>
     </message>
     <message>
-        <source>Colors+Luminosity</source>
-        <translation>Colores + Luminosidad</translation>
+        <source>Luminance</source>
+        <translation type="unfinished">Luminancia</translation>
+    </message>
+    <message>
+        <source>RGB</source>
+        <translation type="unfinished">RGB</translation>
+    </message>
+    <message>
+        <source>RGB+Luminance</source>
+        <translation type="unfinished">RGB+Luminancia</translation>
     </message>
 </context>
 <context>
@@ -5387,10 +5389,6 @@ Do you want to continue?</source>
         <translation>Verde</translation>
     </message>
     <message>
-        <source>Luminosity</source>
-        <translation>Luminosidad</translation>
-    </message>
-    <message>
         <source>Reset</source>
         <translation>Reiniciar</translation>
     </message>
@@ -5401,6 +5399,10 @@ Do you want to continue?</source>
     <message>
         <source>Right click to remove control point</source>
         <translation>Clic derecho para eliminar puntos de control</translation>
+    </message>
+    <message>
+        <source>Luminance</source>
+        <translation type="unfinished">Luminancia</translation>
     </message>
 </context>
 <context>
@@ -5979,10 +5981,6 @@ Please make sure that files are not read-only!</source>
         <translation>Problema</translation>
     </message>
     <message>
-        <source>Packbits</source>
-        <translation>Packbits</translation>
-    </message>
-    <message>
         <source>Adaptive</source>
         <translation>Adaptativo</translation>
     </message>
@@ -6065,10 +6063,6 @@ Please make sure that files are not read-only!</source>
         <translation>2x1,1x1,1x1 (4:2:2)</translation>
     </message>
     <message>
-        <source>Set transparency color...</source>
-        <translation>Establecer color de transparencia...</translation>
-    </message>
-    <message>
         <source>Remove all Metadata</source>
         <translation>Eliminar todos los metadatos</translation>
     </message>
@@ -6135,6 +6129,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Refresh preview</source>
         <translation>Actualizar vista previa</translation>
+    </message>
+    <message>
+        <source>Edit palette...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8568,10 +8566,6 @@ Do you want to remove them?</source>
         <translation>Añadir &gt;&gt;</translation>
     </message>
     <message>
-        <source>Use RegExp</source>
-        <translation>Utilizar RegExp</translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>Buscar</translation>
     </message>
@@ -8634,6 +8628,10 @@ Do you want to remove them?</source>
     <message>
         <source>Presets: </source>
         <translation>Ajustes preestablecidos: </translation>
+    </message>
+    <message>
+        <source>Use Regular Expression</source>
+        <translation type="unfinished">Usar expresión regular</translation>
     </message>
 </context>
 <context>
@@ -9527,10 +9525,6 @@ miniatura</translation>
         <translation>Nunca</translation>
     </message>
     <message>
-        <source>Other</source>
-        <translation>Otro</translation>
-    </message>
-    <message>
         <source>&lt;Filename&gt;-#</source>
         <translation>&lt;Nombre de archivo&gt;-#</translation>
     </message>
@@ -10121,10 +10115,6 @@ Do you want to reassign?</source>
         <translation>Doble clic en la pestaña: </translation>
     </message>
     <message>
-        <source>Closing last tab exits XnView</source>
-        <translation>Al cerrar la última pestaña, salir de XnViewMP</translation>
-    </message>
-    <message>
         <source>Save...</source>
         <translation>Guardar...</translation>
     </message>
@@ -10296,6 +10286,10 @@ Do you want to reassign?</source>
         <source>Browser → Viewer → Fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Closing last tab exits application</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10313,10 +10307,6 @@ Do you want to reassign?</source>
     <message>
         <source>Write</source>
         <translation>Escribir</translation>
-    </message>
-    <message>
-        <source>Update or create XMP Sidecar</source>
-        <translation>Actualizar o crear archivo Sidecar XMP</translation>
     </message>
     <message>
         <source>Create IPTC data</source>
@@ -10383,10 +10373,6 @@ Do you want to reassign?</source>
         <translation>Comentario</translation>
     </message>
     <message>
-        <source>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</source>
-        <translation>Exportar Categorias del Catálogo a asunto XMP y palabra clave IPTC</translation>
-    </message>
-    <message>
         <source>Default encoding</source>
         <translation>Codificación predeterminada</translation>
     </message>
@@ -10436,6 +10422,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create or update XMP Sidecar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12109,10 +12103,6 @@ Do you want to continue?</source>
         <translation>Velocidad</translation>
     </message>
     <message>
-        <source>Format</source>
-        <translation>Formato</translation>
-    </message>
-    <message>
         <source>(10 = fastest)</source>
         <translation>(10 = más rápido)</translation>
     </message>
@@ -12127,6 +12117,10 @@ Do you want to continue?</source>
     <message>
         <source>Best (lossless)</source>
         <translation>Alta (sin pérdidas)</translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12310,16 +12304,16 @@ Do you want to continue?</source>
         <translation>Calidad</translation>
     </message>
     <message>
-        <source>Internal color format</source>
-        <translation>Formato de color interno</translation>
-    </message>
-    <message>
         <source>Overlapped block filtering</source>
         <translation>Bloques superpuestos de filtrado</translation>
     </message>
     <message>
         <source>HP only</source>
         <translation>Sólo HP</translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13348,10 +13342,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Sensibilidad</translation>
     </message>
     <message>
-        <source>Shutter speed [s]</source>
-        <translation>Velocidad obturador [s]</translation>
-    </message>
-    <message>
         <source>Exposure Program</source>
         <translation>Programa de exposición</translation>
     </message>
@@ -13460,10 +13450,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Cámara</translation>
     </message>
     <message>
-        <source>Focal length [mm]</source>
-        <translation>Distancia focal [mm]</translation>
-    </message>
-    <message>
         <source>Longitude</source>
         <translation>Longitud sexagesimal</translation>
     </message>
@@ -13518,10 +13504,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Date digitized</source>
         <translation>Fecha de digitalización</translation>
-    </message>
-    <message>
-        <source>Exposure Time [s]</source>
-        <translation>Tiempo de exposición [s]</translation>
     </message>
     <message>
         <source>Aperture</source>
@@ -13690,6 +13672,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Exposure Time</source>
         <translation>Tiempo de exposición</translation>
+    </message>
+    <message>
+        <source>Exposure Time (s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Focal length (mm)</source>
+        <translation type="unfinished">Distancia focal (mm)</translation>
+    </message>
+    <message>
+        <source>Shutter speed (s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14241,7 +14235,7 @@ Do you want to continue?</source>
         <translation>Se ha producido un error.</translation>
     </message>
     <message>
-        <source>The picture will be converted in 8 bits per component. 
+        <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
@@ -18312,8 +18306,8 @@ Clic Derecho para menú contextual con acciones.</translation>
         <translation>Ninguno</translation>
     </message>
     <message>
-        <source>Packbits</source>
-        <translation>PackBits</translation>
+        <source>PackBits</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

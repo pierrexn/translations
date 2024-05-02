@@ -233,10 +233,6 @@
         <translation>Virhe</translation>
     </message>
     <message>
-        <source>This picture will be saved as RGB with 8bits per component</source>
-        <translation>Tämä kuva tallennetaan RGB-muodossa 8 bittiä komponenttia kohden</translation>
-    </message>
-    <message>
         <source>Colors count</source>
         <translation>Värilaskuri</translation>
     </message>
@@ -247,18 +243,6 @@
     <message>
         <source>Delete items</source>
         <translation>Poista kohteet</translation>
-    </message>
-    <message>
-        <source>Do you want to save changes to
- &quot;%1&quot;?
-</source>
-        <translation>Tallennetaanko muutokset tiedostoon 
- &quot;%1&quot;?
-</translation>
-    </message>
-    <message>
-        <source>There is %1 colors used in this picture</source>
-        <translation>Tässä kuvassa on käytössä %1 väriä</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -333,6 +317,20 @@
 &quot;%1&quot;?</source>
         <translation>Hylätäänkö muokkaukset ja poistetaan
 &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>Do you want to save changes to
+&quot;%1&quot;?
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of unique colors: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1403,8 +1401,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
 <context>
     <name>ConvertThread</name>
     <message>
-        <source>WARNING: The picture will be converted to RGB with 8bits per component</source>
-        <translation>Varoitus! Kuva muunnetaan RGB-muotoon käyttäen 8 bittiä komponettia kohden</translation>
+        <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2257,7 +2255,9 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Destination already has a file named: %1
+        <source>Destination already has a file named: 
+%1
+
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3048,11 +3048,6 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Destination already has a file named: %1
-Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3068,6 +3063,13 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: 
+%1
+
+Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4364,20 +4366,20 @@ Do you want to continue?</source>
         <translation>Vihreä</translation>
     </message>
     <message>
-        <source>Luminosity</source>
-        <translation>Värikirkkaus</translation>
-    </message>
-    <message>
-        <source>Colors</source>
-        <translation>Värit</translation>
-    </message>
-    <message>
         <source>Output</source>
         <translation>Ulostulo</translation>
     </message>
     <message>
-        <source>Colors+Luminosity</source>
-        <translation>Värit+värikirkkaus</translation>
+        <source>Luminance</source>
+        <translation type="unfinished">Luminanssi</translation>
+    </message>
+    <message>
+        <source>RGB</source>
+        <translation type="unfinished">RGB</translation>
+    </message>
+    <message>
+        <source>RGB+Luminance</source>
+        <translation type="unfinished">RGB+Luminanssi</translation>
     </message>
 </context>
 <context>
@@ -5387,10 +5389,6 @@ Do you want to continue?</source>
         <translation>Vihreä</translation>
     </message>
     <message>
-        <source>Luminosity</source>
-        <translation>Värikirkkaus</translation>
-    </message>
-    <message>
         <source>Reset</source>
         <translation>Nollaa</translation>
     </message>
@@ -5401,6 +5399,10 @@ Do you want to continue?</source>
     <message>
         <source>Right click to remove control point</source>
         <translation>Poistat kontrollipisteen klikkaamalla hiiren oikeaa näppäintä</translation>
+    </message>
+    <message>
+        <source>Luminance</source>
+        <translation type="unfinished">Luminanssi</translation>
     </message>
 </context>
 <context>
@@ -5978,10 +5980,6 @@ Please make sure that files are not read-only!</source>
         <translation>Ongelma</translation>
     </message>
     <message>
-        <source>Packbits</source>
-        <translation>PackBits</translation>
-    </message>
-    <message>
         <source>Adaptive</source>
         <translation>Mukautuva</translation>
     </message>
@@ -6064,10 +6062,6 @@ Please make sure that files are not read-only!</source>
         <translation>2x1,1x1,1x1 (4:2:2)</translation>
     </message>
     <message>
-        <source>Set transparency color...</source>
-        <translation>Anna läpinäkyvä väri...</translation>
-    </message>
-    <message>
         <source>Remove all Metadata</source>
         <translation>Poista kaikki metatiedot</translation>
     </message>
@@ -6134,6 +6128,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Refresh preview</source>
         <translation>Päivitä esikatselu</translation>
+    </message>
+    <message>
+        <source>Edit palette...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8571,10 +8569,6 @@ Do you want to remove them?</source>
         <translation>Lisää &gt;&gt;</translation>
     </message>
     <message>
-        <source>Use RegExp</source>
-        <translation>Käytä säännöllistä lauseketta</translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>Etsi</translation>
     </message>
@@ -8637,6 +8631,10 @@ Do you want to remove them?</source>
     <message>
         <source>Presets: </source>
         <translation>Esiasetukset:</translation>
+    </message>
+    <message>
+        <source>Use Regular Expression</source>
+        <translation type="unfinished">Käytä säännöllistä lauseketta</translation>
     </message>
 </context>
 <context>
@@ -9531,10 +9529,6 @@ esikatselukuvina</translation>
         <translation>Ei koskaan</translation>
     </message>
     <message>
-        <source>Other</source>
-        <translation>Muut</translation>
-    </message>
-    <message>
         <source>&lt;Filename&gt;-#</source>
         <translation>&lt;Tiedostonimi&gt; - (#)</translation>
     </message>
@@ -10126,10 +10120,6 @@ Do you want to reassign?</source>
         <translation>Välilehteä kaksoisklikatessa:</translation>
     </message>
     <message>
-        <source>Closing last tab exits XnView</source>
-        <translation>Lopeta XnView kun viimeinen välilehti suljetaan</translation>
-    </message>
-    <message>
         <source>Save...</source>
         <translation>Tallenna...</translation>
     </message>
@@ -10297,6 +10287,10 @@ Do you want to reassign?</source>
         <source>Browser → Viewer → Fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Closing last tab exits application</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10314,10 +10308,6 @@ Do you want to reassign?</source>
     <message>
         <source>Write</source>
         <translation>Kirjoita</translation>
-    </message>
-    <message>
-        <source>Update or create XMP Sidecar</source>
-        <translation>Päivitä tai luo XMP-&apos;sivuvaunu&apos; aputiedosto</translation>
     </message>
     <message>
         <source>Create IPTC data</source>
@@ -10384,10 +10374,6 @@ Do you want to reassign?</source>
         <translation>Kommentti</translation>
     </message>
     <message>
-        <source>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</source>
-        <translation>Vie luettelon luokka XMP-aiheeseen ja IPTC-avainsanaan</translation>
-    </message>
-    <message>
         <source>Default encoding</source>
         <translation>Oletuskoodaus</translation>
     </message>
@@ -10437,6 +10423,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create or update XMP Sidecar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12111,10 +12105,6 @@ Do you want to continue?</source>
         <translation>Nopeus</translation>
     </message>
     <message>
-        <source>Format</source>
-        <translation>Formaatti</translation>
-    </message>
-    <message>
         <source>(10 = fastest)</source>
         <translation>(10 = nopein)</translation>
     </message>
@@ -12129,6 +12119,10 @@ Do you want to continue?</source>
     <message>
         <source>Best (lossless)</source>
         <translation>Paras (häviötön)</translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12312,16 +12306,16 @@ Do you want to continue?</source>
         <translation>Laatu</translation>
     </message>
     <message>
-        <source>Internal color format</source>
-        <translation>Sisäinen väriformaatti</translation>
-    </message>
-    <message>
         <source>Overlapped block filtering</source>
         <translation>Päällekkäisten lohkojen suodatus</translation>
     </message>
     <message>
         <source>HP only</source>
         <translation>Vain HP</translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13350,10 +13344,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Herkkyys</translation>
     </message>
     <message>
-        <source>Shutter speed [s]</source>
-        <translation>Suljinnopeus [s]</translation>
-    </message>
-    <message>
         <source>Exposure Program</source>
         <translation>Valotusohjelma</translation>
     </message>
@@ -13466,10 +13456,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Kamera</translation>
     </message>
     <message>
-        <source>Focal length [mm]</source>
-        <translation>Polttoväli [mm]</translation>
-    </message>
-    <message>
         <source>Longitude</source>
         <translation>Pituusaste</translation>
     </message>
@@ -13524,10 +13510,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Date digitized</source>
         <translation>Digitointipäivä</translation>
-    </message>
-    <message>
-        <source>Exposure Time [s]</source>
-        <translation>Valotusaika [s]</translation>
     </message>
     <message>
         <source>Aperture</source>
@@ -13692,6 +13674,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>YCbCr-Positioning</source>
         <translation>YCbCr-Paikannus</translation>
+    </message>
+    <message>
+        <source>Exposure Time (s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Focal length (mm)</source>
+        <translation type="unfinished">Polttoväli (mm)</translation>
+    </message>
+    <message>
+        <source>Shutter speed (s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14243,7 +14237,7 @@ Haluatko jatkaa?</translation>
         <translation>Tapahtui virhe!</translation>
     </message>
     <message>
-        <source>The picture will be converted in 8 bits per component. 
+        <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
@@ -18315,8 +18309,8 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
         <translation>Ei mitään</translation>
     </message>
     <message>
-        <source>Packbits</source>
-        <translation>PackBits</translation>
+        <source>PackBits</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
