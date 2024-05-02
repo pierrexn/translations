@@ -17490,7 +17490,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2534"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation type="unfinished">Prędkość migawki [s]</translation>
+        <translation>Prędkość migawki (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
