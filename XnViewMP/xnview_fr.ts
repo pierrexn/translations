@@ -325,7 +325,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;image sera convertie en RVB 24 bits (8 bits par canal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -345,7 +345,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de couleurs uniques : %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -360,8 +360,8 @@
         <oldsource>Do you want to save changes to
  &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Voulez-vous enregistrer les changements dans
- &apos;%1&apos;?
+        <translation>Voulez-vous enregistrer les changements dans
+&apos;%1&apos;?
 </translation>
     </message>
     <message>
@@ -1811,7 +1811,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">ATTENTION: Cette image sera convertie en RGB avec 8bits par composante</translation>
+        <translation>ATTENTION: Cette image sera convertie en RVB 24-bit (8bits par composante)</translation>
     </message>
 </context>
 <context>
@@ -3723,7 +3723,9 @@ Voulez-vous l&apos;écraser ?</translation>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;option &apos;Supprimer le fichier original&apos; est active.
+
+Voulez-vous continuer?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
@@ -3872,7 +3874,9 @@ Do you want to continue?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Un fichier nommé %1 existe déjà. 
+        <translation>Le fichier destination existe déjà: 
+%1
+
 Voulez-vous l&apos;écraser ?</translation>
     </message>
     <message>
@@ -3905,14 +3909,18 @@ Voulez-vous l&apos;écraser ?</translation>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier de destination sera le même pour tous les fichiers convertis. 
+
+Voulez-vous continuer ?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2707"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous disposez de l&apos;option &apos;Conserver le fichier original si le résultat est plus important&apos; et d&apos;autres actions. 
+
+Voulez-vous continuer ?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -5628,17 +5636,17 @@ Do you want to continue?</source>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Luminosité</translation>
+        <translation>Luminosité</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RVB</translation>
+        <translation>RVB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RVB+Luminance</translation>
+        <translation>RVB+Luminance</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -6919,7 +6927,7 @@ Do you want to continue?</source>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Luminosité</translation>
+        <translation>Luminosité</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7843,7 +7851,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Editer la palette...</translation>
+        <translation>Editer la palette...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -10937,7 +10945,7 @@ Voulez-vous les enlever?</translation>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
-        <translation type="unfinished">Utiliser RegExp</translation>
+        <translation>Utiliser une expression régulière</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -12785,7 +12793,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">Fermer XnView à la fermeture du dernier onglet</translation>
+        <translation>Fermer l&apos;application à la fermeture du dernier onglet</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
@@ -13311,7 +13319,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">Exporter les Catégories du Catalogue vers le sujet XMP et les mots clés IPTC</translation>
+        <translation>Exporter les Catégories du Catalogue vers le XMP:Subject et IPTC:Keywords</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -13343,7 +13351,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished">Mise à jour ou création du sidecar XMP</translation>
+        <translation>Création ou mise à jour du sidecar XMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -15617,7 +15625,7 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Sous-échantillonnage</translation>
+        <translation>Sous-échantillonnage</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15846,7 +15854,7 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Sous-échantillonnage</translation>
+        <translation>Sous-échantillonnage</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -17429,7 +17437,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Temps d&apos;exposition [s]</translation>
+        <translation>Temps d&apos;exposition (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17455,7 +17463,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Longueur de focale [mm]</translation>
+        <translation>Longueur de focale (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -17471,7 +17479,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2534"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation type="unfinished">Vitesse d&apos;obturation [s]</translation>
+        <translation>Vitesse d&apos;obturation (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
@@ -18531,7 +18539,7 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Cette image sera convertie en RGB avec 8 bits par composant. 
+        <translation>Cette image sera convertie en RVB (8 bits par composante). 
 
 Voulez-vous continuer ?</translation>
     </message>
