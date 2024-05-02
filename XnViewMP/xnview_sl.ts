@@ -325,7 +325,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika bo pretvorjena v 24-bitni RGB (8 bitov na kanal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -345,7 +345,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Število edinstvenih barv: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -360,7 +360,7 @@
         <oldsource>Do you want to save changes to
  &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Ali želite shraniti spremembe v
+        <translation>Ali želite shraniti spremembe v
  &quot;%1&quot;?
 </translation>
     </message>
@@ -526,7 +526,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta priljubljena kaže na mapo, ki ne obstaja. 
+
+Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -1816,7 +1818,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">OPOZORILO: Slika bo pretvorjena v RGB z 8 bitov na komponento</translation>
+        <translation>OPOZORILO: Slika bo pretvorjena v 24-bitni RGB (8 bitov na kanal)</translation>
     </message>
 </context>
 <context>
@@ -2856,7 +2858,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Prepišem datoteko?</translation>
+        <translation>Prepiši datoteko</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -2866,7 +2868,9 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Datoteka, po imenu %1, že obstaja. 
+        <translation>Cilj že ima datoteko z imenom:
+%1
+
 Ali jo želite prepisati?</translation>
     </message>
     <message>
@@ -3571,7 +3575,9 @@ Ali jo želite prepisati?</translation>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">Na voljo je različica XnConvert %1, ali želite odpreti stran za prenos?</translation>
+        <translation>Različica XnConvert %1 je na voljo.
+
+Ali želite iti na stran za prenos?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1411"/>
@@ -3635,7 +3641,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Izhodna datoteka že obstaja, ali jo želite prepisati?</translation>
+        <translation>Izhodna datoteka že obstaja.
+
+Ali jo želite prepisati?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3745,7 +3753,9 @@ Do you want to overwrite it?</source>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnost &apos;Izbriši izvirnik&apos; je omogočena 
+
+Želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
@@ -3888,7 +3898,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Prepišem datoteko?</translation>
+        <translation>Prepiši datoteko</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -3898,7 +3908,9 @@ Do you want to continue?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Datoteka, po imenu %1, že obstaja. 
+        <translation>Cilj že ima datoteko z imenom:
+%1
+
 Ali jo želite prepisati?</translation>
     </message>
     <message>
@@ -3931,14 +3943,18 @@ Ali jo želite prepisati?</translation>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime izhodne datoteke bo enako za vse pretvorjene datoteke.
+
+Želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2707"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Imate možnost &apos;ohrani izvirno datoteko, če je rezultat večji&apos; in nekaj dejanj.
+
+Želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -5655,17 +5671,17 @@ Do you want to continue?</source>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Svetilnost</translation>
+        <translation>Svetilnost</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+svetilnost</translation>
+        <translation>RGB+svetilnost</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -6945,7 +6961,7 @@ Do you want to continue?</source>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Svetilnost</translation>
+        <translation>Svetilnost</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7869,7 +7885,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Uredi paleto...</translation>
+        <translation>Uredi paleto...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -10388,7 +10404,7 @@ Hvala za nakup %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Namestite ga z uporabo Orodja › Vtičniki</translation>
     </message>
 </context>
 <context>
@@ -10408,7 +10424,9 @@ Hvala za nakup %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremljevalne datoteke so zaznane na seznamu datotek in se samodejno preimenujejo tako, da sledijo imenu glavne datoteke.
+
+Ali jih želite odstraniti?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -10963,7 +10981,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
-        <translation type="unfinished">Uporabi RegExp</translation>
+        <translation>Uporabi regularni izraz</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -12810,7 +12828,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">Zapiranje zadnjega zavihka zapre XnView</translation>
+        <translation>Zapiranje zadnjega zavihka zapre aplikacijo</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
@@ -13330,13 +13348,13 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation type="unfinished">Samodejno uveljavi nadrejeno kategorijo (Ctrl+klik za eno kategorijo)</translation>
+        <translation>Samodejno dodeli nadrejeno kategorijo (Ctrl+klik samo za trenutno)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">Izvozi kataloge razredov v subjekt XMP in ključno besedo IPTC</translation>
+        <translation>Izvozi kategorije kataloga v XMP:Subject in IPTC:Keywords</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -13368,7 +13386,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished">Posodobi ali ustvari Sidecar XMP</translation>
+        <translation>Ustvarite ali posodobite XMP Sidecar</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -15052,7 +15070,9 @@ Ali želite ponovno dodeliti?</translation>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>To bo prepisalo področja obraza XMP v datoteki.
+
+Želite nadaljevati?</translation>
     </message>
 </context>
 <context>
@@ -15144,7 +15164,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation type="unfinished">Povečaj pri vsaki sliki za</translation>
+        <translation>Pri vsaki sliki povečaj za</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -15635,7 +15655,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Sub-vzorčenje</translation>
+        <translation>Podvzorčenje</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15864,7 +15884,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Sub-vzorčenje</translation>
+        <translation>Podvzorčenje</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -16161,7 +16181,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta priljubljena kaže na mapo, ki ne obstaja.
+
+Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -17445,7 +17467,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Čas osvetlitve [s]</translation>
+        <translation>Čas osvetlitve [s]</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17471,7 +17493,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Goriščna razdalja [mm]</translation>
+        <translation>Goriščna razdalja [mm]</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -18549,7 +18571,8 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Slika bo pretvorjena v 8 bitov na komponento
+        <translation>Slika bo pretvorjena v 24-bitni RGB (8 bitov na kanal).
+
 Želite nadaljevati?</translation>
     </message>
     <message>
@@ -19824,7 +19847,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">Odpri s testom</translation>
+        <translation>Odpri z</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
@@ -22044,8 +22067,8 @@ Do you want to continue?</oldsource>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">Velikost predpomnjenih sličic je manjša od izbrane.
-Spremenite ga lahko v nastavitvah � katalog.</translation>
+        <translation>Velikost predpomnjenih sličic je manjša od izbrane.
+Spremenite ga lahko v Nastavitve › Katalog.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
@@ -23847,7 +23870,7 @@ Desni klik za pojavni meni z ukrepi.</translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
