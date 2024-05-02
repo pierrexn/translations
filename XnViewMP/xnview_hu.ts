@@ -349,8 +349,8 @@
         <oldsource>Do you want to save changes to
  &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Szeretné ide menteni a változásokat:
- &quot;%1&quot;?
+        <translation>Szeretné ide menteni a változásokat:
+&quot;%1&quot;?
 </translation>
     </message>
     <message>
@@ -1570,7 +1570,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmikus LUT</translation>
+        <translation>Logaritmikus LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -2832,7 +2832,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Fájl felülírása?</translation>
+        <translation>Fájl felülírása</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -2842,7 +2842,9 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">A fájl már létezik: %1.
+        <translation>A fájl már létezik: 
+%1
+
 Felül szeretné írni?</translation>
     </message>
     <message>
@@ -3664,7 +3666,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Kimeneti fájl már létezik, felül szeretné írni?</translation>
+        <translation>Kimeneti fájl már létezik.
+
+Felül szeretné írni?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3841,7 +3845,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Fájl felülírása?</translation>
+        <translation>Fájl felülírása</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -4358,19 +4362,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Bal felső</translation>
+        <translation>Bal felső</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Felső közép</translation>
+        <translation>Felső közép</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Jobb felső</translation>
+        <translation>Jobb felső</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
