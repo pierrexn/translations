@@ -17433,7 +17433,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2534"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation type="unfinished">Verschlusszeit [s]</translation>
+        <translation>Verschlusszeit (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
