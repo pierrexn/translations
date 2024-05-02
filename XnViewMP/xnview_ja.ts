@@ -17657,7 +17657,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translatorcomment>TXT_TemplateMenu_EXIF_Shutter_speed</translatorcomment>
-        <translation type="unfinished">シャッタースピード [s]</translation>
+        <translation>シャッタースピード (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
