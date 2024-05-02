@@ -282,8 +282,8 @@
         <oldsource>Do you want to save changes to
  &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Сохранить изменения в
- &quot;%1&quot;?
+        <translation>Сохранить изменения в
+&quot;%1&quot;?
 </translation>
     </message>
     <message>
@@ -405,7 +405,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение будет преобразовано в 24-битный RGB (8 бит на канал)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -427,7 +427,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество уникальных цветов: %1</translation>
     </message>
 </context>
 <context>
@@ -880,7 +880,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="CategorySets.cpp" line="372"/>
         <source>Suggested</source>
         <translatorcomment>Рекомендуемые?</translatorcomment>
-        <translation>Предлагаемые</translation>
+        <translation>Рекомендуемые</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="415"/>
@@ -1192,7 +1192,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="369"/>
         <source>Adjust</source>
-        <translation>Яркость/Контрастность/Гамма</translation>
+        <translation>Коррекция</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="513"/>
@@ -1275,7 +1275,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2448"/>
         <source>Black/White Points</source>
-        <translation>Чёрно-белое точки</translation>
+        <translation>Черно-белые точки</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2469"/>
@@ -1326,7 +1326,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2897"/>
         <source>De-interlace</source>
-        <translation>Чересстрочная развёртка</translation>
+        <translation>Деинтерлейсинг</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3229"/>
@@ -1444,7 +1444,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2939"/>
         <source>Border 3D</source>
-        <translation>3D-рамка</translation>
+        <translation>Обрамление 3D</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2966"/>
@@ -1649,7 +1649,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.cpp" line="229"/>
         <location filename="DlgFilter.cpp" line="38"/>
         <source>Emboss more</source>
-        <translation>Глубокое тиснение</translation>
+        <translation>Тиснение глубокое</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="230"/>
@@ -1786,7 +1786,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="1644"/>
         <source>Map</source>
-        <translation>Коррекция</translation>
+        <translation>Карта</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1645"/>
@@ -1832,7 +1832,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">Предупреждение: Изображение будет преобразовано в 8 битное RGB изображение</translation>
+        <translation>Предупреждение: Изображение будет преобразовано в 24-битный RGB (8 бит на канал)</translation>
     </message>
 </context>
 <context>
@@ -2877,8 +2877,8 @@ Drag and Drop over the desired node to assign.</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">В пункте назначения уже есть файл с именем:
-&quot;%1&quot;
+        <translation>В пункте назначения уже есть файл с именем: 
+%1
 
 Вы хотите его перезаписать?</translation>
     </message>
@@ -3902,8 +3902,8 @@ Do you want to overwrite it?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">В пункте назначения уже есть файл с именем:
-&quot;%1&quot;
+        <translation>В пункте назначения уже есть файл с именем: 
+%1
 
 Вы хотите его перезаписать?</translation>
     </message>
@@ -5105,7 +5105,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1515"/>
         <source>Dark</source>
-        <translation>Тёмная</translation>
+        <translation>Темная</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1540"/>
@@ -5636,7 +5636,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertIptc.ui" line="157"/>
         <source>IPTC-IIM, update or create XMP</source>
         <oldsource>IPTC, update or create XMP</oldsource>
-        <translation>IPTC, обновлять или создавать XMP</translation>
+        <translation>IPTC, создавать или обновлять XMP</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="162"/>
@@ -5681,17 +5681,17 @@ Do you want to continue?</source>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Яркость</translation>
+        <translation>Яркость</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+Яркость</translation>
+        <translation>RGB+Яркость</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -5922,7 +5922,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertPoints.ui" line="20"/>
         <source>Black point</source>
-        <translation>Чёрная точка</translation>
+        <translation>Черная точка</translation>
     </message>
     <message>
         <location filename="DlgConvertPoints.ui" line="53"/>
@@ -5955,7 +5955,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top</source>
-        <translation>Сверху</translation>
+        <translation>Верх-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
@@ -5965,7 +5965,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Left</source>
-        <translation>Слева</translation>
+        <translation>Центр-Слева</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5975,7 +5975,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Right</source>
-        <translation>Справа</translation>
+        <translation>Центр-Справа</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
@@ -5985,7 +5985,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom</source>
-        <translation>Снизу</translation>
+        <translation>Низ-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6979,7 +6979,7 @@ Do you want to continue?</source>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Яркость</translation>
+        <translation>Яркость</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7229,7 +7229,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="248"/>
         <source>Apply parent categories</source>
-        <translation>Применять к родительским категориям</translation>
+        <translation>Назначать родительские Категории</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="256"/>
@@ -7705,7 +7705,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
         <source>Black&amp;White</source>
-        <translation>Чёрно-белое</translation>
+        <translation>Черно-белое</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="290"/>
@@ -7904,7 +7904,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Изменить палитру...</translation>
+        <translation>Изменить палитру...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -8255,7 +8255,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFilter.cpp" line="81"/>
         <source>Map</source>
-        <translation>Коррекция</translation>
+        <translation>Карта</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="82"/>
@@ -9255,7 +9255,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptc.ui" line="645"/>
         <source>IPTC-IIM, update or create XMP</source>
         <oldsource>IPTC, update or create XMP</oldsource>
-        <translation>IPTC, обновлять или создавать XMP</translation>
+        <translation>IPTC, создавать или обновлять XMP</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="650"/>
@@ -9274,7 +9274,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptcHistoryEdit.ui" line="13"/>
         <source>Edit history</source>
-        <translation>Редактировать историю</translation>
+        <translation>Редактирование истории</translation>
     </message>
 </context>
 <context>
@@ -11018,7 +11018,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
-        <translation type="unfinished">Использовать регулярные выражения</translation>
+        <translation>Использовать регулярные выражения</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -12350,7 +12350,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="493"/>
         <source>File operations</source>
-        <translation>Действия с файлами</translation>
+        <translation>Операции с файлами</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="544"/>
@@ -12441,12 +12441,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="665"/>
         <source>Make backup for lossless flip/rotation</source>
-        <translation>Создавать резервную копию при преобразовании без потерь (Отражение/Вращение)</translation>
+        <translation>Создавать резервную копию при Отражении/Вращении без потерь</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="672"/>
         <source>Make backup for lossless crop</source>
-        <translation>Создавать резервную копию при преобразовании без потерь (Обрезка)</translation>
+        <translation>Создавать резервную копию при Обрезке без потерь</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
@@ -12564,7 +12564,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="834"/>
         <location filename="DlgSettingsGeneral.ui" line="901"/>
         <source>Custom</source>
-        <translation>Пользовательская</translation>
+        <translation>Пользовательский</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
@@ -12863,7 +12863,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Multiple view for same file</source>
-        <translation>Открытие одного и того же файла в разных вкладках</translation>
+        <translation>Разрешить открытие нескольких вкладок Просмотра для одного и того же файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -13080,7 +13080,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab when only one is opened</source>
-        <translation>Скрывать вкладку, если открыта только одна</translation>
+        <translation>Скрывать заголовок вкладки, если открыта только одна</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13103,7 +13103,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="654"/>
         <source>Browser - Preview</source>
-        <translation>Обозреватель - Режим просмотра</translation>
+        <translation>Обозреватель - Предпросмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="922"/>
@@ -13250,13 +13250,13 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">Выходить из программы при закрытии последней вкладки</translation>
+        <translation>Выходить из программы при закрытии последней вкладки</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Synchronize browser when view is closed</source>
         <translatorcomment>Режим ли???</translatorcomment>
-        <translation>Синхронизировать Обозреватель при закрытии режима Просмотра</translation>
+        <translation>Выделить файл в Обозревателе при закрытии вкладки Просмотра</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
@@ -13406,7 +13406,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">Экспортировать Категории Каталога в XMP:Subject и IPTC:Keywords</translation>
+        <translation>Экспортировать Категории Каталога в XMP:Subject и IPTC:Keywords</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13422,7 +13422,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished">Обновлять или создавать связанные файлы XMP (sidecar)</translation>
+        <translation>Создавать или обновлять связанные файлы XMP (sidecar)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -14867,7 +14867,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="80"/>
         <source>Dark</source>
-        <translation>Тёмная</translation>
+        <translation>Темная</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="85"/>
@@ -15714,7 +15714,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Субдискретизация</translation>
+        <translation>Субдискретизация</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15943,7 +15943,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Субдискретизация</translation>
+        <translation>Субдискретизация</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -16505,7 +16505,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="76"/>
         <source>Dimension</source>
         <translatorcomment>?</translatorcomment>
-        <translation>Измерение</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="77"/>
@@ -16522,7 +16522,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="79"/>
         <source>Black&amp;White</source>
-        <translation>Чёрно-белое</translation>
+        <translation>Черно-белое</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="83"/>
@@ -16580,7 +16580,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="135"/>
         <source>Origin</source>
-        <translation>Местоположение</translation>
+        <translation>Начало координат</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="138"/>
@@ -16604,7 +16604,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="256"/>
         <location filename="InfoPropertiesView.cpp" line="346"/>
         <source>Lens ID</source>
-        <translation>Марка линз</translation>
+        <translation>Объектив, ID</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="344"/>
@@ -16614,7 +16614,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="348"/>
         <source>Lens model</source>
-        <translation>Модель линзы</translation>
+        <translation>Объектив, модель</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="350"/>
@@ -17043,12 +17043,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename without extension</source>
-        <translation>Выходное имя файла без расширения</translation>
+        <translation>Имя файла на выходе без расширения</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename</source>
-        <translation>Имя на выходе</translation>
+        <translation>Имя файла на выходе</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -17536,7 +17536,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Выдержка (c)</translation>
+        <translation>Выдержка (c)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17562,7 +17562,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Фокусное расстояние (мм)</translation>
+        <translation>Фокусное расстояние (мм)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -17578,7 +17578,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2534"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation type="unfinished">Скорость затвора (c)</translation>
+        <translation>Скорость затвора (c)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
@@ -17763,12 +17763,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2572"/>
         <source>Lens Make</source>
-        <translation>Производитель линзы</translation>
+        <translation>Объектив, производитель</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2573"/>
         <source>Lens Model</source>
-        <translation>Модель линзы</translation>
+        <translation>Объектив, модель</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2579"/>
@@ -18642,7 +18642,7 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Изображение будет преобразовано в 8 бит на компонент. 
+        <translation>Изображение будет преобразовано в 24-битный RGB (8 бит на канал). 
 
 Вы хотите продолжить?</translation>
     </message>
@@ -19391,7 +19391,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="4"/>
         <source>Dark</source>
         <oldsource>Fusion dark</oldsource>
-        <translation>Тёмная</translation>
+        <translation>Темная</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="435"/>
@@ -19586,7 +19586,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="660"/>
         <source>File operations</source>
-        <translation>Действия с файлами</translation>
+        <translation>Операции с файлами</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="663"/>
@@ -19621,7 +19621,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="676"/>
         <source>Import clipboard</source>
-        <translation>Вставить из буфера обмена</translation>
+        <translation>Вставить как изображение</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -19671,7 +19671,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="7"/>
         <source>Old Dark</source>
-        <translation>Старая тёмная</translation>
+        <translation>Старая темная</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="79"/>
@@ -19914,7 +19914,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="450"/>
         <source>Select all images</source>
-        <translation>Выделить только изображения</translation>
+        <translation>Выделить все изображения</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="451"/>
@@ -20002,7 +20002,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="471"/>
         <source>Show header</source>
-        <translation>Показывать панель сортировки</translation>
+        <translation>Показывать заголовок</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="435"/>
@@ -20510,7 +20510,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2674"/>
         <source>Date format variables</source>
-        <translation>Дата (с указанием переменных)</translation>
+        <translation>Дата (переменные формата)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2443"/>
@@ -20787,19 +20787,19 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="216"/>
         <source>Left</source>
         <oldsource>To the left</oldsource>
-        <translation>Влево</translation>
+        <translation>Слева</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="217"/>
         <source>Right</source>
         <oldsource>To the right</oldsource>
-        <translation>Вправо</translation>
+        <translation>Справа</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="219"/>
         <source>Bottom</source>
         <oldsource>To the bottom</oldsource>
-        <translation>Вниз</translation>
+        <translation>Снизу</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="266"/>
@@ -20839,7 +20839,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="278"/>
         <source>Reload</source>
-        <translation>Перезагрузить изображение</translation>
+        <translation>Перезагрузить</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="279"/>
@@ -20948,7 +20948,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="301"/>
         <source>Red-Eye correction</source>
         <oldsource>Red-Eyes reduction</oldsource>
-        <translation>Удаление эффекта красных глаз</translation>
+        <translation>Удалить эффект красных глаз</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="307"/>
@@ -20963,7 +20963,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="309"/>
         <source>Selection - swap width &amp;&amp; height</source>
-        <translation>Обменять ширину и высоту у выделенной области</translation>
+        <translation>Выделение - поменять ширину и высоту</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="310"/>
@@ -20978,12 +20978,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="312"/>
         <source>Set selection ratio</source>
-        <translation>Задать выделенной области соотношение</translation>
+        <translation>Выделение - задать соотношение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Set selection size</source>
-        <translation>Задать выделенной области размер</translation>
+        <translation>Выделение - задать размер</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -21373,7 +21373,7 @@ Do you want to continue?</oldsource>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
         <translatorcomment>Проверить</translatorcomment>
-        <translation>Специальная вставка</translation>
+        <translation>Вставить снаружи</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="474"/>
@@ -21476,7 +21476,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Import clipboard</source>
-        <translation>Вставить из буфера обмена</translation>
+        <translation>Вставить как изображение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -21645,12 +21645,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="464"/>
         <source>Map</source>
-        <translation>Коррекция</translation>
+        <translation>Карта</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="465"/>
         <source>Adjust</source>
-        <translation>Яркость/Контрастность/Гамма</translation>
+        <translation>Коррекция</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="466"/>
@@ -23944,7 +23944,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
