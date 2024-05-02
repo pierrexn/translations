@@ -7844,7 +7844,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="245"/>
         <source>Dithering</source>
-        <translation>Дизеринг</translation>
+        <translation>Сглаживание</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="327"/>
@@ -10813,7 +10813,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="384"/>
         <source>Nearest Neighbour</source>
-        <translation>Nearest Neighbour</translation>
+        <translation type="unfinished">Nearest Neighbour</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="389"/>
