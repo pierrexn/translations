@@ -281,9 +281,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Сохранить изменения в
-&quot;%1&quot;?
-</translation>
+        <translation>Сохранить изменения в
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1353"/>
@@ -328,7 +327,7 @@
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translatorcomment>Правильный падеж?</translatorcomment>
-        <translation type="unfinished">Сохранение изображения...</translation>
+        <translation>Сохранение изображения...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -2821,7 +2820,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">файл не является изображением</translation>
+        <translation>файл не является изображением</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -3837,7 +3836,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2489"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">файл не является изображением</translation>
+        <translation>файл не является изображением</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -4250,25 +4249,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Верх-Слева</translation>
+        <translation>Верх-Слева</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Верх-Центр</translation>
+        <translation>Верх-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Верх-Справа</translation>
+        <translation>Верх-Справа</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Центр-Слева</translation>
+        <translation>Центр-Слева</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4279,25 +4278,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Центр-Справа</translation>
+        <translation>Центр-Справа</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Низ-Слева</translation>
+        <translation>Низ-Слева</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Низ-Центр</translation>
+        <translation>Низ-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Низ-Справа</translation>
+        <translation>Низ-Справа</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -5238,7 +5237,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Заменять альфа-канал для 32-битных изображений</translation>
+        <translation>Заменять альфа-канал для 32-битных изображений</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5961,13 +5960,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Верх-Слева</translation>
+        <translation>Верх-Слева</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Верх-Справа</translation>
+        <translation>Верх-Справа</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5977,35 +5976,35 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished">Верх-Центр</translation>
+        <translation>Верх-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished">Центр-Слева</translation>
+        <translation>Центр-Слева</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished">Центр-Справа</translation>
+        <translation>Центр-Справа</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Низ-Слева</translation>
+        <translation>Низ-Слева</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Низ-Центр</translation>
+        <translation>Низ-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Низ-Справа</translation>
+        <translation>Низ-Справа</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -7716,7 +7715,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">Этот файл не является изображением</translation>
+        <translation>Этот файл не является изображением</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -9332,17 +9331,17 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgKeywordProperties.ui" line="14"/>
         <source>Properties</source>
         <oldsource>Keyword properties</oldsource>
-        <translation>Свойства ключевых слов</translation>
+        <translation>Свойства Категории</translation>
     </message>
     <message>
         <location filename="DlgKeywordProperties.ui" line="20"/>
         <source>Label</source>
-        <translation>Метка</translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="DlgKeywordProperties.ui" line="30"/>
         <source>Parent</source>
-        <translation>Родительский объект</translation>
+        <translation>Родитель</translation>
     </message>
     <message>
         <location filename="DlgKeywordProperties.ui" line="40"/>
@@ -9737,7 +9736,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Коллекция картинок</translation>
+        <translation>Коллекция</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9859,7 +9858,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Автоматически поворачивать изображение, если необходимо</translation>
+        <translation>Автоматически поворачивать (если необходимо)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -11712,7 +11711,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">Базовый путь к изображениям</translation>
+        <translation>Базовый путь к файлам</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
@@ -12470,7 +12469,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
         <source>Make backup for other lossless operations</source>
-        <translation>Создавать резервную копию для прочих преобразований без потерь</translation>
+        <translation>Создавать резервную копию при прочих преобразованиях без потерь</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="569"/>
@@ -13058,7 +13057,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
-        <translation type="unfinished">Перемещение изображения</translation>
+        <translation>Перемещение изображения</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -13552,7 +13551,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="613"/>
         <source>Label</source>
-        <translation>Цветовая метка</translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="606"/>
@@ -13899,7 +13898,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">Обрамление изображения</translation>
+        <translation>Рамка вокруг холста</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="314"/>
@@ -14254,7 +14253,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1430"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation>(появляются при наведении курсора мыши на верхний илил правый край экрана)</translation>
+        <translation>(появляются при наведении курсора мыши на верхний или правый край экрана)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1254"/>
@@ -14395,7 +14394,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">Похожесть изображений (медленно)</translation>
+        <translation>Похожесть изображений (медленно)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -16102,13 +16101,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">Сжатие чёрно-белого изображения</translation>
+        <translation>Сжатие чёрно-белого изображения</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">Сжатие цветного изображения</translation>
+        <translation>Сжатие цветного изображения</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -19280,7 +19279,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="676"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить как изображение</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="680"/>
@@ -20998,13 +20997,13 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="312"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Выделение - задать соотношение</translation>
+        <translation>Выделение - задать соотношение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Выделение - задать размер</translation>
+        <translation>Выделение - задать размер</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -21267,7 +21266,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить как изображение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="690"/>
@@ -21522,7 +21521,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить выделение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="405"/>
@@ -21958,7 +21957,7 @@ Do you want to continue?</oldsource>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image... </source>
         <oldsource>Loading picture... </oldsource>
-        <translation type="unfinished">Загрузить изображение... </translation>
+        <translation>Загрузка изображения... </translation>
     </message>
 </context>
 <context>
