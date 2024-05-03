@@ -281,10 +281,6 @@
         <translation>Muokkaa työkaluriviä...</translation>
     </message>
     <message>
-        <source>Saving picture...</source>
-        <translation>Tallennetaan kuva...</translation>
-    </message>
-    <message>
         <source>Don&apos;t ask again</source>
         <translation>Älä kysy uudestaan</translation>
     </message>
@@ -319,17 +315,20 @@
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <source>Do you want to save changes to
-&quot;%1&quot;?
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number of unique colors: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to save changes to
+&quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving image...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1917,10 +1916,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Lyhyin sivu</translation>
     </message>
     <message>
-        <source>not a picture</source>
-        <translation>ei kuvaa</translation>
-    </message>
-    <message>
         <source>Input files:</source>
         <translation>Muunnettavat:</translation>
     </message>
@@ -2259,6 +2254,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
 %1
 
 Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not an image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2821,10 +2820,6 @@ Do you want to overwrite it?</source>
         <translation>ladataan</translation>
     </message>
     <message>
-        <source>not a picture</source>
-        <translation>ei kuvaa</translation>
-    </message>
-    <message>
         <source>Input files:</source>
         <translation>Muunnettavat:</translation>
     </message>
@@ -3072,6 +3067,10 @@ Do you want to continue?</source>
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>not an image</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgConvert3DBorderClass</name>
@@ -3248,32 +3247,12 @@ Do you want to overwrite it?</source>
         <translation>Leveys</translation>
     </message>
     <message>
-        <source>Center right</source>
-        <translation>Keskellä oikealla</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Ylhäällä oikealla</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Keskitä</translation>
     </message>
     <message>
         <source>Radius</source>
         <translation>Säde</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Alhaalla vasemmalla</translation>
-    </message>
-    <message>
-        <source>Top left</source>
-        <translation>Ylhäällä vasemmalla</translation>
-    </message>
-    <message>
-        <source>Top center</source>
-        <translation>Ylhäällä keskellä</translation>
     </message>
     <message>
         <source>pixels</source>
@@ -3296,14 +3275,6 @@ Do you want to overwrite it?</source>
         <translation>Käytä pehmennystä</translation>
     </message>
     <message>
-        <source>Bottom right</source>
-        <translation>Alhaalla oikealla</translation>
-    </message>
-    <message>
-        <source>Center left</source>
-        <translation>Keskellä vasemmalla</translation>
-    </message>
-    <message>
         <source>Frame 1</source>
         <translation>Kehys 1</translation>
     </message>
@@ -3320,8 +3291,36 @@ Do you want to overwrite it?</source>
         <translation>Reunan pyöristys</translation>
     </message>
     <message>
-        <source>Bottom center</source>
-        <translation>Alhaalla keskellä</translation>
+        <source>Top-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3984,16 +3983,16 @@ Do you want to overwrite it?</source>
         <translation>32 bittiä</translation>
     </message>
     <message>
-        <source>Replace alpha for 32bits pictures</source>
-        <translation>Korvaa alfa 32-bittisissä kuvissa </translation>
-    </message>
-    <message>
         <source>Grayscale</source>
         <translation>Harmaasävy</translation>
     </message>
     <message>
         <source>Dithering</source>
         <translation>Rasterointi</translation>
+    </message>
+    <message>
+        <source>Replace alpha for 32bits images</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4568,44 +4567,16 @@ Do you want to overwrite it?</source>
 <context>
     <name>DlgConvertQRcode</name>
     <message>
-        <source>Top</source>
-        <translation>Ylhäällä</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Vasemmalla</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Oikealla</translation>
-    </message>
-    <message>
         <source>Scale</source>
         <translation>Skaalaus</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Ylhäällä oikealla</translation>
     </message>
     <message>
         <source>Border</source>
         <translation>Reunus</translation>
     </message>
     <message>
-        <source>Bottom</source>
-        <translation>Alhaalla</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Keskellä</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Alhaalla vasemmalla</translation>
-    </message>
-    <message>
-        <source>Top left</source>
-        <translation>Ylhäällä vasemmalla</translation>
     </message>
     <message>
         <source>Position</source>
@@ -4620,8 +4591,36 @@ Do you want to overwrite it?</source>
         <translation>X-marginaali</translation>
     </message>
     <message>
-        <source>Bottom right</source>
-        <translation>Alhaalla oikealla</translation>
+        <source>Top-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5936,10 +5935,6 @@ Please make sure that files are not read-only!</source>
         <translation>Kuvat</translation>
     </message>
     <message>
-        <source>This is not a picture file</source>
-        <translation>Tämä ei ole kuvatiedosto</translation>
-    </message>
-    <message>
         <source>Zoom 100%</source>
         <translation>Zoomaa 100%</translation>
     </message>
@@ -6010,6 +6005,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Black&amp;White</source>
         <translation>Musta/valkoinen</translation>
+    </message>
+    <message>
+        <source>This is not an image file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7690,10 +7689,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation>Lisää kaikki sivut/Lähdekuvat</translation>
     </message>
     <message>
-        <source>Pictures collection</source>
-        <translation>Kuvakokoelma</translation>
-    </message>
-    <message>
         <source>102x152mm (4x6&quot;) [3]</source>
         <translation>102x152mm (4x6&quot;) [3]</translation>
     </message>
@@ -7742,10 +7737,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation>Y skaalaus</translation>
     </message>
     <message>
-        <source>Automatically rotate the picture if needed</source>
-        <translation>Kuvan automaattinen kääntäminen jos se on tarpeen</translation>
-    </message>
-    <message>
         <source>Center-Left</source>
         <translation>Keskellä vasemmalla</translation>
     </message>
@@ -7788,6 +7779,14 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Crop to size</source>
         <translation>Rajaa sivulle</translation>
+    </message>
+    <message>
+        <source>Collection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically rotate (if needed)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9101,10 +9100,6 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
         <translation>Tietokantamoduulin muistin käyttö</translation>
     </message>
     <message>
-        <source>Base path of your pictures</source>
-        <translation>Valokuvien perus-tiedostopolku</translation>
-    </message>
-    <message>
         <source>Synchronize Folders...</source>
         <translation>Synkronoidaan kansiot...</translation>
     </message>
@@ -9182,6 +9177,10 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
     </message>
     <message>
         <source>Import XnView Classic category db...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Base path of files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10028,10 +10027,6 @@ Do you want to reassign?</source>
         <translation>Luo duplikaatti</translation>
     </message>
     <message>
-        <source>Move picture</source>
-        <translation>Siirrä kuvaa</translation>
-    </message>
-    <message>
         <source>Recent files</source>
         <translation>Viimeksi käytetyt tiedostot</translation>
     </message>
@@ -10289,6 +10284,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Closing last tab exits application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10859,10 +10858,6 @@ Do you want to reassign?</source>
         <translation>EXIF kuvauspäivä</translation>
     </message>
     <message>
-        <source>Border line around picture</source>
-        <translation>Kehykset kuvan ympärillä</translation>
-    </message>
-    <message>
         <source>Title bar</source>
         <translation>Nimipalkki</translation>
     </message>
@@ -11026,6 +11021,10 @@ Do you want to reassign?</source>
         <source>Draw multi-resolution icons as Snapshots</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Border line around canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSimilar</name>
@@ -11056,10 +11055,6 @@ Do you want to reassign?</source>
     <message>
         <source>Remove</source>
         <translation>Poista</translation>
-    </message>
-    <message>
-        <source>Similar picture content (slow)</source>
-        <translation>Samankaltainen kuvasisältö (hidas)</translation>
     </message>
     <message>
         <source>Search similar files</source>
@@ -11096,6 +11091,10 @@ Do you want to reassign?</source>
     <message>
         <source>Warning</source>
         <translation>Varoitus</translation>
+    </message>
+    <message>
+        <source>Similar image content (slow)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12412,16 +12411,16 @@ Do you want to continue?</source>
         <translation>Vain yksi kuva</translation>
     </message>
     <message>
-        <source>Compression for color picture</source>
-        <translation>Pakkaus värikuvalle</translation>
-    </message>
-    <message>
         <source>Quality</source>
         <translation>Laatu</translation>
     </message>
     <message>
-        <source>Compression for black&amp;white picture</source>
-        <translation>Pakkaus MV-kuvalle</translation>
+        <source>Compression for black&amp;white image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compression for color image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14981,10 +14980,6 @@ Do you want to continue?</source>
         <translation>Näytä piilotetut tiedostot</translation>
     </message>
     <message>
-        <source>Import clipboard</source>
-        <translation>Tuo leikepöydältä</translation>
-    </message>
-    <message>
         <source>Image Width</source>
         <translation>Kuvan leveys</translation>
     </message>
@@ -15560,6 +15555,10 @@ Do you want to continue?</source>
         <source>Open with</source>
         <translation type="unfinished">Avaa sovelluksessa</translation>
     </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15858,10 +15857,6 @@ Do you want to continue?</source>
         <translation>Alfa</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation>Tyhjennä</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation>Sulje</translation>
     </message>
@@ -16134,10 +16129,6 @@ Do you want to continue?</source>
         <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
-        <source>Import clipboard</source>
-        <translation>Tuo leikepöydältä</translation>
-    </message>
-    <message>
         <source>Export...</source>
         <translation>Vie...</translation>
     </message>
@@ -16326,10 +16317,6 @@ Do you want to continue?</source>
         <translation>Keskinkertainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
-        <source>Set selection ratio</source>
-        <translation>Aseta valinnan kuvasuhde</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Työkalupalkki</translation>
     </message>
@@ -16348,10 +16335,6 @@ Do you want to continue?</source>
     <message>
         <source>Select all</source>
         <translation>Valitse kaikki</translation>
-    </message>
-    <message>
-        <source>Set selection size</source>
-        <translation>Aseta valinnan koko</translation>
     </message>
     <message>
         <source>Status bar</source>
@@ -16593,6 +16576,22 @@ Do you want to continue?</source>
         <source>Send by email...</source>
         <translation type="unfinished">Lähetä sähköpostilla...</translation>
     </message>
+    <message>
+        <source>Clear selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection - set ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection - set size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -16741,8 +16740,8 @@ Do you want to continue?</source>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <source>Loading picture... </source>
-        <translation>Ladataan kuva...</translation>
+        <source>Loading image... </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

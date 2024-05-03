@@ -342,10 +342,9 @@
     <message>
         <location filename="ViewWindow.cpp" line="208"/>
         <source>Do you want to save changes to
-&quot;%1&quot;?
-</source>
+&quot;%1&quot;?</source>
         <oldsource>Do you want to save changes to
- &quot;%1&quot;?
+&quot;%1&quot;?
 </oldsource>
         <translation type="unfinished">Chcete uložiť zmeny do &apos;%1&apos;?
 </translation>
@@ -396,9 +395,9 @@
         <location filename="ViewWindow.cpp" line="2833"/>
         <location filename="ViewWindow.cpp" line="2963"/>
         <location filename="ViewWindow.cpp" line="3013"/>
-        <source>Saving picture...</source>
-        <oldsource>Saving picture... </oldsource>
-        <translation>Ukladanie obrázka...</translation>
+        <source>Saving image...</source>
+        <oldsource>Saving picture...</oldsource>
+        <translation type="unfinished">Ukladanie obrázka...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -2797,8 +2796,9 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1425"/>
-        <source>not a picture</source>
-        <translation>nie je obrázok</translation>
+        <source>not an image</source>
+        <oldsource>not a picture</oldsource>
+        <translation type="unfinished">nie je obrázok</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -3799,8 +3799,9 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2489"/>
-        <source>not a picture</source>
-        <translation>nie je obrázok</translation>
+        <source>not an image</source>
+        <oldsource>not a picture</oldsource>
+        <translation type="unfinished">nie je obrázok</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -4204,23 +4205,27 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="445"/>
-        <source>Top left</source>
-        <translation>Vľavo hore</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">Vľavo hore</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
-        <source>Top center</source>
-        <translation>Hore v strede</translation>
+        <source>Top-Center</source>
+        <oldsource>Top center</oldsource>
+        <translation type="unfinished">Hore v strede</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
-        <source>Top right</source>
-        <translation>Vpravo hore</translation>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">Vpravo hore</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
-        <source>Center left</source>
-        <translation>V strede-vľavo</translation>
+        <source>Center-Left</source>
+        <oldsource>Center left</oldsource>
+        <translation type="unfinished">V strede-vľavo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4229,23 +4234,27 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="470"/>
-        <source>Center right</source>
-        <translation>V strede-vpravo</translation>
+        <source>Center-Right</source>
+        <oldsource>Center right</oldsource>
+        <translation type="unfinished">V strede-vpravo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
-        <source>Bottom left</source>
-        <translation>Vľavo dole</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">Vľavo dole</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
-        <source>Bottom center</source>
-        <translation>Dole-v strede</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom center</oldsource>
+        <translation type="unfinished">Dole-v strede</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
-        <source>Bottom right</source>
-        <translation>Vpravo dole</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">Vpravo dole</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -5177,8 +5186,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="35"/>
-        <source>Replace alpha for 32bits pictures</source>
-        <translation>Nahradiť hodnotu alfa pre 32-bitové obrázky</translation>
+        <source>Replace alpha for 32bits images</source>
+        <oldsource>Replace alpha for 32bits pictures</oldsource>
+        <translation type="unfinished">Nahradiť hodnotu alfa pre 32-bitové obrázky</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5897,23 +5907,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="69"/>
-        <source>Top left</source>
-        <translation>Vľavo hore</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertQRcode.ui" line="74"/>
-        <source>Top</source>
-        <translation>Hore</translation>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
+        <translation type="unfinished">Vľavo hore</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
-        <source>Top right</source>
-        <translation>Vpravo hore</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertQRcode.ui" line="84"/>
-        <source>Left</source>
-        <translation>Naľavo</translation>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
+        <translation type="unfinished">Vpravo hore</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5921,24 +5923,37 @@ Do you want to continue?</source>
         <translation>V strede</translation>
     </message>
     <message>
+        <location filename="DlgConvertQRcode.ui" line="74"/>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertQRcode.ui" line="84"/>
+        <source>Center-Left</source>
+        <translation type="unfinished">V strede-vľavo</translation>
+    </message>
+    <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
-        <source>Right</source>
-        <translation>Napravo</translation>
+        <source>Center-Right</source>
+        <translation type="unfinished">V strede-vpravo</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
-        <source>Bottom left</source>
-        <translation>Vľavo dole</translation>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
+        <translation type="unfinished">Vľavo dole</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
-        <source>Bottom</source>
-        <translation>Dole</translation>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
+        <translation type="unfinished">Dole</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
-        <source>Bottom right</source>
-        <translation>Vpravo dole</translation>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
+        <translation type="unfinished">Vpravo dole</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -7640,8 +7655,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="195"/>
-        <source>This is not a picture file</source>
-        <translation>Toto nie je obrázkový súbor</translation>
+        <source>This is not an image file</source>
+        <oldsource>This is not a picture file</oldsource>
+        <translation type="unfinished">Toto nie je obrázkový súbor</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -9649,8 +9665,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="72"/>
-        <source>Pictures collection</source>
-        <translation>Kolekcia obrázkov</translation>
+        <source>Collection</source>
+        <oldsource>Pictures collection</oldsource>
+        <translation type="unfinished">Kolekcia obrázkov</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9769,8 +9786,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="469"/>
-        <source>Automatically rotate the picture if needed</source>
-        <translation>Automaticky otočiť obrázok ak je to nutné</translation>
+        <source>Automatically rotate (if needed)</source>
+        <oldsource>Automatically rotate the picture if needed</oldsource>
+        <translation type="unfinished">Automaticky otočiť obrázok ak je to nutné</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -11608,8 +11626,9 @@ Chcete odstrániť položky priradené ku kategórii?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="256"/>
-        <source>Base path of your pictures</source>
-        <translation>Základná cesta k vašim obrázkom</translation>
+        <source>Base path of files</source>
+        <oldsource>Base path of your pictures</oldsource>
+        <translation type="unfinished">Základná cesta k vašim obrázkom</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="176"/>
@@ -13086,8 +13105,9 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
         <location filename="DlgSettingsInterface.ui" line="1636"/>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
-        <source>Move picture</source>
-        <translation>Pohybovať obrázkom</translation>
+        <source>Move image</source>
+        <oldsource>Move picture</oldsource>
+        <translation type="unfinished">Pohybovať obrázkom</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -13772,8 +13792,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
-        <source>Border line around picture</source>
-        <translation>Rámček okolo obrázka</translation>
+        <source>Border line around canvas</source>
+        <oldsource>Border line around picture</oldsource>
+        <translation type="unfinished">Rámček okolo obrázka</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="314"/>
@@ -14268,8 +14289,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="158"/>
-        <source>Similar picture content (slow)</source>
-        <translation>Podobný obsah obrázka (pomalé)</translation>
+        <source>Similar image content (slow)</source>
+        <oldsource>Similar picture content (slow)</oldsource>
+        <translation type="unfinished">Podobný obsah obrázka (pomalé)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -15971,13 +15993,15 @@ Do you want to continue?</source>
     <name>DlgWriteTIFFClass</name>
     <message>
         <location filename="DlgWriteTIFF.ui" line="19"/>
-        <source>Compression for black&amp;white picture</source>
-        <translation>Kompresia pre čiernobiele obrázky</translation>
+        <source>Compression for black&amp;white image</source>
+        <oldsource>Compression for black&amp;white picture</oldsource>
+        <translation type="unfinished">Kompresia pre čiernobiele obrázky</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
-        <source>Compression for color picture</source>
-        <translation>Kompresia pre farebné obrázky</translation>
+        <source>Compression for color image</source>
+        <oldsource>Compression for color picture</oldsource>
+        <translation type="unfinished">Kompresia pre farebné obrázky</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -19138,6 +19162,11 @@ Chcete pokračovať?</translation>
         <translation>Označenie tváre...</translation>
     </message>
     <message>
+        <location filename="BrowserMenu.h" line="676"/>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="680"/>
         <source>Acquire (TWAIN)</source>
         <translation>Získať (TWAIN)</translation>
@@ -19431,11 +19460,6 @@ Chcete pokračovať?</translation>
         <location filename="BrowserMenu.h" line="675"/>
         <source>Capture...</source>
         <translation>Snímať obrazovku...</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="676"/>
-        <source>Import clipboard</source>
-        <translation>Importovať schránku</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -20772,11 +20796,6 @@ Chcete pokračovať?</translation>
         <translation>Prilepiť</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="291"/>
-        <source>Clear</source>
-        <translation>Vymazať</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="293"/>
         <source>Path</source>
         <translation>Cesta</translation>
@@ -20851,13 +20870,15 @@ Chcete pokračovať?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="312"/>
-        <source>Set selection ratio</source>
-        <translation>Nastaviť pomer strán výberu</translation>
+        <source>Selection - set ratio</source>
+        <oldsource>Set selection ratio</oldsource>
+        <translation type="unfinished">Nastaviť pomer strán výberu</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
-        <source>Set selection size</source>
-        <translation>Nastaviť veľkosť výberu</translation>
+        <source>Selection - set size</source>
+        <oldsource>Set selection size</oldsource>
+        <translation type="unfinished">Nastaviť veľkosť výberu</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -21165,6 +21186,11 @@ Chcete pokračovať?</translation>
         <translation>Nastaviť ako tapetu...</translation>
     </message>
     <message>
+        <location filename="ViewMenu.h" line="291"/>
+        <source>Clear selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="420"/>
         <source>Properties...</source>
         <translation>Vlastnosti...</translation>
@@ -21450,6 +21476,11 @@ Chcete pokračovať?</translation>
         <translation>Orezať (bezstratovo)</translation>
     </message>
     <message>
+        <location filename="ViewMenu.h" line="497"/>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="501"/>
         <source>Acquire (TWAIN)</source>
         <translation>Získať (TWAIN)</translation>
@@ -21521,11 +21552,6 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="496"/>
         <source>Capture...</source>
         <translation>Snímať obrazovku...</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="497"/>
-        <source>Import clipboard</source>
-        <translation>Importovať schránku</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -21798,8 +21824,9 @@ Chcete pokračovať?</translation>
     <name>MyBitmapView</name>
     <message>
         <location filename="MyBitmapView.cpp" line="964"/>
-        <source>Loading picture... </source>
-        <translation>Načítánie obrázku... </translation>
+        <source>Loading image... </source>
+        <oldsource>Loading picture... </oldsource>
+        <translation type="unfinished">Načítánie obrázku... </translation>
     </message>
 </context>
 <context>

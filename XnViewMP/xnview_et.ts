@@ -341,10 +341,9 @@
     <message>
         <location filename="ViewWindow.cpp" line="208"/>
         <source>Do you want to save changes to
-&quot;%1&quot;?
-</source>
+&quot;%1&quot;?</source>
         <oldsource>Do you want to save changes to
- &quot;%1&quot;?
+&quot;%1&quot;?
 </oldsource>
         <translation type="unfinished"></translation>
     </message>
@@ -394,8 +393,8 @@
         <location filename="ViewWindow.cpp" line="2833"/>
         <location filename="ViewWindow.cpp" line="2963"/>
         <location filename="ViewWindow.cpp" line="3013"/>
-        <source>Saving picture...</source>
-        <oldsource>Saving picture... </oldsource>
+        <source>Saving image...</source>
+        <oldsource>Saving picture...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2796,7 +2795,8 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1425"/>
-        <source>not a picture</source>
+        <source>not an image</source>
+        <oldsource>not a picture</oldsource>
         <translation type="unfinished">ei ole pilt</translation>
     </message>
     <message>
@@ -3790,8 +3790,9 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2489"/>
-        <source>not a picture</source>
-        <translation>ei ole pilt</translation>
+        <source>not an image</source>
+        <oldsource>not a picture</oldsource>
+        <translation type="unfinished">ei ole pilt</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -4194,23 +4195,27 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="445"/>
-        <source>Top left</source>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
         <translation type="unfinished">Üles vasakule</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
-        <source>Top center</source>
-        <translation type="unfinished"></translation>
+        <source>Top-Center</source>
+        <oldsource>Top center</oldsource>
+        <translation type="unfinished">Üles keskele</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
-        <source>Top right</source>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
         <translation type="unfinished">Üles paremale</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
-        <source>Center left</source>
-        <translation type="unfinished"></translation>
+        <source>Center-Left</source>
+        <oldsource>Center left</oldsource>
+        <translation type="unfinished">Keskele vasakule</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4219,22 +4224,26 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="470"/>
-        <source>Center right</source>
-        <translation type="unfinished"></translation>
+        <source>Center-Right</source>
+        <oldsource>Center right</oldsource>
+        <translation type="unfinished">Keskele paremale</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
-        <source>Bottom left</source>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
         <translation type="unfinished">Alla vasakule</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
-        <source>Bottom center</source>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom center</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
-        <source>Bottom right</source>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
         <translation type="unfinished">Alla paremale</translation>
     </message>
     <message>
@@ -5168,7 +5177,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="35"/>
-        <source>Replace alpha for 32bits pictures</source>
+        <source>Replace alpha for 32bits images</source>
+        <oldsource>Replace alpha for 32bits pictures</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5885,23 +5895,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="69"/>
-        <source>Top left</source>
+        <source>Top-Left</source>
+        <oldsource>Top left</oldsource>
         <translation type="unfinished">Üles vasakule</translation>
     </message>
     <message>
-        <location filename="DlgConvertQRcode.ui" line="74"/>
-        <source>Top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
-        <source>Top right</source>
+        <source>Top-Right</source>
+        <oldsource>Top right</oldsource>
         <translation type="unfinished">Üles paremale</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertQRcode.ui" line="84"/>
-        <source>Left</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5909,23 +5911,36 @@ Do you want to continue?</source>
         <translation type="unfinished">Keskele</translation>
     </message>
     <message>
+        <location filename="DlgConvertQRcode.ui" line="74"/>
+        <source>Top-Center</source>
+        <translation type="unfinished">Üles keskele</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertQRcode.ui" line="84"/>
+        <source>Center-Left</source>
+        <translation type="unfinished">Keskele vasakule</translation>
+    </message>
+    <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
-        <source>Right</source>
-        <translation type="unfinished"></translation>
+        <source>Center-Right</source>
+        <translation type="unfinished">Keskele paremale</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
-        <source>Bottom left</source>
+        <source>Bottom-Left</source>
+        <oldsource>Bottom left</oldsource>
         <translation type="unfinished">Alla vasakule</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
-        <source>Bottom</source>
+        <source>Bottom-Center</source>
+        <oldsource>Bottom</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
-        <source>Bottom right</source>
+        <source>Bottom-Right</source>
+        <oldsource>Bottom right</oldsource>
         <translation type="unfinished">Alla paremale</translation>
     </message>
     <message>
@@ -7628,8 +7643,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="195"/>
-        <source>This is not a picture file</source>
-        <translation>See ei ole pildifail</translation>
+        <source>This is not an image file</source>
+        <oldsource>This is not a picture file</oldsource>
+        <translation type="unfinished">See ei ole pildifail</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -9630,8 +9646,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="72"/>
-        <source>Pictures collection</source>
-        <translation>Piltide kogum </translation>
+        <source>Collection</source>
+        <oldsource>Pictures collection</oldsource>
+        <translation type="unfinished">Piltide kogum </translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9750,8 +9767,9 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="469"/>
-        <source>Automatically rotate the picture if needed</source>
-        <translation>Keera pilti automaatselt, kui vaja</translation>
+        <source>Automatically rotate (if needed)</source>
+        <oldsource>Automatically rotate the picture if needed</oldsource>
+        <translation type="unfinished">Keera pilti automaatselt, kui vaja</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -11579,8 +11597,9 @@ Do you want to remove entries assigned to a category?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="256"/>
-        <source>Base path of your pictures</source>
-        <translation>Piltide põhiasukoht</translation>
+        <source>Base path of files</source>
+        <oldsource>Base path of your pictures</oldsource>
+        <translation type="unfinished">Piltide põhiasukoht</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="176"/>
@@ -12918,7 +12937,8 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
         <location filename="DlgSettingsInterface.ui" line="1636"/>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
-        <source>Move picture</source>
+        <source>Move image</source>
+        <oldsource>Move picture</oldsource>
         <translation type="unfinished">Liiguta pilti</translation>
     </message>
     <message>
@@ -13747,8 +13767,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
-        <source>Border line around picture</source>
-        <translation>Raami joon pildi ümber</translation>
+        <source>Border line around canvas</source>
+        <oldsource>Border line around picture</oldsource>
+        <translation type="unfinished">Raami joon pildi ümber</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="314"/>
@@ -14243,8 +14264,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="158"/>
-        <source>Similar picture content (slow)</source>
-        <translation>Sarnane pildi sisu (aeglane)</translation>
+        <source>Similar image content (slow)</source>
+        <oldsource>Similar picture content (slow)</oldsource>
+        <translation type="unfinished">Sarnane pildi sisu (aeglane)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -15947,13 +15969,15 @@ Do you want to continue?</source>
     <name>DlgWriteTIFFClass</name>
     <message>
         <location filename="DlgWriteTIFF.ui" line="19"/>
-        <source>Compression for black&amp;white picture</source>
-        <translation>Mustvalge pildi pakkimine</translation>
+        <source>Compression for black&amp;white image</source>
+        <oldsource>Compression for black&amp;white picture</oldsource>
+        <translation type="unfinished">Mustvalge pildi pakkimine</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
-        <source>Compression for color picture</source>
-        <translation>Värvilise pildi pakkimine</translation>
+        <source>Compression for color image</source>
+        <oldsource>Compression for color picture</oldsource>
+        <translation type="unfinished">Värvilise pildi pakkimine</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -19185,6 +19209,11 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="BrowserMenu.h" line="676"/>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="BrowserMenu.h" line="680"/>
         <source>Acquire (TWAIN)</source>
         <translation type="unfinished"></translation>
@@ -19409,11 +19438,6 @@ Kas soovite jätkata?</translation>
         <location filename="BrowserMenu.h" line="675"/>
         <source>Capture...</source>
         <translation type="unfinished">Pildihõive...</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="676"/>
-        <source>Import clipboard</source>
-        <translation type="unfinished">Impordi lõikepuhvrist</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -20734,11 +20758,6 @@ Kas soovite jätkata?</translation>
         <translation>Kleebi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="291"/>
-        <source>Clear</source>
-        <translation>Puhasta</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="293"/>
         <source>Path</source>
         <translation type="unfinished">Faili tee</translation>
@@ -20813,13 +20832,15 @@ Kas soovite jätkata?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="312"/>
-        <source>Set selection ratio</source>
-        <translation>Määra valiku suhe</translation>
+        <source>Selection - set ratio</source>
+        <oldsource>Set selection ratio</oldsource>
+        <translation type="unfinished">Määra valiku suhe</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
-        <source>Set selection size</source>
-        <translation>Määra valiku suurus</translation>
+        <source>Selection - set size</source>
+        <oldsource>Set selection size</oldsource>
+        <translation type="unfinished">Määra valiku suurus</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -21285,6 +21306,11 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished">Saada e-postiga...</translation>
     </message>
     <message>
+        <location filename="ViewMenu.h" line="497"/>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="ViewMenu.h" line="501"/>
         <source>Acquire (TWAIN)</source>
         <translation type="unfinished"></translation>
@@ -21378,11 +21404,6 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished">Pildihõive...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="497"/>
-        <source>Import clipboard</source>
-        <translation type="unfinished">Impordi lõikepuhvrist</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="498"/>
         <source>Empty tab...</source>
         <translation type="unfinished">Tühi sakk...</translation>
@@ -21405,6 +21426,11 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="ViewMenu.h" line="218"/>
         <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="291"/>
+        <source>Clear selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21776,7 +21802,8 @@ Kas soovite jätkata?</translation>
     <name>MyBitmapView</name>
     <message>
         <location filename="MyBitmapView.cpp" line="964"/>
-        <source>Loading picture... </source>
+        <source>Loading image... </source>
+        <oldsource>Loading picture... </oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>

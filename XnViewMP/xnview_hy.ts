@@ -261,10 +261,6 @@
         <translation>Կարգավորել գործիքները...</translation>
     </message>
     <message>
-        <source>Saving picture...</source>
-        <translation>Պահպանվում է պատկերը...</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Սխալ</translation>
     </message>
@@ -319,17 +315,20 @@
 &quot;%1&quot;-ը:</translation>
     </message>
     <message>
-        <source>Do you want to save changes to
-&quot;%1&quot;?
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number of unique colors: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to save changes to
+&quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving image...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2141,10 +2140,6 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <source>not a picture</source>
-        <translation>նկար չէ</translation>
-    </message>
-    <message>
         <source>open error</source>
         <translation>բացելու սխալ</translation>
     </message>
@@ -2259,6 +2254,10 @@ Drag and Drop over the desired node to assign.</translation>
 %1
 
 Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not an image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2793,10 +2792,6 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message>
-        <source>not a picture</source>
-        <translation>նկար չէ</translation>
-    </message>
-    <message>
         <source>Choose ZIP filename</source>
         <translation>Ընտրեք ZIP-ի անունը</translation>
     </message>
@@ -3072,6 +3067,10 @@ Do you want to continue?</source>
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>not an image</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgConvert3DBorderClass</name>
@@ -3284,44 +3283,44 @@ Do you want to overwrite it?</source>
         <translation>Ուղղություն</translation>
     </message>
     <message>
-        <source>Top left</source>
-        <translation>Վերև ձախ</translation>
-    </message>
-    <message>
-        <source>Top center</source>
-        <translation>Վերև կենտրոն</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Վերև աջ</translation>
-    </message>
-    <message>
-        <source>Center left</source>
-        <translation>Կենտրոն ձախ</translation>
-    </message>
-    <message>
-        <source>Center right</source>
-        <translation>Կենտրոն աջ</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Ներքև ձախ</translation>
-    </message>
-    <message>
-        <source>Bottom center</source>
-        <translation>Ներքև կենտրոն</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation>Ներքև աջ</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Խորքի գույնը</translation>
     </message>
     <message>
         <source>Center</source>
         <translation>Կենտրոն</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished">Վերև ձախ</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Վերև աջ</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Կենտրոն ձախ</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Կենտրոն աջ</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Ներքև ձախ</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Ներքև կենտրոնից</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Ներքև աջ</translation>
     </message>
 </context>
 <context>
@@ -3988,12 +3987,12 @@ Do you want to overwrite it?</source>
         <translation>Օգտագործել խորքի գույնը, եթե պատկերը ունի ալֆա ալիք</translation>
     </message>
     <message>
-        <source>Replace alpha for 32bits pictures</source>
-        <translation>Փոխարինել ալֆան 32 բիթ նկարներով</translation>
-    </message>
-    <message>
         <source>Grayscale</source>
         <translation>Մոխրագույն</translation>
+    </message>
+    <message>
+        <source>Replace alpha for 32bits images</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4572,40 +4571,8 @@ Do you want to overwrite it?</source>
         <translation>Դիրքը</translation>
     </message>
     <message>
-        <source>Top left</source>
-        <translation>Վերև ձախ</translation>
-    </message>
-    <message>
-        <source>Top</source>
-        <translation>Վերև</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation>Վերև աջ</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Ձախ</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>Կենտրոն</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Աջ</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation>Ներքև ձախ</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Ներքև</translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation>Ներքև աջ</translation>
     </message>
     <message>
         <source>X margin</source>
@@ -4622,6 +4589,38 @@ Do you want to overwrite it?</source>
     <message>
         <source>Border</source>
         <translation>Շրջանակը</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished">Վերև ձախ</translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished">Վերև աջ</translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Կենտրոն ձախ</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Կենտրոն աջ</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Ներքև ձախ</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Ներքև կենտրոնից</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Ներքև աջ</translation>
     </message>
 </context>
 <context>
@@ -5937,10 +5936,6 @@ Please make sure that files are not read-only!</source>
         <translation>Պատկերներ</translation>
     </message>
     <message>
-        <source>This is not a picture file</source>
-        <translation>Այս ֆայլը նկար չէ</translation>
-    </message>
-    <message>
         <source>Zoom 100%</source>
         <translation>Դիտափոխում 100%</translation>
     </message>
@@ -6011,6 +6006,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Black&amp;White</source>
         <translation>Սև-սպիտակ</translation>
+    </message>
+    <message>
+        <source>This is not an image file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7690,10 +7689,6 @@ Please make sure that files are not read-only!</source>
         <translation>Ներմուծել բոլոր էջերը/պատկերները մի քանի պատկերներից</translation>
     </message>
     <message>
-        <source>Pictures collection</source>
-        <translation>Նկարների ժողովածուներ</translation>
-    </message>
-    <message>
         <source>102x152mm (4x6&quot;) [3]</source>
         <translation>102x152մմ (4x6&quot;) [3]</translation>
     </message>
@@ -7742,10 +7737,6 @@ Please make sure that files are not read-only!</source>
         <translation>Y դիրքը</translation>
     </message>
     <message>
-        <source>Automatically rotate the picture if needed</source>
-        <translation>Անհրաժեշտության դեպքում պտտել նկարը</translation>
-    </message>
-    <message>
         <source>Center-Left</source>
         <translation>Կենտրոն ձախ</translation>
     </message>
@@ -7788,6 +7779,14 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Print as grayscale</source>
         <translation>Տպել որպես գորշասանդղակ</translation>
+    </message>
+    <message>
+        <source>Collection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically rotate (if needed)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9084,10 +9083,6 @@ Do you want to check for affected entries first?</source>
         <translation>Միշտ բացառել CD/DVD սարքավարները</translation>
     </message>
     <message>
-        <source>Base path of your pictures</source>
-        <translation>Նկարների հիմնական ուղին</translation>
-    </message>
-    <message>
         <source>Delete</source>
         <translation>Ջնջել</translation>
     </message>
@@ -9177,6 +9172,10 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Import XnView Classic category db...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Base path of files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10122,10 +10121,6 @@ Do you want to reassign?</source>
         <translation>Մկնիկի ձախ կոճակ</translation>
     </message>
     <message>
-        <source>Move picture</source>
-        <translation>Տեղափոխել նկարը</translation>
-    </message>
-    <message>
         <source>Make selection</source>
         <translation>Ընտրում</translation>
     </message>
@@ -10287,6 +10282,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Closing last tab exits application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10760,10 +10759,6 @@ Do you want to reassign?</source>
         <translation>Անամորֆոտային (2)</translation>
     </message>
     <message>
-        <source>Border line around picture</source>
-        <translation>Եզրագիծ՝ նկարի շուրջ</translation>
-    </message>
-    <message>
         <source>D1/DV PAL (1.07)</source>
         <translation>D1/DV PAL (1.07)</translation>
     </message>
@@ -11023,6 +11018,10 @@ Do you want to reassign?</source>
         <source>Draw multi-resolution icons as Snapshots</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Border line around canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSimilar</name>
@@ -11049,10 +11048,6 @@ Do you want to reassign?</source>
     <message>
         <source>Remove</source>
         <translation>Ջնջել</translation>
-    </message>
-    <message>
-        <source>Similar picture content (slow)</source>
-        <translation>Նմանատիպ բովանդակություն (դանդաղ)</translation>
     </message>
     <message>
         <source>Search similar files</source>
@@ -11093,6 +11088,10 @@ Do you want to reassign?</source>
     <message>
         <source>Between folders only</source>
         <translation>ՄԻայն պանակների միջև</translation>
+    </message>
+    <message>
+        <source>Similar image content (slow)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12409,16 +12408,16 @@ Do you want to continue?</source>
         <translation>Միայն մեկ գիծ</translation>
     </message>
     <message>
-        <source>Compression for color picture</source>
-        <translation>Սեղմում գունավոր նկարի համար</translation>
-    </message>
-    <message>
         <source>Quality</source>
         <translation>Որակը</translation>
     </message>
     <message>
-        <source>Compression for black&amp;white picture</source>
-        <translation>Սեղմում սև-սպիտակ նկարի համար</translation>
+        <source>Compression for black&amp;white image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compression for color image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15313,10 +15312,6 @@ Do you want to continue?</source>
         <translation>Կորզել...</translation>
     </message>
     <message>
-        <source>Import clipboard</source>
-        <translation>Ներմուծել սեղմատախտակից</translation>
-    </message>
-    <message>
         <source>Empty tab...</source>
         <translation>Դատարկ ներդիր...</translation>
     </message>
@@ -15555,6 +15550,10 @@ Do you want to continue?</source>
     <message>
         <source>Open with</source>
         <translation type="unfinished">Բացել՝</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15828,10 +15827,6 @@ Do you want to continue?</source>
     <message>
         <source>Alpha</source>
         <translation>Ալֆա</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation>Մաքրել</translation>
     </message>
     <message>
         <source>Green</source>
@@ -16122,10 +16117,6 @@ Do you want to continue?</source>
         <translation>Ընտրված մասը՝ փոխել լայնությունը և բարձրությունը</translation>
     </message>
     <message>
-        <source>Set selection ratio</source>
-        <translation>Համամասնորեն</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Գործիքագոտի</translation>
     </message>
@@ -16140,10 +16131,6 @@ Do you want to continue?</source>
     <message>
         <source>Select all</source>
         <translation>Նշել բոլորը</translation>
-    </message>
-    <message>
-        <source>Set selection size</source>
-        <translation>Կայել ընտրումի չափ</translation>
     </message>
     <message>
         <source>Status bar</source>
@@ -16340,10 +16327,6 @@ Do you want to continue?</source>
     <message>
         <source>Capture...</source>
         <translation>Կորզել...</translation>
-    </message>
-    <message>
-        <source>Import clipboard</source>
-        <translation>Ներմուծել սեղմատախտակից</translation>
     </message>
     <message>
         <source>Empty tab...</source>
@@ -16589,6 +16572,22 @@ Do you want to continue?</source>
         <source>Send by email...</source>
         <translation type="unfinished">Ուղարկել էլ. փոստով...</translation>
     </message>
+    <message>
+        <source>Clear selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection - set ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection - set size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -16737,8 +16736,8 @@ Do you want to continue?</source>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <source>Loading picture... </source>
-        <translation>Նկարի բեռնում…</translation>
+        <source>Loading image... </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

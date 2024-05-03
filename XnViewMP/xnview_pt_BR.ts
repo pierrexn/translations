@@ -261,10 +261,6 @@
         <translation>Contagem de cores</translation>
     </message>
     <message>
-        <source>Saving picture...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation type="unfinished">Erro</translation>
     </message>
@@ -316,17 +312,20 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you want to save changes to
-&quot;%1&quot;?
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number of unique colors: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to save changes to
+&quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving image...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2136,10 +2135,6 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>not a picture</source>
-        <translation type="unfinished">Não é uma figura</translation>
-    </message>
-    <message>
         <source>open error</source>
         <translation type="unfinished">Erro de abertura</translation>
     </message>
@@ -2254,6 +2249,10 @@ Drag and Drop over the desired node to assign.</source>
 %1
 
 Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not an image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2765,10 +2764,6 @@ Do you want to overwrite it?</source>
         <translation>Salvar script</translation>
     </message>
     <message>
-        <source>not a picture</source>
-        <translation>Não é uma figura</translation>
-    </message>
-    <message>
         <source>open error</source>
         <translation>Erro de abertura</translation>
     </message>
@@ -3067,6 +3062,10 @@ Do you want to continue?</source>
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>not an image</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgConvert3DBorderClass</name>
@@ -3279,44 +3278,44 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Direção</translation>
     </message>
     <message>
-        <source>Top left</source>
-        <translation type="unfinished">Margem superior esquerda</translation>
-    </message>
-    <message>
-        <source>Top center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation type="unfinished">Margem superior direita</translation>
-    </message>
-    <message>
-        <source>Center left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation type="unfinished">Borda inferior esquerda</translation>
-    </message>
-    <message>
-        <source>Bottom center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation type="unfinished">Borda inferior direita</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Center</source>
         <translation type="unfinished">Centro</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Centro da borda superior</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro da borda esquerda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro da borda direita</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Centro da borda inferior</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3983,11 +3982,11 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace alpha for 32bits pictures</source>
+        <source>Grayscale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Grayscale</source>
+        <source>Replace alpha for 32bits images</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4566,40 +4565,8 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Posição</translation>
     </message>
     <message>
-        <source>Top left</source>
-        <translation type="unfinished">Margem superior esquerda</translation>
-    </message>
-    <message>
-        <source>Top</source>
-        <translation type="unfinished">Superior</translation>
-    </message>
-    <message>
-        <source>Top right</source>
-        <translation type="unfinished">Margem superior direita</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation type="unfinished">Esquerda</translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation type="unfinished">Centro</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation type="unfinished">Direita</translation>
-    </message>
-    <message>
-        <source>Bottom left</source>
-        <translation type="unfinished">Borda inferior esquerda</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom right</source>
-        <translation type="unfinished">Borda inferior direita</translation>
     </message>
     <message>
         <source>X margin</source>
@@ -4616,6 +4583,38 @@ Do you want to overwrite it?</source>
     <message>
         <source>Border</source>
         <translation type="unfinished">Borda</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished">Centro da borda superior</translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro da borda esquerda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro da borda direita</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Centro da borda inferior</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5934,10 +5933,6 @@ Please make sure that files are not read-only!</source>
         <translation>Problema</translation>
     </message>
     <message>
-        <source>This is not a picture file</source>
-        <translation>Este não é um arquivo de imagem</translation>
-    </message>
-    <message>
         <source>Black&amp;White</source>
         <translation>Preto&amp;branco</translation>
     </message>
@@ -6004,6 +5999,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Save File</source>
         <translation>Salvar arquivo</translation>
+    </message>
+    <message>
+        <source>This is not an image file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7514,10 +7513,6 @@ Please make sure that files are not read-only!</source>
         <translation>Miniaturas</translation>
     </message>
     <message>
-        <source>Pictures collection</source>
-        <translation>Coleção de imagens</translation>
-    </message>
-    <message>
         <source>Presets</source>
         <translation>Definições prévias</translation>
     </message>
@@ -7608,10 +7603,6 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Print count</source>
         <translation>Contagem de impressão</translation>
-    </message>
-    <message>
-        <source>Automatically rotate the picture if needed</source>
-        <translation>Girare a imagem automaticamente, se necessário</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -7780,6 +7771,14 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Print as grayscale</source>
         <translation>Imprimir em tons de cinza</translation>
+    </message>
+    <message>
+        <source>Collection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically rotate (if needed)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9041,10 +9040,6 @@ Do you want to check for affected entries first?</source>
         <translation>Compressão :</translation>
     </message>
     <message>
-        <source>Base path of your pictures</source>
-        <translation>Caminho base para suas imagens</translation>
-    </message>
-    <message>
         <source>Files</source>
         <translation>Arquivos</translation>
     </message>
@@ -9154,6 +9149,10 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Import XnView Classic category db...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Base path of files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10095,10 +10094,6 @@ Do you want to reassign?</source>
         <translation>Botão esquerdo</translation>
     </message>
     <message>
-        <source>Move picture</source>
-        <translation>Mover imagem</translation>
-    </message>
-    <message>
         <source>Make selection</source>
         <translation>Fazer seleção</translation>
     </message>
@@ -10260,6 +10255,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Closing last tab exits application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10649,10 +10648,6 @@ Do you want to reassign?</source>
         <translation>Quadrado</translation>
     </message>
     <message>
-        <source>Border line around picture</source>
-        <translation>Linha de borda em torno da figura</translation>
-    </message>
-    <message>
         <source>D1/DV NTSC (0.9)</source>
         <translation>D1/DV NTSC (0.9)</translation>
     </message>
@@ -10996,6 +10991,10 @@ Do you want to reassign?</source>
         <source>Draw multi-resolution icons as Snapshots</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Border line around canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSimilar</name>
@@ -11036,10 +11035,6 @@ Do you want to reassign?</source>
         <translation>Mesmo arquivo de dados</translation>
     </message>
     <message>
-        <source>Similar picture content (slow)</source>
-        <translation>Conteúdo similar de imagem (lento)</translation>
-    </message>
-    <message>
         <source>Similarity</source>
         <translation>Semelhança</translation>
     </message>
@@ -11065,6 +11060,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Between folders only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Similar image content (slow)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12378,20 +12377,20 @@ Do you want to continue?</source>
 <context>
     <name>DlgWriteTIFFClass</name>
     <message>
-        <source>Compression for black&amp;white picture</source>
-        <translation>Compressão para imagem em preto&amp;branco</translation>
-    </message>
-    <message>
-        <source>Compression for color picture</source>
-        <translation>Compressão para imagem colorida</translation>
-    </message>
-    <message>
         <source>Only one strip</source>
         <translation>Apenas um &quot;strip&quot;</translation>
     </message>
     <message>
         <source>Quality</source>
         <translation>Qualidade</translation>
+    </message>
+    <message>
+        <source>Compression for black&amp;white image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compression for color image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15287,10 +15286,6 @@ Do you want to continue?</source>
         <translation type="unfinished">Capturar...</translation>
     </message>
     <message>
-        <source>Import clipboard</source>
-        <translation type="unfinished">Importar área de transferência</translation>
-    </message>
-    <message>
         <source>Empty tab...</source>
         <translation type="unfinished">Aba vazia...</translation>
     </message>
@@ -15529,6 +15524,10 @@ Do you want to continue?</source>
     <message>
         <source>Open with</source>
         <translation type="unfinished">Abrir com</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15788,10 +15787,6 @@ Do you want to continue?</source>
         <translation>Colar</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation>Limpar</translation>
-    </message>
-    <message>
         <source>Background color...</source>
         <translation>Cor de fundo...</translation>
     </message>
@@ -15806,14 +15801,6 @@ Do you want to continue?</source>
     <message>
         <source>Selection - swap width &amp;&amp; height</source>
         <translation>Seleção - Trocar largura &amp;&amp; altura</translation>
-    </message>
-    <message>
-        <source>Set selection ratio</source>
-        <translation>Ajustar taxa selecionada</translation>
-    </message>
-    <message>
-        <source>Set selection size</source>
-        <translation>Ajustar tamanho selecionado</translation>
     </message>
     <message>
         <source>Copy to...</source>
@@ -16316,10 +16303,6 @@ Do you want to continue?</source>
         <translation type="unfinished">Capturar...</translation>
     </message>
     <message>
-        <source>Import clipboard</source>
-        <translation type="unfinished">Importar área de transferência</translation>
-    </message>
-    <message>
         <source>Empty tab...</source>
         <translation type="unfinished">Aba vazia...</translation>
     </message>
@@ -16563,6 +16546,22 @@ Do you want to continue?</source>
         <source>Send by email...</source>
         <translation type="unfinished">Enviar por email...</translation>
     </message>
+    <message>
+        <source>Clear selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection - set ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection - set size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -16712,7 +16711,7 @@ Do you want to continue?</source>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <source>Loading picture... </source>
+        <source>Loading image... </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
