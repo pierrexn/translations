@@ -281,8 +281,8 @@
         <oldsource>Do you want to save changes to
  &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Wilt u de wijzigingen opslaan naar
- &quot;%1&quot;?
+        <translation>Wilt u de wijzigingen opslaan naar
+&quot;%1&quot;?
 </translation>
     </message>
     <message>
@@ -309,7 +309,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding wordt geconverteerd naar 24-bits RGB (8-bits per kanaal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -423,7 +423,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantal unieke kleuren: %1</translation>
     </message>
 </context>
 <context>
@@ -1812,7 +1812,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">WAARSCHUWING: De afbeelding wordt geconverteerd naar RGB met 8bits per component</translation>
+        <translation>WAARSCHUWING: Afbeelding wordt geconverteerd naar 24-bits RGB (8 bits per kanaal)</translation>
     </message>
 </context>
 <context>
@@ -2145,7 +2145,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&amp;quot; &lt;span style=&quot; font-style:italic;&quot;&gt;Note: &amp;quot;S&amp;quot; is supposed to be in square bracket&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Alle bannerspecificaties (lettertype, kleur, grootte, enz.) worden overgenomen van de eerder gemaakte banner. Een uitzondering is de tekstgrootte, die wordt berekend op basis van de hoogte van de banner.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the U kunt meerdere afbeeldingen selecteren om dezelfde banner op meerdere afbeeldingen tegelijk toe te passen. Merk op dat de tekst dan in alle afbeeldingen even groot zal zijn./p&gt;&lt;p&gt;Sneltoetsen:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Lettergrootte vergroten/verkleinen met 2 punten&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Bannergrootte met 1% vergroten/verkleinen&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Banner aanmaken &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="48"/>
@@ -2852,7 +2852,9 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Een bestand met de naam %1 bestaat al.
+        <translation>Bestemming heeft al een bestand met de naam: 
+%1
+
 Overschrijven?</translation>
     </message>
     <message>
@@ -3867,7 +3869,9 @@ Overschrijven?</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">De bestemming bevat al een bestand met naam: %1.
+        <translation>De bestemming heeft al een bestand met naam: 
+%1.
+
 Overschrijven?</translation>
     </message>
     <message>
@@ -3925,7 +3929,7 @@ Wil je doorgaan?</translation>
 Do you want to continue?</source>
         <translation>Je hebt de optie &apos;origineel bestand behouden als het resultaat groter is&apos; en enkele acties.
 
-Wil je doorgaan?</translation>
+Wilt u doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -4759,7 +4763,7 @@ Wil je doorgaan?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1618"/>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
-        <translation>Opmerking: Start met beheerdersrechten om deze instelling te kunnen wijzigen</translation>
+        <translation>Opmerking: Start opnieuw met beheerdersrechten om deze instelling te kunnen wijzigen</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1654"/>
@@ -5634,17 +5638,17 @@ Wil je doorgaan?</translation>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Helderheid</translation>
+        <translation>Helderheid</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+Helderheid</translation>
+        <translation>RGB+Helderheid</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -6925,7 +6929,7 @@ Wil je doorgaan?</translation>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Helderheid</translation>
+        <translation>Helderheid</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7859,7 +7863,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Palet bewerken…</translation>
+        <translation>Palet bewerken…</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -8486,7 +8490,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
         <source>You can paste values as Xx, Yy</source>
-        <translation>Je kunt waarden als Xx, Yy invoegen</translation>
+        <translation>Voeg waarden in als Xx, Yy</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="123"/>
@@ -10944,7 +10948,7 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
-        <translation type="unfinished">Expressies</translation>
+        <translation>Reguliere expressie gebruiken</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -12789,7 +12793,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">XnView afsluiten met het sluiten van het laatste tabblad</translation>
+        <translation>Toepassing afsluiten met het sluiten van het laatste tabblad</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
@@ -13320,7 +13324,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">Categorieën-database exporteren naar XMP-onderwerp en IPTC-sleutelwoord</translation>
+        <translation>Categorieën van de catalogus exporteren naar XMP:Subject en IPTC:Keywords</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13336,7 +13340,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished">XMP-sidecar aanmaken of bijwerken</translation>
+        <translation>XMP-sidecar aanmaken of bijwerken</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -15620,7 +15624,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Sub-sampling</translation>
+        <translation>Sub-sampling</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15850,7 +15854,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Sub-sampling</translation>
+        <translation>Sub-sampling</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -17433,7 +17437,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Belichtingstijd [s]</translation>
+        <translation>Belichtingstijd [s]</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17459,7 +17463,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Brandpuntsafstand [mm]</translation>
+        <translation>Brandpuntsafstand [mm]</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -18536,9 +18540,9 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">De afbeelding wordt omgezet in 8-bits per component.
+        <translation>Afbeelding wordt geconverteerd naar 24-bits RGB (8-bits per kanaal).
 
-Wil je doorgaan?</translation>
+Doorgaan?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
@@ -22019,7 +22023,7 @@ You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
         <translation>De grootte van opgeslagen miniaturen is kleiner dan gekozen.
-Je kunt dit wijzigen in Instellingen › Catalogus.</translation>
+U kunt dit wijzigen in Instellingen › Catalogus.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
@@ -23826,7 +23830,7 @@ Rechtermuisklik opent het actiemenu.</translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
