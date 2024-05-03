@@ -10813,7 +10813,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="384"/>
         <source>Nearest Neighbour</source>
-        <translation type="unfinished">Nearest Neighbour</translation>
+        <translation>Nearest Neighbour</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="389"/>
