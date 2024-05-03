@@ -7844,7 +7844,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="245"/>
         <source>Dithering</source>
-        <translation>Сглаживание</translation>
+        <translation>Дизеринг</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="327"/>
