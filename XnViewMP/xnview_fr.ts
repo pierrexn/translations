@@ -359,9 +359,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Voulez-vous enregistrer les changements dans
-&apos;%1&apos;?
-</translation>
+        <translation>Voulez-vous enregistrer les changements dans
+&apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
@@ -400,7 +399,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Enregistrement de l&apos;image...</translation>
+        <translation>Enregistrement de l&apos;image...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -3809,7 +3808,7 @@ Voulez-vous continuer?</translation>
         <location filename="DlgConvert.cpp" line="2489"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">pas une image</translation>
+        <translation>pas une image</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -4209,25 +4208,25 @@ Voulez-vous continuer ?</translation>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Haut gauche</translation>
+        <translation>Haut-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Haut centre</translation>
+        <translation>Haut-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Haut droite</translation>
+        <translation>Haut-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Centre gauche</translation>
+        <translation>Centre-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4238,25 +4237,25 @@ Voulez-vous continuer ?</translation>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Centre droite</translation>
+        <translation>Centre-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bas gauche</translation>
+        <translation>Bas-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Bas centre</translation>
+        <translation>Bas-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Bas droite</translation>
+        <translation>Bas-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -5193,7 +5192,7 @@ Voulez-vous continuer ?</translation>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Remplacer l&apos;alpha pour les images 32bits</translation>
+        <translation>Remplacer l&apos;alpha pour les images 32bits</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5914,13 +5913,13 @@ Voulez-vous continuer ?</translation>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Haut gauche</translation>
+        <translation>Haut-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Haut droite</translation>
+        <translation>Haut-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5930,35 +5929,35 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Haut-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Centre-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centre-Droit</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bas gauche</translation>
+        <translation>Bas-Gauche</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Bas</translation>
+        <translation>Bas-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Bas droite</translation>
+        <translation>Bas-Droite</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -7663,7 +7662,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">Ce n&apos;est pas un fichier image</translation>
+        <translation>Ce n&apos;est pas un fichier image</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -9671,7 +9670,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Collection d&apos;images</translation>
+        <translation>Collection</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9792,7 +9791,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Appliquer la rotation si nécessaire</translation>
+        <translation>Appliquer la rotation (si nécessaire)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -11638,7 +11637,7 @@ Voulez-vous supprimer les entrées attribuées à une catégorie?</translation>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">Répertoire de base pour les images</translation>
+        <translation>Répertoire de base pour les fichiers</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="176"/>
@@ -13120,7 +13119,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
-        <translation type="unfinished">Déplacer l&apos;image</translation>
+        <translation>Déplacer l&apos;image</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -13875,7 +13874,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">Ligne autour de l&apos;image</translation>
+        <translation>Ligne autour de l&apos;image</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="369"/>
@@ -14304,7 +14303,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">Contenu image similaire (lent)</translation>
+        <translation>Contenu image similaire (lent)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -16010,13 +16009,13 @@ Voulez-vous continuer?</translation>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">Compression pour les images Noir&amp;Blanc</translation>
+        <translation>Compression pour les images Noir&amp;Blanc</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">Compression pour les images couleurs</translation>
+        <translation>Compression pour les images couleurs</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
