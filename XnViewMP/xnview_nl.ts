@@ -280,9 +280,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Wilt u de wijzigingen opslaan naar
-&quot;%1&quot;?
-</translation>
+        <translation>Wilt u de wijzigingen opslaan naar
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1353"/>
@@ -331,7 +330,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Afbeelding opslaan…</translation>
+        <translation>Afbeelding opslaan…</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -2796,7 +2795,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">geen afbeelding</translation>
+        <translation>geen afbeelding</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -3804,7 +3803,7 @@ Overschrijven?</translation>
         <location filename="DlgConvert.cpp" line="2489"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">geen afbeelding</translation>
+        <translation>geen afbeelding</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -4213,25 +4212,25 @@ Wilt u doorgaan?</translation>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Linksboven</translation>
+        <translation>Linksboven</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Boven-Midden</translation>
+        <translation>Boven-Midden</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Rechtsboven</translation>
+        <translation>Rechtsboven</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Midden-Links</translation>
+        <translation>Midden-Links</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4242,25 +4241,25 @@ Wilt u doorgaan?</translation>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Midden-Rechts</translation>
+        <translation>Midden-Rechts</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Linksonder</translation>
+        <translation>Linksonder</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Onder-Midden</translation>
+        <translation>Onder-Midden</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Rechtsonder</translation>
+        <translation>Rechtsonder</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -5195,7 +5194,7 @@ Wilt u doorgaan?</translation>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Alfa vervangen voor 32bits afbeeldingen</translation>
+        <translation>Alfa vervangen voor 32bits afbeeldingen</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5916,13 +5915,13 @@ Wilt u doorgaan?</translation>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Linksboven</translation>
+        <translation>Linksboven</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Rechtsboven</translation>
+        <translation>Rechtsboven</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5932,35 +5931,35 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Boven-Midden</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Midden-Links</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Midden-Rechts</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Linksonder</translation>
+        <translation>Linksonder</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Onder</translation>
+        <translation>Onder-Midden</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Rechtsonder</translation>
+        <translation>Rechtsonder</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -7665,7 +7664,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">Dit is geen afbeeldingsbestand</translation>
+        <translation>Dit is geen afbeeldingsbestand</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -9675,7 +9674,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Verzameling afbeeldingen</translation>
+        <translation>Verzameling</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9796,7 +9795,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Automatisch draaien (indien nodig)</translation>
+        <translation>Automatisch draaien (indien nodig)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -11639,7 +11638,7 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">Basis-pad van uw afbeeldingen</translation>
+        <translation>Basis-pad van bestanden</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
@@ -13120,7 +13119,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
-        <translation type="unfinished">Afbeelding verplaatsen</translation>
+        <translation>Afbeelding verplaatsen</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -13778,7 +13777,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">Lijnrand rondom de afbeelding</translation>
+        <translation>Lijnrand rondom afbeelding</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="224"/>
@@ -14308,7 +14307,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">Overeenkomstige inhoud (traag)</translation>
+        <translation>Vergelijkbare beeldinhoud (traag)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -16010,13 +16009,13 @@ Doorgaan?</translation>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">Compressie voor Zwart&amp;Wit afbeeldingen</translation>
+        <translation>Compressie voor zwart/wit-afbeelding</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">Compressie voor kleurenafbeeldingen</translation>
+        <translation>Compressie voor kleurenafbeelding</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -19331,7 +19330,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="676"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken als afbeelding</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="680"/>
@@ -20885,13 +20884,13 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="312"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Bepaal selectieverhouding</translation>
+        <translation>Selectie - verhouding instellen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Bepaal selectiegrootte</translation>
+        <translation>Selectie - grootte instellen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -20941,7 +20940,7 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie wissen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
@@ -21282,7 +21281,7 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken als afbeelding</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -21836,7 +21835,7 @@ Doorgaan?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image... </source>
         <oldsource>Loading picture... </oldsource>
-        <translation type="unfinished">Afbeelding laden… </translation>
+        <translation>Afbeelding laden… </translation>
     </message>
 </context>
 <context>
