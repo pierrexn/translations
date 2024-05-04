@@ -359,9 +359,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Ali želite shraniti spremembe v
- &quot;%1&quot;?
-</translation>
+        <translation>Ali želite shraniti spremembe v
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
@@ -401,7 +400,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Shranjevanje slike...</translation>
+        <translation>Shranjevanje slike...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -2812,7 +2811,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">ni slika</translation>
+        <translation>ni slika</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -3843,7 +3842,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="2489"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">ni slika</translation>
+        <translation>ni slika</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -4243,25 +4242,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Zgoraj levo</translation>
+        <translation>Zgoraj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Zgoraj sredina</translation>
+        <translation>Zgoraj-sredina</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Zgoraj desno</translation>
+        <translation>Zgoraj-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Sredina levo</translation>
+        <translation>Sredina-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4272,25 +4271,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Sredina desno</translation>
+        <translation>Sredina-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Spodaj levo</translation>
+        <translation>Spodaj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Spodaj center</translation>
+        <translation>Spodaj-sredina</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Spodaj desno</translation>
+        <translation>Spodaj-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -5228,7 +5227,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Zamenjaj alfa za 32-bitne slike</translation>
+        <translation>Zamenjaj alfa za 32-bitne slike</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5949,13 +5948,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Zgoraj levo</translation>
+        <translation>Zgoraj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Zgoraj desno</translation>
+        <translation>Zgoraj-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5965,35 +5964,35 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj-sredina</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sredina-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Sredina-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Spodaj levo</translation>
+        <translation>Spodaj-levo</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Spodaj</translation>
+        <translation>Spodaj-sredina</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Spodaj desno</translation>
+        <translation>Spodaj-desno</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -7697,7 +7696,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">To ni slikovna datoteka</translation>
+        <translation>To ni slikovna datoteka</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -9708,7 +9707,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Zbirka slik</translation>
+        <translation>Zbirka</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9829,7 +9828,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Po potrebi samodejno rotiraj sliko</translation>
+        <translation>Samodejno zasukaj (če je potrebno)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -11673,7 +11672,7 @@ Ali želite najprej preveriti prizadete vnose?</translation>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">Osnovna pot do slik</translation>
+        <translation>Osnovna pot datotek</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="176"/>
@@ -13155,7 +13154,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
-        <translation type="unfinished">Premakni sliko</translation>
+        <translation>Premakni sliko</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -13911,7 +13910,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">Mejna črta okoli slike</translation>
+        <translation>Obrobna črta okoli slike</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="369"/>
@@ -14339,7 +14338,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">Podobna vsebina slike (počasno)</translation>
+        <translation>Podobna vsebina slike (počasno)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -16040,13 +16039,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">Stiskanje za črno&amp;belo sliko</translation>
+        <translation>Stiskanje za črno&amp;belo sliko</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">Stiskanje za barvno sliko</translation>
+        <translation>Stiskanje za barvno sliko</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -19269,7 +19268,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="676"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi kot sliko</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="680"/>
@@ -20787,13 +20786,13 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="312"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Razmerje izbora</translation>
+        <translation>Izbira - nastavljeno razmerje</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Velikost izbora</translation>
+        <translation>Izbira - nastavi velikost</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -21008,7 +21007,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti izbiro</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="293"/>
@@ -21172,7 +21171,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi kot sliko</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="690"/>
@@ -21882,7 +21881,7 @@ Do you want to continue?</oldsource>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image... </source>
         <oldsource>Loading picture... </oldsource>
-        <translation type="unfinished">Nalaganje slike... </translation>
+        <translation>Nalaganje slike... </translation>
     </message>
 </context>
 <context>
