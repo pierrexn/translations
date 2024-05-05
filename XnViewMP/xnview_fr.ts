@@ -2789,7 +2789,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">pas une image</translation>
+        <translation>pas une image</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -2845,8 +2845,9 @@ Drag and Drop over the desired node to assign.</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Un fichier nommé %1 existe déjà. 
-Voulez-vous l&apos;écraser ?</translation>
+        <translation>Un fichier nommé %1 existe déjà. 
+
+Voulez-vous l&apos;écraser?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -10153,17 +10154,17 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgReadFITS.ui" line="35"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linéaire</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="40"/>
         <source>Logarithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Logarithme</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="45"/>
         <source>Squared root</source>
-        <translation type="unfinished"></translation>
+        <translation>Racine carré</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="50"/>
@@ -12791,7 +12792,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">Plusieurs vues pour le même fichier</translation>
+        <translation>Plusieurs vues pour le même fichier</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12808,13 +12809,13 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation type="unfinished">Synchroniser l&apos;explorateur lorsque la vue est fermée</translation>
+        <translation>Sélection du fichier dans l&apos;Explorateur lorsque la vue est fermée</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">Copier&amp;&amp;Coller: Une vue pas liste fichiers</translation>
+        <translation>Copier&amp;&amp;Coller: Une seul vue pour une liste de fichiers</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13154,7 +13155,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished">Cacher les onglets quand un seul est ouvert</translation>
+        <translation>Cacher les onglets quand un seul est ouvert</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13484,7 +13485,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">Libellés</translation>
+        <translation>Libellés de couleur</translation>
     </message>
 </context>
 <context>
@@ -20710,13 +20711,13 @@ Voulez-vous continuer ?</translation>
         <location filename="ViewMenu.h" line="312"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Ratio de la sélection</translation>
+        <translation>Sélection - ratio</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Taille de la sélection</translation>
+        <translation>Sélection - taille</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -20962,43 +20963,43 @@ Voulez-vous continuer ?</translation>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Excellent (aller à la photo suivante)</translation>
+        <translation>Excellent (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Bon (aller à la photo suivante)</translation>
+        <translation>Bon (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Correct (aller à la photo suivante)</translation>
+        <translation>Correct (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Raisonnable (aller à la photo suivante)</translation>
+        <translation>Raisonnable (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Médiocre (aller à la photo suivante)</translation>
+        <translation>Médiocre (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Pas de note (aller à la photo suivante)</translation>
+        <translation>Pas de note (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##label## (aller à la photo suivante)</translation>
+        <translation>##label## (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
@@ -21812,7 +21813,7 @@ Voulez-vous continuer ?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image... </source>
         <oldsource>Loading picture... </oldsource>
-        <translation type="unfinished">Chargement de l&apos;image...</translation>
+        <translation>Chargement de l&apos;image... </translation>
     </message>
 </context>
 <context>
@@ -23576,7 +23577,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
