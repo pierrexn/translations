@@ -2136,10 +2136,6 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Աղբյուր. %1 %2 - Արտածել մոտավոր).%3 %4</translation>
     </message>
     <message>
-        <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
-    </message>
-    <message>
         <source>open error</source>
         <translation>բացելու սխալ</translation>
     </message>
@@ -10033,10 +10029,6 @@ Do you want to reassign?</source>
         <translation>փիքսել</translation>
     </message>
     <message>
-        <source>Synchronize browser when view is closed</source>
-        <translation>Նույնականացնել զննիչը, երբ դիտումը հասանելի չէ</translation>
-    </message>
-    <message>
         <source>Max width:</source>
         <translation>Առվ. լայնքը.</translation>
     </message>
@@ -10059,10 +10051,6 @@ Do you want to reassign?</source>
     <message>
         <source>Save...</source>
         <translation>Պահել...</translation>
-    </message>
-    <message>
-        <source>Multiple view for same file</source>
-        <translation>Մի ֆայլի մի քանի անգամյա բացում</translation>
     </message>
     <message>
         <source>Default</source>
@@ -10173,10 +10161,6 @@ Do you want to reassign?</source>
         <translation>Զտիչ</translation>
     </message>
     <message>
-        <source>Drag&amp;&amp;Drop: Open one view for filelist</source>
-        <translation>Վերցնել և գցել. բացել մեկ դիտում ֆայլի ցանկի համար</translation>
-    </message>
-    <message>
         <source>Browser</source>
         <translation>Զննիչ</translation>
     </message>
@@ -10195,10 +10179,6 @@ Do you want to reassign?</source>
     <message>
         <source>Browser - Preview</source>
         <translation>Զննիչ - Նախադիտում</translation>
-    </message>
-    <message>
-        <source>Hide Tab when only one is opened</source>
-        <translation>Թաքցնել ներդիրը, երբ միայն մեկն է բացված</translation>
     </message>
     <message>
         <source>Middle click</source>
@@ -10288,6 +10268,22 @@ Do you want to reassign?</source>
         <source>Move image</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Allow multiple Viewer tabs for same file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select file in Browser when Viewer tab is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Tab header when only one is opened</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10321,10 +10317,6 @@ Do you want to reassign?</source>
     <message>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>Գրել մեկնաբանություն XMP-ում (dc:նկարագրություն և exif:Օգտվողի մեկնաբանություն)</translation>
-    </message>
-    <message>
-        <source>Labels</source>
-        <translation>Պիտակներ</translation>
     </message>
     <message>
         <source>Create XMP data</source>
@@ -10428,6 +10420,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color labels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10687,10 +10683,6 @@ Do you want to reassign?</source>
         <translation>Անջատել GIF/JIF/APNG/ANI շարժապատկերումը</translation>
     </message>
     <message>
-        <source>D4/D16 Standard (0.95)</source>
-        <translation>D4/D16 Ստանդարտ (0.95)</translation>
-    </message>
-    <message>
         <source>Relative step</source>
         <translation>Հարաբերական քայլ</translation>
     </message>
@@ -10707,10 +10699,6 @@ Do you want to reassign?</source>
         <translation>Պատահական</translation>
     </message>
     <message>
-        <source>Square</source>
-        <translation>Քառակուսի</translation>
-    </message>
-    <message>
         <source>Zoom step</source>
         <translation>Դիտափոխել</translation>
     </message>
@@ -10725,10 +10713,6 @@ Do you want to reassign?</source>
     <message>
         <source>Position</source>
         <translation>Դիրքը</translation>
-    </message>
-    <message>
-        <source>D1/DV PAL WideScreen (1.42)</source>
-        <translation>D1/DV PAL Լայն էկրան (1.42)</translation>
     </message>
     <message>
         <source>Background color</source>
@@ -10755,14 +10739,6 @@ Do you want to reassign?</source>
         <translation>Պահպանել ընթացիկ պատկերը</translation>
     </message>
     <message>
-        <source>Anamorphic (2)</source>
-        <translation>Անամորֆոտային (2)</translation>
-    </message>
-    <message>
-        <source>D1/DV PAL (1.07)</source>
-        <translation>D1/DV PAL (1.07)</translation>
-    </message>
-    <message>
         <source>Fixed step</source>
         <translation>Ամրակայված քայլ</translation>
     </message>
@@ -10775,24 +10751,12 @@ Do you want to reassign?</source>
         <translation>Ներկառուցված դիտում</translation>
     </message>
     <message>
-        <source>D1/DV NTSC (0.9)</source>
-        <translation>D1/DV NTSC (0.9)</translation>
-    </message>
-    <message>
         <source>Forward</source>
         <translation>Հաջորդը</translation>
     </message>
     <message>
-        <source>D4/D16 Anamorphic (1.9)</source>
-        <translation>D4/D16 Անամորֆոտային (1.9)</translation>
-    </message>
-    <message>
         <source>Pixel ratio</source>
         <translation>Հարաբերակցությունը</translation>
-    </message>
-    <message>
-        <source>D1/DV NTSC WideScreen (1.2)</source>
-        <translation>D1/DV NTSC Լայն էկրան (1.2)</translation>
     </message>
     <message>
         <source>Loop on the file list</source>
@@ -11020,6 +10984,46 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Border line around canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.91  D1/DV NTSC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.95  D4/D16 Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.00  Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.09  D1/DV PAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.20  D1/DV NTSC Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.33 HDV 1080/DVCPRO HD 720</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.46  D1/DV PAL Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.50 DVCPRO HD 1080</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.90  D4/D16 Anamorphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.00  Anamorphic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16245,30 +16249,6 @@ Do you want to continue?</source>
         <translation>Պահել ընտրումը...</translation>
     </message>
     <message>
-        <source>Excellent (move to next photo)</source>
-        <translation>Գերազանց (անցնել հաջորդ նկարին)</translation>
-    </message>
-    <message>
-        <source>Good (move to next photo)</source>
-        <translation>Լավ (անցնել հաջորդ նկարին)</translation>
-    </message>
-    <message>
-        <source>Average (move to next photo)</source>
-        <translation>Միջին (անցնել հաջորդ նկարին)</translation>
-    </message>
-    <message>
-        <source>Fair (move to next photo)</source>
-        <translation>Բավարար (անցնել հաջորդ նկարին)</translation>
-    </message>
-    <message>
-        <source>Poor (move to next photo)</source>
-        <translation>Վատ (անցնել հաջորդ նկարին)</translation>
-    </message>
-    <message>
-        <source>Unrated (move to next photo)</source>
-        <translation>Առանց վարկանիշի (անցնել հաջորդ նկարին)</translation>
-    </message>
-    <message>
         <source>User filter...</source>
         <translation>Օգտատերի զտիչ...</translation>
     </message>
@@ -16423,10 +16403,6 @@ Do you want to continue?</source>
     <message>
         <source>Acquire (TWAIN)</source>
         <translation>Ձեռք բերել (TWAIN)</translation>
-    </message>
-    <message>
-        <source>##label## (move to next photo)</source>
-        <translation>##label## (տեղափոխել հաջորդ լուսանկար)</translation>
     </message>
     <message>
         <source>Open GPS location in</source>
@@ -16587,6 +16563,34 @@ Do you want to continue?</source>
     <message>
         <source>Paste as image</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (move to next image)</source>
+        <translation type="unfinished">Գերազանց (տեղափոխել հաջորդ պատկեր)</translation>
+    </message>
+    <message>
+        <source>Good (move to next image)</source>
+        <translation type="unfinished">Լավ (տեղափոխել հաջորդ պատկեր)</translation>
+    </message>
+    <message>
+        <source>Average (move to next image)</source>
+        <translation type="unfinished">Միջին (տեղափոխել հաջորդ պատկեր)</translation>
+    </message>
+    <message>
+        <source>Fair (move to next image)</source>
+        <translation type="unfinished">Բավարար (տեղափոխել հաջորդ պատկեր)</translation>
+    </message>
+    <message>
+        <source>Poor (move to next image)</source>
+        <translation type="unfinished">Վատ (տեղափոխել հաջորդ պատկեր)</translation>
+    </message>
+    <message>
+        <source>Unrated (move to next image)</source>
+        <translation type="unfinished">Չգտահատված (տեղափոխել հաջորդ պատկեր)</translation>
+    </message>
+    <message>
+        <source>##label## (move to next image)</source>
+        <translation type="unfinished">##label## (տեղափոխել հաջորդ պատկեր)</translation>
     </message>
 </context>
 <context>

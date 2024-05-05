@@ -1936,10 +1936,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Toiminto</translation>
     </message>
     <message>
-        <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation>Mukauta</translation>
     </message>
@@ -10091,10 +10087,6 @@ Do you want to reassign?</source>
         <translation>Kuvaselain - Pikkukuvat</translation>
     </message>
     <message>
-        <source>Synchronize browser when view is closed</source>
-        <translation>Synkronoi kuvaselain kun näkymä on suljettu</translation>
-    </message>
-    <message>
         <source>Max width:</source>
         <translation>Maksim. leveys:</translation>
     </message>
@@ -10123,14 +10115,6 @@ Do you want to reassign?</source>
         <translation>Kuvaselain</translation>
     </message>
     <message>
-        <source>Drag&amp;&amp;Drop: Open one view for filelist</source>
-        <translation>Raahaa ja pudota. Avaa näkymän tiedostolistaan</translation>
-    </message>
-    <message>
-        <source>Multiple view for same file</source>
-        <translation>Salli useita näkymiä samaan tiedostoon</translation>
-    </message>
-    <message>
         <source>Switching mode</source>
         <translation>Valintatila</translation>
     </message>
@@ -10153,10 +10137,6 @@ Do you want to reassign?</source>
     <message>
         <source>ToolBar</source>
         <translation>Työkalupalkki</translation>
-    </message>
-    <message>
-        <source>Hide Tab when only one is opened</source>
-        <translation>Piilota kun avoinna on ainoastaan kuvaselain</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -10290,6 +10270,22 @@ Do you want to reassign?</source>
         <source>Move image</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Allow multiple Viewer tabs for same file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select file in Browser when Viewer tab is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Tab header when only one is opened</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10339,10 +10335,6 @@ Do you want to reassign?</source>
     <message>
         <source>Encoding</source>
         <translation>Koodaus</translation>
-    </message>
-    <message>
-        <source>Labels</source>
-        <translation>Muuta värimerkintöjä</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
@@ -10430,6 +10422,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color labels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10726,10 +10722,6 @@ Do you want to reassign?</source>
         <translation>Älä käytä GIF/JIF/APNG/ANI-animaatioita</translation>
     </message>
     <message>
-        <source>D4/D16 Standard (0.95)</source>
-        <translation>D4/D16 Standardi (0.95)</translation>
-    </message>
-    <message>
         <source>File modified date</source>
         <translation>Tiedoston muokkauspäivä</translation>
     </message>
@@ -10778,10 +10770,6 @@ Do you want to reassign?</source>
         <translation>Satunnainen</translation>
     </message>
     <message>
-        <source>Square</source>
-        <translation>Neliö</translation>
-    </message>
-    <message>
         <source>Zoom step</source>
         <translation>Zoomausaskel</translation>
     </message>
@@ -10804,10 +10792,6 @@ Do you want to reassign?</source>
     <message>
         <source>Properties</source>
         <translation>Ominaisuudet</translation>
-    </message>
-    <message>
-        <source>D1/DV PAL WideScreen (1.42)</source>
-        <translation>D1/DV PAL Laajakuva (1.42)</translation>
     </message>
     <message>
         <source>Background color</source>
@@ -10850,20 +10834,12 @@ Do you want to reassign?</source>
         <translation>Säilytä nykyinen kuva</translation>
     </message>
     <message>
-        <source>Anamorphic (2)</source>
-        <translation>Anamorfinen (2)</translation>
-    </message>
-    <message>
         <source>EXIF date taken</source>
         <translation>EXIF kuvauspäivä</translation>
     </message>
     <message>
         <source>Title bar</source>
         <translation>Nimipalkki</translation>
-    </message>
-    <message>
-        <source>D1/DV PAL (1.07)</source>
-        <translation>D1/DV PAL (1.07)</translation>
     </message>
     <message>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
@@ -10894,16 +10870,8 @@ Do you want to reassign?</source>
         <translation>Upotettu esikatselu</translation>
     </message>
     <message>
-        <source>D1/DV NTSC (0.9)</source>
-        <translation>D1/DV NTSC (0.9)</translation>
-    </message>
-    <message>
         <source>Forward</source>
         <translation>Eteenpäin</translation>
-    </message>
-    <message>
-        <source>D4/D16 Anamorphic (1.9)</source>
-        <translation>D4/D16 Anamorfinen (1.9)</translation>
     </message>
     <message>
         <source>File created date</source>
@@ -10912,10 +10880,6 @@ Do you want to reassign?</source>
     <message>
         <source>Pixel ratio</source>
         <translation>Pikselisuhde</translation>
-    </message>
-    <message>
-        <source>D1/DV NTSC WideScreen (1.2)</source>
-        <translation>D1/DV NTSC Laajakuva (1.2)</translation>
     </message>
     <message>
         <source>Loop on the file list</source>
@@ -11023,6 +10987,46 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Border line around canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.91  D1/DV NTSC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.95  D4/D16 Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.00  Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.09  D1/DV PAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.20  D1/DV NTSC Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.33 HDV 1080/DVCPRO HD 720</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.46  D1/DV PAL Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.50 DVCPRO HD 1080</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.90  D4/D16 Anamorphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.00  Anamorphic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15881,10 +15885,6 @@ Do you want to continue?</source>
         <translation>Korkea zoomauslaatu</translation>
     </message>
     <message>
-        <source>Excellent (move to next photo)</source>
-        <translation>Erinomainen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
         <source>Automatic levels</source>
         <translation>Automaattitasot</translation>
     </message>
@@ -15959,10 +15959,6 @@ Do you want to continue?</source>
     <message>
         <source>Align...</source>
         <translation>Kohdista...</translation>
-    </message>
-    <message>
-        <source>Poor (move to next photo)</source>
-        <translation>Huono (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>A4, A3, ... (1.41)</source>
@@ -16125,10 +16121,6 @@ Do you want to continue?</source>
         <translation>Näytä sininen</translation>
     </message>
     <message>
-        <source>Fair (move to next photo)</source>
-        <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
         <source>Export...</source>
         <translation>Vie...</translation>
     </message>
@@ -16155,10 +16147,6 @@ Do you want to continue?</source>
     <message>
         <source>Real size</source>
         <translation>Todellinen koko</translation>
-    </message>
-    <message>
-        <source>Good (move to next photo)</source>
-        <translation>Hyvä (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Print selection...</source>
@@ -16301,20 +16289,12 @@ Do you want to continue?</source>
         <translation>Poista metatiedot...</translation>
     </message>
     <message>
-        <source>Unrated (move to next photo)</source>
-        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
         <source>Edit IPTC...</source>
         <translation>Muokkaa IPTC:tä...</translation>
     </message>
     <message>
         <source>Selection - swap width &amp;&amp; height</source>
         <translation>Käännä valinta pysty-/vaakasuuntaan</translation>
-    </message>
-    <message>
-        <source>Average (move to next photo)</source>
-        <translation>Keskinkertainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Toolbar</source>
@@ -16407,10 +16387,6 @@ Do you want to continue?</source>
     <message>
         <source>Offset...</source>
         <translation>Siirtymä...</translation>
-    </message>
-    <message>
-        <source>##label## (move to next photo)</source>
-        <translation>##ikkuna## (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Navigate to</source>
@@ -16591,6 +16567,34 @@ Do you want to continue?</source>
     <message>
         <source>Paste as image</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (move to next image)</source>
+        <translation type="unfinished">Erinomainen (siirry seuraavaan kuvaan)</translation>
+    </message>
+    <message>
+        <source>Good (move to next image)</source>
+        <translation type="unfinished">Hyvä (siirry seuraavaan kuvaan)</translation>
+    </message>
+    <message>
+        <source>Average (move to next image)</source>
+        <translation type="unfinished">Keskinkertainen (siirry seuraavaan kuvaan)</translation>
+    </message>
+    <message>
+        <source>Fair (move to next image)</source>
+        <translation type="unfinished">Kohtuullinen (siirry seuraavaan kuvaan)</translation>
+    </message>
+    <message>
+        <source>Poor (move to next image)</source>
+        <translation type="unfinished">Huono (siirry seuraavaan kuvaan)</translation>
+    </message>
+    <message>
+        <source>Unrated (move to next image)</source>
+        <translation type="unfinished">Luokittelematon (siirry seuraavaan kuvaan)</translation>
+    </message>
+    <message>
+        <source>##label## (move to next image)</source>
+        <translation type="unfinished">##ikkuna## (siirry seuraavaan kuvaan))</translation>
     </message>
 </context>
 <context>

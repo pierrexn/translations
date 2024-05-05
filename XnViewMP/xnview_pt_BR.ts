@@ -2131,10 +2131,6 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>open error</source>
         <translation type="unfinished">Erro de abertura</translation>
     </message>
@@ -9946,10 +9942,6 @@ Do you want to reassign?</source>
         <translation>Interface</translation>
     </message>
     <message>
-        <source>Multiple view for same file</source>
-        <translation>Múltiplas visualizações para o mesmo arquivo</translation>
-    </message>
-    <message>
         <source>characters</source>
         <translation>caracteres</translation>
     </message>
@@ -10016,10 +10008,6 @@ Do you want to reassign?</source>
     <message>
         <source>Purge now</source>
         <translation>Eliminar agora</translation>
-    </message>
-    <message>
-        <source>Synchronize browser when view is closed</source>
-        <translation>Sincronizar o navegador ao fechar a visualização</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -10146,10 +10134,6 @@ Do you want to reassign?</source>
         <translation type="unfinished">Filtro</translation>
     </message>
     <message>
-        <source>Drag&amp;&amp;Drop: Open one view for filelist</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Browser</source>
         <translation type="unfinished">Navegador</translation>
     </message>
@@ -10167,10 +10151,6 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Browser - Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide Tab when only one is opened</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10261,6 +10241,22 @@ Do you want to reassign?</source>
         <source>Move image</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Allow multiple Viewer tabs for same file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select file in Browser when Viewer tab is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Tab header when only one is opened</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10294,10 +10290,6 @@ Do you want to reassign?</source>
     <message>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>Escrever comentário em XMP (dc:Descrição e exif:Comentários do usuário)</translation>
-    </message>
-    <message>
-        <source>Labels</source>
-        <translation>Etiquetas</translation>
     </message>
     <message>
         <source>Create XMP data</source>
@@ -10401,6 +10393,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color labels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10642,38 +10638,6 @@ Do you want to reassign?</source>
     <message>
         <source>Never</source>
         <translation>Nunca</translation>
-    </message>
-    <message>
-        <source>Square</source>
-        <translation>Quadrado</translation>
-    </message>
-    <message>
-        <source>D1/DV NTSC (0.9)</source>
-        <translation>D1/DV NTSC (0.9)</translation>
-    </message>
-    <message>
-        <source>D4/D16 Standard (0.95)</source>
-        <translation>D4/D16 Standard (0.95)</translation>
-    </message>
-    <message>
-        <source>D1/DV PAL (1.07)</source>
-        <translation>D1/DV PAL (1.07)</translation>
-    </message>
-    <message>
-        <source>D1/DV NTSC WideScreen (1.2)</source>
-        <translation>D1/DV NTSC WideScreen (1.2)</translation>
-    </message>
-    <message>
-        <source>D1/DV PAL WideScreen (1.42)</source>
-        <translation>D1/DV PAL WideScreen (1.42)</translation>
-    </message>
-    <message>
-        <source>D4/D16 Anamorphic (1.9)</source>
-        <translation>D4/D16 Anamórfico (1.9)</translation>
-    </message>
-    <message>
-        <source>Anamorphic (2)</source>
-        <translation>Anamórfico (2)</translation>
     </message>
     <message>
         <source>Pixel ratio</source>
@@ -10993,6 +10957,46 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Border line around canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.91  D1/DV NTSC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.95  D4/D16 Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.00  Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.09  D1/DV PAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.20  D1/DV NTSC Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.33 HDV 1080/DVCPRO HD 720</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.46  D1/DV PAL Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.50 DVCPRO HD 1080</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.90  D4/D16 Anamorphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.00  Anamorphic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16219,30 +16223,6 @@ Do you want to continue?</source>
         <translation>Salvar seleção...</translation>
     </message>
     <message>
-        <source>Excellent (move to next photo)</source>
-        <translation>Excelente (mover para a próxima foto)</translation>
-    </message>
-    <message>
-        <source>Good (move to next photo)</source>
-        <translation>Bom (mover para a próxima foto)</translation>
-    </message>
-    <message>
-        <source>Average (move to next photo)</source>
-        <translation>Mediano (mover para a próxima foto)</translation>
-    </message>
-    <message>
-        <source>Fair (move to next photo)</source>
-        <translation>Razoável (mover para a próxima foto)</translation>
-    </message>
-    <message>
-        <source>Poor (move to next photo)</source>
-        <translation>Ruim (mover para a próxima foto)</translation>
-    </message>
-    <message>
-        <source>Unrated (move to next photo)</source>
-        <translation>Não avaliado (mover para a próxima foto)</translation>
-    </message>
-    <message>
         <source>User filter...</source>
         <translation>Filtro do usuário...</translation>
     </message>
@@ -16396,10 +16376,6 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>##label## (move to next photo)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16560,6 +16536,34 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Paste as image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (move to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good (move to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average (move to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fair (move to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poor (move to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrated (move to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (move to next image)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

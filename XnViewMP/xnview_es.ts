@@ -1936,10 +1936,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Acción</translation>
     </message>
     <message>
-        <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation>Personalizado</translation>
     </message>
@@ -10086,10 +10082,6 @@ Do you want to reassign?</source>
         <translation>píxeles</translation>
     </message>
     <message>
-        <source>Synchronize browser when view is closed</source>
-        <translation>Cambiar a navegador al cerrar vista</translation>
-    </message>
-    <message>
         <source>Max width:</source>
         <translation>Anchura máxima:</translation>
     </message>
@@ -10116,14 +10108,6 @@ Do you want to reassign?</source>
     <message>
         <source>Browser</source>
         <translation>Navegador</translation>
-    </message>
-    <message>
-        <source>Drag&amp;&amp;Drop: Open one view for filelist</source>
-        <translation>Arrastrar y soltar: Abrir una vista para la lista de archivos</translation>
-    </message>
-    <message>
-        <source>Multiple view for same file</source>
-        <translation>Varias vistas para el mismo archivo</translation>
     </message>
     <message>
         <source>Switching mode</source>
@@ -10196,10 +10180,6 @@ Do you want to reassign?</source>
     <message>
         <source>Browser - Preview</source>
         <translation>Navegador - Vista previa</translation>
-    </message>
-    <message>
-        <source>Hide Tab when only one is opened</source>
-        <translation>Ocultar pestaña cuando solo hay una abierta</translation>
     </message>
     <message>
         <source>Middle click</source>
@@ -10289,6 +10269,22 @@ Do you want to reassign?</source>
         <source>Move image</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Allow multiple Viewer tabs for same file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select file in Browser when Viewer tab is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Tab header when only one is opened</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10338,10 +10334,6 @@ Do you want to reassign?</source>
     <message>
         <source>Encoding</source>
         <translation>Codificación</translation>
-    </message>
-    <message>
-        <source>Labels</source>
-        <translation>Etiquetas</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
@@ -10429,6 +10421,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color labels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10704,10 +10700,6 @@ Do you want to reassign?</source>
         <translation>Deshabilitar animaciones GIF/JIF/APNG/ANI</translation>
     </message>
     <message>
-        <source>D4/D16 Standard (0.95)</source>
-        <translation>D4/D16 Estandard (0.95)</translation>
-    </message>
-    <message>
         <source>Show highlight selection</source>
         <translation>Mostrar selección resaltada</translation>
     </message>
@@ -10744,10 +10736,6 @@ Do you want to reassign?</source>
         <translation>Aleatorio</translation>
     </message>
     <message>
-        <source>Square</source>
-        <translation>Cuadrado</translation>
-    </message>
-    <message>
         <source>Zoom step</source>
         <translation>Pasos de zoom</translation>
     </message>
@@ -10762,10 +10750,6 @@ Do you want to reassign?</source>
     <message>
         <source>Position</source>
         <translation>Posición</translation>
-    </message>
-    <message>
-        <source>D1/DV PAL WideScreen (1.42)</source>
-        <translation>D1/DV PAL Panorámica (1.42)</translation>
     </message>
     <message>
         <source>Background color</source>
@@ -10800,16 +10784,8 @@ Do you want to reassign?</source>
         <translation>Mantener la imagen actual</translation>
     </message>
     <message>
-        <source>Anamorphic (2)</source>
-        <translation>Anamórfico (2)</translation>
-    </message>
-    <message>
         <source>Title bar</source>
         <translation>Barra de título</translation>
-    </message>
-    <message>
-        <source>D1/DV PAL (1.07)</source>
-        <translation>D1/DV PAL (1.07)</translation>
     </message>
     <message>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
@@ -10836,24 +10812,12 @@ Do you want to reassign?</source>
         <translation>Vista previa incrustada</translation>
     </message>
     <message>
-        <source>D1/DV NTSC (0.9)</source>
-        <translation>D1/DV NTSC (0.9)</translation>
-    </message>
-    <message>
         <source>Forward</source>
         <translation>Adelante</translation>
     </message>
     <message>
-        <source>D4/D16 Anamorphic (1.9)</source>
-        <translation>D4/D16 Anamórfico (1.9)</translation>
-    </message>
-    <message>
         <source>Pixel ratio</source>
         <translation>Proporción de pixel</translation>
-    </message>
-    <message>
-        <source>D1/DV NTSC WideScreen (1.2)</source>
-        <translation>D1/DV NTSC Panorámica (1.2)</translation>
     </message>
     <message>
         <source>Loop on the file list</source>
@@ -11021,6 +10985,46 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Border line around canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.91  D1/DV NTSC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.95  D4/D16 Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.00  Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.09  D1/DV PAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.20  D1/DV NTSC Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.33 HDV 1080/DVCPRO HD 720</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.46  D1/DV PAL Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.50 DVCPRO HD 1080</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.90  D4/D16 Anamorphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.00  Anamorphic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15879,10 +15883,6 @@ Do you want to continue?</source>
         <translation>Zoom de alta calidad</translation>
     </message>
     <message>
-        <source>Excellent (move to next photo)</source>
-        <translation>Excelente (pasar a la siguiente foto)</translation>
-    </message>
-    <message>
         <source>Automatic levels</source>
         <translation>Niveles automáticos</translation>
     </message>
@@ -15953,10 +15953,6 @@ Do you want to continue?</source>
     <message>
         <source>Align...</source>
         <translation>Alinear...</translation>
-    </message>
-    <message>
-        <source>Poor (move to next photo)</source>
-        <translation>Deficiente (pasar a la siguiente foto)</translation>
     </message>
     <message>
         <source>A4, A3, ... (1.41)</source>
@@ -16111,10 +16107,6 @@ Do you want to continue?</source>
         <translation>Mostrar azul</translation>
     </message>
     <message>
-        <source>Fair (move to next photo)</source>
-        <translation>Suficiente (pasar a la siguiente foto)</translation>
-    </message>
-    <message>
         <source>Export...</source>
         <translation>Exportar...</translation>
     </message>
@@ -16141,10 +16133,6 @@ Do you want to continue?</source>
     <message>
         <source>Real size</source>
         <translation>Tamaño real</translation>
-    </message>
-    <message>
-        <source>Good (move to next photo)</source>
-        <translation>Bueno (pasar a la siguiente foto)</translation>
     </message>
     <message>
         <source>Print selection...</source>
@@ -16283,20 +16271,12 @@ Do you want to continue?</source>
         <translation>Limpiar metadatos...</translation>
     </message>
     <message>
-        <source>Unrated (move to next photo)</source>
-        <translation>Sin calificar (pasar a la siguiente foto)</translation>
-    </message>
-    <message>
         <source>Edit IPTC...</source>
         <translation>Editar IPTC...</translation>
     </message>
     <message>
         <source>Selection - swap width &amp;&amp; height</source>
         <translation>Selección - intercambiar ancho y alto</translation>
-    </message>
-    <message>
-        <source>Average (move to next photo)</source>
-        <translation>Medio (pasar a la siguiente foto)</translation>
     </message>
     <message>
         <source>Toolbar</source>
@@ -16381,10 +16361,6 @@ Do you want to continue?</source>
     <message>
         <source>Offset...</source>
         <translation>Desplazamiento...</translation>
-    </message>
-    <message>
-        <source>##label## (move to next photo)</source>
-        <translation>##label## (pasar a la siguiente foto)</translation>
     </message>
     <message>
         <source>JPEG lossless transformations</source>
@@ -16589,6 +16565,34 @@ Do you want to continue?</source>
     <message>
         <source>Paste as image</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (move to next image)</source>
+        <translation type="unfinished">Excelente (pasar a la siguiente imagen)</translation>
+    </message>
+    <message>
+        <source>Good (move to next image)</source>
+        <translation type="unfinished">Bueno (pasar a la siguiente imagen)</translation>
+    </message>
+    <message>
+        <source>Average (move to next image)</source>
+        <translation type="unfinished">Medio (pasar a la siguiente imagen)</translation>
+    </message>
+    <message>
+        <source>Fair (move to next image)</source>
+        <translation type="unfinished">Suficiente (pasar a la siguiente imagen)</translation>
+    </message>
+    <message>
+        <source>Poor (move to next image)</source>
+        <translation type="unfinished">Deficiente (pasar a la siguiente imagen)</translation>
+    </message>
+    <message>
+        <source>Unrated (move to next image)</source>
+        <translation type="unfinished">Sin calificar (pasar a la siguiente imagen)</translation>
+    </message>
+    <message>
+        <source>##label## (move to next image)</source>
+        <translation type="unfinished">##label## (pasar a la siguiente imagen)</translation>
     </message>
 </context>
 <context>

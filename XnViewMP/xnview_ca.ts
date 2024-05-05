@@ -2681,11 +2681,6 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
         <translation>Següent &gt;</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.ui" line="1531"/>
-        <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
-    </message>
-    <message>
         <location filename="DlgBatchResize.ui" line="1543"/>
         <source>Close</source>
         <translation>Tanca</translation>
@@ -6194,12 +6189,12 @@ Do you want to continue?</source>
         <translation>Remostreja</translation>
     </message>
     <message>
-        <location filename="DlgConvertResize.ui" line="497"/>
+        <location filename="DlgConvertResize.ui" line="500"/>
         <source>Nearest Neighbour</source>
         <translation>Veí més proper</translation>
     </message>
     <message>
-        <location filename="DlgConvertResize.ui" line="502"/>
+        <location filename="DlgConvertResize.ui" line="505"/>
         <source>Bilinear</source>
         <translation>Bilinear</translation>
     </message>
@@ -10680,18 +10675,18 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgResize.ui" line="245"/>
-        <location filename="DlgResize.ui" line="482"/>
+        <location filename="DlgResize.ui" line="485"/>
         <source>Width</source>
         <translation>Amplada</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="497"/>
+        <location filename="DlgResize.ui" line="500"/>
         <source>percent</source>
         <translation>percent</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="262"/>
-        <location filename="DlgResize.ui" line="538"/>
+        <location filename="DlgResize.ui" line="541"/>
         <source>Height</source>
         <translation>Altura</translation>
     </message>
@@ -10701,12 +10696,12 @@ Do you want to remove them?</source>
         <translation>Mètode</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="384"/>
+        <location filename="DlgResize.ui" line="387"/>
         <source>Nearest Neighbour</source>
         <translation>Veí més pròxim</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="389"/>
+        <location filename="DlgResize.ui" line="392"/>
         <source>Bilinear</source>
         <translation>Bilineal</translation>
     </message>
@@ -10758,7 +10753,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="282"/>
         <location filename="DlgResize.ui" line="298"/>
-        <location filename="DlgResize.ui" line="432"/>
+        <location filename="DlgResize.ui" line="435"/>
         <source>%</source>
         <translation>%</translation>
     </message>
@@ -10768,117 +10763,117 @@ Do you want to remove them?</source>
         <translation>Mida d&apos;imatge</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="413"/>
+        <location filename="DlgResize.ui" line="416"/>
         <source>Use gamma correction</source>
         <translation>Usa la correcció gamma</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="422"/>
+        <location filename="DlgResize.ui" line="425"/>
         <source>Sharpen</source>
         <translation>Aguditza</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="460"/>
+        <location filename="DlgResize.ui" line="463"/>
         <source>Keep ratio</source>
         <translation>Conserva la proporció</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="473"/>
+        <location filename="DlgResize.ui" line="476"/>
         <source>Print size</source>
         <translation>Mida d&apos;impressió</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="502"/>
+        <location filename="DlgResize.ui" line="505"/>
         <source>inches</source>
         <translation>polzades</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="507"/>
+        <location filename="DlgResize.ui" line="510"/>
         <source>cm</source>
         <translation>cm</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="512"/>
+        <location filename="DlgResize.ui" line="515"/>
         <source>mm</source>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="517"/>
+        <location filename="DlgResize.ui" line="520"/>
         <source>dots</source>
         <translation>punts</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="552"/>
+        <location filename="DlgResize.ui" line="555"/>
         <source>Resolution</source>
         <translation>Resolució</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="567"/>
+        <location filename="DlgResize.ui" line="570"/>
         <source>pixels/inch</source>
         <translation>píxels/polzada</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="572"/>
+        <location filename="DlgResize.ui" line="575"/>
         <source>pixels/cm</source>
         <translation>píxels/cm</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="593"/>
+        <location filename="DlgResize.ui" line="596"/>
         <source>Position</source>
         <translation>Posició</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="604"/>
+        <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
         <translation type="unfinished">Dalt-esquerra</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="609"/>
+        <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
         <translation type="unfinished">Dalt-centre</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="619"/>
+        <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
         <translation type="unfinished">Centre-esquerra</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="629"/>
+        <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
         <translation type="unfinished">Centre-dreta</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="614"/>
+        <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
         <translation type="unfinished">Dalt-dreta</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="624"/>
+        <location filename="DlgResize.ui" line="627"/>
         <source>Center</source>
         <translation>Centre</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="634"/>
+        <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
         <translation type="unfinished">Baix-esquerra</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="639"/>
+        <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
         <translation type="unfinished">Baix</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="644"/>
+        <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
         <translation type="unfinished">Baix-dreta</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="666"/>
+        <location filename="DlgResize.ui" line="669"/>
         <source>Background color</source>
         <translation>Color de fons</translation>
     </message>
@@ -12789,8 +12784,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="42"/>
-        <source>Multiple view for same file</source>
-        <translation>Diverses vistes per al mateix fitxer</translation>
+        <source>Allow multiple Viewer tabs for same file</source>
+        <oldsource>Multiple view for same file</oldsource>
+        <translation type="unfinished">Diverses vistes per al mateix fitxer</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12805,14 +12801,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
-        <source>Synchronize browser when view is closed</source>
-        <translation>Sincronitza el navegador quan es tanqui la vista </translation>
+        <source>Select file in Browser when Viewer tab is closed</source>
+        <oldsource>Synchronize browser when view is closed</oldsource>
+        <translation type="unfinished">Sincronitza el navegador quan es tanqui la vista </translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
-        <source>Drag&amp;&amp;Drop: Open one view for filelist</source>
-        <oldsource>Only one view per file</oldsource>
-        <translation>Arrossega i deixa:Obre una vista per a la llista de fitxers</translation>
+        <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
+        <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
+        <translation type="unfinished">Arrossega i deixa:Obre una vista per a la llista de fitxers</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13150,8 +13147,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="170"/>
-        <source>Hide Tab when only one is opened</source>
-        <translation>Amaga Pestanya quan una ja és oberta</translation>
+        <source>Hide Tab header when only one is opened</source>
+        <oldsource>Hide Tab when only one is opened</oldsource>
+        <translation type="unfinished">Amaga Pestanya quan una ja és oberta</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13453,8 +13451,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
-        <source>Labels</source>
-        <translation>Etiquetes</translation>
+        <source>Color labels</source>
+        <oldsource>Labels</oldsource>
+        <translation type="unfinished">Etiquetes</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="613"/>
@@ -13732,8 +13731,8 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsView</name>
     <message>
-        <location filename="DlgSettingsView.cpp" line="69"/>
-        <location filename="DlgSettingsView.cpp" line="71"/>
+        <location filename="DlgSettingsView.cpp" line="89"/>
+        <location filename="DlgSettingsView.cpp" line="91"/>
         <source>None</source>
         <translation>Cap</translation>
     </message>
@@ -13747,15 +13746,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
-        <location filename="DlgSettingsView.ui" line="1301"/>
+        <location filename="DlgSettingsView.ui" line="1314"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
         <translation>Mida automàtica</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
-        <location filename="DlgSettingsView.ui" line="1154"/>
-        <location filename="DlgSettingsView.ui" line="1367"/>
+        <location filename="DlgSettingsView.ui" line="1167"/>
+        <location filename="DlgSettingsView.ui" line="1380"/>
         <source>Background color</source>
         <translation>Color de fons</translation>
     </message>
@@ -13770,54 +13769,14 @@ Do you want to reassign?</source>
         <translation>Corregeix la gamma</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="422"/>
+        <location filename="DlgSettingsView.ui" line="435"/>
         <source>High zoom quality</source>
         <translation>Alta qualitat del zoom</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="790"/>
+        <location filename="DlgSettingsView.ui" line="803"/>
         <source>Never</source>
         <translation>Mai</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="309"/>
-        <source>Square</source>
-        <translation>Quadrat</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="314"/>
-        <source>D1/DV NTSC (0.9)</source>
-        <translation>D1/DV NTSC (0.9)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="319"/>
-        <source>D4/D16 Standard (0.95)</source>
-        <translation>D4/D16 Standard (0.95)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="324"/>
-        <source>D1/DV PAL (1.07)</source>
-        <translation>D1/DV PAL (1.07)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="329"/>
-        <source>D1/DV NTSC WideScreen (1.2)</source>
-        <translation>D1/DV NTSC Pantalla ampla (1.2)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="334"/>
-        <source>D1/DV PAL WideScreen (1.42)</source>
-        <translation>D1/DV PAL Pantalla ampla (1.42)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="339"/>
-        <source>D4/D16 Anamorphic (1.9)</source>
-        <translation>D4/D16 Anamorphic (1.9)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="344"/>
-        <source>Anamorphic (2)</source>
-        <translation>Anamorphic (2)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
@@ -13825,27 +13784,27 @@ Do you want to reassign?</source>
         <translation>Ràtio píxel</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="700"/>
+        <location filename="DlgSettingsView.ui" line="713"/>
         <source>Misc.</source>
         <translation>Divers.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="820"/>
+        <location filename="DlgSettingsView.ui" line="833"/>
         <source>Cache</source>
         <translation>Memòria cau</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="826"/>
+        <location filename="DlgSettingsView.ui" line="839"/>
         <source>Read one image ahead</source>
         <translation>Lectura d&apos;una imatge per avançat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="833"/>
+        <location filename="DlgSettingsView.ui" line="846"/>
         <source>Keep current image</source>
         <translation>Conserva la imatge actual</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="749"/>
+        <location filename="DlgSettingsView.ui" line="762"/>
         <source>Loop on the file list</source>
         <translation>Bucle de la llista de fitxers</translation>
     </message>
@@ -13856,74 +13815,74 @@ Do you want to reassign?</source>
         <translation type="unfinished">Voraviu al voltant de la imatge</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="369"/>
+        <location filename="DlgSettingsView.ui" line="382"/>
         <source>Zoom step</source>
         <translation>Pas del zoom</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="377"/>
+        <location filename="DlgSettingsView.ui" line="390"/>
         <source>Fixed step</source>
         <translation>Pas fix</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="382"/>
+        <location filename="DlgSettingsView.ui" line="395"/>
         <source>Relative step</source>
         <translation>Pas relatiu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="494"/>
+        <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show Pan tool</source>
         <translation>Mostra l&apos;eina Pan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="508"/>
-        <location filename="DlgSettingsView.ui" line="1344"/>
+        <location filename="DlgSettingsView.ui" line="521"/>
+        <location filename="DlgSettingsView.ui" line="1357"/>
         <source>Show scrollbars</source>
         <translation>Mostra barres desplaçament</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="756"/>
+        <location filename="DlgSettingsView.ui" line="769"/>
         <source>Auto play (video)</source>
         <translation>Reprodueix auto (vídeo)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="515"/>
+        <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y (No fit)</source>
         <oldsource>Reset XY (Not fit)</oldsource>
         <translation>Inicialitza X/Y (No encaix)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="524"/>
+        <location filename="DlgSettingsView.ui" line="537"/>
         <source>Camera RAW, use</source>
         <translation>Càmera RAW, utilitza</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="532"/>
+        <location filename="DlgSettingsView.ui" line="545"/>
         <source>Embedded preview</source>
         <translation>Vista prèvia integrada</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="537"/>
+        <location filename="DlgSettingsView.ui" line="550"/>
         <source>Half size</source>
         <translation>Mida meitat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="542"/>
+        <location filename="DlgSettingsView.ui" line="555"/>
         <source>Full size</source>
         <translation>Mida completa</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="908"/>
+        <location filename="DlgSettingsView.ui" line="921"/>
         <source>Multipage files</source>
         <translation>Fitxers multipàgina</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="914"/>
+        <location filename="DlgSettingsView.ui" line="927"/>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Desactiva l&apos;animació dels GIF/JIF/APNG/ANI</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="921"/>
+        <location filename="DlgSettingsView.ui" line="934"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
         <translation type="unfinished">Mostra els fitxers d&apos;icones de resolució múltiple com &apos;instantànies&apos;</translation>
@@ -13940,299 +13899,349 @@ Do you want to reassign?</source>
         <translation>Usa agudització</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="480"/>
+        <location filename="DlgSettingsView.ui" line="493"/>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <translation>Zoom en pantalla HDPI: Unpíxel d&apos;imatge iguala un píxel de pantalla</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="708"/>
+        <location filename="DlgSettingsView.ui" line="721"/>
         <source>Selection</source>
         <translation>Selecció</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="716"/>
+        <location filename="DlgSettingsView.ui" line="729"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="721"/>
+        <location filename="DlgSettingsView.ui" line="734"/>
         <source>Rule of thirds</source>
         <translation>Regla de tercers</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="487"/>
+        <location filename="DlgSettingsView.ui" line="500"/>
         <source>Show highlight selection</source>
         <translation>Mostra la selecció realçada</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="428"/>
+        <location filename="DlgSettingsView.ui" line="312"/>
+        <source>0.91  D1/DV NTSC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="317"/>
+        <source>0.95  D4/D16 Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="322"/>
+        <source>1.00  Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="327"/>
+        <source>1.09  D1/DV PAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="332"/>
+        <source>1.20  D1/DV NTSC Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="337"/>
+        <source>1.33 HDV 1080/DVCPRO HD 720</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="342"/>
+        <source>1.46  D1/DV PAL Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="347"/>
+        <source>1.50 DVCPRO HD 1080</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="352"/>
+        <source>1.90  D4/D16 Anamorphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="357"/>
+        <source>2.00  Anamorphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="441"/>
         <source>Zoom Out</source>
         <translation>Redueix zoom</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="454"/>
+        <location filename="DlgSettingsView.ui" line="467"/>
         <source>Zoom In</source>
         <translation>Augmenta zoom</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="501"/>
+        <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
         <translation type="unfinished">Mostra el color de l&apos;etiqueta &amp;&amp; de valoració</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="579"/>
+        <location filename="DlgSettingsView.ui" line="592"/>
         <source>Filter</source>
         <translation>Filtre</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="591"/>
+        <location filename="DlgSettingsView.ui" line="604"/>
         <source>Like Browser</source>
         <translation>Com navegador</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="598"/>
+        <location filename="DlgSettingsView.ui" line="611"/>
         <source>Custom</source>
         <translation>Personalitzat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="629"/>
+        <location filename="DlgSettingsView.ui" line="642"/>
         <source>Audio</source>
         <translation>Àudio</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="636"/>
+        <location filename="DlgSettingsView.ui" line="649"/>
         <source>Video</source>
         <translation>Vídeo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="643"/>
+        <location filename="DlgSettingsView.ui" line="656"/>
         <source>Text</source>
         <translation>Text</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="650"/>
+        <location filename="DlgSettingsView.ui" line="663"/>
         <source>AI/PS/PDF</source>
         <translation>AI/PS/PDF</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="657"/>
+        <location filename="DlgSettingsView.ui" line="670"/>
         <source>Exclude</source>
         <translation>Exclou</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="664"/>
+        <location filename="DlgSettingsView.ui" line="677"/>
         <source>Include</source>
         <translation>Inclou</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="671"/>
+        <location filename="DlgSettingsView.ui" line="684"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
         <translation>(Configuració › Llista de fitxers › Filtre personal)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="726"/>
+        <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="763"/>
+        <location filename="DlgSettingsView.ui" line="776"/>
         <source>Loop video playing</source>
         <translation>Recicla el vídeo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="772"/>
+        <location filename="DlgSettingsView.ui" line="785"/>
         <source>Save changes to file</source>
         <translation>Desa canvis al fitxer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="780"/>
+        <location filename="DlgSettingsView.ui" line="793"/>
         <source>Ask</source>
         <translation>Pregunta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="785"/>
+        <location filename="DlgSettingsView.ui" line="798"/>
         <source>Always</source>
         <translation>Sempre</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="813"/>
+        <location filename="DlgSettingsView.ui" line="826"/>
         <source>Two-pass rendering at loading</source>
         <translation>Renderitzat en dos passos al carregar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="843"/>
+        <location filename="DlgSettingsView.ui" line="856"/>
         <source>Quick slideshow</source>
         <translation>Presentació diapositives ràpida</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="849"/>
+        <location filename="DlgSettingsView.ui" line="862"/>
         <source>Delay (ms)</source>
         <translation>Interval (ms)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="866"/>
+        <location filename="DlgSettingsView.ui" line="879"/>
         <source>Direction</source>
         <translation>Direcció</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="874"/>
+        <location filename="DlgSettingsView.ui" line="887"/>
         <source>Forward</source>
         <translation>Endavant</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="879"/>
+        <location filename="DlgSettingsView.ui" line="892"/>
         <source>Backward</source>
         <translation>Enrere</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="884"/>
+        <location filename="DlgSettingsView.ui" line="897"/>
         <source>Random</source>
         <translation>Aleatori</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="959"/>
+        <location filename="DlgSettingsView.ui" line="972"/>
         <source>StatusBar</source>
         <translation>Barra d&apos;estat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="965"/>
+        <location filename="DlgSettingsView.ui" line="978"/>
         <source>Filename</source>
         <translation>Nom del fitxer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="974"/>
+        <location filename="DlgSettingsView.ui" line="987"/>
         <source>File date</source>
         <translation>Data del fitxer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="982"/>
+        <location filename="DlgSettingsView.ui" line="995"/>
         <source>File created date</source>
         <translation>Data de creació fitxer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="987"/>
+        <location filename="DlgSettingsView.ui" line="1000"/>
         <source>File modified date</source>
         <translation>Data de modificació fitxer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="992"/>
+        <location filename="DlgSettingsView.ui" line="1005"/>
         <source>EXIF date taken</source>
         <translation>Data EXIFde presa</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="997"/>
+        <location filename="DlgSettingsView.ui" line="1010"/>
         <source>EXIF date modified</source>
         <translation>EXIF: Data de modificació</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1020"/>
+        <location filename="DlgSettingsView.ui" line="1033"/>
         <source>File size</source>
         <translation>Mida del fitxer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1027"/>
+        <location filename="DlgSettingsView.ui" line="1040"/>
         <source>Properties</source>
         <translation>Propietats</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1034"/>
+        <location filename="DlgSettingsView.ui" line="1047"/>
         <source>Print size</source>
         <translation>Mida d&apos;impressió</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1041"/>
+        <location filename="DlgSettingsView.ui" line="1054"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1048"/>
+        <location filename="DlgSettingsView.ui" line="1061"/>
         <source>Embedded comment</source>
         <translation>Comentari integrat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1055"/>
+        <location filename="DlgSettingsView.ui" line="1068"/>
         <source>Description</source>
         <translation>Descripció</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1076"/>
+        <location filename="DlgSettingsView.ui" line="1089"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1293"/>
+        <location filename="DlgSettingsView.ui" line="1306"/>
         <source>Fullscreen</source>
         <translation>Pantalla completa</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1330"/>
+        <location filename="DlgSettingsView.ui" line="1343"/>
         <source>Show playbar</source>
         <translation>Mostra la barra de reproducció</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1337"/>
+        <location filename="DlgSettingsView.ui" line="1350"/>
         <source>Show info</source>
         <translation>Mostra informació</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1351"/>
+        <location filename="DlgSettingsView.ui" line="1364"/>
         <source>Show toolbar</source>
         <translation>Mostra la barra d&apos;eines</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1358"/>
+        <location filename="DlgSettingsView.ui" line="1371"/>
         <source>Hide mouse cursor</source>
         <translation>Amaga el cursor del ratolí</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1392"/>
+        <location filename="DlgSettingsView.ui" line="1405"/>
         <source>Dual monitor: Use second monitor</source>
         <translation>Monitor dual: Usa el segon monitor</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1405"/>
+        <location filename="DlgSettingsView.ui" line="1418"/>
         <source>Floating views</source>
         <translation>Vistes flotants</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1430"/>
+        <location filename="DlgSettingsView.ui" line="1443"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
         <translation>(apareixen quan el ratolí es mou a dalt o a dreta de la pantalla)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1254"/>
+        <location filename="DlgSettingsView.ui" line="1267"/>
         <source>Text color</source>
         <translation>Color del text</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1089"/>
+        <location filename="DlgSettingsView.ui" line="1102"/>
         <source>Font</source>
         <translation>Font</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1103"/>
+        <location filename="DlgSettingsView.ui" line="1116"/>
         <source>Support HTML tags</source>
         <translation>Suporta etiquetes HTML</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1285"/>
+        <location filename="DlgSettingsView.ui" line="1298"/>
         <source>Always show in fullscreen</source>
         <translation>Sempre en pantalla completa</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1096"/>
+        <location filename="DlgSettingsView.ui" line="1109"/>
         <source>Opacity</source>
         <translation>Opacitat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1147"/>
+        <location filename="DlgSettingsView.ui" line="1160"/>
         <source>Position</source>
         <translation>Posició</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="933"/>
+        <location filename="DlgSettingsView.ui" line="946"/>
         <source>Title bar</source>
         <translation>Barra del títol</translation>
     </message>
@@ -16996,55 +17005,55 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoCategoryTreeView</name>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1111"/>
+        <location filename="InfoCategoryView.cpp" line="1090"/>
         <source>New category</source>
         <translation>Categoria nova</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1112"/>
+        <location filename="InfoCategoryView.cpp" line="1091"/>
         <source>New subcategory</source>
         <translation>Nova subcategoria</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1119"/>
+        <location filename="InfoCategoryView.cpp" line="1098"/>
         <source>Rename</source>
         <translation>Reanomena</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1122"/>
+        <location filename="InfoCategoryView.cpp" line="1101"/>
         <source>Move to...</source>
         <translation>Mou a...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1123"/>
+        <location filename="InfoCategoryView.cpp" line="1102"/>
         <source>Merge with...</source>
         <translation>Barreja amb...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1124"/>
+        <location filename="InfoCategoryView.cpp" line="1103"/>
         <source>Delete</source>
         <translation>Suprimeix</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1128"/>
+        <location filename="InfoCategoryView.cpp" line="1107"/>
         <source>Edit...</source>
         <translation>Edita...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1087"/>
-        <location filename="InfoCategoryView.cpp" line="1146"/>
+        <location filename="InfoCategoryView.cpp" line="1066"/>
+        <location filename="InfoCategoryView.cpp" line="1125"/>
         <source>Delete category</source>
         <translation>Esborra la categoria</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1087"/>
-        <location filename="InfoCategoryView.cpp" line="1146"/>
+        <location filename="InfoCategoryView.cpp" line="1066"/>
+        <location filename="InfoCategoryView.cpp" line="1125"/>
         <source>Are you sure to delete this category?</source>
         <translation>Esteu segur de voler esborrar aquesta categoria?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1157"/>
-        <location filename="InfoCategoryView.cpp" line="1168"/>
+        <location filename="InfoCategoryView.cpp" line="1136"/>
+        <location filename="InfoCategoryView.cpp" line="1147"/>
         <source>New Category</source>
         <translation>Categoria nova</translation>
     </message>
@@ -19132,7 +19141,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="84"/>
-        <location filename="BrowserMenu.h" line="123"/>
+        <location filename="BrowserMenu.h" line="112"/>
         <source>All</source>
         <translation>Tot</translation>
     </message>
@@ -19142,320 +19151,320 @@ Do you want to continue?</oldsource>
         <translation>Fitxers marcats</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="469"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Navigate to</source>
         <translation>Navega a</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="498"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>Veure com miniatures</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="525"/>
+        <location filename="BrowserMenu.h" line="499"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>Vistes com Miniatures+Nom de fitxer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="500"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>Veure com Miniatures+Etiquetes</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="501"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>Veure com Miniatures+Detalls</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="528"/>
+        <location filename="BrowserMenu.h" line="502"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>Veure com Iicones</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="529"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>Veure com Llista</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="530"/>
+        <location filename="BrowserMenu.h" line="504"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>Veure com Detalls</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>Show hidden files</source>
         <translation>Mostra fitxers amagats</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="541"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>Show title of panels</source>
         <translation>Mostra el títol dels panells</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Open GPS location in</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel...</source>
         <translation>Canvi de panell</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="672"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Face tag...</source>
         <translation>Etiqueta frontal...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="676"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="680"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Acquire (TWAIN)</source>
         <translation>Adquireix (TWAIN)</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="448"/>
-        <location filename="BrowserMenu.h" line="482"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Fair</source>
         <translation>Regular</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="451"/>
-        <location filename="BrowserMenu.h" line="483"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Poor</source>
         <translation>Mediocre</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="275"/>
+        <location filename="BrowserMenu.h" line="249"/>
         <source>Restore layout D</source>
         <translation>Restaura la disposició D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="281"/>
+        <location filename="BrowserMenu.h" line="255"/>
         <source>Save layout D</source>
         <translation>Desa la disposició D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="282"/>
+        <location filename="BrowserMenu.h" line="256"/>
         <source>Save layout E</source>
         <translation>Desa la disposició E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="415"/>
         <source>Selected path(s)</source>
         <translation>Camins seleccionats</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="416"/>
         <source>Selected filename(s)</source>
         <translation>Noms de fitxer triats</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="417"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Noms de fitxer triats i camins</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="471"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>Show header</source>
         <translation>Mostra capçalera</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="485"/>
         <source>Theme</source>
         <translation>Tema</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="495"/>
         <source>Remove from category</source>
         <translation>Treu de la categoria</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="496"/>
         <source>Remove from all categories</source>
         <translation>Treu de totes les categories</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="534"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Back</source>
         <translation>Anterior</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>Següent</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>Filelist toolbar</source>
         <translation>Barra llistat fitxers</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Open in file explorer</source>
         <translation>Obre el fitxer en el navegador</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Preview as tab</source>
         <translation>Vista prèvia com pestanya</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="546"/>
         <source>Thumbnails view only</source>
         <translation>Només vista miniatures</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="553"/>
         <source>Rotate 180°</source>
         <translation>Rotació de 180°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="558"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Gira la imatge segons l&apos;orientació EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="559"/>
         <source>Reset EXIF orientation field</source>
         <translation>Restaura el camp d&apos;orientació EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation>Edita dades GPS...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Convert into</source>
         <translation>Converteix a</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Send by FTP...</source>
         <translation>Envia per FTP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>Upload on web...</source>
         <translation>Telecarrega a la web...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>File listing...</source>
         <translation>Llistat de fitxers...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Archive...</source>
         <translation>Comprimeix en arxiu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>Send by email...</source>
         <translation>Envia per correu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>Set as wallpaper...</source>
         <translation>Usa-ho com.a.fons d&apos;escriptori...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>Print...</source>
         <translation>Imprimeix...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="622"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>Properties...</source>
         <translation>Propietats...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Draw as tiled</source>
         <translation>Mostra-ho com a damer</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
-        <location filename="DlgSettingsView.cpp" line="283"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="DlgSettingsView.cpp" line="303"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>Fit image to window, small only</source>
         <translation>Ajusta a la finestra, sols les petites</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Copy to clipboard</source>
         <translation>Copia-ho al porta-retalls</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>File operations</source>
         <translation>Operacions de fitxer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="667"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Category Search</source>
         <translation>Cerca categoria</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="669"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus...</source>
         <translation>Camí del focus...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Filter by All</source>
         <translation>Filtra per Tot</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="675"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Capture...</source>
         <translation>Captura...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="677"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab...</source>
         <translation>Pestanya buida...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="679"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Select TWAIN source...</source>
         <translation>Selecciona l&apos;origen TWAIN...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="820"/>
+        <location filename="BrowserMenu.h" line="794"/>
         <source>&amp;File</source>
         <translation>&amp;Fitxer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="821"/>
+        <location filename="BrowserMenu.h" line="795"/>
         <source>&amp;Edit</source>
         <translation>&amp;Edita</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="822"/>
+        <location filename="BrowserMenu.h" line="796"/>
         <source>&amp;View</source>
         <translation>&amp;Veure</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="823"/>
+        <location filename="BrowserMenu.h" line="797"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;dades</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="824"/>
+        <location filename="BrowserMenu.h" line="798"/>
         <source>&amp;Tools</source>
         <translation>&amp;Eines</translation>
     </message>
@@ -19465,260 +19474,260 @@ Do you want to continue?</oldsource>
         <translation>Lleugera</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="681"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Adquireix en (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="825"/>
+        <location filename="BrowserMenu.h" line="799"/>
         <source>C&amp;reate</source>
         <oldsource>&amp;Create</oldsource>
         <translation>&amp;Crea</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="826"/>
+        <location filename="BrowserMenu.h" line="800"/>
         <source>&amp;Help</source>
         <translation>&amp;Ajuda</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="63"/>
         <location filename="BrowserMenu.h" line="86"/>
-        <location filename="BrowserMenu.h" line="137"/>
+        <location filename="BrowserMenu.h" line="126"/>
         <source>Custom</source>
         <translation>Personalitzat</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="439"/>
-        <location filename="BrowserMenu.h" line="479"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>Excellent</source>
         <translation>Excel·lent</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="442"/>
-        <location filename="BrowserMenu.h" line="480"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>Good</source>
         <translation>Bo</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="445"/>
-        <location filename="BrowserMenu.h" line="481"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Average</source>
         <translation>Normal</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="454"/>
-        <location filename="BrowserMenu.h" line="484"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Unrated</source>
         <translation>No valorat</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
-        <location filename="BrowserMenu.h" line="122"/>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="111"/>
+        <location filename="BrowserMenu.h" line="476"/>
         <source>Uncolored</source>
         <translation>Sense color</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="328"/>
+        <location filename="BrowserMenu.h" line="302"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Filtre de categories</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="330"/>
+        <location filename="BrowserMenu.h" line="304"/>
         <source>Category Sets</source>
         <translation>Conjunts de categories</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="547"/>
         <source>Panels</source>
         <translation>Panells</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserMenu.h" line="414"/>
         <source>Image</source>
         <translation>Imatge</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="331"/>
+        <location filename="BrowserMenu.h" line="305"/>
         <source>Information</source>
         <translation>Informació</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>Update catalog from files</source>
         <translation>Actualitza catàleg des dels fitxers</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="545"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>Update files from catalog</source>
         <translation>Actualitza fitxers des del catàleg</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>Show files in subfolders</source>
         <translation>Mostra els fitxers de les carpetes</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="553"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Open in Finder</source>
         <translation>Obre en el buscador</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="557"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Open all selected</source>
         <translation>Obre tot el seleccionat</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Show source panels</source>
         <translation>Mostra els panells originals</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Add to favorites...</source>
         <translation>Afegeix a preferits...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Info panels</source>
         <translation>Panells informatius</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="577"/>
+        <location filename="BrowserMenu.h" line="551"/>
         <source>Rotate 90° right</source>
         <translation>Gira 90º a la dreta</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="552"/>
         <source>Rotate 90° left</source>
         <translation>Gira 90º a l&apos;esquerra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="581"/>
+        <location filename="BrowserMenu.h" line="555"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Gira 90º a la dreta (sense pèrdua)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="582"/>
+        <location filename="BrowserMenu.h" line="556"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Gira 90º a l&apos;esquerra(sense pèrdua)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="583"/>
+        <location filename="BrowserMenu.h" line="557"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Gira 180º (sense pèrdua)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Inversió horitzonta l(sense pèrdua)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Flip vertically (lossless)</source>
         <translation>Inversió vertical (sense pèrdua)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Find similar files...</source>
         <translation>Busca fitxers similars...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Edit IPTC...</source>
         <translation>Edita IPTC...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="576"/>
         <source>Edit XMP...</source>
         <translation>Edita XMP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>Miniatura EXIF - Gira 90º esquerra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="581"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>Miniatura EXIF - Rotació de 90º dreta°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Transfer...</source>
         <translation>Transfereix...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Join images...</source>
         <translation>Annexa imatges...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Contact sheet...</source>
         <translation>Full de contacte...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Slideshow...</source>
         <translation>Presentació...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>Subdiivideix imatge(s)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Banner...</source>
         <translation>Bandera...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>New image...</source>
         <translation>Imatge nova...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
-        <location filename="DlgSettingsView.cpp" line="281"/>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="DlgSettingsView.cpp" line="301"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>No fit</source>
         <translation>Sense encaix</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
-        <location filename="DlgSettingsView.cpp" line="282"/>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="DlgSettingsView.cpp" line="302"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Fit image to window</source>
         <translation>Ajusta imatge a la finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
-        <location filename="DlgSettingsView.cpp" line="284"/>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="DlgSettingsView.cpp" line="304"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>Fit image to window, large only</source>
         <translation>Ajusta imatge a la finestra, sols les grans</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
-        <location filename="DlgSettingsView.cpp" line="285"/>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="DlgSettingsView.cpp" line="305"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Fit image to window width</source>
         <translation>Ajusta la imatge a l&apos;ample de la finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
-        <location filename="DlgSettingsView.cpp" line="286"/>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="DlgSettingsView.cpp" line="306"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Fit image to window height</source>
         <translation>Ajusta la imatge a l&apos;alçada de la finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
-        <location filename="DlgSettingsView.cpp" line="287"/>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="DlgSettingsView.cpp" line="307"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Fit image to window width or height</source>
         <translation>Ajusta la imatge a l&apos;ample o l&apos;alt de la finestra</translation>
     </message>
@@ -19728,72 +19737,72 @@ Do you want to continue?</oldsource>
         <translation>Ajusta la imatge a la finestra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="272"/>
+        <location filename="BrowserMenu.h" line="246"/>
         <source>Restore layout A</source>
         <oldsource>Restore layout 3</oldsource>
         <translation>Restaura la disposició A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="273"/>
+        <location filename="BrowserMenu.h" line="247"/>
         <source>Restore layout B</source>
         <oldsource>Restore layout 4</oldsource>
         <translation>Restaura la disposició B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="274"/>
+        <location filename="BrowserMenu.h" line="248"/>
         <source>Restore layout C</source>
         <oldsource>Restore layout 5</oldsource>
         <translation>Restaura la disposició C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="276"/>
+        <location filename="BrowserMenu.h" line="250"/>
         <source>Restore layout E</source>
         <oldsource>Save layout 1</oldsource>
         <translation>Restaura la disposició E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="278"/>
+        <location filename="BrowserMenu.h" line="252"/>
         <source>Save layout A</source>
         <oldsource>Save layout 3</oldsource>
         <translation>Desa la disposició A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="279"/>
+        <location filename="BrowserMenu.h" line="253"/>
         <source>Save layout B</source>
         <oldsource>Save layout 4</oldsource>
         <translation>Desa la disposició B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="280"/>
+        <location filename="BrowserMenu.h" line="254"/>
         <source>Save layout C</source>
         <oldsource>Save layout 5</oldsource>
         <translation>Desa la disposició C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="326"/>
+        <location filename="BrowserMenu.h" line="300"/>
         <source>Folder</source>
         <translation>Carpeta</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="327"/>
+        <location filename="BrowserMenu.h" line="301"/>
         <source>Favorites</source>
         <translation>Preferits</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="329"/>
+        <location filename="BrowserMenu.h" line="303"/>
         <source>Categories</source>
         <translation>Categories</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="332"/>
-        <location filename="BrowserMenu.h" line="343"/>
-        <location filename="BrowserMenu.h" line="568"/>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="306"/>
+        <location filename="BrowserMenu.h" line="317"/>
+        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Preview</source>
         <translation>Vista prèvia</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="344"/>
+        <location filename="BrowserMenu.h" line="318"/>
         <source>Histogram</source>
         <translation>Histograma</translation>
     </message>
@@ -19829,476 +19838,476 @@ Do you want to continue?</oldsource>
         <translation>Vídeos (+carpetes)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="430"/>
+        <location filename="BrowserMenu.h" line="404"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation type="unfinished">Obre amb</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="405"/>
         <source>Recent files</source>
         <translation>Fitxers recents</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="408"/>
         <source>Open...</source>
         <translation>Obre...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="409"/>
         <source>Open file list...</source>
         <translation>Obre llistat de fitxers...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4191"/>
-        <location filename="BrowserMenu.h" line="437"/>
+        <location filename="BrowserMenu.h" line="411"/>
         <source>Cut</source>
         <translation>Talla</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4193"/>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserMenu.h" line="413"/>
         <source>Copy</source>
         <translation>Copia</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4195"/>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="418"/>
         <source>Paste</source>
         <translation>Enganxa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="421"/>
         <source>Select all</source>
         <translation>Selecciona-ho tot</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Select none</source>
         <translation>Desselecciona-ho</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Invert selection</source>
         <translation>Inverteix la selecció</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Select all images</source>
         <translation>Selecciona totes les imatges</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Select all files</source>
         <translation>Tria tots els fitxers</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Select tagged files</source>
         <translation>Selecciona els fitxers marcats</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4203"/>
-        <location filename="BrowserMenu.h" line="454"/>
+        <location filename="BrowserMenu.h" line="428"/>
         <source>Copy to...</source>
         <translation>Copia a...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4205"/>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="429"/>
         <source>Move to...</source>
         <translation>Mou a...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4198"/>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="430"/>
         <source>Delete</source>
         <translation>Suprimeix</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Rename...</source>
         <translation>Reanomena...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>New folder</source>
         <translation>Carpeta nova</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Previous file</source>
         <translation>Fitxer anterior</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="461"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Next file</source>
         <translation>Fitxer següent</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="462"/>
+        <location filename="BrowserMenu.h" line="436"/>
         <source>First file</source>
         <translation>Primer fitxer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="463"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Last file</source>
         <translation>Darrer fitxer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="464"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>Previous page</source>
         <translation>Pàgina precedent</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="465"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Next page</source>
         <translation>Pàgina següent</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="466"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>First page</source>
         <translation>Primera pàgina</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="467"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>Last page</source>
         <translation>Darrera pàgina</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="468"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>Page</source>
         <translation>Pàgina</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="435"/>
-        <location filename="BrowserMenu.h" line="472"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation>Marca/Desmarca l&apos;actual</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="473"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Invert</source>
         <translation>Inverteix la marca</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="474"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Untag all</source>
         <translation>Desmarca-ho tot</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="475"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>Clear all tags</source>
         <translation>Treu totes les marques</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="476"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>Show tagged files</source>
         <translation>Mostra els fitxers marcats</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="477"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Show tag box</source>
         <translation>Mostra la marca</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="486"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
         <translation>Excel·lent (salta a la foto següent)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="487"/>
+        <location filename="BrowserMenu.h" line="461"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
         <translation>Bé (salta a la foto següent)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="488"/>
+        <location filename="BrowserMenu.h" line="462"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
         <translation>Normal (salta a la foto següent)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="489"/>
+        <location filename="BrowserMenu.h" line="463"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
         <translation>Mediocre (salta a la foto següent)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="490"/>
+        <location filename="BrowserMenu.h" line="464"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
         <translation>Dolenta (Salta a la foto següent)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="491"/>
+        <location filename="BrowserMenu.h" line="465"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
         <translation>No avaluada (Salta a la foto següent)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
         <translation>##etiqueta## (mou a la imatge següent)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="487"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Layout</source>
         <translation>Disposició</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="488"/>
         <source>View as</source>
         <oldsource>Preview pane</oldsource>
         <translation>Panell vista prèvia</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="489"/>
         <source>Sort by</source>
         <translation>Ordena per</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="490"/>
         <source>Filter by</source>
         <translation>Filtra per</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="491"/>
         <source>Thumbnails size</source>
         <translation>Mida miniatures</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="492"/>
         <source>Tag</source>
         <translation>Marca</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="493"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
         <translation type="unfinished">Valoració &amp;&amp; Etiqueta de color</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="494"/>
         <source>Category</source>
         <translation>Categoria</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Up</source>
         <translation>Carpeta superior</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>Toolbar</source>
         <oldsource>Use toolbar</oldsource>
         <translation>Usa barra d&apos;eines</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>Status bar</source>
         <oldsource>Use statusbar</oldsource>
         <translation>Usa barra d&apos;estat</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>Rebuild thumbnails</source>
         <translation>Reconstrueix les miniatures</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="546"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>Refresh</source>
         <translation>Refresca</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>Stop</source>
         <translation>Atura</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="550"/>
+        <location filename="BrowserMenu.h" line="524"/>
         <source>Open</source>
         <translation>Obre</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="551"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>Open containing folder</source>
         <translation>Obre la carpeta contingut</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>JPEG lossless transformations</source>
         <translation>Transformacions JPEG sense pèrdua</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Batch convert...</source>
         <translation>Conversió per lot...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Show alpha</source>
         <translation>Mostra el canal alfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Show red</source>
         <translation>Mostra el canal vermell</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Show green</source>
         <translation>Mostra el canal verd</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Show blue</source>
         <translation>Mostra el canal blau</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="559"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Fullscreen</source>
         <translation>Pantalla completa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Show</source>
         <translation>Mostra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="535"/>
         <source>Use tabs</source>
         <translation>Utilitza les pestanyes</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Vertical tabs</source>
         <translation>Miniatures verticals</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="564"/>
         <source>Batch rename...</source>
         <translation>Reanomena per lot...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Compara...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Search...</source>
         <translation>Cerca...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Edita comentari...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Change timestamp...</source>
         <translation>Canvia l&apos;hora...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
-        <location filename="BrowserMenu.h" line="662"/>
+        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Export...</source>
         <translation>Exporta...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Clean...</source>
         <translation>Neteja...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="582"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>Miniatura EXIF - Reconstruir-la</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="611"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>EXIF Thumbnail</source>
         <translation>Miniatura EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>Import and sort...</source>
         <translation>Importa-ho i ordena-ho...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Multi-page file...</source>
         <translation>Fitxer multipàgina...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Video thumbnails gallery...</source>
         <translation>Galeria de miniatures de vídeo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Real size</source>
         <translation>Mida real</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="611"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Zoom in</source>
         <translation>Augmenta</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>Zoom out</source>
         <translation>Redueix</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Lock zoom</source>
         <translation>Bloca el zoom</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Utilitza l&apos;índex de transparència (≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Use alpha channel</source>
         <translation>Utilitza el canal alfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="663"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>Neteja&amp;&amp;Importa...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Catalog</source>
         <translation>Catàleg</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Quick Filter</source>
         <translation>Filtre ràpid</translation>
     </message>
@@ -21013,38 +21022,45 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="ViewMenu.h" line="339"/>
-        <source>Excellent (move to next photo)</source>
-        <translation></translation>
+        <source>Excellent (move to next image)</source>
+        <oldsource>Excellent (move to next photo)</oldsource>
+        <translation type="unfinished">Excel·lent (salta a la foto següent)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
-        <source>Good (move to next photo)</source>
-        <translation>Bé (salta a la foto següent)</translation>
+        <source>Good (move to next image)</source>
+        <oldsource>Good (move to next photo)</oldsource>
+        <translation type="unfinished">Bé (salta a la foto següent)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
-        <source>Average (move to next photo)</source>
-        <translation>Normal (salta a la foto següent)</translation>
+        <source>Average (move to next image)</source>
+        <oldsource>Average (move to next photo)</oldsource>
+        <translation type="unfinished">Normal (salta a la foto següent)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
-        <source>Fair (move to next photo)</source>
-        <translation>Mediocre (salta a la foto següent)</translation>
+        <source>Fair (move to next image)</source>
+        <oldsource>Fair (move to next photo)</oldsource>
+        <translation type="unfinished">Mediocre (salta a la foto següent)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
-        <source>Poor (move to next photo)</source>
-        <translation>Dolenta (Salta a la foto següent)</translation>
+        <source>Poor (move to next image)</source>
+        <oldsource>Poor (move to next photo)</oldsource>
+        <translation type="unfinished">Dolenta (Salta a la foto següent)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
-        <source>Unrated (move to next photo)</source>
-        <translation>No avaluada (Salta a la foto següent)</translation>
+        <source>Unrated (move to next image)</source>
+        <oldsource>Unrated (move to next photo)</oldsource>
+        <translation type="unfinished">No avaluada (Salta a la foto següent)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
-        <source>##label## (move to next photo)</source>
-        <translation>##etiqueta## (mou a la imatge següent)</translation>
+        <source>##label## (move to next image)</source>
+        <oldsource>##label## (move to next photo)</oldsource>
+        <translation type="unfinished">##etiqueta## (mou a la imatge següent)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
@@ -21707,55 +21723,55 @@ Do you want to continue?</oldsource>
         <translation>Desa el fitxer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="232"/>
+        <location filename="DlgSettingsView.cpp" line="252"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Left</source>
         <translation>Dalt-esquerra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="233"/>
+        <location filename="DlgSettingsView.cpp" line="253"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Top-Center</source>
         <translation>Dalt-centre</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="234"/>
+        <location filename="DlgSettingsView.cpp" line="254"/>
         <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Top-Right</source>
         <translation>Dalt-dreta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="235"/>
+        <location filename="DlgSettingsView.cpp" line="255"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
         <translation>Centre-esquerra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="236"/>
+        <location filename="DlgSettingsView.cpp" line="256"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Center</source>
         <translation>Centre</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="237"/>
+        <location filename="DlgSettingsView.cpp" line="257"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Center-Right</source>
         <translation>Centre-dreta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="238"/>
+        <location filename="DlgSettingsView.cpp" line="258"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Left</source>
         <translation>Baix-esquerra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="239"/>
+        <location filename="DlgSettingsView.cpp" line="259"/>
         <location filename="DlgSlideshow.cpp" line="52"/>
         <source>Bottom-Center</source>
         <translation>Baix-centre</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="240"/>
+        <location filename="DlgSettingsView.cpp" line="260"/>
         <location filename="DlgSlideshow.cpp" line="53"/>
         <source>Bottom-Right</source>
         <translation>Baix-dreta</translation>
@@ -21777,7 +21793,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="18"/>
-        <location filename="DlgSettingsView.cpp" line="280"/>
+        <location filename="DlgSettingsView.cpp" line="300"/>
         <source>Last used</source>
         <translation>Darrer usat</translation>
     </message>

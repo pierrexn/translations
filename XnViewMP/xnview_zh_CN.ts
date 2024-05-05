@@ -2689,11 +2689,6 @@ Drag and Drop over the desired node to assign.</source>
         <translation>下一个 &gt;</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.ui" line="1531"/>
-        <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
-    </message>
-    <message>
         <location filename="DlgBatchResize.ui" line="1543"/>
         <source>Close</source>
         <translation>关闭</translation>
@@ -6190,12 +6185,12 @@ Do you want to continue?</source>
         <translation>重采样</translation>
     </message>
     <message>
-        <location filename="DlgConvertResize.ui" line="497"/>
+        <location filename="DlgConvertResize.ui" line="500"/>
         <source>Nearest Neighbour</source>
         <translation>最短距离法</translation>
     </message>
     <message>
-        <location filename="DlgConvertResize.ui" line="502"/>
+        <location filename="DlgConvertResize.ui" line="505"/>
         <source>Bilinear</source>
         <translation>双线性</translation>
     </message>
@@ -10668,18 +10663,18 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgResize.ui" line="245"/>
-        <location filename="DlgResize.ui" line="482"/>
+        <location filename="DlgResize.ui" line="485"/>
         <source>Width</source>
         <translation>宽度</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="497"/>
+        <location filename="DlgResize.ui" line="500"/>
         <source>percent</source>
         <translation>百分比</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="262"/>
-        <location filename="DlgResize.ui" line="538"/>
+        <location filename="DlgResize.ui" line="541"/>
         <source>Height</source>
         <translation>高度</translation>
     </message>
@@ -10726,7 +10721,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="282"/>
         <location filename="DlgResize.ui" line="298"/>
-        <location filename="DlgResize.ui" line="432"/>
+        <location filename="DlgResize.ui" line="435"/>
         <source>%</source>
         <translation>%</translation>
     </message>
@@ -10741,127 +10736,127 @@ Do you want to remove them?</source>
         <translation>方法</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="384"/>
+        <location filename="DlgResize.ui" line="387"/>
         <source>Nearest Neighbour</source>
         <translation>临近像素</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="389"/>
+        <location filename="DlgResize.ui" line="392"/>
         <source>Bilinear</source>
         <translation>双线性</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="413"/>
+        <location filename="DlgResize.ui" line="416"/>
         <source>Use gamma correction</source>
         <translation>使用Gamma纠正</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="422"/>
+        <location filename="DlgResize.ui" line="425"/>
         <source>Sharpen</source>
         <translation>锐化</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="460"/>
+        <location filename="DlgResize.ui" line="463"/>
         <source>Keep ratio</source>
         <translation>保持比例</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="473"/>
+        <location filename="DlgResize.ui" line="476"/>
         <source>Print size</source>
         <translation>打印尺寸</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="502"/>
+        <location filename="DlgResize.ui" line="505"/>
         <source>inches</source>
         <translation>英寸</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="507"/>
+        <location filename="DlgResize.ui" line="510"/>
         <source>cm</source>
         <translation>厘米</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="512"/>
+        <location filename="DlgResize.ui" line="515"/>
         <source>mm</source>
         <translation>毫米</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="517"/>
+        <location filename="DlgResize.ui" line="520"/>
         <source>dots</source>
         <translation>点</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="552"/>
+        <location filename="DlgResize.ui" line="555"/>
         <source>Resolution</source>
         <translation>单位</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="567"/>
+        <location filename="DlgResize.ui" line="570"/>
         <source>pixels/inch</source>
         <translation>像素/英寸</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="572"/>
+        <location filename="DlgResize.ui" line="575"/>
         <source>pixels/cm</source>
         <translation>像素/厘米</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="593"/>
+        <location filename="DlgResize.ui" line="596"/>
         <source>Position</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="604"/>
+        <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
         <translation type="unfinished">左上</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="609"/>
+        <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
         <translation type="unfinished">中上</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="619"/>
+        <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
         <translation>中-左</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="629"/>
+        <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
         <translation>中-右</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="614"/>
+        <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
         <translation type="unfinished">右上</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="624"/>
+        <location filename="DlgResize.ui" line="627"/>
         <source>Center</source>
         <translation>中间</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="634"/>
+        <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
         <translation type="unfinished">左下</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="639"/>
+        <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
         <translation type="unfinished">下</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="644"/>
+        <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
         <translation type="unfinished">右下</translation>
     </message>
     <message>
-        <location filename="DlgResize.ui" line="666"/>
+        <location filename="DlgResize.ui" line="669"/>
         <source>Background color</source>
         <translation>背景色</translation>
     </message>
@@ -12780,8 +12775,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="42"/>
-        <source>Multiple view for same file</source>
-        <translation>同一个文件多个查看器标签卡</translation>
+        <source>Allow multiple Viewer tabs for same file</source>
+        <oldsource>Multiple view for same file</oldsource>
+        <translation type="unfinished">同一个文件多个查看器标签卡</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12796,15 +12792,16 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
-        <source>Synchronize browser when view is closed</source>
-        <translation>关闭视图时，同步调整浏览器</translation>
+        <source>Select file in Browser when Viewer tab is closed</source>
+        <oldsource>Synchronize browser when view is closed</oldsource>
+        <translation type="unfinished">关闭视图时，同步调整浏览器</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
-        <source>Drag&amp;&amp;Drop: Open one view for filelist</source>
-        <oldsource>Only one view per file</oldsource>
+        <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
+        <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
         <translatorcomment>这个感觉没什么实际用处，更改后没有变化</translatorcomment>
-        <translation>一个文件仅有一个查看器标签卡</translation>
+        <translation type="unfinished">一个文件仅有一个查看器标签卡</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13142,8 +13139,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="170"/>
-        <source>Hide Tab when only one is opened</source>
-        <translation>仅打开一个文件时隐藏标签</translation>
+        <source>Hide Tab header when only one is opened</source>
+        <oldsource>Hide Tab when only one is opened</oldsource>
+        <translation type="unfinished">仅打开一个文件时隐藏标签</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13446,8 +13444,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
-        <source>Labels</source>
-        <translation>标签</translation>
+        <source>Color labels</source>
+        <oldsource>Labels</oldsource>
+        <translation type="unfinished">标签</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="613"/>
@@ -13724,8 +13723,8 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsView</name>
     <message>
-        <location filename="DlgSettingsView.cpp" line="69"/>
-        <location filename="DlgSettingsView.cpp" line="71"/>
+        <location filename="DlgSettingsView.cpp" line="89"/>
+        <location filename="DlgSettingsView.cpp" line="91"/>
         <source>None</source>
         <translation>无</translation>
     </message>
@@ -13739,15 +13738,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
-        <location filename="DlgSettingsView.ui" line="1301"/>
+        <location filename="DlgSettingsView.ui" line="1314"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
         <translation>自动缩放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
-        <location filename="DlgSettingsView.ui" line="1154"/>
-        <location filename="DlgSettingsView.ui" line="1367"/>
+        <location filename="DlgSettingsView.ui" line="1167"/>
+        <location filename="DlgSettingsView.ui" line="1380"/>
         <source>Background color</source>
         <translation>背景色</translation>
     </message>
@@ -13757,17 +13756,17 @@ Do you want to reassign?</source>
         <translation>背景以挡板模式显示</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="369"/>
+        <location filename="DlgSettingsView.ui" line="382"/>
         <source>Zoom step</source>
         <translation>缩放率</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="377"/>
+        <location filename="DlgSettingsView.ui" line="390"/>
         <source>Fixed step</source>
         <translation>固定</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="382"/>
+        <location filename="DlgSettingsView.ui" line="395"/>
         <source>Relative step</source>
         <translation>变动</translation>
     </message>
@@ -13777,19 +13776,14 @@ Do you want to reassign?</source>
         <translation>使用Gamma纠正</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="422"/>
+        <location filename="DlgSettingsView.ui" line="435"/>
         <source>High zoom quality</source>
         <translation>高缩放品质</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="790"/>
+        <location filename="DlgSettingsView.ui" line="803"/>
         <source>Never</source>
         <translation>从不</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="309"/>
-        <source>Square</source>
-        <translation>正方形</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
@@ -13798,105 +13792,70 @@ Do you want to reassign?</source>
         <translation type="unfinished">显示边框</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="314"/>
-        <source>D1/DV NTSC (0.9)</source>
-        <translation>D1/DV NTSC (0.9)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="319"/>
-        <source>D4/D16 Standard (0.95)</source>
-        <translation>D4/D16 标准（0.95）</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="324"/>
-        <source>D1/DV PAL (1.07)</source>
-        <translation>D1/DV PAL (1.07)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="329"/>
-        <source>D1/DV NTSC WideScreen (1.2)</source>
-        <translation>D1/DV NTSC 宽屏（1.2）</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="334"/>
-        <source>D1/DV PAL WideScreen (1.42)</source>
-        <translation>D1/DV PAL 宽屏（1.42）</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="339"/>
-        <source>D4/D16 Anamorphic (1.9)</source>
-        <translation>D4/D19 变形(1.9)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="344"/>
-        <source>Anamorphic (2)</source>
-        <translation>歪像 (2)</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="301"/>
         <source>Pixel ratio</source>
         <translation>像素比</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="524"/>
+        <location filename="DlgSettingsView.ui" line="537"/>
         <source>Camera RAW, use</source>
         <translation>Camera Raw 使用</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="494"/>
+        <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show Pan tool</source>
         <translation>显示平移工具</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="508"/>
-        <location filename="DlgSettingsView.ui" line="1344"/>
+        <location filename="DlgSettingsView.ui" line="521"/>
+        <location filename="DlgSettingsView.ui" line="1357"/>
         <source>Show scrollbars</source>
         <translation>显示滚动条</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="756"/>
+        <location filename="DlgSettingsView.ui" line="769"/>
         <source>Auto play (video)</source>
         <translation>自动播放（视频）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="515"/>
+        <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y (No fit)</source>
         <oldsource>Reset XY (Not fit)</oldsource>
         <translation>重置X/Y （无适配）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="532"/>
+        <location filename="DlgSettingsView.ui" line="545"/>
         <source>Embedded preview</source>
         <translation>内嵌的预览</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="537"/>
+        <location filename="DlgSettingsView.ui" line="550"/>
         <source>Half size</source>
         <translation>半尺寸</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="542"/>
+        <location filename="DlgSettingsView.ui" line="555"/>
         <source>Full size</source>
         <translation>全尺寸</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="908"/>
+        <location filename="DlgSettingsView.ui" line="921"/>
         <source>Multipage files</source>
         <translation>多页文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="914"/>
+        <location filename="DlgSettingsView.ui" line="927"/>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>禁用 GIF/JIF/APNG/ANI 动画</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="921"/>
+        <location filename="DlgSettingsView.ui" line="934"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
         <translation type="unfinished">以快照形式显示多级分辨率图标</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="700"/>
+        <location filename="DlgSettingsView.ui" line="713"/>
         <source>Misc.</source>
         <translation>其他</translation>
     </message>
@@ -13912,319 +13871,369 @@ Do you want to reassign?</source>
         <translation>使用锐化</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="480"/>
+        <location filename="DlgSettingsView.ui" line="493"/>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <translation>在HiDPI屏幕上缩放: 1图像像素等于1屏幕像素</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="579"/>
+        <location filename="DlgSettingsView.ui" line="592"/>
         <source>Filter</source>
         <translation>过滤器</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="591"/>
+        <location filename="DlgSettingsView.ui" line="604"/>
         <source>Like Browser</source>
         <translation>跟浏览器相同</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="598"/>
+        <location filename="DlgSettingsView.ui" line="611"/>
         <source>Custom</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="629"/>
+        <location filename="DlgSettingsView.ui" line="642"/>
         <source>Audio</source>
         <translation>音频</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="636"/>
+        <location filename="DlgSettingsView.ui" line="649"/>
         <source>Video</source>
         <translation>视频</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="643"/>
+        <location filename="DlgSettingsView.ui" line="656"/>
         <source>Text</source>
         <translation>文本</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="650"/>
+        <location filename="DlgSettingsView.ui" line="663"/>
         <source>AI/PS/PDF</source>
         <translation>AI/PS/PDF</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="657"/>
+        <location filename="DlgSettingsView.ui" line="670"/>
         <source>Exclude</source>
         <translation>排除</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="664"/>
+        <location filename="DlgSettingsView.ui" line="677"/>
         <source>Include</source>
         <translation>包含</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="671"/>
+        <location filename="DlgSettingsView.ui" line="684"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
         <translation>来自 设置 › 文件列表 › 自定义过滤器</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="708"/>
+        <location filename="DlgSettingsView.ui" line="721"/>
         <source>Selection</source>
         <translation>选中的</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="716"/>
+        <location filename="DlgSettingsView.ui" line="729"/>
         <source>Normal</source>
         <translation>正常</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="721"/>
+        <location filename="DlgSettingsView.ui" line="734"/>
         <source>Rule of thirds</source>
         <translation>三分法</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="487"/>
+        <location filename="DlgSettingsView.ui" line="500"/>
         <source>Show highlight selection</source>
         <translation>显示高亮选择内容</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="428"/>
+        <location filename="DlgSettingsView.ui" line="312"/>
+        <source>0.91  D1/DV NTSC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="317"/>
+        <source>0.95  D4/D16 Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="322"/>
+        <source>1.00  Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="327"/>
+        <source>1.09  D1/DV PAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="332"/>
+        <source>1.20  D1/DV NTSC Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="337"/>
+        <source>1.33 HDV 1080/DVCPRO HD 720</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="342"/>
+        <source>1.46  D1/DV PAL Widescreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="347"/>
+        <source>1.50 DVCPRO HD 1080</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="352"/>
+        <source>1.90  D4/D16 Anamorphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="357"/>
+        <source>2.00  Anamorphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="441"/>
         <source>Zoom Out</source>
         <translation>缩小</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="454"/>
+        <location filename="DlgSettingsView.ui" line="467"/>
         <source>Zoom In</source>
         <translation>放大</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="501"/>
+        <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
         <translation type="unfinished">显示评级 &amp;&amp; 标签颜色</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="726"/>
+        <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
         <translation>黄金分割(Phi)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="749"/>
+        <location filename="DlgSettingsView.ui" line="762"/>
         <source>Loop on the file list</source>
         <translation>循环文件列表</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="763"/>
+        <location filename="DlgSettingsView.ui" line="776"/>
         <source>Loop video playing</source>
         <translation>循环视频播放</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="772"/>
+        <location filename="DlgSettingsView.ui" line="785"/>
         <source>Save changes to file</source>
         <translation>保存变化到文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="780"/>
+        <location filename="DlgSettingsView.ui" line="793"/>
         <source>Ask</source>
         <translation>询问</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="785"/>
+        <location filename="DlgSettingsView.ui" line="798"/>
         <source>Always</source>
         <translation>总是</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="813"/>
+        <location filename="DlgSettingsView.ui" line="826"/>
         <source>Two-pass rendering at loading</source>
         <translation>加载时两段式渲染</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="820"/>
+        <location filename="DlgSettingsView.ui" line="833"/>
         <source>Cache</source>
         <translation>缓存</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="826"/>
+        <location filename="DlgSettingsView.ui" line="839"/>
         <source>Read one image ahead</source>
         <translation>预先读取一幅图像</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="833"/>
+        <location filename="DlgSettingsView.ui" line="846"/>
         <source>Keep current image</source>
         <translation>保持当前图像</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="843"/>
+        <location filename="DlgSettingsView.ui" line="856"/>
         <source>Quick slideshow</source>
         <translation>快速幻灯片</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="849"/>
+        <location filename="DlgSettingsView.ui" line="862"/>
         <source>Delay (ms)</source>
         <translation>延时(ms)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="866"/>
+        <location filename="DlgSettingsView.ui" line="879"/>
         <source>Direction</source>
         <translation>方向</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="874"/>
+        <location filename="DlgSettingsView.ui" line="887"/>
         <source>Forward</source>
         <translation>前进</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="879"/>
+        <location filename="DlgSettingsView.ui" line="892"/>
         <source>Backward</source>
         <translation>后退</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="884"/>
+        <location filename="DlgSettingsView.ui" line="897"/>
         <source>Random</source>
         <translation>随机</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="959"/>
+        <location filename="DlgSettingsView.ui" line="972"/>
         <source>StatusBar</source>
         <translation>状态栏</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="965"/>
+        <location filename="DlgSettingsView.ui" line="978"/>
         <source>Filename</source>
         <translation>文件名</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="974"/>
+        <location filename="DlgSettingsView.ui" line="987"/>
         <source>File date</source>
         <translation>文件日期</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="982"/>
+        <location filename="DlgSettingsView.ui" line="995"/>
         <source>File created date</source>
         <translation>文件创建日期</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="987"/>
+        <location filename="DlgSettingsView.ui" line="1000"/>
         <source>File modified date</source>
         <translation>文件修改日期</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="992"/>
+        <location filename="DlgSettingsView.ui" line="1005"/>
         <source>EXIF date taken</source>
         <translation>EXIF 拍摄日期</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="997"/>
+        <location filename="DlgSettingsView.ui" line="1010"/>
         <source>EXIF date modified</source>
         <translation>EXIF 修改日期</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1020"/>
+        <location filename="DlgSettingsView.ui" line="1033"/>
         <source>File size</source>
         <translation>文件大小</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1027"/>
+        <location filename="DlgSettingsView.ui" line="1040"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1034"/>
+        <location filename="DlgSettingsView.ui" line="1047"/>
         <source>Print size</source>
         <translation>打印尺寸</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1041"/>
+        <location filename="DlgSettingsView.ui" line="1054"/>
         <source>Zoom</source>
         <translation>缩放</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1048"/>
+        <location filename="DlgSettingsView.ui" line="1061"/>
         <source>Embedded comment</source>
         <translation>内嵌注释</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1055"/>
+        <location filename="DlgSettingsView.ui" line="1068"/>
         <source>Description</source>
         <translation>描述</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1076"/>
+        <location filename="DlgSettingsView.ui" line="1089"/>
         <source>Info</source>
         <translation>信息</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1293"/>
+        <location filename="DlgSettingsView.ui" line="1306"/>
         <source>Fullscreen</source>
         <translation>全屏</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1330"/>
+        <location filename="DlgSettingsView.ui" line="1343"/>
         <source>Show playbar</source>
         <translation>显示播放条</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1337"/>
+        <location filename="DlgSettingsView.ui" line="1350"/>
         <source>Show info</source>
         <translation>显示信息</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1351"/>
+        <location filename="DlgSettingsView.ui" line="1364"/>
         <source>Show toolbar</source>
         <translation>显示工具栏</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1358"/>
+        <location filename="DlgSettingsView.ui" line="1371"/>
         <source>Hide mouse cursor</source>
         <translation>隐藏鼠标箭头</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1392"/>
+        <location filename="DlgSettingsView.ui" line="1405"/>
         <source>Dual monitor: Use second monitor</source>
         <translation>双显示器：使用第二显示器</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1405"/>
+        <location filename="DlgSettingsView.ui" line="1418"/>
         <source>Floating views</source>
         <translation>浮动视图</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1430"/>
+        <location filename="DlgSettingsView.ui" line="1443"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
         <translation>（当鼠标移动到屏幕顶侧或右侧时出现）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1254"/>
+        <location filename="DlgSettingsView.ui" line="1267"/>
         <source>Text color</source>
         <translation>文字颜色</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1089"/>
+        <location filename="DlgSettingsView.ui" line="1102"/>
         <source>Font</source>
         <translation>字体</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1103"/>
+        <location filename="DlgSettingsView.ui" line="1116"/>
         <source>Support HTML tags</source>
         <translation>支持 HTML 标记</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1285"/>
+        <location filename="DlgSettingsView.ui" line="1298"/>
         <source>Always show in fullscreen</source>
         <translation>全屏时总是显示</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1096"/>
+        <location filename="DlgSettingsView.ui" line="1109"/>
         <source>Opacity</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1147"/>
+        <location filename="DlgSettingsView.ui" line="1160"/>
         <source>Position</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="933"/>
+        <location filename="DlgSettingsView.ui" line="946"/>
         <source>Title bar</source>
         <translation>标题栏</translation>
     </message>
@@ -16999,55 +17008,55 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoCategoryTreeView</name>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1111"/>
+        <location filename="InfoCategoryView.cpp" line="1090"/>
         <source>New category</source>
         <translation>新建分类</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1112"/>
+        <location filename="InfoCategoryView.cpp" line="1091"/>
         <source>New subcategory</source>
         <translation>新建子分类</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1119"/>
+        <location filename="InfoCategoryView.cpp" line="1098"/>
         <source>Rename</source>
         <translation>重命名</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1122"/>
+        <location filename="InfoCategoryView.cpp" line="1101"/>
         <source>Move to...</source>
         <translation>移动到...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1123"/>
+        <location filename="InfoCategoryView.cpp" line="1102"/>
         <source>Merge with...</source>
         <translation>合并到...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1124"/>
+        <location filename="InfoCategoryView.cpp" line="1103"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1128"/>
+        <location filename="InfoCategoryView.cpp" line="1107"/>
         <source>Edit...</source>
         <translation>编辑...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1087"/>
-        <location filename="InfoCategoryView.cpp" line="1146"/>
+        <location filename="InfoCategoryView.cpp" line="1066"/>
+        <location filename="InfoCategoryView.cpp" line="1125"/>
         <source>Delete category</source>
         <translation>删除分类</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1087"/>
-        <location filename="InfoCategoryView.cpp" line="1146"/>
+        <location filename="InfoCategoryView.cpp" line="1066"/>
+        <location filename="InfoCategoryView.cpp" line="1125"/>
         <source>Are you sure to delete this category?</source>
         <translation>确定要删除该分类吗?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1157"/>
-        <location filename="InfoCategoryView.cpp" line="1168"/>
+        <location filename="InfoCategoryView.cpp" line="1136"/>
+        <location filename="InfoCategoryView.cpp" line="1147"/>
         <source>New Category</source>
         <translation>新建分类</translation>
     </message>
@@ -18907,7 +18916,7 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="485"/>
         <source>Theme</source>
         <translation>主题</translation>
     </message>
@@ -19113,7 +19122,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="63"/>
         <location filename="BrowserMenu.h" line="86"/>
-        <location filename="BrowserMenu.h" line="137"/>
+        <location filename="BrowserMenu.h" line="126"/>
         <source>Custom</source>
         <translation>自定义</translation>
     </message>
@@ -19164,7 +19173,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="84"/>
-        <location filename="BrowserMenu.h" line="123"/>
+        <location filename="BrowserMenu.h" line="112"/>
         <source>All</source>
         <translation>全部</translation>
     </message>
@@ -19174,442 +19183,442 @@ Do you want to continue?</oldsource>
         <translation>标记文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="469"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Navigate to</source>
         <translation>导航至</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="498"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>显示为缩略图</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="525"/>
+        <location filename="BrowserMenu.h" line="499"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>显示为缩略图 + 文件名</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="500"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>显示为缩略图 + 标签</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="501"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>显示为缩略图 + 详细</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="528"/>
+        <location filename="BrowserMenu.h" line="502"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>显示为图标</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="529"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>显示为列表</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="530"/>
+        <location filename="BrowserMenu.h" line="504"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>显示为默认</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>Show hidden files</source>
         <translation>显示隐藏的文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="541"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>Show title of panels</source>
         <translation>显示面板标题</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>Show files in subfolders</source>
         <translation type="unfinished">显示子文件夹中的文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="577"/>
+        <location filename="BrowserMenu.h" line="551"/>
         <source>Rotate 90° right</source>
         <translation type="unfinished">向右旋转90°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="552"/>
         <source>Rotate 90° left</source>
         <translation type="unfinished">向左旋转90°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="581"/>
+        <location filename="BrowserMenu.h" line="555"/>
         <source>Rotate 90° right (lossless)</source>
         <translation type="unfinished">向右旋转90°（无损）</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="582"/>
+        <location filename="BrowserMenu.h" line="556"/>
         <source>Rotate 90° left (lossless)</source>
         <translation type="unfinished">向左旋转90°（无损）</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="583"/>
+        <location filename="BrowserMenu.h" line="557"/>
         <source>Rotate 180° (lossless)</source>
         <translation type="unfinished">旋转180°（无损）</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Flip horizontally (lossless)</source>
         <translation type="unfinished">水平翻转（无损）</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Flip vertically (lossless)</source>
         <translation type="unfinished">垂直翻转（无损）</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Open GPS location in</source>
         <translation>打开GPS位置于</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation type="unfinished">EXIF缩略图 向左旋转90°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="581"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation type="unfinished">EXIF缩略图 向右旋转90°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="611"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF 缩略图</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Video thumbnails gallery...</source>
         <translation>视频缩略图库……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="663"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation type="unfinished">清理 &amp;&amp; 导入……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Catalog</source>
         <translation type="unfinished">缓存数据库</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel...</source>
         <translation>切换面板……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="669"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus...</source>
         <translation>路径聚焦……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Filter by All</source>
         <translation type="unfinished">全部过滤</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="672"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Face tag...</source>
         <translatorcomment>这个在哪个位置？</translatorcomment>
         <translation>脸部标记……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="676"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="680"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Acquire (TWAIN)</source>
         <translation>获取 (TWAIN)</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="439"/>
-        <location filename="BrowserMenu.h" line="479"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>Excellent</source>
         <translation>极佳</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="442"/>
-        <location filename="BrowserMenu.h" line="480"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>Good</source>
         <translation>良好</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="445"/>
-        <location filename="BrowserMenu.h" line="481"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Average</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="486"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
         <translation>极佳 (转到下一图)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="487"/>
+        <location filename="BrowserMenu.h" line="461"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
         <translation>良好 (转到下一图)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="488"/>
+        <location filename="BrowserMenu.h" line="462"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
         <translation>普通 (转到下一图)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="489"/>
+        <location filename="BrowserMenu.h" line="463"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
         <translation>稍差 (转到下一图)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="490"/>
+        <location filename="BrowserMenu.h" line="464"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
         <translation>糟糕 (转到下一图)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="491"/>
+        <location filename="BrowserMenu.h" line="465"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
         <translation type="unfinished">不评级 (转到下一图)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
         <translation type="unfinished">##label## (转到下一图)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="495"/>
         <source>Remove from category</source>
         <translation>从分类中移除</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="496"/>
         <source>Remove from all categories</source>
         <translation>从所有分类中移除</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="558"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>按照EXIF方向旋转图片</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="559"/>
         <source>Reset EXIF orientation field</source>
         <translatorcomment>没看出来有什么作用。</translatorcomment>
         <translation type="unfinished">重置EXIF的方向</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="454"/>
-        <location filename="BrowserMenu.h" line="484"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Unrated</source>
         <translation>不评级</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
-        <location filename="BrowserMenu.h" line="122"/>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="111"/>
+        <location filename="BrowserMenu.h" line="476"/>
         <source>Uncolored</source>
         <translation>无色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="328"/>
+        <location filename="BrowserMenu.h" line="302"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation type="unfinished">分类筛选器</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="330"/>
+        <location filename="BrowserMenu.h" line="304"/>
         <source>Category Sets</source>
         <translation type="unfinished">分类合集</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="547"/>
         <source>Panels</source>
         <translation>面板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserMenu.h" line="414"/>
         <source>Image</source>
         <translation>图像</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="331"/>
+        <location filename="BrowserMenu.h" line="305"/>
         <source>Information</source>
         <translation>信息</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Select all files</source>
         <translation>选择全部文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>Update catalog from files</source>
         <translation>从文件更新分类</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="545"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>Update files from catalog</source>
         <translation>从分类更新文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="553"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Open in Finder</source>
         <translation>在查找器中打开</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="557"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Open all selected</source>
         <translation>打开全部选中文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Show source panels</source>
         <translation>显示来源面板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Add to favorites...</source>
         <translation>添加到收藏夹...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Info panels</source>
         <translation>信息面板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="553"/>
         <source>Rotate 180°</source>
         <translation>旋转180°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Find similar files...</source>
         <translation>查找相似文件……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Edit IPTC...</source>
         <translation type="unfinished">编辑 IPTC元数据……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="576"/>
         <source>Edit XMP...</source>
         <translation>编辑 IPTC元数据/XMP元数据...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation>编辑 GPS 数据...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Transfer...</source>
         <translatorcomment>不同类型元数据的不同字段数据相互转换传递</translatorcomment>
         <translation type="unfinished">转换元数据……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>Import and sort...</source>
         <translation>导入并分类...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Multi-page file...</source>
         <translation>多页文件...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Join images...</source>
         <translatorcomment>合并，拼合，拼贴更准确吧，追加意味不明</translatorcomment>
         <translation>拼合图像...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Contact sheet...</source>
         <translation>相版...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Slideshow...</source>
         <translation>幻灯片...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translatorcomment>切片，切割，切分，Slice</translatorcomment>
         <translation type="unfinished">图像切片...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Banner...</source>
         <translatorcomment>不用翻译也可以吧</translatorcomment>
         <translation type="unfinished">横幅……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>New image...</source>
         <translation>新建图像...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
-        <location filename="DlgSettingsView.cpp" line="281"/>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="DlgSettingsView.cpp" line="301"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>No fit</source>
         <translation type="unfinished">不缩放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
-        <location filename="DlgSettingsView.cpp" line="282"/>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="DlgSettingsView.cpp" line="302"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Fit image to window</source>
         <translation>适应窗口</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
-        <location filename="DlgSettingsView.cpp" line="284"/>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="DlgSettingsView.cpp" line="304"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>Fit image to window, large only</source>
         <translation>适应窗口大小（仅大图片）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
-        <location filename="DlgSettingsView.cpp" line="285"/>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="DlgSettingsView.cpp" line="305"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Fit image to window width</source>
         <translation>适应窗口宽度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
-        <location filename="DlgSettingsView.cpp" line="286"/>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="DlgSettingsView.cpp" line="306"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Fit image to window height</source>
         <translation>适应窗口高度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
-        <location filename="DlgSettingsView.cpp" line="287"/>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="DlgSettingsView.cpp" line="307"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Fit image to window width or height</source>
         <translation>适应窗口宽或高</translation>
     </message>
@@ -19619,85 +19628,85 @@ Do you want to continue?</oldsource>
         <translation type="unfinished">适应桌面</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="272"/>
+        <location filename="BrowserMenu.h" line="246"/>
         <source>Restore layout A</source>
         <oldsource>Restore layout 3</oldsource>
         <translation>恢复布局A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="273"/>
+        <location filename="BrowserMenu.h" line="247"/>
         <source>Restore layout B</source>
         <oldsource>Restore layout 4</oldsource>
         <translation>恢复布局B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="274"/>
+        <location filename="BrowserMenu.h" line="248"/>
         <source>Restore layout C</source>
         <oldsource>Restore layout 5</oldsource>
         <translation>恢复布局C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="276"/>
+        <location filename="BrowserMenu.h" line="250"/>
         <source>Restore layout E</source>
         <oldsource>Save layout 1</oldsource>
         <translation>保存布局E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="278"/>
+        <location filename="BrowserMenu.h" line="252"/>
         <source>Save layout A</source>
         <oldsource>Save layout 3</oldsource>
         <translation>保存布局A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="279"/>
+        <location filename="BrowserMenu.h" line="253"/>
         <source>Save layout B</source>
         <oldsource>Save layout 4</oldsource>
         <translation>保存布局B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="280"/>
+        <location filename="BrowserMenu.h" line="254"/>
         <source>Save layout C</source>
         <oldsource>Save layout 5</oldsource>
         <translation>保存布局C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="415"/>
         <source>Selected path(s)</source>
         <translation type="unfinished">选中文件的路径</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="416"/>
         <source>Selected filename(s)</source>
         <translation type="unfinished">选中文件的文件名</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="417"/>
         <source>Selected filename(s) and path(s)</source>
         <translation type="unfinished">选中文件的路径+文件名</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="534"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Back</source>
         <translation>返回</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>前进</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>Toolbar</source>
         <translation>工具栏</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>Status bar</source>
         <translation>状态栏</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="326"/>
+        <location filename="BrowserMenu.h" line="300"/>
         <source>Folder</source>
         <translation>文件夹</translation>
     </message>
@@ -19707,36 +19716,36 @@ Do you want to continue?</oldsource>
         <translation>浅色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="275"/>
+        <location filename="BrowserMenu.h" line="249"/>
         <source>Restore layout D</source>
         <translation>恢复布局D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="282"/>
+        <location filename="BrowserMenu.h" line="256"/>
         <source>Save layout E</source>
         <translation>保存布局E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="327"/>
+        <location filename="BrowserMenu.h" line="301"/>
         <source>Favorites</source>
         <translation>收藏夹</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="329"/>
+        <location filename="BrowserMenu.h" line="303"/>
         <source>Categories</source>
         <translation>分类</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="332"/>
-        <location filename="BrowserMenu.h" line="343"/>
-        <location filename="BrowserMenu.h" line="568"/>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="306"/>
+        <location filename="BrowserMenu.h" line="317"/>
+        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Preview</source>
         <translatorcomment>勾选Info Panes-&gt;Preview&quot;预览&quot;后菜单项才会变亮可用</translatorcomment>
         <translation>预览</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="344"/>
+        <location filename="BrowserMenu.h" line="318"/>
         <source>Histogram</source>
         <translation>直方图</translation>
     </message>
@@ -19747,546 +19756,546 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="448"/>
-        <location filename="BrowserMenu.h" line="482"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Fair</source>
         <translation>稍差</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="451"/>
-        <location filename="BrowserMenu.h" line="483"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Poor</source>
         <translation>糟糕</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="281"/>
+        <location filename="BrowserMenu.h" line="255"/>
         <source>Save layout D</source>
         <translation>保存布局D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="430"/>
+        <location filename="BrowserMenu.h" line="404"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translatorcomment>子菜单有：关联程序，关联编辑器，配置程序</translatorcomment>
         <translation type="unfinished">打开方式</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="405"/>
         <source>Recent files</source>
         <translation>最近的文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="408"/>
         <source>Open...</source>
         <translation>打开...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="409"/>
         <source>Open file list...</source>
         <translation>打开文件列表...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4191"/>
-        <location filename="BrowserMenu.h" line="437"/>
+        <location filename="BrowserMenu.h" line="411"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4193"/>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserMenu.h" line="413"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4195"/>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="418"/>
         <source>Paste</source>
         <translation>粘贴</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="421"/>
         <source>Select all</source>
         <translation>全选</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Select none</source>
         <translation>取消选择</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Invert selection</source>
         <translation>反选</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Select all images</source>
         <translation>选择全部图像</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Select tagged files</source>
         <translation>选择标记的文件</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4203"/>
-        <location filename="BrowserMenu.h" line="454"/>
+        <location filename="BrowserMenu.h" line="428"/>
         <source>Copy to...</source>
         <translation>复制到……</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4205"/>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="429"/>
         <source>Move to...</source>
         <translation>移动到...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4198"/>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="430"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Rename...</source>
         <translation>重命名...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>New folder</source>
         <translation>新建文件夹</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Previous file</source>
         <translation>上一个文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="461"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Next file</source>
         <translation>下一个文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="462"/>
+        <location filename="BrowserMenu.h" line="436"/>
         <source>First file</source>
         <translation>第一个文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="463"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Last file</source>
         <translation>最后一个文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="464"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>Previous page</source>
         <translation>上一页</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="465"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Next page</source>
         <translation>下一页</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="466"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>First page</source>
         <translation>第一页</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="467"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>Last page</source>
         <translation>最后页</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="468"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>Page</source>
         <translation>页面</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="471"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>Show header</source>
         <translation type="unfinished">显示列标题</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="435"/>
-        <location filename="BrowserMenu.h" line="472"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation type="unfinished">标记选中文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="473"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Invert</source>
         <translation type="unfinished">反转</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="474"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Untag all</source>
         <translation type="unfinished">不标记全部</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="475"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>Clear all tags</source>
         <translation type="unfinished">清除全部文件标记</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="476"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>Show tagged files</source>
         <translation>显示标记过的文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="477"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Show tag box</source>
         <translation>显示标记勾选框</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="487"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Layout</source>
         <translation>布局</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="488"/>
         <source>View as</source>
         <translation>查看方式</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="489"/>
         <source>Sort by</source>
         <translation>排序</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="490"/>
         <source>Filter by</source>
         <translation type="unfinished">筛选</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="491"/>
         <source>Thumbnails size</source>
         <translation>缩略图尺寸</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="492"/>
         <source>Tag</source>
         <translation>标记</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="493"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
         <translation type="unfinished">评级和颜色标签</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="494"/>
         <source>Category</source>
         <translation>分类</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Up</source>
         <translation>向上</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>Filelist toolbar</source>
         <translation>文件列表工具条</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>Rebuild thumbnails</source>
         <translation>重建缩略图</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="546"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>Refresh</source>
         <translation>刷新</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>Stop</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="550"/>
+        <location filename="BrowserMenu.h" line="524"/>
         <source>Open</source>
         <translation>打开</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="551"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>Open containing folder</source>
         <translatorcomment>？</translatorcomment>
         <translation>打开当前文件夹</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Open in file explorer</source>
         <translation>用资源管理器打开文件</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="559"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Fullscreen</source>
         <translation>全屏</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Show</source>
         <translation>显示</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="535"/>
         <source>Use tabs</source>
         <translation type="unfinished">使用标签卡</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Preview as tab</source>
         <translation type="unfinished">以标签卡预览</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Vertical tabs</source>
         <translation type="unfinished">垂直标签卡</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="546"/>
         <source>Thumbnails view only</source>
         <translation>只显示缩略图</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>JPEG lossless transformations</source>
         <translation>无损JPEG旋转</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="564"/>
         <source>Batch rename...</source>
         <translation type="unfinished">批量重命名……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>比较...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Search...</source>
         <translation>搜索...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>编辑注释...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Change timestamp...</source>
         <translation type="unfinished">更改时间戳...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
-        <location filename="BrowserMenu.h" line="662"/>
+        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Export...</source>
         <translation>导出...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Clean...</source>
         <translation>清除...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="582"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>重建EXIF缩略图</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Metadata</source>
         <translation>元数据</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Convert into</source>
         <translatorcomment>右键菜单</translatorcomment>
         <translation type="unfinished">转换格式</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Batch convert...</source>
         <translation type="unfinished">批量转换……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Send by FTP...</source>
         <translation type="unfinished">上传到FTP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>Upload on web...</source>
         <translation>上传到互联网...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>File listing...</source>
         <translation>文件列表...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Archive...</source>
         <translation>压缩文件……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>Send by email...</source>
         <translation>发送Email……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>Set as wallpaper...</source>
         <translation>设为壁纸...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>Print...</source>
         <translation>打印...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="622"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>Properties...</source>
         <translation>属性...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Real size</source>
         <translation>实际尺寸</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="611"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Zoom in</source>
         <translation>放大</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>Zoom out</source>
         <translation>缩小</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Lock zoom</source>
         <translation>锁定缩放</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>使用透明索引（≤ 8位）</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Use alpha channel</source>
         <translation>使用alpha通道</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Show alpha</source>
         <translation type="unfinished">显示alpha</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Show red</source>
         <translation>显示红色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Show green</source>
         <translation>显示绿色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Show blue</source>
         <translation>显示蓝色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Draw as tiled</source>
         <translatorcomment>TODO，什么意思？</translatorcomment>
         <translation>以瓷砖形式绘制</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
-        <location filename="DlgSettingsView.cpp" line="283"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="DlgSettingsView.cpp" line="303"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>Fit image to window, small only</source>
         <translation>图像适应窗口大小，仅针对小图片</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Zoom</source>
         <translation>缩放</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Copy to clipboard</source>
         <translation>复制到剪贴板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>File operations</source>
         <translation>文件操作</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Quick Filter</source>
         <translatorcomment>这个在哪个位置？</translatorcomment>
         <translation>快速过滤</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="667"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Category Search</source>
         <translation>分类搜索</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="675"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Capture...</source>
         <translation>截屏……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="677"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab...</source>
         <translatorcomment>这个在哪个位置？</translatorcomment>
         <translation>空标签卡...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="679"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Select TWAIN source...</source>
         <translation>选择 TWAIN(图像通讯) 来源...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="820"/>
+        <location filename="BrowserMenu.h" line="794"/>
         <source>&amp;File</source>
         <translation>文件(&amp;F)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="821"/>
+        <location filename="BrowserMenu.h" line="795"/>
         <source>&amp;Edit</source>
         <translation>编辑(&amp;E)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="822"/>
+        <location filename="BrowserMenu.h" line="796"/>
         <source>&amp;View</source>
         <translation>查看(&amp;V)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="823"/>
+        <location filename="BrowserMenu.h" line="797"/>
         <source>Meta&amp;data</source>
         <translation type="unfinished">元数据(&amp;d)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="824"/>
+        <location filename="BrowserMenu.h" line="798"/>
         <source>&amp;Tools</source>
         <translation>工具(&amp;T)</translation>
     </message>
@@ -20301,17 +20310,17 @@ Do you want to continue?</oldsource>
         <translation>视频(+目录)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="681"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>批量获取 (TWAIN)……</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="825"/>
+        <location filename="BrowserMenu.h" line="799"/>
         <source>C&amp;reate</source>
         <translation>创建(&amp;C)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="826"/>
+        <location filename="BrowserMenu.h" line="800"/>
         <source>&amp;Help</source>
         <translation>帮助(&amp;H)</translation>
     </message>
@@ -21022,37 +21031,44 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="ViewMenu.h" line="339"/>
-        <source>Excellent (move to next photo)</source>
-        <translation>极佳 (转到下一图)</translation>
+        <source>Excellent (move to next image)</source>
+        <oldsource>Excellent (move to next photo)</oldsource>
+        <translation type="unfinished">极佳 (转到下一图)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
-        <source>Good (move to next photo)</source>
-        <translation>良好 (转到下一图)</translation>
+        <source>Good (move to next image)</source>
+        <oldsource>Good (move to next photo)</oldsource>
+        <translation type="unfinished">良好 (转到下一图)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
-        <source>Average (move to next photo)</source>
-        <translation>普通 (转到下一图)</translation>
+        <source>Average (move to next image)</source>
+        <oldsource>Average (move to next photo)</oldsource>
+        <translation type="unfinished">普通 (转到下一图)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
-        <source>Fair (move to next photo)</source>
-        <translation>稍差 (转到下一图)</translation>
+        <source>Fair (move to next image)</source>
+        <oldsource>Fair (move to next photo)</oldsource>
+        <translation type="unfinished">稍差 (转到下一图)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
-        <source>Poor (move to next photo)</source>
-        <translation>糟糕 (转到下一图)</translation>
+        <source>Poor (move to next image)</source>
+        <oldsource>Poor (move to next photo)</oldsource>
+        <translation type="unfinished">糟糕 (转到下一图)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
-        <source>Unrated (move to next photo)</source>
-        <translation>不评级 (转到下一图)</translation>
+        <source>Unrated (move to next image)</source>
+        <oldsource>Unrated (move to next photo)</oldsource>
+        <translation type="unfinished">不评级 (转到下一图)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
-        <source>##label## (move to next photo)</source>
+        <source>##label## (move to next image)</source>
+        <oldsource>##label## (move to next photo)</oldsource>
         <translation type="unfinished">##label## (转到下一图)</translation>
     </message>
     <message>
@@ -21726,55 +21742,55 @@ Do you want to continue?</oldsource>
         <translation>保存文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="232"/>
+        <location filename="DlgSettingsView.cpp" line="252"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Left</source>
         <translation>左上</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="233"/>
+        <location filename="DlgSettingsView.cpp" line="253"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Top-Center</source>
         <translation>中上</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="234"/>
+        <location filename="DlgSettingsView.cpp" line="254"/>
         <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Top-Right</source>
         <translation>右上</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="235"/>
+        <location filename="DlgSettingsView.cpp" line="255"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
         <translation>左中</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="236"/>
+        <location filename="DlgSettingsView.cpp" line="256"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Center</source>
         <translation>中心</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="237"/>
+        <location filename="DlgSettingsView.cpp" line="257"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Center-Right</source>
         <translation>右中</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="238"/>
+        <location filename="DlgSettingsView.cpp" line="258"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Left</source>
         <translation>左下</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="239"/>
+        <location filename="DlgSettingsView.cpp" line="259"/>
         <location filename="DlgSlideshow.cpp" line="52"/>
         <source>Bottom-Center</source>
         <translation>中下</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="240"/>
+        <location filename="DlgSettingsView.cpp" line="260"/>
         <location filename="DlgSlideshow.cpp" line="53"/>
         <source>Bottom-Right</source>
         <translation>右下</translation>
@@ -21796,7 +21812,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="18"/>
-        <location filename="DlgSettingsView.cpp" line="280"/>
+        <location filename="DlgSettingsView.cpp" line="300"/>
         <source>Last used</source>
         <translation>上次使用过的</translation>
     </message>
