@@ -12872,7 +12872,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">Разрешить открытие нескольких вкладок Просмотра для одного и того же файла</translation>
+        <translation>Разрешить открытие нескольких вкладок Просмотра для одного и того же файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -13091,7 +13091,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished">Скрывать заголовок вкладки, если открыта только одна</translation>
+        <translation>Скрывать заголовок вкладки, когда открыта только одна</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13268,13 +13268,13 @@ Do you want to reassign?</source>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
         <translatorcomment>Режим ли???</translatorcomment>
-        <translation type="unfinished">Выделить файл в Обозревателе при закрытии вкладки Просмотра</translation>
+        <translation>Выделить файл в Обозревателе при закрытии вкладки Просмотра</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">Drag&amp;&amp;Drop: открывать список файлов в одной вкладке Просмотра</translation>
+        <translation>Drag&amp;&amp;Drop: открывать список файлов в одной вкладке Просмотра</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13540,7 +13540,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">Цветовые метки</translation>
+        <translation>Цветовые метки</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="613"/>
@@ -14006,17 +14006,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Квадратное</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Анаморфное</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Анаморфное</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14217,7 +14217,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1418"/>
         <source>Floating views</source>
-        <translation>Всплывающие окна</translation>
+        <translation>Всплывающие панели</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1443"/>
@@ -19522,7 +19522,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="592"/>
         <source>Send by email...</source>
         <translatorcomment>Отправить по e-mail...</translatorcomment>
-        <translation>Отправить по email...</translation>
+        <translation>Отправить по почте...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="601"/>
@@ -20995,43 +20995,43 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Отлично (перейти к следующему файлу)</translation>
+        <translation>Отлично (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Хорошо (перейти к следующему файлу)</translation>
+        <translation>Хорошо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Средне (перейти к следующему файлу)</translation>
+        <translation>Средне (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Неплохо (перейти к следующему файлу)</translation>
+        <translation>Неплохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Плохо (перейти к следующему файлу)</translation>
+        <translation>Плохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Без рейтинга (перейти к следующему файлу)</translation>
+        <translation>Без рейтинга (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##label## (перейти к следующему файлу)</translation>
+        <translation>##label## (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
@@ -21224,7 +21224,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
-        <translation>Отправить по email...</translation>
+        <translation>Отправить по почте...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="497"/>
