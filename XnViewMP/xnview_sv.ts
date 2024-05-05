@@ -10158,11 +10158,6 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <source>Square</source>
         <translation>Kvadrat</translation>
     </message>
-    <message>
-        <location filename="DlgReadFITS.ui" line="55"/>
-        <source>Asinh</source>
-        <translation>Asinh</translation>
-    </message>
 </context>
 <context>
     <name>DlgReadHDRI</name>
@@ -18576,19 +18571,6 @@ Vill du fortsätta?</translation>
     </message>
 </context>
 <context>
-    <name>KOAuth2</name>
-    <message>
-        <location filename="koauth2.cpp" line="73"/>
-        <source>Could not read response: %1</source>
-        <translation>Kunde inte läsa svaret: %1</translation>
-    </message>
-    <message>
-        <location filename="koauth2.cpp" line="94"/>
-        <source>Could not authorize with pin</source>
-        <translation>Kunde inte auktorisera med PIN-koden</translation>
-    </message>
-</context>
-<context>
     <name>KeywordsModel</name>
     <message>
         <location filename="KeywordsModel.cpp" line="133"/>
@@ -23541,126 +23523,6 @@ Högerklicka för popup-meny med åtgärder.</translation>
         <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Inget fel</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="126"/>
-        <source>The issuer certificate could not be found.</source>
-        <translation>Det gick inte att hitta utfärdarcertifikatet.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="129"/>
-        <source>The certificate signature could not be decrypted.</source>
-        <translation>Certifikatsignaturen kunde inte dekrypteras.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="132"/>
-        <source>The public key in the certificate could not be read.</source>
-        <translation>Den offentliga nyckeln i certifikatet kunde inte läsas.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="135"/>
-        <source>The signature of the certificate is invalid.</source>
-        <translation>Certifikatets signatur är ogiltig.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="138"/>
-        <source>The certificate is not yet valid.</source>
-        <translation>Certifikatet är ännu inte giltigt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="141"/>
-        <source>The certificate has expired.</source>
-        <translation>Certifikatet har upphört att gälla.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="144"/>
-        <source>The certificate&apos;s notBefore field contains an invalid time.</source>
-        <translation>Fältet notBefore i certifikatet innehåller en ogiltig tid.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="147"/>
-        <source>The certificate&apos;s notAfter field contains an invalid time.</source>
-        <translation>Fältet notAfter för certifikatet innehåller en ogiltig tid.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="150"/>
-        <source>The certificate is self-signed, and untrusted.</source>
-        <translation>Certifikatet är självsignerat och inte betrott.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="153"/>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
-        <translation>Rotcertifikatet för certifikatkedjan är självsignerat och inte betrott.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="156"/>
-        <source>The issuer certificate of a locally looked up certificate could not be found.</source>
-        <translation>Det gick inte att hitta utfärdarcertifikatet för ett lokalt uppslaget certifikat.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="159"/>
-        <source>No certificates could be verified.</source>
-        <translation>Inga certifikat kunde verifieras.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="162"/>
-        <source>One of the CA certificates is invalid.</source>
-        <translation>Ett av CA-certifikaten är ogiltigt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="165"/>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>Parametern basicConstraints sökvägslängd har överskridits</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="168"/>
-        <source>The supplied certificate is unsuitable for this purpose.</source>
-        <translation>Det tillhandahållna certifikatet är olämpligt för detta ändamål.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="171"/>
-        <source>The root CA certificate is not trusted for this purpose.</source>
-        <translation>RootCA-certifikatet är inte betrott för detta ändamål.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="174"/>
-        <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation>RootCA-certifikatet är markerat för att avvisa det angivna syftet.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="177"/>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation>Det aktuella kandidatutfärdarcertifikatet avvisades eftersom dess ämnesnamn inte matchade utfärdarnamnet för det aktuella certifikatet.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="181"/>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation>Det aktuella kandidatutfärdarcertifikatet avvisades eftersom dess utfärdarnamn och serienummer fanns och inte matchade behörighetsnyckelidentifieraren för det aktuella certifikatet.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="186"/>
-        <source>The peer did not present any certificate.</source>
-        <translation>Motparten uppvisade inget certifikat.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="189"/>
-        <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation>Värdnamnet matchade inte någon av de giltiga värdarna för det här certifikatet.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="193"/>
-        <source>Unspecified error.</source>
-        <translation>Ospecificerat fel.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="196"/>
-        <source>The peer presented a certificate that was revoked.</source>
-        <translation>Motparten presenterade ett certifikat som återkallats.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="199"/>
-        <source>No SSL support.</source>
-        <translation>Inget SSL-stöd.</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="203"/>

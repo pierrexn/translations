@@ -7901,10 +7901,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
 <context>
     <name>DlgReadFITS</name>
     <message>
-        <source>Asinh</source>
-        <translation>Asinh-funktio</translation>
-    </message>
-    <message>
         <source>Min/Max</source>
         <translation>Min/Max</translation>
     </message>
@@ -14234,17 +14230,6 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
-    <name>KOAuth2</name>
-    <message>
-        <source>Could not read response: %1</source>
-        <translation>Ei voitu lukea vastausta: %1</translation>
-    </message>
-    <message>
-        <source>Could not authorize with pin</source>
-        <translation>Ei voitu hyväksya tunnuslukua (PIN)</translation>
-    </message>
-</context>
-<context>
     <name>KeywordsModel</name>
     <message>
         <source>Label</source>
@@ -18073,108 +18058,12 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
 <context>
     <name>WebError</name>
     <message>
-        <source>The certificate&apos;s notBefore field contains an invalid time.</source>
-        <translation>Varmenteen notBefore-kenttä sisältää virheellisen ajan.</translation>
-    </message>
-    <message>
-        <source>The issuer certificate could not be found.</source>
-        <translation>Myöntäjän varmennetta ei löytynyt.</translation>
-    </message>
-    <message>
         <source>No error</source>
         <translation>Ei virheitä</translation>
     </message>
     <message>
-        <source>The peer did not present any certificate.</source>
-        <translation>Vertailija ei havainnut mitään varmennetta.</translation>
-    </message>
-    <message>
-        <source>The peer presented a certificate that was revoked.</source>
-        <translation>Vertailija havaitsi että varmenne on peruttu.</translation>
-    </message>
-    <message>
-        <source>The public key in the certificate could not be read.</source>
-        <translation>Varmenteen julkista avainta ei voitu lukea.</translation>
-    </message>
-    <message>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>Parametri basicConstraints polun pituus on ylitetty</translation>
-    </message>
-    <message>
-        <source>The root CA certificate is not trusted for this purpose.</source>
-        <translation>Päävarmentajan varmenne ei ole luotettava tätä tarkoitusta varten.</translation>
-    </message>
-    <message>
-        <source>The certificate has expired.</source>
-        <translation>Varmenne on vanhentunut.</translation>
-    </message>
-    <message>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
-        <translation>Varmenneketjun juurivarmenne on itse allekirjoitettu ja epäluotettava.</translation>
-    </message>
-    <message>
-        <source>One of the CA certificates is invalid.</source>
-        <translation>Yksi CA-varmenteista on virheellinen.</translation>
-    </message>
-    <message>
-        <source>The supplied certificate is unsuitable for this purpose.</source>
-        <translation>Toimitettu sertifikaatti ei sovellu tähän tarkoitukseen.</translation>
-    </message>
-    <message>
-        <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation>Isäntänimi ei vastannut mitään tämän varmenteen hyväksyttyjä isäntiä.</translation>
-    </message>
-    <message>
-        <source>The certificate is self-signed, and untrusted.</source>
-        <translation>Varmenne on itse allekirjoitettu ja epäluotettava.</translation>
-    </message>
-    <message>
-        <source>The signature of the certificate is invalid.</source>
-        <translation>Varmenteen allekirjoitus on virheellinen.</translation>
-    </message>
-    <message>
-        <source>The certificate&apos;s notAfter field contains an invalid time.</source>
-        <translation>Varmenteen notAfter-kenttä sisältää virheellisen ajan.</translation>
-    </message>
-    <message>
-        <source>The certificate signature could not be decrypted.</source>
-        <translation>Varmenteen allekirjoitusta ei voitu purkaa.</translation>
-    </message>
-    <message>
-        <source>The issuer certificate of a locally looked up certificate could not be found.</source>
-        <translation>Paikallisesti haetun varmenteen myöntäjän varmennetta ei löytynyt.</translation>
-    </message>
-    <message>
-        <source>No SSL support.</source>
-        <translation>Ei SSL-tukea.</translation>
-    </message>
-    <message>
         <source>The peer presented a certificate that was blacklisted.</source>
         <translation>Vertailija havaitsi että varmenne on mustalla listalla.</translation>
-    </message>
-    <message>
-        <source>Unspecified error.</source>
-        <translation>Määrittelemätön virhe.</translation>
-    </message>
-    <message>
-        <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation>CA-juurivarmenne on merkitty hylkäämään käytön tähän tarkoitukseen.</translation>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation>Nykyinen ehdokasvarmenne hylättiin, koska sen aiheen nimi ei vastannut nykyistä varmennetta.</translation>
-    </message>
-    <message>
-        <source>The certificate is not yet valid.</source>
-        <translation>Varmenne ei ole vielä voimassa.</translation>
-    </message>
-    <message>
-        <source>No certificates could be verified.</source>
-        <translation>Varmenteita ei voitu vahvistaa.</translation>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation>Nykyinen ehdokasvarmenne hylättiin, koska sen myöntäjän nimi ja sarjanumero olivat olemassa eivätkä vastanneet nykyisen varmenteen auktorisointiavaimen tunnistetta.</translation>
     </message>
 </context>
 <context>

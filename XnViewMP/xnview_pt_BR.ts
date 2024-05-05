@@ -7912,10 +7912,6 @@ Please make sure that files are not read-only!</source>
         <source>Square</source>
         <translation type="unfinished">Quadrado</translation>
     </message>
-    <message>
-        <source>Asinh</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>DlgReadHDRI</name>
@@ -14204,17 +14200,6 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
-    <name>KOAuth2</name>
-    <message>
-        <source>Could not read response: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not authorize with pin</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KeywordsModel</name>
     <message>
         <source>Label</source>
@@ -18043,102 +18028,6 @@ Right Click for pop-up menu with actions.</source>
     <name>WebError</name>
     <message>
         <source>No error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The issuer certificate could not be found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The certificate signature could not be decrypted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The public key in the certificate could not be read.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The signature of the certificate is invalid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The certificate is not yet valid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The certificate has expired.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The certificate&apos;s notBefore field contains an invalid time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The certificate&apos;s notAfter field contains an invalid time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The certificate is self-signed, and untrusted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The issuer certificate of a locally looked up certificate could not be found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No certificates could be verified.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One of the CA certificates is invalid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The supplied certificate is unsuitable for this purpose.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The root CA certificate is not trusted for this purpose.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The peer did not present any certificate.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unspecified error.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The peer presented a certificate that was revoked.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No SSL support.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

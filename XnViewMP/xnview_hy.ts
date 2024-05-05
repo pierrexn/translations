@@ -7920,10 +7920,6 @@ Please make sure that files are not read-only!</source>
         <source>Square</source>
         <translation>Քառակուսի</translation>
     </message>
-    <message>
-        <source>Asinh</source>
-        <translation>Asinh</translation>
-    </message>
 </context>
 <context>
     <name>DlgReadHDRI</name>
@@ -14230,17 +14226,6 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
-    <name>KOAuth2</name>
-    <message>
-        <source>Could not read response: %1</source>
-        <translation>Հնարավոր չէ կարդալ պատասխանը՝ %1</translation>
-    </message>
-    <message>
-        <source>Could not authorize with pin</source>
-        <translation>Հնարավոր չէ իսկորոշվել pin-ով</translation>
-    </message>
-</context>
-<context>
     <name>KeywordsModel</name>
     <message>
         <source>Label</source>
@@ -18070,104 +18055,6 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <source>No error</source>
         <translation>Չկա սխալ</translation>
-    </message>
-    <message>
-        <source>The issuer certificate could not be found.</source>
-        <translation>Թողարկողի վկայագիրը չհաջողվեց գտնել:</translation>
-    </message>
-    <message>
-        <source>The certificate signature could not be decrypted.</source>
-        <translation>Վկայագրի ստորագրությունը չհաջողվեց վերծանել:</translation>
-    </message>
-    <message>
-        <source>The public key in the certificate could not be read.</source>
-        <translation>Վկայագրում հանրային բանալին հնարավոր չէ կարդալ:</translation>
-    </message>
-    <message>
-        <source>The signature of the certificate is invalid.</source>
-        <translation>Վկայագրի ստորագրությունը անվավեր է:</translation>
-    </message>
-    <message>
-        <source>The certificate is not yet valid.</source>
-        <translation>Վկայագիրը դեռ վավեր չէ:</translation>
-    </message>
-    <message>
-        <source>The certificate has expired.</source>
-        <translation>Վկայագիրը սպառված է:</translation>
-    </message>
-    <message>
-        <source>The certificate&apos;s notBefore field contains an invalid time.</source>
-        <translation>Վկայագրի notBefore դաշտը պարունակում է անվավեր ժամանակ:</translation>
-    </message>
-    <message>
-        <source>The certificate&apos;s notAfter field contains an invalid time.</source>
-        <translation>Վկայագրի notAfter դաշտը պարունակում է անվավեր ժամանակ:</translation>
-    </message>
-    <message>
-        <source>The certificate is self-signed, and untrusted.</source>
-        <translation>Վկայագիրը ինքնաստորագրված է և անվստահելի:</translation>
-    </message>
-    <message>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
-        <translation>Արմատային վկայագիրը վկայագրի շղթայում ինքնաստորագրված է և անվստահելի:</translation>
-    </message>
-    <message>
-        <source>The issuer certificate of a locally looked up certificate could not be found.</source>
-        <translatorcomment>Տեղում փնտրված վկայագրի թողարկողի վկայականը չհաջողվեց գտնել:</translatorcomment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>No certificates could be verified.</source>
-        <translation>Վկայագրերը չեն կարող ստուգվել:</translation>
-    </message>
-    <message>
-        <source>One of the CA certificates is invalid.</source>
-        <translatorcomment>CA վկայագրերից մեկը անվավեր է:</translatorcomment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>basicConstraints ուղու երկարության ցուցիչը գերազանցված է</translation>
-    </message>
-    <message>
-        <source>The supplied certificate is unsuitable for this purpose.</source>
-        <translation>Մատակարարված վկայագիրը անկայուն է այս նպատակի համար:</translation>
-    </message>
-    <message>
-        <source>The root CA certificate is not trusted for this purpose.</source>
-        <translation>Արմատային CA վկայագիրը վստահելի չէ այս նպատակի համար:</translation>
-    </message>
-    <message>
-        <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation>Արմատային CA վկայագրի համար նշված է մերժել հատկորոշված նպատակի համար</translation>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation>Ընթացիկ թեկնածու թողարկողը մերժվել է, քանի որ իր անվանումը չի համապատասխանում ընթացիկ վկայագրի թողարկողի անվանը:</translation>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation>Ընթացիկ թեկնածու թողարկողը մերժվել է, քանի որ իր անվանումը և հաջորդական համարը ներկայացված չեն և չեն համապատասխանում ընթացիկ վկայագրի հեղինակի բանալու նույնացուցիչին</translation>
-    </message>
-    <message>
-        <source>The peer did not present any certificate.</source>
-        <translation>Վկայագիր չի ներկայացվել:</translation>
-    </message>
-    <message>
-        <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation>Հոսթի անունը չի համապատասխանում այս վկայագրի վավեր հոսթերին:</translation>
-    </message>
-    <message>
-        <source>Unspecified error.</source>
-        <translation>Անորոշ սխալ:</translation>
-    </message>
-    <message>
-        <source>The peer presented a certificate that was revoked.</source>
-        <translation>Ներկայացվել է վկայական, որը ուժը կորցրած է ճանաչվել:</translation>
-    </message>
-    <message>
-        <source>No SSL support.</source>
-        <translation>Չկա SSL-ի աջակցում</translation>
     </message>
     <message>
         <source>The peer presented a certificate that was blacklisted.</source>

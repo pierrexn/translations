@@ -7898,10 +7898,6 @@ Please make sure that files are not read-only!</source>
 <context>
     <name>DlgReadFITS</name>
     <message>
-        <source>Asinh</source>
-        <translation>Asinh (ASENOH)</translation>
-    </message>
-    <message>
         <source>Min/Max</source>
         <translation>Mínimo/Máximo</translation>
     </message>
@@ -14232,17 +14228,6 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
-    <name>KOAuth2</name>
-    <message>
-        <source>Could not read response: %1</source>
-        <translation>No se pudo leer la respuesta: %1</translation>
-    </message>
-    <message>
-        <source>Could not authorize with pin</source>
-        <translation>No se pudo autorizar con pin</translation>
-    </message>
-</context>
-<context>
     <name>KeywordsModel</name>
     <message>
         <source>Label</source>
@@ -18072,102 +18057,6 @@ Clic Derecho para menú contextual con acciones.</translation>
     <message>
         <source>No error</source>
         <translation>Sin error</translation>
-    </message>
-    <message>
-        <source>The issuer certificate could not be found.</source>
-        <translation>No se ha podido encontrar el certificado del emisor.</translation>
-    </message>
-    <message>
-        <source>The certificate signature could not be decrypted.</source>
-        <translation>No se ha podido descifrar la firma del certificado.</translation>
-    </message>
-    <message>
-        <source>The public key in the certificate could not be read.</source>
-        <translation>No se ha podido leer la clave pública del certificado.</translation>
-    </message>
-    <message>
-        <source>The signature of the certificate is invalid.</source>
-        <translation>La firma del certificado no es válida.</translation>
-    </message>
-    <message>
-        <source>The certificate is not yet valid.</source>
-        <translation>El certificado no es válido todavía.</translation>
-    </message>
-    <message>
-        <source>The certificate has expired.</source>
-        <translation>El certificado ha caducado.</translation>
-    </message>
-    <message>
-        <source>The certificate&apos;s notBefore field contains an invalid time.</source>
-        <translation>El campo notBefore del certificado contiene una hora no válida.</translation>
-    </message>
-    <message>
-        <source>The certificate&apos;s notAfter field contains an invalid time.</source>
-        <translation>El campo notAfter del certificado contiene una hora no válida.</translation>
-    </message>
-    <message>
-        <source>The certificate is self-signed, and untrusted.</source>
-        <translation>El certificado está auto-firmado y no es de confianza.</translation>
-    </message>
-    <message>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
-        <translation>El certificado raíz de la cadena de certificados está autofirmado y no es de confianza.</translation>
-    </message>
-    <message>
-        <source>The issuer certificate of a locally looked up certificate could not be found.</source>
-        <translation>No se ha podido encontrar el certificado emisor de un certificado buscado localmente.</translation>
-    </message>
-    <message>
-        <source>No certificates could be verified.</source>
-        <translation>No se han podido verificar los certificados.</translation>
-    </message>
-    <message>
-        <source>One of the CA certificates is invalid.</source>
-        <translation>Uno de los certificados CA no es válido.</translation>
-    </message>
-    <message>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>Se ha superado el parámetro de longitud de ruta basicConstraints</translation>
-    </message>
-    <message>
-        <source>The supplied certificate is unsuitable for this purpose.</source>
-        <translation>El certificado suministrado no es adecuado para este propósito.</translation>
-    </message>
-    <message>
-        <source>The root CA certificate is not trusted for this purpose.</source>
-        <translation>El certificado raíz CA no es de confianza para este propósito.</translation>
-    </message>
-    <message>
-        <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation>El certificado raíz CA está marcado para rechazar el propósito especificado.</translation>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation>El certificado de emisor candidato actual se ha rechazado porque el nombre del asunto no coincide con el nombre del emisor del certificado actual.</translation>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation>El certificado de emisor candidato actual se ha rechazado porque el nombre del emisor y el número de serie correspondientes no coinciden con el identificador de clave de autoridad del certificado actual.</translation>
-    </message>
-    <message>
-        <source>The peer did not present any certificate.</source>
-        <translation>El par no presentó ningún certificado.</translation>
-    </message>
-    <message>
-        <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation>El nombre del host no coincide con ninguno de los hosts válidos para este certificado.</translation>
-    </message>
-    <message>
-        <source>Unspecified error.</source>
-        <translation>Error no especificado.</translation>
-    </message>
-    <message>
-        <source>The peer presented a certificate that was revoked.</source>
-        <translation>El par presentó un certificado que fue revocado.</translation>
-    </message>
-    <message>
-        <source>No SSL support.</source>
-        <translation>Sin soporte SSL.</translation>
     </message>
     <message>
         <source>The peer presented a certificate that was blacklisted.</source>

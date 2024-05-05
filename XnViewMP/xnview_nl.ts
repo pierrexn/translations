@@ -10174,11 +10174,6 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <source>Square</source>
         <translation>Vierkant</translation>
     </message>
-    <message>
-        <location filename="DlgReadFITS.ui" line="55"/>
-        <source>Asinh</source>
-        <translation>Asinh</translation>
-    </message>
 </context>
 <context>
     <name>DlgReadHDRI</name>
@@ -18595,19 +18590,6 @@ Doorgaan?</translation>
     </message>
 </context>
 <context>
-    <name>KOAuth2</name>
-    <message>
-        <location filename="koauth2.cpp" line="73"/>
-        <source>Could not read response: %1</source>
-        <translation>Kon reactie: %1 niet lezen</translation>
-    </message>
-    <message>
-        <location filename="koauth2.cpp" line="94"/>
-        <source>Could not authorize with pin</source>
-        <translation>Kon niet verifiëren met pin</translation>
-    </message>
-</context>
-<context>
     <name>KeywordsModel</name>
     <message>
         <location filename="KeywordsModel.cpp" line="133"/>
@@ -23566,126 +23548,6 @@ Rechtermuisklik opent het actiemenu.</translation>
         <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Geen fouten</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="126"/>
-        <source>The issuer certificate could not be found.</source>
-        <translation>Het verlener certificaat kon niet gevonden worden .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="129"/>
-        <source>The certificate signature could not be decrypted.</source>
-        <translation>De certificaat handtekening kon niet gecodeerd worden .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="132"/>
-        <source>The public key in the certificate could not be read.</source>
-        <translation>De publieke sleutel in het certificaat kon niet gelezen worden .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="135"/>
-        <source>The signature of the certificate is invalid.</source>
-        <translation>De handtekening van het certificaat is ongeldig .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="138"/>
-        <source>The certificate is not yet valid.</source>
-        <translation>Het certificaat is nog niet geldig .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="141"/>
-        <source>The certificate has expired.</source>
-        <translation>Het certificaat is verlopen .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="144"/>
-        <source>The certificate&apos;s notBefore field contains an invalid time.</source>
-        <translation>Het notBefore veld in het certificaat bevat een ongeldige tijd .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="147"/>
-        <source>The certificate&apos;s notAfter field contains an invalid time.</source>
-        <translation>Het notAfter veld in het certificaat bevat een ongeldige tijd .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="150"/>
-        <source>The certificate is self-signed, and untrusted.</source>
-        <translation>Het certificaat is zelf-getekend and onbetrouwbaar.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="153"/>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
-        <translation>Het bron-certificaat van de certificaat ketting is zelf-getekend en onbetrouwbaar.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="156"/>
-        <source>The issuer certificate of a locally looked up certificate could not be found.</source>
-        <translation>Het verlenerscertificaat van een locaal looked-up certificaat kon niet worden gevonden .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="159"/>
-        <source>No certificates could be verified.</source>
-        <translation>Geen certificaat kon worden nagekijken .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="162"/>
-        <source>One of the CA certificates is invalid.</source>
-        <translation>Eén van de CA certificaten is ongeldig .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="165"/>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>De &quot;basisConstrains path length&quot; parameter is overschreden</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="168"/>
-        <source>The supplied certificate is unsuitable for this purpose.</source>
-        <translation>Het verstrekte certificaat is niet geschikt voor dit doel .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="171"/>
-        <source>The root CA certificate is not trusted for this purpose.</source>
-        <translation>Het bron CA certificaat is niet betrouwbaar voor dit doel.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="174"/>
-        <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation>Het root CA-certificaat is gemarkeerd om het gespecificeerde doel te weigeren.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="177"/>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation>Het huidige certificaat van kandidaat-emittent werd afgewezen omdat de onderwerpnaam niet overeenkwam met de naam van de uitgevende instelling van het huidige certificaat.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="181"/>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation>Het huidige certificaat van kandidaat-emittent werd afgewezen omdat de gegeven naam en serienummer van de uitgevende instelling niet overeenkwamen met de autoriteitssleutelidentificatie van het huidige certificaat.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="186"/>
-        <source>The peer did not present any certificate.</source>
-        <translation>De peer presenteerde geen enkel certificaat.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="189"/>
-        <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation>De host name kwam met geen enkele geldige host overeen voor dit certificaat .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="193"/>
-        <source>Unspecified error.</source>
-        <translation>Niet-gespecifieerde fout .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="196"/>
-        <source>The peer presented a certificate that was revoked.</source>
-        <translation>De Peer presenteerde een ingetrokken certificaat .</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="199"/>
-        <source>No SSL support.</source>
-        <translation>Geen SSL ondersteuning.</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="203"/>

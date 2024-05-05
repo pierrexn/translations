@@ -10167,11 +10167,6 @@ Please make sure that files are not read-only!</oldsource>
         <source>Square</source>
         <translation>Štvorcový</translation>
     </message>
-    <message>
-        <location filename="DlgReadFITS.ui" line="55"/>
-        <source>Asinh</source>
-        <translation>Asinh</translation>
-    </message>
 </context>
 <context>
     <name>DlgReadHDRI</name>
@@ -18580,19 +18575,6 @@ Chcete pokračovať?</translation>
     </message>
 </context>
 <context>
-    <name>KOAuth2</name>
-    <message>
-        <location filename="koauth2.cpp" line="73"/>
-        <source>Could not read response: %1</source>
-        <translation>Nmožno načítat odozvu: %1</translation>
-    </message>
-    <message>
-        <location filename="koauth2.cpp" line="94"/>
-        <source>Could not authorize with pin</source>
-        <translation>Nemožno autorizovať s pin-om</translation>
-    </message>
-</context>
-<context>
     <name>KeywordsModel</name>
     <message>
         <location filename="KeywordsModel.cpp" line="133"/>
@@ -23548,126 +23530,6 @@ Right Click for pop-up menu with actions.</source>
         <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Žiadna chyba</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="126"/>
-        <source>The issuer certificate could not be found.</source>
-        <translation>Certifikát vydavateľa sa nepodarilo nájsť.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="129"/>
-        <source>The certificate signature could not be decrypted.</source>
-        <translation>Podpis certifikátu sa nepodarilo dešifrovať.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="132"/>
-        <source>The public key in the certificate could not be read.</source>
-        <translation>Verejný kľúč v certifikáte sa nepodarilo prečítať.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="135"/>
-        <source>The signature of the certificate is invalid.</source>
-        <translation>Podpis certifikátu je neplatný.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="138"/>
-        <source>The certificate is not yet valid.</source>
-        <translation>Certifikát ešte nie je platný.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="141"/>
-        <source>The certificate has expired.</source>
-        <translation>Platnosť certifikátu vypršala.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="144"/>
-        <source>The certificate&apos;s notBefore field contains an invalid time.</source>
-        <translation>Pole notBefore certifikátu obsahuje neplatný čas.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="147"/>
-        <source>The certificate&apos;s notAfter field contains an invalid time.</source>
-        <translation>Pole notAfter certifikátu obsahuje neplatný čas.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="150"/>
-        <source>The certificate is self-signed, and untrusted.</source>
-        <translation>Certifikát je vlastnoručne podpísaný a je nedôveryhodný.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="153"/>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
-        <translation>Koreňový certifikát reťazca certifikátov je podpísaný sám sebou a je nedôveryhodný.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="156"/>
-        <source>The issuer certificate of a locally looked up certificate could not be found.</source>
-        <translation>Certifikát vydavateľa lokálne vyhľadaného certifikátu sa nepodarilo nájsť.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="159"/>
-        <source>No certificates could be verified.</source>
-        <translation>Nepodarilo sa overiť žiadne certifikáty.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="162"/>
-        <source>One of the CA certificates is invalid.</source>
-        <translation>Jeden z certifikátov CA je neplatný.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="165"/>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>Parameter dĺžky cesty basicConstraints bol prekročený</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="168"/>
-        <source>The supplied certificate is unsuitable for this purpose.</source>
-        <translation>Dodaný certifikát je na tento účel nevhodný.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="171"/>
-        <source>The root CA certificate is not trusted for this purpose.</source>
-        <translation>Koreňový certifikát CA nie je na tento účel dôveryhodný.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="174"/>
-        <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation>Certifikát koreňovej CA je označený tak, že odmieta určený účel.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="177"/>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation>Aktuálny kandidátsky certifikát vydavateľa bol odmietnutý, pretože jeho názov sa nezhodoval s názvom vydavateľa aktuálneho certifikátu.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="181"/>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation>Aktuálny kandidátsky certifikát vydavateľa bol odmietnutý, pretože jeho meno vydavateľa a sériové číslo boli prítomné a nezhodovali sa s identifikátorom kľúča autority aktuálneho certifikátu.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="186"/>
-        <source>The peer did not present any certificate.</source>
-        <translation>Peer nepredložil žiadny certifikát.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="189"/>
-        <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation>Názov hostiteľa sa nezhoduje so žiadnym z platných hostiteľov pre tento certifikát.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="193"/>
-        <source>Unspecified error.</source>
-        <translation>Nešpecifikovaná chyba.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="196"/>
-        <source>The peer presented a certificate that was revoked.</source>
-        <translation>Peer predložil certifikát, ktorý bol zrušený.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="199"/>
-        <source>No SSL support.</source>
-        <translation>Žiadna podpora SSL.</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="203"/>

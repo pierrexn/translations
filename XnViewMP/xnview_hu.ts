@@ -10146,11 +10146,6 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <source>Square</source>
         <translation>Négyzet</translation>
     </message>
-    <message>
-        <location filename="DlgReadFITS.ui" line="55"/>
-        <source>Asinh</source>
-        <translation>Asinh</translation>
-    </message>
 </context>
 <context>
     <name>DlgReadHDRI</name>
@@ -18561,19 +18556,6 @@ Biztosan folytassuk?</translation>
     </message>
 </context>
 <context>
-    <name>KOAuth2</name>
-    <message>
-        <location filename="koauth2.cpp" line="73"/>
-        <source>Could not read response: %1</source>
-        <translation>Nem tudom olvasni a választ: %1</translation>
-    </message>
-    <message>
-        <location filename="koauth2.cpp" line="94"/>
-        <source>Could not authorize with pin</source>
-        <translation>Nem engedélyezhető</translation>
-    </message>
-</context>
-<context>
     <name>KeywordsModel</name>
     <message>
         <location filename="KeywordsModel.cpp" line="133"/>
@@ -23516,126 +23498,6 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
         <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Nincs hiba</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="126"/>
-        <source>The issuer certificate could not be found.</source>
-        <translation>A kibocsátó tanúsítvány nem található.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="129"/>
-        <source>The certificate signature could not be decrypted.</source>
-        <translation>A tanúsítvány aláírását nem lehetett visszafejteni.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="132"/>
-        <source>The public key in the certificate could not be read.</source>
-        <translation>A tanúsítványban lévő nyilvános kulcs nem olvasható.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="135"/>
-        <source>The signature of the certificate is invalid.</source>
-        <translation>A tanúsítvány aláírása érvénytelen.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="138"/>
-        <source>The certificate is not yet valid.</source>
-        <translation>A tanúsítvány még nem érvényes.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="141"/>
-        <source>The certificate has expired.</source>
-        <translation>A tanúsítvány lejárt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="144"/>
-        <source>The certificate&apos;s notBefore field contains an invalid time.</source>
-        <translation>A tanúsítvány &quot;Legkorábban / notBefore&quot; mezője érvénytelen időpontot tartalmaz.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="147"/>
-        <source>The certificate&apos;s notAfter field contains an invalid time.</source>
-        <translation>A tanúsítvány &quot;Ennél korább / notAfteri&quot; mezője érvénytelen időpontot tartalmaz.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="150"/>
-        <source>The certificate is self-signed, and untrusted.</source>
-        <translation>A tanúsítvány önaláírt és nem megbízható.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="153"/>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
-        <translation>A tanúsítványlánc gyökértanúsítványa önaláírt és nem megbízható.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="156"/>
-        <source>The issuer certificate of a locally looked up certificate could not be found.</source>
-        <translation>A helyileg keresett tanúsítvány kibocsátói tanúsítványa nem található.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="159"/>
-        <source>No certificates could be verified.</source>
-        <translation>A tanúsítványokat nem lehetett ellenőrizni.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="162"/>
-        <source>One of the CA certificates is invalid.</source>
-        <translation>Az egyik hitelesítésszolgáltatói (CA) tanúsítvány érvénytelen.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="165"/>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>A &quot;alapmegkötés / basicConstraints&quot; útvonal hossz paramétere túllépve</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="168"/>
-        <source>The supplied certificate is unsuitable for this purpose.</source>
-        <translation>A mellékelt tanúsítvány erre a célra nem alkalmas.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="171"/>
-        <source>The root CA certificate is not trusted for this purpose.</source>
-        <translation>A gyökér hitelesítésszolgáltató (CA) tanúsítványa nem megbízható erre a célra.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="174"/>
-        <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation>A gyökér hitelesítésszolgáltatói (CA) tanúsítványt úgy jelölték meg, hogy elutasítja a megadott feladatot.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="177"/>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation>A jelenlegi kibocsátójelölt tanúsítványát elutasították, mert a tárgy neve nem egyezett a jelenlegi tanúsítvány kibocsátójának nevével.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="181"/>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation>A jelenlegi kibocsátójelölt tanúsítványát elutasították, mert a kibocsátó neve és sorozatszáma jelen volt, és nem egyezett a jelenlegi tanúsítvány kulcsazonosítójával.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="186"/>
-        <source>The peer did not present any certificate.</source>
-        <translation>Az partner nem mutatott be semmilyen tanúsítványt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="189"/>
-        <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation>Az állomás neve nem egyezik a tanúsítványhoz tartozó egyik érvényes állomással sem.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="193"/>
-        <source>Unspecified error.</source>
-        <translation>Meghatározatlan hiba.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="196"/>
-        <source>The peer presented a certificate that was revoked.</source>
-        <translation>A partner egy visszavont tanúsítványt mutatott be.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="199"/>
-        <source>No SSL support.</source>
-        <translation>Nincs SSL-támogatás.</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="203"/>

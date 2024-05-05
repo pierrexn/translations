@@ -10148,11 +10148,6 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <source>Square</source>
         <translation>Quadrat</translation>
     </message>
-    <message>
-        <location filename="DlgReadFITS.ui" line="55"/>
-        <source>Asinh</source>
-        <translation>asinh</translation>
-    </message>
 </context>
 <context>
     <name>DlgReadHDRI</name>
@@ -18550,19 +18545,6 @@ Do you want to continue?</oldsource>
     </message>
 </context>
 <context>
-    <name>KOAuth2</name>
-    <message>
-        <location filename="koauth2.cpp" line="73"/>
-        <source>Could not read response: %1</source>
-        <translation>Fehler beim Lesen der Antwort: %1</translation>
-    </message>
-    <message>
-        <location filename="koauth2.cpp" line="94"/>
-        <source>Could not authorize with pin</source>
-        <translation>Fehler beim Autorisieren mit PIN</translation>
-    </message>
-</context>
-<context>
     <name>KeywordsModel</name>
     <message>
         <location filename="KeywordsModel.cpp" line="133"/>
@@ -23513,126 +23495,6 @@ Rechte Maustaste öffnet Kontextmenü mit weiteren Aktionen.</translation>
         <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Kein Fehler</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="126"/>
-        <source>The issuer certificate could not be found.</source>
-        <translation>Das Ausstellerzertifikat konnte nicht gefunden werden.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="129"/>
-        <source>The certificate signature could not be decrypted.</source>
-        <translation>Das Ausstellerzertifikat konnte nicht gefunden werden.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="132"/>
-        <source>The public key in the certificate could not be read.</source>
-        <translation>Der öffentliche Schlüssel im Zertifikat konnte nicht gelesen werden.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="135"/>
-        <source>The signature of the certificate is invalid.</source>
-        <translation>Die Signatur des Zertifikats ist ungültig.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="138"/>
-        <source>The certificate is not yet valid.</source>
-        <translation>Das Zertifikat ist noch nicht gültig.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="141"/>
-        <source>The certificate has expired.</source>
-        <translation>Das Zertifikat ist abgelaufen.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="144"/>
-        <source>The certificate&apos;s notBefore field contains an invalid time.</source>
-        <translation>Das notBefore-Feld des Zertifikats enthält eine ungültige Zeitangabe.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="147"/>
-        <source>The certificate&apos;s notAfter field contains an invalid time.</source>
-        <translation>Das notAfter-Feld des Zertifikats enthält eine ungültige Zeitangabe.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="150"/>
-        <source>The certificate is self-signed, and untrusted.</source>
-        <translation>Das Zertifikat ist selbstsigniert und nicht als vertrauenswürdig eingestuft.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="153"/>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
-        <translation>Das Stammzertifikat der Zertifikatskette ist selbstsigniert und nicht vertrauenswürdig.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="156"/>
-        <source>The issuer certificate of a locally looked up certificate could not be found.</source>
-        <translation>Das Ausstellerzertifikat eines lokal nachgeschlagenen Zertifikats konnte nicht gefunden werden.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="159"/>
-        <source>No certificates could be verified.</source>
-        <translation>Es konnten keine Zertifikate überprüft werden.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="162"/>
-        <source>One of the CA certificates is invalid.</source>
-        <translation>Eines der CA-Zertifikate ist ungültig.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="165"/>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>Die Pfadlänge des Parameters basicConstraints wurde überschritten</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="168"/>
-        <source>The supplied certificate is unsuitable for this purpose.</source>
-        <translation>Das bereitgestellte Zertifikat ist für diesen Zweck ungeeignet.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="171"/>
-        <source>The root CA certificate is not trusted for this purpose.</source>
-        <translation>Das Root-CA-Zertifikat ist für diesen Zweck nicht vertrauenswürdig.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="174"/>
-        <source>The root CA certificate is marked to reject the specified purpose.</source>
-        <translation>Das Root-CA-Zertifikat ist so gekennzeichnet, dass es den angegebenen Zweck ablehnt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="177"/>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
-        <translation>Das aktuelle kandidierende Ausstellerzertifikat wurde abgelehnt, da sein Betreffname nicht mit dem Ausstellernamen des aktuellen Zertifikats übereinstimmt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="181"/>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
-        <translation>Das aktuelle Kandidaten-Ausstellerzertifikat wurde abgelehnt, weil der Name des Ausstellers und die Seriennummer vorhanden waren und nicht mit dem Autoritätsschlüssel-Identifikator des aktuellen Zertifikats übereinstimmten.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="186"/>
-        <source>The peer did not present any certificate.</source>
-        <translation>Der Peer hat kein Zertifikat vorgelegt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="189"/>
-        <source>The host name did not match any of the valid hosts for this certificate.</source>
-        <translation>Der Hostname stimmt mit keinem der gültigen Hosts für dieses Zertifikat überein.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="193"/>
-        <source>Unspecified error.</source>
-        <translation>Unspezifischer Fehler.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="196"/>
-        <source>The peer presented a certificate that was revoked.</source>
-        <translation>Der Peer legte ein Zertifikat vor, das widerrufen wurde.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="199"/>
-        <source>No SSL support.</source>
-        <translation>Keine SSL-Unterstützung</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="203"/>
