@@ -13946,7 +13946,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Carré</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="327"/>
@@ -13981,7 +13981,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorphique</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -18201,7 +18201,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="122"/>
         <source>Copyright info URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL info copyright</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="123"/>
@@ -19547,7 +19547,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Coller comme une image</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="799"/>
@@ -21160,7 +21160,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer la sélection</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="420"/>
@@ -21419,7 +21419,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Coller comme une image</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="502"/>
@@ -23965,7 +23965,8 @@ Souhaitez-vous conserver les vignettes ?
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Le catalogue et les métadonnées sont désactivés - 
+Les étiquettes de classement, d&apos;étiquette et de couleur ne seront pas sauvegardées.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1042"/>
