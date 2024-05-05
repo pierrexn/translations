@@ -13941,7 +13941,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorphique</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
