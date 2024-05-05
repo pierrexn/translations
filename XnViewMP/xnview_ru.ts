@@ -1329,12 +1329,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="3229"/>
         <source>Blurred frame</source>
-        <translation>Размытая рамка</translation>
+        <translation>Рамка размытая</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3474"/>
         <source>Inner Frame</source>
-        <translation>Внутренняя рамка</translation>
+        <translation>Рамка внутренняя</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3828"/>
@@ -1442,7 +1442,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2939"/>
         <source>Border 3D</source>
-        <translation>Обрамление 3D</translation>
+        <translation>Рамка 3D</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2966"/>
@@ -1506,7 +1506,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="3286"/>
         <source>Border</source>
-        <translation>Обрамление</translation>
+        <translation>Рамка</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3520"/>
@@ -3563,7 +3563,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgConvert.cpp" line="1133"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
-        <translation>&lt;br&gt;XnConvert бесплатна только для персонального некоммерческого или образовательного использования, включая не профильные организации (т.e. школы, университеты, государственные органы, полиция, пожарные части и больницы).&lt;br&gt;Для коммерческого использования и распространения необходимо зарегистрироваться.&lt;br&gt;&lt;br&gt;Вы имеете право использовать и делать неограниченное количество копий данного приложения.&lt;br&gt;&lt;br&gt;Приложение предоставляется на условиях «как есть».&lt;br&gt;Автор не предоставляет и не подразумевает каких-либо гарантий.&lt;br&gt;Автор не несет ответственности за потерю данных, убытки, потерю прибыли или любой другой вид убытков при использовании или невозможности использования этого приложения.&lt;br&gt;&lt;br&gt;Приветствуются любые предложения, пожелания и комментарии.</translation>
+        <translation>&lt;br&gt;XnConvert бесплатна только для персонального некоммерческого или образовательного использования, включая не профильные организации (т.e. школы, университеты, государственные органы, полиция, пожарные части и больницы).&lt;br&gt;Для коммерческого использования и распространения необходимо зарегистрироваться.&lt;br&gt;&lt;br&gt;Вы имеете право использовать и делать неограниченное количество копий данного приложения.&lt;br&gt;&lt;br&gt;Приложение предоставляется на условиях «как есть».&lt;br&gt;Автор не предоставляет и не подразумевает каких-либо гарантий.&lt;br&gt;Автор не несет ответственности за потерю данных, убытки, потерю прибыли или любой другой вид убытков при использовании или невозможности использования этого приложения.&lt;br&gt;&lt;br&gt;Приветствуются любые предложения, пожелания и комментарии. </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1283"/>
@@ -4212,7 +4212,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="200"/>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded edge</source>
-        <translation>Скругление краёв</translation>
+        <translation>Скругление</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -5850,7 +5850,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="56"/>
         <source>Offset X</source>
-        <translation>Сдвиг по X</translation>
+        <translation>Смещение по X</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="106"/>
@@ -5871,7 +5871,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="151"/>
         <source>Offset Y</source>
-        <translation>Сдвиг по Y</translation>
+        <translation>Смещение по Y</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="213"/>
@@ -6631,17 +6631,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="714"/>
         <source>Activated</source>
-        <translation>Использовать тень</translation>
+        <translation>Тень</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="736"/>
         <source>Offset X</source>
-        <translation>Сдвиг по X</translation>
+        <translation>Смещение по X</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="753"/>
         <source>Offset Y</source>
-        <translation>Сдвиг по Y</translation>
+        <translation>Смещение по Y</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="770"/>
@@ -6682,12 +6682,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertVignette.ui" line="62"/>
         <source>X-Offset</source>
-        <translation>Сдвиг по X</translation>
+        <translation>Смещение по X</translation>
     </message>
     <message>
         <location filename="DlgConvertVignette.ui" line="92"/>
         <source>Y-Offset</source>
-        <translation>Сдвиг по Y</translation>
+        <translation>Смещение по Y</translation>
     </message>
     <message>
         <location filename="DlgConvertVignette.ui" line="113"/>
@@ -13918,7 +13918,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="329"/>
         <source>D1/DV NTSC WideScreen (1.2)</source>
-        <translation>D1/DV NTSC Широкформатное (1.2)</translation>
+        <translation>D1/DV NTSC Широкоформатное (1.2)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="334"/>
@@ -22555,7 +22555,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1108"/>
         <source>Offset Y</source>
-        <translation>Сдвиг по Y</translation>
+        <translation>Смещение по Y</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1240"/>
@@ -22600,7 +22600,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
         <source>Offset X</source>
-        <translation>Сдвиг по X</translation>
+        <translation>Смещение по X</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="917"/>
