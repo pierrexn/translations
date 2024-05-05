@@ -13979,43 +13979,8 @@ Szeretné újratársítani?</translation>
         <translation>Kiemelő kijelölés megjelenítése</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="312"/>
-        <source>0.91  D1/DV NTSC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="317"/>
-        <source>0.95  D4/D16 Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="327"/>
-        <source>1.09  D1/DV PAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="332"/>
-        <source>1.20  D1/DV NTSC Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="337"/>
-        <source>1.33 HDV 1080/DVCPRO HD 720</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="342"/>
-        <source>1.46  D1/DV PAL Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="347"/>
-        <source>1.50 DVCPRO HD 1080</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23033,57 +22998,47 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
 <context>
     <name>QtOverwriteDialog</name>
     <message>
-        <location filename="qtoverwritedialog.ui" line="16"/>
+        <location filename="qtoverwritedialog.ui" line="14"/>
         <source>Copy Warning</source>
         <translation>Másolási figyelmeztetés</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="51"/>
+        <location filename="qtoverwritedialog.ui" line="76"/>
         <source>Destination</source>
         <translation>Cél</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="58"/>
+        <location filename="qtoverwritedialog.ui" line="83"/>
         <source>Source</source>
         <translation>Forrás</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="65"/>
-        <source>[sourceFile]</source>
-        <translation>[ForrásFájl]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="72"/>
-        <source>[destinationFile]</source>
-        <translation>[CélFájl]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="122"/>
+        <location filename="qtoverwritedialog.ui" line="143"/>
         <source>Destination already exists.</source>
         <translation>Cél már létezik.</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="153"/>
+        <location filename="qtoverwritedialog.ui" line="183"/>
         <source>Skip</source>
         <translation>Kihagy</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="160"/>
+        <location filename="qtoverwritedialog.ui" line="190"/>
         <source>Skip All</source>
         <translation>Mind kihagy</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="167"/>
+        <location filename="qtoverwritedialog.ui" line="197"/>
         <source>Overwrite</source>
         <translation>Felülír</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="174"/>
+        <location filename="qtoverwritedialog.ui" line="204"/>
         <source>Overwrite All</source>
         <translation>Mind felülírja</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="181"/>
+        <location filename="qtoverwritedialog.ui" line="211"/>
         <source>Cancel</source>
         <translation>Mégse</translation>
     </message>
@@ -23558,248 +23513,132 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
 <context>
     <name>WebError</name>
     <message>
-        <location filename="WebError.cpp" line="35"/>
-        <location filename="WebError.cpp" line="121"/>
+        <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Nincs hiba</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="38"/>
-        <source>The remote server refused the connection (the server is not accepting requests).</source>
-        <translation>A távoli kiszolgáló elutasította a kapcsolatot (a kiszolgáló nem fogad kéréseket).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="41"/>
-        <source>The remote server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>A távoli kiszolgáló idő előtt lezárta a kapcsolatot, a teljes válasz megérkezése és feldolgozása előtt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="44"/>
-        <source>The remote host name was not found (invalid hostname).</source>
-        <translation>A távoli állomás neve nem található (érvénytelen állomásnév).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="47"/>
-        <source>The connection to the remote server timed out.</source>
-        <translation>A távoli kiszolgálóval megszakadt a kapcsolat.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="50"/>
-        <source>The operation was canceled via calls to abort() or close() before it was finished.</source>
-        <translation>A művelet az abort() vagy a close() hívás miatt a befejezése előtt megszakadt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="53"/>
-        <source>The SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation>Az SSL/TLS kézfogás sikertelen volt, és a titkosított csatornát nem sikerült létrehozni.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="56"/>
-        <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation>A hálózatról leválás miatt megszakadt a kapcsolat, azonban a rendszer barangolást kezdeményezett egy másik hozzáférési ponttal. A kérést újra el kell küldeni, és amint a kapcsolat helyreáll, a rendszer feldolgozza azt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="59"/>
-        <source>The connection to the proxy server was refused (the proxy server is not accepting requests).</source>
-        <translation>A proxykiszolgálóval történő kapcsolatot elutastották (a proxykiszolgáló nem fogadja a kérelmeket).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="62"/>
-        <source>The proxy server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>A proxykiszolgáló idő előtt lezárta a kapcsolatot, a teljes válasz megérkezése és feldolgozása előtt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="65"/>
-        <source>The proxy host name was not found (invalid proxy hostname).</source>
-        <translation>A proxy állomás neve nem található (érvénytelen proxy állomásnév).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="68"/>
-        <source>The connection to the proxy timed out or the proxy did not reply in time to the request sent.</source>
-        <translation>A proxykiszolgálóval történő kapcsolat túllépte az időkorlátot vagy nem reagált időben a kiküldött kérésre.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="71"/>
-        <source>The proxy requires authentication in order to honour the request but did not accept any credentials offered (if any).</source>
-        <translation>A proxy hitelesítést igényel a kérés teljesítéséhez, de nem fogadta el a felajánlott hitelesítő adatokat (ha voltak).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="74"/>
-        <source>The access to the remote content was denied (similar to HTTP error 401).</source>
-        <translation>A távoli tartalomhoz történő hozzáférés megtagadva (a HTTP 401-es hibához hasonlóan).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="77"/>
-        <source>The operation requested on the remote content is not permitted.</source>
-        <translation>A távoli tartalomra kért művelet nem engedélyezett.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="80"/>
-        <source>The remote content was not found at the server (similar to HTTP error 404).</source>
-        <translation>A távoli tartalom nem található a kiszolgálón (a HTTP 404-es hibához hasonlóan).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="83"/>
-        <source>The remote server requires authentication to serve the content but the credentials provided were not accepted (if any).</source>
-        <translation>A távoli kiszolgáló hitelesítést igényel a tartalom kiszolgálásához, de a megadott hitelesítő adatokat nem fogadta el (ha voltak).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="86"/>
-        <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation>A kérést újra el kellett küldeni, de ez nem sikerült, mert például a feltöltési adatokat másodszorra nem lehetett beolvasni.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="89"/>
-        <source>The Network Access API cannot honor the request because the protocol is not known.</source>
-        <translation>A hálózati hozzáférési API nem tudja teljesíteni a kérést, mert a protokoll nem ismert.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="92"/>
-        <source>The requested operation is invalid for this protocol.</source>
-        <translation>A kért művelet érvénytelen ezen a protokollon.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="95"/>
-        <source>An unknown network-related error was detected.</source>
-        <translation>Ismeretlen hálózati hiba észlelve.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="98"/>
-        <source>An unknown proxy-related error was detected.</source>
-        <translation>Ismeretlen proxyhiba észlelve.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="101"/>
-        <source>An unknown error related to the remote content was detected.</source>
-        <translation>A távoli tartalommal kapcsolatos ismeretlen hiba észlelve.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="104"/>
-        <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
-        <translation>Protokollhiba észlelve (elemzési hiba, érvénytelen vagy váratlan válaszok stb.).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="124"/>
+        <location filename="WebError.cpp" line="126"/>
         <source>The issuer certificate could not be found.</source>
         <translation>A kibocsátó tanúsítvány nem található.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="127"/>
+        <location filename="WebError.cpp" line="129"/>
         <source>The certificate signature could not be decrypted.</source>
         <translation>A tanúsítvány aláírását nem lehetett visszafejteni.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="130"/>
+        <location filename="WebError.cpp" line="132"/>
         <source>The public key in the certificate could not be read.</source>
         <translation>A tanúsítványban lévő nyilvános kulcs nem olvasható.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="133"/>
+        <location filename="WebError.cpp" line="135"/>
         <source>The signature of the certificate is invalid.</source>
         <translation>A tanúsítvány aláírása érvénytelen.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="136"/>
+        <location filename="WebError.cpp" line="138"/>
         <source>The certificate is not yet valid.</source>
         <translation>A tanúsítvány még nem érvényes.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="139"/>
+        <location filename="WebError.cpp" line="141"/>
         <source>The certificate has expired.</source>
         <translation>A tanúsítvány lejárt.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="142"/>
+        <location filename="WebError.cpp" line="144"/>
         <source>The certificate&apos;s notBefore field contains an invalid time.</source>
         <translation>A tanúsítvány &quot;Legkorábban / notBefore&quot; mezője érvénytelen időpontot tartalmaz.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="145"/>
+        <location filename="WebError.cpp" line="147"/>
         <source>The certificate&apos;s notAfter field contains an invalid time.</source>
         <translation>A tanúsítvány &quot;Ennél korább / notAfteri&quot; mezője érvénytelen időpontot tartalmaz.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="148"/>
+        <location filename="WebError.cpp" line="150"/>
         <source>The certificate is self-signed, and untrusted.</source>
         <translation>A tanúsítvány önaláírt és nem megbízható.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="151"/>
+        <location filename="WebError.cpp" line="153"/>
         <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
         <translation>A tanúsítványlánc gyökértanúsítványa önaláírt és nem megbízható.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="154"/>
+        <location filename="WebError.cpp" line="156"/>
         <source>The issuer certificate of a locally looked up certificate could not be found.</source>
         <translation>A helyileg keresett tanúsítvány kibocsátói tanúsítványa nem található.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="157"/>
+        <location filename="WebError.cpp" line="159"/>
         <source>No certificates could be verified.</source>
         <translation>A tanúsítványokat nem lehetett ellenőrizni.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="160"/>
+        <location filename="WebError.cpp" line="162"/>
         <source>One of the CA certificates is invalid.</source>
         <translation>Az egyik hitelesítésszolgáltatói (CA) tanúsítvány érvénytelen.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="163"/>
+        <location filename="WebError.cpp" line="165"/>
         <source>The basicConstraints path length parameter has been exceeded</source>
         <translation>A &quot;alapmegkötés / basicConstraints&quot; útvonal hossz paramétere túllépve</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="166"/>
+        <location filename="WebError.cpp" line="168"/>
         <source>The supplied certificate is unsuitable for this purpose.</source>
         <translation>A mellékelt tanúsítvány erre a célra nem alkalmas.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="169"/>
+        <location filename="WebError.cpp" line="171"/>
         <source>The root CA certificate is not trusted for this purpose.</source>
         <translation>A gyökér hitelesítésszolgáltató (CA) tanúsítványa nem megbízható erre a célra.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="172"/>
+        <location filename="WebError.cpp" line="174"/>
         <source>The root CA certificate is marked to reject the specified purpose.</source>
         <translation>A gyökér hitelesítésszolgáltatói (CA) tanúsítványt úgy jelölték meg, hogy elutasítja a megadott feladatot.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="175"/>
+        <location filename="WebError.cpp" line="177"/>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
         <translation>A jelenlegi kibocsátójelölt tanúsítványát elutasították, mert a tárgy neve nem egyezett a jelenlegi tanúsítvány kibocsátójának nevével.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="179"/>
+        <location filename="WebError.cpp" line="181"/>
         <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
         <translation>A jelenlegi kibocsátójelölt tanúsítványát elutasították, mert a kibocsátó neve és sorozatszáma jelen volt, és nem egyezett a jelenlegi tanúsítvány kulcsazonosítójával.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="184"/>
+        <location filename="WebError.cpp" line="186"/>
         <source>The peer did not present any certificate.</source>
         <translation>Az partner nem mutatott be semmilyen tanúsítványt.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="187"/>
+        <location filename="WebError.cpp" line="189"/>
         <source>The host name did not match any of the valid hosts for this certificate.</source>
         <translation>Az állomás neve nem egyezik a tanúsítványhoz tartozó egyik érvényes állomással sem.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="191"/>
+        <location filename="WebError.cpp" line="193"/>
         <source>Unspecified error.</source>
         <translation>Meghatározatlan hiba.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="194"/>
+        <location filename="WebError.cpp" line="196"/>
         <source>The peer presented a certificate that was revoked.</source>
         <translation>A partner egy visszavont tanúsítványt mutatott be.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="197"/>
+        <location filename="WebError.cpp" line="199"/>
         <source>No SSL support.</source>
         <translation>Nincs SSL-támogatás.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="201"/>
+        <location filename="WebError.cpp" line="203"/>
         <source>The peer presented a certificate that was blacklisted.</source>
         <translation>A partner olyan tanúsítványt mutatott be, ami feketelistán szerepel.</translation>
     </message>

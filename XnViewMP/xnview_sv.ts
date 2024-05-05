@@ -13919,43 +13919,8 @@ Vill du ta bort tilldelningen?</translation>
         <translation>Visa belysningsmarkering</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="312"/>
-        <source>0.91  D1/DV NTSC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="317"/>
-        <source>0.95  D4/D16 Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="327"/>
-        <source>1.09  D1/DV PAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="332"/>
-        <source>1.20  D1/DV NTSC Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="337"/>
-        <source>1.33 HDV 1080/DVCPRO HD 720</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="342"/>
-        <source>1.46  D1/DV PAL Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="347"/>
-        <source>1.50 DVCPRO HD 1080</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23058,57 +23023,47 @@ Högerklicka för popup-meny med åtgärder.</translation>
 <context>
     <name>QtOverwriteDialog</name>
     <message>
-        <location filename="qtoverwritedialog.ui" line="16"/>
+        <location filename="qtoverwritedialog.ui" line="14"/>
         <source>Copy Warning</source>
         <translation>Kopieringsvarning</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="51"/>
+        <location filename="qtoverwritedialog.ui" line="76"/>
         <source>Destination</source>
         <translation>Mål</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="58"/>
+        <location filename="qtoverwritedialog.ui" line="83"/>
         <source>Source</source>
         <translation>Källa</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="65"/>
-        <source>[sourceFile]</source>
-        <translation>[källfil]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="72"/>
-        <source>[destinationFile]</source>
-        <translation>[målfil]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="122"/>
+        <location filename="qtoverwritedialog.ui" line="143"/>
         <source>Destination already exists.</source>
         <translation>Målet finns redan.</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="153"/>
+        <location filename="qtoverwritedialog.ui" line="183"/>
         <source>Skip</source>
         <translation>Hoppa över</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="160"/>
+        <location filename="qtoverwritedialog.ui" line="190"/>
         <source>Skip All</source>
         <translation>Hoppa över alla</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="167"/>
+        <location filename="qtoverwritedialog.ui" line="197"/>
         <source>Overwrite</source>
         <translation>Skriv över</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="174"/>
+        <location filename="qtoverwritedialog.ui" line="204"/>
         <source>Overwrite All</source>
         <translation>Skriv över alla</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="181"/>
+        <location filename="qtoverwritedialog.ui" line="211"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -23583,248 +23538,132 @@ Högerklicka för popup-meny med åtgärder.</translation>
 <context>
     <name>WebError</name>
     <message>
-        <location filename="WebError.cpp" line="35"/>
-        <location filename="WebError.cpp" line="121"/>
+        <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Inget fel</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="38"/>
-        <source>The remote server refused the connection (the server is not accepting requests).</source>
-        <translation>Fjärrservern vägrade anslutningen (servern accepterar inte förfrågningar).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="41"/>
-        <source>The remote server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>Fjärrservern stängde anslutningen i förtid, innan hela svaret hade tagits emot och bearbetats.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="44"/>
-        <source>The remote host name was not found (invalid hostname).</source>
-        <translation>Fjärrvärdsnamnet hittades inte (ogiltigt värdnamn).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="47"/>
-        <source>The connection to the remote server timed out.</source>
-        <translation>Tidsgränsen för anslutningen till fjärrservern har uppnåtts.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="50"/>
-        <source>The operation was canceled via calls to abort() or close() before it was finished.</source>
-        <translation>Åtgärden avbröts via anrop till abort() eller close() innan den slutfördes.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="53"/>
-        <source>The SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation>SSL/TLS-handskakningen misslyckades och den krypterade kanalen kunde inte upprättas.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="56"/>
-        <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation>Anslutningen bröts på grund av frånkoppling från nätverket, men systemet har initierat roaming till en annan åtkomstpunkt. Begäran ska skickas igen och kommer att behandlas så snart anslutningen har återupprättats.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="59"/>
-        <source>The connection to the proxy server was refused (the proxy server is not accepting requests).</source>
-        <translation>Anslutningen till proxyservern nekades (proxyservern accepterar inte begäranden).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="62"/>
-        <source>The proxy server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>Proxyservern stängde anslutningen i förtid, innan hela svaret mottogs och bearbetades.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="65"/>
-        <source>The proxy host name was not found (invalid proxy hostname).</source>
-        <translation>Proxyvärdnamnet hittades inte (ogiltigt proxyvärdnamn).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="68"/>
-        <source>The connection to the proxy timed out or the proxy did not reply in time to the request sent.</source>
-        <translation>Tidsgränsen för anslutningen till proxyn överskreds eller proxyn svarade inte i tid på den skickade begäran.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="71"/>
-        <source>The proxy requires authentication in order to honour the request but did not accept any credentials offered (if any).</source>
-        <translation>Proxyn kräver autentisering för att uppfylla begäran men accepterade inte några referenser som erbjuds (om sådana finns).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="74"/>
-        <source>The access to the remote content was denied (similar to HTTP error 401).</source>
-        <translation>Åtkomsten till fjärrinnehållet nekades (liknar HTTP-fel 401).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="77"/>
-        <source>The operation requested on the remote content is not permitted.</source>
-        <translation>Den åtgärd som begärs på fjärrinnehållet är inte tillåten.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="80"/>
-        <source>The remote content was not found at the server (similar to HTTP error 404).</source>
-        <translation>Fjärrinnehållet hittades inte på servern (liknar HTTP-fel 404).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="83"/>
-        <source>The remote server requires authentication to serve the content but the credentials provided were not accepted (if any).</source>
-        <translation>Fjärrservern kräver autentisering för att hantera innehållet, men de angivna autentiseringsuppgifterna godkändes inte (om sådana finns).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="86"/>
-        <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation>Begäran behövde skickas igen, men detta misslyckades till exempel eftersom uppladdningsdata inte kunde läsas en andra gång.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="89"/>
-        <source>The Network Access API cannot honor the request because the protocol is not known.</source>
-        <translation>API:et för nätverksåtkomst kan inte uppfylla begäran eftersom protokollet inte är känt.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="92"/>
-        <source>The requested operation is invalid for this protocol.</source>
-        <translation>Den begärda åtgärden är ogiltig för det här protokollet.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="95"/>
-        <source>An unknown network-related error was detected.</source>
-        <translation>Ett okänt nätverksrelaterat fel upptäcktes.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="98"/>
-        <source>An unknown proxy-related error was detected.</source>
-        <translation>Ett okänt proxyrelaterat fel upptäcktes.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="101"/>
-        <source>An unknown error related to the remote content was detected.</source>
-        <translation>Ett okänt fel relaterat till fjärrinnehållet upptäcktes.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="104"/>
-        <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
-        <translation>Ett haveri i protokollet upptäcktes (analysfel, ogiltiga eller oväntade svar etc.).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="124"/>
+        <location filename="WebError.cpp" line="126"/>
         <source>The issuer certificate could not be found.</source>
         <translation>Det gick inte att hitta utfärdarcertifikatet.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="127"/>
+        <location filename="WebError.cpp" line="129"/>
         <source>The certificate signature could not be decrypted.</source>
         <translation>Certifikatsignaturen kunde inte dekrypteras.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="130"/>
+        <location filename="WebError.cpp" line="132"/>
         <source>The public key in the certificate could not be read.</source>
         <translation>Den offentliga nyckeln i certifikatet kunde inte läsas.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="133"/>
+        <location filename="WebError.cpp" line="135"/>
         <source>The signature of the certificate is invalid.</source>
         <translation>Certifikatets signatur är ogiltig.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="136"/>
+        <location filename="WebError.cpp" line="138"/>
         <source>The certificate is not yet valid.</source>
         <translation>Certifikatet är ännu inte giltigt.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="139"/>
+        <location filename="WebError.cpp" line="141"/>
         <source>The certificate has expired.</source>
         <translation>Certifikatet har upphört att gälla.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="142"/>
+        <location filename="WebError.cpp" line="144"/>
         <source>The certificate&apos;s notBefore field contains an invalid time.</source>
         <translation>Fältet notBefore i certifikatet innehåller en ogiltig tid.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="145"/>
+        <location filename="WebError.cpp" line="147"/>
         <source>The certificate&apos;s notAfter field contains an invalid time.</source>
         <translation>Fältet notAfter för certifikatet innehåller en ogiltig tid.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="148"/>
+        <location filename="WebError.cpp" line="150"/>
         <source>The certificate is self-signed, and untrusted.</source>
         <translation>Certifikatet är självsignerat och inte betrott.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="151"/>
+        <location filename="WebError.cpp" line="153"/>
         <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
         <translation>Rotcertifikatet för certifikatkedjan är självsignerat och inte betrott.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="154"/>
+        <location filename="WebError.cpp" line="156"/>
         <source>The issuer certificate of a locally looked up certificate could not be found.</source>
         <translation>Det gick inte att hitta utfärdarcertifikatet för ett lokalt uppslaget certifikat.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="157"/>
+        <location filename="WebError.cpp" line="159"/>
         <source>No certificates could be verified.</source>
         <translation>Inga certifikat kunde verifieras.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="160"/>
+        <location filename="WebError.cpp" line="162"/>
         <source>One of the CA certificates is invalid.</source>
         <translation>Ett av CA-certifikaten är ogiltigt.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="163"/>
+        <location filename="WebError.cpp" line="165"/>
         <source>The basicConstraints path length parameter has been exceeded</source>
         <translation>Parametern basicConstraints sökvägslängd har överskridits</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="166"/>
+        <location filename="WebError.cpp" line="168"/>
         <source>The supplied certificate is unsuitable for this purpose.</source>
         <translation>Det tillhandahållna certifikatet är olämpligt för detta ändamål.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="169"/>
+        <location filename="WebError.cpp" line="171"/>
         <source>The root CA certificate is not trusted for this purpose.</source>
         <translation>RootCA-certifikatet är inte betrott för detta ändamål.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="172"/>
+        <location filename="WebError.cpp" line="174"/>
         <source>The root CA certificate is marked to reject the specified purpose.</source>
         <translation>RootCA-certifikatet är markerat för att avvisa det angivna syftet.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="175"/>
+        <location filename="WebError.cpp" line="177"/>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
         <translation>Det aktuella kandidatutfärdarcertifikatet avvisades eftersom dess ämnesnamn inte matchade utfärdarnamnet för det aktuella certifikatet.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="179"/>
+        <location filename="WebError.cpp" line="181"/>
         <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
         <translation>Det aktuella kandidatutfärdarcertifikatet avvisades eftersom dess utfärdarnamn och serienummer fanns och inte matchade behörighetsnyckelidentifieraren för det aktuella certifikatet.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="184"/>
+        <location filename="WebError.cpp" line="186"/>
         <source>The peer did not present any certificate.</source>
         <translation>Motparten uppvisade inget certifikat.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="187"/>
+        <location filename="WebError.cpp" line="189"/>
         <source>The host name did not match any of the valid hosts for this certificate.</source>
         <translation>Värdnamnet matchade inte någon av de giltiga värdarna för det här certifikatet.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="191"/>
+        <location filename="WebError.cpp" line="193"/>
         <source>Unspecified error.</source>
         <translation>Ospecificerat fel.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="194"/>
+        <location filename="WebError.cpp" line="196"/>
         <source>The peer presented a certificate that was revoked.</source>
         <translation>Motparten presenterade ett certifikat som återkallats.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="197"/>
+        <location filename="WebError.cpp" line="199"/>
         <source>No SSL support.</source>
         <translation>Inget SSL-stöd.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="201"/>
+        <location filename="WebError.cpp" line="203"/>
         <source>The peer presented a certificate that was blacklisted.</source>
         <translation>Motparten presenterade ett certifikat som var svartlistat.</translation>
     </message>

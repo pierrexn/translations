@@ -13859,43 +13859,8 @@ Do you want to reassign?</source>
         <translation>하이라이트 선택 보이기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="312"/>
-        <source>0.91  D1/DV NTSC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="317"/>
-        <source>0.95  D4/D16 Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="327"/>
-        <source>1.09  D1/DV PAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="332"/>
-        <source>1.20  D1/DV NTSC Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="337"/>
-        <source>1.33 HDV 1080/DVCPRO HD 720</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="342"/>
-        <source>1.46  D1/DV PAL Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="347"/>
-        <source>1.50 DVCPRO HD 1080</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22959,57 +22924,47 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>QtOverwriteDialog</name>
     <message>
-        <location filename="qtoverwritedialog.ui" line="16"/>
+        <location filename="qtoverwritedialog.ui" line="14"/>
         <source>Copy Warning</source>
         <translation>복사 경고</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="51"/>
+        <location filename="qtoverwritedialog.ui" line="76"/>
         <source>Destination</source>
         <translation>대상</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="58"/>
+        <location filename="qtoverwritedialog.ui" line="83"/>
         <source>Source</source>
         <translation>소스</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="65"/>
-        <source>[sourceFile]</source>
-        <translation>[sourceFile]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="72"/>
-        <source>[destinationFile]</source>
-        <translation>[destinationFile]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="122"/>
+        <location filename="qtoverwritedialog.ui" line="143"/>
         <source>Destination already exists.</source>
         <translation>대상이 이미 존재합니다.</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="153"/>
+        <location filename="qtoverwritedialog.ui" line="183"/>
         <source>Skip</source>
         <translation>건너뛰기</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="160"/>
+        <location filename="qtoverwritedialog.ui" line="190"/>
         <source>Skip All</source>
         <translation>모두 건너뛰기</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="167"/>
+        <location filename="qtoverwritedialog.ui" line="197"/>
         <source>Overwrite</source>
         <translation>덮어쓰기</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="174"/>
+        <location filename="qtoverwritedialog.ui" line="204"/>
         <source>Overwrite All</source>
         <translation>모두 덮어쓰기</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="181"/>
+        <location filename="qtoverwritedialog.ui" line="211"/>
         <source>Cancel</source>
         <translation>취소</translation>
     </message>
@@ -23484,249 +23439,133 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>WebError</name>
     <message>
-        <location filename="WebError.cpp" line="35"/>
-        <location filename="WebError.cpp" line="121"/>
+        <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>오류 없음</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="38"/>
-        <source>The remote server refused the connection (the server is not accepting requests).</source>
-        <translation>원격 서버가 연결을 거부하였습니다 (서버가 요청에 응답하지 않습니다).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="41"/>
-        <source>The remote server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>원격 서버와의 연결이 요청에 대한 응답을 받기 전 예상치 않게 종료되었습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="44"/>
-        <source>The remote host name was not found (invalid hostname).</source>
-        <translation>원격 서버명을 찾을 수 없습니다 (올바르지 않은 호스트명).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="47"/>
-        <source>The connection to the remote server timed out.</source>
-        <translation>원격 서버와의 연결 시간 초과.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="50"/>
-        <source>The operation was canceled via calls to abort() or close() before it was finished.</source>
-        <translation>작업이 완료되기 전 abort() 또는 close()를 통해 취소 되었습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="53"/>
-        <source>The SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation>SSL/TLS 핸드셰이크가 실패하여 암호화 연결을 사용할 수 없습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="56"/>
-        <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation>네트워크 연결이 해제되어 통신이 종료되었으나 시스템이 다른 액세스 포인트로 접속을 시도하였습니다. 다시 연결되면 요청을 재 전송합니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="59"/>
-        <source>The connection to the proxy server was refused (the proxy server is not accepting requests).</source>
-        <translation>프록시 서버 연결이 거부되었습니다 (프록시 서버가 요청을 거부하였습니다).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="62"/>
-        <source>The proxy server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>프록시 서버의 연결이 응답을 받기 전 예상치 않게 종료되었습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="65"/>
-        <source>The proxy host name was not found (invalid proxy hostname).</source>
-        <translation>프록시 호스트명을 찾을 수 없습니다 (올바르지 않은 호스트명).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="68"/>
-        <source>The connection to the proxy timed out or the proxy did not reply in time to the request sent.</source>
-        <translation>프록시 연결의 시간이 초과 되었거나 응답에 요청하지 않습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="71"/>
-        <source>The proxy requires authentication in order to honour the request but did not accept any credentials offered (if any).</source>
-        <translation>프록시 서버가 계정 정보 등을 요청하였으나 제공한 모든 계정 정보를 거절하였습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="74"/>
-        <source>The access to the remote content was denied (similar to HTTP error 401).</source>
-        <translation>원격지 정보에 대한 접근이 거부 되었습니다 (HTTP 401).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="77"/>
-        <source>The operation requested on the remote content is not permitted.</source>
-        <translation>요청한 원격 컨텐츠에 대한 접근이 거부되었습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="80"/>
-        <source>The remote content was not found at the server (similar to HTTP error 404).</source>
-        <translation>서버에서 요청한 내용을 찾을 수 없습니다 (HTTP 404).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="83"/>
-        <source>The remote server requires authentication to serve the content but the credentials provided were not accepted (if any).</source>
-        <translation>원격 서버가 요청한 내용에 대해 계정 권한을 요구하였으나 입력한 계정을 거부 하였습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="86"/>
-        <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation>요청의 재 전송이 필요하였으나 업로드한 파일을 다시 읽을 수 없어 실패하였습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="89"/>
-        <source>The Network Access API cannot honor the request because the protocol is not known.</source>
-        <translation>네트워크 접근 API 실패. 알 수 없는 프로토콜.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="92"/>
-        <source>The requested operation is invalid for this protocol.</source>
-        <translation>요청한 작업은 현 프로토콜에서 지원하지 않습니다.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="95"/>
-        <source>An unknown network-related error was detected.</source>
-        <translation>알 수 없는 네트워크 에러 감지.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="98"/>
-        <source>An unknown proxy-related error was detected.</source>
-        <translation>알 수 없는 프록시 에러 감지.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="101"/>
-        <source>An unknown error related to the remote content was detected.</source>
-        <translation>알 수 없는 원격지 내용 오류 감지.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="104"/>
-        <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
-        <translation>손상된 프로토콜 감지 (파싱 에러, 알 수 없는 응답 등).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="124"/>
+        <location filename="WebError.cpp" line="126"/>
         <source>The issuer certificate could not be found.</source>
         <translatorcomment>TLS related</translatorcomment>
         <translation>인증서 요청자를 찾을 수 없음.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="127"/>
+        <location filename="WebError.cpp" line="129"/>
         <source>The certificate signature could not be decrypted.</source>
         <translation>인증서 서명 해독 불가.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="130"/>
+        <location filename="WebError.cpp" line="132"/>
         <source>The public key in the certificate could not be read.</source>
         <translation>인증서의 공개키를 읽을 수 없음.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="133"/>
+        <location filename="WebError.cpp" line="135"/>
         <source>The signature of the certificate is invalid.</source>
         <translation>인증서의 서명이 올바르지 않습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="136"/>
+        <location filename="WebError.cpp" line="138"/>
         <source>The certificate is not yet valid.</source>
         <translation>인증서가 아직 유효하지 않습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="139"/>
+        <location filename="WebError.cpp" line="141"/>
         <source>The certificate has expired.</source>
         <translation>인증서가 만료되었습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="142"/>
+        <location filename="WebError.cpp" line="144"/>
         <source>The certificate&apos;s notBefore field contains an invalid time.</source>
         <translation>인증서의 &apos;notBefore&apos; 필드가 올바르지 않습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="145"/>
+        <location filename="WebError.cpp" line="147"/>
         <source>The certificate&apos;s notAfter field contains an invalid time.</source>
         <translation>인증서의 &apos;notAfter&apos; 필드가 올바르지 않습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="148"/>
+        <location filename="WebError.cpp" line="150"/>
         <source>The certificate is self-signed, and untrusted.</source>
         <translation>인증서가 직접 서명 되었으며 신뢰할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="151"/>
+        <location filename="WebError.cpp" line="153"/>
         <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
         <translation>루트 인증서의 신증서 체인이 직접 서명되었으며 신뢰할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="154"/>
+        <location filename="WebError.cpp" line="156"/>
         <source>The issuer certificate of a locally looked up certificate could not be found.</source>
         <translation>인증서 발행자의 인증서를 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="157"/>
+        <location filename="WebError.cpp" line="159"/>
         <source>No certificates could be verified.</source>
         <translation>인증서가 검증되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="160"/>
+        <location filename="WebError.cpp" line="162"/>
         <source>One of the CA certificates is invalid.</source>
         <translation>CA 인증서가 올바르지 않습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="163"/>
+        <location filename="WebError.cpp" line="165"/>
         <source>The basicConstraints path length parameter has been exceeded</source>
         <translation>&apos;basicConstraints&apos; 의 필드 길이가 초과되었습니다</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="166"/>
+        <location filename="WebError.cpp" line="168"/>
         <source>The supplied certificate is unsuitable for this purpose.</source>
         <translation>제공된 인증서는 이 목적으로는 올바르지 않습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="169"/>
+        <location filename="WebError.cpp" line="171"/>
         <source>The root CA certificate is not trusted for this purpose.</source>
         <translation>이 목적으로 루트 CA를 사용하는 것은 신뢰할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="172"/>
+        <location filename="WebError.cpp" line="174"/>
         <source>The root CA certificate is marked to reject the specified purpose.</source>
         <translation>루트 CA 인증서가 해당 목적으로 사용하는 것을 거부 하였습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="175"/>
+        <location filename="WebError.cpp" line="177"/>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
         <translation>발행인과 이름이 일치하지 않아 현 인증서 사용이 거부되었습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="179"/>
+        <location filename="WebError.cpp" line="181"/>
         <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
         <translation>인증서의 일련번호가 일치하지 않아 사용이 거부 되었습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="184"/>
+        <location filename="WebError.cpp" line="186"/>
         <source>The peer did not present any certificate.</source>
         <translation>피어가 인증서를 제공하지 않습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="187"/>
+        <location filename="WebError.cpp" line="189"/>
         <source>The host name did not match any of the valid hosts for this certificate.</source>
         <translation>인증서의 호스트명이 일치하지 않습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="191"/>
+        <location filename="WebError.cpp" line="193"/>
         <source>Unspecified error.</source>
         <translation>알 수 없는 오류.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="194"/>
+        <location filename="WebError.cpp" line="196"/>
         <source>The peer presented a certificate that was revoked.</source>
         <translation>피어 인증서는 폐기되었습니다.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="197"/>
+        <location filename="WebError.cpp" line="199"/>
         <source>No SSL support.</source>
         <translation>SSL 지원 없음.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="201"/>
+        <location filename="WebError.cpp" line="203"/>
         <source>The peer presented a certificate that was blacklisted.</source>
         <translation>피어가 제공한 인증서는 블랙리스트 되었습니다.</translation>
     </message>

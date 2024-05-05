@@ -10987,35 +10987,7 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.91  D1/DV NTSC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0.95  D4/D16 Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.09  D1/DV PAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.20  D1/DV NTSC Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.33 HDV 1080/DVCPRO HD 720</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.46  D1/DV PAL Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.50 DVCPRO HD 1080</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17698,10 +17670,6 @@ Right Click for pop-up menu with actions.</source>
         <translation>Բաց թողնել</translation>
     </message>
     <message>
-        <source>[destinationFile]</source>
-        <translation>[destinationFile]</translation>
-    </message>
-    <message>
         <source>Skip All</source>
         <translation>Բաց թողնել բոլորը</translation>
     </message>
@@ -17728,10 +17696,6 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <source>Overwrite</source>
         <translation>Վրագրել</translation>
-    </message>
-    <message>
-        <source>[sourceFile]</source>
-        <translation>[աղբյուրՖայլ]</translation>
     </message>
 </context>
 <context>
@@ -18106,98 +18070,6 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <source>No error</source>
         <translation>Չկա սխալ</translation>
-    </message>
-    <message>
-        <source>The remote server refused the connection (the server is not accepting requests).</source>
-        <translation>Հեռակա սպասարկիչը մերժել է կապակցումը (սպասարկիչը չի ընդունում հարցումներ):</translation>
-    </message>
-    <message>
-        <source>The remote server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>The remote host name was not found (invalid hostname).</source>
-        <translation>Հեռակա հոսթի անունը չի գտնվել (անվավեր հոսթի անուն):</translation>
-    </message>
-    <message>
-        <source>The connection to the remote server timed out.</source>
-        <translation>Հեռակա սպասարկիչին կապակցման ժամասպառում:</translation>
-    </message>
-    <message>
-        <source>The operation was canceled via calls to abort() or close() before it was finished.</source>
-        <translation>Գործողությունը չեղարկվել է abort() կամ close() կանչերի միջոցով, մինչև այն կավարտվեր:</translation>
-    </message>
-    <message>
-        <source>The SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation>SSL/TLS ձեռքսեղմումը ձախողվեց և գաղտնագրված ալիք չի կարող հաստատվել:</translation>
-    </message>
-    <message>
-        <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation>Կապակցումը ընդհատվեց ցանցից կապախզվելու պատճառով, այդուհանդերձ՝ համակարգը նախաձեռնել է անցում մատչման այլ կետի: Հարցումը պետք է վերաուղարկել և կընթանա, երբ կապակցումը վերահաստատվի:</translation>
-    </message>
-    <message>
-        <source>The connection to the proxy server was refused (the proxy server is not accepting requests).</source>
-        <translation>Կապակցումը պրոքսի սպասարկիչին մերժվել է (պրոքսի սպասարկիչը չի ընդունում հարցումներ):</translation>
-    </message>
-    <message>
-        <source>The proxy server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>Պրոքի սպասարկիչը նախապես փակել է կապակցումը, մինչև ամբողջական պատասխանը կստացվեր և շարունակվեր:</translation>
-    </message>
-    <message>
-        <source>The proxy host name was not found (invalid proxy hostname).</source>
-        <translation>Պրոքիս հոսթի անունը չի գտնվել (պրոքի հոսթի անունը սխալ է):</translation>
-    </message>
-    <message>
-        <source>The connection to the proxy timed out or the proxy did not reply in time to the request sent.</source>
-        <translation>Կապակցումը պրոքսիին ժամասպառվել է կամ պրոքսին չի պատասխանել ժամանակին, երբ հարցումն ուղարկվել է:</translation>
-    </message>
-    <message>
-        <source>The proxy requires authentication in order to honour the request but did not accept any credentials offered (if any).</source>
-        <translation>Հարցումը կատարելու համար պրոքսին պահանջում է իսկորոշում, բայց չի ընդունում առաջարկված որևէ հավատարմագիր (եթե կա) </translation>
-    </message>
-    <message>
-        <source>The access to the remote content was denied (similar to HTTP error 401).</source>
-        <translation>Հեռակա բովանդակության մատչումը մերժվել է (նման է HTTP սխալ 401-ի):</translation>
-    </message>
-    <message>
-        <source>The operation requested on the remote content is not permitted.</source>
-        <translation>Հեռակա բովանդակության հետ կապված գործողությունը թույլատրված չէ:</translation>
-    </message>
-    <message>
-        <source>The remote content was not found at the server (similar to HTTP error 404).</source>
-        <translation>Հեռակա բովանդակությունը չի գտնվել սպասարկիչում (նման է HTTP սխալ 404-ի):</translation>
-    </message>
-    <message>
-        <source>The remote server requires authentication to serve the content but the credentials provided were not accepted (if any).</source>
-        <translation>Բովանդակությունը սպասարկելու համար հեռակա սպասարկիչը պահանջում է իսկորոշում, բայց տրամադրված հավատարմագիրը չի ընդունվել (եթե կա):</translation>
-    </message>
-    <message>
-        <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation>Հարցումը պետք է կրկին ուղրակել, բայց դա ձախողվել է օրինակի համար, քանի որ վերբեռնված տվյալները չեն կարող ընթերցվել երկրորդ անգամ:</translation>
-    </message>
-    <message>
-        <source>The Network Access API cannot honor the request because the protocol is not known.</source>
-        <translation>Ցանցի մատչում API-ին չի կարող կատարել հարցումը, քանի որ հաղորդակարգը անհայտ է:</translation>
-    </message>
-    <message>
-        <source>The requested operation is invalid for this protocol.</source>
-        <translation>Հարցվող գործողությունը անվավեր է այս հաղորդակարգի համար:</translation>
-    </message>
-    <message>
-        <source>An unknown network-related error was detected.</source>
-        <translation>Անհայտ ցանցի նմանվող սխալ է հայտնաբերվել:</translation>
-    </message>
-    <message>
-        <source>An unknown proxy-related error was detected.</source>
-        <translation>Անհայտ պրոքսիի նմանվող սխալ է հայտնաբերվել:</translation>
-    </message>
-    <message>
-        <source>An unknown error related to the remote content was detected.</source>
-        <translation>Հեռակա բովանդակությանը առնչվող անհայտ սխալ է հայտնաբերվել:</translation>
-    </message>
-    <message>
-        <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
-        <translation>Տրոհում է հայտնաբերվել հաղորդակարգում (վերլուծման սխալ, անվավեր կամ անսպասելի պատասխաններ և այլն)</translation>
     </message>
     <message>
         <source>The issuer certificate could not be found.</source>

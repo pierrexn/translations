@@ -10990,35 +10990,7 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.91  D1/DV NTSC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0.95  D4/D16 Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.09  D1/DV PAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.20  D1/DV NTSC Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.33 HDV 1080/DVCPRO HD 720</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.46  D1/DV PAL Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.50 DVCPRO HD 1080</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17703,10 +17675,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
         <translation>Ohita</translation>
     </message>
     <message>
-        <source>[destinationFile]</source>
-        <translation>[kohdetiedosto]</translation>
-    </message>
-    <message>
         <source>Skip All</source>
         <translation>Ohita kaikki</translation>
     </message>
@@ -17733,10 +17701,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <message>
         <source>Overwrite</source>
         <translation>Korvaa</translation>
-    </message>
-    <message>
-        <source>[sourceFile]</source>
-        <translation>[lähdetiedosto]</translation>
     </message>
 </context>
 <context>
@@ -18109,16 +18073,8 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
 <context>
     <name>WebError</name>
     <message>
-        <source>The operation requested on the remote content is not permitted.</source>
-        <translation>Etäsisällössä pyydetty toiminto ei ole sallittu.</translation>
-    </message>
-    <message>
         <source>The certificate&apos;s notBefore field contains an invalid time.</source>
         <translation>Varmenteen notBefore-kenttä sisältää virheellisen ajan.</translation>
-    </message>
-    <message>
-        <source>The connection to the remote server timed out.</source>
-        <translation>Yhteys etäpalvelimeen aikakatkaistiin.</translation>
     </message>
     <message>
         <source>The issuer certificate could not be found.</source>
@@ -18129,20 +18085,8 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
         <translation>Ei virheitä</translation>
     </message>
     <message>
-        <source>The proxy server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>Välityspalvelin sulki yhteyden ennenaikaisesti, ennen kuin koko vastaus vastaanotettiin ja käsiteltiin.</translation>
-    </message>
-    <message>
         <source>The peer did not present any certificate.</source>
         <translation>Vertailija ei havainnut mitään varmennetta.</translation>
-    </message>
-    <message>
-        <source>The requested operation is invalid for this protocol.</source>
-        <translation>Pyydetty toiminto ei kelpaa tälle protokollalle.</translation>
-    </message>
-    <message>
-        <source>The remote server refused the connection (the server is not accepting requests).</source>
-        <translation>Etäpalvelin ei voinut muodostaa yhteyttä (palvelin ei hyväksy pyyntöjä).</translation>
     </message>
     <message>
         <source>The peer presented a certificate that was revoked.</source>
@@ -18165,10 +18109,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
         <translation>Varmenne on vanhentunut.</translation>
     </message>
     <message>
-        <source>An unknown network-related error was detected.</source>
-        <translation>Havaittiin tuntematon verkkoon liittyvä virhe.</translation>
-    </message>
-    <message>
         <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
         <translation>Varmenneketjun juurivarmenne on itse allekirjoitettu ja epäluotettava.</translation>
     </message>
@@ -18181,18 +18121,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
         <translation>Toimitettu sertifikaatti ei sovellu tähän tarkoitukseen.</translation>
     </message>
     <message>
-        <source>The remote server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>Etäpalvelin sulki yhteyden ennenaikaisesti, ennen kuin koko vastaus vastaanotettiin ja käsiteltiin.</translation>
-    </message>
-    <message>
-        <source>The connection to the proxy timed out or the proxy did not reply in time to the request sent.</source>
-        <translation>Yhteys välityspalvelimeen aikakatkaistiin tai välityspalvelin ei vastannut ajoissa lähetettyyn pyyntöön.</translation>
-    </message>
-    <message>
-        <source>The SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation>SSL/TLS-kättely epäonnistui ja kryptattua kanavaa ei voitu muodostaa.</translation>
-    </message>
-    <message>
         <source>The host name did not match any of the valid hosts for this certificate.</source>
         <translation>Isäntänimi ei vastannut mitään tämän varmenteen hyväksyttyjä isäntiä.</translation>
     </message>
@@ -18201,24 +18129,12 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
         <translation>Varmenne on itse allekirjoitettu ja epäluotettava.</translation>
     </message>
     <message>
-        <source>The connection to the proxy server was refused (the proxy server is not accepting requests).</source>
-        <translation>Yhteys välityspalvelimeen estettiin (välityspalvelin ei hyväksy pyyntöjä).</translation>
-    </message>
-    <message>
         <source>The signature of the certificate is invalid.</source>
         <translation>Varmenteen allekirjoitus on virheellinen.</translation>
     </message>
     <message>
-        <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
-        <translation>Protokollassa havaittiin vika (jäsennysvirhe, virheelliset tai odottamattomat vastaukset jne.).</translation>
-    </message>
-    <message>
         <source>The certificate&apos;s notAfter field contains an invalid time.</source>
         <translation>Varmenteen notAfter-kenttä sisältää virheellisen ajan.</translation>
-    </message>
-    <message>
-        <source>The remote content was not found at the server (similar to HTTP error 404).</source>
-        <translation>Etäsisältöä ei löytynyt palvelimelta (samanlainen kuin HTTP-virhe 404).</translation>
     </message>
     <message>
         <source>The certificate signature could not be decrypted.</source>
@@ -18227,14 +18143,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <message>
         <source>The issuer certificate of a locally looked up certificate could not be found.</source>
         <translation>Paikallisesti haetun varmenteen myöntäjän varmennetta ei löytynyt.</translation>
-    </message>
-    <message>
-        <source>An unknown proxy-related error was detected.</source>
-        <translation>Havaittiin tuntematon välityspalvelimeen liittyvä virhe.</translation>
-    </message>
-    <message>
-        <source>The proxy requires authentication in order to honour the request but did not accept any credentials offered (if any).</source>
-        <translation>Välityspalvelin vaatii todennusta pyynnön noudattamiseksi, mutta se ei hyväksynyt tarjottuja valtuustietoja (jos sellaisia oli).</translation>
     </message>
     <message>
         <source>No SSL support.</source>
@@ -18249,36 +18157,8 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
         <translation>Määrittelemätön virhe.</translation>
     </message>
     <message>
-        <source>The Network Access API cannot honor the request because the protocol is not known.</source>
-        <translation>Network Access API ei voi noudattaa pyyntöä, koska protokollaa ei tunneta.</translation>
-    </message>
-    <message>
         <source>The root CA certificate is marked to reject the specified purpose.</source>
         <translation>CA-juurivarmenne on merkitty hylkäämään käytön tähän tarkoitukseen.</translation>
-    </message>
-    <message>
-        <source>The remote host name was not found (invalid hostname).</source>
-        <translation>Etäpalvelimen nimeä ei löytynyt (virheellinen isäntänimi).</translation>
-    </message>
-    <message>
-        <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation>Pyyntö piti lähettää uudelleen, mutta tämä epäonnistui esimerkiksi siksi, että lataustietoja ei voitu lukea toista kertaa.</translation>
-    </message>
-    <message>
-        <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation>Yhteys katkesi verkkoyhteyden katkeamisen vuoksi, mutta järjestelmä on kuitenkin aloittanut verkkovierailun toiseen tukiasemaan. Pyyntö tulee lähettää uudelleen ja se käsitellään heti, kun yhteys on muodostettu uudelleen.</translation>
-    </message>
-    <message>
-        <source>The proxy host name was not found (invalid proxy hostname).</source>
-        <translation>Välityspalvelimen isäntänimeä ei löytynyt (virheellinen välityspalvelimen isäntänimi).</translation>
-    </message>
-    <message>
-        <source>The access to the remote content was denied (similar to HTTP error 401).</source>
-        <translation>Pääsy etäsisältöön estettiin (samanlainen kuin HTTP-virhe 401).</translation>
-    </message>
-    <message>
-        <source>The operation was canceled via calls to abort() or close() before it was finished.</source>
-        <translation>Toiminto peruutettiin kutsuilla abort() tai close() ennen kuin se oli valmis.</translation>
     </message>
     <message>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
@@ -18295,14 +18175,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <message>
         <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
         <translation>Nykyinen ehdokasvarmenne hylättiin, koska sen myöntäjän nimi ja sarjanumero olivat olemassa eivätkä vastanneet nykyisen varmenteen auktorisointiavaimen tunnistetta.</translation>
-    </message>
-    <message>
-        <source>The remote server requires authentication to serve the content but the credentials provided were not accepted (if any).</source>
-        <translation>Etäpalvelin vaatii todennuksen sisällön näyttämiseksi, mutta annettuja tunnistetietoja ei hyväksytty (jos sellaisia oli).</translation>
-    </message>
-    <message>
-        <source>An unknown error related to the remote content was detected.</source>
-        <translation>Havaittiin tuntematon etäsisältöön liittyvä virhe.</translation>
     </message>
 </context>
 <context>

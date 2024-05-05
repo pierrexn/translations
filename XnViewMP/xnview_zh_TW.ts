@@ -13920,43 +13920,8 @@ Do you want to reassign?</source>
         <translation>顯示醒目標示</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="312"/>
-        <source>0.91  D1/DV NTSC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="317"/>
-        <source>0.95  D4/D16 Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="327"/>
-        <source>1.09  D1/DV PAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="332"/>
-        <source>1.20  D1/DV NTSC Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="337"/>
-        <source>1.33 HDV 1080/DVCPRO HD 720</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="342"/>
-        <source>1.46  D1/DV PAL Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="347"/>
-        <source>1.50 DVCPRO HD 1080</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23026,57 +22991,47 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>QtOverwriteDialog</name>
     <message>
-        <location filename="qtoverwritedialog.ui" line="16"/>
+        <location filename="qtoverwritedialog.ui" line="14"/>
         <source>Copy Warning</source>
         <translation>複製警告</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="51"/>
+        <location filename="qtoverwritedialog.ui" line="76"/>
         <source>Destination</source>
         <translation>目的</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="58"/>
+        <location filename="qtoverwritedialog.ui" line="83"/>
         <source>Source</source>
         <translation>來源</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="65"/>
-        <source>[sourceFile]</source>
-        <translation>[來源檔]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="72"/>
-        <source>[destinationFile]</source>
-        <translation>[目的檔]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="122"/>
+        <location filename="qtoverwritedialog.ui" line="143"/>
         <source>Destination already exists.</source>
         <translation>目的檔已存在.</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="153"/>
+        <location filename="qtoverwritedialog.ui" line="183"/>
         <source>Skip</source>
         <translation>跳過</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="160"/>
+        <location filename="qtoverwritedialog.ui" line="190"/>
         <source>Skip All</source>
         <translation>全部跳過</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="167"/>
+        <location filename="qtoverwritedialog.ui" line="197"/>
         <source>Overwrite</source>
         <translation>覆蓋</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="174"/>
+        <location filename="qtoverwritedialog.ui" line="204"/>
         <source>Overwrite All</source>
         <translation>全部覆蓋</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="181"/>
+        <location filename="qtoverwritedialog.ui" line="211"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -23551,248 +23506,132 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>WebError</name>
     <message>
-        <location filename="WebError.cpp" line="35"/>
-        <location filename="WebError.cpp" line="121"/>
+        <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>沒有錯誤</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="38"/>
-        <source>The remote server refused the connection (the server is not accepting requests).</source>
-        <translation>遠端伺服器拒絕連線(檔案伺服器不接受請求).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="41"/>
-        <source>The remote server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>在整個回應被處理和收到前，遠端伺服器永久關閉連線.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="44"/>
-        <source>The remote host name was not found (invalid hostname).</source>
-        <translation>找不到遠端主機名(不合法的主機名).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="47"/>
-        <source>The connection to the remote server timed out.</source>
-        <translation>連線遠端伺服器時逾時.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="50"/>
-        <source>The operation was canceled via calls to abort() or close() before it was finished.</source>
-        <translation>在完成前，透過abort()或close()呼叫的操作被取消.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="53"/>
-        <source>The SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation>SSL/TLS的hankshake失敗，無法建立加密通道.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="56"/>
-        <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation>因網路斷線導致連線中斷, 但系統已發出漫遊到另一存取點. 需求已重送出. 一旦連線重建後即會處理。</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="59"/>
-        <source>The connection to the proxy server was refused (the proxy server is not accepting requests).</source>
-        <translation>連線代理伺服器時被拒絕(代理伺服器不接受請求).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="62"/>
-        <source>The proxy server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>在整個回應被處理和收到前，代理伺服器永久關閉連線.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="65"/>
-        <source>The proxy host name was not found (invalid proxy hostname).</source>
-        <translation>找不到道理主機名(不合法的代理主機名).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="68"/>
-        <source>The connection to the proxy timed out or the proxy did not reply in time to the request sent.</source>
-        <translation>連線代理伺服器時逾時或代理伺服器未及時回應已送出的請求.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="71"/>
-        <source>The proxy requires authentication in order to honour the request but did not accept any credentials offered (if any).</source>
-        <translation>代理伺服器需要驗證以兌現請求但卻不接受任何提供的憑證(若有的話).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="74"/>
-        <source>The access to the remote content was denied (similar to HTTP error 401).</source>
-        <translation>存取遠端內容遭拒(類似HTTP401錯誤).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="77"/>
-        <source>The operation requested on the remote content is not permitted.</source>
-        <translation>對遠端內容請求的操作未被允許.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="80"/>
-        <source>The remote content was not found at the server (similar to HTTP error 404).</source>
-        <translation>遠端伺服器找不到內容(類似HTTP404錯誤).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="83"/>
-        <source>The remote server requires authentication to serve the content but the credentials provided were not accepted (if any).</source>
-        <translation>遠端伺服器需要驗證以兌現請求但未接受提供的憑證(若有的話).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="86"/>
-        <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation>請求需重送但卻失敗，可能原因，例如，上傳的資料無法被再讀取.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="89"/>
-        <source>The Network Access API cannot honor the request because the protocol is not known.</source>
-        <translation>因為未知協定,網路存取API無法兌現請求.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="92"/>
-        <source>The requested operation is invalid for this protocol.</source>
-        <translation>此協定的請求操作不合法.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="95"/>
-        <source>An unknown network-related error was detected.</source>
-        <translation>偵測到未知的網路相關錯誤.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="98"/>
-        <source>An unknown proxy-related error was detected.</source>
-        <translation>偵測到未知的代理相關錯誤.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="101"/>
-        <source>An unknown error related to the remote content was detected.</source>
-        <translation>偵測到相關遠端內容的未知錯誤.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="104"/>
-        <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
-        <translation>偵測到協定故障(解析失敗、不合法或非預期的回應等).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="124"/>
+        <location filename="WebError.cpp" line="126"/>
         <source>The issuer certificate could not be found.</source>
         <translation>找不到發行者認證.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="127"/>
+        <location filename="WebError.cpp" line="129"/>
         <source>The certificate signature could not be decrypted.</source>
         <translation>無法解密認證簽名.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="130"/>
+        <location filename="WebError.cpp" line="132"/>
         <source>The public key in the certificate could not be read.</source>
         <translation>無法讀取認證中的公鑰.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="133"/>
+        <location filename="WebError.cpp" line="135"/>
         <source>The signature of the certificate is invalid.</source>
         <translation>不合法的認證簽名.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="136"/>
+        <location filename="WebError.cpp" line="138"/>
         <source>The certificate is not yet valid.</source>
         <translation>認證尚未被合法化.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="139"/>
+        <location filename="WebError.cpp" line="141"/>
         <source>The certificate has expired.</source>
         <translation>認證已過期.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="142"/>
+        <location filename="WebError.cpp" line="144"/>
         <source>The certificate&apos;s notBefore field contains an invalid time.</source>
         <translation>認證的notBefore欄位包含不合法的時間.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="145"/>
+        <location filename="WebError.cpp" line="147"/>
         <source>The certificate&apos;s notAfter field contains an invalid time.</source>
         <translation>認證的notAfter欄位包含不合法的時間.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="148"/>
+        <location filename="WebError.cpp" line="150"/>
         <source>The certificate is self-signed, and untrusted.</source>
         <translation>認證為自簽章，不可信賴.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="151"/>
+        <location filename="WebError.cpp" line="153"/>
         <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
         <translation>認證鏈的根憑證為自簽章，不可信賴.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="154"/>
+        <location filename="WebError.cpp" line="156"/>
         <source>The issuer certificate of a locally looked up certificate could not be found.</source>
         <translation>本地認證查閱發行者憑證找不到.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="157"/>
+        <location filename="WebError.cpp" line="159"/>
         <source>No certificates could be verified.</source>
         <translation>沒有認證可驗證.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="160"/>
+        <location filename="WebError.cpp" line="162"/>
         <source>One of the CA certificates is invalid.</source>
         <translation>其中一個CA憑證不合法.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="163"/>
+        <location filename="WebError.cpp" line="165"/>
         <source>The basicConstraints path length parameter has been exceeded</source>
         <translation>basicConstraints路徑長度參數已超過</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="166"/>
+        <location filename="WebError.cpp" line="168"/>
         <source>The supplied certificate is unsuitable for this purpose.</source>
         <translation>提供的憑證不適用此目的.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="169"/>
+        <location filename="WebError.cpp" line="171"/>
         <source>The root CA certificate is not trusted for this purpose.</source>
         <translation>根CA憑證於此目的不被信賴.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="172"/>
+        <location filename="WebError.cpp" line="174"/>
         <source>The root CA certificate is marked to reject the specified purpose.</source>
         <translation>根CA憑證被標示拒絕適用定義的目的.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="175"/>
+        <location filename="WebError.cpp" line="177"/>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
         <translation>因主旨名稱不符合目前憑證的發行者名稱，故目前的候選發行者憑證被拒絕.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="179"/>
+        <location filename="WebError.cpp" line="181"/>
         <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
         <translation>因發行者名稱和展示的序號不符合目前憑證的驗證密鑰識別碼，故目前的候選發行者憑證被拒絕.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="184"/>
+        <location filename="WebError.cpp" line="186"/>
         <source>The peer did not present any certificate.</source>
         <translation>對點未出示任何憑證.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="187"/>
+        <location filename="WebError.cpp" line="189"/>
         <source>The host name did not match any of the valid hosts for this certificate.</source>
         <translation>主機名未符合憑證的任何合法主機.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="191"/>
+        <location filename="WebError.cpp" line="193"/>
         <source>Unspecified error.</source>
         <translation>未定義的錯誤.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="194"/>
+        <location filename="WebError.cpp" line="196"/>
         <source>The peer presented a certificate that was revoked.</source>
         <translation>對點出示的憑證已被撤銷.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="197"/>
+        <location filename="WebError.cpp" line="199"/>
         <source>No SSL support.</source>
         <translation>不支援SSL.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="201"/>
+        <location filename="WebError.cpp" line="203"/>
         <source>The peer presented a certificate that was blacklisted.</source>
         <translation>對點出示的憑證被列入黑名單.</translation>
     </message>

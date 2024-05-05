@@ -10988,35 +10988,7 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.91  D1/DV NTSC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0.95  D4/D16 Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.09  D1/DV PAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.20  D1/DV NTSC Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.33 HDV 1080/DVCPRO HD 720</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.46  D1/DV PAL Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.50 DVCPRO HD 1080</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17700,10 +17672,6 @@ Clic Derecho para menú contextual con acciones.</translation>
         <translation>Saltar</translation>
     </message>
     <message>
-        <source>[destinationFile]</source>
-        <translation>[Archivo destino]</translation>
-    </message>
-    <message>
         <source>Skip All</source>
         <translation>Saltar todo</translation>
     </message>
@@ -17730,10 +17698,6 @@ Clic Derecho para menú contextual con acciones.</translation>
     <message>
         <source>Overwrite</source>
         <translation>Sobreescribir</translation>
-    </message>
-    <message>
-        <source>[sourceFile]</source>
-        <translation>[Archivo origen]</translation>
     </message>
 </context>
 <context>
@@ -18108,98 +18072,6 @@ Clic Derecho para menú contextual con acciones.</translation>
     <message>
         <source>No error</source>
         <translation>Sin error</translation>
-    </message>
-    <message>
-        <source>The remote server refused the connection (the server is not accepting requests).</source>
-        <translation>El servidor remoto ha rechazado la conexión (el servidor no acepta peticiones).</translation>
-    </message>
-    <message>
-        <source>The remote server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>El servidor remoto cerró la conexión prematuramente, antes que se recibiera y procesara la respuesta completa.</translation>
-    </message>
-    <message>
-        <source>The remote host name was not found (invalid hostname).</source>
-        <translation>No se ha encontrado el nombre del host remoto (nombre de host no válido).</translation>
-    </message>
-    <message>
-        <source>The connection to the remote server timed out.</source>
-        <translation>La conexión con el servidor remoto ha expirado.</translation>
-    </message>
-    <message>
-        <source>The operation was canceled via calls to abort() or close() before it was finished.</source>
-        <translation>La operación ha sido cancelada mediante llamadas a abortar() o cerrar() antes de que finalizara.</translation>
-    </message>
-    <message>
-        <source>The SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation>Ell protocolo SSL/TLS ha fallado y no se ha podido establecer el canal cifrado.</translation>
-    </message>
-    <message>
-        <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation>La conexión se ha interrumpido debido a la desconfiguración de la red, sin embargo el sistema ha iniciado la itinerancia a otro punto de acceso. La solicitud debe volver a enviarse y se procesará en cuanto se restablezca la conexión.</translation>
-    </message>
-    <message>
-        <source>The connection to the proxy server was refused (the proxy server is not accepting requests).</source>
-        <translation>La conexión con el servidor proxy ha sido rechazada (el servidor proxy no acepta peticiones).</translation>
-    </message>
-    <message>
-        <source>The proxy server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>El servidor proxy cerró la conexión prematuramente, antes de que se recibiera y procesara la respuesta completa.</translation>
-    </message>
-    <message>
-        <source>The proxy host name was not found (invalid proxy hostname).</source>
-        <translation>No se ha encontrado el nombre de host del proxy (nombre de host del proxy no válido).</translation>
-    </message>
-    <message>
-        <source>The connection to the proxy timed out or the proxy did not reply in time to the request sent.</source>
-        <translation>La conexión con el proxy ha expirado o el proxy no ha respondido a tiempo a la solicitud enviada.</translation>
-    </message>
-    <message>
-        <source>The proxy requires authentication in order to honour the request but did not accept any credentials offered (if any).</source>
-        <translation>El proxy requiere autenticación para atender la solicitud, pero no aceptó las credenciales presentadas (si las hubiera).</translation>
-    </message>
-    <message>
-        <source>The access to the remote content was denied (similar to HTTP error 401).</source>
-        <translation>El acceso al contenido remoto ha sido denegado (similar al error HTTP 401).</translation>
-    </message>
-    <message>
-        <source>The operation requested on the remote content is not permitted.</source>
-        <translation>La operación solicitada no está permitida en el contenido remoto.</translation>
-    </message>
-    <message>
-        <source>The remote content was not found at the server (similar to HTTP error 404).</source>
-        <translation>El contenido remoto no se ha encontrado en el servidor (similar al error HTTP 404).</translation>
-    </message>
-    <message>
-        <source>The remote server requires authentication to serve the content but the credentials provided were not accepted (if any).</source>
-        <translation>El servidor remoto requiere autenticación para servir el contenido, pero las credenciales proporcionadas no fueron aceptadas (si las hubiera).</translation>
-    </message>
-    <message>
-        <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation>La solicitud necesitaba ser enviada de nuevo, pero esto ha fallado, por ejemplo, porque los datos de carga no han podido ser leídos por segunda vez.</translation>
-    </message>
-    <message>
-        <source>The Network Access API cannot honor the request because the protocol is not known.</source>
-        <translation>La API de acceso a la red no puede aceptar la solicitud porque desconoce el protocolo.</translation>
-    </message>
-    <message>
-        <source>The requested operation is invalid for this protocol.</source>
-        <translation>La operación solicitada no es válida para este protocolo.</translation>
-    </message>
-    <message>
-        <source>An unknown network-related error was detected.</source>
-        <translation>Se ha detectado un error desconocido relacionado con la red.</translation>
-    </message>
-    <message>
-        <source>An unknown proxy-related error was detected.</source>
-        <translation>Se ha detectado un error desconocido relacionado con el proxy.</translation>
-    </message>
-    <message>
-        <source>An unknown error related to the remote content was detected.</source>
-        <translation>Se ha detectado un error desconocido relacionado con el contenido remoto.</translation>
-    </message>
-    <message>
-        <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
-        <translation>Se ha detectado un fallo en el protocolo (error de análisis sintáctico, respuestas no válidas o inesperadas, etc.).</translation>
     </message>
     <message>
         <source>The issuer certificate could not be found.</source>

@@ -13947,43 +13947,8 @@ Czy zmienić przypisanie?</translation>
         <translation>Podświetlaj zaznaczony obszar obrazu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="312"/>
-        <source>0.91  D1/DV NTSC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="317"/>
-        <source>0.95  D4/D16 Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="327"/>
-        <source>1.09  D1/DV PAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="332"/>
-        <source>1.20  D1/DV NTSC Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="337"/>
-        <source>1.33 HDV 1080/DVCPRO HD 720</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="342"/>
-        <source>1.46  D1/DV PAL Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="347"/>
-        <source>1.50 DVCPRO HD 1080</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23097,57 +23062,47 @@ Kliknij prawym przyciskiem myszy, aby wyświetlić menu z akcjami.</translation>
 <context>
     <name>QtOverwriteDialog</name>
     <message>
-        <location filename="qtoverwritedialog.ui" line="16"/>
+        <location filename="qtoverwritedialog.ui" line="14"/>
         <source>Copy Warning</source>
         <translation>Ostrzeżenie kopiowania plików</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="51"/>
+        <location filename="qtoverwritedialog.ui" line="76"/>
         <source>Destination</source>
         <translation>Plik docelowy</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="58"/>
+        <location filename="qtoverwritedialog.ui" line="83"/>
         <source>Source</source>
         <translation>Plik źródłowy</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="65"/>
-        <source>[sourceFile]</source>
-        <translation>[plik_źródłowy]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="72"/>
-        <source>[destinationFile]</source>
-        <translation>[plik_docelowy]</translation>
-    </message>
-    <message>
-        <location filename="qtoverwritedialog.ui" line="122"/>
+        <location filename="qtoverwritedialog.ui" line="143"/>
         <source>Destination already exists.</source>
         <translation>Plik docelowy już istnieje.</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="153"/>
+        <location filename="qtoverwritedialog.ui" line="183"/>
         <source>Skip</source>
         <translation>Pomiń</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="160"/>
+        <location filename="qtoverwritedialog.ui" line="190"/>
         <source>Skip All</source>
         <translation>Pomiń wszystkie</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="167"/>
+        <location filename="qtoverwritedialog.ui" line="197"/>
         <source>Overwrite</source>
         <translation>Nadpisz</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="174"/>
+        <location filename="qtoverwritedialog.ui" line="204"/>
         <source>Overwrite All</source>
         <translation>Nadpisz wszystkie</translation>
     </message>
     <message>
-        <location filename="qtoverwritedialog.ui" line="181"/>
+        <location filename="qtoverwritedialog.ui" line="211"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
@@ -23622,248 +23577,132 @@ Kliknij prawym przyciskiem myszy, aby wyświetlić menu z akcjami.</translation>
 <context>
     <name>WebError</name>
     <message>
-        <location filename="WebError.cpp" line="35"/>
-        <location filename="WebError.cpp" line="121"/>
+        <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Brak błędów</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="38"/>
-        <source>The remote server refused the connection (the server is not accepting requests).</source>
-        <translation>Serwer zdalny odrzucił połączenie (serwer nie przyjmuje żądań).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="41"/>
-        <source>The remote server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>Serwer zdalny zakończył przedwcześnie połączenie, zanim cała odpowiedź została otrzymana i przetworzona.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="44"/>
-        <source>The remote host name was not found (invalid hostname).</source>
-        <translation>Nie znaleziono nazwy zdalnego hosta (nieprawidłowa nazwa hosta).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="47"/>
-        <source>The connection to the remote server timed out.</source>
-        <translation>Upłynął limit czasu połączenia ze serwerem zdalnym.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="50"/>
-        <source>The operation was canceled via calls to abort() or close() before it was finished.</source>
-        <translation>Operacja została anulowana przez wywołania abort() lub close() przed jej zakończeniem.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="53"/>
-        <source>The SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation>Uzgadnianie SSL/TLS nie powiodło się i nie można ustanowić zaszyfrowanego kanału.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="56"/>
-        <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation>Połączenie zostało przerwane z powodu rozłączenia z siecią, jednak system zainicjował przekierowanie do innego punktu dostępowego. Żądanie należy przesłać ponownie i zostanie przetworzone, gdy tylko połączenie zostanie przywrócone.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="59"/>
-        <source>The connection to the proxy server was refused (the proxy server is not accepting requests).</source>
-        <translation>Odmówiono połączenia z serwerem proxy (serwer proxy nie przyjmuje żądań).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="62"/>
-        <source>The proxy server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation>Serwer proxy zakończył przedwcześnie połączenie, zanim cała odpowiedź została otrzymana i przetworzona.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="65"/>
-        <source>The proxy host name was not found (invalid proxy hostname).</source>
-        <translation>Nie znaleziono nazwy hosta proxy (nieprawidłowa nazwa hosta proxy).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="68"/>
-        <source>The connection to the proxy timed out or the proxy did not reply in time to the request sent.</source>
-        <translation>Przekroczono limit czasu połączenia z serwerem proxy lub serwer proxy nie odpowiedział na czas na wysłane żądanie.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="71"/>
-        <source>The proxy requires authentication in order to honour the request but did not accept any credentials offered (if any).</source>
-        <translation>Serwer proxy wymaga uwierzytelnienia w celu spełnienia żądania, ale nie zaakceptował żadnych oferowanych poświadczeń (jeśli były).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="74"/>
-        <source>The access to the remote content was denied (similar to HTTP error 401).</source>
-        <translation>Odmówiono dostępu do treści zdalnej (podobnie do błędu HTTP 401).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="77"/>
-        <source>The operation requested on the remote content is not permitted.</source>
-        <translation>Żądana operacja na zawartości zdalnej jest niedozwolona.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="80"/>
-        <source>The remote content was not found at the server (similar to HTTP error 404).</source>
-        <translation>Zdalna zawartość nie została znaleziona na serwerze (podobnie do błędu HTTP 404).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="83"/>
-        <source>The remote server requires authentication to serve the content but the credentials provided were not accepted (if any).</source>
-        <translation>Zdalny serwer wymaga uwierzytelnienia w celu udostępnienia treści, ale podane poświadczenia nie zostały zaakceptowane (jeśli były).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="86"/>
-        <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation>Żądanie musiało zostać wysłane ponownie, ale to się nie powiodło, być może dlatego, że przesłane dane nie mogły zostać odczytane po raz drugi.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="89"/>
-        <source>The Network Access API cannot honor the request because the protocol is not known.</source>
-        <translation>Interfejs API dostępu do sieci nie może spełnić żądania, ponieważ protokół nie jest znany.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="92"/>
-        <source>The requested operation is invalid for this protocol.</source>
-        <translation>Żądana operacja jest nieprawidłowa dla tego protokołu.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="95"/>
-        <source>An unknown network-related error was detected.</source>
-        <translation>Wykryto nieznany błąd związany z siecią.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="98"/>
-        <source>An unknown proxy-related error was detected.</source>
-        <translation>Wykryto nieznany błąd związany z serwerem proxy.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="101"/>
-        <source>An unknown error related to the remote content was detected.</source>
-        <translation>Wykryto nieznany błąd związany ze zdalną zawartością.</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="104"/>
-        <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
-        <translation>Wykryto awarię protokołu (błąd parsowania, nieprawidłowe lub nieoczekiwane odpowiedzi itp.).</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="124"/>
+        <location filename="WebError.cpp" line="126"/>
         <source>The issuer certificate could not be found.</source>
         <translation>Nie można znaleźć wystawcy certyfikatu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="127"/>
+        <location filename="WebError.cpp" line="129"/>
         <source>The certificate signature could not be decrypted.</source>
         <translation>Nie można odszyfrować podpisu certyfikatu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="130"/>
+        <location filename="WebError.cpp" line="132"/>
         <source>The public key in the certificate could not be read.</source>
         <translation>Nie można odczytać klucza publicznego w certyfikacie.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="133"/>
+        <location filename="WebError.cpp" line="135"/>
         <source>The signature of the certificate is invalid.</source>
         <translation>Podpis certyfikatu jest nieważny.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="136"/>
+        <location filename="WebError.cpp" line="138"/>
         <source>The certificate is not yet valid.</source>
         <translation>Certyfikat nie jest jeszcze ważny.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="139"/>
+        <location filename="WebError.cpp" line="141"/>
         <source>The certificate has expired.</source>
         <translation>Certyfikat wygasł.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="142"/>
+        <location filename="WebError.cpp" line="144"/>
         <source>The certificate&apos;s notBefore field contains an invalid time.</source>
         <translation>Pole notBefore certyfikatu zawiera nieprawidłowy czas.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="145"/>
+        <location filename="WebError.cpp" line="147"/>
         <source>The certificate&apos;s notAfter field contains an invalid time.</source>
         <translation>Pole notAfter certyfikatu zawiera nieprawidłowy czas.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="148"/>
+        <location filename="WebError.cpp" line="150"/>
         <source>The certificate is self-signed, and untrusted.</source>
         <translation>Certyfikat jest samopodpisany i niezaufany.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="151"/>
+        <location filename="WebError.cpp" line="153"/>
         <source>The root certificate of the certificate chain is self-signed, and untrusted.</source>
         <translation>Certyfikat główny łańcucha certyfikatów jest samopodpisany i niezaufany.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="154"/>
+        <location filename="WebError.cpp" line="156"/>
         <source>The issuer certificate of a locally looked up certificate could not be found.</source>
         <translation>Nie można znaleźć certyfikatu wystawcy lokalnie wyszukanego certyfikatu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="157"/>
+        <location filename="WebError.cpp" line="159"/>
         <source>No certificates could be verified.</source>
         <translation>Nie można zweryfikować żadnych certyfikatów.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="160"/>
+        <location filename="WebError.cpp" line="162"/>
         <source>One of the CA certificates is invalid.</source>
         <translation>Jeden z certyfikatów urzędu certyfikacji jest nieprawidłowy.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="163"/>
+        <location filename="WebError.cpp" line="165"/>
         <source>The basicConstraints path length parameter has been exceeded</source>
         <translation>Przekroczono parametr długości ścieżki basicConstraints</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="166"/>
+        <location filename="WebError.cpp" line="168"/>
         <source>The supplied certificate is unsuitable for this purpose.</source>
         <translation>Dostarczony certyfikat jest niewłaściwy dla tego celu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="169"/>
+        <location filename="WebError.cpp" line="171"/>
         <source>The root CA certificate is not trusted for this purpose.</source>
         <translation>Certyfikat głównego urzędu certyfikacji nie jest zaufany do tego celu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="172"/>
+        <location filename="WebError.cpp" line="174"/>
         <source>The root CA certificate is marked to reject the specified purpose.</source>
         <translation>Certyfikat głównego urzędu certyfikacji jest oznaczony do odrzucenia określonego celu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="175"/>
+        <location filename="WebError.cpp" line="177"/>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate.</source>
         <translation>Aktualny certyfikat wystawcy kandydującego został odrzucony, ponieważ jego nazwa podmiotu nie jest zgodna z nazwą wystawcy bieżącego certyfikatu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="179"/>
+        <location filename="WebError.cpp" line="181"/>
         <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate.</source>
         <translation>Bieżący certyfikat wystawcy kandydującego został odrzucony, ponieważ nazwa i numer seryjny jego wystawcy były obecne i nie były zgodne z identyfikatorem klucza urzędu bieżącego certyfikatu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="184"/>
+        <location filename="WebError.cpp" line="186"/>
         <source>The peer did not present any certificate.</source>
         <translation>Partner nie przedstawił żadnego certyfikatu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="187"/>
+        <location filename="WebError.cpp" line="189"/>
         <source>The host name did not match any of the valid hosts for this certificate.</source>
         <translation>Nazwa hosta nie pasuje do żadnego z prawidłowych hostów dla tego certyfikatu.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="191"/>
+        <location filename="WebError.cpp" line="193"/>
         <source>Unspecified error.</source>
         <translation>Nieokreślony błąd.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="194"/>
+        <location filename="WebError.cpp" line="196"/>
         <source>The peer presented a certificate that was revoked.</source>
         <translation>Partner przedstawił certyfikat, który został unieważniony.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="197"/>
+        <location filename="WebError.cpp" line="199"/>
         <source>No SSL support.</source>
         <translation>Brak wsparcia SSL.</translation>
     </message>
     <message>
-        <location filename="WebError.cpp" line="201"/>
+        <location filename="WebError.cpp" line="203"/>
         <source>The peer presented a certificate that was blacklisted.</source>
         <translation>Partner przedstawił certyfikat, który został umieszczony na czarnej liście.</translation>
     </message>

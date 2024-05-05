@@ -10960,35 +10960,7 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.91  D1/DV NTSC</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0.95  D4/D16 Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.09  D1/DV PAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.20  D1/DV NTSC Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.33 HDV 1080/DVCPRO HD 720</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.46  D1/DV PAL Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.50 DVCPRO HD 1080</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17676,14 +17648,6 @@ Right Click for pop-up menu with actions.</source>
         <translation>Fonte</translation>
     </message>
     <message>
-        <source>[sourceFile]</source>
-        <translation>[Arquivo fonte]</translation>
-    </message>
-    <message>
-        <source>[destinationFile]</source>
-        <translation>[Arquivo destino]</translation>
-    </message>
-    <message>
         <source>Destination already exists.</source>
         <translation>Destino já existe.</translation>
     </message>
@@ -18079,98 +18043,6 @@ Right Click for pop-up menu with actions.</source>
     <name>WebError</name>
     <message>
         <source>No error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The remote server refused the connection (the server is not accepting requests).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The remote server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The remote host name was not found (invalid hostname).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The connection to the remote server timed out.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The operation was canceled via calls to abort() or close() before it was finished.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The connection was broken due to disconnection from the network, however the system has initiated roaming to another access point. The request should be resubmitted and will be processed as soon as the connection is re-established.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The connection to the proxy server was refused (the proxy server is not accepting requests).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The proxy server closed the connection prematurely, before the entire reply was received and processed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The proxy host name was not found (invalid proxy hostname).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The connection to the proxy timed out or the proxy did not reply in time to the request sent.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The proxy requires authentication in order to honour the request but did not accept any credentials offered (if any).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The access to the remote content was denied (similar to HTTP error 401).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The operation requested on the remote content is not permitted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The remote content was not found at the server (similar to HTTP error 404).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The remote server requires authentication to serve the content but the credentials provided were not accepted (if any).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The request needed to be sent again, but this failed for example because the upload data could not be read a second time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Network Access API cannot honor the request because the protocol is not known.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The requested operation is invalid for this protocol.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An unknown network-related error was detected.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An unknown proxy-related error was detected.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An unknown error related to the remote content was detected.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
