@@ -12791,7 +12791,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">Meervoudige weergaven van hetzelfde bestand</translation>
+        <translation>Meerdere Viewer tabs toestaan voor hetzelfde bestand</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12808,13 +12808,13 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation type="unfinished">Verkenner synchroniseren wanneer venster wordt gesloten</translation>
+        <translation>Selecteer bestand in browser wanneer Viewer tabblad is gesloten</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">Drag&amp;&amp;Drop: Open één view per bestandenlijst</translation>
+        <translation>Drag&amp;&amp;Drop: Open één Viewer tab voor bestandenlijst</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13154,7 +13154,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished">Tabblad verbergen wanneer één tab is geopend</translation>
+        <translation>Tabblad verbergen wanneer één tab is geopend</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13458,7 +13458,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">Labels</translation>
+        <translation>Kleurlabels</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="613"/>
@@ -14006,17 +14006,17 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Vierkant</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorphisch</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorphisch</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -20892,7 +20892,7 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Uitstekend (naar volgende foto)</translation>
+        <translation>Uitstekend (naar volgende foto)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="291"/>
@@ -20903,37 +20903,37 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Goed (naar volgende foto)</translation>
+        <translation>Goed (naar volgende foto)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Gemiddeld (naar volgende foto)</translation>
+        <translation>Gemiddeld (naar volgende foto)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Redelijk (naar volgende foto)</translation>
+        <translation>Redelijk (naar volgende foto)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Matig (naar volgende foto)</translation>
+        <translation>Matig (naar volgende foto)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Zonder waardering (naar volgende foto)</translation>
+        <translation>Zonder waardering (naar volgende foto)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##label## (naar volgende foto)</translation>
+        <translation>##label## (naar volgende foto)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
