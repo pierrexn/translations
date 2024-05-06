@@ -12826,7 +12826,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">Več pogledov za isto datoteko</translation>
+        <translation>Dovoli več zavihkov pregledovalnika za isto datoteko</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12843,13 +12843,13 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation type="unfinished">Ko je pogled zaprt, sinhroniziraj brskalnik</translation>
+        <translation>Izberite datoteko v brskalniku, ko je zavihek Pregledovalnik zaprt</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">Povleci&amp;&amp;spusti: odpre en pogled za seznam datotek</translation>
+        <translation>Povleci&amp;&amp;spusti: odpre posamezen zavihek pregledovalnika za seznam datotek</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13189,7 +13189,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished">Skrij zavihek, ko je odprt le eden</translation>
+        <translation>Skrij glavo zavihka, ko je odprt samo eden</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13519,7 +13519,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">Oznake</translation>
+        <translation>Barvne oznake</translation>
     </message>
 </context>
 <context>
@@ -13955,17 +13955,17 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  kvadrat</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorfna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorfna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -20999,43 +20999,43 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Odlično (premakni na naslednjo fotografijo)</translation>
+        <translation>Odlično (pomakni se na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Dobro (premakni na naslednjo fotografijo)</translation>
+        <translation>Dobro (pomakni se na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Povprečno (premakni se na naslednjo fotografijo)</translation>
+        <translation>Povprečno (pomakni se na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Razumno (premakni se na naslednjo sliko)</translation>
+        <translation>Pošteno (pomakni se na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Slabo (premakni na naslednjo fotografijo)</translation>
+        <translation>Slabo (pomakni se na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Neocenjeno (premakni se na naslednjo fotografijo)</translation>
+        <translation>Neocenjeno ( (pomakni se na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##label## (premik na naslednjo fotografijo)</translation>
+        <translation>##oznaka## (pomakni se na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
