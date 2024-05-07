@@ -341,7 +341,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>色の種類数: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -355,7 +355,7 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">&quot;%1&quot;
+        <translation>&quot;%1&quot;
 に変更を保存しますか？</translation>
     </message>
     <message>
@@ -393,7 +393,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>画像は24ビットRGB（各チャンネル8ビット）に変換されます</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -406,7 +406,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">画像の保存...</translation>
+        <translation>画像の保存...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -530,7 +530,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>このお気に入りは存在しないフォルダを指しています。
+
+&quot;%1&quot;のお気に入りを削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -1607,7 +1609,7 @@ Drag and Drop over the desired node to assign.</source>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translatorcomment>TXT_String_Logarithmic_Lut</translatorcomment>
-        <translation type="unfinished">対数カラー表示</translation>
+        <translation>対数LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -1872,7 +1874,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">注意 この画像は構成要素あたり8ビットのRGBに変換されます</translation>
+        <translation>警告：画像は24ビットRGB（各チャンネル8ビット）に変換されます</translation>
     </message>
 </context>
 <context>
@@ -2847,7 +2849,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">画像ではありません</translation>
+        <translation>画像ではありません</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -2893,7 +2895,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">ファイルを上書きしますか？</translation>
+        <translation>ファイルの上書き</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -2903,7 +2905,10 @@ Drag and Drop over the desired node to assign.</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">すでに&apos;%1&apos;のファイルが存在します。上書きしてよろしいですか？</translation>
+        <translation>あて先にはすでにファイルが存在します：
+%1
+
+上書きしてよろしいですか？</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3610,7 +3615,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">XnConvertの%1バージョンが利用できます。ダウンロードページを開きますか？</translation>
+        <translation>XnConvertの%1バージョンが利用できます。
+
+ダウンロードページに進みますか？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1411"/>
@@ -3674,7 +3681,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">出力ファイルがすでに存在します。上書きしてよろしいですか？</translation>
+        <translation>出力ファイルはすでに存在します。
+
+上書きしてよろしいですか？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3775,7 +3784,9 @@ Do you want to overwrite it?</source>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;元画像を削除&apos;が有効になっています
+
+続けてよろしいですか？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
@@ -3857,7 +3868,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="2489"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">画像ではありません</translation>
+        <translation>画像ではありません</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -3914,7 +3925,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">ファイルを上書きしますか？</translation>
+        <translation>ファイルの上書き</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -3924,7 +3935,10 @@ Do you want to continue?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">すでに&apos;%1&apos;のファイルが存在します。上書きしてよろしいですか？</translation>
+        <translation>あて先にはすでにファイルが存在します：
+%1
+
+上書きしてよろしいですか？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2613"/>
@@ -3956,14 +3970,18 @@ Do you want to overwrite it?</oldsource>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>出力するファイル名はすべての変換ファイルで同じになります。
+
+続けてよろしいですか？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2707"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>「元のファイルを保持する（結果が大きい場合）」オプションといくつかの操作があります。
+
+続行しますか？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -4251,25 +4269,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">左上</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">中央上</translation>
+        <translation>中央上</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">右上</translation>
+        <translation>右上</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">中-左</translation>
+        <translation>中-左</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4280,25 +4298,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">中-右</translation>
+        <translation>中-右</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">左下</translation>
+        <translation>左下</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">中央下</translation>
+        <translation>中央下</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">右下</translation>
+        <translation>右下</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -4437,25 +4455,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">左上</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">中央上</translation>
+        <translation>中央上</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">右上</translation>
+        <translation>右上</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">左</translation>
+        <translation>中央左</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4466,25 +4484,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">右</translation>
+        <translation>中央右</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">左下</translation>
+        <translation>左下</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">中央下</translation>
+        <translation>下中央</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">右下</translation>
+        <translation>右下</translation>
     </message>
 </context>
 <context>
@@ -4697,7 +4715,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="973"/>
         <source>Keep original file when encoded result is larger (experimental)</source>
         <oldsource>Keep original file when encoded result is larger</oldsource>
-        <translation>エンコード結果が大きい場合、オリジナルファイルを保持する（試験的）</translation>
+        <translation>エンコード結果が大きい場合、元のファイルを保持する（試験的）</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="980"/>
@@ -5233,7 +5251,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">32ビット画像でアルファ値を置換</translation>
+        <translation>32ビット画像でアルファ値を置換</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5697,17 +5715,17 @@ Do you want to continue?</source>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">輝度</translation>
+        <translation>輝度</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+光度</translation>
+        <translation>RGB+輝度</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -5970,13 +5988,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">左上</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">右上</translation>
+        <translation>右上</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5986,35 +6004,35 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished">中央上</translation>
+        <translation>中央上</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>中央左</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>中央右</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">左下</translation>
+        <translation>左下</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>下中央</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">右下</translation>
+        <translation>右下</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -6471,13 +6489,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">左上</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">右上</translation>
+        <translation>右上</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6488,19 +6506,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">左下</translation>
+        <translation>左下</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>下中央</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">右下</translation>
+        <translation>右下</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6558,22 +6576,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="58"/>
         <source>points</source>
-        <translation>pt</translation>
+        <translation>ポイント</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished">中央上</translation>
+        <translation>中央上</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>中央左</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>中央右</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6725,17 +6743,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished">中央上</translation>
+        <translation>中央上</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>中央左</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>中央右</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6812,13 +6830,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">左上</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">右上</translation>
+        <translation>右上</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6829,19 +6847,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">左下</translation>
+        <translation>左下</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>中央下</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">右下</translation>
+        <translation>右下</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -7003,7 +7021,7 @@ Do you want to continue?</source>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">輝度</translation>
+        <translation>輝度</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7318,7 +7336,7 @@ Do you want to continue?</source>
         <location filename="DlgEditXMP.ui" line="573"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">最後に開いていたタブを開く</translation>
+        <translation>開いたタブを記憶</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7729,7 +7747,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">これは画像ファイルではありません</translation>
+        <translation>これは画像ファイルではありません</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -7836,7 +7854,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation type="unfinished">レーティング＆ラベルのエクスポート</translation>
+        <translation>レーティング＆カラーラベルのエクスポート</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -7940,7 +7958,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">カラーマップの編集...</translation>
+        <translation>パレットの編集...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -9132,13 +9150,13 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptc.ui" line="730"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">最後に開いていたタブを開く</translation>
+        <translation>開いたタブを記憶</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished">フィールドの値を読み込まない</translation>
+        <translation>フィールドの値を読み込まない</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="836"/>
@@ -9757,7 +9775,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">画像コレクション</translation>
+        <translation>コレクション</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9878,7 +9896,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">必要があれば自動的に回転する</translation>
+        <translation>自動回転（必要に応じて）</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -10472,7 +10490,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>ツール&gt;プラグインを使用してインストールしてください</translation>
     </message>
 </context>
 <context>
@@ -10492,7 +10510,9 @@ Thank you for purchasing %1.</source>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>コンパニオンファイルがファイルリストで検出されると、マスターファイル名に従って自動的に名前が変更されます。 
+
+削除しますか？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -10916,28 +10936,28 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">左上</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
-        <translation type="unfinished">中央上</translation>
+        <translation>中央上</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>中央左</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>中央右</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">右上</translation>
+        <translation>右上</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="627"/>
@@ -10948,19 +10968,19 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">左下</translation>
+        <translation>左下</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>下中央</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">右下</translation>
+        <translation>右下</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="669"/>
@@ -11048,7 +11068,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
-        <translation type="unfinished">正規表現を使用</translation>
+        <translation>正規表現を使用する</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11661,7 +11681,7 @@ Do you want to check for affected entries first?</source>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation type="unfinished">XnViewカテゴリーデータベースをインポートできません</translation>
+        <translation>&quot;XnView Classic&quot;のカテゴリーデータベースをインポートできません</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11721,7 +11741,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">画像の基本パス</translation>
+        <translation>ファイルの基本的なパス</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="176"/>
@@ -11821,7 +11841,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">XnViewカテゴリーデータベースのインポート</translation>
+        <translation>&quot;XnView Classic&quot;のカテゴリーデータベースのインポート...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -12179,7 +12199,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFormat.ui" line="116"/>
         <source>Show most used formats at beginning</source>
         <oldsource>Show most used format at beginning</oldsource>
-        <translation type="unfinished">始めに最も使われている形式を表示</translation>
+        <translation>最もよく使われるフォーマットを最初に表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12513,7 +12533,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
-        <translation type="unfinished">カラープロファイル</translation>
+        <translation>カラープロファイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1001"/>
@@ -12894,7 +12914,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">同じファイルを多重表示する</translation>
+        <translation>同じファイルに対して複数のビューアタブを許可する</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -13038,7 +13058,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished">スクロール アップ/ダウン</translation>
+        <translation>縦スクロール</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13070,7 +13090,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
-        <translation type="unfinished">画像を移動</translation>
+        <translation>画像を移動</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -13113,7 +13133,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished">タブがひとつだけ開いてる時はタブを隠す</translation>
+        <translation>タブがひとつだけ開いてる時はタブヘッダーを隠す</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13283,19 +13303,19 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">最後のタブを閉じたときXnViewを終了する</translation>
+        <translation>最後のタブを閉じたときアプリケーションを終了する</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation type="unfinished">ビューを閉じたときブラウザを同期させる</translation>
+        <translation>ビューアタブを閉じたときにブラウザでファイルを選択する</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">ドラッグ＆ドロップ：ファイルリストに対して1つのビューを開く</translation>
+        <translation>ドラッグ＆ドロップ：ファイルリストに対してビューアタブをひとつ開く</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13416,7 +13436,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation type="unfinished">カタログのカテゴリにXMPまたはIPTCのキーワードをインポート</translation>
+        <translation>XMP:SubjectとIPTC:Keywordsをカタログのカテゴリーに自動的にインポートする</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13428,7 +13448,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation type="unfinished">自動的に親カテゴリーを適用（Ctrl+クリックでひとつのカテゴリーに適用）</translation>
+        <translation>親カテゴリーを自動的に割り当てる（Ctrl+クリックで現在のカテゴリーのみ）</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -13439,7 +13459,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">XMPとIPTCにカタログのカテゴリーをエクスポート</translation>
+        <translation>カタログのカテゴリーをXMP:SubjectとIPTC:Keywordsにエクスポートする</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13455,13 +13475,13 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
-        <translation type="unfinished">画像に階層的なキーワードとしてカテゴリを書き込み</translation>
+        <translation>カテゴリーを階層キーワードとして画像に書き込む</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished">XMPサイドカーを更新または作成</translation>
+        <translation>XMPサイドカーの作成または更新</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -13587,7 +13607,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">ラベル</translation>
+        <translation>カラーラベル</translation>
     </message>
 </context>
 <context>
@@ -13636,7 +13656,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
-        <translation type="unfinished">すべてのフォルダーでサムネイルを作成</translation>
+        <translation>フォルダー全体のサムネイルを作成</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13898,7 +13918,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">画像の周囲に境界線を付ける</translation>
+        <translation>キャンバスを囲むボーダーライン</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
@@ -13938,7 +13958,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="934"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation type="unfinished">スナップショットとして複数解像度アイコンファイルを表示</translation>
+        <translation>複数解像度のアイコンをスナップショットとして描画</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="713"/>
@@ -14036,17 +14056,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00平方</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90 D4/D16 アナモフィック</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00 アナモフィック</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14062,12 +14082,12 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation type="unfinished">レーティング ＆ ラベル色を表示</translation>
+        <translation>レーティング ＆ カラーラベルを表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>黄金比</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -14376,7 +14396,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">同様の画像内容（遅い）</translation>
+        <translation>類似画像コンテンツ（遅い）</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -15130,7 +15150,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルのXMP顔領域を上書きします。
+
+続けてよろしいですか？</translation>
     </message>
 </context>
 <context>
@@ -15222,7 +15244,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation type="unfinished">それぞれの画像を～ごとにインクリメント</translation>
+        <translation>各画像をインクリメントする</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -15718,7 +15740,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
         <source>Subsampling</source>
-        <translation type="unfinished">サブサンプリング</translation>
+        <translation>サブサンプリング</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15947,7 +15969,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">サブサンプリング</translation>
+        <translation>サブサンプリング</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -16081,13 +16103,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">白黒画像の圧縮</translation>
+        <translation>白黒画像の圧縮</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">カラー画像の圧縮</translation>
+        <translation>カラー画像の圧縮</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -16151,7 +16173,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">シャープな（遅い）RGB-&gt;YUV変換を使用する</translation>
+        <translation>シャープな（そして遅い）RGB-&gt;YUV変換を使用する</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -16246,7 +16268,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>このお気に入りは存在しないフォルダを指しています。
+
+&quot;%1&quot;のお気に入りを削除しますか？</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -16574,7 +16598,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
-        <translation type="unfinished">サブサンプリング</translation>
+        <translation>サブサンプリング</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -17600,7 +17624,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translatorcomment>TXT_TemplateMenu_EXIF_Exposure_time</translatorcomment>
-        <translation type="unfinished">露光時間[s]</translation>
+        <translation>露光時間（秒）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17631,7 +17655,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_length</translatorcomment>
-        <translation type="unfinished">焦点距離 [mm]</translation>
+        <translation>焦点距離 (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -18793,7 +18817,9 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">この画像は構成要素あたり8ビットに変換されます。続けてよろしいですか？</translation>
+        <translation>画像は24ビットRGB（各チャンネル8ビット）に変換されます。
+
+続けてよろしいですか？</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
@@ -19040,7 +19066,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>ヘブライ語</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19395,7 +19421,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>画像として貼り付け</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -19946,7 +19972,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="404"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">テストで開く</translation>
+        <translation>…で開く</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="405"/>
@@ -20205,7 +20231,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="493"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">レーティング＆カラーラベル</translation>
+        <translation>レーティング＆カラーラベル</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="494"/>
@@ -20734,7 +20760,7 @@ Do you want to continue?</oldsource>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: 数字列</translation>
+        <translation># 数値列挙子</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -20930,7 +20956,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="203"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GBR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -21148,14 +21174,14 @@ Do you want to continue?</oldsource>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
         <translatorcomment>TXT_NviewMenu_Set_Selection_Ratio</translatorcomment>
-        <translation type="unfinished">選択範囲縦横率設定</translation>
+        <translation>選択範囲 - 設定比率</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
         <translatorcomment>TXT_NviewMenu_Set_Selection_Size</translatorcomment>
-        <translation type="unfinished">選択範囲サイズ設定</translation>
+        <translation>選択範囲 - サイズ設定</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -21205,49 +21231,49 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">最高（次の画像に移動）</translation>
+        <translation>最高（次の画像に移動）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">良（次の画像に移動）</translation>
+        <translation>良（次の画像に移動）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">ふつう（次の画像に移動）</translation>
+        <translation>ふつう（次の画像に移動）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">まずまず（次の画像に移動）</translation>
+        <translation>まずまず（次の画像に移動）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">ひどい（次の画像に移動）</translation>
+        <translation>ひどい（次の画像に移動）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">レートなし（次の画像に移動）</translation>
+        <translation>レートなし（次の画像に移動）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##label## （次の画像に移動）</translation>
+        <translation>##label## （次の画像に移動）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">レーティング＆カラーラベル</translation>
+        <translation>レーティング＆カラーラベル</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
@@ -21420,7 +21446,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="402"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">アイコンスナップショット オン/オフ</translation>
+        <translation>スナップショットとして描画（アイコンのみ）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="403"/>
@@ -21488,7 +21514,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>選択をクリア</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="420"/>
@@ -21540,7 +21566,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">対数カラー表示</translation>
+        <translation>対数LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -21743,7 +21769,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
-        <translation type="unfinished">電子メールで送信...</translation>
+        <translation>電子メールで送信...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="486"/>
@@ -21778,7 +21804,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>画像として貼り付け</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -21800,7 +21826,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">カラーマップの編集...</translation>
+        <translation>パレットの編集...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="418"/>
@@ -22128,7 +22154,7 @@ Do you want to continue?</oldsource>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image... </source>
         <oldsource>Loading picture... </oldsource>
-        <translation type="unfinished">画像の読み込み...</translation>
+        <translation>画像を読み込んでいます... </translation>
     </message>
 </context>
 <context>
@@ -22227,7 +22253,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="159"/>
         <source>Luminance</source>
-        <translation>光度</translation>
+        <translation>輝度</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="167"/>
@@ -22237,7 +22263,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="175"/>
         <source>RGB+Luminance</source>
-        <translation>RGB+光度</translation>
+        <translation>RGB+輝度</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="215"/>
@@ -22341,7 +22367,7 @@ Do you want to continue?</oldsource>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">キャッシュされたサムネイルのサイズが選択したものより小さいです。
+        <translation>キャッシュされたサムネイルのサイズが選択したものより小さいです。
 設定＞カタログで変更できます。</translation>
     </message>
     <message>
@@ -23892,7 +23918,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>パックビット</translation>
     </message>
 </context>
 <context>
