@@ -19177,7 +19177,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
-        <translation>##címke## (tovább a következő képre)</translation>
+        <translation>##label## (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="495"/>
@@ -20893,7 +20893,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##címke## (tovább a következő képre)</translation>
+        <translation>##label## (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
