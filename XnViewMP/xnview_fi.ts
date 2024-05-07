@@ -15270,7 +15270,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##label## (move to next image)</source>
-        <translation>##ikkuna## (siirry seuraavaan kuvaan))</translation>
+        <translation>##label## (siirry seuraavaan kuvaan))</translation>
     </message>
     <message>
         <source>Slideshow...</source>
@@ -16551,7 +16551,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##label## (move to next image)</source>
-        <translation type="unfinished">##ikkuna## (siirry seuraavaan kuvaan))</translation>
+        <translation>##label## (siirry seuraavaan kuvaan))</translation>
     </message>
 </context>
 <context>
