@@ -19730,7 +19730,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
-        <translation>##Etiket## (sonraki resme geç)</translation>
+        <translation>##label## (sonraki resme geç)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="487"/>
@@ -20890,7 +20890,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##Etiket## (sonraki resme geç)</translation>
+        <translation>##label## (sonraki resme geç)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
