@@ -258,7 +258,7 @@
     </message>
     <message>
         <source>Customize toolbar...</source>
-        <translation>Կարգավորել գործիքները...</translation>
+        <translation>Հարմարեցնել գործիքագոտին...</translation>
     </message>
     <message>
         <source>Error</source>
@@ -266,7 +266,7 @@
     </message>
     <message>
         <source>An error occurred during saving!</source>
-        <translation>Սխալ՝ պահպանելիս</translation>
+        <translation>Սխալ՝ պահպանելիս:</translation>
     </message>
     <message>
         <source>Save &amp;as...</source>
@@ -316,20 +316,21 @@
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Պատկերը կփոխարկվի 24 բիթ RGB (8 բիթ ալիքի համար)</translation>
     </message>
     <message>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Եզակի գույների քանակը. %1</translation>
     </message>
     <message>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Պահե՞լ փոփոխությունները
+&quot;%1&quot;-ում:</translation>
     </message>
     <message>
         <source>Saving image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Պատկերը պահվում է...</translation>
     </message>
 </context>
 <context>
@@ -415,7 +416,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Այս ընտրյալը ցույց է տալիս պանակ, որը գոյություն չունի:
+
+Ջնջե՞լ &quot;%1&quot; ընտրյալը:</translation>
     </message>
 </context>
 <context>
@@ -461,8 +464,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
+            <numerusform>Ջնջե՞լ %n միույթը:</numerusform>
             <numerusform>Ջնջե՞լ %n միույթները:</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -650,11 +653,11 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Assign Set to selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերագրել կայումը ընտրվածին</translation>
     </message>
     <message>
         <source>Unassign Set from selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ապավրագրել կայումը ընտրվածին</translation>
     </message>
 </context>
 <context>
@@ -1394,14 +1397,14 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation type="unfinished"></translation>
+        <translation>Logarithmic LUT</translation>
     </message>
 </context>
 <context>
     <name>ConvertThread</name>
     <message>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>ԶԳՈՒՇԱՑՈՒՄ. Պատկերը կփոխարկվի 24 բիթ RGB (8 բիթ ամեն ալիքում)</translation>
     </message>
 </context>
 <context>
@@ -2243,18 +2246,21 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Վրագրել ֆայլը</translation>
     </message>
     <message>
         <source>Destination already has a file named: 
 %1
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Նպատակակետն արդեն ունի հետևյալ անունով ֆայլ՝ 
+%1
+
+Վրագրե՞լ այն:</translation>
     </message>
     <message>
         <source>not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>պատկեր չէ</translation>
     </message>
 </context>
 <context>
@@ -3026,46 +3032,59 @@ Do you want to overwrite it?</source>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
-        <translation type="unfinished"></translation>
+        <translation>Հասանելի է XnConvert-ի %1 տարբերակը:
+
+Անցնե՞լ ներբեռնումների էջին:</translation>
     </message>
     <message>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Արտածման ֆայլն արդեն առկա է: 
+
+Վրագրե՞լ այն:</translation>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Վրագրել ֆայլը</translation>
     </message>
     <message>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Ջնջել բնօրինակը&apos; ընտրանքը միացված է
+
+Շարունակե՞լ:</translation>
     </message>
     <message>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Արտածման ֆայլի անունը նույնը կլինի բոլոր փոխարկված ֆայլերի համար: 
+
+Շարունակե՞լ:</translation>
     </message>
     <message>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Դուք ունեք &apos;պահել բնօրինակ ֆայլը, եթե արդյունքն ավելի մեծ է&apos; և որոշ գործողություններ 
+
+Շարունակե՞լ:</translation>
     </message>
     <message>
         <source>Destination already has a file named: 
 %1
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Նպատակակետում արդեն առկա է հետևյալ անունով ֆայլ՝ 
+%1
+
+Վրագրե՞լ այն:</translation>
     </message>
     <message>
         <source>not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>պատկեր չէ</translation>
     </message>
 </context>
 <context>
@@ -3292,7 +3311,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերև կենտրոն</translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -3431,7 +3450,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերև կենտրոն</translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -3988,7 +4007,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
-        <translation type="unfinished"></translation>
+        <translation>Փոխարինել alpha-ն 32 բիթ պատկերների համար</translation>
     </message>
 </context>
 <context>
@@ -4592,7 +4611,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերև կենտրոն</translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -5076,7 +5095,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերև կենտրոն</translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -5229,7 +5248,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերև կենտրոն</translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -5725,7 +5744,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Հիշել բացված ներդիրը</translation>
     </message>
 </context>
 <context>
@@ -6005,7 +6024,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>This is not an image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Սա պատկերի ֆայլ է</translation>
     </message>
 </context>
 <context>
@@ -6028,7 +6047,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Արտահանման վարկանիշ և գույնի պիտակներ</translation>
     </message>
 </context>
 <context>
@@ -7158,7 +7177,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Հիշել բացված ներդիրը</translation>
     </message>
 </context>
 <context>
@@ -7778,11 +7797,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Հավաքածու</translation>
     </message>
     <message>
         <source>Automatically rotate (if needed)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ինքնաբար պտտել (եթե պետք է)</translation>
     </message>
 </context>
 <context>
@@ -8088,7 +8107,7 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Տեղադրեք այն Գործիքներ » Օժանդակիչներով</translation>
     </message>
 </context>
 <context>
@@ -8109,7 +8128,9 @@ Thank you for purchasing %1.</source>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ուղեկից ֆայլեր են հայտնաբերվել ֆայլերի ցանկում, դրանք ինքնաբար վերանվանվել են հետևյալի: 
+
+Հեռացնե՞լ դրանք:</translation>
     </message>
 </context>
 <context>
@@ -8448,7 +8469,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերև կենտրոն</translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -8621,7 +8642,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Օգտ. կանոնավոր սահմանում</translation>
     </message>
 </context>
 <context>
@@ -9045,7 +9066,7 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished"></translation>
+        <translation>ՀՆարավոր չէ ներմուծել XnView Classic անվանակարգի տվյալների շտեմարանը</translation>
     </message>
 </context>
 <context>
@@ -9164,11 +9185,11 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Import XnView Classic category db...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ներմուծել XnView Classic անվանակարգի տվյալների շտեմարանը...</translation>
     </message>
     <message>
         <source>Base path of files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ֆայլերի հիմնական ուղին</translation>
     </message>
 </context>
 <context>
@@ -9395,7 +9416,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Used by Filter › Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Օգտագործված է Զտիչ » Հարմարեցված</translation>
     </message>
 </context>
 <context>
@@ -10242,7 +10263,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Դիտարկիչ ↔ Լիաէկրան | Դիտակ ↔ Լիաէկրան</translation>
     </message>
     <message>
         <source>Browser ↔ Viewer</source>
@@ -10262,7 +10283,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Move image</source>
-        <translation type="unfinished"></translation>
+        <translation>Տեղափոխել պատկերը</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
