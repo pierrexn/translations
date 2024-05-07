@@ -19997,7 +19997,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
-        <translation>##etiqueta## (mou a la imatge següent)</translation>
+        <translation>##label## (mou a la imatge següent)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="487"/>
@@ -21007,7 +21007,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##etiqueta## (mou a la imatge següent)</translation>
+        <translation>##label## (mou a la imatge següent)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
