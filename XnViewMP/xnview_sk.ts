@@ -20916,7 +20916,7 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##štítok## (presunúť na ďalšiu fotku)</translation>
+        <translation>##label## (presunúť na ďalšiu fotku)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
