@@ -21035,7 +21035,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation>##oznaka## (pomakni se na naslednjo sliko)</translation>
+        <translation>##label## (pomakni se na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
