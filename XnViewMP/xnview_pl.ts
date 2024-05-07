@@ -334,7 +334,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Liczba unikatowych kolorów: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -348,9 +348,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Czy chcesz zapisać zmiany w
-&apos;%1&apos;?
-</translation>
+        <translation>Czy chcesz zapisać zmiany w
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
@@ -387,7 +386,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obraz zostanie przekonwertowany do 24 bitów (8 bitów na kanał)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -400,7 +399,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Zapisywanie obrazu...</translation>
+        <translation>Zapisywanie obrazu...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -1814,7 +1813,7 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">UWAGA: Ten obraz zostanie przekonwertowany do RGB, przy użyciu 8 bitów na każdą składową</translation>
+        <translation>UWAGA: Ten obraz zostanie przekonwertowany do 24 bitowej palety RGB (8 bitów na kanał)</translation>
     </message>
 </context>
 <context>
@@ -2799,7 +2798,7 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">nie jest obrazem</translation>
+        <translation>nie jest obrazem</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -2855,7 +2854,9 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Plik o nazwie %1 już istnieje.
+        <translation>W folderze docelowym znajduje się już plik o nazwie:
+%1
+
 Czy nadpisać ten plik?</translation>
     </message>
     <message>
@@ -3821,7 +3822,7 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgConvert.cpp" line="2489"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">nie jest obrazem</translation>
+        <translation>nie jest obrazem</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -3887,7 +3888,9 @@ Czy na pewno kontynuować?</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">W folderze docelowym znajduje się już plik o nazwie %1
+        <translation>W folderze docelowym znajduje się już plik o nazwie:
+%1
+
 Czy nadpisać ten plik?</translation>
     </message>
     <message>
@@ -4220,25 +4223,25 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">U góry po lewej</translation>
+        <translation>U góry po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">U góry po środku</translation>
+        <translation>U góry po środku</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">U góry po prawej</translation>
+        <translation>U góry po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Na środku po lewej</translation>
+        <translation>Na środku po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4249,25 +4252,25 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Na środku po prawej</translation>
+        <translation>Na środku po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">U dołu po lewej</translation>
+        <translation>U dołu po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">U dołu po środku</translation>
+        <translation>U dołu po środku</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">U dołu po prawej</translation>
+        <translation>U dołu po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -5201,7 +5204,7 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Zamień kanał alfa dla obrazów 32-bit</translation>
+        <translation>Zamień kanał alfa dla obrazów 32-bitowych</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5654,17 +5657,17 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Luminancja</translation>
+        <translation>Luminancja</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB i luminancja</translation>
+        <translation>RGB i luminancja</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -5922,13 +5925,13 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">U góry po lewej</translation>
+        <translation>U góry po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">U góry po prawej</translation>
+        <translation>U góry po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5938,35 +5941,35 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished">U góry po środku</translation>
+        <translation>U góry po środku</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished">Na środku po lewej</translation>
+        <translation>Na środku po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished">Na środku po prawej</translation>
+        <translation>Na środku po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">U dołu po lewej</translation>
+        <translation>U dołu po lewej</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">U dołu</translation>
+        <translation>U dołu</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">U dołu po prawej</translation>
+        <translation>U dołu po prawej</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -6950,7 +6953,7 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Luminacja</translation>
+        <translation>Luminacja</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7671,7 +7674,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">To nie jest plik obrazu</translation>
+        <translation>To nie jest plik obrazu</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -7875,7 +7878,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Edytuj paletę...</translation>
+        <translation>Edytuj paletę...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -9681,7 +9684,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Kolekcja zdjęć</translation>
+        <translation>Kolekcja zdjęć</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9802,7 +9805,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Automatycznie obracaj obraz w razie potrzeby</translation>
+        <translation>Automatycznie obracaj obraz w razie potrzeby</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -10967,7 +10970,7 @@ Czy chcesz je usunąć?</translation>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
-        <translation type="unfinished">Użyj wyrażeń regularnych</translation>
+        <translation>Użyj wyrażeń regularnych</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11640,7 +11643,7 @@ Czy na pewno usunąć wpisy przypisane do kategorii?</translation>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">Ścieżka bazowa obrazów</translation>
+        <translation>Ścieżka bazowa obrazów</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="176"/>
@@ -12804,7 +12807,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">Zezwalaj na wyświetlanie tego samego pliku w wielu kartach/oknach</translation>
+        <translation>Zezwalaj na wyświetlanie tego samego pliku w wielu kartach</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12980,7 +12983,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
-        <translation type="unfinished">Przesuwanie obrazu</translation>
+        <translation>Przesuwanie obrazu</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -13023,7 +13026,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished">Ukrywaj pasek kart, gdy tylko jedna jest otwarta</translation>
+        <translation>Ukrywaj pasek kart, gdy tylko jedna jest otwarta</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13193,19 +13196,19 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">Zamknięcie ostatniej karty zamyka XnView</translation>
+        <translation>Zamknięcie ostatniej karty zamyka aplikację</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation type="unfinished">Po zamknięciu wyświetlarki zaznacz w przeglądarce ostatnio wyświetlony plik</translation>
+        <translation>Po zamknięciu wyświetlarki zaznacz w przeglądarce ostatnio wyświetlony plik</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">Otwieraj tylko jedno okno dla listy plików dodanej przy pomocy przeciągnij i upuść</translation>
+        <translation>Otwieraj tylko jedno okno dla listy plików dodanej przy pomocy przeciągnij i upuść</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13344,7 +13347,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">Eksportuj kategorię katalogu do tematu XMP oraz słów kluczowych IPTC</translation>
+        <translation>Eksportuj kategorię katalogu do tematu XMP oraz słów kluczowych IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13366,7 +13369,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished">Utwórz lub aktualizuj plik towarzyszący XMP</translation>
+        <translation>Utwórz lub aktualizuj plik towarzyszący XMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -13467,7 +13470,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">Etykiety</translation>
+        <translation>Kolorowe etykiety</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="262"/>
@@ -13807,7 +13810,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">Obramowanie obrazu</translation>
+        <translation>Obramowanie obrazu</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
@@ -13944,17 +13947,17 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  kwadrat</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 anamorficzny</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  anamorficzny</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14284,7 +14287,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">Podobna zawartość obrazów (wolne)</translation>
+        <translation>Podobna zawartość obrazów (wolne)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="222"/>
@@ -15627,7 +15630,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Podpróbkowanie</translation>
+        <translation>Podpróbkowanie</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15856,7 +15859,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Podpróbkowanie</translation>
+        <translation>Podpróbkowanie</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -15990,13 +15993,13 @@ Czy chcesz kontynuować?</translation>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">Kompresja obrazów czarno-&amp;białych</translation>
+        <translation>Kompresja obrazów czarno-&amp;białych</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">Kompresja obrazów kolorowych</translation>
+        <translation>Kompresja obrazów kolorowych</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -17441,7 +17444,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Czas ekspozycji [s]</translation>
+        <translation>Czas ekspozycji (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17467,7 +17470,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Długość ogniskowej [mm]</translation>
+        <translation>Długość ogniskowej (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -18549,7 +18552,7 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Ten obraz zostanie przekonwertowany do 8 bitów na składową.
+        <translation>Obraz zostanie przekonwertowany na 24-bitowy RGB (8 bitów na kanał). 
 
 Czy chcesz kontynuować?</translation>
     </message>
@@ -19153,7 +19156,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej jako obraz</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -20860,13 +20863,13 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="312"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Ustaw proporcje zaznaczenia</translation>
+        <translation>Ustaw proporcje zaznaczenia</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Ustaw rozmiar zaznaczenia</translation>
+        <translation>Ustaw rozmiar zaznaczenia</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -20912,37 +20915,37 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Doskonały (przejdź do następnego obrazu)</translation>
+        <translation>Doskonały (przejdź do następnego obrazu)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Dobry (przejdź do następnego obrazu)</translation>
+        <translation>Dobry (przejdź do następnego obrazu)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Średni (przejdź do następnego obrazu)</translation>
+        <translation>Średni (przejdź do następnego obrazu)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Przeciętny (przejdź do następnego obrazu)</translation>
+        <translation>Przeciętny (przejdź do następnego obrazu)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Kiepski (przejdź do następnego obrazu)</translation>
+        <translation>Kiepski (przejdź do następnego obrazu)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Brak oceny (przejdź do następnego obrazu)</translation>
+        <translation>Brak oceny (przejdź do następnego obrazu)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
@@ -21183,7 +21186,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść zaznaczenie</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="420"/>
@@ -21473,7 +21476,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej jako obraz</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -21821,7 +21824,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image... </source>
         <oldsource>Loading picture... </oldsource>
-        <translation type="unfinished">Wczytywanie obrazu... </translation>
+        <translation>Wczytywanie obrazu... </translation>
     </message>
 </context>
 <context>
@@ -23587,7 +23590,7 @@ Kliknij prawym przyciskiem myszy, aby wyświetlić menu z akcjami.</translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
