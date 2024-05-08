@@ -6,7 +6,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="419"/>
         <source>Uncolored</source>
-        <translation>Sem cor</translation>
+        <translation>Sem coloração</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="425"/>
@@ -281,8 +281,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">&quot;%1&quot;?
-</translation>
+        <translation>Pretende gravar as alterações a
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1353"/>
@@ -308,7 +308,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>A imagem será convertida para RGB 24 bits (8 bits por canal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -423,7 +423,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de imagens únicas: %1</translation>
     </message>
 </context>
 <context>
@@ -526,7 +526,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Este favorito indica uma pasta que não existe. 
+
+Deseja apagar o favorito &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -1820,7 +1822,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">AVISO: A imagem será convertida para RGB com 8 bits por componente</translation>
+        <translation>AVISO: A imagem será convertida para RGB 24 bits (8 bits por componente)</translation>
     </message>
 </context>
 <context>
@@ -2857,7 +2859,9 @@ Arrastar e largar sobre o nó pretendido.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Existe já um ficheiro com o nome %1. Deseja substituí-lo?</translation>
+        <translation>Já existe um ficheiro com o nome %1.. 
+
+Deseja substituí-lo?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3567,7 +3571,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">Está disponível a versão %1 de XnConvert, aceita passar à página de download?</translation>
+        <translation>Está disponível a versão %1 de XnConvert. 
+
+Gostaria de passar à página de download?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1552"/>
@@ -3662,7 +3668,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">O ficheiro de saída já existe, deseja gravar por cima dele?</translation>
+        <translation>O ficheiro de destino já existe. 
+
+Deseja gravar por cima?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3878,7 +3886,10 @@ Do you want to overwrite it?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Existe já um ficheiro com o nome %1. Deseja substituí-lo?</translation>
+        <translation>Já existe o ficheiro de destino: 
+%1
+
+Deseja substituí-lo?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2613"/>
@@ -3910,14 +3921,18 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>A opção &apos;Apagar o ficheiro original&apos; está ativa.
+
+Deseja continuar?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>O ficheiro de destino será o mesmo para todos os ficheiros convertidos. 
+
+Pretende continuar?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -3929,7 +3944,9 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispõe da opção &apos;Conservar o ficheiro original se o ficheiro resultante for maior&apos; e outras acções. 
+
+Deseja continuar?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -5195,7 +5212,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Substituir alfa para imagens de 32 bits</translation>
+        <translation>Substituir o alfa nas imagens de 32 bits</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5647,7 +5664,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Luminosidade</translation>
+        <translation>Luminância</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
@@ -5931,17 +5948,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Cima centro</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro esquerda</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro direita</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
@@ -5953,7 +5970,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Baixo</translation>
+        <translation>Baixo centro</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6434,7 +6451,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Baixo</translation>
+        <translation>Baixo centro</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
@@ -6503,17 +6520,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Cima centro</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro esquerda</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro direita</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6665,17 +6682,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Cima centro</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro esquerda</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro direita</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6775,7 +6792,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Baixo</translation>
+        <translation>Baixo centro</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
@@ -6943,7 +6960,7 @@ Do you want to continue?</source>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Luminosidade</translation>
+        <translation>Luminância</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
