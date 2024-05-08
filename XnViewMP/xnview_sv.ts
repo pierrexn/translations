@@ -334,7 +334,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal unika färger: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -348,9 +348,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Vill du spara ändringar i
-&quot;%1&quot;?
-</translation>
+        <translation>Vill du spara ändringar i
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
@@ -387,7 +386,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilden kommer att konverteras till 24-bitars RGB (8 bitar per kanal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -400,7 +399,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Sparar bild...</translation>
+        <translation>Sparar bild...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -524,7 +523,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här favoriten pekar mot en mapp som inte finns.
+
+Vill du ta bort favoriten &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -1571,7 +1572,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmisk lut</translation>
+        <translation>Logaritmisk LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -1811,7 +1812,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">VARNING! Bilden kommer att konverteras till RGB med 8 bitar per komponent</translation>
+        <translation>VARNING: Bilden kommer att konverteras till 24-bitars RGB (8 bitar per kanal)</translation>
     </message>
 </context>
 <context>
@@ -2791,7 +2792,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">ingen bild</translation>
+        <translation>inte en bild</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -2837,7 +2838,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Vill du skriva över filen?</translation>
+        <translation>Vill du skriva över filen?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -2847,7 +2848,10 @@ Dra och släpp över önskad nod för att tilldela.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">En fil kallad %1 finns redan. Vill du skriva över den?</translation>
+        <translation>Målmappen har redan en fil med namnet: 
+%1
+
+Vill du skriva över den?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3548,7 +3552,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">Version %1 av XnConvert finns tillgänglig, vill du gå till nerladdningssidan?</translation>
+        <translation>Version %1 av XnConvert finns tillgänglig. 
+
+Vill du gå till nerladdningssidan?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1552"/>
@@ -3703,7 +3709,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Utdatafilen finns redan, vill du skriva över den?</translation>
+        <translation>Utdatafilen finns redan. 
+
+Vill du skriva över den?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3740,7 +3748,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2489"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">ingen bild</translation>
+        <translation>inte en bild</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -3796,7 +3804,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Vill du skriva över filen?</translation>
+        <translation>Skriv över filen</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -3806,7 +3814,10 @@ Do you want to overwrite it?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">En fil kallad %1 finns redan. Vill du skriva över den?</translation>
+        <translation>Målmappen har redan en fil med namnet: 
+%1
+
+Vill du skriva över den?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2613"/>
@@ -3855,14 +3866,18 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativet &quot;Ta bort original&quot; är aktiverat.
+
+Vill du fortsätta?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Utdatanamnet kommer att bli samma på alla konverterade filer. 
+
+Vill du fortsätta?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -3874,7 +3889,9 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har möjligheten &quot;Behåll originalfilen om resultatet är större&quot; och vissa åtgärder. 
+
+Vill du fortsätta?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -4191,25 +4208,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Vänster överkant</translation>
+        <translation>Vänster överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Centrerat överkant</translation>
+        <translation>Centrerat överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Höger överkant</translation>
+        <translation>Höger överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Centrerat vänster</translation>
+        <translation>Centrerat vänster</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4220,25 +4237,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Centrerat höger</translation>
+        <translation>Centrerat höger</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Vänster underkant</translation>
+        <translation>Vänster underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Centrerat underkant</translation>
+        <translation>Centrerat underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Höger underkant</translation>
+        <translation>Höger underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -4377,25 +4394,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Vänster överkant</translation>
+        <translation>Vänster överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Centrerat överkant</translation>
+        <translation>Centrerat överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Höger överkant</translation>
+        <translation>Höger överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Centerat vänster</translation>
+        <translation>Centerat vänster</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4406,25 +4423,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Centrerat höger</translation>
+        <translation>Centrerat höger</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Vänster underkant</translation>
+        <translation>Vänster underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Centrerat underkant</translation>
+        <translation>Centrerat underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Höger underkant</translation>
+        <translation>Höger underkant</translation>
     </message>
 </context>
 <context>
@@ -5173,7 +5190,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Ersätt alfa för 32-bitars bilder</translation>
+        <translation>Ersätt alfa för 32-bitars bilder</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5626,17 +5643,17 @@ Do you want to continue?</source>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Ljusstyrka</translation>
+        <translation>Ljusstyrka</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+ljusstyrka</translation>
+        <translation>RGB+ljusstyrka</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -5894,13 +5911,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Vänster överkant</translation>
+        <translation>Vänster överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Höger överkant</translation>
+        <translation>Höger överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5910,35 +5927,35 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat vänster</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat höger</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Vänster underkant</translation>
+        <translation>Vänster underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Underkant</translation>
+        <translation>Centrerat underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Höger underkant</translation>
+        <translation>Höger underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -6390,13 +6407,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Vänster överkant</translation>
+        <translation>Vänster överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Höger överkant</translation>
+        <translation>Höger överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6407,19 +6424,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Vänster underkant</translation>
+        <translation>Vänster underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Underkant</translation>
+        <translation>Centrerat underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Höger  underkant</translation>
+        <translation>Höger underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6482,17 +6499,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat vänster</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat höger</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6644,17 +6661,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat vänster</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat höger</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6731,13 +6748,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Vänster överkant</translation>
+        <translation>Vänster överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Höger överkant</translation>
+        <translation>Höger överkant</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6748,19 +6765,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Vänster underkant</translation>
+        <translation>Vänster underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Underkant</translation>
+        <translation>Centrerat underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Höger underkant</translation>
+        <translation>Höger underkant</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -6922,7 +6939,7 @@ Do you want to continue?</source>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Ljusstyrka</translation>
+        <translation>Ljusstyrka</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7232,7 +7249,7 @@ Do you want to continue?</source>
         <location filename="DlgEditXMP.ui" line="573"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Öppna senast öppnade flik</translation>
+        <translation>Kom ihåg öppnad flik</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7643,7 +7660,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">Detta är inte en bildfil</translation>
+        <translation>Detta är inte en bildfil</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -7749,7 +7766,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation type="unfinished">Exportklassificering &amp;&amp; etikett</translation>
+        <translation>Exportklassificering &amp;&amp; färgetikett</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -7847,7 +7864,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Redigera färgkarta...</translation>
+        <translation>Redigera färgkarta...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -9028,13 +9045,13 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <location filename="DlgIptc.ui" line="730"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Öppna senast öppnade flik</translation>
+        <translation>Kom ihåg öppnad flik</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished">Läs inte in fältvärden</translation>
+        <translation>Läs inte in fältvärden</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="836"/>
@@ -9653,7 +9670,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Bildsamling</translation>
+        <translation>Samling</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9774,7 +9791,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Rotera bilden automatiskt vid behov</translation>
+        <translation>Rotera bilden automatiskt (vid behov)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -10362,7 +10379,7 @@ Tack för att du köper %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera den via Verktyg › Insticksmoduler</translation>
     </message>
 </context>
 <context>
@@ -10382,7 +10399,9 @@ Tack för att du köper %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Companion-filer har identifierats i fillistan, de döps automatiskt om för att följa huvudfilnamnet. 
+
+Vill du ta bort dem?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -10806,28 +10825,28 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Vänster överkant</translation>
+        <translation>Vänster överkant</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat överkant</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat vänster</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrerat höger</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Höger överkant</translation>
+        <translation>Höger överkant</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="627"/>
@@ -10838,19 +10857,19 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Vänster underkant</translation>
+        <translation>Vänster underkant</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Underkant</translation>
+        <translation>Centrerat underkant</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Höger underkant</translation>
+        <translation>Höger underkant</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="669"/>
@@ -10938,7 +10957,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
-        <translation type="unfinished">Använd RegExp</translation>
+        <translation>Använd Regular Expression</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11550,7 +11569,7 @@ Vill du först kontrollera om det finns berörda poster?</translation>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation type="unfinished">Kan inte importera XnView kategoridatabas</translation>
+        <translation>Kan inte importera XnView Classic kategoridatabas</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11611,7 +11630,7 @@ Vill du ta bort poster som tilldelats en kategori?</translation>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">Dina bilders standardsökväg</translation>
+        <translation>Standardsökväg för filer</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="176"/>
@@ -11706,7 +11725,7 @@ Vill du ta bort poster som tilldelats en kategori?</translation>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">Importera XnView kategoridatabas...</translation>
+        <translation>Importera XnView Classic kategoridatabas...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -12065,7 +12084,7 @@ miniatyr</translation>
         <location filename="DlgSettingsFormat.ui" line="116"/>
         <source>Show most used formats at beginning</source>
         <oldsource>Show most used format at beginning</oldsource>
-        <translation type="unfinished">Visa det mest använda formatet i början</translation>
+        <translation>Visa mest använda format i början</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12395,7 +12414,7 @@ miniatyr</translation>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
-        <translation type="unfinished">Färgprofil</translation>
+        <translation>Färghantering</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1001"/>
@@ -12775,7 +12794,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">Flera visningar av samma fil</translation>
+        <translation>Tillåt flera visningsflikar för samma fil</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12919,7 +12938,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished">Skrolla upp/ner</translation>
+        <translation>Vertikal skroll</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -12951,7 +12970,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
-        <translation type="unfinished">Flytta bild</translation>
+        <translation>Flytta bild</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -12994,7 +13013,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished">Dölj flikar när endast en är öppen</translation>
+        <translation>Dölj flikhuvudet när endast en flik är öppen</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13164,19 +13183,19 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">XnView avslutas när sista fliken stängs</translation>
+        <translation>När sista fliken stängs avslutas programmet</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation type="unfinished">Synkronisera filläsaren när visning stängs</translation>
+        <translation>Markera fil i filhanteraren när visningsfliken stängs</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">Dra &amp;&amp; släpp: Öppna en vy för fillista</translation>
+        <translation>Dra &amp;&amp; släpp: Öppna enskild visningsflik för fillistan</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13297,7 +13316,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation type="unfinished">Importera XMP-ämne eller IPTC-nyckelord till katalogkategorier</translation>
+        <translation>Importera automatiskt XMP:Subject och IPTC:Keywords till katalogens kategorier</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13309,7 +13328,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation type="unfinished">Tillämpa överordnad kategori automatiskt (Ctrl+klick för enstaka kategori)</translation>
+        <translation>Tilldela automatiskt överordnad kategori (Ctrl+klick endast för aktuell)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -13320,7 +13339,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">Exportera katalogskategori till XMP-ämne och IPTC-nyckelord</translation>
+        <translation>Exportera katalogens kategorier till XMP:Subject och IPTC:Keywords</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13336,13 +13355,13 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
-        <translation type="unfinished">Skriv kategorier till bilder som hierarkiska nyckelord</translation>
+        <translation>Skriv in kategorier i bilderna som hierarkiska nyckelord</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished">Uppdatera eller skapa CMP Sidecar</translation>
+        <translation>Skapa eller uppdatera XMP Sidecar</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -13468,7 +13487,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">Etiketter</translation>
+        <translation>Färgetiketter</translation>
     </message>
 </context>
 <context>
