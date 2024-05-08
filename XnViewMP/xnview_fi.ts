@@ -653,11 +653,11 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Assign Set to selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Määritä rymä valinnalle...</translation>
     </message>
     <message>
         <source>Unassign Set from selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kohde Aseta valinnasta</translation>
     </message>
 </context>
 <context>
