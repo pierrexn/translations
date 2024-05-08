@@ -316,20 +316,21 @@
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuva munnetaan 24-bittiseksi RGB:ksi (8-bittiä kanava)</translation>
     </message>
     <message>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uniikkien värien määrä: %1</translation>
     </message>
     <message>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallennetaanko muutokset tiedostoon 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Saving image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallennetaan kuvaa...</translation>
     </message>
 </context>
 <context>
@@ -415,7 +416,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä suoskki johtaa kansioon jota ei ole olemassa.
+
+Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
