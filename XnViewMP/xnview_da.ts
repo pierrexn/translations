@@ -14026,17 +14026,17 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation>1.00 kvadrat</translation>
+        <translation>1.00  kvadrat</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation>1,90 D4/D16 Anamorfisk</translation>
+        <translation>1,90  D4/D16 Anamorfisk</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation>2,00   anamorfisk</translation>
+        <translation>2,00  anamorfisk</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
