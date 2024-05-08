@@ -14032,17 +14032,17 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation>1.00   Quadrato</translation>
+        <translation>1.00  Quadrato</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation>1.90 D4/D16 Anamorfico</translation>
+        <translation>1.90  D4/D16 Anamorfico</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation>2.00 Anamorfico</translation>
+        <translation>2.00  Anamorfico</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
