@@ -12379,7 +12379,7 @@ miniature</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="349"/>
         <source>Browser - Fullscreen</source>
-        <translation>Browser - Fullscreen</translation>
+        <translation>Browser - Fuldskærm</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="375"/>
@@ -12647,7 +12647,7 @@ miniature</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="462"/>
         <source>XnViewMP for Windows</source>
-        <translation>XnViewMP for Windows</translation>
+        <translation>XnViewMP til Windows</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="478"/>
@@ -16647,7 +16647,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoPropertiesView.cpp" line="703"/>
         <location filename="InfoPropertiesView.cpp" line="722"/>
         <source>Frame rate</source>
-        <translation>Frame rate</translation>
+        <translation>Frame forhold</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="687"/>
@@ -23664,7 +23664,7 @@ Højreklik for pop-op-menu med handlinger.</translation>
         <location filename="WebError.cpp" line="203"/>
         <source>The peer presented a certificate that was blacklisted.</source>
         <translatorcomment>Peer&apos;en fremviste et certifikat, der var blacklistet.</translatorcomment>
-        <translation></translation>
+        <translation>Peer præsenterede et certifikat, der var sortlistet.</translation>
     </message>
 </context>
 <context>
