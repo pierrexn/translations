@@ -14056,7 +14056,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation>1.00平方</translation>
+        <translation>1.00 平方</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
