@@ -309,7 +309,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;immagine sarà convertita in RGB 24-bit (8 bit per canale)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -423,7 +423,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di colori unici: %1</translation>
     </message>
 </context>
 <context>
@@ -525,7 +525,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo preferito fa riferimento ad una cartella inesistente. 
+
+Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -3918,14 +3920,18 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;opzione &quot;Elimina originale&quot; è attivata
+
+Volete continuare?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il nome del file di destinazione sarà lo stesso per tutti i file convertiti. 
+
+Volete continuare?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -3938,7 +3944,9 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>È possibile scegliere l&apos;opzione &quot;Mantieni il file originale se il risultato è più grande&quot; ed altre azioni. 
+
+Volete continuare?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -5970,12 +5978,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrale-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrale-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
@@ -6544,12 +6552,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrale-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrale-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6707,12 +6715,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrale-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrale-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -10447,7 +10455,7 @@ Grazie per aver acquistato %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Si prega di installarlo utilizzando Strumenti &gt; Plugin</translation>
     </message>
 </context>
 <context>
