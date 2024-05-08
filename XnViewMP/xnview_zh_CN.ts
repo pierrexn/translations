@@ -307,7 +307,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图像将转换为 24 位 RGB（每个通道 8 位）</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -421,7 +421,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>独特颜色的数量： %1</translation>
     </message>
 </context>
 <context>
@@ -523,7 +523,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>此收藏夹指向一个不存在的文件夹。
+
+您想删除收藏夹&quot;%1&quot;吗？</translation>
     </message>
 </context>
 <context>
