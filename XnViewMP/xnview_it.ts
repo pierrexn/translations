@@ -281,9 +281,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Volete salvare le modifiche a
- &apos;%1&apos;?
-</translation>
+        <translation>Volete salvare le modifiche a
+&apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1353"/>
@@ -2856,7 +2855,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Sovrascrivere il file?</translation>
+        <translation>Sovrascrivere il file</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3878,7 +3877,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Sovrascrivere file?</translation>
+        <translation>Sovrascrivere file</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -6946,7 +6945,7 @@ Volete continuare?</translation>
         <location filename="DlgCreateMulti.cpp" line="160"/>
         <source>Loading file(s). Please wait...</source>
         <oldsource>Load file(s), please wait... </oldsource>
-        <translation>Caricamento file, si prega di attendere... </translation>
+        <translation>Caricamento file, si prega di attendere...</translation>
     </message>
 </context>
 <context>
@@ -8509,7 +8508,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgFtp.h" line="241"/>
         <source>Uploading: </source>
-        <translation>Invio in corso:</translation>
+        <translation>Invio in corso: </translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="248"/>
@@ -8756,7 +8755,7 @@ La struttura interna della cartella non sarà preservata. </translation>
         <source>Here the files will be transfered.
 Subfolders will be created. </source>
         <translation>I file saranno trasferiti qui.
-Saranno create delle sottocartelle.</translation>
+Saranno create delle sottocartelle. </translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="89"/>
@@ -10475,7 +10474,9 @@ Grazie per aver acquistato %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nell&apos;elenco dei file sono stati rilevati dei file ausiliari, i quali verranno automaticamente rinominati in modo da seguire il nome del file principale. 
+
+Si desidera rimuoverli?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -10918,12 +10919,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrale-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrale-Destra</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
@@ -14031,17 +14032,17 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00   Quadrato</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90 D4/D16 Anamorfico</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00 Anamorfico</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14062,7 +14063,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rapporto aureo (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -15140,7 +15141,9 @@ Desiderate riassegnarlo?</translation>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>In questo modo si sovrascriveranno le regioni del file dedicate ai contrassegni facciali XMP. 
+
+Volete continuare?</translation>
     </message>
 </context>
 <context>
@@ -16259,7 +16262,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Questo preferito fa riferimento ad una cartella inesistente. 
+
+Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -17702,7 +17707,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2558"/>
         <source>Device settings desc.</source>
-        <translation>Desc. impostazioni dispositivo</translation>
+        <translation>Descrizione impostazioni dispositivo</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2559"/>
@@ -18897,7 +18902,7 @@ Volete procedere?</translation>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ebraico</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19250,7 +19255,7 @@ Volete procedere?</translation>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Incolla come immagine</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -21252,7 +21257,7 @@ Volete procedere?</translation>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Incolla come immagine</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="690"/>
@@ -21503,7 +21508,7 @@ Volete procedere?</translation>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancella la selezione</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="405"/>
@@ -22666,7 +22671,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Clic sulla casella di spunta per variare l&apos;assegnazione
-Clic destro per il menu di scelta rapida con le azioni. </translation>
+Clic destro per il menu di scelta rapida con le azioni.</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="208"/>
@@ -23706,7 +23711,7 @@ Clic destro per il menu di scelta rapida con le azioni. </translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">PackBits</translation>
     </message>
 </context>
 <context>
