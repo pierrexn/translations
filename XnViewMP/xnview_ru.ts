@@ -1246,7 +1246,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
-        <translation>Изменение кол-во точек/дюйм</translation>
+        <translation>Изменение кол-ва точек/дюйм</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2424"/>
@@ -11186,7 +11186,7 @@ Do you want to remove them?</source>
         <location filename="DlgSetDpi.ui" line="14"/>
         <source>Set DPI</source>
         <oldsource>Change DPI</oldsource>
-        <translation>Изменение кол-во точек/дюйм</translation>
+        <translation>Изменение кол-ва точек/дюйм</translation>
     </message>
     <message>
         <location filename="DlgSetDpi.ui" line="22"/>
@@ -21261,7 +21261,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="423"/>
         <source>Set DPI...</source>
-        <translation>Изменение кол-во точек/дюйм...</translation>
+        <translation>Изменить кол-во точек/дюйм...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="441"/>
