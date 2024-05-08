@@ -657,7 +657,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Unassign Set from selection</source>
-        <translation>Poista kohde Aseta valinnasta</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
