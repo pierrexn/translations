@@ -348,9 +348,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Szeretné ide menteni a változásokat:
-&quot;%1&quot;?
-</translation>
+        <translation>Szeretné ide menteni a változásokat:
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
