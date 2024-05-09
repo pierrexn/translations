@@ -141,4 +141,16 @@
     <string name="menu_settings">Beállítások</string>
     <string name="menu_filter">Szűrő</string>
     <string name="menu_group">Csoportosítás</string>
+    <string name="menu_show_name">Információ megjelenítése</string>
+    <string name="menu_sort_path">Elérési út</string>
+    <string name="menu_sort_name">Név</string>
+    <string name="menu_sort_ascending">Növekvő</string>
+    <string name="menu_infos">Infók</string>
+    <string name="menu_share">Megosztás</string>
+    <string name="menu_custom_size">Egyéni méret</string>
+    <string name="menu_predefined_size">Előre meghatározott méretek</string>
+    <string name="menu_choose_template">Méret vagy sablon kiválasztása</string>
+    <string name="menu_choose_size">Méret kiválasztása</string>
+    <string name="menu_create_template">Sablon létrehozása</string>
+    <string name="menu_report">Hiba jelentése</string>
 </resources>
