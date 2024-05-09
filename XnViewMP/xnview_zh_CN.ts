@@ -281,7 +281,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">是否想要保存更改到“%1”？</translation>
+        <translation>是否想要保存更改到
+“%1”？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1353"/>
@@ -330,7 +331,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">保存图片...</translation>
+        <translation>保存图片……</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -5912,12 +5913,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左中</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右中</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
@@ -10361,7 +10362,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>请使用 工具&gt;插件 安装</translation>
     </message>
 </context>
 <context>
@@ -13946,17 +13947,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00 正方形</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90 D4/D16 非变形</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00 变形</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -15011,7 +15012,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>这将覆盖文件中 XMP 脸部的区域。
+
+要继续吗？</translation>
     </message>
 </context>
 <context>
@@ -16128,7 +16131,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>此收藏夹指向一个不存在的文件夹。
+
+您想删除收藏夹&quot;%1 &quot;吗？</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -19287,7 +19292,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴为图像</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -20865,7 +20870,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>清除选择</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="293"/>
@@ -21344,7 +21349,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴为图像</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
