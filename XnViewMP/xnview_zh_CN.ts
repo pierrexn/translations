@@ -2220,8 +2220,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBanner.ui" line="192"/>
         <source>Left (bottom-top)</source>
-        <translation>左边（底部-顶部）
-</translation>
+        <translation>左边（底部-顶部）</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="197"/>
@@ -7928,7 +7927,8 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileAssociation.ui" line="20"/>
         <source>Select the file-types which you would like to associate with XnViewMP
 (E.g. when double-clicking on a file to open under Windows Explorer)</source>
-        <translation>选择你想用 XnViewMP 打开的文件类型 （例如，在 Windows 资源管理器中双击某文件时将打开该文件）</translation>
+        <translation>选择你想用 XnViewMP 打开的文件类型
+（例如，在 Windows 资源管理器中双击某文件时将打开该文件）</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.ui" line="41"/>
