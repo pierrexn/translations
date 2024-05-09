@@ -2979,8 +2979,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="274"/>
         <source>Client area</source>
-        <translation>Àrea de client
-</translation>
+        <translation>Àrea de client</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="281"/>
@@ -3487,7 +3486,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.cpp" line="397"/>
         <source>4x6 inch</source>
-        <translation>4x6  polzades</translation>
+        <translation>4x6 polzades</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="399"/>
@@ -4635,7 +4634,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1054"/>
         <source>Use multiple CPU Cores</source>
         <oldsource>Use CPU Cores</oldsource>
-        <translation>Usa  nuclis múltiples de la CPU</translation>
+        <translation>Usa nuclis múltiples de la CPU</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1116"/>
@@ -4967,7 +4966,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1158"/>
         <source>Open in Browser</source>
-        <translation>Obre en  el navegador</translation>
+        <translation>Obre en el navegador</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1220"/>
@@ -5024,7 +5023,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1179"/>
         <source>Exit after conversion</source>
         <oldsource>Close after conversion</oldsource>
-        <translation>Tanca  després de convertir</translation>
+        <translation>Tanca després de convertir</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1444"/>
@@ -6872,7 +6871,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.cpp" line="128"/>
         <source>An error occurred in multipage creating process!</source>
-        <translation>Hi ha hagut un error en el procés de  crear multipàgina!</translation>
+        <translation>Hi ha hagut un error en el procés de crear multipàgina!</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="160"/>
@@ -6977,27 +6976,12 @@ Do you want to continue?</source>
         <location filename="DlgDBClean.ui" line="33"/>
         <source>Remove data for empty directories</source>
         <oldsource>Remove empty directories</oldsource>
-        <translation>Elimina dades de  directoris buits</translation>
+        <translation>Elimina dades de directoris buits</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="57"/>
         <source>Purge</source>
-        <translation>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Purga</translation>
+        <translation>Purga</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="63"/>
@@ -7008,9 +6992,7 @@ Purga</translation>
     <message>
         <location filename="DlgDBClean.ui" line="70"/>
         <source>Purge file data</source>
-        <translation>P
-p
-Purga dades de fitxer</translation>
+        <translation>Purga dades de fitxer</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="40"/>
@@ -7302,7 +7284,7 @@ Purga dades de fitxer</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="101"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation>(Usa ; &quot;or&quot;;  per separar els valors</translation>
+        <translation>(Usa ; or , per separar els valors)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="139"/>
@@ -7384,7 +7366,8 @@ Voleu desar-les?</translation>
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
-        <translation>Error durant el procés. Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
+        <translation>Error durant el procés. 
+Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="1106"/>
@@ -7827,7 +7810,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="549"/>
         <source>Remove all Metadata</source>
-        <translation>Esborra  les metadades</translation>
+        <translation>Esborra les metadades</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="528"/>
@@ -9007,12 +8990,13 @@ Voleu desar-les?</translation>
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
-        <translation>Error durant el procés, sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
+        <translation>Error durant el procés. 
+Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1681"/>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
-        <translation>Esteu segur de sobrescriure  dades IPTC/XMP per a TOTS els fitxers amb els valors actuals dels camps?</translation>
+        <translation>Esteu segur de sobrescriure dades IPTC/XMP per a TOTS els fitxers amb els valors actuals dels camps?</translation>
     </message>
 </context>
 <context>
@@ -9298,7 +9282,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgKeywordProperties.cpp" line="43"/>
         <source>This parent is already a child of current category!</source>
-        <translation>Aquesta categoria  superior ja és dins de la categoria actual!</translation>
+        <translation>Aquesta categoria superior ja és dins de la categoria actual!</translation>
     </message>
 </context>
 <context>
@@ -11889,7 +11873,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="42"/>
         <source>Show hidden files &amp;&amp; folders</source>
-        <translation>Mostra els fitxers  i  carpetes ocults</translation>
+        <translation>Mostra els fitxers i carpetes ocults</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="196"/>
@@ -12354,7 +12338,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="514"/>
         <source>For &apos;Save as&apos;, use original pathname</source>
-        <translation>Per &apos;Desa com&apos;, usa  el camí del directori original</translation>
+        <translation>Per &apos;Desa com&apos;, usa el camí del directori original</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="521"/>
@@ -12399,7 +12383,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="672"/>
         <source>Make backup for lossless crop</source>
-        <translation>Fes còpia de seguretat per a retallar  sense pèrdua</translation>
+        <translation>Fes còpia de seguretat per a retallar sense pèrdua</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
@@ -12620,7 +12604,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="42"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Afegeix &apos;Navega amb XnViewMP&apos; en el menú contextual  calen drets d&apos;administrador)</translation>
+        <translation>Afegeix &apos;Navega amb XnViewMP&apos; en el menú contextual (requereix drets d&apos;administrador)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
@@ -13538,7 +13522,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
-        <translation>Utilitza 4 miniatures en vídeo de  miniatures (en comptes d&apos;1)</translation>
+        <translation>Utilitza 4 miniatures en vídeo de miniatures (en comptes d&apos;1)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="103"/>
@@ -14722,7 +14706,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.cpp" line="166"/>
         <source>Splitting image(s), please wait...</source>
-        <translation>Subdividint les imatges, sisplau  espereu...</translation>
+        <translation>Subdividint les imatges, sisplau espereu...</translation>
     </message>
 </context>
 <context>
@@ -21538,7 +21522,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="453"/>
         <source>Rotate 90° right</source>
-        <translation>Rotació de 90°  la dreta</translation>
+        <translation>Rotació de 90° la dreta</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="455"/>
