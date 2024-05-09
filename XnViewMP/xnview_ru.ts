@@ -501,7 +501,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4673"/>
         <source>Please visit the %1 for more information.</source>
-        <translation>Для получения более подробной информации, пожалуйста, посетите %1 .</translation>
+        <translation>Для получения более подробной информации, пожалуйста, посетите %1.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4685"/>
@@ -22213,7 +22213,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="MyView.cpp" line="950"/>
         <source>Please visit the XnView %1 for more information.</source>
-        <translation>Для получения более подробной информации, пожалуйста, посетите %1 .</translation>
+        <translation>Для получения более подробной информации, пожалуйста, посетите %1.</translation>
     </message>
 </context>
 <context>
