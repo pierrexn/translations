@@ -719,8 +719,8 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <location filename="BrowserWindow.cpp" line="3759"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
-            <numerusform>Vill du verkligen ta bort detta %n-objekt? - %1 objekt markerat.</numerusform>
-            <numerusform>Vill du verkligen ta bort dessa %n-objekt? - %1 objekt markerade.</numerusform>
+            <numerusform>Vill du verkligen ta bort detta %n-objekt? - %1 objekt markerat?</numerusform>
+            <numerusform>Vill du verkligen ta bort dessa %n-objekt? - %1 objekt markerade?</numerusform>
         </translation>
     </message>
     <message>
@@ -2720,7 +2720,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <location filename="DlgBatchResize.cpp" line="590"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation>Inställningen &quot;Använd flera CPU-kärnor&quot; avaktiverades. Denna inställning kan inte kombineras med &quot;Fråga-läget&quot;  eller flersidiga PDF-filer.</translation>
+        <translation>Inställningen &quot;Använd flera CPU-kärnor&quot; avaktiverades. Denna inställning kan inte kombineras med &quot;Fråga-läget&quot; eller flersidiga PDF-filer.</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="638"/>
@@ -2838,7 +2838,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation>Vill du skriva över filen?</translation>
+        <translation>Skriv över filen</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3897,7 +3897,7 @@ Vill du fortsätta?</translation>
         <location filename="DlgConvert.cpp" line="2835"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation>Inställningen &quot;Använd flera CPU-kärnor&quot; avaktiverades. Denna inställning kan inte kombineras med &quot;Fråga-läget&quot;  eller flersidiga PDF-filer.</translation>
+        <translation>Inställningen &quot;Använd flera CPU-kärnor&quot; avaktiverades. Denna inställning kan inte kombineras med &quot;Fråga-läget&quot; eller flersidiga PDF-filer.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2837"/>
@@ -13471,7 +13471,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="468"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
-        <translation>Använd UTF-8 för för att skriva IPTC-fält</translation>
+        <translation>Använd UTF-8 för att skriva IPTC-fält</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="39"/>
@@ -13536,7 +13536,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
-        <translation type="unfinished">Skapa miniatyrer för hela mappar</translation>
+        <translation>Skapa miniatyrer för hel mapp</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13798,7 +13798,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">Kantlinje runt bild</translation>
+        <translation>Kantlinje runt arbetsyta</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
@@ -13838,7 +13838,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsView.ui" line="934"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation type="unfinished">Visa flerupplösningsikoner som ögonblicksbilder</translation>
+        <translation>Rita ikoner med flera upplösningar som ögonblicksbilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="713"/>
@@ -13935,17 +13935,17 @@ Vill du ta bort tilldelningen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  kvadrat</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorfisk</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorfisk</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -13961,12 +13961,12 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation type="unfinished">Visa klassificering &amp;&amp; färgetikett</translation>
+        <translation>Visa klassificering &amp;&amp; färgetiketter</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyllene snittet (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -14275,7 +14275,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">Liknande bildinnehåll (långsam)</translation>
+        <translation>Liknande bildinnehåll (långsam)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -15028,7 +15028,9 @@ Vill du ta bort tilldelningen?</translation>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta kommer att skriva över XMP-ansiktsregioner i filen. 
+
+Vill du fortsätta?</translation>
     </message>
 </context>
 <context>
@@ -15120,7 +15122,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation type="unfinished">Öka vid varje bild med</translation>
+        <translation>Öka vid varje bild med</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -15616,7 +15618,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Nersampling</translation>
+        <translation>Nersampling</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15845,7 +15847,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Nersampling</translation>
+        <translation>Nersampling</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -15979,13 +15981,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">Komprimering för svart&amp;vit bild</translation>
+        <translation>Komprimering för svartvit bild</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">Komprimering för färgbild</translation>
+        <translation>Komprimering för färgbild</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -16049,7 +16051,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">Använd skarp (och långsam) RGB-&gt;YUV-konvertering</translation>
+        <translation>Använd skarp (och långsam) RGB-&gt;YUV-konvertering</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -16144,7 +16146,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här favoriten pekar mot en mapp som inte finns.
+
+Vill du ta bort favoriten &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -16462,7 +16466,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
-        <translation type="unfinished">Nersampling</translation>
+        <translation>Nersampling</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -17428,7 +17432,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Exponeringstid [s]</translation>
+        <translation>Exponeringstid (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17454,7 +17458,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Brännvidd [mm]</translation>
+        <translation>Brännvidd (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -18532,7 +18536,8 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Bilden kommer konverteras till 8 bitar per komponent
+        <translation>Bilden kommer att konverteras till 24-bitars RGB (8 bitar per kanal). 
+
 Vill du fortsätta?</translation>
     </message>
     <message>
@@ -18780,7 +18785,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebreiska</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19135,7 +19140,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra in som bild</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -19667,7 +19672,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="404"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">Öppna med test</translation>
+        <translation>Öppna med</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="405"/>
@@ -19918,7 +19923,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="493"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Klassificering &amp;&amp; färgetikett</translation>
+        <translation>Klassificering &amp;&amp; färgetikett</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="494"/>
@@ -20441,7 +20446,7 @@ Vill du fortsätta?</translation>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: Numeriskt uppräknare</translation>
+        <translation># - Numerisk uppräknare</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -20843,13 +20848,13 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="312"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Ange markeringsproportioner</translation>
+        <translation>Markering - Inställt förhållande</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Ange markeringsstorlek</translation>
+        <translation>Markering - Inställd storlek</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -20895,37 +20900,37 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Utmärkt (gå till nästa foto)</translation>
+        <translation>Utmärkt (gå till nästa foto)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Bra (gå till nästa foto)</translation>
+        <translation>Bra (gå till nästa bild)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Medel (gå till nästa foto)</translation>
+        <translation>Medel (gå till nästa bild)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Godkänd (gå till nästa foto)</translation>
+        <translation>Godkänd (gå till nästa bild)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Underkänd (gå till nästa foto)</translation>
+        <translation>Underkänd (gå till nästa bild)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Oklassificerad (gå till nästa foto)</translation>
+        <translation>Oklassificerad (gå till nästa bild)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
@@ -20937,7 +20942,7 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="364"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Klassificering &amp;&amp; Färgetikett</translation>
+        <translation>Klassificering &amp;&amp; Färgetikett</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
@@ -21099,7 +21104,7 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="402"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">Ikonklipp på/av</translation>
+        <translation>Rita som ögonblicksbild (endast ikoner)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="403"/>
@@ -21166,7 +21171,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa markerat</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="420"/>
@@ -21218,7 +21223,7 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmisk lut</translation>
+        <translation>Logaritmisk LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -21421,7 +21426,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
-        <translation type="unfinished">Skicka via e-post...</translation>
+        <translation>Skicka via e-post...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="486"/>
@@ -21456,7 +21461,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra in som bild</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -21478,7 +21483,7 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">Redigera färgkarta...</translation>
+        <translation>Redigera färgkarta...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="418"/>
@@ -21804,7 +21809,7 @@ Vill du fortsätta?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image... </source>
         <oldsource>Loading picture... </oldsource>
-        <translation type="unfinished">Läser in bild... </translation>
+        <translation>Läser in bild... </translation>
     </message>
 </context>
 <context>
@@ -22017,7 +22022,7 @@ Vill du fortsätta?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">Cachelagrad miniatyrstorlek är mindre än den valda storleken. 
+        <translation>Cachelagrad miniatyrstorlek är mindre än den valda storleken. 
 Du kan ändra det i &quot;Inställningar&gt;Katalog&quot;.</translation>
     </message>
     <message>
@@ -23567,7 +23572,7 @@ Högerklicka för popup-meny med åtgärder.</translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>Packbitar</translation>
     </message>
 </context>
 <context>
