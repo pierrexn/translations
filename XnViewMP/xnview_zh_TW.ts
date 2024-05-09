@@ -22219,7 +22219,7 @@ You can change it in Settings � Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="1421"/>
         <source>Thickness</source>
         <oldsource>Thickness:</oldsource>
-        <translation>厚度:</translation>
+        <translation>厚度</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="952"/>
