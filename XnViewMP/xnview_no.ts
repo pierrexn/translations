@@ -345,8 +345,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Vil du lagre endringene til &apos;%1&apos;?
-</translation>
+        <translation>Vil du lagre endringene til 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
@@ -22228,7 +22228,7 @@ You can change it in Settings � Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="1421"/>
         <source>Thickness</source>
         <oldsource>Thickness:</oldsource>
-        <translation type="unfinished">Tykkhet:</translation>
+        <translation>Tykkhet</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="952"/>
