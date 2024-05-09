@@ -282,9 +282,8 @@
 &quot;%1&quot;?
 </oldsource>
         <translatorcomment>I would remove the quotes ans the space at the beginning of the line.</translatorcomment>
-        <translation type="unfinished">Chcete uložit změny v souboru
-&quot;%1&quot;?
-</translation>
+        <translation>Chcete uložit změny v souboru
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1353"/>
