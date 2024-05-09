@@ -7944,7 +7944,8 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgFileAssociation.ui" line="20"/>
         <source>Select the file-types which you would like to associate with XnViewMP
 (E.g. when double-clicking on a file to open under Windows Explorer)</source>
-        <translation>Selectionner les types de fichier que vous désirez associer avec XnView\n(Ex. quand vous double-cliquez sur un fichier dans l&apos;explorateur windows)</translation>
+        <translation>Selectionner les types de fichier que vous désirez associer avec XnViewMP
+(Ex. quand vous double-cliquez sur un fichier dans l&apos;explorateur windows)</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.ui" line="41"/>
@@ -8670,7 +8671,8 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
 The internal folder structure will be flattened. </source>
         <oldsource>The Source folder of the files to be transferred.
 The internal folder structure will be flattered. </oldsource>
-        <translation>Le dossier source des fichiers à transférer.\n La structure des dossiers sera conservée.</translation>
+        <translation>Le dossier source des fichiers à transférer.
+La structure des dossiers sera conservée. </translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="24"/>
@@ -18482,7 +18484,9 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>Attention, appliquer une transformation JPEG sans perte écrasera le fichier original et enlèvera certains pixels non utilisés (largeur et hauteur doivent être multiples de 8) !\nVoulez-vous continuer ?</translation>
+        <translation>Attention, appliquer une transformation JPEG sans perte écrasera le fichier original et enlèvera certains pixels non utilisés (largeur et hauteur doivent être multiples de 8) !
+
+Voulez-vous continuer ?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="318"/>
