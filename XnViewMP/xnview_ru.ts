@@ -12228,7 +12228,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one instance of XnView</source>
         <oldsource>One instance of program only</oldsource>
-        <translation>Запускать только одну копию программы</translation>
+        <translation>Разрешить запуск только одной копии программы</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="119"/>
@@ -12877,7 +12877,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
         <source>Purge &apos;Recent files and folders&apos; on exit</source>
-        <translation>Очищать &quot;Недавние файлы&quot; при выходе</translation>
+        <translation>Очищать &quot;Недавние файлы и папки&quot; при выходе</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="291"/>
@@ -13340,7 +13340,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
         <source>Set command...</source>
-        <translation>Задать команду...</translation>
+        <translation>Изменить команду...</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="455"/>
