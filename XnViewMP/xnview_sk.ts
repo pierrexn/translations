@@ -346,8 +346,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Chcete uložiť zmeny do &apos;%1&apos;?
-</translation>
+        <translation>Chcete uložiť zmeny do
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
