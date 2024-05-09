@@ -334,7 +334,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyedi színek száma: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -386,7 +386,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>A kép 24 bites RGB-be lesz konvertálva (csatornánként 8 bit)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -399,7 +399,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Kép mentése...</translation>
+        <translation>Kép mentése...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -523,7 +523,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>A kedvenc egy nem létező mappára mutat.
+
+Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -1808,7 +1810,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">FIGYELEM: A kép RGB-be lesz konvertálva, komponensenként 8 bites értékkel</translation>
+        <translation>FIGYELEM: A kép 24 bites RGB-be lesz konvertálva (csatornánként 8 bit)</translation>
     </message>
 </context>
 <context>
@@ -2780,7 +2782,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">nem kép</translation>
+        <translation>nem kép</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -3538,7 +3540,9 @@ Felül szeretné írni?</translation>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">Az XnConvert %1 verziója elérhető, szeretné letölteni?</translation>
+        <translation>Az XnConvert %1 verziója elérhető.
+
+Szeretné a weboldalról letölteni?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1411"/>
@@ -3715,7 +3719,9 @@ Felül szeretné írni?</translation>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Lehetőség van az eredeti fájl megtartására, ha az eredmény nagyobb.
+
+Szeretné folytatni?</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2304"/>
@@ -3794,7 +3800,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="2489"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">nem kép</translation>
+        <translation>nem kép</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -3850,7 +3856,9 @@ Do you want to continue?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">A fájl már létezik: %1.
+        <translation>A fájl már létezik: 
+%1
+
 Felül szeretné írni?</translation>
     </message>
     <message>
@@ -3883,14 +3891,18 @@ Felül szeretné írni?</translation>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Az &apos;Eredeti fájl törlése&apos; engedélyezett.
+
+Biztosan folytassuk?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>A kimeneti fájlnév megegyezik az átalakított fájl nevével.
+
+Biztos folytassuk?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -4179,25 +4191,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Bal felső</translation>
+        <translation>Bal felső</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Felső közép</translation>
+        <translation>Felső közép</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Jobb felső</translation>
+        <translation>Jobb felső</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Bal közép</translation>
+        <translation>Bal közép</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4208,25 +4220,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Jobb közép</translation>
+        <translation>Jobb közép</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bal alsó</translation>
+        <translation>Bal alsó</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Alsó közép</translation>
+        <translation>Alsó közép</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Jobb alsó</translation>
+        <translation>Jobb alsó</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -4383,7 +4395,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Bal közép</translation>
+        <translation>Bal közép</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4394,25 +4406,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Jobb közép</translation>
+        <translation>Jobb közép</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bal alsó</translation>
+        <translation>Bal alsó</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Alsó közép</translation>
+        <translation>Alsó közép</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Jobb alsó</translation>
+        <translation>Jobb alsó</translation>
     </message>
 </context>
 <context>
@@ -5160,7 +5172,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Alfa cserélése 32bites képeknél</translation>
+        <translation>Alfa csatorna cseréje 32 bites képeknél</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5613,17 +5625,17 @@ Do you want to continue?</source>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Fényesség</translation>
+        <translation>Fénysűrűség</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+fénysűrűség</translation>
+        <translation>RGB+fénysűrűség</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -5881,13 +5893,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Bal felső</translation>
+        <translation>Bal felső</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Jobb felső</translation>
+        <translation>Jobb felső</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5897,35 +5909,35 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Felső közép</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Bal közép</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Jobb közép</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bal alsó</translation>
+        <translation>Bal alsó</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Lent</translation>
+        <translation>Alsó közép</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Jobb alsó</translation>
+        <translation>Jobb alsó</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -6377,13 +6389,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Bal felső</translation>
+        <translation>Bal felső</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Jobb felső</translation>
+        <translation>Jobb felső</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6394,19 +6406,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bal alsó</translation>
+        <translation>Bal alsó</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Lent</translation>
+        <translation>Alsó közép</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Jobb alsó</translation>
+        <translation>Jobb alsó</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6469,17 +6481,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Felső közép</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Bal közép</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Jobb közép</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6631,17 +6643,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Felső közép</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Bal közép</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Jobb közép</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6718,13 +6730,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Bal felső</translation>
+        <translation>Bal felső</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Jobb felső</translation>
+        <translation>Jobb felső</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6735,19 +6747,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bal alsó</translation>
+        <translation>Bal alsó</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Lent</translation>
+        <translation>Alsó közép</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Jobb alsó</translation>
+        <translation>Jobb alsó</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -6909,7 +6921,7 @@ Do you want to continue?</source>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Fényesség</translation>
+        <translation>Fénysűrűség</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7630,7 +7642,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">Ez nem kép fájl</translation>
+        <translation>Ez nem kép fájl</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -7844,7 +7856,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Színskála szerkesztése...</translation>
+        <translation>Színpaletta szerkesztése...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -9447,7 +9459,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgPalette.ui" line="14"/>
         <source>Edit Palette</source>
-        <translation>Paletta szerkesztése</translation>
+        <translation>Színpaletta szerkesztése</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="70"/>
@@ -9492,7 +9504,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgPalette.cpp" line="437"/>
         <location filename="DlgPalette.cpp" line="450"/>
         <source>Choose Palette file</source>
-        <translation>Paletta fájl választása</translation>
+        <translation>Színpaletta fájl kiválasztása</translation>
     </message>
 </context>
 <context>
@@ -9640,7 +9652,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Képkollekció</translation>
+        <translation>Képkollekció</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9761,7 +9773,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Kép automatikus forgatása, ha szükséges</translation>
+        <translation>Kép automatikus forgatása (ha szükséges)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -10369,7 +10381,9 @@ Köszönjük a(z) %1 megvásárlását.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>A fájllistában észlelt kísérőfájlok automatikusan átneveződtek a fő fájlnév szerint.
+
+El szeretné őket távolítani?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -10792,28 +10806,28 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Bal felső</translation>
+        <translation>Bal felső</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Felső közép</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Bal közép</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Jobb közép</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Jobb felső</translation>
+        <translation>Jobb felső</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="627"/>
@@ -10824,19 +10838,19 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Bal alsó</translation>
+        <translation>Bal alsó</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Lent</translation>
+        <translation>Alsó közép</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Jobb alsó</translation>
+        <translation>Jobb alsó</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="669"/>
@@ -10924,7 +10938,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
-        <translation type="unfinished">RegExp használata</translation>
+        <translation>Reguláris kifejezés használata</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11536,7 +11550,7 @@ Szeretné az érintett bejegyzéseket előtte ellenőrizni?</translation>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation type="unfinished">Nem lehet importálni az XnView kategória adatbázist</translation>
+        <translation>Az XnView Classic kategória adatbázisa nem importálható</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11692,7 +11706,7 @@ El szeretné távolítani a kategóriához rendelt bejegyzéseket?</translation>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">XnView kategória adatbázis importálása...</translation>
+        <translation>XnView Classic kategória adatbázis importálása...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -12468,7 +12482,7 @@ miniatűrként</translation>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
-        <translation type="unfinished">Színprofil</translation>
+        <translation>Színkezelés</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="812"/>
@@ -21279,7 +21293,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">Színskála szerkesztése...</translation>
+        <translation>Színpaletta szerkesztése...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
