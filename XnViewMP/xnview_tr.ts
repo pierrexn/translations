@@ -1564,7 +1564,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmik lut</translation>
+        <translation>Logaritmik LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -21138,7 +21138,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmik Lut</translation>
+        <translation>Logaritmik LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
