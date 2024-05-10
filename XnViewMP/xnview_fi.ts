@@ -3060,24 +3060,31 @@ Haluatko jatkaa?</translation>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulostulotiedostonimi on sama kaikille muunnettaville tiedostoille. 
+
+Jatketaanko?</translation>
     </message>
     <message>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinulla on asetus &quot;säilytä alkuperäinen tiedosto, jos tulos on suurempi&quot; ja joitain muita toimintoja.
+
+Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Destination already has a file named: 
 %1
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohteessa on jo tiedosto nimeltä:
+%1
+
+Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>ei kuvaa</translation>
     </message>
 </context>
 <context>
@@ -3300,35 +3307,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
 </context>
 <context>
@@ -3439,35 +3446,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
 </context>
 <context>
@@ -4000,7 +4007,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
-        <translation type="unfinished"></translation>
+        <translation>Korvaa alfa 32-bittisillä kuvilla</translation>
     </message>
 </context>
 <context>
@@ -4382,11 +4389,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+Luminanssi</translation>
+        <translation>RGB+Luminanssi</translation>
     </message>
 </context>
 <context>
@@ -4600,35 +4607,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
 </context>
 <context>
@@ -4907,7 +4914,7 @@ Do you want to overwrite it?</source>
     <name>DlgConvertSwapClass</name>
     <message>
         <source>RGB →</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
@@ -5084,35 +5091,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäälä-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhällä-oikealla</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaaalla-oikealla</translation>
     </message>
 </context>
 <context>
@@ -5237,35 +5244,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
 </context>
 <context>
@@ -5409,7 +5416,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Luminance</source>
-        <translation type="unfinished">Luminanssi</translation>
+        <translation>Luminanssi</translation>
     </message>
 </context>
 <context>
@@ -5736,7 +5743,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Muista avattu välilehti</translation>
     </message>
 </context>
 <context>
@@ -6016,7 +6023,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>This is not an image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä ei ole kuvatiedosto</translation>
     </message>
 </context>
 <context>
@@ -6039,7 +6046,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie luokitus- ja värimerkinnät</translation>
     </message>
 </context>
 <context>
@@ -6138,7 +6145,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkauspaletti...</translation>
     </message>
 </context>
 <context>
@@ -7166,11 +7173,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Don&apos;t load field values</source>
-        <translation type="unfinished">Älä lataa kenttäarvoja</translation>
+        <translation>Älä lataa kenttäarvoja</translation>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Muista avattu välilehti</translation>
     </message>
 </context>
 <context>
@@ -7790,11 +7797,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokoelma</translation>
     </message>
     <message>
         <source>Automatically rotate (if needed)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierrä automaattisesti (tarvittaessa)</translation>
     </message>
 </context>
 <context>
@@ -8104,7 +8111,7 @@ Kiitos että tilasit %1.</translation>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Asenna käyttämällä Työkalut › Lisäosat</translation>
     </message>
 </context>
 <context>
@@ -8125,7 +8132,9 @@ Kiitos että tilasit %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Oheistiedostot tunnistetaan tiedostoluettelosta, ja ne nimetään automaattisesti uudelleen päätiedostonimen mukaan.
+
+Haluatko poistaa ne?</translation>
     </message>
 </context>
 <context>
@@ -8460,35 +8469,35 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylhäällä.keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskellä-oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
 </context>
 <context>
@@ -8940,7 +8949,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Esikatselu</translation>
+        <translation>Esikatselu</translation>
     </message>
 </context>
 <context>
@@ -9062,7 +9071,7 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkö voi tuoda XnView Classic -luokkatietokantaa?</translation>
     </message>
 </context>
 <context>
@@ -9181,11 +9190,11 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
     </message>
     <message>
         <source>Import XnView Classic category db...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo XnView Classic -kategorian tietokanta...</translation>
     </message>
     <message>
         <source>Base path of files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostojen peruspolku</translation>
     </message>
 </context>
 <context>
@@ -9388,15 +9397,15 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Lajittelu</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished">Valinta</translation>
+        <translation>Valinta</translation>
     </message>
     <message>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse automaattisesti ensimmäinen kohde kansiosta</translation>
     </message>
     <message>
         <source>Auto-select new files</source>
@@ -16598,7 +16607,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäältä-Alas</translation>
+        <translation>Ylhäällä-keskellä</translation>
     </message>
     <message>
         <source>Center-Right</source>
