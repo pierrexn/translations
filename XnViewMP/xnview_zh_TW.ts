@@ -305,7 +305,8 @@
         <location filename="ViewWindow.cpp" line="2207"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation>確定要刪除 &quot;%1&quot;?</translation>
+        <translation>確定要刪除 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2211"/>
