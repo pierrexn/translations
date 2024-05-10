@@ -179,7 +179,7 @@
     <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
-        <translation>Fitxer INI </translation>
+        <translation>Fitxer INI</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="354"/>
@@ -488,7 +488,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4672"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation>Per veure i convertir els fitxers PDF/PS/EPS/AI, XnView MP necessita Ghostscript %1 instal·lat en el vostre sistema. </translation>
+        <translation>Per veure i convertir els fitxers PDF/PS/EPS/AI, XnView MP necessita Ghostscript %1 instal·lat en el vostre sistema.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4673"/>
@@ -2113,7 +2113,7 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
         <location filename="DlgArchive.cpp" line="103"/>
         <source>Creating archive, please wait...</source>
         <oldsource>Creating archive, please wait... </oldsource>
-        <translation>Creant un arxiu, siplau espereu... </translation>
+        <translation>Creant un arxiu, siplau espereu...</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="124"/>
@@ -3481,7 +3481,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.cpp" line="395"/>
         <source>A3 (29.7x42.0cm)</source>
-        <translation>A3 (29.7x42 cm) </translation>
+        <translation>A3 (29.7x42 cm)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="397"/>
@@ -6861,7 +6861,7 @@ Do you want to continue?</source>
         <location filename="DlgCreateMulti.cpp" line="125"/>
         <source>Creating multipage file, please wait...</source>
         <oldsource>Create multipage file, please wait...</oldsource>
-        <translation>Crea un fitxer multipàgina, sisplau espereu... </translation>
+        <translation>Crea un fitxer multipàgina, sisplau espereu...</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="128"/>
@@ -7374,7 +7374,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgEditXMP.cpp" line="1131"/>
         <source>Changing files, please wait...</source>
         <oldsource>Changing files, please wait... </oldsource>
-        <translation>Canviant els fitxers, sisplaŭ espereu... </translation>
+        <translation>Canviant els fitxers, sisplaŭ espereu...</translation>
     </message>
 </context>
 <context>
@@ -22065,7 +22065,7 @@ You can change it in Settings � Catalog.</oldsource>
         <location filename="MyView.cpp" line="949"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
-        <translation>Per veure i convertir els fitxers PDF/PS/EPS/AI, XnView MP necessita Ghostscript %1 instal·lat en el vostre sistema. </translation>
+        <translation>Per veure i convertir els fitxers PDF/PS/EPS/AI, XnView MP necessita Ghostscript %1 instal·lat en el vostre sistema.</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="950"/>
