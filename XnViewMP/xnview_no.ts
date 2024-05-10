@@ -1566,7 +1566,7 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmisk lut</translation>
+        <translation>Logaritmisk LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
