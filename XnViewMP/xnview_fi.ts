@@ -657,7 +657,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Unassign Set from selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista Aseta valinnasta</translation>
     </message>
 </context>
 <context>
@@ -1397,14 +1397,14 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation type="unfinished"></translation>
+        <translation>Logaritmi lut</translation>
     </message>
 </context>
 <context>
     <name>ConvertThread</name>
     <message>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>VAROITUS: Kuva muunnetaan 24-bittiseksi RGB:ksi (8 bittiä kanavaa kohti)</translation>
     </message>
 </context>
 <context>
@@ -2246,18 +2246,21 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Korvaa tiedosto</translation>
     </message>
     <message>
         <source>Destination already has a file named: 
 %1
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohteessa on jo tiedosto nimeltä:
+%1
+
+Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>ei kuvaa</translation>
     </message>
 </context>
 <context>
@@ -3029,23 +3032,29 @@ Do you want to overwrite it?</source>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
-        <translation type="unfinished"></translation>
+        <translation>XnConvertin %1-versio on saatavilla.
+
+Haluatko siirtyä lataussivulle?</translation>
     </message>
     <message>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulostulotiedosto on jo olemassa.
+
+Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Korvaa tiedosto</translation>
     </message>
     <message>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Poista alkuperäinen&apos; -asetus on käytössä
+
+Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Output filename will be the same for all converted files. 
