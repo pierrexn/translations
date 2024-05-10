@@ -1567,7 +1567,7 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Lut logarítmic</translation>
+        <translation>LUT logarítmic</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -21152,7 +21152,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Lut logarítmic</translation>
+        <translation>LUT logarítmic</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
