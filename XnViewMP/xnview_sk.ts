@@ -306,7 +306,8 @@
         <location filename="ViewWindow.cpp" line="2207"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation>Chcete skutočne odstrániť &quot;%1&quot;?</translation>
+        <translation>Chcete skutočne odstrániť 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2211"/>
@@ -1568,7 +1569,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmizácia</translation>
+        <translation>Logaritmický LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -21203,7 +21204,7 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmický lut</translation>
+        <translation>Logaritmický LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
