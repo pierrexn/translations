@@ -1397,7 +1397,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation>Logaritmi lut</translation>
+        <translation>Logaritmi LUT</translation>
     </message>
 </context>
 <context>
@@ -16524,7 +16524,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation type="unfinished"></translation>
+        <translation>Logaritmi LUT</translation>
     </message>
     <message>
         <source>Send by email...</source>
