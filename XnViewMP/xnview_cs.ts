@@ -1579,7 +1579,7 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmický lut</translation>
+        <translation>Logaritmický LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -21501,7 +21501,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmický lut</translation>
+        <translation>Logaritmický LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
