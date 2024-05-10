@@ -1574,7 +1574,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Логарифмічна Lut</translation>
+        <translation>Логарифмічна LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
