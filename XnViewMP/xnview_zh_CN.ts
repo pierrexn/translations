@@ -3887,14 +3887,18 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">“删除原件”选项已启用
+
+要继续吗？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">所有转换文件的输出文件名都相同。
+
+要继续吗？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -10382,7 +10386,9 @@ Thank you for purchasing %1.</source>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在文件列表中检测到同伴文件时，它们会自动重命名，以跟随主文件名。
+
+要删除它们吗？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -12741,7 +12747,10 @@ Thumbnail</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 已分配给
+%2
+
+您要重新分配吗？</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1197"/>
