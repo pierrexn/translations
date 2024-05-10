@@ -399,7 +399,8 @@
         <location filename="ViewWindow.cpp" line="2207"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation>Skutečně chcete smazat &quot;%1&quot;?</translation>
+        <translation>Skutečně chcete smazat 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2211"/>
