@@ -1586,7 +1586,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgConvert.cpp" line="198"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Lut logaritmico</translation>
+        <translation>LUT logaritmico</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -21571,7 +21571,7 @@ Volete procedere?</translation>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Lut logaritmico</translation>
+        <translation>LUT logaritmico</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
