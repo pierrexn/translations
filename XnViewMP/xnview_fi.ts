@@ -1337,7 +1337,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalta-Oikealle</translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
     <message>
         <source>Levels...</source>
@@ -5119,7 +5119,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaaalla-oikealla</translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
 </context>
 <context>
