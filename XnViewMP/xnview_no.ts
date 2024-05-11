@@ -2832,7 +2832,7 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Vil du overskrive filen?</translation>
+        <translation>Overskrive fil</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3796,7 +3796,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Overskrive fil?</translation>
+        <translation type="unfinished">Overskrive fil</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -16008,7 +16008,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bruk skarp (og langsom) RGB→YUV-konvertering</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -17387,7 +17387,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Eksponeringstid [s]</translation>
+        <translation>Eksponeringstid (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -20880,7 +20880,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished">##label## (gå til neste foto)</translation>
+        <translation>##label## (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
