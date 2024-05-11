@@ -1582,7 +1582,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translatorcomment>LUT = &quot;Look Up Table&quot; http://pt.wikipedia.org/wiki/LUT</translatorcomment>
-        <translation type="unfinished">LUT logarítmico</translation>
+        <translation>Logarítmico LUT</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="200"/>
@@ -2849,7 +2849,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Gravar por cima?</translation>
+        <translation>Substituir ficheiro</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3876,7 +3876,7 @@ Deseja gravar por cima?</translation>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Gravar por cima?</translation>
+        <translation>Substituir ficheiro</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -16093,7 +16093,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">Usar a conversão RGB-&gt;YUV de maior nitidez (lenta)</translation>
+        <translation>Usar a conversão RGB→YUV de maior nitidez (lenta)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -17478,7 +17478,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Tempo de exposição [s]</translation>
+        <translation>Tempo de exposição (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -19226,42 +19226,42 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation>Excelente (passar à foto seguinte)</translation>
+        <translation>Excelente (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation>Boa (passar à foto seguinte)</translation>
+        <translation>Bom (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation>Regular (passar à foto seguinte)</translation>
+        <translation>Médio (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Suficiente (passar à foto seguinte)</translation>
+        <translation>Aceitável (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="464"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation>Medíocre (passar à foto seguinte)</translation>
+        <translation>Fraco (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation>Sem classificação (passar à foto seguinte)</translation>
+        <translation>Sem classificação (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
-        <translation>##label## (passar à foto seguinte)</translation>
+        <translation>##label## (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="495"/>
@@ -20948,43 +20948,43 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Excelente (passar à foto seguinte)</translation>
+        <translation>Excelente (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Boa (passar à foto seguinte)</translation>
+        <translation>Bom (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Regular (passar à foto seguinte)</translation>
+        <translation>Médio (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Suficiente (passar à foto seguinte)</translation>
+        <translation>Aceitável (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Medíocre (passar à foto seguinte)</translation>
+        <translation>Fraco (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Sem classificação (passar à foto seguinte)</translation>
+        <translation>Sem classificação (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation>##label## (passar à foto seguinte)</translation>
+        <translation>##label## (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
@@ -21496,7 +21496,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">LUT logarítmico</translation>
+        <translation>Logarítmico LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
