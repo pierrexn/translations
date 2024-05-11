@@ -4385,7 +4385,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Luminance</source>
-        <translation type="unfinished">Luminanssi</translation>
+        <translation>Luminanssi</translation>
     </message>
     <message>
         <source>RGB</source>
@@ -8646,7 +8646,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Use Regular Expression</source>
-        <translation type="unfinished">Käytä säännöllistä lauseketta</translation>
+        <translation>Käytä säännöllistä lauseketta</translation>
     </message>
 </context>
 <context>
@@ -9417,11 +9417,11 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Näytä tiedostokoko tavuina</translation>
+        <translation>Näytä tiedostokoko bitteinä</translation>
     </message>
     <message>
         <source>Used by Filter › Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä Suodin › Mukautetut</translation>
     </message>
 </context>
 <context>
@@ -9460,7 +9460,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Show most used formats at beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä eniten käytetyt formaatit alussa</translation>
     </message>
 </context>
 <context>
@@ -9798,7 +9798,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Color management</source>
-        <translation type="unfinished"></translation>
+        <translation>Värien hallinta</translation>
     </message>
 </context>
 <context>
@@ -9978,7 +9978,10 @@ esikatselukuvina</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 on jo määritetty:
+%2
+
+Haluatko määrittää uudelleen?</translation>
     </message>
 </context>
 <context>
@@ -10265,43 +10268,43 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Selain ↔ Koko näyttö | Katselin ↔ Koko näyttö</translation>
     </message>
     <message>
         <source>Browser ↔ Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Selain ↔ katselin</translation>
     </message>
     <message>
         <source>Browser → Fullscreen → Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Selain → Koko näyttö → Katselin</translation>
     </message>
     <message>
         <source>Browser → Viewer → Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Selain → Katselin → Koko näyttö</translation>
     </message>
     <message>
         <source>Closing last tab exits application</source>
-        <translation type="unfinished"></translation>
+        <translation>Viimeisen välilehden sulkeminen sulkee sovelluksen</translation>
     </message>
     <message>
         <source>Move image</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä kuva</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
-        <translation type="unfinished"></translation>
+        <translation>Salli useita Katselin-välilehtiä samalle tiedostolle</translation>
     </message>
     <message>
         <source>Select file in Browser when Viewer tab is closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse tiedosto selaimessa, kun Katselin-välilehti on suljettu</translation>
     </message>
     <message>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Raahaa ja pudota: Avaa yksi Katselin-välilehti tiedostoluettelolle</translation>
     </message>
     <message>
         <source>Hide Tab header when only one is opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Piilota välilehden otsikko, jos vain yksi välilehti on avoinna</translation>
     </message>
 </context>
 <context>
@@ -10423,27 +10426,27 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo automaattisesti XMP:Aihe ja IPTC:Avainsanat luettelon kategorioihin</translation>
     </message>
     <message>
         <source>Write categories into images as hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoita kategoriat kuviin hierarkkisina avainsanoina</translation>
     </message>
     <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Määritä pääkategoria automaattisesti ( Ctrl+klikkaus = vain nykyinen)</translation>
     </message>
     <message>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie luettelon kategoriat XMP:Aihe- ja IPTC:Avainsanat-muotoon</translation>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo tai päivitä XMP sivuvaunu-aputiedosto</translation>
     </message>
     <message>
         <source>Color labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Värimerkinnät</translation>
     </message>
 </context>
 <context>
@@ -10638,7 +10641,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create thumbnails for whole folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo esikatselukuvat koko kansiolle</translation>
     </message>
 </context>
 <context>
@@ -10984,39 +10987,39 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollaa &quot;Automaattinen zoomaus&quot; -asetus seuraavan/edellisen tiedoston kanssa</translation>
     </message>
     <message>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kultainen suhde (Phi)</translation>
     </message>
     <message>
         <source>Show Rating &amp;&amp; Color labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä luokitus- ja värimerkinnät</translation>
     </message>
     <message>
         <source>(From Settings › File list › Custom Filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Kohteesta Asetukset › Tiedostoluettelo › Mukautettu suodin)</translation>
     </message>
     <message>
         <source>Draw multi-resolution icons as Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Piirrä moniresoluutioisia kuvakkeita Snapshotteina</translation>
     </message>
     <message>
         <source>Border line around canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Reunus pohjan ympärillä</translation>
     </message>
     <message>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00 neliö</translation>
     </message>
     <message>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90 D4/D16 Anamorfinen</translation>
     </message>
     <message>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00 Anamorfinen</translation>
     </message>
 </context>
 <context>
@@ -12249,7 +12252,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Muunna XYB-väriavaruuteen</translation>
     </message>
 </context>
 <context>
@@ -12409,11 +12412,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Compression for black&amp;white image</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakkaus musta-valkokuvalle</translation>
     </message>
     <message>
         <source>Compression for color image</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakkaus värikuvalle</translation>
     </message>
 </context>
 <context>
@@ -13669,11 +13672,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Exposure Time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valotusaika [s]</translation>
     </message>
     <message>
         <source>Focal length (mm)</source>
-        <translation type="unfinished">Polttoväli (mm)</translation>
+        <translation>Polttoväli (mm)</translation>
     </message>
     <message>
         <source>Shutter speed (s)</source>
