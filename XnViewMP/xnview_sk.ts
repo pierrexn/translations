@@ -2840,7 +2840,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Nahradiť súbor?</translation>
+        <translation>Prepísať súbor</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3853,7 +3853,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Nahradiť súbor?</translation>
+        <translation>Prepísať súbor</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -16035,7 +16035,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">Použite ostrú (a pomalú) konverziu RGB-&gt;YUV</translation>
+        <translation>Použite ostrú (a pomalú) konverziu RGB→YUV</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -17414,7 +17414,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Expozičný čas [s]</translation>
+        <translation>Expozičný čas (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -20881,43 +20881,43 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Výborné (presunúť na ďalšiu fotku)</translation>
+        <translation>Výborné (presunúť na ďalší obrázok)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Dobré (presunúť na ďalšiu fotku)</translation>
+        <translation>Dobré (presunúť na ďalší obrázok)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Priemerné (presunúť na ďalšiu fotku)</translation>
+        <translation>Priemerné (presunúť na ďalší obrázok)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Podpriemerné (presunúť na ďalšiu fotku)</translation>
+        <translation>Podpriemerné (presunúť na ďalší obrázok)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Zlé (presunúť na ďalšiu fotku)</translation>
+        <translation>Zlé (presunúť na ďalší obrázok)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Nehodnotené (presunúť na ďalšiu fotku)</translation>
+        <translation>Nehodnotené (presunúť na ďalší obrázok)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation>##label## (presunúť na ďalšiu fotku)</translation>
+        <translation>##label## (presunúť na další obrázok)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
