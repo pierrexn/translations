@@ -1389,14 +1389,14 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation type="unfinished"></translation>
+        <translation>Logarítmica LUT</translation>
     </message>
 </context>
 <context>
     <name>ConvertThread</name>
     <message>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>AVISO: A imagem será convertida em RGB de 24-bit (8 bits por canal)</translation>
     </message>
 </context>
 <context>
@@ -2238,7 +2238,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescrever arquivo</translation>
     </message>
     <message>
         <source>Destination already has a file named: 
@@ -2483,7 +2483,7 @@ Do you want to overwrite it?</source>
     <name>DlgConbrightPanelClass</name>
     <message>
         <source>Conbright</source>
-        <translation>&quot;Conbright&quot;</translation>
+        <translation>Conbright</translation>
     </message>
     <message>
         <source>Gammasat</source>
@@ -3031,7 +3031,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescrever arquivo</translation>
     </message>
     <message>
         <source>The &apos;Delete original&apos; option is enabled
@@ -4889,7 +4889,7 @@ Do you want to overwrite it?</source>
     <name>DlgConvertSwapClass</name>
     <message>
         <source>RGB →</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
@@ -6120,7 +6120,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar paleta...</translation>
     </message>
 </context>
 <context>
@@ -10139,11 +10139,11 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu de contexto</translation>
     </message>
     <message>
         <source>Browser - Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador - Miniatura</translation>
     </message>
     <message>
         <source>Browser - Preview</source>
@@ -10175,83 +10175,83 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Pressing ESC closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressionar ESC fecha</translation>
     </message>
     <message>
         <source>Horizontal scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Rolagem horizontal</translation>
     </message>
     <message>
         <source>Vertical scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Rolagem vertical</translation>
     </message>
     <message>
         <source>Zoom selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção de zoom</translation>
     </message>
     <message>
         <source>No modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem modificador</translation>
     </message>
     <message>
         <source>Zoom &amp; move</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom e mover</translation>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Alt</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Wheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Roda</translation>
     </message>
     <message>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador ↔ Tela cheia | Visualizador ↔ Tela cheia</translation>
     </message>
     <message>
         <source>Browser ↔ Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador ↔ Visualizador</translation>
     </message>
     <message>
         <source>Browser → Fullscreen → Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador →Tela cheia → Visualizador</translation>
     </message>
     <message>
         <source>Browser → Viewer → Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador → Visualizador → Tela cheia</translation>
     </message>
     <message>
         <source>Closing last tab exits application</source>
-        <translation type="unfinished"></translation>
+        <translation>O fechamento da última guia encerra o aplicativo</translation>
     </message>
     <message>
         <source>Move image</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover imagem</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir várias guias do Viewer para o mesmo arquivo</translation>
     </message>
     <message>
         <source>Select file in Browser when Viewer tab is closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o arquivo no navegador quando a guia Viewer estiver fechada</translation>
     </message>
     <message>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arrastar e soltar: abra uma única guia do Viewer para a lista de arquivos</translation>
     </message>
     <message>
         <source>Hide Tab header when only one is opened</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ocultar o cabeçalho da guia quando apenas uma estiver aberta</translation>
     </message>
 </context>
 <context>
@@ -10563,7 +10563,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Has category</source>
-        <translation type="unfinished"></translation>
+        <translation>Tem categoria</translation>
     </message>
     <message>
         <source>Face tag</source>
@@ -10575,7 +10575,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Browser - Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador - Miniatura</translation>
     </message>
     <message>
         <source>Color</source>
@@ -12321,7 +12321,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Paeth</source>
-        <translation>Caminho</translation>
+        <translation>Paeth</translation>
     </message>
     <message>
         <source>All</source>
@@ -12429,7 +12429,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Use conversão RGB→YUV nítida (e lenta)</translation>
     </message>
 </context>
 <context>
@@ -15148,31 +15148,31 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Excellent (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Excelente (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Good (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bom (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Average (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Média (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Fair (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitável (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Poor (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobre (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Unrated (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Não avaliado (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>##label## (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Open all selected</source>
@@ -15476,11 +15476,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Classificação &amp;&amp; Etiqueta de cores</translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar índice de transparência (≤ 8bits)</translation>
     </message>
     <message>
         <source>Open with</source>
@@ -15488,7 +15488,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar como imagem</translation>
     </message>
 </context>
 <context>
@@ -16437,35 +16437,35 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>RGB→RBG</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→RBG</translation>
     </message>
     <message>
         <source>RGB→BGR</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BGR</translation>
     </message>
     <message>
         <source>RGB→BRG</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BRG</translation>
     </message>
     <message>
         <source>RGB→GRB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GRB</translation>
     </message>
     <message>
         <source>RGB→GBR</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GBR</translation>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar paleta...</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Classificação &amp;&amp; Etiqueta de cores</translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar índice de transparência (≤ 8bits)</translation>
     </message>
     <message>
         <source>Draw as Snapshot (icons only)</source>
@@ -16473,7 +16473,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation type="unfinished"></translation>
+        <translation>Logarítmica LUT</translation>
     </message>
     <message>
         <source>Send by email...</source>
@@ -16485,43 +16485,43 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Selection - set ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção - proporção definida</translation>
     </message>
     <message>
         <source>Selection - set size</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção - tamanho do conjunto</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar como imagem</translation>
     </message>
     <message>
         <source>Excellent (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Excelente (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Good (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bom (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Average (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Média (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Fair (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitável (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Poor (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobre (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>Unrated (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Não avaliado (mover para a próxima imagem)</translation>
     </message>
     <message>
         <source>##label## (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (mover para a próxima imagem)</translation>
     </message>
 </context>
 <context>
