@@ -9409,11 +9409,11 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse uudet tiedostot automaattisesti</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation type="unfinished">Näytä</translation>
+        <translation>Näytä</translation>
     </message>
     <message>
         <source>Display file size in bytes</source>
