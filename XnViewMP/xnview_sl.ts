@@ -15973,7 +15973,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWritePNG.ui" line="90"/>
         <source>Paeth</source>
-        <translation>Pot</translation>
+        <translation>Paeth</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="95"/>
@@ -17459,7 +17459,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation>Čas osvetlitve [s]</translation>
+        <translation>Čas osvetlitve (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -19294,13 +19294,13 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation>Povprečno (premakni se na naslednjo sliko)</translation>
+        <translation>Povprečno (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Razumno (premakni se na naslednjo sliko)</translation>
+        <translation>Razumno (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="464"/>
@@ -19312,13 +19312,13 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation>Neocenjeno (premakni se na naslednjo sliko)</translation>
+        <translation>Neocenjeno (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation>##label## (premakni se na naslednjo sliko)</translation>
+        <translation>##label## (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -20048,7 +20048,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="493"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation>Ocena in&amp; barvna oznaka</translation>
+        <translation>Ocena &amp;&amp; Barvna oznaka</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="494"/>
@@ -20999,49 +20999,49 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation>Odlično (pomakni se na naslednjo sliko)</translation>
+        <translation>Odlično (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation>Dobro (pomakni se na naslednjo sliko)</translation>
+        <translation>Dobro (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation>Povprečno (pomakni se na naslednjo sliko)</translation>
+        <translation>Povprečno (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Pošteno (pomakni se na naslednjo sliko)</translation>
+        <translation>Pošteno (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation>Slabo (pomakni se na naslednjo sliko)</translation>
+        <translation>Slabo (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation>Neocenjeno ( (pomakni se na naslednjo sliko)</translation>
+        <translation>Neocenjeno (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation>##label## (pomakni se na naslednjo sliko)</translation>
+        <translation>##label## (premakni na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation>Ocena in &amp; barvna oznaka</translation>
+        <translation>Ocena &amp;&amp; Barvna oznaka</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="370"/>
