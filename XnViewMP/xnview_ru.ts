@@ -16519,7 +16519,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="83"/>
         <source>Colors used</source>
-        <translation>Пользовательские цвета</translation>
+        <translation>Используемые цвета</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="85"/>
@@ -17035,12 +17035,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename without extension</source>
-        <translation>Имя файла на выходе без расширения</translation>
+        <translation>Имя файла на выходе</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename</source>
-        <translation>Имя файла на выходе</translation>
+        <translation>Имя файла на выходе (с расширением)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -19590,7 +19590,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus...</source>
-        <translation>Фокус пути...</translation>
+        <translation>Переместить фокус на путь...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
