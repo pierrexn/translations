@@ -17429,7 +17429,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation>Belichtingstijd [s]</translation>
+        <translation>Belichtingstijd (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -20933,7 +20933,7 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation>##label## (naar volgende foto)</translation>
+        <translation>##label## (naar volgende afbeelding)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
