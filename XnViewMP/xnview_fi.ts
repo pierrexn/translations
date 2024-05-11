@@ -1033,7 +1033,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäältä- Oikealle</translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Maximum</source>
@@ -1149,7 +1149,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalta-Vasemmalle</translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Solarize</source>
@@ -1157,7 +1157,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäältä-Vasemmalle</translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>QR Code</source>
@@ -5091,7 +5091,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäälä-vasemmalla</translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -5099,7 +5099,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhällä-oikealla</translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -7577,11 +7577,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä keskellä</translation>
+        <translation>Ylhäällä-keskellä</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskellä oikealla</translation>
+        <translation>Keskellä-oikealla</translation>
     </message>
     <message>
         <source>Current date</source>
@@ -7601,7 +7601,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä oikealla</translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>53x71mm (2x3&quot;) [14]</source>
@@ -7653,11 +7653,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla vasemmalla</translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhällä vasemmalla</translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>Print count</source>
@@ -7717,7 +7717,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalla keskellä</translation>
+        <translation>Alhaalla-keskellä</translation>
     </message>
     <message>
         <source>35x45mm (1.4x1.8&quot;) [28]</source>
@@ -7753,11 +7753,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskellä vasemmalla</translation>
+        <translation>Keskellä-vasemmalla</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla oikealla</translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
     <message>
         <source>Print as grayscale</source>
@@ -8473,11 +8473,11 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä.keskellä</translation>
+        <translation>Ylhäällä-keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>ylhäällä-oikealla</translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -11090,7 +11090,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Similar image content (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation>Samankaltainen kuvasisältö (hidas)</translation>
     </message>
 </context>
 <context>
@@ -11649,7 +11649,9 @@ Haluatko määrittää uudelleen?</translation>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä muuttaa tiedoston XMP-alueita. 
+
+Haluatko jatkaa?</translation>
     </message>
 </context>
 <context>
@@ -11763,7 +11765,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Increment at each image by</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkrementti jokaiselle kuvalle</translation>
     </message>
 </context>
 <context>
@@ -12117,7 +12119,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsampling</translation>
     </message>
 </context>
 <context>
@@ -12310,7 +12312,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsampling</translation>
     </message>
 </context>
 <context>
@@ -12367,7 +12369,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Paeth</source>
-        <translation>Polku</translation>
+        <translation>Paeth</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -12483,7 +12485,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä terävää (ja hidasta) RGB→YUV-muuntamista</translation>
     </message>
 </context>
 <context>
@@ -12551,7 +12553,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä suoskki johtaa kansioon jota ei ole olemassa.
+
+Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -13112,7 +13116,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsampling</translation>
     </message>
 </context>
 <context>
@@ -13680,7 +13684,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Shutter speed (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Suljinnopeus (s)</translation>
     </message>
 </context>
 <context>
@@ -14041,7 +14045,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä oikealla</translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -14053,11 +14057,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla vasemmalla</translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä vasemmalla</translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -14081,7 +14085,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla oikealla</translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
     <message>
         <source>Color Profile</source>
@@ -15534,7 +15538,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä läpinäkyää indeksiä (≤ 8bits)</translation>
     </message>
     <message>
         <source>Open with</source>
@@ -16491,27 +16495,27 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>RGB→RBG</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→RBG</translation>
     </message>
     <message>
         <source>RGB→BGR</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BGR</translation>
     </message>
     <message>
         <source>RGB→BRG</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BRG</translation>
     </message>
     <message>
         <source>RGB→GRB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GRB</translation>
     </message>
     <message>
         <source>RGB→GBR</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GBR</translation>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkauspaletti...</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
@@ -16519,7 +16523,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä läpinäkyää indeksiä (≤ 8bits)</translation>
     </message>
     <message>
         <source>Draw as Snapshot (icons only)</source>
@@ -16614,7 +16618,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskeltä-Oikealle</translation>
+        <translation>Keskellä-oikealla</translation>
     </message>
     <message>
         <source>Open XnView database</source>
@@ -16622,7 +16626,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäältä-Oikealle</translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>An error occurred during processing!</source>
@@ -16638,11 +16642,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalta-Vasemmalle</translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäältä-Vasemmalle</translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>inches</source>
@@ -16658,7 +16662,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalta-Keskelle</translation>
+        <translation>Alhaalla-keskellä</translation>
     </message>
     <message>
         <source>Choose icon</source>
@@ -16678,7 +16682,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskeltä-Vasemmalle</translation>
+        <translation>Keskellä-vasemmalla</translation>
     </message>
     <message>
         <source>Save File</source>
@@ -16686,7 +16690,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalta-Oikealle</translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
     <message>
         <source>All Files</source>
@@ -17089,7 +17093,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylä-oikealla</translation>
+        <translation>Ylhäällä-oikealla</translation>
     </message>
     <message>
         <source>Draw a rectangle</source>
@@ -17129,7 +17133,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Ala-vasemmalla</translation>
+        <translation>Alhaalla-vasemmalla</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
@@ -17141,7 +17145,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylä-vasemmalla</translation>
+        <translation>Ylhäällä-vasemmalla</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -17229,7 +17233,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Ala-oikealla</translation>
+        <translation>Alhaalla-oikealla</translation>
     </message>
     <message>
         <source>Offset X</source>
