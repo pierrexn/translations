@@ -2840,7 +2840,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>_result</source>
-        <translation>Resultado</translation>
+        <translation>_resultado</translation>
     </message>
     <message>
         <source>Uploading image(s) to server...</source>
