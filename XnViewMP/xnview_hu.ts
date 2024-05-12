@@ -16030,7 +16030,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">Éles (és lassú) RGB-&gt;YUV átalakítás</translation>
+        <translation>Éles (és lassú) RGB→YUV átalakítás</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
