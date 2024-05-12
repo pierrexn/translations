@@ -16517,7 +16517,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="350"/>
         <source>Focal length (mm)</source>
-        <translation>Focale lengte</translation>
+        <translation>Brandpuntsafstand (mm)</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="369"/>
@@ -17455,7 +17455,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation>Brandpuntsafstand [mm]</translation>
+        <translation>Brandpuntsafstand (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
