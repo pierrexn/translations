@@ -8107,7 +8107,7 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation>Տեղադրեք այն Գործիքներ » Օժանդակիչներով</translation>
+        <translation>Տեղադրեք այն Գործիքներ › Օժանդակիչներով</translation>
     </message>
 </context>
 <context>
