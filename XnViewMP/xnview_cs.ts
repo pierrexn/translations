@@ -17512,7 +17512,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Ohnisková vzdálenost [mm]</translation>
+        <translation>Ohnisková vzdálenost (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
