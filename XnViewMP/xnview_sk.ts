@@ -10372,7 +10372,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Nainštalujte ho pomocou Nástroje › Zásuvné moduly</translation>
     </message>
 </context>
 <context>
@@ -23556,7 +23556,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
