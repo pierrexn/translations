@@ -10353,7 +10353,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer den ved å bruke Verktøy › Plugins</translation>
     </message>
 </context>
 <context>
@@ -23527,7 +23527,7 @@ Høyreklikk for å få en oppsprettsboks med handlinger.</translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
