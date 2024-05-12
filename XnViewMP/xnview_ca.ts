@@ -1137,25 +1137,25 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
         <location filename="DlgConvertCanvas.h" line="39"/>
         <location filename="DlgConvertAutoCrop.h" line="24"/>
         <source>Top-Left</source>
-        <translation>Dalt-Esquerra</translation>
+        <translation>Dalt-esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.h" line="40"/>
         <location filename="DlgConvertAutoCrop.h" line="25"/>
         <source>Top-Right</source>
-        <translation>Dalt-Dreta</translation>
+        <translation>Dalt-dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.h" line="41"/>
         <location filename="DlgConvertAutoCrop.h" line="26"/>
         <source>Bottom-Left</source>
-        <translation>Baix-Esquerra</translation>
+        <translation>Baix-esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.h" line="42"/>
         <location filename="DlgConvertAutoCrop.h" line="27"/>
         <source>Bottom-Right</source>
-        <translation>Baix-Dreta</translation>
+        <translation>Baix-dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="167"/>
@@ -4187,7 +4187,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Dalt.esquerra</translation>
+        <translation>Dalt-esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
@@ -4228,7 +4228,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Baix-centre</translation>
+        <translation>Baix-centre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
@@ -4373,7 +4373,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Dalt esquerra</translation>
+        <translation>Dalt-esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
@@ -5892,7 +5892,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Dalt.esquerra</translation>
+        <translation>Dalt-esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
@@ -5930,7 +5930,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">A baix</translation>
+        <translation>Baix-centre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6411,7 +6411,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Baix</translation>
+        <translation>Baix-centre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
@@ -6752,7 +6752,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Baix</translation>
+        <translation>Baix-centre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
@@ -9814,7 +9814,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgPrint.ui" line="559"/>
         <source>Top-Left</source>
-        <translation>Dalt-Esquerra</translation>
+        <translation>Dalt-esquerra</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="564"/>
@@ -9824,7 +9824,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgPrint.ui" line="569"/>
         <source>Top-Right</source>
-        <translation>Dalt-Dreta</translation>
+        <translation>Dalt-dreta</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="574"/>
@@ -9844,7 +9844,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgPrint.ui" line="589"/>
         <source>Bottom-Left</source>
-        <translation>Baix-Esquerra</translation>
+        <translation>Baix-esquerra</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="594"/>
@@ -9854,7 +9854,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
-        <translation>Baix-Dreta</translation>
+        <translation>Baix-dreta</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -10361,7 +10361,7 @@ Gràcies per comprar %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisplau instal.leu-ho usant Eines › Connectors</translation>
     </message>
 </context>
 <context>
@@ -10843,7 +10843,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Baix</translation>
+        <translation>Baix-centre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
@@ -21993,7 +21993,8 @@ Do you want to continue?</oldsource>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">La mida de la miniatura en el catàleg és menor que la mida escollida. Podeu canviar-la en Opcions&gt;Catàleg</translation>
+        <translation>La mida de la miniatura en el catàleg és menor que la mida escollida. 
+Podeu canviar-la en Opcions › Catàleg</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
@@ -22384,12 +22385,12 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1251"/>
         <source>Top-Left</source>
-        <translation>Dalt-Esquerra</translation>
+        <translation>Dalt-esquerra</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1256"/>
         <source>Top-Right</source>
-        <translation>Dalt-Dreta</translation>
+        <translation>Dalt-dreta</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1261"/>
@@ -22399,12 +22400,12 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1266"/>
         <source>Bottom-Left</source>
-        <translation>Baix-Esquerra</translation>
+        <translation>Baix-esquerra</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1271"/>
         <source>Bottom-Right</source>
-        <translation>Baix-Dreta</translation>
+        <translation>Baix-dreta</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1530"/>
@@ -23543,7 +23544,7 @@ Clic dret per al menú contextual amb accions.</translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
