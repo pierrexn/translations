@@ -86,12 +86,12 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="430"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Turuncu</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
@@ -149,7 +149,7 @@
     <message>
         <location filename="AboutWidget.ui" line="110"/>
         <source>Social</source>
-        <translation type="unfinished"></translation>
+        <translation>Social</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="117"/>
@@ -159,7 +159,7 @@
     <message>
         <location filename="AboutWidget.ui" line="190"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Website</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="197"/>
@@ -169,17 +169,17 @@
     <message>
         <location filename="AboutWidget.ui" line="204"/>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="263"/>
         <source>Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
-        <translation type="unfinished"></translation>
+        <translation>INI dosya adı</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="354"/>
@@ -299,39 +299,42 @@
         <location filename="ViewWindow.cpp" line="2201"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenlemelerinizi atmak ve silmek ister misiniz 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2207"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sildiğinizden emin misiniz 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2211"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sildiğinizden emin misiniz 
+&quot;%1&quot; (%2 öğe)?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
         <source>Confirm Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet&apos;i Onayla</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2808"/>
         <source>&lt;%1&gt; already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%1&gt; zaten var!</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2808"/>
         <source>Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzerine yazmak ister misin?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Benzersiz renk sayısı: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -351,17 +354,17 @@
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
         <source>Save &amp;as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet &amp;as...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="219"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Kaydet</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="220"/>
         <source>&amp;Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kaydetme</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="223"/>
@@ -383,7 +386,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntü 24-bit RGB&apos;ye dönüştürülecektir (kanal başına 8 bit)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -408,7 +411,7 @@
         <location filename="ViewWindow.cpp" line="2835"/>
         <location filename="ViewWindow.cpp" line="3015"/>
         <source>An error occurred during saving!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydetme sırasında bir hata oluştu!</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3089"/>
@@ -505,7 +508,7 @@
     <message>
         <location filename="BatchRenameProcess.h" line="21"/>
         <source>Renaming files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyaları yeniden adlandırma...</translation>
     </message>
 </context>
 <context>
@@ -520,7 +523,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu sık kullanılan, var olmayan bir klasörü işaret eder. 
+
+Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     </message>
 </context>
 <context>
@@ -679,7 +684,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     <message>
         <location filename="BrowserWindow.cpp" line="4208"/>
         <source>Show files in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt klasörlerdeki dosyaları göster</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4211"/>
@@ -729,12 +734,12 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     <message>
         <location filename="BrowserWindow.cpp" line="3215"/>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Katalog filtre sonuçları&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3217"/>
         <source>&lt;files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;dosyalar&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3850"/>
@@ -749,7 +754,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     <message>
         <location filename="BrowserWindow.cpp" line="4214"/>
         <source>Start slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Slayt gösterisini başlat</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4216"/>
@@ -1062,7 +1067,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     <message>
         <location filename="CompareWidget.cpp" line="74"/>
         <source>A/B</source>
-        <translation type="unfinished"></translation>
+        <translation>A/B</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="557"/>
@@ -1108,7 +1113,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     <message>
         <location filename="ContactSheetProcess.h" line="44"/>
         <source>Abort</source>
-        <translation>İptal et</translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <location filename="ContactSheetProcess.h" line="44"/>
@@ -1271,7 +1276,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     <message>
         <location filename="DlgConvertProcess.h" line="2572"/>
         <source>Aspect Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect Pad</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2631"/>
@@ -1307,12 +1312,12 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     <message>
         <location filename="DlgConvertProcess.h" line="3229"/>
         <source>Blurred frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulanık çerçeve</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3474"/>
         <source>Inner Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>İç Çerçeve</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3828"/>
@@ -1353,7 +1358,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgConvertProcess.h" line="4592"/>
         <location filename="DlgOffset.h" line="100"/>
         <source>Offset</source>
-        <translation>Dengeleme</translation>
+        <translation>Ofset</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4618"/>
@@ -1812,13 +1817,13 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     <message>
         <location filename="DlgPlugins.h" line="84"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurulum</translation>
     </message>
     <message>
         <location filename="DlgPlugins.h" line="98"/>
         <location filename="DlgPlugins.h" line="122"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklendi</translation>
     </message>
 </context>
 <context>
@@ -2600,7 +2605,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgBatchResize.ui" line="730"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Her Zaman</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="735"/>
@@ -2918,12 +2923,12 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="117"/>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Gecikme</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="129"/>
         <source>second(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>saniye(ler)</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="138"/>
@@ -2944,7 +2949,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="179"/>
         <source>Open in Draw mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Çizim modunda açın</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="188"/>
@@ -3593,22 +3598,22 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2210"/>
         <source>Cancel batch processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplu işlemeyi iptal et</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2210"/>
         <source>Do you want to cancel current batch processing?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut toplu işlemi iptal etmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2253"/>
         <source>Loading error(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükleme hatası(ları):</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2261"/>
         <source>Saving error(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata(lar) kaydediliyor:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2272"/>
@@ -3638,17 +3643,17 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2284"/>
         <source>Total input file size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplam girdi dosyası boyutu:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2285"/>
         <source>Total output file size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplam çıktı dosyası boyutu:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2287"/>
         <source>File size ratio:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya boyutu oranı:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2291"/>
@@ -3758,7 +3763,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2561"/>
         <source>copied</source>
-        <translation type="unfinished"></translation>
+        <translation>kopyalandı</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2565"/>
@@ -3768,7 +3773,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2579"/>
         <source>%1 of %2 files</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2 dosya</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2610"/>
@@ -3831,14 +3836,18 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Orijinali sil&apos; seçeneği etkinleştirildi.
+
+Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Çıktı dosya adı dönüştürülen tüm dosyalar için aynı olacaktır. 
+
+Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -3850,7 +3859,9 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Sonuç daha büyükse orijinal dosyayı sakla&apos; seçeneğine ve bazı eylemlere sahipsiniz. 
+
+Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -3894,7 +3905,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1558"/>
         <source>Would you like to export filenames, too?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya adlarını da dışa aktarmak ister misiniz?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
@@ -3943,7 +3954,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="50"/>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkaplan Rengi</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
@@ -3953,12 +3964,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Peyzaj</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="90"/>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portre</translation>
     </message>
 </context>
 <context>
@@ -4083,7 +4094,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="52"/>
         <source> X </source>
-        <translation type="unfinished"></translation>
+        <translation> X </translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="59"/>
@@ -4093,7 +4104,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulanıklık</translation>
     </message>
 </context>
 <context>
@@ -4101,7 +4112,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="19"/>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkaplan Rengi</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
@@ -4171,54 +4182,54 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Üst sol</translation>
+        <translation>Üst-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Üst merkez</translation>
+        <translation>Üst-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Üst sağ</translation>
+        <translation>Üst-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Merkez sol</translation>
+        <translation>Orta-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Merkez sağ</translation>
+        <translation>Orta-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Alt sol</translation>
+        <translation>Alt-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Alt merkez</translation>
+        <translation>Alt-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Alt sağ</translation>
+        <translation>Alt-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -4341,7 +4352,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="450"/>
         <source>Background color</source>
-        <translation>Arka alan rengi</translation>
+        <translation>Arkaplan Rengi</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="394"/>
@@ -4357,25 +4368,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Üst sol</translation>
+        <translation>Üst-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Üst merkez</translation>
+        <translation>Üst-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Üst sağ</translation>
+        <translation>Üst-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Sol merkez</translation>
+        <translation>Orta-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4386,25 +4397,25 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Sağ merkez</translation>
+        <translation>Orta-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Alt sol</translation>
+        <translation>Alt-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Dip merkez</translation>
+        <translation>Alt-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Alt sağ</translation>
+        <translation>Alt-Sağ</translation>
     </message>
 </context>
 <context>
@@ -4525,7 +4536,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="417"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya listesinden dosya kaldırma</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="450"/>
@@ -4551,7 +4562,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="973"/>
         <source>Keep original file when encoded result is larger (experimental)</source>
         <oldsource>Keep original file when encoded result is larger</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kodlanmış sonuç daha büyük olduğunda orijinal dosyayı sakla (deneysel)</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1220"/>
@@ -4562,7 +4573,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Processing list:</source>
-        <translation type="unfinished"></translation>
+        <translation>İşlem listesi:</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1276"/>
@@ -4875,7 +4886,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1510"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Hafif</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1515"/>
@@ -5506,12 +5517,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertInnerFrame.ui" line="66"/>
         <source>Fill color</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolgu rengi</translation>
     </message>
     <message>
         <location filename="DlgConvertInnerFrame.ui" line="46"/>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofset</translation>
     </message>
     <message>
         <location filename="DlgConvertInnerFrame.ui" line="39"/>
@@ -5569,7 +5580,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="240"/>
         <source>Load template...</source>
-        <translation type="unfinished"></translation>
+        <translation>Şablon yükle...</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="162"/>
@@ -5594,7 +5605,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.h" line="242"/>
         <source>Insert from</source>
-        <translation type="unfinished"></translation>
+        <translation>Şuradan ekle</translation>
     </message>
 </context>
 <context>
@@ -5871,13 +5882,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Sol üst</translation>
+        <translation>Üst-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Sağ üst</translation>
+        <translation>Üst-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5887,35 +5898,35 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Sol alt</translation>
+        <translation>Alt-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Alt</translation>
+        <translation>Alt-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Sağ alt</translation>
+        <translation>Alt-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -6060,7 +6071,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="137"/>
         <source>Longest side</source>
-        <translation>En Uzun Kenar</translation>
+        <translation>En uzun taraf</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="142"/>
@@ -6367,13 +6378,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Üst Sol</translation>
+        <translation>Üst-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Üst Sağ</translation>
+        <translation>Üst-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6384,19 +6395,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Alt Sol</translation>
+        <translation>Alt-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Alt</translation>
+        <translation>Alt-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Alt Sağ</translation>
+        <translation>Alt-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6459,17 +6470,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6611,32 +6622,32 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="39"/>
         <source>Proportional</source>
-        <translation type="unfinished"></translation>
+        <translation>Orantılı</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tiling</source>
-        <translation type="unfinished"></translation>
+        <translation>Döşeme</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofset</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="310"/>
@@ -6661,18 +6672,18 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="95"/>
         <source>Relative to target image</source>
-        <translation type="unfinished"></translation>
+        <translation>Hedef görüntüye göre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="103"/>
         <source>Longest side</source>
         <oldsource>Largest size</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>En uzun taraf</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="108"/>
         <source>Smallest side</source>
-        <translation type="unfinished"></translation>
+        <translation>En küçük taraf</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="113"/>
@@ -6702,19 +6713,19 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="173"/>
         <source>Anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>Çapa</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Üst Sol</translation>
+        <translation>Üst-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Üst Sağ</translation>
+        <translation>Üst-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6725,19 +6736,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Alt Sol</translation>
+        <translation>Alt-Sol</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Alt</translation>
+        <translation>Alt-Orta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Alt Sağ</translation>
+        <translation>Alt-Sağ</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -6755,7 +6766,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWhiteBalance.ui" line="22"/>
         <source>Cut limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesim sınırı</translation>
     </message>
     <message>
         <location filename="DlgConvertWhiteBalance.ui" line="59"/>
@@ -6949,7 +6960,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgDBClean.ui" line="27"/>
         <source>Clean up</source>
-        <translation type="unfinished"></translation>
+        <translation>Temizlik</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="33"/>
@@ -6960,7 +6971,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgDBClean.ui" line="57"/>
         <source>Purge</source>
-        <translation type="unfinished"></translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="63"/>
@@ -6988,7 +6999,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgDBClean.cpp" line="23"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Calıştır</translation>
     </message>
 </context>
 <context>
@@ -7143,12 +7154,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="221"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Hiyerarşide anahtar kelimeleri ayırmak için | kullanın)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="248"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Ana kategorileri uygulayın</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="256"/>
@@ -7298,7 +7309,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="524"/>
         <source>Insert from</source>
-        <translation>Buradan ekle</translation>
+        <translation>Şuradan ekle</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="545"/>
@@ -7330,12 +7341,12 @@ Değişiklikleri kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="976"/>
         <source>Required field</source>
-        <translation type="unfinished"></translation>
+        <translation>Zorunlu alan</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="976"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazı alanlar zorunludur, lütfen doldurun!</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="1069"/>
@@ -8189,7 +8200,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFlickr.h" line="17"/>
         <source>Abort</source>
-        <translation>Vazgeç</translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <location filename="DlgFlickr.h" line="36"/>
@@ -8540,7 +8551,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgGrid.ui" line="163"/>
         <location filename="DlgGrid.ui" line="246"/>
         <source>Offset</source>
-        <translation>Baskı</translation>
+        <translation>Ofset</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="175"/>
@@ -8958,7 +8969,7 @@ Değişiklikleri kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="DlgIptc.cpp" line="1575"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazı alanlar zorunludur, lütfen doldurun!</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1646"/>
@@ -9442,7 +9453,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPalette.ui" line="78"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Set</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="85"/>
@@ -10334,7 +10345,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen Araçlar › Eklentiler&apos;i kullanarak yükleyin</translation>
     </message>
 </context>
 <context>
@@ -10669,7 +10680,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="187"/>
         <source>Longest side</source>
-        <translation>En uzun kenar</translation>
+        <translation>En uzun taraf</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="192"/>
@@ -10777,28 +10788,28 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Üst Sol</translation>
+        <translation>Üst-Sol</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst-Orta</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta-Sol</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta-Sağ</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Üst Sağ</translation>
+        <translation>Üst-Sağ</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="627"/>
@@ -10809,19 +10820,19 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Alt Sol</translation>
+        <translation>Alt-Sol</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Alt</translation>
+        <translation>Alt-Orta</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Alt Sağ</translation>
+        <translation>Alt-Sağ</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="669"/>
@@ -13792,7 +13803,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="684"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>(Ayarlar › Dosya listesi › Özel Filtre&apos;den)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
@@ -16080,7 +16091,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu sık kullanılan, var olmayan bir klasörü işaret eder. 
+
+Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -18326,7 +18339,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="IptcEditBase.cpp" line="124"/>
         <source>Insert from</source>
-        <translation>Buradan Ekle</translation>
+        <translation>Şuradan ekle</translation>
     </message>
     <message>
         <location filename="IptcEditBase.cpp" line="149"/>
@@ -19051,12 +19064,12 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Navigate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Şuraya gidin</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="521"/>
         <source>Show files in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt klasörlerdeki dosyaları göster</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -19066,7 +19079,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="BrowserMenu.h" line="551"/>
         <source>Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>90° sağa döndürün</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
@@ -19076,32 +19089,32 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="BrowserMenu.h" line="555"/>
         <source>Rotate 90° right (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>90° sağa döndür (kayıpsız)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="556"/>
         <source>Rotate 90° left (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>90° sola döndür (kayıpsız)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="557"/>
         <source>Rotate 180° (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>180° döndürme (kayıpsız)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="560"/>
         <source>Flip horizontally (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yatay çevirme (kayıpsız)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="561"/>
         <source>Flip vertically (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikey olarak çevirin (kayıpsız)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="570"/>
         <source>Open GPS location in</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS konumunu şurada açın</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="580"/>
@@ -19156,7 +19169,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Resim olarak yapıştır</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -19341,7 +19354,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="DlgSettingsView.cpp" line="27"/>
         <source>Fit image to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Resmi masaüstüne sığdır</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="255"/>
@@ -20771,7 +20784,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Fit image to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Resmi masaüstüne sığdır</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="325"/>
@@ -20796,12 +20809,12 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Remove Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Arka Planı Kaldır</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="453"/>
         <source>Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>90° sağa döndürün</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="339"/>
@@ -20842,12 +20855,12 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="390"/>
         <source>Navigate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Şuraya gidin</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="418"/>
         <source>Open GPS location in</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS konumunu şurada açın</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="421"/>
@@ -20868,7 +20881,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçimi temizle</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="298"/>
@@ -21321,7 +21334,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="480"/>
         <source>Clean metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaveriyi Sil</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="481"/>
@@ -21346,37 +21359,37 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="486"/>
         <source>Rotate 90° right (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>90° sağa döndür (kayıpsız)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
         <source>Rotate 90° left (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>90° sola döndür (kayıpsız)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="488"/>
         <source>Rotate 180° (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>180° döndürme (kayıpsız)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="491"/>
         <source>Flip horizontally (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yatay çevirme (kayıpsız)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Flip vertically (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikey olarak çevirin (kayıpsız)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Crop (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kırpma (kayıpsız)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Resim olarak yapıştır</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -21403,7 +21416,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="440"/>
         <source>Effect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Etki...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
@@ -21414,17 +21427,17 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="455"/>
         <source>Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>90° sola döndürün</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Flip horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Yatay olarak çevirin</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
         <source>Flip vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikey olarak çevirin</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="489"/>
@@ -21858,7 +21871,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="228"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Şeffaf</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="240"/>
@@ -21881,7 +21894,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -22309,7 +22322,7 @@ You can change it in Settings � Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="1503"/>
         <location filename="PaintWidget.ui" line="1514"/>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Önayarlar</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="778"/>
@@ -22329,7 +22342,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1240"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozisyon</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1251"/>
@@ -22344,7 +22357,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1261"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1266"/>
@@ -22364,7 +22377,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yönetmek...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -22379,17 +22392,17 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1296"/>
         <source>Margin X</source>
-        <translation type="unfinished"></translation>
+        <translation>Marj X</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1330"/>
         <source>Margin Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Marj Y</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1380"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Set</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1215"/>
@@ -22424,7 +22437,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.cpp" line="1399"/>
         <source>Include color</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk dahil</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="1406"/>
@@ -22434,7 +22447,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.cpp" line="1414"/>
         <source>Preset name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ön ayar adı</translation>
     </message>
 </context>
 <context>
@@ -23265,12 +23278,12 @@ Görevlerle ilgili açılır menü için sağ tıklayın.</translation>
     <message>
         <location filename="VideoGalleryProcess.h" line="99"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya Adı</translation>
     </message>
     <message>
         <location filename="VideoGalleryProcess.h" line="99"/>
         <source>File size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya Boyutu</translation>
     </message>
     <message>
         <location filename="VideoGalleryProcess.h" line="99"/>
@@ -23293,27 +23306,27 @@ Görevlerle ilgili açılır menü için sağ tıklayın.</translation>
     <message>
         <location filename="ViewCropAction.cpp" line="213"/>
         <source>Selection horizontal position</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçim yatay pozisyon</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="216"/>
         <source>Selection vertical position</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçim dikey konumu</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="228"/>
         <source>Swap selection width and height</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçim genişliğini ve yüksekliğini değiştir</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="240"/>
         <source>Show selection grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçim ızgarasını göster</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="246"/>
         <source>Center selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Merkez seçimi</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="250"/>
@@ -23458,12 +23471,12 @@ Görevlerle ilgili açılır menü için sağ tıklayın.</translation>
     <message>
         <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata yok</translation>
     </message>
     <message>
         <location filename="WebError.cpp" line="203"/>
         <source>The peer presented a certificate that was blacklisted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eş, kara listeye alınmış bir sertifika sundu.</translation>
     </message>
 </context>
 <context>
@@ -23484,7 +23497,7 @@ Görevlerle ilgili açılır menü için sağ tıklayın.</translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
@@ -23556,12 +23569,12 @@ Varolan küçük resimleri saklamak ister misiniz?
     <message>
         <location filename="xnview.cpp" line="596"/>
         <source>Catalog problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog sorunu</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="596"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kataloğu açmak için bir sorun var, ayarlarınızı veya kullanılan klasörü kontrol edin!</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="975"/>
@@ -23577,7 +23590,7 @@ Varolan küçük resimleri saklamak ister misiniz?
     <message>
         <location filename="xnview.cpp" line="1042"/>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Oturum</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1592"/>
