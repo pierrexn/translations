@@ -10393,7 +10393,7 @@ Dziękujmy za zakup %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation>Proszę zainstalować to przy użyciu Narzędzia &gt; Wtyczki</translation>
+        <translation>Proszę zainstalować to przy użyciu Narzędzia › Wtyczki</translation>
     </message>
 </context>
 <context>
