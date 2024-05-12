@@ -16068,7 +16068,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWritePNG.ui" line="90"/>
         <source>Paeth</source>
-        <translation>Peath</translation>
+        <translation>Paeth</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="95"/>
@@ -16173,7 +16173,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation>シャープな（そして遅い）RGB-&gt;YUV変換を使用する</translation>
+        <translation>シャープな（そして遅い）RGB→YUV変換を使用する</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
