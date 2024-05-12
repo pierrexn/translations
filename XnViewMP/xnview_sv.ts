@@ -16051,7 +16051,7 @@ Vill du fortsätta?</translation>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation>Använd skarp (och långsam) RGB-&gt;YUV-konvertering</translation>
+        <translation>Använd skarp (och långsam) RGB→YUV-konvertering</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -20612,7 +20612,7 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="199"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
-        <translation>RGP→RGB</translation>
+        <translation>RGB→RBG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
