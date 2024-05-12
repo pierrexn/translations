@@ -16494,7 +16494,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="350"/>
         <source>Focal length (mm)</source>
-        <translation>Brennweite [mm]</translation>
+        <translation>Brennweite (mm)</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="369"/>
@@ -17432,7 +17432,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation>Brennweite [mm]</translation>
+        <translation>Brennweite (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -17468,7 +17468,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2539"/>
         <source>Subject Distance (m)</source>
-        <translation>Aufnahmeabstand [m]</translation>
+        <translation>Aufnahmeabstand (m)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2540"/>
