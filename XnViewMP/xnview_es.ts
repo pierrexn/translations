@@ -16939,7 +16939,8 @@ Do you want to continue?</source>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño de las miniaturas en caché es menor que el elegido. 
+Puede cambiarlo en Configuración › Catálogo.</translation>
     </message>
 </context>
 <context>
