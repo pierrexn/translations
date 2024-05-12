@@ -1253,7 +1253,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="4666"/>
         <location filename="DlgWhiteBalance.h" line="88"/>
         <source>White Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Баланс білого</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2448"/>
@@ -2845,7 +2845,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Перезаписати файлу?</translation>
+        <translation>Перезаписати файл</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3865,7 +3865,7 @@ Do you want to go on the download page?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Перезаписати файлу?</translation>
+        <translation>Перезаписати файл</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -11636,7 +11636,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">Розміщення кешу ескізів</translation>
+        <translation>Базовий шлях до файлів</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
@@ -11667,7 +11667,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="176"/>
         <location filename="DlgSettingsCache.ui" line="216"/>
         <source>MiB</source>
-        <translation> Мб</translation>
+        <translation>Мб</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="206"/>
@@ -16061,7 +16061,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте різке (і повільне) перетворення RGB→YUV</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -16508,7 +16508,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="350"/>
         <source>Focal length (mm)</source>
-        <translation type="unfinished">Фокусна відстань [мм]</translation>
+        <translation>Фокусна відстань (мм)</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="677"/>
@@ -17445,7 +17445,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Витримка [с]</translation>
+        <translation>Витримка (с)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17471,12 +17471,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Фокусна відстань [мм]</translation>
+        <translation>Фокусна відстань (мм)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
         <source>35mm Focal length</source>
-        <translation>Фокусна відстань 35 мм </translation>
+        <translation>Фокусна відстань 35 мм</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2533"/>
@@ -17487,7 +17487,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2534"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation type="unfinished">Швидкість затвора в [с]</translation>
+        <translation>Швидкість затвора в (с)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
@@ -17547,7 +17547,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2547"/>
         <source>White balance</source>
-        <translation>Баланс білого </translation>
+        <translation>Баланс білого</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2548"/>
@@ -19277,37 +19277,37 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Відмінно (перейти до наступного зображення)</translation>
+        <translation>Відмінно (перейти до наступного зображення)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Добре (перейти до наступного зображення)</translation>
+        <translation>Добре (перейти до наступного зображення)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Задовільно (перейти до наступного зображення)</translation>
+        <translation>Задовільно (перейти до наступного зображення)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Погано (перейти до наступного зображення)</translation>
+        <translation>Погано (перейти до наступного зображення)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="464"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Дуже погано (перейти до наступного зображення)</translation>
+        <translation>Дуже погано (перейти до наступного зображення)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Без оцінки (перейти до наступного зображення)</translation>
+        <translation>Без оцінки (перейти до наступного зображення)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
