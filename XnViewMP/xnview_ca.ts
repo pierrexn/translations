@@ -2833,7 +2833,7 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Sobrescric el fitxer?</translation>
+        <translation>Sobrescric el fitxer</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -15915,7 +15915,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWritePNG.ui" line="90"/>
         <source>Paeth</source>
-        <translation>Camí</translation>
+        <translation>Paeth</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="95"/>
@@ -16020,7 +16020,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">Usa RGB precís (i lent) RGB-&gt;conversió YUV</translation>
+        <translation>Usa RGB precís (i lent) RGB→conversió YUV</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -17399,7 +17399,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Temps d&apos;exposició [s]</translation>
+        <translation>Temps d&apos;exposició (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
