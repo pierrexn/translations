@@ -1810,7 +1810,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>HOIATUS: pilt konverteeritakse 24-bitiseks RGB-ks (8 bitti kanali kohta)</translation>
     </message>
 </context>
 <context>
@@ -2838,7 +2838,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Kirjutada fail üle?</translation>
+        <translation>Faili ülekirjutamine</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3843,7 +3843,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Kirjutada fail üle?</translation>
+        <translation>Faili ülekirjutamine</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -16010,7 +16010,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kasutage teravat (ja aeglast) RGB→YUV konverteerimist.</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -17389,7 +17389,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Säriaeg [s]</translation>
+        <translation>Säriaeg (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
