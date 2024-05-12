@@ -2416,7 +2416,7 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="677"/>
         <source>Bilinear</source>
-        <translation>bilineær</translation>
+        <translation>Bilineær</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="719"/>
@@ -6247,7 +6247,7 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertResize.ui" line="505"/>
         <source>Bilinear</source>
         <translatorcomment>en metode i komputer grafik for vælge farve på en struktur</translatorcomment>
-        <translation>bilineær</translation>
+        <translation>Bilineær</translation>
     </message>
 </context>
 <context>
@@ -10804,7 +10804,7 @@ Vil du fjerne dem?</translation>
         <location filename="DlgResize.ui" line="392"/>
         <source>Bilinear</source>
         <translatorcomment>en metode i komputer grafik for vælge farve på en struktur</translatorcomment>
-        <translation>bilineær</translation>
+        <translation>Bilineær</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="416"/>
@@ -16592,7 +16592,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="350"/>
         <source>Focal length (mm)</source>
-        <translation>Brændvidde</translation>
+        <translation>Brændvidde (mm)</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="369"/>
@@ -17536,7 +17536,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation>Brændvidde [mm]</translation>
+        <translation>Brændvidde (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
