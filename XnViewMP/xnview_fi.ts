@@ -5727,7 +5727,8 @@ Haluatko tallentaa muutokset?</translation>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation>Käsittelyn aikana tapahtui virhe. Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
+        <translation>Käsittelyn aikana tapahtui virhe. 
+Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
@@ -17535,7 +17536,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>10 MB of 100 MB completed</source>
-        <translation>10 MB  100 MB:stä valmiina</translation>
+        <translation>10 MB 100 MB:stä valmiina</translation>
     </message>
     <message>
         <source>0 / 1 dirs</source>
@@ -17555,7 +17556,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>100% of %1 (Done)</source>
-        <translation>100%  %1:stä (Valmis)</translation>
+        <translation>100% %1:stä (Valmis)</translation>
     </message>
     <message>
         <source>2 / 5 files</source>
@@ -17575,7 +17576,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>24% of 100MB (Copying...)</source>
-        <translation>24%  100MB:stä (Kopioidaan...)</translation>
+        <translation>24% 100MB:stä (Kopioidaan...)</translation>
     </message>
     <message>
         <source>Moving...</source>
@@ -18112,7 +18113,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <name>WriteSettingsWidget</name>
     <message>
         <source>Keep ICC profile</source>
-        <translation>Pidä ICC  profiili</translation>
+        <translation>Pidä ICC profiili</translation>
     </message>
     <message>
         <source>Keep XMP</source>
@@ -18173,7 +18174,7 @@ Do you want to keep the thumbnails?
         <translation>XnViewMP päivittää luetteloa. Se voi kestää jonkin aikaa.
 
 Haluatko säilyttää pikkukuvat?
-  (Jos valitset KYLLÄ, päivitys kestää kauemmin)</translation>
+ (Jos valitset KYLLÄ, päivitys kestää kauemmin)</translation>
     </message>
     <message>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
