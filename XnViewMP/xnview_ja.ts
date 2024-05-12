@@ -10490,7 +10490,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation>ツール&gt;プラグインを使用してインストールしてください</translation>
+        <translation>ツール › プラグインを使用してインストールしてください</translation>
     </message>
 </context>
 <context>
