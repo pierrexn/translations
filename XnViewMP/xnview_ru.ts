@@ -9377,7 +9377,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgLayout.ui" line="16"/>
         <source>Change layout...</source>
-        <translation>Изменить расположение...</translation>
+        <translation>Изменить макет...</translation>
     </message>
     <message>
         <location filename="DlgLayout.ui" line="28"/>
@@ -9690,12 +9690,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="29"/>
         <source>Layout</source>
-        <translation>Расположение</translation>
+        <translation>Макет</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="35"/>
         <source>Page layout</source>
-        <translation>Расположение изображения</translation>
+        <translation>Разметка страницы</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="42"/>
@@ -11272,7 +11272,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
         <source>Use tooltips</source>
-        <translation>Использовать всплывающие подсказки</translation>
+        <translation>Показывать всплывающие подсказки</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="64"/>
@@ -11733,7 +11733,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="176"/>
         <location filename="DlgSettingsCache.ui" line="216"/>
         <source>MiB</source>
-        <translation>МБ</translation>
+        <translation>МиБ</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="206"/>
@@ -12529,7 +12529,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="702"/>
         <source>Lossless transformations</source>
-        <translation>При преобразование без потерь</translation>
+        <translation>При преобразовании без потерь</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="709"/>
@@ -14962,7 +14962,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStrip.ui" line="40"/>
         <source>Layout</source>
-        <translation>Расположение</translation>
+        <translation>Разметка страницы</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="59"/>
@@ -18974,42 +18974,42 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="12"/>
         <source>Layout 1</source>
-        <translation>Расположение 1</translation>
+        <translation>Макет 1</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="13"/>
         <source>Layout 2</source>
-        <translation>Расположение 2</translation>
+        <translation>Макет 2</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="14"/>
         <source>Layout 3</source>
-        <translation>Расположение 3</translation>
+        <translation>Макет 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="15"/>
         <source>Layout 4</source>
-        <translation>Расположение 4</translation>
+        <translation>Макет 4</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="16"/>
         <source>Layout 5</source>
-        <translation>Расположение 5</translation>
+        <translation>Макет 5</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="17"/>
         <source>Layout 6</source>
-        <translation>Расположение 6</translation>
+        <translation>Макет 6</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="18"/>
         <source>Layout 7</source>
-        <translation>Расположение 7</translation>
+        <translation>Макет 7</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="19"/>
         <source>Layout 8</source>
-        <translation>Расположение 8</translation>
+        <translation>Макет 8</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="21"/>
@@ -19225,7 +19225,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel...</source>
-        <translation>Панель переключения...</translation>
+        <translation>Переключить панель...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -19369,7 +19369,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="255"/>
         <source>Save layout D</source>
-        <translation>Сохранить расположение D</translation>
+        <translation>Сохранить макет D</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="4"/>
@@ -19420,7 +19420,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="527"/>
         <source>Open in Finder</source>
-        <translation>Открыть в поисковике</translation>
+        <translation>Открыть в Finder</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="536"/>
@@ -19630,7 +19630,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="797"/>
         <source>Meta&amp;data</source>
-        <translation>Метаданные</translation>
+        <translation>&amp;Метаданные</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="798"/>
@@ -19696,43 +19696,43 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="246"/>
         <source>Restore layout A</source>
         <oldsource>Restore layout 3</oldsource>
-        <translation>Восстановить расположение A</translation>
+        <translation>Восстановить макет A</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="247"/>
         <source>Restore layout B</source>
         <oldsource>Restore layout 4</oldsource>
-        <translation>Восстановить расположение B</translation>
+        <translation>Восстановить макет B</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="248"/>
         <source>Restore layout C</source>
         <oldsource>Restore layout 5</oldsource>
-        <translation>Восстановить расположение C</translation>
+        <translation>Восстановить макет C</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="250"/>
         <source>Restore layout E</source>
         <oldsource>Save layout 1</oldsource>
-        <translation>Восстановить расположение E</translation>
+        <translation>Восстановить макет E</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="252"/>
         <source>Save layout A</source>
         <oldsource>Save layout 3</oldsource>
-        <translation>Сохранить расположение A</translation>
+        <translation>Сохранить макет A</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="253"/>
         <source>Save layout B</source>
         <oldsource>Save layout 4</oldsource>
-        <translation>Сохранить расположение B</translation>
+        <translation>Сохранить макет B</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="254"/>
         <source>Save layout C</source>
         <oldsource>Save layout 5</oldsource>
-        <translation>Сохранить расположение C</translation>
+        <translation>Сохранить макет C</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="302"/>
@@ -19748,17 +19748,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="415"/>
         <source>Selected path(s)</source>
-        <translation>Полный путь</translation>
+        <translation>Путь(и)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="416"/>
         <source>Selected filename(s)</source>
-        <translation>Имя файла</translation>
+        <translation>Имя файла(ов)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="417"/>
         <source>Selected filename(s) and path(s)</source>
-        <translation>Полный путь и имя файла</translation>
+        <translation>Путь(и) и имя файла(ов)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="443"/>
@@ -19811,12 +19811,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="249"/>
         <source>Restore layout D</source>
-        <translation>Восстановить расположение D</translation>
+        <translation>Восстановить макет D</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="256"/>
         <source>Save layout E</source>
-        <translation>Сохранить расположение E</translation>
+        <translation>Сохранить макет E</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="301"/>
@@ -20019,7 +20019,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="487"/>
         <location filename="BrowserMenu.h" line="632"/>
         <source>Layout</source>
-        <translation>Расположение областей</translation>
+        <translation>Расположение панелей</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="488"/>
@@ -20808,7 +20808,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="274"/>
         <source>Open in Finder</source>
-        <translation>Открыть в поисковике</translation>
+        <translation>Открыть в Finder</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="276"/>
@@ -21234,7 +21234,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="690"/>
         <source>Metadata</source>
-        <translation>Метаданные</translation>
+        <translation>&amp;Метаданные</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="691"/>
@@ -21692,7 +21692,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="693"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
-        <translation>Спр&amp;авка</translation>
+        <translation>&amp;Справка</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="149"/>
@@ -21741,17 +21741,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="Helper.h" line="118"/>
         <source>GiB</source>
-        <translation>ГБ</translation>
+        <translation>ГиБ</translation>
     </message>
     <message>
         <location filename="Helper.h" line="123"/>
         <source>MiB</source>
-        <translation>МБ</translation>
+        <translation>МиБ</translation>
     </message>
     <message>
         <location filename="Helper.h" line="128"/>
         <source>KiB</source>
-        <translation>КБ</translation>
+        <translation>КиБ</translation>
     </message>
     <message>
         <location filename="Helper.h" line="133"/>
@@ -23375,17 +23375,17 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="SearchField.cpp" line="1083"/>
         <source>KiB</source>
-        <translation>КБ</translation>
+        <translation>КиБ</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1084"/>
         <source>MiB</source>
-        <translation>МБ</translation>
+        <translation>МиБ</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1085"/>
         <source>GiB</source>
-        <translation>ГБ</translation>
+        <translation>ГиБ</translation>
     </message>
 </context>
 <context>
