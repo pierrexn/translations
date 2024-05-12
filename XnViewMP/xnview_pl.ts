@@ -6203,17 +6203,17 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertResize.ui" line="434"/>
         <source>Always</source>
-        <translation>- zawsze</translation>
+        <translation>Zawsze</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="439"/>
         <source>Reduce only</source>
-        <translation>- tylko zmniejszaj</translation>
+        <translation>Tylko zmniejszaj</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="444"/>
         <source>Enlarge only</source>
-        <translation>- tylko powiększaj</translation>
+        <translation>Tylko powiększaj</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="486"/>
@@ -6223,12 +6223,12 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertResize.ui" line="500"/>
         <source>Nearest Neighbour</source>
-        <translation>- najbliższe sąsiedztwo</translation>
+        <translation>Najbliższe sąsiedztwo</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="505"/>
         <source>Bilinear</source>
-        <translation>- dwuliniowe</translation>
+        <translation>Dwuliniowe</translation>
     </message>
 </context>
 <context>
@@ -11947,7 +11947,7 @@ miniatury</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="66"/>
         <source>Always</source>
-        <translation>- zawsze</translation>
+        <translation>Zawsze</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="71"/>
