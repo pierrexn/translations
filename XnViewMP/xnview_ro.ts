@@ -20023,7 +20023,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="615"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați un index transparent (≤ 8 biți)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="616"/>
@@ -20967,7 +20967,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="391"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați un index transparent (≤ 8 biți)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="392"/>
