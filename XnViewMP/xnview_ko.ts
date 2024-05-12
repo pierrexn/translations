@@ -15989,7 +15989,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation>선명한 (느림) RGB-&gt;YUV 변환</translation>
+        <translation>선명한 (느림) RGB→YUV 변환</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
