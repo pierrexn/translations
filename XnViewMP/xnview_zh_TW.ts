@@ -16469,7 +16469,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="350"/>
         <source>Focal length (mm)</source>
-        <translation>焦距 (mm)</translation>
+        <translation>焦距 (釐米)</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="369"/>
@@ -17409,7 +17409,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">焦距 [釐米]</translation>
+        <translation>焦距 (釐米)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -17425,7 +17425,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2534"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation type="unfinished">快門速度[秒]</translation>
+        <translation>快門速度 (秒)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
