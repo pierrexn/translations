@@ -10335,7 +10335,7 @@ XnViewMP를 구매해 주셔서 고맙습니다. (%1)</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation>도구 &gt; 플러그인에서 설치하십시오</translation>
+        <translation>도구 › 플러그인에서 설치하십시오</translation>
     </message>
 </context>
 <context>
