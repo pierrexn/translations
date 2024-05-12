@@ -10361,7 +10361,7 @@ Köszönjük a(z) %1 megvásárlását.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Kérem, az Eszközök › Beépülők alól telepítse</translation>
     </message>
 </context>
 <context>
@@ -23536,7 +23536,7 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
