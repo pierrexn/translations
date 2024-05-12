@@ -17485,7 +17485,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation>Goriščna razdalja [mm]</translation>
+        <translation>Goriščna razdalja (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
