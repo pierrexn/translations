@@ -2849,7 +2849,7 @@ Haluatko korvata sen?</translation>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n sekunti(a) jäljellä</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n sekunti(a) jäljellä</numerusform>
         </translation>
     </message>
     <message>
@@ -2858,7 +2858,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Finished at: </source>
-        <translation></translation>
+        <translation>Valmistui: </translation>
     </message>
     <message>
         <source>_result</source>
@@ -2880,7 +2880,7 @@ Haluatko korvata sen?</translation>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minuutti(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n minuutti(a)</numerusform>
         </translation>
     </message>
     <message>
@@ -2911,7 +2911,7 @@ Haluatko korvata sen?</translation>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minuutti(a) jäljellä</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n minuutti(a) jäljellä</numerusform>
         </translation>
     </message>
     <message>
@@ -2969,7 +2969,7 @@ Haluatko korvata sen?</translation>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n sekunti(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n sekunti(a)</numerusform>
         </translation>
     </message>
     <message>
@@ -2990,7 +2990,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Started at: </source>
-        <translation></translation>
+        <translation>Aloitettu: </translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
@@ -6738,7 +6738,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation></translation>
+        <translation>Valitse hakemisto</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -6937,7 +6937,7 @@ Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation></translation>
+        <translation>Kentän arvoja ei ladata, koska &apos;Älä lataa kenttien arvoja&apos; -valinta on käytössä</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
@@ -8354,7 +8354,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation>Bilinear</translation>
+        <translation>Bilineaarinen</translation>
     </message>
     <message>
         <source>Width</source>
@@ -9019,7 +9019,7 @@ Do you want to change the &apos;base path&apos;?</source>
         <translation>&quot;Peruspolun&quot; muuttaminen voi katkaista tietokantaan tallennettujen tiedostojen yhteyden.
 Tee se vain, jos haluat jakaa saman kansion useiden tietokoneiden välillä.
 
-Haluatko muuttaa &quot;peruspolkua&quot;</translation>
+Haluatko muuttaa &quot;peruspolkua&quot;?</translation>
     </message>
     <message>
         <source>Catalog - Remove Entries</source>
@@ -9058,7 +9058,7 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Catalog Maintenance</source>
         <translatorcomment>Katalogin ylläpito</translatorcomment>
-        <translation></translation>
+        <translation>Luettelon ylläpito</translation>
     </message>
     <message>
         <source>Some database entries with assigned Rating, 
@@ -9068,11 +9068,11 @@ Do you want to check for affected entries first?</source>
         <translation>Jotkut tietokantamerkinnät, joilla on määritetty luokitus,
 värimerkinnät, avainsanat voidaan poistaa.
 
-Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
+Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation>Etkö voi tuoda XnView Classic -luokkatietokantaa?</translation>
+        <translation>XnView Classic -kategoriatietokantaa ei voida tuoda</translation>
     </message>
 </context>
 <context>
@@ -9826,7 +9826,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Käynnistä XnViewMP järjestelmänvalvojan oikeuksilla (vain ensimmäisellä kerralla)</translation>
+        <translation>Käynnistä XnViewMP järjestelmänvalvojan oikeuksilla (vain ensimmäisellä kerralla).</translation>
     </message>
     <message>
         <source>User (System)</source>
@@ -15659,7 +15659,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Y - Year</source>
-        <translation></translation>
+        <translation>V - Vuosi</translation>
     </message>
     <message>
         <source>B - Month name (eg. february)</source>
@@ -15719,7 +15719,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>y - Year without century (00-99)</source>
-        <translation></translation>
+        <translation>v - Vuosi ilman vuosisataa (00-99)</translation>
     </message>
     <message>
         <source>IPTC - Credits</source>
@@ -16190,7 +16190,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Show green</source>
-        <translation></translation>
+        <translation>Näytä vihreä</translation>
     </message>
     <message>
         <source>Fit image to window, large only</source>
@@ -16422,7 +16422,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Show red</source>
-        <translation></translation>
+        <translation>Näytä punainen</translation>
     </message>
     <message>
         <source>Count colors used</source>
@@ -16924,7 +16924,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Updating files, please wait...</source>
-        <translation>Päivitetään tiedostoja, odota,,,</translation>
+        <translation>Päivitetään tiedostoja, odota...</translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
