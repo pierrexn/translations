@@ -2838,7 +2838,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">覆盖已有的文件?</translation>
+        <translation>覆盖文件</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3844,7 +3844,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">覆盖已有的文件?</translation>
+        <translation>覆盖文件</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -16045,7 +16045,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">使用锐利（缓慢）的 RGB-&gt;YUV 转换</translation>
+        <translation>使用锐利（缓慢）的 RGB→YUV 转换</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -17440,7 +17440,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">曝光时间[s]</translation>
+        <translation>曝光时间 (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
