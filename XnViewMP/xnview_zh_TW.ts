@@ -2824,7 +2824,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">覆蓋檔案?</translation>
+        <translation>覆蓋檔案</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -6287,7 +6287,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertSwap.ui" line="19"/>
         <source>RGB →</source>
         <oldsource>RGB ==&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
@@ -16002,7 +16002,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">使用銳化RGB(較慢)-&gt;YUV轉換</translation>
+        <translation>使用銳化RGB(較慢)→YUV轉換</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -17383,7 +17383,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">曝光時間[秒]</translation>
+        <translation>曝光時間 (秒)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -20562,31 +20562,31 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="199"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→RBG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="200"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BGR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BRG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GRB</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GBR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
