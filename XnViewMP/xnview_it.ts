@@ -256,7 +256,7 @@
     <message>
         <location filename="AboutWidget.cpp" line="266"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
-        <translation>Formati in  lettura: %1 | Formati in scrittura: %2</translation>
+        <translation>Formati in lettura: %1 | Formati in scrittura: %2</translation>
     </message>
 </context>
 <context>
@@ -491,7 +491,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4672"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation type="unfinished">Per visualizzare e convertire i file PDF/PS/EPS/AI,  XnView MP richiede che  Ghostscript %1 sia installato nel vostro sistema.</translation>
+        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnView MP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4673"/>
@@ -2063,7 +2063,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgAcquireInto.cpp" line="173"/>
         <source>An error has occurred when saving %1</source>
         <oldsource>An error occured when saving %1</oldsource>
-        <translation type="unfinished">È stato  rilevato un errore durante il savataggio di %1</translation>
+        <translation>È stato rilevato un errore durante il savataggio di %1</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="179"/>
@@ -2865,7 +2865,10 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Un file denominato %1 esiste già. Volete sovrascriverlo?</translation>
+        <translation>La destinazione ha già un file chiamato: 
+%1
+
+Si desidera sovrascriverlo?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3575,7 +3578,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">È disponibile la versione %1 di XnConvert, volete procedere verso la pagina di download?</translation>
+        <translation>È disponibile la versione %1 di XnConvert. 
+
+Volete andare alla pagina di download?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1552"/>
@@ -3670,7 +3675,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Il file di destinazione è già esistente, volete sovrascriverlo?</translation>
+        <translation>Il file di output esiste già. 
+
+Si desidera sovrascriverlo?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3887,7 +3894,10 @@ Do you want to overwrite it?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Un file denominato %1 esiste già. Volete sovrascriverlo?</translation>
+        <translation>La destinazione ha già un file chiamato: 
+%1
+
+Si desidera sovrascriverlo?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2613"/>
@@ -8397,7 +8407,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgFtp.cpp" line="516"/>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>Il file denominato %1 non  esiste.</translation>
+        <translation>Il file denominato %1 non esiste.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="550"/>
@@ -11993,7 +12003,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="42"/>
         <source>Show hidden files &amp;&amp; folders</source>
-        <translation>Mostra file &amp;&amp;  cartelle nascoste</translation>
+        <translation>Mostra file &amp;&amp; cartelle nascoste</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="196"/>
@@ -12874,7 +12884,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1271"/>
         <source>Load shortcuts</source>
-        <translation>Carica  tasti di scelta rapida</translation>
+        <translation>Carica tasti di scelta rapida</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1302"/>
@@ -13527,7 +13537,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="322"/>
         <source>Sidecar</source>
-        <translation type="unfinished">Sidecar</translation>
+        <translation>Sidecar</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
@@ -16167,7 +16177,7 @@ Volete continuare?</translation>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">Usa conversione RGB -&gt; YUV nitida (e lenta)</translation>
+        <translation>Usa conversione RGB→YUV nitida (e lenta)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -22231,7 +22241,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <location filename="MyView.cpp" line="949"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
-        <translation type="unfinished">Per visualizzare e convertire i file PDF/PS/EPS/AI,  XnView MP richiede che  Ghostscript %1 sia installato nel vostro sistema.</translation>
+        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnView MP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="950"/>
