@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Mitä uutta?</translation>
+        <translation>Mitä uutta</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -516,7 +516,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
-            <numerusform>Oletko varma että nämä %n kohteet poistetaan?</numerusform>
+            <numerusform>Oletko varma että tämä %n kohde poistetaan?</numerusform>
             <numerusform>Oletko varma että nämä %n kohteet poistetaan?</numerusform>
         </translation>
     </message>
@@ -653,7 +653,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Assign Set to selection</source>
-        <translation>Määritä rymä valinnalle...</translation>
+        <translation>Määritä rymä valinnalle</translation>
     </message>
     <message>
         <source>Unassign Set from selection</source>
@@ -905,7 +905,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Band</source>
-        <translation></translation>
+        <translation>Bändi</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -1907,7 +1907,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n tunti(a) ja </numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n tunti(a) ja </numerusform>
         </translation>
     </message>
     <message>
@@ -1998,7 +1998,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n sekunti(a) jäljellä</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n sekunti(a) jäljellä</numerusform>
         </translation>
     </message>
     <message>
@@ -2033,7 +2033,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>Select Photos: %n file(s)</source>
         <translation>
             <numerusform>Valitut kuvat: %n tiedosto(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Valitut kuvat: %n tiedosto(a)</numerusform>
         </translation>
     </message>
     <message>
@@ -2056,7 +2056,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minuutti(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n minuutti(a)</numerusform>
         </translation>
     </message>
     <message>
@@ -2079,7 +2079,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minuutti(a) jäljellä</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n minuutti(a) jäljellä</numerusform>
         </translation>
     </message>
     <message>
@@ -2112,7 +2112,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnResize toimitetaan ilmaisohjelmana yksityiseen käyttöön. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Niillä ei ole minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita.</translation>
+        <translation>&lt;br&gt;XnResize toimitetaan ilmaisohjelmana yksityiseen käyttöön. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Niillä ei ole minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
@@ -2162,7 +2162,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n sekunti(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n sekunti(a)</numerusform>
         </translation>
     </message>
     <message>
@@ -2177,7 +2177,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>%n file(s)</source>
         <translation>
             <numerusform>%n tiedosto(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n tiedosto(a)</numerusform>
         </translation>
     </message>
     <message>
@@ -14239,7 +14239,9 @@ Haluatko jatkaa?</translation>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuva muunnetaan 24-bittiseksi RGB-muodoksi (8 bittiä/kanava). 
+
+Haluatko jatkaa?</translation>
     </message>
 </context>
 <context>
@@ -14416,7 +14418,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebrea</translation>
     </message>
 </context>
 <context>
@@ -15534,7 +15536,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Luokitus &amp;&amp; Värimerkintä</translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
@@ -15542,11 +15544,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open with</source>
-        <translation type="unfinished">Avaa sovelluksessa</translation>
+        <translation>Avaa sovelluksessa</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Liitä kuvana</translation>
     </message>
 </context>
 <context>
@@ -15728,7 +15730,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source># - Numeric enumerator</source>
-        <translation type="unfinished"></translation>
+        <translation>#: Numeerinen luettelointi</translation>
     </message>
 </context>
 <context>
@@ -16519,7 +16521,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Luokitus &amp;&amp; Värimerkintä</translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
@@ -16527,7 +16529,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Draw as Snapshot (icons only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Piirrä snapshottina (vain kuvakkeet)</translation>
     </message>
     <message>
         <source>Logarithmic LUT</source>
@@ -16535,47 +16537,47 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Send by email...</source>
-        <translation type="unfinished">Lähetä sähköpostilla...</translation>
+        <translation>Lähetä sähköpostilla...</translation>
     </message>
     <message>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjennä valinta</translation>
     </message>
     <message>
         <source>Selection - set ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Valinta - aseta suhde</translation>
     </message>
     <message>
         <source>Selection - set size</source>
-        <translation type="unfinished"></translation>
+        <translation>Valinta - aseta koko</translation>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Liitä kuvana</translation>
     </message>
     <message>
         <source>Excellent (move to next image)</source>
-        <translation type="unfinished">Erinomainen (siirry seuraavaan kuvaan)</translation>
+        <translation>Erinomainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Good (move to next image)</source>
-        <translation type="unfinished">Hyvä (siirry seuraavaan kuvaan)</translation>
+        <translation>Hyvä (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Average (move to next image)</source>
-        <translation type="unfinished">Keskinkertainen (siirry seuraavaan kuvaan)</translation>
+        <translation>Keskinkertainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Fair (move to next image)</source>
-        <translation type="unfinished">Kohtuullinen (siirry seuraavaan kuvaan)</translation>
+        <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Poor (move to next image)</source>
-        <translation type="unfinished">Huono (siirry seuraavaan kuvaan)</translation>
+        <translation>Huono (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Unrated (move to next image)</source>
-        <translation type="unfinished">Luokittelematon (siirry seuraavaan kuvaan)</translation>
+        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>##label## (move to next image)</source>
@@ -16730,7 +16732,7 @@ Do you want to continue?</source>
     <name>MyBitmapView</name>
     <message>
         <source>Loading image... </source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan kuvaa... </translation>
     </message>
 </context>
 <context>
@@ -16944,7 +16946,8 @@ Do you want to continue?</source>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välimuistissa olevien pikkukuvien koko on pienempi kuin valittu.
+Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     </message>
 </context>
 <context>
@@ -18102,7 +18105,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
