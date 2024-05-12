@@ -17466,7 +17466,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">焦距[mm]</translation>
+        <translation>焦距（毫米）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -17502,7 +17502,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2539"/>
         <source>Subject Distance (m)</source>
-        <translation type="unfinished">拍摄距离[M]</translation>
+        <translation>拍摄距离 (M)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2540"/>
