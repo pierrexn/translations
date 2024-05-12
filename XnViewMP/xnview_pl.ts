@@ -16063,7 +16063,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation>Używaj wyostrzania oraz konwersji RGB -&gt; YUV (wolne)</translation>
+        <translation>Używaj wyostrzania oraz konwersji RGB→YUV (wolne)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -19828,7 +19828,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Dobry (przejdź do następnego obrazu)</translation>
+        <translation>Przeciętny (przejdź do następnego obrazu)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="464"/>
