@@ -1147,25 +1147,25 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <location filename="DlgConvertCanvas.h" line="39"/>
         <location filename="DlgConvertAutoCrop.h" line="24"/>
         <source>Top-Left</source>
-        <translation>Øverst-venstre</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.h" line="40"/>
         <location filename="DlgConvertAutoCrop.h" line="25"/>
         <source>Top-Right</source>
-        <translation>Øverst-højre</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.h" line="41"/>
         <location filename="DlgConvertAutoCrop.h" line="26"/>
         <source>Bottom-Left</source>
-        <translation>Nederst-venstre</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.h" line="42"/>
         <location filename="DlgConvertAutoCrop.h" line="27"/>
         <source>Bottom-Right</source>
-        <translation>Nederst-højre</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="167"/>
@@ -4228,25 +4228,25 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Venstre øverst</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation>Top midtstillet</translation>
+        <translation>Top-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation>Højre øverst</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation>Venstre midtstillet</translation>
+        <translation>Midten-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4257,25 +4257,25 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation>Højre midtstillet</translation>
+        <translation>Midten-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation>Venstre nederst</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation>Bund midtstillet</translation>
+        <translation>Bund-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation>Højre nederst</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -4414,25 +4414,25 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Venstre øverst</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation>Top midtstillet</translation>
+        <translation>Top-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation>Højre øverst</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation>Venstre midtstillet</translation>
+        <translation>Midten-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4443,25 +4443,25 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation>Højre midtstillet</translation>
+        <translation>Midten-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation>Venstre nederst</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation>Bund midtstillet</translation>
+        <translation>Bund-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation>Højre nederst</translation>
+        <translation>Bund-højre</translation>
     </message>
 </context>
 <context>
@@ -5942,13 +5942,13 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Venstre øverst</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation>Højre øverst</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5958,35 +5958,35 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation>Top midtstillet</translation>
+        <translation>Top-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation>Venstre midtstillet</translation>
+        <translation>Midten-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation>Højre midtstillet</translation>
+        <translation>Midten-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation>Venstre nederst</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>Bund midtstillet</translation>
+        <translation>Bund-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation>Højre nederst</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -6440,13 +6440,13 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Venstre øverst</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation>Højre øverst</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6457,19 +6457,19 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation>Venstre nederst</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>Bund midtstillet</translation>
+        <translation>Bund-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation>Højre nederst</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6532,17 +6532,17 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation>Top midtstillet</translation>
+        <translation>Top-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation>Venstre midtstillet</translation>
+        <translation>Midten-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation>Højre midtstillet</translation>
+        <translation>Midten-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6694,17 +6694,17 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation>Top midtstillet</translation>
+        <translation>Top-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation>Venstre midtstillet</translation>
+        <translation>Midten-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation>Højre midtstillet</translation>
+        <translation>Midten-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6781,13 +6781,13 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Venstre øverst</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation>Højre øverst</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6798,19 +6798,19 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation>Venstre nederst</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>Bund midtstillet</translation>
+        <translation>Bund-midten</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation>Højre nederst</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -9870,7 +9870,7 @@ Tjek at filerne ikke er read-only!</translation>
     <message>
         <location filename="DlgPrint.ui" line="559"/>
         <source>Top-Left</source>
-        <translation>Venstre øverst</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="564"/>
@@ -9880,12 +9880,12 @@ Tjek at filerne ikke er read-only!</translation>
     <message>
         <location filename="DlgPrint.ui" line="569"/>
         <source>Top-Right</source>
-        <translation>Højre øverst</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="574"/>
         <source>Center-Left</source>
-        <translation>Midten til venstre</translation>
+        <translation>Midten-venstre</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="579"/>
@@ -9895,22 +9895,22 @@ Tjek at filerne ikke er read-only!</translation>
     <message>
         <location filename="DlgPrint.ui" line="584"/>
         <source>Center-Right</source>
-        <translation>Midten til højre</translation>
+        <translation>Midten-højre</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="589"/>
         <source>Bottom-Left</source>
-        <translation>Venstre nederst</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="594"/>
         <source>Bottom-Center</source>
-        <translation>Bund-Midten</translation>
+        <translation>Bund-midten</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
-        <translation>Højre nederst</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -10870,28 +10870,28 @@ Vil du fjerne dem?</translation>
         <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Venstre øverst</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
-        <translation>Top midtstillet</translation>
+        <translation>Top-midten</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation>Venstre midtstillet</translation>
+        <translation>Midten-venstre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation>Højre midtstillet</translation>
+        <translation>Midten-højre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation>Højre øverst</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="627"/>
@@ -10902,19 +10902,19 @@ Vil du fjerne dem?</translation>
         <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation>Venstre nederst</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>Bund midtstillet</translation>
+        <translation>Bund-midten</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation>Højre nederst</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="669"/>
@@ -18339,22 +18339,22 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="123"/>
         <source>Top-Right</source>
-        <translation>Højre øverst</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="126"/>
         <source>Bottom-Left</source>
-        <translation>Venstre-nederst</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="129"/>
         <source>Bottom-Right</source>
-        <translation>Højre-nederst</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="133"/>
         <source>Top-Left</source>
-        <translation>Venstre øverst</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="150"/>
@@ -21794,25 +21794,25 @@ Vil du fortsætte?</translation>
         <location filename="DlgSettingsView.cpp" line="252"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Left</source>
-        <translation>Venstre øverste</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="253"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Top-Center</source>
-        <translation>Top midten</translation>
+        <translation>Top-midten</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="254"/>
         <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Top-Right</source>
-        <translation>Højre øverste</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="255"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
-        <translation>Midten til venstre</translation>
+        <translation>Midten-venstre</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="256"/>
@@ -21824,25 +21824,25 @@ Vil du fortsætte?</translation>
         <location filename="DlgSettingsView.cpp" line="257"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Center-Right</source>
-        <translation>Midten til højre</translation>
+        <translation>Midten-højre</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="258"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Left</source>
-        <translation>Venstre nederst</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="259"/>
         <location filename="DlgSlideshow.cpp" line="52"/>
         <source>Bottom-Center</source>
-        <translation>Bund-Midten</translation>
+        <translation>Bund-midten</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="260"/>
         <location filename="DlgSlideshow.cpp" line="53"/>
         <source>Bottom-Right</source>
-        <translation>Højre nederst</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="927"/>
@@ -22522,12 +22522,12 @@ Du kan ændre det i Indstillinger&gt;Katalog.</translation>
     <message>
         <location filename="PaintWidget.ui" line="1251"/>
         <source>Top-Left</source>
-        <translation>Øverst - venstre</translation>
+        <translation>Top-venstre</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1256"/>
         <source>Top-Right</source>
-        <translation>Øverst - højre</translation>
+        <translation>Top-højre</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1261"/>
@@ -22537,12 +22537,12 @@ Du kan ændre det i Indstillinger&gt;Katalog.</translation>
     <message>
         <location filename="PaintWidget.ui" line="1266"/>
         <source>Bottom-Left</source>
-        <translation>Bund - venstre</translation>
+        <translation>Bund-venstre</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1271"/>
         <source>Bottom-Right</source>
-        <translation>Bund - højre</translation>
+        <translation>Bund-højre</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1530"/>
