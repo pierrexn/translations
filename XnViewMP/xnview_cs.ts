@@ -2852,7 +2852,7 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Přepsat soubor?</translation>
+        <translation>Přepsat soubor</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -16104,7 +16104,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation type="unfinished">Použít ostrou (a pomalou) konverzi RGB-&gt;YUV</translation>
+        <translation>Použít ostrou (a pomalou) konverzi RGB→YUV</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -19245,7 +19245,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Good (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Slušná (přejít k dalšímu obrázku)</translation>
+        <translation>Dobrá (přejít k dalšímu obrázku)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
@@ -20959,37 +20959,37 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Nejlepší (přejít k další fotografii)</translation>
+        <translation>Nejlepší (přejít k dalšímu obrázku)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Dobrá (přejít k další fotografii)</translation>
+        <translation>Dobrá (přejít k dalšímu obrázku)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Průměrná (přejít k další fotografii)</translation>
+        <translation>Průměrná (přejít k dalšímu obrázku)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Slušná (přejít k další fotografii)</translation>
+        <translation>Slušná (přejít k dalšímu obrázku)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Špatná (přejít k další fotografii)</translation>
+        <translation>Špatná (přejít k dalšímu obrázku)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Bez hodnocení (přejít k další fotografii)</translation>
+        <translation>Bez hodnocení (přejít k dalšímu obrázku)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
