@@ -16561,7 +16561,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="350"/>
         <source>Focal length (mm)</source>
-        <translation>Distância focal [mm]</translation>
+        <translation>Distância focal (mm)</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="369"/>
@@ -17504,7 +17504,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Distância focal [mm]</translation>
+        <translation>Distância focal (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
