@@ -10271,11 +10271,11 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Browser → Fullscreen → Viewer</source>
-        <translation>Զննիչ ↔ Լիաէկրան ↔ Դիտակ</translation>
+        <translation>Զննիչ → Լիաէկրան → Դիտակ</translation>
     </message>
     <message>
         <source>Browser → Viewer → Fullscreen</source>
-        <translation>Զննիչ ↔ Դիտակ ↔ Լիաէկրան</translation>
+        <translation>Զննիչ → Դիտակ → Լիաէկրան</translation>
     </message>
     <message>
         <source>Closing last tab exits application</source>
