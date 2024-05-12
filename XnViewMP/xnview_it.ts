@@ -17559,7 +17559,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Tempo esposizione [s]</translation>
+        <translation>Tempo esposizione (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17585,7 +17585,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Lunghezza focale [mm]</translation>
+        <translation>Lunghezza focale (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
