@@ -1108,7 +1108,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="CompareWindow.cpp" line="35"/>
         <source>Right</source>
-        <translation>A destra</translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <location filename="CompareWindow.cpp" line="41"/>
@@ -2191,12 +2191,12 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgBanner.ui" line="156"/>
         <source>Center</source>
-        <translation type="unfinished">Centrato</translation>
+        <translation>Centrale</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="161"/>
         <source>Right</source>
-        <translation type="unfinished">A destra</translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="86"/>
@@ -4063,12 +4063,12 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="131"/>
         <source>Left</source>
-        <translation type="unfinished">Sinistro</translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="141"/>
         <source>Right</source>
-        <translation type="unfinished">Destro</translation>
+        <translation>Destra</translation>
     </message>
 </context>
 <context>
@@ -4239,7 +4239,7 @@ Volete continuare?</translation>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Superiore Sinistra</translation>
+        <translation>Superiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
@@ -4251,7 +4251,7 @@ Volete continuare?</translation>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Superiore Destra</translation>
+        <translation>Superiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
@@ -4262,7 +4262,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
         <source>Center</source>
-        <translation type="unfinished">Centro</translation>
+        <translation>Centrale</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="470"/>
@@ -4274,7 +4274,7 @@ Volete continuare?</translation>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Inferiore Sinistra</translation>
+        <translation>Inferiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
@@ -4286,7 +4286,7 @@ Volete continuare?</translation>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Inferiore Destra</translation>
+        <translation>Inferiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -4425,7 +4425,7 @@ Volete continuare?</translation>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Superiore Sinistra</translation>
+        <translation>Superiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
@@ -4437,42 +4437,42 @@ Volete continuare?</translation>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Superiore Destra</translation>
+        <translation>Superiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Sinistra</translation>
+        <translation>Centrale-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
         <source>Center</source>
-        <translation type="unfinished">Centrale</translation>
+        <translation>Centrale</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Destra</translation>
+        <translation>Centrale-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Inferiore Sinistra</translation>
+        <translation>Inferiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Inferiore</translation>
+        <translation>Inferiore-Centrale</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Inferiore Destra</translation>
+        <translation>Inferiore-Destra</translation>
     </message>
 </context>
 <context>
@@ -5847,12 +5847,12 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertOffset.ui" line="24"/>
         <source>Left</source>
-        <translation type="unfinished">Sinistro</translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="44"/>
         <source>Right</source>
-        <translation type="unfinished">Destro</translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="56"/>
@@ -5966,13 +5966,13 @@ Volete continuare?</translation>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Superiore Sinistra</translation>
+        <translation>Superiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Superiore Destra</translation>
+        <translation>Superiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5998,19 +5998,19 @@ Volete continuare?</translation>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Inferiore Sinistra</translation>
+        <translation>Inferiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Inferiore</translation>
+        <translation>Inferiore-Centrale</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Inferiore Destra</translation>
+        <translation>Inferiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -6464,13 +6464,13 @@ Volete continuare?</translation>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Superiore Sinistra</translation>
+        <translation>Superiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Superiore Destra</translation>
+        <translation>Superiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6481,19 +6481,19 @@ Volete continuare?</translation>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Inferiore Sinistra</translation>
+        <translation>Inferiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Inferiore</translation>
+        <translation>Inferiore-Centrale</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Inferiore Destra</translation>
+        <translation>Inferiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6807,36 +6807,36 @@ Volete continuare?</translation>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Superiore Sinistro</translation>
+        <translation>Superiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Superiore Destro</translation>
+        <translation>Superiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
         <source>Center</source>
-        <translation>Centro</translation>
+        <translation>Centrale</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Inferiore Sinistro</translation>
+        <translation>Inferiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Inferiore</translation>
+        <translation>Inferiore-Centrale</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Inferiore Destro</translation>
+        <translation>Inferiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -10464,7 +10464,7 @@ Grazie per aver acquistato %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation>Si prega di installarlo utilizzando Strumenti &gt; Plugin</translation>
+        <translation>Si prega di installarlo utilizzando Strumenti › Plugin</translation>
     </message>
 </context>
 <context>
@@ -10919,7 +10919,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Superiore Sinistra</translation>
+        <translation>Superiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="612"/>
@@ -10940,7 +10940,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Superiore Destra</translation>
+        <translation>Superiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="627"/>
@@ -10951,19 +10951,19 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Inferiore Sinistra</translation>
+        <translation>Inferiore-Sinistra</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Inferiore</translation>
+        <translation>Inferiore-Centrale</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Inferiore Destra</translation>
+        <translation>Inferiore-Destra</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="669"/>
@@ -15026,7 +15026,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgStrip.ui" line="88"/>
         <source>Center</source>
-        <translation>Centrale</translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="93"/>
@@ -15828,7 +15828,7 @@ Volete continuare?</translation>
         <location filename="DlgWriteJP2K.ui" line="101"/>
         <source>Compression rate: 1 to </source>
         <oldsource>Compression rate : 1 to </oldsource>
-        <translation>Rapporto compressione : 1 a</translation>
+        <translation>Rapporto compressione: 1 a </translation>
     </message>
     <message>
         <location filename="DlgWriteJP2K.ui" line="132"/>
@@ -19356,7 +19356,7 @@ Volete procedere?</translation>
         <location filename="DlgSettingsView.cpp" line="301"/>
         <location filename="BrowserMenu.h" line="622"/>
         <source>No fit</source>
-        <translation>Nessun adattamento </translation>
+        <translation>Nessun adattamento</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
@@ -20654,7 +20654,7 @@ Volete procedere?</translation>
     <message>
         <location filename="ViewMenu.h" line="315"/>
         <source>No fit</source>
-        <translation>Nessun adattamento </translation>
+        <translation>Nessun adattamento</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="316"/>
@@ -20803,13 +20803,13 @@ Volete procedere?</translation>
         <location filename="ViewMenu.h" line="216"/>
         <source>Left</source>
         <oldsource>To the left</oldsource>
-        <translation type="unfinished">A sinistra</translation>
+        <translation>Sinistra</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="217"/>
         <source>Right</source>
         <oldsource>To the right</oldsource>
-        <translation type="unfinished">A destra</translation>
+        <translation>Destra</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="219"/>
@@ -22725,7 +22725,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
     <message>
         <location filename="qftp.cpp" line="743"/>
         <source>Connection refused to host %1</source>
-        <translation>Connessione rifiutata al server %1 </translation>
+        <translation>Connessione rifiutata al server %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="747"/>
@@ -23256,7 +23256,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
     <message>
         <location filename="ReadSettingsWidget.cpp" line="33"/>
         <source>Camera RAW</source>
-        <translation type="unfinished">Camera RAW</translation>
+        <translation>Camera RAW</translation>
     </message>
 </context>
 <context>
@@ -23721,7 +23721,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished">PackBits</translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
