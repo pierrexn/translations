@@ -2833,7 +2833,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation>Datei überschreiben?</translation>
+        <translation>Datei überschreiben</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3852,7 +3852,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation>Datei überschreiben?</translation>
+        <translation>Datei überschreiben</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
@@ -16025,7 +16025,7 @@ Wollen Sie fortfahren?</translation>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation>Scharfe (und langsame) RGB-&gt;YUV-Konvertierung verwenden</translation>
+        <translation>Scharfe (und langsame) RGB→YUV-Konvertierung verwenden</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -17406,7 +17406,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation>Belichtungszeit [s]</translation>
+        <translation>Belichtungszeit (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
