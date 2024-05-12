@@ -4213,7 +4213,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Верх-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
@@ -4231,7 +4231,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Зліва</translation>
+        <translation>Центр-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4242,7 +4242,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Праворуч</translation>
+        <translation>Центр-Праворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
@@ -4254,7 +4254,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Низ-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
@@ -4399,7 +4399,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Верх-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
@@ -4417,7 +4417,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Зліва</translation>
+        <translation>Центр-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4428,19 +4428,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Праворуч</translation>
+        <translation>Центр-Праворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Низ-Ліворуч</translation>
+        <translation>Низ-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Низ-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
@@ -5922,7 +5922,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Верх-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
@@ -5943,12 +5943,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр-Праворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
@@ -5960,7 +5960,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Низ-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6422,7 +6422,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Верх-Зліва</translation>
+        <translation>Верх-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
@@ -6445,7 +6445,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Знизу</translation>
+        <translation>Низ-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
@@ -6519,12 +6519,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр-Праворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6682,12 +6682,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр-Праворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6787,7 +6787,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Знизу</translation>
+        <translation>Низ-Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
@@ -9849,7 +9849,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="559"/>
         <source>Top-Left</source>
-        <translation>Верх-Зліва</translation>
+        <translation>Верх-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="564"/>
@@ -9864,7 +9864,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="574"/>
         <source>Center-Left</source>
-        <translation>Центр-Зліва</translation>
+        <translation>Центр-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="579"/>
@@ -10397,7 +10397,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, встановіть його за допомогою Інструменти › Плагіни</translation>
     </message>
 </context>
 <context>
@@ -10843,7 +10843,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Верх-Зліва</translation>
+        <translation>Верх-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="612"/>
@@ -10853,12 +10853,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр-Праворуч</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
@@ -10881,7 +10881,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Знизу</translation>
+        <translation>Низ-Центр</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
@@ -18290,7 +18290,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="133"/>
         <source>Top-Left</source>
-        <translation>Верх-Зліва</translation>
+        <translation>Верх-Ліворуч</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="150"/>
@@ -21706,7 +21706,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="252"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Left</source>
-        <translation>Верх-Зліва</translation>
+        <translation>Верх-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="253"/>
@@ -21724,7 +21724,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="255"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
-        <translation>Центр-Зліва</translation>
+        <translation>Центр-Ліворуч</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="256"/>
@@ -22441,7 +22441,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1251"/>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Верх-Ліворуч</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1256"/>
