@@ -17369,7 +17369,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation>노출 시간 [s]</translation>
+        <translation>노출 시간 (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17395,7 +17395,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation>초점거리 [mm]</translation>
+        <translation>초점거리 (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
