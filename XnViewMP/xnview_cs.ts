@@ -309,7 +309,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrázek bude převeden do 24bitového RGB (8bitů na kanál)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -424,7 +424,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet jedinečných barev: %1</translation>
     </message>
 </context>
 <context>
@@ -526,7 +526,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato oblíbená položka odkazuje do neexistující složky. 
+
+Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -3902,14 +3904,18 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnost &quot;Odstranit originál&quot; je povolena
+
+Chcete pokračovat?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Výstupní název souboru bude stejný pro všechny převedené soubory. 
+
+Chcete pokračovat?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -3921,7 +3927,9 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Máte možnost &apos;zachovat původní soubor, pokud je výsledek větší&apos; a některé akce. 
+
+Chcete pokračovat?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -10414,7 +10422,7 @@ Děkujeme za zakoupení %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Nainstalujte jej pomocí Nástroje › Zásuvné moduly</translation>
     </message>
 </context>
 <context>
@@ -10434,7 +10442,9 @@ Děkujeme za zakoupení %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokud jsou v seznamu souborů detekovány doprovodné soubory, jsou automaticky přejmenovány podle názvu hlavního souboru. 
+
+Chcete je odstranit?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -11999,7 +12009,7 @@ Náhled</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Třídění</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
@@ -12009,12 +12019,12 @@ Náhled</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatický výběr první položky při vstupu do složky</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatický výběr nových souborů</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -12805,7 +12815,10 @@ Náhled</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je již přiřazeno:
+%2
+
+Chcete znovu přiřadit?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1197"/>
@@ -13973,17 +13986,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Čtverec</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorfní</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorfní</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14004,7 +14017,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlatý řez (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -15080,7 +15093,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tím dojde k přepsání oblastí souboru s tváří XMP. 
+
+Chcete pokračovat?</translation>
     </message>
 </context>
 <context>
@@ -15849,7 +15864,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Převod na barevný prostor XYB</translation>
     </message>
 </context>
 <context>
@@ -16199,7 +16214,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato oblíbená položka odkazuje do neexistující složky. 
+
+Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -18601,7 +18618,9 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Obrázek bude převeden na 24bitové RGB (8bitů na kanál). 
+
+Chcete pokračovat?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
@@ -18849,7 +18868,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebrejština</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19578,7 +19597,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit jako obrázek</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="655"/>
@@ -21193,7 +21212,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit jako obrázek</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="690"/>
@@ -21439,7 +21458,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat výběr</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="405"/>
@@ -23649,7 +23668,7 @@ Kliknutím pravým tlačítkem zobrazíte kontextovou nápovědu s akcemi.</tran
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
