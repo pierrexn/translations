@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Fair</source>
-        <translation>Regular</translation>
+        <translation>Suficiente</translation>
     </message>
     <message>
         <source>Good</source>
@@ -316,20 +316,21 @@
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>La imagen se convertirá a RGB de 24-bit (8 bits por canal)</translation>
     </message>
     <message>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de colores únicos: %1</translation>
     </message>
     <message>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea guardar los cambios en
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Saving image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardando imagen...</translation>
     </message>
 </context>
 <context>
@@ -415,7 +416,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Este favorito apunta a una carpeta que no existe. 
+
+¿Desea eliminar el favorito &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -650,11 +653,11 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Assign Set to selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Asignar Set a selección</translation>
     </message>
     <message>
         <source>Unassign Set from selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Desasignar Set de la selección</translation>
     </message>
 </context>
 <context>
@@ -1394,14 +1397,14 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation type="unfinished"></translation>
+        <translation>Logarítmica LUT</translation>
     </message>
 </context>
 <context>
     <name>ConvertThread</name>
     <message>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>ADVERTENCIA: La imagen se convertirá a RGB de 24-bit (8 bits por canal)</translation>
     </message>
 </context>
 <context>
@@ -2243,18 +2246,21 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescribir archivo</translation>
     </message>
     <message>
         <source>Destination already has a file named: 
 %1
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>El destino ya tiene un archivo llamado: 
+%1
+
+¿Desea sobrescribirlo?</translation>
     </message>
     <message>
         <source>not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>no una imagen</translation>
     </message>
 </context>
 <context>
@@ -3026,46 +3032,59 @@ Do you want to overwrite it?</source>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
-        <translation type="unfinished"></translation>
+        <translation>La %1 versión de XnConvert está disponible. 
+
+Quieres ir a la página de descarga?</translation>
     </message>
     <message>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>El fichero de salida ya existe. 
+
+¿Desea sobrescribirlo?</translation>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescribir archivo</translation>
     </message>
     <message>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>La opción &apos;Eliminar archivo original&apos; está activada.
+
+¿Desea continuar?</translation>
     </message>
     <message>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>E nomrbe del archivo de salida será el mismo para todos los archivos convertidos.
+
+¿Desea continuar?</translation>
     </message>
     <message>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiene la opción de conservar el archivo original si el resultado es mayor y algunas acciones.
+
+¿Desea continuar?</translation>
     </message>
     <message>
         <source>Destination already has a file named: 
 %1
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>El destino ya tiene un archivo llamado: 
+%1
+
+¿Desea sobrescribirlo?</translation>
     </message>
     <message>
         <source>not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>no una imagen</translation>
     </message>
 </context>
 <context>
@@ -3288,35 +3307,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished">Superior-Izquierda</translation>
+        <translation>Superior-Izquierda</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Superior-Centro</translation>
+        <translation>Superior-Centro</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished">Superior-Derecha</translation>
+        <translation>Superior-Derecha</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro-Izquierda</translation>
+        <translation>Centro-Izquierda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro-Derecha</translation>
+        <translation>Centro-Derecha</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished">Inferior-Izquierda</translation>
+        <translation>Inferior-Izquierda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Inferior-Centro</translation>
+        <translation>Inferior-Centro</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished">Inferior-Derecha</translation>
+        <translation>Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -3427,35 +3446,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished">Superior-Izquierda</translation>
+        <translation>Superior-Izquierda</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Superior-Centro</translation>
+        <translation>Superior-Centro</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished">Superior-Derecha</translation>
+        <translation>Superior-Derecha</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro-Izquierda</translation>
+        <translation>Centro-Izquierda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro-Derecha</translation>
+        <translation>Centro-Derecha</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished">Inferior-Izquierda</translation>
+        <translation>Inferior-Izquierda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Inferior-Centro</translation>
+        <translation>Inferior-Centro</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished">Inferior-Derecha</translation>
+        <translation>Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -3988,7 +4007,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
-        <translation type="unfinished"></translation>
+        <translation>Sustituir alfa para imágenes de 32 bits</translation>
     </message>
 </context>
 <context>
@@ -4366,15 +4385,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Luminance</source>
-        <translation type="unfinished">Luminancia</translation>
+        <translation>Luminancia</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+Luminancia</translation>
+        <translation>RGB+Luminancia</translation>
     </message>
 </context>
 <context>
@@ -4588,35 +4607,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished">Superior-Izquierda</translation>
+        <translation>Superior-Izquierda</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Superior-Centro</translation>
+        <translation>Superior-Centro</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished">Superior-Derecha</translation>
+        <translation>Superior-Derecha</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro-Izquierda</translation>
+        <translation>Centro-Izquierda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro-Derecha</translation>
+        <translation>Centro-Derecha</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished">Inferior-Izquierda</translation>
+        <translation>Inferior-Izquierda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Inferior-Centro</translation>
+        <translation>Inferior-Centro</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished">Inferior-Derecha</translation>
+        <translation>Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -4895,7 +4914,7 @@ Do you want to overwrite it?</source>
     <name>DlgConvertSwapClass</name>
     <message>
         <source>RGB →</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
@@ -5072,35 +5091,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished">Superior-Izquierda</translation>
+        <translation>Superior-Izquierda</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Superior-Centro</translation>
+        <translation>Superior-Centro</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished">Superior-Derecha</translation>
+        <translation>Superior-Derecha</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro-Izquierda</translation>
+        <translation>Centro-Izquierda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro-Derecha</translation>
+        <translation>Centro-Derecha</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished">Inferior-Izquierda</translation>
+        <translation>Inferior-Izquierda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Inferior-Centro</translation>
+        <translation>Inferior-Centro</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished">Inferior-Derecha</translation>
+        <translation>Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -5225,35 +5244,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished">Superior-Izquierda</translation>
+        <translation>Superior-Izquierda</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Superior-Centro</translation>
+        <translation>Superior-Centro</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished">Superior-Derecha</translation>
+        <translation>Superior-Derecha</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro-Izquierda</translation>
+        <translation>Centro-Izquierda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro-Derecha</translation>
+        <translation>Centro-Derecha</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished">Inferior-Izquierda</translation>
+        <translation>Inferior-Izquierda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Inferior-Centro</translation>
+        <translation>Inferior-Centro</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished">Inferior-Derecha</translation>
+        <translation>Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -5397,7 +5416,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Luminance</source>
-        <translation type="unfinished">Luminancia</translation>
+        <translation>Luminancia</translation>
     </message>
 </context>
 <context>
@@ -5725,7 +5744,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordar pestaña abierta</translation>
     </message>
 </context>
 <context>
@@ -6005,7 +6024,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>This is not an image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto no es un archivo de imagen</translation>
     </message>
 </context>
 <context>
@@ -6028,7 +6047,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Clasificación de Etiquetas de color</translation>
     </message>
 </context>
 <context>
@@ -6127,7 +6146,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar paleta...</translation>
     </message>
 </context>
 <context>
@@ -7155,11 +7174,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
-        <translation type="unfinished">No cargar los valores de los campos</translation>
+        <translation>No cargar los valores de los campos</translation>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordar pestaña abierta</translation>
     </message>
 </context>
 <context>
@@ -7779,11 +7798,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Colección</translation>
     </message>
     <message>
         <source>Automatically rotate (if needed)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotación automática (si es necesario)</translation>
     </message>
 </context>
 <context>
@@ -8089,7 +8108,7 @@ Gracias por su compra %1.</translation>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Instálelo con Herramientas › Plugins</translation>
     </message>
 </context>
 <context>
@@ -8110,7 +8129,9 @@ Gracias por su compra %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Los archivos complementarios se detectan en la lista de archivos y se renombran automáticamente para que sigan el nombre del archivo principal. 
+
+¿Desea eliminarlos?</translation>
     </message>
 </context>
 <context>
@@ -8165,7 +8186,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Use Regular Expression</source>
-        <translation>Usar expresión regular</translation>
+        <translation>Usar Expresión regular</translation>
     </message>
     <message>
         <source>Name lowercase</source>
@@ -8445,35 +8466,35 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished">Superior-Izquierda</translation>
+        <translation>Superior-Izquierda</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Superior-Centro</translation>
+        <translation>Superior-Centro</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished">Superior-Derecha</translation>
+        <translation>Superior-Derecha</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro-Izquierda</translation>
+        <translation>Centro-Izquierda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro-Derecha</translation>
+        <translation>Centro-Derecha</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished">Inferior-Izquierda</translation>
+        <translation>Inferior-Izquierda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Inferior-Centro</translation>
+        <translation>Inferior-Centro</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished">Inferior-Derecha</translation>
+        <translation>Inferior-Derecha</translation>
     </message>
 </context>
 <context>
@@ -8622,7 +8643,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Use Regular Expression</source>
-        <translation type="unfinished">Usar expresión regular</translation>
+        <translation>Usar Expresión regular</translation>
     </message>
 </context>
 <context>
@@ -9046,7 +9067,7 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede importar la base de datos de categorías de XnView Classic</translation>
     </message>
 </context>
 <context>
@@ -9165,11 +9186,11 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     </message>
     <message>
         <source>Import XnView Classic category db...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar categoría XnView Classic db...</translation>
     </message>
     <message>
         <source>Base path of files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta base de los archivos</translation>
     </message>
 </context>
 <context>
@@ -9396,7 +9417,7 @@ miniatura</translation>
     </message>
     <message>
         <source>Used by Filter › Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizado por Filtro › Personalizado</translation>
     </message>
 </context>
 <context>
@@ -9435,7 +9456,7 @@ miniatura</translation>
     </message>
     <message>
         <source>Show most used formats at beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar los formatos más utilizados al principio</translation>
     </message>
 </context>
 <context>
@@ -9773,7 +9794,7 @@ miniatura</translation>
     </message>
     <message>
         <source>Color management</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestión del color</translation>
     </message>
 </context>
 <context>
@@ -10243,43 +10264,43 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador ↔ Pantalla completa | Visor ↔ Pantalla completa</translation>
     </message>
     <message>
         <source>Browser ↔ Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador ↔ Visor</translation>
     </message>
     <message>
         <source>Browser → Fullscreen → Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador → Pantalla completa → Visor</translation>
     </message>
     <message>
         <source>Browser → Viewer → Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador → Visor → Pantalla completa</translation>
     </message>
     <message>
         <source>Closing last tab exits application</source>
-        <translation type="unfinished"></translation>
+        <translation>Al cerrar la última pestaña se sale de la aplicación</translation>
     </message>
     <message>
         <source>Move image</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover imagen</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permitir varias pestañas del visor para el mismo archivo</translation>
     </message>
     <message>
         <source>Select file in Browser when Viewer tab is closed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccionar archivo en el Navegador cuando se cierra la pestaña Visor</translation>
     </message>
     <message>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arrastrar y soltar: abrir una única pestaña del Visor para la lista de archivos</translation>
     </message>
     <message>
         <source>Hide Tab header when only one is opened</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ocultar la cabecera de la pestaña cuando sólo se abre una</translation>
     </message>
 </context>
 <context>
@@ -10401,27 +10422,27 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Importación automática de XMP:Subject e IPTC:Keywords clave a las categorías del catálogo</translation>
     </message>
     <message>
         <source>Write categories into images as hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir categorías en imágenes como palabras clave jerárquicas</translation>
     </message>
     <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Asignar automáticamente la Categoría padre (Ctrl+clic sólo para la actual)</translation>
     </message>
     <message>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar categorías del catálogo a XMP:Subject e IPTC:Keywords clave</translation>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear o actualizar XMP Sidecar</translation>
     </message>
     <message>
         <source>Color labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquetas de color</translation>
     </message>
 </context>
 <context>
@@ -10543,7 +10564,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Sidecar</source>
-        <translation>Archivo Sidecar</translation>
+        <translation>Sidecar</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -10615,7 +10636,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create thumbnails for whole folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear miniaturas para toda la carpeta</translation>
     </message>
 </context>
 <context>
@@ -10965,35 +10986,35 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporción áurea (Phi)</translation>
     </message>
     <message>
         <source>Show Rating &amp;&amp; Color labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Clasificación &amp;&amp; Etiquetas de color</translation>
     </message>
     <message>
         <source>(From Settings › File list › Custom Filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Desde Configuración › Lista de archivos › Filtro personalizado)</translation>
     </message>
     <message>
         <source>Draw multi-resolution icons as Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dibujar iconos multirresolución como instantáneas</translation>
     </message>
     <message>
         <source>Border line around canvas</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Línea de borde alrededor del lienzo</translation>
     </message>
     <message>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1,00  Cuadrado</translation>
     </message>
     <message>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1,90  D4/D16 Anamórfico</translation>
     </message>
     <message>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2,00  Anamórfico</translation>
     </message>
 </context>
 <context>
@@ -11064,7 +11085,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Similar image content (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation>Contenido de imagen similar (lento)</translation>
     </message>
 </context>
 <context>
@@ -11623,7 +11644,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto puede sobreescribir zonas faciales XMP del archivo. 
+
+¿Desea continuar?</translation>
     </message>
 </context>
 <context>
@@ -11737,7 +11760,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Increment at each image by</source>
-        <translation type="unfinished"></translation>
+        <translation>Incrementar en cada imagen por</translation>
     </message>
 </context>
 <context>
@@ -12091,7 +12114,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Submuestreo</translation>
     </message>
 </context>
 <context>
@@ -12284,7 +12307,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Submuestreo</translation>
     </message>
 </context>
 <context>
@@ -12386,11 +12409,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Compression for black&amp;white image</source>
-        <translation type="unfinished"></translation>
+        <translation>Compresión de imágenes empreto&amp;branco</translation>
     </message>
     <message>
         <source>Compression for color image</source>
-        <translation type="unfinished"></translation>
+        <translation>Compresión de imágenes colorida</translation>
     </message>
 </context>
 <context>
@@ -12457,7 +12480,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar conversión RGB→YUV nítida (pero lenta)</translation>
     </message>
 </context>
 <context>
@@ -12525,7 +12548,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Este favorito apunta a una carpeta que no existe. 
+
+¿Desea eliminar el favorito &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -13086,7 +13111,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Submuestreo</translation>
     </message>
 </context>
 <context>
@@ -13646,15 +13671,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Exposure Time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de exposición (s)</translation>
     </message>
     <message>
         <source>Focal length (mm)</source>
-        <translation type="unfinished">Distancia focal (mm)</translation>
+        <translation>Distancia focal (mm)</translation>
     </message>
     <message>
         <source>Shutter speed (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad obturador (s)</translation>
     </message>
 </context>
 <context>
@@ -14484,7 +14509,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fair</source>
-        <translation>Regular</translation>
+        <translation>Suficiente</translation>
     </message>
     <message>
         <source>Free</source>
@@ -15504,11 +15529,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Clasificación &amp;&amp; Etiqueta de color</translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar índice de transparencia (≤ 8bits)</translation>
     </message>
     <message>
         <source>Open with</source>
@@ -15516,7 +15541,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar como imagen</translation>
     </message>
 </context>
 <context>
@@ -15698,7 +15723,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source># - Numeric enumerator</source>
-        <translation type="unfinished"></translation>
+        <translation># - Contador numérico</translation>
     </message>
 </context>
 <context>
@@ -15733,7 +15758,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fair</source>
-        <translation>Regular</translation>
+        <translation>Suficiente</translation>
     </message>
     <message>
         <source>File</source>
@@ -16465,43 +16490,43 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>RGB→RBG</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→RBG</translation>
     </message>
     <message>
         <source>RGB→BGR</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BGR</translation>
     </message>
     <message>
         <source>RGB→BRG</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BRG</translation>
     </message>
     <message>
         <source>RGB→GRB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GRB</translation>
     </message>
     <message>
         <source>RGB→GBR</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GBR</translation>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar paleta...</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Clasificación &amp;&amp; Etiqueta de color</translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar índice de transparencia (≤ 8bits)</translation>
     </message>
     <message>
         <source>Draw as Snapshot (icons only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dibujar como instantánea (sólo iconos)</translation>
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation type="unfinished"></translation>
+        <translation>Logarítmica LUT</translation>
     </message>
     <message>
         <source>Send by email...</source>
@@ -16521,7 +16546,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar como imagen</translation>
     </message>
     <message>
         <source>Excellent (move to next image)</source>
@@ -18071,7 +18096,7 @@ Clic Derecho para menú contextual con acciones.</translation>
     </message>
     <message>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
