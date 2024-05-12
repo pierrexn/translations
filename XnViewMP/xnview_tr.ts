@@ -2381,7 +2381,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Dosyanın üzerine yazılsın mı?</translation>
+        <translation>Dosyanın üzerine yaz</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -3774,7 +3774,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2610"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation type="unfinished">Dosyanın Üzerine Yazılsın mı?</translation>
+        <translation>Dosyanın üzerine yaz</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2611"/>
