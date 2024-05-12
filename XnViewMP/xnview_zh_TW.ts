@@ -10337,7 +10337,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>請使用 工具 › 插件 重新安裝</translation>
     </message>
 </context>
 <context>
@@ -21972,7 +21972,8 @@ Do you want to continue?</oldsource>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">快取中的縮圖尺寸小於選擇的大小,可於 &apos;設定&gt;目錄&apos; 選單項目中修改.</translation>
+        <translation>缓存缩略图的尺寸小于所选尺寸。
+您可以在设置 › 目录中进行更改。</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
@@ -23517,7 +23518,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
