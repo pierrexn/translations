@@ -8078,7 +8078,7 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Instale-o usando Ferramentas › Plugins</translation>
     </message>
 </context>
 <context>
@@ -18043,7 +18043,7 @@ Right Click for pop-up menu with actions.</source>
     </message>
     <message>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
