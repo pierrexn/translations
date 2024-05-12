@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>Tiedostoon &lt;%1&gt;  on vain lukuoikeudet, valitse toinen tiedostonimi.</translation>
+        <translation>Tiedostoon &lt;%1&gt; on vain lukuoikeudet, valitse toinen tiedostonimi.</translation>
     </message>
     <message>
         <source>&lt; Empty &gt;</source>
@@ -2796,7 +2796,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Save log as...</source>
-        <translation></translation>
+        <translation>Tallenna loki nimellä...</translation>
     </message>
     <message>
         <source>create error</source>
@@ -2951,7 +2951,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita</translation>
+        <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
     </message>
     <message>
         <source>: saved</source>
@@ -3026,7 +3026,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Please restart application.</source>
-        <translation>Uudelleenkäynnistä sovellus</translation>
+        <translation>Käynnistä sovellus uudelleen.</translation>
     </message>
     <message>
         <source>The %1 version of XnConvert is available. 
@@ -5513,7 +5513,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>ExifTool is not installed in AddOn folder!</source>
-        <translation>ExifToolia ei ole asennettu  AddOn-kansioon!</translation>
+        <translation>ExifToolia ei ole asennettu AddOn-kansioon!</translation>
     </message>
     <message>
         <source>Longitude</source>
@@ -7234,7 +7234,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>This parent is already a child of current category!</source>
-        <translation>Tämä pääluokka on jo nykyisen kategorian alaluokka?</translation>
+        <translation>Tämä pääluokka on jo nykyisen kategorian alaluokka!</translation>
     </message>
     <message>
         <source>Description</source>
@@ -8122,7 +8122,7 @@ Kiitos että tilasit %1.</translation>
     </message>
     <message>
         <source>Do you want to delete all your name templates?</source>
-        <translation>Haluatko poistaa kaikki nimi-mallipohjasi? </translation>
+        <translation>Haluatko poistaa kaikki nimi-mallipohjasi?</translation>
     </message>
     <message>
         <source>Companion renaming</source>
@@ -8225,7 +8225,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Clean diacritic characters</source>
-        <translation>Poista diakriittiset merkit </translation>
+        <translation>Poista diakriittiset merkit</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
@@ -8909,7 +8909,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
-        <translation>EXIF  muokkauspäivä</translation>
+        <translation>EXIF muokkauspäivä</translation>
     </message>
     <message>
         <source>View as</source>
@@ -10454,7 +10454,7 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Please restart application.</source>
         <translatorcomment>Uudelleenkäynnistä sovellus.</translatorcomment>
-        <translation></translation>
+        <translation>Käynnistä sovellus uudelleen.</translation>
     </message>
 </context>
 <context>
@@ -10505,7 +10505,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
-        <translation>Näytä 4 kuvaa videoiden esikatselukuvassa  (yhden sijaan)</translation>
+        <translation>Näytä 4 kuvaa videoiden esikatselukuvassa (yhden sijaan)</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -10513,7 +10513,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
-        <translation>Näytä 4 kuvaa kansioiden esikatselukuvassa  (yhden sijaan)</translation>
+        <translation>Näytä 4 kuvaa kansioiden esikatselukuvassa (yhden sijaan)</translation>
     </message>
     <message>
         <source>Color label</source>
@@ -10875,7 +10875,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
-        <translation>EXIF  muokkauspäivä</translation>
+        <translation>EXIF muokkauspäivä</translation>
     </message>
     <message>
         <source>Rule of thirds</source>
@@ -13676,7 +13676,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Exposure Time (s)</source>
-        <translation>Valotusaika [s]</translation>
+        <translation>Valotusaika (s)</translation>
     </message>
     <message>
         <source>Focal length (mm)</source>
@@ -14233,7 +14233,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>An error has occurred.</source>
-        <translation>Tapahtui virhe!</translation>
+        <translation>Tapahtui virhe.</translation>
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
@@ -17010,7 +17010,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     <name>PaintDialog</name>
     <message>
         <source>Do you want to exit drawing and discard your changes?</source>
-        <translation>Haluatko lopettaa piirtämisen ja hylätä tekemäsi muutokset? </translation>
+        <translation>Haluatko lopettaa piirtämisen ja hylätä tekemäsi muutokset?</translation>
     </message>
     <message>
         <source>Draw</source>
