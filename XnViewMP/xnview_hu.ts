@@ -17409,7 +17409,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2525"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation type="unfinished">Expozíciós idő [mp]</translation>
+        <translation>Expozíciós idő (mp)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2526"/>
@@ -17435,7 +17435,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2531"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
-        <translation type="unfinished">Fókusztávolság [mm]</translation>
+        <translation>Fókusztávolság (mm)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2532"/>
@@ -17451,7 +17451,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2534"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation type="unfinished">Zársebesség [mp]</translation>
+        <translation>Zársebesség (mp)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2536"/>
