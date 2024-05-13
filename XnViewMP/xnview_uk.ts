@@ -291,7 +291,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="223"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Більше не питати</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1353"/>
@@ -312,29 +312,32 @@
         <location filename="ViewWindow.cpp" line="2201"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви бажаєте відкинути ваші правки і видалити 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2207"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви впевнені, що хочете видалити 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2211"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви впевнені, що хочете видалити 
+&quot;%1&quot; (%2 елементи)?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення буде перетворено в 24-бітний RGB (8 біт на канал)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
         <source>Confirm Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити Зберегти</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2808"/>
@@ -360,7 +363,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість унікальних кольорів: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1942"/>
@@ -374,7 +377,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Ви хочете зберегти зміни у файлі &quot;%1&quot;?</translation>
+        <translation>Ви хочете зберегти зміни в
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1552"/>
@@ -1814,7 +1818,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>УВАГА: Зображення буде перетворено в 24-бітовий RGB (8 біт на канал)</translation>
     </message>
 </context>
 <context>
@@ -2207,7 +2211,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBanner.ui" line="182"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Знизу</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="187"/>
@@ -4022,12 +4026,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Edges:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Краї</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="111"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Знизу</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="121"/>
@@ -7270,7 +7274,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
         <source>Ctrl+Left</source>
-        <translation type="unfinished">Ctrl+Left</translation>
+        <translation>Ctrl+Left</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="652"/>
@@ -9388,7 +9392,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgMessage.cpp" line="23"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Більше не питати</translation>
     </message>
     <message>
         <location filename="DlgMessage.cpp" line="42"/>
@@ -11970,12 +11974,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичний вибір першого елемента при вході до папки</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичний вибір нових файлів</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -12765,7 +12769,10 @@ Thumbnail</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 вже призначено:
+%2
+
+Ви хочете перепризначити?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1197"/>
@@ -13907,7 +13914,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="684"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>(Налаштування › Список файлів › Спеціальний фільтр)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="721"/>
@@ -13932,17 +13939,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Квадратне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Анаморфне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Анаморфне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -13963,7 +13970,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Золотий перетин (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -14018,7 +14025,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="862"/>
         <source>Delay (ms)</source>
-        <translation>Затримка (мс.)</translation>
+        <translation>Затримка (мс)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="879"/>
@@ -15038,7 +15045,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Це призведе до перезапису областей XMP-обличчя у файлі. 
+
+Ви хочете продовжити?</translation>
     </message>
 </context>
 <context>
@@ -15805,7 +15814,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетворення в простір кольорів XYB</translation>
     </message>
 </context>
 <context>
@@ -18491,7 +18500,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemProcess.cpp" line="293"/>
         <source>Lossless Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрізка без втрат</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="294"/>
@@ -18551,7 +18560,8 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Зображення буде переведено в 8 бітний режим
+        <translation>Зображення буде перетворено в 24-бітний RGB (8 біт на канал). 
+
 Бажаєте продовжити?</translation>
     </message>
     <message>
@@ -19359,14 +19369,14 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="304"/>
         <location filename="BrowserMenu.h" line="624"/>
         <source>Fit image to window, large only</source>
-        <translation>Підганяти зображення під розмір вікна, тільки якщо воно більше розміру вікна</translation>
+        <translation>Підганяти зображення під розмір вікна, тільки велике</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="303"/>
         <location filename="BrowserMenu.h" line="625"/>
         <source>Fit image to window, small only</source>
-        <translation>Підігнати зображення під розмір вікна, тільки якщо воно менше розміру вікна</translation>
+        <translation>Підганяти зображення під розмір вікна, тільки маленьке</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
@@ -19443,7 +19453,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="527"/>
         <source>Open in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрийте у Finder</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="536"/>
@@ -19720,7 +19730,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (перехід до наступного зображення)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
@@ -20094,12 +20104,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="529"/>
         <source>Open in file explorer</source>
-        <translation>Відкрити файл у провіднику</translation>
+        <translation>Відкрити у провіднику</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="531"/>
         <source>Open all selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити всі вибрані</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="533"/>
@@ -20119,7 +20129,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Show source panels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показати вихідні панелі</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
@@ -20155,7 +20165,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="572"/>
         <source>Find similar files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайти схожі файли...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="573"/>
@@ -20536,27 +20546,27 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="316"/>
         <source>Fit image to window</source>
-        <translation>Підігнати зображення під розмір вікна</translation>
+        <translation>Підганяти зображення під розмір вікна</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="317"/>
         <source>Fit image to window, large only</source>
-        <translation>Підігнати зображення під розмір вікна, тільки якщо воно більше розміру вікна</translation>
+        <translation>Підганяти зображення під розмір вікна, тільки велике</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Fit image to window width</source>
-        <translation>Підігнати зображення під ширину вікна</translation>
+        <translation>Підганяти зображення під ширину вікна</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="320"/>
         <source>Fit image to window height</source>
-        <translation>Підігнати зображення під висоту вікна</translation>
+        <translation>Підганяти зображення під висоту вікна</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="321"/>
         <source>Fit image to window width or height</source>
-        <translation>Підігнати зображення під ширину або висоту вікна</translation>
+        <translation>Підганяти зображення під ширину або висоту вікна</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
@@ -20613,7 +20623,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="318"/>
         <source>Fit image to window, small only</source>
-        <translation>Підігнати зображення під розмір вікна, тільки якщо воно менше розміру вікна</translation>
+        <translation>Підганяти зображення під розмір вікна, тільки маленьке</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="305"/>
@@ -20630,25 +20640,25 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="200"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BGR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="201"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→BRG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="202"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GRB</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="203"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>RGB→GBR</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="208"/>
@@ -20686,7 +20696,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="219"/>
         <source>Bottom</source>
         <oldsource>To the bottom</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Знизу</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="266"/>
@@ -20716,12 +20726,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="274"/>
         <source>Open in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрийте у Finder</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="276"/>
         <source>Open in file explorer</source>
-        <translation>Відкрити файл у провіднику</translation>
+        <translation>Відкрити у провіднику</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="278"/>
@@ -20939,7 +20949,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>##label## (перехід до наступного зображення)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
@@ -23704,7 +23714,7 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="1674"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Більше не питати</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3106"/>
