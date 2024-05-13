@@ -11996,7 +11996,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenação</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
@@ -12006,12 +12006,12 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção automática do primeiro item ao entrar na pasta</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção automática de novos ficheiros</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -12800,7 +12800,10 @@ Miniatura</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 já está atribuído a:
+%2
+
+Pretende reatribuir?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1197"/>
@@ -14008,17 +14011,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Quadrado</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamórfico</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamórfico</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14039,7 +14042,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Razão áurea (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -15073,7 +15076,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Isso irá substituir as regiões de rostos do ficheiro.
+
+Deseja continuar?</translation>
     </message>
 </context>
 <context>
@@ -15840,7 +15845,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter para o espaço de cores XYB</translation>
     </message>
 </context>
 <context>
@@ -18587,7 +18592,8 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Este ficheiro vai ser convertido a 8 bits por componente
+        <translation>A imagem será convertida para RGB de 24-bit (8 bits por canal). 
+
 Deseja continuar?</translation>
     </message>
     <message>
