@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de cores exclusivas: %1</translation>
     </message>
     <message>
         <source>Do you want to save changes to
@@ -14126,7 +14126,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>A operação sem perdas JPEG irá modificar o arquivo original e pode rá remover alguns pixels não usados (largura e altura devem ser múltiplos de 8 pixels)
+        <translation>A operação sem perdas JPEG irá modificar o arquivo original e pode rá remover alguns pixels não usados (largura e altura devem ser múltiplos de 8 pixels)!
+
 Você quer continuar?</translation>
     </message>
     <message>
@@ -14338,7 +14339,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>&lt;Autodetect&gt;</source>
-        <translation>Detecção automática</translation>
+        <translation>&lt;Detecção automática&gt;</translation>
     </message>
     <message>
         <source>Estonian</source>
