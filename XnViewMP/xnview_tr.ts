@@ -11916,12 +11916,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasöre girildiğinde ilk öğeyi otomatik seç</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni dosyaları otomatik seç</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -12708,7 +12708,10 @@ Thumbnail</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 zaten atanmış:
+%2
+
+Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1197"/>
@@ -13808,7 +13811,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Altın oran (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="803"/>
@@ -13957,17 +13960,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Kare</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorfik</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorfik</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14975,7 +14978,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu, XMP yüzünün dosyanın bölgelerinin üzerine yazar. 
+
+Devam etmek istiyor musunuz?</translation>
     </message>
 </context>
 <context>
@@ -15741,7 +15746,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>XYB renk uzayına dönüştürme</translation>
     </message>
 </context>
 <context>
@@ -18480,7 +18485,8 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Bu resim bileşen başına 8 bit olarak dönüştürülecektir.
+        <translation>Görüntü 24-bit RGB&apos;ye dönüştürülecektir (kanal başına 8 bit). 
+
 Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
@@ -18733,7 +18739,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
         <source>&lt;Autodetect&gt;</source>
-        <translation>Otomatik Bul</translation>
+        <translation>&lt;Otomatik Bul&gt;</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="83"/>
