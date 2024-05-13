@@ -11249,7 +11249,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsView.h" line="16"/>
         <source>View</source>
-        <translation>Режим просмотра</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
@@ -11535,7 +11535,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="260"/>
         <source>Lossless (ZIP)</source>
-        <translation>Без потерь ( ZIP)</translation>
+        <translation>Без потерь (ZIP)</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="261"/>
@@ -12800,13 +12800,13 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="507"/>
         <source>Browse mode</source>
-        <translation>Режим обозревателя</translation>
+        <translation>Обозреватель</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="508"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
-        <translation>Режим просмотра</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="785"/>
@@ -12937,7 +12937,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1218"/>
         <source>Browser</source>
         <oldsource>Browse mode</oldsource>
-        <translation>Режим обозревателя</translation>
+        <translation>Обозреватель</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="601"/>
@@ -13099,7 +13099,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="861"/>
         <location filename="DlgSettingsInterface.ui" line="1225"/>
         <source>Viewer</source>
-        <translation>Режим просмотра</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="638"/>
@@ -13231,7 +13231,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation>Обозреватель ↔ Полноэкранный режим | Режим просмотра ↔ Полноэкранный режим</translation>
+        <translation>Обозреватель ↔ Полноэкранный режим | Просмотр ↔ Полноэкранный режим</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13239,7 +13239,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2028"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation>Обозреватель ↔ Режим просмотра</translation>
+        <translation>Обозреватель ↔ Просмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1948"/>
@@ -13247,7 +13247,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation>Обозреватель → Полноэкранный режим → Режим просмотра</translation>
+        <translation>Обозреватель → Полноэкранный режим → Просмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13255,7 +13255,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation>Обозреватель → Режим просмотра → Полноэкранный режим</translation>
+        <translation>Обозреватель → Просмотр → Полноэкранный режим</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -13832,7 +13832,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>View</source>
-        <translation>Режим просмотра</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
