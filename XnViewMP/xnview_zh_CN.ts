@@ -3910,7 +3910,9 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>您可以选择 &quot;如果结果较大，则保留原始文件 &quot;和一些操作。
+
+您想继续吗？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
