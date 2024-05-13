@@ -18567,7 +18567,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
 Do you want to continue?</source>
         <translation>JPEG tabsfrie operationer vil ændre oprindelige fil(er), og kan fjerne nogle ubrugte pixels (bredde og højde skal være multipla af 8 pixler)!
 
- Vil du fortsætte?</translation>
+Vil du fortsætte?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="318"/>
