@@ -18664,8 +18664,9 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Questa immagine sarà convertita in 8bit per componente
-Volete procedere?</translation>
+        <translation>L&apos;immagine verrà convertita in RGB a 24-bit (8 bit per canale). 
+
+Volete continuare?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
