@@ -14185,7 +14185,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>JPEG-ի առանց կորստի գործողությունը կփոփոխի սկզբնական ֆայլերը և կարող է ջնջի որոշ չօգտագործվող փիքսելներ  (լայ-ը և բարձր-ը պետք է լինի 8 փիքսելից շատ)։
+        <translation>JPEG-ի առանց կորստի գործողությունը կփոփոխի սկզբնական ֆայլերը և կարող է ջնջի որոշ չօգտագործվող փիքսելներ (լայ-ը և բարձր-ը պետք է լինի 8 փիքսելից շատ)։
+
 Շարունակե՞լ։</translation>
     </message>
     <message>
