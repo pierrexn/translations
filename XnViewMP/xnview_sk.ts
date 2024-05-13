@@ -333,7 +333,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet jedinečných farieb: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -385,7 +385,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrázok sa prevedie na 24-bitový RGB (8 bitov na kanál)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -1809,7 +1809,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">UPOZORNENIE: Obrázok bude skonvertovaný do RGB v 8 bitoch na komponent</translation>
+        <translation type="unfinished">UPOZORNENIE: Obrázok sa prevedie na 24-bitový RGB (8 bitov na kanál)</translation>
     </message>
 </context>
 <context>
@@ -11953,12 +11953,12 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatický výber prvej položky pri vstupe do priečinka</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatický výber nových súborov</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -12746,7 +12746,10 @@ Miniatúru</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je už priradené:
+%2
+
+Chcete ho priradiť znova?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1197"/>
@@ -13921,17 +13924,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Štvorcový</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorfný</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorfný</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -13952,7 +13955,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zlatý rez (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -15014,7 +15017,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Týmto sa prepíšu XMP face oblasti súboru. 
+
+Chcette pokračovať?</translation>
     </message>
 </context>
 <context>
@@ -15780,7 +15785,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Konvertovať do farebného priestoru XYB</translation>
     </message>
 </context>
 <context>
@@ -15867,7 +15872,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
-        <translation>Typ  kompresie</translation>
+        <translation>Typ kompresie</translation>
     </message>
     <message>
         <location filename="DlgWritePDF.ui" line="23"/>
@@ -18518,7 +18523,8 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Tento obrázok bude konvertovaný v 8 bitoch na komponent
+        <translation>Obrázok sa prevedie na 24-bitový RGB (8 bitov na kanál). 
+
 Chcete pokračovať?</translation>
     </message>
     <message>
