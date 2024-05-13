@@ -13824,12 +13824,12 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="684"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>(Din Setări › Lista fișierelor › Filtru personalizat)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Raportul de aur (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="803"/>
