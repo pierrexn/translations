@@ -18767,6 +18767,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 
 Do you want to continue?</source>
         <translation>JPEGロスレス操作は元のファイルを更新します。使われていないピクセル(幅と高さは８ピクセルの倍数でなければならない）を除去するかもしれません。
+
 続けてよろしいですか？</translation>
     </message>
     <message>
