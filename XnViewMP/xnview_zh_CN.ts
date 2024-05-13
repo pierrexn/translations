@@ -18501,7 +18501,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>JPEG无损操作会修改源文件，也可能移除一些未使用的像素（高度和宽度必须是8的倍数）！确定要继续吗？</translation>
+        <translation>JPEG无损操作会修改源文件，也可能移除一些未使用的像素（高度和宽度必须是8的倍数）！
+
+确定要继续吗？</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="318"/>
