@@ -331,7 +331,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainulaadsete värvide arv: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -365,7 +365,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="223"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ärge küsige uuesti</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1552"/>
@@ -382,7 +382,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilt konverteeritakse 24-bitiseks RGB-ks (8 bitti kanali kohta)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -9345,12 +9345,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgMessage.cpp" line="23"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ärge küsige uuesti</translation>
     </message>
     <message>
         <location filename="DlgMessage.cpp" line="42"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ära näita uuesti</translation>
     </message>
     <message>
         <location filename="DlgMessage.cpp" line="77"/>
@@ -11912,22 +11912,22 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sorteerimine</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valik</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaatne valik esimese elemendi sisenemisel kausta</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Uute failide automaatne valimine</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -13870,12 +13870,12 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="684"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>(Seadistustest › Faililoendist › Kohandatud filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="721"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Valik</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="729"/>
@@ -13895,17 +13895,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Ruut</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorfne</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorfne</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -13926,7 +13926,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuldne suhe (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -14443,7 +14443,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSizeEdit.ui" line="61"/>
         <source>pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>piksel</translation>
     </message>
     <message>
         <location filename="DlgSizeEdit.ui" line="66"/>
@@ -14910,7 +14910,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStrip.ui" line="246"/>
         <source>pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>piksel</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="251"/>
@@ -14988,7 +14988,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>See kirjutab XMP-faili näo piirkonnad üle. 
+
+Kas soovite jätkata?</translation>
     </message>
 </context>
 <context>
@@ -15754,7 +15756,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Konverteerimine XYB värviruumi</translation>
     </message>
 </context>
 <context>
@@ -18494,7 +18496,8 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Pilt teisendatakse 8bitisteks komponentideks.
+        <translation>Pilt konverteeritakse 24-bitiseks RGB-formaadiks (8 bitti iga kanali kohta). 
+
 Kas soovite jätkata?</translation>
     </message>
     <message>
@@ -19067,7 +19070,7 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Navigate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigeerige aadressile</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="521"/>
@@ -19077,37 +19080,37 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="BrowserMenu.h" line="551"/>
         <source>Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 90° paremale</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
         <source>Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 90° vasakule</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="555"/>
         <source>Rotate 90° right (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 90° paremale (kadudeta)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="556"/>
         <source>Rotate 90° left (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 90° vasakule (kadudeta)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="557"/>
         <source>Rotate 180° (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 180° (kadudeta)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="560"/>
         <source>Flip horizontally (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flip horisontaalselt (kadudeta)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="561"/>
         <source>Flip vertically (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flip vertikaalselt (kadudeta)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="570"/>
@@ -19117,17 +19120,17 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="BrowserMenu.h" line="580"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF pisipilt - Pööra 90° vasakule</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="581"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF pisipilt - Pööra 90° paremale</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>EXIF Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF pisipilt</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="607"/>
@@ -19208,7 +19211,7 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="BrowserMenu.h" line="531"/>
         <source>Open all selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava kõik valitud</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -19814,42 +19817,42 @@ Kas soovite jätkata?</translation>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Suurepärane (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hea (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Keskmine (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Rahuldav (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="464"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kehv (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hindamata (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="487"/>
@@ -20044,7 +20047,7 @@ Kas soovite jätkata?</translation>
         <location filename="BrowserMenu.h" line="553"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate counter clockwise</oldsource>
-        <translation type="unfinished">Pööra kellaosutile vastu</translation>
+        <translation>Pööra 180°</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="562"/>
@@ -20832,43 +20835,43 @@ Kas soovite jätkata?</translation>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Suurepärane (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hea (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Keskmine (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Rahuldav (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kehv (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hindamata (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>##label## (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
@@ -20974,7 +20977,7 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="ViewMenu.h" line="390"/>
         <source>Navigate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigeerige aadressile</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="391"/>
@@ -21308,18 +21311,18 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="ViewMenu.h" line="453"/>
         <source>Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 90° paremale</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
-        <translation type="unfinished">Pööra 180° {180�?}</translation>
+        <translation>Pööra 180°</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="455"/>
         <source>Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 90° vasakule</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="457"/>
@@ -21334,27 +21337,27 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="ViewMenu.h" line="486"/>
         <source>Rotate 90° right (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 90° paremale (kadudeta)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
         <source>Rotate 90° left (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 90° vasakule (kadudeta)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="488"/>
         <source>Rotate 180° (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pööra 180° (kadudeta)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="491"/>
         <source>Flip horizontally (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flip horisontaalselt (kadudeta)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Flip vertically (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flip vertikaalselt (kadudeta)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
@@ -21394,7 +21397,7 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Puhasta valik</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="292"/>
@@ -21767,7 +21770,7 @@ Kas soovite jätkata?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image... </source>
         <oldsource>Loading picture... </oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pildi laadimine... </translation>
     </message>
 </context>
 <context>
@@ -23626,7 +23629,7 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="1674"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ärge küsige uuesti</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3106"/>
