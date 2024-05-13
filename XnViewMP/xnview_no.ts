@@ -179,7 +179,7 @@
     <message>
         <location filename="AboutWidget.ui" line="138"/>
         <source>INI filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">INI-filnavn</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="354"/>
@@ -299,39 +299,42 @@
         <location filename="ViewWindow.cpp" line="2201"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vil du forkaste endringene dine og slette 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2207"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Er du sikker på at du vil slette 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2211"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Er du sikker på at du vil slette 
+&quot;%1&quot; (%2 elementer)?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
         <source>Confirm Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bekreft Lagre</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2808"/>
         <source>&lt;%1&gt; already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;%1&gt; finnes allerede!</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2808"/>
         <source>Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vil du overskrive den?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Antall unike farger: %1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="207"/>
@@ -351,12 +354,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
         <source>Save &amp;as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagre &amp;som...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="219"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lagre</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="220"/>
@@ -383,7 +386,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildet konverteres til 24-bit RGB (8 bit per kanal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
@@ -7141,7 +7144,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="119"/>
         <source>Public domain</source>
-        <translation type="unfinished"></translation>
+        <translation>Offentlig eiendom</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="169"/>
@@ -7166,7 +7169,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="248"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruk overordnede kategorier</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="256"/>
@@ -11925,12 +11928,12 @@ Miniatyrbilde</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velg automatisk første element når du går inn i mappen</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk valg av nye filer</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -11945,7 +11948,7 @@ Miniatyrbilde</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koble sammen ledsagerfiler for følgende handlinger</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
@@ -11960,7 +11963,7 @@ Miniatyrbilde</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="226"/>
         <source>Association list (use ; as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Assosiasjonsliste (bruk ; som skilletegn)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
@@ -12718,7 +12721,10 @@ Miniatyrbilde</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 er allerede tilordnet til:
+%2
+
+Ønsker du å tilordne på nytt?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1197"/>
@@ -13862,7 +13868,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="684"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>(fra Innstillinger › Filliste › Egendefinert filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="921"/>
@@ -13924,17 +13930,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Kvadrat</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorfisk</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorfisk</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -13955,7 +13961,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Det gylne snitt (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -14987,7 +14993,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dette vil overskrive XMP-fjesets regioner i filen. 
+
+Vil du fortsette?</translation>
     </message>
 </context>
 <context>
@@ -15753,7 +15761,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Konverter til XYB-fargeområde</translation>
     </message>
 </context>
 <context>
@@ -18491,7 +18499,8 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">Dette bildet vil bli konvertert i 8 biter per komponent
+        <translation>Bildet konverteres til 24-bit RGB (8 bit per kanal). 
+
 Er du sikker på at du vil fortsette?</translation>
     </message>
     <message>
