@@ -13840,7 +13840,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aranymetszés (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="803"/>
@@ -13989,17 +13989,17 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  Négyzet</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamorphic</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamorphic</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -15007,7 +15007,9 @@ Szeretné újratársítani?</translation>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Felülírja a fájl XMP arc-régióit. 
+
+Biztos folytassuk?</translation>
     </message>
 </context>
 <context>
@@ -15774,7 +15776,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>XYB színtérré konvertálás</translation>
     </message>
 </context>
 <context>
@@ -18512,7 +18514,8 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">A kép 8 bit per komponensűvé lesz konvertálva
+        <translation>A képet 24 bites RGB-be (csatornánként 8 bit) konvertáljuk. 
+
 Biztosan folytassuk?</translation>
     </message>
     <message>
