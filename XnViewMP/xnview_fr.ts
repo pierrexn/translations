@@ -1276,7 +1276,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2572"/>
         <source>Aspect Pad</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aspect Pad</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2631"/>
@@ -7186,7 +7186,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgEditXMP.ui" line="248"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Appliquer les catégories de parents</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="256"/>
