@@ -307,7 +307,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">Voleu desar els canvis a &apos;%1&apos;?</translation>
+        <translation>Voleu desar els canvis a
+&quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
@@ -350,7 +351,8 @@
         <location filename="ViewWindow.cpp" line="2201"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation>Voleu descartar i anular les vostres edicions&quot;%1&quot;?</translation>
+        <translation>Voleu descartar i anular les vostres edicions
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2207"/>
@@ -369,7 +371,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2789"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>La imatge es convertirà a RGB de 24-bit (8 bits per canal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -419,7 +421,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4202"/>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de colors únics: %1</translation>
     </message>
 </context>
 <context>
@@ -521,7 +523,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest favorit apunta a una carpeta que no existeix.
+
+Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -623,7 +627,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation>Feu clic per filtrar-useu Maj+Ctrl pes a seleccions múltiples.
+        <translation>Feu clic per filtrar-useu Shift+Ctrl pes a seleccions múltiples.
 Clic dret en ítems diferents per a menús emergents amb accions.
 Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
     </message>
@@ -3724,7 +3728,9 @@ Do you want to overwrite it?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Teniu l&apos;opció &quot;conserva el fitxer original si el resultat és més gran&quot; i algunes accions.
+
+Vols continuar?</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2304"/>
@@ -3892,14 +3898,18 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;opció &quot;Suprimeix l&apos;original&quot; està activada
+
+Vols continuar?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom del fitxer de sortida serà el mateix per a tots els fitxers convertits. 
+
+Voleu continuar?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
@@ -10381,7 +10391,9 @@ Gràcies per comprar %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxers similars detectats en la llista de fitxers, seran reanomenats per acordar amb el nom del fitxer principal.
+
+Voleu suprimir-los?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -11928,7 +11940,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Classificació</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
@@ -11938,17 +11950,17 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu automàticament el primer element en entrar a la carpeta</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecció automàtica de fitxers nous</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished"></translation>
+        <translation>Veure com</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
@@ -12731,7 +12743,10 @@ Thumbnail</source>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ja està assignat a:
+%2
+
+Vols reassignar?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1197"/>
@@ -13046,7 +13061,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1664"/>
         <location filename="DlgSettingsInterface.ui" line="1808"/>
         <source>Shift</source>
-        <translation>Maj</translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1727"/>
@@ -13905,17 +13920,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation type="unfinished"></translation>
+        <translation>1.00  plaça</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>1.90  D4/D16 Anamòrfic</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation type="unfinished"></translation>
+        <translation>2.00  Anamòrfica</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -13987,7 +14002,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporció àuria (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="776"/>
@@ -14999,7 +15014,9 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Això sobreescriurà les regions de la cara XMP del fitxer.
+
+Vols continuar?</translation>
     </message>
 </context>
 <context>
@@ -15765,7 +15782,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="222"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Converteix a espai de color XYB</translation>
     </message>
 </context>
 <context>
@@ -16115,7 +16132,9 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest favorit apunta a una carpeta que no existeix.
+
+Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -18451,7 +18470,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>Atenció, aplicar una transformació JEPG sense pèrdua modificarà el fitxer original i eliminara alguns píxels no usats (amplada i alçada han de ser múltiples de 8 píxels!)!
+        <translation>Atenció, aplicar una transformació JEPG sense pèrdua modificarà el fitxer original i eliminara alguns píxels no usats (amplada i alçada han de ser múltiples de 8 píxels)!
+
 Voleu continuar?</translation>
     </message>
     <message>
@@ -18502,7 +18522,9 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">La imatge serà convertida a 8 bits per component. Voleu continuar?</translation>
+        <translation>La imatge es convertirà a RGB de 24-bit (8 bits per canal).
+
+Vols continuar?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
@@ -18756,7 +18778,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebreu</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19156,7 +19178,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Enganxa com a imatge</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -19993,7 +20015,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="488"/>
         <source>View as</source>
         <oldsource>Preview pane</oldsource>
-        <translation>Panell vista prèvia</translation>
+        <translation>Veure com</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="489"/>
@@ -21100,7 +21122,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Esborra la selecció</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="420"/>
@@ -21380,7 +21402,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Enganxa com a imatge</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
