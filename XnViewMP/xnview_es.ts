@@ -14234,7 +14234,9 @@ Do you want to continue?</source>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>La imagen se convertirá a RGB de 24-bit (8 bits por canal). 
+
+¿Desea continuar?</translation>
     </message>
 </context>
 <context>
@@ -14411,7 +14413,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebreo</translation>
     </message>
 </context>
 <context>
@@ -16534,15 +16536,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar selección</translation>
     </message>
     <message>
         <source>Selection - set ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Selección - establecer ratio</translation>
     </message>
     <message>
         <source>Selection - set size</source>
-        <translation type="unfinished"></translation>
+        <translation>Selección - establecer tamaño</translation>
     </message>
     <message>
         <source>Paste as image</source>
@@ -16725,7 +16727,7 @@ Do you want to continue?</source>
     <name>MyBitmapView</name>
     <message>
         <source>Loading image... </source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando imagen... </translation>
     </message>
 </context>
 <context>
