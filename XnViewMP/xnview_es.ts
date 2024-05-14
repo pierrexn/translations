@@ -16576,7 +16576,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##label## (move to next image)</source>
-        <translation>##etiqueta## (pasar a la siguiente imagen)</translation>
+        <translation>##label## (pasar a la siguiente imagen)</translation>
     </message>
 </context>
 <context>
