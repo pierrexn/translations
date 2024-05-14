@@ -10288,19 +10288,19 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
-        <translation type="unfinished">Permitir varias pestañas del visor para el mismo archivo</translation>
+        <translation>Permitir varias pestañas del visor para el mismo archivo</translation>
     </message>
     <message>
         <source>Select file in Browser when Viewer tab is closed</source>
-        <translation type="unfinished">Seleccionar archivo en el Navegador cuando se cierra la pestaña Visor</translation>
+        <translation>Seleccionar archivo en el Navegador cuando se cierra la pestaña Visor</translation>
     </message>
     <message>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
-        <translation type="unfinished">Arrastrar y soltar: abrir una única pestaña del Visor para la lista de archivos</translation>
+        <translation>Arrastrar y soltar: Abrir una única pestaña del Visor para la lista de archivos</translation>
     </message>
     <message>
         <source>Hide Tab header when only one is opened</source>
-        <translation type="unfinished">Ocultar la cabecera de la pestaña cuando sólo se abre una</translation>
+        <translation>Ocultar la cabecera de la pestaña cuando se abre solo una</translation>
     </message>
 </context>
 <context>
@@ -10998,11 +10998,11 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Draw multi-resolution icons as Snapshots</source>
-        <translation type="unfinished">Dibujar iconos multirresolución como instantáneas</translation>
+        <translation>Dibujar iconos con varias resoluciones como instantáneas</translation>
     </message>
     <message>
         <source>Border line around canvas</source>
-        <translation type="unfinished">Línea de borde alrededor del lienzo</translation>
+        <translation>Línea de borde alrededor del lienzo</translation>
     </message>
     <message>
         <source>1.00  Square</source>
@@ -15539,7 +15539,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open with</source>
-        <translation type="unfinished">Abrir con</translation>
+        <translation>Abrir con</translation>
     </message>
     <message>
         <source>Paste as image</source>
@@ -16532,7 +16532,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Send by email...</source>
-        <translation type="unfinished">Enviar por correo electrónico...</translation>
+        <translation>Enviar por correo electrónico...</translation>
     </message>
     <message>
         <source>Clear selection</source>
@@ -16552,31 +16552,31 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Excellent (move to next image)</source>
-        <translation type="unfinished">Excelente (pasar a la siguiente imagen)</translation>
+        <translation>Excelente (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Good (move to next image)</source>
-        <translation type="unfinished">Bueno (pasar a la siguiente imagen)</translation>
+        <translation>Bueno (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Average (move to next image)</source>
-        <translation type="unfinished">Medio (pasar a la siguiente imagen)</translation>
+        <translation>Medio (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Fair (move to next image)</source>
-        <translation type="unfinished">Suficiente (pasar a la siguiente imagen)</translation>
+        <translation>Suficiente (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Poor (move to next image)</source>
-        <translation type="unfinished">Deficiente (pasar a la siguiente imagen)</translation>
+        <translation>Deficiente (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Unrated (move to next image)</source>
-        <translation type="unfinished">Sin calificar (pasar a la siguiente imagen)</translation>
+        <translation>Sin calificar (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>##label## (move to next image)</source>
-        <translation type="unfinished">##label## (pasar a la siguiente imagen)</translation>
+        <translation>##etiqueta## (pasar a la siguiente imagen)</translation>
     </message>
 </context>
 <context>
