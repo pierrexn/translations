@@ -86,7 +86,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="430"/>
         <source>Orange</source>
-        <translation type="unfinished">Arancione</translation>
+        <translation>Arancione</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
@@ -96,12 +96,12 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
         <source>Black</source>
-        <translation type="unfinished">Nero</translation>
+        <translation>Nero</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>White</source>
-        <translation type="unfinished">Bianco</translation>
+        <translation>Bianco</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
@@ -145,7 +145,7 @@
     <message>
         <location filename="AboutWidget.ui" line="103"/>
         <source>Date</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="110"/>
