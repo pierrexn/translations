@@ -16127,7 +16127,9 @@ Biztos folytassuk?</translation>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>A kedvenc egy nem létező mappára mutat.
+
+Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
