@@ -7231,7 +7231,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgEditXMP.ui" line="573"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Utoljára megnyitott lap megnyitása</translation>
+        <translation>Megnyitott lapok megjegyzése</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -9027,7 +9027,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgIptc.ui" line="730"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Utoljára megnyitott lap megnyitása</translation>
+        <translation>Megnyitott lapok megjegyzése</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
@@ -18514,7 +18514,7 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation>A képet 24 bites RGB-be (csatornánként 8 bit) konvertáljuk. 
+        <translation>A kép 24 bites RGB-be lesz konvertálva (csatornánként 8 bit).
 
 Biztosan folytassuk?</translation>
     </message>
