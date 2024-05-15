@@ -13061,7 +13061,7 @@ Vols reassignar?</translation>
         <location filename="DlgSettingsInterface.ui" line="1664"/>
         <location filename="DlgSettingsInterface.ui" line="1808"/>
         <source>Shift</source>
-        <translation>Shift</translation>
+        <translation>Maj</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1727"/>
