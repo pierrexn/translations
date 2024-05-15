@@ -1653,7 +1653,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.cpp" line="230"/>
         <location filename="DlgFilter.cpp" line="22"/>
         <source>Average</source>
-        <translation>Средне</translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="231"/>
@@ -21239,7 +21239,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="691"/>
         <source>Effect</source>
-        <translation>Эффекты</translation>
+        <translation>&amp;Эффекты</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="418"/>
