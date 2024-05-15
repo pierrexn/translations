@@ -5886,7 +5886,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="257"/>
         <source>Wrap image around</source>
-        <translation>Обтекание изображением вокруг</translation>
+        <translation>Обернуть изображение вокруг</translation>
     </message>
 </context>
 <context>
