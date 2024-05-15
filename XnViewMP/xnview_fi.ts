@@ -2796,7 +2796,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Save log as...</source>
-        <translation>Save log as...</translation>
+        <translation>Tallenna loki nimellä...</translation>
     </message>
     <message>
         <source>create error</source>
@@ -3026,7 +3026,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Please restart application.</source>
-        <translation>Uudelleenkäynnistä sovellus</translation>
+        <translation>Uudelleenkäynnistä sovellus.</translation>
     </message>
     <message>
         <source>The %1 version of XnConvert is available. 
