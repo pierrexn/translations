@@ -22069,7 +22069,7 @@ Vous pouvez changer celle-ci dans Paramêtres › Catalogue</translation>
         <oldsource>%1 object(s)</oldsource>
         <translation>
             <numerusform>%n objet [%2 %3]</numerusform>
-            <numerusform>%n objet(s) [%2 %3]</numerusform>
+            <numerusform>%n objets [%2 %3]</numerusform>
         </translation>
     </message>
     <message>
