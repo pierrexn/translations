@@ -5,313 +5,313 @@
     <name>@default</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Fair</source>
-        <translation>Kohtuullinen</translation>
+        <translation type="unfinished">Kohtuullinen</translation>
     </message>
     <message>
         <source>Good</source>
-        <translation>Hyvä</translation>
+        <translation type="unfinished">Hyvä</translation>
     </message>
     <message>
         <source>Grey</source>
-        <translation>Harmaa</translation>
+        <translation type="unfinished">Harmaa</translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>Huono</translation>
+        <translation type="unfinished">Huono</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation>Työ</translation>
+        <translation type="unfinished">Työ</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Musta</translation>
+        <translation type="unfinished">Musta</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation>Myöhemmin</translation>
+        <translation type="unfinished">Myöhemmin</translation>
     </message>
     <message>
         <source>To Do</source>
-        <translation>Tehdään</translation>
+        <translation type="unfinished">Tehdään</translation>
     </message>
     <message>
         <source>To do</source>
-        <translation>Tehdään</translation>
+        <translation type="unfinished">Tehdään</translation>
     </message>
     <message>
         <source>White</source>
-        <translation>Valkoinen</translation>
+        <translation type="unfinished">Valkoinen</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation>Oranssi</translation>
+        <translation type="unfinished">Oranssi</translation>
     </message>
     <message>
         <source>Purple</source>
-        <translation>Violetti</translation>
+        <translation type="unfinished">Violetti</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation>Tarkastus</translation>
+        <translation type="unfinished">Tarkastus</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation>Seuraava</translation>
+        <translation type="unfinished">Seuraava</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Valinta</translation>
+        <translation type="unfinished">Valinta</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>Keltainen</translation>
+        <translation type="unfinished">Keltainen</translation>
     </message>
     <message>
         <source>Important</source>
-        <translation>Tärkeä</translation>
+        <translation type="unfinished">Tärkeä</translation>
     </message>
     <message>
         <source>Approved</source>
-        <translation>Hyväksytty</translation>
+        <translation type="unfinished">Hyväksytty</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>Keskinkertainen</translation>
+        <translation type="unfinished">Keskinkertainen</translation>
     </message>
     <message>
         <source>Excellent</source>
-        <translation>Erinomainen</translation>
+        <translation type="unfinished">Erinomainen</translation>
     </message>
     <message>
         <source>Uncolored</source>
-        <translation>Ei väriä</translation>
+        <translation type="unfinished">Ei väriä</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Luokittelematon</translation>
+        <translation type="unfinished">Luokittelematon</translation>
     </message>
     <message>
         <source>Personal</source>
-        <translation>Henkilökohtainen</translation>
+        <translation type="unfinished">Henkilökohtainen</translation>
     </message>
 </context>
 <context>
     <name>AboutWidget</name>
     <message>
         <source>Yes</source>
-        <translation>Kyllä</translation>
+        <translation type="unfinished">Kyllä</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation>Luku</translation>
+        <translation type="unfinished">Luku</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoitus</translation>
+        <translation type="unfinished">Kirjoitus</translation>
     </message>
     <message>
         <source>Command line</source>
-        <translation>Komentorivi</translation>
+        <translation type="unfinished">Komentorivi</translation>
     </message>
     <message>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
-        <translation>Formaattia luetaan: %1 | Formattia kirjoitetaan: %2</translation>
+        <translation type="unfinished">Formaattia luetaan: %1 | Formattia kirjoitetaan: %2</translation>
     </message>
     <message>
         <source>License</source>
-        <translation>Lisenssi</translation>
+        <translation type="unfinished">Lisenssi</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Mitä uutta</translation>
+        <translation type="unfinished">Mitä uutta?</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Lisäosat</translation>
+        <translation type="unfinished">Liitännäiset</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Tekijänoikeus (Copyright)</translation>
+        <translation type="unfinished">Tekijänoikeus (Copyright)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selitys</translation>
+        <translation type="unfinished">Selitys</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Kiitokset</translation>
+        <translation type="unfinished">Kiitokset</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostomuoto</translation>
+        <translation type="unfinished">Tiedostomuoto</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Yleiset</translation>
+        <translation type="unfinished">Yleiset</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Päiväys</translation>
+        <translation type="unfinished">Päiväys</translation>
     </message>
     <message>
         <source>Social</source>
-        <translation>Sosiaalinen</translation>
+        <translation type="unfinished">Sosiaalinen</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation>Sähköposti</translation>
+        <translation type="unfinished">Sähköposti</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>Verkkosivu</translation>
+        <translation type="unfinished">Verkkosivu</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>Versio</translation>
+        <translation type="unfinished">Versio</translation>
     </message>
     <message>
         <source>Forum</source>
-        <translation>Foorumi</translation>
+        <translation type="unfinished">Foorumi</translation>
     </message>
     <message>
         <source>Wiki</source>
-        <translation>Wiki</translation>
+        <translation type="unfinished">Wiki</translation>
     </message>
     <message>
         <source>INI filename</source>
-        <translation>INI-tiedostonimi</translation>
+        <translation type="unfinished">INI-tiedostonimi</translation>
     </message>
 </context>
 <context>
     <name>AboutWindow</name>
     <message>
         <source>About</source>
-        <translation>Tietoja</translation>
+        <translation type="unfinished">Tietoja</translation>
     </message>
 </context>
 <context>
     <name>AbstractViewWindow</name>
     <message>
         <source>Save</source>
-        <translation>Tallenna</translation>
+        <translation type="unfinished">Tallenna</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;Tallenna</translation>
+        <translation type="unfinished">&amp;Tallenna</translation>
     </message>
     <message>
         <source>Icon %1/%2</source>
-        <translation>Kuvake %1/%2</translation>
+        <translation type="unfinished">Kuvake %1/%2</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
     </message>
     <message>
         <source>Colors count</source>
-        <translation>Värilaskuri</translation>
+        <translation type="unfinished">Värilaskuri</translation>
     </message>
     <message>
         <source>Save &amp;as...</source>
-        <translation>Tallenna &amp;nimellä...</translation>
+        <translation type="unfinished">Tallenna &amp;nimellä...</translation>
     </message>
     <message>
         <source>Delete items</source>
-        <translation>Poista kohteet</translation>
+        <translation type="unfinished">Poista kohteet</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Ominaisuudet</translation>
+        <translation type="unfinished">Ominaisuudet</translation>
     </message>
     <message>
         <source>Page %1/%2</source>
-        <translation>Sivu %1/%2</translation>
+        <translation type="unfinished">Sivu %1/%2</translation>
     </message>
     <message>
         <source>Frame %1/%2</source>
-        <translation>Kehys %1/%2</translation>
+        <translation type="unfinished">Kehys %1/%2</translation>
     </message>
     <message>
         <source>An error occurred during saving!</source>
-        <translation>Tallennuksen aikana tapahtui virhe!</translation>
+        <translation type="unfinished">Tallennuksen aikana tapahtui virhe!</translation>
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>Tiedostoon &lt;%1&gt; on vain lukuoikeudet, valitse toinen tiedostonimi.</translation>
+        <translation type="unfinished">Tiedostoon &lt;%1&gt;  on vain lukuoikeudet, valitse toinen tiedostonimi.</translation>
     </message>
     <message>
         <source>&lt; Empty &gt;</source>
-        <translation>&lt; Tyhjä &gt;</translation>
+        <translation type="unfinished">&lt; Tyhjä &gt;</translation>
     </message>
     <message>
         <source>Save changed file</source>
-        <translation>Tallenna muutokset tiedostoon</translation>
+        <translation type="unfinished">Tallenna muutokset tiedostoon</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Save</source>
-        <translation>&amp;Älä tallenna</translation>
+        <translation type="unfinished">&amp;Älä tallenna</translation>
     </message>
     <message>
         <source>Customize toolbar...</source>
-        <translation>Muokkaa työkaluriviä...</translation>
+        <translation type="unfinished">Muokkaa työkaluriviä...</translation>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation>Älä kysy uudestaan</translation>
+        <translation type="unfinished">Älä kysy uudestaan</translation>
     </message>
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation>Oletko varma että haluat poistaa 
+        <translation type="unfinished">Oletko varma että haluat poistaa 
 &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation>Oletko varma että haluat poistaa 
+        <translation type="unfinished">Oletko varma että haluat poistaa 
 &quot;%1&quot; (%2 kohdetta)?</translation>
     </message>
     <message>
         <source>Confirm Save</source>
-        <translation>Vahvista tallentaminen</translation>
+        <translation type="unfinished">Vahvista tallentaminen</translation>
     </message>
     <message>
         <source>&lt;%1&gt; already exists!</source>
-        <translation>&lt;%1&gt; on jo olemassa!</translation>
+        <translation type="unfinished">&lt;%1&gt; on jo olemassa!</translation>
     </message>
     <message>
         <source>Do you want to overwrite it?</source>
-        <translation>Haluatko korvata sen?</translation>
+        <translation type="unfinished">Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation>Hylätäänkö muokkaukset ja poistetaan
+        <translation type="unfinished">Haluatko hylätä muokkaukset ja poistaa
 &quot;%1&quot;?</translation>
     </message>
     <message>
@@ -337,80 +337,80 @@
     <name>ActionPanelItem</name>
     <message>
         <source>Enabled</source>
-        <translation>Käytössä</translation>
+        <translation type="unfinished">Käytössä</translation>
     </message>
 </context>
 <context>
     <name>AssignedSetPanel</name>
     <message>
         <source>Create Set from selection...</source>
-        <translation>Luo sarja valituista...</translation>
+        <translation type="unfinished">Luo sarja valituista...</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Muokkaa...</translation>
+        <translation type="unfinished">Muokkaa...</translation>
     </message>
 </context>
 <context>
     <name>Audio</name>
     <message>
         <source>Audio Files</source>
-        <translation>Äänitiedostot</translation>
+        <translation type="unfinished">Äänitiedostot</translation>
     </message>
 </context>
 <context>
     <name>AutoHideButton</name>
     <message>
         <source>Auto hide</source>
-        <translation>Piilota automaattisesti</translation>
+        <translation type="unfinished">Piilota automaattisesti</translation>
     </message>
 </context>
 <context>
     <name>BannerProcess</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Creating contact sheet...</source>
-        <translation>Luodaan kontaktiarkki...</translation>
+        <translation type="unfinished">Luodaan kontaktiarkki...</translation>
     </message>
 </context>
 <context>
     <name>BaseViewWindow</name>
     <message>
         <source>Error</source>
-        <translation>Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
     </message>
     <message>
         <source>Please visit the %1 for more information.</source>
-        <translation>Käy katsomassa lisää tietoa sivulta %1. Kiitos.</translation>
+        <translation type="unfinished">Käy katsomassa lisää tietoa sivulta %1. Kiitos.</translation>
     </message>
     <message>
         <source>&lt; Empty &gt;</source>
-        <translation>&lt; Tyhjä &gt;</translation>
+        <translation type="unfinished">&lt; Tyhjä &gt;</translation>
     </message>
     <message>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation>XnView MP vaatii, että Ghostscript %1 on asennettu järjestelmääsi PDF/PS/EPS/AI-tiedostojen katselua ja muuntamista varten.</translation>
+        <translation type="unfinished">XnView MP vaatii, että Ghostscript %1 on asennettu järjestelmääsi PDF/PS/EPS/AI-tiedostojen katselua ja muuntamista varten.</translation>
     </message>
     <message>
         <source>File can&apos;t be loaded!</source>
-        <translation>Tiedostoa ei voitu ladata!</translation>
+        <translation type="unfinished">Tiedostoa ei voitu ladata!</translation>
     </message>
 </context>
 <context>
     <name>BatchRenameProcess</name>
     <message>
         <source>Renaming files...</source>
-        <translation>Nimeä tiedostot uudelleen...</translation>
+        <translation type="unfinished">Nimeä tiedostot uudelleen...</translation>
     </message>
 </context>
 <context>
     <name>BookmarksManager</name>
     <message>
         <source>Favorite doesn&apos;t exist</source>
-        <translation>Suosikkia ei löydy</translation>
+        <translation type="unfinished">Suosikkia ei löydy</translation>
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
@@ -425,231 +425,231 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     <name>BookmarksMenu</name>
     <message>
         <source>No favorites</source>
-        <translation>Ei suosikkeja</translation>
+        <translation type="unfinished">Ei suosikkeja</translation>
     </message>
 </context>
 <context>
     <name>BookmarksModel</name>
     <message>
         <source>Label</source>
-        <translation>Ikkuna</translation>
+        <translation type="unfinished">Ikkuna</translation>
     </message>
     <message>
         <source>Pathname</source>
-        <translation>Tiedostopolku</translation>
+        <translation type="unfinished">Tiedostopolku</translation>
     </message>
 </context>
 <context>
     <name>BrowserWindow</name>
     <message>
         <source>Info</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>Category Sets</source>
-        <translation>Kategoriaryhmät</translation>
+        <translation type="unfinished">Kategoriaryhmät</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
     </message>
     <message>
         <source>Match</source>
-        <translation>Määrä</translation>
+        <translation type="unfinished">Määrä</translation>
     </message>
     <message>
         <source>The files cannot be renamed, an error occurred.</source>
-        <translation>Tapahtuneen virheen vuoksi, tiedostoja ei voitu nimetä uudelleen.</translation>
+        <translation type="unfinished">Tapahtuneen virheen vuoksi, tiedostoja ei voitu nimetä uudelleen.</translation>
     </message>
     <message>
         <source>Match any selected entry (OR)</source>
-        <translation>Vastaa mitä tahansa valittua merkintää (TAI)</translation>
+        <translation type="unfinished">Vastaa mitä tahansa valittua merkintää (TAI)</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
-        <translation>Lisää suosikeihin...</translation>
+        <translation type="unfinished">Lisää suosikeihin...</translation>
     </message>
     <message>
         <source>Detach preview panel</source>
-        <translation>Irrota esikatselupaneeli</translation>
+        <translation type="unfinished">Irrota esikatselupaneeli</translation>
     </message>
     <message>
         <source>Current folder (Recursive)</source>
-        <translation>Nykyinen kansio (rekursiivinen)</translation>
+        <translation type="unfinished">Nykyinen kansio (rekursiivinen)</translation>
     </message>
     <message>
         <source>Delete items</source>
-        <translation>Poista kohteet</translation>
+        <translation type="unfinished">Poista kohteet</translation>
     </message>
     <message>
         <source>The database is corrupted, please check it before to continue!</source>
-        <translation>Tietokanta on vioittunut, tarkasta se ennen kuin jatkat!</translation>
+        <translation type="unfinished">Tietokanta on vioittunut, tarkasta se ennen kuin jatkat!</translation>
     </message>
     <message>
         <source>&lt;Search results&gt;</source>
-        <translation>&lt;Etsintätulokset&gt;</translation>
+        <translation type="unfinished">&lt;Etsintätulokset&gt;</translation>
     </message>
     <message>
         <source>Global</source>
-        <translation>Globaali</translation>
+        <translation type="unfinished">Globaali</translation>
     </message>
     <message>
         <source>Attach preview panel</source>
-        <translation>Kiinnitä esikatselupaneeli</translation>
+        <translation type="unfinished">Kiinnitä esikatselupaneeli</translation>
     </message>
     <message>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation>Klikkaa käyttääksesi suodinta - käytä Shift ja Control-painikkeita monivalintoihin.
+        <translation type="unfinished">Klikkaa käyttääksesi suodinta - käytä Shift ja Control-painikkeita monivalintoihin.
 Hiiren oikean painkkeen klikkaus avaa pikavalikon kohteen toiminnoille.
 Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Ominaisuudet</translation>
+        <translation type="unfinished">Ominaisuudet</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation>Etsi...</translation>
+        <translation type="unfinished">Etsi...</translation>
     </message>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
-        <translation>
-            <numerusform>Oletko varma että tämä %n kohde poistetaan?</numerusform>
+        <translation type="unfinished">
+            <numerusform>Oletko varma että nämä %n kohteet poistetaan?</numerusform>
             <numerusform>Oletko varma että nämä %n kohteet poistetaan?</numerusform>
         </translation>
     </message>
     <message>
         <source>Delete items &amp; companions</source>
-        <translation>Poista kohteet ja niiden oheistiedostot</translation>
+        <translation type="unfinished">Poista kohteet ja niiden oheistiedostot</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation type="unfinished">Kuvaselain</translation>
     </message>
     <message>
         <source>Are you sure to delete this folder?</source>
-        <translation>Oletko varma, että haluat poistaa tämän kansion?</translation>
+        <translation type="unfinished">Oletko varma, että haluat poistaa tämän kansion?</translation>
     </message>
     <message>
         <source>Current folder</source>
-        <translation>Nykyinen kansio</translation>
+        <translation type="unfinished">Nykyinen kansio</translation>
     </message>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>Haluatko varmasti poistaa tämän valitun kohteen %n - %1 ?</numerusform>
             <numerusform>Haluatko varmasti poistaa nämä valitut kohteet %n - %1 ?</numerusform>
         </translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation>Kategoriat</translation>
+        <translation type="unfinished">Kategoriat</translation>
     </message>
     <message>
         <source>Delete folder</source>
-        <translation>Poista kansio</translation>
+        <translation type="unfinished">Poista kansio</translation>
     </message>
     <message>
         <source>&lt;Tagged files&gt;</source>
-        <translation>&lt;Merkityt tiedostot&gt;</translation>
+        <translation type="unfinished">&lt;Merkityt tiedostot&gt;</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation>Lisää suosikeihin</translation>
+        <translation type="unfinished">Lisää suosikeihin</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation>Kansiot</translation>
+        <translation type="unfinished">Kansiot</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Suosikit</translation>
+        <translation type="unfinished">Suosikit</translation>
     </message>
     <message>
         <source>Load filelist</source>
-        <translation>Lataa tiedostolista</translation>
+        <translation type="unfinished">Lataa tiedostolista</translation>
     </message>
     <message>
         <source>Customize toolbar...</source>
-        <translation>Muokkaa työkalupalkkia...</translation>
+        <translation type="unfinished">Muokkaa työkalupalkkia...</translation>
     </message>
     <message>
         <source>Match all selected entries (AND)</source>
-        <translation>Vastaa kaikkia valittuja merkintöjä (JA)</translation>
+        <translation type="unfinished">Vastaa kaikkia valittuja merkintöjä (JA)</translation>
     </message>
     <message>
         <source>This folder doesn&apos;t exist!</source>
-        <translation>Kansiota ei ole olemassa!</translation>
+        <translation type="unfinished">Kansiota ei ole olemassa!</translation>
     </message>
     <message>
         <source>Add Favorite...</source>
-        <translation>Lisää suosikeihin...</translation>
+        <translation type="unfinished">Lisää suosikeihin...</translation>
     </message>
     <message>
         <source>Explorer</source>
-        <translation>Kuvaselain</translation>
+        <translation type="unfinished">Kuvaselain</translation>
     </message>
     <message>
         <source>Favorite name:</source>
-        <translation>Suosikin nimi:</translation>
+        <translation type="unfinished">Suosikin nimi:</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
-        <translation>Luettelosuodin</translation>
+        <translation type="unfinished">Luettelosuodin</translation>
     </message>
     <message>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation>&lt;Luettelon suodatustulokset&gt;</translation>
+        <translation type="unfinished">&lt;Luettelon suodatustulokset&gt;</translation>
     </message>
     <message>
         <source>Start slideshow</source>
-        <translation>Aloita kuvaesitys</translation>
+        <translation type="unfinished">Aloita kuvaesitys</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation>Metatiedot</translation>
+        <translation type="unfinished">Metatiedot</translation>
     </message>
     <message>
         <source>Histogram</source>
-        <translation>Histogrammi</translation>
+        <translation type="unfinished">Histogrammi</translation>
     </message>
     <message>
         <source>&lt;files&gt;</source>
-        <translation>&lt;tiedostot&gt;</translation>
+        <translation type="unfinished">&lt;tiedostot&gt;</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation>Näytä alikansioiden tiedostot</translation>
+        <translation type="unfinished">Näytä tiedostot alikansioista</translation>
     </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
     <message>
         <source> [Create New]</source>
-        <translation> [Luo uusi]</translation>
+        <translation type="unfinished"> [Luo uusi]</translation>
     </message>
 </context>
 <context>
     <name>CategoryManager</name>
     <message>
         <source>Categories</source>
-        <translation>Kategoriat</translation>
+        <translation type="unfinished">Kategoriat</translation>
     </message>
 </context>
 <context>
     <name>CategoryModel</name>
     <message>
         <source>Label</source>
-        <translation>Nimike</translation>
+        <translation type="unfinished">Nimike</translation>
     </message>
 </context>
 <context>
     <name>CategorySetPanel</name>
     <message>
         <source>Edit...</source>
-        <translation>Muokkaa...</translation>
+        <translation type="unfinished">Muokkaa...</translation>
     </message>
     <message>
         <source>Assign Set to selection</source>
@@ -664,736 +664,736 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <name>CategorySets</name>
     <message>
         <source>Name:</source>
-        <translation>Nimi:</translation>
+        <translation type="unfinished">Nimi:</translation>
     </message>
     <message>
         <source>Manager...</source>
-        <translation>Hallinta...</translation>
+        <translation type="unfinished">Hallinta...</translation>
     </message>
     <message>
         <source>Enter a name for this set</source>
-        <translation>Anna nimi tälle ryhmälle</translation>
+        <translation type="unfinished">Anna nimi tälle ryhmälle</translation>
     </message>
     <message>
         <source>Save layout...</source>
-        <translation>Tallenna asettelu...</translation>
+        <translation type="unfinished">Tallenna asettelu...</translation>
     </message>
     <message>
         <source>Assigned</source>
-        <translation>Määritellyt</translation>
+        <translation type="unfinished">Määritellyt</translation>
     </message>
     <message>
         <source>&lt;Unsaved Layout&gt;</source>
-        <translation>&lt;Tallentamaton asettelu&gt;</translation>
+        <translation type="unfinished">&lt;Tallentamaton asettelu&gt;</translation>
     </message>
     <message>
         <source>New name</source>
-        <translation>Uusi nimi</translation>
+        <translation type="unfinished">Uusi nimi</translation>
     </message>
     <message>
         <source>Suggested</source>
-        <translation>Ehdotetut</translation>
+        <translation type="unfinished">Ehdotetut</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historia</translation>
+        <translation type="unfinished">Historia</translation>
     </message>
     <message>
         <source>Enter a name for this layout</source>
-        <translation>Anna nimi tälle asettelulle</translation>
+        <translation type="unfinished">Anna nimi tälle asettelulle</translation>
     </message>
 </context>
 <context>
     <name>CategoryView</name>
     <message>
         <source>Empty</source>
-        <translation>Tyhjä</translation>
+        <translation type="unfinished">Tyhjä</translation>
     </message>
     <message>
         <source>Export (Bridge format)...</source>
-        <translation>Vie (Bridge-muodossa)...</translation>
+        <translation type="unfinished">Vie (Bridge-muodossa)...</translation>
     </message>
     <message>
         <source>Are you sure to delete this album?</source>
-        <translation>Oletko varma, että haluat poistaa tämän albumin?</translation>
+        <translation type="unfinished">Oletko varma, että haluat poistaa tämän albumin?</translation>
     </message>
     <message>
         <source>Delete album</source>
-        <translation>Poista albumi</translation>
+        <translation type="unfinished">Poista albumi</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Nimeä uudelleen</translation>
+        <translation type="unfinished">Nimeä uudelleen</translation>
     </message>
     <message>
         <source>New album...</source>
-        <translation>Uusi albumi...</translation>
+        <translation type="unfinished">Uusi albumi...</translation>
     </message>
     <message>
         <source>New Album</source>
-        <translation>Uusi albumi</translation>
+        <translation type="unfinished">Uusi albumi</translation>
     </message>
     <message>
         <source>Delete category</source>
-        <translation>Poista kategoria</translation>
+        <translation type="unfinished">Poista kategoria</translation>
     </message>
     <message>
         <source>Empty album</source>
-        <translation>Tyhjä albumi</translation>
+        <translation type="unfinished">Tyhjä albumi</translation>
     </message>
     <message>
         <source>Import collection</source>
-        <translation>Tuo kokoelma</translation>
+        <translation type="unfinished">Tuo kokoelma</translation>
     </message>
     <message>
         <source>Export collection</source>
-        <translation>Vie kokoelma</translation>
+        <translation type="unfinished">Vie kokoelma</translation>
     </message>
     <message>
         <source>Import (Bridge format)...</source>
-        <translation>Tuo (Bridge-muodossa)...</translation>
+        <translation type="unfinished">Tuo (Bridge-muodossa)...</translation>
     </message>
     <message>
         <source>New category</source>
-        <translation>Uusi kategoria</translation>
+        <translation type="unfinished">Uusi kategoria</translation>
     </message>
     <message>
         <source>New Category</source>
-        <translation>Uusi kategoria</translation>
+        <translation type="unfinished">Uusi kategoria</translation>
     </message>
     <message>
         <source>Are you sure to clear this album?</source>
-        <translation>Oletko varma että haluat tyhjentää tämän albumin?</translation>
+        <translation type="unfinished">Oletko varma että haluat tyhjentää tämän albumin?</translation>
     </message>
     <message>
         <source>Are you sure to delete this category?</source>
-        <translation>Oletko varma että haluat poistaa tämän kategorian?</translation>
+        <translation type="unfinished">Oletko varma että haluat poistaa tämän kategorian?</translation>
     </message>
 </context>
 <context>
     <name>ClearButton</name>
     <message>
         <source>Clear</source>
-        <translation>Tyhjennä</translation>
+        <translation type="unfinished">Tyhjennä</translation>
     </message>
 </context>
 <context>
     <name>ColorPickerPopup</name>
     <message>
         <source>Custom</source>
-        <translation>Käyttäjä</translation>
+        <translation type="unfinished">Käyttäjä</translation>
     </message>
 </context>
 <context>
     <name>CompareWidget</name>
     <message>
         <source>A/B</source>
-        <translation>A/B</translation>
+        <translation type="unfinished">A/B</translation>
     </message>
     <message>
         <source>CRC</source>
-        <translation>CRC</translation>
+        <translation type="unfinished">CRC</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation>Ruudukko</translation>
+        <translation type="unfinished">Ruudukko</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>Välilehdet</translation>
+        <translation type="unfinished">Välilehdet</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sulje</translation>
+        <translation type="unfinished">Sulje</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Do you want to delete this file?</source>
-        <translation>Haluatko poistaa tämän tiedoston?</translation>
+        <translation type="unfinished">Haluatko poistaa tämän tiedoston?</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation>Siirrä kansioon</translation>
+        <translation type="unfinished">Siirrä kansioon</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normaali</translation>
+        <translation type="unfinished">Normaali</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoomaus 100%</translation>
+        <translation type="unfinished">Zoomaus 100%</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Delete file</source>
-        <translation>Poista tiedosto</translation>
+        <translation type="unfinished">Poista tiedosto</translation>
     </message>
     <message>
         <source>Copy to</source>
-        <translation>Kopioi kansioon</translation>
+        <translation type="unfinished">Kopioi kansioon</translation>
     </message>
     <message>
         <source>Histogram</source>
-        <translation>Histogrammi</translation>
+        <translation type="unfinished">Histogrammi</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Paras sovitus</translation>
+        <translation type="unfinished">Paras sovitus</translation>
     </message>
 </context>
 <context>
     <name>CompareWindow</name>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikealle</translation>
+        <translation type="unfinished">Oikealle</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation type="unfinished">Esikatselukuvat</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alhaalla</translation>
+        <translation type="unfinished">Alhaalla</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation>Vertailu</translation>
+        <translation type="unfinished">Vertailu</translation>
     </message>
 </context>
 <context>
     <name>ContactSheetProcess</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Creating contact sheet...</source>
-        <translation>Luodaan kontaktiarkki...</translation>
+        <translation type="unfinished">Luodaan kontaktiarkki...</translation>
     </message>
 </context>
 <context>
     <name>Convert</name>
     <message>
         <source>HLS</source>
-        <translation>HLS</translation>
+        <translation type="unfinished">HLS</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation>Kartta</translation>
+        <translation type="unfinished">Kartta</translation>
     </message>
     <message>
         <source>Band</source>
-        <translation>Bändi</translation>
+        <translation type="unfinished">Band</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Sumenna</translation>
+        <translation type="unfinished">Sumenna</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation>Rajaa</translation>
+        <translation type="unfinished">Rajaa</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasen</translation>
+        <translation type="unfinished">Vasen</translation>
     </message>
     <message>
         <source>Lens</source>
-        <translation>Linssit</translation>
+        <translation type="unfinished">Linssit</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation>Sekalaiset</translation>
+        <translation type="unfinished">Sekalaiset</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation>Ruutu</translation>
+        <translation type="unfinished">Ruutu</translation>
     </message>
     <message>
         <source>Symmetry</source>
-        <translation>Symmetri</translation>
+        <translation type="unfinished">Symmetri</translation>
     </message>
     <message>
         <source>Bloom</source>
-        <translation>Bloom (kukoistus)</translation>
+        <translation type="unfinished">Bloom (kukoistus)</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Kuva</translation>
+        <translation type="unfinished">Kuva</translation>
     </message>
     <message>
         <source>Phase</source>
-        <translation>Vaiheista</translation>
+        <translation type="unfinished">Vaiheista</translation>
     </message>
     <message>
         <source>Retro</source>
-        <translation>Retro</translation>
+        <translation type="unfinished">Retro</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation type="unfinished">Oikea</translation>
     </message>
     <message>
         <source>Sepia</source>
-        <translation>Seepia</translation>
+        <translation type="unfinished">Seepia</translation>
     </message>
     <message>
         <source>Shear</source>
-        <translation>Taivuta</translation>
+        <translation type="unfinished">Taivuta</translation>
     </message>
     <message>
         <source>Slice</source>
-        <translation>Viipaloi</translation>
+        <translation type="unfinished">Viipaloi</translation>
     </message>
     <message>
         <source>Swirl</source>
-        <translation>Pyörre</translation>
+        <translation type="unfinished">Pyörre</translation>
     </message>
     <message>
         <source>Waves</source>
-        <translation>Aallot</translation>
+        <translation type="unfinished">Aallot</translation>
     </message>
     <message>
         <source>Automatic deskew</source>
-        <translation>Automaattisuoristus</translation>
+        <translation type="unfinished">Automaattisuoristus</translation>
     </message>
     <message>
         <source>Photo Spread</source>
-        <translation>Kuvan levitys</translation>
+        <translation type="unfinished">Kuvan levitys</translation>
     </message>
     <message>
         <source>Automatic levels</source>
-        <translation>Automaattitasot</translation>
+        <translation type="unfinished">Automaattitasot</translation>
     </message>
     <message>
         <source>Mono Mixer</source>
-        <translation>Mono-mikseri</translation>
+        <translation type="unfinished">Mono-mikseri</translation>
     </message>
     <message>
         <source>Red-Green-Blue</source>
-        <translation>Punainen-vihreä-sininen</translation>
+        <translation type="unfinished">Punainen-vihreä-sininen</translation>
     </message>
     <message>
         <source>Color balance</source>
-        <translation>Väritasapaino</translation>
+        <translation type="unfinished">Väritasapaino</translation>
     </message>
     <message>
         <source>Enhance detail</source>
-        <translation>Paranna yksityikohta</translation>
+        <translation type="unfinished">Paranna yksityikohta</translation>
     </message>
     <message>
         <source>Extract channel</source>
-        <translation>Poimi värikanava</translation>
+        <translation type="unfinished">Poimi värikanava</translation>
     </message>
     <message>
         <source>Enhance colors</source>
-        <translation>Paranna värejä</translation>
+        <translation type="unfinished">Paranna värejä</translation>
     </message>
     <message>
         <source>Oil painting</source>
-        <translation>Öljymaalaus</translation>
+        <translation type="unfinished">Öljymaalaus</translation>
     </message>
     <message>
         <source>Reduce noise</source>
-        <translation>Vähennä kohinaa</translation>
+        <translation type="unfinished">Vähennä kohinaa</translation>
     </message>
     <message>
         <source>Clear transparent pixels</source>
-        <translation>Tyhjennä läpinäkyvät pikselit</translation>
+        <translation type="unfinished">Tyhjennä läpinäkyvät pikselit</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation type="unfinished">Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation>Maksimi</translation>
+        <translation type="unfinished">Maksimi</translation>
     </message>
     <message>
         <source>Focus restoration</source>
-        <translation>Tarkennuksen palauttaminen</translation>
+        <translation type="unfinished">Tarkennuksen palauttaminen</translation>
     </message>
     <message>
         <source>Automatic crop</source>
-        <translation>Automaattirajaus</translation>
+        <translation type="unfinished">Automaattirajaus</translation>
     </message>
     <message>
         <source>Green-Red-Blue</source>
-        <translation>Vihreä-punainen-sininen</translation>
+        <translation type="unfinished">Vihreä-punainen-sininen</translation>
     </message>
     <message>
         <source>Minimum</source>
-        <translation>Minimi</translation>
+        <translation type="unfinished">Minimi</translation>
     </message>
     <message>
         <source>Inner Frame</source>
-        <translation>Sisäkehys</translation>
+        <translation type="unfinished">Sisäkehys</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>Säädä</translation>
+        <translation type="unfinished">Säädä</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Määrä</translation>
+        <translation type="unfinished">Määrä</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Reunus</translation>
+        <translation type="unfinished">Reunus</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskellä</translation>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
         <source>Curves</source>
-        <translation>Käyrät</translation>
+        <translation type="unfinished">Käyrät</translation>
     </message>
     <message>
         <source>Effect</source>
-        <translation>Tehoste</translation>
+        <translation type="unfinished">Tehoste</translation>
     </message>
     <message>
         <source>Emboss</source>
-        <translation>Kohokuvio</translation>
+        <translation type="unfinished">Kohokuvio</translation>
     </message>
     <message>
         <source>Vignetting</source>
-        <translation>Vinjetointi</translation>
+        <translation type="unfinished">Vinjetointi</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Suodin</translation>
+        <translation type="unfinished">Suodin</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation>Pituus</translation>
+        <translation type="unfinished">Pituus</translation>
     </message>
     <message>
         <source>Levels</source>
-        <translation>Tasot</translation>
+        <translation type="unfinished">Tasot</translation>
     </message>
     <message>
         <source>Black/White Points</source>
-        <translation>Mustavalkoiset pisteet</translation>
+        <translation type="unfinished">Mustavalkoiset pisteet</translation>
     </message>
     <message>
         <source>Mirror</source>
-        <translation>Peilikuva</translation>
+        <translation type="unfinished">Peilikuva</translation>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation>Mosaiikki</translation>
+        <translation type="unfinished">Mosaiikki</translation>
     </message>
     <message>
         <source>Median cross</source>
-        <translation>Mediaaniruksi</translation>
+        <translation type="unfinished">Mediaaniruksi</translation>
     </message>
     <message>
         <source>Align histogram</source>
-        <translation>Aseta histogrammi</translation>
+        <translation type="unfinished">Aseta histogrammi</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Siirtymä</translation>
+        <translation type="unfinished">Siirtymä</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>Muuta kokoa</translation>
+        <translation type="unfinished">Muuta kokoa</translation>
     </message>
     <message>
         <source>White Balance</source>
-        <translation>Valkotasapaino</translation>
+        <translation type="unfinished">Valkotasapaino</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Käännä</translation>
+        <translation type="unfinished">Käännä</translation>
     </message>
     <message>
         <source>Soften</source>
-        <translation>Pehmennä</translation>
+        <translation type="unfinished">Pehmennä</translation>
     </message>
     <message>
         <source>Spread</source>
-        <translation>Levitä</translation>
+        <translation type="unfinished">Levitä</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation type="unfinished">Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Solarize</source>
-        <translation>Valotus</translation>
+        <translation type="unfinished">Valotus</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation type="unfinished">Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>QR Code</source>
-        <translation>QR-koodi</translation>
+        <translation type="unfinished">QR-koodi</translation>
     </message>
     <message>
         <source>Add noise</source>
-        <translation>Lisää kohinaa</translation>
+        <translation type="unfinished">Lisää kohinaa</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Kuvio</translation>
+        <translation type="unfinished">Kuvio</translation>
     </message>
     <message>
         <source>Old camera</source>
-        <translation>Vanha kamera</translation>
+        <translation type="unfinished">Vanha kamera</translation>
     </message>
     <message>
         <source>Shadow-Highlight</source>
-        <translation>Varjo/Valoisuus</translation>
+        <translation type="unfinished">Varjo/Valoisuus</translation>
     </message>
     <message>
         <source>Blue-Red-Green</source>
-        <translation>Sininen-punainen-vihreä</translation>
+        <translation type="unfinished">Sininen-punainen-vihreä</translation>
     </message>
     <message>
         <source>Edge detect</source>
-        <translation>Reunan tunnistus</translation>
+        <translation type="unfinished">Reunan tunnistus</translation>
     </message>
     <message>
         <source>Expansion limit</source>
-        <translation>Laajenna rajoja</translation>
+        <translation type="unfinished">Laajenna rajoja</translation>
     </message>
     <message>
         <source>%1 file(s) - %2% - %3</source>
-        <translation>%1 tiedosto(t) - %2% - %3</translation>
+        <translation type="unfinished">%1 tiedosto(t) - %2% - %3</translation>
     </message>
     <message>
         <source>Change color depth</source>
-        <translation>Muuta värisyvyyttä</translation>
+        <translation type="unfinished">Muuta värisyvyyttä</translation>
     </message>
     <message>
         <source>Blue-Green-Red</source>
-        <translation>Sininen-vihreä-punainen</translation>
+        <translation type="unfinished">Sininen-vihreä-punainen</translation>
     </message>
     <message>
         <source>Halftone</source>
-        <translation>Rasterikuvio</translation>
+        <translation type="unfinished">Rasterikuvio</translation>
     </message>
     <message>
         <source>Align %</source>
-        <translation>Aseta %</translation>
+        <translation type="unfinished">Aseta %</translation>
     </message>
     <message>
         <source>Normalize Ex</source>
-        <translation>Normalisoi Ex</translation>
+        <translation type="unfinished">Normalisoi Ex</translation>
     </message>
     <message>
         <source>Border 3D</source>
-        <translation>Reunus 3D</translation>
+        <translation type="unfinished">Reunus 3D</translation>
     </message>
     <message>
         <source>Desaturate</source>
-        <translation>Poista värikylläisyyttä</translation>
+        <translation type="unfinished">Poista värikylläisyyttä</translation>
     </message>
     <message>
         <source>Equalize</source>
-        <translation>Tasoitus</translation>
+        <translation type="unfinished">Tasoitus</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>Keskimääräinen</translation>
+        <translation type="unfinished">Keskimääräinen</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation>Normalisoi</translation>
+        <translation type="unfinished">Normalisoi</translation>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation>Aseta DPI</translation>
+        <translation type="unfinished">Aseta DPI</translation>
     </message>
     <message>
         <source>Sharpen</source>
-        <translation>Terävyys</translation>
+        <translation type="unfinished">Terävyys</translation>
     </message>
     <message>
         <source>Emboss more</source>
-        <translation>Kohokuvio 2</translation>
+        <translation type="unfinished">Kohokuvio 2</translation>
     </message>
     <message>
         <source>ICC convert</source>
-        <translation>ICC muunnos</translation>
+        <translation type="unfinished">ICC muunnos</translation>
     </message>
     <message>
         <source>Oil painting 2</source>
-        <translation>Öljymaalaus 2</translation>
+        <translation type="unfinished">Öljymaalaus 2</translation>
     </message>
     <message>
         <source>Crystallize</source>
-        <translation>Kiteytä</translation>
+        <translation type="unfinished">Kiteytä</translation>
     </message>
     <message>
         <source>Zealous crop</source>
-        <translation>Tiukka rajaus (Zealous crop)</translation>
+        <translation type="unfinished">Tiukka rajaus (Zealous crop)</translation>
     </message>
     <message>
         <source>Add mask</source>
-        <translation>Lisää maski</translation>
+        <translation type="unfinished">Lisää maski</translation>
     </message>
     <message>
         <source>Automatic contrast</source>
-        <translation>Automaattikontrasti</translation>
+        <translation type="unfinished">Automaattikontrasti</translation>
     </message>
     <message>
         <source>Posterize</source>
-        <translation>Porrastus</translation>
+        <translation type="unfinished">Porrastus</translation>
     </message>
     <message>
         <source>Pointillize</source>
-        <translation>Pistemaalaus</translation>
+        <translation type="unfinished">Pistemaalaus</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>Vesileima</translation>
+        <translation type="unfinished">Vesileima</translation>
     </message>
     <message>
         <source>Film Simulation</source>
-        <translation>Filmisimulaatio</translation>
+        <translation type="unfinished">Filmisimulaatio</translation>
     </message>
     <message>
         <source>Film simulation</source>
-        <translation>Filmisimulaatio</translation>
+        <translation type="unfinished">Filmisimulaatio</translation>
     </message>
     <message>
         <source>Green-Blue-Red</source>
-        <translation>Vihreä-sininen-punainen</translation>
+        <translation type="unfinished">Vihreä-sininen-punainen</translation>
     </message>
     <message>
         <source>Enhance focus</source>
-        <translation>Paranna tarkennus</translation>
+        <translation type="unfinished">Paranna tarkennus</translation>
     </message>
     <message>
         <source>Enhance edges</source>
-        <translation>Paranna reunat</translation>
+        <translation type="unfinished">Paranna reunat</translation>
     </message>
     <message>
         <source>Gaussian blur</source>
-        <translation>Gauss-sumennus</translation>
+        <translation type="unfinished">Gauss-sumennus</translation>
     </message>
     <message>
         <source>Aspect Pad</source>
-        <translation>Kuvan täyte -suhteen mukaan</translation>
+        <translation type="unfinished">Kuvan täyte -suhteen mukaan</translation>
     </message>
     <message>
         <source>Negative</source>
-        <translation>Negatiivi</translation>
+        <translation type="unfinished">Negatiivi</translation>
     </message>
     <message>
         <source>Black limit %</source>
-        <translation>Musta rajoitus %</translation>
+        <translation type="unfinished">Musta rajoitus %</translation>
     </message>
     <message>
         <source>Transparent color</source>
-        <translation>Läpinäkyvä väri</translation>
+        <translation type="unfinished">Läpinäkyvä väri</translation>
     </message>
     <message>
         <source>Fantasy</source>
-        <translation>Fantasia</translation>
+        <translation type="unfinished">Fantasia</translation>
     </message>
     <message>
         <source>Frequency</source>
-        <translation>Linjatiheys</translation>
+        <translation type="unfinished">Linjatiheys</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Värikylläisyys</translation>
+        <translation type="unfinished">Värikylläisyys</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation type="unfinished">Alhaalta-Oikealle</translation>
     </message>
     <message>
         <source>Levels...</source>
-        <translation>Tasot...</translation>
+        <translation type="unfinished">Tasot...</translation>
     </message>
     <message>
         <source>Temperature</source>
-        <translation>Lämpötila</translation>
+        <translation type="unfinished">Lämpötila</translation>
     </message>
     <message>
         <source>Unsharp Mask</source>
-        <translation>Epätarkka maski</translation>
+        <translation type="unfinished">Epätarkka maski</translation>
     </message>
     <message>
         <source>No settings</source>
-        <translation>Ei asetuksia</translation>
+        <translation type="unfinished">Ei asetuksia</translation>
     </message>
     <message>
         <source>JPEG Lossless rotation</source>
-        <translation>JPEG-tiedostojen häviötön kääntäminen</translation>
+        <translation type="unfinished">JPEG-tiedostojen häviötön kääntäminen</translation>
     </message>
     <message>
         <source>Canvas resize</source>
-        <translation>Pohjan koon muuttaminen</translation>
+        <translation type="unfinished">Pohjan koon muuttaminen</translation>
     </message>
     <message>
         <source>Clean metadata</source>
-        <translation>Tyhjennä metatiedot</translation>
+        <translation type="unfinished">Tyhjennä metatiedot</translation>
     </message>
     <message>
         <source>De-interlace</source>
-        <translation>Poista lomitus</translation>
+        <translation type="unfinished">Poista lomitus</translation>
     </message>
     <message>
         <source>White limit %</source>
-        <translation>Valkoinen rajoitus %</translation>
+        <translation type="unfinished">Valkoinen rajoitus %</translation>
     </message>
     <message>
         <source>Blurred frame</source>
-        <translation>Sumennettu kehys</translation>
+        <translation type="unfinished">Sumennettu kehys</translation>
     </message>
     <message>
         <source>Median box</source>
-        <translation>Mediaaniruutu</translation>
+        <translation type="unfinished">Mediaaniruutu</translation>
     </message>
     <message>
         <source>Replace color</source>
-        <translation>Korvaa väri</translation>
+        <translation type="unfinished">Korvaa väri</translation>
     </message>
     <message>
         <source>Swap color</source>
-        <translation>Vaihda väriä</translation>
+        <translation type="unfinished">Vaihda väriä</translation>
     </message>
     <message>
         <source>Remove alpha channel</source>
-        <translation>Poista alfakanava</translation>
+        <translation type="unfinished">Poista alfakanava</translation>
     </message>
     <message>
         <source>Logarithmic LUT</source>
@@ -1411,838 +1411,838 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <name>CustomTreeWidgetItem</name>
     <message>
         <source>Install</source>
-        <translation>Asenna</translation>
+        <translation type="unfinished">Asenna</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation>Asennettu</translation>
+        <translation type="unfinished">Asennettu</translation>
     </message>
 </context>
 <context>
     <name>DB</name>
     <message>
         <source>Pets</source>
-        <translation>Lemmikit</translation>
+        <translation type="unfinished">Lemmikit</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Kuvakkeet</translation>
+        <translation type="unfinished">Kuvakkeet</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Muut</translation>
+        <translation type="unfinished">Muut</translation>
     </message>
     <message>
         <source>Audios</source>
-        <translation>Äänitiedostot</translation>
+        <translation type="unfinished">Äänitiedostot</translation>
     </message>
     <message>
         <source>Family</source>
-        <translation>Perhe</translation>
+        <translation type="unfinished">Perhe</translation>
     </message>
     <message>
         <source>Travel</source>
-        <translation>Matkustus</translation>
+        <translation type="unfinished">Matkustus</translation>
     </message>
     <message>
         <source>Photographs</source>
-        <translation>Valokuvat</translation>
+        <translation type="unfinished">Valokuvat</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Videotiedostot</translation>
+        <translation type="unfinished">Videotiedostot</translation>
     </message>
     <message>
         <source>Animals</source>
-        <translation>Eläimet</translation>
+        <translation type="unfinished">Eläimet</translation>
     </message>
     <message>
         <source>Drawings</source>
-        <translation>Piirustukset</translation>
+        <translation type="unfinished">Piirustukset</translation>
     </message>
     <message>
         <source>Portraits</source>
-        <translation>Muotokuvat</translation>
+        <translation type="unfinished">Muotokuvat</translation>
     </message>
     <message>
         <source>Landscapes</source>
-        <translation>Maisemat</translation>
+        <translation type="unfinished">Maisemat</translation>
     </message>
     <message>
         <source>Flowers</source>
-        <translation>Kukat</translation>
+        <translation type="unfinished">Kukat</translation>
     </message>
     <message>
         <source>Friends</source>
-        <translation>Ystävät</translation>
+        <translation type="unfinished">Ystävät</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Kuvat</translation>
+        <translation type="unfinished">Kuvat</translation>
     </message>
 </context>
 <context>
     <name>DBFilterModel</name>
     <message>
         <source>All</source>
-        <translation>Kaikki</translation>
+        <translation type="unfinished">Kaikki</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation>Albumi</translation>
+        <translation type="unfinished">Albumi</translation>
     </message>
     <message>
         <source>Colour Label</source>
-        <translation>Värimerkintä</translation>
+        <translation type="unfinished">Värimerkintä</translation>
     </message>
     <message>
         <source>Uncategorized</source>
-        <translation>Luokittelemattomat</translation>
+        <translation type="unfinished">Luokittelemattomat</translation>
     </message>
     <message>
         <source>Special Items</source>
-        <translation>Erikoiskohteet</translation>
+        <translation type="unfinished">Erikoiskohteet</translation>
     </message>
     <message>
         <source>People</source>
-        <translation>Henkilöt</translation>
+        <translation type="unfinished">Henkilöt</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation type="unfinished">Luokitus</translation>
     </message>
     <message>
         <source>Tag (%1)</source>
-        <translation>Merkintä (Tagi) (%1)</translation>
+        <translation type="unfinished">Merkintä (Tagi) (%1)</translation>
     </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
     <message>
         <source>About</source>
-        <translation>Tietoja</translation>
+        <translation type="unfinished">Tietoja</translation>
     </message>
 </context>
 <context>
     <name>DlgAcquireInto</name>
     <message>
         <source>Scan</source>
-        <translation>Skannaa</translation>
+        <translation type="unfinished">Skannaa</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation>Asetukset...</translation>
+        <translation type="unfinished">Asetukset...</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sulje</translation>
+        <translation type="unfinished">Sulje</translation>
     </message>
     <message>
         <source>Scan started...</source>
-        <translation>Skannaus aloitettu...</translation>
+        <translation type="unfinished">Skannaus aloitettu...</translation>
     </message>
     <message>
         <source>Please enter a valid output pathname!</source>
-        <translation>Anna kelvollinen ulostulo tiedostopolku!</translation>
+        <translation type="unfinished">Anna kelvollinen ulostulo tiedostopolku!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Kansio</translation>
+        <translation type="unfinished">Kansio</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>Do you want to continue to scan?</source>
-        <translation>Haluatko jatkaa skannausta?</translation>
+        <translation type="unfinished">Haluatko jatkaa skannausta?</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation>Jatketaanko?</translation>
+        <translation type="unfinished">Jatketaanko?</translation>
     </message>
     <message>
         <source>Scan saved in %1</source>
-        <translation>Skannaus tallennettu nimellä %1</translation>
+        <translation type="unfinished">Skannaus tallennettu nimellä %1</translation>
     </message>
     <message>
         <source>Start index</source>
-        <translation>Aloitusindeksi</translation>
+        <translation type="unfinished">Aloitusindeksi</translation>
     </message>
     <message>
         <source>Use subfolder based on current date</source>
-        <translation>Käytä päivämäärään perustuvaa alikansiota</translation>
+        <translation type="unfinished">Käytä päivämäärään perustuvaa alikansiota</translation>
     </message>
     <message>
         <source>Save as multipage (TIFF/PDF)</source>
-        <translation>Tallenna monisivuisena (TIFF/PDF)</translation>
+        <translation type="unfinished">Tallenna monisivuisena (TIFF/PDF)</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation>Laskeva</translation>
+        <translation type="unfinished">Laskeva</translation>
     </message>
     <message>
         <source>Restart TWAIN driver</source>
-        <translation>Käynnistä TWAIN-ohjain uudelleen</translation>
+        <translation type="unfinished">Käynnistä TWAIN-ohjain uudelleen</translation>
     </message>
     <message>
         <source>Batch acquire (TWAIN)</source>
-        <translation>Sarjaskannaus (TWAIN)</translation>
+        <translation type="unfinished">Sarjaskannaus (TWAIN)</translation>
     </message>
     <message>
         <source>An error has occurred when saving %1</source>
-        <translation>Virhe tallennettaessa %1</translation>
+        <translation type="unfinished">Virhe tallennettaessa %1</translation>
     </message>
 </context>
 <context>
     <name>DlgAdobeConfigure</name>
     <message>
         <source>Add...</source>
-        <translation>Lisää...</translation>
+        <translation type="unfinished">Lisää...</translation>
     </message>
     <message>
         <source>Select a folder</source>
-        <translation>Valitse kansio</translation>
+        <translation type="unfinished">Valitse kansio</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Configure Adobe Plugin</source>
-        <translation>Määrittele Adobe-lisäosat</translation>
+        <translation type="unfinished">Määrittele Adobe-lisäosat</translation>
     </message>
 </context>
 <context>
     <name>DlgAdobePlugin</name>
     <message>
         <source>About...</source>
-        <translation>Tietoja...</translation>
+        <translation type="unfinished">Tietoja...</translation>
     </message>
     <message>
         <source>Configure...</source>
-        <translation>Määrittele...</translation>
+        <translation type="unfinished">Määrittele...</translation>
     </message>
     <message>
         <source>Start...</source>
-        <translation>Käynnistä...</translation>
+        <translation type="unfinished">Käynnistä...</translation>
     </message>
 </context>
 <context>
     <name>DlgArchive</name>
     <message>
         <source>Archive file</source>
-        <translation>Pakattu tiedosto</translation>
+        <translation type="unfinished">Pakattu tiedosto</translation>
     </message>
     <message>
         <source>Please enter the full path of the archive file</source>
-        <translation>Anna zip-paketille täydellinen tiedostopolku</translation>
+        <translation type="unfinished">Anna zip-paketille täydellinen tiedostopolku</translation>
     </message>
     <message>
         <source>Open File Explorer after compressing</source>
-        <translation>Avaa resurssienhallinta pakkaamisen jälkeen</translation>
+        <translation type="unfinished">Avaa resurssienhallinta pakkaamisen jälkeen</translation>
     </message>
     <message>
         <source>Creating archive, please wait...</source>
-        <translation>Luodaan arkistoa, odota...</translation>
+        <translation type="unfinished">Luodaan arkistoa, odota...</translation>
     </message>
 </context>
 <context>
     <name>DlgBanner</name>
     <message>
         <source>Are you sure to overwrite original files?</source>
-        <translation>Alkuperäiset tiedostot korvataan. Oletko varma?</translation>
+        <translation type="unfinished">Alkuperäiset tiedostot korvataan. Oletko varma?</translation>
     </message>
 </context>
 <context>
     <name>DlgBannerClass</name>
     <message>
         <source>Top</source>
-        <translation>Ylös</translation>
+        <translation type="unfinished">Ylös</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fontti</translation>
+        <translation type="unfinished">Fontti</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasen</translation>
+        <translation type="unfinished">Vasen</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Right (top-bottom)</source>
-        <translation>Oikea (ylhäältä alaspäin)</translation>
+        <translation type="unfinished">Oikea (ylhäältä alaspäin)</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation type="unfinished">Oikea</translation>
     </message>
     <message>
         <source>Right (bottom-top)</source>
-        <translation>Oikea (alhaalta ylöspäin)</translation>
+        <translation type="unfinished">Oikea (alhaalta ylöspäin)</translation>
     </message>
     <message>
         <source>Banner</source>
-        <translation>Banneri</translation>
+        <translation type="unfinished">Banneri</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Reunus</translation>
+        <translation type="unfinished">Reunus</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alas</translation>
+        <translation type="unfinished">Alas</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskitä</translation>
+        <translation type="unfinished">Keskitä</translation>
     </message>
     <message>
         <source>Text color</source>
-        <translation>Tekstin väri</translation>
+        <translation type="unfinished">Tekstin väri</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijoittelu</translation>
+        <translation type="unfinished">Sijoittelu</translation>
     </message>
     <message>
         <source>Left (bottom-top)</source>
-        <translation>Vasen (alhaalta ylöspäin)</translation>
+        <translation type="unfinished">Vasen (alhaalta ylöspäin)</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kaikki bannerin tekniset tiedot (fontti, väri, koko jne.) siirtyvät aiemmin luodusta bannerista. Poikkeuksena tekstin koko, joka lasketaan parhaiten sopivaksi bannerin korkeudelle.&lt;/p&gt;&lt;p&gt;Voit valita useita kuvia käyttääksesi samaa banneria niihin kaikkiin. Huomaa, että sitten tekstin koko on sama kaikissa kuvissa&lt;/p&gt;&lt;p&gt;Pikanäppäimet:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Miinus]: Suurentaa/pienentää tekstin kokoa 2 pistettä&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] tai [Ctrl]+[Shift]+[Miinus]: Suurentaa/pienentää bannerin kokoa 1%:n&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Aloittaa bannerin luonnin&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kaikki bannerin tekniset tiedot (fontti, väri, koko jne.) siirtyvät aiemmin luodusta bannerista. Poikkeuksena tekstin koko, joka lasketaan parhaiten sopivaksi bannerin korkeudelle.&lt;/p&gt;&lt;p&gt;Voit valita useita kuvia käyttääksesi samaa banneria niihin kaikkiin. Huomaa, että sitten tekstin koko on sama kaikissa kuvissa&lt;/p&gt;&lt;p&gt;Pikanäppäimet:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Miinus]: Suurentaa/pienentää tekstin kokoa 2 pistettä&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] tai [Ctrl]+[Shift]+[Miinus]: Suurentaa/pienentää bannerin kokoa 1%:n&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Aloittaa bannerin luonnin&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Overwrite original file(s) when saving</source>
-        <translation>Päällekirjoita alkuperäinen tiedosto tallennettaessa</translation>
+        <translation type="unfinished">Päällekirjoita alkuperäinen tiedosto tallennettaessa</translation>
     </message>
     <message>
         <source>Left (top-bottom)</source>
-        <translation>Vasen (ylhäältä alaspäin)</translation>
+        <translation type="unfinished">Vasen (ylhäältä alaspäin)</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation>Tasaus</translation>
+        <translation type="unfinished">Tasaus</translation>
     </message>
 </context>
 <context>
     <name>DlgBatchResize</name>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished">%</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation>mm</translation>
+        <translation type="unfinished">mm</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="unfinished">&amp;Ei</translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation>Kysy</translation>
+        <translation type="unfinished">Kysy</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation>Sovita</translation>
+        <translation type="unfinished">Sovita</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="unfinished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>Case</source>
-        <translation>Kirjoitusmuoto</translation>
+        <translation type="unfinished">Kirjoitusmuoto</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Täytä</translation>
+        <translation type="unfinished">Täytä</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Tila</translation>
+        <translation type="unfinished">Tila</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Ohita</translation>
+        <translation type="unfinished">Ohita</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Pysäytä</translation>
+        <translation type="unfinished">Pysäytä</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation>Asetukset...</translation>
+        <translation type="unfinished">Asetukset...</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation>Bilineaarinen</translation>
+        <translation type="unfinished">Bilineaarinen</translation>
     </message>
     <message>
         <source>180°</source>
-        <translation>180°</translation>
+        <translation type="unfinished">180°</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Tietoja</translation>
+        <translation type="unfinished">Tietoja</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sulje</translation>
+        <translation type="unfinished">Sulje</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation>Päivittäin</translation>
+        <translation type="unfinished">Päivittäin</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Ei koskaan</translation>
+        <translation type="unfinished">Ei koskaan</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Estimated end time:</source>
-        <translation>Arvioitu loppumisaika:</translation>
+        <translation type="unfinished">Arvioitu loppumisaika:</translation>
     </message>
     <message>
         <source>open error</source>
-        <translation>avausvirhe</translation>
+        <translation type="unfinished">avausvirhe</translation>
     </message>
     <message>
         <source>Preserve Metadata</source>
-        <translation>Säilytä metatiedot</translation>
+        <translation type="unfinished">Säilytä metatiedot</translation>
     </message>
     <message>
         <source>saved</source>
-        <translation>Tallennettu</translation>
+        <translation type="unfinished">Tallennettu</translation>
     </message>
     <message>
         <source>Load format settings...</source>
-        <translation>Lataa formaattiasetukset...</translation>
+        <translation type="unfinished">Lataa formaattiasetukset...</translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation>&apos;Käytä montaa CPU-ydintä&apos; -asetus on poistettu käytöstä. Tätä asetusta ei voi yhdistää &apos;Kysy&apos;-tilaan tai monisivuisiin PDF-tiedostoihin.</translation>
+        <translation type="unfinished">&apos;Käytä montaa CPU-ydintä&apos; -asetus on poistettu käytöstä. Tätä asetusta ei voi yhdistää &apos;Kysy&apos;-tilaan tai monisivuisiin PDF-tiedostoihin.</translation>
     </message>
     <message>
         <source>Source: %1 %2 - Output (estimated): %3 %4</source>
-        <translation>Lähde: %1 %2 - Ulostulo (arvioitu): %3 %4</translation>
+        <translation type="unfinished">Lähde: %1 %2 - Ulostulo (arvioitu): %3 %4</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nimi &amp; tiedostopääte pienillä kirjaimilla</translation>
+        <translation type="unfinished">Nimi &amp; tiedostopääte pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation>Alkuperäinen koko</translation>
+        <translation type="unfinished">Alkuperäinen koko</translation>
     </message>
     <message>
         <source>create error</source>
-        <translation>Luo virhe</translation>
+        <translation type="unfinished">Luo virhe</translation>
     </message>
     <message>
         <source>Skipped:</source>
-        <translation>Ohitetut:</translation>
+        <translation type="unfinished">Ohitetut:</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
-        <translation>Tiedostopääte isoilla kirjaimilla</translation>
+        <translation type="unfinished">Tiedostopääte isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Pidä kuvasuhde</translation>
+        <translation type="unfinished">Pidä kuvasuhde</translation>
     </message>
     <message>
         <source>Total Duration:</source>
-        <translation>Kokonaiskesto:</translation>
+        <translation type="unfinished">Kokonaiskesto:</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Käytä gammakorjausta</translation>
+        <translation type="unfinished">Käytä gammakorjausta</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
-        <translation>Lähin naapuri</translation>
+        <translation type="unfinished">Lähin naapuri</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) and </source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n tunti(a) ja </numerusform>
-            <numerusform>%n tunti(a) ja </numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>loading</source>
-        <translation>ladataan</translation>
+        <translation type="unfinished">ladataan</translation>
     </message>
     <message>
         <source>Shortest side</source>
-        <translation>Lyhyin sivu</translation>
+        <translation type="unfinished">Lyhyin sivu</translation>
     </message>
     <message>
         <source>Input files:</source>
-        <translation>Muunnettavat:</translation>
+        <translation type="unfinished">Muunnettavat:</translation>
     </message>
     <message>
         <source>&lt; Back</source>
-        <translation>&lt; Takaisin</translation>
+        <translation type="unfinished">&lt; Takaisin</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation>Kuukausittain</translation>
+        <translation type="unfinished">Kuukausittain</translation>
     </message>
     <message>
         <source>Mpixels</source>
-        <translation>Megapikseliä</translation>
+        <translation type="unfinished">Megapikseliä</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation>Toiminto</translation>
+        <translation type="unfinished">Toiminto</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Mukauta</translation>
+        <translation type="unfinished">Mukauta</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Kansio</translation>
+        <translation type="unfinished">Kansio</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>[Finished]</source>
-        <translation>(Suoritettu]</translation>
+        <translation type="unfinished">(Suoritettu]</translation>
     </message>
     <message>
         <source>Use multiple CPU Cores</source>
-        <translation>Käytä montaa CPU-ydintä</translation>
+        <translation type="unfinished">Käytä montaa CPU-ydintä</translation>
     </message>
     <message>
         <source>Choose output pathname</source>
-        <translation>Valitse ulostulo tiedostopolku</translation>
+        <translation type="unfinished">Valitse ulostulo tiedostopolku</translation>
     </message>
     <message>
         <source>Next &gt;</source>
-        <translation>Seuraava &gt;</translation>
+        <translation type="unfinished">Seuraava &gt;</translation>
     </message>
     <message>
         <source>Output Filename</source>
-        <translation>Ulostulotiedoston nimi</translation>
+        <translation type="unfinished">Ulostulotiedoston nimi</translation>
     </message>
     <message>
         <source>Keep parent folder</source>
-        <translation>Säilytä pääkansio</translation>
+        <translation type="unfinished">Säilytä pääkansio</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation>Ulostulo</translation>
+        <translation type="unfinished">Ulostulo</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Nimeä uudelleen</translation>
+        <translation type="unfinished">Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>Muuta kokoa</translation>
+        <translation type="unfinished">Muuta kokoa</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Käännä</translation>
+        <translation type="unfinished">Käännä</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n sekunti(a) jäljellä</numerusform>
-            <numerusform>%n sekunti(a) jäljellä</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Tila</translation>
+        <translation type="unfinished">Tila</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation>Viikottain</translation>
+        <translation type="unfinished">Viikottain</translation>
     </message>
     <message>
         <source>Name lowercase</source>
-        <translation>Nimi pienillä kirjaimilla</translation>
+        <translation type="unfinished">Nimi pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Start index</source>
-        <translation>Aloitusindeksi</translation>
+        <translation type="unfinished">Aloitusindeksi</translation>
     </message>
     <message>
         <source>Preserve color profile</source>
-        <translation>Säilytä väriprofiili</translation>
+        <translation type="unfinished">Säilytä väriprofiili</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Valinnat</translation>
+        <translation type="unfinished">Valinnat</translation>
     </message>
     <message>
         <source>No change</source>
-        <translation>Ei muuteta</translation>
+        <translation type="unfinished">Ei muuteta</translation>
     </message>
     <message numerus="yes">
         <source>Select Photos: %n file(s)</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>Valitut kuvat: %n tiedosto(a)</numerusform>
-            <numerusform>Valitut kuvat: %n tiedosto(a)</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>failed</source>
-        <translation>epäonnistui</translation>
+        <translation type="unfinished">epäonnistui</translation>
     </message>
     <message>
         <source>percent</source>
-        <translation>prosenttia</translation>
+        <translation type="unfinished">prosenttia</translation>
     </message>
     <message>
         <source>New files:</source>
-        <translation>Uudet tiedostot:</translation>
+        <translation type="unfinished">Uudet tiedostot:</translation>
     </message>
     <message>
         <source>inches</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n minuutti(a)</numerusform>
-            <numerusform>%n minuutti(a)</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>loaded</source>
-        <translation>ladattu</translation>
+        <translation type="unfinished">ladattu</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Esiasetukset</translation>
+        <translation type="unfinished">Esiasetukset</translation>
     </message>
     <message>
         <source>Remaining:</source>
-        <translation>Jäljellä:</translation>
+        <translation type="unfinished">Jäljellä:</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n minuutti(a) jäljellä</numerusform>
-            <numerusform>%n minuutti(a) jäljellä</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Kieli</translation>
+        <translation type="unfinished">Kieli</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Korvaa</translation>
+        <translation type="unfinished">Korvaa</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Valokuva 5x7 tuumaa (13x18 cm)</translation>
+        <translation type="unfinished">Valokuva 5x7 tuumaa (13x18 cm)</translation>
     </message>
     <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>vain lukuoikeudet, ei voida korvata!</translation>
+        <translation type="unfinished">vain lukuoikeudet, ei voida korvata!</translation>
     </message>
     <message>
         <source>Error(s):</source>
-        <translation>Virhe(et):</translation>
+        <translation type="unfinished">Virhe(et):</translation>
     </message>
     <message>
         <source>Extension lowercase</source>
-        <translation>Tiedostopääte pienillä kirjaimilla</translation>
+        <translation type="unfinished">Tiedostopääte pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Valokuva 4x6 tuumaa (10x15 cm)</translation>
+        <translation type="unfinished">Valokuva 4x6 tuumaa (10x15 cm)</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnResize toimitetaan ilmaisohjelmana yksityiseen käyttöön. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Niillä ei ole minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
+        <translation type="unfinished">&lt;br&gt;XnResize toimitetaan ilmaisohjelmana yksityiseen käyttöön. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Niillä ei ole minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nimi &amp; tiedostopääte isoilla kirjaimilla</translation>
+        <translation type="unfinished">Nimi &amp; tiedostopääte isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
-        <translation>&amp;Muunna</translation>
+        <translation type="unfinished">&amp;Muunna</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Peruuta</translation>
+        <translation type="unfinished">&amp;Peruuta</translation>
     </message>
     <message>
         <source>Yes to &amp;all</source>
-        <translation>Kyllä &amp;kaikkiin</translation>
+        <translation type="unfinished">Kyllä &amp;kaikkiin</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>&amp;Nimeä uudelleen</translation>
+        <translation type="unfinished">&amp;Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Valokuva 6x8 tuumaa (15x20 cm)</translation>
+        <translation type="unfinished">Valokuva 6x8 tuumaa (15x20 cm)</translation>
     </message>
     <message>
         <source>-90° (counter clockwise)</source>
-        <translation>-90° (vastapäivään)</translation>
+        <translation type="unfinished">-90° (vastapäivään)</translation>
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Käännä kuvia EXIF-suuntaustunnisteen mukaan</translation>
+        <translation type="unfinished">Käännä kuvia EXIF-suuntaustunnisteen mukaan</translation>
     </message>
     <message>
         <source>+90° (clockwise)</source>
-        <translation>+90° (myötäpäivään)</translation>
+        <translation type="unfinished">+90° (myötäpäivään)</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation>Ensimmäinen kirjain isolla</translation>
+        <translation type="unfinished">Ensimmäinen kirjain isolla</translation>
     </message>
     <message>
         <source>Resample</source>
-        <translation>Interpolointi</translation>
+        <translation type="unfinished">Interpolointi</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n sekunti(a)</numerusform>
-            <numerusform>%n sekunti(a)</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Select Photos</source>
-        <translation>Valitse kuvat</translation>
+        <translation type="unfinished">Valitse kuvat</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n tiedosto(a)</numerusform>
-            <numerusform>%n tiedosto(a)</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Keep original date/time attributes</source>
-        <translation>Säilytä alkuperäiset päiväys/aika-määritykset</translation>
+        <translation type="unfinished">Säilytä alkuperäiset päiväys/aika-määritykset</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation>Kuvan koko</translation>
+        <translation type="unfinished">Kuvan koko</translation>
     </message>
     <message>
         <source>If an output file already exists</source>
-        <translation>Jos ulostulotiedosto on jo olemassa</translation>
+        <translation type="unfinished">Jos ulostulotiedosto on jo olemassa</translation>
     </message>
     <message>
         <source>Overwritten:</source>
-        <translation>Korvatut:</translation>
+        <translation type="unfinished">Korvatut:</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Valokuva 8x10 tuumaa (20x25 cm)</translation>
+        <translation type="unfinished">Valokuva 8x10 tuumaa (20x25 cm)</translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
-        <translation>ohitettu, tiedosto on jo olemassa!</translation>
+        <translation type="unfinished">ohitettu, tiedosto on jo olemassa!</translation>
     </message>
     <message>
         <source>Name uppercase</source>
-        <translation>Nimi isoilla kirjaimilla</translation>
+        <translation type="unfinished">Nimi isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Tarkista ohjelman päivitykset</translation>
+        <translation type="unfinished">Tarkista ohjelman päivitykset</translation>
     </message>
     <message>
         <source>Extracted pages:</source>
-        <translation>Poimitut sivut:</translation>
+        <translation type="unfinished">Poimitut sivut:</translation>
     </message>
     <message>
         <source>Longest side</source>
-        <translation>Pisin sivu</translation>
+        <translation type="unfinished">Pisin sivu</translation>
     </message>
     <message>
         <source>Keep folder structure</source>
-        <translation>Säilytä kansiorakenne</translation>
+        <translation type="unfinished">Säilytä kansiorakenne</translation>
     </message>
     <message>
         <source>Same as original</source>
-        <translation>Sama kuin alkuperäinen</translation>
+        <translation type="unfinished">Sama kuin alkuperäinen</translation>
     </message>
     <message>
         <source>Enlarge/Reduce</source>
-        <translation>Suurenna/pienennä</translation>
+        <translation type="unfinished">Suurenna/pienennä</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Aina</translation>
+        <translation type="unfinished">Aina</translation>
     </message>
     <message>
         <source>Reduce only</source>
-        <translation>Vain pienennä</translation>
+        <translation type="unfinished">Vain pienennä</translation>
     </message>
     <message>
         <source>Enlarge only</source>
-        <translation>Vain suurenna</translation>
+        <translation type="unfinished">Vain suurenna</translation>
     </message>
     <message>
         <source>Overwrite file</source>
@@ -2267,766 +2267,766 @@ Haluatko korvata sen?</translation>
     <name>DlgCaptureClass</name>
     <message>
         <source>Settings...</source>
-        <translation>Asetukset...</translation>
+        <translation type="unfinished">Asetukset...</translation>
     </message>
     <message>
         <source>Active window</source>
-        <translation>Aktiivinen ikkuna</translation>
+        <translation type="unfinished">Aktiivinen ikkuna</translation>
     </message>
     <message>
         <source>Include cursor</source>
-        <translation>Sisältää kursorin</translation>
+        <translation type="unfinished">Sisältää kursorin</translation>
     </message>
     <message>
         <source>Play sound when done</source>
-        <translation>Äänimerkki kun valmis</translation>
+        <translation type="unfinished">Äänimerkki kun valmis</translation>
     </message>
     <message>
         <source>Hotkey</source>
-        <translation>Pikanäppäin</translation>
+        <translation type="unfinished">Pikanäppäin</translation>
     </message>
     <message>
         <source>Client area</source>
-        <translation>Palvelin alue</translation>
+        <translation type="unfinished">Palvelin alue</translation>
     </message>
     <message>
         <source>Method</source>
-        <translation>Menetelmä</translation>
+        <translation type="unfinished">Menetelmä</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation>Ulostulo</translation>
+        <translation type="unfinished">Ulostulo</translation>
     </message>
     <message>
         <source>Hide XnView</source>
-        <translation>Piilota WnView</translation>
+        <translation type="unfinished">Piilota WnView</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation>Ikkuna</translation>
+        <translation type="unfinished">Ikkuna</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Valinnat</translation>
+        <translation type="unfinished">Valinnat</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Kopioi leikepöydälle</translation>
+        <translation type="unfinished">Kopioi leikepöydälle</translation>
     </message>
     <message>
         <source>Capture</source>
-        <translation>Kaappaa</translation>
+        <translation type="unfinished">Kaappaa</translation>
     </message>
     <message>
         <source>Open in View mode</source>
-        <translation>Avaa katselutilassa</translation>
+        <translation type="unfinished">Avaa katselutilassa</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>Suorakulmio</translation>
+        <translation type="unfinished">Suorakulmio</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>Työpöytä</translation>
+        <translation type="unfinished">Työpöytä</translation>
     </message>
     <message>
         <source>Capture area</source>
-        <translation>Kaapattava alue</translation>
+        <translation type="unfinished">Kaapattava alue</translation>
     </message>
     <message>
         <source>Save to folder</source>
-        <translation>Tallenna kansioon</translation>
+        <translation type="unfinished">Tallenna kansioon</translation>
     </message>
     <message>
         <source>Open in Draw mode</source>
-        <translation>Avaa piirtotilassa</translation>
+        <translation type="unfinished">Avaa piirtotilassa</translation>
     </message>
     <message>
         <source>Delay</source>
-        <translation>Viive</translation>
+        <translation type="unfinished">Viive</translation>
     </message>
     <message>
         <source>second(s)</source>
-        <translation>sekuntia</translation>
+        <translation type="unfinished">sekuntia</translation>
     </message>
 </context>
 <context>
     <name>DlgCategorySetsSettings</name>
     <message>
         <source>Set:</source>
-        <translation>Ryhmä:</translation>
+        <translation type="unfinished">Ryhmä:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Nimi:</translation>
+        <translation type="unfinished">Nimi:</translation>
     </message>
     <message>
         <source>Category search:</source>
-        <translation>Kategoriahaku:</translation>
+        <translation type="unfinished">Kategoriahaku:</translation>
     </message>
     <message>
         <source>Do you want to delete current category set?</source>
-        <translation>Haluatko poistaa tämän ryhmän?</translation>
+        <translation type="unfinished">Haluatko poistaa tämän ryhmän?</translation>
     </message>
     <message>
         <source>Choose a Set</source>
-        <translation>Valitse ryhmä</translation>
+        <translation type="unfinished">Valitse ryhmä</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Add Set...</source>
-        <translation>Lisää ryhmä...</translation>
+        <translation type="unfinished">Lisää ryhmä...</translation>
     </message>
     <message>
         <source>Copy Categories to Set...</source>
-        <translation>Kopioi kategoriat ryhmään...</translation>
+        <translation type="unfinished">Kopioi kategoriat ryhmään...</translation>
     </message>
     <message>
         <source>Enter a name for this set</source>
-        <translation>Anna nimi tälle ryhmälle</translation>
+        <translation type="unfinished">Anna nimi tälle ryhmälle</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Muokkaa...</translation>
+        <translation type="unfinished">Muokkaa...</translation>
     </message>
     <message>
         <source>New name</source>
-        <translation>Uusi nimi</translation>
+        <translation type="unfinished">Uusi nimi</translation>
     </message>
     <message>
         <source>Delete Set</source>
-        <translation>Poista ryhmä</translation>
+        <translation type="unfinished">Poista ryhmä</translation>
     </message>
     <message>
         <source>Rename Set...</source>
-        <translation>Nimeä ryhmä uudelleen...</translation>
+        <translation type="unfinished">Nimeä ryhmä uudelleen...</translation>
     </message>
     <message>
         <source>Category Sets Settings</source>
-        <translation>Kategoriaryhmien asetukset</translation>
+        <translation type="unfinished">Kategoriaryhmien asetukset</translation>
     </message>
 </context>
 <context>
     <name>DlgChangeDepthClass</name>
     <message>
         <source>Apply to image</source>
-        <translation>Käytä kuvassa</translation>
+        <translation type="unfinished">Käytä kuvassa</translation>
     </message>
     <message>
         <source>Change color depth</source>
-        <translation>Muuta värisyvyyttä</translation>
+        <translation type="unfinished">Muuta värisyvyyttä</translation>
     </message>
 </context>
 <context>
     <name>DlgCleanClass</name>
     <message>
         <source>GPS</source>
-        <translation>GPS</translation>
+        <translation type="unfinished">GPS</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>ICC profile</source>
-        <translation>ICC profiili</translation>
+        <translation type="unfinished">ICC profiili</translation>
     </message>
     <message>
         <source>EXIF thumbnail</source>
-        <translation>EXIF-esikatselukuva</translation>
+        <translation type="unfinished">EXIF-esikatselukuva</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Kommentti</translation>
+        <translation type="unfinished">Kommentti</translation>
     </message>
     <message>
         <source>All other &apos;APP&apos; markers</source>
-        <translation>Kaikki muut &apos;APP&apos; tekijät</translation>
+        <translation type="unfinished">Kaikki muut &apos;APP&apos; tekijät</translation>
     </message>
     <message>
         <source>Clean metadata</source>
-        <translation>Tyhjennä metadata</translation>
+        <translation type="unfinished">Tyhjennä metadata</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
-        <translation>Optimoi Huffman taulukko</translation>
+        <translation type="unfinished">Optimoi Huffman taulukko</translation>
     </message>
 </context>
 <context>
     <name>DlgCommentClass</name>
     <message>
         <source>&lt;</source>
-        <translation>&lt;</translation>
+        <translation type="unfinished">&lt;</translation>
     </message>
     <message>
         <source>&gt;</source>
-        <translation>&gt;</translation>
+        <translation type="unfinished">&gt;</translation>
     </message>
     <message>
         <source>Embedded comment (not available for all formats)</source>
-        <translation>Upotettu kommentti (ei saatavissa kaikille formaateille)</translation>
+        <translation type="unfinished">Upotettu kommentti (ei saatavissa kaikille formaateille)</translation>
     </message>
     <message>
         <source>&amp;Write</source>
-        <translation>&amp;Kirjoita</translation>
+        <translation type="unfinished">&amp;Kirjoita</translation>
     </message>
     <message>
         <source>Description (stored in descript.ion file)</source>
-        <translation>Selitys (tallenna descript.ion-tiedostoon)</translation>
+        <translation type="unfinished">Selitys (tallenna descript.ion-tiedostoon)</translation>
     </message>
     <message>
         <source>Write &amp;all</source>
-        <translation>Kirjoita K&amp;aikki</translation>
+        <translation type="unfinished">Kirjoita K&amp;aikki</translation>
     </message>
     <message>
         <source>Use same text for description &amp;&amp; comment</source>
-        <translation>Käytä samaa tekstiä selityksille &amp;&amp; kommenteille</translation>
+        <translation type="unfinished">Käytä samaa tekstiä selityksille &amp;&amp; kommenteille</translation>
     </message>
     <message>
         <source>Edit comment</source>
-        <translation>Muokkaa kommenttia</translation>
+        <translation type="unfinished">Muokkaa kommenttia</translation>
     </message>
 </context>
 <context>
     <name>DlgConbrightPanelClass</name>
     <message>
         <source>Conbright</source>
-        <translation>Kirkkaus</translation>
+        <translation type="unfinished">Kirkkaus</translation>
     </message>
     <message>
         <source>Gammasat</source>
-        <translation>Gammakylläisyys</translation>
+        <translation type="unfinished">Gammakylläisyys</translation>
     </message>
 </context>
 <context>
     <name>DlgContactSheet</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation>mm</translation>
+        <translation type="unfinished">mm</translation>
     </message>
     <message>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation type="unfinished">DPI</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fontti</translation>
+        <translation type="unfinished">Fontti</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>Rivit</translation>
+        <translation type="unfinished">Rivit</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation>Asetukset...</translation>
+        <translation type="unfinished">Asetukset...</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation>Sivu</translation>
+        <translation type="unfinished">Sivu</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Vertical margin</source>
-        <translation>Marginaali pystysuunnassa</translation>
+        <translation type="unfinished">Marginaali pystysuunnassa</translation>
     </message>
     <message>
         <source>Vertical spacing</source>
-        <translation>Väli pystysuunnassa</translation>
+        <translation type="unfinished">Väli pystysuunnassa</translation>
     </message>
     <message>
         <source>Thumbnails per page</source>
-        <translation>Esikatselukuvien määrää sivulla</translation>
+        <translation type="unfinished">Esikatselukuvien määrää sivulla</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Current date</source>
-        <translation>Nykyinen päiväys</translation>
+        <translation type="unfinished">Nykyinen päiväys</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation>Näytä tiedot</translation>
+        <translation type="unfinished">Näytä tiedot</translation>
     </message>
     <message>
         <source>File list</source>
-        <translation>Tiedostolista</translation>
+        <translation type="unfinished">Tiedostolista</translation>
     </message>
     <message>
         <source>After finish</source>
-        <translation>Luomisen jälkeen</translation>
+        <translation type="unfinished">Luomisen jälkeen</translation>
     </message>
     <message>
         <source>Fill mode</source>
-        <translation>Täyttömuoto</translation>
+        <translation type="unfinished">Täyttömuoto</translation>
     </message>
     <message>
         <source>8x10 inch</source>
-        <translation>8x10 tuumaa</translation>
+        <translation type="unfinished">8x10 tuumaa</translation>
     </message>
     <message>
         <source>Letter (8.5x11 inch)</source>
-        <translation>Kirje (8.5x11 tuumaa)</translation>
+        <translation type="unfinished">Kirje (8.5x11 tuumaa)</translation>
     </message>
     <message>
         <source>9x12 inch</source>
-        <translation>9x12 tuumaa</translation>
+        <translation type="unfinished">9x12 tuumaa</translation>
     </message>
     <message>
         <source>11x14 inch</source>
-        <translation>11x14 tuumaa</translation>
+        <translation type="unfinished">11x14 tuumaa</translation>
     </message>
     <message>
         <source>Create Contact Sheet</source>
-        <translation>Luo kontaktiarkki</translation>
+        <translation type="unfinished">Luo kontaktiarkki</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Kansio</translation>
+        <translation type="unfinished">Kansio</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation>Alatunniste</translation>
+        <translation type="unfinished">Alatunniste</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>Ylätunniste</translation>
+        <translation type="unfinished">Ylätunniste</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation>Ulostulo</translation>
+        <translation type="unfinished">Ulostulo</translation>
     </message>
     <message>
         <source>Do Nothing</source>
-        <translation>Älä tee mitään</translation>
+        <translation type="unfinished">Älä tee mitään</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Text color</source>
-        <translation>Tekstin väri</translation>
+        <translation type="unfinished">Tekstin väri</translation>
     </message>
     <message>
         <source>Open File Explorer</source>
-        <translation>Avaa resurssienhallinta</translation>
+        <translation type="unfinished">Avaa resurssienhallinta</translation>
     </message>
     <message>
         <source>inches</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message>
         <source>Page number</source>
-        <translation>Sivunumero</translation>
+        <translation type="unfinished">Sivunumero</translation>
     </message>
     <message>
         <source>Page count</source>
-        <translation>Sivumäärä</translation>
+        <translation type="unfinished">Sivumäärä</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>Background image</source>
-        <translation>Taustakuva</translation>
+        <translation type="unfinished">Taustakuva</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Esikatselu</translation>
+        <translation type="unfinished">Esikatselu</translation>
     </message>
     <message>
         <source>Horizontal margin</source>
-        <translation>Marginaali vaakasuunnassa</translation>
+        <translation type="unfinished">Marginaali vaakasuunnassa</translation>
     </message>
     <message>
         <source>Horizontal spacing</source>
-        <translation>Väli vaakasuunnassa</translation>
+        <translation type="unfinished">Väli vaakasuunnassa</translation>
     </message>
     <message>
         <source>Text background color</source>
-        <translation>Tekstin taustaväri</translation>
+        <translation type="unfinished">Tekstin taustaväri</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Sarakkeet</translation>
+        <translation type="unfinished">Sarakkeet</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation>&amp;Luo</translation>
+        <translation type="unfinished">&amp;Luo</translation>
     </message>
     <message>
         <source>4x6 inch</source>
-        <translation>4x6 tuumaa</translation>
+        <translation type="unfinished">4x6 tuumaa</translation>
     </message>
     <message>
         <source>5x7 inch</source>
-        <translation>5x7 tuumaa</translation>
+        <translation type="unfinished">5x7 tuumaa</translation>
     </message>
     <message>
         <source>6x8 inch</source>
-        <translation>6x8 tuumaa</translation>
+        <translation type="unfinished">6x8 tuumaa</translation>
     </message>
     <message>
         <source>Previous file</source>
-        <translation>Edellinen tiedosto</translation>
+        <translation type="unfinished">Edellinen tiedosto</translation>
     </message>
     <message>
         <source>A3 (29.7x42.0cm)</source>
-        <translation>A3 (29.7x42.0cm)</translation>
+        <translation type="unfinished">A3 (29.7x42.0cm)</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation type="unfinished">Esikatselukuva</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Paras sovitus</translation>
+        <translation type="unfinished">Paras sovitus</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation>Avaa kuvaselain</translation>
+        <translation type="unfinished">Avaa kuvaselain</translation>
     </message>
     <message>
         <source>Spacing (pixels)</source>
-        <translation>Väli (pikseliä)</translation>
+        <translation type="unfinished">Väli (pikseliä)</translation>
     </message>
     <message>
         <source>You need to choose an output folder.</source>
-        <translation>Valitse ulostulokansio.</translation>
+        <translation type="unfinished">Valitse ulostulokansio.</translation>
     </message>
     <message>
         <source>A4 (21.0x29.7cm)</source>
-        <translation>A4 (21.0x29.7cm)</translation>
+        <translation type="unfinished">A4 (21.0x29.7cm)</translation>
     </message>
     <message>
         <source>Legal (8.5x14 inch)</source>
-        <translation>Juridinen (8.5x14 tuumaa)</translation>
+        <translation type="unfinished">Juridinen (8.5x14 tuumaa)</translation>
     </message>
     <message>
         <source>Next file</source>
-        <translation>Seuraava tiedosto</translation>
+        <translation type="unfinished">Seuraava tiedosto</translation>
     </message>
     <message>
         <source>Margin (pixels)</source>
-        <translation>Marginaali (pikseliä)</translation>
+        <translation type="unfinished">Marginaali (pikseliä)</translation>
     </message>
     <message>
         <source>Source folder</source>
-        <translation>Lähdekansio</translation>
+        <translation type="unfinished">Lähdekansio</translation>
     </message>
 </context>
 <context>
     <name>DlgConvert</name>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="unfinished">&amp;Ei</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="unfinished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>Load image...</source>
-        <translation>Lataa kuva...</translation>
+        <translation type="unfinished">Lataa kuva...</translation>
     </message>
     <message>
         <source>Saving ZIP file...</source>
-        <translation>Tallenna ZIP-tiedosto...</translation>
+        <translation type="unfinished">Tallenna ZIP-tiedosto...</translation>
     </message>
     <message>
         <source>open error</source>
-        <translation>avausvirhe</translation>
+        <translation type="unfinished">avausvirhe</translation>
     </message>
     <message>
         <source>saved</source>
-        <translation>Tallennettu</translation>
+        <translation type="unfinished">Tallennettu</translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation>&apos;Käytä montaa CPU-ydintä&apos; -asetus on poistettu käytöstä. Tätä asetusta ei voi yhdistää &apos;Kysy&apos;-tilaan tai monisivuisiin PDF-tiedostoihin.</translation>
+        <translation type="unfinished">&apos;Käytä montaa CPU-ydintä&apos; -asetus on poistettu käytöstä. Tätä asetusta ei voi yhdistää &apos;Kysy&apos;-tilaan tai monisivuisiin PDF-tiedostoihin.</translation>
     </message>
     <message>
         <source>File size ratio:</source>
-        <translation>Tiedostokoon suhde:</translation>
+        <translation type="unfinished">Tiedostokoon suhde:</translation>
     </message>
     <message>
         <source>Would you like to export filenames, too?</source>
-        <translation>Haluatko viedä myös tiedostonimet?</translation>
+        <translation type="unfinished">Haluatko viedä myös tiedostonimet?</translation>
     </message>
     <message>
         <source>Save log as...</source>
-        <translation>Tallenna loki nimellä...</translation>
+        <translation type="unfinished">Save log as...</translation>
     </message>
     <message>
         <source>create error</source>
-        <translation>Luo virhe</translation>
+        <translation type="unfinished">Luo virhe</translation>
     </message>
     <message>
         <source>Skipped:</source>
-        <translation>Ohitetut:</translation>
+        <translation type="unfinished">Ohitetut:</translation>
     </message>
     <message>
         <source>Total Duration:</source>
-        <translation>Kokonaiskesto:</translation>
+        <translation type="unfinished">Kokonaiskesto:</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) and </source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n tunti(a) ja </numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>loading</source>
-        <translation>ladataan</translation>
+        <translation type="unfinished">ladataan</translation>
     </message>
     <message>
         <source>Input files:</source>
-        <translation>Muunnettavat:</translation>
+        <translation type="unfinished">Muunnettavat:</translation>
     </message>
     <message>
         <source>Choose ZIP filename</source>
-        <translation>Valitse ZIP-tiedostonimi</translation>
+        <translation type="unfinished">Valitse ZIP-tiedostonimi</translation>
     </message>
     <message>
         <source>[Finished]</source>
-        <translation>(Suoritettu]</translation>
+        <translation type="unfinished">(Suoritettu]</translation>
     </message>
     <message>
         <source>Choose output pathname</source>
-        <translation>Valitse ulostulo tiedostopolku</translation>
+        <translation type="unfinished">Valitse ulostulo tiedostopolku</translation>
     </message>
     <message>
         <source>Total output file size:</source>
-        <translation>Ulostulo-tiedoston kokonaiskoko:</translation>
+        <translation type="unfinished">Ulostulo-tiedoston kokonaiskoko:</translation>
     </message>
     <message>
         <source>Output filename</source>
-        <translation>Ulostulo-tiedosto</translation>
+        <translation type="unfinished">Ulostulo-tiedosto</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n sekunti(a) jäljellä</numerusform>
-            <numerusform>%n sekunti(a) jäljellä</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Convert with XnConvert</source>
-        <translation>Muunna XnConvertilla</translation>
+        <translation type="unfinished">Muunna XnConvertilla</translation>
     </message>
     <message>
         <source>Finished at: </source>
-        <translation>Valmistui: </translation>
+        <translation type="unfinished">Finished at: </translation>
     </message>
     <message>
         <source>_result</source>
-        <translation>_result</translation>
+        <translation type="unfinished">_result</translation>
     </message>
     <message>
         <source>Export log</source>
-        <translation>Vie loki</translation>
+        <translation type="unfinished">Vie loki</translation>
     </message>
     <message>
         <source>failed</source>
-        <translation>epäonnistui</translation>
+        <translation type="unfinished">epäonnistui</translation>
     </message>
     <message>
         <source>New files:</source>
-        <translation>Uudet tiedostot:</translation>
+        <translation type="unfinished">Uudet tiedostot:</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n minuutti(a)</numerusform>
-            <numerusform>%n minuutti(a)</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>%1 of %2 files</source>
-        <translation>%1 :a %2 tiedostosta</translation>
+        <translation type="unfinished">%1 :a %2 tiedostosta</translation>
     </message>
     <message>
         <source>loaded</source>
-        <translation>ladattu</translation>
+        <translation type="unfinished">ladattu</translation>
     </message>
     <message>
         <source>uploaded</source>
-        <translation>Lähetetty</translation>
+        <translation type="unfinished">Lähetetty</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation>Toiminnot</translation>
+        <translation type="unfinished">Toiminnot</translation>
     </message>
     <message>
         <source>Save script</source>
-        <translation>Tallenna skripti</translation>
+        <translation type="unfinished">Tallenna skripti</translation>
     </message>
     <message>
         <source>Load script</source>
-        <translation>Latausskripti</translation>
+        <translation type="unfinished">Latausskripti</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n minuutti(a) jäljellä</numerusform>
-            <numerusform>%n minuutti(a) jäljellä</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Parameters</source>
-        <translation>Parametrit</translation>
+        <translation type="unfinished">Parametrit</translation>
     </message>
     <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>vain lukuoikeudet, ei voida korvata!</translation>
+        <translation type="unfinished">vain lukuoikeudet, ei voida korvata!</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Peruuta</translation>
+        <translation type="unfinished">&amp;Peruuta</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Valitse kansio</translation>
+        <translation type="unfinished">Valitse kansio</translation>
     </message>
     <message>
         <source>Yes to &amp;all</source>
-        <translation>Kyllä &amp;kaikkiin</translation>
+        <translation type="unfinished">Kyllä &amp;kaikkiin</translation>
     </message>
     <message>
         <source>Export script</source>
-        <translation>Vientiskripti</translation>
+        <translation type="unfinished">Vientiskripti</translation>
     </message>
     <message numerus="yes">
         <source>Input: %n file(s)</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>Muunnettavia: %n tiedosto(a)</numerusform>
             <numerusform>Muunnettavia: %n tiedostoa</numerusform>
         </translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>&amp;Nimeä uudelleen</translation>
+        <translation type="unfinished">&amp;Nimeä uudelleen</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
+        <translation type="unfinished">&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita </translation>
     </message>
     <message>
         <source>: saved</source>
-        <translation>: tallennettu</translation>
+        <translation type="unfinished">: tallennettu</translation>
     </message>
     <message>
         <source>New version</source>
-        <translation>Uusi versio</translation>
+        <translation type="unfinished">Uusi versio</translation>
     </message>
     <message>
         <source>Overwrite</source>
-        <translation>Korvaa</translation>
+        <translation type="unfinished">Korvaa</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n sekunti(a)</numerusform>
-            <numerusform>%n sekunti(a)</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Total input file size:</source>
-        <translation>Syötetiedoston kokonaiskoko:</translation>
+        <translation type="unfinished">Syötetiedoston kokonaiskoko:</translation>
     </message>
     <message>
         <source>Use image from input files</source>
-        <translation>Käytä syötetiedostojen kuvia</translation>
+        <translation type="unfinished">Käytä syötetiedostojen kuvia</translation>
     </message>
     <message>
         <source>Uploading image(s) to server...</source>
-        <translation>Lähetä kuvasi palvelimelle...</translation>
+        <translation type="unfinished">Lähetä kuvasi palvelimelle...</translation>
     </message>
     <message>
         <source>Overwritten:</source>
-        <translation>Korvatut:</translation>
+        <translation type="unfinished">Korvatut:</translation>
     </message>
     <message>
         <source>Started at: </source>
-        <translation>Aloitettu: </translation>
+        <translation type="unfinished">Started at: </translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
-        <translation>ohitettu, tiedosto on jo olemassa!</translation>
+        <translation type="unfinished">ohitettu, tiedosto on jo olemassa!</translation>
     </message>
     <message>
         <source>Extracted pages:</source>
-        <translation>Poimitut sivut:</translation>
+        <translation type="unfinished">Poimitut sivut:</translation>
     </message>
     <message>
         <source>Same as original</source>
-        <translation>Sama kuin alkuperäinen</translation>
+        <translation type="unfinished">Sama kuin alkuperäinen</translation>
     </message>
     <message>
         <source>Cancel batch processing</source>
-        <translation>Peruuta sarjaprosessi</translation>
+        <translation type="unfinished">Peruuta sarjaprosessi</translation>
     </message>
     <message>
         <source>Do you want to cancel current batch processing?</source>
-        <translation>Haluatko peruuttaa nykyisen sarjaprosessin?</translation>
+        <translation type="unfinished">Haluatko peruuttaa nykyisen sarjaprosessin?</translation>
     </message>
     <message>
         <source>Loading error(s):</source>
-        <translation>Latausvirheet:</translation>
+        <translation type="unfinished">Latausvirheet:</translation>
     </message>
     <message>
         <source>Saving error(s):</source>
-        <translation>Tallennusvirheet:</translation>
+        <translation type="unfinished">Tallennusvirheet:</translation>
     </message>
     <message>
         <source>copied</source>
-        <translation>Kopioitu</translation>
+        <translation type="unfinished">Kopioitu</translation>
     </message>
     <message>
         <source>Please restart application.</source>
-        <translation>Käynnistä sovellus uudelleen.</translation>
+        <translation type="unfinished">Uudelleenkäynnistä sovellus</translation>
     </message>
     <message>
         <source>The %1 version of XnConvert is available. 
@@ -3091,219 +3091,219 @@ Haluatko korvata sen?</translation>
     <name>DlgConvert3DBorderClass</name>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation>Voimakkuus</translation>
+        <translation type="unfinished">Voimakkuus</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertAdjustClass</name>
     <message>
         <source>Gamma</source>
-        <translation></translation>
+        <translation type="unfinished">Gamma</translation>
     </message>
     <message>
         <source>Contrast</source>
-        <translation>Kontrasti</translation>
+        <translation type="unfinished">Kontrasti</translation>
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Kirkkaus</translation>
+        <translation type="unfinished">Kirkkaus</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertAspectPadClass</name>
     <message>
         <source>Ratio</source>
-        <translation>Suhde</translation>
+        <translation type="unfinished">Suhde</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Vaaka</translation>
+        <translation type="unfinished">Vaaka</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Suuntaus</translation>
+        <translation type="unfinished">Suuntaus</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Pysty</translation>
+        <translation type="unfinished">Pysty</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertAutoCropClass</name>
     <message>
         <source>Top</source>
-        <translation>Ylä</translation>
+        <translation type="unfinished">Ylä</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasen</translation>
+        <translation type="unfinished">Vasen</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation type="unfinished">Oikea</translation>
     </message>
     <message>
         <source>Tolerance</source>
-        <translation>Toleranssi</translation>
+        <translation type="unfinished">Toleranssi</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Ala</translation>
+        <translation type="unfinished">Ala</translation>
     </message>
     <message>
         <source>Edges:</source>
-        <translation>Reunat:</translation>
+        <translation type="unfinished">Reunat:</translation>
     </message>
     <message>
         <source>Color of pixel at</source>
-        <translation>Väriä pikselissä</translation>
+        <translation type="unfinished">Väriä pikselissä</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertAutoDeskew</name>
     <message>
         <source>Smooth</source>
-        <translation>Pehmennä</translation>
+        <translation type="unfinished">Pehmennä</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertBlackWhite</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Mono mixer</source>
-        <translation>Mono-mikseri</translation>
+        <translation type="unfinished">Mono-mikseri</translation>
     </message>
     <message>
         <source>Colorize</source>
-        <translation>Väritä</translation>
+        <translation type="unfinished">Väritä</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Värikylläisyys</translation>
+        <translation type="unfinished">Värikylläisyys</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertBloom</name>
     <message>
         <source>Blur</source>
-        <translation>Sumennus</translation>
+        <translation type="unfinished">Sumennus</translation>
     </message>
     <message>
         <source>Method</source>
-        <translation>Menetelmä</translation>
+        <translation type="unfinished">Menetelmä</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Peittävyys</translation>
+        <translation type="unfinished">Peittävyys</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertBlurredFrameClass</name>
     <message>
         <source> X </source>
-        <translation></translation>
+        <translation type="unfinished"> X </translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Sumenna</translation>
+        <translation type="unfinished">Sumenna</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Neliö</translation>
+        <translation type="unfinished">Neliö</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertBorderClass</name>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Syvyys</translation>
+        <translation type="unfinished">Syvyys</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskitä</translation>
+        <translation type="unfinished">Keskitä</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation>Säde</translation>
+        <translation type="unfinished">Säde</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Drop shadow</source>
-        <translation>Varjo</translation>
+        <translation type="unfinished">Varjo</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Suunta</translation>
+        <translation type="unfinished">Suunta</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Käytä pehmennystä</translation>
+        <translation type="unfinished">Käytä pehmennystä</translation>
     </message>
     <message>
         <source>Frame 1</source>
-        <translation>Kehys 1</translation>
+        <translation type="unfinished">Kehys 1</translation>
     </message>
     <message>
         <source>Frame 2</source>
-        <translation>Kehys 2</translation>
+        <translation type="unfinished">Kehys 2</translation>
     </message>
     <message>
         <source>Frame 3</source>
-        <translation>Kehys 3</translation>
+        <translation type="unfinished">Kehys 3</translation>
     </message>
     <message>
         <source>Rounded edge</source>
-        <translation>Reunan pyöristys</translation>
+        <translation type="unfinished">Reunan pyöristys</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -3342,107 +3342,107 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertCanvas</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation>mm</translation>
+        <translation type="unfinished">mm</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Tila</translation>
+        <translation type="unfinished">Tila</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation type="unfinished">Alfa</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation>Alkuperäinen koko</translation>
+        <translation type="unfinished">Alkuperäinen koko</translation>
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Pidä kuvasuhde</translation>
+        <translation type="unfinished">Pidä kuvasuhde</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskellä</translation>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Mukautettu</translation>
+        <translation type="unfinished">Mukautettu</translation>
     </message>
     <message>
         <source>Color of pixel at</source>
-        <translation>Väriä pikselissä</translation>
+        <translation type="unfinished">Väriä pikselissä</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normaali</translation>
+        <translation type="unfinished">Normaali</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>percent</source>
-        <translation>prosenttia</translation>
+        <translation type="unfinished">prosenttia</translation>
     </message>
     <message>
         <source>inches</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Esiasetukset</translation>
+        <translation type="unfinished">Esiasetukset</translation>
     </message>
     <message>
         <source>Follow orientation</source>
-        <translation>Seuraa suuntausta</translation>
+        <translation type="unfinished">Seuraa suuntausta</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Valokuva 5x7 tuumaa (13x18 cm)</translation>
+        <translation type="unfinished">Valokuva 5x7 tuumaa (13x18 cm)</translation>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Valokuva 4x6 tuumaa (10x15 cm)</translation>
+        <translation type="unfinished">Valokuva 4x6 tuumaa (10x15 cm)</translation>
     </message>
     <message>
         <source>Square - Longest side</source>
-        <translation>Neliö - Pisin sivu</translation>
+        <translation type="unfinished">Neliö - Pisin sivu</translation>
     </message>
     <message>
         <source>Square - Shortest side</source>
-        <translation>Neliö - Lyhin sivu</translation>
+        <translation type="unfinished">Neliö - Lyhin sivu</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Valokuva 6x8 tuumaa (15x20 cm)</translation>
+        <translation type="unfinished">Valokuva 6x8 tuumaa (15x20 cm)</translation>
     </message>
     <message>
         <source>Relative</source>
-        <translation>Suhteellinen</translation>
+        <translation type="unfinished">Suhteellinen</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Valokuva 8x10 tuumaa (20x25 cm)</translation>
+        <translation type="unfinished">Valokuva 8x10 tuumaa (20x25 cm)</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -3481,529 +3481,529 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertClass</name>
     <message>
         <source>&gt;</source>
-        <translation>&gt;</translation>
+        <translation type="unfinished">&gt;</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation>Kysy</translation>
+        <translation type="unfinished">Kysy</translation>
     </message>
     <message>
         <source>FTP</source>
-        <translation>FTP</translation>
+        <translation type="unfinished">FTP</translation>
     </message>
     <message>
         <source>Case</source>
-        <translation>Kirjoitusmuoto</translation>
+        <translation type="unfinished">Kirjoitusmuoto</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation>Tumma</translation>
+        <translation type="unfinished">Tumma</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Ohita</translation>
+        <translation type="unfinished">Ohita</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Pysäytä</translation>
+        <translation type="unfinished">Pysäytä</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation>Asetukset...</translation>
+        <translation type="unfinished">Asetukset...</translation>
     </message>
     <message>
         <source>Remove preset from list</source>
-        <translation>Poista esiasetus listalta</translation>
+        <translation type="unfinished">Poista esiasetus listalta</translation>
     </message>
     <message>
         <source>Load image...</source>
-        <translation>Ladataan kuva...</translation>
+        <translation type="unfinished">Ladataan kuva...</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Tietoja</translation>
+        <translation type="unfinished">Tietoja</translation>
     </message>
     <message>
         <source>After</source>
-        <translation>Jälkeen</translation>
+        <translation type="unfinished">Jälkeen</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sulje</translation>
+        <translation type="unfinished">Sulje</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation>Päivittäin</translation>
+        <translation type="unfinished">Päivittäin</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Vaalea</translation>
+        <translation type="unfinished">Vaalea</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Ei koskaan</translation>
+        <translation type="unfinished">Ei koskaan</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation>Teema</translation>
+        <translation type="unfinished">Teema</translation>
     </message>
     <message>
         <source>Estimated end time:</source>
-        <translation>Arvioitu loppumisaika:</translation>
+        <translation type="unfinished">Arvioitu loppumisaika:</translation>
     </message>
     <message>
         <source>Recipient:</source>
-        <translation>Vastaanottaja:</translation>
+        <translation type="unfinished">Vastaanottaja:</translation>
     </message>
     <message>
         <source>Preserve Metadata</source>
-        <translation>Säilytä metatiedot</translation>
+        <translation type="unfinished">Säilytä metatiedot</translation>
     </message>
     <message>
         <source>After conversion</source>
-        <translation>Muuntamisen jälkeen</translation>
+        <translation type="unfinished">Muuntamisen jälkeen</translation>
     </message>
     <message>
         <source>Load format settings...</source>
-        <translation>Lataa formaattiasetukset...</translation>
+        <translation type="unfinished">Lataa formaattiasetukset...</translation>
     </message>
     <message>
         <source>Processing list:</source>
-        <translation>Käsittelyluettelo:</translation>
+        <translation type="unfinished">Käsittelyluettelo:</translation>
     </message>
     <message>
         <source>Exit after conversion</source>
-        <translation>Sulje muunnoksen jälkeen</translation>
+        <translation type="unfinished">Sulje muunnoksen jälkeen</translation>
     </message>
     <message>
         <source>When output files already exist</source>
-        <translation>Kun samanniminen ulostulo-tiedosto on jo olemassa</translation>
+        <translation type="unfinished">Kun samanniminen ulostulo-tiedosto on jo olemassa</translation>
     </message>
     <message>
         <source>Update preview</source>
-        <translation>Päivitä näkymä</translation>
+        <translation type="unfinished">Päivitä näkymä</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nimi &amp; tiedostopääte pienillä kirjaimilla</translation>
+        <translation type="unfinished">Nimi &amp; tiedostopääte pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
-        <translation>Lisää &apos;Muunna XnConvertilla&apos; pikavalikkoon</translation>
+        <translation type="unfinished">Lisää &apos;Muunna XnConvertilla&apos; pikavalikkoon</translation>
     </message>
     <message>
         <source>Save script as</source>
-        <translation>Tallenna skripti nimellä</translation>
+        <translation type="unfinished">Tallenna skripti nimellä</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
-        <translation>Tiedostopääte isoilla kirjaimilla</translation>
+        <translation type="unfinished">Tiedostopääte isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Batch convert</source>
-        <translation>Muuntaminen sarjana</translation>
+        <translation type="unfinished">Muuntaminen sarjana</translation>
     </message>
     <message>
         <source>Multipage</source>
-        <translation>Monisivu</translation>
+        <translation type="unfinished">Monisivu</translation>
     </message>
     <message>
         <source>Remove unfiltered</source>
-        <translation>Poista suodattamattomat</translation>
+        <translation type="unfinished">Poista suodattamattomat</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation>Kuukausittain</translation>
+        <translation type="unfinished">Kuukausittain</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation>Sähköposti</translation>
+        <translation type="unfinished">Sähköposti</translation>
     </message>
     <message>
         <source>Album:</source>
-        <translation>Albumi:</translation>
+        <translation type="unfinished">Albumi:</translation>
     </message>
     <message>
         <source>Before</source>
-        <translation>Ennen</translation>
+        <translation type="unfinished">Ennen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
-        <translation>Huom! Tämän asetuksen muuttamiseen tarvitaan ylläpitäjän oikeudet</translation>
+        <translation type="unfinished">Huom! Tämän asetuksen muuttamiseen tarvitaan ylläpitäjän oikeudet</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Kansio</translation>
+        <translation type="unfinished">Kansio</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Lisää kansio...</translation>
+        <translation type="unfinished">Lisää kansio...</translation>
     </message>
     <message>
         <source>Registration...</source>
-        <translation>Rekisteröinti...</translation>
+        <translation type="unfinished">Rekisteröinti...</translation>
     </message>
     <message>
         <source>Use multiple CPU Cores</source>
-        <translation>Käytä montaa CPU-ydintä</translation>
+        <translation type="unfinished">Käytä montaa CPU-ydintä</translation>
     </message>
     <message>
         <source>Keep parent folder</source>
-        <translation>Säilytä pääkansio</translation>
+        <translation type="unfinished">Säilytä pääkansio</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation>Ulostulo</translation>
+        <translation type="unfinished">Ulostulo</translation>
     </message>
     <message>
         <source>Output filename:</source>
-        <translation>Muunnettujen tiedostonimi:</translation>
+        <translation type="unfinished">Muunnettujen tiedostonimi:</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Nimeä uudelleen</translation>
+        <translation type="unfinished">Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Open in Browser</source>
-        <translation>Avaa selaimessa</translation>
+        <translation type="unfinished">Avaa selaimessa</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Tapahtuma</translation>
+        <translation type="unfinished">Tapahtuma</translation>
     </message>
     <message>
         <source>Save actions list at exiting</source>
-        <translation>Tallenna toimintolista lopetettessa</translation>
+        <translation type="unfinished">Tallenna toimintolista lopetettessa</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation>Viikottain</translation>
+        <translation type="unfinished">Viikottain</translation>
     </message>
     <message>
         <source>Name lowercase</source>
-        <translation>Nimi pienillä kirjaimilla</translation>
+        <translation type="unfinished">Nimi pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Preserve extension</source>
-        <translation>Säilytä tiedostomuoto</translation>
+        <translation type="unfinished">Säilytä tiedostomuoto</translation>
     </message>
     <message>
         <source>Start index</source>
-        <translation>Aloitusindeksi</translation>
+        <translation type="unfinished">Aloitusindeksi</translation>
     </message>
     <message>
         <source>Preserve color profile</source>
-        <translation>Säilytä väriprofiili</translation>
+        <translation type="unfinished">Säilytä väriprofiili</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Valinnat</translation>
+        <translation type="unfinished">Valinnat</translation>
     </message>
     <message>
         <source>No change</source>
-        <translation>Ei muuteta</translation>
+        <translation type="unfinished">Ei muuteta</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation>Poista kaikki</translation>
+        <translation type="unfinished">Poista kaikki</translation>
     </message>
     <message>
         <source>Follow us on Facebook...</source>
-        <translation>Seuraa meitä Facebookissa...</translation>
+        <translation type="unfinished">Seuraa meitä Facebookissa...</translation>
     </message>
     <message>
         <source>Open file explorer</source>
-        <translation>Avaa tiedosto resurssienhallinassa</translation>
+        <translation type="unfinished">Avaa tiedosto resurssienhallinassa</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Tallenna esiasetus</translation>
+        <translation type="unfinished">Tallenna esiasetus</translation>
     </message>
     <message>
         <source>Load preset</source>
-        <translation>Lataa esiasetus</translation>
+        <translation type="unfinished">Lataa esiasetus</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Esikatselu</translation>
+        <translation type="unfinished">Esikatselu</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation>Toiminnot</translation>
+        <translation type="unfinished">Toiminnot</translation>
     </message>
     <message>
         <source>Load script</source>
-        <translation>Lataa skripti</translation>
+        <translation type="unfinished">Lataa skripti</translation>
     </message>
     <message>
         <source>Add action&gt;</source>
-        <translation>Lisää toiminto&gt;</translation>
+        <translation type="unfinished">Lisää toiminto&gt;</translation>
     </message>
     <message>
         <source>Remaining:</source>
-        <translation>Jäljellä:</translation>
+        <translation type="unfinished">Jäljellä:</translation>
     </message>
     <message>
         <source>Parameters</source>
-        <translation>Parametrit</translation>
+        <translation type="unfinished">Parametrit</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Kieli</translation>
+        <translation type="unfinished">Kieli</translation>
     </message>
     <message>
         <source>Restore previous input file list</source>
-        <translation>Palauta edellinen tiedostolista</translation>
+        <translation type="unfinished">Palauta edellinen tiedostolista</translation>
     </message>
     <message>
         <source>As original</source>
-        <translation>Sama kuin alkuperäinen</translation>
+        <translation type="unfinished">Sama kuin alkuperäinen</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Korvaa</translation>
+        <translation type="unfinished">Korvaa</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Esiasetukset:</translation>
+        <translation type="unfinished">Esiasetukset:</translation>
     </message>
     <message>
         <source>Convert all pages from multipage file</source>
-        <translation>Muunna kaikki sivut monisivutiedostosta</translation>
+        <translation type="unfinished">Muunna kaikki sivut monisivutiedostosta</translation>
     </message>
     <message>
         <source>Clear the &apos;Input&apos; file(s)</source>
-        <translation>Tyhjennä muunnettavien lista</translation>
+        <translation type="unfinished">Tyhjennä muunnettavien lista</translation>
     </message>
     <message>
         <source>Error(s):</source>
-        <translation>Virhe(et):</translation>
+        <translation type="unfinished">Virhe(et):</translation>
     </message>
     <message>
         <source>Extension lowercase</source>
-        <translation>Tiedostopääte pienillä kirjaimilla</translation>
+        <translation type="unfinished">Tiedostopääte pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Remove script from list</source>
-        <translation>Poista skripti listalta</translation>
+        <translation type="unfinished">Poista skripti listalta</translation>
     </message>
     <message>
         <source>Processing</source>
-        <translation>Käsittely</translation>
+        <translation type="unfinished">Käsittely</translation>
     </message>
     <message>
         <source>You can switch between tabs with &apos;space&apos; key</source>
-        <translation>Voit vaihtaa välilehtiä välilyöntinäppäimellä</translation>
+        <translation type="unfinished">Voit vaihtaa välilehtiä välilyöntinäppäimellä</translation>
     </message>
     <message>
         <source>Delete original</source>
-        <translation>Poista alkuperäinen</translation>
+        <translation type="unfinished">Poista alkuperäinen</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nimi &amp; tiedostopääte isoilla kirjaimilla</translation>
+        <translation type="unfinished">Nimi &amp; tiedostopääte isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation>Muunna</translation>
+        <translation type="unfinished">Muunna</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
-        <translation>&amp;Muunna</translation>
+        <translation type="unfinished">&amp;Muunna</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Oletus</translation>
+        <translation type="unfinished">Oletus</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation>Tyhjennä kaikki</translation>
+        <translation type="unfinished">Tyhjennä kaikki</translation>
     </message>
     <message>
         <source>Previous file</source>
-        <translation>Edellinen tiedosto</translation>
+        <translation type="unfinished">Edellinen tiedosto</translation>
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Käännä EXIF- suuntausmerkintöjen mukaisesti</translation>
+        <translation type="unfinished">Käännä EXIF- suuntausmerkintöjen mukaisesti</translation>
     </message>
     <message>
         <source>Add files...</source>
-        <translation>Lisää tiedostot...</translation>
+        <translation type="unfinished">Lisää tiedostot...</translation>
     </message>
     <message>
         <source>Remove filtered</source>
-        <translation>Poista suodatetut</translation>
+        <translation type="unfinished">Poista suodatetut</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation>Aloita isolla kirjaimella</translation>
+        <translation type="unfinished">Aloita isolla kirjaimella</translation>
     </message>
     <message>
         <source>You can drag&amp;drop your files on the list below.</source>
-        <translation>Voit raahata ja pudottaa tiedostosi alla olevaan listaan.</translation>
+        <translation type="unfinished">Voit raahata ja pudottaa tiedostosi alla olevaan listaan.</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Paras sovitus</translation>
+        <translation type="unfinished">Paras sovitus</translation>
     </message>
     <message>
         <source>Hot folders...</source>
-        <translation>Hotit kansiot...</translation>
+        <translation type="unfinished">Hotit kansiot...</translation>
     </message>
     <message>
         <source>Source folder</source>
-        <translation>Lähdekansio</translation>
+        <translation type="unfinished">Lähdekansio</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message>
         <source>Keep original date/time attributes</source>
-        <translation>Säilytä alkuperäiset päiväys/aika-määritykset</translation>
+        <translation type="unfinished">Säilytä alkuperäiset päiväys/aika-määritykset</translation>
     </message>
     <message>
         <source>Clear filename field at startup</source>
-        <translation>Tyhjennä tiedostonimikenttä käynnistettäessä</translation>
+        <translation type="unfinished">Tyhjennä tiedostonimikenttä käynnistettäessä</translation>
     </message>
     <message>
         <source>If an output file already exists</source>
-        <translation>Jos ulostulotiedosto on jo olemassa</translation>
+        <translation type="unfinished">Jos ulostulotiedosto on jo olemassa</translation>
     </message>
     <message>
         <source>Export for NConvert...</source>
-        <translation>Vie NConvertille...</translation>
+        <translation type="unfinished">Vie NConvertille...</translation>
     </message>
     <message>
         <source>Convert multipage file to multipage file (when possible)</source>
-        <translation>Säilytä monisivuisuus muunnettaessa (jos mahdollista)</translation>
+        <translation type="unfinished">Säilytä monisivuisuus muunnettaessa (jos mahdollista)</translation>
     </message>
     <message>
         <source>Preview background color</source>
-        <translation>Taustavärin esikatselu</translation>
+        <translation type="unfinished">Taustavärin esikatselu</translation>
     </message>
     <message>
         <source>Load last script used at startup</source>
-        <translation>Lataa käynnistettäessä viimeksi käytetty skripti</translation>
+        <translation type="unfinished">Lataa käynnistettäessä viimeksi käytetty skripti</translation>
     </message>
     <message>
         <source>Name uppercase</source>
-        <translation>Nimi isoilla kirjaimilla</translation>
+        <translation type="unfinished">Nimi isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Tarkista ohjelman päivitykset</translation>
+        <translation type="unfinished">Tarkista ohjelman päivitykset</translation>
     </message>
     <message>
         <source>Keep folder structure</source>
-        <translation>Säilytä kansiorakenne</translation>
+        <translation type="unfinished">Säilytä kansiorakenne</translation>
     </message>
     <message>
         <source>Next file</source>
-        <translation>Suraava tiedosto</translation>
+        <translation type="unfinished">Suraava tiedosto</translation>
     </message>
     <message>
         <source>Follow us on Twitter...</source>
-        <translation>Seuraa meitä Twitterissä...</translation>
+        <translation type="unfinished">Seuraa meitä Twitterissä...</translation>
     </message>
     <message>
         <source>Beep at the end of process</source>
-        <translation>Äänimerkki prosessin loputtua</translation>
+        <translation type="unfinished">Äänimerkki prosessin loputtua</translation>
     </message>
     <message>
         <source>Apply actions</source>
-        <translation>Valitse toiminnat</translation>
+        <translation type="unfinished">Valitse toiminnat</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
-        <translation>Käytettävä väri perustuu tiedostomuotoon</translation>
+        <translation type="unfinished">Käytettävä väri perustuu tiedostomuotoon</translation>
     </message>
     <message>
         <source>Keep original file when encoded result is larger (experimental)</source>
-        <translation>Säilytä alkuperäinen tiedosto, kun koodattu tulos on suurempi (kokeellinen)</translation>
+        <translation type="unfinished">Säilytä alkuperäinen tiedosto, kun koodattu tulos on suurempi (kokeellinen)</translation>
     </message>
     <message>
         <source>Remove file from filelist</source>
-        <translation>Poista tiedosto tiedostolistalta</translation>
+        <translation type="unfinished">Poista tiedosto tiedostolistalta</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertCleanMetaClass</name>
     <message>
         <source>ICC profile</source>
-        <translation>ICC profiili</translation>
+        <translation type="unfinished">ICC profiili</translation>
     </message>
     <message>
         <source>EXIF thumbnail</source>
-        <translation>EXIF-esikatselukuvat</translation>
+        <translation type="unfinished">EXIF-esikatselukuvat</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Kommentti</translation>
+        <translation type="unfinished">Kommentti</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertColorsClass</name>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation type="unfinished">Alfa</translation>
     </message>
     <message>
         <source>Binary</source>
-        <translation>Binääri</translation>
+        <translation type="unfinished">Binääri</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation>Värit</translation>
+        <translation type="unfinished">Värit</translation>
     </message>
     <message>
         <source>24 bits</source>
-        <translation>24 bittiä</translation>
+        <translation type="unfinished">24 bittiä</translation>
     </message>
     <message>
         <source>Background color to use if image has an alpha channel</source>
-        <translation>Taustaväri on käytössä alfa-kanava kuvissa</translation>
+        <translation type="unfinished">Taustaväri on käytössä alfa-kanava kuvissa</translation>
     </message>
     <message>
         <source>32 bits</source>
-        <translation>32 bittiä</translation>
+        <translation type="unfinished">32 bittiä</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Harmaasävy</translation>
+        <translation type="unfinished">Harmaasävy</translation>
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Rasterointi</translation>
+        <translation type="unfinished">Rasterointi</translation>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
@@ -4014,374 +4014,374 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertCropClass</name>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation type="unfinished">X</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation type="unfinished">Y</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Ylös</translation>
+        <translation type="unfinished">Ylös</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasen</translation>
+        <translation type="unfinished">Vasen</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation type="unfinished">Oikea</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alas</translation>
+        <translation type="unfinished">Alas</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>from edge</source>
-        <translation>reunasta</translation>
+        <translation type="unfinished">reunasta</translation>
     </message>
     <message>
         <source>(pixels)</source>
-        <translation>(pikseliä)</translation>
+        <translation type="unfinished">(pikseliä)</translation>
     </message>
     <message>
         <source>from position</source>
-        <translation>sijainnista</translation>
+        <translation type="unfinished">sijainnista</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertCrystallize</name>
     <message>
         <source>Edges</source>
-        <translation>Reunat</translation>
+        <translation type="unfinished">Reunat</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation>Skaalaus</translation>
+        <translation type="unfinished">Skaalaus</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation>Muoto</translation>
+        <translation type="unfinished">Muoto</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation>Satunnainen</translation>
+        <translation type="unfinished">Satunnainen</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Neliö</translation>
+        <translation type="unfinished">Neliö</translation>
     </message>
     <message>
         <source>Fade edges</source>
-        <translation>Sumenna reunat</translation>
+        <translation type="unfinished">Sumenna reunat</translation>
     </message>
     <message>
         <source>Triangular</source>
-        <translation>Kolmio</translation>
+        <translation type="unfinished">Kolmio</translation>
     </message>
     <message>
         <source>Octogonal</source>
-        <translation>Kahdeksankulmio</translation>
+        <translation type="unfinished">Kahdeksankulmio</translation>
     </message>
     <message>
         <source>Hexagonal</source>
-        <translation>Kuusikulmio</translation>
+        <translation type="unfinished">Kuusikulmio</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertDblValueClass</name>
     <message>
         <source>Intensity</source>
-        <translation>Voimakkuus</translation>
+        <translation type="unfinished">Voimakkuus</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertDeinterlaceClass</name>
     <message>
         <source>Eliminate</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Interpolation</source>
-        <translation>Interpolointi</translation>
+        <translation type="unfinished">Interpolointi</translation>
     </message>
     <message>
         <source>Even fields</source>
-        <translation>Parilliset kentät</translation>
+        <translation type="unfinished">Parilliset kentät</translation>
     </message>
     <message>
         <source>Odd fields</source>
-        <translation>Parittomat kentät</translation>
+        <translation type="unfinished">Parittomat kentät</translation>
     </message>
     <message>
         <source>New fields</source>
-        <translation>Uudet kentät</translation>
+        <translation type="unfinished">Uudet kentät</translation>
     </message>
     <message>
         <source>Duplication</source>
-        <translation>Duuplikaatti</translation>
+        <translation type="unfinished">Duuplikaatti</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertDesaturate</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation>Syaani</translation>
+        <translation type="unfinished">Syaani</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Magenta</source>
-        <translation>Purppura</translation>
+        <translation type="unfinished">Purppura</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>Keltainen</translation>
+        <translation type="unfinished">Keltainen</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertDpiClass</name>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation type="unfinished">X</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation type="unfinished">Y</translation>
     </message>
     <message>
         <source>Keep print size</source>
-        <translation>Säilytä tulostuskoko</translation>
+        <translation type="unfinished">Säilytä tulostuskoko</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertEdgeClass</name>
     <message>
         <source>Heavy</source>
-        <translation>Voimakas</translation>
+        <translation type="unfinished">Voimakas</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Valo</translation>
+        <translation type="unfinished">Valo</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation>Keski</translation>
+        <translation type="unfinished">Keski</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation>Voimakkuus</translation>
+        <translation type="unfinished">Voimakkuus</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertExtractChanClass</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation type="unfinished">Alfa</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertFilterClass</name>
     <message>
         <source>Filter size</source>
-        <translation>Suodinkoko</translation>
+        <translation type="unfinished">Suodinkoko</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertHLSClass</name>
     <message>
         <source>Hue</source>
-        <translation>Sävy</translation>
+        <translation type="unfinished">Sävy</translation>
     </message>
     <message>
         <source>Colorize</source>
-        <translation>Väritä</translation>
+        <translation type="unfinished">Väritä</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Värikylläisyys</translation>
+        <translation type="unfinished">Värikylläisyys</translation>
     </message>
     <message>
         <source>Lightness</source>
-        <translation>Valoisuus</translation>
+        <translation type="unfinished">Valoisuus</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertICC</name>
     <message>
         <source>Load ICC profile</source>
-        <translation>Lataa ICC-profiili</translation>
+        <translation type="unfinished">Lataa ICC-profiili</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertICCClass</name>
     <message>
         <source>Absolute colorimetric</source>
-        <translation>Absoluuttinen kolorometri</translation>
+        <translation type="unfinished">Absoluuttinen kolorometri</translation>
     </message>
     <message>
         <source>Output profile (sRGB by default)</source>
-        <translation>Ulostuloprofiili (sRGB oletuksena)</translation>
+        <translation type="unfinished">Ulostuloprofiili (sRGB oletuksena)</translation>
     </message>
     <message>
         <source>Ignore embedded profile</source>
-        <translation>Jätä huomioimatta upotetut profiilit</translation>
+        <translation type="unfinished">Jätä huomioimatta upotetut profiilit</translation>
     </message>
     <message>
         <source>Black point compensation</source>
-        <translation>Mustan pisteen kompensatio</translation>
+        <translation type="unfinished">Mustan pisteen kompensatio</translation>
     </message>
     <message>
         <source>Perceptual</source>
-        <translation>Havainnollinen</translation>
+        <translation type="unfinished">Havainnollinen</translation>
     </message>
     <message>
         <source>Relative colorimetric</source>
-        <translation>Suhteellinen kolorimetri</translation>
+        <translation type="unfinished">Suhteellinen kolorimetri</translation>
     </message>
     <message>
         <source>Rendering intent</source>
-        <translation>Värien sovitusperuste</translation>
+        <translation type="unfinished">Värien sovitusperuste</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Värikylläisyys</translation>
+        <translation type="unfinished">Värikylläisyys</translation>
     </message>
     <message>
         <source>Input profile (sRGB by default)</source>
-        <translation>Sisääntuloprofiili (sRGB oletuksena)</translation>
+        <translation type="unfinished">Sisääntuloprofiili (sRGB oletuksena)</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertInnerFrameClass</name>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Siirtymä</translation>
+        <translation type="unfinished">Siirtymä</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation>Täyttöväri</translation>
+        <translation type="unfinished">Täyttöväri</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertIntValueClass</name>
     <message>
         <source>Intensity</source>
-        <translation>Voimakkuus</translation>
+        <translation type="unfinished">Voimakkuus</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertIptc</name>
     <message>
         <source>Mode:</source>
-        <translation>Tila:</translation>
+        <translation type="unfinished">Tila:</translation>
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IPTC-IIM, päivitä tai luo XMP</translation>
+        <translation type="unfinished">IPTC-IIM, päivitä tai luo XMP</translation>
     </message>
     <message>
         <source>XMP only</source>
-        <translation>Vain XMP</translation>
+        <translation type="unfinished">Vain XMP</translation>
     </message>
     <message>
         <source>IPTC-IIM only</source>
-        <translation>Vain IPTC-IIM</translation>
+        <translation type="unfinished">Vain IPTC-IIM</translation>
     </message>
     <message>
         <source>Load template...</source>
-        <translation>Lataa mallipohja...</translation>
+        <translation type="unfinished">Lataa mallipohja...</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Valinnat</translation>
+        <translation type="unfinished">Valinnat</translation>
     </message>
     <message>
         <source>Works only for JPEG, TIFF, PNG output format</source>
-        <translation>Toimii vain JPEG, TIFF, PNG ulostuloformaateille</translation>
+        <translation type="unfinished">Toimii vain JPEG, TIFF, PNG ulostuloformaateille</translation>
     </message>
     <message>
         <source>Replace all values</source>
-        <translation>Korvaa kaikki arvot</translation>
+        <translation type="unfinished">Korvaa kaikki arvot</translation>
     </message>
     <message>
         <source>Country code</source>
-        <translation>Maakoodi</translation>
+        <translation type="unfinished">Maakoodi</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, päivitä tai luo IPTC-IIM</translation>
+        <translation type="unfinished">XMP, päivitä tai luo IPTC-IIM</translation>
     </message>
     <message>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>Pidä ja lisää uusi arvo
+        <translation type="unfinished">Pidä ja lisää uusi arvo
  (Avainsanat ja täydentävät kategoriat)</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Lisää</translation>
+        <translation type="unfinished">Lisää</translation>
     </message>
     <message>
         <source>Insert from</source>
-        <translation>Lisää kohteesta</translation>
+        <translation type="unfinished">Lisää kohteesta</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation>Ulostulo</translation>
+        <translation type="unfinished">Ulostulo</translation>
     </message>
     <message>
         <source>Luminance</source>
@@ -4400,210 +4400,210 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertLossless</name>
     <message>
         <source>180°</source>
-        <translation>180°</translation>
+        <translation type="unfinished">180°</translation>
     </message>
     <message>
         <source>90° to the right</source>
-        <translation>90° oikealle</translation>
+        <translation type="unfinished">90° oikealle</translation>
     </message>
     <message>
         <source>based on EXIF rotation value</source>
-        <translation>EXIF suuntausmerkintöjen mukaisesti</translation>
+        <translation type="unfinished">EXIF suuntausmerkintöjen mukaisesti</translation>
     </message>
     <message>
         <source>90° to the left</source>
-        <translation>90° vasemmalle</translation>
+        <translation type="unfinished">90° vasemmalle</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertMaskClass</name>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Sumennus</translation>
+        <translation type="unfinished">Sumennus</translation>
     </message>
     <message>
         <source>Mask</source>
-        <translation>Maski</translation>
+        <translation type="unfinished">Maski</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Peittävyys</translation>
+        <translation type="unfinished">Peittävyys</translation>
     </message>
     <message>
         <source>Use mask as alpha</source>
-        <translation>Käytä alfamaskia</translation>
+        <translation type="unfinished">Käytä alfamaskia</translation>
     </message>
     <message>
         <source>Repeat mask</source>
-        <translation>Toistuva maski</translation>
+        <translation type="unfinished">Toistuva maski</translation>
     </message>
     <message>
         <source>Stretch mask</source>
-        <translation>Venyvä maski</translation>
+        <translation type="unfinished">Venyvä maski</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertMirrorClass</name>
     <message>
         <source>Horizontal</source>
-        <translation>Vaakasuunnassa</translation>
+        <translation type="unfinished">Vaakasuunnassa</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pystysuunnassa</translation>
+        <translation type="unfinished">Pystysuunnassa</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertNoiseClass</name>
     <message>
         <source>Type</source>
-        <translation>Tyyppi</translation>
+        <translation type="unfinished">Tyyppi</translation>
     </message>
     <message>
         <source>Laplacian</source>
-        <translation></translation>
+        <translation type="unfinished">Laplacian</translation>
     </message>
     <message>
         <source>Poisson</source>
-        <translation></translation>
+        <translation type="unfinished">Poisson</translation>
     </message>
     <message>
         <source>Gaussian</source>
-        <translation></translation>
+        <translation type="unfinished">Gaussian</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation>Voimakkuus</translation>
+        <translation type="unfinished">Voimakkuus</translation>
     </message>
     <message>
         <source>Uniform</source>
-        <translation></translation>
+        <translation type="unfinished">Uniform</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertOffset</name>
     <message>
         <source>Up</source>
-        <translation>Ylhäältä</translation>
+        <translation type="unfinished">Ylhäältä</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Alhaalta</translation>
+        <translation type="unfinished">Alhaalta</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasemmalta</translation>
+        <translation type="unfinished">Vasemmalta</translation>
     </message>
     <message>
         <source>Wrap image around</source>
-        <translation>Kietaise kuva</translation>
+        <translation type="unfinished">Kietaise kuva</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikealta</translation>
+        <translation type="unfinished">Oikealta</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Repeat edges pixels</source>
-        <translation>Toista reunuksen pikselit</translation>
+        <translation type="unfinished">Toista reunuksen pikselit</translation>
     </message>
     <message>
         <source>Empty Area</source>
-        <translation>Tyhjä alue</translation>
+        <translation type="unfinished">Tyhjä alue</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation>Siirtymä X</translation>
+        <translation type="unfinished">Siirtymä X</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation>Siirtymä Y</translation>
+        <translation type="unfinished">Siirtymä Y</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertOldCameraClass</name>
     <message>
         <source>Power</source>
-        <translation>Teho</translation>
+        <translation type="unfinished">Teho</translation>
     </message>
     <message>
         <source>Sepia</source>
-        <translation>Seepia</translation>
+        <translation type="unfinished">Seepia</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>Varjo</translation>
+        <translation type="unfinished">Varjo</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertPhotoSpread</name>
     <message>
         <source>Angle</source>
-        <translation>Kulma</translation>
+        <translation type="unfinished">Kulma</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>Määrä</translation>
+        <translation type="unfinished">Määrä</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertPointsClass</name>
     <message>
         <source>White point</source>
-        <translation>Valkoinen piste</translation>
+        <translation type="unfinished">Valkoinen piste</translation>
     </message>
     <message>
         <source>Black point</source>
-        <translation>Mustapiste</translation>
+        <translation type="unfinished">Mustapiste</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertPosterizeClass</name>
     <message>
         <source># of colors</source>
-        <translation># väriä</translation>
+        <translation type="unfinished"># väriä</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertQRcode</name>
     <message>
         <source>Scale</source>
-        <translation>Skaalaus</translation>
+        <translation type="unfinished">Skaalaus</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Reunus</translation>
+        <translation type="unfinished">Reunus</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskellä</translation>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>Y margin</source>
-        <translation>Y-marginaali</translation>
+        <translation type="unfinished">Y-marginaali</translation>
     </message>
     <message>
         <source>X margin</source>
-        <translation>X-marginaali</translation>
+        <translation type="unfinished">X-marginaali</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -4642,272 +4642,272 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertRGBClass</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertRemoveColor</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Tolerance</source>
-        <translation>Toleranssi</translation>
+        <translation type="unfinished">Toleranssi</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertReplaceColorClass</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Tolerance</source>
-        <translation>Toleranssi</translation>
+        <translation type="unfinished">Toleranssi</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertResizeClass</name>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished">%</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation>mm</translation>
+        <translation type="unfinished">mm</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation>Sovita</translation>
+        <translation type="unfinished">Sovita</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Täytä</translation>
+        <translation type="unfinished">Täytä</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Tapa</translation>
+        <translation type="unfinished">Tapa</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation></translation>
+        <translation type="unfinished">Bilinear</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation>Alkuperäinen koko</translation>
+        <translation type="unfinished">Alkuperäinen koko</translation>
     </message>
     <message>
         <source>Enlarge/Reduce</source>
-        <translation>Suurenna/pienennä</translation>
+        <translation type="unfinished">Suurenna/pienennä</translation>
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Pidä kuvasuhde</translation>
+        <translation type="unfinished">Pidä kuvasuhde</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Käytä gammakorjausta</translation>
+        <translation type="unfinished">Käytä gammakorjausta</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
-        <translation>Lähin naapuri</translation>
+        <translation type="unfinished">Lähin naapuri</translation>
     </message>
     <message>
         <source>Shortest side</source>
-        <translation>Lyhyin sivu</translation>
+        <translation type="unfinished">Lyhyin sivu</translation>
     </message>
     <message>
         <source>Mpixels</source>
-        <translation>Megapikseliä</translation>
+        <translation type="unfinished">Megapikseliä</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Aina</translation>
+        <translation type="unfinished">Aina</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Muokattu</translation>
+        <translation type="unfinished">Muokattu</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>percent</source>
-        <translation>prosenttia</translation>
+        <translation type="unfinished">prosenttia</translation>
     </message>
     <message>
         <source>inches</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Esiasetukset</translation>
+        <translation type="unfinished">Esiasetukset</translation>
     </message>
     <message>
         <source>Follow orientation</source>
-        <translation>Seuraa suuntausta</translation>
+        <translation type="unfinished">Seuraa suuntausta</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Valokuva 5x7 tuumaa (13x18 cm)</translation>
+        <translation type="unfinished">Valokuva 5x7 tuumaa (13x18 cm)</translation>
     </message>
     <message>
         <source>Reduce only</source>
-        <translation>Vain pienennä</translation>
+        <translation type="unfinished">Vain pienennä</translation>
     </message>
     <message>
         <source>Enlarge only</source>
-        <translation>Vain suurenna</translation>
+        <translation type="unfinished">Vain suurenna</translation>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Valokuva 4x6 tuumaa (10x15 cm)</translation>
+        <translation type="unfinished">Valokuva 4x6 tuumaa (10x15 cm)</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Valokuva 6x8 tuumaa (15x20 cm)</translation>
+        <translation type="unfinished">Valokuva 6x8 tuumaa (15x20 cm)</translation>
     </message>
     <message>
         <source>Resample</source>
-        <translation>Interpolointi</translation>
+        <translation type="unfinished">Interpolointi</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation>Kuvan koko</translation>
+        <translation type="unfinished">Kuvan koko</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Valokuva 8x10 tuumaa (20x25 cm)</translation>
+        <translation type="unfinished">Valokuva 8x10 tuumaa (20x25 cm)</translation>
     </message>
     <message>
         <source>Longest side</source>
-        <translation>Pisin sivu</translation>
+        <translation type="unfinished">Pisin sivu</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertRetro</name>
     <message>
         <source>Power</source>
-        <translation>Teho</translation>
+        <translation type="unfinished">Teho</translation>
     </message>
     <message>
         <source>Vignette</source>
-        <translation>Vinjetti</translation>
+        <translation type="unfinished">Vinjetti</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertRotate</name>
     <message>
         <source>180° right</source>
-        <translation>180° oikealle</translation>
+        <translation type="unfinished">180° oikealle</translation>
     </message>
     <message>
         <source>90° right</source>
-        <translation>90° oikealle</translation>
+        <translation type="unfinished">90° oikealle</translation>
     </message>
     <message>
         <source>180° left</source>
-        <translation>180° vasemmalle</translation>
+        <translation type="unfinished">180° vasemmalle</translation>
     </message>
     <message>
         <source>90° left</source>
-        <translation>90° vasemmalle</translation>
+        <translation type="unfinished">90° vasemmalle</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertRotateClass</name>
     <message>
         <source>All</source>
-        <translation>Kaikki</translation>
+        <translation type="unfinished">Kaikki</translation>
     </message>
     <message>
         <source>180°</source>
-        <translation>180°</translation>
+        <translation type="unfinished">180°</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation>Kulma</translation>
+        <translation type="unfinished">Kulma</translation>
     </message>
     <message>
         <source>Only portrait</source>
-        <translation>Vain pysty</translation>
+        <translation type="unfinished">Vain pysty</translation>
     </message>
     <message>
         <source>Only landscape</source>
-        <translation>Vain Vaaka</translation>
+        <translation type="unfinished">Vain Vaaka</translation>
     </message>
     <message>
         <source>-180°</source>
-        <translation>-180°</translation>
+        <translation type="unfinished">-180°</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation>Pehmennä</translation>
+        <translation type="unfinished">Pehmennä</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation>Automaattinen rajaus</translation>
+        <translation type="unfinished">Automaattinen rajaus</translation>
     </message>
     <message>
         <source>EXIF Orientation</source>
-        <translation>EXIF-suuntaus</translation>
+        <translation type="unfinished">EXIF-suuntaus</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertShadowClass</name>
     <message>
         <source>Shadow</source>
-        <translation>Varjo</translation>
+        <translation type="unfinished">Varjo</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation>Valoisuus</translation>
+        <translation type="unfinished">Valoisuus</translation>
     </message>
 </context>
 <context>
@@ -4921,173 +4921,173 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertSymetry</name>
     <message>
         <source>Angle</source>
-        <translation>Kulma</translation>
+        <translation type="unfinished">Kulma</translation>
     </message>
     <message>
         <source>Sides</source>
-        <translation>Sivut</translation>
+        <translation type="unfinished">Sivut</translation>
     </message>
     <message>
         <source>Kaleidoscope</source>
-        <translation>Kaleidoskooppi</translation>
+        <translation type="unfinished">Kaleidoskooppi</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Vaakasuunta</translation>
+        <translation type="unfinished">Vaakasuunta</translation>
     </message>
     <message>
         <source>Method</source>
-        <translation>Metodi</translation>
+        <translation type="unfinished">Metodi</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pystysuunta</translation>
+        <translation type="unfinished">Pystysuunta</translation>
     </message>
     <message>
         <source>Vertical and Horizontal</source>
-        <translation>Pysty- ja vaakasuunta</translation>
+        <translation type="unfinished">Pysty- ja vaakasuunta</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertTemperature</name>
     <message>
         <source>Cooler</source>
-        <translation>Kylmä</translation>
+        <translation type="unfinished">Kylmä</translation>
     </message>
     <message>
         <source>Warmer</source>
-        <translation>Lämmin</translation>
+        <translation type="unfinished">Lämmin</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertTextClass</name>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="unfinished">B</translation>
     </message>
     <message>
         <source>I</source>
-        <translation>I</translation>
+        <translation type="unfinished">I</translation>
     </message>
     <message>
         <source>S</source>
-        <translation>S</translation>
+        <translation type="unfinished">S</translation>
     </message>
     <message>
         <source>U</source>
-        <translation>U</translation>
+        <translation type="unfinished">U</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Sumenna</translation>
+        <translation type="unfinished">Sumenna</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Täyttö</translation>
+        <translation type="unfinished">Täyttö</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fontti</translation>
+        <translation type="unfinished">Fontti</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>Tyyli</translation>
+        <translation type="unfinished">Tyyli</translation>
     </message>
     <message>
         <source>Unit:</source>
-        <translation>Yksikkö:</translation>
+        <translation type="unfinished">Yksikkö:</translation>
     </message>
     <message>
         <source>% (Minimum)</source>
-        <translation>% (Minimi)</translation>
+        <translation type="unfinished">% (Minimi)</translation>
     </message>
     <message>
         <source>Adjust to image&apos;s width</source>
-        <translation>Säädä kuvan leveyden mukaan</translation>
+        <translation type="unfinished">Säädä kuvan leveyden mukaan</translation>
     </message>
     <message>
         <source>Aspect</source>
-        <translation>Muotoilu</translation>
+        <translation type="unfinished">Muotoilu</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Reunus</translation>
+        <translation type="unfinished">Reunus</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskellä</translation>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>Varjo</translation>
+        <translation type="unfinished">Varjo</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Peittävyys</translation>
+        <translation type="unfinished">Peittävyys</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>Rotation</source>
-        <translation>Kääntäminen</translation>
+        <translation type="unfinished">Kääntäminen</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Ääriviivat</translation>
+        <translation type="unfinished">Ääriviivat</translation>
     </message>
     <message>
         <source>Y margin</source>
-        <translation>Y-marginaali</translation>
+        <translation type="unfinished">Y-marginaali</translation>
     </message>
     <message>
         <source>X margin</source>
-        <translation>X-marginaali</translation>
+        <translation type="unfinished">X-marginaali</translation>
     </message>
     <message>
         <source>points</source>
-        <translation>Pisteet</translation>
+        <translation type="unfinished">Pisteet</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Käytä pehmennystä</translation>
+        <translation type="unfinished">Käytä pehmennystä</translation>
     </message>
     <message>
         <source>Activated</source>
-        <translation>Aktivoitu</translation>
+        <translation type="unfinished">Aktivoitu</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation>Siirtymä X</translation>
+        <translation type="unfinished">Siirtymä X</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation>Siirtymä Y</translation>
+        <translation type="unfinished">Siirtymä Y</translation>
     </message>
     <message>
         <source>% (Width)</source>
-        <translation>% (Leveys)</translation>
+        <translation type="unfinished">% (Leveys)</translation>
     </message>
     <message>
         <source>% (Height)</source>
-        <translation>% (Korkeus)</translation>
+        <translation type="unfinished">% (Korkeus)</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation>Järjestäminen</translation>
+        <translation type="unfinished">Järjestäminen</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -5126,121 +5126,121 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertUnsharp</name>
     <message>
         <source>Amount</source>
-        <translation>Määrä</translation>
+        <translation type="unfinished">Määrä</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation>Säde</translation>
+        <translation type="unfinished">Säde</translation>
     </message>
     <message>
         <source>Threshold</source>
-        <translation>Kynnys</translation>
+        <translation type="unfinished">Kynnys</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertVignetteClass</name>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Power</source>
-        <translation>Teho</translation>
+        <translation type="unfinished">Teho</translation>
     </message>
     <message>
         <source>Y-Offset</source>
-        <translation>Y-Siirtymä</translation>
+        <translation type="unfinished">Y-Siirtymä</translation>
     </message>
     <message>
         <source>X-Offset</source>
-        <translation>X-Siirtymä</translation>
+        <translation type="unfinished">X-Siirtymä</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation>Säde</translation>
+        <translation type="unfinished">Säde</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished">%</translation>
     </message>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation type="unfinished">X</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation type="unfinished">Y</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskellä</translation>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Peittävyys</translation>
+        <translation type="unfinished">Peittävyys</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>Don&apos;t use alpha channel</source>
-        <translation>Älä käytä alfa-kanavaa</translation>
+        <translation type="unfinished">Älä käytä alfa-kanavaa</translation>
     </message>
     <message>
         <source>Image filename</source>
-        <translation>Kuvan tiedostonimi</translation>
+        <translation type="unfinished">Kuvan tiedostonimi</translation>
     </message>
     <message>
         <source>Proportional</source>
-        <translation>Suhteellinen</translation>
+        <translation type="unfinished">Suhteellinen</translation>
     </message>
     <message>
         <source>Relative to target image</source>
-        <translation>Suhteessa kohdekuvaan</translation>
+        <translation type="unfinished">Suhteessa kohdekuvaan</translation>
     </message>
     <message>
         <source>Smallest side</source>
-        <translation>Pienin sivu</translation>
+        <translation type="unfinished">Pienin sivu</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation>Sovita</translation>
+        <translation type="unfinished">Sovita</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Täytä</translation>
+        <translation type="unfinished">Täytä</translation>
     </message>
     <message>
         <source>Anchor</source>
-        <translation>Ankkuri</translation>
+        <translation type="unfinished">Ankkuri</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Siirtymä</translation>
+        <translation type="unfinished">Siirtymä</translation>
     </message>
     <message>
         <source>Longest side</source>
-        <translation>Pisin sivu</translation>
+        <translation type="unfinished">Pisin sivu</translation>
     </message>
     <message>
         <source>Tiling</source>
-        <translation>Laatoitus</translation>
+        <translation type="unfinished">Laatoitus</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -5279,140 +5279,140 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertWhiteBalanceClass</name>
     <message>
         <source>Contrast</source>
-        <translation>Kontrasti</translation>
+        <translation type="unfinished">Kontrasti</translation>
     </message>
     <message>
         <source>Cut limit</source>
-        <translation>Leikkausraja</translation>
+        <translation type="unfinished">Leikkausraja</translation>
     </message>
 </context>
 <context>
     <name>DlgCreateMulti</name>
     <message>
         <source>List</source>
-        <translation>Lista</translation>
+        <translation type="unfinished">Lista</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation>Asetukset...</translation>
+        <translation type="unfinished">Asetukset...</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Insert all pages from multipage source files</source>
-        <translation>Lisää kaikki sivut monisivu-lähdetiedostoista</translation>
+        <translation type="unfinished">Lisää kaikki sivut monisivu-lähdetiedostoista</translation>
     </message>
     <message>
         <source>After finish</source>
-        <translation>Luomisen jälkeen</translation>
+        <translation type="unfinished">Luomisen jälkeen</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation type="unfinished">Esikatselukuvat</translation>
     </message>
     <message>
         <source>Add...</source>
-        <translation>Lisää...</translation>
+        <translation type="unfinished">Lisää...</translation>
     </message>
     <message>
         <source>Do Nothing</source>
-        <translation>Älä tee mitään</translation>
+        <translation type="unfinished">Älä tee mitään</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Create multi-page file</source>
-        <translation>Luo monisivutiedosto</translation>
+        <translation type="unfinished">Luo monisivutiedosto</translation>
     </message>
     <message>
         <source>Open File Explorer</source>
-        <translation>Avaa resurssienhallinta</translation>
+        <translation type="unfinished">Avaa resurssienhallinta</translation>
     </message>
     <message>
         <source>Creating multipage file, please wait...</source>
-        <translation>Luodaan monisivutiedosto, odota...</translation>
+        <translation type="unfinished">Luodaan monisivutiedosto, odota...</translation>
     </message>
     <message>
         <source>Problem</source>
-        <translation>Ongelma</translation>
+        <translation type="unfinished">Ongelma</translation>
     </message>
     <message>
         <source>An error occurred in multipage creating process!</source>
-        <translation>Monisivu-luontiprosessin aikana tapahtui virhe!</translation>
+        <translation type="unfinished">Monisivu-luontiprosessin aikana tapahtui virhe!</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation>Hakemisto</translation>
+        <translation type="unfinished">Hakemisto</translation>
     </message>
     <message>
         <source>Loading file(s). Please wait...</source>
-        <translation>Ladataan tiedostoja. Odota...</translation>
+        <translation type="unfinished">Ladataan tiedostoja. Odota...</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation>Avaa kuvaselain</translation>
+        <translation type="unfinished">Avaa kuvaselain</translation>
     </message>
     <message>
         <source>View as:</source>
-        <translation>Näytä:</translation>
+        <translation type="unfinished">Näytä:</translation>
     </message>
 </context>
 <context>
     <name>DlgCropSize</name>
     <message>
         <source>New...</source>
-        <translation>Uusi...</translation>
+        <translation type="unfinished">Uusi...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Crop size</source>
-        <translation>Rajauskoko</translation>
+        <translation type="unfinished">Rajauskoko</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Muokkaa...</translation>
+        <translation type="unfinished">Muokkaa...</translation>
     </message>
     <message>
         <source>Defaults</source>
-        <translation>Oletukset</translation>
+        <translation type="unfinished">Oletukset</translation>
     </message>
 </context>
 <context>
     <name>DlgCurves</name>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation type="unfinished">RGB</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Nollaa</translation>
+        <translation type="unfinished">Palauta</translation>
     </message>
     <message>
         <source>Curves</source>
-        <translation>Kaaret</translation>
+        <translation type="unfinished">Kaaret</translation>
     </message>
     <message>
         <source>Right click to remove control point</source>
-        <translation>Poistat kontrollipisteen klikkaamalla hiiren oikeaa näppäintä</translation>
+        <translation type="unfinished">Poistat kontrollipisteen klikkaamalla hiiren oikeaa näppäintä</translation>
     </message>
     <message>
         <source>Luminance</source>
@@ -5423,324 +5423,323 @@ Haluatko korvata sen?</translation>
     <name>DlgDBClean</name>
     <message>
         <source>Remove data for orphaned directories</source>
-        <translation>Poista orvot kansiot</translation>
+        <translation type="unfinished">Poista orvot kansiot</translation>
     </message>
     <message>
         <source>Optimize database (long process)</source>
-        <translation>Optimoi tietokanta (pitkä prosessi)</translation>
+        <translation type="unfinished">Optimoi tietokanta (pitkä prosessi)</translation>
     </message>
     <message>
         <source>Remove data for empty directories</source>
-        <translation>Poista tyhjiät kansiot</translation>
+        <translation type="unfinished">Poista tyhjiät kansiot</translation>
     </message>
     <message>
         <source>Catalog maintenance</source>
-        <translation>Luettelohuolto</translation>
+        <translation type="unfinished">Luettelohuolto</translation>
     </message>
     <message>
         <source>Purge file data</source>
-        <translation>Puhdista tiedostodata</translation>
+        <translation type="unfinished">Puhdista tiedostodata</translation>
     </message>
     <message>
         <source>Remove data for orphaned files</source>
-        <translation>Poista orvot tiedostot</translation>
+        <translation type="unfinished">Poista orvot tiedostot</translation>
     </message>
     <message>
         <source>Purge all thumbnails</source>
-        <translation>Puhdista kaikki esikatselukuvat</translation>
+        <translation type="unfinished">Puhdista kaikki esikatselukuvat</translation>
     </message>
     <message>
         <source>Clean up</source>
-        <translation>Siivoa</translation>
+        <translation type="unfinished">Siivoa</translation>
     </message>
     <message>
         <source>Purge</source>
-        <translation>Puhdista</translation>
+        <translation type="unfinished">Puhdista</translation>
     </message>
     <message>
         <source>Run</source>
-        <translation>Käynnistä</translation>
+        <translation type="unfinished">Käynnistä</translation>
     </message>
 </context>
 <context>
     <name>DlgEditFavClass</name>
     <message>
         <source>Create subfolder</source>
-        <translation>Luo alikansio</translation>
+        <translation type="unfinished">Luo alikansio</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Nimeä uudelleen...</translation>
+        <translation type="unfinished">Nimeä uudelleen...</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Edit favorites</source>
-        <translation>Muokkaa suosikkeja</translation>
+        <translation type="unfinished">Muokkaa suosikkeja</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Muokkaa...</translation>
+        <translation type="unfinished">Muokkaa...</translation>
     </message>
 </context>
 <context>
     <name>DlgEditGps</name>
     <message>
         <source>&lt;</source>
-        <translation>&lt;</translation>
+        <translation type="unfinished">&lt;</translation>
     </message>
     <message>
         <source>&gt;</source>
-        <translation>&gt;</translation>
+        <translation type="unfinished">&gt;</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Kopioi</translation>
+        <translation type="unfinished">Kopioi</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Liitä</translation>
+        <translation type="unfinished">Liitä</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoita</translation>
+        <translation type="unfinished">Kirjoita</translation>
     </message>
     <message>
         <source>Write all</source>
-        <translation>Kirjoita kaikki</translation>
+        <translation type="unfinished">Kirjoita kaikki</translation>
     </message>
     <message>
         <source>ExifTool is not installed in AddOn folder!</source>
-        <translation>ExifToolia ei ole asennettu AddOn-kansioon!</translation>
+        <translation type="unfinished">ExifToolia ei ole asennettu  AddOn-kansioon!</translation>
     </message>
     <message>
         <source>Longitude</source>
-        <translation>Pituusaste</translation>
+        <translation type="unfinished">Pituusaste</translation>
     </message>
     <message>
         <source>Latitude</source>
-        <translation>Leveysaste</translation>
+        <translation type="unfinished">Leveysaste</translation>
     </message>
     <message>
         <source>Decimal</source>
-        <translation>Desimaali</translation>
+        <translation type="unfinished">Desimaali</translation>
     </message>
     <message>
         <source>Sexagesimal</source>
-        <translation>Seksagesimaali</translation>
+        <translation type="unfinished">Seksagesimaali</translation>
     </message>
     <message>
         <source>Edit GPS Data</source>
-        <translation>Muokkaa GPS-dataa</translation>
+        <translation type="unfinished">Muokkaa GPS-dataa</translation>
     </message>
     <message>
         <source>Altitude (m)</source>
-        <translation>Korkeus (m)</translation>
+        <translation type="unfinished">Korkeus (m)</translation>
     </message>
 </context>
 <context>
     <name>DlgEditXMP</name>
     <message>
         <source>Mode:</source>
-        <translation>Tila:</translation>
+        <translation type="unfinished">Tila:</translation>
     </message>
     <message>
         <source>Public domain</source>
-        <translation>Julkinen verkkotunnus</translation>
+        <translation type="unfinished">Julkinen verkkotunnus</translation>
     </message>
     <message>
         <source>Changing files, please wait...</source>
-        <translation>Muutetaan tiedostoja, odota...</translation>
+        <translation type="unfinished">Muutetaan tiedostoja, odota...</translation>
     </message>
     <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>IPTC-data on muuttunut.
+        <translation type="unfinished">IPTC-data on muuttunut.
 Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>XMP only</source>
-        <translation>Vain XMP</translation>
+        <translation type="unfinished">Vain XMP</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation>KIrjasto</translation>
+        <translation type="unfinished">KIrjasto</translation>
     </message>
     <message>
         <source>8: Low</source>
-        <translation>8: Matala</translation>
+        <translation type="unfinished">8: Matala</translation>
     </message>
     <message>
         <source>0: None</source>
-        <translation>0: Ei mitään</translation>
+        <translation type="unfinished">0: Ei mitään</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>Kentän arvoja ei ladata, koska &apos;Älä lataa kenttien arvoja&apos; -valinta on valittu</translation>
+        <translation type="unfinished">Kentän arvoja ei ladata, koska &apos;Älä lataa kenttien arvoja&apos; -valinta on valittu</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
-        <translation>Järjestä aakkosjärjestykseen</translation>
+        <translation type="unfinished">Järjestä aakkosjärjestykseen</translation>
     </message>
     <message>
         <source>IPTC extensions</source>
-        <translation>IPTC-laajennukset</translation>
+        <translation type="unfinished">IPTC-laajennukset</translation>
     </message>
     <message>
         <source>1: High</source>
-        <translation>1: Korkea</translation>
+        <translation type="unfinished">1: Korkea</translation>
     </message>
     <message>
         <source>Keep original value if new value is empty</source>
-        <translation>Pidä alkuperäinen arvo jos uusi arvo on tyhjä</translation>
+        <translation type="unfinished">Pidä alkuperäinen arvo jos uusi arvo on tyhjä</translation>
     </message>
     <message>
         <source>Load template...</source>
-        <translation>Lataa mallipohja...</translation>
+        <translation type="unfinished">Lataa mallipohja...</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Lisää</translation>
+        <translation type="unfinished">Lisää</translation>
     </message>
     <message>
         <source>5: Normal</source>
-        <translation>5: Normaali</translation>
+        <translation type="unfinished">5: Normaali</translation>
     </message>
     <message>
         <source>Origin</source>
-        <translation>Alkuperäinen</translation>
+        <translation type="unfinished">Alkuperäinen</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation type="unfinished">Luokitus</translation>
     </message>
     <message>
         <source>Apply parent categories</source>
-        <translation>Käytä pääkategorioita</translation>
+        <translation type="unfinished">Käytä pääkategorioita</translation>
     </message>
     <message>
         <source>Save template...</source>
-        <translation>Tallenna mallipohja...</translation>
+        <translation type="unfinished">Tallenna mallipohja...</translation>
     </message>
     <message>
         <source>Replace only if original value is empty</source>
-        <translation>Korvaa vain jos alkuperäinen arvo on tyhjä</translation>
+        <translation type="unfinished">Korvaa vain jos alkuperäinen arvo on tyhjä</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Valinnat</translation>
+        <translation type="unfinished">Valinnat</translation>
     </message>
     <message>
         <source>Multiple selection</source>
-        <translation>Monivalinta</translation>
+        <translation type="unfinished">Monivalinta</translation>
     </message>
     <message>
         <source>Copyright status</source>
-        <translation>Tekijänoikeustunnus</translation>
+        <translation type="unfinished">Tekijänoikeustunnus</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
-        <translation>Älä lataa kenttäarvoja</translation>
+        <translation type="unfinished">Älä lataa kenttäarvoja</translation>
     </message>
     <message>
         <source>Copy into</source>
-        <translation>Kopioi kansioon</translation>
+        <translation type="unfinished">Kopioi kansioon</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
-        <translation>Ctrl+Vasen</translation>
+        <translation type="unfinished">Ctrl+Vasen</translation>
     </message>
     <message>
         <source>Insert from</source>
-        <translation>Lisää kohteesta</translation>
+        <translation type="unfinished">Lisää kohteesta</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selitys</translation>
+        <translation type="unfinished">Selitys</translation>
     </message>
     <message>
         <source>Modification Date: </source>
-        <translation>Muokkauspäivä: </translation>
+        <translation type="unfinished">Muokkauspäivä: </translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation>Ei määritelty</translation>
+        <translation type="unfinished">Ei määritelty</translation>
     </message>
     <message>
         <source>(Use ; or , to separate the values)</source>
-        <translation>(Käytä ; tai , erottaaksesi arvot)</translation>
+        <translation type="unfinished">(Käytä ; tai , erottaaksesi arvot)</translation>
     </message>
     <message>
         <source>Edit XMP</source>
-        <translation>Muokkaa XMP:tä</translation>
+        <translation type="unfinished">Muokkaa XMP:tä</translation>
     </message>
     <message>
         <source>Edit history...</source>
-        <translation>Muokkaushistoria...</translation>
+        <translation type="unfinished">Muokkaushistoria...</translation>
     </message>
     <message>
         <source>Protected by copyright</source>
-        <translation>Suojattu tekijänoikeuksilla</translation>
+        <translation type="unfinished">Suojattu tekijänoikeuksilla</translation>
     </message>
     <message>
         <source>Urgency</source>
-        <translation>Kiireellisyys</translation>
+        <translation type="unfinished">Kiireellisyys</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation>Avainsanat</translation>
+        <translation type="unfinished">Avainsanat</translation>
     </message>
     <message>
         <source>Clear all fields</source>
-        <translation>Tyhjennä kaikki kentät</translation>
+        <translation type="unfinished">Tyhjennä kaikki kentät</translation>
     </message>
     <message>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation>(Käytä | avainsanojen erottamiseen hierarkiassa)</translation>
+        <translation type="unfinished">(Käytä | avainsanojen erottamiseen hierarkiassa)</translation>
     </message>
     <message>
         <source>IPTC Contact</source>
-        <translation>IPTC-kontakti</translation>
+        <translation type="unfinished">IPTC-kontakti</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, päivitä tai luo IPTC-IIM</translation>
+        <translation type="unfinished">XMP, päivitä tai luo IPTC-IIM</translation>
     </message>
     <message>
         <source>Ctrl+Right</source>
-        <translation>Ctrl+Oikea</translation>
+        <translation type="unfinished">Ctrl+Oikea</translation>
     </message>
     <message>
         <source>Creation Date: </source>
-        <translation>Luontipäivä: </translation>
+        <translation type="unfinished">Luontipäivä: </translation>
     </message>
     <message>
         <source>Required field</source>
-        <translation>Pakollinen kenttä</translation>
+        <translation type="unfinished">Pakollinen kenttä</translation>
     </message>
     <message>
         <source>Some fields are required, please fill them!</source>
-        <translation>Jotkut kentät ovat pakollisia, täytä ne!</translation>
+        <translation type="unfinished">Jotkut kentät ovat pakollisia, täytä ne!</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation>Käsittelyn aikana tapahtui virhe. 
-Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
+        <translation type="unfinished">Käsittelyn aikana tapahtui virhe. Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
-        <translation>Kirjoita &amp;kaikkiin tiedostoihin</translation>
+        <translation type="unfinished">Kirjoita &amp;kaikkiin tiedostoihin</translation>
     </message>
     <message>
         <source>&amp;Write</source>
-        <translation>&amp;Kirjoita</translation>
+        <translation type="unfinished">&amp;Kirjoita</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>&amp;Käytä</translation>
+        <translation type="unfinished">&amp;Käytä</translation>
     </message>
     <message>
         <source>Remember opened tab</source>
@@ -5751,276 +5750,276 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgEmail</name>
     <message>
         <source>Normal (800x600)</source>
-        <translation>Normaali (800x600)</translation>
+        <translation type="unfinished">Normaali (800x600)</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>Koko:</translation>
+        <translation type="unfinished">Koko:</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation>Teksti:</translation>
+        <translation type="unfinished">Teksti:</translation>
     </message>
     <message>
         <source>Recipient:</source>
-        <translation>Vastaanottaja:</translation>
+        <translation type="unfinished">Vastaanottaja:</translation>
     </message>
     <message>
         <source>Image(s)</source>
-        <translation>Kuva(t)</translation>
+        <translation type="unfinished">Kuva(t)</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Nuokattu</translation>
+        <translation type="unfinished">Nuokattu</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>Leveys:</translation>
+        <translation type="unfinished">Leveys:</translation>
     </message>
     <message>
         <source>Send email</source>
-        <translation>Lähetä sähköpostia</translation>
+        <translation type="unfinished">Lähetä sähköpostia</translation>
     </message>
     <message>
         <source>Medium (640x480)</source>
-        <translation>Keskikoko (640x480)</translation>
+        <translation type="unfinished">Keskikoko (640x480)</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Large (1024x768)</source>
-        <translation>Suuri (1024x768)</translation>
+        <translation type="unfinished">Suuri (1024x768)</translation>
     </message>
     <message>
         <source>Original</source>
-        <translation>Alkuperäinen</translation>
+        <translation type="unfinished">Alkuperäinen</translation>
     </message>
     <message>
         <source>Use default mail client</source>
-        <translation>Käytä oletus sähköpostia</translation>
+        <translation type="unfinished">Käytä oletus sähköpostia</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Aihe:</translation>
+        <translation type="unfinished">Aihe:</translation>
     </message>
     <message>
         <source>Convert to JPEG (if needed)</source>
-        <translation>Muunna JPEG:ksi (jos on tarpeen)</translation>
+        <translation type="unfinished">Muunna JPEG:ksi (jos on tarpeen)</translation>
     </message>
     <message>
         <source>Small (320x240)</source>
-        <translation>Pieni (320x240)</translation>
+        <translation type="unfinished">Pieni (320x240)</translation>
     </message>
     <message>
         <source>SMTP settings...</source>
-        <translation>SMTP-asetukset...</translation>
+        <translation type="unfinished">SMTP-asetukset...</translation>
     </message>
     <message>
         <source>Delete metadata</source>
-        <translation>Poista metatiedot</translation>
+        <translation type="unfinished">Poista metatiedot</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation>Korkeus:</translation>
+        <translation type="unfinished">Korkeus:</translation>
     </message>
     <message>
         <source>Compress file(s) as ZIP file</source>
-        <translation>Pakkaa tiedosto(t) ZIP-tiedostoksi</translation>
+        <translation type="unfinished">Pakkaa tiedosto(t) ZIP-tiedostoksi</translation>
     </message>
 </context>
 <context>
     <name>DlgEmailSettings</name>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>Kirjaudu</translation>
+        <translation type="unfinished">Kirjaudu</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Portti:</translation>
+        <translation type="unfinished">Portti:</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation>Todennus</translation>
+        <translation type="unfinished">Todennus</translation>
     </message>
     <message>
         <source>User password:</source>
-        <translation>Salasana:</translation>
+        <translation type="unfinished">Salasana:</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation>Käyttäjänimi:</translation>
+        <translation type="unfinished">Käyttäjänimi:</translation>
     </message>
     <message>
         <source>Server:</source>
-        <translation>Palvelin:</translation>
+        <translation type="unfinished">Palvelin:</translation>
     </message>
     <message>
         <source>Proxy type:</source>
-        <translation>Proxy-tyyppi:</translation>
+        <translation type="unfinished">Proxy-tyyppi:</translation>
     </message>
     <message>
         <source>Use secure connection (SSL)</source>
-        <translation>Käytä suojattua yhteyttä (SSL)</translation>
+        <translation type="unfinished">Käytä suojattua yhteyttä (SSL)</translation>
     </message>
     <message>
         <source>SMTP server:</source>
-        <translation>SMTP-palvelin:</translation>
+        <translation type="unfinished">SMTP-palvelin:</translation>
     </message>
     <message>
         <source>Sender address:</source>
-        <translation>Lähettäjän osoite:</translation>
+        <translation type="unfinished">Lähettäjän osoite:</translation>
     </message>
     <message>
         <source>Email settings</source>
-        <translation>Sähköpostiasetukset</translation>
+        <translation type="unfinished">Sähköpostiasetukset</translation>
     </message>
 </context>
 <context>
     <name>DlgEnhanceColorsClass</name>
     <message>
         <source>Hue</source>
-        <translation>Värisävy</translation>
+        <translation type="unfinished">Värisävy</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Tint</source>
-        <translation>Sävy</translation>
+        <translation type="unfinished">Sävy</translation>
     </message>
     <message>
         <source>Gamma</source>
-        <translation>Gamma</translation>
+        <translation type="unfinished">Gamma</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Contrast</source>
-        <translation>Kontrasti</translation>
+        <translation type="unfinished">Kontrasti</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Värikylläisyys</translation>
+        <translation type="unfinished">Värikylläisyys</translation>
     </message>
     <message>
         <source>Temperature</source>
-        <translation>Värilämpötila</translation>
+        <translation type="unfinished">Värilämpötila</translation>
     </message>
     <message>
         <source>Lightness</source>
-        <translation>Valoisuus</translation>
+        <translation type="unfinished">Valoisuus</translation>
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Kirkkaus</translation>
+        <translation type="unfinished">Kirkkaus</translation>
     </message>
     <message>
         <source>Exposure</source>
-        <translation>Valotus</translation>
+        <translation type="unfinished">Valotus</translation>
     </message>
 </context>
 <context>
     <name>DlgExport</name>
     <message>
         <source>16m</source>
-        <translation>16m</translation>
+        <translation type="unfinished">16m</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Kuvat</translation>
+        <translation type="unfinished">Kuvat</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoomaa 100%</translation>
+        <translation type="unfinished">Zoomaa 100%</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Kuvio</translation>
+        <translation type="unfinished">Kuvio</translation>
     </message>
     <message>
         <source>32 colors</source>
-        <translation>32 väriä</translation>
+        <translation type="unfinished">32 väriä</translation>
     </message>
     <message>
         <source>16 colors</source>
-        <translation>16 väriä</translation>
+        <translation type="unfinished">16 väriä</translation>
     </message>
     <message>
         <source>64 colors</source>
-        <translation>64 väriä</translation>
+        <translation type="unfinished">64 väriä</translation>
     </message>
     <message>
         <source>8 colors</source>
-        <translation>8 väriä</translation>
+        <translation type="unfinished">8 väriä</translation>
     </message>
     <message>
         <source>128 colors</source>
-        <translation>128 väriä</translation>
+        <translation type="unfinished">128 väriä</translation>
     </message>
     <message>
         <source>256 colors</source>
-        <translation>256 väriä</translation>
+        <translation type="unfinished">256 väriä</translation>
     </message>
     <message>
         <source>Problem</source>
-        <translation>Ongelma</translation>
+        <translation type="unfinished">Ongelma</translation>
     </message>
     <message>
         <source>Adaptive</source>
-        <translation>Mukautuva</translation>
+        <translation type="unfinished">Mukautuva</translation>
     </message>
     <message>
         <source>Halftone 90</source>
-        <translation>Rasterointi 90</translation>
+        <translation type="unfinished">Rasterointi 90</translation>
     </message>
     <message>
         <source>Halftone 45</source>
-        <translation>Rasterointi 45</translation>
+        <translation type="unfinished">Rasterointi 45</translation>
     </message>
     <message>
         <source>Save File</source>
-        <translation>Tallenna tiedosto</translation>
+        <translation type="unfinished">Tallenna tiedosto</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Paras sovitus</translation>
+        <translation type="unfinished">Paras sovitus</translation>
     </message>
     <message>
         <source>Greyscale</source>
-        <translation>Harmaasävy</translation>
+        <translation type="unfinished">Harmaasävy</translation>
     </message>
     <message>
         <source>Floyd-Steinberg</source>
-        <translation>Floyd-Steinberg</translation>
+        <translation type="unfinished">Floyd-Steinberg</translation>
     </message>
     <message>
         <source>Black&amp;White</source>
-        <translation>Musta/valkoinen</translation>
+        <translation type="unfinished">Musta/valkoinen</translation>
     </message>
     <message>
         <source>This is not an image file</source>
@@ -6031,19 +6030,19 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgExportCatalog</name>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Export all files from catalog</source>
-        <translation>Vie kaikki tiedostot luettelosta</translation>
+        <translation type="unfinished">Vie kaikki tiedostot luettelosta</translation>
     </message>
     <message>
         <source>Categories file</source>
-        <translation>Kategoria-tiedosto</translation>
+        <translation type="unfinished">Kategoria-tiedosto</translation>
     </message>
     <message>
         <source>Catalog export</source>
-        <translation>Luettelon vienti</translation>
+        <translation type="unfinished">Luettelon vienti</translation>
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
@@ -6054,95 +6053,95 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgExportClass</name>
     <message>
         <source>Best</source>
-        <translation>Paras</translation>
+        <translation type="unfinished">Paras</translation>
     </message>
     <message>
         <source>JPEG</source>
-        <translation>JPEG</translation>
+        <translation type="unfinished">JPEG</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Tila</translation>
+        <translation type="unfinished">Tila</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation>Hidas</translation>
+        <translation type="unfinished">Hidas</translation>
     </message>
     <message>
         <source>Smoothing factor</source>
-        <translation>Tasoituskerroin</translation>
+        <translation type="unfinished">Tasoituskerroin</translation>
     </message>
     <message>
         <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1,1x1,1x1 (4:2:2)</translation>
+        <translation type="unfinished">2x1,1x1,1x1 (4:2:2)</translation>
     </message>
     <message>
         <source>Remove all Metadata</source>
-        <translation>Poista kaikki metatiedot</translation>
+        <translation type="unfinished">Poista kaikki metatiedot</translation>
     </message>
     <message>
         <source>Float (best but slowest)</source>
-        <translation>Float (paras mutta hitain)</translation>
+        <translation type="unfinished">Float (paras mutta hitain)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Vie</translation>
+        <translation type="unfinished">Vie</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Huonoin</translation>
+        <translation type="unfinished">Huonoin</translation>
     </message>
     <message>
         <source>DCT Method</source>
-        <translation>DCT-menetelmä</translation>
+        <translation type="unfinished">DCT-menetelmä</translation>
     </message>
     <message>
         <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1,1x1 (paras laatu)</translation>
+        <translation type="unfinished">1x1,1x1,1x1 (paras laatu)</translation>
     </message>
     <message>
         <source>Subsampling factor</source>
-        <translation>Alinäytteistys</translation>
+        <translation type="unfinished">Alinäytteistys</translation>
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation>&amp;Vie...</translation>
+        <translation type="unfinished">&amp;Vie...</translation>
     </message>
     <message>
         <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (oletus)</translation>
+        <translation type="unfinished">2x2,1x1,1x1 (oletus)</translation>
     </message>
     <message>
         <source>Fast (worst but faster)</source>
-        <translation>Nopea (huonoin mutta nopein)</translation>
+        <translation type="unfinished">Nopea (huonoin mutta nopein)</translation>
     </message>
     <message>
         <source>Progressive</source>
-        <translation>Progressiivinen</translation>
+        <translation type="unfinished">Progressiivinen</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Rasterointi</translation>
+        <translation type="unfinished">Rasterointi</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
-        <translation>Optimoi Huffman taulukko</translation>
+        <translation type="unfinished">Optimoi Huffman taulukko</translation>
     </message>
     <message>
         <source>Automatic preview refresh</source>
-        <translation>Automaattinen esikatselun päivitys</translation>
+        <translation type="unfinished">Automaattinen esikatselun päivitys</translation>
     </message>
     <message>
         <source>Refresh preview</source>
-        <translation>Päivitä esikatselu</translation>
+        <translation type="unfinished">Päivitä esikatselu</translation>
     </message>
     <message>
         <source>Edit palette...</source>
@@ -6153,27 +6152,27 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgFile</name>
     <message>
         <source>Copy</source>
-        <translation>Kopioi</translation>
+        <translation type="unfinished">Kopioi</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation>Siirrä</translation>
+        <translation type="unfinished">Siirrä</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation>Siirrä...</translation>
+        <translation type="unfinished">Siirrä...</translation>
     </message>
     <message>
         <source>Do you want to create this folder?</source>
-        <translation>Haluatko luoda tämän kansion?</translation>
+        <translation type="unfinished">Haluatko luoda tämän kansion?</translation>
     </message>
     <message>
         <source>Copy to</source>
-        <translation>Kopioi kansioon</translation>
+        <translation type="unfinished">Kopioi kansioon</translation>
     </message>
     <message>
         <source>Folder doesn&apos;t exist</source>
-        <translation>Kansiota ei ole</translation>
+        <translation type="unfinished">Kansiota ei ole</translation>
     </message>
 </context>
 <context>
@@ -6181,996 +6180,996 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Select the file-types which you would like to associate with XnViewMP
 (E.g. when double-clicking on a file to open under Windows Explorer)</source>
-        <translation>Valitse tiedostotyyppi jonka haluat kytkeä XnViewMP:lle
+        <translation type="unfinished">Valitse tiedostotyyppi jonka haluat kytkeä XnViewMP:lle
 (Tiedosto aukeaa, kaksoisklikatessa sitä Windowsin resurssienhallinnassa)</translation>
     </message>
     <message>
         <source>Unregister XnViewMP</source>
-        <translation>Poista rekisteröinti XnViewMP:lle</translation>
+        <translation type="unfinished">Poista rekisteröinti XnViewMP:lle</translation>
     </message>
     <message>
         <source>Problem to change file association. Please try to start with admin rights.</source>
-        <translation>Ongelmia muutettaessa tiedostokytkentöjä. Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
+        <translation type="unfinished">Ongelmia muutettaessa tiedostokytkentöjä. Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
     </message>
     <message>
         <source>Format name</source>
-        <translation>Formaatin nimi</translation>
+        <translation type="unfinished">Formaatin nimi</translation>
     </message>
     <message>
         <source>Select none</source>
-        <translation>Älä valitse mitään</translation>
+        <translation type="unfinished">Älä valitse mitään</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostopääte</translation>
+        <translation type="unfinished">Tiedostopääte</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Valitse kaikki</translation>
+        <translation type="unfinished">Valitse kaikki</translation>
     </message>
     <message>
         <source>File association</source>
-        <translation>Tiedostokytkentä</translation>
+        <translation type="unfinished">Tiedostokytkentä</translation>
     </message>
 </context>
 <context>
     <name>DlgFileClass</name>
     <message>
         <source>Show selected folder in folder tree</source>
-        <translation>Näytä valittu kansio kansiopuussa</translation>
+        <translation type="unfinished">Näytä valittu kansio kansiopuussa</translation>
     </message>
     <message>
         <source>Expand</source>
-        <translation>Laajenna</translation>
+        <translation type="unfinished">Laajenna</translation>
     </message>
     <message>
         <source>Clear history entries</source>
-        <translation>Tyhjennä historiamerkinnät</translation>
+        <translation type="unfinished">Tyhjennä historiamerkinnät</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation>Luo kansio</translation>
+        <translation type="unfinished">Luo kansio</translation>
     </message>
 </context>
 <context>
     <name>DlgFileListing</name>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Include subfolders</source>
-        <translation>Sisätää alikansiot</translation>
+        <translation type="unfinished">Sisätää alikansiot</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>Add column</source>
-        <translation>Lisää sarake</translation>
+        <translation type="unfinished">Lisää sarake</translation>
     </message>
     <message>
         <source>Save as...</source>
-        <translation>Tallenna nimellä...</translation>
+        <translation type="unfinished">Tallenna nimellä...</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Esikatselu</translation>
+        <translation type="unfinished">Esikatselu</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation>kopioi leikepöydälle</translation>
+        <translation type="unfinished">kopioi leikepöydälle</translation>
     </message>
     <message>
         <source>File listing</source>
-        <translation>Tiedostojen listaus</translation>
+        <translation type="unfinished">Tiedostojen listaus</translation>
     </message>
     <message>
         <source>Export file listing</source>
-        <translation>Vie tiedostolista</translation>
+        <translation type="unfinished">Vie tiedostolista</translation>
     </message>
     <message>
         <source>Only image files</source>
-        <translation>Vain kuvatiedostot</translation>
+        <translation type="unfinished">Vain kuvatiedostot</translation>
     </message>
     <message>
         <source>Remove column</source>
-        <translation>Poista sarake</translation>
+        <translation type="unfinished">Poista sarake</translation>
     </message>
     <message>
         <source>Append to file</source>
-        <translation>Liitä tiedostoon</translation>
+        <translation type="unfinished">Liitä tiedostoon</translation>
     </message>
 </context>
 <context>
     <name>DlgFileReplace</name>
     <message>
         <source>Skip</source>
-        <translation>Ohita</translation>
+        <translation type="unfinished">Ohita</translation>
     </message>
     <message>
         <source>With</source>
-        <translation>Tällä</translation>
+        <translation type="unfinished">Tällä</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Original zoom</source>
-        <translation>Alkuperäinen zoomaus</translation>
+        <translation type="unfinished">Alkuperäinen zoomaus</translation>
     </message>
     <message>
         <source>Are you sure to delete this file?</source>
-        <translation>Oletko varma että haluat poistaa tiedoston?</translation>
+        <translation type="unfinished">Oletko varma että haluat poistaa tiedoston?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>The destination contains already a folder with same name, what do you want to do?</source>
-        <translation>Kohde sisältää jo samannimisen kansion, mitä haluat tehdä?</translation>
+        <translation type="unfinished">Kohde sisältää jo samannimisen kansion, mitä haluat tehdä?</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Tila</translation>
+        <translation type="unfinished">Tila</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Korvaa</translation>
+        <translation type="unfinished">Korvaa</translation>
     </message>
     <message>
         <source>Folder conflict</source>
-        <translation>Kansiokonflikti</translation>
+        <translation type="unfinished">Kansiokonflikti</translation>
     </message>
     <message>
         <source>New name:</source>
-        <translation>Uusi nimi:</translation>
+        <translation type="unfinished">Uusi nimi:</translation>
     </message>
     <message>
         <source>Delete file</source>
-        <translation>Poista tiedosto</translation>
+        <translation type="unfinished">Poista tiedosto</translation>
     </message>
     <message>
         <source>Overwrite</source>
-        <translation>Korvaa</translation>
+        <translation type="unfinished">Korvaa</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Paras sovitus</translation>
+        <translation type="unfinished">Paras sovitus</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation>&amp;Korvaa</translation>
+        <translation type="unfinished">&amp;Korvaa</translation>
     </message>
     <message>
         <source>Replace &amp;all</source>
-        <translation>Korvaa k&amp;aikki</translation>
+        <translation type="unfinished">Korvaa k&amp;aikki</translation>
     </message>
     <message>
         <source>&amp;Skip</source>
-        <translation>&amp;Ohita</translation>
+        <translation type="unfinished">&amp;Ohita</translation>
     </message>
     <message>
         <source>Skip a&amp;ll</source>
-        <translation>Ohita ka&amp;ikki</translation>
+        <translation type="unfinished">Ohita ka&amp;ikki</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>&amp;Nimeä uudelleen</translation>
+        <translation type="unfinished">&amp;Nimeä uudelleen</translation>
     </message>
 </context>
 <context>
     <name>DlgFilm</name>
     <message>
         <source>Intensity</source>
-        <translation>Voimakkuus</translation>
+        <translation type="unfinished">Voimakkuus</translation>
     </message>
     <message>
         <source>Film simulation</source>
-        <translation>Filmisimulaatio</translation>
+        <translation type="unfinished">Filmisimulaatio</translation>
     </message>
 </context>
 <context>
     <name>DlgFilter</name>
     <message>
         <source>Parameters</source>
-        <translation>Parametrit</translation>
+        <translation type="unfinished">Parametrit</translation>
     </message>
     <message>
         <source>Effect list</source>
-        <translation>Tehostelista</translation>
+        <translation type="unfinished">Tehostelista</translation>
     </message>
 </context>
 <context>
     <name>DlgFilterPanel</name>
     <message>
         <source>Map</source>
-        <translation>Kartta</translation>
+        <translation type="unfinished">Kartta</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation>Sekalaiset</translation>
+        <translation type="unfinished">Sekalaiset</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Suodin</translation>
+        <translation type="unfinished">Suodin</translation>
     </message>
 </context>
 <context>
     <name>DlgFlickr</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
     </message>
     <message>
         <source>Uploading image(s) to Picasa album</source>
-        <translation>Picasa-albumiin ladattavat kuvat</translation>
+        <translation type="unfinished">Picasa-albumiin ladattavat kuvat</translation>
     </message>
     <message>
         <source>Uploading image(s) to Flickr album</source>
-        <translation>Flickr-albumiin ladattavat kuvat</translation>
+        <translation type="unfinished">Flickr-albumiin ladattavat kuvat</translation>
     </message>
 </context>
 <context>
     <name>DlgFlickrSettings</name>
     <message>
         <source>User</source>
-        <translation>Käyttäjä</translation>
+        <translation type="unfinished">Käyttäjä</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
     </message>
     <message>
         <source>Flickr settings</source>
-        <translation>Flickr asetukset</translation>
+        <translation type="unfinished">Flickr asetukset</translation>
     </message>
     <message>
         <source>Remove script from list</source>
-        <translation>Poista skripti listalta</translation>
+        <translation type="unfinished">Poista skripti listalta</translation>
     </message>
     <message>
         <source>New user...</source>
-        <translation>Uusi käyttäjä...</translation>
+        <translation type="unfinished">Uusi käyttäjä...</translation>
     </message>
 </context>
 <context>
     <name>DlgFtp</name>
     <message>
         <source>FTP</source>
-        <translation>FTP</translation>
+        <translation type="unfinished">FTP</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation>Yritä uudelleen</translation>
+        <translation type="unfinished">Yritä uudelleen</translation>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
-        <translation>Tiedostoa %1: %2 ei voitu ladata.</translation>
+        <translation type="unfinished">Tiedostoa %1: %2 ei voitu ladata.</translation>
     </message>
     <message>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>Tiedostoa %1 ei ole olemassa.</translation>
+        <translation type="unfinished">Tiedostoa %1 ei ole olemassa.</translation>
     </message>
     <message>
         <source>Upload canceled</source>
-        <translation>Siirto peruttu</translation>
+        <translation type="unfinished">Siirto peruttu</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Siirrä</translation>
+        <translation type="unfinished">Siirrä</translation>
     </message>
     <message>
         <source>Directory changed to %1.</source>
-        <translation>Kansio vaihdettu tähän: %1.</translation>
+        <translation type="unfinished">Kansio vaihdettu tähän: %1.</translation>
     </message>
     <message>
         <source>Connecting to FTP server %1...</source>
-        <translation>Yhdistetään FTP-palvelimelle %1...</translation>
+        <translation type="unfinished">Yhdistetään FTP-palvelimelle %1...</translation>
     </message>
     <message>
         <source>Uploaded</source>
-        <translation>Siirto valmis</translation>
+        <translation type="unfinished">Siirto valmis</translation>
     </message>
     <message>
         <source>Logged onto %1.</source>
-        <translation>Kirjauduttu palvelimelle %1.</translation>
+        <translation type="unfinished">Kirjauduttu palvelimelle %1.</translation>
     </message>
     <message>
         <source>The file called %1 already exists.</source>
-        <translation>Tiedosto %1 on jo olemassa.</translation>
+        <translation type="unfinished">Tiedosto %1 on jo olemassa.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>FTP-palvelimeen %1. ei saatu yhteyttä, Tarkista että isäntänimi on oikein.</translation>
+        <translation type="unfinished">FTP-palvelimeen %1. ei saatu yhteyttä, Tarkista että isäntänimi on oikein.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>FTP-palvelimeen %1. ei saatu yhteyttä, Tarkista että käyttäjänimi ja salasana ovat oikein.</translation>
+        <translation type="unfinished">FTP-palvelimeen %1. ei saatu yhteyttä, Tarkista että käyttäjänimi ja salasana ovat oikein.</translation>
     </message>
     <message>
         <source>Unable to go to folder %1</source>
-        <translation>Ei pääsyä kansioon %1</translation>
+        <translation type="unfinished">Ei pääsyä kansioon %1</translation>
     </message>
     <message>
         <source>Uploading...</source>
-        <translation>Siirretään...</translation>
+        <translation type="unfinished">Siirretään...</translation>
     </message>
 </context>
 <context>
     <name>DlgFtpClass</name>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation type="unfinished">X</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation>Portti</translation>
+        <translation type="unfinished">Portti</translation>
     </message>
     <message>
         <source>Remove entry</source>
-        <translation>Poista sisääntulo</translation>
+        <translation type="unfinished">Poista sisääntulo</translation>
     </message>
     <message>
         <source>&lt; Back</source>
-        <translation>&lt; Takaisin</translation>
+        <translation type="unfinished">&lt; Takaisin</translation>
     </message>
     <message>
         <source>Save settings</source>
-        <translation>Tallenna asetukset</translation>
+        <translation type="unfinished">Tallenna asetukset</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>Muuta kokoa</translation>
+        <translation type="unfinished">Muuta kokoa</translation>
     </message>
     <message>
         <source>Upload to an FTP server</source>
-        <translation>Lataa FTP-palvelimelle</translation>
+        <translation type="unfinished">Lataa FTP-palvelimelle</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Salasana</translation>
+        <translation type="unfinished">Salasana</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation>Hakemisto</translation>
+        <translation type="unfinished">Hakemisto</translation>
     </message>
     <message>
         <source>Passive mode</source>
-        <translation>Passiivinen tila</translation>
+        <translation type="unfinished">Passiivinen tila</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Käyttäjänimi</translation>
+        <translation type="unfinished">Käyttäjänimi</translation>
     </message>
     <message>
         <source>Remote host</source>
-        <translation>Etäpalvelin</translation>
+        <translation type="unfinished">Etäpalvelin</translation>
     </message>
     <message>
         <source>Overwrite</source>
-        <translation>Korvaa</translation>
+        <translation type="unfinished">Korvaa</translation>
     </message>
 </context>
 <context>
     <name>DlgFtpUpload</name>
     <message>
         <source>FTP</source>
-        <translation>FTP</translation>
+        <translation type="unfinished">FTP</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
-        <translation>Tiedostoa %1: %2 ei voitu ladata.</translation>
+        <translation type="unfinished">Tiedostoa %1: %2 ei voitu ladata.</translation>
     </message>
     <message>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>Tiedostoa %1 ei löydy.</translation>
+        <translation type="unfinished">Tiedostoa %1 ei löydy.</translation>
     </message>
     <message>
         <source>Uploading: </source>
-        <translation>Lähetetään:</translation>
+        <translation type="unfinished">Lähetetään: </translation>
     </message>
     <message>
         <source>Logged onto %1.</source>
-        <translation>Kirjauduttu palvelimelle %1.</translation>
+        <translation type="unfinished">Kirjauduttu palvelimelle %1.</translation>
     </message>
     <message>
         <source>The file called %1 already exists.</source>
-        <translation>Tiedosto %1 on jo olemassa.</translation>
+        <translation type="unfinished">Tiedosto %1 on jo olemassa.</translation>
     </message>
     <message>
         <source>Aborted.</source>
-        <translation>Keskeytetty.</translation>
+        <translation type="unfinished">Keskeytetty.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>FTP-palvelimeen %1. ei saatu yhteyttä, Tarkista että isäntänimi on oikein.</translation>
+        <translation type="unfinished">FTP-palvelimeen %1. ei saatu yhteyttä, Tarkista että isäntänimi on oikein.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>FTP-palvelimeen %1. ei saatu yhteyttä, Tarkista että käyttäjänimi ja salasana ovat oikein.</translation>
+        <translation type="unfinished">FTP-palvelimeen %1. ei saatu yhteyttä, Tarkista että käyttäjänimi ja salasana ovat oikein.</translation>
     </message>
     <message>
         <source>Unable to go to folder %1</source>
-        <translation>Ei pääsyä kansioon %1</translation>
+        <translation type="unfinished">Ei pääsyä kansioon %1</translation>
     </message>
 </context>
 <context>
     <name>DlgGoXY</name>
     <message>
         <source>Current zoom</source>
-        <translation>Nykyinen zoomaus</translation>
+        <translation type="unfinished">Nykyinen zoomaus</translation>
     </message>
     <message>
         <source>You can paste values as Xx, Yy</source>
-        <translation>Voit liittää arvot Xx, Yy</translation>
+        <translation type="unfinished">Voit liittää arvot Xx, Yy</translation>
     </message>
     <message>
         <source>Real size</source>
-        <translation>Todellinen koko</translation>
+        <translation type="unfinished">Todellinen koko</translation>
     </message>
 </context>
 <context>
     <name>DlgGrid</name>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
 </context>
 <context>
     <name>DlgGridClass</name>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Grids</source>
-        <translation>Ruudukko</translation>
+        <translation type="unfinished">Ruudukko</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Ikkuna</translation>
+        <translation type="unfinished">Ikkuna</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Vaakasuunta</translation>
+        <translation type="unfinished">Vaakasuunta</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Siirtymä</translation>
+        <translation type="unfinished">Siirtymä</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Neliö</translation>
+        <translation type="unfinished">Neliö</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Ominaisuudet</translation>
+        <translation type="unfinished">Ominaisuudet</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>Sub-divisions</source>
-        <translation>Alijako</translation>
+        <translation type="unfinished">Alijako</translation>
     </message>
     <message>
         <source>Save script</source>
-        <translation>Tallenna skripti</translation>
+        <translation type="unfinished">Tallenna skripti</translation>
     </message>
     <message>
         <source>Remove script from list</source>
-        <translation>Poista skripti listalta</translation>
+        <translation type="unfinished">Poista skripti listalta</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Välit</translation>
+        <translation type="unfinished">Välit</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pystysuunta</translation>
+        <translation type="unfinished">Pystysuunta</translation>
     </message>
     <message>
         <source>Defined grids</source>
-        <translation>Määrittele ruudukko</translation>
+        <translation type="unfinished">Määrittele ruudukko</translation>
     </message>
     <message>
         <source>Divisions</source>
-        <translation>Jaot</translation>
+        <translation type="unfinished">Jaot</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation>Paksuus</translation>
+        <translation type="unfinished">Paksuus</translation>
     </message>
 </context>
 <context>
     <name>DlgHistoryListClass</name>
     <message>
         <source>Name</source>
-        <translation>Nimi</translation>
+        <translation type="unfinished">Nimi</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historia</translation>
+        <translation type="unfinished">Historia</translation>
     </message>
 </context>
 <context>
     <name>DlgHotFolder</name>
     <message>
         <source>Add folder...</source>
-        <translation>Lisää kansio...</translation>
+        <translation type="unfinished">Lisää kansio...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Pathname</source>
-        <translation>Tiedostopolku</translation>
+        <translation type="unfinished">Tiedostopolku</translation>
     </message>
     <message>
         <source>Recursive</source>
-        <translation>Rekursiivinen</translation>
+        <translation type="unfinished">Rekursiivinen</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Valitse hakemisto</translation>
+        <translation type="unfinished">Choose a directory</translation>
     </message>
     <message>
         <source>Extensions</source>
-        <translation>Tiedostotyypit</translation>
+        <translation type="unfinished">Tiedostotyypit</translation>
     </message>
     <message>
         <source>Hot folders</source>
-        <translation>Hotit-kansiot</translation>
+        <translation type="unfinished">Hotit-kansiot</translation>
     </message>
 </context>
 <context>
     <name>DlgImport</name>
     <message>
         <source>to</source>
-        <translation>tähän</translation>
+        <translation type="unfinished">tähän</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation>Kohde</translation>
+        <translation type="unfinished">Kohde</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Päiväys</translation>
+        <translation type="unfinished">Päiväys</translation>
     </message>
     <message>
         <source>from</source>
-        <translation>tästä</translation>
+        <translation type="unfinished">tästä</translation>
     </message>
     <message>
         <source>Output folder</source>
-        <translation>Ulostulokansio</translation>
+        <translation type="unfinished">Ulostulokansio</translation>
     </message>
     <message>
         <source>Categories to assign</source>
-        <translation>Kategorioiden määrittäminen</translation>
+        <translation type="unfinished">Kategorioiden määrittäminen</translation>
     </message>
     <message>
         <source>Import and sort</source>
-        <translation>Tuo ja lajittele</translation>
+        <translation type="unfinished">Tuo ja lajittele</translation>
     </message>
     <message>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
-        <translation>Kirjoitaupotetut metatiedot (JPEG/TIFF/PNG) ja luo XMP sivuvaunu- aputiedosto (muut)</translation>
+        <translation type="unfinished">Kirjoitaupotetut metatiedot (JPEG/TIFF/PNG) ja luo XMP sivuvaunu- aputiedosto (muut)</translation>
     </message>
     <message>
         <source>Include subfolders</source>
-        <translation>Sisältää alikansiot</translation>
+        <translation type="unfinished">Sisältää alikansiot</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Suodin</translation>
+        <translation type="unfinished">Suodin</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Tuo</translation>
+        <translation type="unfinished">Tuo</translation>
     </message>
     <message>
         <source>Photos</source>
-        <translation>Kuvat</translation>
+        <translation type="unfinished">Kuvat</translation>
     </message>
     <message>
         <source>Rename like photos</source>
-        <translation>Nimeä kuten valokuvia</translation>
+        <translation type="unfinished">Nimeä kuten valokuvia</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Lähde</translation>
+        <translation type="unfinished">Lähde</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Videot</translation>
+        <translation type="unfinished">Videot</translation>
     </message>
     <message>
         <source>The source folder of the files to be transferred.
 The internal folder structure will be flattened. </source>
-        <translation>Tiedostojen lähdekansio siirretään.
+        <translation type="unfinished">Tiedostojen lähdekansio siirretään.
 Sisäinen kansiorakenne säilytetään. </translation>
     </message>
     <message>
         <source>IPTC Template</source>
-        <translation>IPTC mallipohja</translation>
+        <translation type="unfinished">IPTC mallipohja</translation>
     </message>
     <message>
         <source>No files to import!</source>
-        <translation>Tuotavia tiedostoja ei ole!</translation>
+        <translation type="unfinished">Tuotavia tiedostoja ei ole!</translation>
     </message>
     <message>
         <source>Here the files will be transfered.
 Subfolders will be created. </source>
-        <translation>Tiedostot siirretään tänne,
+        <translation type="unfinished">Tiedostot siirretään tänne,
 ja luodaan alikansiot. </translation>
     </message>
     <message>
         <source>Move files</source>
-        <translation>Siirrä tiedostot</translation>
+        <translation type="unfinished">Siirrä tiedostot</translation>
     </message>
     <message>
         <source>Subfolder</source>
-        <translation>Alikansio</translation>
+        <translation type="unfinished">Alikansio</translation>
     </message>
     <message>
         <source>The &apos;Other Files&apos; folder if doesn&apos;t exist will be created as a subfolder of destination.</source>
-        <translation>Jos &apos;Muut tiedostot&apos;-kansiota ei ole olemassa. Luodaan alikansio kohdekansioon.</translation>
+        <translation type="unfinished">Jos &apos;Muut tiedostot&apos;-kansiota ei ole olemassa. Luodaan alikansio kohdekansioon.</translation>
     </message>
     <message>
         <source>Create XMP sidecar for all files</source>
-        <translation>Luo XMP sivuvaunu- aputiedosto kaikille tiedostoille</translation>
+        <translation type="unfinished">Luo XMP sivuvaunu- aputiedosto kaikille tiedostoille</translation>
     </message>
     <message>
         <source>Transfer files with no EXIF to &apos;Other Files&apos; folder</source>
-        <translation>Siirrä tiedostot jotka eivät sisällä EXIF-tietoja Muut tiedostot-kansioon</translation>
+        <translation type="unfinished">Siirrä tiedostot jotka eivät sisällä EXIF-tietoja Muut tiedostot-kansioon</translation>
     </message>
     <message>
         <source>Extensions (; to separate)</source>
-        <translation>Tiedostopäätteet (erota ; llä)</translation>
+        <translation type="unfinished">Tiedostopäätteet (erota ; llä)</translation>
     </message>
     <message>
         <source>New filename</source>
-        <translation>Uusi tiedostonimi</translation>
+        <translation type="unfinished">Uusi tiedostonimi</translation>
     </message>
     <message>
         <source>Write to embedded metadata (JPEG/TIFF/PNG)</source>
-        <translation>Kirjoita upotetut metatiedot (JPEG/TIFF/PNG)</translation>
+        <translation type="unfinished">Kirjoita upotetut metatiedot (JPEG/TIFF/PNG)</translation>
     </message>
     <message>
         <source>Use ; to separate categories</source>
-        <translation>Käytä ; luokkien erottamiseen</translation>
+        <translation type="unfinished">Käytä ; luokkien erottamiseen</translation>
     </message>
     <message>
         <source># enumerator per folder</source>
-        <translation># luetteloijaa / kansio</translation>
+        <translation type="unfinished"># luetteloijaa / kansio</translation>
     </message>
     <message>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
-        <translation>Tuontia ei voida suorittaa, lähde- ja kohdekansio ovat samoja!</translation>
+        <translation type="unfinished">Tuontia ei voida suorittaa, lähde- ja kohdekansio ovat samoja!</translation>
     </message>
     <message>
         <source>Files import finished!</source>
-        <translation>Tiedostojen tuonti suoritettu!</translation>
+        <translation type="unfinished">Tiedostojen tuonti suoritettu!</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Järjestä käyttäen</translation>
+        <translation type="unfinished">Järjestä käyttäen</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished">...</translation>
     </message>
 </context>
 <context>
     <name>DlgImportThread</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Import and sort files...</source>
-        <translation>Tuo ja lajittele tiedostot...</translation>
+        <translation type="unfinished">Tuo ja lajittele tiedostot...</translation>
     </message>
 </context>
 <context>
     <name>DlgIptc</name>
     <message>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
-        <translation>IPTC/XMP-data päällekirjoitetaan kaikkiin tiedostoihin nykyisillä kenttäarvoilla, oletko varma?</translation>
+        <translation type="unfinished">IPTC/XMP-data päällekirjoitetaan kaikkiin tiedostoihin nykyisillä kenttäarvoilla, oletko varma?</translation>
     </message>
     <message>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
-        <translation>Jos haluat muokata XMP-metatietoja, tarkista uusi &apos;Muokkaa XMP:tä&apos;-ikkuna.</translation>
+        <translation type="unfinished">Jos haluat muokata XMP-metatietoja, tarkista uusi &apos;Muokkaa XMP:tä&apos;-ikkuna. </translation>
     </message>
     <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>IPTC-data on muuttunut.
+        <translation type="unfinished">IPTC-data on muuttunut.
 Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>File modified date/time</source>
-        <translation>Tiedoston muokkauspäivä/aika</translation>
+        <translation type="unfinished">Tiedoston muokkauspäivä/aika</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation>Kirjasto</translation>
+        <translation type="unfinished">Kirjasto</translation>
     </message>
     <message>
         <source>EXIF date/time modified (if exists)</source>
-        <translation>EXIF muokkauspäivä/aika (jos olemassa)</translation>
+        <translation type="unfinished">EXIF muokkauspäivä/aika (jos olemassa)</translation>
     </message>
     <message>
         <source>8: Low</source>
-        <translation>8: Matala</translation>
+        <translation type="unfinished">8: Matala</translation>
     </message>
     <message>
         <source>0: None</source>
-        <translation>0: Ei mitään</translation>
+        <translation type="unfinished">0: Ei mitään</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>Kentän arvoja ei ladata, koska &apos;Älä lataa kenttien arvoja&apos; -valinta on käytössä</translation>
+        <translation type="unfinished">Field values are not loaded because &apos;Do not load field values&apos; is checked</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
-        <translation>Järjestä aakkosjärjestykseen</translation>
+        <translation type="unfinished">Järjestä aakkosjärjestykseen</translation>
     </message>
     <message>
         <source>a: Morning</source>
-        <translation>a: Aamu</translation>
+        <translation type="unfinished">a: Aamu</translation>
     </message>
     <message>
         <source>1: High</source>
-        <translation>1: Korkea</translation>
+        <translation type="unfinished">1: Korkea</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Lisää</translation>
+        <translation type="unfinished">Lisää</translation>
     </message>
     <message>
         <source>5: Normal</source>
-        <translation>5: Normaali</translation>
+        <translation type="unfinished">5: Normaali</translation>
     </message>
     <message>
         <source>Copy into</source>
-        <translation>Kopioi kansioon</translation>
+        <translation type="unfinished">Kopioi kansioon</translation>
     </message>
     <message>
         <source>File created date/time</source>
-        <translation>Tiedoston luontipäivä/aika</translation>
+        <translation type="unfinished">Tiedoston luontipäivä/aika</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation>Haluatko tallentaa muutokset?</translation>
+        <translation type="unfinished">Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>Insert from</source>
-        <translation>Lisää kohteesta</translation>
+        <translation type="unfinished">Lisää kohteesta</translation>
     </message>
     <message>
         <source>EXIF date/time digitized (if exists)</source>
-        <translation>EXIF digitointipäivä/aika (jos olemassa)</translation>
+        <translation type="unfinished">EXIF digitointipäivä/aika (jos olemassa)</translation>
     </message>
     <message>
         <source>Edit history...</source>
-        <translation>Muokkaushistoria...</translation>
+        <translation type="unfinished">Muokkaushistoria...</translation>
     </message>
     <message>
         <source>IPTC has changed</source>
-        <translation>IPTC on muuttunut</translation>
+        <translation type="unfinished">IPTC on muuttunut</translation>
     </message>
     <message>
         <source>b: Afternoon</source>
-        <translation>b: Iltapäivä</translation>
+        <translation type="unfinished">b: Iltapäivä</translation>
     </message>
     <message>
         <source>c: Evening</source>
-        <translation>c: Ilta</translation>
+        <translation type="unfinished">c: Ilta</translation>
     </message>
     <message>
         <source>EXIF date/time taken (if exists)</source>
-        <translation>EXIF kuvauspäivä/aika (jos olemassa)</translation>
+        <translation type="unfinished">EXIF kuvauspäivä/aika (jos olemassa)</translation>
     </message>
     <message>
         <source>Required field</source>
-        <translation>Pakollinen kenttä</translation>
+        <translation type="unfinished">Pakollinen kenttä</translation>
     </message>
     <message>
         <source>Some fields are required, please fill them!</source>
-        <translation>Jotkut kentät ovat pakollisia, täytä ne!</translation>
+        <translation type="unfinished">Jotkut kentät ovat pakollisia, täytä ne!</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation>Käsittelyn aikana tapahtui virhe. 
+        <translation type="unfinished">Käsittelyn aikana tapahtui virhe. 
 Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
-        <translation>Kirjoita &amp;kaikkiin tiedostoihin</translation>
+        <translation type="unfinished">Kirjoita &amp;kaikkiin tiedostoihin</translation>
     </message>
     <message>
         <source>&amp;Write</source>
-        <translation>&amp;Kirjoita</translation>
+        <translation type="unfinished">&amp;Kirjoita</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>&amp;Käytä</translation>
+        <translation type="unfinished">&amp;Käytä</translation>
     </message>
 </context>
 <context>
     <name>DlgIptcClass</name>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Mode:</source>
-        <translation>Tila:</translation>
+        <translation type="unfinished">Tila:</translation>
     </message>
     <message>
         <source>Created date/time</source>
-        <translation>Luontipäivä/aika</translation>
+        <translation type="unfinished">Luontipäivä/aika</translation>
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IPTC-IIM, päivitä tai luo XMP</translation>
+        <translation type="unfinished">IPTC-IIM, päivitä tai luo XMP</translation>
     </message>
     <message>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
-        <translation>Pidä ja lisää uusi arvo (Avainsanat ja täydentävät kategoriat)</translation>
+        <translation type="unfinished">Pidä ja lisää uusi arvo (Avainsanat ja täydentävät kategoriat)</translation>
     </message>
     <message>
         <source>XMP only</source>
-        <translation>Vain XMP</translation>
+        <translation type="unfinished">Vain XMP</translation>
     </message>
     <message>
         <source>Object cycle</source>
-        <translation>Objektisykli</translation>
+        <translation type="unfinished">Objektisykli</translation>
     </message>
     <message>
         <source>IPTC-IIM only</source>
-        <translation>Vain IPTC-IIM</translation>
+        <translation type="unfinished">Vain IPTC-IIM</translation>
     </message>
     <message>
         <source>Keep original value if new value is empty</source>
-        <translation>Pidä alkuperäinen arvo jos uusi arvo on tyhjä</translation>
+        <translation type="unfinished">Pidä alkuperäinen arvo jos uusi arvo on tyhjä</translation>
     </message>
     <message>
         <source>Load template...</source>
-        <translation>Lataa mallipohja...</translation>
+        <translation type="unfinished">Lataa mallipohja...</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Lähde</translation>
+        <translation type="unfinished">Lähde</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="unfinished">Status</translation>
     </message>
     <message>
         <source>Save template...</source>
-        <translation>Tallenna mallipohja...</translation>
+        <translation type="unfinished">Tallenna mallipohja...</translation>
     </message>
     <message>
         <source>Replace only if original value is empty</source>
-        <translation>Korvaa vain jos alkuperäinen arvo on tyhjä</translation>
+        <translation type="unfinished">Korvaa vain jos alkuperäinen arvo on tyhjä</translation>
     </message>
     <message>
         <source>Released date/time</source>
-        <translation>Julkaisupäivä/aika</translation>
+        <translation type="unfinished">Julkaisupäivä/aika</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Valinnat</translation>
+        <translation type="unfinished">Valinnat</translation>
     </message>
     <message>
         <source>Multiple selection</source>
-        <translation>Monivalinta</translation>
+        <translation type="unfinished">Monivalinta</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation>Tuo...</translation>
+        <translation type="unfinished">Tuo...</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
-        <translation>Ctrl+Vasen</translation>
+        <translation type="unfinished">Ctrl+Vasen</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation>Prioriteetti</translation>
+        <translation type="unfinished">Prioriteetti</translation>
     </message>
     <message>
         <source>Use parent keywords</source>
-        <translation>Käytä pääavainsanoja</translation>
+        <translation type="unfinished">Käytä pääavainsanoja</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Kuvateksti</translation>
+        <translation type="unfinished">Kuvateksti</translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Paiväys/aika</translation>
+        <translation type="unfinished">Paiväys/aika</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Ansiot</translation>
+        <translation type="unfinished">Ansiot</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation>Kategoriat</translation>
+        <translation type="unfinished">Kategoriat</translation>
     </message>
     <message>
         <source>Categories (database)</source>
-        <translation>Kategoriat (tietokanta)</translation>
+        <translation type="unfinished">Kategoriat (tietokanta)</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation>Avainsanat</translation>
+        <translation type="unfinished">Avainsanat</translation>
     </message>
     <message>
         <source>Country code</source>
-        <translation>Maakoodi</translation>
+        <translation type="unfinished">Maakoodi</translation>
     </message>
     <message>
         <source>Edit IPTC-IIM</source>
-        <translation>Muokkaa PTC-IIM:ää</translation>
+        <translation type="unfinished">Muokkaa PTC-IIM:ää</translation>
     </message>
     <message>
         <source>Load template V1...</source>
-        <translation>Lataa mallipohja V1...</translation>
+        <translation type="unfinished">Lataa mallipohja V1...</translation>
     </message>
     <message>
         <source>Clear all fields</source>
-        <translation>Tyhjennä kaikki kentät</translation>
+        <translation type="unfinished">Tyhjennä kaikki kentät</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, päivitä tai luo IPTC-IIM</translation>
+        <translation type="unfinished">XMP, päivitä tai luo IPTC-IIM</translation>
     </message>
     <message>
         <source>YYYYMMDD</source>
-        <translation>VVVVKKPP</translation>
+        <translation type="unfinished">VVVVKKPP</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historia</translation>
+        <translation type="unfinished">Historia</translation>
     </message>
     <message>
         <source>Ctrl+Right</source>
-        <translation>Ctrl+Oikea</translation>
+        <translation type="unfinished">Ctrl+Oikea</translation>
     </message>
     <message>
         <source>Text file</source>
-        <translation>Tekstitiedosto</translation>
+        <translation type="unfinished">Tekstitiedosto</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
@@ -7185,616 +7184,616 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgIptcHistoryEditClass</name>
     <message>
         <source>Edit history</source>
-        <translation>Muokkaushistoria</translation>
+        <translation type="unfinished">Muokkaushistoria</translation>
     </message>
 </context>
 <context>
     <name>DlgIptcTemplate</name>
     <message>
         <source>Name:</source>
-        <translation>Nimi:</translation>
+        <translation type="unfinished">Nimi:</translation>
     </message>
     <message>
         <source>XMP file</source>
-        <translation>XMP-tiedosto</translation>
+        <translation type="unfinished">XMP-tiedosto</translation>
     </message>
     <message>
         <source>IPTC file</source>
-        <translation>IPTC-tiedosto</translation>
+        <translation type="unfinished">IPTC-tiedosto</translation>
     </message>
     <message>
         <source>Merge data</source>
-        <translation>Yhdistä data</translation>
+        <translation type="unfinished">Yhdistä data</translation>
     </message>
     <message>
         <source>Choose template file</source>
-        <translation>Valitse mallipohjatiedosto</translation>
+        <translation type="unfinished">Valitse mallipohjatiedosto</translation>
     </message>
 </context>
 <context>
     <name>DlgKeywordProperties</name>
     <message>
         <source>Label</source>
-        <translation>Ikkuna</translation>
+        <translation type="unfinished">Ikkuna</translation>
     </message>
     <message>
         <source>Parent category</source>
-        <translation>Pääkategoria</translation>
+        <translation type="unfinished">Pääkategoria</translation>
     </message>
     <message>
         <source>Don&apos;t export</source>
-        <translation>Älä vie</translation>
+        <translation type="unfinished">Älä vie</translation>
     </message>
     <message>
         <source>Parent</source>
-        <translation>Pääluokka</translation>
+        <translation type="unfinished">Pääluokka</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Ominaisuudet</translation>
+        <translation type="unfinished">Ominaisuudet</translation>
     </message>
     <message>
         <source>This parent is already a child of current category!</source>
-        <translation>Tämä pääluokka on jo nykyisen kategorian alaluokka!</translation>
+        <translation type="unfinished">Tämä pääluokka on jo nykyisen kategorian alaluokka?</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selitys</translation>
+        <translation type="unfinished">Selitys</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>Pikakuvake</translation>
+        <translation type="unfinished">Pikakuvake</translation>
     </message>
 </context>
 <context>
     <name>DlgKeywordTree</name>
     <message>
         <source>Select new parent</source>
-        <translation>Valitse uusi pääluokka</translation>
+        <translation type="unfinished">Valitse uusi pääluokka</translation>
     </message>
 </context>
 <context>
     <name>DlgLayoutClass</name>
     <message>
         <source>Apply</source>
-        <translation>Käytä</translation>
+        <translation type="unfinished">Käytä</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Change layout...</source>
-        <translation>Vaihda asettelu...</translation>
+        <translation type="unfinished">Vaihda asettelu...</translation>
     </message>
 </context>
 <context>
     <name>DlgLevels</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Harmaa</translation>
+        <translation type="unfinished">Harmaa</translation>
     </message>
     <message>
         <source>Luminosity</source>
-        <translation>Värikirkkaus</translation>
+        <translation type="unfinished">Värikirkkaus</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation>Värit</translation>
+        <translation type="unfinished">Värit</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation>Ulostulo</translation>
+        <translation type="unfinished">Ulostulo</translation>
     </message>
     <message>
         <source>Colors+Luminosity</source>
-        <translation>Värit+värikirkkaus</translation>
+        <translation type="unfinished">Värit+värikirkkaus</translation>
     </message>
 </context>
 <context>
     <name>DlgMessage</name>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation>Älä kysy uudestaan</translation>
+        <translation type="unfinished">Älä kysy uudestaan</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation>Älä näytä uudestaan</translation>
+        <translation type="unfinished">Älä näytä uudestaan</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation type="unfinished">Luettelo</translation>
     </message>
     <message>
         <source>Catalog Thumbnails</source>
-        <translation>Luettelokuvakkeet</translation>
+        <translation type="unfinished">Luettelokuvakkeet</translation>
     </message>
 </context>
 <context>
     <name>DlgNew</name>
     <message>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation type="unfinished">DPI</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation type="unfinished">RGB</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Muoto</translation>
+        <translation type="unfinished">Muoto</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Create image</source>
-        <translation>Luo kuva</translation>
+        <translation type="unfinished">Luo kuva</translation>
     </message>
     <message>
         <source>256 Colors</source>
-        <translation>256 väriä</translation>
+        <translation type="unfinished">256 väriä</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Greyscale</source>
-        <translation>Harmaasävy</translation>
+        <translation type="unfinished">Harmaasävy</translation>
     </message>
 </context>
 <context>
     <name>DlgOpenWith</name>
     <message>
         <source>Name</source>
-        <translation>Nimi</translation>
+        <translation type="unfinished">Nimi</translation>
     </message>
     <message>
         <source>Add...</source>
-        <translation>Lisää...</translation>
+        <translation type="unfinished">Lisää...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Valitse kaikki</translation>
+        <translation type="unfinished">Valitse kaikki</translation>
     </message>
     <message>
         <source>Configure programs...</source>
-        <translation>Määrittele ohjelmat...</translation>
+        <translation type="unfinished">Määrittele ohjelmat...</translation>
     </message>
     <message>
         <source>Arguments</source>
-        <translation>Argumentit</translation>
+        <translation type="unfinished">Argumentit</translation>
     </message>
 </context>
 <context>
     <name>DlgPalette</name>
     <message>
         <source>Set</source>
-        <translation>Aseta</translation>
+        <translation type="unfinished">Aseta</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Tyhjennä</translation>
+        <translation type="unfinished">Tyhjennä</translation>
     </message>
     <message>
         <source>Edit Palette</source>
-        <translation>Muokkaa palettia</translation>
+        <translation type="unfinished">Muokkaa palettia</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation>Läpinäkyvyys</translation>
+        <translation type="unfinished">Läpinäkyvyys</translation>
     </message>
     <message>
         <source>Load...</source>
-        <translation>Lataa...</translation>
+        <translation type="unfinished">Lataa...</translation>
     </message>
     <message>
         <source>RGB: %1 %2 %3</source>
-        <translation>RGB: %1 %2 %3</translation>
+        <translation type="unfinished">RGB: %1 %2 %3</translation>
     </message>
     <message>
         <source>Choose Palette file</source>
-        <translation>Valitse palettitiedosto</translation>
+        <translation type="unfinished">Valitse palettitiedosto</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation>Tallenna...</translation>
+        <translation type="unfinished">Tallenna...</translation>
     </message>
     <message>
         <source>Index: %1</source>
-        <translation>Indeksi: %1</translation>
+        <translation type="unfinished">Indeksi: %1</translation>
     </message>
 </context>
 <context>
     <name>DlgPicasa</name>
     <message>
         <source>Updating album list from Picasa</source>
-        <translation>Päivitetään albumilista Picasasta</translation>
+        <translation type="unfinished">Päivitetään albumilista Picasasta</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Problem</source>
-        <translation>Ongelma</translation>
+        <translation type="unfinished">Ongelma</translation>
     </message>
     <message>
         <source>Uploading image(s) to Picasa album</source>
-        <translation>Ladataan kuvat Picasa-albumiin</translation>
+        <translation type="unfinished">Ladataan kuvat Picasa-albumiin</translation>
     </message>
     <message>
         <source>An error occurred in uploading process!</source>
-        <translation>Latausprosessissa tapahtui virhe!</translation>
+        <translation type="unfinished">Latausprosessissa tapahtui virhe!</translation>
     </message>
     <message>
         <source>An error occurred, please check your login data!</source>
-        <translation>Tapahtui virhe, tarkista kirjautumistiedot!</translation>
+        <translation type="unfinished">Tapahtui virhe, tarkista kirjautumistiedot!</translation>
     </message>
 </context>
 <context>
     <name>DlgPicasaSettings</name>
     <message>
         <source>User password:</source>
-        <translation>Käyttäjän salasana:</translation>
+        <translation type="unfinished">Käyttäjän salasana:</translation>
     </message>
     <message>
         <source>Picasa settings</source>
-        <translation>Picasa asetukset</translation>
+        <translation type="unfinished">Picasa asetukset</translation>
     </message>
     <message>
         <source>User email:</source>
-        <translation>Käyttäjän sähköposti:</translation>
+        <translation type="unfinished">Käyttäjän sähköposti:</translation>
     </message>
 </context>
 <context>
     <name>DlgPlugins</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
 </context>
 <context>
     <name>DlgPluginsClass</name>
     <message>
         <source>AddOns &amp; Plugins</source>
-        <translation>Liitännäiset ja lisäosat</translation>
+        <translation type="unfinished">Liitännäiset ja lisäosat</translation>
     </message>
     <message>
         <source>AddOns</source>
-        <translation>Liitännäiset</translation>
+        <translation type="unfinished">Liitännäiset</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selitys</translation>
+        <translation type="unfinished">Selitys</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Lisäosat</translation>
+        <translation type="unfinished">Lisäosat</translation>
     </message>
 </context>
 <context>
     <name>DlgPresetsManageClass</name>
     <message>
         <source>Edit presets</source>
-        <translation>Muokkaa esiasetuksia</translation>
+        <translation type="unfinished">Muokkaa esiasetuksia</translation>
     </message>
 </context>
 <context>
     <name>DlgPrint</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>to</source>
-        <translation>-&gt;</translation>
+        <translation type="unfinished">-&gt;</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Ylä</translation>
+        <translation type="unfinished">Ylä</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fontti</translation>
+        <translation type="unfinished">Fontti</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasen</translation>
+        <translation type="unfinished">Vasen</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>Rivit</translation>
+        <translation type="unfinished">Rivit</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message>
         <source>Above</source>
-        <translation>Yläpuolella</translation>
+        <translation type="unfinished">Yläpuolella</translation>
     </message>
     <message>
         <source>Below</source>
-        <translation>Alapuolella</translation>
+        <translation type="unfinished">Alapuolella</translation>
     </message>
     <message>
         <source>Single - Custom</source>
-        <translation>Muokattu</translation>
+        <translation type="unfinished">Muokattu</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation>Sivut</translation>
+        <translation type="unfinished">Sivut</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Tulosta</translation>
+        <translation type="unfinished">Tulosta</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation type="unfinished">Oikea</translation>
     </message>
     <message>
         <source>Units</source>
-        <translation>Yksikkö</translation>
+        <translation type="unfinished">Yksikkö</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Vertical spacing</source>
-        <translation>Pystysuora väli</translation>
+        <translation type="unfinished">Pystysuora väli</translation>
     </message>
     <message>
         <source>Maintain aspect ratio</source>
-        <translation>Säilytä kuvasuhde</translation>
+        <translation type="unfinished">Säilytä kuvasuhde</translation>
     </message>
     <message>
         <source>Single - Stretch to page</source>
-        <translation>Venytä sivulle</translation>
+        <translation type="unfinished">Venytä sivulle</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä-keskellä</translation>
+        <translation type="unfinished">Ylhäällä keskellä</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskellä-oikealla</translation>
+        <translation type="unfinished">Keskellä oikealla</translation>
     </message>
     <message>
         <source>Current date</source>
-        <translation>Päiväys</translation>
+        <translation type="unfinished">Päiväys</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation>Näytä tiedot</translation>
+        <translation type="unfinished">Näytä tiedot</translation>
     </message>
     <message>
         <source>Single - DPI</source>
-        <translation>DPI (Alkuperäinen koko)</translation>
+        <translation type="unfinished">DPI (Alkuperäinen koko)</translation>
     </message>
     <message>
         <source>Visiting card - 91x55mm (3.58x2.17&quot;)</source>
-        <translation>Käyntikortti - 91x55mm (3.58x2.17&quot;)</translation>
+        <translation type="unfinished">Käyntikortti - 91x55mm (3.58x2.17&quot;)</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation type="unfinished">Ylhäällä oikealla</translation>
     </message>
     <message>
         <source>53x71mm (2x3&quot;) [14]</source>
-        <translation>53x71mm (2x3&quot;) [14]</translation>
+        <translation type="unfinished">53x71mm (2x3&quot;) [14]</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Marginaalit</translation>
+        <translation type="unfinished">Marginaalit</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation type="unfinished">Esikatselukuvat</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Ala</translation>
+        <translation type="unfinished">Ala</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskellä</translation>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation>Alatunniste</translation>
+        <translation type="unfinished">Alatunniste</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>Ylätunniste</translation>
+        <translation type="unfinished">Ylätunniste</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation>Asettelu</translation>
+        <translation type="unfinished">Asettelu</translation>
     </message>
     <message>
         <source>Single - Best fit to page</source>
-        <translation>Paras sovitus sivulle</translation>
+        <translation type="unfinished">Paras sovitus sivulle</translation>
     </message>
     <message>
         <source>Insert&gt;&gt;</source>
-        <translation>Lisää</translation>
+        <translation type="unfinished">Lisää</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation type="unfinished">Alhaalla vasemmalla</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation type="unfinished">Ylhällä vasemmalla</translation>
     </message>
     <message>
         <source>Print count</source>
-        <translation>Kopiomäärä</translation>
+        <translation type="unfinished">Kopiomäärä</translation>
     </message>
     <message>
         <source>Post card - 148x100mm (5.83x3.94&quot;)</source>
-        <translation>Postikortti - 148x100mm (5.83x3.94&quot;)</translation>
+        <translation type="unfinished">Postikortti - 148x100mm (5.83x3.94&quot;)</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Valinnat</translation>
+        <translation type="unfinished">Valinnat</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>Page number</source>
-        <translation>Sivunumero</translation>
+        <translation type="unfinished">Sivunumero</translation>
     </message>
     <message>
         <source>Page %1/%2</source>
-        <translation>Sivu %1/%2</translation>
+        <translation type="unfinished">Sivu %1/%2</translation>
     </message>
     <message>
         <source>Page count</source>
-        <translation>Sivumäärä</translation>
+        <translation type="unfinished">Sivumäärä</translation>
     </message>
     <message>
         <source>Page layout</source>
-        <translation>Sivun asettelu</translation>
+        <translation type="unfinished">Sivun asettelu</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Esiasetukset</translation>
+        <translation type="unfinished">Esiasetukset</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Esikatselu</translation>
+        <translation type="unfinished">Esikatselu</translation>
     </message>
     <message>
         <source>Insert all Pages/Images of multi-page source images</source>
-        <translation>Lisää kaikki sivut/Lähdekuvat</translation>
+        <translation type="unfinished">Lisää kaikki sivut/Lähdekuvat</translation>
     </message>
     <message>
         <source>102x152mm (4x6&quot;) [3]</source>
-        <translation>102x152mm (4x6&quot;) [3]</translation>
+        <translation type="unfinished">102x152mm (4x6&quot;) [3]</translation>
     </message>
     <message>
         <source>Parameters</source>
-        <translation>Parametrit</translation>
+        <translation type="unfinished">Parametrit</translation>
     </message>
     <message>
         <source>Horizontal spacing</source>
-        <translation>Väli vaakasuunnassa</translation>
+        <translation type="unfinished">Väli vaakasuunnassa</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalla-keskellä</translation>
+        <translation type="unfinished">Alhaalla keskellä</translation>
     </message>
     <message>
         <source>35x45mm (1.4x1.8&quot;) [28]</source>
-        <translation>35x45mm (1.4x1.8&quot;) [28]</translation>
+        <translation type="unfinished">35x45mm (1.4x1.8&quot;) [28]</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Kuvateksti</translation>
+        <translation type="unfinished">Kuvateksti</translation>
     </message>
     <message>
         <source>Page size: %1x%2 inches, %3x%4 mm</source>
-        <translation>Paperikoko: %1x%2 tuumaa, %3x%4 mm</translation>
+        <translation type="unfinished">Paperikoko: %1x%2 tuumaa, %3x%4 mm</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Sarakkeet</translation>
+        <translation type="unfinished">Sarakkeet</translation>
     </message>
     <message>
         <source>X scale</source>
-        <translation>X skaalaus</translation>
+        <translation type="unfinished">X skaalaus</translation>
     </message>
     <message>
         <source>Page setup...</source>
-        <translation>Sivun asetukset...</translation>
+        <translation type="unfinished">Sivun asetukset...</translation>
     </message>
     <message>
         <source>Single - Crop to page</source>
-        <translation>Rajaa sivun kokoon</translation>
+        <translation type="unfinished">Rajaa sivun kokoon</translation>
     </message>
     <message>
         <source>Y scale</source>
-        <translation>Y skaalaus</translation>
+        <translation type="unfinished">Y skaalaus</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskellä-vasemmalla</translation>
+        <translation type="unfinished">Keskellä vasemmalla</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation type="unfinished">Alhaalla oikealla</translation>
     </message>
     <message>
         <source>Print as grayscale</source>
-        <translation>Tulosta harmaasävynä</translation>
+        <translation type="unfinished">Tulosta harmaasävynä</translation>
     </message>
     <message>
         <source>152x102mm (6x4&quot;) [2]</source>
-        <translation>152x102mm (6x4&quot;) [2]</translation>
+        <translation type="unfinished">152x102mm (6x4&quot;) [2]</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation>Ylä-/alatunniste</translation>
+        <translation type="unfinished">Ylä-/alatunniste</translation>
     </message>
     <message>
         <source>Multi-page files</source>
-        <translation>Monisivutiedostot</translation>
+        <translation type="unfinished">Monisivutiedostot</translation>
     </message>
     <message>
         <source>203x254mm (8x10&quot;)</source>
-        <translation>203x254mm (8x10&quot;)</translation>
+        <translation type="unfinished">203x254mm (8x10&quot;)</translation>
     </message>
     <message>
         <source>152x114mm (6x4.5&quot;) [2]</source>
-        <translation>152x114mm (6x4.5&quot;) [2]</translation>
+        <translation type="unfinished">152x114mm (6x4.5&quot;) [2]</translation>
     </message>
     <message>
         <source>89x127mm (3.5x5&quot;) [4]</source>
-        <translation>89x127mm (3.5x5&quot;) [4]</translation>
+        <translation type="unfinished">89x127mm (3.5x5&quot;) [4]</translation>
     </message>
     <message>
         <source>127x178mm (5x7&quot;) [2]</source>
-        <translation>127x178mm (5x7&quot;) [2]</translation>
+        <translation type="unfinished">127x178mm (5x7&quot;) [2]</translation>
     </message>
     <message>
         <source>Crop to size</source>
-        <translation>Rajaa sivulle</translation>
+        <translation type="unfinished">Rajaa sivulle</translation>
     </message>
     <message>
         <source>Collection</source>
@@ -7809,27 +7808,27 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgProcess</name>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoomaus 100%</translation>
+        <translation type="unfinished">Zoomaus 100%</translation>
     </message>
     <message>
         <source>&lt;Last Used&gt;</source>
-        <translation>&lt;Viimeksi käytetyt&gt;</translation>
+        <translation type="unfinished">&lt;Viimeksi käytetyt&gt;</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
-        <translation>&lt;Oletus&gt;</translation>
+        <translation type="unfinished">&lt;Oletus&gt;</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Paras sovitus</translation>
+        <translation type="unfinished">Paras sovitus</translation>
     </message>
 </context>
 <context>
@@ -7840,266 +7839,266 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Undo</source>
-        <translation>Kumoa</translation>
+        <translation type="unfinished">Kumoa</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Käytä</translation>
+        <translation type="unfinished">Käytä</translation>
     </message>
     <message>
         <source>Apply to image</source>
-        <translation>Käytä kuvassa</translation>
+        <translation type="unfinished">Käytä kuvassa</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Tallenna esiasetus</translation>
+        <translation type="unfinished">Tallenna esiasetus</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Esikatselu</translation>
+        <translation type="unfinished">Esikatselu</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Esiasetus:</translation>
+        <translation type="unfinished">Esiasetus:</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Poista esiasetus</translation>
+        <translation type="unfinished">Poista esiasetus</translation>
     </message>
 </context>
 <context>
     <name>DlgReadCRaw</name>
     <message>
         <source>Use</source>
-        <translation>Käytä</translation>
+        <translation type="unfinished">Käytä</translation>
     </message>
     <message>
         <source>Convert to sRGB</source>
-        <translation>Muunna RGB:ksi</translation>
+        <translation type="unfinished">Muunna RGB:ksi</translation>
     </message>
     <message>
         <source>Use Automatic white balance</source>
-        <translation>Käytä automaattista valkotasapainoa</translation>
+        <translation type="unfinished">Käytä automaattista valkotasapainoa</translation>
     </message>
     <message>
         <source>Half size</source>
-        <translation>Puoli koko</translation>
+        <translation type="unfinished">Puoli koko</translation>
     </message>
     <message>
         <source>Full size</source>
-        <translation>Täysi koko</translation>
+        <translation type="unfinished">Täysi koko</translation>
     </message>
     <message>
         <source>Use Embedded color matrix</source>
-        <translation>Käytä upotettua värimatriisia</translation>
+        <translation type="unfinished">Käytä upotettua värimatriisia</translation>
     </message>
     <message>
         <source>Use Camera white balance</source>
-        <translation>Käytä kameran valkotasapainoa</translation>
+        <translation type="unfinished">Käytä kameran valkotasapainoa</translation>
     </message>
     <message>
         <source>Red scaling</source>
-        <translation>Punaisen skaalaus</translation>
+        <translation type="unfinished">Punaisen skaalaus</translation>
     </message>
     <message>
         <source>Embedded preview</source>
-        <translation>Upotettu esikatselu</translation>
+        <translation type="unfinished">Upotettu esikatselu</translation>
     </message>
     <message>
         <source>Blue scaling</source>
-        <translation>Sinisen skaalaus</translation>
+        <translation type="unfinished">Sinisen skaalaus</translation>
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Kirkkaus</translation>
+        <translation type="unfinished">Kirkkaus</translation>
     </message>
     <message>
         <source>Automatic brightness</source>
-        <translation>Automaattnen kirkkaus</translation>
+        <translation type="unfinished">Automaattnen kirkkaus</translation>
     </message>
 </context>
 <context>
     <name>DlgReadFITS</name>
     <message>
         <source>Min/Max</source>
-        <translation>Min/Max</translation>
+        <translation type="unfinished">Min/Max</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation>Lineaarinen</translation>
+        <translation type="unfinished">Lineaarinen</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation>Neliö</translation>
+        <translation type="unfinished">Neliö</translation>
     </message>
     <message>
         <source>Logarithm</source>
-        <translation>Logaritmi</translation>
+        <translation type="unfinished">Logaritmi</translation>
     </message>
     <message>
         <source>Squared root</source>
-        <translation>Neliöjuuri</translation>
+        <translation type="unfinished">Neliöjuuri</translation>
     </message>
     <message>
         <source>FITS Display</source>
-        <translation>FITS Näyttö</translation>
+        <translation type="unfinished">FITS Näyttö</translation>
     </message>
 </context>
 <context>
     <name>DlgReadHDRI</name>
     <message>
         <source>Gamma</source>
-        <translation>Gamma</translation>
+        <translation type="unfinished">Gamma</translation>
     </message>
 </context>
 <context>
     <name>DlgReadOpenEXR</name>
     <message>
         <source>Gamma</source>
-        <translation>Gamma</translation>
+        <translation type="unfinished">Gamma</translation>
     </message>
 </context>
 <context>
     <name>DlgReadPCD</name>
     <message>
         <source>PCD size</source>
-        <translation>PCD-koko</translation>
+        <translation type="unfinished">PCD-koko</translation>
     </message>
 </context>
 <context>
     <name>DlgReadPDF</name>
     <message>
         <source>Note</source>
-        <translation>Huomautus</translation>
+        <translation type="unfinished">Huomautus</translation>
     </message>
     <message>
         <source>Legal</source>
-        <translation>Oikeus</translation>
+        <translation type="unfinished">Oikeus</translation>
     </message>
     <message>
         <source>Ledger</source>
-        <translation>Apuviiva</translation>
+        <translation type="unfinished">Apuviiva</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation>Kirjain</translation>
+        <translation type="unfinished">Kirjain</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normaali</translation>
+        <translation type="unfinished">Normaali</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation>Resoluutio</translation>
+        <translation type="unfinished">Resoluutio</translation>
     </message>
     <message>
         <source>Use CIE color</source>
-        <translation>Käytä CIE-väriä</translation>
+        <translation type="unfinished">Käytä CIE-väriä</translation>
     </message>
     <message>
         <source>Page size</source>
-        <translation>Sivukoko</translation>
+        <translation type="unfinished">Sivukoko</translation>
     </message>
 </context>
 <context>
     <name>DlgReadPSD</name>
     <message>
         <source>Fix alpha channel</source>
-        <translation>Korjaa alfa-kanava</translation>
+        <translation type="unfinished">Korjaa alfa-kanava</translation>
     </message>
 </context>
 <context>
     <name>DlgReadRaw</name>
     <message>
         <source>LSBF</source>
-        <translation>LSBF</translation>
+        <translation type="unfinished">LSBF</translation>
     </message>
     <message>
         <source>MSBF</source>
-        <translation>MSBF</translation>
+        <translation type="unfinished">MSBF</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Bits per pixel</source>
-        <translation>Bittiä pikselillä</translation>
+        <translation type="unfinished">Bittiä pikselillä</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Byte order</source>
-        <translation>Bittijärjestys</translation>
+        <translation type="unfinished">Bittijärjestys</translation>
     </message>
     <message>
         <source>Interleaved</source>
-        <translation>Limitys</translation>
+        <translation type="unfinished">Limitys</translation>
     </message>
     <message>
         <source>Header size</source>
-        <translation>Ylätunnistimen koko</translation>
+        <translation type="unfinished">Ylätunnistimen koko</translation>
     </message>
     <message>
         <source>Greyscale</source>
-        <translation>Harmaasävy</translation>
+        <translation type="unfinished">Harmaasävy</translation>
     </message>
     <message>
         <source>Channel type</source>
-        <translation>Kanavatyyppi</translation>
+        <translation type="unfinished">Kanavatyyppi</translation>
     </message>
 </context>
 <context>
     <name>DlgReadSettings</name>
     <message>
         <source>Load format settings</source>
-        <translation>Lataa formaattiasetukset</translation>
+        <translation type="unfinished">Lataa formaattiasetukset</translation>
     </message>
 </context>
 <context>
     <name>DlgReadWriteSettings</name>
     <message>
         <source>Read</source>
-        <translation>Luku</translation>
+        <translation type="unfinished">Luku</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoitus</translation>
+        <translation type="unfinished">Kirjoitus</translation>
     </message>
     <message>
         <source>Format settings</source>
-        <translation>Formaattiasetukset</translation>
+        <translation type="unfinished">Formaattiasetukset</translation>
     </message>
 </context>
 <context>
     <name>DlgRegistration</name>
     <message>
         <source>Code:</source>
-        <translation>Koodi:</translation>
+        <translation type="unfinished">Koodi:</translation>
     </message>
     <message>
         <source>The name or code is invalid!</source>
-        <translation>Nimi tai koodi on väärä!</translation>
+        <translation type="unfinished">Nimi tai koodi on väärä!</translation>
     </message>
     <message>
         <source>Name/Company name:</source>
-        <translation>Nimi/Yrityksen nimi:</translation>
+        <translation type="unfinished">Nimi/Yrityksen nimi:</translation>
     </message>
     <message>
         <source>Invalid code</source>
-        <translation>Kelpaamaton koodi</translation>
+        <translation type="unfinished">Kelpaamaton koodi</translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation>Rekisteröinti</translation>
+        <translation type="unfinished">Rekisteröinti</translation>
     </message>
     <message>
         <source>Registration successful.
 
 Thank you for purchasing %1.</source>
-        <translation>Rekisteröinti onnistui.
+        <translation type="unfinished">Rekisteröinti onnistui.
 
 Kiitos että tilasit %1.</translation>
     </message>
@@ -8108,7 +8107,7 @@ Kiitos että tilasit %1.</translation>
     <name>DlgRemoveBg</name>
     <message>
         <source>Background remover</source>
-        <translation>Taustan poistaja</translation>
+        <translation type="unfinished">Taustan poistaja</translation>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
@@ -8119,15 +8118,15 @@ Kiitos että tilasit %1.</translation>
     <name>DlgRename</name>
     <message>
         <source>(%1 files)</source>
-        <translation>(%1 tiedostoa)</translation>
+        <translation type="unfinished">(%1 tiedostoa)</translation>
     </message>
     <message>
         <source>Do you want to delete all your name templates?</source>
-        <translation>Haluatko poistaa kaikki nimi-mallipohjasi?</translation>
+        <translation type="unfinished">Haluatko poistaa kaikki nimi-mallipohjasi?</translation>
     </message>
     <message>
         <source>Companion renaming</source>
-        <translation>Oheistiedostojen uudelleen nimeäminen</translation>
+        <translation type="unfinished">Oheistiedostojen uudelleen nimeäminen</translation>
     </message>
     <message>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
@@ -8142,331 +8141,331 @@ Haluatko poistaa ne?</translation>
     <name>DlgRenameClass</name>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Case</source>
-        <translation>Kirjoitusmuoto</translation>
+        <translation type="unfinished">Kirjoitusmuoto</translation>
     </message>
     <message>
         <source>Step</source>
-        <translation>Askel</translation>
+        <translation type="unfinished">Askel</translation>
     </message>
     <message>
         <source>With</source>
-        <translation>Tällä</translation>
+        <translation type="unfinished">Tällä</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation>Aloitus</translation>
+        <translation type="unfinished">Aloitus</translation>
     </message>
     <message>
         <source>Name template</source>
-        <translation>Nimeä mallipohja</translation>
+        <translation type="unfinished">Nimeä mallipohja</translation>
     </message>
     <message>
         <source>Ignore extension for # enumerator</source>
-        <translation>Ohita luetteloinnin #:n laajennus</translation>
+        <translation type="unfinished">Ohita luetteloinnin #:n laajennus</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nimi &amp; tiedostopääte pienillä kirjaimilla</translation>
+        <translation type="unfinished">Nimi &amp; tiedostopääte pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Exclude extension</source>
-        <translation>Poissuljettu tiedostopääte</translation>
+        <translation type="unfinished">Poissuljettu tiedostopääte</translation>
     </message>
     <message>
         <source>Old name</source>
-        <translation>Vanha nimi</translation>
+        <translation type="unfinished">Vanha nimi</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
-        <translation>Tiedostopääte isoilla kirjaimilla</translation>
+        <translation type="unfinished">Tiedostopääte isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Batch rename</source>
-        <translation>Uudelleen nimeäminen sarjana</translation>
+        <translation type="unfinished">Uudelleen nimeäminen sarjana</translation>
     </message>
     <message>
         <source>Use Regular Expression</source>
-        <translation>Käytä säännöllistä lauseketta</translation>
+        <translation type="unfinished">Käytä säännöllistä lauseketta</translation>
     </message>
     <message>
         <source>Name lowercase</source>
-        <translation>Nimi pienillä kirjaimilla</translation>
+        <translation type="unfinished">Nimi pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Create new name template when opening dialog</source>
-        <translation>Luo uusi nimi mallipohjalle kun valintaikkuna avataan</translation>
+        <translation type="unfinished">Luo uusi nimi mallipohjalle kun valintaikkuna avataan</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation>Hakemisto</translation>
+        <translation type="unfinished">Hakemisto</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Korvaa</translation>
+        <translation type="unfinished">Korvaa</translation>
     </message>
     <message>
         <source>Extension lowercase</source>
-        <translation>Tiedostopääte pienillä kirjaimilla</translation>
+        <translation type="unfinished">Tiedostopääte pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Double click on a filename to create a new name template</source>
-        <translation>Kaksoisklikkaa tiedoston nimeä luodaksesi uusi nimi mallipohjalle</translation>
+        <translation type="unfinished">Kaksoisklikkaa tiedoston nimeä luodaksesi uusi nimi mallipohjalle</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nimi &amp; tiedostopääte isoilla kirjaimilla</translation>
+        <translation type="unfinished">Nimi &amp; tiedostopääte isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostopääte</translation>
+        <translation type="unfinished">Tiedostopääte</translation>
     </message>
     <message>
         <source>Clean diacritic characters</source>
-        <translation>Poista diakriittiset merkit</translation>
+        <translation type="unfinished">Poista diakriittiset merkit</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation>Alkaa isolla kirjaimella</translation>
+        <translation type="unfinished">Alkaa isolla kirjaimella</translation>
     </message>
     <message>
         <source>New name</source>
-        <translation>Uusi nimi</translation>
+        <translation type="unfinished">Uusi nimi</translation>
     </message>
     <message>
         <source>Case sensitive</source>
-        <translation>Kirjainkoko</translation>
+        <translation type="unfinished">Kirjainkoko</translation>
     </message>
     <message>
         <source>Duplicate...</source>
-        <translation>Duplikaatti...</translation>
+        <translation type="unfinished">Duplikaatti...</translation>
     </message>
     <message>
         <source>Name uppercase</source>
-        <translation>Nimi isoilla kirjaimilla</translation>
+        <translation type="unfinished">Nimi isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Clear templates</source>
-        <translation>Tyhjennä mallipohja</translation>
+        <translation type="unfinished">Tyhjennä mallipohja</translation>
     </message>
 </context>
 <context>
     <name>DlgRenameDupClass</name>
     <message>
         <source>Add</source>
-        <translation>Lisää</translation>
+        <translation type="unfinished">Lisää</translation>
     </message>
     <message>
         <source>Only if needed</source>
-        <translation>Vain jos tarvitaan</translation>
+        <translation type="unfinished">Vain jos tarvitaan</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Aina</translation>
+        <translation type="unfinished">Aina</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Numero</translation>
+        <translation type="unfinished">Numero</translation>
     </message>
     <message>
         <source>Suffix</source>
-        <translation>Pääte</translation>
+        <translation type="unfinished">Pääte</translation>
     </message>
     <message>
         <source>Duplicate name</source>
-        <translation>Duplikaatin nimi</translation>
+        <translation type="unfinished">Duplikaatin nimi</translation>
     </message>
     <message>
         <source>Replace &apos;#&apos; with</source>
-        <translation>Korvaa &apos;#&apos; tällä</translation>
+        <translation type="unfinished">Korvaa &apos;#&apos; tällä</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Kirjain</translation>
+        <translation type="unfinished">Kirjain</translation>
     </message>
 </context>
 <context>
     <name>DlgRenameFile</name>
     <message>
         <source>File rename</source>
-        <translation>Tiedoston uudelleen nimeäminen</translation>
+        <translation type="unfinished">Tiedoston uudelleen nimeäminen</translation>
     </message>
     <message>
         <source>Insert Date/Time&gt;&gt;</source>
-        <translation>Anna Päiväys/aika&gt;&gt;</translation>
+        <translation type="unfinished">Anna Päiväys/aika&gt;&gt;</translation>
     </message>
     <message>
         <source>New name:</source>
-        <translation>Uusi nimi:</translation>
+        <translation type="unfinished">Uusi nimi:</translation>
     </message>
     <message>
         <source>Extension:</source>
-        <translation>Tiedostomuoto:</translation>
+        <translation type="unfinished">Tiedostomuoto:</translation>
     </message>
 </context>
 <context>
     <name>DlgResize</name>
     <message>
         <source>&lt;Last Used&gt;</source>
-        <translation>&lt;Viimeksi käytetty&gt;</translation>
+        <translation type="unfinished">&lt;Viimeksi käytetty&gt;</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
-        <translation>&lt;Oletust&gt;</translation>
+        <translation type="unfinished">&lt;Oletust&gt;</translation>
     </message>
     <message>
         <source>Result image size: %1x%2 - %3 Mpixels</source>
-        <translation>Lopullinen kuvakoko: %1x%2 - %3 Mpikseliä</translation>
+        <translation type="unfinished">Lopullinen kuvakoko: %1x%2 - %3 Mpikseliä</translation>
     </message>
     <message>
         <source>Canvas resize</source>
-        <translation>Pohjan koon muuttaminen</translation>
+        <translation type="unfinished">Pohjan koon muuttaminen</translation>
     </message>
 </context>
 <context>
     <name>DlgResizeClass</name>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished">%</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation>mm</translation>
+        <translation type="unfinished">mm</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Tila</translation>
+        <translation type="unfinished">Tila</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>dots</source>
-        <translation>pistettä</translation>
+        <translation type="unfinished">pistettä</translation>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation>Bilineaarinen</translation>
+        <translation type="unfinished">Bilinear</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Size (%)</source>
-        <translation>Koko (%)</translation>
+        <translation type="unfinished">Koko (%)</translation>
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Pidä kuvasuhde</translation>
+        <translation type="unfinished">Pidä kuvasuhde</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Käytä gammakorjausta</translation>
+        <translation type="unfinished">Käytä gammakorjausta</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
-        <translation>Lähin naapuri</translation>
+        <translation type="unfinished">Lähin naapuri</translation>
     </message>
     <message>
         <source>pixels/inch</source>
-        <translation>pikseliä/tuuma</translation>
+        <translation type="unfinished">pikseliä/tuuma</translation>
     </message>
     <message>
         <source>Shortest side</source>
-        <translation>Lyhyt sivu</translation>
+        <translation type="unfinished">Lyhyt sivu</translation>
     </message>
     <message>
         <source>Mpixels</source>
-        <translation>Megapikseliä</translation>
+        <translation type="unfinished">Megapikseliä</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskellä</translation>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Method</source>
-        <translation>Menetelmä</translation>
+        <translation type="unfinished">Menetelmä</translation>
     </message>
     <message>
         <source>Print size</source>
-        <translation>Tulostuskoko</translation>
+        <translation type="unfinished">Tulostuskoko</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>Muuta kokoa</translation>
+        <translation type="unfinished">Muuta kokoa</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation>Resoluutio</translation>
+        <translation type="unfinished">Resoluutio</translation>
     </message>
     <message>
         <source>Save current settings as new preset</source>
-        <translation>Tallenna uusi esiasetus näillä asetuksilla</translation>
+        <translation type="unfinished">Tallenna uusi esiasetus näillä asetuksilla</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>percent</source>
-        <translation>Prosenttia</translation>
+        <translation type="unfinished">Prosenttia</translation>
     </message>
     <message>
         <source>inches</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Load &apos;Default values&apos;</source>
-        <translation>Lataa &apos;Oletusarvot&apos;</translation>
+        <translation type="unfinished">Lataa &apos;Oletusarvot&apos;</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Esiasetukset:</translation>
+        <translation type="unfinished">Esiasetukset:</translation>
     </message>
     <message>
         <source>Sharpen</source>
-        <translation>Terävyys</translation>
+        <translation type="unfinished">Terävyys</translation>
     </message>
     <message>
         <source>Resample</source>
-        <translation>Interpolointi</translation>
+        <translation type="unfinished">Interpolointi</translation>
     </message>
     <message>
         <source>Size (pixels)</source>
-        <translation>Koko [Pikseliä]</translation>
+        <translation type="unfinished">Koko [Pikseliä]</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation>Kuvan koko</translation>
+        <translation type="unfinished">Kuvan koko</translation>
     </message>
     <message>
         <source>pixels/cm</source>
-        <translation>pikseliä/cm</translation>
+        <translation type="unfinished">pikseliä/cm</translation>
     </message>
     <message>
         <source>Longest side</source>
-        <translation>Pitkä sivu</translation>
+        <translation type="unfinished">Pitkä sivu</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Poista esiasetus</translation>
+        <translation type="unfinished">Poista esiasetus</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -8505,145 +8504,145 @@ Haluatko poistaa ne?</translation>
     <name>DlgRotate</name>
     <message>
         <source>Angle:</source>
-        <translation>Kulma:</translation>
+        <translation type="unfinished">Kulma:</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Käännä</translation>
+        <translation type="unfinished">Käännä</translation>
     </message>
     <message>
         <source>Apply to image</source>
-        <translation>Käytä kuvassa</translation>
+        <translation type="unfinished">Käytä kuvassa</translation>
     </message>
     <message>
         <source>Show grid</source>
-        <translation>Näytä ruudukko</translation>
+        <translation type="unfinished">Näytä ruudukko</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Käytä pehmennystä</translation>
+        <translation type="unfinished">Käytä pehmennystä</translation>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation>Automaattirajaus</translation>
+        <translation type="unfinished">Automaattirajaus</translation>
     </message>
 </context>
 <context>
     <name>DlgSearch</name>
     <message>
         <source>Search name:</source>
-        <translation>Etsintä nimi:</translation>
+        <translation type="unfinished">Etsintä nimi:</translation>
     </message>
     <message>
         <source>Finished: %1 file(s) found.</source>
-        <translation>Valmis: %1 tiedosto(a) löydetty.</translation>
+        <translation type="unfinished">Valmis: %1 tiedosto(a) löydetty.</translation>
     </message>
     <message>
         <source>Files found (%1):</source>
-        <translation>(%1): tiedostoa löytynyt:</translation>
+        <translation type="unfinished">(%1): tiedostoa löytynyt:</translation>
     </message>
     <message>
         <source>Finished.</source>
-        <translation>Valmis.</translation>
+        <translation type="unfinished">Valmis.</translation>
     </message>
     <message>
         <source>Searching...</source>
-        <translation>Etsitään...</translation>
+        <translation type="unfinished">Etsitään...</translation>
     </message>
 </context>
 <context>
     <name>DlgSearchClass</name>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sulje</translation>
+        <translation type="unfinished">Sulje</translation>
     </message>
     <message>
         <source>Save current search</source>
-        <translation>Tallenna nykyinen haku</translation>
+        <translation type="unfinished">Tallenna nykyinen haku</translation>
     </message>
     <message>
         <source>&lt; Back</source>
-        <translation>&lt; Takaisin</translation>
+        <translation type="unfinished">&lt; Takaisin</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
-        <translation>Lisää &gt;&gt;</translation>
+        <translation type="unfinished">Lisää &gt;&gt;</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Etsi</translation>
+        <translation type="unfinished">Etsi</translation>
     </message>
     <message>
         <source>Browse...</source>
-        <translation>Valitse...</translation>
+        <translation type="unfinished">Valitse...</translation>
     </message>
     <message>
         <source>Current pathname:</source>
-        <translation>Nykyinen tiedostopolku:</translation>
+        <translation type="unfinished">Nykyinen tiedostopolku:</translation>
     </message>
     <message>
         <source>Delete current search</source>
-        <translation>Poista nykyinen haku</translation>
+        <translation type="unfinished">Poista nykyinen haku</translation>
     </message>
     <message>
         <source>Use catalog</source>
-        <translation>Käytä luetteloa</translation>
+        <translation type="unfinished">Käytä luetteloa</translation>
     </message>
     <message>
         <source>Conditions</source>
-        <translation>Ehdot</translation>
+        <translation type="unfinished">Ehdot</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation>Tyhjennä kaikki</translation>
+        <translation type="unfinished">Tyhjennä kaikki</translation>
     </message>
     <message>
         <source>Case sensitive</source>
-        <translation>Kirjainkoko</translation>
+        <translation type="unfinished">Kirjainkoko</translation>
     </message>
     <message>
         <source>Recurse through subfolders</source>
-        <translation>Käy läpi alikansiot</translation>
+        <translation type="unfinished">Käy läpi alikansiot</translation>
     </message>
     <message>
         <source>Save this request</source>
-        <translation>Tallenna tämä pyyntö</translation>
+        <translation type="unfinished">Tallenna tämä pyyntö</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Kansio</translation>
+        <translation type="unfinished">Kansio</translation>
     </message>
     <message>
         <source>Match</source>
-        <translation>Määrä</translation>
+        <translation type="unfinished">Määrä</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Kaikki</translation>
+        <translation type="unfinished">Kaikki</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation>Mikä tahansa</translation>
+        <translation type="unfinished">Mikä tahansa</translation>
     </message>
     <message>
         <source>Include folders</source>
-        <translation>Sisällytä kansio</translation>
+        <translation type="unfinished">Sisällytä kansio</translation>
     </message>
     <message>
         <source>Presets: </source>
-        <translation>Esiasetukset:</translation>
+        <translation type="unfinished">Esiasetukset: </translation>
     </message>
     <message>
         <source>Use Regular Expression</source>
@@ -8654,299 +8653,299 @@ Haluatko poistaa ne?</translation>
     <name>DlgSearchProgress</name>
     <message>
         <source>Finished: %1 file(s) found.</source>
-        <translation>Valmis: %1 tiedosto(a) löydetty.</translation>
+        <translation type="unfinished">Valmis: %1 tiedosto(a) löydetty.</translation>
     </message>
     <message>
         <source>Files found (%1):</source>
-        <translation>(%1): tiedostoa löytynyt:</translation>
+        <translation type="unfinished">(%1): tiedostoa löytynyt:</translation>
     </message>
     <message>
         <source>Finished.</source>
-        <translation>Valmis.</translation>
+        <translation type="unfinished">Valmis.</translation>
     </message>
     <message>
         <source>Browse...</source>
-        <translation>Valitse...</translation>
+        <translation type="unfinished">Valitse...</translation>
     </message>
     <message>
         <source>Searching...</source>
-        <translation>Etsitään...</translation>
+        <translation type="unfinished">Etsitään...</translation>
     </message>
 </context>
 <context>
     <name>DlgSearchProgressClass</name>
     <message>
         <source>Current pathname:</source>
-        <translation>Nykyinen tiedostopolku:</translation>
+        <translation type="unfinished">Nykyinen tiedostopolku:</translation>
     </message>
     <message>
         <source>Searching</source>
-        <translation>Etsintä</translation>
+        <translation type="unfinished">Etsintä</translation>
     </message>
 </context>
 <context>
     <name>DlgSetDpi</name>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation type="unfinished">X</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation type="unfinished">Y</translation>
     </message>
     <message>
         <source>Change EXIF DPI if exists</source>
-        <translation>Muuta EXIF DPI jos sellainen on</translation>
+        <translation type="unfinished">Muuta EXIF DPI jos sellainen on</translation>
     </message>
     <message>
         <source>Print size:</source>
-        <translation>Tulostuskoko:</translation>
+        <translation type="unfinished">Tulostuskoko:</translation>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation>Aseta DPI</translation>
+        <translation type="unfinished">Aseta DPI</translation>
     </message>
 </context>
 <context>
     <name>DlgSettings</name>
     <message>
         <source>View</source>
-        <translation>Näkymä</translation>
+        <translation type="unfinished">Näkymä</translation>
     </message>
     <message>
         <source>File list</source>
-        <translation>Tiedostolista</translation>
+        <translation type="unfinished">Tiedostolista</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation type="unfinished">Luettelo</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation type="unfinished">Kuvaselain</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation>Ulkoasu</translation>
+        <translation type="unfinished">Ulkoasu</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation type="unfinished">Esikatselukuva</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation>Metatiedot</translation>
+        <translation type="unfinished">Metatiedot</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Yleiset</translation>
+        <translation type="unfinished">Yleiset</translation>
     </message>
     <message>
         <source>Integration</source>
-        <translation>Integraatio</translation>
+        <translation type="unfinished">Integraatio</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsBrowserClass</name>
     <message>
         <source>Tag</source>
-        <translation>Merkintä (Tagit)</translation>
+        <translation type="unfinished">Merkintä (Tagit)</translation>
     </message>
     <message>
         <source>List</source>
-        <translation>Lista</translation>
+        <translation type="unfinished">Lista</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Järjestä</translation>
+        <translation type="unfinished">Järjestä</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Kuvakkeet</translation>
+        <translation type="unfinished">Kuvakkeet</translation>
     </message>
     <message>
         <source>Misc.</source>
-        <translation>Sekalaiset</translation>
+        <translation type="unfinished">Sekalaiset</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Ei koskaan</translation>
+        <translation type="unfinished">Ei koskaan</translation>
     </message>
     <message>
         <source>Thumbnails + Filename</source>
-        <translation>Esikatselukuvat + tiedostonimet</translation>
+        <translation type="unfinished">Esikatselukuvat + tiedostonimet</translation>
     </message>
     <message>
         <source>Use tooltips</source>
-        <translation>Käytä työkaluvihjeitä</translation>
+        <translation type="unfinished">Käytä työkaluvihjeitä</translation>
     </message>
     <message>
         <source>Quick search</source>
-        <translation>Pikahaku</translation>
+        <translation type="unfinished">Pikahaku</translation>
     </message>
     <message>
         <source>Clear the list of tagged files</source>
-        <translation>Tyhjennä merkittyjen tiedostojen luettelo</translation>
+        <translation type="unfinished">Tyhjennä merkittyjen tiedostojen luettelo</translation>
     </message>
     <message>
         <source>File date</source>
-        <translation>Tiedoston päivämäärä</translation>
+        <translation type="unfinished">Tiedoston päivämäärä</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Tiedostokoko</translation>
+        <translation type="unfinished">Tiedostokoko</translation>
     </message>
     <message>
         <source>View scroll the content by thumbnail</source>
-        <translation>Näytä vierityspalkki esikatselukuvanäkymässä</translation>
+        <translation type="unfinished">Näytä vierityspalkki esikatselukuvanäkymässä</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation type="unfinished">Esikatselukuvat</translation>
     </message>
     <message>
         <source>File modified date</source>
-        <translation>Tiedoston muokkauspäivä</translation>
+        <translation type="unfinished">Tiedoston muokkauspäivä</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation>Upotetuista kommenteista</translation>
+        <translation type="unfinished">Upotetuista kommenteista</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Suodin</translation>
+        <translation type="unfinished">Suodin</translation>
     </message>
     <message>
         <source>Print size</source>
-        <translation>Tulostuskoko</translation>
+        <translation type="unfinished">Tulostuskoko</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation type="unfinished">Luokitus</translation>
     </message>
     <message>
         <source>Use lossless rotation (if possible)</source>
-        <translation>Käytä häviötöntä kääntämistä (jos mahdollista)</translation>
+        <translation type="unfinished">Käytä häviötöntä kääntämistä (jos mahdollista)</translation>
     </message>
     <message>
         <source>On exit</source>
-        <translation>Lopetettaessa</translation>
+        <translation type="unfinished">Lopetettaessa</translation>
     </message>
     <message>
         <source>IPTC fields</source>
-        <translation>IPTC-kentistä</translation>
+        <translation type="unfinished">IPTC-kentistä</translation>
     </message>
     <message>
         <source>Rotation</source>
-        <translation>Kääntäminen</translation>
+        <translation type="unfinished">Kääntäminen</translation>
     </message>
     <message>
         <source>XMP fields</source>
-        <translation>XMP-kentistä</translation>
+        <translation type="unfinished">XMP-kentistä</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Ominaisuudet</translation>
+        <translation type="unfinished">Ominaisuudet</translation>
     </message>
     <message>
         <source>Thumbnails scaling</source>
-        <translation>Esikatselukuvien skaalaus</translation>
+        <translation type="unfinished">Esikatselukuvien skaalaus</translation>
     </message>
     <message>
         <source>Search in</source>
-        <translation>Etsi</translation>
+        <translation type="unfinished">Etsi</translation>
     </message>
     <message>
         <source>StatusBar</source>
-        <translation>Tilarivi</translation>
+        <translation type="unfinished">Tilarivi</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selityksistä</translation>
+        <translation type="unfinished">Selityksistä</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation type="unfinished">Kuvaselain</translation>
     </message>
     <message>
         <source>After folder change</source>
-        <translation>Kansion muuttamisen jälkeen</translation>
+        <translation type="unfinished">Kansion muuttamisen jälkeen</translation>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
-        <translation>Esikatselukuvat + tietoikkuna</translation>
+        <translation type="unfinished">Esikatselukuvat + tietoikkuna</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>EXIF date taken</source>
-        <translation>EXIF kuvauspäivä</translation>
+        <translation type="unfinished">EXIF kuvauspäivä</translation>
     </message>
     <message>
         <source>Title bar</source>
-        <translation>Otsikkopalkki</translation>
+        <translation type="unfinished">Otsikkopalkki</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
-        <translation>Esikatselukuvat + tiedot</translation>
+        <translation type="unfinished">Esikatselukuvat + tiedot</translation>
     </message>
     <message>
         <source>ToolBar</source>
-        <translation>Työkalupalkki</translation>
+        <translation type="unfinished">Työkalupalkki</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation>Työkaluvihje</translation>
+        <translation type="unfinished">Työkaluvihje</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
-        <translation>EXIF muokkauspäivä</translation>
+        <translation type="unfinished">EXIF  muokkauspäivä</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation>Näytä</translation>
+        <translation type="unfinished">Näytä</translation>
     </message>
     <message>
         <source>Show ratings</source>
-        <translation>Näytä luokitukset</translation>
+        <translation type="unfinished">Näytä luokitukset</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Suosikit</translation>
+        <translation type="unfinished">Suosikit</translation>
     </message>
     <message>
         <source>Change EXIF orientation ONLY (if possible)</source>
-        <translation>Muuta VAIN EXIF-suuntaus (jos mahdolliata)</translation>
+        <translation type="unfinished">Muuta VAIN EXIF-suuntaus (jos mahdolliata)</translation>
     </message>
     <message>
         <source>File created date</source>
-        <translation>Tiedoston luontipäivä</translation>
+        <translation type="unfinished">Tiedoston luontipäivä</translation>
     </message>
     <message>
         <source>Preview background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>After an operation</source>
-        <translation>Toiminnon jälkeen</translation>
+        <translation type="unfinished">Toiminnon jälkeen</translation>
     </message>
     <message>
         <source>Categories (catalog)</source>
-        <translation>Kategoriat (luettelo)</translation>
+        <translation type="unfinished">Kategoriat (luettelo)</translation>
     </message>
     <message>
         <source>Quick filter</source>
-        <translation>Pikasuodin</translation>
+        <translation type="unfinished">Pikasuodin</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -8957,73 +8956,73 @@ Haluatko poistaa ne?</translation>
     <name>DlgSettingsCache</name>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Lossless (ZIP)</source>
-        <translation>Häviötön (ZIP)</translation>
+        <translation type="unfinished">Häviötön (ZIP)</translation>
     </message>
     <message>
         <source>Included</source>
-        <translation>Sisältyvä</translation>
+        <translation type="unfinished">Sisältyvä</translation>
     </message>
     <message>
         <source>Problem during database import!</source>
-        <translation>Ongelma tietokannan tuonnissa!</translation>
+        <translation type="unfinished">Ongelma tietokannan tuonnissa!</translation>
     </message>
     <message>
         <source>Old path:</source>
-        <translation>Vanha polku:</translation>
+        <translation type="unfinished">Vanha polku:</translation>
     </message>
     <message>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation>Kategoriapuu tuotu onnistuneesti XnViewin kategorialuetteloon</translation>
+        <translation type="unfinished">Kategoriapuu tuotu onnistuneesti XnViewin kategorialuetteloon</translation>
     </message>
     <message>
         <source>New path:</source>
-        <translation>Uusi polku:</translation>
+        <translation type="unfinished">Uusi polku:</translation>
     </message>
     <message>
         <source>Lossy - Low quality (JPEG)</source>
-        <translation>Häviöllinen - Heikkolaatu (JPEG)</translation>
+        <translation type="unfinished">Häviöllinen - Heikkolaatu (JPEG)</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView database</source>
-        <translation>XnView-tietokantaa ei voi tuoda</translation>
+        <translation type="unfinished">XnView-tietokantaa ei voi tuoda</translation>
     </message>
     <message>
         <source>Lossy - High quality (WebP)</source>
-        <translation>Häviöllinen - Korkealaatu (WebP)</translation>
+        <translation type="unfinished">Häviöllinen - Korkealaatu (WebP)</translation>
     </message>
     <message>
         <source>Lossy - High quality (JPEG)</source>
-        <translation>Häviöllinen - Korkealaatu (JPEG)</translation>
+        <translation type="unfinished">Häviöllinen - Korkealaatu (JPEG)</translation>
     </message>
     <message>
         <source>Catalog maintenance [Catalog size %1 %2 - %3 %4]</source>
-        <translation>Luettelon ylläpito [Luettelon koko %1 %2 - %3 %4]</translation>
+        <translation type="unfinished">Luettelon ylläpito [Luettelon koko %1 %2 - %3 %4]</translation>
     </message>
     <message>
         <source>Excluded</source>
-        <translation>Pois suljettu</translation>
+        <translation type="unfinished">Pois suljettu</translation>
     </message>
     <message>
         <source>Catalog - Absolute/Relative paths</source>
-        <translation>Luettelo - Absoluuttiset-/Suhteelliset polut</translation>
+        <translation type="unfinished">Luettelo - Absoluuttiset-/Suhteelliset polut</translation>
     </message>
     <message>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
 
 Do you want to change the &apos;base path&apos;?</source>
-        <translation>&quot;Peruspolun&quot; muuttaminen voi katkaista tietokantaan tallennettujen tiedostojen yhteyden.
+        <translation type="unfinished">&quot;Peruspolun&quot; muuttaminen voi katkaista tietokantaan tallennettujen tiedostojen yhteyden.
 Tee se vain, jos haluat jakaa saman kansion useiden tietokoneiden välillä.
 
-Haluatko muuttaa &quot;peruspolkua&quot;?</translation>
+Haluatko muuttaa &quot;peruspolkua&quot;</translation>
     </message>
     <message>
         <source>Catalog - Remove Entries</source>
-        <translation>Luettelo - Poista merkinnät</translation>
+        <translation type="unfinished">Luettelo - Poista merkinnät</translation>
     </message>
     <message>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
@@ -9032,7 +9031,7 @@ If information is exported into embedded or sidecar metadata,
 you&apos;ll be able to re-import later.
 
 Do you want to remove entries assigned to a Category?</source>
-        <translation>Luetteloimerkinnät, kategorioineen-, luokituksineen ja värmerkintöineen, poistetaan.
+        <translation type="unfinished">Luetteloimerkinnät, kategorioineen-, luokituksineen ja värmerkintöineen, poistetaan.
 
 Jos tiedot viedään upotettuihin tai sivuvaunu-metatietoihin,
 voit tuoda ne myöhemmin uudelleen.
@@ -9041,34 +9040,34 @@ Haluatko poistaa luokkaan määritetyt merkinnät?</translation>
     </message>
     <message>
         <source>Catalog - Synchronize Folders</source>
-        <translation>Luettelo - Synkronoi kansiot</translation>
+        <translation type="unfinished">Luettelo - Synkronoi kansiot</translation>
     </message>
     <message>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
-        <translation>Kaikki orvot tiedostot poistetaan luettelosta.
+        <translation type="unfinished">Kaikki orvot tiedostot poistetaan luettelosta.
 
 Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Catalog - Relocate the folder</source>
-        <translation>Luettelo - Siirrä kansio</translation>
+        <translation type="unfinished">Luettelo - Siirrä kansio</translation>
     </message>
     <message>
         <source>Catalog Maintenance</source>
         <translatorcomment>Katalogin ylläpito</translatorcomment>
-        <translation>Luettelon ylläpito</translation>
+        <translation type="unfinished">Catalog Maintenance</translation>
     </message>
     <message>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
 Do you want to check for affected entries first?</source>
-        <translation>Jotkut tietokantamerkinnät, joilla on määritetty luokitus,
+        <translation type="unfinished">Jotkut tietokantamerkinnät, joilla on määritetty luokitus,
 värimerkinnät, avainsanat voidaan poistaa.
 
-Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
+Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
@@ -9079,115 +9078,115 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
     <name>DlgSettingsCacheClass</name>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>2</translation>
+        <translation type="unfinished">2</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MiB</translation>
+        <translation type="unfinished">MiB</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Files</source>
-        <translation>Tiedostot</translation>
+        <translation type="unfinished">Tiedostot</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Työkalut</translation>
+        <translation type="unfinished">Työkalut</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Always exclude CD/DVD drives</source>
-        <translation>Sulje aina CD/DVD-asemat</translation>
+        <translation type="unfinished">Sulje aina CD/DVD-asemat</translation>
     </message>
     <message>
         <source>Memory usage for database engine</source>
-        <translation>Tietokantamoduulin muistin käyttö</translation>
+        <translation type="unfinished">Tietokantamoduulin muistin käyttö</translation>
     </message>
     <message>
         <source>Synchronize Folders...</source>
-        <translation>Synkronoidaan kansiot...</translation>
+        <translation type="unfinished">Synkronoidaan kansiot...</translation>
     </message>
     <message>
         <source>Import folder...</source>
-        <translation>Tuo kansio...</translation>
+        <translation type="unfinished">Tuo kansio...</translation>
     </message>
     <message>
         <source>Rebuild thumbnails</source>
-        <translation>Päivitä esikatselukuvat</translation>
+        <translation type="unfinished">Päivitä esikatselukuvat</translation>
     </message>
     <message>
         <source>Get thumbnail size</source>
-        <translation>Anna esikatselukuvien koko</translation>
+        <translation type="unfinished">Anna esikatselukuvien koko</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Always exclude removable drives</source>
-        <translation>Sulje aina irroitettavat asemat</translation>
+        <translation type="unfinished">Sulje aina irroitettavat asemat</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Lisää kansio...</translation>
+        <translation type="unfinished">Lisää kansio...</translation>
     </message>
     <message>
         <source>Enable thumbnail caching</source>
-        <translation>Välimuisti esikatselukuville</translation>
+        <translation type="unfinished">Välimuisti esikatselukuville</translation>
     </message>
     <message>
         <source>Compression:</source>
-        <translation>Pakkaus:</translation>
+        <translation type="unfinished">Pakkaus:</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation>Hakemisto</translation>
+        <translation type="unfinished">Hakemisto</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation type="unfinished">Luettelo</translation>
     </message>
     <message>
         <source>Relocate...</source>
-        <translation>Muuta kansion sijainti...</translation>
+        <translation type="unfinished">Muuta kansion sijainti...</translation>
     </message>
     <message>
         <source>Delete all</source>
-        <translation>Poista kaikki</translation>
+        <translation type="unfinished">Poista kaikki</translation>
     </message>
     <message>
         <source>Maximum size for cached thumbnails</source>
-        <translation>Maksimi välimuisti esikatselukuville</translation>
+        <translation type="unfinished">Maksimi välimuisti esikatselukuville</translation>
     </message>
     <message>
         <source>Enable Catalog</source>
-        <translation>Käytä luetteloa</translation>
+        <translation type="unfinished">Käytä luetteloa</translation>
     </message>
     <message>
         <source>Check integrity of catalog at startup</source>
-        <translation>Tarkista luettelon eheys käynnistyksessä</translation>
+        <translation type="unfinished">Tarkista luettelon eheys käynnistyksessä</translation>
     </message>
     <message>
         <source>Excluded/Included</source>
-        <translation>Pois sulje / sisällytä</translation>
+        <translation type="unfinished">Pois sulje / sisällytä</translation>
     </message>
     <message>
         <source>Maintenance...</source>
-        <translation>Ylläpito...</translation>
+        <translation type="unfinished">Huolto...</translation>
     </message>
     <message>
         <source>Import XnView Classic category db...</source>
@@ -9202,199 +9201,199 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
     <name>DlgSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation>Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Suodin</translation>
+        <translation type="unfinished">Suodin</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsFilelist</name>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation>Äänitiedosto</translation>
+        <translation type="unfinished">Äänitiedosto</translation>
     </message>
     <message>
         <source>Include</source>
-        <translation>Sisällytä</translation>
+        <translation type="unfinished">Sisällytä</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation type="unfinished">Video</translation>
     </message>
     <message>
         <source>Master extension</source>
-        <translation>Pää-tiedostopääte</translation>
+        <translation type="unfinished">Pää-tiedostopääte</translation>
     </message>
     <message>
         <source>All others files</source>
-        <translation>Kaikki muut tiedostot</translation>
+        <translation type="unfinished">Kaikki muut tiedostot</translation>
     </message>
     <message>
         <source>Delete...</source>
-        <translation>Poista...</translation>
+        <translation type="unfinished">Poista...</translation>
     </message>
     <message>
         <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
+        <translation type="unfinished">AI/PS/PDF</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Kuvat</translation>
+        <translation type="unfinished">Kuvat</translation>
     </message>
     <message>
         <source>Parent folder (&apos;..&apos;)</source>
-        <translation>Pääkansio (&apos;..&apos;)</translation>
+        <translation type="unfinished">Pääkansio (&apos;..&apos;)</translation>
     </message>
     <message>
         <source>Show as 
 Thumbnail</source>
-        <translation>Näytä 
+        <translation type="unfinished">Näytä 
 esikatselukuvina</translation>
     </message>
     <message>
         <source>Archives</source>
-        <translation>Pakatut</translation>
+        <translation type="unfinished">Pakatut</translation>
     </message>
     <message>
         <source>Open with</source>
-        <translation>Avaa sovelluksessa</translation>
+        <translation type="unfinished">Avaa sovelluksessa</translation>
     </message>
     <message>
         <source>Extensions</source>
-        <translation>Tiedostotyypit</translation>
+        <translation type="unfinished">Tiedostotyypit</translation>
     </message>
     <message>
         <source>Associated program</source>
-        <translation>Tiedostotyyppiin liitetty ohjelma</translation>
+        <translation type="unfinished">Tiedostotyyppiin liitetty ohjelma</translation>
     </message>
     <message>
         <source>Exclude</source>
-        <translation>Poissulje</translation>
+        <translation type="unfinished">Poissulje</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation>Näkyvä</translation>
+        <translation type="unfinished">Näkyvä</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation>Kansiot</translation>
+        <translation type="unfinished">Kansiot</translation>
     </message>
     <message>
         <source>Companion</source>
-        <translation>Oheistiedosto</translation>
+        <translation type="unfinished">Oheistiedosto</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsFilelistClass</name>
     <message>
         <source>New</source>
-        <translation>Uusi</translation>
+        <translation type="unfinished">Uusi</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Ei koskaan</translation>
+        <translation type="unfinished">Ei koskaan</translation>
     </message>
     <message>
         <source>Recognize only by extension</source>
-        <translation>Tunnista käyttäen tiedostomuotoa</translation>
+        <translation type="unfinished">Tunnista käyttäen tiedostomuotoa</translation>
     </message>
     <message>
         <source>File list</source>
-        <translation>Tiedostolista</translation>
+        <translation type="unfinished">Tiedostolista</translation>
     </message>
     <message>
         <source>Companion files</source>
-        <translation>Oheistiedostot</translation>
+        <translation type="unfinished">Oheistiedostot</translation>
     </message>
     <message>
         <source>Exclude Floppy/CD/DVD</source>
-        <translation>Poissulje levyke / CD / DVD</translation>
+        <translation type="unfinished">Poissulje levyke / CD / DVD</translation>
     </message>
     <message>
         <source>Show hidden files &amp;&amp; folders</source>
-        <translation>Näytä piilotetut tiedostot ja kansiot</translation>
+        <translation type="unfinished">Näytä piilotetut tiedostot ja kansiot</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Aina</translation>
+        <translation type="unfinished">Aina</translation>
     </message>
     <message>
         <source>Folder always sorted alphabetically</source>
-        <translation>Kansio järjestellään aina aakkosjärjestykseen</translation>
+        <translation type="unfinished">Kansio järjestellään aina aakkosjärjestykseen</translation>
     </message>
     <message>
         <source>Mixed file/folder sorting</source>
-        <translation>Järjestä tiedostot/kansiot</translation>
+        <translation type="unfinished">Järjestä tiedostot/kansiot</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Enter an extension:</source>
-        <translation>Anna tiedostopääte:</translation>
+        <translation type="unfinished">Anna tiedostopääte:</translation>
     </message>
     <message>
         <source>Scan file headers</source>
-        <translation>Skannaa tiedostojen otsikot</translation>
+        <translation type="unfinished">Skannaa tiedostojen otsikot</translation>
     </message>
     <message>
         <source>Show companion files</source>
-        <translation>Näytä oheistiedostot</translation>
+        <translation type="unfinished">Näytä oheistiedostot</translation>
     </message>
     <message>
         <source>New files are added at the end of the list</source>
-        <translation>Uudet tiedostot lisätään listan loppuun</translation>
+        <translation type="unfinished">Uudet tiedostot lisätään listan loppuun</translation>
     </message>
     <message>
         <source>Custom filter</source>
-        <translation>Mukautetut suotimet</translation>
+        <translation type="unfinished">Mukautetut suotimet</translation>
     </message>
     <message>
         <source>Format colors</source>
-        <translation>Formaattivärit</translation>
+        <translation type="unfinished">Formaattivärit</translation>
     </message>
     <message>
         <source>Default color</source>
-        <translation>Oletusväri</translation>
+        <translation type="unfinished">Oletusväri</translation>
     </message>
     <message>
         <source>Only fixed disks</source>
-        <translation>Vain kiinteät levyt</translation>
+        <translation type="unfinished">Vain kiinteät levyt</translation>
     </message>
     <message>
         <source>or choose a format:</source>
-        <translation>tai valitse formaatti:</translation>
+        <translation type="unfinished">tai valitse formaatti:</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
-        <translation>Käytettävä väri perustuu tiedostomuotoon</translation>
+        <translation type="unfinished">Käytettävä väri perustuu tiedostomuotoon</translation>
     </message>
     <message>
         <source>Link companion files for the following actions</source>
-        <translation>Linkitä oheistiedostot seuraaville toiminnoille</translation>
+        <translation type="unfinished">Linkitä oheistiedostot seuraaville toiminnoille</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Copy/move/rename</source>
-        <translation>Kopioi/siirrä/nimeä uudelleen</translation>
+        <translation type="unfinished">Kopioi/siirrä/nimeä uudelleen</translation>
     </message>
     <message>
         <source>Association list (use ; as separator)</source>
-        <translation>Tiedostokytkentälista (käytä ; erottimena)</translation>
+        <translation type="unfinished">Tiedostokytkentälista (käytä ; erottimena)</translation>
     </message>
     <message>
         <source>Sorting</source>
@@ -9418,7 +9417,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Display file size in bytes</source>
-        <translation>Näytä tiedostokoko bitteinä</translation>
+        <translation type="unfinished">Näytä tiedostokoko tavuina</translation>
     </message>
     <message>
         <source>Used by Filter › Custom</source>
@@ -9429,35 +9428,35 @@ esikatselukuvina</translation>
     <name>DlgSettingsFormat</name>
     <message>
         <source>Read</source>
-        <translation>Luku</translation>
+        <translation type="unfinished">Luku</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoitus</translation>
+        <translation type="unfinished">Kirjoitus</translation>
     </message>
     <message>
         <source>Select most used</source>
-        <translation>Valitse eniten käytetty</translation>
+        <translation type="unfinished">Valitse eniten käytetty</translation>
     </message>
     <message>
         <source>Choose the formats which you use for saving.</source>
-        <translation>Valitse tallennukseen käytettävät formaatit.</translation>
+        <translation type="unfinished">Valitse tallennukseen käytettävät formaatit.</translation>
     </message>
     <message>
         <source>Show write settings before saving</source>
-        <translation>Näytä kirjoitusasetukset ennen tallennusta</translation>
+        <translation type="unfinished">Näytä kirjoitusasetukset ennen tallennusta</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation>Tyhjennä kaikki</translation>
+        <translation type="unfinished">Tyhjennä kaikki</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Valitse kaikki</translation>
+        <translation type="unfinished">Valitse kaikki</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>Show most used formats at beginning</source>
@@ -9468,334 +9467,334 @@ esikatselukuvina</translation>
     <name>DlgSettingsGeneral</name>
     <message>
         <source>Load profile</source>
-        <translation>Lataa profiili</translation>
+        <translation type="unfinished">Lataa profiili</translation>
     </message>
     <message>
         <source>Absolute colorimetric</source>
-        <translation>Absoluuttinen kolorimetri</translation>
+        <translation type="unfinished">Absoluuttinen kolorimetri</translation>
     </message>
     <message>
         <source>Perceptual</source>
-        <translation>Havainnollinen</translation>
+        <translation type="unfinished">Havainnollinen</translation>
     </message>
     <message>
         <source>Relative colorimetric</source>
-        <translation>Suhteellinen kolorimetri</translation>
+        <translation type="unfinished">Suhteellinen kolorimetri</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Värikylläisyys</translation>
+        <translation type="unfinished">Värikylläisyys</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation>Haluatko poistaa valitut automaattikorjauskohteet?</translation>
+        <translation type="unfinished">Haluatko poistaa valitut automaattikorjauskohteet?</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsGeneralClass</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation>mm</translation>
+        <translation type="unfinished">mm</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation>Kysy</translation>
+        <translation type="unfinished">Kysy</translation>
     </message>
     <message>
         <source>Last</source>
-        <translation>Viimeisin</translation>
+        <translation type="unfinished">Viimeisin</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation>sRGB</translation>
+        <translation type="unfinished">sRGB</translation>
     </message>
     <message>
         <source>Duplicate files</source>
-        <translation>Duplikaatti.tiedostot</translation>
+        <translation type="unfinished">Duplikaatti.tiedostot</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation>Päivittäin</translation>
+        <translation type="unfinished">Päivittäin</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Ei koskaan</translation>
+        <translation type="unfinished">Ei koskaan</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-#</source>
-        <translation>&lt;Tiedostonimi&gt; - (#)</translation>
+        <translation type="unfinished">&lt;Tiedostonimi&gt; - (#)</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original format</source>
-        <translation>Käytä alkuperäistä formaattia &apos;Tallenna nimellä&apos; -toiminnolla</translation>
+        <translation type="unfinished">Käytä alkuperäistä formaattia &apos;Tallenna nimellä&apos; -toiminnolla</translation>
     </message>
     <message>
         <source>Embedded Metadata change</source>
-        <translation>Muutettaessa upotettuja metatietoja</translation>
+        <translation type="unfinished">Muutettaessa upotettuja metatietoja</translation>
     </message>
     <message>
         <source>Use ICC profile for monitor (slower)</source>
-        <translation>Käytä ICC-profiilia monitorille (hitaampi)</translation>
+        <translation type="unfinished">Käytä ICC-profiilia monitorille (hitaampi)</translation>
     </message>
     <message>
         <source>Send anonymous logs</source>
-        <translation>Lähetä nimettömiä lokeja</translation>
+        <translation type="unfinished">Lähetä nimettömiä lokeja</translation>
     </message>
     <message>
         <source>Black Point Compensation</source>
-        <translation>Mustan pisteen kompensaatio</translation>
+        <translation type="unfinished">Mustan pisteen kompensaatio</translation>
     </message>
     <message>
         <source>Confirm file delete</source>
-        <translation>Kysy vahvistus tiedoston poistamiseen</translation>
+        <translation type="unfinished">Kysy vahvistus tiedoston poistamiseen</translation>
     </message>
     <message>
         <source>Make backup for other lossless operations</source>
-        <translation>Luo kopio muille häviöttömille toiminnoille</translation>
+        <translation type="unfinished">Luo kopio muille häviöttömille toiminnoille</translation>
     </message>
     <message>
         <source>Reset all confirm prompts</source>
-        <translation>Nollaa kaikki vahvistuskehotteet</translation>
+        <translation type="unfinished">Nollaa kaikki vahvistuskehotteet</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation>Kuukausittain</translation>
+        <translation type="unfinished">Kuukausittain</translation>
     </message>
     <message>
         <source>Rendering intent:</source>
-        <translation>Värienmuunnosmenetelmä:</translation>
+        <translation type="unfinished">Värienmuunnosmenetelmä:</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Aina</translation>
+        <translation type="unfinished">Aina</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Määritelty</translation>
+        <translation type="unfinished">Määritelty</translation>
     </message>
     <message>
         <source>Make backup for lossless flip/rotation</source>
-        <translation>Luo kopio häviöttomälle peilikuva/käännä-toiminnolle</translation>
+        <translation type="unfinished">Luo kopio häviöttomälle peilikuva/käännä-toiminnolle</translation>
     </message>
     <message>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
-        <translation>RGB-profiili käytössä kun upotettua profiilia ei löydy</translation>
+        <translation type="unfinished">RGB-profiili käytössä kun upotettua profiilia ei löydy</translation>
     </message>
     <message>
         <source>System</source>
-        <translation>Järjestelmä</translation>
+        <translation type="unfinished">Järjestelmä</translation>
     </message>
     <message>
         <source>Viewer</source>
-        <translation>Katselin</translation>
+        <translation type="unfinished">Katselin</translation>
     </message>
     <message>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
-        <translation>CMYK-profiili käytössä kun upotettua profiilia ei löydy</translation>
+        <translation type="unfinished">CMYK-profiili käytössä kun upotettua profiilia ei löydy</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation>Viikottain</translation>
+        <translation type="unfinished">Viikottain</translation>
     </message>
     <message>
         <source>System profile</source>
-        <translation>Järjestelmäprofiili</translation>
+        <translation type="unfinished">Järjestelmäprofiili</translation>
     </message>
     <message>
         <source>Allow only one instance of XnView</source>
-        <translation>Salli vai yksi avoin XnView</translation>
+        <translation type="unfinished">Salli vai yksi avoin XnView</translation>
     </message>
     <message>
         <source>File saving</source>
-        <translation>Tiedoston tallennuksessa</translation>
+        <translation type="unfinished">Tiedoston tallennuksessa</translation>
     </message>
     <message>
         <source>Browser - Fullscreen</source>
-        <translation>Kuvaselain - Koko näyttö</translation>
+        <translation type="unfinished">Kuvaselain - Koko näyttö</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Kieli</translation>
+        <translation type="unfinished">Kieli</translation>
     </message>
     <message>
         <source>Show all graphic formats</source>
-        <translation>Näytä kaikki kuvaformaatit</translation>
+        <translation type="unfinished">Näytä kaikki kuvaformaatit</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation>Hakemisto</translation>
+        <translation type="unfinished">Hakemisto</translation>
     </message>
     <message>
         <source>Use dialog to rename file/folder</source>
-        <translation>Käytä valintaikkunaa tiedoston/kansion uudelleen nimeämiseen</translation>
+        <translation type="unfinished">Käytä valintaikkunaa tiedoston/kansion uudelleen nimeämiseen</translation>
     </message>
     <message>
         <source>Keep original date/time</source>
-        <translation>Säilytä alkuperäinen päiväys/aika</translation>
+        <translation type="unfinished">Säilytä alkuperäinen päiväys/aika</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original pathname</source>
-        <translation>Käytä &apos;Tallenna nimellä&apos; -toiminnossa alkuperäistä tiedostopolkua</translation>
+        <translation type="unfinished">Käytä &apos;Tallenna nimellä&apos; -toiminnossa alkuperäistä tiedostopolkua</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation type="unfinished">Kuvaselain</translation>
     </message>
     <message>
         <source>Save session on program exit</source>
-        <translation>Tallenna istunto lopetettaessa</translation>
+        <translation type="unfinished">Tallenna istunto lopetettaessa</translation>
     </message>
     <message>
         <source>Use output filename after &apos;Save as&apos;</source>
-        <translation>Käytä &apos;Tallenna nimellä&apos; -toiminnossa alkuperäistä tiedostonimeä</translation>
+        <translation type="unfinished">Käytä &apos;Tallenna nimellä&apos; -toiminnossa alkuperäistä tiedostonimeä</translation>
     </message>
     <message>
         <source>File operations</source>
-        <translation>Tiedostotoiminnot</translation>
+        <translation type="unfinished">Tiedostotoiminnot</translation>
     </message>
     <message>
         <source>Specified</source>
-        <translation>Määritelty</translation>
+        <translation type="unfinished">Määritelty</translation>
     </message>
     <message>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>&lt;Tiedostonimi&gt;:n Kopio (#)</translation>
+        <translation type="unfinished">&lt;Tiedostonimi&gt;:n Kopio (#)</translation>
     </message>
     <message>
         <source>Lossless transformations</source>
-        <translation>Häviöttömissä muunnoksissa</translation>
+        <translation type="unfinished">Häviöttömissä muunnoksissa</translation>
     </message>
     <message>
         <source>Save as copy for &apos;Save&apos; action</source>
-        <translation>Tallenna kopio &apos;Tallenna&apos;-toiminolla</translation>
+        <translation type="unfinished">Tallenna kopio &apos;Tallenna&apos;-toiminolla</translation>
     </message>
     <message>
         <source>Make backup for lossless crop</source>
-        <translation>Luo kopio häviötömälle rajaustoiminnolle</translation>
+        <translation type="unfinished">Luo kopio häviötömälle rajaustoiminnolle</translation>
     </message>
     <message>
         <source>Viewer - Fullscreen</source>
-        <translation>Katselin - Koko näyttö</translation>
+        <translation type="unfinished">Katselin - Koko näyttö</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Yleiset</translation>
+        <translation type="unfinished">Yleiset</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Tiedostonimi&gt; -Kopio (#)</translation>
+        <translation type="unfinished">&lt;Tiedostonimi&gt; -Kopio (#)</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation>&lt;Tiedostonimi&gt; - (#)</translation>
+        <translation type="unfinished">&lt;Tiedostonimi&gt; - (#)</translation>
     </message>
     <message>
         <source>Use EXIF DPI (if exists)</source>
-        <translation>Käytä EXIF DPI:tä (jos mahdollista)</translation>
+        <translation type="unfinished">Käytä EXIF DPI:tä (jos mahdollista)</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Tarkista ohjelman päivitykset</translation>
+        <translation type="unfinished">Tarkista ohjelman päivitykset</translation>
     </message>
     <message>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation>&lt;Tiedostonimi&gt; - Kopio (#)</translation>
+        <translation type="unfinished">&lt;Tiedostonimi&gt; - Kopio (#)</translation>
     </message>
     <message>
         <source>Unit for print size</source>
-        <translation>Tulostuskoon yksikkö</translation>
+        <translation type="unfinished">Tulostuskoon yksikkö</translation>
     </message>
     <message>
         <source>Use Recycle Bin</source>
-        <translation>Käytä roskakoria</translation>
+        <translation type="unfinished">Käytä roskakoria</translation>
     </message>
     <message>
         <source>Startup</source>
-        <translation>Aloita</translation>
+        <translation type="unfinished">Aloita</translation>
     </message>
     <message>
         <source>Start with file</source>
-        <translation>Aloita tiedostosta</translation>
+        <translation type="unfinished">Aloita tiedostosta</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Avaa</translation>
+        <translation type="unfinished">Avaa</translation>
     </message>
     <message>
         <source>Start without file</source>
-        <translation>Aloita ilman tiedostoa</translation>
+        <translation type="unfinished">Aloita ilman tiedostoa</translation>
     </message>
     <message>
         <source>Open browser</source>
-        <translation>Avaa selain</translation>
+        <translation type="unfinished">Avaa selain</translation>
     </message>
     <message>
         <source>Remember selected filename</source>
-        <translation>Muista valittu tiedostonimi</translation>
+        <translation type="unfinished">Muista valittu tiedostonimi</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Tallenna</translation>
+        <translation type="unfinished">Tallenna</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Kopioi</translation>
+        <translation type="unfinished">Kopioi</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Nimeä uudelleen</translation>
+        <translation type="unfinished">Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Lossless operations</source>
-        <translation>Häviötön toiminta</translation>
+        <translation type="unfinished">Häviötön toiminta</translation>
     </message>
     <message>
         <source>Auto correct</source>
-        <translation>Automaattinen korjaus</translation>
+        <translation type="unfinished">Automaattinen korjaus</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Korvaa</translation>
+        <translation type="unfinished">Korvaa</translation>
     </message>
     <message>
         <source>With</source>
-        <translation>Tällä</translation>
+        <translation type="unfinished">Tällä</translation>
     </message>
     <message>
         <source>Adjust image if X/Y DPI are different</source>
-        <translation>Säädä kuvaa, jos X/Y DPI ovat erilaiset</translation>
+        <translation type="unfinished">Säädä kuvaa, jos X/Y DPI ovat erilaiset</translation>
     </message>
     <message>
         <source>Delimiter character</source>
-        <translation>Erotinmerkki</translation>
+        <translation type="unfinished">Erotinmerkki</translation>
     </message>
     <message>
         <source>Auto-rotate images according to EXIF orientation tag</source>
-        <translation>Käännä kuvat EXIF-suuntausmerkintöjen mukaisesti</translation>
+        <translation type="unfinished">Autom. kuvan kääntö EXIF-suuntaustunnisteen mukaan</translation>
     </message>
     <message>
         <source>Color management</source>
@@ -9806,173 +9805,173 @@ esikatselukuvina</translation>
     <name>DlgSettingsIntegration</name>
     <message>
         <source>Paths</source>
-        <translation>Tiedostopolut</translation>
+        <translation type="unfinished">Tiedostopolut</translation>
     </message>
     <message>
         <source>Program (XnView)</source>
-        <translation>Ohjelma (XnView)</translation>
+        <translation type="unfinished">Ohjelma (XnView)</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Mukauta</translation>
+        <translation type="unfinished">Mukauta</translation>
     </message>
     <message>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
-        <translation>XnViewMP on nopea multi-formatti graafinen selain, katselin, ja muuntaja.Se lukee yli 400:a tiedostoformaattia.</translation>
+        <translation type="unfinished">XnViewMP on nopea multi-formatti graafinen selain, katselin, ja muuntaja.Se lukee yli 400:a tiedostoformaattia.</translation>
     </message>
     <message>
         <source>Browse with XnViewMP</source>
-        <translation>Avaa XnViewMP:llä</translation>
+        <translation type="unfinished">Avaa XnViewMP:llä</translation>
     </message>
     <message>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Käynnistä XnViewMP järjestelmänvalvojan oikeuksilla (vain ensimmäisellä kerralla).</translation>
+        <translation type="unfinished">Käynnistä XnViewMP järjestelmänvalvojan oikeuksilla (vain ensimmäisellä kerralla)</translation>
     </message>
     <message>
         <source>User (System)</source>
-        <translation>Käyttäjä (Järjestelmä)</translation>
+        <translation type="unfinished">Käyttäjä (Järjestelmä)</translation>
     </message>
     <message>
         <source>Same as Catalog</source>
-        <translation>Sama kuin luettelo</translation>
+        <translation type="unfinished">Sama kuin luettelo</translation>
     </message>
     <message>
         <source>File Associations</source>
-        <translation>Tiedostokytkennät</translation>
+        <translation type="unfinished">Tiedostokytkennät</translation>
     </message>
     <message>
         <source>%1 Bitmap file</source>
-        <translation>%1 Bitmap-tiedosto</translation>
+        <translation type="unfinished">%1 Bitmap-tiedosto</translation>
     </message>
     <message>
         <source>XnViewMP for Windows</source>
-        <translation>XnViewMP Windows-versio</translation>
+        <translation type="unfinished">XnViewMP Windows-versio</translation>
     </message>
     <message>
         <source>Please be careful to folder rights by using XnView folder</source>
-        <translation>Ole tarkkana kansio-oikeuksista jotka koskevat XnView-kansiota</translation>
+        <translation type="unfinished">Ole tarkkana kansio-oikeuksista jotka koskevat XnView-kansiota</translation>
     </message>
     <message>
         <source>Program (XnConvert)</source>
-        <translation>Ohjelma (XnConvert)</translation>
+        <translation type="unfinished">Ohjelma (XnConvert)</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
     <message>
         <source>Folder for Catalog (.db)</source>
-        <translation>Kansio luettelolle (.db)</translation>
+        <translation type="unfinished">Kansio luettelolle (.db)</translation>
     </message>
     <message>
         <source>XnView settings</source>
-        <translation>XnView-asetukset</translation>
+        <translation type="unfinished">XnView-asetukset</translation>
     </message>
     <message>
         <source>Paths</source>
-        <translation>Tiedostopolut</translation>
+        <translation type="unfinished">Tiedostopolut</translation>
     </message>
     <message>
         <source>Folder for Thumbnails Database</source>
-        <translation>Kansio esikatselukuvien tietokannalle</translation>
+        <translation type="unfinished">Kansio esikatselukuvien tietokannalle</translation>
     </message>
     <message>
         <source>Open the Catalog Location</source>
-        <translation>Avaa luttelon sijainti</translation>
+        <translation type="unfinished">Avaa luttelon sijainti</translation>
     </message>
     <message>
         <source>Other settings</source>
-        <translation>Muut asetukset</translation>
+        <translation type="unfinished">Muut asetukset</translation>
     </message>
     <message>
         <source>Use .ini file in folder</source>
-        <translation>Käytä .ini-tiedostoa kansiossa</translation>
+        <translation type="unfinished">Käytä .ini-tiedostoa kansiossa</translation>
     </message>
     <message>
         <source>Folder for other files</source>
-        <translation>Kansio muille tiedostoille</translation>
+        <translation type="unfinished">Kansio muille tiedostoille</translation>
     </message>
     <message>
         <source>Open Config Files Location</source>
-        <translation>Avaa Config-tiedoston sijainti</translation>
+        <translation type="unfinished">Avaa Config-tiedoston sijainti</translation>
     </message>
     <message>
         <source>Set file associations...</source>
-        <translation>Aseta tiedostokytkennät...</translation>
+        <translation type="unfinished">Aseta tiedostokytkennät...</translation>
     </message>
     <message>
         <source>Integration</source>
-        <translation>Integraatio</translation>
+        <translation type="unfinished">Integraatio</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Lisää &apos;Avaa XnViewMP:llä&apos; hiiren pikavalikkoon</translation>
+        <translation type="unfinished">Lisää &apos;Avaa XnViewMP:llä&apos; hiiren pikavalikkoon</translation>
     </message>
     <message>
         <source>Use Windows registry</source>
-        <translation>Käytä Windowsin rekisteriä</translation>
+        <translation type="unfinished">Käytä Windowsin rekisteriä</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsInterface</name>
     <message>
         <source>Load toolbar</source>
-        <translation>Lataa työkalupalkki</translation>
+        <translation type="unfinished">Lataa työkalupalkki</translation>
     </message>
     <message>
         <source>-- NEW XMP TEMPLATE --</source>
-        <translation>-- UUSI XMP -MALLIPOHJA --</translation>
+        <translation type="unfinished">-- UUSI XMP -MALLIPOHJA --</translation>
     </message>
     <message>
         <source>Save toolbar</source>
-        <translation>Tallenna työkalupalkki</translation>
+        <translation type="unfinished">Tallenna työkalupalkki</translation>
     </message>
     <message>
         <source>Load shortcuts</source>
-        <translation>Lataa pikakuvakkeet</translation>
+        <translation type="unfinished">Lataa pikakuvakkeet</translation>
     </message>
     <message>
         <source>-- SEPARATOR --</source>
-        <translation>-- EROTTAJA --</translation>
+        <translation type="unfinished">-- EROTTAJA --</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Ikkuna:</translation>
+        <translation type="unfinished">Ikkuna:</translation>
     </message>
     <message>
         <source>Set label</source>
-        <translation>Aseta ikkuna</translation>
+        <translation type="unfinished">Aseta ikkuna</translation>
     </message>
     <message>
         <source>Browse mode</source>
-        <translation>Selaustila</translation>
+        <translation type="unfinished">Selaustila</translation>
     </message>
     <message>
         <source>-- NEW BAR --</source>
-        <translation>-- UUSI VÄLILEHTI --</translation>
+        <translation type="unfinished">-- UUSI VÄLILEHTI --</translation>
     </message>
     <message>
         <source>This shortcut is already assigned for </source>
-        <translation>Tämä pikakuvake on jo määritelty</translation>
+        <translation type="unfinished">Tämä pikakuvake on jo määritelty </translation>
     </message>
     <message>
         <source>Viewer mode</source>
-        <translation>Katselintila</translation>
+        <translation type="unfinished">Katselintila</translation>
     </message>
     <message>
         <source>Save shortcuts</source>
-        <translation>Tallenna pikakuvakkeet</translation>
+        <translation type="unfinished">Tallenna pikakuvakkeet</translation>
     </message>
     <message>
         <source>-- COMMAND --</source>
-        <translation>-- KOMENTO --</translation>
+        <translation type="unfinished">-- KOMENTO --</translation>
     </message>
     <message>
         <source>-- NEW IPTC TEMPLATE --</source>
-        <translation>-- UUSI IPTC -MALLIPOHJA --</translation>
+        <translation type="unfinished">-- UUSI IPTC -MALLIPOHJA --</translation>
     </message>
     <message>
         <source>Set Icon...</source>
-        <translation>Aseta kuvake...</translation>
+        <translation type="unfinished">Aseta kuvake...</translation>
     </message>
     <message>
         <source>%1 is already assigned to:
@@ -9989,283 +9988,283 @@ Haluatko määrittää uudelleen?</translation>
     <name>DlgSettingsInterfaceClass</name>
     <message>
         <source>Tab</source>
-        <translation>Välilehti</translation>
+        <translation type="unfinished">Välilehti</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Kuvake</translation>
+        <translation type="unfinished">Kuvake</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>Välilehdet</translation>
+        <translation type="unfinished">Välilehdet</translation>
     </message>
     <message>
         <source>Quick Slideshow</source>
-        <translation>Pika-kuvaesitys</translation>
+        <translation type="unfinished">Pika-kuvaesitys</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation>Hiiri</translation>
+        <translation type="unfinished">Hiiri</translation>
     </message>
     <message>
         <source>SPACE</source>
-        <translation>VÄLILYÖNTINÄPPÄIN</translation>
+        <translation type="unfinished">VÄLILYÖNTINÄPPÄIN</translation>
     </message>
     <message>
         <source>Display:</source>
-        <translation>Näkymä:</translation>
+        <translation type="unfinished">Näkymä:</translation>
     </message>
     <message>
         <source>Shortcut for selected action</source>
-        <translation>Pikakuvake valitulle toiminnolle</translation>
+        <translation type="unfinished">Pikakuvake valitulle toiminnolle</translation>
     </message>
     <message>
         <source>Set label...</source>
-        <translation>Aseta ikkuna...</translation>
+        <translation type="unfinished">Aseta ikkuna...</translation>
     </message>
     <message>
         <source>Close button</source>
-        <translation>Sulje-painike</translation>
+        <translation type="unfinished">Sulje-painike</translation>
     </message>
     <message>
         <source>Right button</source>
-        <translation>Oikea painike</translation>
+        <translation type="unfinished">Oikea painike</translation>
     </message>
     <message>
         <source>Load...</source>
-        <translation>Lataa...</translation>
+        <translation type="unfinished">Lataa...</translation>
     </message>
     <message>
         <source>Duplicate tab</source>
-        <translation>Luo duplikaatti</translation>
+        <translation type="unfinished">Luo duplikaatti</translation>
     </message>
     <message>
         <source>Recent files</source>
-        <translation>Viimeksi käytetyt tiedostot</translation>
+        <translation type="unfinished">Viimeksi käytetyt tiedostot</translation>
     </message>
     <message>
         <source>Maximum of view tabs:</source>
-        <translation>Näytettävien välilehtien maksimimäärä:</translation>
+        <translation type="unfinished">Näytettävien välilehtien maksimimäärä:</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Määritelty</translation>
+        <translation type="unfinished">Määritelty</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Suodin</translation>
+        <translation type="unfinished">Suodin</translation>
     </message>
     <message>
         <source>Middle button</source>
-        <translation>Keskipainike</translation>
+        <translation type="unfinished">Keskipainike</translation>
     </message>
     <message>
         <source>Do nothing</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Viewer</source>
-        <translation>Katselin</translation>
+        <translation type="unfinished">Katselin</translation>
     </message>
     <message>
         <source>Maximum entries:</source>
-        <translation>Näytä enintään:</translation>
+        <translation type="unfinished">Näytä enintään:</translation>
     </message>
     <message>
         <source>Close tab</source>
-        <translation>Sulje välilehti</translation>
+        <translation type="unfinished">Sulje välilehti</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation>Pikakuvakkeet</translation>
+        <translation type="unfinished">Pikakuvakkeet</translation>
     </message>
     <message>
         <source>Zoom in/out</source>
-        <translation>Lähennä/loitonna</translation>
+        <translation type="unfinished">Lähennä/loitonna</translation>
     </message>
     <message>
         <source>Left button</source>
-        <translation>Vasen painike</translation>
+        <translation type="unfinished">Vasen painike</translation>
     </message>
     <message>
         <source>Large icons</source>
-        <translation>Suuret kuvakkeet</translation>
+        <translation type="unfinished">Suuret kuvakkeet</translation>
     </message>
     <message>
         <source>Left/Right</source>
-        <translation>Vasen/oikea</translation>
+        <translation type="unfinished">Vasen/oikea</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>Browser - Thumbnail</source>
-        <translation>Kuvaselain - Pikkukuvat</translation>
+        <translation type="unfinished">Kuvaselain - Pikkukuvat</translation>
     </message>
     <message>
         <source>Max width:</source>
-        <translation>Maksim. leveys:</translation>
+        <translation type="unfinished">Maksim. leveys:</translation>
     </message>
     <message>
         <source>Purge &apos;Recent files and folders&apos; on exit</source>
-        <translation>Tyhjennä &apos;Viimeksi käytetyt tiedostot ja kansiot&apos; lopetettessa</translation>
+        <translation type="unfinished">Tyhjennä &apos;Viimeksi käytetyt tiedostot ja kansiot&apos; lopetettessa</translation>
     </message>
     <message>
         <source>characters</source>
-        <translation>merkkiä</translation>
+        <translation type="unfinished">merkkiä</translation>
     </message>
     <message>
         <source>Purge now</source>
-        <translation>Tyhjennä nyt</translation>
+        <translation type="unfinished">Tyhjennä nyt</translation>
     </message>
     <message>
         <source>Double-click on tab: </source>
-        <translation>Välilehteä kaksoisklikatessa:</translation>
+        <translation type="unfinished">Välilehteä kaksoisklikatessa: </translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation>Tallenna...</translation>
+        <translation type="unfinished">Tallenna...</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation type="unfinished">Kuvaselain</translation>
     </message>
     <message>
         <source>Switching mode</source>
-        <translation>Valintatila</translation>
+        <translation type="unfinished">Valintatila</translation>
     </message>
     <message>
         <source>Make selection</source>
-        <translation>Luo valinta</translation>
+        <translation type="unfinished">Luo valinta</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Oletus</translation>
+        <translation type="unfinished">Oletus</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation>Ulkoasu</translation>
+        <translation type="unfinished">Ulkoasu</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automaattinen</translation>
+        <translation type="unfinished">Automaattinen</translation>
     </message>
     <message>
         <source>ToolBar</source>
-        <translation>Työkalupalkki</translation>
+        <translation type="unfinished">Työkalupalkki</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation>Pikavalikko</translation>
+        <translation type="unfinished">Pikavalikko</translation>
     </message>
     <message>
         <source>Defaults</source>
-        <translation>Oletukset</translation>
+        <translation type="unfinished">Oletukset</translation>
     </message>
     <message>
         <source>Previous file</source>
-        <translation>Edellinen tiedosto</translation>
+        <translation type="unfinished">Edellinen tiedosto</translation>
     </message>
     <message>
         <source>Up/Down</source>
-        <translation>Ylos/alas</translation>
+        <translation type="unfinished">Ylos/alas</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation type="unfinished">Esikatselukuva</translation>
     </message>
     <message>
         <source>Previous/next file</source>
-        <translation>Edellinen/seuraava tiedosto</translation>
+        <translation type="unfinished">Edellinen/seuraava tiedosto</translation>
     </message>
     <message>
         <source>Keyboard</source>
-        <translation>Näppäimistö</translation>
+        <translation type="unfinished">Näppäimistö</translation>
     </message>
     <message>
         <source>Browser - Preview</source>
-        <translation>Kuvaselain - Esikatselu</translation>
+        <translation type="unfinished">Kuvaselain - Esikatselu</translation>
     </message>
     <message>
         <source>Set command...</source>
-        <translation>Aseata komento...</translation>
+        <translation type="unfinished">Aseata komento...</translation>
     </message>
     <message>
         <source>Next file</source>
-        <translation>Seuraava tiedosto</translation>
+        <translation type="unfinished">Seuraava tiedosto</translation>
     </message>
     <message>
         <source>Set Icon...</source>
-        <translation>Aseta kuvake...</translation>
+        <translation type="unfinished">Aseta kuvake...</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation>Toiminto</translation>
+        <translation type="unfinished">Toiminto</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>Pikakuvake</translation>
+        <translation type="unfinished">Pikakuvake</translation>
     </message>
     <message>
         <source>Command name</source>
-        <translation>Komennon nimi</translation>
+        <translation type="unfinished">Komennon nimi</translation>
     </message>
     <message>
         <source>Pressing ESC closes</source>
-        <translation>Sulje painamalla ESC-näppäintä</translation>
+        <translation type="unfinished">Sulje painamalla ESC-näppäintä</translation>
     </message>
     <message>
         <source>Double click</source>
-        <translation>Hiiren kaksoisklikkaus</translation>
+        <translation type="unfinished">Hiiren kaksoisklikkaus</translation>
     </message>
     <message>
         <source>Middle click</source>
-        <translation>Hiiren keskiklikkaus</translation>
+        <translation type="unfinished">Hiiren keskiklikkaus</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation>Enter</translation>
+        <translation type="unfinished">Enter</translation>
     </message>
     <message>
         <source>Horizontal scroll</source>
-        <translation>Vaakavieritys</translation>
+        <translation type="unfinished">Vaakavieritys</translation>
     </message>
     <message>
         <source>Vertical scroll</source>
-        <translation>Pystyvieritys</translation>
+        <translation type="unfinished">Pystyvieritys</translation>
     </message>
     <message>
         <source>Zoom selection</source>
-        <translation>Zoomaa valinta</translation>
+        <translation type="unfinished">Zoomaa valinta</translation>
     </message>
     <message>
         <source>No modifier</source>
-        <translation>Ei muokkausta</translation>
+        <translation type="unfinished">Ei muokkaajaa</translation>
     </message>
     <message>
         <source>Zoom &amp; move</source>
-        <translation>Zoomaa &amp; siirrä</translation>
+        <translation type="unfinished">Zoomaa &amp; siirrä</translation>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation></translation>
+        <translation type="unfinished">Ctrl</translation>
     </message>
     <message>
         <source>Alt</source>
-        <translation></translation>
+        <translation type="unfinished">Alt</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation></translation>
+        <translation type="unfinished">Shift</translation>
     </message>
     <message>
         <source>Wheel</source>
-        <translation>Vierityspyörä</translation>
+        <translation type="unfinished">Rullaus</translation>
     </message>
     <message>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
@@ -10312,118 +10311,118 @@ Haluatko määrittää uudelleen?</translation>
     <name>DlgSettingsKeywords</name>
     <message>
         <source>Locale</source>
-        <translation>Paikallinen</translation>
+        <translation type="unfinished">Paikallinen</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
         <source>Label</source>
-        <translation>Merkintä</translation>
+        <translation type="unfinished">Merkintä</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoita</translation>
+        <translation type="unfinished">Kirjoita</translation>
     </message>
     <message>
         <source>Create IPTC data</source>
-        <translation>Luo IPTC-data</translation>
+        <translation type="unfinished">Luo IPTC-data</translation>
     </message>
     <message>
         <source>Video files</source>
-        <translation>Videotiedostot</translation>
+        <translation type="unfinished">Videotiedostot</translation>
     </message>
     <message>
         <source>Import XMP Face tag</source>
-        <translation>Tuo XMP -kasvotunniste</translation>
+        <translation type="unfinished">Tuo XMP -kasvotunniste</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Label</source>
-        <translation>Luokitus ja merkintä</translation>
+        <translation type="unfinished">Luokitus ja merkintä</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation>Upotettu kommentti</translation>
+        <translation type="unfinished">Upotettu kommentti</translation>
     </message>
     <message>
         <source>Other files</source>
-        <translation>Muut tiedostot</translation>
+        <translation type="unfinished">Muut tiedostot</translation>
     </message>
     <message>
         <source>Export color label in XMP metadata</source>
-        <translation>Vie värimerkintä XMP metadatana</translation>
+        <translation type="unfinished">Vie värimerkintä XMP metadatana</translation>
     </message>
     <message>
         <source>Encoding</source>
-        <translation>Koodaus</translation>
+        <translation type="unfinished">Koodaus</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
-        <translation>&lt;tiedostonimi&gt;.&lt;tiedostopääte&gt;.xmp</translation>
+        <translation type="unfinished">&lt;tiedostonimi&gt;.&lt;tiedostopääte&gt;.xmp</translation>
     </message>
     <message>
         <source>Categories and keywords</source>
-        <translation>Kategoriat ja avainsanat</translation>
+        <translation type="unfinished">Kategoriat ja avainsanat</translation>
     </message>
     <message>
         <source>Read (separated by ,)</source>
-        <translation>Lue (erota pilkulla , )</translation>
+        <translation type="unfinished">Lue (erota pilkulla , )</translation>
     </message>
     <message>
         <source>Read hierarchical keywords from images as categories</source>
-        <translation>Lue hierarkkisia avainsanoja kuvista kategorioina</translation>
+        <translation type="unfinished">Lue hierarkkisia avainsanoja kuvista kategorioina</translation>
     </message>
     <message>
         <source>Create XMP data</source>
-        <translation>Luo XMP-data</translation>
+        <translation type="unfinished">Luo XMP-data</translation>
     </message>
     <message>
         <source>Sidecar</source>
-        <translation>Aputiedosto (sivuvaunu)</translation>
+        <translation type="unfinished">Aputiedosto (sivuvaunu)</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Kommentti</translation>
+        <translation type="unfinished">Kommentti</translation>
     </message>
     <message>
         <source>Default encoding</source>
-        <translation>Oletuskoodaus</translation>
+        <translation type="unfinished">Oletuskoodaus</translation>
     </message>
     <message>
         <source>EXIF Copyright</source>
-        <translation>EXIF-tekijänoikeudet</translation>
+        <translation type="unfinished">EXIF-tekijänoikeudet</translation>
     </message>
     <message>
         <source>Use UTF-8 to write IPTC fields</source>
-        <translation>Käytä UTF-8 standardia IPTC-kenttien kirjoittamiseen</translation>
+        <translation type="unfinished">Käytä UTF-8 standardia IPTC-kenttien kirjoittamiseen</translation>
     </message>
     <message>
         <source>Export rating in XMP metadata</source>
-        <translation>Vie luokitus XMP-metadatana</translation>
+        <translation type="unfinished">Vie luokitus XMP-metadatana</translation>
     </message>
     <message>
         <source>Update when file is changed outside (date/size)</source>
-        <translation>Päivitä, kun tiedosto muuttuu ulkoisesti (päiväys/koko)</translation>
+        <translation type="unfinished">Päivitä, kun tiedosto muuttuu ulkoisesti (päiväys/koko)</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.xmp</source>
-        <translation>&lt;tiedostonimi&gt;.xmp</translation>
+        <translation type="unfinished">&lt;tiedostonimi&gt;.xmp</translation>
     </message>
     <message>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Kirjoita kommentti XMP:hen (dc:selitys ja exif:käyttäjän kommentti)</translation>
+        <translation type="unfinished">Kirjoita kommentti XMP:hen (dc:selitys ja exif:käyttäjän kommentti)</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation>Metatiedot</translation>
+        <translation type="unfinished">Metatiedot</translation>
     </message>
     <message>
         <source>Naming convention</source>
-        <translation>Nimeämistapa</translation>
+        <translation type="unfinished">Nimeämissopimus</translation>
     </message>
     <message>
         <source>Supported formats</source>
-        <translation>Tuetut formaatit</translation>
+        <translation type="unfinished">Tuetut formaatit</translation>
     </message>
     <message>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
@@ -10455,190 +10454,190 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Please restart application.</source>
         <translatorcomment>Uudelleenkäynnistä sovellus.</translatorcomment>
-        <translation>Käynnistä sovellus uudelleen.</translation>
+        <translation type="unfinished">Please restart application.</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished">%</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Merkintä (Tagi)</translation>
+        <translation type="unfinished">Merkintä (Tagi)</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasen</translation>
+        <translation type="unfinished">Vasen</translation>
     </message>
     <message>
         <source>Thumbnail cell</source>
-        <translation>Esikatselukuva-solu</translation>
+        <translation type="unfinished">Esikatselukuva-solu</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation type="unfinished">Oikea</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>For video files, extract frame at</source>
-        <translation>Ikkunakoko videotiedostoille</translation>
+        <translation type="unfinished">Ikkunakoko videotiedostoille</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Käytä alfa-kanavaa</translation>
+        <translation type="unfinished">Käytä alfa-kanavaa</translation>
     </message>
     <message>
         <source>Spacing between labels</source>
-        <translation>Tyhjä tila Ikkunoiden välissä</translation>
+        <translation type="unfinished">Tyhjä tila Ikkunoiden välissä</translation>
     </message>
     <message>
         <source>Go to Thumbnail DB related settings &gt;&gt;</source>
-        <translation>Esikatselukuva DB-tiedostoihin liittyvät asetukset &gt;&gt;</translation>
+        <translation type="unfinished">Esikatselukuva DB-tiedostoihin liittyvät asetukset &gt;&gt;</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
-        <translation>Näytä 4 kuvaa videoiden esikatselukuvassa (yhden sijaan)</translation>
+        <translation type="unfinished">Näytä 4 kuvaa videoiden esikatselukuvassa  (yhden sijaan)</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Käytä gammakorjausta</translation>
+        <translation type="unfinished">Käytä gammakorjausta</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
-        <translation>Näytä 4 kuvaa kansioiden esikatselukuvassa (yhden sijaan)</translation>
+        <translation type="unfinished">Näytä 4 kuvaa kansioiden esikatselukuvassa  (yhden sijaan)</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Värimerkintä</translation>
+        <translation type="unfinished">Värimerkintä</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Reunus</translation>
+        <translation type="unfinished">Reunus</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskitä</translation>
+        <translation type="unfinished">Keskitä</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Labels</source>
-        <translation>Tietoikkunan muokkaus</translation>
+        <translation type="unfinished">Tietoikkunan muokkaus</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation>Marginaali</translation>
+        <translation type="unfinished">Marginaali</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation type="unfinished">Luokitus</translation>
     </message>
     <message>
         <source>Reset color</source>
-        <translation>Nollaa väri</translation>
+        <translation type="unfinished">Nollaa väri</translation>
     </message>
     <message>
         <source>Embedded thumbnail</source>
-        <translation>Upotettu esikatselukuva</translation>
+        <translation type="unfinished">Upotettu esikatselukuva</translation>
     </message>
     <message>
         <source>Label alignment</source>
-        <translation>Ikkunajärjestys</translation>
+        <translation type="unfinished">Ikkunajärjestys</translation>
     </message>
     <message>
         <source>Face tag</source>
-        <translation>Kasvojen tunnistus</translation>
+        <translation type="unfinished">Kasvojen tunnistus</translation>
     </message>
     <message>
         <source>Use shadow</source>
-        <translation>Käytä varjoa</translation>
+        <translation type="unfinished">Käytä varjoa</translation>
     </message>
     <message>
         <source>Use embedded thumbnail</source>
-        <translation>Käytä upotettua esikatselukuvaa</translation>
+        <translation type="unfinished">Käytä upotettua esikatselukuvaa</translation>
     </message>
     <message>
         <source>Sidecar</source>
-        <translation>Aputiedosto (sivuvaunu)</translation>
+        <translation type="unfinished">Aputiedosto (sivuvaunu)</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Välit</translation>
+        <translation type="unfinished">Välit</translation>
     </message>
     <message>
         <source>Automatic rotation</source>
-        <translation>Automaatti kääntäminen</translation>
+        <translation type="unfinished">Automaatti kääntäminen</translation>
     </message>
     <message>
         <source>Custom thumbnail size</source>
-        <translation>Muokkaa esikatselukuvan kokoa</translation>
+        <translation type="unfinished">Muokkaa esikatselukuvan kokoa</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation>Ulkomuoto</translation>
+        <translation type="unfinished">Ulkomuoto</translation>
     </message>
     <message>
         <source>Custom label</source>
-        <translation>Määrittele tietoikkuna</translation>
+        <translation type="unfinished">Määrittele tietoikkuna</translation>
     </message>
     <message>
         <source>Border size</source>
-        <translation>Reunuksen koko</translation>
+        <translation type="unfinished">Reunuksen koko</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation type="unfinished">Esikatselukuva</translation>
     </message>
     <message>
         <source>Has category</source>
-        <translation>Kategoria</translation>
+        <translation type="unfinished">Kategoria</translation>
     </message>
     <message>
         <source>Create high quality thumbnail</source>
-        <translation>Luo korkealaatuiset esikatselukuvat</translation>
+        <translation type="unfinished">Luo korkealaatuiset esikatselukuvat</translation>
     </message>
     <message>
         <source>Overlay icons</source>
-        <translation>Kuvakkeet (overlay)</translation>
+        <translation type="unfinished">Kuvakkeet (overlay)</translation>
     </message>
     <message>
         <source>Color profile</source>
-        <translation>Väriprofiili</translation>
+        <translation type="unfinished">Väriprofiili</translation>
     </message>
     <message>
         <source>Sharpen thumbnail</source>
-        <translation>Terävöitä esikatselukuvat</translation>
+        <translation type="unfinished">Terävöitä esikatselukuvat</translation>
     </message>
     <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
-        <translation>Luo alkuperäisestä kuvasta jos upotettu- on pienempi kuin esikatselukuva</translation>
+        <translation type="unfinished">Luo alkuperäisestä kuvasta jos upotettu- on pienempi kuin esikatselukuva</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>Pikakuvake</translation>
+        <translation type="unfinished">Pikakuvake</translation>
     </message>
     <message>
         <source>Browser - Thumbnail</source>
-        <translation>Kuvaselain - Pikkukuvat</translation>
+        <translation type="unfinished">Kuvaselain - Pikkukuvat</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Create thumbnails for whole folder</source>
@@ -10649,342 +10648,342 @@ Haluatko määrittää uudelleen?</translation>
     <name>DlgSettingsView</name>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsViewClass</name>
     <message>
         <source>Ask</source>
-        <translation>Kysy</translation>
+        <translation type="unfinished">Kysy</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fontti</translation>
+        <translation type="unfinished">Fontti</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Näkymä</translation>
+        <translation type="unfinished">Näkymä</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoomaus</translation>
+        <translation type="unfinished">Zoomaus</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Quick slideshow</source>
-        <translation>Pika-kuvaesitys</translation>
+        <translation type="unfinished">Pika-kuvaesitys</translation>
     </message>
     <message>
         <source>Cache</source>
-        <translation>Välimuisti</translation>
+        <translation type="unfinished">Välimuisti</translation>
     </message>
     <message>
         <source>Misc.</source>
-        <translation>Sekalaiset</translation>
+        <translation type="unfinished">Sekalaiset</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Ei koskaan</translation>
+        <translation type="unfinished">Ei koskaan</translation>
     </message>
     <message>
         <source>Loop video playing</source>
-        <translation>Jatkuva videon toisto</translation>
+        <translation type="unfinished">Jatkuva videon toisto</translation>
     </message>
     <message>
         <source>High zoom quality</source>
-        <translation>Korkea zoomauslaatu</translation>
+        <translation type="unfinished">Korkea zoomauslaatu</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Use checkboard pattern as background</source>
-        <translation>Käytä ruutukuviotaustaa</translation>
+        <translation type="unfinished">Käytä ruutukuviotaustaa</translation>
     </message>
     <message>
         <source>Always show in fullscreen</source>
-        <translation>Näytä aina koko näytössä</translation>
+        <translation type="unfinished">Näytä aina koko näytössä</translation>
     </message>
     <message>
         <source>File date</source>
-        <translation>Tiedoston päivämäärä</translation>
+        <translation type="unfinished">Tiedoston päivämäärä</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Tiedostokoko</translation>
+        <translation type="unfinished">Tiedostokoko</translation>
     </message>
     <message>
         <source>Half size</source>
-        <translation>Puolikuva</translation>
+        <translation type="unfinished">Puolikuva</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>Valinta</translation>
+        <translation type="unfinished">Valinta</translation>
     </message>
     <message>
         <source>Full size</source>
-        <translation>Koko kuva</translation>
+        <translation type="unfinished">Koko kuva</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Käytä gammakorjausta</translation>
+        <translation type="unfinished">Käytä gammakorjausta</translation>
     </message>
     <message>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
-        <translation>Älä käytä GIF/JIF/APNG/ANI-animaatioita</translation>
+        <translation type="unfinished">Älä käytä GIF/JIF/APNG/ANI-animaatioita</translation>
     </message>
     <message>
         <source>File modified date</source>
-        <translation>Tiedoston muokkauspäivä</translation>
+        <translation type="unfinished">Tiedoston muokkauspäivä</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation>Upotettu kommentti</translation>
+        <translation type="unfinished">Upotettu kommentti</translation>
     </message>
     <message>
         <source>Show highlight selection</source>
-        <translation>Näytä korostusvalinta</translation>
+        <translation type="unfinished">Näytä korostusvalinta</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Aina</translation>
+        <translation type="unfinished">Aina</translation>
     </message>
     <message>
         <source>Relative step</source>
-        <translation>Suhteellinen askel</translation>
+        <translation type="unfinished">Suhteellinen askel</translation>
     </message>
     <message>
         <source>Show scrollbars</source>
-        <translation>Näytä vierityspalkki</translation>
+        <translation type="unfinished">Näytä vierityspalkki</translation>
     </message>
     <message>
         <source>Multipage files</source>
-        <translation>Monisivu-tiedostot</translation>
+        <translation type="unfinished">Monisivu-tiedostot</translation>
     </message>
     <message>
         <source>Reset X/Y (No fit)</source>
-        <translation>Nollaa X/Y (Ei sovitusta)</translation>
+        <translation type="unfinished">Nollaa X/Y (Ei sovitusta)</translation>
     </message>
     <message>
         <source>Camera RAW, use</source>
-        <translation>Kamera RAW, käytössä</translation>
+        <translation type="unfinished">Kamera RAW, käytössä</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normaali</translation>
+        <translation type="unfinished">Normaali</translation>
     </message>
     <message>
         <source>Print size</source>
-        <translation>Tulostuskoko</translation>
+        <translation type="unfinished">Tulostuskoko</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation>Satunnainen</translation>
+        <translation type="unfinished">Satunnainen</translation>
     </message>
     <message>
         <source>Zoom step</source>
-        <translation>Zoomausaskel</translation>
+        <translation type="unfinished">Zoomausaskel</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Peittävyys</translation>
+        <translation type="unfinished">Peittävyys</translation>
     </message>
     <message>
         <source>Text color</source>
-        <translation>Tekstin väri</translation>
+        <translation type="unfinished">Tekstin väri</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Ominaisuudet</translation>
+        <translation type="unfinished">Ominaisuudet</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation>Taaksepäin</translation>
+        <translation type="unfinished">Taaksepäin</translation>
     </message>
     <message>
         <source>Delay (ms)</source>
-        <translation>Hidasta (ms)</translation>
+        <translation type="unfinished">Hidasta (ms)</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Suunta</translation>
+        <translation type="unfinished">Suunta</translation>
     </message>
     <message>
         <source>StatusBar</source>
-        <translation>Tilarivi</translation>
+        <translation type="unfinished">Tilarivi</translation>
     </message>
     <message>
         <source>Auto play (video)</source>
-        <translation>Automaattitoisto (video)</translation>
+        <translation type="unfinished">Automaattitoisto (video)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selitys</translation>
+        <translation type="unfinished">Selitys</translation>
     </message>
     <message>
         <source>Two-pass rendering at loading</source>
-        <translation>Kaksi-ajo renderointi ladattaessa</translation>
+        <translation type="unfinished">Kaksi-ajo renderointi ladattaessa</translation>
     </message>
     <message>
         <source>Use sharpen</source>
-        <translation>Käytä terävöitystä</translation>
+        <translation type="unfinished">Käytä terävöitystä</translation>
     </message>
     <message>
         <source>Keep current image</source>
-        <translation>Säilytä nykyinen kuva</translation>
+        <translation type="unfinished">Säilytä nykyinen kuva</translation>
     </message>
     <message>
         <source>EXIF date taken</source>
-        <translation>EXIF kuvauspäivä</translation>
+        <translation type="unfinished">EXIF kuvauspäivä</translation>
     </message>
     <message>
         <source>Title bar</source>
-        <translation>Nimipalkki</translation>
+        <translation type="unfinished">Nimipalkki</translation>
     </message>
     <message>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation>Zoomaa HiDPI-näytöllä: 1 kuvan pikseli vastaa yhtä näyttöpistettä</translation>
+        <translation type="unfinished">Zoomaa HiDPI-näytöllä: 1 kuvan pikseli vastaa yhtä näyttöpistettä</translation>
     </message>
     <message>
         <source>Fixed step</source>
-        <translation>Muokattu askel</translation>
+        <translation type="unfinished">Muokattu askel</translation>
     </message>
     <message>
         <source>Read one image ahead</source>
-        <translation>Lue yksi kuva eteenpäin</translation>
+        <translation type="unfinished">Lue yksi kuva eteenpäin</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
-        <translation>EXIF muokkauspäivä</translation>
+        <translation type="unfinished">EXIF  muokkauspäivä</translation>
     </message>
     <message>
         <source>Rule of thirds</source>
-        <translation>Kolmanneksen sääntö</translation>
+        <translation type="unfinished">Kolmanneksen sääntö</translation>
     </message>
     <message>
         <source>Save changes to file</source>
-        <translation>Tallenna muutokset tiedostoon</translation>
+        <translation type="unfinished">Tallenna muutokset tiedostoon</translation>
     </message>
     <message>
         <source>Embedded preview</source>
-        <translation>Upotettu esikatselu</translation>
+        <translation type="unfinished">Upotettu esikatselu</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Eteenpäin</translation>
+        <translation type="unfinished">Eteenpäin</translation>
     </message>
     <message>
         <source>File created date</source>
-        <translation>Tiedoston luontipäivä</translation>
+        <translation type="unfinished">Tiedoston luontipäivä</translation>
     </message>
     <message>
         <source>Pixel ratio</source>
-        <translation>Pikselisuhde</translation>
+        <translation type="unfinished">Pikselisuhde</translation>
     </message>
     <message>
         <source>Loop on the file list</source>
-        <translation>Jatkuva toisto (Tiedostolistalla olevat)</translation>
+        <translation type="unfinished">Jatkuva toisto (Tiedostolistalla olevat)</translation>
     </message>
     <message>
         <source>Show Pan tool</source>
-        <translation>Näytä panorointityökalu</translation>
+        <translation type="unfinished">Näytä panorointityökalu</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Suodin</translation>
+        <translation type="unfinished">Suodin</translation>
     </message>
     <message>
         <source>Like Browser</source>
-        <translation>Niin kuin selain</translation>
+        <translation type="unfinished">Niin kuin selain</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Mukauta</translation>
+        <translation type="unfinished">Mukauta</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation>Äänitiedosto</translation>
+        <translation type="unfinished">Äänitiedosto</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation type="unfinished">Video</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
+        <translation type="unfinished">AI/PS/PDF</translation>
     </message>
     <message>
         <source>Exclude</source>
-        <translation>Poissulje</translation>
+        <translation type="unfinished">Poissulje</translation>
     </message>
     <message>
         <source>Include</source>
-        <translation>Sisällytä</translation>
+        <translation type="unfinished">Sisällytä</translation>
     </message>
     <message>
         <source>Support HTML tags</source>
-        <translation>Tuetut HTML-tagit</translation>
+        <translation type="unfinished">Tuetut HTML-tagit</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Koko näyttö</translation>
+        <translation type="unfinished">Koko näyttö</translation>
     </message>
     <message>
         <source>Show playbar</source>
-        <translation>Näytä toistopalkki</translation>
+        <translation type="unfinished">Näytä toistopalkki</translation>
     </message>
     <message>
         <source>Show info</source>
-        <translation>Näytä tiedot</translation>
+        <translation type="unfinished">Näytä tiedot</translation>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation>Näytä työkalupalkki</translation>
+        <translation type="unfinished">Näytä työkalupalkki</translation>
     </message>
     <message>
         <source>Hide mouse cursor</source>
-        <translation>Piilota hiiren kursori</translation>
+        <translation type="unfinished">Piilota hiiren kursori</translation>
     </message>
     <message>
         <source>Dual monitor: Use second monitor</source>
-        <translation>Kaksoisnäyttö: Käytä toista näyttöä</translation>
+        <translation type="unfinished">Kaksoisnäyttö: Käytä toista näyttöä</translation>
     </message>
     <message>
         <source>Floating views</source>
-        <translation>Kelluvat näkymät</translation>
+        <translation type="unfinished">Kelluvat näkymät</translation>
     </message>
     <message>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation>(ilmestyy kun hiirtä liikutetaan ruudulla ylös tai oikealle)</translation>
+        <translation type="unfinished">(ilmestyy kun hiirtä liikutetaan ruudulla ylös tai oikealle)</translation>
     </message>
     <message>
         <source>Auto zoom</source>
-        <translation>Automaattinen Zoomaus</translation>
+        <translation type="unfinished">Automaattinen zoomaus</translation>
     </message>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
@@ -11027,67 +11026,67 @@ Haluatko määrittää uudelleen?</translation>
     <name>DlgSimilar</name>
     <message>
         <source>No files found!</source>
-        <translation>Tiedostoja ei löytynyt!</translation>
+        <translation type="unfinished">Tiedostoja ei löytynyt!</translation>
     </message>
     <message>
         <source>Similarity</source>
-        <translation>Samankaltaisuus</translation>
+        <translation type="unfinished">Samankaltaisuus</translation>
     </message>
     <message>
         <source>Same Extension</source>
-        <translation>Sama tiedostopääte</translation>
+        <translation type="unfinished">Sama tiedostopääte</translation>
     </message>
     <message>
         <source>Between folders only</source>
-        <translation>Vain kansioiden välillä</translation>
+        <translation type="unfinished">Vain kansioiden välillä</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Lisää kansio...</translation>
+        <translation type="unfinished">Lisää kansio...</translation>
     </message>
     <message>
         <source>Method</source>
-        <translation>Menetelmä</translation>
+        <translation type="unfinished">Menetelmä</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Search similar files</source>
-        <translation>Etsi samankaltaisia tiedostoja</translation>
+        <translation type="unfinished">Etsi samankaltaisia tiedostoja</translation>
     </message>
     <message>
         <source>Same filename</source>
-        <translation>Sama tiedostonimi</translation>
+        <translation type="unfinished">Sama tiedostonimi</translation>
     </message>
     <message>
         <source>Pathname</source>
-        <translation>Tiedostopolku</translation>
+        <translation type="unfinished">Tiedostopolku</translation>
     </message>
     <message>
         <source>Same file data</source>
-        <translation>Sama tiedostodata</translation>
+        <translation type="unfinished">Sama tiedostodata</translation>
     </message>
     <message>
         <source>Recursive</source>
-        <translation>Alikansiot</translation>
+        <translation type="unfinished">Alikansiot</translation>
     </message>
     <message>
         <source>Extensions to ignore (separated by a space)</source>
-        <translation>Tiedostopäätteet joita ei huomioida (erota välilyönnillä)</translation>
+        <translation type="unfinished">Tiedostopäätteet joita ei huomioida (erota välilyönnillä)</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Valitse hakemisto</translation>
+        <translation type="unfinished">Valitse hakemisto</translation>
     </message>
     <message>
         <source>Add files...</source>
-        <translation>Lisää tiedostot...</translation>
+        <translation type="unfinished">Lisää tiedostot...</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Varoitus</translation>
+        <translation type="unfinished">Varoitus</translation>
     </message>
     <message>
         <source>Similar image content (slow)</source>
@@ -11098,553 +11097,553 @@ Haluatko määrittää uudelleen?</translation>
     <name>DlgSimilarResult</name>
     <message>
         <source>Date</source>
-        <translation>Päiväys</translation>
+        <translation type="unfinished">Päiväys</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tyyppi</translation>
+        <translation type="unfinished">Tyyppi</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Similarity</source>
-        <translation>Samankaltaisuus</translation>
+        <translation type="unfinished">Samankaltaisuus</translation>
     </message>
     <message>
         <source>CRC32</source>
-        <translation>CRC32</translation>
+        <translation type="unfinished">CRC32</translation>
     </message>
     <message>
         <source>First</source>
-        <translation>Ensimmäinen</translation>
+        <translation type="unfinished">Ensimmäinen</translation>
     </message>
     <message>
         <source>Copy file to...</source>
-        <translation>Kopioi tiedosto kansioon...</translation>
+        <translation type="unfinished">Kopioi tiedosto kansioon...</translation>
     </message>
     <message>
         <source>Similar files result</source>
-        <translation>Samankaltaisten tiedostojen tulos</translation>
+        <translation type="unfinished">Samankaltaisten tiedostojen tulos</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Original zoom</source>
-        <translation>Alkuperäinen zoomaus</translation>
+        <translation type="unfinished">Alkuperäinen zoomaus</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation>Siirrä kansioon</translation>
+        <translation type="unfinished">Siirrä kansioon</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Kansio</translation>
+        <translation type="unfinished">Kansio</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Delete file</source>
-        <translation>Poista tiedosto</translation>
+        <translation type="unfinished">Poista tiedosto</translation>
     </message>
     <message>
         <source>Use as reference</source>
-        <translation>Käytä viitteenä</translation>
+        <translation type="unfinished">Käytä viitteenä</translation>
     </message>
     <message>
         <source>Copy to</source>
-        <translation>Kopioi kansioon</translation>
+        <translation type="unfinished">Kopioi kansioon</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Järjestä käyttäen</translation>
+        <translation type="unfinished">Järjestä käyttäen</translation>
     </message>
     <message>
         <source>Move file to...</source>
-        <translation>Siirrä tiedosto kansioon...</translation>
+        <translation type="unfinished">Siirrä tiedosto kansioon...</translation>
     </message>
     <message>
         <source>Selected</source>
-        <translation>Valittu</translation>
+        <translation type="unfinished">Valittu</translation>
     </message>
     <message>
         <source>Dimensions</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Paras sovitus</translation>
+        <translation type="unfinished">Paras sovitus</translation>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Muokkauspäivä</translation>
+        <translation type="unfinished">Muokkauspäivä</translation>
     </message>
 </context>
 <context>
     <name>DlgSizeEdit</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Size edit</source>
-        <translation>Koon muokkaus</translation>
+        <translation type="unfinished">Koon muokkaus</translation>
     </message>
     <message>
         <source>pixel</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>ratio</source>
-        <translation>suhde</translation>
+        <translation type="unfinished">suhde</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
 </context>
 <context>
     <name>DlgSlideshow</name>
     <message>
         <source>Font</source>
-        <translation>Fontti</translation>
+        <translation type="unfinished">Fontti</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation>Jatkuva toisto</translation>
+        <translation type="unfinished">Jatkuva toisto</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Filelist</source>
-        <translation>Tiedostolista</translation>
+        <translation type="unfinished">Tiedostolista</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Window title bar</source>
-        <translation>Otsikkopalkki</translation>
+        <translation type="unfinished">Otsikkopalkki</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation>Näytä tiedot</translation>
+        <translation type="unfinished">Näytä tiedot</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Koko näyttö</translation>
+        <translation type="unfinished">Koko näyttö</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation>Siirtyminen</translation>
+        <translation type="unfinished">Siirtyminen</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Peittävyys</translation>
+        <translation type="unfinished">Peittävyys</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation>Avaa...</translation>
+        <translation type="unfinished">Avaa...</translation>
     </message>
     <message>
         <source>Text color</source>
-        <translation>Tekstin väri</translation>
+        <translation type="unfinished">Tekstin väri</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Valinnat</translation>
+        <translation type="unfinished">Valinnat</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>Auto hide cursor (fullscreen)</source>
-        <translation>Piilota kursori automaattisesti (koko näyttö)</translation>
+        <translation type="unfinished">Piilota kursori automaattisesti (koko näyttö)</translation>
     </message>
     <message>
         <source>Use audio file</source>
-        <translation>Käytä äänitiedostoa</translation>
+        <translation type="unfinished">Käytä äänitiedostoa</translation>
     </message>
     <message>
         <source>Use timer</source>
-        <translation>Käytä ajastusta</translation>
+        <translation type="unfinished">Käytä ajastusta</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Use keyboard press or mouse click</source>
-        <translation>Käytä näppäimistöä tai hiirtä</translation>
+        <translation type="unfinished">Käytä näppäimistöä tai hiirtä</translation>
     </message>
     <message>
         <source>Export Slideshow</source>
-        <translation>Vie kuvaesitys</translation>
+        <translation type="unfinished">Vie kuvaesitys</translation>
     </message>
     <message>
         <source>Import Slideshow</source>
-        <translation>Tuo kuvaesitys</translation>
+        <translation type="unfinished">Tuo kuvaesitys</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation>Tallenna...</translation>
+        <translation type="unfinished">Tallenna...</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>sekuntia</translation>
+        <translation type="unfinished">sekuntia</translation>
     </message>
     <message>
         <source>Stretch small images</source>
-        <translation>Venytä pienet kuvat</translation>
+        <translation type="unfinished">Venytä pienet kuvat</translation>
     </message>
     <message>
         <source>Random order</source>
-        <translation>Satunnainen järjestys</translation>
+        <translation type="unfinished">Satunnainen järjestys</translation>
     </message>
     <message>
         <source>Fixed size</source>
-        <translation>Muokattu koko</translation>
+        <translation type="unfinished">Muokattu koko</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message>
         <source>Use transition effects</source>
-        <translation>Käytä siirtymäefektejä</translation>
+        <translation type="unfinished">Käytä siirtymäefektejä</translation>
     </message>
     <message>
         <source>Always on Top</source>
-        <translation>Aina päällimmäisenä</translation>
+        <translation type="unfinished">Aina päällimmäisenä</translation>
     </message>
     <message>
         <source>Slideshow</source>
-        <translation>Kuvaesitys</translation>
+        <translation type="unfinished">Kuvaesitys</translation>
     </message>
     <message>
         <source>Relative paths</source>
-        <translation>Suhteelliset polut</translation>
+        <translation type="unfinished">Suhteelliset polut</translation>
     </message>
 </context>
 <context>
     <name>DlgSplit</name>
     <message>
         <source>Rows</source>
-        <translation>Rivit</translation>
+        <translation type="unfinished">Rivit</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation>Asetukset...</translation>
+        <translation type="unfinished">Asetukset...</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>Määrä</translation>
+        <translation type="unfinished">Määrä</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>Paloittele</translation>
+        <translation type="unfinished">Paloittele</translation>
     </message>
     <message>
         <source>Tiles</source>
-        <translation>Ruudut</translation>
+        <translation type="unfinished">Ruudut</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Luo</translation>
+        <translation type="unfinished">Luo</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Kansio</translation>
+        <translation type="unfinished">Kansio</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation>Ulostulo</translation>
+        <translation type="unfinished">Ulostulo</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Splitting image(s), please wait...</source>
-        <translation>Paloitellaan kuva(t), odota...</translation>
+        <translation type="unfinished">Paloitellaan kuva(t), odota...</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Sarakkeet</translation>
+        <translation type="unfinished">Sarakkeet</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Paras sovitus</translation>
+        <translation type="unfinished">Paras sovitus</translation>
     </message>
     <message>
         <source>Size (pixels)</source>
-        <translation>Koko (pikseliä)</translation>
+        <translation type="unfinished">Koko (pikseliä)</translation>
     </message>
 </context>
 <context>
     <name>DlgStartupWizard</name>
     <message>
         <source>Dark</source>
-        <translation>Tumma</translation>
+        <translation type="unfinished">Tumma</translation>
     </message>
     <message>
         <source>Folder for Catalog (.db)</source>
-        <translation>Kansio luettelolle (.db)</translation>
+        <translation type="unfinished">Kansio luettelolle (.db)</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Musta</translation>
+        <translation type="unfinished">Musta</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation>Päivittäin</translation>
+        <translation type="unfinished">Päivittäin</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Vaalea</translation>
+        <translation type="unfinished">Vaalea</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Ei koskaan</translation>
+        <translation type="unfinished">Ei koskaan</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation>Teema</translation>
+        <translation type="unfinished">Teema</translation>
     </message>
     <message>
         <source>Send anonymous logs</source>
-        <translation>Lähetä nimettömiä lokeja</translation>
+        <translation type="unfinished">Lähetä nimettömiä lokeja</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation>Lisää &apos;Avaa XnViewMP:llä&apos; hiiren pikavalikkoon</translation>
+        <translation type="unfinished">Lisää &apos;Avaa XnViewMP:llä&apos; hiiren pikavalikkoon</translation>
     </message>
     <message>
         <source>Run the File association(s) tool...</source>
-        <translation>Käynnistä tiedostokytkentä-työkalu...</translation>
+        <translation type="unfinished">Käynnistä tiedostokytkentä-työkalu...</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation>Kuukausittain</translation>
+        <translation type="unfinished">Kuukausittain</translation>
     </message>
     <message>
         <source>System integration</source>
-        <translation>Järjestelmän integrointi</translation>
+        <translation type="unfinished">Järjestelmän integrointi</translation>
     </message>
     <message>
         <source>Folder for Thumbnails Database</source>
-        <translation>Kansio esikatselukuvien tietokannalle</translation>
+        <translation type="unfinished">Kansio esikatselukuvien tietokannalle</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation>Viikottain</translation>
+        <translation type="unfinished">Viikottain</translation>
     </message>
     <message>
         <source>Other settings</source>
-        <translation>Muut asetukset</translation>
+        <translation type="unfinished">Muut asetukset</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Kieli</translation>
+        <translation type="unfinished">Kieli</translation>
     </message>
     <message>
         <source>Use .ini file in folder</source>
-        <translation>Käytä .ini tiedostoa kansiossa</translation>
+        <translation type="unfinished">Käytä .ini tiedostoa kansiossa</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Oletus</translation>
+        <translation type="unfinished">Oletus</translation>
     </message>
     <message>
         <source>Folder for other files</source>
-        <translation>Kansio muille tiedostoille</translation>
+        <translation type="unfinished">Kansio muille tiedostoille</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Yleiset</translation>
+        <translation type="unfinished">Yleiset</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Tarkista ohjelman päivitykset</translation>
+        <translation type="unfinished">Tarkista ohjelman päivitykset</translation>
     </message>
     <message>
         <source>Startup Wizard</source>
-        <translation>Käynnistys-Velho</translation>
+        <translation type="unfinished">Käynnistys-Velho</translation>
     </message>
     <message>
         <source>Use Windows registry</source>
-        <translation>Käytä Windowsin rekisteriä</translation>
+        <translation type="unfinished">Käytä Windowsin rekisteriä</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
 </context>
 <context>
     <name>DlgStrip</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message>
         <source>Fit width or height</source>
-        <translation>Sovita leveyteen tai korkeuteen</translation>
+        <translation type="unfinished">Sovita leveyteen tai korkeuteen</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>pixel</source>
-        <translation>pikseliä</translation>
+        <translation type="unfinished">pikseliä</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Vaakasuunnassa</translation>
+        <translation type="unfinished">Vaakasuunnassa</translation>
     </message>
     <message>
         <source>File list</source>
-        <translation>Tiedostolista</translation>
+        <translation type="unfinished">Tiedostolista</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskellä</translation>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation>Asetelma</translation>
+        <translation type="unfinished">Asetelma</translation>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation>Mosaiikki</translation>
+        <translation type="unfinished">Mosaiikki</translation>
     </message>
     <message>
         <source>Left / Top</source>
-        <translation>Vasemmalla / ylhäällä</translation>
+        <translation type="unfinished">Vasemmalla / ylhäällä</translation>
     </message>
     <message>
         <source>Join images</source>
-        <translation>Liitä kuvat</translation>
+        <translation type="unfinished">Liitä kuvat</translation>
     </message>
     <message>
         <source>Thumbnails per row</source>
-        <translation>Esikatselukuvia rivillä</translation>
+        <translation type="unfinished">Esikatselukuvia rivillä</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Collage</source>
-        <translation>Kollaasi</translation>
+        <translation type="unfinished">Kollaasi</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Väli</translation>
+        <translation type="unfinished">Väli</translation>
     </message>
     <message>
         <source>Right / Bottom</source>
-        <translation>Oikealla / alhaalla</translation>
+        <translation type="unfinished">Oikealla / alhaalla</translation>
     </message>
     <message>
         <source>Output size</source>
-        <translation>Valmistuskoko</translation>
+        <translation type="unfinished">Valmistuskoko</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pystysuunnassa</translation>
+        <translation type="unfinished">Pystysuunnassa</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Asetukset</translation>
+        <translation type="unfinished">Asetukset</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation>Ryhmittely</translation>
+        <translation type="unfinished">Ryhmittely</translation>
     </message>
 </context>
 <context>
     <name>DlgTagPhoto</name>
     <message>
         <source>Clear regions</source>
-        <translation>Tyhjennä alueet</translation>
+        <translation type="unfinished">Tyhjennä alueet</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Overwrite face regions</source>
-        <translation>Korvaa alueet</translation>
+        <translation type="unfinished">Korvaa alueet</translation>
     </message>
     <message>
         <source>Face Tag</source>
-        <translation>Kasvojen tunnistus</translation>
+        <translation type="unfinished">Kasvojen tunnistus</translation>
     </message>
     <message>
         <source>Threshold</source>
-        <translation>Aloituspiste</translation>
+        <translation type="unfinished">Aloituspiste</translation>
     </message>
     <message>
         <source>Write...</source>
-        <translation>Kirjoita...</translation>
+        <translation type="unfinished">Kirjoita...</translation>
     </message>
     <message>
         <source>Search face</source>
-        <translation>Kasvojen haku</translation>
+        <translation type="unfinished">Kasvojen haku</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Lisää</translation>
+        <translation type="unfinished">Lisää</translation>
     </message>
     <message>
         <source>This will overwrite XMP face&apos;s regions of the file. 
@@ -11659,110 +11658,110 @@ Haluatko jatkaa?</translation>
     <name>DlgTimestamp</name>
     <message>
         <source>An error occurred in updating process!</source>
-        <translation>Päyvitysprosessin aikana tapahtui virhe!</translation>
+        <translation type="unfinished">Päyvitysprosessin aikana tapahtui virhe!</translation>
     </message>
     <message>
         <source>File modified date</source>
-        <translation>Tiedoston muokkauspäivä</translation>
+        <translation type="unfinished">Tiedoston muokkauspäivä</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation>EXIF: Muokkauspäivä</translation>
+        <translation type="unfinished">EXIF: Muokkauspäivä</translation>
     </message>
     <message>
         <source>Problem</source>
-        <translation>Ongelma</translation>
+        <translation type="unfinished">Ongelma</translation>
     </message>
     <message>
         <source>EXIF: Date digitized</source>
-        <translation>EXIF: Digitointipäivä</translation>
+        <translation type="unfinished">EXIF: Digitointipäivä</translation>
     </message>
     <message>
         <source>File created date</source>
-        <translation>Tiedoston luontipäivä</translation>
+        <translation type="unfinished">Tiedoston luontipäivä</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Kuvauspäivä</translation>
+        <translation type="unfinished">EXIF: Kuvauspäivä</translation>
     </message>
     <message>
         <source>Modifying timestamp, please wait...</source>
-        <translation>Muokataan aikaleimaa, odota...</translation>
+        <translation type="unfinished">Muokataan aikaleimaa, odota...</translation>
     </message>
 </context>
 <context>
     <name>DlgTimestampClass</name>
     <message>
         <source>+</source>
-        <translation>+</translation>
+        <translation type="unfinished">+</translation>
     </message>
     <message>
         <source>-</source>
-        <translation>-</translation>
+        <translation type="unfinished">-</translation>
     </message>
     <message>
         <source>Use</source>
-        <translation>Käytä</translation>
+        <translation type="unfinished">Käytä</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoita</translation>
+        <translation type="unfinished">Kirjoita</translation>
     </message>
     <message>
         <source>Current date &amp;&amp; time</source>
-        <translation>Nykyinen päiväys &amp;&amp; aika</translation>
+        <translation type="unfinished">Nykyinen päiväys &amp;&amp; aika</translation>
     </message>
     <message>
         <source>File: Modified date</source>
-        <translation>Tiedosto: Muokkauspäivä</translation>
+        <translation type="unfinished">Tiedosto: Muokkauspäivä</translation>
     </message>
     <message>
         <source>Force the update in case of anomaly</source>
-        <translation>Pakota päivitys, jos ilmenee poikkeavuuksia</translation>
+        <translation type="unfinished">Pakota päivitys, jos ilmenee poikkeavuuksia</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation>Muuta</translation>
+        <translation type="unfinished">Muuta</translation>
     </message>
     <message>
         <source>Specific date &amp;&amp; time</source>
-        <translation>Määritelty päiväys &amp;&amp; aika</translation>
+        <translation type="unfinished">Määritelty päiväys &amp;&amp; aika</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation>EXIF: Muokkauspäivä</translation>
+        <translation type="unfinished">EXIF: Muokkauspäivä</translation>
     </message>
     <message>
         <source>day(s)</source>
-        <translation>päivä(t)</translation>
+        <translation type="unfinished">päivä(t)</translation>
     </message>
     <message>
         <source>Change timestamp</source>
-        <translation>Muuta aikaleima</translation>
+        <translation type="unfinished">Muuta aikaleima</translation>
     </message>
     <message>
         <source>Create EXIF metadata if needed</source>
-        <translation>Luo EXIF-metadata jos se tarvitaan</translation>
+        <translation type="unfinished">Luo EXIF-metadata jos se tarvitaan</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>Sekuntia</translation>
+        <translation type="unfinished">Sekuntia</translation>
     </message>
     <message>
         <source>EXIF: Date digitized</source>
-        <translation>EXIF: Digitointipäivä</translation>
+        <translation type="unfinished">EXIF: Digitointipäivä</translation>
     </message>
     <message>
         <source>File: Created date</source>
-        <translation>Tiedosto: Luontipäivä</translation>
+        <translation type="unfinished">Tiedosto: Luontipäivä</translation>
     </message>
     <message>
         <source>Write to all files</source>
-        <translation>Kirjoita kaikkiin tiedostoihin</translation>
+        <translation type="unfinished">Kirjoita kaikkiin tiedostoihin</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Kuvauspäivä</translation>
+        <translation type="unfinished">EXIF: Kuvauspäivä</translation>
     </message>
     <message>
         <source>Increment at each image by</source>
@@ -11773,350 +11772,350 @@ Haluatko jatkaa?</translation>
     <name>DlgTransfer</name>
     <message>
         <source>Add&gt;&gt;</source>
-        <translation>Lisää&gt;&gt;</translation>
+        <translation type="unfinished">Lisää&gt;&gt;</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Käytä</translation>
+        <translation type="unfinished">Käytä</translation>
     </message>
     <message>
         <source>Metadata transfer</source>
-        <translation>Metatietojen siirto</translation>
+        <translation type="unfinished">Metatietojen siirto</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation>Tyhjennä kaikki</translation>
+        <translation type="unfinished">Tyhjennä kaikki</translation>
     </message>
 </context>
 <context>
     <name>DlgTransitionEffects</name>
     <message>
         <source>All</source>
-        <translation>Kaikki</translation>
+        <translation type="unfinished">Kaikki</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation>Nopeus</translation>
+        <translation type="unfinished">Nopeus</translation>
     </message>
     <message>
         <source>Very slow (2 s)</source>
-        <translation>Erittäin hidas (2s)</translation>
+        <translation type="unfinished">Erittäin hidas (2s)</translation>
     </message>
     <message>
         <source>Normal (1 s)</source>
-        <translation>Normaali (1s)</translation>
+        <translation type="unfinished">Normaali (1s)</translation>
     </message>
     <message>
         <source>Transition Effects List:</source>
-        <translation>Siirtymäefektiluettelo:</translation>
+        <translation type="unfinished">Siirtymäefektiluettelo:</translation>
     </message>
     <message>
         <source>Very fast (0.25 s)</source>
-        <translation>Erittäin nopea (0,25s)</translation>
+        <translation type="unfinished">Erittäin nopea (0,25s)</translation>
     </message>
     <message>
         <source>Slow (1.5 s)</source>
-        <translation>Hidas (1,5s)</translation>
+        <translation type="unfinished">Hidas (1,5s)</translation>
     </message>
     <message>
         <source>Transition effects</source>
-        <translation>Siirtymäefektit</translation>
+        <translation type="unfinished">Siirtymäefektit</translation>
     </message>
     <message>
         <source>Fast (0.5 s)</source>
-        <translation>Nopea (0,5s)</translation>
+        <translation type="unfinished">Nopea (0,5s)</translation>
     </message>
 </context>
 <context>
     <name>DlgUpdate</name>
     <message>
         <source>Current version:</source>
-        <translation>Nykyinen versio:</translation>
+        <translation type="unfinished">Nykyinen versio:</translation>
     </message>
     <message>
         <source>Changelog:</source>
-        <translation>Muutosloki:</translation>
+        <translation type="unfinished">Muutosloki:</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation>Päivitä</translation>
+        <translation type="unfinished">Päivitä</translation>
     </message>
     <message>
         <source>Download new version...</source>
-        <translation>Lataa uusi versio...</translation>
+        <translation type="unfinished">Lataa uusi versio...</translation>
     </message>
     <message>
         <source>A new version is available</source>
-        <translation>Uusi versio on saatavilla</translation>
+        <translation type="unfinished">Uusi versio on saatavilla</translation>
     </message>
     <message>
         <source>New version: </source>
-        <translation>Uusi versio:</translation>
+        <translation type="unfinished">Uusi versio: </translation>
     </message>
 </context>
 <context>
     <name>DlgUpload</name>
     <message>
         <source>Error</source>
-        <translation>Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Lähetä (Upload)</translation>
+        <translation type="unfinished">Lähetä (Upload)</translation>
     </message>
     <message>
         <source>Unable to upload image file...</source>
-        <translation>Kuvatiedostoa ei voida lähettää...</translation>
+        <translation type="unfinished">Kuvatiedostoa ei voida lähettää...</translation>
     </message>
     <message>
         <source>Unable to load image file...</source>
-        <translation>Kuvatiedostoa ei voida ladata...</translation>
+        <translation type="unfinished">Kuvatiedostoa ei voida ladata...</translation>
     </message>
 </context>
 <context>
     <name>DlgUploadClass</name>
     <message>
         <source>User</source>
-        <translation>Käyttäjä</translation>
+        <translation type="unfinished">Käyttäjä</translation>
     </message>
     <message>
         <source>Thumbnail link</source>
-        <translation>Esikatselukuvalinkki</translation>
+        <translation type="unfinished">Esikatselukuvalinkki</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation>Todennus</translation>
+        <translation type="unfinished">Todennus</translation>
     </message>
     <message>
         <source>Upload image</source>
-        <translation>Lähetä kuva</translation>
+        <translation type="unfinished">Lähetä kuva</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>Muuta kokoa</translation>
+        <translation type="unfinished">Muuta kokoa</translation>
     </message>
     <message>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
-        <translation>Ole varovainen kuvasi lähetetään julkiselle palvelimelle!</translation>
+        <translation type="unfinished">Ole varovainen kuvasi lähetetään julkiselle palvelimelle!</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Salasana</translation>
+        <translation type="unfinished">Salasana</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Käyttäjänimi</translation>
+        <translation type="unfinished">Käyttäjänimi</translation>
     </message>
     <message>
         <source>Service</source>
-        <translation>Palvelu</translation>
+        <translation type="unfinished">Palvelu</translation>
     </message>
     <message>
         <source>New user...</source>
-        <translation>Uusi käyttäjä...</translation>
+        <translation type="unfinished">Uusi käyttäjä...</translation>
     </message>
     <message>
         <source>Image link</source>
-        <translation>Kuvalinkki</translation>
+        <translation type="unfinished">Kuvalinkki</translation>
     </message>
 </context>
 <context>
     <name>DlgUserFilter</name>
     <message>
         <source>Bias</source>
-        <translation>Vinous</translation>
+        <translation type="unfinished">Vinous</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Käytä</translation>
+        <translation type="unfinished">Käytä</translation>
     </message>
     <message>
         <source>User filter</source>
-        <translation>Käyttäjän suotimet</translation>
+        <translation type="unfinished">Käyttäjän suotimet</translation>
     </message>
     <message>
         <source>New filter</source>
-        <translation>Uusi suodin</translation>
+        <translation type="unfinished">Uusi suodin</translation>
     </message>
     <message>
         <source>Add filter</source>
-        <translation>Lisää suodin</translation>
+        <translation type="unfinished">Lisää suodin</translation>
     </message>
     <message>
         <source>Divisor</source>
-        <translation>Jakaja</translation>
+        <translation type="unfinished">Jakaja</translation>
     </message>
     <message>
         <source>Filter list</source>
-        <translation>Suodinlista</translation>
+        <translation type="unfinished">Suodinlista</translation>
     </message>
     <message>
         <source>Delete filter</source>
-        <translation>Poista suodin</translation>
+        <translation type="unfinished">Poista suodin</translation>
     </message>
     <message>
         <source>Filter matrix</source>
-        <translation>Suodin-matriisi</translation>
+        <translation type="unfinished">Suodin-matriisi</translation>
     </message>
     <message>
         <source>Do you want to save changed filter(s)?</source>
-        <translation>Haluatko tallentaa vaihdetut suotimet?</translation>
+        <translation type="unfinished">Haluatko tallentaa vaihdetut suotimet?</translation>
     </message>
 </context>
 <context>
     <name>DlgVideoGallery</name>
     <message>
         <source>Font</source>
-        <translation>Fontti</translation>
+        <translation type="unfinished">Fontti</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>Rivit</translation>
+        <translation type="unfinished">Rivit</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation>Näytä tiedot</translation>
+        <translation type="unfinished">Näytä tiedot</translation>
     </message>
     <message>
         <source>Draw border</source>
-        <translation>Piirrä reunus</translation>
+        <translation type="unfinished">Piirrä reunus</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Show timecode</source>
-        <translation>Näytä aikakoodi</translation>
+        <translation type="unfinished">Näytä aikakoodi</translation>
     </message>
     <message>
         <source>Creating video thumbnails, please wait...</source>
-        <translation>Luodaan videon esikatselukuvia, odota...</translation>
+        <translation type="unfinished">Luodaan videon esikatselukuvia, odota...</translation>
     </message>
     <message>
         <source>Create Video Gallery</source>
-        <translation>Luo videogalleria</translation>
+        <translation type="unfinished">Luo videogalleria</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Sarakkeet</translation>
+        <translation type="unfinished">Sarakkeet</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Välit</translation>
+        <translation type="unfinished">Välit</translation>
     </message>
     <message>
         <source>Starting frame</source>
-        <translation>Aloituskehys</translation>
+        <translation type="unfinished">Aloituskehys</translation>
     </message>
 </context>
 <context>
     <name>DlgWallpaper</name>
     <message>
         <source>Fit</source>
-        <translation>Sovita</translation>
+        <translation type="unfinished">Sovita</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Täytä</translation>
+        <translation type="unfinished">Täytä</translation>
     </message>
     <message>
         <source>Tiled</source>
-        <translation>Vierekkäin</translation>
+        <translation type="unfinished">Vierekkäin</translation>
     </message>
     <message>
         <source>Center tiled</source>
-        <translation>Keskitä vierekkäin</translation>
+        <translation type="unfinished">Keskitä vierekkäin</translation>
     </message>
     <message>
         <source>Set as wallpaper</source>
-        <translation>Aseta taustakuvaksi</translation>
+        <translation type="unfinished">Aseta taustakuvaksi</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>Keskitä</translation>
+        <translation type="unfinished">Keskitä</translation>
     </message>
     <message>
         <source>Stretched</source>
-        <translation>Venytys</translation>
+        <translation type="unfinished">Venytä</translation>
     </message>
 </context>
 <context>
     <name>DlgWebCaptureClass</name>
     <message>
         <source>URL</source>
-        <translation>URL-osoite</translation>
+        <translation type="unfinished">URL-osoite</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Web capture</source>
-        <translation>Web-kaappaus</translation>
+        <translation type="unfinished">Web-kaappaus</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteAvif</name>
     <message>
         <source>Speed</source>
-        <translation>Nopeus</translation>
+        <translation type="unfinished">Nopeus</translation>
     </message>
     <message>
         <source>(10 = fastest)</source>
-        <translation>(10 = nopein)</translation>
+        <translation type="unfinished">(10 = nopein)</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Matalin</translation>
+        <translation type="unfinished">Matalin</translation>
     </message>
     <message>
         <source>Best (lossless)</source>
-        <translation>Paras (häviötön)</translation>
+        <translation type="unfinished">Paras (häviötön)</translation>
     </message>
     <message>
         <source>Subsampling</source>
@@ -12127,131 +12126,131 @@ Haluatko jatkaa?</translation>
     <name>DlgWriteBMPClass</name>
     <message>
         <source>OS/2 BMP</source>
-        <translation>OS/2 BMP</translation>
+        <translation type="unfinished">OS/2 BMP</translation>
     </message>
     <message>
         <source>RLE compression (4,8 bits)</source>
-        <translation>RLE pakkaus (4,8 bits)</translation>
+        <translation type="unfinished">RLE pakkaus (4,8 bits)</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteGIFClass</name>
     <message>
         <source>GIF 87a</source>
-        <translation>GIF 87a</translation>
+        <translation type="unfinished">GIF 87a</translation>
     </message>
     <message>
         <source>Interlaced</source>
-        <translation>Lomitettu</translation>
+        <translation type="unfinished">Lomitettu</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteHeic</name>
     <message>
         <source>Best (lossless)</source>
-        <translation>Paras (häviötön)</translation>
+        <translation type="unfinished">Paras (häviötön)</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Alin</translation>
+        <translation type="unfinished">Alin</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteJP2KClass</name>
     <message>
         <source>Best</source>
-        <translation>Paras</translation>
+        <translation type="unfinished">Paras</translation>
     </message>
     <message>
         <source>Compression rate: 1 to </source>
-        <translation>Pakkaussuhde: 1 - </translation>
+        <translation type="unfinished">Pakkaussuhde: 1 - </translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Matalin</translation>
+        <translation type="unfinished">Matalin</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Lossless compression</source>
-        <translation>Häviötön pakkaus</translation>
+        <translation type="unfinished">Häviötön pakkaus</translation>
     </message>
     <message>
         <source>File size (kbytes)</source>
-        <translation>Tiedostokoko (kbittiä)</translation>
+        <translation type="unfinished">Tiedostokoko (kbittiä)</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteJPEGClass</name>
     <message>
         <source>Best</source>
-        <translation>Paras</translation>
+        <translation type="unfinished">Paras</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation>Hidas</translation>
+        <translation type="unfinished">Hidas</translation>
     </message>
     <message>
         <source>Smoothing factor</source>
-        <translation>Pehmentäminen</translation>
+        <translation type="unfinished">Pehmentäminen</translation>
     </message>
     <message>
         <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1,1x1,1x1 (4:2:2)</translation>
+        <translation type="unfinished">2x1,1x1,1x1 (4:2:2)</translation>
     </message>
     <message>
         <source>Float (best but slowest)</source>
-        <translation>Float (paras mutta hitain)</translation>
+        <translation type="unfinished">Float (paras mutta hitain)</translation>
     </message>
     <message>
         <source>Use estimated quality (when possible)</source>
-        <translation>Käytä arvioitua laatua (jos mahdollista)</translation>
+        <translation type="unfinished">Käytä arvioitua laatua (jos mahdollista)</translation>
     </message>
     <message>
         <source>Rebuild embedded EXIF thumbnail</source>
-        <translation>Päivitä upotetut EXIF-esikatselukuvat</translation>
+        <translation type="unfinished">Päivitä upotetut EXIF-esikatselukuvat</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Matalin</translation>
+        <translation type="unfinished">Matalin</translation>
     </message>
     <message>
         <source>DCT Method</source>
-        <translation>DCT-menetelmä</translation>
+        <translation type="unfinished">DCT-menetelmä</translation>
     </message>
     <message>
         <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1,1x1 (paras laatu)</translation>
+        <translation type="unfinished">1x1,1x1,1x1 (paras laatu)</translation>
     </message>
     <message>
         <source>Subsampling factor</source>
-        <translation>Alinäytteistys</translation>
+        <translation type="unfinished">Alinäytteistys</translation>
     </message>
     <message>
         <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (oletus)</translation>
+        <translation type="unfinished">2x2,1x1,1x1 (oletus)</translation>
     </message>
     <message>
         <source>Fast (worst but faster)</source>
-        <translation>Nopea (huonoin mutta nopein)</translation>
+        <translation type="unfinished">Nopea (huonoin mutta nopein)</translation>
     </message>
     <message>
         <source>Progressive</source>
-        <translation>Progressiivinen</translation>
+        <translation type="unfinished">Progressiivinen</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
-        <translation>Optimoi Huffman taulukko</translation>
+        <translation type="unfinished">Optimoi Huffman taulukko</translation>
     </message>
     <message>
         <source>Convert to XYB colorspace</source>
@@ -12262,54 +12261,54 @@ Haluatko jatkaa?</translation>
     <name>DlgWriteJPEGXLClass</name>
     <message>
         <source>Best</source>
-        <translation>Paras</translation>
+        <translation type="unfinished">Paras</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Hitain</translation>
+        <translation type="unfinished">Hitain</translation>
     </message>
     <message>
         <source>Compression</source>
-        <translation>Pakkaus</translation>
+        <translation type="unfinished">Pakkaus</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Lossless compression</source>
-        <translation>Häviötön pakkaus</translation>
+        <translation type="unfinished">Häviötön pakkaus</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteJpegXR</name>
     <message>
         <source>All</source>
-        <translation>Kaikki</translation>
+        <translation type="unfinished">Kaikki</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Pois</translation>
+        <translation type="unfinished">Pois</translation>
     </message>
     <message>
         <source>Best (lossless)</source>
-        <translation>Paras (häviötön)</translation>
+        <translation type="unfinished">Paras (häviötön)</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Hitain</translation>
+        <translation type="unfinished">Hitain</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Overlapped block filtering</source>
-        <translation>Päällekkäisten lohkojen suodatus</translation>
+        <translation type="unfinished">Päällekkäisten lohkojen suodatus</translation>
     </message>
     <message>
         <source>HP only</source>
-        <translation>Vain HP</translation>
+        <translation type="unfinished">Vain HP</translation>
     </message>
     <message>
         <source>Subsampling</source>
@@ -12320,98 +12319,98 @@ Haluatko jatkaa?</translation>
     <name>DlgWritePCXClass</name>
     <message>
         <source>RLE compression</source>
-        <translation>RLE-pakkaus</translation>
+        <translation type="unfinished">RLE-pakkaus</translation>
     </message>
 </context>
 <context>
     <name>DlgWritePDFClass</name>
     <message>
         <source>B&amp;W</source>
-        <translation>Mustavalkoinen</translation>
+        <translation type="unfinished">Mustavalkoinen</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Väri</translation>
+        <translation type="unfinished">Väri</translation>
     </message>
     <message>
         <source>Compression type</source>
-        <translation>Pakkaustyyppi</translation>
+        <translation type="unfinished">Pakkaustyyppi</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Harmaasävy</translation>
+        <translation type="unfinished">Harmaasävy</translation>
     </message>
 </context>
 <context>
     <name>DlgWritePNGClass</name>
     <message>
         <source>Up</source>
-        <translation>Ylös</translation>
+        <translation type="unfinished">Ylös</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Kaikki</translation>
+        <translation type="unfinished">Kaikki</translation>
     </message>
     <message>
         <source>Avg</source>
-        <translation>Keskim.</translation>
+        <translation type="unfinished">Keskim.</translation>
     </message>
     <message>
         <source>Sub</source>
-        <translation>Ali</translation>
+        <translation type="unfinished">Ali</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Paeth</source>
-        <translation>Paeth</translation>
+        <translation type="unfinished">Polku</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Suodin</translation>
+        <translation type="unfinished">Suodin</translation>
     </message>
     <message>
         <source>Compression level</source>
-        <translation>Pakkaustaso</translation>
+        <translation type="unfinished">Pakkaustaso</translation>
     </message>
     <message>
         <source>Interlaced</source>
-        <translation>Lomittaminen</translation>
+        <translation type="unfinished">Lomittaminen</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteSettingsClass</name>
     <message>
         <source>Write settings</source>
-        <translation>Kirjoitusasetukset</translation>
+        <translation type="unfinished">Kirjoitusasetukset</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteTGAClass</name>
     <message>
         <source>Bottom-up orientation</source>
-        <translation>Suunta alhaalta-ylös</translation>
+        <translation type="unfinished">Suunta alhaalta-ylös</translation>
     </message>
     <message>
         <source>RLE compression</source>
-        <translation>RLE-pakkaus</translation>
+        <translation type="unfinished">RLE-pakkaus</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteTIFFClass</name>
     <message>
         <source>Only one strip</source>
-        <translation>Vain yksi kuva</translation>
+        <translation type="unfinished">Vain yksi kuva</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Compression for black&amp;white image</source>
@@ -12426,63 +12425,63 @@ Haluatko jatkaa?</translation>
     <name>DlgWriteWebPClass</name>
     <message>
         <source>Best</source>
-        <translation>Paras</translation>
+        <translation type="unfinished">Paras</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Kuvake</translation>
+        <translation type="unfinished">Kuvake</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Photo</source>
-        <translation>Valokuva</translation>
+        <translation type="unfinished">Valokuva</translation>
     </message>
     <message>
         <source>Filter sharpness</source>
-        <translation>Suodinterävyys</translation>
+        <translation type="unfinished">Suodinterävyys</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Huonoin</translation>
+        <translation type="unfinished">Huonoin</translation>
     </message>
     <message>
         <source>Lossless</source>
-        <translation>Häviötön</translation>
+        <translation type="unfinished">Häviötön</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Kuva</translation>
+        <translation type="unfinished">Kuva</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Tallenna esiasetus</translation>
+        <translation type="unfinished">Tallenna esiasetus</translation>
     </message>
     <message>
         <source>Filter strength</source>
-        <translation>Suodinteho</translation>
+        <translation type="unfinished">Suodinteho</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation>Laatu</translation>
+        <translation type="unfinished">Laatu</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Oletus</translation>
+        <translation type="unfinished">Oletus</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation>Piirretty</translation>
+        <translation type="unfinished">Piirretty</translation>
     </message>
     <message>
         <source>Compression method</source>
-        <translation>Pakkausmenetelmä</translation>
+        <translation type="unfinished">Pakkausmenetelmä</translation>
     </message>
     <message>
         <source>File size (kbytes)</source>
-        <translation>Tiedostokoko (kbittiä)</translation>
+        <translation type="unfinished">Tiedostokoko (kbittiä)</translation>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
@@ -12493,62 +12492,62 @@ Haluatko jatkaa?</translation>
     <name>Email</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Authentication failed: </source>
-        <translation>Epäonnistunut todennus: </translation>
+        <translation type="unfinished">Epäonnistunut todennus: </translation>
     </message>
     <message>
         <source>Sending of email failed: </source>
-        <translation>Epäonnistunut sähköpostilähetys:</translation>
+        <translation type="unfinished">Epäonnistunut sähköpostilähetys: </translation>
     </message>
     <message>
         <source>Recipient rejected: </source>
-        <translation>Hylätty vastaaottaja:</translation>
+        <translation type="unfinished">Hylätty vastaaottaja: </translation>
     </message>
     <message>
         <source>Connection failed: </source>
-        <translation>Epäonnistunut yhteys:</translation>
+        <translation type="unfinished">Epäonnistunut yhteys: </translation>
     </message>
     <message>
         <source>Sender rejected: </source>
-        <translation>Hylätty lähettäjä:</translation>
+        <translation type="unfinished">Hylätty lähettäjä: </translation>
     </message>
     <message>
         <source>Sending...</source>
-        <translation>Lähetetään...</translation>
+        <translation type="unfinished">Lähetetään...</translation>
     </message>
 </context>
 <context>
     <name>FavoritesView</name>
     <message>
         <source>Edit pathname...</source>
-        <translation>Muokkaa polun nimeä...</translation>
+        <translation type="unfinished">Muokkaa polun nimeä...</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Uusi kansio</translation>
+        <translation type="unfinished">Uusi kansio</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Nimeä uudelleen</translation>
+        <translation type="unfinished">Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Favorite doesn&apos;t exist</source>
-        <translation>Suosikkia ei ole olemassa</translation>
+        <translation type="unfinished">Suosikkia ei ole olemassa</translation>
     </message>
     <message>
         <source>New subfolder</source>
-        <translation>Uusi alikansio</translation>
+        <translation type="unfinished">Uusi alikansio</translation>
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
@@ -12563,557 +12562,557 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     <name>File</name>
     <message>
         <source>Copy of %1%2</source>
-        <translation>Kopio %1%2</translation>
+        <translation type="unfinished">Kopio %1%2</translation>
     </message>
     <message>
         <source>%1-Copy%2</source>
-        <translation>%1-Kopio%2</translation>
+        <translation type="unfinished">%1-Kopio%2</translation>
     </message>
     <message>
         <source>%1 - Copy%2</source>
-        <translation>%1 - Kopioi%2</translation>
+        <translation type="unfinished">%1 - Kopioi%2</translation>
     </message>
     <message>
         <source>%1-Copy (%3)%2</source>
-        <translation>%1-Kopio (%3)%2</translation>
+        <translation type="unfinished">%1-Kopio (%3)%2</translation>
     </message>
     <message>
         <source>Copy (%3) of %1%2</source>
-        <translation>Kopioi (%3) %1%2:sta</translation>
+        <translation type="unfinished">Kopioi (%3) %1%2:sta</translation>
     </message>
     <message>
         <source>%1 - Copy (%3)%2</source>
-        <translation>%1 - Kopioi (%3)%2</translation>
+        <translation type="unfinished">%1 - Kopioi (%3)%2</translation>
     </message>
 </context>
 <context>
     <name>FileListViewEx</name>
     <message>
         <source>All</source>
-        <translation>Kaikki</translation>
+        <translation type="unfinished">Kaikki</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Paste filenames</source>
-        <translation>Liitä tiedostonimet</translation>
+        <translation type="unfinished">Liitä tiedostonimet</translation>
     </message>
 </context>
 <context>
     <name>FileListWidget</name>
     <message>
         <source>Small thumbnails</source>
-        <translation>Pienet esikatselukuvat</translation>
+        <translation type="unfinished">Pienet esikatselukuvat</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation type="unfinished">Esikatselukuvat</translation>
     </message>
     <message>
         <source>Drag&amp;Drop your files here</source>
-        <translation>Raahaa ja pudota tiedostot tänne</translation>
+        <translation type="unfinished">Raahaa ja pudota tiedostot tänne</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Lisää kansio...</translation>
+        <translation type="unfinished">Lisää kansio...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation>Poista kaikki</translation>
+        <translation type="unfinished">Poista kaikki</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Valitse hakemisto</translation>
+        <translation type="unfinished">Valitse hakemisto</translation>
     </message>
     <message>
         <source>Add files...</source>
-        <translation>Lisää tiedostot...</translation>
+        <translation type="unfinished">Lisää tiedostot...</translation>
     </message>
     <message>
         <source>Large thumbnails</source>
-        <translation>Suuret esikatselukuvat</translation>
+        <translation type="unfinished">Suuret esikatselukuvat</translation>
     </message>
     <message>
         <source>List</source>
-        <translation>Lista</translation>
+        <translation type="unfinished">Lista</translation>
     </message>
 </context>
 <context>
     <name>FilterView</name>
     <message>
         <source>Ratio</source>
-        <translation>Suhde</translation>
+        <translation type="unfinished">Suhde</translation>
     </message>
     <message>
         <source>File type</source>
-        <translation>Tiedostotyyppi</translation>
+        <translation type="unfinished">Tiedostotyyppi</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Värimerkintä</translation>
+        <translation type="unfinished">Värimerkintä</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation type="unfinished">Luokitus</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Suuntaus</translation>
+        <translation type="unfinished">Suuntaus</translation>
     </message>
     <message>
         <source>EXIF Maker</source>
-        <translation>EXIF Tekijä</translation>
+        <translation type="unfinished">EXIF Tekijä</translation>
     </message>
     <message>
         <source>EXIF Date taken</source>
-        <translation>EXIF kuvauspäivä</translation>
+        <translation type="unfinished">EXIF kuvauspäivä</translation>
     </message>
     <message>
         <source>EXIF Date modified</source>
-        <translation>EXIF muokkauspäivä</translation>
+        <translation type="unfinished">EXIF muokkauspäivä</translation>
     </message>
     <message>
         <source>EXIF ISO</source>
-        <translation>EXIF ISO</translation>
+        <translation type="unfinished">EXIF ISO</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation>Avainsanat</translation>
+        <translation type="unfinished">Avainsanat</translation>
     </message>
     <message>
         <source>Date created</source>
-        <translation>Luontipäivä</translation>
+        <translation type="unfinished">Luontipäivä</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>Muokkauspäivä</translation>
+        <translation type="unfinished">Muokkauspäivä</translation>
     </message>
 </context>
 <context>
     <name>Flickr</name>
     <message>
         <source>Authorization</source>
-        <translation>Valtuudet</translation>
+        <translation type="unfinished">Valtuudet</translation>
     </message>
     <message>
         <source>Press OK button when the autorization is done through web browser</source>
-        <translation>Paina OK-painiketta kun valtuudet on luotu Web-selaimelle</translation>
+        <translation type="unfinished">Paina OK-painiketta kun valtuudet on luotu Web-selaimelle</translation>
     </message>
     <message>
         <source>An error has occurred!!</source>
-        <translation>Tapahtui virhe!</translation>
+        <translation type="unfinished">Tapahtui virhe!</translation>
     </message>
 </context>
 <context>
     <name>ImgurAPI3</name>
     <message>
         <source>Could not open file</source>
-        <translation>Tiedostoa ei voitu avata</translation>
+        <translation type="unfinished">Tiedostoa ei voitu avata</translation>
     </message>
 </context>
 <context>
     <name>Info</name>
     <message>
         <source>BPP</source>
-        <translation>BPP</translation>
+        <translation type="unfinished">BPP</translation>
     </message>
     <message>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation type="unfinished">DPI</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Merkintä (Tagi)</translation>
+        <translation type="unfinished">Merkintä (Tagi)</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Päiväys</translation>
+        <translation type="unfinished">Päiväys</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tyyppi</translation>
+        <translation type="unfinished">Tyyppi</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoomaus</translation>
+        <translation type="unfinished">Zoomaus</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation>Albumi</translation>
+        <translation type="unfinished">Albumi</translation>
     </message>
     <message>
         <source>Codec</source>
-        <translation>Koodekki</translation>
+        <translation type="unfinished">Koodekki</translation>
     </message>
     <message>
         <source>Genre</source>
-        <translation>Tyyli</translation>
+        <translation type="unfinished">Tyyli</translation>
     </message>
     <message>
         <source>Model</source>
-        <translation>Malli</translation>
+        <translation type="unfinished">Malli</translation>
     </message>
     <message>
         <source>Ratio</source>
-        <translation>Kuvasuhde</translation>
+        <translation type="unfinished">Kuvasuhde</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Otsikko</translation>
+        <translation type="unfinished">Otsikko</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Leveys</translation>
+        <translation type="unfinished">Leveys</translation>
     </message>
     <message>
         <source>Bit rate</source>
-        <translation>Bittinopeus</translation>
+        <translation type="unfinished">Bittinopeus</translation>
     </message>
     <message>
         <source>Width/Height Ratio</source>
-        <translation>Leveys/korkeus-suhde</translation>
+        <translation type="unfinished">Leveys/korkeus-suhde</translation>
     </message>
     <message>
         <source>Size (KB)</source>
-        <translation>Koko (KB)</translation>
+        <translation type="unfinished">Koko (KB)</translation>
     </message>
     <message>
         <source>Images/frames count</source>
-        <translation>Kuvia/kuvien määrä</translation>
+        <translation type="unfinished">Kuvia/kuvien määrä</translation>
     </message>
     <message>
         <source>Creation date</source>
-        <translation>Luontipäivä</translation>
+        <translation type="unfinished">Luontipäivä</translation>
     </message>
     <message>
         <source>Filename (with extension)</source>
-        <translation>Tiedostonimi (tiedostopäätteellä)</translation>
+        <translation type="unfinished">Tiedostonimi (tiedostopäätteellä)</translation>
     </message>
     <message>
         <source>Colour label</source>
-        <translation>Värimerkintä</translation>
+        <translation type="unfinished">Värimerkintä</translation>
     </message>
     <message>
         <source>Format profile</source>
-        <translation>Formaattiprofiili</translation>
+        <translation type="unfinished">Formaattiprofiili</translation>
     </message>
     <message>
         <source>Current date</source>
-        <translation>Nykyinen päiväys</translation>
+        <translation type="unfinished">Nykyinen päiväys</translation>
     </message>
     <message>
         <source>Frame rate mode</source>
-        <translation>Kehysnopeusmuoto</translation>
+        <translation type="unfinished">Kehysnopeusmuoto</translation>
     </message>
     <message>
         <source>MPixels</source>
-        <translation>Megapikseliä</translation>
+        <translation type="unfinished">Megapikseliä</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Tiedostokoko</translation>
+        <translation type="unfinished">Tiedostokoko</translation>
     </message>
     <message>
         <source>Size (Auto)</source>
-        <translation>Koko (Autom)</translation>
+        <translation type="unfinished">Koko (Autom)</translation>
     </message>
     <message>
         <source>Manufacturer</source>
-        <translation>Valmistaja</translation>
+        <translation type="unfinished">Valmistaja</translation>
     </message>
     <message>
         <source>Lens ID</source>
-        <translation>Linssi-ID</translation>
+        <translation type="unfinished">Linssi-ID</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
-        <translation>Kuvasuhde</translation>
+        <translation type="unfinished">Kuvasuhde</translation>
     </message>
     <message>
         <source>Progressive mode</source>
-        <translation>Progressiivinen muoto</translation>
+        <translation type="unfinished">Progressiivinen muoto</translation>
     </message>
     <message>
         <source>Bit rate mode</source>
-        <translation>Bittinopeusmuoto</translation>
+        <translation type="unfinished">Bittinopeusmuoto</translation>
     </message>
     <message>
         <source>Frame rate</source>
-        <translation>Kehysnopeus</translation>
+        <translation type="unfinished">Kehysnopeus</translation>
     </message>
     <message>
         <source>Compression mode</source>
-        <translation>Pakkausmuoto</translation>
+        <translation type="unfinished">Pakkausmuoto</translation>
     </message>
     <message>
         <source>Dimension</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Image format</source>
-        <translation>Kuvaformaatti</translation>
+        <translation type="unfinished">Kuvaformaatti</translation>
     </message>
     <message>
         <source>Recorded date</source>
-        <translation>Äänityspäivä</translation>
+        <translation type="unfinished">Äänityspäivä</translation>
     </message>
     <message>
         <source>Image height</source>
-        <translation>Kuvan korkeus</translation>
+        <translation type="unfinished">Kuvan korkeus</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation>Upotettu kommentti</translation>
+        <translation type="unfinished">Upotettu kommentti</translation>
     </message>
     <message>
         <source>Color label (number)</source>
-        <translation>Värimerkintä (numero)</translation>
+        <translation type="unfinished">Värimerkintä (numero)</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Värimerkintä</translation>
+        <translation type="unfinished">Värimerkintä</translation>
     </message>
     <message>
         <source>Color model</source>
-        <translation>Värimalli</translation>
+        <translation type="unfinished">Värimalli</translation>
     </message>
     <message>
         <source>Focal length (mm)</source>
-        <translation>Polttoväli (mm)</translation>
+        <translation type="unfinished">Polttoväli (mm)</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Kansio</translation>
+        <translation type="unfinished">Kansio</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Formaatti</translation>
+        <translation type="unfinished">Formaatti</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Korkeus</translation>
+        <translation type="unfinished">Korkeus</translation>
     </message>
     <message>
         <source>Output filename</source>
-        <translation>Ulostulo-tiedosto</translation>
+        <translation type="unfinished">Ulostulo-tiedosto</translation>
     </message>
     <message>
         <source>Print size</source>
-        <translation>Tulostuskoko</translation>
+        <translation type="unfinished">Tulostuskoko</translation>
     </message>
     <message>
         <source>Origin</source>
-        <translation>Alkuperäinen</translation>
+        <translation type="unfinished">Alkuperäinen</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation>Linssin malli</translation>
+        <translation type="unfinished">Linssin malli</translation>
     </message>
     <message>
         <source>Format settings</source>
-        <translation>Formaattiasetukset</translation>
+        <translation type="unfinished">Formaattiasetukset</translation>
     </message>
     <message>
         <source># of bits</source>
-        <translation># bittiä</translation>
+        <translation type="unfinished"># bittiä</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation type="unfinished">Luokitus</translation>
     </message>
     <message>
         <source>Filename number</source>
-        <translation>Tiedostonimen numero</translation>
+        <translation type="unfinished">Tiedostonimen numero</translation>
     </message>
     <message>
         <source>Annotation</source>
-        <translation>Huomautus</translation>
+        <translation type="unfinished">Huomautus</translation>
     </message>
     <message>
         <source>All fields</source>
-        <translation>Kaikki kentät</translation>
+        <translation type="unfinished">Kaikki kentät</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Ominaisuudet</translation>
+        <translation type="unfinished">Ominaisuudet</translation>
     </message>
     <message>
         <source>Bits/sample</source>
-        <translation>Bittiä/näyte</translation>
+        <translation type="unfinished">Bittiä/näyte</translation>
     </message>
     <message>
         <source>Image width</source>
-        <translation>Kuvan leveys</translation>
+        <translation type="unfinished">Kuvan leveys</translation>
     </message>
     <message>
         <source>Width (inch)</source>
-        <translation>Leveys (tuumaa)</translation>
+        <translation type="unfinished">Leveys (tuumaa)</translation>
     </message>
     <message>
         <source>File index</source>
-        <translation>Tiedosto indeksi</translation>
+        <translation type="unfinished">Tiedosto indeksi</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Kuvauspäivä</translation>
+        <translation type="unfinished">Kuvauspäivä</translation>
     </message>
     <message>
         <source>Tag status</source>
-        <translation>Merkintätila</translation>
+        <translation type="unfinished">Merkintätila</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Tekijänoikeudet (Copyright)</translation>
+        <translation type="unfinished">Tekijänoikeudet (Copyright)</translation>
     </message>
     <message>
         <source>Compression</source>
-        <translation>Pakkaus</translation>
+        <translation type="unfinished">Pakkaus</translation>
     </message>
     <message>
         <source>Modified file date</source>
-        <translation>Tiedoston muokkauspäivä</translation>
+        <translation type="unfinished">Tiedoston muokkauspäivä</translation>
     </message>
     <message>
         <source>Created file date</source>
-        <translation>Tiedoston luontipäivä</translation>
+        <translation type="unfinished">Tiedoston luontipäivä</translation>
     </message>
     <message>
         <source>Pathname</source>
-        <translation>Tiedostopolku</translation>
+        <translation type="unfinished">Tiedostopolku</translation>
     </message>
     <message>
         <source>Performer</source>
-        <translation>Esiintyjä</translation>
+        <translation type="unfinished">Esiintyjä</translation>
     </message>
     <message>
         <source>Colors used</source>
-        <translation>Käytetyt värit</translation>
+        <translation type="unfinished">Käytetyt värit</translation>
     </message>
     <message>
         <source>Size (Bytes)</source>
-        <translation>Koko (Bittiä)</translation>
+        <translation type="unfinished">Koko (Bittiä)</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selitys</translation>
+        <translation type="unfinished">Selitys</translation>
     </message>
     <message>
         <source>Height/Width Ratio</source>
-        <translation>Korkeus/leveyssuhde</translation>
+        <translation type="unfinished">Korkeus/leveyssuhde</translation>
     </message>
     <message>
         <source>Format version</source>
-        <translation>Formaattiversio</translation>
+        <translation type="unfinished">Formaattiversio</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Kommentti</translation>
+        <translation type="unfinished">Kommentti</translation>
     </message>
     <message>
         <source>Width (cm)</source>
-        <translation>Leveys (cm)</translation>
+        <translation type="unfinished">Leveys (cm)</translation>
     </message>
     <message>
         <source>Width (mm)</source>
-        <translation>Leveys (mm)</translation>
+        <translation type="unfinished">Leveys (mm)</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostomuoto</translation>
+        <translation type="unfinished">Tiedostomuoto</translation>
     </message>
     <message>
         <source>Filename without extension</source>
-        <translation>Tiedostonimi ilman päätettä</translation>
+        <translation type="unfinished">Tiedostonimi ilman päätettä</translation>
     </message>
     <message>
         <source>Estimated quality</source>
-        <translation>Arvioitu laatu</translation>
+        <translation type="unfinished">Arvioitu laatu</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation>Kategoria</translation>
+        <translation type="unfinished">Kategoria</translation>
     </message>
     <message>
         <source>Folder name</source>
-        <translation>Kansion nimi</translation>
+        <translation type="unfinished">Kansion nimi</translation>
     </message>
     <message>
         <source>Height (inch)</source>
-        <translation>Korkeus (tuumaa)</translation>
+        <translation type="unfinished">Korkeus (tuumaa)</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation>Kesto</translation>
+        <translation type="unfinished">Kesto</translation>
     </message>
     <message>
         <source>Accessed date</source>
-        <translation>Käsittelypäivä</translation>
+        <translation type="unfinished">Käsittelypäivä</translation>
     </message>
     <message>
         <source>Sampling rate</source>
-        <translation>Näytteenottotaajuus</translation>
+        <translation type="unfinished">Näytteenottotaajuus</translation>
     </message>
     <message>
         <source>Black&amp;White</source>
-        <translation>Musta/valkoinen</translation>
+        <translation type="unfinished">Musta/valkoinen</translation>
     </message>
     <message>
         <source>Output filename without extension</source>
-        <translation>Ulostulotiedoston nimi ilman tiedostopäätettä</translation>
+        <translation type="unfinished">Ulostulotiedoston nimi ilman tiedostopäätettä</translation>
     </message>
     <message>
         <source>Rating (number)</source>
-        <translation>Luokitus (numero)</translation>
+        <translation type="unfinished">Luokitus (numero)</translation>
     </message>
     <message>
         <source>Height (cm)</source>
-        <translation>Korkeus (cm)</translation>
+        <translation type="unfinished">Korkeus (cm)</translation>
     </message>
     <message>
         <source>Height (mm)</source>
-        <translation>Pituus (mm)</translation>
+        <translation type="unfinished">Pituus (mm)</translation>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Muokkauspäivä</translation>
+        <translation type="unfinished">Muokkauspäivä</translation>
     </message>
     <message>
         <source>Encoded date</source>
-        <translation>Koodauspäiväys</translation>
+        <translation type="unfinished">Koodauspäiväys</translation>
     </message>
     <message>
         <source>Accessed file date</source>
-        <translation>Käsittelypäivä</translation>
+        <translation type="unfinished">Käsittelypäivä</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Polku</translation>
+        <translation type="unfinished">Polku</translation>
     </message>
     <message>
         <source>Ratio Decimal</source>
-        <translation>Desimaalisuhde</translation>
+        <translation type="unfinished">Desimaalisuhde</translation>
     </message>
     <message>
         <source>Subsampling</source>
@@ -13124,556 +13123,556 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     <name>InfoCategoryTreeView</name>
     <message>
         <source>New subcategory</source>
-        <translation>Uusi ala-kategoria</translation>
+        <translation type="unfinished">Uusi ala-kategoria</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Nimeä uudelleen</translation>
+        <translation type="unfinished">Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation>Siirrä kansioon...</translation>
+        <translation type="unfinished">Siirrä kansioon...</translation>
     </message>
     <message>
         <source>Delete category</source>
-        <translation>Poista kategoria</translation>
+        <translation type="unfinished">Poista kategoria</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Muokkaa...</translation>
+        <translation type="unfinished">Muokkaa...</translation>
     </message>
     <message>
         <source>New category</source>
-        <translation>Uusi kategoria</translation>
+        <translation type="unfinished">Uusi kategoria</translation>
     </message>
     <message>
         <source>New Category</source>
-        <translation>Uusi kategoria</translation>
+        <translation type="unfinished">Uusi kategoria</translation>
     </message>
     <message>
         <source>Are you sure to delete this category?</source>
-        <translation>Oletko varma että haluat poistaa tämän kategorian?</translation>
+        <translation type="unfinished">Oletko varma että haluat poistaa tämän kategorian?</translation>
     </message>
     <message>
         <source>Merge with...</source>
-        <translation>Yhdistä tähän...</translation>
+        <translation type="unfinished">Yhdistä tähän...</translation>
     </message>
 </context>
 <context>
     <name>InfoCategoryView</name>
     <message>
         <source>Use Regular Expressions</source>
-        <translation>Käytä säännöllisiä lausekkeita</translation>
+        <translation type="unfinished">Käytä säännöllisiä lausekkeita</translation>
     </message>
     <message>
         <source>Export Categories File</source>
-        <translation>Vie kategoriatiedosto</translation>
+        <translation type="unfinished">Vie kategoriatiedosto</translation>
     </message>
     <message>
         <source>Import Categories File</source>
-        <translation>Tuo kategoriatiedosto</translation>
+        <translation type="unfinished">Tuo kategoriatiedosto</translation>
     </message>
     <message>
         <source>Categories Management</source>
-        <translation>Kategorioiden hallinta</translation>
+        <translation type="unfinished">Kategorioiden hallinta</translation>
     </message>
     <message>
         <source>Assign Category</source>
-        <translation>Aseta kategoria</translation>
+        <translation type="unfinished">Aseta kategoria</translation>
     </message>
     <message>
         <source>Do you want to clear orphaned categories?</source>
-        <translation>Haluatko tyhjentää orvot kategoriat?</translation>
+        <translation type="unfinished">Haluatko tyhjentää orvot kategoriat?</translation>
     </message>
     <message>
         <source>Are you sure that you want to start importing categories file?</source>
-        <translation>Oletko varma että haluat aloittaa kategoriat-tiedoston tuonnin?</translation>
+        <translation type="unfinished">Oletko varma että haluat aloittaa kategoriat-tiedoston tuonnin?</translation>
     </message>
     <message>
         <source>Clear all...</source>
-        <translation>Tyhjennä kaikki...</translation>
+        <translation type="unfinished">Tyhjennä kaikki...</translation>
     </message>
     <message>
         <source>Auto Correct...</source>
-        <translation>Autom. korjaus...</translation>
+        <translation type="unfinished">Autom. korjaus...</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation>Toiminto</translation>
+        <translation type="unfinished">Toiminto</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Tuo</translation>
+        <translation type="unfinished">Tuo</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Valinnat</translation>
+        <translation type="unfinished">Valinnat</translation>
     </message>
     <message>
         <source>Categories file</source>
-        <translation>Kategoriat-tiedosto</translation>
+        <translation type="unfinished">Kategoriat-tiedosto</translation>
     </message>
     <message>
         <source>Export...</source>
-        <translation>Vie...</translation>
+        <translation type="unfinished">Vie...</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation>Tuo...</translation>
+        <translation type="unfinished">Tuo...</translation>
     </message>
     <message>
         <source>Exporting categories file, please wait...</source>
-        <translation>Viedään kategoriatiedosto, odota...</translation>
+        <translation type="unfinished">Viedään kategoriatiedosto, odota...</translation>
     </message>
     <message>
         <source>Partial Match Anywhere</source>
-        <translation>Osittainen sopivuus missä kohdassa vaan</translation>
+        <translation type="unfinished">Osittainen sopivuus missä kohdassa vaan</translation>
     </message>
     <message>
         <source>Search Mode</source>
-        <translation>Hakutila</translation>
+        <translation type="unfinished">Hakutila</translation>
     </message>
     <message>
         <source>Importing categories file, please wait...</source>
-        <translation>Tuodaan kategoriatiedosto, odota...</translation>
+        <translation type="unfinished">Tuodaan kategoriatiedosto, odota...</translation>
     </message>
     <message>
         <source>Clear all categories</source>
-        <translation>Tyhjennä kaikki kategoriat</translation>
+        <translation type="unfinished">Tyhjennä kaikki kategoriat</translation>
     </message>
     <message>
         <source>Open Tree</source>
-        <translation>Avaa kansiopuu</translation>
+        <translation type="unfinished">Avaa kansiopuu</translation>
     </message>
     <message>
         <source>Clear orphaned categories</source>
-        <translation>Tyhjennä orvot kategoriat</translation>
+        <translation type="unfinished">Tyhjennä orvot kategoriat</translation>
     </message>
     <message>
         <source>Partial Match at the Beginning</source>
-        <translation>Osittainen sopivuus alussa</translation>
+        <translation type="unfinished">Osittainen sopivuus alussa</translation>
     </message>
     <message>
         <source>Hide assigned categories</source>
-        <translation>Piilota määritetyt luokat</translation>
+        <translation type="unfinished">Piilota määritetyt luokat</translation>
     </message>
     <message>
         <source>Do you want to clear all categories?</source>
-        <translation>Haluatko tyhjentää kaikki kategoriat?</translation>
+        <translation type="unfinished">Haluatko tyhjentää kaikki kategoriat?</translation>
     </message>
     <message>
         <source> [Create New]</source>
-        <translation> [Luo uusi]</translation>
+        <translation type="unfinished"> [Luo uusi]</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation type="unfinished">Luettelo</translation>
     </message>
 </context>
 <context>
     <name>InfoEXIFView</name>
     <message>
         <source>Image</source>
-        <translation>Kuva</translation>
+        <translation type="unfinished">Kuva</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Kamera</translation>
+        <translation type="unfinished">Kamera</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation type="unfinished">Esikatselukuva</translation>
     </message>
     <message>
         <source>Makernotes</source>
-        <translation>Valmistajan merkinnät</translation>
+        <translation type="unfinished">Valmistajan merkinnät</translation>
     </message>
 </context>
 <context>
     <name>InfoExif</name>
     <message>
         <source>GPS</source>
-        <translation>GPS</translation>
+        <translation type="unfinished">GPS</translation>
     </message>
     <message>
         <source>IOP</source>
-        <translation>IOP</translation>
+        <translation type="unfinished">IOP</translation>
     </message>
     <message>
         <source>ISO</source>
-        <translation>ISO</translation>
+        <translation type="unfinished">ISO</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation>Kuvan selitys</translation>
+        <translation type="unfinished">Kuvan selitys</translation>
     </message>
     <message>
         <source>Subj. Dist. Range</source>
-        <translation>Kohteen etäisyysväli</translation>
+        <translation type="unfinished">Kohteen etäisyysväli</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>Salama</translation>
+        <translation type="unfinished">Salama</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Kuva</translation>
+        <translation type="unfinished">Kuva</translation>
     </message>
     <message>
         <source>Maker</source>
-        <translation>Tekijä</translation>
+        <translation type="unfinished">Tekijä</translation>
     </message>
     <message>
         <source>Model</source>
-        <translation>Malli</translation>
+        <translation type="unfinished">Malli</translation>
     </message>
     <message>
         <source>Resolution unit</source>
-        <translation>Resoluutioyksikkö</translation>
+        <translation type="unfinished">Resoluutioyksikkö</translation>
     </message>
     <message>
         <source>Colour space</source>
-        <translation>Väriavaruus</translation>
+        <translation type="unfinished">Väriavaruus</translation>
     </message>
     <message>
         <source>Sensitivity</source>
-        <translation>Herkkyys</translation>
+        <translation type="unfinished">Herkkyys</translation>
     </message>
     <message>
         <source>Exposure Program</source>
-        <translation>Valotusohjelma</translation>
+        <translation type="unfinished">Valotusohjelma</translation>
     </message>
     <message>
         <source>ISO Value</source>
-        <translation>ISO-arvo</translation>
+        <translation type="unfinished">ISO-arvo</translation>
     </message>
     <message>
         <source>X-Resolution</source>
-        <translation>X-Resoluutio</translation>
+        <translation type="unfinished">X-Resoluutio</translation>
     </message>
     <message>
         <source>Y-Resolution</source>
-        <translation>Y-Resoluutio</translation>
+        <translation type="unfinished">Y-Resoluutio</translation>
     </message>
     <message>
         <source>Focal Length</source>
-        <translation>Polttoväli</translation>
+        <translation type="unfinished">Polttoväli</translation>
     </message>
     <message>
         <source>Focal Plane X-Resolution</source>
-        <translation>Polttotason X-resoluutio</translation>
+        <translation type="unfinished">Polttotason X-resoluutio</translation>
     </message>
     <message>
         <source>Altitude ref.</source>
-        <translation>Korkeusaste viitteellinen</translation>
+        <translation type="unfinished">Korkeusaste viitteellinen</translation>
     </message>
     <message>
         <source>XP Title</source>
-        <translation>XP Otsikko</translation>
+        <translation type="unfinished">XP Otsikko</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation>F-Numero</translation>
+        <translation type="unfinished">F-Numero</translation>
     </message>
     <message>
         <source>Flash energy</source>
-        <translation>Salaman voimakkuus</translation>
+        <translation type="unfinished">Salaman voimakkuus</translation>
     </message>
     <message>
         <source>Focal Plane Y-Resolution</source>
-        <translation>Polttotason Y-resoluutio</translation>
+        <translation type="unfinished">Polttotason Y-resoluutio</translation>
     </message>
     <message>
         <source>Light source</source>
-        <translation>Valonlähde</translation>
+        <translation type="unfinished">Valonlähde</translation>
     </message>
     <message>
         <source>Custom rendered</source>
-        <translation>Mukautettu renderointi</translation>
+        <translation type="unfinished">Mukautettu renderointi</translation>
     </message>
     <message>
         <source>Digital zoom</source>
-        <translation>Digital- zoomaus</translation>
+        <translation type="unfinished">Digital- zoomaus</translation>
     </message>
     <message>
         <source>Image-ID</source>
-        <translation>Kuvan ID</translation>
+        <translation type="unfinished">Kuvan ID</translation>
     </message>
     <message>
         <source>Primary chromaticities</source>
-        <translation>Tunnistusmenetelmä</translation>
+        <translation type="unfinished">Tunnistusmenetelmä</translation>
     </message>
     <message>
         <source>Altitude</source>
-        <translation>Korkeusaste</translation>
+        <translation type="unfinished">Korkeusaste</translation>
     </message>
     <message>
         <source>Image height</source>
-        <translation>Kuvan korkeus</translation>
+        <translation type="unfinished">Kuvan korkeus</translation>
     </message>
     <message>
         <source>Focal length</source>
-        <translation>Polttoväli</translation>
+        <translation type="unfinished">Polttoväli</translation>
     </message>
     <message>
         <source>35mm Focal length</source>
-        <translation>35mm Polttoväli</translation>
+        <translation type="unfinished">35mm Polttoväli</translation>
     </message>
     <message>
         <source>Scene type</source>
-        <translation>Kohtaustyyppi</translation>
+        <translation type="unfinished">Kohtaustyyppi</translation>
     </message>
     <message>
         <source>Exposure Time</source>
-        <translation>Valotusaika</translation>
+        <translation type="unfinished">Valotusaika</translation>
     </message>
     <message>
         <source>Exposure Bias</source>
-        <translation>Valotusasetukset</translation>
+        <translation type="unfinished">Valotusasetukset</translation>
     </message>
     <message>
         <source>Exposure Mode</source>
-        <translation>Valotustila</translation>
+        <translation type="unfinished">Valotustila</translation>
     </message>
     <message>
         <source>Digitized date</source>
-        <translation>Digitointipäivä</translation>
+        <translation type="unfinished">Digitointipäivä</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation>Kuvaaja</translation>
+        <translation type="unfinished">Kuvaaja</translation>
     </message>
     <message>
         <source>XP Author</source>
-        <translation>XP.Luoja</translation>
+        <translation type="unfinished">XP.Luoja</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Kamera</translation>
+        <translation type="unfinished">Kamera</translation>
     </message>
     <message>
         <source>Longitude</source>
-        <translation>Pituusaste</translation>
+        <translation type="unfinished">Pituusaste</translation>
     </message>
     <message>
         <source>Subject location</source>
-        <translation>Kohteen sijainti</translation>
+        <translation type="unfinished">Kohteen sijainti</translation>
     </message>
     <message>
         <source>Device settings desc.</source>
-        <translation>Laiteasetukset</translation>
+        <translation type="unfinished">Laiteasetukset</translation>
     </message>
     <message>
         <source>LensID</source>
-        <translation>Linssi-ID</translation>
+        <translation type="unfinished">Linssi-ID</translation>
     </message>
     <message>
         <source>Max. aperture</source>
-        <translation>Maksimi aukko</translation>
+        <translation type="unfinished">Maksimi aukko</translation>
     </message>
     <message>
         <source>Lens Make</source>
-        <translation>Linssin valmistaja</translation>
+        <translation type="unfinished">Linssin valmistaja</translation>
     </message>
     <message>
         <source>Lens Model</source>
-        <translation>Linssin malli</translation>
+        <translation type="unfinished">Linssin malli</translation>
     </message>
     <message>
         <source>White balance</source>
-        <translation>Valkotasapaino</translation>
+        <translation type="unfinished">Valkotasapaino</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation>Ohjelmisto</translation>
+        <translation type="unfinished">Ohjelmisto</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Suuntaus</translation>
+        <translation type="unfinished">Suuntaus</translation>
     </message>
     <message>
         <source>Components configuration</source>
-        <translation>Komponenttien kokoonpano</translation>
+        <translation type="unfinished">Komponenttien kokoonpano</translation>
     </message>
     <message>
         <source>Contrast</source>
-        <translation>Kontrasti</translation>
+        <translation type="unfinished">Kontrasti</translation>
     </message>
     <message>
         <source>Direction ref.</source>
-        <translation>Suunta viitt.</translation>
+        <translation type="unfinished">Suunta viitt.</translation>
     </message>
     <message>
         <source>Date digitized</source>
-        <translation>Digitointipäivä</translation>
+        <translation type="unfinished">Digitointipäivä</translation>
     </message>
     <message>
         <source>Aperture</source>
-        <translation>Aukko</translation>
+        <translation type="unfinished">Aukko</translation>
     </message>
     <message>
         <source>CFA pattern</source>
-        <translation>CFA -kuvio</translation>
+        <translation type="unfinished">CFA -kuvio</translation>
     </message>
     <message>
         <source>White point</source>
-        <translation>Valkoinen piste</translation>
+        <translation type="unfinished">Valkoinen piste</translation>
     </message>
     <message>
         <source>Image width</source>
-        <translation>Kuvan leveys</translation>
+        <translation type="unfinished">Kuvan leveys</translation>
     </message>
     <message>
         <source>Location Code</source>
-        <translation>Sijaintikoodi</translation>
+        <translation type="unfinished">Sijaintikoodi</translation>
     </message>
     <message>
         <source>Metering mode</source>
-        <translation>Mittaustapa</translation>
+        <translation type="unfinished">Mittaustapa</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Kuvauspäivä</translation>
+        <translation type="unfinished">Kuvauspäivä</translation>
     </message>
     <message>
         <source>File source</source>
-        <translation>Tiedostolähde</translation>
+        <translation type="unfinished">Tiedostolähde</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Tekijänoikeus (Copyright)</translation>
+        <translation type="unfinished">Tekijänoikeus (Copyright)</translation>
     </message>
     <message>
         <source>Exposure Index</source>
-        <translation>Valotusindeksi</translation>
+        <translation type="unfinished">Valotusindeksi</translation>
     </message>
     <message>
         <source>EXIF Version</source>
-        <translation>EXIF-versio</translation>
+        <translation type="unfinished">EXIF-versio</translation>
     </message>
     <message>
         <source>Spectral sensitivity</source>
-        <translation>Spektriherkkyys</translation>
+        <translation type="unfinished">Spektriherkkyys</translation>
     </message>
     <message>
         <source>Sharpness</source>
-        <translation>Terävyys</translation>
+        <translation type="unfinished">Terävyys</translation>
     </message>
     <message>
         <source>Latitude</source>
-        <translation>Leveysaste</translation>
+        <translation type="unfinished">Leveysaste</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>Suunta</translation>
+        <translation type="unfinished">Suunta</translation>
     </message>
     <message>
         <source>Latitude ref.</source>
-        <translation>Leveysaste viitteelinen</translation>
+        <translation type="unfinished">Leveysaste viitteelinen</translation>
     </message>
     <message>
         <source>ShutterSpeed</source>
-        <translation>Suljinnopeus</translation>
+        <translation type="unfinished">Suljinnopeus</translation>
     </message>
     <message>
         <source>XP Comment</source>
-        <translation>XP Kommentti</translation>
+        <translation type="unfinished">XP Kommentti</translation>
     </message>
     <message>
         <source>XP Subject</source>
-        <translation>XP Aihe</translation>
+        <translation type="unfinished">XP Aihe</translation>
     </message>
     <message>
         <source>Focal Plane Res. Unit</source>
-        <translation>Polttotason resoluutioyksikkö</translation>
+        <translation type="unfinished">Polttotason resoluutioyksikkö</translation>
     </message>
     <message>
         <source>Sensing method</source>
-        <translation>Mittausmenetelmä</translation>
+        <translation type="unfinished">Mittausmenetelmä</translation>
     </message>
     <message>
         <source>Scene capture type</source>
-        <translation>Kohtauksenkaappaustapa</translation>
+        <translation type="unfinished">Kohtauksenkaappaustapa</translation>
     </message>
     <message>
         <source>YCbCr-Coefficients</source>
-        <translation>YCbCr-Kertoimet</translation>
+        <translation type="unfinished">YCbCr-Kertoimet</translation>
     </message>
     <message>
         <source>Date/time modified</source>
-        <translation>Muokkauspäivä/aika</translation>
+        <translation type="unfinished">Muokkauspäivä/aika</translation>
     </message>
     <message>
         <source>Subject Distance (m)</source>
-        <translation>Kohteen etäisyys (m)</translation>
+        <translation type="unfinished">Kohteen etäisyys (m)</translation>
     </message>
     <message>
         <source>Taken date</source>
-        <translation>Kuvauspäivä</translation>
+        <translation type="unfinished">Kuvauspäivä</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation type="unfinished">Esikatselukuva</translation>
     </message>
     <message>
         <source>Longitude ref.</source>
-        <translation>Pituusaste viitteelinen</translation>
+        <translation type="unfinished">Pituusaste viitteelinen</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Värikylläisyys</translation>
+        <translation type="unfinished">Värikylläisyys</translation>
     </message>
     <message>
         <source>Makernotes</source>
-        <translation>Valmistajan merkinnät</translation>
+        <translation type="unfinished">Valmistajan merkinnät</translation>
     </message>
     <message>
         <source>XP Keywords</source>
-        <translation>XP Avainsanat</translation>
+        <translation type="unfinished">XP Avainsanat</translation>
     </message>
     <message>
         <source>User comment</source>
-        <translation>Käyttäjän kommentti</translation>
+        <translation type="unfinished">Käyttäjän kommentti</translation>
     </message>
     <message>
         <source>Photometric interpretation</source>
-        <translation>Fotometrinen tulkinta</translation>
+        <translation type="unfinished">Fotometrinen tulkinta</translation>
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Kirkkaus</translation>
+        <translation type="unfinished">Kirkkaus</translation>
     </message>
     <message>
         <source>Ref. black/white</source>
-        <translation>Viite. musta/valkoinen</translation>
+        <translation type="unfinished">Viite. musta/valkoinen</translation>
     </message>
     <message>
         <source>Spatial freq. response</source>
-        <translation>Spatiaalinen taajuusvaste</translation>
+        <translation type="unfinished">Spatiaalinen taajuusvaste</translation>
     </message>
     <message>
         <source>Gain control</source>
-        <translation>(Gain) Vahvistushallinta</translation>
+        <translation type="unfinished">(Gain) Vahvistushallinta</translation>
     </message>
     <message>
         <source>Longitude (value)</source>
-        <translation>Pituusaste (arvo)</translation>
+        <translation type="unfinished">Pituusaste (arvo)</translation>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Muokkauspäivä</translation>
+        <translation type="unfinished">Muokkauspäivä</translation>
     </message>
     <message>
         <source>Latitude (value)</source>
-        <translation>Leveysaste (arvo)</translation>
+        <translation type="unfinished">Leveysaste (arvo)</translation>
     </message>
     <message>
         <source>YCbCr-Positioning</source>
-        <translation>YCbCr-Paikannus</translation>
+        <translation type="unfinished">YCbCr-Paikannus</translation>
     </message>
     <message>
         <source>Exposure Time (s)</source>
@@ -13692,549 +13691,549 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     <name>InfoIPTCView</name>
     <message>
         <source>Origin</source>
-        <translation>Alkeperäinen</translation>
+        <translation type="unfinished">Alkeperäinen</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Tila</translation>
+        <translation type="unfinished">Tila</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Kuvateksti</translation>
+        <translation type="unfinished">Kuvateksti</translation>
     </message>
     <message>
         <source>Keywords &amp; Categories</source>
-        <translation>Avainsanat ja kategoriat</translation>
+        <translation type="unfinished">Avainsanat ja kategoriat</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Ansiot</translation>
+        <translation type="unfinished">Ansiot</translation>
     </message>
 </context>
 <context>
     <name>InfoIptc</name>
     <message>
         <source>City</source>
-        <translation>Kaupunki</translation>
+        <translation type="unfinished">Kaupunki</translation>
     </message>
     <message>
         <source>Cycle</source>
-        <translation>Sykli</translation>
+        <translation type="unfinished">Sykli</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation>Sähköposti</translation>
+        <translation type="unfinished">Sähköposti</translation>
     </message>
     <message>
         <source>Event</source>
-        <translation>Tapahtuma</translation>
+        <translation type="unfinished">Tapahtuma</translation>
     </message>
     <message>
         <source>Field</source>
-        <translation>Kenttä</translation>
+        <translation type="unfinished">Kenttä</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Muut</translation>
+        <translation type="unfinished">Muut</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Kaupunki</translation>
+        <translation type="unfinished">Kaupunki</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Otsikko</translation>
+        <translation type="unfinished">Otsikko</translation>
     </message>
     <message>
         <source>Copyrights</source>
-        <translation>Tekijänoikeudet (Copyrights)</translation>
+        <translation type="unfinished">Tekijänoikeudet (Copyrights)</translation>
     </message>
     <message>
         <source>Transmission reference</source>
-        <translation>Lähetysviite</translation>
+        <translation type="unfinished">Lähetysviite</translation>
     </message>
     <message>
         <source>All fields (Number)</source>
-        <translation>Kaikki kentät (Numero)</translation>
+        <translation type="unfinished">Kaikki kentät (Numero)</translation>
     </message>
     <message>
         <source>Object cycle</source>
-        <translation>Objektin sykli</translation>
+        <translation type="unfinished">Objektin sykli</translation>
     </message>
     <message>
         <source>Released date</source>
-        <translation>Julkaisupäivä</translation>
+        <translation type="unfinished">Julkaisupäivä</translation>
     </message>
     <message>
         <source>Document title</source>
-        <translation>Asiakirjan otsikko</translation>
+        <translation type="unfinished">Asiakirjan otsikko</translation>
     </message>
     <message>
         <source>Byline title</source>
-        <translation>Kirjoittajan arvonimi</translation>
+        <translation type="unfinished">Kirjoittajan arvonimi</translation>
     </message>
     <message>
         <source>State/Province</source>
-        <translation>Osavaltio/Maakunta</translation>
+        <translation type="unfinished">Osavaltio/Maakunta</translation>
     </message>
     <message>
         <source>Original trans. ref.</source>
-        <translation>Alkuperäinen siirt.viit.</translation>
+        <translation type="unfinished">Alkuperäinen siirt.viit.</translation>
     </message>
     <message>
         <source>Digitized date</source>
-        <translation>Digitointipäivä</translation>
+        <translation type="unfinished">Digitointipäivä</translation>
     </message>
     <message>
         <source>Digitized time</source>
-        <translation>Digitointiaika</translation>
+        <translation type="unfinished">Digitointiaika</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation>Tekijä</translation>
+        <translation type="unfinished">Tekijä</translation>
     </message>
     <message>
         <source>Byline</source>
-        <translation>Kirjoittaja</translation>
+        <translation type="unfinished">Kirjoittaja</translation>
     </message>
     <message>
         <source>Credit</source>
-        <translation>Ansiot</translation>
+        <translation type="unfinished">Ansiot</translation>
     </message>
     <message>
         <source>Job ID</source>
-        <translation>työ ID</translation>
+        <translation type="unfinished">työ ID</translation>
     </message>
     <message>
         <source>Original tr. ref.</source>
-        <translation>Alkuperäinen siirt. viit.</translation>
+        <translation type="unfinished">Alkuperäinen siirt. viit.</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>Telephon number</source>
-        <translation>Puhelinnumero</translation>
+        <translation type="unfinished">Puhelinnumero</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Lähde</translation>
+        <translation type="unfinished">Lähde</translation>
     </message>
     <message>
         <source>Sublocation</source>
-        <translation>Alasijainti</translation>
+        <translation type="unfinished">Alasijainti</translation>
     </message>
     <message>
         <source>Copyright Notice</source>
-        <translation>Tekijänoikeushuomautus</translation>
+        <translation type="unfinished">Tekijänoikeushuomautus</translation>
     </message>
     <message>
         <source>All fields</source>
-        <translation>Kaikki kentät</translation>
+        <translation type="unfinished">Kaikki kentät</translation>
     </message>
     <message>
         <source>Program</source>
-        <translation>Ohjelma</translation>
+        <translation type="unfinished">Ohjelma</translation>
     </message>
     <message>
         <source>Original transmission reference</source>
-        <translation>Alkuperäinen siirtoviittaus</translation>
+        <translation type="unfinished">Alkuperäinen siirtoviittaus</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Osoite</translation>
+        <translation type="unfinished">Osoite</translation>
     </message>
     <message>
         <source>Edit status</source>
-        <translation>Muokkaa statusta</translation>
+        <translation type="unfinished">Muokkaa statusta</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Tekijänoikeus (Copyright)</translation>
+        <translation type="unfinished">Tekijänoikeus (Copyright)</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation>Kategoria</translation>
+        <translation type="unfinished">Kategoria</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation>Prioriteetti</translation>
+        <translation type="unfinished">Prioriteetti</translation>
     </message>
     <message>
         <source>Program version</source>
-        <translation>Ohjelmaversio</translation>
+        <translation type="unfinished">Ohjelmaversio</translation>
     </message>
     <message>
         <source>Code of organization represented</source>
-        <translation>Edustetun organisaation koodi</translation>
+        <translation type="unfinished">Edustetun organisaation koodi</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selitys</translation>
+        <translation type="unfinished">Selitys</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Kuvateksti</translation>
+        <translation type="unfinished">Kuvateksti</translation>
     </message>
     <message>
         <source>Person in image</source>
-        <translation>Henkilön kuva</translation>
+        <translation type="unfinished">Henkilön kuva</translation>
     </message>
     <message>
         <source>Authors position</source>
-        <translation>Kirjoittajien sijainti</translation>
+        <translation type="unfinished">Kirjoittajien sijainti</translation>
     </message>
     <message>
         <source>Object name</source>
-        <translation>Objektin nimi</translation>
+        <translation type="unfinished">Objektin nimi</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation>Kontakti</translation>
+        <translation type="unfinished">Kontakti</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation>Maa</translation>
+        <translation type="unfinished">Maa</translation>
     </message>
     <message>
         <source>Field (Number)</source>
-        <translation>Kenttä (Numero)</translation>
+        <translation type="unfinished">Kenttä (Numero)</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation>Luoja</translation>
+        <translation type="unfinished">Luoja</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Ansiot</translation>
+        <translation type="unfinished">Ansiot</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation>Aihe</translation>
+        <translation type="unfinished">Aihe</translation>
     </message>
     <message>
         <source>Web site</source>
-        <translation>Nettisivu</translation>
+        <translation type="unfinished">Nettisivu</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Otsikko</translation>
+        <translation type="unfinished">Otsikko</translation>
     </message>
     <message>
         <source>Custom field</source>
-        <translation>Mukautettu kenttä</translation>
+        <translation type="unfinished">Mukautettu kenttä</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation>Kategoriat</translation>
+        <translation type="unfinished">Kategoriat</translation>
     </message>
     <message>
         <source>Special instructions</source>
-        <translation>Erikoisohjeet</translation>
+        <translation type="unfinished">Erikoisohjeet</translation>
     </message>
     <message>
         <source>Name of organization represented</source>
-        <translation>Edustetun organisaation nimi</translation>
+        <translation type="unfinished">Edustetun organisaation nimi</translation>
     </message>
     <message>
         <source>Release time</source>
-        <translation>Julkaisuaika</translation>
+        <translation type="unfinished">Julkaisuaika</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation>Avainsanat</translation>
+        <translation type="unfinished">Avainsanat</translation>
     </message>
     <message>
         <source>Country code</source>
-        <translation>Maa koodi</translation>
+        <translation type="unfinished">Maa koodi</translation>
     </message>
     <message>
         <source>ZIP code</source>
-        <translation>Postinumero</translation>
+        <translation type="unfinished">Postinumero</translation>
     </message>
     <message>
         <source>Instructions</source>
-        <translation>Ohjeet</translation>
+        <translation type="unfinished">Ohjeet</translation>
     </message>
     <message>
         <source>Supplemental categories</source>
-        <translation>Täydentävät kategoriat</translation>
+        <translation type="unfinished">Täydentävät kategoriat</translation>
     </message>
     <message>
         <source>Content location code</source>
-        <translation>Sisällön sijaintikoodi</translation>
+        <translation type="unfinished">Sisällön sijaintikoodi</translation>
     </message>
     <message>
         <source>Content location name</source>
-        <translation>Sisällön sijaintinimi</translation>
+        <translation type="unfinished">Sisällön sijaintinimi</translation>
     </message>
     <message>
         <source>Content location</source>
-        <translation>Sisällön sijainti</translation>
+        <translation type="unfinished">Sisällön sijainti</translation>
     </message>
     <message>
         <source>Caption writer</source>
-        <translation>Kuvatekstin kirjoittaja</translation>
+        <translation type="unfinished">Kuvatekstin kirjoittaja</translation>
     </message>
     <message>
         <source>Copyright info URL</source>
-        <translation>Tekijänoikeustietojen URL-osoite</translation>
+        <translation type="unfinished">Tekijänoikeustietojen URL-osoite</translation>
     </message>
     <message>
         <source>Created date</source>
-        <translation>Luontipäivä</translation>
+        <translation type="unfinished">Luontipäivä</translation>
     </message>
     <message>
         <source>Created time</source>
-        <translation>Luontiaika</translation>
+        <translation type="unfinished">Luontiaika</translation>
     </message>
     <message>
         <source>Copyright usage terms</source>
-        <translation>Tekijänoikeuden käyttöehdot</translation>
+        <translation type="unfinished">Tekijänoikeuden käyttöehdot</translation>
     </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
     <message>
         <source>No</source>
-        <translation>Ei</translation>
+        <translation type="unfinished">Ei</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Kyllä</translation>
+        <translation type="unfinished">Kyllä</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Tiedosto</translation>
+        <translation type="unfinished">Tiedosto</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Filepath</source>
-        <translation>Tiedostopolku</translation>
+        <translation type="unfinished">Tiedostopolku</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation>Äänitiedosto</translation>
+        <translation type="unfinished">Äänitiedosto</translation>
     </message>
     <message>
         <source>Extra</source>
-        <translation>Extra</translation>
+        <translation type="unfinished">Extra</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Kuva</translation>
+        <translation type="unfinished">Kuva</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>Video</translation>
+        <translation type="unfinished">Video</translation>
     </message>
     <message>
         <source>Modified date/time</source>
-        <translation>Muokkauspäivä/aika</translation>
+        <translation type="unfinished">Muokkauspäivä/aika</translation>
     </message>
     <message>
         <source>Colour Label</source>
-        <translation>Värimerkintä</translation>
+        <translation type="unfinished">Värimerkintä</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Tiedostokoko</translation>
+        <translation type="unfinished">Tiedostokoko</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation type="unfinished">Ylhäällä oikealla</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Kamera</translation>
+        <translation type="unfinished">Kamera</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation type="unfinished">Luokitus</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation type="unfinished">Alhaalla vasemmalla</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation type="unfinished">Ylhäällä vasemmalla</translation>
     </message>
     <message>
         <source>Annotation</source>
-        <translation>Huomautus</translation>
+        <translation type="unfinished">Huomautus</translation>
     </message>
     <message>
         <source>Creation date/time</source>
-        <translation>Luontipäivä/aika</translation>
+        <translation type="unfinished">Luontipäivä/aika</translation>
     </message>
     <message>
         <source>Accessed date/time</source>
-        <translation>Käsittelypäivä/aika</translation>
+        <translation type="unfinished">Käsittelypäivä/aika</translation>
     </message>
     <message>
         <source>Extra info</source>
-        <translation>Lisätiedot</translation>
+        <translation type="unfinished">Lisätiedot</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selitys</translation>
+        <translation type="unfinished">Selitys</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation type="unfinished">Alhaalla oikealla</translation>
     </message>
     <message>
         <source>Color Profile</source>
-        <translation>Väriprofiili</translation>
+        <translation type="unfinished">Väriprofiili</translation>
     </message>
     <message>
         <source>File&apos;s icon</source>
-        <translation>Tiedoston kuvake</translation>
+        <translation type="unfinished">Tiedoston kuvake</translation>
     </message>
 </context>
 <context>
     <name>InfoTreeView</name>
     <message>
         <source>Copy this item</source>
-        <translation>Kopioi tämä kohde</translation>
+        <translation type="unfinished">Kopioi tämä kohde</translation>
     </message>
     <message>
         <source>Copy all items</source>
-        <translation>Kopioi kaikki kohteet</translation>
+        <translation type="unfinished">Kopioi kaikki kohteet</translation>
     </message>
 </context>
 <context>
     <name>IptcEditBase</name>
     <message>
         <source>Library</source>
-        <translation>Kirjasto</translation>
+        <translation type="unfinished">Kirjasto</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
-        <translation>Järjestä aakkosjärjestykseen</translation>
+        <translation type="unfinished">Järjestä aakkosjärjestykseen</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Lisää</translation>
+        <translation type="unfinished">Lisää</translation>
     </message>
     <message>
         <source>Copy into</source>
-        <translation>Kopioi kansioon</translation>
+        <translation type="unfinished">Kopioi kansioon</translation>
     </message>
     <message>
         <source>Insert from</source>
-        <translation>Lisää kohteesta</translation>
+        <translation type="unfinished">Lisää kohteesta</translation>
     </message>
     <message>
         <source>Edit history...</source>
-        <translation>Muokkaushistoria...</translation>
+        <translation type="unfinished">Muokkaushistoria...</translation>
     </message>
 </context>
 <context>
     <name>ItemModel</name>
     <message>
         <source>No.</source>
-        <translation>No.</translation>
+        <translation type="unfinished">No.</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nimi</translation>
+        <translation type="unfinished">Nimi</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tyyppi</translation>
+        <translation type="unfinished">Tyyppi</translation>
     </message>
     <message>
         <source>New Folder %1</source>
-        <translation>Uusi kansio %1</translation>
+        <translation type="unfinished">Uusi kansio %1</translation>
     </message>
     <message>
         <source>EXIF Date Taken</source>
-        <translation>EXIF kuvauspäivä</translation>
+        <translation type="unfinished">EXIF kuvauspäivä</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
-        <translation>EXIF muokkauspäivä</translation>
+        <translation type="unfinished">EXIF muokkauspäivä</translation>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Muokkauspäivä</translation>
+        <translation type="unfinished">Muokkauspäivä</translation>
     </message>
     <message>
         <source>Created date</source>
-        <translation>Luontipäivä</translation>
+        <translation type="unfinished">Luontipäivä</translation>
     </message>
 </context>
 <context>
     <name>ItemProcess</name>
     <message>
         <source>Info</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>This file uses a nonwritable format, so it&apos;s not possible to rotate it.</source>
-        <translation>Tiedosto on kirjoitussuojattu. Sitä ei voida kääntää.</translation>
+        <translation type="unfinished">Tiedosto on kirjoitussuojattu. Sitä ei voida kääntää.</translation>
     </message>
     <message>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>JPEG-häviötön toimenpide muuttaa alkuperäistä tiedostoa ja se voi poistaa joitakin käyttämättömiä kuvapisteitä (leveys ja korkeus on jaollinen 8 pikselillä)!
+        <translation type="unfinished">JPEG-häviötön toimenpide muuttaa alkuperäistä tiedostoa ja se voi poistaa joitakin käyttämättömiä kuvapisteitä (leveys ja korkeus on jaollinen 8 pikselillä)!
 
 Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Problem</source>
-        <translation>Ongelma</translation>
+        <translation type="unfinished">Ongelma</translation>
     </message>
     <message>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
-        <translation>Tämä tiedosto sisältää enemmän kuin yhden sivun/kuvan. Sen vuoksi sitä ei voi kääntää.</translation>
+        <translation type="unfinished">Tämä tiedosto sisältää enemmän kuin yhden sivun/kuvan. Sen vuoksi sitä ei voi kääntää.</translation>
     </message>
     <message>
         <source>Lossless Crop</source>
-        <translation>Häviötön rajaus</translation>
+        <translation type="unfinished">Häviötön rajaus</translation>
     </message>
     <message>
         <source>Lossless Operation</source>
-        <translation>Häviötön toiminta</translation>
+        <translation type="unfinished">Häviötön toiminta</translation>
     </message>
     <message>
         <source>Confirm Save - Format</source>
-        <translation>Vahvista tallennus - Formaatti</translation>
+        <translation type="unfinished">Vahvista tallennus - Formaatti</translation>
     </message>
     <message>
         <source>Saving in this format will discard comment and any existing metadata!</source>
-        <translation>Tallentaminen tässä muodossa poistaa kommentin ja kaikki olemassa olevat metatiedot!</translation>
+        <translation type="unfinished">Tallentaminen tässä muodossa poistaa kommentin ja kaikki olemassa olevat metatiedot!</translation>
     </message>
     <message>
         <source>Saving in this format will discard any existing metadata!</source>
-        <translation>Tallentaminen tässä muodossa poistaa kaikki olemassa olevat metatiedot!</translation>
+        <translation type="unfinished">Tallentaminen tässä muodossa poistaa kaikki olemassa olevat metatiedot!</translation>
     </message>
     <message>
         <source>Saving in this format will discard some metadata!</source>
-        <translation>Tässä muodossa tallentaminen poistaa osan metatiedoista!</translation>
+        <translation type="unfinished">Tässä muodossa tallentaminen poistaa osan metatiedoista!</translation>
     </message>
     <message>
         <source>An error has occurred, the lossless rotation can&apos;t be executed.</source>
-        <translation>Tapahtui virhe. Häviötöntä kääntämistä ei voida suorittaa.</translation>
+        <translation type="unfinished">Tapahtui virhe. Häviötöntä kääntämistä ei voida suorittaa.</translation>
     </message>
     <message>
         <source>An error has occurred.</source>
-        <translation>Tapahtui virhe.</translation>
+        <translation type="unfinished">Tapahtui virhe!</translation>
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
@@ -14249,1291 +14248,1291 @@ Haluatko jatkaa?</translation>
     <name>ItemSelection</name>
     <message>
         <source>&amp;Selected files</source>
-        <translation>&amp;Valitut tiedostot</translation>
+        <translation type="unfinished">&amp;Valitut tiedostot</translation>
     </message>
     <message>
         <source>Please select which group to use</source>
-        <translation>Valitse käytössä oleva ryhmä</translation>
+        <translation type="unfinished">Valitse käytössä oleva ryhmä</translation>
     </message>
     <message>
         <source>&amp;Tagged files</source>
-        <translation>&amp;Merkityt tiedostot</translation>
+        <translation type="unfinished">&amp;Merkityt tiedostot</translation>
     </message>
 </context>
 <context>
     <name>KeywordsModel</name>
     <message>
         <source>Label</source>
-        <translation>Ikkkuna</translation>
+        <translation type="unfinished">Ikkkuna</translation>
     </message>
 </context>
 <context>
     <name>Language</name>
     <message>
         <source>Czech</source>
-        <translation>Tsekki</translation>
+        <translation type="unfinished">Tsekki</translation>
     </message>
     <message>
         <source>Dutch</source>
-        <translation>Hollanti</translation>
+        <translation type="unfinished">Hollanti</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation>Kreikka</translation>
+        <translation type="unfinished">Kreikka</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation>Italia</translation>
+        <translation type="unfinished">Italia</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation>Bulgaria</translation>
+        <translation type="unfinished">Bulgaria</translation>
     </message>
     <message>
         <source>Basque</source>
-        <translation>Baski</translation>
+        <translation type="unfinished">Baski</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation>Tanska</translation>
+        <translation type="unfinished">Tanska</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation>Unkari</translation>
+        <translation type="unfinished">Unkari</translation>
     </message>
     <message>
         <source>French</source>
-        <translation>Ranska</translation>
+        <translation type="unfinished">Ranska</translation>
     </message>
     <message>
         <source>German</source>
-        <translation>Saksa</translation>
+        <translation type="unfinished">Saksa</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation>Korea</translation>
+        <translation type="unfinished">Korea</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>Puola</translation>
+        <translation type="unfinished">Puola</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation>Slovakia</translation>
+        <translation type="unfinished">Slovakia</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation>Romania</translation>
+        <translation type="unfinished">Romania</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation>Portugali</translation>
+        <translation type="unfinished">Portugali</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation>Slovenia</translation>
+        <translation type="unfinished">Slovenia</translation>
     </message>
     <message>
         <source>Galician</source>
-        <translation>Galego (Galicia)</translation>
+        <translation type="unfinished">Galego (Galicia)</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation>Portugali - Brasilia</translation>
+        <translation type="unfinished">Portugali - Brasilia</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>Japani</translation>
+        <translation type="unfinished">Japani</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation>Ukraina</translation>
+        <translation type="unfinished">Ukraina</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation>Armenia</translation>
+        <translation type="unfinished">Armenia</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation>Katalaani</translation>
+        <translation type="unfinished">Katalaani</translation>
     </message>
     <message>
         <source>Serbian</source>
-        <translation>Serbia</translation>
+        <translation type="unfinished">Serbia</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>Venäjä</translation>
+        <translation type="unfinished">Venäjä</translation>
     </message>
     <message>
         <source>Norwegian</source>
-        <translation>Norja</translation>
+        <translation type="unfinished">Norja</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation>Espanja</translation>
+        <translation type="unfinished">Espanja</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation>Viro</translation>
+        <translation type="unfinished">Viro</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation>Ruotsi</translation>
+        <translation type="unfinished">Ruotsi</translation>
     </message>
     <message>
         <source>Macedonian</source>
-        <translation>Makedonia</translation>
+        <translation type="unfinished">Makedonia</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation>Turkki</translation>
+        <translation type="unfinished">Turkki</translation>
     </message>
     <message>
         <source>your name</source>
-        <translation>SeppoK</translation>
+        <translation type="unfinished">SeppoK</translation>
     </message>
     <message>
         <source>English</source>
-        <translation>Englanti</translation>
+        <translation type="unfinished">Englanti</translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation>Georgia</translation>
+        <translation type="unfinished">Georgia</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation>Suomi</translation>
+        <translation type="unfinished">Suomi</translation>
     </message>
     <message>
         <source>&lt;Autodetect&gt;</source>
-        <translation>&lt;Automaattinen&gt;</translation>
+        <translation type="unfinished">&lt;Automaattinen&gt;</translation>
     </message>
     <message>
         <source>Chinese Simplified</source>
-        <translation>Kiina (yksinkertaistettu)</translation>
+        <translation type="unfinished">Yksinkertaistettu Kiina</translation>
     </message>
     <message>
         <source>Chinese Traditional</source>
-        <translation>Kiina (perinteinen)</translation>
+        <translation type="unfinished">Perinteinen Kiina</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>Hebrea</translation>
+        <translation type="unfinished">Hebrea</translation>
     </message>
 </context>
 <context>
     <name>MainMenu</name>
     <message>
         <source>ToolBar %1</source>
-        <translation>Työkalupalkki %1</translation>
+        <translation type="unfinished">Työkalupalkki %1</translation>
     </message>
 </context>
 <context>
     <name>MediaPlayer</name>
     <message>
         <source>Show playbar</source>
-        <translation>Näytä toistopalkki</translation>
+        <translation type="unfinished">Näytä toistopalkki</translation>
     </message>
     <message>
         <source>Extract current frame</source>
-        <translation>Sovita nykyiseen ikkunaan</translation>
+        <translation type="unfinished">Sovita nykyiseen ikkunaan</translation>
     </message>
 </context>
 <context>
     <name>MediaPlayerAv</name>
     <message>
         <source>Show playbar</source>
-        <translation>Näytä toistopalkki</translation>
+        <translation type="unfinished">Näytä toistopalkki</translation>
     </message>
     <message>
         <source>Extract current frame</source>
-        <translation>Sovita nykyiseen ikkunaan</translation>
+        <translation type="unfinished">Sovita nykyiseen ikkunaan</translation>
     </message>
     <message>
         <source>Can not create video renderer</source>
-        <translation>Video-renderoinnin luominen ei onnistu</translation>
+        <translation type="unfinished">Video-renderoinnin luominen ei onnistu</translation>
     </message>
 </context>
 <context>
     <name>MediaPlayerBase</name>
     <message>
         <source>Adjust volume</source>
-        <translation>Säädä äänen voimakkuutta</translation>
+        <translation type="unfinished">Säädä äänen voimakkuutta</translation>
     </message>
 </context>
 <context>
     <name>MediaPlayerMDK</name>
     <message>
         <source>Save frame as...</source>
-        <translation>Tallenna kehys nimellä...</translation>
+        <translation type="unfinished">Tallenna kehys nimellä...</translation>
     </message>
     <message>
         <source>Show playbar</source>
-        <translation>Näytä toistopalkki</translation>
+        <translation type="unfinished">Näytä toistopalkki</translation>
     </message>
     <message>
         <source>Extract current frame</source>
-        <translation>Sovita nykyiseen ikkunaan</translation>
+        <translation type="unfinished">Sovita nykyiseen ikkunaan</translation>
     </message>
 </context>
 <context>
     <name>MenuBrowser</name>
     <message>
         <source>Up</source>
-        <translation>Ylös</translation>
+        <translation type="unfinished">Ylös</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Kaikki</translation>
+        <translation type="unfinished">Kaikki</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Leikkaa</translation>
+        <translation type="unfinished">Leikkaa</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Merkintä (Tagi)</translation>
+        <translation type="unfinished">Merkintä (Tagi)</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation>100%</translation>
+        <translation type="unfinished">100%</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Takaisin</translation>
+        <translation type="unfinished">Takaisin</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Kopioi</translation>
+        <translation type="unfinished">Kopioi</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation>Tumma</translation>
+        <translation type="unfinished">Tumma</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Päiväys</translation>
+        <translation type="unfinished">Päiväys</translation>
     </message>
     <message>
         <source>Fair</source>
-        <translation>Kohtuullinen</translation>
+        <translation type="unfinished">Kohtuullinen</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation>Vapaa</translation>
+        <translation type="unfinished">Vapaa</translation>
     </message>
     <message>
         <source>Good</source>
-        <translation>Hyvä</translation>
+        <translation type="unfinished">Hyvä</translation>
     </message>
     <message>
         <source>List</source>
-        <translation>Lista</translation>
+        <translation type="unfinished">Lista</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nimi</translation>
+        <translation type="unfinished">Nimi</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Avaa</translation>
+        <translation type="unfinished">Avaa</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Sivu</translation>
+        <translation type="unfinished">Sivu</translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>Huono</translation>
+        <translation type="unfinished">Huono</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Näytä</translation>
+        <translation type="unfinished">Näytä</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Pysäytä</translation>
+        <translation type="unfinished">Pysäytä</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tyyppi</translation>
+        <translation type="unfinished">Tyyppi</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoomaus</translation>
+        <translation type="unfinished">Zoomaus</translation>
     </message>
     <message>
         <source>Update catalog from files</source>
-        <translation>Päivitä luettelo tiedostoista</translation>
+        <translation type="unfinished">Päivitä luettelo tiedostoista</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Muokkaa</translation>
+        <translation type="unfinished">&amp;Muokkaa</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Tiedosto</translation>
+        <translation type="unfinished">&amp;Tiedosto</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Ohje</translation>
+        <translation type="unfinished">&amp;Ohje</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;Näytä</translation>
+        <translation type="unfinished">&amp;Näytä</translation>
     </message>
     <message>
         <source>Category Sets</source>
-        <translation>Kategoriaryhmät</translation>
+        <translation type="unfinished">Kategoriaryhmät</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Musta</translation>
+        <translation type="unfinished">Musta</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Kuvakkeet</translation>
+        <translation type="unfinished">Kuvakkeet</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Kuva</translation>
+        <translation type="unfinished">Kuva</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Vaalea</translation>
+        <translation type="unfinished">Vaalea</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Liitä</translation>
+        <translation type="unfinished">Liitä</translation>
     </message>
     <message>
         <source>Ratio</source>
-        <translation>Kuvasuhde</translation>
+        <translation type="unfinished">Kuvasuhde</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation>Teema</translation>
+        <translation type="unfinished">Teema</translation>
     </message>
     <message>
         <source>Clear all tags</source>
-        <translation>Poista kaikki merkinnät</translation>
+        <translation type="unfinished">Poista kaikki merkinnät</translation>
     </message>
     <message>
         <source>Colour label</source>
-        <translation>Värimerkintä</translation>
+        <translation type="unfinished">Värimerkintä</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rebuild</source>
-        <translation>EXIF-esikatselukuva - Päivitä</translation>
+        <translation type="unfinished">EXIF-esikatselukuva - Päivitä</translation>
     </message>
     <message>
         <source>Show title of panels</source>
-        <translation>Näytä paneelien otsikot</translation>
+        <translation type="unfinished">Näytä paneelien otsikot</translation>
     </message>
     <message>
         <source>Quick Filter</source>
-        <translation>Pikasuodin</translation>
+        <translation type="unfinished">Pikasuodin</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Excellent (move to next image)</source>
-        <translation>Erinomainen (siirry seuraavaan kuvaan)</translation>
+        <translation type="unfinished">Erinomainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation>Avaa sisältyvä kansio</translation>
+        <translation type="unfinished">Avaa sisältyvä kansio</translation>
     </message>
     <message>
         <source>Save layout A</source>
-        <translation>Tallenna asetelma A</translation>
+        <translation type="unfinished">Tallenna asetelma A</translation>
     </message>
     <message>
         <source>Save layout B</source>
-        <translation>Tallenna asetelma B</translation>
+        <translation type="unfinished">Tallenna asetelma B</translation>
     </message>
     <message>
         <source>Save layout C</source>
-        <translation>Tallenna asetelma C</translation>
+        <translation type="unfinished">Tallenna asetelma C</translation>
     </message>
     <message>
         <source>Save layout D</source>
-        <translation>Tallenna asetelma D</translation>
+        <translation type="unfinished">Tallenna asetelma D</translation>
     </message>
     <message>
         <source>Save layout E</source>
-        <translation>Tallenna asetelma E</translation>
+        <translation type="unfinished">Tallenna asetelma E</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Käytä alfa-kanavaa</translation>
+        <translation type="unfinished">Käytä alfa-kanavaa</translation>
     </message>
     <message>
         <source>Show tagged files</source>
-        <translation>Näytä merkityt tiedostot</translation>
+        <translation type="unfinished">Näytä merkityt tiedostot</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>Käännä EXIF-suuntausmerkintöjen mukaisesti</translation>
+        <translation type="unfinished">Käännä EXIF-suuntausmerkintöjen mukaisesti</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
-        <translation>Lisää suosikeihin...</translation>
+        <translation type="unfinished">Lisää suosikeihin...</translation>
     </message>
     <message>
         <source>Split image(s)...</source>
-        <translation>Paloittele kuva(t)...</translation>
+        <translation type="unfinished">Paloittele kuva(t)...</translation>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
-        <translation>Nollaa EXIF-suuntauskenttä</translation>
+        <translation type="unfinished">Nollaa EXIF-suuntauskenttä</translation>
     </message>
     <message>
         <source>Join images...</source>
-        <translation>Kuvayhdistelmä...</translation>
+        <translation type="unfinished">Kuvayhdistelmä...</translation>
     </message>
     <message>
         <source>Image Height</source>
-        <translation>Kuvan korkeus</translation>
+        <translation type="unfinished">Kuvan korkeus</translation>
     </message>
     <message>
         <source>Select TWAIN source...</source>
-        <translation>Valitse skanneri...</translation>
+        <translation type="unfinished">Valitse skanneri...</translation>
     </message>
     <message>
         <source>Open in Finder</source>
-        <translation>Avaa Etsimessä</translation>
+        <translation type="unfinished">Avaa Etsimessä</translation>
     </message>
     <message>
         <source>Old Dark</source>
-        <translation>Vanha tumma</translation>
+        <translation type="unfinished">Vanha tumma</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Tiedoston koko</translation>
+        <translation type="unfinished">Tiedoston koko</translation>
     </message>
     <message>
         <source>Poor (move to next image)</source>
-        <translation>Huono (siirry seuraavaan kuvaan)</translation>
+        <translation type="unfinished">Huono (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
-        <translation>Käännä 180°</translation>
+        <translation type="unfinished">Käännä 180°</translation>
     </message>
     <message>
         <source>Upload on web...</source>
-        <translation>Lataa Internetiin...</translation>
+        <translation type="unfinished">Lataa Internetiin...</translation>
     </message>
     <message>
         <source>Clean...</source>
-        <translation>Puhdista...</translation>
+        <translation type="unfinished">Siivoa...</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation>Työ&amp;kalut</translation>
+        <translation type="unfinished">Työ&amp;kalut</translation>
     </message>
     <message>
         <source>Path focus...</source>
-        <translation>Polun tarkennus...</translation>
+        <translation type="unfinished">Polun tarkennus...</translation>
     </message>
     <message>
         <source>Empty tab...</source>
-        <translation>Tyhjä välilehti...</translation>
+        <translation type="unfinished">Tyhjä välilehti...</translation>
     </message>
     <message>
         <source>Video thumbnails gallery...</source>
-        <translation>Videoiden esikatselukuvakokoelma...</translation>
+        <translation type="unfinished">Videoiden esikatselukuvakokoelma...</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation type="unfinished">Esikatselukuvat</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Koko näyttö</translation>
+        <translation type="unfinished">Koko näyttö</translation>
     </message>
     <message>
         <source>Restore layout A</source>
-        <translation>Palauta asetelma A</translation>
+        <translation type="unfinished">Palauta asetelma A</translation>
     </message>
     <message>
         <source>Restore layout B</source>
-        <translation>Palauta asetelma B</translation>
+        <translation type="unfinished">Palauta asetelma B</translation>
     </message>
     <message>
         <source>Restore layout C</source>
-        <translation>Palauta asetelma C</translation>
+        <translation type="unfinished">Palauta asetelma C</translation>
     </message>
     <message>
         <source>Restore layout D</source>
-        <translation>Palauta asetelma D</translation>
+        <translation type="unfinished">Palauta asetelma D</translation>
     </message>
     <message>
         <source>Restore layout E</source>
-        <translation>Palauta asetelma E</translation>
+        <translation type="unfinished">Palauta asetelma E</translation>
     </message>
     <message>
         <source>Filter by</source>
-        <translation>Suodata käyttäen</translation>
+        <translation type="unfinished">Suodata käyttäen</translation>
     </message>
     <message>
         <source>Selected filename(s) and path(s)</source>
-        <translation>Valitut tiedostonimet ja kansiot</translation>
+        <translation type="unfinished">Valitut tiedostonimet ja kansiot</translation>
     </message>
     <message>
         <source>Edit comment...</source>
-        <translation>Muokkaa kommenttia...</translation>
+        <translation type="unfinished">Muokkaa kommenttia...</translation>
     </message>
     <message>
         <source>Recent files</source>
-        <translation>Viimeksi käytetyt tiedostot</translation>
+        <translation type="unfinished">Viimeksi käytetyt tiedostot</translation>
     </message>
     <message>
         <source>Thumbnails + Filenames</source>
-        <translation>Esikatselukuvat + tiedostonimet</translation>
+        <translation type="unfinished">Esikatselukuvat + tiedostonimet</translation>
     </message>
     <message>
         <source>Videos (+folders)</source>
-        <translation>Videot (+kansiot)</translation>
+        <translation type="unfinished">Videot (+kansiot)</translation>
     </message>
     <message>
         <source>Change timestamp...</source>
-        <translation>Muuta aikaleima...</translation>
+        <translation type="unfinished">Muuta aikaleima...</translation>
     </message>
     <message>
         <source>Find similar files...</source>
-        <translation>Etsi samanlaisia tiedostoja...</translation>
+        <translation type="unfinished">Etsi samanlaisia tiedostoja...</translation>
     </message>
     <message>
         <source>Fit image to window width</source>
-        <translation>Sovita kuva ikkunan leveyteen</translation>
+        <translation type="unfinished">Sovita kuva ikkunan leveyteen</translation>
     </message>
     <message>
         <source>Rebuild thumbnails</source>
-        <translation>Päivitä esikatselukuvat</translation>
+        <translation type="unfinished">Päivitä esikatselukuvat</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Nimeä uudelleen...</translation>
+        <translation type="unfinished">Nimeä uudelleen...</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Mukautettu</translation>
+        <translation type="unfinished">Mukautettu</translation>
     </message>
     <message>
         <source>Contact sheet...</source>
-        <translation>Kontaktiarkki...</translation>
+        <translation type="unfinished">Kontaktiarkki...</translation>
     </message>
     <message>
         <source>View as Thumbnails+Details</source>
-        <translation>Näytä esikatselukuvat + tiedot</translation>
+        <translation type="unfinished">Näytä esikatselukuvat + tiedot</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Uusi kansio</translation>
+        <translation type="unfinished">Uusi kansio</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Kansio</translation>
+        <translation type="unfinished">Kansio</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Kuvat</translation>
+        <translation type="unfinished">Kuvat</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation>Käännä merkintä</translation>
+        <translation type="unfinished">Käännä merkintä</translation>
     </message>
     <message>
         <source>Send by email...</source>
-        <translation>Lähetä sähköpostilla...</translation>
+        <translation type="unfinished">Lähetä sähköpostilla...</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation>Ulkoasu</translation>
+        <translation type="unfinished">Ulkoasu</translation>
     </message>
     <message>
         <source>Banner...</source>
-        <translation>Banneri...</translation>
+        <translation type="unfinished">Banneri...</translation>
     </message>
     <message>
         <source>No fit</source>
-        <translation>Älä sovita</translation>
+        <translation type="unfinished">Älä sovita</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation>Skannaa (TWAIN)</translation>
+        <translation type="unfinished">Skannaa (TWAIN)</translation>
     </message>
     <message>
         <source>Print size</source>
-        <translation>Tulostuskoko</translation>
+        <translation type="unfinished">Tulostuskoko</translation>
     </message>
     <message>
         <source>Panels</source>
-        <translation>Paneelit</translation>
+        <translation type="unfinished">Paneelit</translation>
     </message>
     <message>
         <source>Batch convert...</source>
-        <translation>Muuntaminen sarjana...</translation>
+        <translation type="unfinished">Muuntaminen sarjana...</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation type="unfinished">Luokitus</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Nimeä uudelleen</translation>
+        <translation type="unfinished">Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Open file list...</source>
-        <translation>Avaa tiedostolista...</translation>
+        <translation type="unfinished">Avaa tiedostolista...</translation>
     </message>
     <message>
         <source>Edit XMP...</source>
-        <translation>Muokkaa XMP:tä...</translation>
+        <translation type="unfinished">Muokkaa XMP:tä...</translation>
     </message>
     <message>
         <source>Sounds</source>
-        <translation>Äänitiedostot</translation>
+        <translation type="unfinished">Äänitiedostot</translation>
     </message>
     <message>
         <source>Select all files</source>
-        <translation>Valitse kaikki tiedostot</translation>
+        <translation type="unfinished">Valitse kaikki tiedostot</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Videot</translation>
+        <translation type="unfinished">Videot</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation>&amp;Luo</translation>
+        <translation type="unfinished">&amp;Luo</translation>
     </message>
     <message>
         <source>Update files from catalog</source>
-        <translation>Päivitä tiedostot luettelosta</translation>
+        <translation type="unfinished">Päivitä tiedostot luettelosta</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Suuntaus</translation>
+        <translation type="unfinished">Suuntaus</translation>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Sovita kuva ikkunaan (vain pienet kuvat)</translation>
+        <translation type="unfinished">Sovita kuva ikkunaan (vain pienet kuvat)</translation>
     </message>
     <message>
         <source>Fit image to window height</source>
-        <translation>Sovita kuva ikkunan korkeuteen</translation>
+        <translation type="unfinished">Sovita kuva ikkunan korkeuteen</translation>
     </message>
     <message>
         <source>New image...</source>
-        <translation>Uusi kuva...</translation>
+        <translation type="unfinished">Uusi kuva...</translation>
     </message>
     <message>
         <source>View as Details</source>
-        <translation>Näytä tiedot</translation>
+        <translation type="unfinished">Näytä tiedot</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation>Avaa...</translation>
+        <translation type="unfinished">Avaa...</translation>
     </message>
     <message>
         <source>Set as wallpaper...</source>
-        <translation>Aseta taustakuvaksi...</translation>
+        <translation type="unfinished">Aseta taustakuvaksi...</translation>
     </message>
     <message>
         <source>Compare...</source>
-        <translation>Vertailu...</translation>
+        <translation type="unfinished">Vertailu...</translation>
     </message>
     <message>
         <source>Show blue</source>
-        <translation>Näytä sininen</translation>
+        <translation type="unfinished">Näytä sininen</translation>
     </message>
     <message>
         <source>Show header</source>
-        <translation>Näytä ylätunniste</translation>
+        <translation type="unfinished">Näytä ylätunniste</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation>Uusi kansio</translation>
+        <translation type="unfinished">Uusi kansio</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation>Näytä piilotetut tiedostot</translation>
+        <translation type="unfinished">Näytä piilotetut tiedostot</translation>
     </message>
     <message>
         <source>Image Width</source>
-        <translation>Kuvan leveys</translation>
+        <translation type="unfinished">Kuvan leveys</translation>
     </message>
     <message>
         <source>Info panels</source>
-        <translation>Tietoikkunat</translation>
+        <translation type="unfinished">Tietoikkunat</translation>
     </message>
     <message>
         <source>Export...</source>
-        <translation>Vie...</translation>
+        <translation type="unfinished">Vie...</translation>
     </message>
     <message>
         <source>Filelist toolbar</source>
-        <translation>Tiedostolista työkalupalkki</translation>
+        <translation type="unfinished">Tiedostolista työkalupalkki</translation>
     </message>
     <message>
         <source>Fair (move to next image)</source>
-        <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
+        <translation type="unfinished">Kohtuullinen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation>Siirrä kansioon...</translation>
+        <translation type="unfinished">Siirrä kansioon...</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Esikatselu</translation>
+        <translation type="unfinished">Esikatselu</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Kopioi leikepöydälle</translation>
+        <translation type="unfinished">Kopioi leikepöydälle</translation>
     </message>
     <message>
         <source>Real size</source>
-        <translation>Todellinen koko</translation>
+        <translation type="unfinished">Todellinen koko</translation>
     </message>
     <message>
         <source>Face tag...</source>
-        <translation>Kasvojen tunnistus...</translation>
+        <translation type="unfinished">Kasvojen tunnistus...</translation>
     </message>
     <message>
         <source>Select tagged files</source>
-        <translation>Valitse merkityt tiedostot</translation>
+        <translation type="unfinished">Valitse merkityt tiedostot</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation>Etsi...</translation>
+        <translation type="unfinished">Etsi...</translation>
     </message>
     <message>
         <source>File listing...</source>
-        <translation>Tiedostolista...</translation>
+        <translation type="unfinished">Tiedostolista...</translation>
     </message>
     <message>
         <source>Archives</source>
-        <translation>Pakatut</translation>
+        <translation type="unfinished">Pakatut</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation>Kategoria</translation>
+        <translation type="unfinished">Kategoria</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Päivitä</translation>
+        <translation type="unfinished">Päivitä</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>Keskinkertainen</translation>
+        <translation type="unfinished">Keskinkertainen</translation>
     </message>
     <message>
         <source>Fit window to image</source>
-        <translation>Sovita ikkuna kuvakokooon</translation>
+        <translation type="unfinished">Sovita ikkuna kuvakokooon</translation>
     </message>
     <message>
         <source>EXIF Thumbnail</source>
-        <translation>EXIF esikatselukuva</translation>
+        <translation type="unfinished">EXIF esikatselukuva</translation>
     </message>
     <message>
         <source>Switch panel...</source>
-        <translation>Vaihda paneelia...</translation>
+        <translation type="unfinished">Vaihda paneelia...</translation>
     </message>
     <message>
         <source>Remove from all categories</source>
-        <translation>Poista kaikista kategorioista</translation>
+        <translation type="unfinished">Poista kaikista kategorioista</translation>
     </message>
     <message>
         <source>Send by FTP...</source>
-        <translation>Lähetä käyttäen FTP:tä...</translation>
+        <translation type="unfinished">Lähetä käyttäen FTP:tä...</translation>
     </message>
     <message>
         <source>Name - numeric order</source>
-        <translation>Nimi - numeerinen järjestys</translation>
+        <translation type="unfinished">Nimi - numeerinen järjestys</translation>
     </message>
     <message>
         <source>Print...</source>
-        <translation>Tulosta...</translation>
+        <translation type="unfinished">Tulosta...</translation>
     </message>
     <message>
         <source>Layout 1</source>
-        <translation>Asettelu 1</translation>
+        <translation type="unfinished">Asettelu 1</translation>
     </message>
     <message>
         <source>Layout 2</source>
-        <translation>Asettelu 2</translation>
+        <translation type="unfinished">Asettelu 2</translation>
     </message>
     <message>
         <source>Layout 3</source>
-        <translation>Asettelu 3</translation>
+        <translation type="unfinished">Asettelu 3</translation>
     </message>
     <message>
         <source>Layout 4</source>
-        <translation>Asettelu 4</translation>
+        <translation type="unfinished">Asettelu 4</translation>
     </message>
     <message>
         <source>Layout 5</source>
-        <translation>Asettelu 5</translation>
+        <translation type="unfinished">Asettelu 5</translation>
     </message>
     <message>
         <source>Layout 6</source>
-        <translation>Asettelu 6</translation>
+        <translation type="unfinished">Asettelu 6</translation>
     </message>
     <message>
         <source>Layout 7</source>
-        <translation>Asettelu 7</translation>
+        <translation type="unfinished">Asettelu 7</translation>
     </message>
     <message>
         <source>Layout 8</source>
-        <translation>Asettelu 8</translation>
+        <translation type="unfinished">Asettelu 8</translation>
     </message>
     <message>
         <source>Open GPS location in</source>
-        <translation>Näytä GPS-sijainti</translation>
+        <translation type="unfinished">Näytä GPS-sijainti</translation>
     </message>
     <message>
         <source>Show alpha</source>
-        <translation>Näytä alfa</translation>
+        <translation type="unfinished">Näytä alfa</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>Show green</source>
-        <translation>Näytä vihreä</translation>
+        <translation type="unfinished">Näytä vihreä</translation>
     </message>
     <message>
         <source>Use tabs</source>
-        <translation>Käytä välilehtiä</translation>
+        <translation type="unfinished">Käytä välilehtiä</translation>
     </message>
     <message>
         <source>Remove from category</source>
-        <translation>Poista kategoriasta</translation>
+        <translation type="unfinished">Poista kategoriasta</translation>
     </message>
     <message>
         <source>Transfer...</source>
-        <translation>Siirrä...</translation>
+        <translation type="unfinished">Siirrä...</translation>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Sovita kuva ikkunaan (vain suuret kuvat)</translation>
+        <translation type="unfinished">Sovita kuva ikkunaan (vain suuret kuvat)</translation>
     </message>
     <message>
         <source>Good (move to next image)</source>
-        <translation>Hyvä (siirry seuraavaan kuvaan)</translation>
+        <translation type="unfinished">Hyvä (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>View as Icons</source>
-        <translation>Näytä kuvakkeet</translation>
+        <translation type="unfinished">Näytä kuvakkeet</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation>Laskeva</translation>
+        <translation type="unfinished">Laskeva</translation>
     </message>
     <message>
         <source>Excellent</source>
-        <translation>Erinomainen</translation>
+        <translation type="unfinished">Erinomainen</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation>Nouseva</translation>
+        <translation type="unfinished">Nouseva</translation>
     </message>
     <message>
         <source>Name - alphabetic order</source>
-        <translation>Nimi - aakkosjärjestys</translation>
+        <translation type="unfinished">Nimi - aakkosjärjestys</translation>
     </message>
     <message>
         <source>Lock zoom</source>
-        <translation>Lukitse Zoomaus</translation>
+        <translation type="unfinished">Lukitse Zoomaus</translation>
     </message>
     <message>
         <source>Images (+folders)</source>
-        <translation>Kuvat (+kansiot)</translation>
+        <translation type="unfinished">Kuvat (+kansiot)</translation>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
-        <translation>Esikatselukuvat + tietoikkuna</translation>
+        <translation type="unfinished">Esikatselukuvat + tietoikkuna</translation>
     </message>
     <message>
         <source>Select none</source>
-        <translation>Älä valitse mitään</translation>
+        <translation type="unfinished">Älä valitse mitään</translation>
     </message>
     <message>
         <source>First file</source>
-        <translation>Ensimmäinen tiedosto</translation>
+        <translation type="unfinished">Ensimmäinen tiedosto</translation>
     </message>
     <message>
         <source>Uncolored</source>
-        <translation>Ei väriä</translation>
+        <translation type="unfinished">Ei väriä</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Ensimmäinen sivu</translation>
+        <translation type="unfinished">Ensimmäinen sivu</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Kommentti</translation>
+        <translation type="unfinished">Kommentti</translation>
     </message>
     <message>
         <source>Last file</source>
-        <translation>Viimeinen tiedosto</translation>
+        <translation type="unfinished">Viimeinen tiedosto</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Viimeinen sivu</translation>
+        <translation type="unfinished">Viimeinen sivu</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Järjestä käyttäen</translation>
+        <translation type="unfinished">Järjestä käyttäen</translation>
     </message>
     <message>
         <source>Untag all</source>
-        <translation>Älä merkitse mitään</translation>
+        <translation type="unfinished">Älä merkitse mitään</translation>
     </message>
     <message>
         <source>Show source panels</source>
-        <translation>Näytä lähdeikkunat</translation>
+        <translation type="unfinished">Näytä lähdeikkunat</translation>
     </message>
     <message>
         <source>Histogram</source>
-        <translation>Histogrammi</translation>
+        <translation type="unfinished">Histogrammi</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Oletus</translation>
+        <translation type="unfinished">Oletus</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostotyyppi</translation>
+        <translation type="unfinished">Tiedostotyyppi</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Tiedot</translation>
+        <translation type="unfinished">Tiedot</translation>
     </message>
     <message>
         <source>EXIF Date Taken</source>
-        <translation>EXIF kuvauspäivä</translation>
+        <translation type="unfinished">EXIF kuvauspäivä</translation>
     </message>
     <message>
         <source>Edit IPTC...</source>
-        <translation>Muokkaa IPTC:tä...</translation>
+        <translation type="unfinished">Muokkaa IPTC:tä...</translation>
     </message>
     <message>
         <source>File operations</source>
-        <translation>Tiedostotoiminnot</translation>
+        <translation type="unfinished">Tiedostotoiminnot</translation>
     </message>
     <message>
         <source>Import and sort...</source>
-        <translation>Tuo ja lajittele...</translation>
+        <translation type="unfinished">Tuo ja lajittele...</translation>
     </message>
     <message>
         <source>Vertical tabs</source>
-        <translation>Pystysuuntaiset välilehdet</translation>
+        <translation type="unfinished">Pystysuuntaiset välilehdet</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
-        <translation>Esikatselukuvat + tiedot</translation>
+        <translation type="unfinished">Esikatselukuvat + tiedot</translation>
     </message>
     <message>
         <source>Tagged file(s)</source>
-        <translation>Merkityt tiedostot</translation>
+        <translation type="unfinished">Merkityt tiedostot</translation>
     </message>
     <message>
         <source>Unrated (move to next image)</source>
-        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
+        <translation type="unfinished">Luokittelematon (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation>Työkalupalkki</translation>
+        <translation type="unfinished">Työkalupalkki</translation>
     </message>
     <message>
         <source>Copy to...</source>
-        <translation>Kopioi kansioon...</translation>
+        <translation type="unfinished">Kopioi kansioon...</translation>
     </message>
     <message>
         <source>Average (move to next image)</source>
-        <translation>Keskinkertainen (siirry seuraavaan kuvaan)</translation>
+        <translation type="unfinished">Keskinkertainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
-        <translation>EXIF muokkauspäivä</translation>
+        <translation type="unfinished">EXIF muokkauspäivä</translation>
     </message>
     <message>
         <source>Filter by All</source>
-        <translation>Suodata kaikki</translation>
+        <translation type="unfinished">Suodata kaikki</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Valitse kaikki</translation>
+        <translation type="unfinished">Valitse kaikki</translation>
     </message>
     <message>
         <source>Status bar</source>
-        <translation>Tilarivi</translation>
+        <translation type="unfinished">Tilarivi</translation>
     </message>
     <message>
         <source>Capture...</source>
-        <translation>Kaappaa...</translation>
+        <translation type="unfinished">Kaappaa...</translation>
     </message>
     <message>
         <source>Previous file</source>
-        <translation>Edellinen tiedosto</translation>
+        <translation type="unfinished">Edellinen tiedosto</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Edellinen sivu</translation>
+        <translation type="unfinished">Edellinen sivu</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation>Kategoriat</translation>
+        <translation type="unfinished">Kategoriat</translation>
     </message>
     <message>
         <source>##label## (move to next image)</source>
-        <translation>##label## (siirry seuraavaan kuvaan))</translation>
+        <translation type="unfinished">##ikkuna## (siirry seuraavaan kuvaan))</translation>
     </message>
     <message>
         <source>Slideshow...</source>
-        <translation>Kuvaesitys...</translation>
+        <translation type="unfinished">Kuvaesitys...</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Luokittelematon</translation>
+        <translation type="unfinished">Luokittelematon</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation>Metatiedot</translation>
+        <translation type="unfinished">Metatiedot</translation>
     </message>
     <message>
         <source>Edit GPS data...</source>
-        <translation>Muokkaa GPS-dataa...</translation>
+        <translation type="unfinished">Muokkaa GPS-dataa...</translation>
     </message>
     <message>
         <source>Select all images</source>
-        <translation>Valitse kaikki kuvat</translation>
+        <translation type="unfinished">Valitse kaikki kuvat</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation>Näytä</translation>
+        <translation type="unfinished">Näytä</translation>
     </message>
     <message>
         <source>Fit image to window</source>
-        <translation>Sovita kuva ikkunaan</translation>
+        <translation type="unfinished">Sovita kuva ikkunaan</translation>
     </message>
     <message>
         <source>Selected path(s)</source>
-        <translation>Valitut kansiot</translation>
+        <translation type="unfinished">Valitut kansiot</translation>
     </message>
     <message>
         <source>Thumbnails view only</source>
-        <translation>Vain esikatselukuvanäyttö</translation>
+        <translation type="unfinished">Vain esikatselukuvanäyttö</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Suosikit</translation>
+        <translation type="unfinished">Suosikit</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Eteenpäin</translation>
+        <translation type="unfinished">Eteenpäin</translation>
     </message>
     <message>
         <source>Properties...</source>
-        <translation>Ominaisuudet...</translation>
+        <translation type="unfinished">Ominaisuudet...</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation>Kuvan koko</translation>
+        <translation type="unfinished">Kuvan koko</translation>
     </message>
     <message>
         <source>View as List</source>
-        <translation>Näytä lista</translation>
+        <translation type="unfinished">Näytä lista</translation>
     </message>
     <message>
         <source>Name - normal order</source>
-        <translation>Nimi - normaali järjestys</translation>
+        <translation type="unfinished">Nimi - normaali järjestys</translation>
     </message>
     <message>
         <source>Convert into</source>
-        <translation>Muunna tähän kansioon</translation>
+        <translation type="unfinished">Muunna tähän kansioon</translation>
     </message>
     <message>
         <source>Multi-page file...</source>
-        <translation>Monisivu-tiedosto...</translation>
+        <translation type="unfinished">Monisivu-tiedosto...</translation>
     </message>
     <message>
         <source>JPEG lossless transformations</source>
-        <translation>JPEG-tiedostojen häviöttömät muunnokset</translation>
+        <translation type="unfinished">JPEG-tiedostojen häviöttömät muunnokset</translation>
     </message>
     <message>
         <source>Acquire into (TWAIN)...</source>
-        <translation>Sarjaskannaus (TWAIN)...</translation>
+        <translation type="unfinished">Sarjaskannaus (TWAIN)...</translation>
     </message>
     <message>
         <source>Open all selected</source>
-        <translation>Avaa kaikki valitut</translation>
+        <translation type="unfinished">Avaa kaikki valitut</translation>
     </message>
     <message>
         <source>Invert selection</source>
-        <translation>Käännä valinta</translation>
+        <translation type="unfinished">Käännä valinta</translation>
     </message>
     <message>
         <source>View as Thumbnails</source>
-        <translation>Näytä esikatselukuvat</translation>
+        <translation type="unfinished">Näytä esikatselukuvat</translation>
     </message>
     <message>
         <source>Selected filename(s)</source>
-        <translation>Valitut tiedostonimet</translation>
+        <translation type="unfinished">Valitut tiedostonimet</translation>
     </message>
     <message>
         <source>Preview as tab</source>
-        <translation>Esikatselu välilehtenä tietoikkunassa</translation>
+        <translation type="unfinished">Esikatselu välilehtenä tietoikkunassa</translation>
     </message>
     <message>
         <source>Film strip 1</source>
-        <translation>Filminauha 1</translation>
+        <translation type="unfinished">Filminauha 1</translation>
     </message>
     <message>
         <source>Film strip 2</source>
-        <translation>Filminauha 2</translation>
+        <translation type="unfinished">Filminauha 2</translation>
     </message>
     <message>
         <source>Open in file explorer</source>
-        <translation>Avaa resurssienhallinassa</translation>
+        <translation type="unfinished">Avaa resurssienhallinassa</translation>
     </message>
     <message>
         <source>View as Thumbnails+Labels</source>
-        <translation>Näytä esikatselukuvat + tietoikkunat</translation>
+        <translation type="unfinished">Näytä esikatselukuvat + tietoikkunat</translation>
     </message>
     <message>
         <source>Draw as tiled</source>
-        <translation>Piirrä vierekkäin</translation>
+        <translation type="unfinished">Piirrä vierekkäin</translation>
     </message>
     <message>
         <source>Batch rename...</source>
-        <translation>Uudelleen nimeäminen sarjana...</translation>
+        <translation type="unfinished">Uudelleen nimeäminen sarjana...</translation>
     </message>
     <message>
         <source>Archive...</source>
-        <translation>Paketti...</translation>
+        <translation type="unfinished">Paketti...</translation>
     </message>
     <message>
         <source>Category Search</source>
-        <translation>Kategoriahaku</translation>
+        <translation type="unfinished">Kategoriahaku</translation>
     </message>
     <message>
         <source>Fit image to window width or height</source>
-        <translation>Sovita kuva ikkunan leveyteen tai korkeuteen</translation>
+        <translation type="unfinished">Sovita kuva ikkunan leveyteen tai korkeuteen</translation>
     </message>
     <message>
         <source>Next file</source>
-        <translation>Seuraava tiedosto</translation>
+        <translation type="unfinished">Seuraava tiedosto</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Seuraava sivu</translation>
+        <translation type="unfinished">Seuraava sivu</translation>
     </message>
     <message>
         <source>Show red</source>
-        <translation>Näytä punainen</translation>
+        <translation type="unfinished">Näytä punainen</translation>
     </message>
     <message>
         <source>Thumbnails size</source>
-        <translation>Esikatselukuvien koko</translation>
+        <translation type="unfinished">Esikatselukuvien koko</translation>
     </message>
     <message>
         <source>View as Thumbnails+Filename</source>
-        <translation>Näytä esikatselukuvat + tiedostonimet</translation>
+        <translation type="unfinished">Näytä esikatselukuvat + tiedostonimet</translation>
     </message>
     <message>
         <source>Created Date</source>
-        <translation>Luontipäivä</translation>
+        <translation type="unfinished">Luontipäivä</translation>
     </message>
     <message>
         <source>Show tag box</source>
-        <translation>Näytä merkintäruutu</translation>
+        <translation type="unfinished">Näytä merkintäruutu</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
-        <translation>Luettelosuodin</translation>
+        <translation type="unfinished">Luettelosuodin</translation>
     </message>
     <message>
         <source>Navigate to</source>
-        <translation>Siirry kohtaan</translation>
+        <translation type="unfinished">Siirry kohtaan</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Polku</translation>
+        <translation type="unfinished">Polku</translation>
     </message>
     <message>
         <source>Meta&amp;data</source>
-        <translation>Meta&amp;tiedot</translation>
+        <translation type="unfinished">Meta&amp;tiedot</translation>
     </message>
     <message>
         <source>Clear &amp;&amp; Import...</source>
-        <translation>Tyhjennä &amp;&amp; tuo...</translation>
+        <translation type="unfinished">Tyhjennä &amp;&amp; tuo...</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation type="unfinished">Luettelo</translation>
     </message>
     <message>
         <source>Tag/Untag current</source>
-        <translation>Merkitse/poista merkintä</translation>
+        <translation type="unfinished">Merkitse/poista merkintä</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation>Sovita kuva työpöydälle</translation>
+        <translation type="unfinished">Sovita kuva työpöydälle</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation>Näytä alikansioiden tiedostot</translation>
+        <translation type="unfinished">Näytä tiedostot alikansioista</translation>
     </message>
     <message>
         <source>Rotate 90° right</source>
-        <translation>Käännä 90° oikealle</translation>
+        <translation type="unfinished">Käännä 90° oikealle</translation>
     </message>
     <message>
         <source>Rotate 90° left</source>
-        <translation>Käännä 90° vasemmalle</translation>
+        <translation type="unfinished">Käännä 90° vasemmalle</translation>
     </message>
     <message>
         <source>Rotate 90° right (lossless)</source>
-        <translation>Käännä 90° oikealle (häviötön)</translation>
+        <translation type="unfinished">Käännä 90° oikealle (häviötön)</translation>
     </message>
     <message>
         <source>Rotate 90° left (lossless)</source>
-        <translation>Käännä 90° vasemmalle (häviötön)</translation>
+        <translation type="unfinished">Käännä 90° vasemmalle (häviötön)</translation>
     </message>
     <message>
         <source>Rotate 180° (lossless)</source>
-        <translation>Käännä 180° (häviötön)</translation>
+        <translation type="unfinished">Käännä 180° (häviötön)</translation>
     </message>
     <message>
         <source>Flip horizontally (lossless)</source>
-        <translation>Käännä vaakasuunnassa (häviötön)</translation>
+        <translation type="unfinished">Käännä vaakasuunnassa (häviötön)</translation>
     </message>
     <message>
         <source>Flip vertically (lossless)</source>
-        <translation>Käännä pystysuunnassa (häviötön)</translation>
+        <translation type="unfinished">Käännä pystysuunnassa (häviötön)</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rotate 90° left</source>
-        <translation>EXIF-esikatselukuva - Käännä 90° vasemmalle</translation>
+        <translation type="unfinished">EXIF-esikatselukuva - Käännä 90° vasemmalle</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rotate 90° right</source>
-        <translation>EXIF-esikatselukuva - Käännä 90° oikealle</translation>
+        <translation type="unfinished">EXIF-esikatselukuva - Käännä 90° oikealle</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
@@ -15545,7 +15544,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Open with</source>
-        <translation>Avaa sovelluksessa</translation>
+        <translation type="unfinished">Avaa sovelluksessa</translation>
     </message>
     <message>
         <source>Paste as image</source>
@@ -15556,178 +15555,178 @@ Haluatko jatkaa?</translation>
     <name>MenuGlobal</name>
     <message>
         <source>Tab</source>
-        <translation>Kuvaselain-välilehti</translation>
+        <translation type="unfinished">Kuvaselain-välilehti</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Lopeta</translation>
+        <translation type="unfinished">Lopeta</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Näytä</translation>
+        <translation type="unfinished">Näytä</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation>Asetukset...</translation>
+        <translation type="unfinished">Asetukset...</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Tietoja</translation>
+        <translation type="unfinished">Tietoja</translation>
     </message>
     <message>
         <source>Titlebar</source>
-        <translation>Nimipalkki</translation>
+        <translation type="unfinished">Nimipalkki</translation>
     </message>
     <message>
         <source>Recent files</source>
-        <translation>Viimeksi käytetyt tiedostot</translation>
+        <translation type="unfinished">Viimeksi käytetyt tiedostot</translation>
     </message>
     <message>
         <source>Report a Bug...</source>
-        <translation>Ilmoita virheestä...</translation>
+        <translation type="unfinished">Ilmoita virheestä...</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alhaalla</translation>
+        <translation type="unfinished">Alhaalla</translation>
     </message>
     <message>
         <source>Registration...</source>
-        <translation>Rekisteröinti...</translation>
+        <translation type="unfinished">Rekisteröinti...</translation>
     </message>
     <message>
         <source>Technical Support...</source>
-        <translation>Tekninen tuki...</translation>
+        <translation type="unfinished">Tekninen tuki...</translation>
     </message>
     <message>
         <source>Check for update...</source>
-        <translation>Tarkista päivitykset...</translation>
+        <translation type="unfinished">Tarkista päivitykset...</translation>
     </message>
     <message>
         <source>Make a donation...</source>
-        <translation>Lahjoita...</translation>
+        <translation type="unfinished">Lahjoita...</translation>
     </message>
     <message>
         <source>Wiki...</source>
-        <translation>Wiki...</translation>
+        <translation type="unfinished">Wiki...</translation>
     </message>
     <message>
         <source>Always on top</source>
-        <translation>Aina päällimmäisenä</translation>
+        <translation type="unfinished">Aina päällimmäisenä</translation>
     </message>
     <message>
         <source>Website...</source>
-        <translation>Verkkosivu...</translation>
+        <translation type="unfinished">Verkkosivu...</translation>
     </message>
     <message>
         <source>Forum...</source>
-        <translation>Foorumi...</translation>
+        <translation type="unfinished">Foorumi...</translation>
     </message>
     <message>
         <source>Purchase...</source>
-        <translation>Osta...</translation>
+        <translation type="unfinished">Osta...</translation>
     </message>
     <message>
         <source>PlugIns...</source>
-        <translation>Lisäosat...</translation>
+        <translation type="unfinished">Lisäosat...</translation>
     </message>
 </context>
 <context>
     <name>MenuTemplate</name>
     <message>
         <source>XMP</source>
-        <translation>XMP</translation>
+        <translation type="unfinished">XMP</translation>
     </message>
     <message>
         <source>Extra</source>
-        <translation>Extra</translation>
+        <translation type="unfinished">Extra</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Kuva</translation>
+        <translation type="unfinished">Kuva</translation>
     </message>
     <message>
         <source>Date format variables</source>
-        <translation>Päiväysmuoto-variaatiot</translation>
+        <translation type="unfinished">Päiväysmuoto-variaatiot</translation>
     </message>
     <message>
         <source>m - Month as decimal (01-12)</source>
-        <translation>k - Kuukausi numerointi (01-12)</translation>
+        <translation type="unfinished">k - Kuukausi numerointi (01-12)</translation>
     </message>
     <message>
         <source>a - Abbreviated weekday name (eg. wed)</source>
-        <translation>Viikonpäivä - lyhennys (esim. Keskiv)</translation>
+        <translation type="unfinished">Viikonpäivä - lyhennys (esim. Keskiv)</translation>
     </message>
     <message>
         <source>Y - Year</source>
-        <translation>V - Vuosi</translation>
+        <translation type="unfinished">Y - Year</translation>
     </message>
     <message>
         <source>B - Month name (eg. february)</source>
-        <translation>B - Kuukauden nimi (esim. Helmikuu)</translation>
+        <translation type="unfinished">B - Kuukauden nimi (esim. Helmikuu)</translation>
     </message>
     <message>
         <source>S - Second (00-59)</source>
-        <translation>S - Sekunti (00-59)</translation>
+        <translation type="unfinished">S - Sekunti (00-59)</translation>
     </message>
     <message>
         <source>Saved Image</source>
-        <translation>Tallenettu kuva</translation>
+        <translation type="unfinished">Tallenettu kuva</translation>
     </message>
     <message>
         <source>d - Day as decimal (01-31)</source>
-        <translation>p - Päivä numerointi (01-31)</translation>
+        <translation type="unfinished">p - Päivä numerointi (01-31)</translation>
     </message>
     <message>
         <source>M - Minute (00-59)</source>
-        <translation>M - Minuutti (00-59)</translation>
+        <translation type="unfinished">M - Minuutti (00-59)</translation>
     </message>
     <message>
         <source>EXIF - GPS</source>
-        <translation>EXIF - GPS</translation>
+        <translation type="unfinished">EXIF - GPS</translation>
     </message>
     <message>
         <source>A - Weekday name (eg. wednesday)</source>
-        <translation>A - Viikonpäivä (esim. Keskiviikko)</translation>
+        <translation type="unfinished">A - Viikonpäivä (esim. Keskiviikko)</translation>
     </message>
     <message>
         <source>IPTC - Origin</source>
-        <translation>IPTC - Alkuperäinen</translation>
+        <translation type="unfinished">IPTC - Alkuperäinen</translation>
     </message>
     <message>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
-        <translation>IPTC-avainsanat &amp;&amp;kategoriat</translation>
+        <translation type="unfinished">IPTC-avainsanat &amp;&amp;kategoriat</translation>
     </message>
     <message>
         <source>EXIF - Image</source>
-        <translation>EXIF - Kuva</translation>
+        <translation type="unfinished">EXIF - Kuva</translation>
     </message>
     <message>
         <source>IPTC - Status</source>
-        <translation>IPTC - Tila</translation>
+        <translation type="unfinished">IPTC - Tila</translation>
     </message>
     <message>
         <source>IPTC - Caption</source>
-        <translation>IPTC - Kuvateksti</translation>
+        <translation type="unfinished">IPTC - Kuvateksti</translation>
     </message>
     <message>
         <source>b - Abbreviated month name (eg. feb)</source>
-        <translation>b - Kuukauden nimi - lyhennys (esim. helmi)</translation>
+        <translation type="unfinished">b - Kuukauden nimi - lyhennys (esim. helmi)</translation>
     </message>
     <message>
         <source>EXIF - Camera</source>
-        <translation>EXIF - Kamera</translation>
+        <translation type="unfinished">EXIF - Kamera</translation>
     </message>
     <message>
         <source>y - Year without century (00-99)</source>
-        <translation>v - Vuosi ilman vuosisataa (00-99)</translation>
+        <translation type="unfinished">y - Year without century (00-99)</translation>
     </message>
     <message>
         <source>IPTC - Credits</source>
-        <translation>IPTC - Ansiot</translation>
+        <translation type="unfinished">IPTC - Ansiot</translation>
     </message>
     <message>
         <source>H - Hour (01-24)</source>
-        <translation>T - Tunti (01-24)</translation>
+        <translation type="unfinished">T - Tunti (01-24)</translation>
     </message>
     <message>
         <source># - Numeric enumerator</source>
@@ -15738,763 +15737,763 @@ Haluatko jatkaa?</translation>
     <name>MenuView</name>
     <message>
         <source>Cut</source>
-        <translation>Leikkaa</translation>
+        <translation type="unfinished">Leikkaa</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation>Kartta</translation>
+        <translation type="unfinished">Kartta</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Yläpuolelle</translation>
+        <translation type="unfinished">Yläpuolelle</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation>100%</translation>
+        <translation type="unfinished">100%</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Kopioi</translation>
+        <translation type="unfinished">Kopioi</translation>
     </message>
     <message>
         <source>Fair</source>
-        <translation>Kohtuullinen</translation>
+        <translation type="unfinished">Kohtuullinen</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Tiedosto</translation>
+        <translation type="unfinished">Tiedosto</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation>Vapaa</translation>
+        <translation type="unfinished">Vapaa</translation>
     </message>
     <message>
         <source>Good</source>
-        <translation>Hyvä</translation>
+        <translation type="unfinished">Hyvä</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasemmalle</translation>
+        <translation type="unfinished">Vasemmalle</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Sivu</translation>
+        <translation type="unfinished">Sivu</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Polku</translation>
+        <translation type="unfinished">Polku</translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>Huono</translation>
+        <translation type="unfinished">Huono</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Tee uudelleen</translation>
+        <translation type="unfinished">Tee uudelleen</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Tallenna</translation>
+        <translation type="unfinished">Tallenna</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Peru</translation>
+        <translation type="unfinished">Peru</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoomaus</translation>
+        <translation type="unfinished">Zoomaus</translation>
     </message>
     <message>
         <source>Filename and path</source>
-        <translation>Tiedostonimi ja -polku</translation>
+        <translation type="unfinished">Tiedostonimi ja -polku</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Muokkaa</translation>
+        <translation type="unfinished">&amp;Muokkaa</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Tiedosto</translation>
+        <translation type="unfinished">&amp;Tiedosto</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Ohje</translation>
+        <translation type="unfinished">O&amp;hje</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;Näytä</translation>
+        <translation type="unfinished">&amp;Näytä</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>Quick Slideshow</source>
-        <translation>Pika-kuvaesitys</translation>
+        <translation type="unfinished">Pika-kuvaesitys</translation>
     </message>
     <message>
         <source>Paste outside</source>
-        <translation>Liitä kuvan viereen</translation>
+        <translation type="unfinished">Liitä kuvan viereen</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation type="unfinished">Alfa</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sulje</translation>
+        <translation type="unfinished">Sulje</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Liitä</translation>
+        <translation type="unfinished">Liitä</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikealle</translation>
+        <translation type="unfinished">Oikealle</translation>
     </message>
     <message>
         <source>US Letter (1.29)</source>
-        <translation>US Kirje (1.29)</translation>
+        <translation type="unfinished">US Kirje (1.29)</translation>
     </message>
     <message>
         <source>High zoom quality</source>
-        <translation>Korkea zoomauslaatu</translation>
+        <translation type="unfinished">Korkea zoomauslaatu</translation>
     </message>
     <message>
         <source>Automatic levels</source>
-        <translation>Automaattitasot</translation>
+        <translation type="unfinished">Automaattitasot</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Käytä alfa-kanavaa</translation>
+        <translation type="unfinished">Käytä alfa-kanavaa</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>Käännä EXIF-suuntausmerkintöjen mukaisesti</translation>
+        <translation type="unfinished">Käännä EXIF-suuntausmerkintöjen mukaisesti</translation>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
-        <translation>Nollaa EXIF-suuntauskentät</translation>
+        <translation type="unfinished">Nollaa EXIF-suuntauskentät</translation>
     </message>
     <message>
         <source>Join images...</source>
-        <translation>Kuvayhdistelmä...</translation>
+        <translation type="unfinished">Kuvayhdistelmä...</translation>
     </message>
     <message>
         <source>Change color depth...</source>
-        <translation>Muuta värisyvyyttä...</translation>
+        <translation type="unfinished">Muuta värisyvyyttä...</translation>
     </message>
     <message>
         <source>Select TWAIN source...</source>
-        <translation>Valitse skanneri...</translation>
+        <translation type="unfinished">Valitse skanneri...</translation>
     </message>
     <message>
         <source>Open in Finder</source>
-        <translation>Avaa Etsimessä</translation>
+        <translation type="unfinished">Avaa Etsimessä</translation>
     </message>
     <message>
         <source>Red-Eye correction</source>
-        <translation>Punasilmäisyyden korjaus</translation>
+        <translation type="unfinished">Punasilmäisyyden korjaus</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation>Näytä tiedot</translation>
+        <translation type="unfinished">Näytä tiedot</translation>
     </message>
     <message>
         <source>Extract channel</source>
-        <translation>Poimi värikanava</translation>
+        <translation type="unfinished">Poimi värikanava</translation>
     </message>
     <message>
         <source>Automatic Deskew</source>
-        <translation>Autom. oikaisu</translation>
+        <translation type="unfinished">Autom. oikaisu</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
-        <translation>Käännä 180°</translation>
+        <translation type="unfinished">Käännä 180°</translation>
     </message>
     <message>
         <source>Use checkerboard pattern</source>
-        <translation>Käytä shakkitaulukuviota</translation>
+        <translation type="unfinished">Käytä shakkitaulukuviota</translation>
     </message>
     <message>
         <source>&amp;Image</source>
-        <translation>&amp;Kuva</translation>
+        <translation type="unfinished">&amp;Kuva</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation>Työ&amp;kalut</translation>
+        <translation type="unfinished">Työ&amp;kalut</translation>
     </message>
     <message>
         <source>Delete...</source>
-        <translation>Poista...</translation>
+        <translation type="unfinished">Poista...</translation>
     </message>
     <message>
         <source>Align...</source>
-        <translation>Kohdista...</translation>
+        <translation type="unfinished">Kohdista...</translation>
     </message>
     <message>
         <source>A4, A3, ... (1.41)</source>
-        <translation>A4, A3, ... (1.41)</translation>
+        <translation type="unfinished">A4, A3, ... (1.41)</translation>
     </message>
     <message>
         <source>Empty tab...</source>
-        <translation>Tyhjä välilehti...</translation>
+        <translation type="unfinished">Tyhjä välilehti...</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Koko näyttö</translation>
+        <translation type="unfinished">Koko näyttö</translation>
     </message>
     <message>
         <source>Edit comment...</source>
-        <translation>Muokkaa kommenttia...</translation>
+        <translation type="unfinished">Muokkaa kommenttia...</translation>
     </message>
     <message>
         <source>Recent files</source>
-        <translation>Viimeksi käytetyt tiedostot</translation>
+        <translation type="unfinished">Viimeksi käytetyt tiedostot</translation>
     </message>
     <message>
         <source>Restore selection</source>
-        <translation>Palauta valinta</translation>
+        <translation type="unfinished">Palauta valinta</translation>
     </message>
     <message>
         <source>Fit image to window width</source>
-        <translation>Sovita kuva ikkunan leveyteen</translation>
+        <translation type="unfinished">Sovita kuva ikkunan leveyteen</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>Säädä</translation>
+        <translation type="unfinished">Säädä</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Nimeä uudelleen...</translation>
+        <translation type="unfinished">Nimeä uudelleen...</translation>
     </message>
     <message>
         <source>Set DPI...</source>
-        <translation>Aseta DPI...</translation>
+        <translation type="unfinished">Aseta DPI...</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alapuolelle</translation>
+        <translation type="unfinished">Alapuolelle</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Selaa kansioita</translation>
+        <translation type="unfinished">Selaa kansioita</translation>
     </message>
     <message>
         <source>Effect</source>
-        <translation>Tehoste</translation>
+        <translation type="unfinished">Tehoste</translation>
     </message>
     <message>
         <source>Contact sheet...</source>
-        <translation>Kontaktiarkki...</translation>
+        <translation type="unfinished">Kontaktiarkki...</translation>
     </message>
     <message>
         <source>Mirror</source>
-        <translation>Peilikuva</translation>
+        <translation type="unfinished">Peilikuva</translation>
     </message>
     <message>
         <source>No fit</source>
-        <translation>Älä sovita</translation>
+        <translation type="unfinished">Älä sovita</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation>Lue skannerista tai kamerasta (TWAIN)</translation>
+        <translation type="unfinished">Lue skannerista tai kamerasta (TWAIN)</translation>
     </message>
     <message>
         <source>Batch convert...</source>
-        <translation>Muuntaminen sarjana...</translation>
+        <translation type="unfinished">Muuntaminen sarjana...</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Lataa uudelleen</translation>
+        <translation type="unfinished">Lataa uudelleen</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Käännä</translation>
+        <translation type="unfinished">Käännä</translation>
     </message>
     <message>
         <source>Remove alpha channel</source>
-        <translation>Poista alfakanava</translation>
+        <translation type="unfinished">Poista alfakanava</translation>
     </message>
     <message>
         <source>Edit XMP...</source>
-        <translation>Muokkaa XMP:tä...</translation>
+        <translation type="unfinished">Muokkaa XMP:tä...</translation>
     </message>
     <message>
         <source>Random file</source>
-        <translation>Satunnainen tiedosto</translation>
+        <translation type="unfinished">Satunnainen tiedosto</translation>
     </message>
     <message>
         <source>Shadow/Highlight...</source>
-        <translation>Varjo/Valoisuus...</translation>
+        <translation type="unfinished">Varjo/Valoisuus...</translation>
     </message>
     <message>
         <source>Show histogram</source>
-        <translation>Näytä histogrammi</translation>
+        <translation type="unfinished">Näytä histogrammi</translation>
     </message>
     <message>
         <source>Old camera...</source>
-        <translation>Vanha kamera...</translation>
+        <translation type="unfinished">Vanha kamera...</translation>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Sovita kuva ikkunaan (vain pienet kuvat)</translation>
+        <translation type="unfinished">Sovita kuva ikkunaan (vain pienet kuvat)</translation>
     </message>
     <message>
         <source>Vignetting...</source>
-        <translation>Vinjetointi...</translation>
+        <translation type="unfinished">Vinjetointi...</translation>
     </message>
     <message>
         <source>Fit image to window height</source>
-        <translation>Sovita kuva ikkunan korkeuteen</translation>
+        <translation type="unfinished">Sovita kuva ikkunan korkeuteen</translation>
     </message>
     <message>
         <source>Go to x,y location...</source>
-        <translation>Siirry x, y -sijaintiin...</translation>
+        <translation type="unfinished">Siirry x, y -sijaintiin...</translation>
     </message>
     <message>
         <source>New image...</source>
-        <translation>Uusi kuva...</translation>
+        <translation type="unfinished">Uusi kuva...</translation>
     </message>
     <message>
         <source>Fixed ratio</source>
-        <translation>Muokattu kuvasuhde</translation>
+        <translation type="unfinished">Muokattu kuvasuhde</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation>Avaa...</translation>
+        <translation type="unfinished">Avaa...</translation>
     </message>
     <message>
         <source>Cinema 1 (1.85)</source>
-        <translation>Elokuva 1 (1.85)</translation>
+        <translation type="unfinished">Elokuva 1 (1.85)</translation>
     </message>
     <message>
         <source>Cinema 2 (2.35)</source>
-        <translation>Elokuva 2 (2.35)</translation>
+        <translation type="unfinished">Elokuva 2 (2.35)</translation>
     </message>
     <message>
         <source>Set as wallpaper...</source>
-        <translation>Aseta taustakuvaksi...</translation>
+        <translation type="unfinished">Aseta taustakuvaksi...</translation>
     </message>
     <message>
         <source>Canvas resize...</source>
-        <translation>Kuva-alueen koko...</translation>
+        <translation type="unfinished">Kuva-alueen koko...</translation>
     </message>
     <message>
         <source>Show grid</source>
-        <translation>Näytä ruudukko</translation>
+        <translation type="unfinished">Näytä ruudukko</translation>
     </message>
     <message>
         <source>Show blue</source>
-        <translation>Näytä sininen</translation>
+        <translation type="unfinished">Näytä sininen</translation>
     </message>
     <message>
         <source>Export...</source>
-        <translation>Vie...</translation>
+        <translation type="unfinished">Vie...</translation>
     </message>
     <message>
         <source>Save as...</source>
-        <translation>Tallenna nimellä...</translation>
+        <translation type="unfinished">Tallenna nimellä...</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation>Siirrä kansioon...</translation>
+        <translation type="unfinished">Siirrä kansioon...</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Kopioi leikepöydälle</translation>
+        <translation type="unfinished">Kopioi leikepöydälle</translation>
     </message>
     <message>
         <source>Enhance colors...</source>
-        <translation>Paranna värejä...</translation>
+        <translation type="unfinished">Paranna värejä...</translation>
     </message>
     <message>
         <source>Film simulation...</source>
-        <translation>Filmisimulaatio...</translation>
+        <translation type="unfinished">Filmisimulaatio...</translation>
     </message>
     <message>
         <source>Real size</source>
-        <translation>Todellinen koko</translation>
+        <translation type="unfinished">Todellinen koko</translation>
     </message>
     <message>
         <source>Print selection...</source>
-        <translation>Tulosta valinta...</translation>
+        <translation type="unfinished">Tulosta valinta...</translation>
     </message>
     <message>
         <source>Normalize...</source>
-        <translation>Normalisoi...</translation>
+        <translation type="unfinished">Normalisoi...</translation>
     </message>
     <message>
         <source>Desaturate</source>
-        <translation>Poista värikylläisyyttä</translation>
+        <translation type="unfinished">Poista värikylläisyyttä</translation>
     </message>
     <message>
         <source>Equalize</source>
-        <translation>Tasoitus</translation>
+        <translation type="unfinished">Tasoitus</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation>Tallenna kaikki</translation>
+        <translation type="unfinished">Tallenna kaikki</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>Keskinkertainen</translation>
+        <translation type="unfinished">Keskinkertainen</translation>
     </message>
     <message>
         <source>Fit window to image</source>
-        <translation>Sovita ikkuna kuvakokoon</translation>
+        <translation type="unfinished">Sovita ikkuna kuvakokoon</translation>
     </message>
     <message>
         <source>Send by FTP...</source>
-        <translation>Lähetä käyttäen FTP:tä...</translation>
+        <translation type="unfinished">Lähetä käyttäen FTP:tä...</translation>
     </message>
     <message>
         <source>Print...</source>
-        <translation>Tulosta...</translation>
+        <translation type="unfinished">Tulosta...</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation>Normalisoi</translation>
+        <translation type="unfinished">Normalisoi</translation>
     </message>
     <message>
         <source>Open GPS location in</source>
-        <translation>Näytä GPS-sijainti</translation>
+        <translation type="unfinished">Näytä GPS-sijainti</translation>
     </message>
     <message>
         <source>Show alpha</source>
-        <translation>Näytä alfa</translation>
+        <translation type="unfinished">Näytä alfa</translation>
     </message>
     <message>
         <source>Solarize...</source>
-        <translation>Valotus...</translation>
+        <translation type="unfinished">Valotus...</translation>
     </message>
     <message>
         <source>Show green</source>
-        <translation>Näytä vihreä</translation>
+        <translation type="unfinished">Show green</translation>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Sovita ikkunaan vain suuret kuvat</translation>
+        <translation type="unfinished">Sovita ikkunaan vain suuret kuvat</translation>
     </message>
     <message>
         <source>Excellent</source>
-        <translation>Erinomainen</translation>
+        <translation type="unfinished">Erinomainen</translation>
     </message>
     <message>
         <source>Curves...</source>
-        <translation>Kaaret...</translation>
+        <translation type="unfinished">Kaaret...</translation>
     </message>
     <message>
         <source>Lock zoom</source>
-        <translation>Lukitse Zoomaus</translation>
+        <translation type="unfinished">Lukitse Zoomaus</translation>
     </message>
     <message>
         <source>Resize...</source>
-        <translation>Muuta kokoa...</translation>
+        <translation type="unfinished">Muuta kokoa...</translation>
     </message>
     <message>
         <source>Grid settings...</source>
-        <translation>Ruudukon asetukset...</translation>
+        <translation type="unfinished">Ruudukon asetukset...</translation>
     </message>
     <message>
         <source>Select none</source>
-        <translation>Älä valitse mitään</translation>
+        <translation type="unfinished">Älä valitse mitään</translation>
     </message>
     <message>
         <source>First file</source>
-        <translation>Ensimmäinen tiedosto</translation>
+        <translation type="unfinished">Ensimmäinen tiedosto</translation>
     </message>
     <message>
         <source>Uncolored</source>
-        <translation>Ei väriä</translation>
+        <translation type="unfinished">Ei väriä</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Ensimmäinen sivu</translation>
+        <translation type="unfinished">Ensimmäinen sivu</translation>
     </message>
     <message>
         <source>Last file</source>
-        <translation>Viimeinen tiedosto</translation>
+        <translation type="unfinished">Viimeinen tiedosto</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Viimeinen sivu</translation>
+        <translation type="unfinished">Viimeinen sivu</translation>
     </message>
     <message>
         <source>User filter...</source>
-        <translation>Käyttäjän suotimet...</translation>
+        <translation type="unfinished">Käyttäjän suotimet...</translation>
     </message>
     <message>
         <source>Image content</source>
-        <translation>Kuvan sisältö</translation>
+        <translation type="unfinished">Kuvan sisältö</translation>
     </message>
     <message>
         <source>Spotlight...</source>
-        <translation>Spotlight-palkki...</translation>
+        <translation type="unfinished">Spotlight-palkki...</translation>
     </message>
     <message>
         <source>Automatic contrast</source>
-        <translation>Automaattinen kontrasti</translation>
+        <translation type="unfinished">Automaattinen kontrasti</translation>
     </message>
     <message>
         <source>Save selection</source>
-        <translation>Tallenna valinta</translation>
+        <translation type="unfinished">Tallenna valinta</translation>
     </message>
     <message>
         <source>Add text...</source>
-        <translation>Lisää teksti...</translation>
+        <translation type="unfinished">Lisää teksti...</translation>
     </message>
     <message>
         <source>Rotate...</source>
-        <translation>Käännä...</translation>
+        <translation type="unfinished">Käännä...</translation>
     </message>
     <message>
         <source>Crop...</source>
-        <translation>Rajaa...</translation>
+        <translation type="unfinished">Rajaa...</translation>
     </message>
     <message>
         <source>Clean metadata...</source>
-        <translation>Poista metatiedot...</translation>
+        <translation type="unfinished">Poista metatiedot...</translation>
     </message>
     <message>
         <source>Edit IPTC...</source>
-        <translation>Muokkaa IPTC:tä...</translation>
+        <translation type="unfinished">Muokkaa IPTC:tä...</translation>
     </message>
     <message>
         <source>Selection - swap width &amp;&amp; height</source>
-        <translation>Käännä valinta pysty-/vaakasuuntaan</translation>
+        <translation type="unfinished">Käännä valinta pysty-/vaakasuuntaan</translation>
     </message>
     <message>
         <source>Toolbar</source>
-        <translation>Työkalupalkki</translation>
+        <translation type="unfinished">Työkalupalkki</translation>
     </message>
     <message>
         <source>Copy to...</source>
-        <translation>Kopioi kansioon...</translation>
+        <translation type="unfinished">Kopioi kansioon...</translation>
     </message>
     <message>
         <source>Draw...</source>
-        <translation>Piirtotyökalut...</translation>
+        <translation type="unfinished">Piirtotyökalut...</translation>
     </message>
     <message>
         <source>Show colour information</source>
-        <translation>Näytä väritiedot</translation>
+        <translation type="unfinished">Näytä väritiedot</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Valitse kaikki</translation>
+        <translation type="unfinished">Valitse kaikki</translation>
     </message>
     <message>
         <source>Status bar</source>
-        <translation>Tilarivi</translation>
+        <translation type="unfinished">Tilarivi</translation>
     </message>
     <message>
         <source>Capture...</source>
-        <translation>Kaappaa...</translation>
+        <translation type="unfinished">Kaappaa...</translation>
     </message>
     <message>
         <source>Negative</source>
-        <translation>Negatiivi</translation>
+        <translation type="unfinished">Negatiivi</translation>
     </message>
     <message>
         <source>Previous file</source>
-        <translation>Edellinen tiedosto</translation>
+        <translation type="unfinished">Edellinen tiedosto</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Edellinen sivu</translation>
+        <translation type="unfinished">Edellinen sivu</translation>
     </message>
     <message>
         <source>Adobe Photoshop Plugin...</source>
-        <translation>Adobe Photoshop lisäosa...</translation>
+        <translation type="unfinished">Adobe Photoshop lisäosa...</translation>
     </message>
     <message>
         <source>Open with</source>
-        <translation>Avaa sovelluksessa</translation>
+        <translation type="unfinished">Avaa sovelluksessa</translation>
     </message>
     <message>
         <source>Slideshow...</source>
-        <translation>Kuvaesitys...</translation>
+        <translation type="unfinished">Kuvaesitys...</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Luokittelematon</translation>
+        <translation type="unfinished">Luokittelematon</translation>
     </message>
     <message>
         <source>Sepia...</source>
-        <translation>Seepia...</translation>
+        <translation type="unfinished">Seepia...</translation>
     </message>
     <message>
         <source>Effect...</source>
-        <translation>Tehoste...</translation>
+        <translation type="unfinished">Tehoste...</translation>
     </message>
     <message>
         <source>Levels...</source>
-        <translation>Tasot...</translation>
+        <translation type="unfinished">Tasot...</translation>
     </message>
     <message>
         <source>Same as image</source>
-        <translation>Sama kuin kuva</translation>
+        <translation type="unfinished">Sama kuin kuva</translation>
     </message>
     <message>
         <source>Background color...</source>
-        <translation>Taustaväri...</translation>
+        <translation type="unfinished">Taustaväri...</translation>
     </message>
     <message>
         <source>Fit image to window</source>
-        <translation>Sovita kuva ikkunaan</translation>
+        <translation type="unfinished">Sovita kuva ikkunaan</translation>
     </message>
     <message>
         <source>Save selection...</source>
-        <translation>Tallenna valinta...</translation>
+        <translation type="unfinished">Tallenna valinta...</translation>
     </message>
     <message>
         <source>Properties...</source>
-        <translation>Ominaisuudet...</translation>
+        <translation type="unfinished">Ominaisuudet...</translation>
     </message>
     <message>
         <source>Offset...</source>
-        <translation>Siirtymä...</translation>
+        <translation type="unfinished">Siirtymä...</translation>
     </message>
     <message>
         <source>Navigate to</source>
-        <translation>Siirry kohtaan</translation>
+        <translation type="unfinished">Siirry kohtaan</translation>
     </message>
     <message>
         <source>JPEG lossless transformations</source>
-        <translation>JPEG-tiedostojen häviöttömät muunnokset</translation>
+        <translation type="unfinished">JPEG-tiedostojen häviöttömät muunnokset</translation>
     </message>
     <message>
         <source>Acquire into (TWAIN)...</source>
-        <translation>Sarjaskannaus (TWAIN)...</translation>
+        <translation type="unfinished">Sarjaskannaus (TWAIN)...</translation>
     </message>
     <message>
         <source>White Balance...</source>
-        <translation>Valkotasapaino...</translation>
+        <translation type="unfinished">Valkotasapaino...</translation>
     </message>
     <message>
         <source>Open in file explorer</source>
-        <translation>Avaa resurssienhallinnassa</translation>
+        <translation type="unfinished">Avaa resurssienhallinnassa</translation>
     </message>
     <message>
         <source>Posterize...</source>
-        <translation>Porrastus...</translation>
+        <translation type="unfinished">Porrastus...</translation>
     </message>
     <message>
         <source>Show people&apos;s region</source>
-        <translation>Näytä henkilöiden alue</translation>
+        <translation type="unfinished">Näytä henkilöiden alue</translation>
     </message>
     <message>
         <source>Format settings...</source>
-        <translation>Formaattiasetukset...</translation>
+        <translation type="unfinished">Formaattiasetukset...</translation>
     </message>
     <message>
         <source>Fit image to window width or height</source>
-        <translation>Sovita kuva ikkunan leveyteen tai korkeuteen</translation>
+        <translation type="unfinished">Sovita kuva ikkunan leveyteen tai korkeuteen</translation>
     </message>
     <message>
         <source>Next file</source>
-        <translation>Seuraava tiedosto</translation>
+        <translation type="unfinished">Seuraava tiedosto</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Seuraava sivu</translation>
+        <translation type="unfinished">Seuraava sivu</translation>
     </message>
     <message>
         <source>Show red</source>
-        <translation>Näytä punainen</translation>
+        <translation type="unfinished">Show red</translation>
     </message>
     <message>
         <source>Count colors used</source>
-        <translation>Laske kuvassa käytettävät värit</translation>
+        <translation type="unfinished">Laske kuvassa käytettävät värit</translation>
     </message>
     <message>
         <source>Start/stop animation</source>
-        <translation>Käynnistä/Pysäytä animaatio</translation>
+        <translation type="unfinished">Käynnistä/Pysäytä animaatio</translation>
     </message>
     <message>
         <source>Add watermark...</source>
-        <translation>Lisää vesileima...</translation>
+        <translation type="unfinished">Lisää vesileima...</translation>
     </message>
     <message>
         <source>Swap color</source>
-        <translation>Vaihda väriä</translation>
+        <translation type="unfinished">Vaihda väriä</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation>Sovita kuva työpöydälle</translation>
+        <translation type="unfinished">Sovita kuva työpöydälle</translation>
     </message>
     <message>
         <source>Tag/Untag current</source>
-        <translation>Merkitse/poista merkintä</translation>
+        <translation type="unfinished">Merkitse/poista merkintä</translation>
     </message>
     <message>
         <source>Remove Background</source>
-        <translation>Poista tausta</translation>
+        <translation type="unfinished">Poista tausta</translation>
     </message>
     <message>
         <source>Rotate 90° right</source>
-        <translation>Käännä 90° oikealle</translation>
+        <translation type="unfinished">Käännä 90° oikealle</translation>
     </message>
     <message>
         <source>Rotate 90° left</source>
-        <translation>Käännä 90° vasemmalle</translation>
+        <translation type="unfinished">Käännä 90° vasemmalle</translation>
     </message>
     <message>
         <source>Flip horizontally</source>
-        <translation>Käännä vaakasuunnassa</translation>
+        <translation type="unfinished">Käännä vaakasuunnassa</translation>
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation>Käännä pystysuunnassa</translation>
+        <translation type="unfinished">Käännä pystysuunnassa</translation>
     </message>
     <message>
         <source>Rotate 90° right (lossless)</source>
-        <translation>Käännä 90° oikealle (häviötön)</translation>
+        <translation type="unfinished">Käännä 90° oikealle (häviötön)</translation>
     </message>
     <message>
         <source>Rotate 90° left (lossless)</source>
-        <translation>Käännä 90° vasemmalle (häviötön)</translation>
+        <translation type="unfinished">Käännä 90° vasemmalle (häviötön)</translation>
     </message>
     <message>
         <source>Rotate 180° (lossless)</source>
-        <translation>Käännä 180° (häviötön)</translation>
+        <translation type="unfinished">Käännä 180° (häviötön)</translation>
     </message>
     <message>
         <source>Flip horizontally (lossless)</source>
-        <translation>Käännä vaakasuunnassa (häviötön)</translation>
+        <translation type="unfinished">Käännä vaakasuunnassa (häviötön)</translation>
     </message>
     <message>
         <source>Flip vertically (lossless)</source>
-        <translation>Käännä pystysuunnassa (häviötön)</translation>
+        <translation type="unfinished">Käännä pystysuunnassa (häviötön)</translation>
     </message>
     <message>
         <source>Crop (lossless)</source>
-        <translation>Rajaus (häviötön)</translation>
+        <translation type="unfinished">Rajaa (häviötön)</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation>Metatiedot</translation>
+        <translation type="unfinished">Metatiedot</translation>
     </message>
     <message>
         <source>RGB→RBG</source>
@@ -16589,144 +16588,144 @@ Haluatko jatkaa?</translation>
     <name>Misc</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation>mm</translation>
+        <translation type="unfinished">mm</translation>
     </message>
     <message>
         <source>GiB</source>
-        <translation>GiB</translation>
+        <translation type="unfinished">GiB</translation>
     </message>
     <message>
         <source>KiB</source>
-        <translation>KiB</translation>
+        <translation type="unfinished">KiB</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MiB</translation>
+        <translation type="unfinished">MiB</translation>
     </message>
     <message>
         <source>Bytes</source>
-        <translation>Bittiä</translation>
+        <translation type="unfinished">Bittiä</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation>Avaa kuva</translation>
+        <translation type="unfinished">Avaa kuva</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä-keskellä</translation>
+        <translation type="unfinished">Ylhäältä-Alas</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskellä-oikealla</translation>
+        <translation type="unfinished">Keskeltä-Oikealle</translation>
     </message>
     <message>
         <source>Open XnView database</source>
-        <translation>Avaa XnView-tietokanta</translation>
+        <translation type="unfinished">Avaa XnView-tietokanta</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation type="unfinished">Ylhäältä-Oikealle</translation>
     </message>
     <message>
         <source>An error occurred during processing!</source>
-        <translation>Käsittelyn aikana tapahtui virhe!</translation>
+        <translation type="unfinished">Käsittelyn aikana tapahtui virhe!</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskelle</translation>
+        <translation type="unfinished">Keskelle</translation>
     </message>
     <message>
         <source>Open Image(s)</source>
-        <translation>Avaa kuvat</translation>
+        <translation type="unfinished">Avaa kuvat</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation type="unfinished">Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation type="unfinished">Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>inches</source>
-        <translation>tuumaa</translation>
+        <translation type="unfinished">tuumaa</translation>
     </message>
     <message>
         <source>Choose audio file</source>
-        <translation>Valitse äänitiedosto</translation>
+        <translation type="unfinished">Valitse äänitiedosto</translation>
     </message>
     <message>
         <source>Choose command</source>
-        <translation>Valitse komento</translation>
+        <translation type="unfinished">Valitse komento</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalla-keskellä</translation>
+        <translation type="unfinished">Alhaalta-Keskelle</translation>
     </message>
     <message>
         <source>Choose icon</source>
-        <translation>Valitse kuvake</translation>
+        <translation type="unfinished">Valitse kuvake</translation>
     </message>
     <message>
         <source>Open Text File</source>
-        <translation>Avaa tekstitiedosto</translation>
+        <translation type="unfinished">Avaa tekstitiedosto</translation>
     </message>
     <message>
         <source>Last used</source>
-        <translation>Viimeksi käytetty</translation>
+        <translation type="unfinished">Viimeksi käytetty</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Valitse kansio</translation>
+        <translation type="unfinished">Valitse kansio</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskellä-vasemmalla</translation>
+        <translation type="unfinished">Keskeltä-Vasemmalle</translation>
     </message>
     <message>
         <source>Save File</source>
-        <translation>Tallenna tiedosto</translation>
+        <translation type="unfinished">Tallenna tiedosto</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation type="unfinished">Alhaalta-Oikealle</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation>Kaiki tiedostot</translation>
+        <translation type="unfinished">Kaiki tiedostot</translation>
     </message>
 </context>
 <context>
     <name>MyAddFolderProcess</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Building catalog entries...</source>
-        <translation>Luodaan luettelomerkinnät...</translation>
+        <translation type="unfinished">Luodaan luettelomerkinnät...</translation>
     </message>
 </context>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
         <source>Build thumbnails...</source>
-        <translation>Luodaan esikatselukuvat...</translation>
+        <translation type="unfinished">Luodaan esikatselukuvat...</translation>
     </message>
 </context>
 <context>
     <name>MyAddFolderProcess3</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Check folders...</source>
-        <translation>Tarkistakansiot...</translation>
+        <translation type="unfinished">Tarkistakansiot...</translation>
     </message>
 </context>
 <context>
@@ -16740,209 +16739,209 @@ Haluatko jatkaa?</translation>
     <name>MyDirModel</name>
     <message>
         <source>Home</source>
-        <translation>Koti</translation>
+        <translation type="unfinished">Koti</translation>
     </message>
     <message>
         <source>Computer</source>
-        <translation>Tietokone</translation>
+        <translation type="unfinished">Tietokone</translation>
     </message>
     <message>
         <source>New Folder %1</source>
-        <translation>Uusi kansio %1</translation>
+        <translation type="unfinished">Uusi kansio %1</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>Työpöytä</translation>
+        <translation type="unfinished">Työpöytä</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation>Kansiot</translation>
+        <translation type="unfinished">Kansiot</translation>
     </message>
     <message>
         <source>Volumes</source>
-        <translation>Määrät</translation>
+        <translation type="unfinished">Määrät</translation>
     </message>
 </context>
 <context>
     <name>MyFileComboEdit</name>
     <message>
         <source>Images</source>
-        <translation>Kuvat</translation>
+        <translation type="unfinished">Kuvat</translation>
     </message>
     <message>
         <source>Choose a file</source>
-        <translation>Valitse tiedosto</translation>
+        <translation type="unfinished">Valitse tiedosto</translation>
     </message>
 </context>
 <context>
     <name>MyFolderComboEdit</name>
     <message>
         <source>Choose a pathname</source>
-        <translation>Valitse tiedostopolku</translation>
+        <translation type="unfinished">Valitse tiedostopolku</translation>
     </message>
 </context>
 <context>
     <name>MyFolderEdit</name>
     <message>
         <source>Choose a pathname</source>
-        <translation>Valitse tiedostopolku</translation>
+        <translation type="unfinished">Valitse tiedostopolku</translation>
     </message>
 </context>
 <context>
     <name>MyFolderView</name>
     <message>
         <source>Are you sure to delete this folder?</source>
-        <translation>Oletko varma, että haluat poistaa tämän kansion?</translation>
+        <translation type="unfinished">Oletko varma, että haluat poistaa tämän kansion?</translation>
     </message>
     <message>
         <source>Delete folder</source>
-        <translation>Poista kansio</translation>
+        <translation type="unfinished">Poista kansio</translation>
     </message>
 </context>
 <context>
     <name>MyHistogram</name>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation type="unfinished">RGB</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sulje</translation>
+        <translation type="unfinished">Sulje</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Luminance</source>
-        <translation>Luminanssi</translation>
+        <translation type="unfinished">Luminanssi</translation>
     </message>
     <message>
         <source>RGB+Luminance</source>
-        <translation>RGB+Luminanssi</translation>
+        <translation type="unfinished">RGB+Luminanssi</translation>
     </message>
     <message>
         <source>Dark background</source>
-        <translation>Tumma tausta</translation>
+        <translation type="unfinished">Tumma tausta</translation>
     </message>
     <message>
         <source>Light background</source>
-        <translation>Vaalea tausta</translation>
+        <translation type="unfinished">Vaalea tausta</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation>Läpinäkyvä</translation>
+        <translation type="unfinished">Läpinäkyvä</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBar</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Liukusäätimellä voit muuttaa esikatselukuvien kokoa [pikseleinä] ja määrää saraketta kohden</translation>
+        <translation type="unfinished">Liukusäätimellä voit muuttaa esikatselukuvien kokoa [pikseleinä] ja määrää saraketta kohden</translation>
     </message>
 </context>
 <context>
     <name>MyProgressDialog</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
 </context>
 <context>
     <name>MyProgressThreadDialog</name>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation>Odota...</translation>
+        <translation type="unfinished">Odota...</translation>
     </message>
 </context>
 <context>
     <name>MyTabBar</name>
     <message>
         <source>Duplicate tab</source>
-        <translation>Monista välilehti</translation>
+        <translation type="unfinished">Monista välilehti</translation>
     </message>
     <message>
         <source>&amp;Close tab</source>
-        <translation>&amp;Sulje välilehti</translation>
+        <translation type="unfinished">&amp;Sulje välilehti</translation>
     </message>
     <message>
         <source>Iconify tabs</source>
-        <translation>Kuvakkeellista välilehdet</translation>
+        <translation type="unfinished">Kuvakkeellista välilehdet</translation>
     </message>
     <message>
         <source>Close &amp;other tabs</source>
-        <translation>Sulje &amp;muut välilehdet</translation>
+        <translation type="unfinished">Sulje &amp;muut välilehdet</translation>
     </message>
     <message>
         <source>Tab settings...</source>
-        <translation>Välilehti asetukset...</translation>
+        <translation type="unfinished">Välilehti asetukset...</translation>
     </message>
     <message>
         <source>Close this tab</source>
-        <translation>Sulje tämä täppi</translation>
+        <translation type="unfinished">Sulje tämä täppi</translation>
     </message>
 </context>
 <context>
     <name>MyTemplateComboEdit</name>
     <message>
         <source>Clear</source>
-        <translation>Tyhjennä</translation>
+        <translation type="unfinished">Tyhjennä</translation>
     </message>
 </context>
 <context>
     <name>MyThumbView</name>
     <message>
         <source>All</source>
-        <translation>Kaikki</translation>
+        <translation type="unfinished">Kaikki</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>Updating catalog, please wait...</source>
-        <translation>Päivitetään luetteloa, odota...</translation>
+        <translation type="unfinished">Päivitetään luetteloa, odota...</translation>
     </message>
     <message numerus="yes">
         <source>%n object(s)</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n objekti</numerusform>
             <numerusform>%n objekti(a)</numerusform>
         </translation>
     </message>
     <message>
         <source>Updating files, please wait...</source>
-        <translation>Päivitetään tiedostoja, odota...</translation>
+        <translation type="unfinished">Päivitetään tiedostoja, odota,,,</translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n objekti [%2 %3]</numerusform>
             <numerusform>%n objekti(a) [%2 %3]</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) selected [%3 %4]</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%n objekti valittu [%3 %4]</numerusform>
             <numerusform>%n objekti(a) valittu [%3 %4]</numerusform>
         </translation>
     </message>
     <message>
         <source>[Free disk space: %1 %2]</source>
-        <translation>Vapaa levytila: %1 %2]</translation>
+        <translation type="unfinished">Vapaa levytila: %1 %2]</translation>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
@@ -16955,337 +16954,337 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     <name>MyView</name>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation type="unfinished">RGB</translation>
     </message>
     <message>
         <source>RGB/A</source>
-        <translation>RGB/A</translation>
+        <translation type="unfinished">RGB/A</translation>
     </message>
     <message>
         <source>Please visit the XnView %1 for more information.</source>
-        <translation>Käy katsomassa lisää tietoa sivulta %1. Kiitos.</translation>
+        <translation type="unfinished">Käy katsomassa lisää tietoa sivulta %1. Kiitos.</translation>
     </message>
     <message>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation>XnView MP vaatii, että Ghostscript %1 on asennettu järjestelmääsi PDF/PS/EPS/AI-tiedostojen katselua ja muuntamista varten.</translation>
+        <translation type="unfinished">XnView MP vaatii, että Ghostscript %1 on asennettu järjestelmääsi PDF/PS/EPS/AI-tiedostojen katselua ja muuntamista varten.</translation>
     </message>
 </context>
 <context>
     <name>OpenWith</name>
     <message>
         <source>Select a program</source>
-        <translation>Valitse ohjelma</translation>
+        <translation type="unfinished">Valitse ohjelma</translation>
     </message>
 </context>
 <context>
     <name>OpenWithMenu</name>
     <message>
         <source>Configure programs...</source>
-        <translation>Määrittele ohjelma...</translation>
+        <translation type="unfinished">Määrittele ohjelma...</translation>
     </message>
     <message>
         <source>Associated program</source>
-        <translation>Tiedostotyyppiin liitetty ohjelma</translation>
+        <translation type="unfinished">Tiedostotyyppiin liitetty ohjelma</translation>
     </message>
     <message>
         <source>Associated editor</source>
-        <translation>Tiedostotyyppiin liitetty editori</translation>
+        <translation type="unfinished">Tiedostotyyppiin liitetty editori</translation>
     </message>
 </context>
 <context>
     <name>PaintBitmapView</name>
     <message>
         <source>Move to back</source>
-        <translation>Siirrä taakse</translation>
+        <translation type="unfinished">Siirrä taakse</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Poista</translation>
+        <translation type="unfinished">Poista</translation>
     </message>
     <message>
         <source>Move to front</source>
-        <translation>Siirrä eteen</translation>
+        <translation type="unfinished">Siirrä eteen</translation>
     </message>
 </context>
 <context>
     <name>PaintDialog</name>
     <message>
         <source>Do you want to exit drawing and discard your changes?</source>
-        <translation>Haluatko lopettaa piirtämisen ja hylätä tekemäsi muutokset?</translation>
+        <translation type="unfinished">Haluatko lopettaa piirtämisen ja hylätä tekemäsi muutokset?</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation>Piirrä</translation>
+        <translation type="unfinished">Piirrä</translation>
     </message>
 </context>
 <context>
     <name>PaintText</name>
     <message>
         <source>Enter your text</source>
-        <translation>Lisää teksti</translation>
+        <translation type="unfinished">Lisää teksti</translation>
     </message>
 </context>
 <context>
     <name>PaintWidget</name>
     <message>
         <source>Set</source>
-        <translation>Aseta</translation>
+        <translation type="unfinished">Aseta</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Sumenna</translation>
+        <translation type="unfinished">Sumenna</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Lihavoitu</translation>
+        <translation type="unfinished">Lihavoitu</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation>Piirrä</translation>
+        <translation type="unfinished">Piirrä</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Fontti</translation>
+        <translation type="unfinished">Fontti</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasemmalle</translation>
+        <translation type="unfinished">Vasemmalle</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>Viiva</translation>
+        <translation type="unfinished">Viiva</translation>
     </message>
     <message>
         <source>Logo</source>
-        <translation>Logo</translation>
+        <translation type="unfinished">Logo</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Tee uudelleen</translation>
+        <translation type="unfinished">Tee uudelleen</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikealle</translation>
+        <translation type="unfinished">Oikealle</translation>
     </message>
     <message>
         <source>Stretch image</source>
-        <translation>Venytä kuvaa</translation>
+        <translation type="unfinished">Venytä kuvaa</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Lähennä</translation>
+        <translation type="unfinished">Lähennä</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation>Taustaväri</translation>
+        <translation type="unfinished">Taustaväri</translation>
     </message>
     <message>
         <source>Fill only</source>
-        <translation>Vain täyttö</translation>
+        <translation type="unfinished">Vain täyttö</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation type="unfinished">Ylä-oikealla</translation>
     </message>
     <message>
         <source>Draw a rectangle</source>
-        <translation>Piirrä suorakulmio</translation>
+        <translation type="unfinished">Piirrä suorakulmio</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskellä</translation>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
         <source>Effect</source>
-        <translation>Tehoste</translation>
+        <translation type="unfinished">Tehoste</translation>
     </message>
     <message>
         <source>Draw an ellipse</source>
-        <translation>Piirrä ympyrä</translation>
+        <translation type="unfinished">Piirrä ympyrä</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Kuvat</translation>
+        <translation type="unfinished">Kuvat</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Kursivoitu</translation>
+        <translation type="unfinished">Kursivoitu</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Valinta</translation>
+        <translation type="unfinished">Valinta</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation>Varjo</translation>
+        <translation type="unfinished">Varjo</translation>
     </message>
     <message>
         <source>Strike</source>
-        <translation>Yliviivattu</translation>
+        <translation type="unfinished">Yliviivattu</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation type="unfinished">Ala-vasemmalla</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoomaus 100%</translation>
+        <translation type="unfinished">Zoomaus 100%</translation>
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Valitse kuva</translation>
+        <translation type="unfinished">Valitse kuva</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation type="unfinished">Ylä-vasemmalla</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Loitonna</translation>
+        <translation type="unfinished">Loitonna</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Peittävyys</translation>
+        <translation type="unfinished">Peittävyys</translation>
     </message>
     <message>
         <source>Draw a line</source>
-        <translation>Piirrä viiva</translation>
+        <translation type="unfinished">Piirrä viiva</translation>
     </message>
     <message>
         <source>Enter your text</source>
-        <translation>Lisää teksti</translation>
+        <translation type="unfinished">Lisää teksti</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation type="unfinished">Sijainti</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Ääriviivat</translation>
+        <translation type="unfinished">Ääriviivat</translation>
     </message>
     <message>
         <source>Margin X</source>
-        <translation>X-marginaali</translation>
+        <translation type="unfinished">X-marginaali</translation>
     </message>
     <message>
         <source>Margin Y</source>
-        <translation>Y-marginaali</translation>
+        <translation type="unfinished">Y-marginaali</translation>
     </message>
     <message>
         <source>Draw [%1]</source>
-        <translation>Piirrä [%1]</translation>
+        <translation type="unfinished">Piirrä [%1]</translation>
     </message>
     <message>
         <source>Contour only</source>
-        <translation>Vain ääriviivat</translation>
+        <translation type="unfinished">Vain ääriviivat</translation>
     </message>
     <message>
         <source>Add text</source>
-        <translation>Lisää teksti</translation>
+        <translation type="unfinished">Lisää teksti</translation>
     </message>
     <message>
         <source>R: %1, G: %2, B: %3 [#%4]</source>
-        <translation>R: %1, V: %2, B: %3 [#%4]</translation>
+        <translation type="unfinished">R: %1, V: %2, B: %3 [#%4]</translation>
     </message>
     <message>
         <source>Fill + Contour</source>
-        <translation>Täyttö + ääriviivat</translation>
+        <translation type="unfinished">Täyttö + ääriviivat</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>Suorakulmio</translation>
+        <translation type="unfinished">Suorakulmio</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>Alleviivaus</translation>
+        <translation type="unfinished">Alleviivaus</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation>Värin poiminta</translation>
+        <translation type="unfinished">Värin poiminta</translation>
     </message>
     <message>
         <source>X: %1, Y: %2</source>
-        <translation></translation>
+        <translation type="unfinished">X: %1, Y: %2</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation>Ympyrä</translation>
+        <translation type="unfinished">Ympyrä</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>Keskitä</translation>
+        <translation type="unfinished">Keskitä</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Paras sovitus</translation>
+        <translation type="unfinished">Paras sovitus</translation>
     </message>
     <message>
         <source>Add a watermark</source>
-        <translation>Lisää vesileima</translation>
+        <translation type="unfinished">Lisää vesileima</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation type="unfinished">Ala-oikealla</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation>Siirtymä X</translation>
+        <translation type="unfinished">Siirtymä X</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation>Siirtymä Y</translation>
+        <translation type="unfinished">Siirtymä Y</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Esiasetukset</translation>
+        <translation type="unfinished">Esiasetukset</translation>
     </message>
     <message>
         <source>Include color</source>
-        <translation>Sisällytä väri</translation>
+        <translation type="unfinished">Sisällytä väri</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Nimi:</translation>
+        <translation type="unfinished">Nimi:</translation>
     </message>
     <message>
         <source>Preset name</source>
-        <translation>Esiasetuksen nimi</translation>
+        <translation type="unfinished">Esiasetuksen nimi</translation>
     </message>
     <message>
         <source>Add...</source>
-        <translation>Lisää...</translation>
+        <translation type="unfinished">Lisää...</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation>Hallinnoi...</translation>
+        <translation type="unfinished">Hallinnoi...</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation>Paksuus</translation>
+        <translation type="unfinished">Paksuus</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>Tyyli</translation>
+        <translation type="unfinished">Tyyli</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Täytä</translation>
+        <translation type="unfinished">Täytä</translation>
     </message>
     <message>
         <source>Arrows</source>
-        <translation>Nuolet</translation>
+        <translation type="unfinished">Nuolet</translation>
     </message>
 </context>
 <context>
@@ -17293,39 +17292,39 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     <message>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
-        <translation>Klikkaa ruutua valitaksesi kategoria, 
+        <translation type="unfinished">Klikkaa ruutua valitaksesi kategoria, 
 kaksoisklikkauksella voit nimetä sen uudelleen.
 Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Ominaisuudet</translation>
+        <translation type="unfinished">Ominaisuudet</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Esikatselu</translation>
+        <translation type="unfinished">Esikatselu</translation>
     </message>
     <message>
         <source>Histogram</source>
-        <translation>Histogrammi</translation>
+        <translation type="unfinished">Histogrammi</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation>Kategoriat</translation>
+        <translation type="unfinished">Kategoriat</translation>
     </message>
 </context>
 <context>
     <name>PathEditWidget</name>
     <message>
         <source>Choose a pathname</source>
-        <translation>Valitse polku</translation>
+        <translation type="unfinished">Valitse polku</translation>
     </message>
 </context>
 <context>
     <name>PreviewInfo</name>
     <message>
         <source>Preview</source>
-        <translation>Esikatselu</translation>
+        <translation type="unfinished">Esikatselu</translation>
     </message>
 </context>
 <context>
@@ -17333,776 +17332,776 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <message>
         <source>Listing directory failed:
 %1</source>
-        <translation>Hakemiston listaus epäonnistui:
+        <translation type="unfinished">Hakemiston listaus epäonnistui:
 %1</translation>
     </message>
     <message>
         <source>Creating directory failed:
 %1</source>
-        <translation>Hakemiston luominen epäonnistui:
+        <translation type="unfinished">Hakemiston luominen epäonnistui:
 %1</translation>
     </message>
     <message>
         <source>Not connected</source>
-        <translation>Ei yhteyttä</translation>
+        <translation type="unfinished">Ei yhteyttä</translation>
     </message>
     <message>
         <source>Connection refused for data connection</source>
-        <translation>Yhteys evätty datayhteydeltä</translation>
+        <translation type="unfinished">Yhteys evätty datayhteydeltä</translation>
     </message>
     <message>
         <source>Login failed:
 %1</source>
-        <translation>Kirjautuminen epäonnistui:
+        <translation type="unfinished">Kirjautuminen epäonnistui:
 %1</translation>
     </message>
     <message>
         <source>Downloading file failed:
 %1</source>
-        <translation>Tiedoston lataaminen epäonnistui:
+        <translation type="unfinished">Tiedoston lataaminen epäonnistui:
 %1</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
-        <translation>Yhteyden aikakatkaisu isäntään %1</translation>
+        <translation type="unfinished">Yhteyden aikakatkaisu isäntään %1</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
-        <translation>Yhdistetty isäntään %1</translation>
+        <translation type="unfinished">Yhdistetty isäntään %1</translation>
     </message>
     <message>
         <source>Connecting to host failed:
 %1</source>
-        <translation>Yhdistäminen isäntään epäonnistui:
+        <translation type="unfinished">Yhdistäminen isäntään epäonnistui:
 %1</translation>
     </message>
     <message>
         <source>Host %1 not found</source>
-        <translation>Isäntää %1 ei löytynyt</translation>
+        <translation type="unfinished">Isäntää %1 ei löytynyt</translation>
     </message>
     <message>
         <source>Uploading file failed:
 %1</source>
-        <translation>Tiedoston lähettäminen epäonnistui:
+        <translation type="unfinished">Tiedoston lähettäminen epäonnistui:
 %1</translation>
     </message>
     <message>
         <source>Changing directory failed:
 %1</source>
-        <translation>Hakemiston muuttaminen epäonnistui:
+        <translation type="unfinished">Hakemiston muuttaminen epäonnistui:
 %1</translation>
     </message>
     <message>
         <source>Removing directory failed:
 %1</source>
-        <translation>Hakemiston poistaminen epäonnistui:
+        <translation type="unfinished">Hakemiston poistaminen epäonnistui:
 %1</translation>
     </message>
     <message>
         <source>Connection refused to host %1</source>
-        <translation>Yhteys isäntään %1 evättiin</translation>
+        <translation type="unfinished">Yhteys isäntään %1 evättiin</translation>
     </message>
     <message>
         <source>Removing file failed:
 %1</source>
-        <translation>Tiedoston poistaminen epäonnistui:
+        <translation type="unfinished">Tiedoston poistaminen epäonnistui:
 %1</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Tuntematon virhe</translation>
+        <translation type="unfinished">Tuntematon virhe</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation>Yhteys suljettu</translation>
+        <translation type="unfinished">Yhteys suljettu</translation>
     </message>
 </context>
 <context>
     <name>QtColorPicker</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation>Syaani</translation>
+        <translation type="unfinished">Syaani</translation>
     </message>
     <message>
         <source>Gray</source>
-        <translation>Harmaa</translation>
+        <translation type="unfinished">Harmaa</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Musta</translation>
+        <translation type="unfinished">Musta</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>White</source>
-        <translation>Valkoinen</translation>
+        <translation type="unfinished">Valkoinen</translation>
     </message>
     <message>
         <source>Magenta</source>
-        <translation>Purppura</translation>
+        <translation type="unfinished">Purppura</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Määritelty</translation>
+        <translation type="unfinished">Määritelty</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>Keltainen</translation>
+        <translation type="unfinished">Keltainen</translation>
     </message>
     <message>
         <source>Dark yellow</source>
-        <translation>Tummankeltainen</translation>
+        <translation type="unfinished">Tummankeltainen</translation>
     </message>
     <message>
         <source>Dark magenta</source>
-        <translation>Tummapurppura</translation>
+        <translation type="unfinished">Tummapurppura</translation>
     </message>
     <message>
         <source>Dark red</source>
-        <translation>Tummanpunainen</translation>
+        <translation type="unfinished">Tummanpunainen</translation>
     </message>
     <message>
         <source>Dark gray</source>
-        <translation>Tummanharmaa</translation>
+        <translation type="unfinished">Tummanharmaa</translation>
     </message>
     <message>
         <source>Dark blue</source>
-        <translation>Tummansininen</translation>
+        <translation type="unfinished">Tummansininen</translation>
     </message>
     <message>
         <source>Dark cyan</source>
-        <translation>Tummasyaani</translation>
+        <translation type="unfinished">Tummasyaani</translation>
     </message>
     <message>
         <source>Dark green</source>
-        <translation>Tummanvihreä</translation>
+        <translation type="unfinished">Tummanvihreä</translation>
     </message>
     <message>
         <source>Light gray</source>
-        <translation>Vaaleanharmaa</translation>
+        <translation type="unfinished">Vaaleanharmaa</translation>
     </message>
 </context>
 <context>
     <name>QtCopyDialog</name>
     <message>
         <source>0 B</source>
-        <translation>0 B</translation>
+        <translation type="unfinished">0 B</translation>
     </message>
     <message>
         <source>Copying...</source>
-        <translation>Kopioidaan...</translation>
+        <translation type="unfinished">Kopioidaan...</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation>Kohde</translation>
+        <translation type="unfinished">Kohde</translation>
     </message>
     <message>
         <source>%1 B</source>
-        <translation>%1 B</translation>
+        <translation type="unfinished">%1 B</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation>Valmis</translation>
+        <translation type="unfinished">Valmis</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation>%1 GB</translation>
+        <translation type="unfinished">%1 GB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 MB</translation>
+        <translation type="unfinished">%1 MB</translation>
     </message>
     <message>
         <source>%1 kB</source>
-        <translation>%1 kB</translation>
+        <translation type="unfinished">%1 kB</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Sulje</translation>
+        <translation type="unfinished">Sulje</translation>
     </message>
     <message>
         <source>5 MB/s (00:00:15 remaining)</source>
-        <translation>5 MB/s (00:00:15 jäljellä)</translation>
+        <translation type="unfinished">5 MB/s (00:00:15 jäljellä)</translation>
     </message>
     <message>
         <source>10 MB of 100 MB completed</source>
-        <translation>10 MB 100 MB:stä valmiina</translation>
+        <translation type="unfinished">10 MB  100 MB:stä valmiina</translation>
     </message>
     <message>
         <source>0 / 1 dirs</source>
-        <translation>0 / 1 hakemistoa</translation>
+        <translation type="unfinished">0 / 1 hakemistoa</translation>
     </message>
     <message>
         <source>%1 of %2 completed</source>
-        <translation>%1  %2:stä valmiina</translation>
+        <translation type="unfinished">%1  %2:stä valmiina</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Lähde</translation>
+        <translation type="unfinished">Lähde</translation>
     </message>
     <message>
         <source>100% of %1 (Done)</source>
-        <translation>100% %1:stä (Valmis)</translation>
+        <translation type="unfinished">100%  %1:stä (Valmis)</translation>
     </message>
     <message>
         <source>2 / 5 files</source>
-        <translation>2 / 5 tiedostoa</translation>
+        <translation type="unfinished">2 / 5 tiedostoa</translation>
     </message>
     <message>
         <source>%1 / %2 dirs</source>
-        <translation>%1 / %2 hakemistoa</translation>
+        <translation type="unfinished">%1 / %2 hakemistoa</translation>
     </message>
     <message>
         <source>%1% of %2 (%3)</source>
-        <translation>%1%  %2 (%3):sta</translation>
+        <translation type="unfinished">%1%  %2 (%3):sta</translation>
     </message>
     <message>
         <source>%1 / %2 files</source>
-        <translation>%1 / %2 tiedostoa</translation>
+        <translation type="unfinished">%1 / %2 tiedostoa</translation>
     </message>
     <message>
         <source>24% of 100MB (Copying...)</source>
-        <translation>24% 100MB:stä (Kopioidaan...)</translation>
+        <translation type="unfinished">24%  100MB:stä (Kopioidaan...)</translation>
     </message>
     <message>
         <source>Moving...</source>
-        <translation>Siirretään...</translation>
+        <translation type="unfinished">Siirretään...</translation>
     </message>
     <message>
         <source>%1/s ( %2 remaining )</source>
-        <translation>%1/s ( %2 jäljellä )</translation>
+        <translation type="unfinished">%1/s ( %2 jäljellä )</translation>
     </message>
 </context>
 <context>
     <name>QtCopyDialogPrivate</name>
     <message>
         <source>Source directory is a file. Omitting source file.</source>
-        <translation>Lähdehakemisto on tiedosto. Ei huomioida lähdetiedostoa.</translation>
+        <translation type="unfinished">Lähdehakemisto on tiedosto. Ei huomioida lähdetiedostoa.</translation>
     </message>
     <message>
         <source>Force: Cannot remove destination file.</source>
-        <translation>Valtuudet: Kohdetiedostoa ei voi poistaa.</translation>
+        <translation type="unfinished">Valtuudet: Kohdetiedostoa ei voi poistaa.</translation>
     </message>
     <message>
         <source>Cannot open destination file. Please check permissions.</source>
-        <translation>Kohdetiedostoa ei voi avata. Tarkista käyttöoikeudet.</translation>
+        <translation type="unfinished">Kohdetiedostoa ei voi avata. Tarkista käyttöoikeudet.</translation>
     </message>
     <message>
         <source>Cannot read source file.</source>
-        <translation>Lähdetiedostoa ei voi lukea.</translation>
+        <translation type="unfinished">Lähdetiedostoa ei voi lukea.</translation>
     </message>
     <message>
         <source>Cannot create destination directory.</source>
-        <translation>Kohdehakemistoa ei voi luoda.</translation>
+        <translation type="unfinished">Kohdehakemistoa ei voi luoda.</translation>
     </message>
     <message>
         <source>Destination path does not exist.</source>
-        <translation>Polkua kohdetiedostolle ei ole olemassa.</translation>
+        <translation type="unfinished">Polkua kohdetiedostolle ei ole olemassa.</translation>
     </message>
     <message>
         <source>Cannot remove source.</source>
-        <translation>Lähdetiedostoa ei voi poistaa.</translation>
+        <translation type="unfinished">Lähdetiedostoa ei voi poistaa.</translation>
     </message>
     <message>
         <source>Cannot create symbolic link targeting to source.</source>
-        <translation>Symbolisen linkin kohdistamista lähteeseen ei voi luoda.</translation>
+        <translation type="unfinished">Symbolisen linkin kohdistamista lähteeseen ei voi luoda.</translation>
     </message>
     <message>
         <source>Cannot open source file. Please check permissions.</source>
-        <translation>Lähdetiedostoa ei voi avata. Tarkista käyttöoikeudet.</translation>
+        <translation type="unfinished">Lähdetiedostoa ei voi avata. Tarkista käyttöoikeudet.</translation>
     </message>
     <message>
         <source>Copy Warning</source>
-        <translation>Kopiointi varoitus</translation>
+        <translation type="unfinished">Kopiointi varoitus</translation>
     </message>
     <message>
         <source>Cannot write destination file.</source>
-        <translation>Kohdetiedostoon ei voi kirjoittaa.</translation>
+        <translation type="unfinished">Kohdetiedostoon ei voi kirjoittaa.</translation>
     </message>
     <message>
         <source>Error code: %1</source>
-        <translation>Virhe koodi: %1</translation>
+        <translation type="unfinished">Virhe koodi: %1</translation>
     </message>
     <message>
         <source>Source file is a directory. Omitting source directory.</source>
-        <translation>Lähdetiedosto on hakemisto. Ei huomioida lähdehakemistoa.</translation>
+        <translation type="unfinished">Lähdetiedosto on hakemisto. Ei huomioida lähdehakemistoa.</translation>
     </message>
     <message>
         <source>Source doesn&apos;t exist.</source>
-        <translation>Lähdetiedostoa ei ole olemassa.</translation>
+        <translation type="unfinished">Lähdetiedostoa ei ole olemassa.</translation>
     </message>
 </context>
 <context>
     <name>QtOtherDialog</name>
     <message>
         <source>Destination</source>
-        <translation>Kohde</translation>
+        <translation type="unfinished">Kohde</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Ohita</translation>
+        <translation type="unfinished">Ohita</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation>Uudelleen</translation>
+        <translation type="unfinished">Uudelleen</translation>
     </message>
     <message>
         <source>Skip All</source>
-        <translation>Ohita kaikki</translation>
+        <translation type="unfinished">Ohita kaikki</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Lähde</translation>
+        <translation type="unfinished">Lähde</translation>
     </message>
     <message>
         <source>File Already Exists</source>
-        <translation>Tiedosto on jo olemassa</translation>
+        <translation type="unfinished">Tiedosto on jo olemassa</translation>
     </message>
     <message>
         <source>Destination file already exists.</source>
-        <translation>Kohdetiedosto on jo olemassa.</translation>
+        <translation type="unfinished">Kohdetiedosto on jo olemassa.</translation>
     </message>
 </context>
 <context>
     <name>QtOverwriteDialog</name>
     <message>
         <source>Destination</source>
-        <translation>Kohde</translation>
+        <translation type="unfinished">Kohde</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Ohita</translation>
+        <translation type="unfinished">Ohita</translation>
     </message>
     <message>
         <source>Skip All</source>
-        <translation>Ohita kaikki</translation>
+        <translation type="unfinished">Ohita kaikki</translation>
     </message>
     <message>
         <source>Destination already exists.</source>
-        <translation>Kohdetiedosto on jo olemassa.</translation>
+        <translation type="unfinished">Kohdetiedosto on jo olemassa.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Lähde</translation>
+        <translation type="unfinished">Lähde</translation>
     </message>
     <message>
         <source>Overwrite All</source>
-        <translation>Korvaa kaikki</translation>
+        <translation type="unfinished">Korvaa kaikki</translation>
     </message>
     <message>
         <source>Copy Warning</source>
-        <translation>Kopiointivaroitus</translation>
+        <translation type="unfinished">Kopiointivaroitus</translation>
     </message>
     <message>
         <source>Overwrite</source>
-        <translation>Korvaa</translation>
+        <translation type="unfinished">Korvaa</translation>
     </message>
 </context>
 <context>
     <name>RatingFilterButton</name>
     <message>
         <source>At least</source>
-        <translation>Vähintään</translation>
+        <translation type="unfinished">Vähintään</translation>
     </message>
     <message>
         <source>At most</source>
-        <translation>Enintään</translation>
+        <translation type="unfinished">Enintään</translation>
     </message>
     <message>
         <source>Not filtered</source>
-        <translation>Älä käytä suotimia</translation>
+        <translation type="unfinished">Älä käytä suotimia</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation>Tarkalleen</translation>
+        <translation type="unfinished">Tarkalleen</translation>
     </message>
 </context>
 <context>
     <name>ReadSettingsWidget</name>
     <message>
         <source>Ignore read errors</source>
-        <translation>Ohita lukuvirheet</translation>
+        <translation type="unfinished">Ohita lukuvirheet</translation>
     </message>
     <message>
         <source>Camera RAW</source>
-        <translation>Kamera RAW</translation>
+        <translation type="unfinished">Kamera RAW</translation>
     </message>
 </context>
 <context>
     <name>RecentFilesMenu</name>
     <message>
         <source>Clear</source>
-        <translation>Tyhjennä</translation>
+        <translation type="unfinished">Tyhjennä</translation>
     </message>
     <message>
         <source>(none)</source>
-        <translation>(ei mitään)</translation>
+        <translation type="unfinished">(ei mitään)</translation>
     </message>
 </context>
 <context>
     <name>Rename</name>
     <message>
         <source>An error has occurred during renaming!</source>
-        <translation>Virhe uudelleen nimeämisessä!</translation>
+        <translation type="unfinished">Virhe uudelleen nimeämisessä!</translation>
     </message>
 </context>
 <context>
     <name>SearchDlg</name>
     <message>
         <source>is</source>
-        <translation>on</translation>
+        <translation type="unfinished">on</translation>
     </message>
     <message>
         <source>GiB</source>
-        <translation>GiB</translation>
+        <translation type="unfinished">GiB</translation>
     </message>
     <message>
         <source>KiB</source>
-        <translation>KiB</translation>
+        <translation type="unfinished">KiB</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MiB</translation>
+        <translation type="unfinished">MiB</translation>
     </message>
     <message>
         <source>and</source>
-        <translation>ja</translation>
+        <translation type="unfinished">ja</translation>
     </message>
     <message>
         <source>bytes</source>
-        <translation>bittiä</translation>
+        <translation type="unfinished">bittiä</translation>
     </message>
     <message>
         <source>is greater than or equal to</source>
-        <translation>on suurempi tai samankokoinen kuin</translation>
+        <translation type="unfinished">on suurempi tai samankokoinen kuin</translation>
     </message>
     <message>
         <source>is after</source>
-        <translation>on jälkeen</translation>
+        <translation type="unfinished">on jälkeen</translation>
     </message>
     <message>
         <source>With at least one of the words</source>
-        <translation>Ainakin yksi sanoista</translation>
+        <translation type="unfinished">Ainakin yksi sanoista</translation>
     </message>
     <message>
         <source>is less than or equal to</source>
-        <translation>on pienempi tai samankokoinen kun</translation>
+        <translation type="unfinished">on pienempi tai samankokoinen kun</translation>
     </message>
     <message>
         <source>contains</source>
-        <translation>sisältää</translation>
+        <translation type="unfinished">sisältää</translation>
     </message>
     <message>
         <source>is any of</source>
-        <translation>mikä tahansa</translation>
+        <translation type="unfinished">mikä tahansa</translation>
     </message>
     <message>
         <source>is before</source>
-        <translation>on ennen</translation>
+        <translation type="unfinished">on ennen</translation>
     </message>
     <message>
         <source>is not</source>
-        <translation>ei ole</translation>
+        <translation type="unfinished">ei ole</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation>yhtä kuin</translation>
+        <translation type="unfinished">yhtä kuin</translation>
     </message>
     <message>
         <source>between</source>
-        <translation>välillä</translation>
+        <translation type="unfinished">välillä</translation>
     </message>
     <message>
         <source>is between</source>
-        <translation>on välillä</translation>
+        <translation type="unfinished">on välillä</translation>
     </message>
     <message>
         <source>With all of the words</source>
-        <translation>Kaikilla sanoilla</translation>
+        <translation type="unfinished">Kaikilla sanoilla</translation>
     </message>
     <message>
         <source>is greater than</source>
-        <translation>on suurempi kuin</translation>
+        <translation type="unfinished">on suurempi kuin</translation>
     </message>
     <message>
         <source>With the exact phrase</source>
-        <translation>Täsmällisellä lausekkeella</translation>
+        <translation type="unfinished">Täsmällisellä lausekkeella</translation>
     </message>
     <message>
         <source>starts with</source>
-        <translation>alkaa</translation>
+        <translation type="unfinished">alkaa</translation>
     </message>
     <message>
         <source>does not contain</source>
-        <translation>ei sisällä</translation>
+        <translation type="unfinished">ei sisällä</translation>
     </message>
     <message>
         <source>is less than</source>
-        <translation>on vähemmän kuin</translation>
+        <translation type="unfinished">on vähemmän kuin</translation>
     </message>
     <message>
         <source>Whole word only</source>
-        <translation>Ainoastaan kokonaisella sanalla</translation>
+        <translation type="unfinished">Ainoastaan kokonaisella sanalla</translation>
     </message>
 </context>
 <context>
     <name>SearchLineEdit</name>
     <message>
         <source>Quick filter</source>
-        <translation>Pikasuodin</translation>
+        <translation type="unfinished">Pikasuodin</translation>
     </message>
 </context>
 <context>
     <name>Slideshow</name>
     <message>
         <source>Slideshow</source>
-        <translation>Kuvaesitys</translation>
+        <translation type="unfinished">Kuvaesitys</translation>
     </message>
 </context>
 <context>
     <name>TagEntryModel</name>
     <message>
         <source>Enter a name</source>
-        <translation>Kirjoita nimi</translation>
+        <translation type="unfinished">Kirjoita nimi</translation>
     </message>
 </context>
 <context>
     <name>TemplateModel</name>
     <message>
         <source>Default</source>
-        <translation>Oletus</translation>
+        <translation type="unfinished">Oletus</translation>
     </message>
 </context>
 <context>
     <name>TemplateWidget</name>
     <message>
         <source>Save preset</source>
-        <translation>Tallenna esiasetus</translation>
+        <translation type="unfinished">Tallenna esiasetus</translation>
     </message>
     <message>
         <source>Insert &gt;&gt;</source>
-        <translation>Lisää &gt;&gt;</translation>
+        <translation type="unfinished">Lisää &gt;&gt;</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Oletus</translation>
+        <translation type="unfinished">Oletus</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Poista esiasetus</translation>
+        <translation type="unfinished">Poista esiasetus</translation>
     </message>
 </context>
 <context>
     <name>ToolbarSearch</name>
     <message>
         <source>Recent Searches</source>
-        <translation>Viimeksi etsityt</translation>
+        <translation type="unfinished">Viimeksi etsityt</translation>
     </message>
     <message>
         <source>No Recent Searches</source>
-        <translation>Ei viimeaikaisia hakuja</translation>
+        <translation type="unfinished">Ei viimeaikaisia hakuja</translation>
     </message>
     <message>
         <source>Clear Recent Searches</source>
-        <translation>Tyhjennä &apos;Viimeksi etsityt&apos;</translation>
+        <translation type="unfinished">Tyhjennä &apos;Viimeksi etsityt&apos;</translation>
     </message>
 </context>
 <context>
     <name>VideoGalleryProcess</name>
     <message>
         <source>Filename</source>
-        <translation>Tiedostonimi</translation>
+        <translation type="unfinished">Tiedostonimi</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Tiedostokoko</translation>
+        <translation type="unfinished">Tiedostokoko</translation>
     </message>
     <message>
         <source>Dimensions</source>
-        <translation>Koko</translation>
+        <translation type="unfinished">Koko</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation>Kesto</translation>
+        <translation type="unfinished">Kesto</translation>
     </message>
     <message>
         <source>Bit rate</source>
-        <translation>Bittinopeus</translation>
+        <translation type="unfinished">Bittinopeus</translation>
     </message>
 </context>
 <context>
     <name>ViewCropAction</name>
     <message>
         <source>Crop</source>
-        <translation>Rajaa</translation>
+        <translation type="unfinished">Rajaa</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Swap selection width and height</source>
-        <translation>Muuta valinnan leveyttä ja korkeutta</translation>
+        <translation type="unfinished">Muuta valinnan leveyttä ja korkeutta</translation>
     </message>
     <message>
         <source>Selection horizontal position</source>
-        <translation>Valinnan vaakasijainti</translation>
+        <translation type="unfinished">Valinnan vaakasijainti</translation>
     </message>
     <message>
         <source>Show selection grid</source>
-        <translation>Näytä valintaruudukko</translation>
+        <translation type="unfinished">Näytä valintaruudukko</translation>
     </message>
     <message>
         <source>Center selection</source>
-        <translation>Keskitä valinta</translation>
+        <translation type="unfinished">Keskitä valinta</translation>
     </message>
     <message>
         <source>Crop, Save &amp;&amp; Next</source>
-        <translation>Rajaa, tallenna &amp;&amp; seuraava</translation>
+        <translation type="unfinished">Rajaa, tallenna &amp;&amp; seuraava</translation>
     </message>
     <message>
         <source>Save selection as...</source>
-        <translation>Tallenna valinta nimellä...</translation>
+        <translation type="unfinished">Tallenna valinta nimellä...</translation>
     </message>
     <message>
         <source>Selection vertical position</source>
-        <translation>Valinnan pystysijainti</translation>
+        <translation type="unfinished">Valinnan pystysijainti</translation>
     </message>
 </context>
 <context>
     <name>ViewSpotlightAction</name>
     <message>
         <source>Red</source>
-        <translation>Punainen</translation>
+        <translation type="unfinished">Punainen</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Sininen</translation>
+        <translation type="unfinished">Sininen</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Sumennus</translation>
+        <translation type="unfinished">Sumennus</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Peru</translation>
+        <translation type="unfinished">Peru</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Käytä</translation>
+        <translation type="unfinished">Käytä</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Vihreä</translation>
+        <translation type="unfinished">Vihreä</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Peittävyys</translation>
+        <translation type="unfinished">Peittävyys</translation>
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Kirkkaus</translation>
+        <translation type="unfinished">Kirkkaus</translation>
     </message>
     <message>
         <source>Remove last drawn rectangle</source>
-        <translation>Poista viimeksi piirretty suorakulmio</translation>
+        <translation type="unfinished">Poista viimeksi piirretty suorakulmio</translation>
     </message>
 </context>
 <context>
     <name>ViewTextAction</name>
     <message>
         <source>Font</source>
-        <translation>Fontti</translation>
+        <translation type="unfinished">Fontti</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Teksti</translation>
+        <translation type="unfinished">Teksti</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Käytä</translation>
+        <translation type="unfinished">Käytä</translation>
     </message>
     <message>
         <source>TYPE YOUR TEXT</source>
-        <translation>KIRJOITA TEKSTI</translation>
+        <translation type="unfinished">KIRJOITA TEKSTI</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Text...</source>
-        <translation>Teksti...</translation>
+        <translation type="unfinished">Teksti...</translation>
     </message>
 </context>
 <context>
     <name>ViewWatermarkAction</name>
     <message>
         <source>Apply</source>
-        <translation>Käytä</translation>
+        <translation type="unfinished">Käytä</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Peruuta</translation>
+        <translation type="unfinished">Peruuta</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation>Peittävyys</translation>
+        <translation type="unfinished">Peittävyys</translation>
     </message>
 </context>
 <context>
     <name>WebCapture</name>
     <message>
         <source>Abort</source>
-        <translation>Keskeytä</translation>
+        <translation type="unfinished">Keskeytä</translation>
     </message>
     <message>
         <source>Generating image...</source>
-        <translation>Luodaan kuva...</translation>
+        <translation type="unfinished">Luodaan kuva...</translation>
     </message>
 </context>
 <context>
     <name>WebError</name>
     <message>
         <source>No error</source>
-        <translation>Ei virheitä</translation>
+        <translation type="unfinished">Ei virheitä</translation>
     </message>
     <message>
         <source>The peer presented a certificate that was blacklisted.</source>
-        <translation>Vertailija havaitsi että varmenne on mustalla listalla.</translation>
+        <translation type="unfinished">Vertailija havaitsi että varmenne on mustalla listalla.</translation>
     </message>
 </context>
 <context>
     <name>Write</name>
     <message>
         <source>None</source>
-        <translation>Ei mitään</translation>
+        <translation type="unfinished">Ei mitään</translation>
     </message>
     <message>
         <source>PackBits</source>
@@ -18113,101 +18112,101 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <name>WriteSettingsWidget</name>
     <message>
         <source>Keep ICC profile</source>
-        <translation>Pidä ICC profiili</translation>
+        <translation type="unfinished">Pidä ICC  profiili</translation>
     </message>
     <message>
         <source>Keep XMP</source>
-        <translation>Pidä XMP</translation>
+        <translation type="unfinished">Pidä XMP</translation>
     </message>
     <message>
         <source>Keep IPTC</source>
-        <translation>Pidä IPTC</translation>
+        <translation type="unfinished">Pidä IPTC</translation>
     </message>
     <message>
         <source>Keep EXIF</source>
-        <translation>Pidä EXIF</translation>
+        <translation type="unfinished">Pidä EXIF</translation>
     </message>
 </context>
 <context>
     <name>xnview</name>
     <message>
         <source>Error</source>
-        <translation>Virhe</translation>
+        <translation type="unfinished">Virhe</translation>
     </message>
     <message>
         <source>Do you want to save this session?</source>
-        <translation>Haluatko tallentaa tämän istunnon?</translation>
+        <translation type="unfinished">Haluatko tallentaa tämän istunnon?</translation>
     </message>
     <message>
         <source>Creating backup, please wait...</source>
-        <translation>Luodaan varmuuskopiota, odota...</translation>
+        <translation type="unfinished">Luodaan varmuuskopiota, odota...</translation>
     </message>
     <message>
         <source>File not found!</source>
-        <translation>Tiedostoa ei löytynyt!</translation>
+        <translation type="unfinished">Tiedostoa ei löytynyt!</translation>
     </message>
     <message>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Ilmaantui ongelmia päivitettäessä luetteloa (Virhe:%1), ota yhteyttä kehittäjään.</translation>
+        <translation type="unfinished">XnViewMP - Ilmaantui ongelmia päivitettäessä luetteloa (Virhe:%1), ota yhteyttä kehittäjään.</translation>
     </message>
     <message>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
-        <translation>Hitauden syy, edellinen istuntosi sisältää useita ladattavia kuvia!</translation>
+        <translation type="unfinished">Hitauden syy, edellinen istuntosi sisältää useita ladattavia kuvia!</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation type="unfinished">Luettelo</translation>
     </message>
     <message>
         <source>Upgrading catalog, please wait...</source>
-        <translation>Päivitetään luetteloa, odota...</translation>
+        <translation type="unfinished">Päivitetään luetteloa, odota...</translation>
     </message>
     <message>
         <source>Do you want to quit?</source>
-        <translation>Haluatko lopettaa?</translation>
+        <translation type="unfinished">Haluatko lopettaa?</translation>
     </message>
     <message>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>XnViewMP päivittää luetteloa. Se voi kestää jonkin aikaa.
+        <translation type="unfinished">XnViewMP päivittää luetteloa. Se voi kestää jonkin aikaa.
 
 Haluatko säilyttää pikkukuvat?
- (Jos valitset KYLLÄ, päivitys kestää kauemmin)</translation>
+  (Jos valitset KYLLÄ, päivitys kestää kauemmin)</translation>
     </message>
     <message>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
-        <translation>XnViewMP - Luettelolla on odotettua uudempi versionumero</translation>
+        <translation type="unfinished">XnViewMP - Luettelolla on odotettua uudempi versionumero</translation>
     </message>
     <message>
         <source>Catalog problem</source>
-        <translation>Luettelo-ongelma</translation>
+        <translation type="unfinished">Luettelo-ongelma</translation>
     </message>
     <message>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation>Luettelon avaamisessa on ongelma. Tarkista asetukset tai käytetty kansio!</translation>
+        <translation type="unfinished">Luettelon avaamisessa on ongelma. Tarkista asetukset tai käytetty kansio!</translation>
     </message>
     <message>
         <source>Application is up to date.</source>
-        <translation>Sovellus on ajan tasalla.</translation>
+        <translation type="unfinished">Sovellus on ajan tasalla.</translation>
     </message>
     <message>
         <source>Session</source>
-        <translation>Istunto</translation>
+        <translation type="unfinished">Istunto</translation>
     </message>
     <message>
         <source>Saving many tabs may noticeably slow application reopening.</source>
-        <translation>Useiden välilehtien tallentaminen voi hidastaa sovelluksen uudelleenavaamista huomattavasti.</translation>
+        <translation type="unfinished">Useiden välilehtien tallentaminen voi hidastaa sovelluksen uudelleenavaamista huomattavasti.</translation>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation>Älä kysy uudestaan</translation>
+        <translation type="unfinished">Älä kysy uudestaan</translation>
     </message>
     <message>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
-        <translation>Luettelo ja metatiedot on poistettu käytöstä -
+        <translation type="unfinished">Luettelo ja metatiedot on poistettu käytöstä -
 Luokituksia-, merkintöjä (tageja)- ja värimerkintöjä ei tallenneta.</translation>
     </message>
 </context>
