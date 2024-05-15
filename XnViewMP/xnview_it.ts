@@ -491,7 +491,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4672"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnView MP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
+        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnViewMP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4673"/>
@@ -3015,7 +3015,7 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgCapture.ui" line="281"/>
         <source>Hide XnView</source>
-        <translation>Nascondi XnView</translation>
+        <translation>Nascondi XnViewMP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="288"/>
@@ -4150,7 +4150,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="52"/>
         <source> X </source>
-        <translation type="unfinished"> X </translation>
+        <translation> X </translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="59"/>
@@ -5006,7 +5006,7 @@ Volete continuare?</translation>
         <location filename="DlgConvert.ui" line="1179"/>
         <source>Exit after conversion</source>
         <oldsource>Close after conversion</oldsource>
-        <translation type="unfinished">Chiudi XnConvert</translation>
+        <translation>Esci dopo la conversione</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1444"/>
@@ -8037,7 +8037,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgFileAssociation.ui" line="87"/>
         <source>Unregister XnViewMP</source>
-        <translation>Deregistra XnView</translation>
+        <translation>Deregistra XnViewMP</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="111"/>
@@ -8801,7 +8801,7 @@ Saranno create delle sottocartelle. </translation>
     <message>
         <location filename="DlgImport.ui" line="255"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="167"/>
@@ -8832,7 +8832,7 @@ Saranno create delle sottocartelle. </translation>
         <location filename="DlgImport.ui" line="297"/>
         <source>Categories to assign</source>
         <oldsource>Keywords to assign at import (XMP)</oldsource>
-        <translation type="unfinished">Parole chiave da assegnare durante l&apos;importazione (XMP)</translation>
+        <translation>Categorie da assegnare</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="303"/>
@@ -10361,12 +10361,12 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgReadRaw.ui" line="195"/>
         <source>LSBF</source>
-        <translation type="unfinished">LSBF</translation>
+        <translation>LSBF</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="200"/>
         <source>MSBF</source>
-        <translation type="unfinished">MSBF</translation>
+        <translation>MSBF</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="147"/>
@@ -10848,7 +10848,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgResize.ui" line="298"/>
         <location filename="DlgResize.ui" line="435"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="331"/>
@@ -11216,12 +11216,12 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSetDpi.ui" line="22"/>
         <source>X</source>
-        <translation type="unfinished">X</translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="DlgSetDpi.ui" line="91"/>
         <source>Y</source>
-        <translation type="unfinished">Y</translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="DlgSetDpi.ui" line="122"/>
@@ -11476,7 +11476,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgSettingsBrowser.ui" line="475"/>
         <source>On exit</source>
         <translatorcomment>Alternative: All&apos;uscita</translatorcomment>
-        <translation>All&apos;uscita da XnViewMP</translation>
+        <translation>All&apos;uscita</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="480"/>
@@ -11492,7 +11492,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgSettingsBrowser.ui" line="523"/>
         <source>Search in</source>
         <oldsource>Search in IPTC fields</oldsource>
-        <translation type="unfinished">Cerca nei campi IPTC</translation>
+        <translation>Cerca in</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="529"/>
@@ -11669,7 +11669,7 @@ Volete rilevare questi casi per prima di iniziare?</translation>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation>Impossibile importare la banca dati delle categorie di XnView</translation>
+        <translation>Impossibile importare la banca dati delle categorie di XnView Classic</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11681,7 +11681,7 @@ Volete rilevare questi casi per prima di iniziare?</translation>
         <source>Category tree successfully imported into XnView categories</source>
         <oldsource>Category tree was successfully imported in XnView&apos;s Category catalog</oldsource>
         <translatorcomment>Attenzione!!! verifica </translatorcomment>
-        <translation>La gerarchia delle categorie è stata importata correttamente nel Catalogo delle categorie di XnView</translation>
+        <translation>La gerarchia delle categorie è stata importata correttamente nelle categorie di XnViewMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
@@ -12379,7 +12379,7 @@ miniatura</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one instance of XnView</source>
         <oldsource>One instance of program only</oldsource>
-        <translation>Consenti una sola istanza</translation>
+        <translation>Consenti una sola istanza di XnViewMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
@@ -12660,7 +12660,7 @@ miniatura</translation>
         <location filename="DlgStartupWizard.cpp" line="32"/>
         <location filename="DlgStartupWizard.cpp" line="146"/>
         <source>Program (XnView)</source>
-        <translation>Programma (XnView)</translation>
+        <translation>Programma (XnViewMP)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12694,7 +12694,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="315"/>
         <source>Please be careful to folder rights by using XnView folder</source>
-        <translation>Si prega di fare attenzione ai privilegi delle cartelle usando la cartella di Xnview</translation>
+        <translation>Si prega di fare attenzione ai privilegi delle cartelle usando la cartella di XnViewMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="461"/>
@@ -12704,7 +12704,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="462"/>
         <source>XnViewMP for Windows</source>
-        <translation>Xnview per Windows</translation>
+        <translation>XnViewMP per Windows</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="478"/>
@@ -12770,7 +12770,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="93"/>
         <source>XnView settings</source>
-        <translation>Impostazioni XnView</translation>
+        <translation>Impostazioni XnViewMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="104"/>
@@ -12903,7 +12903,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation>Visualizzazione multipla per lo stesso file</translation>
+        <translation>Consenti multiple schede di Visualizzazione per lo stesso file</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12915,7 +12915,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">La chiusura dell&apos;ultima scheda chiuderà XnView</translation>
+        <translation>La chiusura dell&apos;ultima scheda terminerà l&apos;applicazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
@@ -12928,7 +12928,7 @@ Desiderate riassegnarlo?</translation>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
         <translatorcomment>Dubbio: multi-opened file --&gt; forse gruppo di file aperti tramite drag &amp; drop</translatorcomment>
-        <translation type="unfinished">Visualizzazione singola per l&apos;elenco di file</translation>
+        <translation>Trascina e rilascia: Apri scheda di visualizzazione singola per l&apos;elenco di file</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13124,7 +13124,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="1117"/>
         <source>Horizontal scroll</source>
         <oldsource>Scroll left/right</oldsource>
-        <translation>Scorrimento Sinistra/Destra</translation>
+        <translation>Scorrimento orizzontale</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1122"/>
@@ -13201,7 +13201,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished">Scorrimento su/giù</translation>
+        <translation>Scorrimento verticale</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13428,7 +13428,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation type="unfinished">Importa parole chiave XMP o soggetti IPTC nelle Categorie DB</translation>
+        <translation>Importa automaticamente soggetti XMP e parole chiave IPTC nelle Categorie del Catalogo</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13451,7 +13451,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">Esporta Categorie del Catalogo come Soggetti XMP e Parole chiave IPTC</translation>
+        <translation>Esporta le Categorie del Catalogo come Soggetti XMP e Parole chiave IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13875,7 +13875,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="1314"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
-        <translation type="unfinished">Dimensione automatica immagine</translation>
+        <translation>Dimensione automatica immagine</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
@@ -13956,7 +13956,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">Reimposta &apos;Dimensione automatica immagine&apos; con il file seguente/precedente</translation>
+        <translation>Reimposta &apos;Dimensione automatica immagine&apos; con il file seguente/precedente</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -14001,7 +14001,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="663"/>
         <source>AI/PS/PDF</source>
-        <translation type="unfinished">AI/PS/PDF</translation>
+        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="670"/>
@@ -16161,7 +16161,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgWriteWebP.ui" line="52"/>
         <source>Text</source>
-        <translation type="unfinished">Testo</translation>
+        <translation>Testo</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="89"/>
@@ -19309,38 +19309,38 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation>Eccellente (muovi all&apos;immagine successiva)</translation>
+        <translation>Eccellente (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation>Buono (muovi all&apos;immagine successiva)</translation>
+        <translation>Buono (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
         <translatorcomment>Alternative: Medio; mediocre [traduzione letterale]</translatorcomment>
-        <translation type="unfinished">Discreto (muovi all&apos;immagine successiva)</translation>
+        <translation>Discreto (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Sufficiente (muovi all&apos;immagine successiva)</translation>
+        <translation>Sufficiente (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="464"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation>Scadente (muovi all&apos;immagine successiva)</translation>
+        <translation>Scadente (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation>Non valutato (muovi all&apos;immagine successiva)</translation>
+        <translation>Non valutato (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
@@ -19798,7 +19798,7 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="478"/>
         <source>##label## (move to next image)</source>
-        <translation>##label## (muovi all&apos;immagine successiva)</translation>
+        <translation>##label## (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
@@ -20019,7 +20019,7 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="446"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
-        <translation type="unfinished">Attiva contrassegno sugli elementi selezionati</translation>
+        <translation>Attiva/disattiva contrassegno sugli elementi selezionati</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="447"/>
@@ -20436,7 +20436,7 @@ Volete continuare?</translation>
         <location filename="xnview.cpp" line="1438"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
-        <translation type="unfinished">Visitate il Sito web XnView...</translation>
+        <translation>Visitate il Sito web...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1443"/>
@@ -20702,7 +20702,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="330"/>
         <source>Tag/Untag current</source>
-        <translation type="unfinished">Attiva contrassegno sugli elementi selezionati</translation>
+        <translation>Attiva/disattiva contrassegno sugli elementi selezionati</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="332"/>
@@ -20991,13 +20991,13 @@ Volete continuare?</translation>
         <location filename="ViewMenu.h" line="312"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Imposta proporzioni selezione</translation>
+        <translation>Imposta proporzioni selezione</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Imposta dimensioni selezione</translation>
+        <translation>Imposta dimensioni selezione</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -21033,44 +21033,44 @@ Volete continuare?</translation>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation>Eccellente (muovi all&apos;immagine successiva)</translation>
+        <translation>Eccellente (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation>Buono (muovi all&apos;immagine successiva)</translation>
+        <translation>Buono (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
         <translatorcomment>Alternative: Medio; mediocre</translatorcomment>
-        <translation>Discreto (muovi all&apos;immagine successiva)</translation>
+        <translation>Discreto (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Sufficiente (muovi all&apos;immagine successiva)</translation>
+        <translation>Sufficiente (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation>Scadente (muovi all&apos;immagine successiva)</translation>
+        <translation>Scadente (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation>Non valutato (muovi all&apos;immagine successiva)</translation>
+        <translation>Non valutato (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>##label## (move to next image)</source>
         <oldsource>##label## (move to next photo)</oldsource>
-        <translation>##label## (muovi all&apos;immagine successiva)</translation>
+        <translation>##label## (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
@@ -22242,12 +22242,12 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <location filename="MyView.cpp" line="949"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
-        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnView MP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
+        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnViewMP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="950"/>
         <source>Please visit the XnView %1 for more information.</source>
-        <translation>Si prega di vistare il %1 di XnView per ulteriori informazioni.</translation>
+        <translation>Si prega di vistare il %1 di XnViewMP per ulteriori informazioni.</translation>
     </message>
 </context>
 <context>
@@ -23805,7 +23805,7 @@ Volete preservare le miniature?
         <location filename="xnview.cpp" line="975"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
-        <translation type="unfinished">XnView MP è correntemente aggiornato.</translation>
+        <translation>L&apos;applicazione è correntemente aggiornata.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3106"/>
