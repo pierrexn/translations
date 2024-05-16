@@ -21746,7 +21746,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Laster inn bildet … </translation>
+        <translation>Laster inn bildet …</translation>
     </message>
 </context>
 <context>
