@@ -21772,7 +21772,7 @@ Doorgaan?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Afbeelding laden… </translation>
+        <translation>Afbeelding laden…</translation>
     </message>
 </context>
 <context>
