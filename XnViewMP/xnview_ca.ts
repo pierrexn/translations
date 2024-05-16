@@ -16816,12 +16816,12 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Nom del fitxer de sortida sense extensió</translation>
+        <translation>Nom del fitxer de sortida</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del fitxer de sortida (amb extensió)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="401"/>
@@ -21776,7 +21776,7 @@ Vols continuar?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Carregant imatge... </translation>
+        <translation>Carregant imatge...</translation>
     </message>
 </context>
 <context>
