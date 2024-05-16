@@ -16986,12 +16986,12 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Jméno výstupního souboru bez přípony</translation>
+        <translation>Jméno výstupního souboru</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno výstupního souboru (s příponou)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21873,7 +21873,7 @@ Chcete pokračovat?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Načítání obrázku... </translation>
+        <translation>Načítání obrázku...</translation>
     </message>
 </context>
 <context>
