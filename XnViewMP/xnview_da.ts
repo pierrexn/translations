@@ -16989,12 +16989,12 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Output-filnavne er uden filendelse</translation>
+        <translation>Output-filnavn</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Output-filnavn (med filendelse)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21891,7 +21891,7 @@ Vil du fortsætte?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Indlæser billede... </translation>
+        <translation>Indlæser billede...</translation>
     </message>
 </context>
 <context>
