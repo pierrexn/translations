@@ -1067,11 +1067,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Tabbladen</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="74"/>
-        <source>A/B</source>
-        <translation>A/B</translation>
-    </message>
-    <message>
         <location filename="CompareWidget.cpp" line="557"/>
         <source>Move to</source>
         <translation>Verplaatsen naar</translation>
@@ -3365,47 +3360,47 @@ Overschrijven?</translation>
         <translation>Lettertype</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="624"/>
+        <location filename="DlgContactSheet.ui" line="627"/>
         <source>Output</source>
         <translation>Uitvoer</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="630"/>
+        <location filename="DlgContactSheet.ui" line="633"/>
         <source>Source folder</source>
         <translation>Bronmap</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="639"/>
+        <location filename="DlgContactSheet.ui" line="642"/>
         <source>Folder</source>
         <translation>Map</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="660"/>
+        <location filename="DlgContactSheet.ui" line="663"/>
         <source>Filename</source>
         <translation>Bestandsnaam</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="690"/>
+        <location filename="DlgContactSheet.ui" line="693"/>
         <source>Settings...</source>
         <translation>Instellingen…</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="701"/>
+        <location filename="DlgContactSheet.ui" line="704"/>
         <source>After finish</source>
         <translation>Na afloop</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="709"/>
+        <location filename="DlgContactSheet.ui" line="712"/>
         <source>Do Nothing</source>
         <translation>Niets doen</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="714"/>
+        <location filename="DlgContactSheet.ui" line="717"/>
         <source>Open Browser</source>
         <translation>Verkenner openen</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="719"/>
+        <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Explorer</source>
         <oldsource>Open System Explorer</oldsource>
         <translation>Verkenner openen</translation>
@@ -8725,11 +8720,6 @@ Submappen worden aangemaakt. </translation>
         <translation>Submap</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="255"/>
-        <source>...</source>
-        <translation>…</translation>
-    </message>
-    <message>
         <location filename="DlgImport.ui" line="167"/>
         <source>New filename</source>
         <translation>Nieuwe bestandsnaam</translation>
@@ -11117,16 +11107,6 @@ Wil je ze verwijderen?</translation>
         <translation>DPI instellen</translation>
     </message>
     <message>
-        <location filename="DlgSetDpi.ui" line="22"/>
-        <source>X</source>
-        <translation>X</translation>
-    </message>
-    <message>
-        <location filename="DlgSetDpi.ui" line="91"/>
-        <source>Y</source>
-        <translation>Y</translation>
-    </message>
-    <message>
         <location filename="DlgSetDpi.ui" line="122"/>
         <source>Print size:</source>
         <translation>Print grootte:</translation>
@@ -11835,11 +11815,6 @@ Miniatuur</translation>
         <location filename="DlgSettingsFilelist.cpp" line="290"/>
         <source>Text</source>
         <translation>Tekst</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.cpp" line="291"/>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="292"/>
@@ -12696,7 +12671,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="149"/>
         <location filename="DlgSettingsInterface.cpp" line="194"/>
-        <location filename="DlgSettingsInterface.cpp" line="340"/>
+        <location filename="DlgSettingsInterface.cpp" line="339"/>
         <source>-- SEPARATOR --</source>
         <translation>-- SCHEIDING --</translation>
     </message>
@@ -12717,39 +12692,39 @@ Miniatuur</translation>
         <translation>-- NIEUW XMP-SJABLOON --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="507"/>
+        <location filename="DlgSettingsInterface.cpp" line="506"/>
         <source>Browse mode</source>
         <translation>Browse modus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="508"/>
+        <location filename="DlgSettingsInterface.cpp" line="507"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>View modus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="785"/>
-        <location filename="DlgSettingsInterface.cpp" line="805"/>
+        <location filename="DlgSettingsInterface.cpp" line="784"/>
+        <location filename="DlgSettingsInterface.cpp" line="804"/>
         <source>Set Icon...</source>
         <translation>Pictogram toekennen…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="983"/>
+        <location filename="DlgSettingsInterface.cpp" line="982"/>
         <source>Set label</source>
         <translation>Label instellen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="984"/>
+        <location filename="DlgSettingsInterface.cpp" line="983"/>
         <source>Label:</source>
         <translation>Label:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1133"/>
+        <location filename="DlgSettingsInterface.cpp" line="1132"/>
         <source>This shortcut is already assigned for </source>
         <translation>Deze snelkoppeling is al toegekend aan </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1148"/>
+        <location filename="DlgSettingsInterface.cpp" line="1147"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12760,22 +12735,22 @@ Do you want to reassign?</source>
 Opnieuw toewijzen?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1197"/>
+        <location filename="DlgSettingsInterface.cpp" line="1196"/>
         <source>Load toolbar</source>
         <translation>Werkbalk laden</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1215"/>
+        <location filename="DlgSettingsInterface.cpp" line="1214"/>
         <source>Save toolbar</source>
         <translation>Werkbalk opslaan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1271"/>
+        <location filename="DlgSettingsInterface.cpp" line="1270"/>
         <source>Load shortcuts</source>
         <translation>Sneltoetsen laden</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1302"/>
+        <location filename="DlgSettingsInterface.cpp" line="1301"/>
         <source>Save shortcuts</source>
         <translation>Sneltoetsen opslaan</translation>
     </message>
@@ -13832,11 +13807,6 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="656"/>
         <source>Text</source>
         <translation>Tekst</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="663"/>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="670"/>
@@ -16450,6 +16420,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Compressie</translation>
     </message>
     <message>
+        <location filename="DlgImport.cpp" line="227"/>
         <location filename="InfoPropertiesView.cpp" line="93"/>
         <source>None</source>
         <translation>Geen</translation>
@@ -16831,6 +16802,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="401"/>
+        <location filename="DlgImport.cpp" line="228"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <location filename="IptcEditBase.cpp" line="110"/>
         <location filename="TemplateData.cpp" line="2676"/>
@@ -16867,6 +16839,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="407"/>
+        <location filename="DlgImport.cpp" line="230"/>
         <location filename="IptcEditBase.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>Modified date</source>
@@ -16937,13 +16910,14 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2689"/>
-        <source>Output filename without extension</source>
-        <translation>Uitvoerbestand zonder extensie</translation>
+        <source>Output filename</source>
+        <oldsource>Output filename without extension</oldsource>
+        <translation type="unfinished">Uitvoerbestand zonder extensie</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
-        <source>Output filename</source>
-        <translation>Naam uitvoerbestand</translation>
+        <source>Output filename (with extension)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -19543,27 +19517,27 @@ Doorgaan?</translation>
         <translation>Selecteer TWAIN-bron…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="794"/>
+        <location filename="BrowserMenu.h" line="792"/>
         <source>&amp;File</source>
         <translation>&amp;Bestand</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="795"/>
+        <location filename="BrowserMenu.h" line="793"/>
         <source>&amp;Edit</source>
         <translation>B&amp;ewerken</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="796"/>
+        <location filename="BrowserMenu.h" line="794"/>
         <source>&amp;View</source>
         <translation>Beel&amp;d</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="797"/>
+        <location filename="BrowserMenu.h" line="795"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;gegevens</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="798"/>
+        <location filename="BrowserMenu.h" line="796"/>
         <source>&amp;Tools</source>
         <translation>&amp;Hulpmiddelen</translation>
     </message>
@@ -19603,12 +19577,12 @@ Doorgaan?</translation>
         <translation>Verkrijgen in (TWAIN)…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="799"/>
+        <location filename="BrowserMenu.h" line="797"/>
         <source>C&amp;reate</source>
         <translation>&amp;Aanmaken</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="800"/>
+        <location filename="BrowserMenu.h" line="798"/>
         <source>&amp;Help</source>
         <translation>&amp;Hulp</translation>
     </message>
@@ -21531,45 +21505,45 @@ Doorgaan?</translation>
         <translation>Bijsnijden (verliesloos)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="686"/>
+        <location filename="ViewMenu.h" line="689"/>
         <source>&amp;File</source>
         <translation>&amp;Bestand</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="687"/>
+        <location filename="ViewMenu.h" line="690"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>B&amp;ewerken</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="688"/>
+        <location filename="ViewMenu.h" line="691"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>Weerga&amp;ve</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="689"/>
+        <location filename="ViewMenu.h" line="692"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Afbeelding</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="690"/>
+        <location filename="ViewMenu.h" line="693"/>
         <source>Metadata</source>
         <translation>Metagegevens</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="691"/>
+        <location filename="ViewMenu.h" line="694"/>
         <source>Effect</source>
         <translation>Effect</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="692"/>
+        <location filename="ViewMenu.h" line="695"/>
         <source>&amp;Tools</source>
         <translation>&amp;Hulpmiddelen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="693"/>
+        <location filename="ViewMenu.h" line="696"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>&amp;Hulp</translation>
@@ -21726,12 +21700,12 @@ Doorgaan?</translation>
         <translation>Rechtsonder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="927"/>
+        <location filename="DlgSettingsInterface.cpp" line="926"/>
         <source>Choose command</source>
         <translation>Opdracht</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="959"/>
+        <location filename="DlgSettingsInterface.cpp" line="958"/>
         <source>Choose icon</source>
         <translation>Pictogram kiezen</translation>
     </message>
@@ -21796,9 +21770,9 @@ Doorgaan?</translation>
     <name>MyBitmapView</name>
     <message>
         <location filename="MyBitmapView.cpp" line="964"/>
-        <source>Loading image... </source>
-        <oldsource>Loading picture... </oldsource>
-        <translation>Afbeelding laden… </translation>
+        <source>Loading image...</source>
+        <oldsource>Loading image... </oldsource>
+        <translation type="unfinished">Afbeelding laden… </translation>
     </message>
 </context>
 <context>
@@ -23548,11 +23522,6 @@ Rechtermuisklik opent het actiemenu.</translation>
         <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Geen fouten</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="203"/>
-        <source>The peer presented a certificate that was blacklisted.</source>
-        <translation>De Peer presenteerde een certificaat vermeld op een ewarte lijst.</translation>
     </message>
 </context>
 <context>

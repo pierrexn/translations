@@ -1066,11 +1066,6 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <translation>Karty</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="74"/>
-        <source>A/B</source>
-        <translation>A/B</translation>
-    </message>
-    <message>
         <location filename="CompareWidget.cpp" line="557"/>
         <source>Move to</source>
         <translation>Presunúť do</translation>
@@ -3366,47 +3361,47 @@ Do you want to overwrite it?</oldsource>
         <translation>Písmo</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="624"/>
+        <location filename="DlgContactSheet.ui" line="627"/>
         <source>Output</source>
         <translation>Výstup</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="630"/>
+        <location filename="DlgContactSheet.ui" line="633"/>
         <source>Source folder</source>
         <translation>Zdrojový priečinok</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="639"/>
+        <location filename="DlgContactSheet.ui" line="642"/>
         <source>Folder</source>
         <translation>Priečinok</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="660"/>
+        <location filename="DlgContactSheet.ui" line="663"/>
         <source>Filename</source>
         <translation>Názov súboru</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="690"/>
+        <location filename="DlgContactSheet.ui" line="693"/>
         <source>Settings...</source>
         <translation>Nastavenia...</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="701"/>
+        <location filename="DlgContactSheet.ui" line="704"/>
         <source>After finish</source>
         <translation>Po skončení</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="709"/>
+        <location filename="DlgContactSheet.ui" line="712"/>
         <source>Do Nothing</source>
         <translation>Žiadna akcia</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="714"/>
+        <location filename="DlgContactSheet.ui" line="717"/>
         <source>Open Browser</source>
         <translation>Otvoriť prehliadač</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.ui" line="719"/>
+        <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Explorer</source>
         <oldsource>Open System Explorer</oldsource>
         <translation>Otvoriť prieskumníka súborov</translation>
@@ -8719,11 +8714,6 @@ Budú vytvorené podpriečinky. </translation>
         <translation>Podpriečinok</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="255"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <location filename="DlgImport.ui" line="167"/>
         <source>New filename</source>
         <translation>Nový názov súboru</translation>
@@ -11108,16 +11098,6 @@ Do you want to remove them?</source>
         <translation>Nastaviiť DPI</translation>
     </message>
     <message>
-        <location filename="DlgSetDpi.ui" line="22"/>
-        <source>X</source>
-        <translation>X</translation>
-    </message>
-    <message>
-        <location filename="DlgSetDpi.ui" line="91"/>
-        <source>Y</source>
-        <translation>Y</translation>
-    </message>
-    <message>
         <location filename="DlgSetDpi.ui" line="122"/>
         <source>Print size:</source>
         <translation>Veľkosť pre tlač:</translation>
@@ -11826,11 +11806,6 @@ Miniatúru</translation>
         <location filename="DlgSettingsFilelist.cpp" line="290"/>
         <source>Text</source>
         <translation>Textové súbory</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.cpp" line="291"/>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF súbory</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="292"/>
@@ -12688,7 +12663,7 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="149"/>
         <location filename="DlgSettingsInterface.cpp" line="194"/>
-        <location filename="DlgSettingsInterface.cpp" line="340"/>
+        <location filename="DlgSettingsInterface.cpp" line="339"/>
         <source>-- SEPARATOR --</source>
         <translation>-- ODDEĽOVAČ --</translation>
     </message>
@@ -12709,39 +12684,39 @@ Miniatúru</translation>
         <translation>-- NOVÁ ŠABLÓNA XMP --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="507"/>
+        <location filename="DlgSettingsInterface.cpp" line="506"/>
         <source>Browse mode</source>
         <translation>Prehliadací režim</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="508"/>
+        <location filename="DlgSettingsInterface.cpp" line="507"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>Zobrazovací režim</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="785"/>
-        <location filename="DlgSettingsInterface.cpp" line="805"/>
+        <location filename="DlgSettingsInterface.cpp" line="784"/>
+        <location filename="DlgSettingsInterface.cpp" line="804"/>
         <source>Set Icon...</source>
         <translation>Nastaviť ikonu...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="983"/>
+        <location filename="DlgSettingsInterface.cpp" line="982"/>
         <source>Set label</source>
         <translation>Nastaviť popis</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="984"/>
+        <location filename="DlgSettingsInterface.cpp" line="983"/>
         <source>Label:</source>
         <translation>Popis:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1133"/>
+        <location filename="DlgSettingsInterface.cpp" line="1132"/>
         <source>This shortcut is already assigned for </source>
         <translation>Táto klávesová skratka je už priradená pre </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1148"/>
+        <location filename="DlgSettingsInterface.cpp" line="1147"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12752,22 +12727,22 @@ Do you want to reassign?</source>
 Chcete ho priradiť znova?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1197"/>
+        <location filename="DlgSettingsInterface.cpp" line="1196"/>
         <source>Load toolbar</source>
         <translation>Načítať panel s nástrojmi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1215"/>
+        <location filename="DlgSettingsInterface.cpp" line="1214"/>
         <source>Save toolbar</source>
         <translation>Uložiť panel s nástrojmi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1271"/>
+        <location filename="DlgSettingsInterface.cpp" line="1270"/>
         <source>Load shortcuts</source>
         <translation>Načítať klávesové skratky</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1302"/>
+        <location filename="DlgSettingsInterface.cpp" line="1301"/>
         <source>Save shortcuts</source>
         <translation>Uložiť klávesové skratky</translation>
     </message>
@@ -13879,11 +13854,6 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsView.ui" line="656"/>
         <source>Text</source>
         <translation>Text</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="663"/>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF súbory</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="670"/>
@@ -16440,6 +16410,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Kompresia</translation>
     </message>
     <message>
+        <location filename="DlgImport.cpp" line="227"/>
         <location filename="InfoPropertiesView.cpp" line="93"/>
         <source>None</source>
         <translation>Žiadna</translation>
@@ -16808,6 +16779,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="401"/>
+        <location filename="DlgImport.cpp" line="228"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <location filename="IptcEditBase.cpp" line="110"/>
         <location filename="TemplateData.cpp" line="2676"/>
@@ -16857,6 +16829,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="407"/>
+        <location filename="DlgImport.cpp" line="230"/>
         <location filename="IptcEditBase.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>Modified date</source>
@@ -16927,13 +16900,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2689"/>
-        <source>Output filename without extension</source>
-        <translation>Názov výstupného súboru bez prípony</translation>
+        <source>Output filename</source>
+        <oldsource>Output filename without extension</oldsource>
+        <translation type="unfinished">Názov výstupného súboru bez prípony</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
-        <source>Output filename</source>
-        <translation>Názov výstupného súboru</translation>
+        <source>Output filename (with extension)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -19435,27 +19409,27 @@ Chcete pokračovať?</translation>
         <translation>Vybrať TWAIN zdroj...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="794"/>
+        <location filename="BrowserMenu.h" line="792"/>
         <source>&amp;File</source>
         <translation>&amp;Súbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="795"/>
+        <location filename="BrowserMenu.h" line="793"/>
         <source>&amp;Edit</source>
         <translation>&amp;Upraviť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="796"/>
+        <location filename="BrowserMenu.h" line="794"/>
         <source>&amp;View</source>
         <translation>&amp;Zobraziť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="797"/>
+        <location filename="BrowserMenu.h" line="795"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;údaje</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="798"/>
+        <location filename="BrowserMenu.h" line="796"/>
         <source>&amp;Tools</source>
         <translation>&amp;Nástroje</translation>
     </message>
@@ -19465,12 +19439,12 @@ Chcete pokračovať?</translation>
         <translation>Získať do (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="799"/>
+        <location filename="BrowserMenu.h" line="797"/>
         <source>C&amp;reate</source>
         <translation>&amp;Vytvoriť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="800"/>
+        <location filename="BrowserMenu.h" line="798"/>
         <source>&amp;Help</source>
         <translation>Ná&amp;poveda</translation>
     </message>
@@ -21141,12 +21115,12 @@ Chcete pokračovať?</translation>
         <translation>Hromadná konverzia...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="690"/>
+        <location filename="ViewMenu.h" line="693"/>
         <source>Metadata</source>
         <translation>Metaúdaje</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="691"/>
+        <location filename="ViewMenu.h" line="694"/>
         <source>Effect</source>
         <translation>Efekt</translation>
     </message>
@@ -21539,35 +21513,35 @@ Chcete pokračovať?</translation>
         <translation>Nový obrázok...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="686"/>
+        <location filename="ViewMenu.h" line="689"/>
         <source>&amp;File</source>
         <translation>&amp;Súbor</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="687"/>
+        <location filename="ViewMenu.h" line="690"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>&amp;Upraviť</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="688"/>
+        <location filename="ViewMenu.h" line="691"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>&amp;Zobraziť</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="689"/>
+        <location filename="ViewMenu.h" line="692"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Obrázok</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="692"/>
+        <location filename="ViewMenu.h" line="695"/>
         <source>&amp;Tools</source>
         <translation>&amp;Nástroje</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="693"/>
+        <location filename="ViewMenu.h" line="696"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>Ná&amp;poveda</translation>
@@ -21724,12 +21698,12 @@ Chcete pokračovať?</translation>
         <translation>Vpravo-dole</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="927"/>
+        <location filename="DlgSettingsInterface.cpp" line="926"/>
         <source>Choose command</source>
         <translation>Vybrať príkaz</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="959"/>
+        <location filename="DlgSettingsInterface.cpp" line="958"/>
         <source>Choose icon</source>
         <translation>Vybrať ikonu</translation>
     </message>
@@ -21794,8 +21768,8 @@ Chcete pokračovať?</translation>
     <name>MyBitmapView</name>
     <message>
         <location filename="MyBitmapView.cpp" line="964"/>
-        <source>Loading image... </source>
-        <oldsource>Loading picture... </oldsource>
+        <source>Loading image...</source>
+        <oldsource>Loading image... </oldsource>
         <translation type="unfinished">Načítánie obrázku... </translation>
     </message>
 </context>
@@ -23537,11 +23511,6 @@ Right Click for pop-up menu with actions.</source>
         <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
         <translation>Žiadna chyba</translation>
-    </message>
-    <message>
-        <location filename="WebError.cpp" line="203"/>
-        <source>The peer presented a certificate that was blacklisted.</source>
-        <translation>Peer  predložil certifikát, ktorý bol na čiernej listine.</translation>
     </message>
 </context>
 <context>

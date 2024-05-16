@@ -791,10 +791,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
 <context>
     <name>CompareWidget</name>
     <message>
-        <source>A/B</source>
-        <translation>A/B</translation>
-    </message>
-    <message>
         <source>CRC</source>
         <translation>CRC</translation>
     </message>
@@ -6882,10 +6878,6 @@ ja luodaan alikansiot. </translation>
         <source>Sort by</source>
         <translation>Järjestä käyttäen</translation>
     </message>
-    <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
 </context>
 <context>
     <name>DlgImportThread</name>
@@ -8686,14 +8678,6 @@ Haluatko poistaa ne?</translation>
 <context>
     <name>DlgSetDpi</name>
     <message>
-        <source>X</source>
-        <translation>X</translation>
-    </message>
-    <message>
-        <source>Y</source>
-        <translation>Y</translation>
-    </message>
-    <message>
         <source>Change EXIF DPI if exists</source>
         <translation>Muuta EXIF DPI jos sellainen on</translation>
     </message>
@@ -9241,10 +9225,6 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
     <message>
         <source>Delete...</source>
         <translation>Poista...</translation>
-    </message>
-    <message>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <source>Images</source>
@@ -10932,10 +10912,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Text</source>
         <translation>Teksti</translation>
-    </message>
-    <message>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <source>Exclude</source>
@@ -13079,10 +13055,6 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
         <translation>Musta/valkoinen</translation>
     </message>
     <message>
-        <source>Output filename without extension</source>
-        <translation>Ulostulotiedoston nimi ilman tiedostopäätettä</translation>
-    </message>
-    <message>
         <source>Rating (number)</source>
         <translation>Luokitus (numero)</translation>
     </message>
@@ -13117,6 +13089,10 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     <message>
         <source>Subsampling</source>
         <translation>Subsampling</translation>
+    </message>
+    <message>
+        <source>Output filename (with extension)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16731,8 +16707,8 @@ Haluatko jatkaa?</translation>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <source>Loading image... </source>
-        <translation>Ladataan kuvaa... </translation>
+        <source>Loading image...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18091,10 +18067,6 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <message>
         <source>No error</source>
         <translation>Ei virheitä</translation>
-    </message>
-    <message>
-        <source>The peer presented a certificate that was blacklisted.</source>
-        <translation>Vertailija havaitsi että varmenne on mustalla listalla.</translation>
     </message>
 </context>
 <context>

@@ -854,10 +854,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <source>Tabs</source>
         <translation>Pestañas</translation>
     </message>
-    <message>
-        <source>A/B</source>
-        <translation>A/B</translation>
-    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -6883,10 +6879,6 @@ Se crearán subcarpetas. </translation>
         <source>Sort by</source>
         <translation>Ordenar por</translation>
     </message>
-    <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
 </context>
 <context>
     <name>DlgImportThread</name>
@@ -8683,14 +8675,6 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSetDpi</name>
     <message>
-        <source>X</source>
-        <translation>X</translation>
-    </message>
-    <message>
-        <source>Y</source>
-        <translation>Y</translation>
-    </message>
-    <message>
         <source>Change EXIF DPI if exists</source>
         <translation>Cambiar DPI [EXIF] si existe</translation>
     </message>
@@ -9237,10 +9221,6 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     <message>
         <source>Delete...</source>
         <translation>Eliminar...</translation>
-    </message>
-    <message>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <source>Images</source>
@@ -10927,10 +10907,6 @@ Do you want to reassign?</source>
     <message>
         <source>Text</source>
         <translation>Texto</translation>
-    </message>
-    <message>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <source>Exclude</source>
@@ -13070,10 +13046,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Blanco y &amp;Negro</translation>
     </message>
     <message>
-        <source>Output filename without extension</source>
-        <translation>Nombre de archivo de salida sin extensión</translation>
-    </message>
-    <message>
         <source>Rating (number)</source>
         <translation>Calificación (número)</translation>
     </message>
@@ -13112,6 +13084,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Subsampling</source>
         <translation>Submuestreo</translation>
+    </message>
+    <message>
+        <source>Output filename (with extension)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16726,8 +16702,8 @@ Do you want to continue?</source>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <source>Loading image... </source>
-        <translation>Cargando imagen... </translation>
+        <source>Loading image...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18085,10 +18061,6 @@ Clic Derecho para menú contextual con acciones.</translation>
     <message>
         <source>No error</source>
         <translation>Sin error</translation>
-    </message>
-    <message>
-        <source>The peer presented a certificate that was blacklisted.</source>
-        <translation>El par presentó un certificado incluido en la lista negra.</translation>
     </message>
 </context>
 <context>

@@ -854,10 +854,6 @@ Drag and Drop over the desired node to assign.</translation>
         <source>Tabs</source>
         <translation>Ներդիրներ</translation>
     </message>
-    <message>
-        <source>A/B</source>
-        <translation>A/B</translation>
-    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -6882,10 +6878,6 @@ The internal folder structure will be flattened. </source>
         <source>Sort by</source>
         <translation>Խմբավորել ըստ՝</translation>
     </message>
-    <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
 </context>
 <context>
     <name>DlgImportThread</name>
@@ -8682,14 +8674,6 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSetDpi</name>
     <message>
-        <source>X</source>
-        <translation>X</translation>
-    </message>
-    <message>
-        <source>Y</source>
-        <translation>Y</translation>
-    </message>
-    <message>
         <source>Print size:</source>
         <translation>Տպելու չափ.</translation>
     </message>
@@ -9228,10 +9212,6 @@ Do you want to check for affected entries first?</source>
     <message>
         <source>All others files</source>
         <translation>Բոլոր այլ ֆայլերը</translation>
-    </message>
-    <message>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <source>Images</source>
@@ -10926,10 +10906,6 @@ Do you want to reassign?</source>
     <message>
         <source>Text</source>
         <translation>Տեքստ</translation>
-    </message>
-    <message>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <source>Exclude</source>
@@ -13069,10 +13045,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Բարձր. (մմ)</translation>
     </message>
     <message>
-        <source>Output filename without extension</source>
-        <translation>Արտածման ֆայլի անունը առանց ընդլայնման</translation>
-    </message>
-    <message>
         <source>Output filename</source>
         <translation>Արտածվող ֆայլի անունը</translation>
     </message>
@@ -13111,6 +13083,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Subsampling</source>
         <translation>Ենթանմուշառում</translation>
+    </message>
+    <message>
+        <source>Output filename (with extension)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16725,8 +16701,8 @@ Do you want to continue?</source>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <source>Loading image... </source>
-        <translation>Պատկերի բեռնում... </translation>
+        <source>Loading image...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18084,10 +18060,6 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <source>No error</source>
         <translation>Չկա սխալ</translation>
-    </message>
-    <message>
-        <source>The peer presented a certificate that was blacklisted.</source>
-        <translation>Ներկայացվել է վկայական, որը ուժը սև ցուցակում է:</translation>
     </message>
 </context>
 <context>

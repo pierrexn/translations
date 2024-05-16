@@ -846,10 +846,6 @@ Drag and Drop over the desired node to assign.</source>
         <source>Tabs</source>
         <translation type="unfinished">Abas</translation>
     </message>
-    <message>
-        <source>A/B</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -6856,10 +6852,6 @@ The internal folder structure will be flattened. </source>
         <source>Sort by</source>
         <translation type="unfinished">Ordenar por</translation>
     </message>
-    <message>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
-    </message>
 </context>
 <context>
     <name>DlgImportThread</name>
@@ -8651,14 +8643,6 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSetDpi</name>
     <message>
-        <source>X</source>
-        <translation type="unfinished">X</translation>
-    </message>
-    <message>
-        <source>Y</source>
-        <translation type="unfinished">Y</translation>
-    </message>
-    <message>
         <source>Print size:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9197,10 +9181,6 @@ Thumbnail</source>
     <message>
         <source>Text</source>
         <translation>Texto</translation>
-    </message>
-    <message>
-        <source>AI/PS/PDF</source>
-        <translation>AI/PS/PDF</translation>
     </message>
     <message>
         <source>Archives</source>
@@ -10878,10 +10858,6 @@ Do you want to reassign?</source>
     <message>
         <source>Text</source>
         <translation type="unfinished">Texto</translation>
-    </message>
-    <message>
-        <source>AI/PS/PDF</source>
-        <translation type="unfinished">AI/PS/PDF</translation>
     </message>
     <message>
         <source>Exclude</source>
@@ -13017,10 +12993,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Output filename without extension</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Output filename</source>
         <translation type="unfinished">Arquivo de saída</translation>
     </message>
@@ -13058,6 +13030,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Subsampling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output filename (with extension)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16673,7 +16649,7 @@ Do you want to continue?</source>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <source>Loading image... </source>
+        <source>Loading image...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18029,10 +18005,6 @@ Right Click for pop-up menu with actions.</source>
     <name>WebError</name>
     <message>
         <source>No error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The peer presented a certificate that was blacklisted.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
