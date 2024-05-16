@@ -16767,12 +16767,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">출력 파일의 확장자 제외</translation>
+        <translation>출력 파일명</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>출력 파일명 (확장자 포함)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="401"/>
@@ -21690,7 +21690,7 @@ Do you want to continue?</oldsource>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">이미지 로딩 중... </translation>
+        <translation>이미지 로딩 중...</translation>
     </message>
 </context>
 <context>
