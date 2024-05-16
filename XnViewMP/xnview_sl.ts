@@ -16857,12 +16857,12 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Izhodno ime datoteke brez pripone</translation>
+        <translation>Izhodno ime datoteke</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izhodno ime datoteke (s pripono)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="401"/>
@@ -21818,7 +21818,7 @@ Do you want to continue?</oldsource>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Nalaganje slike... </translation>
+        <translation>Nalaganje slike...</translation>
     </message>
 </context>
 <context>
