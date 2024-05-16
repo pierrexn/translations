@@ -17009,12 +17009,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Имя файла на выходе</translation>
+        <translation>Имя файла на выходе</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя файла на выходе (с расширением)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21894,7 +21894,7 @@ Do you want to continue?</oldsource>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Загрузка изображения... </translation>
+        <translation>Загрузка изображения...</translation>
     </message>
 </context>
 <context>
