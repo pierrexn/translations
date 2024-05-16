@@ -2450,7 +2450,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="851"/>
         <source>Output Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Väljundfaili nimi</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="859"/>
@@ -16879,7 +16879,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Väljundfaili nimi (laiendiga)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21744,7 +21744,7 @@ Kas soovite jätkata?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Pildi laadimine... </translation>
+        <translation>Pildi laadimine...</translation>
     </message>
 </context>
 <context>
