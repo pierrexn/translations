@@ -2690,9 +2690,9 @@ Drag and Drop over the desired node to assign.</source>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="460"/>
         <source>Select Photos: %n file(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Sélectionner les photos : %n fichier</numerusform>
+            <numerusform>Sélectionner les photos : %n fichiers</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -13909,7 +13909,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom sur écran HiDPI: 1 pixel image correspond à 1 pixel écran</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="721"/>
