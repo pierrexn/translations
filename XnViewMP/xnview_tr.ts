@@ -16865,7 +16865,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Uzantısız çıktı dosya adı</translation>
+        <translation>Oluşturulacak Dosya Adı</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
@@ -21727,7 +21727,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Resim yükleniyor... </translation>
+        <translation>Resim yükleniyor...</translation>
     </message>
 </context>
 <context>
