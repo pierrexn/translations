@@ -13087,7 +13087,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de archivo de salida (con extensión)</translation>
     </message>
 </context>
 <context>
@@ -16703,7 +16703,7 @@ Do you want to continue?</source>
     <name>MyBitmapView</name>
     <message>
         <source>Loading image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando imagen...</translation>
     </message>
 </context>
 <context>
