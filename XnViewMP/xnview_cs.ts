@@ -332,7 +332,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Ukládání obrázku...</translation>
+        <translation>Ukládání obrázku...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -1818,7 +1818,7 @@ Položky můžete přiřazovat přetažením.</translation>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
         <translatorcomment>&quot;The&quot; should be with uppercase T</translatorcomment>
-        <translation type="unfinished">POZOR: Obrázek bude zkonvertován do RGB - 8 bitů na kanál</translation>
+        <translation>POZOR: Obrázek bude zkonvertován do RGB (8 bitů na kanál)</translation>
     </message>
 </context>
 <context>
@@ -2803,7 +2803,7 @@ Položky můžete přiřazovat přetažením.</translation>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">není obrázek</translation>
+        <translation>není obrázek</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -2859,7 +2859,10 @@ Položky můžete přiřazovat přetažením.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Soubor %1 již existuje. Chcete jej přepsat?</translation>
+        <translation>Cílová složka již obsahuje soubor s názvem:
+%1
+
+Chcete jej přepsat?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3566,7 +3569,9 @@ Do you want to overwrite it?</oldsource>
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
         <translatorcomment>Better to divide into two sentences.</translatorcomment>
-        <translation type="unfinished">K dispozici je nová verze XnConvert %1. Chcete otevřít stránku pro stažení?</translation>
+        <translation>K dispozici je nová verze XnConvert %1.
+
+Chcete otevřít stránku pro stažení?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1552"/>
@@ -3745,7 +3750,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Výstupní soubor již existuje. Chcete jej přepsat?</translation>
+        <translation>Výstupní soubor již existuje.
+
+Chcete jej přepsat?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3782,7 +3789,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2489"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">není obrázek</translation>
+        <translation>není obrázek</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2492"/>
@@ -3848,7 +3855,10 @@ Do you want to overwrite it?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Soubor %1 již existuje. Chcete jej přepsat?</translation>
+        <translation>Cílová složka již obsahuje soubor s názvem:
+%1
+
+Chcete jej přepsat?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2613"/>
@@ -4221,25 +4231,25 @@ Chcete pokračovat?</translation>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Vlevo nahoře</translation>
+        <translation>Vlevo nahoře</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Uprostřed nahoře</translation>
+        <translation>Uprostřed nahoře</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Vpravo nahoře</translation>
+        <translation>Vpravo nahoře</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Uprostřed vlevo</translation>
+        <translation>Uprostřed vlevo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4250,25 +4260,25 @@ Chcete pokračovat?</translation>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Uprostřed vpravo</translation>
+        <translation>Uprostřed vpravo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Vlevo dole</translation>
+        <translation>Vlevo dole</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Uprostřed dole</translation>
+        <translation>Uprostřed dole</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Vpravo dole</translation>
+        <translation>Vpravo dole</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -4407,25 +4417,25 @@ Chcete pokračovat?</translation>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Vlevo nahoře</translation>
+        <translation>Vlevo nahoře</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Uprostřed nahoře</translation>
+        <translation>Uprostřed nahoře</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Vpravo nahoře</translation>
+        <translation>Vpravo nahoře</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Uprostřed vlevo</translation>
+        <translation>Uprostřed vlevo</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4436,25 +4446,25 @@ Chcete pokračovat?</translation>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Uprostřed vpravo</translation>
+        <translation>Uprostřed vpravo</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Vlevo dole</translation>
+        <translation>Vlevo dole</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Dole uprostřed</translation>
+        <translation>Dole uprostřed</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Vpravo dole</translation>
+        <translation>Vpravo dole</translation>
     </message>
 </context>
 <context>
@@ -5205,7 +5215,7 @@ Chcete pokračovat?</translation>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Nahradit hodnotu alfa pro 32-bitové obrázky</translation>
+        <translation>Nahradit hodnotu alfa pro 32-bitové obrázky</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5663,7 +5673,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
