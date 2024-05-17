@@ -13924,7 +13924,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">&quot;Automatikus képméretezés&quot; beállítás alapértelmezett használata az előző/következő fájl során</translation>
+        <translation>&quot;Automatikus nagyítás&quot; beállítás visszaállítása előző/következő fájlra váltáskor</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -13985,7 +13985,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation type="unfinished">Értékelés és színes címke megjelenítése</translation>
+        <translation>Értékelés és színcímkék megjelenítése</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -14229,7 +14229,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">Azonos képtartalom (lassabb)</translation>
+        <translation>Hasonló képtartalom (lassú)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
