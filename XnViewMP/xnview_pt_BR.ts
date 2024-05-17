@@ -1877,7 +1877,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Output Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de saída</translation>
     </message>
     <message>
         <source>Folder</source>
