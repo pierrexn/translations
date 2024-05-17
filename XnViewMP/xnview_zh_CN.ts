@@ -16919,12 +16919,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">导出文件名（无扩展名）</translation>
+        <translation>导出文件名</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>导出文件名（包含扩展名）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
