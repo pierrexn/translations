@@ -7743,7 +7743,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation type="unfinished">Értékelés és címke exportálása</translation>
+        <translation>Értékelés és színcímke exportálása</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -11632,7 +11632,7 @@ El szeretné távolítani a kategóriához rendelt bejegyzéseket?</translation>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">A képek alapútvonal</translation>
+        <translation>A fájlok alapútvonala</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="290"/>
@@ -11870,7 +11870,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="49"/>
         <source>Recognize only by extension</source>
-        <translation>Felismeré csak kiterjesztés alapján</translation>
+        <translation>Felismerés csak kiterjesztés alapján</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="117"/>
@@ -11971,7 +11971,7 @@ miniatűrként</translation>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation type="unfinished">Szűrés egyéni beállítások alapján</translation>
+        <translation>Szűrő › Egyéni menüpont használata</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -12040,7 +12040,7 @@ miniatűrként</translation>
         <location filename="DlgSettingsFormat.ui" line="116"/>
         <source>Show most used formats at beginning</source>
         <oldsource>Show most used format at beginning</oldsource>
-        <translation type="unfinished">A legtöbbet használt formátum előre</translation>
+        <translation>A leggyakrabban használt formátumok előre</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12712,7 +12712,7 @@ miniatűrként</translation>
 %2
 
 Do you want to reassign?</source>
-        <translation type="unfinished">%1 már hozzá van rendelve:
+        <translation>%1 már hozzá van rendelve:
 %2
 
 Szeretné újratársítani?</translation>
@@ -12749,7 +12749,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">Ugyanazon fájl többféle megtekintése</translation>
+        <translation>Ugyanazon fájlok több betekintő engedélyezése</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12760,19 +12760,19 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">Utolsó lap bezárásával kilép az XnView-ből</translation>
+        <translation>Utolsó lap bezárásával bezáródik az alkalmazás</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation type="unfinished">Böngésző szinkronizálása a nézet bezárásakor</translation>
+        <translation>Fájl kijelölése a böngészőben a betekintő bezárásakor</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">Fogd-és-vidd: Egy nézet megnyitása a fájllistához</translation>
+        <translation>Fogd-és-vidd: Egy betekintő megnyitása a fájllistához</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13045,7 +13045,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished">Fel/le görget</translation>
+        <translation>Függőleges görgetés</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13069,7 +13069,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
-        <translation type="unfinished">Kép mozgatása</translation>
+        <translation>Kép mozgatása</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -13112,7 +13112,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished">Lap elrejtése, ha csak egy van nyitva</translation>
+        <translation>Lap elrejtése, ha csak egy van megnyitva</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13271,7 +13271,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation type="unfinished">XMP tárgy vagy IPTC kulcsszó importálása a katalógus kategóriákba</translation>
+        <translation>XMP tárgy vagy IPTC kulcsszó automatikus importálása a katalógus kategóriákba</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13283,7 +13283,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation type="unfinished">Szülő kategória automatikus alkalmazása (Ctrl + kattintás a kategóriáért)</translation>
+        <translation>Szülő kategória automatikus alkalmazása (Ctrl + kattintás a kategóriákhoz)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -13294,7 +13294,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">Katalógus kategóriák exportálása XMP tárgy és IPTC kulcsszó mezőbe</translation>
+        <translation>Katalógus kategóriák exportálása XMP tárgy és IPTC kulcsszó mezőbe</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13310,7 +13310,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished">XMP Sidecarfrissítése vagy létrehozása</translation>
+        <translation>XMP kísérőfájl frissítése vagy létrehozása</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -13333,7 +13333,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
-        <translation type="unfinished">Kategóriák beírása a képekbe, hierarchikus kulcsszavakként</translation>
+        <translation>Kategóriák beírása a képekbe, hierarchikus kulcsszavakként</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="33"/>
@@ -13416,7 +13416,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">Címkék</translation>
+        <translation>Színcímkék</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="613"/>
@@ -13490,7 +13490,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
-        <translation type="unfinished">Miniatűrök létrehozása a teljes mappára</translation>
+        <translation>Miniatűrök létrehozása a teljes mappára</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13729,7 +13729,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">Határvonal a kép körül</translation>
+        <translation>Keret a kép körül</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="224"/>
