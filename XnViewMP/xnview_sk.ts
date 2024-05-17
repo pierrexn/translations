@@ -16902,12 +16902,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Názov výstupného súboru bez prípony</translation>
+        <translation>Názov výstupného súboru</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Názov výstupného súboru (s príponou)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21770,7 +21770,7 @@ Chcete pokračovať?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Načítánie obrázku... </translation>
+        <translation>Načítánie obrázku...</translation>
     </message>
 </context>
 <context>
