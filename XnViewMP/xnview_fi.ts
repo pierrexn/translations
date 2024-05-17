@@ -1902,8 +1902,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n tunti(a) ja </numerusform>
-            <numerusform>%n tunti(a) ja </numerusform>
+            <numerusform>%n tunti ja </numerusform>
+            <numerusform>%n tuntia ja </numerusform>
         </translation>
     </message>
     <message>
@@ -1993,8 +1993,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n second(s) remaining</source>
         <translation>
-            <numerusform>%n sekunti(a) jäljellä</numerusform>
-            <numerusform>%n sekunti(a) jäljellä</numerusform>
+            <numerusform>%n sekunti jäljellä</numerusform>
+            <numerusform>%n sekuntia jäljellä</numerusform>
         </translation>
     </message>
     <message>
@@ -2810,7 +2810,7 @@ Haluatko korvata sen?</translation>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n tunti(a) ja </numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n tunti(a) ja </numerusform>
         </translation>
     </message>
     <message>
@@ -2938,7 +2938,7 @@ Haluatko korvata sen?</translation>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Muunnettavia: %n tiedosto(a)</numerusform>
-            <numerusform>Muunnettavia: %n tiedostoa</numerusform>
+            <numerusform>Muunnettavia: %n tiedosto(a)</numerusform>
         </translation>
     </message>
     <message>
@@ -5400,7 +5400,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Palauta</translation>
+        <translation>Nollaa</translation>
     </message>
     <message>
         <source>Curves</source>
@@ -16894,7 +16894,7 @@ Haluatko jatkaa?</translation>
     <message numerus="yes">
         <source>%n object(s)</source>
         <translation>
-            <numerusform>%n objekti</numerusform>
+            <numerusform>%n objekti(a)</numerusform>
             <numerusform>%n objekti(a)</numerusform>
         </translation>
     </message>
@@ -16905,14 +16905,14 @@ Haluatko jatkaa?</translation>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
         <translation>
-            <numerusform>%n objekti [%2 %3]</numerusform>
+            <numerusform>%n objekti(a) [%2 %3]</numerusform>
             <numerusform>%n objekti(a) [%2 %3]</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
-            <numerusform>%n objekti valittu [%3 %4]</numerusform>
+            <numerusform>%n objekti(a) valittu [%3 %4]</numerusform>
             <numerusform>%n objekti(a) valittu [%3 %4]</numerusform>
         </translation>
     </message>
@@ -17634,7 +17634,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Retry</source>
-        <translation>Uudelleen</translation>
+        <translation>Yritä uudelleen</translation>
     </message>
     <message>
         <source>Skip All</source>
