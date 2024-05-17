@@ -16965,12 +16965,12 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Nome de saída sem extensão</translation>
+        <translation>Nome do ficheiro de destino</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do ficheiro de destino (com extensão)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21852,7 +21852,7 @@ Deseja continuar?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Carregando a imagem... </translation>
+        <translation>Carregando a imagem...</translation>
     </message>
 </context>
 <context>
