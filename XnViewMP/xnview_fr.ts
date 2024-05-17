@@ -16830,12 +16830,12 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Nom de fichier destination avec extension</translation>
+        <translation>Fichier destination</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier destination (avec extension)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="401"/>
@@ -21791,7 +21791,7 @@ Voulez-vous continuer ?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Chargement de l&apos;image... </translation>
+        <translation>Chargement de l&apos;image...</translation>
     </message>
 </context>
 <context>
