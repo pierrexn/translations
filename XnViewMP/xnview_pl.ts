@@ -16927,12 +16927,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Docelowa nazwa pliku bez rozszerzenia</translation>
+        <translation>Nazwa docelowa</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa docelowa (z rozszerzeniem)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21798,7 +21798,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Wczytywanie obrazu... </translation>
+        <translation>Wczytywanie obrazu...</translation>
     </message>
 </context>
 <context>
