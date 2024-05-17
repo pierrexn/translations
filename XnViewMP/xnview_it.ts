@@ -16979,7 +16979,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>Size (Auto)</source>
-        <translation>Dimensione (Auto.)</translation>
+        <translation>Dimensione (Auto)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="409"/>
@@ -17041,12 +17041,12 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Nome file di destinazione senza estensione</translation>
+        <translation>Nome del file di destinazione</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del file di destinazione (con estensione)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21929,7 +21929,7 @@ Volete continuare?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Caricamento immagine... </translation>
+        <translation>Caricamento immagine...</translation>
     </message>
 </context>
 <context>
