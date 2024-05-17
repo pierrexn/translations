@@ -16912,12 +16912,12 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Uitvoerbestand zonder extensie</translation>
+        <translation>Uitvoerbestandsnaam</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitvoerbestandsnaam (incl. extensie)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
