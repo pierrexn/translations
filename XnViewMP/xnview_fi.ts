@@ -144,11 +144,11 @@
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>Uutta sovelluksessa</translation>
+        <translation>Mitä uutta?</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Plug-in moduulit</translation>
+        <translation>Liitännäiset</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>Tiedostoon &lt;%1&gt; on vain lukuoikeudet, valitse toinen tiedostonimi.</translation>
+        <translation>Tiedostoon &lt;%1&gt;  on vain lukuoikeudet, valitse toinen tiedostonimi.</translation>
     </message>
     <message>
         <source>&lt; Empty &gt;</source>
@@ -2792,7 +2792,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Save log as...</source>
-        <translation>Tallenna loki nimellä...</translation>
+        <translation>Save log as...</translation>
     </message>
     <message>
         <source>create error</source>
@@ -2845,7 +2845,7 @@ Haluatko korvata sen?</translation>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n sekunti(a) jäljellä</numerusform>
-            <numerusform>%n sekunti(a) jäljellä</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2854,7 +2854,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Finished at: </source>
-        <translation>Valmistui: </translation>
+        <translation>Finished at: </translation>
     </message>
     <message>
         <source>_result</source>
@@ -2986,7 +2986,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Started at: </source>
-        <translation>Alkoi: </translation>
+        <translation>Started at: </translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
@@ -3022,7 +3022,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Please restart application.</source>
-        <translation>Uudelleenkäynnistä sovellus.</translation>
+        <translation>Uudelleenkäynnistä sovellus</translation>
     </message>
     <message>
         <source>The %1 version of XnConvert is available. 
@@ -4018,7 +4018,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Ylös</translation>
+        <translation>Ylhäällä</translation>
     </message>
     <message>
         <source>Left</source>
@@ -4034,7 +4034,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alas</translation>
+        <translation>Alhaalla</translation>
     </message>
     <message>
         <source>Height</source>
@@ -4496,7 +4496,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasemmalta</translation>
+        <translation>Vasemmalla</translation>
     </message>
     <message>
         <source>Wrap image around</source>
@@ -4504,7 +4504,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikealta</translation>
+        <translation>Oikealla</translation>
     </message>
     <message>
         <source>pixels</source>
@@ -14552,7 +14552,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>O&amp;hje</translation>
+        <translation>&amp;Ohje</translation>
     </message>
     <message>
         <source>&amp;View</source>
