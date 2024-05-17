@@ -2456,7 +2456,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="851"/>
         <source>Output Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я на виході</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="859"/>
@@ -16888,7 +16888,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2686"/>
         <source>Size (KB)</source>
-        <translation>Розмір (кбайт)</translation>
+        <translation>Розмір (Кб)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2472"/>
@@ -16941,7 +16941,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я на виході (з розширенням)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21813,7 +21813,7 @@ Do you want to continue?</oldsource>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження зображення...</translation>
     </message>
 </context>
 <context>
