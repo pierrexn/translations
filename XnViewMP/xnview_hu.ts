@@ -16885,7 +16885,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2677"/>
         <source>Filename (with extension)</source>
-        <translation>Fájlnév( kiterjesztéssel)</translation>
+        <translation>Fájlnév (kiterjesztéssel)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2687"/>
@@ -16896,12 +16896,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Kimeneti fájlnév kiterjesztés nélkül</translation>
+        <translation>Kimeneti fájlnév</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kimeneti fájlnév (kiterjesztéssel)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21755,7 +21755,7 @@ Biztosan folytassuk?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Kép betöltése... </translation>
+        <translation>Kép betöltése...</translation>
     </message>
 </context>
 <context>
