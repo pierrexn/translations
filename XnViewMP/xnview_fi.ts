@@ -13092,7 +13092,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulostulo-tiedosto (tiedostopäätteellä)</translation>
     </message>
 </context>
 <context>
@@ -16708,7 +16708,7 @@ Haluatko jatkaa?</translation>
     <name>MyBitmapView</name>
     <message>
         <source>Loading image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan kuvaa...</translation>
     </message>
 </context>
 <context>
