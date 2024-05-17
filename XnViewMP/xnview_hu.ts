@@ -15568,7 +15568,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="155"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Al-mintázás</translation>
+        <translation>Almintavételezés</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="148"/>
@@ -15715,7 +15715,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="143"/>
         <source>Subsampling factor</source>
-        <translation>Alminta tényező</translation>
+        <translation>Almintavételezési faktor</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="151"/>
@@ -15798,7 +15798,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Al-mintázás</translation>
+        <translation>Almintavételezés</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
