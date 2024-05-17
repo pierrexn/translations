@@ -16915,12 +16915,12 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Filnamn utan filnamnstillägg</translation>
+        <translation>Namn på utdatafil</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
         <source>Output filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn på utdatafil (med filnamnstillägg)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2660"/>
@@ -21783,7 +21783,7 @@ Vill du fortsätta?</translation>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">Läser in bild... </translation>
+        <translation>Läser in bild...</translation>
     </message>
 </context>
 <context>
