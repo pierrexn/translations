@@ -1369,7 +1369,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="DlgConvertProcess.h" line="4682"/>
         <source>Mono Mixer</source>
         <translatorcomment>Lenne ennek magyar mefelelője?!</translatorcomment>
-        <translation>Mono Mixer</translation>
+        <translation>Mono-keverő</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4707"/>
@@ -1477,7 +1477,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvertProcess.h" line="3144"/>
         <source>ICC convert</source>
-        <translation>ICC átalakítás</translation>
+        <translation>ICC konvertálás</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3286"/>
@@ -1913,7 +1913,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DBFilterModel.cpp" line="128"/>
         <source>Colour Label</source>
-        <translation>Színes címke</translation>
+        <translation>Színcímke</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="132"/>
@@ -3516,7 +3516,7 @@ Felül szeretné írni?</translation>
         <location filename="DlgConvert.cpp" line="1133"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
-        <translation>&lt;br&gt;Az XnConvert ingyenes magán - nem kereskedelmi - vagy oktatási célra, beleértve a non-profit szervezeteket. &lt;br&gt;Cégek számára megvásárolt licenc szükséges a használathoz.&lt;br&gt;&lt;br&gt;Ön ezen szoftvert korlátlan számban telepí­theti.&lt;br&gt;&lt;br&gt; Ezek a szoftverek &quot;ahogy van&quot; kategóriásak.&lt;br&gt;Nem vállalunk semmiféle felelősséget, legyen az kifejezett vagy vélelmezett.&lt;br&gt;A szerző nem vállal felelősséget az adatok elvesztéséért, károkért, az elmaradt haszon vagy bármilyen más veszteségeségért, amely a szoftver használatából, vagy szoftver visszaélésből adódott.&lt;br&gt;&lt;br&gt;Szívesen veszünk bármilyen javaslatot, visszajelzést és észrevételt. </translation>
+        <translation>&lt;br&gt;Az XnConvert ingyenes magán - nem kereskedelmi - vagy oktatási célra, beleértve a non-profit szervezeteket. &lt;br&gt;Cégek számára megvásárolt licenc szükséges a használathoz.&lt;br&gt;&lt;br&gt;Ön ezen szoftvert korlátlan számban telepítheti.&lt;br&gt;&lt;br&gt; Ezek a szoftverek &quot;ahogy van&quot; kategóriásak.&lt;br&gt;Nem vállalunk semmiféle felelősséget, legyen az kifejezett vagy vélelmezett.&lt;br&gt;A szerző nem vállal felelősséget az adatok elvesztéséért, károkért, az elmaradt haszon vagy bármilyen más vesztesért, amely a szoftver használatából, vagy szoftver visszaélésből adódott.&lt;br&gt;&lt;br&gt;Szívesen veszünk bármilyen javaslatot, visszajelzést és észrevételt. </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1283"/>
@@ -3934,7 +3934,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertAdjust.ui" line="20"/>
         <source>Brightness</source>
-        <translation>Fényesség</translation>
+        <translation>Fényerő</translation>
     </message>
     <message>
         <location filename="DlgConvertAdjust.ui" line="59"/>
@@ -4037,7 +4037,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgConvertBlackWhite.ui" line="14"/>
         <source>Mono mixer</source>
         <translatorcomment>Lenne ennek magyar mefelelője?!</translatorcomment>
-        <translation>Mono mixer</translation>
+        <translation>Mono-keverő</translation>
     </message>
     <message>
         <location filename="DlgConvertBlackWhite.ui" line="22"/>
@@ -4428,7 +4428,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgConvert.ui" line="14"/>
         <location filename="DlgConvert-old.ui" line="14"/>
         <source>Batch convert</source>
-        <translation>Csoportos átalakítás</translation>
+        <translation>Csoportos konvertálás</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="83"/>
@@ -11777,7 +11777,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Open with</source>
-        <translation>Megnyitás mint</translation>
+        <translation>Megnyitás a következővel</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="286"/>
@@ -13358,7 +13358,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="275"/>
         <source>Export color label in XMP metadata</source>
-        <translation>Színes címke exportálása XMP metaadatba</translation>
+        <translation>Színcímke exportálása XMP metaadatba</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="285"/>
@@ -13652,7 +13652,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="588"/>
         <source>Color label</source>
-        <translation>Színes címke</translation>
+        <translation>Színcímke</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="581"/>
@@ -13913,7 +13913,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="934"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation type="unfinished">Pillanatkép ikonok megjelenítése</translation>
+        <translation>Többméretű ikonok megjelenítése pillanatképként</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="713"/>
@@ -15071,7 +15071,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation type="unfinished">Minden kép növelése mint</translation>
+        <translation>Ennyivel növelés minden képpel</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -15932,13 +15932,13 @@ Biztos folytassuk?</translation>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">Fekete&amp;fehér képek tömörítése</translation>
+        <translation>Fekete-fehér képek tömörítése</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">Színes képek tömörítése</translation>
+        <translation>Színes képek tömörítése</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -16259,7 +16259,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="ThumbInfo.cpp" line="166"/>
         <source>Color label</source>
-        <translation>Színes címke</translation>
+        <translation>Színcímke</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="167"/>
@@ -16418,7 +16418,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
-        <translation type="unfinished">Al-mintázás</translation>
+        <translation>Almintavételezés</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -16628,7 +16628,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1064"/>
         <source>Colour label</source>
-        <translation>Színes címke</translation>
+        <translation>Színcímke</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1066"/>
@@ -16688,7 +16688,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="SearchField.cpp" line="140"/>
         <location filename="TemplateData.cpp" line="2666"/>
         <source>Color label</source>
-        <translation>Színes címke</translation>
+        <translation>Színcímke</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="31"/>
@@ -16931,7 +16931,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2667"/>
         <source>Color label (number)</source>
-        <translation>Színes címke (szám)</translation>
+        <translation>Színcímke (szám)</translation>
     </message>
 </context>
 <context>
@@ -17509,7 +17509,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2551"/>
         <source>Brightness</source>
-        <translation>Fényesség</translation>
+        <translation>Fényerő</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2552"/>
@@ -18302,7 +18302,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="631"/>
         <source>Colour Label</source>
-        <translation>Színes címke</translation>
+        <translation>Színcímke</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="641"/>
@@ -18738,7 +18738,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Héber</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19007,7 +19007,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="61"/>
         <source>Colour label</source>
-        <translation>Színes címke</translation>
+        <translation>Színcímke</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="63"/>
@@ -19105,7 +19105,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Beillesztés képként</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -19540,7 +19540,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="404"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">Megnyitás mint</translation>
+        <translation>Megnyitás a következővel</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="405"/>
@@ -19755,7 +19755,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="493"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Értékelés és színes címke</translation>
+        <translation>Értékelés és színcímke</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="494"/>
@@ -19995,12 +19995,12 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Convert into</source>
-        <translation>Átalakítás</translation>
+        <translation>Konvertálás</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Batch convert...</source>
-        <translation>Csoportos átalakítás...</translation>
+        <translation>Csoportos konvertálás...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="588"/>
@@ -20394,7 +20394,7 @@ Biztosan folytassuk?</translation>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: Numerikus számláló</translation>
+        <translation># - Numerikus számláló</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2674"/>
@@ -20628,7 +20628,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="267"/>
         <source>Open with</source>
-        <translation>Megnyitás mint</translation>
+        <translation>Megnyitás a következővel</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="268"/>
@@ -20792,13 +20792,13 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="312"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Kijelölés arányának beállítása</translation>
+        <translation>Kijelölés - arány beállítása</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Kijelölés méretének beállítása</translation>
+        <translation>Kijelölés - méret beállítása</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -20833,7 +20833,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
-        <translation type="unfinished">Küldés e-mailben...</translation>
+        <translation>Küldés e-mailben...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="693"/>
@@ -20844,42 +20844,42 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="339"/>
         <source>Excellent (move to next image)</source>
         <oldsource>Excellent (move to next photo)</oldsource>
-        <translation type="unfinished">Kiváló (tovább a következő képre)</translation>
+        <translation>Kiváló (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kijelölés megszüntetése</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
         <source>Good (move to next image)</source>
         <oldsource>Good (move to next photo)</oldsource>
-        <translation type="unfinished">Jó (tovább a következő képre)</translation>
+        <translation>Jó (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translation type="unfinished">Átlagos (tovább a következő képre)</translation>
+        <translation>Átlagos (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fair (move to next image)</source>
         <oldsource>Fair (move to next photo)</oldsource>
-        <translation type="unfinished">Megfelelő (tovább a következő képre)</translation>
+        <translation>Megfelelő (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Poor (move to next image)</source>
         <oldsource>Poor (move to next photo)</oldsource>
-        <translation type="unfinished">Rossz (tovább a következő képre)</translation>
+        <translation>Rossz (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Unrated (move to next image)</source>
         <oldsource>Unrated (move to next photo)</oldsource>
-        <translation type="unfinished">Nem minősített (tovább a következő képre)</translation>
+        <translation>Nem minősített (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
@@ -20891,7 +20891,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="364"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Értékelés és színes címke</translation>
+        <translation>Értékelés és színcímke</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
@@ -21053,7 +21053,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="402"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">Ikon pillanatkép be/ki</translation>
+        <translation>Ikon megjelenítése pillanatképként</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="407"/>
@@ -21078,7 +21078,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Beillesztés képként</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="694"/>
@@ -21343,7 +21343,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="413"/>
         <source>Batch convert...</source>
-        <translation>Csoportos átalakítás...</translation>
+        <translation>Csoportos konvertálás...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
@@ -21384,7 +21384,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="430"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Logaritmikus LUT</translation>
+        <translation>Logaritmikus LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -21968,8 +21968,8 @@ Biztosan folytassuk?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">A miniatűrök mérete kisebb, mint a választott méret.
-Megváltoztathatja a Beállítások&gt;Katalógusban.</translation>
+        <translation>A miniatűrök mérete kisebb, mint a választott méret.
+Megváltoztathatja a Beállítások › Katalógusban.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
@@ -23377,7 +23377,7 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="65"/>
         <source>Brightness</source>
-        <translation>Fényesség</translation>
+        <translation>Fényerő</translation>
     </message>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="75"/>
