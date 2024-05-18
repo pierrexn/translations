@@ -7784,7 +7784,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation type="unfinished">Exportar classificação e rótulo</translation>
+        <translation>Exportar rótulos de classificação e de cor</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -7882,7 +7882,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Editar mapa de cores...</translation>
+        <translation>Editar paleta de cores...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -9689,7 +9689,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Colecção de imagens</translation>
+        <translation>Colecção</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9810,7 +9810,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Rodar a imagem automaticamente se necessário</translation>
+        <translation>Rodar a imagem automaticamente (se necessário)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -10982,7 +10982,7 @@ Prefere retirá-los?</translation>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
         <translatorcomment>modified earlier translation to accomodate the explanation of RegExp as &quot;text pattern&quot;. This might be undone if some help file explains what RegExp means</translatorcomment>
-        <translation type="unfinished">Usar RegExp (padrão de texto)</translation>
+        <translation>Usar expressão regular</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11588,7 +11588,7 @@ Deseja verificá-los primeiro?</translation>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation type="unfinished">Importação da base de dados de categorias do XnView falhou</translation>
+        <translation>Falhou a importação da base de dados de categorias do XnView Classic</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11649,7 +11649,7 @@ Deseja remover registos atribuídos a uma categoria?</translation>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">Caminho de base para As minhas imagens</translation>
+        <translation>Caminho de base para ficheiros</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
@@ -11744,7 +11744,7 @@ Deseja remover registos atribuídos a uma categoria?</translation>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">Importar base de dados de categorias do XnView...</translation>
+        <translation>Importar base de dados de categorias do XnView Classic...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -12100,7 +12100,7 @@ Miniatura</translation>
         <location filename="DlgSettingsFormat.ui" line="116"/>
         <source>Show most used formats at beginning</source>
         <oldsource>Show most used format at beginning</oldsource>
-        <translation type="unfinished">Mostrar o formato mais usado no início</translation>
+        <translation>Mostrar no início os formatos mais utilizados</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12519,7 +12519,7 @@ Miniatura</translation>
         <location filename="DlgSettingsGeneral.ui" line="735"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
-        <translation type="unfinished">Perfil de cor</translation>
+        <translation>Gestão de cor</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="812"/>
@@ -12811,7 +12811,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">Várias visualizações do mesmo ficheiro</translation>
+        <translation>Permitir vários separadores do Visualizador para um só ficheiro</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12822,19 +12822,19 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsInterface.ui" line="177"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">Fechando o último separador sai-se do XnView</translation>
+        <translation>Fechando o último separador sai-se do programa</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation type="unfinished">Sincronizar com o browser quando a visualização é fechada</translation>
+        <translation>Seleccionar ficheiro com o browser quando se fecha o separador Visualizador</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">Arrastar&amp;&amp;Largar: Abrir uma visualização por lista de ficheiros</translation>
+        <translation>Arrastar&amp;&amp;Largar: Abrir um só Visualizador para a lista de ficheiros</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13108,7 +13108,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsInterface.ui" line="1856"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished">Deslocar para cima/baixo</translation>
+        <translation>Scroll vertical</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1249"/>
@@ -13132,7 +13132,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsInterface.ui" line="1702"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
-        <translation type="unfinished">Deslocar a imagem</translation>
+        <translation>Mover a imagem</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1292"/>
@@ -13175,7 +13175,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsInterface.ui" line="170"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished">Não mostrar o Separador quando é o único aberto</translation>
+        <translation>Ocultar cabeçalho do separador quando for o único aberto</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="395"/>
@@ -13334,7 +13334,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation type="unfinished">Importar o assunto do XMP ou a palavra-chave do IPTC para as categorias do catálogo</translation>
+        <translation>Importar automaticamente XMP:Assunto e IPTC:palavras-chave para as categorias do catálogo</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13346,7 +13346,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation type="unfinished">Aplicar automaticamente categoria superior (Ctrl+click para uma só categoria)</translation>
+        <translation>Aplicar automaticamente categoria superior (Ctrl+click só para a actual)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -13357,7 +13357,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished">Exportar as categorias do catálogo para o assunto do XMP ou a palavra-chave do IPTC</translation>
+        <translation>Exportar as categorias do catálogo para XMP:Assunto e IPTC:Palavras-chave</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13373,7 +13373,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished">Actualizar ou criar sidecar XMP</translation>
+        <translation>Criar ou actualizar Sidecar XMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
@@ -13396,7 +13396,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
-        <translation type="unfinished">Gravar categorias nas imagens como palavras-chave hierárquicas</translation>
+        <translation>Gravar as categorias nas imagens como palavras-chave hierárquicas</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="33"/>
@@ -13479,7 +13479,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">Rótulos</translation>
+        <translation>Rótulos de cor</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="613"/>
@@ -13823,7 +13823,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">Traço à volta da imagem</translation>
+        <translation>Linha de borda</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
@@ -13934,7 +13934,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="934"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation type="unfinished">Mostrar ícones multi-resolução como imagens</translation>
+        <translation>Mostrar ícones multi-resolução como instantâneos</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="713"/>
@@ -13945,7 +13945,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished">Retirar opção &apos;Tamanho automático&apos; para o ficheiro seguinte/precedente</translation>
+        <translation>Reiniciar configuração de &apos;Zoom automático&apos; para o ficheiro seguinte/precedente</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -14006,7 +14006,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation type="unfinished">Mostrar classificação e cor do rótulo</translation>
+        <translation>Mostrar rótulos de Classificação &amp;&amp;Cor</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
@@ -14295,7 +14295,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">Mesmo conteúdo da imagem (lento)</translation>
+        <translation>Conteúdo da imagem (lento)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -18816,7 +18816,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebraico</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19180,7 +19180,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar como imagem</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -19855,7 +19855,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="493"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Classificação e rótulo de cor</translation>
+        <translation>Rótulo de Classificação &amp;&amp; Cor</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="494"/>
@@ -20485,7 +20485,7 @@ Deseja continuar?</translation>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: Enumerador numérico</translation>
+        <translation># - Contador numérico</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -20889,13 +20889,13 @@ Deseja continuar?</translation>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
         <translatorcomment>reviewed</translatorcomment>
-        <translation type="unfinished">Definir proporção da selecção</translation>
+        <translation>Selecção - definir proporção</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="313"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Definir tamanho da selecção</translation>
+        <translation>Selecção - definir tamanho</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="322"/>
@@ -20973,7 +20973,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="364"/>
         <source>Rating &amp;&amp; Color label</source>
         <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Classificação &amp;&amp; rótulo de Cor</translation>
+        <translation>Rótulo de Classificação &amp;&amp; Cor</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
@@ -21135,7 +21135,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="402"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">Instantâneo de ícone ligado/desligado</translation>
+        <translation>Mostrar como instantâneo (apenas ícones)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="407"/>
@@ -21165,7 +21165,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar como imagem</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="693"/>
@@ -21365,7 +21365,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">Editar mapa de cores...</translation>
+        <translation>Editar paleta...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
@@ -21416,7 +21416,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar selecção</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="405"/>
@@ -22067,8 +22067,8 @@ Deseja continuar?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">O tamanho das miniaturas em cache é menor que o escolhido. 
-Pode mudá-lo em Opções&gt;Catálogo.</translation>
+        <translation>O tamanho das miniaturas em cache é menor que o escolhido. 
+Pode mudá-lo em Configurações&gt;Catálogo.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
