@@ -3472,7 +3472,7 @@ Felül szeretné írni?</translation>
     <message>
         <location filename="DlgContactSheet.cpp" line="395"/>
         <source>A3 (29.7x42.0cm)</source>
-        <translation>A3 (29.0x42.0cm) {3 (29.7x?} {42.0c?}</translation>
+        <translation>A3 (29.7x42.0cm)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="397"/>
