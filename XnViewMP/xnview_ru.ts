@@ -3509,7 +3509,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.cpp" line="395"/>
         <source>A3 (29.7x42.0cm)</source>
-        <translation>A3 (29.0x42.0 см) {3 (29.7x?} {42.0c?}</translation>
+        <translation>A3 (29.7x42.0 см)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="397"/>
@@ -11328,7 +11328,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="268"/>
         <source>Thumbnails + Labels</source>
-        <translation>Эскизы + Информация</translation>
+        <translation>Эскизы + Подписи</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="56"/>
@@ -16904,7 +16904,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename number</source>
         <translatorcomment>Что это такое вообще?</translatorcomment>
-        <translation>Номер имени файла</translation>
+        <translation>Имя файла (последний номер)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="403"/>
@@ -19014,7 +19014,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="32"/>
         <source>Thumbnails + Labels</source>
-        <translation>Эскизы + Информация</translation>
+        <translation>Эскизы + Подписи</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="33"/>
@@ -19045,7 +19045,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="45"/>
         <source>Extension</source>
-        <translation>Формат</translation>
+        <translation>Расширение</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="46"/>
@@ -19518,7 +19518,7 @@ Do you want to continue?</oldsource>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translatorcomment>Может разделение?</translatorcomment>
-        <translation>Разбивку изображения(й)...</translation>
+        <translation>Разбивка изображения...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="605"/>
