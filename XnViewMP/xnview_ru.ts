@@ -370,7 +370,7 @@
         <location filename="ViewWindow.cpp" line="2207"/>
         <location filename="ViewWindow.cpp" line="2211"/>
         <source>Delete items</source>
-        <translation>Удаление файлов</translation>
+        <translation>Удаление элементов</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2201"/>
@@ -761,7 +761,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3764"/>
         <source>Delete items</source>
-        <translation>Удаление файлов</translation>
+        <translation>Удаление элементов</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4208"/>
@@ -14238,7 +14238,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y (No fit)</source>
         <oldsource>Reset XY (Not fit)</oldsource>
-        <translation>Сброс по X/Y (Не подгонять)</translation>
+        <translation>Сброс по X/Y (Без подгонки)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="537"/>
