@@ -1800,12 +1800,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgEnhanceColors.cpp" line="188"/>
         <source>Enhance colors</source>
-        <translation>Усиление цветов</translation>
+        <translation>Улучшение цветов</translation>
     </message>
     <message>
         <location filename="DlgLevels.h" line="47"/>
         <source>Levels...</source>
-        <translation>Уровни...</translation>
+        <translation>Уровни</translation>
     </message>
     <message>
         <location filename="DlgFilm.cpp" line="133"/>
@@ -5500,7 +5500,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertHLS.ui" line="37"/>
         <source>Lightness</source>
-        <translation>Осветленность</translation>
+        <translation>Светлота</translation>
     </message>
     <message>
         <location filename="DlgConvertHLS.ui" line="76"/>
@@ -7646,7 +7646,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEnhanceColors.ui" line="192"/>
         <source>Lightness</source>
-        <translation>Осветленность</translation>
+        <translation>Светлота</translation>
     </message>
     <message>
         <location filename="DlgEnhanceColors.ui" line="626"/>
