@@ -21846,7 +21846,7 @@ Do you want to continue?</oldsource>
         <location filename="BitmapViewProcess.h" line="41"/>
         <source>An error occurred during processing!</source>
         <oldsource>An error occurs during process!</oldsource>
-        <translation>Произошла ошибка в текущем процессе!</translation>
+        <translation>Во время обработки произошла ошибка!</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.cpp" line="564"/>
