@@ -303,7 +303,7 @@
         <location filename="ViewWindow.cpp" line="1552"/>
         <location filename="ViewWindow.cpp" line="1571"/>
         <source>&lt; Empty &gt;</source>
-        <translation>&lt; Пустой &gt;</translation>
+        <translation>&lt; Пусто &gt;</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2807"/>
@@ -506,7 +506,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4685"/>
         <source>&lt; Empty &gt;</source>
-        <translation>&lt; Пустой &gt;</translation>
+        <translation>&lt; Пусто &gt;</translation>
     </message>
 </context>
 <context>
