@@ -13509,7 +13509,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="521"/>
         <source>EXIF Copyright</source>
-        <translation>Авторские права EXIF</translation>
+        <translation>EXIF Авторские права</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
@@ -13541,7 +13541,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="468"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
-        <translation>Использовать кодировку UTF8 при записи в IPTC</translation>
+        <translation>Использовать UTF-8 при записи в IPTC</translation>
     </message>
 </context>
 <context>
