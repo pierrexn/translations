@@ -142,89 +142,89 @@
         <translation>Ogólne</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="103"/>
+        <location filename="AboutWidget.ui" line="119"/>
         <source>Date</source>
         <translation>Data</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="110"/>
+        <location filename="AboutWidget.ui" line="126"/>
         <source>Social</source>
         <translation>Media społecznościowe</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="117"/>
+        <location filename="AboutWidget.ui" line="133"/>
         <source>Email</source>
         <translation>Adres e-mail</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="190"/>
+        <location filename="AboutWidget.ui" line="206"/>
         <source>Website</source>
         <translation>Witryna internetowa</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="197"/>
+        <location filename="AboutWidget.ui" line="213"/>
         <source>Version</source>
         <translation>Wersja</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="204"/>
+        <location filename="AboutWidget.ui" line="220"/>
         <source>Forum</source>
         <translation>Forum</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="263"/>
+        <location filename="AboutWidget.ui" line="279"/>
         <source>Wiki</source>
         <translation>Wiki</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="138"/>
+        <location filename="AboutWidget.ui" line="154"/>
         <source>INI filename</source>
         <translation>Nazwa pliku INI</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="354"/>
+        <location filename="AboutWidget.ui" line="370"/>
         <source>License</source>
         <translation>Licencja</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="368"/>
+        <location filename="AboutWidget.ui" line="384"/>
         <source>Credits</source>
         <translation>Autorzy</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="382"/>
+        <location filename="AboutWidget.ui" line="398"/>
         <source>Formats</source>
         <translation>Formaty</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="420"/>
+        <location filename="AboutWidget.ui" line="436"/>
         <source>Plugins</source>
         <translation>Wtyczki</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="452"/>
+        <location filename="AboutWidget.ui" line="461"/>
         <source>Filename</source>
         <translation>Nazwa pliku</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="457"/>
+        <location filename="AboutWidget.ui" line="466"/>
         <source>Description</source>
         <translation>Opis</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="462"/>
+        <location filename="AboutWidget.ui" line="471"/>
         <source>Copyright</source>
         <translation>Prawa autorskie</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="471"/>
+        <location filename="AboutWidget.ui" line="487"/>
         <source>Command line</source>
         <translation>Wiersz poleceń</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="481"/>
-        <source>What&apos;s New</source>
-        <translation>Co nowego</translation>
+        <location filename="AboutWidget.ui" line="497"/>
+        <source>Changelog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -247,13 +247,7 @@
         <translation>Rozszerzenie</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="258"/>
-        <location filename="AboutWidget.cpp" line="259"/>
-        <source>Yes</source>
-        <translation>Tak</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.cpp" line="266"/>
+        <location filename="AboutWidget.cpp" line="271"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Formaty odczytu: %1 | Formaty zapisu: %2</translation>
     </message>

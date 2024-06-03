@@ -111,10 +111,6 @@
 <context>
     <name>AboutWidget</name>
     <message>
-        <source>Yes</source>
-        <translation>Sí</translation>
-    </message>
-    <message>
         <source>Read</source>
         <translation>Lectura</translation>
     </message>
@@ -141,10 +137,6 @@
     <message>
         <source>Format</source>
         <translation>Formato</translation>
-    </message>
-    <message>
-        <source>What&apos;s New</source>
-        <translation>Novedades</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -205,6 +197,10 @@
     <message>
         <source>INI filename</source>
         <translation>Archivo INI</translation>
+    </message>
+    <message>
+        <source>Changelog</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

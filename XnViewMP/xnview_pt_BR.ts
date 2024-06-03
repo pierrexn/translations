@@ -147,10 +147,6 @@
         <translation>Linha de comando</translation>
     </message>
     <message>
-        <source>What&apos;s New</source>
-        <translation>O que há de novo</translation>
-    </message>
-    <message>
         <source>Format</source>
         <translation>Formato</translation>
     </message>
@@ -165,10 +161,6 @@
     <message>
         <source>Extension</source>
         <translation>Extensão</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation>Sim</translation>
     </message>
     <message>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
@@ -204,6 +196,10 @@
     </message>
     <message>
         <source>INI filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changelog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

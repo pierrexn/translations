@@ -142,89 +142,89 @@
         <translation>Splošno</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="103"/>
+        <location filename="AboutWidget.ui" line="119"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="110"/>
+        <location filename="AboutWidget.ui" line="126"/>
         <source>Social</source>
         <translation>Družabni</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="117"/>
+        <location filename="AboutWidget.ui" line="133"/>
         <source>Email</source>
         <translation>E-naslov</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="190"/>
+        <location filename="AboutWidget.ui" line="206"/>
         <source>Website</source>
         <translation>Spletna stran</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="197"/>
+        <location filename="AboutWidget.ui" line="213"/>
         <source>Version</source>
         <translation>Različica</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="204"/>
+        <location filename="AboutWidget.ui" line="220"/>
         <source>Forum</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="263"/>
+        <location filename="AboutWidget.ui" line="279"/>
         <source>Wiki</source>
         <translation>Wiki</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="138"/>
+        <location filename="AboutWidget.ui" line="154"/>
         <source>INI filename</source>
         <translation>INI ime</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="354"/>
+        <location filename="AboutWidget.ui" line="370"/>
         <source>License</source>
         <translation>Licenca</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="368"/>
+        <location filename="AboutWidget.ui" line="384"/>
         <source>Credits</source>
         <translation>Zasluge</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="382"/>
+        <location filename="AboutWidget.ui" line="398"/>
         <source>Formats</source>
         <translation>Formati</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="420"/>
+        <location filename="AboutWidget.ui" line="436"/>
         <source>Plugins</source>
         <translation>Vtičniki</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="452"/>
+        <location filename="AboutWidget.ui" line="461"/>
         <source>Filename</source>
         <translation>Ime datoteke</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="457"/>
+        <location filename="AboutWidget.ui" line="466"/>
         <source>Description</source>
         <translation>Opis</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="462"/>
+        <location filename="AboutWidget.ui" line="471"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="471"/>
+        <location filename="AboutWidget.ui" line="487"/>
         <source>Command line</source>
         <translation>Ukazna vrstica</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="481"/>
-        <source>What&apos;s New</source>
-        <translation>Kaj je novega</translation>
+        <location filename="AboutWidget.ui" line="497"/>
+        <source>Changelog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -247,13 +247,7 @@
         <translation>Pripona</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="258"/>
-        <location filename="AboutWidget.cpp" line="259"/>
-        <source>Yes</source>
-        <translation>Da</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.cpp" line="266"/>
+        <location filename="AboutWidget.cpp" line="271"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Formati v branju: %1 | Formati v pisni obliki: %2</translation>
     </message>

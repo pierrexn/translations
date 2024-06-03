@@ -111,10 +111,6 @@
 <context>
     <name>AboutWidget</name>
     <message>
-        <source>Yes</source>
-        <translation>Այո</translation>
-    </message>
-    <message>
         <source>Read</source>
         <translation>Ընթերցել</translation>
     </message>
@@ -141,10 +137,6 @@
     <message>
         <source>Format</source>
         <translation>Ձևաչափ</translation>
-    </message>
-    <message>
-        <source>What&apos;s New</source>
-        <translation>Ի՞նչն է նոր</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -205,6 +197,10 @@
     <message>
         <source>INI filename</source>
         <translation>INI ֆայլի անվանում</translation>
+    </message>
+    <message>
+        <source>Changelog</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

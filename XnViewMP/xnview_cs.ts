@@ -142,90 +142,90 @@
         <translation>Obecné</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="103"/>
+        <location filename="AboutWidget.ui" line="119"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="110"/>
+        <location filename="AboutWidget.ui" line="126"/>
         <source>Social</source>
         <translatorcomment>&apos;Social networks&apos; would be probably better...</translatorcomment>
         <translation>Sociální sítě</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="117"/>
+        <location filename="AboutWidget.ui" line="133"/>
         <source>Email</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="190"/>
+        <location filename="AboutWidget.ui" line="206"/>
         <source>Website</source>
         <translation>WWW stránka</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="197"/>
+        <location filename="AboutWidget.ui" line="213"/>
         <source>Version</source>
         <translation>Verze</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="204"/>
+        <location filename="AboutWidget.ui" line="220"/>
         <source>Forum</source>
         <translation>Fórum</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="263"/>
+        <location filename="AboutWidget.ui" line="279"/>
         <source>Wiki</source>
         <translation>Wiki</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="138"/>
+        <location filename="AboutWidget.ui" line="154"/>
         <source>INI filename</source>
         <translation>Jméno INI souboru</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="354"/>
+        <location filename="AboutWidget.ui" line="370"/>
         <source>License</source>
         <translation>Licence</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="368"/>
+        <location filename="AboutWidget.ui" line="384"/>
         <source>Credits</source>
         <translation>Autoři</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="382"/>
+        <location filename="AboutWidget.ui" line="398"/>
         <source>Formats</source>
         <translation>Formáty</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="420"/>
+        <location filename="AboutWidget.ui" line="436"/>
         <source>Plugins</source>
         <translation>Zásuvné moduly</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="452"/>
+        <location filename="AboutWidget.ui" line="461"/>
         <source>Filename</source>
         <translation>Jméno souboru</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="457"/>
+        <location filename="AboutWidget.ui" line="466"/>
         <source>Description</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="462"/>
+        <location filename="AboutWidget.ui" line="471"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="471"/>
+        <location filename="AboutWidget.ui" line="487"/>
         <source>Command line</source>
         <translation>Příkazový řádek</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="481"/>
-        <source>What&apos;s New</source>
-        <translation>Co je nového</translation>
+        <location filename="AboutWidget.ui" line="497"/>
+        <source>Changelog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -248,13 +248,7 @@
         <translation>Přípona</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="258"/>
-        <location filename="AboutWidget.cpp" line="259"/>
-        <source>Yes</source>
-        <translation>Ano</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.cpp" line="266"/>
+        <location filename="AboutWidget.cpp" line="271"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Formáty pro čtení: %1 | Formáty pro zápis: %2</translation>
     </message>
