@@ -121,7 +121,6 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="336"/>
         <source>Average</source>
-        <translatorcomment>Alternative: Medio; mediocre</translatorcomment>
         <translation>Discreto</translation>
     </message>
     <message>
@@ -605,13 +604,11 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="1872"/>
         <source>Category Sets</source>
-        <translatorcomment>Alternative: Sets=insiemi,gruppi,collezioni</translatorcomment>
         <translation>Gruppi di categorie</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2084"/>
         <source>Match</source>
-        <translatorcomment>Verificare: Probabilmente indica una ricerca se il contesto è Match All/Any; Alternative: appaiare, riscontrare, accoppiare, confrontare, corrispondere</translatorcomment>
         <translation>Corrispondenza</translation>
     </message>
     <message>
@@ -656,13 +653,11 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="3521"/>
         <source>Favorite name:</source>
-        <translatorcomment>Verificare: Probabilmente si riferisce al nome del segnalibro.</translatorcomment>
         <translation>Nome preferito:</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="3765"/>
         <source>Are you sure to delete these %n item(s)?</source>
-        <translatorcomment>Dubbi: &quot;siete certi&quot; è indipendente dal genere ma usa il plurale</translatorcomment>
         <translation>
             <numerusform>Volete davvero eliminare questo %n elemento?</numerusform>
             <numerusform>Volete davvero eliminare questi %n elementi?</numerusform>
@@ -814,14 +809,12 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translatorcomment>Alternative: Set=insieme,collezione</translatorcomment>
         <translation>Assegna gruppo alla selezione</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translatorcomment>Alternative: Set=insieme,collezione</translatorcomment>
         <translation>Rimuovi gruppo dalla selezione</translation>
     </message>
 </context>
@@ -984,7 +977,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="ExLineEdit.cpp" line="162"/>
         <source>Clear</source>
-        <translatorcomment>Verificare: Probabilmente si riferisce ad un campo di testo o lista di elementi che verranno eliminati</translatorcomment>
         <translation>Svuota</translation>
     </message>
 </context>
@@ -993,7 +985,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="qtcolorpicker.cpp" line="760"/>
         <source>Custom</source>
-        <translatorcomment>Verificare: Genere e contesto ignoti</translatorcomment>
         <translation>Personalizzato</translation>
     </message>
 </context>
@@ -1032,13 +1023,11 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="543"/>
         <source>Zoom 100%</source>
-        <translatorcomment>Variazione semantica: Deprecato l&apos;uso di Zoom per il significato assimilablile a quello del termine ingrandimento</translatorcomment>
         <translation>Dimensioni effettive (100%)</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="546"/>
         <source>Best fit</source>
-        <translatorcomment>Variazione semantica: Generalmente queste funzionalità sono rappresentate come Adatta larghezza  o Adatta pagina.&quot;Best fit&quot; dovrebbe corrispondere ad adatta pagina e tradotto letteralmente con Adattamento migliore.</translatorcomment>
         <translation>Adatta dimensioni</translation>
     </message>
     <message>
@@ -1278,7 +1267,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="2572"/>
         <source>Aspect Pad</source>
-        <translatorcomment>Alternative. Aspect pad</translatorcomment>
         <translation>Padding immagine</translation>
     </message>
     <message>
@@ -1320,7 +1308,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="3474"/>
         <source>Inner Frame</source>
-        <translatorcomment>Alternative: telaio interno</translatorcomment>
         <translation>Cornice interna</translation>
     </message>
     <message>
@@ -1336,7 +1323,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="4468"/>
         <source>Film Simulation</source>
-        <translatorcomment>Alternative: Simulazione Pellicola</translatorcomment>
         <translation>Simulazione Film</translation>
     </message>
     <message>
@@ -1363,7 +1349,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgConvertProcess.h" line="4592"/>
         <location filename="DlgOffset.h" line="100"/>
         <source>Offset</source>
-        <translatorcomment>Alternative: offset (filtro)</translatorcomment>
         <translation>Scostamento</translation>
     </message>
     <message>
@@ -1800,7 +1785,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgFilm.cpp" line="133"/>
         <source>Film simulation</source>
-        <translatorcomment>Alternative: simulazione pellicola</translatorcomment>
         <translation>Simulazione Film</translation>
     </message>
     <message>
@@ -2085,7 +2069,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgAdobeConfigure.cpp" line="32"/>
         <source>Select a folder</source>
-        <translatorcomment>Alternative: Selezionate una cartella</translatorcomment>
         <translation>Selezionate una cartella</translation>
     </message>
 </context>
@@ -2455,7 +2438,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="102"/>
         <source>Output</source>
-        <translatorcomment>Alternative: Risultato, uscita</translatorcomment>
         <translation>Destinazione</translation>
     </message>
     <message>
@@ -2907,7 +2889,6 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgCapture.ui" line="14"/>
         <source>Capture</source>
-        <translatorcomment>Alternative: Scrivania</translatorcomment>
         <translation>Cattura</translation>
     </message>
     <message>
@@ -2953,13 +2934,11 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgCapture.ui" line="138"/>
         <source>Hotkey</source>
-        <translatorcomment>Alternative: Tasto di scelta rapida</translatorcomment>
         <translation>Tasto di scelta</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="166"/>
         <source>Output</source>
-        <translatorcomment>Alternative: Secondo(i)</translatorcomment>
         <translation>Destinazione</translation>
     </message>
     <message>
@@ -2971,7 +2950,6 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgCapture.ui" line="179"/>
         <source>Open in Draw mode</source>
-        <translatorcomment>Alternative: &quot;Apri in modalità di disegno&quot;</translatorcomment>
         <translation>Apri nell&apos;editor</translation>
     </message>
     <message>
@@ -2992,13 +2970,11 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgCapture.ui" line="267"/>
         <source>Include cursor</source>
-        <translatorcomment>Alternative: cursore</translatorcomment>
         <translation>Includi puntatore</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="274"/>
         <source>Client area</source>
-        <translatorcomment>Alternative: Area cliente</translatorcomment>
         <translation>Solo area di lavoro</translation>
     </message>
     <message>
@@ -3095,7 +3071,6 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="236"/>
         <source>Do you want to delete current category set?</source>
-        <translatorcomment>Alternative: current=corrente</translatorcomment>
         <translation>Volete eliminare il presente gruppo di categorie?</translation>
     </message>
 </context>
@@ -3117,7 +3092,6 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgClean.ui" line="14"/>
         <source>Clean metadata</source>
-        <translatorcomment>Alternative: Pulire, vuotare</translatorcomment>
         <translation>Rimuovi metadati</translation>
     </message>
     <message>
@@ -3200,7 +3174,6 @@ Si desidera sovrascriverlo?</translation>
         <location filename="DlgComment.ui" line="145"/>
         <source>Write &amp;all</source>
         <oldsource>Write all</oldsource>
-        <translatorcomment>Alternative: Scrivi tutto</translatorcomment>
         <translation>Scrivi &amp;tutti</translation>
     </message>
 </context>
@@ -3600,7 +3573,6 @@ Volete andare alla pagina di download?</translation>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2056"/>
         <source>Input: %n file(s)</source>
-        <translatorcomment>Alternative: sostituire ingresso con Ingresso</translatorcomment>
         <translation>
             <numerusform>Origine: %n file</numerusform>
             <numerusform>Origine: %n file</numerusform>
@@ -3754,7 +3726,6 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1520"/>
         <source>Use image from input files</source>
-        <translatorcomment>Alterative: dai file di Origine</translatorcomment>
         <translation>Usa immagine dai file di origine</translation>
     </message>
     <message>
@@ -3831,7 +3802,6 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="2498"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translatorcomment>Alternative: è contrassegnato come a sola lettura...</translatorcomment>
         <translation>è a sola lettura e non può essere sovrascritto!</translation>
     </message>
     <message>
@@ -3934,7 +3904,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="2693"/>
         <source>Choose output pathname</source>
-        <translatorcomment>Alternative: percorso di/in uscita</translatorcomment>
         <translation>Scegliete il percorso di destinazione</translation>
     </message>
     <message>
@@ -4206,7 +4175,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertBorder.ui" line="326"/>
         <source>Drop shadow</source>
-        <translatorcomment>Alternative: Proietta ombra</translatorcomment>
         <translation>Ombra esterna</translation>
     </message>
     <message>
@@ -4492,7 +4460,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert-old.ui" line="154"/>
         <source>Processing</source>
-        <translatorcomment>Alternative: Trattamento</translatorcomment>
         <translation>Elaborazione</translation>
     </message>
     <message>
@@ -4510,14 +4477,12 @@ Volete continuare?</translation>
         <location filename="DlgConvert.ui" line="243"/>
         <location filename="DlgConvert-old.ui" line="789"/>
         <source>You can switch between tabs with &apos;space&apos; key</source>
-        <translatorcomment>Alternative: il tasto &apos;Spazio&apos;</translatorcomment>
         <translation>Potete passare tra le schede con la barra spaziatrice</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1165"/>
         <location filename="DlgConvert-old.ui" line="1617"/>
         <source>Clear the &apos;Input&apos; file(s)</source>
-        <translatorcomment>Alternative:Svuota la lista dei file &apos;Sorgente&apos;</translatorcomment>
         <translation>Svuota la lista dei file di &apos;Origine&apos;</translation>
     </message>
     <message>
@@ -4530,7 +4495,6 @@ Volete continuare?</translation>
         <location filename="DlgConvert.ui" line="795"/>
         <location filename="DlgConvert-old.ui" line="1397"/>
         <source>No change</source>
-        <translatorcomment>Alternative: Nessun cambiamento</translatorcomment>
         <translation>Non modificare</translation>
     </message>
     <message>
@@ -4612,14 +4576,12 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert-old.ui" line="1262"/>
         <source>Album:</source>
-        <translatorcomment>Alternative: Raccolta</translatorcomment>
         <translation>Album:</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="1497"/>
         <source>When output files already exist</source>
         <oldsource>When output files already exits</oldsource>
-        <translatorcomment>Alternative: Quando il file di destinazione esiste già</translatorcomment>
         <translation>Se il file di destinazione esiste già</translation>
     </message>
     <message>
@@ -4650,7 +4612,6 @@ Volete continuare?</translation>
         <location filename="DlgConvert.ui" line="973"/>
         <source>Keep original file when encoded result is larger (experimental)</source>
         <oldsource>Keep original file when encoded result is larger</oldsource>
-        <translatorcomment>Alternative: Preserva il file originale se il risultato codificato è più grande</translatorcomment>
         <translation>Preserva il file originale quando il risultato convertito è più grande</translation>
     </message>
     <message>
@@ -4692,7 +4653,6 @@ Volete continuare?</translation>
         <location filename="DlgConvert.ui" line="1054"/>
         <source>Use multiple CPU Cores</source>
         <oldsource>Use CPU Cores</oldsource>
-        <translatorcomment>Alternative: N° Core CPU da utilizzare</translatorcomment>
         <translation>Usa molteplici core CPU</translation>
     </message>
     <message>
@@ -4728,7 +4688,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Processing list:</source>
-        <translatorcomment>Alternative: Lista in elaborazione:</translatorcomment>
         <translation>Lista di elaborazione:</translation>
     </message>
     <message>
@@ -4822,13 +4781,11 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert-old.ui" line="1855"/>
         <source>Load script</source>
-        <translatorcomment>Alternative: Carica script ; Carica comandi</translatorcomment>
         <translation>Carica script</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="1905"/>
         <source>Remove script from list</source>
-        <translatorcomment>Alternative: Rimuovi script dalla lista</translatorcomment>
         <translation>Rimuovi script dalla lista</translation>
     </message>
     <message>
@@ -4926,7 +4883,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert-old.ui" line="30"/>
         <source>You can drag&amp;drop your files on the list below.</source>
-        <translatorcomment>Alternative Drag&amp;&amp;drop non tradotto</translatorcomment>
         <translation>Potete Trascinare&amp;Rilasciare i vostri file nella lista sottostante.</translation>
     </message>
     <message>
@@ -4972,7 +4928,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.ui" line="854"/>
         <source>Start index</source>
-        <translatorcomment>Variazione: &quot;Starting index&quot; </translatorcomment>
         <translation>Indice di partenza</translation>
     </message>
     <message>
@@ -5036,7 +4991,6 @@ Volete continuare?</translation>
         <location filename="DlgConvert-old.ui" line="962"/>
         <location filename="DlgConvert-old.ui" line="974"/>
         <source>Output</source>
-        <translatorcomment>Alternative: Uscita</translatorcomment>
         <translation>Destinazione</translation>
     </message>
     <message>
@@ -5094,7 +5048,6 @@ Volete continuare?</translation>
         <location filename="DlgConvert.ui" line="1276"/>
         <location filename="DlgConvert-old.ui" line="1683"/>
         <source>Estimated end time:</source>
-        <translatorcomment>Alternative: Ora di fine/terminazione stimata:</translatorcomment>
         <translation>Ora di completamento stimata:</translation>
     </message>
     <message>
@@ -5112,7 +5065,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1540"/>
         <source>Check for program updates</source>
-        <translatorcomment>Alternative:applicativo</translatorcomment>
         <translation>Controllo aggiornamenti dell&apos;applicazione</translation>
     </message>
     <message>
@@ -5143,7 +5095,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1618"/>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
-        <translatorcomment>Alternative: Dovete avviare Xnview con i privilegi di amministratore...</translatorcomment>
         <translation>Nota: Sono necessari i privilegi di amministratore per modificare questa impostazione</translation>
     </message>
     <message>
@@ -5159,7 +5110,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert-old.ui" line="1891"/>
         <source>Save script as</source>
-        <translatorcomment>Alternative: script=programma</translatorcomment>
         <translation>Salva script come</translation>
     </message>
     <message>
@@ -5336,13 +5286,11 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertCrystallize.ui" line="160"/>
         <source>Edges</source>
-        <translatorcomment>Alternative: bordi</translatorcomment>
         <translation>Lati</translation>
     </message>
     <message>
         <location filename="DlgConvertCrystallize.ui" line="248"/>
         <source>Fade edges</source>
-        <translatorcomment>Alternative: sfuma bordi</translatorcomment>
         <translation>Sfuma lati</translation>
     </message>
 </context>
@@ -5513,7 +5461,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertHLS.ui" line="173"/>
         <source>Colorize</source>
-        <translatorcomment>Alternative: Colora</translatorcomment>
         <translation>Colorizza</translation>
     </message>
 </context>
@@ -5665,7 +5612,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertIptc.ui" line="193"/>
         <source>Works only for JPEG, TIFF, PNG output format</source>
-        <translatorcomment>Alternative: formati di/in uscita</translatorcomment>
         <translation>Funziona solo per i formati di destinazione JPEG, TIFF, PNG</translation>
     </message>
     <message>
@@ -5766,7 +5712,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch mask</source>
-        <translatorcomment>Alternative: Estendi</translatorcomment>
         <translation>Adatta maschera</translation>
     </message>
     <message>
@@ -5918,7 +5863,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertPhotoSpread.ui" line="48"/>
         <source>Count</source>
-        <translatorcomment>Alternative: importo,quota,quantità</translatorcomment>
         <translation>Entità</translation>
     </message>
 </context>
@@ -6193,7 +6137,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertResize.ui" line="341"/>
         <source>percent</source>
-        <translatorcomment>Alternative: percentuale</translatorcomment>
         <translation>%</translation>
     </message>
     <message>
@@ -6334,7 +6277,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Smooth</source>
-        <translatorcomment>Alternative: Leviga</translatorcomment>
         <translation>Ammorbidisci</translation>
     </message>
     <message>
@@ -6702,7 +6644,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tiling</source>
-        <translatorcomment>Alternative: affiancamento, affiancato, piastrellatura</translatorcomment>
         <translation>Affianca</translation>
     </message>
     <message>
@@ -6738,7 +6679,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="31"/>
         <source>Size</source>
-        <translatorcomment>Alternative:formato</translatorcomment>
         <translation>Dimensione</translation>
     </message>
     <message>
@@ -7059,7 +6999,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgDBClean.ui" line="70"/>
         <source>Purge file data</source>
-        <translatorcomment>Alternative: metadati</translatorcomment>
         <translation>Elimina i dati dei file</translation>
     </message>
     <message>
@@ -7580,13 +7519,11 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgEmailSettings.ui" line="81"/>
         <location filename="DlgEmailSettings.ui" line="198"/>
         <source>None</source>
-        <translatorcomment>None è riferito sia ad autenticazione (femm.) che a tipo proxy (masch.)</translatorcomment>
         <translation>No</translation>
     </message>
     <message>
         <location filename="DlgEmailSettings.ui" line="86"/>
         <source>Login</source>
-        <translatorcomment>ALternative: autenticazione, credenziali,login</translatorcomment>
         <translation>Utente</translation>
     </message>
     <message>
@@ -7767,7 +7704,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgExport.cpp" line="323"/>
         <location filename="DlgExport.cpp" line="332"/>
         <source>Pattern</source>
-        <translatorcomment>Alternative: </translatorcomment>
         <translation>Modello</translation>
     </message>
     <message>
@@ -7823,7 +7759,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
         <source>Export all files from catalog</source>
-        <translatorcomment>ALternative: Esporta tutti i file dal catalogo</translatorcomment>
         <translation>Esporta tutti i file dal catalogo</translation>
     </message>
     <message>
@@ -7857,7 +7792,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgExport.ui" line="245"/>
         <source>Dithering</source>
-        <translatorcomment>Alternative: Quantizzazione, algoritmo,trama</translatorcomment>
         <translation>Dithering</translation>
     </message>
     <message>
@@ -8045,7 +7979,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgFile.ui" line="56"/>
         <source>Clear history entries</source>
-        <translatorcomment>Alternative: Elimina voci nella cronologiqa</translatorcomment>
         <translation>Cancella cronologia</translation>
     </message>
     <message>
@@ -8424,19 +8357,16 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgFtp.ui" line="14"/>
         <source>Upload to an FTP server</source>
-        <translatorcomment>Alternative: Carica su un sito FTP</translatorcomment>
         <translation>Invia ad un server FTP</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="35"/>
         <source>Save settings</source>
-        <translatorcomment>Alternatiive: Salva impostazioni</translatorcomment>
         <translation>Salva configurazione</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="49"/>
         <source>Remove entry</source>
-        <translatorcomment>Alternative: Rimuovi voce</translatorcomment>
         <translation>Rimuovi configurazione</translation>
     </message>
     <message>
@@ -8467,7 +8397,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgFtp.ui" line="227"/>
         <source>Passive mode</source>
-        <translatorcomment>Alternative: Modalità passiva</translatorcomment>
         <translation>Modalità passiva</translation>
     </message>
     <message>
@@ -8598,14 +8527,12 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgGrid.ui" line="121"/>
         <location filename="DlgGrid.ui" line="190"/>
         <source>Divisions</source>
-        <translatorcomment>Alternative: Sezioni</translatorcomment>
         <translation>Divisioni</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="97"/>
         <location filename="DlgGrid.ui" line="207"/>
         <source>Spacing</source>
-        <translatorcomment>Alternative: Intervalli</translatorcomment>
         <translation>Spaziatura</translation>
     </message>
     <message>
@@ -8734,7 +8661,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
 The internal folder structure will be flattened. </source>
         <oldsource>The Source folder of the files to be transferred.
 The internal folder structure will be flattered. </oldsource>
-        <translatorcomment>Dubbia: flattered inteso come radere al suolo?</translatorcomment>
         <translation>La cartella di origine dei file da trasferire.
 La struttura interna della cartella non sarà preservata. </translation>
     </message>
@@ -9123,7 +9049,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgIptc.ui" line="44"/>
         <source>Caption</source>
-        <translatorcomment>Alternative: Didascalia, Intestazione</translatorcomment>
         <translation>Titolo</translation>
     </message>
     <message>
@@ -9200,7 +9125,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgIptc.ui" line="426"/>
         <location filename="DlgIptc.ui" line="485"/>
         <source>YYYYMMDD</source>
-        <translatorcomment>Alternative: YYYYMMDD</translatorcomment>
         <translation>AAAAMMGG</translation>
     </message>
     <message>
@@ -9226,7 +9150,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgIptc.ui" line="684"/>
         <source>Multiple selection</source>
-        <translatorcomment>Alternative: Selezione multipla</translatorcomment>
         <translation>Scelta multipla</translation>
     </message>
     <message>
@@ -9325,7 +9248,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgKeywordProperties.ui" line="14"/>
         <source>Properties</source>
         <oldsource>Keyword properties</oldsource>
-        <translatorcomment>Alternative: Proprietà delle parole chiare</translatorcomment>
         <translation>Proprietà</translation>
     </message>
     <message>
@@ -9356,13 +9278,11 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgKeywordProperties.cpp" line="43"/>
         <source>Parent category</source>
-        <translatorcomment>alternative: parent=sovraordinato</translatorcomment>
         <translation>Categoria sovraordinata</translation>
     </message>
     <message>
         <location filename="DlgKeywordProperties.cpp" line="43"/>
         <source>This parent is already a child of current category!</source>
-        <translatorcomment>Variante: sovraordinato</translatorcomment>
         <translation>Questo superiore è già un elemento subordinato della categoria corrente!</translation>
     </message>
 </context>
@@ -9678,7 +9598,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgPresetsManage.ui" line="14"/>
         <source>Edit presets</source>
-        <translatorcomment>Alternative: modifica predefiniti</translatorcomment>
         <translation>Modifica configurazioni</translation>
     </message>
 </context>
@@ -9739,7 +9658,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
         <source>Presets</source>
-        <translatorcomment>Alternative: Predefiniti</translatorcomment>
         <translation>Configurazioni</translation>
     </message>
     <message>
@@ -10093,13 +10011,11 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgProcess.cpp" line="53"/>
         <source>Best fit</source>
-        <translatorcomment>Alternative:  migliore adattamento</translatorcomment>
         <translation>Adatta dimensioni</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="305"/>
         <source>&lt;Last Used&gt;</source>
-        <translatorcomment>Alternative: &lt;Utilizzato per ultimo&gt; , &lt;Utilizzato in precedenza&gt; ; &lt;Precedente&gt;</translatorcomment>
         <translation>&lt;Ultimo&gt;</translation>
     </message>
     <message>
@@ -10215,7 +10131,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgReadFITS.ui" line="22"/>
         <source>FITS Display</source>
-        <translatorcomment>Alternative: Mostra FITS (???)</translatorcomment>
         <translation>FITS Display</translation>
     </message>
     <message>
@@ -10334,7 +10249,6 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgReadRaw.ui" line="174"/>
         <source>Interleaved</source>
-        <translatorcomment>Alternative: Interleaved</translatorcomment>
         <translation>Intefogliato</translation>
     </message>
     <message>
@@ -10476,7 +10390,6 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgRename.cpp" line="1108"/>
         <source>Do you want to delete all your name templates?</source>
         <oldsource>Do you want to delete all your template&apos;s name?</oldsource>
-        <translatorcomment>Alternative: Volete eliminare tutti i vostri nomi dei modelli?</translatorcomment>
         <translation>Volete rimuovere tutti i vostri modelli di nome?</translation>
     </message>
 </context>
@@ -10485,7 +10398,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgRename.ui" line="14"/>
         <source>Batch rename</source>
-        <translatorcomment>Alternative: Rinomina gruppo</translatorcomment>
         <translation>Rinomina in serie</translation>
     </message>
     <message>
@@ -10516,7 +10428,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgRename.ui" line="121"/>
         <source>Create new name template when opening dialog</source>
-        <translatorcomment>Dialog è comunemente tradotto come finestra di dialogo</translatorcomment>
         <translation>Crea nuovo modello nome all&apos;apertura della finesta</translation>
     </message>
     <message>
@@ -10572,7 +10483,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgRename.ui" line="225"/>
         <source>Clean diacritic characters</source>
-        <translatorcomment>Alternative: Rimuovi accenti diacritici</translatorcomment>
         <translation>Elimina caratteri diacritici</translation>
     </message>
     <message>
@@ -10589,7 +10499,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgRename.ui" line="290"/>
         <source>Case sensitive</source>
-        <translatorcomment>Alternative: Sensibile alle maiuscole (wikipedia)</translatorcomment>
         <translation>Distingui maiuscole/minuscole</translation>
     </message>
     <message>
@@ -10657,7 +10566,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgRenameDup.ui" line="59"/>
         <source>Only if needed</source>
-        <translatorcomment>Alternative: Solo se necessario</translatorcomment>
         <translation>Se necessario</translation>
     </message>
     <message>
@@ -10673,7 +10581,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgRenameDup.ui" line="82"/>
         <source>Character</source>
-        <translatorcomment>Alternative: Lettera</translatorcomment>
         <translation>Carattere</translation>
     </message>
 </context>
@@ -10718,7 +10625,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgResize.cpp" line="1116"/>
         <source>&lt;Last Used&gt;</source>
-        <translatorcomment>Alternative:&lt;Utilizzato per ultimo&gt;&lt;Utilizzato in precedenza&gt;</translatorcomment>
         <translation>&lt;Precedente&gt;</translation>
     </message>
     <message>
@@ -10758,7 +10664,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgResize.ui" line="500"/>
         <source>percent</source>
-        <translatorcomment>Alternative: Percentuale</translatorcomment>
         <translation>%</translation>
     </message>
     <message>
@@ -11070,7 +10975,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Clear all</source>
-        <translatorcomment>Verificare: Inteso riferito alle condizioni fornite per la ricerca</translatorcomment>
         <translation>Rimuovi tutte</translation>
     </message>
     <message>
@@ -11286,7 +11190,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="99"/>
         <source>View scroll the content by thumbnail</source>
-        <translatorcomment>Dubbia:La visualizzazione scorre il contenuto presso le miniature</translatorcomment>
         <translation>La visualizzazione scorre il contenuto presso le miniature</translation>
     </message>
     <message>
@@ -11432,13 +11335,11 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="457"/>
         <source>Clear the list of tagged files</source>
-        <translatorcomment>Alternative: La lista di file contrasegnati deve essere svuotata</translatorcomment>
         <translation>Svuota la lista di file contrassegnati</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="465"/>
         <source>After an operation</source>
-        <translatorcomment>Alterantive: Dopo un&apos;operazione</translatorcomment>
         <translation>Dopo ogni operazione</translation>
     </message>
     <message>
@@ -11449,7 +11350,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="475"/>
         <source>On exit</source>
-        <translatorcomment>Alternative: All&apos;uscita</translatorcomment>
         <translation>All&apos;uscita</translation>
     </message>
     <message>
@@ -11513,7 +11413,6 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="593"/>
         <source>Change EXIF orientation ONLY (if possible)</source>
-        <translatorcomment>Dubbia: Verificare funzionalità</translatorcomment>
         <translation>Modifica SOLO orientamento EXIF (se possibile)</translation>
     </message>
     <message>
@@ -11654,7 +11553,6 @@ Volete rilevare questi casi per prima di iniziare?</translation>
         <location filename="DlgSettingsCache.cpp" line="921"/>
         <source>Category tree successfully imported into XnView categories</source>
         <oldsource>Category tree was successfully imported in XnView&apos;s Category catalog</oldsource>
-        <translatorcomment>Attenzione!!! verifica </translatorcomment>
         <translation>La gerarchia delle categorie è stata importata correttamente nelle categorie di XnViewMP</translation>
     </message>
     <message>
@@ -11689,7 +11587,6 @@ Volete rimuovere le voci assegnate ad una Categoria?</translation>
         <location filename="DlgSettingsCache.ui" line="54"/>
         <source>Enable thumbnail caching</source>
         <oldsource>Enable thumbnails caching</oldsource>
-        <translatorcomment>Alternative: Abilita caching miniature, abilita memorizzazione miniature</translatorcomment>
         <translation>Abilita indicizzazione miniature</translation>
     </message>
     <message>
@@ -11700,7 +11597,6 @@ Volete rimuovere le voci assegnate ad una Categoria?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="166"/>
         <source>Maximum size for cached thumbnails</source>
-        <translatorcomment>Alternative: Dimensione massima per le miniature memorizzate</translatorcomment>
         <translation>Dimensione massima riservata per le miniature indicizzate</translation>
     </message>
     <message>
@@ -11743,7 +11639,6 @@ Volete rimuovere le voci assegnate ad una Categoria?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="206"/>
         <source>Memory usage for database engine</source>
-        <translatorcomment>Alternative: database engine=motore database; motore di gstione della banca dati; memory usage=impiego di memoria</translatorcomment>
         <translation>Memoria utilizzata per il gestiore della banca dati</translation>
     </message>
     <message>
@@ -11977,7 +11872,6 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="196"/>
         <source>Show companion files</source>
-        <translatorcomment>Alternative: Mostra file compagni, file di accompagnamento</translatorcomment>
         <translation>Mostra file ausiliari</translation>
     </message>
     <message>
@@ -12003,7 +11897,6 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
         <source>Scan file headers</source>
-        <translatorcomment>Alternative: Scansiona intestazione dei file, Esamina...</translatorcomment>
         <translation>Analizza intestazione dei file</translation>
     </message>
     <message>
@@ -12059,7 +11952,6 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translatorcomment>Alternative: collega</translatorcomment>
         <translation>Associa file ausiliari per le seguenti azioni</translation>
     </message>
     <message>
@@ -12265,7 +12157,6 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="135"/>
         <source>Unit for print size</source>
-        <translatorcomment>Alternative: Unità per le dimensioni di stampa</translatorcomment>
         <translation>Unità per il formato di stampa</translation>
     </message>
     <message>
@@ -12445,7 +12336,6 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="514"/>
         <source>For &apos;Save as&apos;, use original pathname</source>
-        <translatorcomment>Alternative: percorso originale</translatorcomment>
         <translation>Per &apos;Salva come&apos;, usa percorso originario</translation>
     </message>
     <message>
@@ -12733,7 +12623,6 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="218"/>
         <source>Folder for Thumbnails Database</source>
-        <translatorcomment>Dubbia: non dovrebbe essere catalogo delle miniature?</translatorcomment>
         <translation>Cartella per la banca dati delle miniature</translation>
     </message>
     <message>
@@ -12877,7 +12766,6 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
         <source>Purge &apos;Recent files and folders&apos; on exit</source>
-        <translatorcomment>Alternative: Svuota lista &apos;File recenti e Cartelle&apos; all&apos;uscita</translatorcomment>
         <translation>Svuota la lista &apos;File recenti&apos; all&apos;uscita</translation>
     </message>
     <message>
@@ -12896,7 +12784,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translatorcomment>Dubbio: multi-opened file --&gt; forse gruppo di file aperti tramite drag &amp; drop</translatorcomment>
         <translation>Trascina e rilascia: Apri scheda di visualizzazione singola per l&apos;elenco di file</translation>
     </message>
     <message>
@@ -13326,7 +13213,6 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1979"/>
         <source>Middle click</source>
-        <translatorcomment>Alternative: clic medio, pulsante centrale</translatorcomment>
         <translation>Clic centrale</translation>
     </message>
     <message>
@@ -13447,14 +13333,12 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsKeywords.ui" line="341"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
-        <translatorcomment>Alternative: Nomefile.xmp</translatorcomment>
         <translation>&lt;nomefile&gt;.xmp</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="348"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
-        <translatorcomment>Alternative: Nomefile.estensione.xmp</translatorcomment>
         <translation>&lt;nomefile&gt;.&lt;estensione&gt;.xmp</translation>
     </message>
     <message>
@@ -13592,7 +13476,6 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail</source>
-        <translatorcomment>Alternative: Crea miniature di qualità elevata</translatorcomment>
         <translation>Crea miniature di alta qualità</translation>
     </message>
     <message>
@@ -13604,8 +13487,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="94"/>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
         <oldsource>Create from original image if embedded thumbnail is smaller than thubnail size</oldsource>
-        <translatorcomment>Alternative: Crea dal&apos;immagine originale se la miniatura incorporata è più piccola delle dimensioni della miniatura;
- Crea dal&apos;immagine originale se la miniatura incorporata ha dimensioni inferiori alle miniature</translatorcomment>
         <translation>Crea dall&apos;immagine originale se la miniatura incorporata è più piccola delle dimensioni della miniatura</translation>
     </message>
     <message>
@@ -13652,7 +13533,6 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
-        <translatorcomment>Alternative: Mostra 4 miniature nella miniatura del filmato (invece di 1)</translatorcomment>
         <translation>Mostra 4 fotogrammi nella miniatura del filmato (invece di 1)</translation>
     </message>
     <message>
@@ -14042,7 +13922,6 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
         <source>Loop on the file list</source>
-        <translatorcomment>Alternative: Lista dei file ciclica, ricomincia nella lista dei file, reitera elenco file</translatorcomment>
         <translation>Reitera file nell&apos;elenco</translation>
     </message>
     <message>
@@ -14357,7 +14236,6 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSimilar.ui" line="151"/>
         <source>Same file data</source>
-        <translatorcomment>Alternative: Contenuti file identici</translatorcomment>
         <translation>Dati file identici</translation>
     </message>
     <message>
@@ -14485,7 +14363,6 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSimilarResult.ui" line="443"/>
         <location filename="DlgSimilarResult.ui" line="582"/>
         <source>Dimensions</source>
-        <translatorcomment>Alternative: Dimensioni</translatorcomment>
         <translation>Misure</translation>
     </message>
     <message>
@@ -14873,7 +14750,6 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="117"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translatorcomment>Alternative: Sfoglia con</translatorcomment>
         <translation>Aggiungi &apos;Visualizza con XnViewMP&apos; al menu contestuale</translation>
     </message>
     <message>
@@ -15026,7 +14902,6 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgStrip.ui" line="210"/>
         <source>Output size</source>
-        <translatorcomment>Alternative: Dimensioni in uscita,Dimensioni prodotte</translatorcomment>
         <translation>Dimensioni prodotte</translation>
     </message>
     <message>
@@ -15374,7 +15249,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgUpdate.ui" line="75"/>
         <source>Changelog:</source>
-        <translatorcomment>Alternative: Registro delle modifiche</translatorcomment>
         <translation>Elenco delle modifiche:</translation>
     </message>
     <message>
@@ -15547,7 +15421,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgVideoGallery.ui" line="14"/>
         <source>Create Video Gallery</source>
-        <translatorcomment>Alternative:  galleria video</translatorcomment>
         <translation>Crea videoteca</translation>
     </message>
     <message>
@@ -15651,7 +15524,6 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretched</source>
-        <translatorcomment>Alternative: stirato, allungato</translatorcomment>
         <translation>Esteso</translation>
     </message>
     <message>
@@ -17169,7 +17041,6 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="121"/>
         <source>Assign Category</source>
-        <translatorcomment>Alternative: Attribuisci categoria</translatorcomment>
         <translation>Assegna categoria</translation>
     </message>
     <message>
@@ -17664,7 +17535,6 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2554"/>
         <source>Sensing method</source>
-        <translatorcomment>Alternative: Metodo rilevamento</translatorcomment>
         <translation>Metodo rilevamento</translation>
     </message>
     <message>
@@ -19011,13 +18881,11 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="21"/>
         <source>Film strip 1</source>
-        <translatorcomment>Dubbia: La traduzione letterale si riferisce ad un termine non di uso comune. Filmina: spezzine di pellicola usato in sostituzione di dipositive</translatorcomment>
         <translation>Filmina 1</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="22"/>
         <source>Film strip 2</source>
-        <translatorcomment>Dubbia: La traduzione letterale si riferisce ad un termine non di uso comune. Filmina: spezzine di pellicola usato in sostituzione di dipositive</translatorcomment>
         <translation>Filmina 2</translation>
     </message>
     <message>
@@ -19257,7 +19125,6 @@ Volete continuare?</translation>
         <location filename="CompareWidget.cpp" line="445"/>
         <location filename="BrowserMenu.h" line="455"/>
         <source>Average</source>
-        <translatorcomment>Alternative: Medio; mediocre</translatorcomment>
         <translation>Discreto</translation>
     </message>
     <message>
@@ -19289,7 +19156,6 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translatorcomment>Alternative: Medio; mediocre [traduzione letterale]</translatorcomment>
         <translation>Discreto (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
@@ -19376,7 +19242,6 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="4"/>
         <source>Dark</source>
         <oldsource>Fusion dark</oldsource>
-        <translatorcomment>Tema fusion dark</translatorcomment>
         <translation>Tema fusion dark</translation>
     </message>
     <message>
@@ -19402,7 +19267,6 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Filelist toolbar</source>
-        <translatorcomment>Alternative: Barra degli strumenti file</translatorcomment>
         <translation>Barra degli strumenti dell&apos;elenco di file</translation>
     </message>
     <message>
@@ -19423,7 +19287,6 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="536"/>
         <source>Preview as tab</source>
-        <translatorcomment>Alternative: Anteprima come Scheda</translatorcomment>
         <translation>Scheda di anteprima</translation>
     </message>
     <message>
@@ -19530,7 +19393,6 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="602"/>
         <source>Contact sheet...</source>
-        <translatorcomment>Alternative: Foglio diapostive (traduzione Xnview) foglio miniture.</translatorcomment>
         <translation>Provini a contatto...</translation>
     </message>
     <message>
@@ -19755,7 +19617,6 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="417"/>
         <source>Selected filename(s) and path(s)</source>
-        <translatorcomment>Alternative: Nom(e)i de(l)i file e percorso(i) selezionato(i)</translatorcomment>
         <translation>File e percorso(i) selezionato(i)</translation>
     </message>
     <message>
@@ -19979,7 +19840,6 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="445"/>
         <source>Show header</source>
-        <translatorcomment>Alternative: Mostra Intestazioni di riordinamento, Mostra campi</translatorcomment>
         <translation>Mostra come intestazione</translation>
     </message>
     <message>
@@ -20054,7 +19914,6 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="494"/>
         <source>Category</source>
-        <translatorcomment>Correlato a &quot;Categories&quot; pane</translatorcomment>
         <translation>Categorie</translation>
     </message>
     <message>
@@ -20182,7 +20041,6 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Thumbnails view only</source>
-        <translatorcomment>Alternative: Solo Visualizzazione miniature</translatorcomment>
         <translation>Solo miniature</translation>
     </message>
     <message>
@@ -20276,7 +20134,6 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Archive...</source>
-        <translatorcomment>Alternative: Comprimi</translatorcomment>
         <translation>Archivia...</translation>
     </message>
     <message>
@@ -20685,7 +20542,6 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="334"/>
         <source>Average</source>
-        <translatorcomment>Alternative: Medio; mediocre</translatorcomment>
         <translation>Discreto</translation>
     </message>
     <message>
@@ -20859,7 +20715,6 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="286"/>
         <source>Undo</source>
-        <translatorcomment>Alternative: Annullo, Annulla (collide con la traduzione di Cancel)</translatorcomment>
         <translation>Reverti</translation>
     </message>
     <message>
@@ -21013,7 +20868,6 @@ Volete continuare?</translation>
         <location filename="ViewMenu.h" line="341"/>
         <source>Average (move to next image)</source>
         <oldsource>Average (move to next photo)</oldsource>
-        <translatorcomment>Alternative: Medio; mediocre</translatorcomment>
         <translation>Discreto (passa all&apos;immagine successiva)</translation>
     </message>
     <message>
@@ -21641,7 +21495,6 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="465"/>
         <source>Adjust</source>
-        <translatorcomment>Alternative: Correggi</translatorcomment>
         <translation>Regola</translation>
     </message>
     <message>
@@ -21868,7 +21721,6 @@ Volete continuare?</translation>
         <location filename="DlgSettingsView.cpp" line="18"/>
         <location filename="DlgSettingsView.cpp" line="300"/>
         <source>Last used</source>
-        <translatorcomment>Alternative, precedente;usato per ultimo</translatorcomment>
         <translation>Ultimo</translation>
     </message>
     <message>
@@ -21947,7 +21799,6 @@ Volete continuare?</translation>
     <message>
         <location filename="MyDirModel.cpp" line="1145"/>
         <source>Home</source>
-        <translatorcomment>Alternative: Cartella utente, cartella iniziale</translatorcomment>
         <translation>Cartella personale</translation>
     </message>
     <message>
@@ -22185,7 +22036,6 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1571"/>
         <source>All</source>
-        <translatorcomment>Verificare: Usare &apos;Tutte&apos; se riferito alle miniiature o &apos;Tutti&apos; se riferito ai file</translatorcomment>
         <translation>Tutti</translation>
     </message>
     <message>
@@ -22236,7 +22086,6 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="OpenWithMenu.cpp" line="324"/>
         <source>Associated editor</source>
-        <translatorcomment>Alternative: Applicazione associata per la modifica,Editore associato, Compositore associato</translatorcomment>
         <translation>Editor associato</translation>
     </message>
     <message>
@@ -22699,7 +22548,6 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
     <message>
         <location filename="qftp.cpp" line="747"/>
         <source>Connection timed out to host %1</source>
-        <translatorcomment>Alternative: connessione interrotta</translatorcomment>
         <translation>Connessione scaduta al server %1</translation>
     </message>
     <message>
