@@ -7265,7 +7265,7 @@ Deseja continuar?</translation>
         <location filename="DlgEditXMP.ui" line="573"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Abrir o anterior separador</translation>
+        <translation>Lembrar o separador aberto</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7678,7 +7678,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">Não é um ficheiro de imagem</translation>
+        <translation>Este não é um ficheiro de imagem</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -9063,7 +9063,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgIptc.ui" line="730"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Abrir o anterior separador</translation>
+        <translation>Lembrar o separador aberto</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
@@ -15140,7 +15140,7 @@ Deseja continuar?</translation>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
         <translatorcomment>I believe that it should read image not images</translatorcomment>
-        <translation type="unfinished">Incremento para cada imagem de</translation>
+        <translation>Para cada imagem, incrementar em</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -15999,7 +15999,7 @@ Deseja continuar?</translation>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">Compressão para imagem a Preto&amp;Branco</translation>
+        <translation>Compressão para imagem a preto&amp;branco</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
