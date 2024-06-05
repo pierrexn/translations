@@ -9969,7 +9969,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="754"/>
         <source>Header/Footer</source>
-        <translation>Верхний/Нижний колонтитул</translation>
+        <translation>Колонтитулы</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="787"/>
@@ -19658,7 +19658,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="798"/>
         <source>&amp;Help</source>
-        <translation>&amp;Справка</translation>
+        <translation>Сп&amp;равка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="246"/>
@@ -21660,7 +21660,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="696"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
-        <translation>&amp;Справка</translation>
+        <translation>Сп&amp;равка</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="149"/>
