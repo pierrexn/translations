@@ -225,7 +225,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Registo de alterações</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
