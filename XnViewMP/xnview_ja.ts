@@ -233,7 +233,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>更新履歴</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -392,7 +392,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2799"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>&lt;%1&gt;は読み込み専用です。他のファイル名を選んでください</translation>
+        <translation>&lt;%1&gt;は読み込み専用のため、他のファイル名を選んでください</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2833"/>
@@ -4276,7 +4276,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation>中-左</translation>
+        <translation>中央-左</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4287,7 +4287,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation>中-右</translation>
+        <translation>中央-右</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
@@ -4299,7 +4299,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation>中央下</translation>
+        <translation>下-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
@@ -4450,7 +4450,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation>中央上</translation>
+        <translation>上-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
@@ -4462,7 +4462,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation>中央左</translation>
+        <translation>中央-左</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4473,7 +4473,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation>中央右</translation>
+        <translation>中央-右</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
@@ -4485,7 +4485,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation>下中央</translation>
+        <translation>下-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
@@ -5993,17 +5993,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation>中央上</translation>
+        <translation>中央-上</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation>中央左</translation>
+        <translation>中央-左</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation>中央右</translation>
+        <translation>中央-右</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
@@ -6015,7 +6015,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>下中央</translation>
+        <translation>下-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6501,7 +6501,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>下中央</translation>
+        <translation>下-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
@@ -6570,17 +6570,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation>中央上</translation>
+        <translation>中央-上</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation>中央左</translation>
+        <translation>中央-左</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation>中央右</translation>
+        <translation>中央-右</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6732,17 +6732,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation>中央上</translation>
+        <translation>上-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation>中央左</translation>
+        <translation>中央-左</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation>中央右</translation>
+        <translation>中央-右</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6842,7 +6842,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>中央下</translation>
+        <translation>下-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
@@ -9926,7 +9926,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="564"/>
         <source>Top-Center</source>
-        <translation>中央上</translation>
+        <translation>上-中央</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="569"/>
@@ -9936,7 +9936,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="574"/>
         <source>Center-Left</source>
-        <translation>左中央</translation>
+        <translation>中央-左</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="579"/>
@@ -9946,7 +9946,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="584"/>
         <source>Center-Right</source>
-        <translation>右中央</translation>
+        <translation>中央-右</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="589"/>
@@ -9956,7 +9956,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="594"/>
         <source>Bottom-Center</source>
-        <translation>中央下</translation>
+        <translation>下-中央</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="599"/>
@@ -10925,17 +10925,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
-        <translation>中央上</translation>
+        <translation>上-中央</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation>中央左</translation>
+        <translation>中央-左</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation>中央右</translation>
+        <translation>中央-右</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
@@ -10958,7 +10958,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>下中央</translation>
+        <translation>下-中央</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
@@ -11683,7 +11683,8 @@ Do you want to remove entries assigned to a Category?</source>
 Do you want to remove entries assigned to a category?</oldsource>
         <translation>カテゴリー、レーティング、カラーラベルの付いたカタログ項目は削除されます。
 
-もし情報が埋め込みもしくはサイドカーメタデータにエクスポートされていれば、後で再度インポートすることができます）
+もし情報が埋め込みもしくはサイドカーメタデータにエクスポートされていれば、
+後で再度インポートすることができます。
 
 カテゴリーに割り当てられたエントリーを削除しますか？</translation>
     </message>
@@ -12376,7 +12377,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
-        <translation>フルスクリーン - ビューワ</translation>
+        <translation>フルスクリーン - ビューア</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="245"/>
@@ -12416,7 +12417,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="334"/>
         <source>Viewer</source>
-        <translation>ビューワー</translation>
+        <translation>ビューア</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="349"/>
@@ -12431,7 +12432,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="381"/>
         <source>Open browser</source>
-        <translation>ブラウザーで開く</translation>
+        <translation>ブラウザで開く</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="390"/>
@@ -12679,7 +12680,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="461"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
-        <translation>XnViewMPは高速でマルチフォーマット対応の画像ブラウザ・ビューワー・コンバーターです。400種類以上のファイルを読み込めます。</translation>
+        <translation>XnViewMPは高速でマルチフォーマット対応の画像ブラウザ・ビューア・コンバーターです。400種類以上のファイルを読み込めます。</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="462"/>
@@ -13110,7 +13111,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="861"/>
         <location filename="DlgSettingsInterface.ui" line="1225"/>
         <source>Viewer</source>
-        <translation>ビューワ</translation>
+        <translation>ビューア</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="638"/>
@@ -13242,7 +13243,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2023"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation>ブラウザ ↔ 全画面表示 | ビューア ↔ 全画面表示</translation>
+        <translation>ブラウザ ↔ フルスクリーン | ビューア ↔ フルスクリーン</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
@@ -13258,7 +13259,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2033"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation>ブラウザ → 全画面表示 →ビューア</translation>
+        <translation>ブラウザ → フルスクリーン → ビューア</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1953"/>
@@ -13266,7 +13267,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation>ブラウザ → ビューア → 全画面表示</translation>
+        <translation>ブラウザ → ビューア → フルスクリーン</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="177"/>
@@ -13822,7 +13823,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
-        <translation>ブラウザー - サムネイル</translation>
+        <translation>ブラウザ - サムネイル</translation>
     </message>
 </context>
 <context>
@@ -13958,7 +13959,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="604"/>
         <source>Like Browser</source>
-        <translation>ブラウザーのように</translation>
+        <translation>ブラウザのように</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="611"/>
@@ -14200,7 +14201,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1306"/>
         <source>Fullscreen</source>
-        <translation>全画面表示</translation>
+        <translation>フルスクリーン</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1343"/>
@@ -14631,7 +14632,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="93"/>
         <source>Fullscreen</source>
-        <translation>全画面表示</translation>
+        <translation>フルスクリーン</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="53"/>
@@ -20307,7 +20308,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="533"/>
         <source>Fullscreen</source>
-        <translation>全画面表示</translation>
+        <translation>フルスクリーン</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="534"/>
@@ -21301,7 +21302,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="379"/>
         <source>Fullscreen</source>
         <translatorcomment>TXT_BrowseMenuFile_View_Fullscreen</translatorcomment>
-        <translation>全画面表示</translation>
+        <translation>フルスクリーン</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="380"/>
@@ -22004,7 +22005,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="253"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Top-Center</source>
-        <translation>中央上</translation>
+        <translation>上-中央</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="254"/>
@@ -22016,7 +22017,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="255"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
-        <translation>左中央</translation>
+        <translation>中央-左</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="256"/>
@@ -22028,7 +22029,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="257"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Center-Right</source>
-        <translation>右中央</translation>
+        <translation>中央-右</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="258"/>
@@ -22040,7 +22041,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="259"/>
         <location filename="DlgSlideshow.cpp" line="52"/>
         <source>Bottom-Center</source>
-        <translation>中央下</translation>
+        <translation>下-中央</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="260"/>
