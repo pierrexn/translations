@@ -1898,7 +1898,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n tunti(a) ja @ </numerusform>
+            <numerusform>%n tunti(a) ja </numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -1989,7 +1989,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n second(s) remaining</source>
         <translation>
-            <numerusform>%n sekunti(a) jäljellä@</numerusform>
+            <numerusform>%n sekunti(a) jäljellä</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2024,7 +2024,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Select Photos: %n file(s)</source>
         <translation>
-            <numerusform>Valitut kuvat: %n tiedosto(a)@</numerusform>
+            <numerusform>Valitut kuvat: %n tiedosto(a)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2047,7 +2047,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minuutti(a)@</numerusform>
+            <numerusform>%n minuutti(a)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2070,7 +2070,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
         <translation>
-            <numerusform>%n minuutti(a) jäljellä@</numerusform>
+            <numerusform>%n minuutti(a) jäljellä</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2153,7 +2153,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation>
-            <numerusform>%n sekunti(a)@</numerusform>
+            <numerusform>%n sekunti(a)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2168,7 +2168,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n file(s)</source>
         <translation>
-            <numerusform>%n tiedosto(a)@</numerusform>
+            <numerusform>%n tiedosto(a)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2805,7 +2805,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n tunti(a) ja @ </numerusform>
+            <numerusform>%n tunti(a) ja </numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2840,7 +2840,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
         <translation>
-            <numerusform>%n sekunti(a) jäljellä@</numerusform>
+            <numerusform>%n sekunti(a) jäljellä</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2871,7 +2871,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minuutti(a)@</numerusform>
+            <numerusform>%n minuutti(a)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2902,7 +2902,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
         <translation>
-            <numerusform>%n minuutti(a) jäljellä@</numerusform>
+            <numerusform>%n minuutti(a) jäljellä</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2943,7 +2943,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
+        <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
     </message>
     <message>
         <source>: saved</source>
@@ -2960,7 +2960,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation>
-            <numerusform>%n sekunti(a)@</numerusform>
+            <numerusform>%n sekunti(a)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -9038,7 +9038,7 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Catalog Maintenance</source>
         <translatorcomment>Katalogin ylläpito</translatorcomment>
-        <translation>Catalog Maintenance</translation>
+        <translation>Katalogin ylläpito</translation>
     </message>
     <message>
         <source>Some database entries with assigned Rating, 
@@ -9048,7 +9048,7 @@ Do you want to check for affected entries first?</source>
         <translation>Jotkut tietokantamerkinnät, joilla on määritetty luokitus,
 värimerkinnät, avainsanat voidaan poistaa.
 
-Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
+Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
@@ -9567,7 +9567,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Käyttäjä</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>Make backup for lossless flip/rotation</source>
@@ -9790,7 +9790,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Käyttäjä</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
@@ -9802,7 +9802,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Käynnistä XnViewMP järjestelmänvalvojan oikeuksilla (vain ensimmäisellä kerralla)</translation>
+        <translation>Käynnistä XnViewMP järjestelmänvalvojan oikeuksilla (vain ensimmäisellä kerralla).</translation>
     </message>
     <message>
         <source>User (System)</source>
@@ -10029,7 +10029,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Käyttäjä</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -10431,7 +10431,7 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Please restart application.</source>
         <translatorcomment>Uudelleenkäynnistä sovellus.</translatorcomment>
-        <translation>Uudelleenkäynnistä sovellus</translation>
+        <translation>Uudelleenkäynnistä sovellus.</translation>
     </message>
 </context>
 <context>
@@ -10482,7 +10482,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
-        <translation>Näytä 4 kuvaa videoiden esikatselukuvassa  (yhden sijaan)</translation>
+        <translation>Näytä 4 kuvaa videoiden esikatselukuvassa (yhden sijaan)</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -10490,7 +10490,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
-        <translation>Näytä 4 kuvaa kansioiden esikatselukuvassa  (yhden sijaan)</translation>
+        <translation>Näytä 4 kuvaa kansioiden esikatselukuvassa (yhden sijaan)</translation>
     </message>
     <message>
         <source>Color label</source>
@@ -10852,7 +10852,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
-        <translation>EXIF  muokkauspäivä</translation>
+        <translation>EXIF muokkauspäivä</translation>
     </message>
     <message>
         <source>Rule of thirds</source>
@@ -10896,7 +10896,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Käyttäjä</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -11063,7 +11063,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Similar image content (slow)</source>
-        <translation>Samanlainen kuvasisältö (hidas)?</translation>
+        <translation>Samanlainen kuvasisältö (hidas)</translation>
     </message>
 </context>
 <context>
@@ -14206,7 +14206,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>An error has occurred.</source>
-        <translation>Tapahtui virhe!</translation>
+        <translation>Tapahtui virhe.</translation>
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
@@ -14797,7 +14797,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Käyttäjä</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>Contact sheet...</source>
@@ -15631,7 +15631,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Y - Year</source>
-        <translation>Y - Year</translation>
+        <translation>V - Vuosi</translation>
     </message>
     <message>
         <source>B - Month name (eg. february)</source>
@@ -15691,7 +15691,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>y - Year without century (00-99)</source>
-        <translation>y - Year without century (00-99)</translation>
+        <translation>v - Ilman vuosisatoja (00-99)</translation>
     </message>
     <message>
         <source>IPTC - Credits</source>
@@ -16890,25 +16890,25 @@ Jatketaanko?</translation>
     <message numerus="yes">
         <source>%n object(s)</source>
         <translation>
-            <numerusform>%n objekti@%n objekti(a)</numerusform>
+            <numerusform>%n objekti(a)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Updating files, please wait...</source>
-        <translation>Päivitetään tiedostoja, odota,,,</translation>
+        <translation>Päivitetään tiedostoja, odota...</translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
         <translation>
-            <numerusform>%n objekti [%2 %3]@%n objekti(a) [%2 %3]</numerusform>
+            <numerusform>%n objekti(a) [%2 %3]</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
-            <numerusform>%n objekti valittu [%3 %4]@%n objekti(a) valittu [%3 %4]</numerusform>
+            <numerusform>%n objekti(a) valittu [%3 %4]</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -17425,7 +17425,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Custom</source>
-        <translation>Käyttäjä</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -17508,7 +17508,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>10 MB of 100 MB completed</source>
-        <translation>10 MB  100 MB:stä valmiina</translation>
+        <translation>10 MB 100 MB:stä valmiina</translation>
     </message>
     <message>
         <source>0 / 1 dirs</source>
@@ -17528,7 +17528,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>100% of %1 (Done)</source>
-        <translation>100%  %1:stä (Valmis)</translation>
+        <translation>100% %1:stä (Valmis)</translation>
     </message>
     <message>
         <source>2 / 5 files</source>
@@ -17548,7 +17548,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>24% of 100MB (Copying...)</source>
-        <translation>24%  100MB:stä (Kopioidaan...)</translation>
+        <translation>24% 100MB:stä (Kopioidaan...)</translation>
     </message>
     <message>
         <source>Moving...</source>
@@ -18081,7 +18081,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <name>WriteSettingsWidget</name>
     <message>
         <source>Keep ICC profile</source>
-        <translation>Pidä ICC  profiili</translation>
+        <translation>Pidä ICC -profiili</translation>
     </message>
     <message>
         <source>Keep XMP</source>
@@ -18142,7 +18142,7 @@ Do you want to keep the thumbnails?
         <translation>XnViewMP päivittää luetteloa. Se voi kestää jonkin aikaa.
 
 Haluatko säilyttää pikkukuvat?
-  (Jos valitset KYLLÄ, päivitys kestää kauemmin)</translation>
+ (Jos valitset KYLLÄ, päivitys kestää kauemmin)</translation>
     </message>
     <message>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
