@@ -512,7 +512,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
-            <numerusform>Oletko varma että nämä %n kohteet poistetaan?@Oletko varma että nämä %n kohteet poistetaan?</numerusform>
+            <numerusform>Oletko varma että nämä %n kohteet poistetaan? Oletko varma että nämä %n kohteet poistetaan?</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -535,7 +535,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
-            <numerusform>Haluatko varmasti poistaa tämän valitun kohteen %n - %1 ?@Haluatko varmasti poistaa nämä valitut kohteet %n - %1 ?</numerusform>
+            <numerusform>Haluatko varmasti poistaa tämän valitun kohteen %n - %1 ? Haluatko varmasti poistaa nämä valitut kohteet %n - %1 ?</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -781,7 +781,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <name>ColorPickerPopup</name>
     <message>
         <source>Custom</source>
-        <translation>Käyttäjä</translation>
+        <translation>Mukautettu</translation>
     </message>
 </context>
 <context>
@@ -2850,7 +2850,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Finished at: </source>
-        <translation>Päättyi: </translation>
+        <translation>Valmistui: </translation>
     </message>
     <message>
         <source>_result</source>
@@ -2933,7 +2933,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>Input: %n file(s)</source>
         <translation>
-            <numerusform>Muunnettavia: %n tiedosto(a)@Muunnettavia: %n tiedostoa</numerusform>
+            <numerusform>Muunnettava: %n tiedosto(a)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2943,7 +2943,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
+        <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita </translation>
     </message>
     <message>
         <source>: saved</source>
@@ -5427,7 +5427,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Catalog maintenance</source>
-        <translation>Luettelohuolto</translation>
+        <translation>Luettelon ylläpito</translation>
     </message>
     <message>
         <source>Purge file data</source>
@@ -5719,7 +5719,7 @@ Haluatko tallentaa muutokset?</translation>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation>Käsittelyn aikana tapahtui virhe.. 
+        <translation>Käsittelyn aikana tapahtui virhe. 
 Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
     </message>
     <message>
@@ -10852,7 +10852,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
-        <translation>EXIF muokkauspäivä</translation>
+        <translation>EXIF -muokkauspäivä</translation>
     </message>
     <message>
         <source>Rule of thirds</source>
@@ -15691,7 +15691,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>y - Year without century (00-99)</source>
-        <translation>v - Ilman vuosisatoja (00-99)</translation>
+        <translation>v - Vuosi ilman vuosisatoja (00-99)</translation>
     </message>
     <message>
         <source>IPTC - Credits</source>
