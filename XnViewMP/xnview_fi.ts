@@ -258,7 +258,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>Tiedostoon &lt;%1&gt;  on vain lukuoikeudet, valitse toinen tiedostonimi.</translation>
+        <translation>Tiedostoon &lt;%1&gt; on vain lukuoikeudet, valitse toinen tiedostonimi.</translation>
     </message>
     <message>
         <source>&lt; Empty &gt;</source>
@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation>Kuva munnetaan 24-bittiseksi RGB:ksi (8-bittiä kanava)</translation>
+        <translation>Kuva muunnetaan 24-bittiseksi RGB:ksi (8 bittiä kanavaa kohti)</translation>
     </message>
     <message>
         <source>Number of unique colors: %1</source>
@@ -321,7 +321,7 @@
     <message>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
-        <translation>Tallennetaanko muutokset tiedostoon 
+        <translation>Haluatko tallentaa muutokset-tähän
 &quot;%1&quot;?</translation>
     </message>
     <message>
@@ -412,9 +412,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Tämä suoskki johtaa kansioon jota ei ole olemassa.
+        <translation>Tämä suosikki viittaa kansioon, jota ei ole olemassa.
 
-Poistetaanko suosikki &quot;%1&quot;?</translation>
+Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -512,8 +512,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
-            <numerusform>Oletko varma että nämä %n kohteet poistetaan?</numerusform>
-            <numerusform>Oletko varma että nämä %n kohteet poistetaan?</numerusform>
+            <numerusform>Oletko varma että nämä %n kohteet poistetaan?@Oletko varma että nämä %n kohteet poistetaan?</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -535,8 +535,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
-            <numerusform>Haluatko varmasti poistaa tämän valitun kohteen %n - %1 ?</numerusform>
-            <numerusform>Haluatko varmasti poistaa nämä valitut kohteet %n - %1 ?</numerusform>
+            <numerusform>Haluatko varmasti poistaa tämän valitun kohteen %n - %1 ?@Haluatko varmasti poistaa nämä valitut kohteet %n - %1 ?</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -569,7 +569,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Customize toolbar...</source>
-        <translation>Muokkaa työkalupalkkia...</translation>
+        <translation>Muokkaa työkaluriviä...</translation>
     </message>
     <message>
         <source>Match all selected entries (AND)</source>
@@ -638,7 +638,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <name>CategoryModel</name>
     <message>
         <source>Label</source>
-        <translation>Nimike</translation>
+        <translation>Ikkuna</translation>
     </message>
 </context>
 <context>
@@ -649,11 +649,11 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Assign Set to selection</source>
-        <translation>Määritä rymä valinnalle</translation>
+        <translation>Määritä Aseta valintaan</translation>
     </message>
     <message>
         <source>Unassign Set from selection</source>
-        <translation>Poista Aseta valinnasta</translation>
+        <translation>Poista määritys Aseta valintaan</translation>
     </message>
 </context>
 <context>
@@ -953,7 +953,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation>Oikealle</translation>
     </message>
     <message>
         <source>Sepia</source>
@@ -1221,7 +1221,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Average</source>
-        <translation>Keskimääräinen</translation>
+        <translation>Keskinkertainen</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -1396,7 +1396,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <name>ConvertThread</name>
     <message>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation>VAROITUS: Kuva muunnetaan 24-bittiseksi RGB:ksi (8 bittiä kanavaa kohti)</translation>
+        <translation>WARNING: Kuva muunnetaan 24-bittiseksi RGB:ksi (8 bittiä kanavaa kohti)</translation>
     </message>
 </context>
 <context>
@@ -1682,7 +1682,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation>Oikealle</translation>
     </message>
     <message>
         <source>Right (bottom-top)</source>
@@ -1698,11 +1698,11 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alas</translation>
+        <translation>Alhaalla</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskitä</translation>
+        <translation>Keskellä</translation>
     </message>
     <message>
         <source>Text color</source>
@@ -1898,7 +1898,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n tunti(a) ja </numerusform>
+            <numerusform>%n tunti(a) ja @ </numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -1932,7 +1932,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Custom</source>
-        <translation>Mukauta</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -1989,7 +1989,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n second(s) remaining</source>
         <translation>
-            <numerusform>%n sekunti(a) jäljellä</numerusform>
+            <numerusform>%n sekunti(a) jäljellä@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2024,7 +2024,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Select Photos: %n file(s)</source>
         <translation>
-            <numerusform>Valitut kuvat: %n tiedosto(a)</numerusform>
+            <numerusform>Valitut kuvat: %n tiedosto(a)@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2047,7 +2047,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minuutti(a)</numerusform>
+            <numerusform>%n minuutti(a)@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2070,7 +2070,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
         <translation>
-            <numerusform>%n minuutti(a) jäljellä</numerusform>
+            <numerusform>%n minuutti(a) jäljellä@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2153,7 +2153,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation>
-            <numerusform>%n sekunti(a)</numerusform>
+            <numerusform>%n sekunti(a)@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2168,7 +2168,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n file(s)</source>
         <translation>
-            <numerusform>%n tiedosto(a)</numerusform>
+            <numerusform>%n tiedosto(a)@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2440,7 +2440,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Clean metadata</source>
-        <translation>Tyhjennä metadata</translation>
+        <translation>Tyhjennä metatiedot</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
@@ -2788,7 +2788,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Save log as...</source>
-        <translation>Save log as...</translation>
+        <translation>Tallenna loki nimellä...</translation>
     </message>
     <message>
         <source>create error</source>
@@ -2805,7 +2805,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n tunti(a) ja </numerusform>
+            <numerusform>%n tunti(a) ja @ </numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2840,7 +2840,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
         <translation>
-            <numerusform>%n sekunti(a) jäljellä</numerusform>
+            <numerusform>%n sekunti(a) jäljellä@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2850,7 +2850,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Finished at: </source>
-        <translation>Finished at: </translation>
+        <translation>Päättyi: </translation>
     </message>
     <message>
         <source>_result</source>
@@ -2871,7 +2871,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minuutti(a)</numerusform>
+            <numerusform>%n minuutti(a)@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2902,7 +2902,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
         <translation>
-            <numerusform>%n minuutti(a) jäljellä</numerusform>
+            <numerusform>%n minuutti(a) jäljellä@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2933,8 +2933,8 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>Input: %n file(s)</source>
         <translation>
-            <numerusform>Muunnettavia: %n tiedosto(a)</numerusform>
-            <numerusform>Muunnettavia: %n tiedostoa</numerusform>
+            <numerusform>Muunnettavia: %n tiedosto(a)@Muunnettavia: %n tiedostoa</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -2943,7 +2943,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita </translation>
+        <translation>&lt;br&gt; XnConvert toimitetaan ilmaisohjelmana yksityiseen, ei-kaupalliseen ja koulutukselliseen käyttöön, mukaan lukien voittoa tavoittelemattomat organisaatiot. &lt;br&gt; Yritysten on ostettava lisenssejä voidakseen käyttää XnConvertia. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Ei minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
     </message>
     <message>
         <source>: saved</source>
@@ -2960,7 +2960,7 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation>
-            <numerusform>%n sekunti(a)</numerusform>
+            <numerusform>%n sekunti(a)@</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2982,7 +2982,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Started at: </source>
-        <translation>Started at: </translation>
+        <translation>Alkoi: </translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
@@ -3018,7 +3018,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Please restart application.</source>
-        <translation>Uudelleenkäynnistä sovellus</translation>
+        <translation>Uudelleenkäynnistä sovellus.</translation>
     </message>
     <message>
         <source>The %1 version of XnConvert is available. 
@@ -3052,15 +3052,15 @@ Haluatko jatkaa?</translation>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation>Ulostulotiedostonimi on sama kaikille muunnettaville tiedostoille. 
+        <translation>Ulostulotiedoston nimi on sama kaikille muunnetuille tiedostoille.
 
-Jatketaanko?</translation>
+Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation>Sinulla on asetus &quot;säilytä alkuperäinen tiedosto, jos tulos on suurempi&quot; ja joitain muita toimintoja.
+        <translation>Sinulla on asetus &quot;säilytä alkuperäinen tiedosto, jos tulos on suurempi&quot; sekä joitain muita toimintoja.
 
 Haluatko jatkaa?</translation>
     </message>
@@ -3132,7 +3132,7 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertAutoCropClass</name>
     <message>
         <source>Top</source>
-        <translation>Ylhäällä</translation>
+        <translation>Ylös</translation>
     </message>
     <message>
         <source>Left</source>
@@ -3144,7 +3144,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation>Oikealle</translation>
     </message>
     <message>
         <source>Tolerance</source>
@@ -3152,7 +3152,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Ala</translation>
+        <translation>Alhaalla</translation>
     </message>
     <message>
         <source>Edges:</source>
@@ -3205,7 +3205,7 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertBloom</name>
     <message>
         <source>Blur</source>
-        <translation>Sumennus</translation>
+        <translation>Sumenna</translation>
     </message>
     <message>
         <source>Method</source>
@@ -3255,7 +3255,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskitä</translation>
+        <translation>Keskellä</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -3299,35 +3299,35 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation>Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä-keskellä</translation>
+        <translation>Ylhäällä keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskellä-vasemmalla</translation>
+        <translation>Keskellä vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskellä-oikealla</translation>
+        <translation>Keskellä oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation>Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalla-keskellä</translation>
+        <translation>Alhaalla keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation>Alhaalta-Oikealle</translation>
     </message>
 </context>
 <context>
@@ -3382,7 +3382,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>percent</source>
@@ -3438,35 +3438,35 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation>Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä-keskellä</translation>
+        <translation>Ylhäällä keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskellä-vasemmalla</translation>
+        <translation>Keskellä vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskellä-oikealla</translation>
+        <translation>Keskellä oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation>Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalla-keskellä</translation>
+        <translation>Alhaalla keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation>Alhaalta-Oikealle</translation>
     </message>
 </context>
 <context>
@@ -3513,7 +3513,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Load image...</source>
-        <translation>Ladataan kuva...</translation>
+        <translation>Lataa kuva...</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -3685,7 +3685,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Tapahtuma</translation>
+        <translation>Tila</translation>
     </message>
     <message>
         <source>Save actions list at exiting</source>
@@ -3753,7 +3753,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Load script</source>
-        <translation>Lataa skripti</translation>
+        <translation>Latausskripti</translation>
     </message>
     <message>
         <source>Add action&gt;</source>
@@ -3845,7 +3845,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Käännä EXIF- suuntausmerkintöjen mukaisesti</translation>
+        <translation>Käännä kuvia EXIF-suuntaustunnisteen mukaan</translation>
     </message>
     <message>
         <source>Add files...</source>
@@ -3857,7 +3857,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation>Aloita isolla kirjaimella</translation>
+        <translation>Ensimmäinen kirjain isolla</translation>
     </message>
     <message>
         <source>You can drag&amp;drop your files on the list below.</source>
@@ -3921,7 +3921,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Next file</source>
-        <translation>Suraava tiedosto</translation>
+        <translation>Seuraava tiedosto</translation>
     </message>
     <message>
         <source>Follow us on Twitter...</source>
@@ -3956,7 +3956,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>EXIF thumbnail</source>
-        <translation>EXIF-esikatselukuvat</translation>
+        <translation>EXIF-esikatselukuva</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -3999,7 +3999,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
-        <translation>Korvaa alfa 32-bittisillä kuvilla</translation>
+        <translation>Korvaa alfa 32-bittisille kuville</translation>
     </message>
 </context>
 <context>
@@ -4018,11 +4018,11 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasemmalla</translation>
+        <translation>Vasen</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikealla</translation>
+        <translation>Oikealle</translation>
     </message>
     <message>
         <source>Width</source>
@@ -4172,7 +4172,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Valo</translation>
+        <translation>Vaalea</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -4415,7 +4415,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Sumennus</translation>
+        <translation>Sumenna</translation>
     </message>
     <message>
         <source>Mask</source>
@@ -4492,7 +4492,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasemmalta</translation>
+        <translation>Vasen</translation>
     </message>
     <message>
         <source>Wrap image around</source>
@@ -4500,7 +4500,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikealta</translation>
+        <translation>Oikealle</translation>
     </message>
     <message>
         <source>pixels</source>
@@ -4587,7 +4587,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>Y margin</source>
@@ -4599,35 +4599,35 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation>Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä-keskellä</translation>
+        <translation>Ylhäällä keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskellä-vasemmalla</translation>
+        <translation>Keskellä vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskellä-oikealla</translation>
+        <translation>Keskellä oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation>Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalla-keskellä</translation>
+        <translation>Alhaalla keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation>Alhaalta-Oikealle</translation>
     </message>
 </context>
 <context>
@@ -4707,7 +4707,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Tapa</translation>
+        <translation>Tila</translation>
     </message>
     <message>
         <source>Size</source>
@@ -4715,7 +4715,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation>Bilinear</translation>
+        <translation>Bilineaarinen</translation>
     </message>
     <message>
         <source>Width</source>
@@ -4755,7 +4755,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Muokattu</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>Height</source>
@@ -4925,15 +4925,15 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Vaakasuunta</translation>
+        <translation>Vaakasuunnassa</translation>
     </message>
     <message>
         <source>Method</source>
-        <translation>Metodi</translation>
+        <translation>Menetelmä</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pystysuunta</translation>
+        <translation>Pystysuunnassa</translation>
     </message>
     <message>
         <source>Vertical and Horizontal</source>
@@ -4975,7 +4975,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Täyttö</translation>
+        <translation>Täytä</translation>
     </message>
     <message>
         <source>Font</source>
@@ -5031,7 +5031,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -5079,39 +5079,39 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation>Järjestäminen</translation>
+        <translation>Tasaus</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation>Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä-keskellä</translation>
+        <translation>Ylhäällä keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskellä-vasemmalla</translation>
+        <translation>Keskellä vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskellä-oikealla</translation>
+        <translation>Keskellä oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation>Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalla-keskellä</translation>
+        <translation>Alhaalla keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation>Alhaalta-Oikealle</translation>
     </message>
 </context>
 <context>
@@ -5180,7 +5180,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>Don&apos;t use alpha channel</source>
@@ -5236,35 +5236,35 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation>Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä-keskellä</translation>
+        <translation>Ylhäällä keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskellä-vasemmalla</translation>
+        <translation>Keskellä vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskellä-oikealla</translation>
+        <translation>Keskellä oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation>Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalla-keskellä</translation>
+        <translation>Alhaalla keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation>Alhaalta-Oikealle</translation>
     </message>
 </context>
 <context>
@@ -5400,7 +5400,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Curves</source>
-        <translation>Kaaret</translation>
+        <translation>Käyrät</translation>
     </message>
     <message>
         <source>Right click to remove control point</source>
@@ -5497,7 +5497,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoita</translation>
+        <translation>Kirjoitus</translation>
     </message>
     <message>
         <source>Write all</source>
@@ -5505,7 +5505,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>ExifTool is not installed in AddOn folder!</source>
-        <translation>ExifToolia ei ole asennettu  AddOn-kansioon!</translation>
+        <translation>ExifToolia ei ole asennettu AddOn-kansioon!</translation>
     </message>
     <message>
         <source>Longitude</source>
@@ -5719,7 +5719,8 @@ Haluatko tallentaa muutokset?</translation>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation>Käsittelyn aikana tapahtui virhe. Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
+        <translation>Käsittelyn aikana tapahtui virhe.. 
+Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
@@ -5735,7 +5736,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation>Muista avattu välilehti</translation>
+        <translation>Muista avatut välilehdet</translation>
     </message>
 </context>
 <context>
@@ -5762,7 +5763,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Nuokattu</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -5908,7 +5909,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Temperature</source>
-        <translation>Värilämpötila</translation>
+        <translation>Lämpötila</translation>
     </message>
     <message>
         <source>Lightness</source>
@@ -5943,7 +5944,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoomaa 100%</translation>
+        <translation>Zoomaus 100%</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -6038,7 +6039,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
-        <translation>Vie luokitus- ja värimerkinnät</translation>
+        <translation>Vie luokitus &amp;&amp; värimerkinnät</translation>
     </message>
 </context>
 <context>
@@ -6137,7 +6138,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation>Muokkauspaletti...</translation>
+        <translation>Muokkaa palettia...</translation>
     </message>
 </context>
 <context>
@@ -6152,7 +6153,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Move to</source>
-        <translation>Siirrä...</translation>
+        <translation>Siirrä kansioon</translation>
     </message>
     <message>
         <source>Do you want to create this folder?</source>
@@ -6193,7 +6194,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostopääte</translation>
+        <translation>Tiedostomuoto</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -6578,7 +6579,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>Tiedostoa %1 ei löydy.</translation>
+        <translation>Tiedostoa %1 ei ole olemassa.</translation>
     </message>
     <message>
         <source>Uploading: </source>
@@ -6647,7 +6648,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Vaakasuunta</translation>
+        <translation>Vaakasuunnassa</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -6683,7 +6684,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pystysuunta</translation>
+        <translation>Pystysuunnassa</translation>
     </message>
     <message>
         <source>Defined grids</source>
@@ -6729,7 +6730,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Choose a directory</translation>
+        <translation>Valitse kansio</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -6776,7 +6777,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Include subfolders</source>
-        <translation>Sisältää alikansiot</translation>
+        <translation>Sisätää alikansiot</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -6800,7 +6801,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Videot</translation>
+        <translation>Videotiedostot</translation>
     </message>
     <message>
         <source>The source folder of the files to be transferred.
@@ -6908,7 +6909,7 @@ Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation>Kirjasto</translation>
+        <translation>KIrjasto</translation>
     </message>
     <message>
         <source>EXIF date/time modified (if exists)</source>
@@ -6924,7 +6925,7 @@ Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>Field values are not loaded because &apos;Do not load field values&apos; is checked</translation>
+        <translation>Kentän arvoja ei ladata, koska &apos;Älä lataa kenttien arvoja&apos; -valinta on valittu</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
@@ -7061,7 +7062,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation>Tila</translation>
     </message>
     <message>
         <source>Save template...</source>
@@ -7109,7 +7110,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Credits</source>
-        <translation>Ansiot</translation>
+        <translation>Kiitokset</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -7165,7 +7166,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation>Muista avattu välilehti</translation>
+        <translation>Muista avatut välilehdet</translation>
     </message>
 </context>
 <context>
@@ -7222,7 +7223,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>This parent is already a child of current category!</source>
-        <translation>Tämä pääluokka on jo nykyisen kategorian alaluokka?</translation>
+        <translation>Tämä pääluokka on jo nykyisen kategorian alaluokka!</translation>
     </message>
     <message>
         <source>Description</source>
@@ -7267,7 +7268,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Green</source>
-        <translation>Harmaa</translation>
+        <translation>Vihreä</translation>
     </message>
     <message>
         <source>Luminosity</source>
@@ -7317,7 +7318,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Mode</source>
-        <translation>Muoto</translation>
+        <translation>Tila</translation>
     </message>
     <message>
         <source>Width</source>
@@ -7426,7 +7427,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Uploading image(s) to Picasa album</source>
-        <translation>Ladataan kuvat Picasa-albumiin</translation>
+        <translation>Picasa-albumiin ladattavat kuvat</translation>
     </message>
     <message>
         <source>An error occurred in uploading process!</source>
@@ -7441,7 +7442,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgPicasaSettings</name>
     <message>
         <source>User password:</source>
-        <translation>Käyttäjän salasana:</translation>
+        <translation>Salasana:</translation>
     </message>
     <message>
         <source>Picasa settings</source>
@@ -7493,7 +7494,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>to</source>
-        <translation>-&gt;</translation>
+        <translation>tähän</translation>
     </message>
     <message>
         <source>...</source>
@@ -7501,7 +7502,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Top</source>
-        <translation>Ylä</translation>
+        <translation>Ylös</translation>
     </message>
     <message>
         <source>Font</source>
@@ -7541,7 +7542,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation>Oikealle</translation>
     </message>
     <message>
         <source>Units</source>
@@ -7553,7 +7554,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Vertical spacing</source>
-        <translation>Pystysuora väli</translation>
+        <translation>Väli pystysuunnassa</translation>
     </message>
     <message>
         <source>Maintain aspect ratio</source>
@@ -7573,7 +7574,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Current date</source>
-        <translation>Päiväys</translation>
+        <translation>Nykyinen päiväys</translation>
     </message>
     <message>
         <source>Show information</source>
@@ -7589,7 +7590,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä oikealla</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>53x71mm (2x3&quot;) [14]</source>
@@ -7605,7 +7606,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Ala</translation>
+        <translation>Alhaalla</translation>
     </message>
     <message>
         <source>Center</source>
@@ -7641,11 +7642,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla vasemmalla</translation>
+        <translation>Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhällä vasemmalla</translation>
+        <translation>Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>Print count</source>
@@ -7661,7 +7662,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>Page number</source>
@@ -7745,7 +7746,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla oikealla</translation>
+        <translation>Alhaalta-Oikealle</translation>
     </message>
     <message>
         <source>Print as grayscale</source>
@@ -7847,7 +7848,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Esiasetus:</translation>
+        <translation>Esiasetukset:</translation>
     </message>
     <message>
         <source>Remove preset</source>
@@ -8099,7 +8100,7 @@ Kiitos että tilasit %1.</translation>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation>Asenna käyttämällä Työkalut › Lisäosat</translation>
+        <translation>Asenna se kohdasta Työkalut › -Lisäosat...</translation>
     </message>
 </context>
 <context>
@@ -8120,7 +8121,7 @@ Kiitos että tilasit %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation>Oheistiedostot tunnistetaan tiedostoluettelosta, ja ne nimetään automaattisesti uudelleen päätiedostonimen mukaan.
+        <translation>Täydentävät tiedostot tunnistetaan tiedostoluettelosta, ja ne nimetään automaattisesti uudelleen päätiedostonimen mukaan.
 
 Haluatko poistaa ne?</translation>
     </message>
@@ -8209,7 +8210,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostopääte</translation>
+        <translation>Tiedostomuoto</translation>
     </message>
     <message>
         <source>Clean diacritic characters</source>
@@ -8217,7 +8218,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation>Alkaa isolla kirjaimella</translation>
+        <translation>Ensimmäinen kirjain isolla</translation>
     </message>
     <message>
         <source>New name</source>
@@ -8298,11 +8299,11 @@ Haluatko poistaa ne?</translation>
     <name>DlgResize</name>
     <message>
         <source>&lt;Last Used&gt;</source>
-        <translation>&lt;Viimeksi käytetty&gt;</translation>
+        <translation>&lt;Viimeksi käytetyt&gt;</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
-        <translation>&lt;Oletust&gt;</translation>
+        <translation>&lt;Oletus&gt;</translation>
     </message>
     <message>
         <source>Result image size: %1x%2 - %3 Mpixels</source>
@@ -8341,7 +8342,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation>Bilinear</translation>
+        <translation>Bilineaarinen</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8369,7 +8370,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Shortest side</source>
-        <translation>Lyhyt sivu</translation>
+        <translation>Lyhyin sivu</translation>
     </message>
     <message>
         <source>Mpixels</source>
@@ -8405,11 +8406,11 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>percent</source>
-        <translation>Prosenttia</translation>
+        <translation>prosenttia</translation>
     </message>
     <message>
         <source>inches</source>
@@ -8449,7 +8450,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Longest side</source>
-        <translation>Pitkä sivu</translation>
+        <translation>Pisin sivu</translation>
     </message>
     <message>
         <source>Remove preset</source>
@@ -8457,35 +8458,35 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä-vasemmalla</translation>
+        <translation>Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäällä-keskellä</translation>
+        <translation>Ylhäällä keskellä</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä-oikealla</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskellä-vasemmalla</translation>
+        <translation>Keskellä vasemmalla</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskellä-oikealla</translation>
+        <translation>Keskellä oikealla</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla-vasemmalla</translation>
+        <translation>Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalla-keskellä</translation>
+        <translation>Alhaalla keskellä</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla-oikealla</translation>
+        <translation>Alhaalta-Oikealle</translation>
     </message>
 </context>
 <context>
@@ -8516,7 +8517,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation>Automaattirajaus</translation>
+        <translation>Automaattinen rajaus</translation>
     </message>
 </context>
 <context>
@@ -8849,7 +8850,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Selityksistä</translation>
+        <translation>Selitys</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -8889,7 +8890,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
-        <translation>EXIF  muokkauspäivä</translation>
+        <translation>EXIF -muokkauspäivä</translation>
     </message>
     <message>
         <source>View as</source>
@@ -8913,7 +8914,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Preview background color</source>
-        <translation>Taustaväri</translation>
+        <translation>Taustavärin esikatselu</translation>
     </message>
     <message>
         <source>After an operation</source>
@@ -8998,7 +8999,7 @@ Do you want to change the &apos;base path&apos;?</source>
         <translation>&quot;Peruspolun&quot; muuttaminen voi katkaista tietokantaan tallennettujen tiedostojen yhteyden.
 Tee se vain, jos haluat jakaa saman kansion useiden tietokoneiden välillä.
 
-Haluatko muuttaa &quot;peruspolkua&quot;</translation>
+Haluatko muuttaa &quot;peruspolkua&quot;?</translation>
     </message>
     <message>
         <source>Catalog - Remove Entries</source>
@@ -9051,7 +9052,7 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation>XnView Classic -kategoriatietokantaa ei voida tuoda</translation>
+        <translation>XnView Classic kategoria tietokantaa ei voi tuoda</translation>
     </message>
 </context>
 <context>
@@ -9170,7 +9171,7 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä</translation>
     </message>
     <message>
         <source>Import XnView Classic category db...</source>
-        <translation>Tuo XnView Classic -kategorian tietokanta...</translation>
+        <translation>Tuo XnView Classic -kategoriatietokanta...</translation>
     </message>
     <message>
         <source>Base path of files</source>
@@ -9447,7 +9448,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Absolute colorimetric</source>
-        <translation>Absoluuttinen kolorimetri</translation>
+        <translation>Absoluuttinen kolorometri</translation>
     </message>
     <message>
         <source>Perceptual</source>
@@ -9566,7 +9567,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Määritelty</translation>
+        <translation>Käyttäjä</translation>
     </message>
     <message>
         <source>Make backup for lossless flip/rotation</source>
@@ -9789,7 +9790,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Mukauta</translation>
+        <translation>Käyttäjä</translation>
     </message>
     <message>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
@@ -10028,7 +10029,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Määritelty</translation>
+        <translation>Käyttäjä</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -10244,19 +10245,19 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
-        <translation>Selain ↔ Koko näyttö | Katselin ↔ Koko näyttö</translation>
+        <translation>Kuvaselain ↔ Koko näyttö | Katselin ↔ Koko näyttö</translation>
     </message>
     <message>
         <source>Browser ↔ Viewer</source>
-        <translation>Selain ↔ katselin</translation>
+        <translation>Kuvaselain ↔ Katselin</translation>
     </message>
     <message>
         <source>Browser → Fullscreen → Viewer</source>
-        <translation>Selain → Koko näyttö → Katselin</translation>
+        <translation>Kuvaselain → Koko näyttö → Katselin</translation>
     </message>
     <message>
         <source>Browser → Viewer → Fullscreen</source>
-        <translation>Selain → Katselin → Koko näyttö</translation>
+        <translation>Kuvaselain → Katselin → Koko näyttö</translation>
     </message>
     <message>
         <source>Closing last tab exits application</source>
@@ -10272,15 +10273,15 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Select file in Browser when Viewer tab is closed</source>
-        <translation>Valitse tiedosto selaimessa, kun Katselin-välilehti on suljettu</translation>
+        <translation>Valitse tiedosto kuvaselaimessa, kun Katselin-välilehti on suljettu</translation>
     </message>
     <message>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
-        <translation>Raahaa ja pudota: Avaa yksi Katselin-välilehti tiedostoluettelolle</translation>
+        <translation>Raahaa ja pudota: Avaa yksi Katselin-välilehti tiedostoluetteloa varten</translation>
     </message>
     <message>
         <source>Hide Tab header when only one is opened</source>
-        <translation>Piilota välilehden otsikko, jos vain yksi välilehti on avoinna</translation>
+        <translation>Piilota otsikko, jos vain yksi välilehti on auki</translation>
     </message>
 </context>
 <context>
@@ -10294,11 +10295,11 @@ Haluatko määrittää uudelleen?</translation>
     <name>DlgSettingsKeywordsClass</name>
     <message>
         <source>Label</source>
-        <translation>Merkintä</translation>
+        <translation>Ikkuna</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoita</translation>
+        <translation>Kirjoitus</translation>
     </message>
     <message>
         <source>Create IPTC data</source>
@@ -10318,7 +10319,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation>Upotettu kommentti</translation>
+        <translation>Upotetuista kommenteista</translation>
     </message>
     <message>
         <source>Other files</source>
@@ -10402,7 +10403,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
-        <translation>Tuo automaattisesti XMP-aihe ja IPTC-avainsanat luettelon kategorioihin</translation>
+        <translation>Tuo automaattisesti XMP:Aihe ja IPTC:Avainsanat Luettelon kategorioihin</translation>
     </message>
     <message>
         <source>Write categories into images as hierarchical keywords</source>
@@ -10410,15 +10411,15 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
-        <translation>Määritä pääkategoria automaattisesti ( Ctrl+klikkaus = vain nykyinen)</translation>
+        <translation>Määritä pääluokka automaattisesti (vain nykyinen Ctrl+klikkaus)</translation>
     </message>
     <message>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
-        <translation>Vie luettelon kategoriat XMP-aihe- ja IPTC-avainsanat-muotoon</translation>
+        <translation>Vie Luettelon kategoriat XMP:Aihe- ja IPTC:Avainsanat-muotoon</translation>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
-        <translation>Luo tai päivitä XMP Sidecar -aputiedosto</translation>
+        <translation>Luo tai päivitä XMP sivuvaunu- aputiedosto</translation>
     </message>
     <message>
         <source>Color labels</source>
@@ -10430,7 +10431,7 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Please restart application.</source>
         <translatorcomment>Uudelleenkäynnistä sovellus.</translatorcomment>
-        <translation>Please restart application.</translation>
+        <translation>Uudelleenkäynnistä sovellus</translation>
     </message>
 </context>
 <context>
@@ -10441,7 +10442,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Merkintä (Tagi)</translation>
+        <translation>Merkintä (Tagit)</translation>
     </message>
     <message>
         <source>Left</source>
@@ -10453,7 +10454,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Oikea</translation>
+        <translation>Oikealle</translation>
     </message>
     <message>
         <source>Width</source>
@@ -10501,7 +10502,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskitä</translation>
+        <translation>Keskellä</translation>
     </message>
     <message>
         <source>Height</source>
@@ -10509,7 +10510,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Labels</source>
-        <translation>Tietoikkunan muokkaus</translation>
+        <translation>Muuta värimerkintöjä</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -10699,7 +10700,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Half size</source>
-        <translation>Puolikuva</translation>
+        <translation>Puoli koko</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -10707,7 +10708,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Full size</source>
-        <translation>Koko kuva</translation>
+        <translation>Täysi koko</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -10723,7 +10724,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation>Upotettu kommentti</translation>
+        <translation>Upotetuista kommenteista</translation>
     </message>
     <message>
         <source>Show highlight selection</source>
@@ -10739,7 +10740,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show scrollbars</source>
-        <translation>Näytä vierityspalkki</translation>
+        <translation>Näytä hiiripalkit</translation>
     </message>
     <message>
         <source>Multipage files</source>
@@ -10783,7 +10784,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -10835,7 +10836,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Title bar</source>
-        <translation>Nimipalkki</translation>
+        <translation>Otsikkopalkki</translation>
     </message>
     <message>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
@@ -10895,7 +10896,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Mukauta</translation>
+        <translation>Käyttäjä</translation>
     </message>
     <message>
         <source>Audio</source>
@@ -10959,7 +10960,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
-        <translation>Nollaa &quot;Automaattinen zoomaus&quot; -asetus seuraavan/edellisen tiedoston kanssa</translation>
+        <translation>Nollaa &quot;Automaattinen zoomaus&quot; -asetus toiminnolle seuraava/edellinen tiedosto</translation>
     </message>
     <message>
         <source>Golden ratio (Phi)</source>
@@ -10967,7 +10968,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show Rating &amp;&amp; Color labels</source>
-        <translation>Näytä luokitus- ja värimerkinnät</translation>
+        <translation>Näytä luokitus &amp;&amp; värimerkinnät</translation>
     </message>
     <message>
         <source>(From Settings › File list › Custom Filter)</source>
@@ -10975,15 +10976,15 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Draw multi-resolution icons as Snapshots</source>
-        <translation>Piirrä moniresoluutioisia kuvakkeita Snapshotteina</translation>
+        <translation>Piirrä moniresoluutioisia kuvakkeita snapshotteina</translation>
     </message>
     <message>
         <source>Border line around canvas</source>
-        <translation>Reunus pohjan ympärillä</translation>
+        <translation>Reunus kuva-alueen ympärillä</translation>
     </message>
     <message>
         <source>1.00  Square</source>
-        <translation>1.00 neliö</translation>
+        <translation>1.00  Neliö</translation>
     </message>
     <message>
         <source>1.90  D4/D16 Anamorphic</source>
@@ -10991,7 +10992,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>2.00  Anamorphic</source>
-        <translation>2.00 Anamorfinen</translation>
+        <translation>2.00  Anamorfinen</translation>
     </message>
 </context>
 <context>
@@ -11042,7 +11043,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Recursive</source>
-        <translation>Alikansiot</translation>
+        <translation>Rekursiivinen</translation>
     </message>
     <message>
         <source>Extensions to ignore (separated by a space)</source>
@@ -11050,7 +11051,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Valitse hakemisto</translation>
+        <translation>Valitse kansio</translation>
     </message>
     <message>
         <source>Add files...</source>
@@ -11062,7 +11063,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Similar image content (slow)</source>
-        <translation>Samankaltainen kuvasisältö (hidas)</translation>
+        <translation>Samanlainen kuvasisältö (hidas)?</translation>
     </message>
 </context>
 <context>
@@ -11255,7 +11256,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>Auto hide cursor (fullscreen)</source>
@@ -11390,7 +11391,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Size (pixels)</source>
-        <translation>Koko (pikseliä)</translation>
+        <translation>Koko [Pikseliä]</translation>
     </message>
 </context>
 <context>
@@ -11461,7 +11462,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Use .ini file in folder</source>
-        <translation>Käytä .ini tiedostoa kansiossa</translation>
+        <translation>Käytä .ini-tiedostoa kansiossa</translation>
     </message>
     <message>
         <source>Default</source>
@@ -11532,7 +11533,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation>Asetelma</translation>
+        <translation>Asettelu</translation>
     </message>
     <message>
         <source>Mosaic</source>
@@ -11560,7 +11561,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation>Väli</translation>
+        <translation>Välit</translation>
     </message>
     <message>
         <source>Right / Bottom</source>
@@ -11580,7 +11581,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation>Ryhmittely</translation>
+        <translation>Tasaus</translation>
     </message>
 </context>
 <context>
@@ -11603,7 +11604,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Threshold</source>
-        <translation>Aloituspiste</translation>
+        <translation>Kynnys</translation>
     </message>
     <message>
         <source>Write...</source>
@@ -11621,7 +11622,7 @@ Haluatko määrittää uudelleen?</translation>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation>Tämä muuttaa tiedoston XMP-alueita. 
+        <translation>Tämä korvaa tiedoston XMP-kasvoalueet tiedostosta.
 
 Haluatko jatkaa?</translation>
     </message>
@@ -11677,7 +11678,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoita</translation>
+        <translation>Kirjoitus</translation>
     </message>
     <message>
         <source>Current date &amp;&amp; time</source>
@@ -11717,7 +11718,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>Sekuntia</translation>
+        <translation>sekuntia</translation>
     </message>
     <message>
         <source>EXIF: Date digitized</source>
@@ -11737,7 +11738,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Increment at each image by</source>
-        <translation>Inkrementti jokaiselle kuvalle</translation>
+        <translation>Kasvata jokaista kuvaa</translation>
     </message>
 </context>
 <context>
@@ -11841,7 +11842,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Lähetä (Upload)</translation>
+        <translation>Siirrä</translation>
     </message>
     <message>
         <source>Unable to upload image file...</source>
@@ -12037,7 +12038,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>Background color</source>
@@ -12083,7 +12084,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Matalin</translation>
+        <translation>Huonoin</translation>
     </message>
     <message>
         <source>Best (lossless)</source>
@@ -12091,7 +12092,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation>Subsampling</translation>
+        <translation>Alinäytteistys</translation>
     </message>
 </context>
 <context>
@@ -12124,7 +12125,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Alin</translation>
+        <translation>Huonoin</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -12143,7 +12144,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Matalin</translation>
+        <translation>Huonoin</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -12170,7 +12171,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Smoothing factor</source>
-        <translation>Pehmentäminen</translation>
+        <translation>Tasoituskerroin</translation>
     </message>
     <message>
         <source>2x1,1x1,1x1 (4:2:2)</source>
@@ -12190,7 +12191,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Matalin</translation>
+        <translation>Huonoin</translation>
     </message>
     <message>
         <source>DCT Method</source>
@@ -12237,7 +12238,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Hitain</translation>
+        <translation>Huonoin</translation>
     </message>
     <message>
         <source>Compression</source>
@@ -12268,7 +12269,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Hitain</translation>
+        <translation>Huonoin</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -12284,7 +12285,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation>Subsampling</translation>
+        <translation>Alinäytteistys</translation>
     </message>
 </context>
 <context>
@@ -12321,7 +12322,7 @@ Haluatko jatkaa?</translation>
     <name>DlgWritePNGClass</name>
     <message>
         <source>Up</source>
-        <translation>Ylös</translation>
+        <translation>Ylhäältä</translation>
     </message>
     <message>
         <source>All</source>
@@ -12353,7 +12354,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Interlaced</source>
-        <translation>Lomittaminen</translation>
+        <translation>Lomitettu</translation>
     </message>
 </context>
 <context>
@@ -12386,7 +12387,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Compression for black&amp;white image</source>
-        <translation>Pakkaus musta-valkokuvalle</translation>
+        <translation>Pakkaus mustavalkokuvalle</translation>
     </message>
     <message>
         <source>Compression for color image</source>
@@ -12457,7 +12458,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
-        <translation>Käytä terävää (ja hidasta) RGB→YUV-muuntamista</translation>
+        <translation>Käytä terävää (ja hidasta) RGB→YUV-muuntoa</translation>
     </message>
 </context>
 <context>
@@ -12515,7 +12516,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Favorite doesn&apos;t exist</source>
-        <translation>Suosikkia ei ole olemassa</translation>
+        <translation>Suosikkia ei löydy</translation>
     </message>
     <message>
         <source>New subfolder</source>
@@ -12525,9 +12526,9 @@ Haluatko jatkaa?</translation>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Tämä suoskki johtaa kansioon jota ei ole olemassa.
+        <translation>Tämä suosikki viittaa kansioon, jota ei ole olemassa.
 
-Poistetaanko suosikki &quot;%1&quot;?</translation>
+Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -12604,7 +12605,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Valitse hakemisto</translation>
+        <translation>Valitse kansio</translation>
     </message>
     <message>
         <source>Add files...</source>
@@ -12704,7 +12705,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Merkintä (Tagi)</translation>
+        <translation>Merkintä (Tagit)</translation>
     </message>
     <message>
         <source>Date</source>
@@ -12748,7 +12749,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Ratio</source>
-        <translation>Kuvasuhde</translation>
+        <translation>Suhde</translation>
     </message>
     <message>
         <source>Title</source>
@@ -12856,7 +12857,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation>Upotettu kommentti</translation>
+        <translation>Upotetuista kommenteista</translation>
     </message>
     <message>
         <source>Color label (number)</source>
@@ -12956,7 +12957,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Tekijänoikeudet (Copyright)</translation>
+        <translation>Tekijänoikeus (Copyright)</translation>
     </message>
     <message>
         <source>Compression</source>
@@ -13024,7 +13025,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation>Kategoria</translation>
+        <translation>Kategoriat</translation>
     </message>
     <message>
         <source>Folder name</source>
@@ -13084,11 +13085,11 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation>Subsampling</translation>
+        <translation>Alinäytteistys</translation>
     </message>
     <message>
         <source>Output filename (with extension)</source>
-        <translation>Ulostulo-tiedosto (tiedostopäätteellä)</translation>
+        <translation>Ulostulotiedoston nimi (tiedostopäätteellä)</translation>
     </message>
 </context>
 <context>
@@ -13186,7 +13187,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Categories file</source>
-        <translation>Kategoriat-tiedosto</translation>
+        <translation>Kategoria-tiedosto</translation>
     </message>
     <message>
         <source>Export...</source>
@@ -13663,7 +13664,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     <name>InfoIPTCView</name>
     <message>
         <source>Origin</source>
-        <translation>Alkeperäinen</translation>
+        <translation>Alkuperäinen</translation>
     </message>
     <message>
         <source>Status</source>
@@ -13679,7 +13680,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Ansiot</translation>
+        <translation>Kiitokset</translation>
     </message>
 </context>
 <context>
@@ -13730,7 +13731,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Object cycle</source>
-        <translation>Objektin sykli</translation>
+        <translation>Objektisykli</translation>
     </message>
     <message>
         <source>Released date</source>
@@ -13878,7 +13879,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Ansiot</translation>
+        <translation>Kiitokset</translation>
     </message>
     <message>
         <source>Subject</source>
@@ -13918,7 +13919,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Country code</source>
-        <translation>Maa koodi</translation>
+        <translation>Maakoodi</translation>
     </message>
     <message>
         <source>ZIP code</source>
@@ -14017,7 +14018,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäällä oikealla</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -14029,11 +14030,11 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Alhaalla vasemmalla</translation>
+        <translation>Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylhäällä vasemmalla</translation>
+        <translation>Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -14057,7 +14058,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Alhaalla oikealla</translation>
+        <translation>Alhaalta-Oikealle</translation>
     </message>
     <message>
         <source>Color Profile</source>
@@ -14083,7 +14084,7 @@ Poistetaanko suosikki &quot;%1&quot;?</translation>
     <name>IptcEditBase</name>
     <message>
         <source>Library</source>
-        <translation>Kirjasto</translation>
+        <translation>KIrjasto</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
@@ -14211,9 +14212,9 @@ Haluatko jatkaa?</translation>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
-        <translation>Kuva muunnetaan 24-bittiseksi RGB-muodoksi (8 bittiä/kanava). 
+        <translation>Kuva muunnetaan 24-bittiseksi RGB:ksi (8 bittiä kanavaa kohti) 
 
-Haluatko jatkaa?</translation>
+Jatketaanko?</translation>
     </message>
 </context>
 <context>
@@ -14235,7 +14236,7 @@ Haluatko jatkaa?</translation>
     <name>KeywordsModel</name>
     <message>
         <source>Label</source>
-        <translation>Ikkkuna</translation>
+        <translation>Ikkuna</translation>
     </message>
 </context>
 <context>
@@ -14452,7 +14453,7 @@ Haluatko jatkaa?</translation>
     <name>MenuBrowser</name>
     <message>
         <source>Up</source>
-        <translation>Ylös</translation>
+        <translation>Ylhäältä</translation>
     </message>
     <message>
         <source>All</source>
@@ -14464,7 +14465,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Merkintä (Tagi)</translation>
+        <translation>Merkintä (Tagit)</translation>
     </message>
     <message>
         <source>100%</source>
@@ -14580,7 +14581,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Ratio</source>
-        <translation>Kuvasuhde</translation>
+        <translation>Suhde</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -14684,7 +14685,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Tiedoston koko</translation>
+        <translation>Tiedostokoko</translation>
     </message>
     <message>
         <source>Poor (move to next image)</source>
@@ -14796,7 +14797,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Mukautettu</translation>
+        <translation>Käyttäjä</translation>
     </message>
     <message>
         <source>Contact sheet...</source>
@@ -14828,7 +14829,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation>Ulkoasu</translation>
+        <translation>Asettelu</translation>
     </message>
     <message>
         <source>Banner...</source>
@@ -14880,7 +14881,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Videot</translation>
+        <translation>Videotiedostot</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
@@ -15188,7 +15189,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostotyyppi</translation>
+        <translation>Tiedostomuoto</translation>
     </message>
     <message>
         <source>Details</source>
@@ -15212,7 +15213,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Vertical tabs</source>
-        <translation>Pystysuuntaiset välilehdet</translation>
+        <translation>Välilehdet pystysuunnassa</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
@@ -15508,11 +15509,11 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
-        <translation>Luokitus &amp;&amp; Värimerkintä</translation>
+        <translation>Luokitus &amp;&amp; värimerkinnät</translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
-        <translation>Käytä läpinäkyää indeksiä (≤ 8bits)</translation>
+        <translation>Käytä läpinäkyvää indeksiä (≤ 8 bittiä)</translation>
     </message>
     <message>
         <source>Open with</source>
@@ -15527,7 +15528,7 @@ Haluatko jatkaa?</translation>
     <name>MenuGlobal</name>
     <message>
         <source>Tab</source>
-        <translation>Kuvaselain-välilehti</translation>
+        <translation>Välilehti</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -15702,7 +15703,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source># - Numeric enumerator</source>
-        <translation>#: Numeerinen luettelointi</translation>
+        <translation># - Numeerinen luetteloija</translation>
     </message>
 </context>
 <context>
@@ -15721,7 +15722,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Yläpuolelle</translation>
+        <translation>Ylös</translation>
     </message>
     <message>
         <source>100%</source>
@@ -15753,7 +15754,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasemmalle</translation>
+        <translation>Vasen</translation>
     </message>
     <message>
         <source>Page</source>
@@ -15777,7 +15778,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Peru</translation>
+        <translation>Kumoa</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -15861,7 +15862,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
-        <translation>Nollaa EXIF-suuntauskentät</translation>
+        <translation>Nollaa EXIF-suuntauskenttä</translation>
     </message>
     <message>
         <source>Join images...</source>
@@ -15961,7 +15962,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alapuolelle</translation>
+        <translation>Alhaalla</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -15985,7 +15986,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation>Lue skannerista tai kamerasta (TWAIN)</translation>
+        <translation>Skannaa (TWAIN)</translation>
     </message>
     <message>
         <source>Batch convert...</source>
@@ -16133,7 +16134,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Fit window to image</source>
-        <translation>Sovita ikkuna kuvakokoon</translation>
+        <translation>Sovita ikkuna kuvakokooon</translation>
     </message>
     <message>
         <source>Send by FTP...</source>
@@ -16161,11 +16162,11 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Show green</source>
-        <translation>Show green</translation>
+        <translation>Näytä vihreä</translation>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Sovita ikkunaan vain suuret kuvat</translation>
+        <translation>Sovita kuva ikkunaan (vain suuret kuvat)</translation>
     </message>
     <message>
         <source>Excellent</source>
@@ -16225,7 +16226,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Automatic contrast</source>
-        <translation>Automaattinen kontrasti</translation>
+        <translation>Automaattikontrasti</translation>
     </message>
     <message>
         <source>Save selection</source>
@@ -16365,7 +16366,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Open in file explorer</source>
-        <translation>Avaa resurssienhallinnassa</translation>
+        <translation>Avaa resurssienhallinassa</translation>
     </message>
     <message>
         <source>Posterize...</source>
@@ -16393,7 +16394,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Show red</source>
-        <translation>Show red</translation>
+        <translation>Näytä punainen</translation>
     </message>
     <message>
         <source>Count colors used</source>
@@ -16489,15 +16490,15 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation>Muokkauspaletti...</translation>
+        <translation>Muokkaa palettia...</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Color label</source>
-        <translation>Luokitus &amp;&amp; Värimerkintä</translation>
+        <translation>Luokitus &amp;&amp; värimerkinnät</translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
-        <translation>Käytä läpinäkyää indeksiä (≤ 8bits)</translation>
+        <translation>Käytä läpinäkyvää indeksiä (≤ 8 bittiä)</translation>
     </message>
     <message>
         <source>Draw as Snapshot (icons only)</source>
@@ -16513,7 +16514,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Clear selection</source>
-        <translation>Tyhjennä valinta</translation>
+        <translation>TYhjennä valinta</translation>
     </message>
     <message>
         <source>Selection - set ratio</source>
@@ -16553,7 +16554,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>##label## (move to next image)</source>
-        <translation>##label## (siirry seuraavaan kuvaan))</translation>
+        <translation>##ikkuna## (siirry seuraavaan kuvaan))</translation>
     </message>
 </context>
 <context>
@@ -16588,11 +16589,11 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Ylhäältä-Alas</translation>
+        <translation>Ylhäällä keskellä</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Keskeltä-Oikealle</translation>
+        <translation>Keskellä oikealla</translation>
     </message>
     <message>
         <source>Open XnView database</source>
@@ -16600,7 +16601,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylhäältä-Oikealle</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>An error occurred during processing!</source>
@@ -16608,7 +16609,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Keskelle</translation>
+        <translation>Keskellä</translation>
     </message>
     <message>
         <source>Open Image(s)</source>
@@ -16636,7 +16637,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Alhaalta-Keskelle</translation>
+        <translation>Alhaalla keskellä</translation>
     </message>
     <message>
         <source>Choose icon</source>
@@ -16656,7 +16657,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Keskeltä-Vasemmalle</translation>
+        <translation>Keskellä vasemmalla</translation>
     </message>
     <message>
         <source>Save File</source>
@@ -16704,7 +16705,7 @@ Haluatko jatkaa?</translation>
     <name>MyBitmapView</name>
     <message>
         <source>Loading image...</source>
-        <translation>Ladataan kuvaa...</translation>
+        <translation>Ladataan kuva...</translation>
     </message>
 </context>
 <context>
@@ -16842,7 +16843,7 @@ Haluatko jatkaa?</translation>
     <name>MyTabBar</name>
     <message>
         <source>Duplicate tab</source>
-        <translation>Monista välilehti</translation>
+        <translation>Luo duplikaatti</translation>
     </message>
     <message>
         <source>&amp;Close tab</source>
@@ -16889,8 +16890,8 @@ Haluatko jatkaa?</translation>
     <message numerus="yes">
         <source>%n object(s)</source>
         <translation>
-            <numerusform>%n objekti</numerusform>
-            <numerusform>%n objekti(a)</numerusform>
+            <numerusform>%n objekti@%n objekti(a)</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -16900,15 +16901,15 @@ Haluatko jatkaa?</translation>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
         <translation>
-            <numerusform>%n objekti [%2 %3]</numerusform>
-            <numerusform>%n objekti(a) [%2 %3]</numerusform>
+            <numerusform>%n objekti [%2 %3]@%n objekti(a) [%2 %3]</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
-            <numerusform>%n objekti valittu [%3 %4]</numerusform>
-            <numerusform>%n objekti(a) valittu [%3 %4]</numerusform>
+            <numerusform>%n objekti valittu [%3 %4]@%n objekti(a) valittu [%3 %4]</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -16918,8 +16919,8 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</source>
-        <translation>Välimuistissa olevien pikkukuvien koko on pienempi kuin valittu.
-Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
+        <translation>Välimuistissa olevien esikatselukuvien koko on pienempi kuin valittu.
+Voit muuttaa sitä kohdassa Asetukset › Luettelo.</translation>
     </message>
 </context>
 <context>
@@ -16952,7 +16953,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     <name>OpenWithMenu</name>
     <message>
         <source>Configure programs...</source>
-        <translation>Määrittele ohjelma...</translation>
+        <translation>Määrittele ohjelmat...</translation>
     </message>
     <message>
         <source>Associated program</source>
@@ -17020,7 +17021,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vasemmalle</translation>
+        <translation>Vasen</translation>
     </message>
     <message>
         <source>Line</source>
@@ -17044,7 +17045,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Peruuta</translation>
+        <translation>Kumoa</translation>
     </message>
     <message>
         <source>Right</source>
@@ -17052,7 +17053,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     </message>
     <message>
         <source>Stretch image</source>
-        <translation>Venytä kuvaa</translation>
+        <translation>Venytä kuva</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -17068,7 +17069,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Ylä-oikealla</translation>
+        <translation>Ylhäältä- Oikealle</translation>
     </message>
     <message>
         <source>Draw a rectangle</source>
@@ -17108,7 +17109,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Ala-vasemmalla</translation>
+        <translation>Alhaalta-Vasemmalle</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
@@ -17120,7 +17121,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Ylä-vasemmalla</translation>
+        <translation>Ylhäältä-Vasemmalle</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -17140,7 +17141,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation>Sijainti</translation>
+        <translation>Sijoittelu</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -17208,7 +17209,7 @@ Voit muuttaa sitä kohdassa Asetukset&gt;Luettelo.</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Ala-oikealla</translation>
+        <translation>Alhaalta-Oikealle</translation>
     </message>
     <message>
         <source>Offset X</source>
@@ -17289,7 +17290,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <name>PathEditWidget</name>
     <message>
         <source>Choose a pathname</source>
-        <translation>Valitse polku</translation>
+        <translation>Valitse tiedostopolku</translation>
     </message>
 </context>
 <context>
@@ -17424,7 +17425,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Custom</source>
-        <translation>Määritelty</translation>
+        <translation>Käyttäjä</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -17629,7 +17630,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Retry</source>
-        <translation>Uudelleen</translation>
+        <translation>Yritä uudelleen</translation>
     </message>
     <message>
         <source>Skip All</source>
@@ -17684,7 +17685,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Copy Warning</source>
-        <translation>Kopiointivaroitus</translation>
+        <translation>Kopiointi varoitus</translation>
     </message>
     <message>
         <source>Overwrite</source>
@@ -17974,11 +17975,11 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Blur</source>
-        <translation>Sumennus</translation>
+        <translation>Sumenna</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Peru</translation>
+        <translation>Kumoa</translation>
     </message>
     <message>
         <source>Apply</source>
