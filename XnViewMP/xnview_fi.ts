@@ -1948,7 +1948,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>[Finished]</source>
-        <translation>(Suoritettu]</translation>
+        <translation>(Valmis]</translation>
     </message>
     <message>
         <source>Use multiple CPU Cores</source>
@@ -2823,7 +2823,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>[Finished]</source>
-        <translation>(Suoritettu]</translation>
+        <translation>(Valmis]</translation>
     </message>
     <message>
         <source>Choose output pathname</source>
@@ -2850,7 +2850,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Finished at: </source>
-        <translation>Valmistui: </translation>
+        <translation>Valmis: </translation>
     </message>
     <message>
         <source>_result</source>
@@ -2982,7 +2982,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Started at: </source>
-        <translation>Alkoi: </translation>
+        <translation>Aloitettu: </translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
