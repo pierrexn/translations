@@ -512,8 +512,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
-            <numerusform>Oletko varma että nämä %n kohteet poistetaan? Oletko varma että nämä %n kohteet poistetaan?</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Haluatko varmasti poistaa %n kohteen?</numerusform>
+            <numerusform>Haluatko varmasti poistaa %n kohdetta?</numerusform>
         </translation>
     </message>
     <message>
@@ -535,8 +535,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
-            <numerusform>Haluatko varmasti poistaa tämän valitun kohteen %n - %1 ? Haluatko varmasti poistaa nämä valitut kohteet %n - %1 ?</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Haluatko varmasti poistaa tämän %n kohteen? - %1 kohde valittu?</numerusform>
+            <numerusform>Haluatko varmasti poistaa nämä %n kohdetta? - %1 kohdetta valittu?</numerusform>
         </translation>
     </message>
     <message>
@@ -1898,8 +1898,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n tunti(a) ja </numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n tunti ja </numerusform>
+            <numerusform>%n tuntia ja </numerusform>
         </translation>
     </message>
     <message>
@@ -1989,8 +1989,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n second(s) remaining</source>
         <translation>
-            <numerusform>%n sekunti(a) jäljellä</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n sekunti jäljellä</numerusform>
+            <numerusform>%n sekuntia jäljellä</numerusform>
         </translation>
     </message>
     <message>
@@ -2024,8 +2024,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>Select Photos: %n file(s)</source>
         <translation>
-            <numerusform>Valitut kuvat: %n tiedosto(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Valitut kuvat: %n tiedosto</numerusform>
+            <numerusform>Valitut kuvat: %n tiedostoa</numerusform>
         </translation>
     </message>
     <message>
@@ -2047,8 +2047,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minuutti(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n minuutti</numerusform>
+            <numerusform>%n minuuttia</numerusform>
         </translation>
     </message>
     <message>
@@ -2070,8 +2070,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
         <translation>
-            <numerusform>%n minuutti(a) jäljellä</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n minuutti jäljellä</numerusform>
+            <numerusform>%n minuuttia jäljellä</numerusform>
         </translation>
     </message>
     <message>
@@ -2153,8 +2153,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation>
-            <numerusform>%n sekunti(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n sekunti</numerusform>
+            <numerusform>%n sekuntia</numerusform>
         </translation>
     </message>
     <message>
@@ -2168,8 +2168,8 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message numerus="yes">
         <source>%n file(s)</source>
         <translation>
-            <numerusform>%n tiedosto(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n tiedosto</numerusform>
+            <numerusform>%n tiedostoa</numerusform>
         </translation>
     </message>
     <message>
@@ -2805,8 +2805,8 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n tunti(a) ja </numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n tunti ja </numerusform>
+            <numerusform>%n tuntia ja </numerusform>
         </translation>
     </message>
     <message>
@@ -2840,8 +2840,8 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
         <translation>
-            <numerusform>%n sekunti(a) jäljellä</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n sekunti jäljellä</numerusform>
+            <numerusform>%n sekuntia jäljellä</numerusform>
         </translation>
     </message>
     <message>
@@ -2871,8 +2871,8 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minuutti(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n minuutti</numerusform>
+            <numerusform>%n minuuttia</numerusform>
         </translation>
     </message>
     <message>
@@ -2902,8 +2902,8 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
         <translation>
-            <numerusform>%n minuutti(a) jäljellä</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n minuutti jäljellä</numerusform>
+            <numerusform>%n minuuttia jäljellä</numerusform>
         </translation>
     </message>
     <message>
@@ -2933,8 +2933,8 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>Input: %n file(s)</source>
         <translation>
-            <numerusform>Muunnettava: %n tiedosto(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Muunnettava: %n tiedosto</numerusform>
+            <numerusform>Muunnettava: %n tiedostoa</numerusform>
         </translation>
     </message>
     <message>
@@ -2960,8 +2960,8 @@ Haluatko korvata sen?</translation>
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation>
-            <numerusform>%n sekunti(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n sekunti</numerusform>
+            <numerusform>%n sekuntia</numerusform>
         </translation>
     </message>
     <message>
@@ -5505,7 +5505,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>ExifTool is not installed in AddOn folder!</source>
-        <translation>ExifToolia ei ole asennettu AddOn-kansioon!</translation>
+        <translation>ExifToolia ei ole asennettu Liitännäiset-kansioon!</translation>
     </message>
     <message>
         <source>Longitude</source>
@@ -16890,8 +16890,8 @@ Jatketaanko?</translation>
     <message numerus="yes">
         <source>%n object(s)</source>
         <translation>
-            <numerusform>%n objekti(a)</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n objekti</numerusform>
+            <numerusform>%n objektia</numerusform>
         </translation>
     </message>
     <message>
@@ -16901,15 +16901,15 @@ Jatketaanko?</translation>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
         <translation>
-            <numerusform>%n objekti(a) [%2 %3]</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n objekti [%2 %3]</numerusform>
+            <numerusform>%n objektia [%2 %3]</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
-            <numerusform>%n objekti(a) valittu [%3 %4]</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n objekti valittu [%3 %4]</numerusform>
+            <numerusform>%n objektia valittu [%3 %4]</numerusform>
         </translation>
     </message>
     <message>
