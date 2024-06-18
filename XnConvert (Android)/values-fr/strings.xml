@@ -11,7 +11,7 @@
     <string name="menu_infos">Infos</string>
     <string name="menu_share">Partager</string>
     <string name="menu_delete">Effacer</string>
-    <string name="menu_settings">Paramêtres</string>
+    <string name="menu_settings">Paramètres</string>
     <string name="menu_show_name">Voir info</string>
     <string name="menu_filter">Filtrer</string>
     <string name="menu_group">Grouper par</string>
@@ -68,7 +68,7 @@
     <string name="saturation">Saturation</string>
     <!-- Preferences -->
     <string name="settings_global">Global</string>
-    <string name="settings">Paramêtres</string>
+    <string name="settings">Paramètres</string>
     <string name="settings_output">Destination</string>
     <string name="settings_misc">Divers</string>
     <string name="settings_keepMetadata">Conserver les Métadonnées</string>
@@ -100,7 +100,7 @@
     <string name="percent">Pourcentage</string>
     <string name="settings_portraitColumnsCount">Nombre de colonnes (Portrait)</string>
     <string name="settings_landscapeColumnsCount">Nombre de colonnes (Paysage)</string>
-    <string name="title_settings">Paramêtres</string>
+    <string name="title_settings">Paramètres</string>
     <string name="title_template">Modèle</string>
     <string name="title_size">Tailles prédéfinies</string>
     <!-- Infos -->
