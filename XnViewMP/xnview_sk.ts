@@ -224,7 +224,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Denník zmien</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -516,7 +516,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Táto obľúbená položka ukazuje na priečinok, ktorý neexistuje.
+
+Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -2839,7 +2841,10 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Súbor s názvom %1 už existuje. Chcete ho nahradiť?</translation>
+        <translation>Cieľ už má súbor s názvom:
+%1
+
+Chcete ho prepísať?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3541,7 +3546,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">Verzia %1 programu XnConvert je k dispozícii, chcete prejsť na stránku s odkazom na stiahnutie?</translation>
+        <translation>Je k dispozícii verzia %1 programu XnConvert.
+
+Chcete prejsť na stránku s odkazom na stiahnutie?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1411"/>
@@ -3609,7 +3616,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Výstupný súbor už existuje, chcete ho nahradiť?</translation>
+        <translation>Výstupný súbor už existuje.
+
+Chcete ho nahradiť?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
@@ -3852,7 +3861,10 @@ Do you want to overwrite it?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Súbor s názvom %1 už existuje. Chcete ho nahradiť?</translation>
+        <translation>Cieľový priečinok už má súbor s názvom:
+%1
+
+Chcete ho prepísať?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2613"/>
@@ -3884,21 +3896,27 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosť „Odstrániť originál“ je povolená
+
+Chcete pokračovať?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2684"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Výstupný názov súboru bude rovnaký pre všetky konvertované súbory.
+
+Chcete pokračovať?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2707"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Máte možnosť „ponechať pôvodný súbor, ak je výsledok väčší“ a niektoré akcie.
+
+Chcete pokračovať?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -4198,7 +4216,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Hore v strede</translation>
+        <translation>V strede hore</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
@@ -4210,7 +4228,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">V strede-vľavo</translation>
+        <translation>V strede vľavo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -4221,7 +4239,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">V strede-vpravo</translation>
+        <translation>V strede vpravo</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
@@ -4233,7 +4251,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Dole-v strede</translation>
+        <translation>V strede dole</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
@@ -4384,7 +4402,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Hore v strede</translation>
+        <translation>V strede hore</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
@@ -4396,7 +4414,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">V strede-vľavo</translation>
+        <translation>V strede vľavo</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4407,7 +4425,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">V strede-vpravo</translation>
+        <translation>V strede vpravo</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
@@ -4419,7 +4437,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Dole v strede</translation>
+        <translation>V strede dole</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
@@ -5910,17 +5928,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>V strede hore</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished">V strede-vľavo</translation>
+        <translation>V strede vľavo</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished">V strede-vpravo</translation>
+        <translation>V strede vpravo</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
@@ -5932,7 +5950,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Dole</translation>
+        <translation>Dole v strede</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6413,7 +6431,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Dole</translation>
+        <translation>Dole v strede</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
@@ -6482,17 +6500,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>V strede hore</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished">V strede-vľavo</translation>
+        <translation>V strede vľavo</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished">V strede-vpravo</translation>
+        <translation>V strede vpravo</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6644,17 +6662,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>V strede hore</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished">V strede-vľavo</translation>
+        <translation>V strede vľavo</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished">V strede-vpravo</translation>
+        <translation>V strede vpravo</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6754,7 +6772,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">Dole</translation>
+        <translation>V strede dole</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
@@ -7232,7 +7250,7 @@ Do you want to continue?</source>
         <location filename="DlgEditXMP.ui" line="573"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Otvoriť naposledy otvorenú kartu</translation>
+        <translation>Zapamätať si otvorenú kartu</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="632"/>
@@ -7642,7 +7660,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.cpp" line="195"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">Toto nie je obrázkový súbor</translation>
+        <translation>Toto nie je súbor typu obrázok</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="288"/>
@@ -7846,7 +7864,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Upraviť mapu farieb...</translation>
+        <translation>Upraviť paletu farieb...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -9021,7 +9039,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptc.ui" line="730"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Otvoriť naposledy otvorenú kartu</translation>
+        <translation>Zapamätať si otvorenú kartu</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="870"/>
@@ -9647,7 +9665,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Kolekcia obrázkov</translation>
+        <translation>Kolekcia</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9768,7 +9786,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Automaticky otočiť obrázok ak je to nutné</translation>
+        <translation>Automaticky otočiť (ak je to nutné)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -10376,7 +10394,9 @@ Thank you for purchasing %1.</source>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokiaľ sú v zozname súborov zistené sprievodné súbory, automaticky sa premenujú podľa hlavného súboru.
+
+Chcete ich odstrániť?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1108"/>
@@ -10803,17 +10823,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
-        <translation type="unfinished"></translation>
+        <translation>V strede hore</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation type="unfinished">V strede-vľavo</translation>
+        <translation>V strede vľavo</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation type="unfinished">V strede-vpravo</translation>
+        <translation>V strede vpravo</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
@@ -10836,7 +10856,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>V strede dole</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
@@ -10930,7 +10950,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="60"/>
         <source>Use Regular Expression</source>
         <oldsource>Use RegExp</oldsource>
-        <translation type="unfinished">Použiť RegExp</translation>
+        <translation>Použiť regulárny výraz</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="74"/>
@@ -11532,7 +11552,7 @@ Chcete najprv skontrolovať dotknuté položky?</translation>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation type="unfinished">Nebolo možné importovať databázu kategórii</translation>
+        <translation>Databázu kategórií XnView Classic nemožno importovať</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11593,7 +11613,7 @@ Chcete odstrániť položky priradené ku kategórii?</translation>
         <location filename="DlgSettingsCache.ui" line="256"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation type="unfinished">Základná cesta k vašim obrázkom</translation>
+        <translation>Základná cesta k súborom</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="176"/>
@@ -11688,7 +11708,7 @@ Chcete odstrániť položky priradené ku kategórii?</translation>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">Importovať databázu kategórii XnView...</translation>
+        <translation>Importovať kategóriu XnView Classic db...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -11912,7 +11932,7 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Triedenie</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
@@ -11937,7 +11957,7 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Zobrazovať veľkosť súborov v bajtoch</translation>
+        <translation>Zobraziť veľkosti súboru v bajtoch</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -16099,7 +16119,9 @@ Chcette pokračovať?</translation>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Táto obľúbená položka ukazuje na priečinok, ktorý neexistuje.
+
+Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -18740,7 +18762,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebrejština</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -19095,7 +19117,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepiť ako obrázok</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="654"/>
@@ -21059,7 +21081,7 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="402"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">Zapnúť/vypnúť zobrazovenie všetkých ikon v súbore spolu ako jeden obrázok</translation>
+        <translation>Kresliť ako momentku (iba ikony)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="403"/>
@@ -21126,7 +21148,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="291"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyčistiť výber</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="420"/>
@@ -21416,7 +21438,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepiť ako obrázok</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -21438,7 +21460,7 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">Upraviť mapu farieb...</translation>
+        <translation>Upraviť paletu...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="418"/>
@@ -21977,8 +21999,8 @@ Chcete pokračovať?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings � Catalog.</oldsource>
-        <translation type="unfinished">Veľkosť miniatúr uložených vo vyrovnávacej pamäti je menšia ako vybratá.
-Môžete to zmeniť v Nastavenia&gt;Katalóg.</translation>
+        <translation>Veľkosť miniatúr uložených vo vyrovnávacej pamäti je menšia ako vybratá.
+Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
