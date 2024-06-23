@@ -20375,7 +20375,7 @@ Kas soovite jätkata?</translation>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: numbri tähis</translation>
+        <translation># - numbri tähis</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
