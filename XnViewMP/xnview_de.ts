@@ -20386,7 +20386,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation>#: Fortlaufende Nummer</translation>
+        <translation># - Fortlaufende Nummer</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
