@@ -20377,7 +20377,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#:Numerisk oppteller</translation>
+        <translation># - Numerisk oppteller</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
