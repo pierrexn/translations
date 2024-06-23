@@ -20356,7 +20356,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: Numaralı</translation>
+        <translation># - Numaralı</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2674"/>
