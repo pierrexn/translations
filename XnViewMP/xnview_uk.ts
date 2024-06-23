@@ -20441,7 +20441,7 @@ Do you want to continue?</oldsource>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: Числовий номер</translation>
+        <translation># - Числовий номер</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
