@@ -20364,7 +20364,7 @@ Do you want to continue?</oldsource>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: 數字列舉元</translation>
+        <translation># - 數字列舉元</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
