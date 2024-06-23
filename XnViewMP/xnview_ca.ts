@@ -388,7 +388,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Desant la imatge---</translation>
+        <translation>Desant la imatge...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -20420,7 +20420,7 @@ Vols continuar?</translation>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#: Enumerador numèric</translation>
+        <translation># - Enumerador numèric</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2693"/>
