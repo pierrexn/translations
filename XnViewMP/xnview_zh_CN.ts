@@ -325,7 +325,7 @@
         <location filename="ViewWindow.cpp" line="3013"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation>保存图片……</translation>
+        <translation>保存图片…</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2835"/>
@@ -352,12 +352,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="1942"/>
         <source>Customize toolbar...</source>
-        <translation>自定义工具栏...</translation>
+        <translation>自定义工具栏…</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="211"/>
         <source>Save &amp;as...</source>
-        <translation>另存为(&amp;A)……</translation>
+        <translation>另存为(&amp;A)…</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="219"/>
@@ -432,12 +432,12 @@
     <message>
         <location filename="CategorySetPanel.cpp" line="287"/>
         <source>Edit...</source>
-        <translation>编辑...</translation>
+        <translation>编辑…</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="288"/>
         <source>Create Set from selection...</source>
-        <translation>从选中项创建集...</translation>
+        <translation>从选中项创建集…</translation>
     </message>
 </context>
 <context>
@@ -466,7 +466,7 @@
     <message>
         <location filename="BannerProcess.h" line="54"/>
         <source>Creating contact sheet...</source>
-        <translation>创建相版...</translation>
+        <translation>创建相版…</translation>
     </message>
 </context>
 <context>
@@ -503,7 +503,7 @@
     <message>
         <location filename="BatchRenameProcess.h" line="21"/>
         <source>Renaming files...</source>
-        <translation>正在重命名文件……</translation>
+        <translation>正在重命名文件…</translation>
     </message>
 </context>
 <context>
@@ -713,12 +713,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4210"/>
         <source>Search...</source>
-        <translation>搜索...</translation>
+        <translation>搜索…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4211"/>
         <source>Add to favorites...</source>
-        <translation>添加到收藏夹...</translation>
+        <translation>添加到收藏夹…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4214"/>
@@ -743,12 +743,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="657"/>
         <source>Customize toolbar...</source>
-        <translation>自定义工具栏...</translation>
+        <translation>自定义工具栏…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1625"/>
         <source>Add Favorite...</source>
-        <translation>添加到收藏夹...</translation>
+        <translation>添加到收藏夹…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4208"/>
@@ -806,7 +806,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategorySetPanel.cpp" line="203"/>
         <source>Edit...</source>
-        <translation>编辑...</translation>
+        <translation>编辑…</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="208"/>
@@ -826,7 +826,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategorySets.cpp" line="32"/>
         <source>Manager...</source>
-        <translation>管理器...</translation>
+        <translation>管理器…</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="48"/>
@@ -836,7 +836,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategorySets.cpp" line="178"/>
         <source>Save layout...</source>
-        <translation>保存布局...</translation>
+        <translation>保存布局…</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="243"/>
@@ -895,7 +895,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="400"/>
         <source>New album...</source>
-        <translation>新专辑……</translation>
+        <translation>新专辑…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="405"/>
@@ -926,12 +926,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="409"/>
         <source>Export (Bridge format)...</source>
-        <translation>导出（Bridge格式）……</translation>
+        <translation>导出（Bridge格式）…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="412"/>
         <source>Import (Bridge format)...</source>
-        <translation>导入（Bridge格式）……</translation>
+        <translation>导入（Bridge格式）…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="437"/>
@@ -1113,7 +1113,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="ContactSheetProcess.h" line="44"/>
         <source>Creating contact sheet...</source>
-        <translation>创建相版...</translation>
+        <translation>创建相版…</translation>
     </message>
 </context>
 <context>
@@ -1785,7 +1785,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgLevels.h" line="47"/>
         <source>Levels...</source>
-        <translation>色阶...</translation>
+        <translation>色阶…</translation>
     </message>
     <message>
         <location filename="DlgFilm.cpp" line="133"/>
@@ -1996,7 +1996,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="119"/>
         <source>Settings...</source>
-        <translation>设置……</translation>
+        <translation>设置…</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="141"/>
@@ -2031,7 +2031,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.cpp" line="81"/>
         <source>Scan started...</source>
-        <translation>开始扫描……</translation>
+        <translation>开始扫描…</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="149"/>
@@ -2065,7 +2065,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAdobeConfigure.ui" line="48"/>
         <source>Add...</source>
-        <translation>添加...</translation>
+        <translation>添加…</translation>
     </message>
     <message>
         <location filename="DlgAdobeConfigure.ui" line="58"/>
@@ -2083,17 +2083,17 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAdobePlugin.ui" line="51"/>
         <source>Start...</source>
-        <translation>开始...</translation>
+        <translation>开始…</translation>
     </message>
     <message>
         <location filename="DlgAdobePlugin.ui" line="61"/>
         <source>About...</source>
-        <translation>关于...</translation>
+        <translation>关于…</translation>
     </message>
     <message>
         <location filename="DlgAdobePlugin.ui" line="81"/>
         <source>Configure...</source>
-        <translation>配置...</translation>
+        <translation>配置…</translation>
     </message>
 </context>
 <context>
@@ -2112,7 +2112,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgArchive.cpp" line="103"/>
         <source>Creating archive, please wait...</source>
         <oldsource>Creating archive, please wait... </oldsource>
-        <translation>正在创建压缩存档, 请稍等……</translation>
+        <translation>正在创建压缩存档, 请稍等…</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="124"/>
@@ -2526,7 +2526,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1027"/>
         <source>Settings...</source>
-        <translation>设置...</translation>
+        <translation>设置…</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1039"/>
@@ -2647,7 +2647,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1371"/>
         <source>Load format settings...</source>
-        <translation>读取格式设置...</translation>
+        <translation>读取格式设置…</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="199"/>
@@ -2957,7 +2957,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="229"/>
         <source>Settings...</source>
-        <translation>设置……</translation>
+        <translation>设置…</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="261"/>
@@ -3006,7 +3006,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="43"/>
         <source>Edit...</source>
-        <translation>编辑...</translation>
+        <translation>编辑…</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="50"/>
@@ -3016,17 +3016,17 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="57"/>
         <source>Copy Categories to Set...</source>
-        <translation>将分类复制到集...</translation>
+        <translation>将分类复制到集…</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="83"/>
         <source>Add Set...</source>
-        <translation>添加集...</translation>
+        <translation>添加集…</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="90"/>
         <source>Rename Set...</source>
-        <translation>重命名集...</translation>
+        <translation>重命名集…</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="97"/>
@@ -3376,7 +3376,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="693"/>
         <source>Settings...</source>
-        <translation>设置...</translation>
+        <translation>设置…</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="704"/>
@@ -3616,7 +3616,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2344"/>
         <source>Saving ZIP file...</source>
-        <translation>保存ZIP文件...</translation>
+        <translation>保存ZIP文件…</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2347"/>
@@ -3626,7 +3626,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2373"/>
         <source>Uploading image(s) to server...</source>
-        <translation>上传到服务器中...</translation>
+        <translation>上传到服务器中…</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2436"/>
@@ -3675,7 +3675,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="593"/>
         <source>Save log as...</source>
-        <translation>保存日志为...</translation>
+        <translation>保存日志为…</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="599"/>
@@ -3691,7 +3691,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1516"/>
         <source>Load image...</source>
-        <translation>加载图像...</translation>
+        <translation>加载图像…</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1520"/>
@@ -4433,7 +4433,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1716"/>
         <location filename="DlgConvert-old.ui" line="101"/>
         <source>Load format settings...</source>
-        <translation>读取格式设置...</translation>
+        <translation>读取格式设置…</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="124"/>
@@ -4560,7 +4560,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1642"/>
         <source>Registration...</source>
-        <translation>注册...</translation>
+        <translation>注册…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1707"/>
@@ -4605,7 +4605,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert-old.ui" line="1322"/>
         <location filename="DlgConvert-old.ui" line="1473"/>
         <source>Settings...</source>
-        <translation>设置...</translation>
+        <translation>设置…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="417"/>
@@ -4743,7 +4743,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="49"/>
         <source>Hot folders...</source>
-        <translation>常用文件夹...</translation>
+        <translation>常用文件夹…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="107"/>
@@ -4801,17 +4801,17 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1893"/>
         <location filename="DlgConvert-old.ui" line="1916"/>
         <source>Export for NConvert...</source>
-        <translation>为NConvert导出...</translation>
+        <translation>为NConvert导出…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1941"/>
         <source>Follow us on Facebook...</source>
-        <translation>在 Facebook 上关注我们...</translation>
+        <translation>在 Facebook 上关注我们…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1964"/>
         <source>Follow us on Twitter...</source>
-        <translation>在 Twitter 上关注我们...</translation>
+        <translation>在 Twitter 上关注我们…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="2003"/>
@@ -4845,7 +4845,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert-old.ui" line="896"/>
         <location filename="DlgConvert-old.ui" line="1175"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="250"/>
@@ -4891,7 +4891,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="407"/>
         <location filename="DlgConvert-old.ui" line="933"/>
         <source>Load image...</source>
-        <translation>读取图像...</translation>
+        <translation>读取图像…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="231"/>
@@ -4917,12 +4917,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert-old.ui" line="83"/>
         <source>Add files...</source>
-        <translation>添加文件...</translation>
+        <translation>添加文件…</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="94"/>
         <source>Add folder...</source>
-        <translation>添加文件夹...</translation>
+        <translation>添加文件夹…</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="138"/>
@@ -5590,7 +5590,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="240"/>
         <source>Load template...</source>
-        <translation>读取模板……</translation>
+        <translation>读取模板…</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="37"/>
@@ -5685,7 +5685,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertMask.ui" line="45"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="90"/>
@@ -6803,7 +6803,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="116"/>
         <source>Add...</source>
-        <translation>添加...</translation>
+        <translation>添加…</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="123"/>
@@ -6849,13 +6849,13 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="222"/>
         <source>Settings...</source>
-        <translation>设置...</translation>
+        <translation>设置…</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="125"/>
         <source>Creating multipage file, please wait...</source>
         <oldsource>Create multipage file, please wait...</oldsource>
-        <translation>正在创建多页文件, 请稍等...</translation>
+        <translation>正在创建多页文件, 请稍等…</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="128"/>
@@ -6871,7 +6871,7 @@ Do you want to continue?</source>
         <location filename="DlgCreateMulti.cpp" line="160"/>
         <source>Loading file(s). Please wait...</source>
         <oldsource>Load file(s), please wait... </oldsource>
-        <translation>正在加载文件, 请稍等...</translation>
+        <translation>正在加载文件, 请稍等…</translation>
     </message>
 </context>
 <context>
@@ -6885,12 +6885,12 @@ Do you want to continue?</source>
         <location filename="DlgCropSize.ui" line="37"/>
         <source>New...</source>
         <oldsource>Add...</oldsource>
-        <translation>新建...</translation>
+        <translation>新建…</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="44"/>
         <source>Edit...</source>
-        <translation>编辑...</translation>
+        <translation>编辑…</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="51"/>
@@ -7016,12 +7016,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditFav.ui" line="66"/>
         <source>Edit...</source>
-        <translation>编辑...</translation>
+        <translation>编辑…</translation>
     </message>
     <message>
         <location filename="DlgEditFav.ui" line="76"/>
         <source>Rename...</source>
-        <translation>重命名...</translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <location filename="DlgEditFav.ui" line="83"/>
@@ -7239,12 +7239,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="666"/>
         <source>Save template...</source>
-        <translation>保存模板...</translation>
+        <translation>保存模板…</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="676"/>
         <source>Load template...</source>
-        <translation>读取模板...</translation>
+        <translation>读取模板…</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="702"/>
@@ -7329,7 +7329,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="574"/>
         <source>Edit history...</source>
-        <translation>编辑历史...</translation>
+        <translation>编辑历史…</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="575"/>
@@ -7369,7 +7369,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgEditXMP.cpp" line="1131"/>
         <source>Changing files, please wait...</source>
         <oldsource>Changing files, please wait... </oldsource>
-        <translation>正在改变文件, 请稍等...</translation>
+        <translation>正在改变文件, 请稍等…</translation>
     </message>
 </context>
 <context>
@@ -7402,7 +7402,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEmail.ui" line="79"/>
         <source>SMTP settings...</source>
-        <translation>SMTP设置...</translation>
+        <translation>SMTP设置…</translation>
     </message>
     <message>
         <location filename="DlgEmail.ui" line="88"/>
@@ -7840,7 +7840,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="278"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">编辑彩色地图……</translation>
+        <translation type="unfinished">编辑彩色地图…</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="481"/>
@@ -7860,7 +7860,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="605"/>
         <source>&amp;Export...</source>
-        <translation>(&amp;E)导出...</translation>
+        <translation>(&amp;E)导出…</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="612"/>
@@ -8030,7 +8030,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileListing.cpp" line="81"/>
         <source>Save as...</source>
-        <translation>另存为...</translation>
+        <translation>另存为…</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="121"/>
@@ -8244,7 +8244,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFlickrSettings.ui" line="59"/>
         <source>New user...</source>
-        <translation>新用户...</translation>
+        <translation>新用户…</translation>
     </message>
     <message>
         <location filename="DlgFlickrSettings.h" line="134"/>
@@ -8272,7 +8272,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="440"/>
         <source>Connecting to FTP server %1...</source>
-        <translation>正在连接FTP服务器 %1...</translation>
+        <translation>正在连接FTP服务器 %1…</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="505"/>
@@ -8292,7 +8292,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="559"/>
         <source>Uploading...</source>
-        <translation>正在上传……</translation>
+        <translation>正在上传…</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="586"/>
@@ -8623,7 +8623,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgHotFolder.ui" line="56"/>
         <source>Add folder...</source>
-        <translation>添加文件夹...</translation>
+        <translation>添加文件夹…</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.ui" line="66"/>
@@ -8822,7 +8822,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImportThread.h" line="92"/>
         <source>Import and sort files...</source>
-        <translation>导入并分类文件...</translation>
+        <translation>导入并分类文件…</translation>
     </message>
 </context>
 <context>
@@ -8955,7 +8955,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgIptc.cpp" line="1108"/>
         <source>Edit history...</source>
-        <translation>编辑历史……</translation>
+        <translation>编辑历史…</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1109"/>
@@ -9010,7 +9010,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="846"/>
         <source>Load template...</source>
-        <translation>读取模板...</translation>
+        <translation>读取模板…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="730"/>
@@ -9027,7 +9027,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="836"/>
         <source>Save template...</source>
-        <translation>保存模板...</translation>
+        <translation>保存模板…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="863"/>
@@ -9063,7 +9063,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="107"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="163"/>
@@ -9073,7 +9073,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="198"/>
         <source>Import...</source>
-        <translation>导入...</translation>
+        <translation>导入…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="225"/>
@@ -9150,7 +9150,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="853"/>
         <source>Load template V1...</source>
-        <translation>加载模版 V1...</translation>
+        <translation>加载模版 V1…</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="713"/>
@@ -9289,7 +9289,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgLayout.ui" line="16"/>
         <source>Change layout...</source>
-        <translation>变更层...</translation>
+        <translation>变更层…</translation>
     </message>
     <message>
         <location filename="DlgLayout.ui" line="28"/>
@@ -9416,7 +9416,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs...</source>
-        <translation>配置程序...</translation>
+        <translation>配置程序…</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9432,7 +9432,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgOpenWith.ui" line="62"/>
         <source>Add...</source>
-        <translation>添加...</translation>
+        <translation>添加…</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="69"/>
@@ -9470,12 +9470,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPalette.ui" line="124"/>
         <source>Load...</source>
-        <translation>读取...</translation>
+        <translation>读取…</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="131"/>
         <source>Save...</source>
-        <translation>保存...</translation>
+        <translation>保存…</translation>
     </message>
     <message>
         <location filename="DlgPalette.cpp" line="384"/>
@@ -9948,12 +9948,12 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="996"/>
         <location filename="DlgPrint.ui" line="1019"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="1061"/>
         <source>Page setup...</source>
-        <translation>页面设置...</translation>
+        <translation>页面设置…</translation>
     </message>
     <message>
         <location filename="DlgPrint.cpp" line="1613"/>
@@ -10413,7 +10413,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="92"/>
         <source>Duplicate...</source>
-        <translation>复制...</translation>
+        <translation>复制…</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="121"/>
@@ -10529,7 +10529,7 @@ Do you want to remove them?</source>
         <location filename="DlgRename.ui" line="415"/>
         <location filename="DlgRename.ui" line="429"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
 </context>
 <context>
@@ -10904,7 +10904,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="469"/>
         <source>Searching...</source>
-        <translation>正在搜索……</translation>
+        <translation>正在搜索…</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="495"/>
@@ -10977,7 +10977,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="386"/>
         <source>Browse...</source>
-        <translation>浏览……</translation>
+        <translation>浏览…</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="393"/>
@@ -11047,12 +11047,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearchProgress.cpp" line="24"/>
         <source>Browse...</source>
-        <translation>浏览...</translation>
+        <translation>浏览…</translation>
     </message>
     <message>
         <location filename="DlgSearchProgress.cpp" line="45"/>
         <source>Searching...</source>
-        <translation>正在搜索...</translation>
+        <translation>正在搜索…</translation>
     </message>
     <message>
         <location filename="DlgSearchProgress.cpp" line="63"/>
@@ -11359,7 +11359,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="523"/>
         <source>Search in</source>
         <oldsource>Search in IPTC fields</oldsource>
-        <translation>在...内查找</translation>
+        <translation>在…内查找</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="529"/>
@@ -11667,12 +11667,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="361"/>
         <source>Maintenance...</source>
-        <translation>维护……</translation>
+        <translation>维护…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="368"/>
         <source>Import folder...</source>
-        <translation>导入文件夹……</translation>
+        <translation>导入文件夹…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="402"/>
@@ -11688,23 +11688,23 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">导入XnView分类数据库...</translation>
+        <translation type="unfinished">导入XnView分类数据库…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
         <source>Add folder...</source>
-        <translation>添加文件夹...</translation>
+        <translation>添加文件夹…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="378"/>
         <source>Relocate...</source>
-        <translation>重新定位...</translation>
+        <translation>重新定位…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="409"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
-        <translation>同步文件夹……</translation>
+        <translation>同步文件夹…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="432"/>
@@ -11814,7 +11814,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="294"/>
         <source>Parent folder (&apos;..&apos;)</source>
-        <translation>父文件夹(&apos;...&apos;)</translation>
+        <translation>父文件夹(&apos;…&apos;)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="295"/>
@@ -11844,7 +11844,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
-        <translation>删除……</translation>
+        <translation>删除…</translation>
     </message>
 </context>
 <context>
@@ -12196,7 +12196,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="400"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="44"/>
@@ -12597,7 +12597,7 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Set file associations...</source>
         <oldsource>Run the File association(s) tool...</oldsource>
-        <translation>设置文件关联...</translation>
+        <translation>设置文件关联…</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="87"/>
@@ -12695,7 +12695,7 @@ Thumbnail</source>
         <location filename="DlgSettingsInterface.cpp" line="784"/>
         <location filename="DlgSettingsInterface.cpp" line="804"/>
         <source>Set Icon...</source>
-        <translation>设置图标...</translation>
+        <translation>设置图标…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="982"/>
@@ -12901,18 +12901,18 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="601"/>
         <location filename="DlgSettingsInterface.ui" line="1058"/>
         <source>Load...</source>
-        <translation>读取...</translation>
+        <translation>读取…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="608"/>
         <location filename="DlgSettingsInterface.ui" line="1065"/>
         <source>Save...</source>
-        <translation>保存...</translation>
+        <translation>保存…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="445"/>
         <source>Set label...</source>
-        <translation>设置标签...</translation>
+        <translation>设置标签…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="554"/>
@@ -12932,12 +12932,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="435"/>
         <source>Set command...</source>
-        <translation>设置命令……</translation>
+        <translation>设置命令…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="455"/>
         <source>Set Icon...</source>
-        <translation>设置图标...</translation>
+        <translation>设置图标…</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="594"/>
@@ -13922,17 +13922,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation>1.00 正方形</translation>
+        <translation>1.00  正方形</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation>1.90 D4/D16 非变形</translation>
+        <translation>1.90  D4/D16 非变形</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation>2.00 变形</translation>
+        <translation>2.00  变形</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14196,12 +14196,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.ui" line="56"/>
         <source>Add files...</source>
-        <translation>添加文件...</translation>
+        <translation>添加文件…</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="67"/>
         <source>Add folder...</source>
-        <translation>添加文件夹...</translation>
+        <translation>添加文件夹…</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="90"/>
@@ -14404,12 +14404,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilarResult.cpp" line="287"/>
         <source>Copy file to...</source>
-        <translation>复制到...</translation>
+        <translation>复制到…</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.cpp" line="292"/>
         <source>Move file to...</source>
-        <translation>移动到...</translation>
+        <translation>移动到…</translation>
     </message>
 </context>
 <context>
@@ -14596,12 +14596,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="559"/>
         <source>Open...</source>
-        <translation>打开...</translation>
+        <translation>打开…</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="566"/>
         <source>Save...</source>
-        <translation>保存...</translation>
+        <translation>保存…</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.cpp" line="186"/>
@@ -14684,7 +14684,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="276"/>
         <source>Settings...</source>
-        <translation>设置...</translation>
+        <translation>设置…</translation>
     </message>
     <message>
         <location filename="DlgSplit.cpp" line="25"/>
@@ -14694,7 +14694,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.cpp" line="166"/>
         <source>Splitting image(s), please wait...</source>
-        <translation>正在分割图片，请稍候...</translation>
+        <translation>正在分割图片，请稍候…</translation>
     </message>
 </context>
 <context>
@@ -14752,7 +14752,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="124"/>
         <source>Run the File association(s) tool...</source>
-        <translation>运行文件关联工具...</translation>
+        <translation>运行文件关联工具…</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
@@ -14969,7 +14969,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTagPhoto.ui" line="283"/>
         <source>Write...</source>
-        <translation>写入……</translation>
+        <translation>写入…</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
@@ -15035,7 +15035,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.cpp" line="608"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
-        <translation>正在更改时间戳，请稍等……</translation>
+        <translation>正在更改时间戳，请稍等…</translation>
     </message>
 </context>
 <context>
@@ -15251,7 +15251,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdate.ui" line="106"/>
         <source>Download new version...</source>
-        <translation>下载新版本...</translation>
+        <translation>下载新版本…</translation>
     </message>
 </context>
 <context>
@@ -15281,12 +15281,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="203"/>
         <source>Unable to load image file...</source>
-        <translation>无法加载文件...</translation>
+        <translation>无法加载文件…</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="229"/>
         <source>Unable to upload image file...</source>
-        <translation>无法上传文件...</translation>
+        <translation>无法上传文件…</translation>
     </message>
 </context>
 <context>
@@ -15344,7 +15344,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="202"/>
         <source>New user...</source>
-        <translation>新用户...</translation>
+        <translation>新用户…</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="233"/>
@@ -15488,7 +15488,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.cpp" line="72"/>
         <source>Creating video thumbnails, please wait...</source>
-        <translation>正在创建视频缩略图，请稍等……</translation>
+        <translation>正在创建视频缩略图，请稍等…</translation>
     </message>
 </context>
 <context>
@@ -16049,7 +16049,7 @@ Do you want to continue?</source>
     <message>
         <location filename="Email.h" line="333"/>
         <source>Sending...</source>
-        <translation>发送中...</translation>
+        <translation>发送中…</translation>
     </message>
     <message>
         <location filename="Email.h" line="333"/>
@@ -16125,7 +16125,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FavoritesView.cpp" line="110"/>
         <location filename="FavoritesView.cpp" line="204"/>
         <source>Edit pathname...</source>
-        <translation>编辑路径名...</translation>
+        <translation>编辑路径名…</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="181"/>
@@ -16220,12 +16220,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.ui" line="34"/>
         <source>Add files...</source>
-        <translation>添加文件...</translation>
+        <translation>添加文件…</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="45"/>
         <source>Add folder...</source>
-        <translation>添加文件夹...</translation>
+        <translation>添加文件夹…</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="71"/>
@@ -16971,12 +16971,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="1101"/>
         <source>Move to...</source>
-        <translation>移动到...</translation>
+        <translation>移动到…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1102"/>
         <source>Merge with...</source>
-        <translation>合并到...</translation>
+        <translation>合并到…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1103"/>
@@ -16986,7 +16986,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="1107"/>
         <source>Edit...</source>
-        <translation>编辑...</translation>
+        <translation>编辑…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1066"/>
@@ -17062,7 +17062,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="135"/>
         <source>Auto Correct...</source>
-        <translation>自动替换……</translation>
+        <translation>自动替换…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="137"/>
@@ -17077,7 +17077,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Clear all...</source>
-        <translation>清除全部...</translation>
+        <translation>清除全部…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="149"/>
@@ -17087,12 +17087,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
         <source>Import...</source>
-        <translation>导入...</translation>
+        <translation>导入…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="152"/>
         <source>Export...</source>
-        <translation>导出...</translation>
+        <translation>导出…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
@@ -17118,14 +17118,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="299"/>
         <source>Importing categories file, please wait...</source>
         <oldsource>Importing categories file, please wait... </oldsource>
-        <translation>正在导入分类文件，请稍候……</translation>
+        <translation>正在导入分类文件，请稍候…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="274"/>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Exporting categories file, please wait...</source>
         <oldsource>Exporting categories file, please wait... </oldsource>
-        <translation>正在导出分类文件，请稍候……</translation>
+        <translation>正在导出分类文件，请稍候…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
@@ -18395,7 +18395,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="IptcEditBase.cpp" line="177"/>
         <source>Edit history...</source>
-        <translation>编辑历史...</translation>
+        <translation>编辑历史…</translation>
     </message>
     <message>
         <location filename="IptcEditBase.cpp" line="178"/>
@@ -18845,7 +18845,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="240"/>
         <source>Save frame as...</source>
-        <translation>保存图像到……</translation>
+        <translation>保存图像到…</translation>
     </message>
 </context>
 <context>
@@ -19237,12 +19237,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="607"/>
         <source>Video thumbnails gallery...</source>
-        <translation>视频缩略图库……</translation>
+        <translation>视频缩略图库…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="637"/>
         <source>Clear &amp;&amp; Import...</source>
-        <translation type="unfinished">清理 &amp;&amp; 导入……</translation>
+        <translation type="unfinished">清理 &amp;&amp; 导入…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="638"/>
@@ -19252,12 +19252,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel...</source>
-        <translation>切换面板……</translation>
+        <translation>切换面板…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus...</source>
-        <translation>路径聚焦……</translation>
+        <translation>路径聚焦…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19268,7 +19268,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="646"/>
         <source>Face tag...</source>
         <translatorcomment>这个在哪个位置？</translatorcomment>
-        <translation>脸部标记……</translation>
+        <translation>脸部标记…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
@@ -19432,7 +19432,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Add to favorites...</source>
-        <translation>添加到收藏夹...</translation>
+        <translation>添加到收藏夹…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -19447,73 +19447,73 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="572"/>
         <source>Find similar files...</source>
-        <translation>查找相似文件……</translation>
+        <translation>查找相似文件…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="575"/>
         <source>Edit IPTC...</source>
-        <translation type="unfinished">编辑 IPTC元数据……</translation>
+        <translation type="unfinished">编辑 IPTC元数据…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="576"/>
         <source>Edit XMP...</source>
-        <translation>编辑 IPTC元数据/XMP元数据...</translation>
+        <translation>编辑 IPTC元数据/XMP元数据…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="577"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
-        <translation>编辑 GPS 数据...</translation>
+        <translation>编辑 GPS 数据…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="583"/>
         <source>Transfer...</source>
         <translatorcomment>不同类型元数据的不同字段数据相互转换传递</translatorcomment>
-        <translation type="unfinished">转换元数据……</translation>
+        <translation type="unfinished">转换元数据…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>Import and sort...</source>
-        <translation>导入并分类...</translation>
+        <translation>导入并分类…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="600"/>
         <source>Multi-page file...</source>
-        <translation>多页文件...</translation>
+        <translation>多页文件…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="601"/>
         <source>Join images...</source>
         <translatorcomment>合并，拼合，拼贴更准确吧，追加意味不明</translatorcomment>
-        <translation>拼合图像...</translation>
+        <translation>拼合图像…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="602"/>
         <source>Contact sheet...</source>
-        <translation>相版...</translation>
+        <translation>相版…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
         <source>Slideshow...</source>
-        <translation>幻灯片...</translation>
+        <translation>幻灯片…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="604"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translatorcomment>切片，切割，切分，Slice</translatorcomment>
-        <translation type="unfinished">图像切片...</translation>
+        <translation type="unfinished">图像切片…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="605"/>
         <source>Banner...</source>
         <translatorcomment>不用翻译也可以吧</translatorcomment>
-        <translation type="unfinished">横幅……</translation>
+        <translation type="unfinished">横幅…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="606"/>
         <source>New image...</source>
-        <translation>新建图像...</translation>
+        <translation>新建图像…</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
@@ -19721,12 +19721,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="408"/>
         <source>Open...</source>
-        <translation>打开...</translation>
+        <translation>打开…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="409"/>
         <source>Open file list...</source>
-        <translation>打开文件列表...</translation>
+        <translation>打开文件列表…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4191"/>
@@ -19775,13 +19775,13 @@ Do you want to continue?</oldsource>
         <location filename="BrowserWindow.cpp" line="4203"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Copy to...</source>
-        <translation>复制到……</translation>
+        <translation>复制到…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4205"/>
         <location filename="BrowserMenu.h" line="429"/>
         <source>Move to...</source>
-        <translation>移动到...</translation>
+        <translation>移动到…</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4198"/>
@@ -19792,7 +19792,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="431"/>
         <source>Rename...</source>
-        <translation>重命名...</translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="432"/>
@@ -20002,40 +20002,40 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="564"/>
         <source>Batch rename...</source>
-        <translation type="unfinished">批量重命名……</translation>
+        <translation type="unfinished">批量重命名…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="565"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
-        <translation>比较...</translation>
+        <translation>比较…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="571"/>
         <source>Search...</source>
-        <translation>搜索...</translation>
+        <translation>搜索…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="573"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
-        <translation>编辑注释...</translation>
+        <translation>编辑注释…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="574"/>
         <source>Change timestamp...</source>
-        <translation type="unfinished">更改时间戳...</translation>
+        <translation type="unfinished">更改时间戳…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="578"/>
         <location filename="BrowserMenu.h" line="636"/>
         <source>Export...</source>
-        <translation>导出...</translation>
+        <translation>导出…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="579"/>
         <source>Clean...</source>
-        <translation>清除...</translation>
+        <translation>清除…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="582"/>
@@ -20056,47 +20056,47 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Batch convert...</source>
-        <translation type="unfinished">批量转换……</translation>
+        <translation type="unfinished">批量转换…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>Send by FTP...</source>
-        <translation type="unfinished">上传到FTP...</translation>
+        <translation type="unfinished">上传到FTP…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Upload on web...</source>
-        <translation>上传到互联网...</translation>
+        <translation>上传到互联网…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
         <source>File listing...</source>
-        <translation>文件列表...</translation>
+        <translation>文件列表…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Archive...</source>
-        <translation>压缩文件……</translation>
+        <translation>压缩文件…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="592"/>
         <source>Send by email...</source>
-        <translation>发送Email……</translation>
+        <translation>发送Email…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Set as wallpaper...</source>
-        <translation>设为壁纸...</translation>
+        <translation>设为壁纸…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="594"/>
         <source>Print...</source>
-        <translation>打印...</translation>
+        <translation>打印…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Properties...</source>
-        <translation>属性...</translation>
+        <translation>属性…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="610"/>
@@ -20196,18 +20196,18 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="649"/>
         <source>Capture...</source>
-        <translation>截屏……</translation>
+        <translation>截屏…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab...</source>
         <translatorcomment>这个在哪个位置？</translatorcomment>
-        <translation>空标签卡...</translation>
+        <translation>空标签卡…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
         <source>Select TWAIN source...</source>
-        <translation>选择 TWAIN(图像通讯) 来源...</translation>
+        <translation>选择 TWAIN(图像通讯) 来源…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="792"/>
@@ -20247,7 +20247,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="655"/>
         <source>Acquire into (TWAIN)...</source>
-        <translation>批量获取 (TWAIN)……</translation>
+        <translation>批量获取 (TWAIN)…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="797"/>
@@ -20291,12 +20291,12 @@ Do you want to continue?</oldsource>
         <location filename="xnview.cpp" line="1438"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
-        <translation>网站……</translation>
+        <translation>网站…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1443"/>
         <source>Make a donation...</source>
-        <translation>捐赠...</translation>
+        <translation>捐赠…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1436"/>
@@ -20306,49 +20306,49 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1437"/>
         <source>PlugIns...</source>
-        <translation>插件……</translation>
+        <translation>插件…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1439"/>
         <source>Forum...</source>
-        <translation>论坛……</translation>
+        <translation>论坛…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1440"/>
         <source>Technical Support...</source>
-        <translation>技术支持……</translation>
+        <translation>技术支持…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1441"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
-        <translation>报告Bug问题......</translation>
+        <translation>报告Bug问题……</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1442"/>
         <source>Wiki...</source>
-        <translation>维基百科……</translation>
+        <translation>维基百科…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1444"/>
         <source>Check for update...</source>
-        <translation>检查更新...</translation>
+        <translation>检查更新…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1445"/>
         <source>Registration...</source>
-        <translation>注册...</translation>
+        <translation>注册…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1446"/>
         <source>Purchase...</source>
-        <translation>购买……</translation>
+        <translation>购买…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1456"/>
         <location filename="xnview.cpp" line="1458"/>
         <source>Settings...</source>
-        <translation>设置...</translation>
+        <translation>设置…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1462"/>
@@ -20396,12 +20396,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2445"/>
         <source>m - Month as decimal (01-12)</source>
-        <translation>m - 月(01-12)</translation>
+        <translation>m - 月（01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2446"/>
         <source>d - Day as decimal (01-31)</source>
-        <translation>d - 日(01-31)</translation>
+        <translation>d - 日（01-31)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2448"/>
@@ -20411,7 +20411,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2449"/>
         <source>M - Minute (00-59)</source>
-        <translation>M - 分 (00-59)</translation>
+        <translation>M - 分（00-59)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2450"/>
@@ -20442,7 +20442,7 @@ Do you want to continue?</oldsource>
         <location filename="TemplateData.cpp" line="2673"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation type="unfinished">#：数字序列</translation>
+        <translation># - 数字序列</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -20551,7 +20551,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="266"/>
         <source>Open...</source>
-        <translation>打开...</translation>
+        <translation>打开…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="216"/>
@@ -20589,7 +20589,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="270"/>
         <source>Format settings...</source>
-        <translation>格式设置...</translation>
+        <translation>格式设置…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="274"/>
@@ -20599,12 +20599,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="280"/>
         <source>Save as...</source>
-        <translation>另存为...</translation>
+        <translation>另存为…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="283"/>
         <source>Print selection...</source>
-        <translation>打印选中文件……</translation>
+        <translation>打印选中文件…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="286"/>
@@ -20634,7 +20634,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="296"/>
         <source>Background color...</source>
-        <translation>背景色...</translation>
+        <translation>背景色…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="330"/>
@@ -20644,12 +20644,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="424"/>
         <source>Send by FTP...</source>
-        <translation type="unfinished">上传到FTP...</translation>
+        <translation type="unfinished">上传到FTP…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="440"/>
         <source>Effect...</source>
-        <translation type="unfinished">效果……</translation>
+        <translation type="unfinished">效果…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="467"/>
@@ -20680,32 +20680,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="474"/>
         <source>Adobe Photoshop Plugin...</source>
-        <translation>Adobe PhotoShop 插件...</translation>
+        <translation>Adobe PhotoShop 插件…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="477"/>
         <source>Edit IPTC...</source>
-        <translation>编辑 IPTC 元数据……</translation>
+        <translation>编辑 IPTC 元数据…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="478"/>
         <source>Edit XMP...</source>
-        <translation>编辑 XMP 元数据……</translation>
+        <translation>编辑 XMP 元数据…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="481"/>
         <source>Join images...</source>
-        <translation>拼合图像……</translation>
+        <translation>拼合图像…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Contact sheet...</source>
-        <translation>相版……</translation>
+        <translation>相版…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="483"/>
         <source>Slideshow...</source>
-        <translation>幻灯片……</translation>
+        <translation>幻灯片…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
@@ -20836,12 +20836,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="281"/>
         <source>Save selection...</source>
-        <translation>保存选区……</translation>
+        <translation>保存选区…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="282"/>
         <source>Print...</source>
-        <translation>打印...</translation>
+        <translation>打印…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="284"/>
@@ -20871,24 +20871,24 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="297"/>
         <source>Crop...</source>
-        <translation>裁剪...</translation>
+        <translation>裁剪…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="298"/>
         <source>Add text...</source>
-        <translation>添加文字……</translation>
+        <translation>添加文字…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="299"/>
         <source>Add watermark...</source>
         <oldsource>Watermark...</oldsource>
-        <translation>添加水印……</translation>
+        <translation>添加水印…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="300"/>
         <source>Spotlight...</source>
         <translatorcomment>TODO</translatorcomment>
-        <translation>聚光灯...</translation>
+        <translation>聚光灯…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="301"/>
@@ -20947,22 +20947,22 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="325"/>
         <source>Copy to...</source>
-        <translation>复制到……</translation>
+        <translation>复制到…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="326"/>
         <source>Move to...</source>
-        <translation>移动到...</translation>
+        <translation>移动到…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="327"/>
         <source>Delete...</source>
-        <translation>删除...</translation>
+        <translation>删除…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="328"/>
         <source>Rename...</source>
-        <translation>重命名...</translation>
+        <translation>重命名…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="339"/>
@@ -21151,7 +21151,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="398"/>
         <source>Grid settings...</source>
-        <translation>网格设置...</translation>
+        <translation>网格设置…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="399"/>
@@ -21177,7 +21177,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="407"/>
         <source>Go to x,y location...</source>
-        <translation>前往 x, y 位置...</translation>
+        <translation>前往 x, y 位置…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="408"/>
@@ -21204,32 +21204,32 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="421"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
-        <translation>编辑注释...</translation>
+        <translation>编辑注释…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Draw...</source>
-        <translation>绘制...</translation>
+        <translation>绘制…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="423"/>
         <source>Set DPI...</source>
-        <translation>设定 DPI……</translation>
+        <translation>设定 DPI…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="441"/>
         <source>User filter...</source>
-        <translation>用户滤镜...</translation>
+        <translation>用户滤镜…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="446"/>
         <source>Film simulation...</source>
-        <translation>胶片模拟...</translation>
+        <translation>胶片模拟…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Curves...</source>
-        <translation>曲线...</translation>
+        <translation>曲线…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="448"/>
@@ -21239,12 +21239,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Offset...</source>
-        <translation type="unfinished">位置偏移...</translation>
+        <translation type="unfinished">位置偏移…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
         <source>White Balance...</source>
-        <translation>白平衡……</translation>
+        <translation>白平衡…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
@@ -21290,12 +21290,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="480"/>
         <source>Clean metadata...</source>
-        <translation>清理元数据……</translation>
+        <translation>清理元数据…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Send by email...</source>
-        <translation type="unfinished">发送Email……</translation>
+        <translation type="unfinished">发送Email…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="486"/>
@@ -21341,7 +21341,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="502"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
-        <translation>批量获取 (TWAIN)……</translation>
+        <translation>批量获取 (TWAIN)…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
@@ -21352,7 +21352,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="479"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">编辑彩色地图……</translation>
+        <translation type="unfinished">编辑彩色地图…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -21362,22 +21362,22 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="496"/>
         <source>Capture...</source>
-        <translation>截屏……</translation>
+        <translation>截屏…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
         <source>Empty tab...</source>
-        <translation>空标签卡……</translation>
+        <translation>空标签卡…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="500"/>
         <source>Select TWAIN source...</source>
-        <translation>选择TWAIN(图像通讯)来源...</translation>
+        <translation>选择TWAIN(图像通讯)来源…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="504"/>
         <source>New image...</source>
-        <translation>新建图像...</translation>
+        <translation>新建图像…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="403"/>
@@ -21399,27 +21399,27 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="412"/>
         <source>Export...</source>
-        <translation>导出...</translation>
+        <translation>导出…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="413"/>
         <source>Batch convert...</source>
-        <translation>批量转换...</translation>
+        <translation>批量转换…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="419"/>
         <source>Set as wallpaper...</source>
-        <translation>设为壁纸...</translation>
+        <translation>设为壁纸…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="420"/>
         <source>Properties...</source>
-        <translation>属性...</translation>
+        <translation>属性…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="426"/>
         <source>Change color depth...</source>
-        <translation>改变颜色深度...</translation>
+        <translation>改变颜色深度…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="427"/>
@@ -21455,68 +21455,68 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="433"/>
         <source>Solarize...</source>
-        <translation>曝光...</translation>
+        <translation>曝光…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="434"/>
         <source>Posterize...</source>
-        <translation>色调分离...</translation>
+        <translation>色调分离…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="435"/>
         <source>Sepia...</source>
-        <translation>深褐色...</translation>
+        <translation>深褐色…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="436"/>
         <source>Old camera...</source>
-        <translation>旧式相机...</translation>
+        <translation>旧式相机…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
         <source>Vignetting...</source>
-        <translation>光晕...</translation>
+        <translation>光晕…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
         <source>Enhance colors...</source>
-        <translation>增强颜色……</translation>
+        <translation>增强颜色…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="439"/>
         <source>Levels...</source>
-        <translation>色阶...</translation>
+        <translation>色阶…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="442"/>
         <source>Shadow/Highlight...</source>
-        <translation>阴影-高亮...</translation>
+        <translation>阴影-高亮…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="443"/>
         <source>Normalize...</source>
-        <translation>规格化...</translation>
+        <translation>规格化…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="444"/>
         <source>Align...</source>
-        <translation>调节...</translation>
+        <translation>调节…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Rotate...</source>
-        <translation>旋转...</translation>
+        <translation>旋转…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">调整大小...</translation>
+        <translation type="unfinished">调整大小…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
         <source>Canvas resize...</source>
-        <translation>调整画布大小...</translation>
+        <translation>调整画布大小…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="464"/>
@@ -21582,7 +21582,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="149"/>
         <source>A4, A3, ... (1.41)</source>
-        <translation>A4, A3, ... (1.41)</translation>
+        <translation>A4, A3, … (1.41)</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="150"/>
@@ -21773,7 +21773,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyAddFolderProcess.h" line="55"/>
         <source>Building catalog entries...</source>
-        <translation>生成分类条目……</translation>
+        <translation>生成分类条目…</translation>
     </message>
 </context>
 <context>
@@ -21781,7 +21781,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyAddFolderProcess.h" line="175"/>
         <source>Build thumbnails...</source>
-        <translation>生成缩略图……</translation>
+        <translation>生成缩略图…</translation>
     </message>
 </context>
 <context>
@@ -21794,7 +21794,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyAddFolderProcess.h" line="297"/>
         <source>Check folders...</source>
-        <translation>检查文件夹...</translation>
+        <translation>检查文件夹…</translation>
     </message>
 </context>
 <context>
@@ -21803,7 +21803,7 @@ Do you want to continue?</oldsource>
         <location filename="MyBitmapView.cpp" line="964"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation type="unfinished">载入图像...</translation>
+        <translation type="unfinished">载入图像…</translation>
     </message>
 </context>
 <context>
@@ -21959,7 +21959,7 @@ Do you want to continue?</oldsource>
         <location filename="MyProgressThreadDialog.h" line="30"/>
         <source>Please wait...</source>
         <oldsource>Please wait... </oldsource>
-        <translation>请稍候……</translation>
+        <translation>请稍候…</translation>
     </message>
     <message>
         <location filename="MyProgressThreadDialog.h" line="40"/>
@@ -21987,7 +21987,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyTabBar.cpp" line="245"/>
         <source>Tab settings...</source>
-        <translation>标签卡设置……</translation>
+        <translation>标签卡设置…</translation>
     </message>
     <message>
         <location filename="MyTabBar.cpp" line="247"/>
@@ -22023,13 +22023,13 @@ You can change it in Settings � Catalog.</oldsource>
         <location filename="MyThumbView.cpp" line="603"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
-        <translation>正在更新分类，请稍候……</translation>
+        <translation>正在更新分类，请稍候…</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="617"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
-        <translation>正在更新文件，请稍候……</translation>
+        <translation>正在更新文件，请稍候…</translation>
     </message>
     <message numerus="yes">
         <location filename="MyThumbView.cpp" line="1200"/>
@@ -22117,7 +22117,7 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="OpenWithMenu.cpp" line="329"/>
         <source>Configure programs...</source>
-        <translation>配置程序...</translation>
+        <translation>配置程序…</translation>
     </message>
 </context>
 <context>
@@ -22435,12 +22435,12 @@ You can change it in Settings � Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1530"/>
         <source>Add...</source>
-        <translation>添加……</translation>
+        <translation>添加…</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
-        <translation>管理……</translation>
+        <translation>管理…</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1115"/>
@@ -22819,12 +22819,12 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtcopydialog.cpp" line="515"/>
         <source>Copying...</source>
-        <translation>正在复制……</translation>
+        <translation>正在复制…</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="515"/>
         <source>Moving...</source>
-        <translation>正在移动...</translation>
+        <translation>正在移动…</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="517"/>
@@ -22849,7 +22849,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtcopydialog.ui" line="22"/>
         <source>24% of 100MB (Copying...)</source>
-        <translation>24% of 100MB （复制中...）</translation>
+        <translation>24% of 100MB （复制中…）</translation>
     </message>
     <message>
         <location filename="qtcopydialog.ui" line="50"/>
@@ -23194,12 +23194,12 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="SearchField.cpp" line="961"/>
         <source>is before</source>
-        <translation>在...之前</translation>
+        <translation>在…之前</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="962"/>
         <source>is after</source>
-        <translation>在...之后</translation>
+        <translation>在…之后</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="963"/>
@@ -23247,7 +23247,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="SearchField.cpp" line="1242"/>
         <source>between</source>
         <translatorcomment>？</translatorcomment>
-        <translation type="unfinished">介于...-...之间</translation>
+        <translation type="unfinished">介于…-…之间</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1082"/>
@@ -23408,7 +23408,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ViewCropAction.cpp" line="274"/>
         <source>Save selection as...</source>
-        <translation>将选区保存为……</translation>
+        <translation>将选区保存为…</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="279"/>
@@ -23484,7 +23484,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ViewTextAction.cpp" line="144"/>
         <source>Text...</source>
-        <translation>文字……</translation>
+        <translation>文字…</translation>
     </message>
     <message>
         <location filename="ViewTextAction.cpp" line="150"/>
@@ -23530,7 +23530,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="WebCapture.h" line="73"/>
         <source>Generating image...</source>
-        <translation>生成图像...</translation>
+        <translation>生成图像…</translation>
     </message>
     <message>
         <location filename="WebCapture.h" line="73"/>
@@ -23597,7 +23597,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="xnview.cpp" line="504"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
-        <translation>正在创建备份, 请稍候...</translation>
+        <translation>正在创建备份, 请稍候…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="476"/>
@@ -23626,7 +23626,7 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="486"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
-        <translation>正在更新缓存数据库，请稍候……</translation>
+        <translation>正在更新缓存数据库，请稍候…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="489"/>
