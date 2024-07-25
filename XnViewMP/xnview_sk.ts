@@ -19187,7 +19187,7 @@ Chcete pokračovať?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Prepínací panel...</translation>
+        <translation>Prepínací panel</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -19483,7 +19483,7 @@ Chcete pokračovať?</translation>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Zameranie cesty...</translation>
+        <translation>Zameranie cesty</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19499,7 +19499,7 @@ Chcete pokračovať?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Prázdna karta...</translation>
+        <translation>Prázdna karta</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
