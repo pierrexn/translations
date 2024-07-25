@@ -19131,7 +19131,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">切換面板...</translation>
+        <translation>切換面板</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -20198,7 +20198,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">路徑焦點...</translation>
+        <translation>路徑焦點</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -20214,7 +20214,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">清空頁籤...</translation>
+        <translation>清空頁籤</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
