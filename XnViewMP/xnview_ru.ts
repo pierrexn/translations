@@ -1607,7 +1607,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Экспозиция</translation>
+        <translation>Экспозиция</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -1723,7 +1723,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.cpp" line="260"/>
         <location filename="DlgFilter.cpp" line="55"/>
         <source>Tile</source>
-        <translation>Плитка</translation>
+        <translation>Замостить</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="261"/>
@@ -1777,52 +1777,52 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="1705"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1708"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Каналы</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1709"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Улучшить</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1710"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Рамка</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1711"/>
         <source>Metadata</source>
-        <translation type="unfinished">Метаданные</translation>
+        <translation>Метаданные</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1712"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Шум</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1713"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Пикселизация</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1715"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Стилизация</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1716"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1717"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Видео</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -3041,7 +3041,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgCapture.ui" line="281"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Скрывать XnViewMP</translation>
+        <translation>Скрывать XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="288"/>
@@ -3793,7 +3793,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1575"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Удалить файл из списка</translation>
+        <translation>Удалить файл из списка</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1582"/>
@@ -4237,7 +4237,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Скругление</translation>
+        <translation>Скругление</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4771,17 +4771,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать оригинал</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Первый файл</translation>
+        <translation>Первый файл</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Последний файл</translation>
+        <translation>Последний файл</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1889"/>
@@ -5805,12 +5805,12 @@ Do you want to continue?</source>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Растянуть маску</translation>
+        <translation>Растянуть</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Замостить</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6744,13 +6744,13 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Растянуть</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Замостить</translation>
+        <translation>Замостить</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -8254,7 +8254,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileReplace.cpp" line="121"/>
         <source>The destination contains already a folder with same name, what do you want to do?</source>
         <translatorcomment>Проверить</translatorcomment>
-        <translation>Конечное место назначения уже содержит папку с тем же именем, что вы хотите сделать?</translation>
+        <translation>В месте назначения уже есть папка с таким же именем, что вы хотите сделать?</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.cpp" line="124"/>
@@ -8889,18 +8889,18 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># счётчик по</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходной папке</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
         <location filename="DlgImport.cpp" line="186"/>
         <source>Output folder</source>
-        <translation>Папка выходных данных</translation>
+        <translation>Папке назначения</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="186"/>
@@ -10449,7 +10449,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Имя/Название организации:</translation>
+        <translation>Имя/Название организации:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10486,7 +10486,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, установите плагин (Инструменты › Плагины...).</translation>
     </message>
 </context>
 <context>
@@ -11075,22 +11075,22 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Использовать регулярное выражение</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Учитывать регистр</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Искать в именах папок</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -11140,17 +11140,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Назад</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Обзор...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="238"/>
@@ -11177,7 +11177,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Имя файла</translation>
+        <translation>Имя файла</translation>
     </message>
 </context>
 <context>
@@ -12257,7 +12257,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Разрешить запуск только одной копии программы</translation>
+        <translation>Разрешить запускать только один экземпляр приложения</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="119"/>
@@ -14211,7 +14211,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1294"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Растянуть по горизонтали</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1313"/>
@@ -15662,25 +15662,25 @@ Do you want to continue?</source>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Центрировать</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Замостить</translation>
+        <translation>Замостить</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Замостить от центра</translation>
+        <translation>Замостить от центра</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Растянуть</translation>
+        <translation>Растянуть</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16352,7 +16352,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Эскизы маленькие</translation>
+        <translation>Эскизы маленькие</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16363,7 +16363,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Эскизы большие</translation>
+        <translation>Эскизы большие</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16967,7 +16967,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя файла (последний номер)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="404"/>
@@ -18313,7 +18313,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код страны</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -19268,7 +19268,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Переключить панель...</translation>
+        <translation>Переключить панель</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -19634,7 +19634,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Переместить фокус на путь...</translation>
+        <translation>Переместить фокус на путь</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19650,7 +19650,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Пустая вкладка...</translation>
+        <translation>Пустая вкладка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
@@ -20228,7 +20228,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Преобразование JPEG без потерь</translation>
+        <translation>Преобразование без потерь (JPEG)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="564"/>
@@ -21276,7 +21276,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="693"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">&amp;Метаданные</translation>
+        <translation>&amp;Метаданные</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="694"/>
@@ -21497,7 +21497,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="494"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Преобразование JPEG без потерь</translation>
+        <translation>Преобразование без потерь (JPEG)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="496"/>
@@ -22176,7 +22176,7 @@ Do you want to continue?</oldsource>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">Размер кэшированного эскиза меньше выбранного. 
+        <translation>Размер кэшированного эскиза меньше выбранного. 
 Вы можете это изменить в Настройки › Каталог.</translation>
     </message>
     <message>
@@ -22632,7 +22632,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Растянуть изображение</translation>
+        <translation>Растянуть</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -22983,12 +22983,12 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtcopydialog.cpp" line="515"/>
         <source>Copying...</source>
-        <translation>Копируется...</translation>
+        <translation>Копирование...</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="515"/>
         <source>Moving...</source>
-        <translation>Идёт перемещение...</translation>
+        <translation>Перемещение...</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="517"/>
@@ -23013,7 +23013,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtcopydialog.ui" line="22"/>
         <source>24% of 100MB (Copying...)</source>
-        <translation>24% из 100Мб (Копируется...)</translation>
+        <translation>24% из 100Мб (Копирование...)</translation>
     </message>
     <message>
         <location filename="qtcopydialog.ui" line="50"/>
@@ -23815,7 +23815,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите сохранять сессию?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
