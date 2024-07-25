@@ -19169,7 +19169,7 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Sostituisci pannelo...</translation>
+        <translation>Sostituisci pannelo</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -19527,7 +19527,7 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Messa a fuoco del percorso...</translation>
+        <translation>Messa a fuoco del percorso</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19543,7 +19543,7 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Scheda vuota...</translation>
+        <translation>Scheda vuota</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
