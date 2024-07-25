@@ -19191,7 +19191,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Przełącz panel...</translation>
+        <translation>Przełącz panel</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -19437,7 +19437,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Ścieżka fokusu...</translation>
+        <translation>Ścieżka fokusu</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
