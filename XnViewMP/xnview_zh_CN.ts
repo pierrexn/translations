@@ -19329,13 +19329,13 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">切换面板…</translation>
+        <translation>切换面板</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">路径聚焦…</translation>
+        <translation>路径聚焦</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -20282,7 +20282,7 @@ Do you want to continue?</oldsource>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translatorcomment>这个在哪个位置？</translatorcomment>
-        <translation type="unfinished">空标签卡…</translation>
+        <translation>空标签卡</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
