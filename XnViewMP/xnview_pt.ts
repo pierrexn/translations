@@ -19240,7 +19240,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Mudar painel...</translation>
+        <translation>Mudar painel</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -20312,7 +20312,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Foco no caminho...</translation>
+        <translation>Foco no caminho</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -20328,7 +20328,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Separador vazio...</translation>
+        <translation>Separador vazio</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
