@@ -19258,7 +19258,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Skift panel...</translation>
+        <translation>Skift panel</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -20346,7 +20346,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Sti i fokus...</translation>
+        <translation>Sti i fokus</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -20362,7 +20362,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Tom fane...</translation>
+        <translation>Tom fane</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
