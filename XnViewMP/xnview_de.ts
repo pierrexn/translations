@@ -19149,7 +19149,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Bereich wechseln...</translation>
+        <translation>Bereich wechseln</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -19506,7 +19506,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Pfadfokus...</translation>
+        <translation>Pfadfokus</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19522,7 +19522,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Leere Registerkarte...</translation>
+        <translation>Leere Registerkarte</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
