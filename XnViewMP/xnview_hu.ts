@@ -19166,7 +19166,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Panel váltása...</translation>
+        <translation>Panel váltása</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -20227,7 +20227,7 @@ Biztosan folytassuk?</translation>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translatorcomment>Nem találtam, nem biztos, hogy jó</translatorcomment>
-        <translation type="unfinished">Útvonalra ugrás...</translation>
+        <translation>Útvonalra ugrás</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -20243,7 +20243,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Üres lap...</translation>
+        <translation>Üres lap</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
