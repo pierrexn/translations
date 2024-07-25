@@ -19561,14 +19561,14 @@ Chcete pokračovat?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Přepnout panel...</translation>
+        <translation>Přepnout panel</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translatorcomment>I&apos;m not sure what is this. :-(</translatorcomment>
-        <translation type="unfinished">Zaostření cesty...</translation>
+        <translation>Zaostření cesty</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19589,7 +19589,7 @@ Chcete pokračovat?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Prázdná záložka...</translation>
+        <translation>Prázdná záložka</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
