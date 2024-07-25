@@ -19420,7 +19420,7 @@ Vols continuar?</translation>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Camí del focus...</translation>
+        <translation>Camí del focus</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19436,7 +19436,7 @@ Vols continuar?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Pestanya buida...</translation>
+        <translation>Pestanya buida</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
