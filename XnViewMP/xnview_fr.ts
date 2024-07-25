@@ -224,7 +224,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Changements</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -1587,7 +1587,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Exposition</translation>
+        <translation>Exposition</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -1756,52 +1756,52 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="1705"/>
         <source>Add</source>
-        <translation type="unfinished">Ajouter</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1708"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Canal</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1709"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Améliorer</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1710"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadre</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1711"/>
         <source>Metadata</source>
-        <translation type="unfinished">Métadonnées</translation>
+        <translation>Métadonnées</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1712"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruit</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1713"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixéliser</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1715"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Style</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1716"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1717"/>
         <source>Video</source>
-        <translation type="unfinished">Vidéo</translation>
+        <translation>Vidéo</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -3012,7 +3012,7 @@ Voulez-vous l&apos;écraser?</translation>
         <location filename="DlgCapture.ui" line="281"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Cacher XnView</translation>
+        <translation>Cacher XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="288"/>
@@ -3759,7 +3759,7 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1575"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Enlever le fichier de la liste</translation>
+        <translation>Enlever le fichier de la liste</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1620"/>
@@ -4198,7 +4198,7 @@ Voulez-vous continuer ?</translation>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Bord arrondi</translation>
+        <translation>Bord arrondi</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4515,17 +4515,17 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir l&apos;original</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Premier fichier</translation>
+        <translation>Premier fichier</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Dernier fichier</translation>
+        <translation>Dernier fichier</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="864"/>
@@ -5761,7 +5761,7 @@ Voulez-vous continuer ?</translation>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Elargir le masque</translation>
+        <translation>Elargir</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
@@ -6693,7 +6693,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Étirer</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
@@ -7226,7 +7226,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgEditXMP.ui" line="248"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Appliquer les catégories de parents</translation>
+        <translation>Appliquer les catégories de parents</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="256"/>
@@ -8828,12 +8828,12 @@ Les sous-dossiers seront créés.</translation>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># énumérateur par</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier source</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -10382,7 +10382,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Nom/Entreprise :</translation>
+        <translation>Nom/Entreprise :</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -11036,22 +11036,22 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Utiliser une expression régulière</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;ossier</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Respecter la &amp;casse</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inclure les dossiers</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -11071,17 +11071,17 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Re&amp;venir</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rechercher</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parcourir...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="133"/>
@@ -11092,7 +11092,7 @@ Voulez-vous les enlever?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Nom de fichier</translation>
+        <translation>&amp;Nom de fichier</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
@@ -12182,7 +12182,7 @@ Vignette</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Uniquement 1 instance de XnView</translation>
+        <translation>Uniquement 1 instance de l&apos;application</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="119"/>
@@ -14171,7 +14171,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="1294"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Étirer horizontalement</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1313"/>
@@ -15578,25 +15578,25 @@ Voulez-vous continuer?</translation>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Centré</translation>
+        <translation>Centré</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Mosaïque</translation>
+        <translation>Mosaïque</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Mosaïque centré</translation>
+        <translation>Mosaïque centré</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Etiré</translation>
+        <translation>Etiré</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16264,7 +16264,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Petites vignettes</translation>
+        <translation>Petites vignettes</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16275,7 +16275,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Grandes vignettes</translation>
+        <translation>Grandes vignettes</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16922,7 +16922,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de fichier (dernier numéro)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="404"/>
@@ -18218,7 +18218,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code pays</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -19501,7 +19501,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Onglet vide...</translation>
+        <translation>Onglet vide</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
@@ -20116,7 +20116,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Transformations JPEG sans perte</translation>
+        <translation>Transformations sans perte (JPEG)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="572"/>
@@ -21141,7 +21141,7 @@ Voulez-vous continuer ?</translation>
         <location filename="ViewMenu.h" line="693"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Métadonnées</translation>
+        <translation>Méta&amp;données</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="694"/>
@@ -21589,7 +21589,7 @@ Voulez-vous continuer ?</translation>
         <location filename="ViewMenu.h" line="494"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Transformations JPEG sans perte</translation>
+        <translation>Transformations sans perte (JPEG)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="496"/>
@@ -22076,8 +22076,8 @@ Voulez-vous continuer ?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">Les vignettes dans le catalogue sont plus petites que la taille voulue. 
-Vous pouvez changer celle-ci dans Paramêtres › Catalogue</translation>
+        <translation>Les vignettes dans le catalogue sont plus petites que la taille voulue. 
+Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
@@ -22529,7 +22529,7 @@ Vous pouvez changer celle-ci dans Paramêtres › Catalogue</translation>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Etirer l&apos;image</translation>
+        <translation>Etirer</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -23710,7 +23710,7 @@ Souhaitez-vous conserver les vignettes ?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous sauvegarder la session ?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
