@@ -19175,7 +19175,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Växla panel...</translation>
+        <translation>Växla panel</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -19482,7 +19482,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Sökvägsfokus...</translation>
+        <translation>Sökvägsfokus</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19498,7 +19498,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Tom flik...</translation>
+        <translation>Tom flik</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
