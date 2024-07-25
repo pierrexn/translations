@@ -19311,13 +19311,13 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">Paneel wisselen…</translation>
+        <translation>Paneel wisselen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">Pad focus…</translation>
+        <translation>Pad focus</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19582,7 +19582,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Lege tab…</translation>
+        <translation>Lege tab</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
