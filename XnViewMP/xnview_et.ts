@@ -19447,7 +19447,7 @@ Kas soovite jätkata?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Tühi sakk...</translation>
+        <translation>Tühi sakk</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
