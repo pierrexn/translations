@@ -20221,7 +20221,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Boş sekme...</translation>
+        <translation>Boş sekme</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
