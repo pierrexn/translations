@@ -19368,7 +19368,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">빈 탭...</translation>
+        <translation>빈 탭</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
@@ -20024,13 +20024,13 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished">패널 전환...</translation>
+        <translation>패널 전환</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished">선 집중...</translation>
+        <translation>선 집중</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
