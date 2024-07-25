@@ -278,78 +278,78 @@
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1353"/>
+        <location filename="ViewWindow.cpp" line="1337"/>
         <source>Frame %1/%2</source>
         <translation>Kader %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1356"/>
+        <location filename="ViewWindow.cpp" line="1340"/>
         <source>Icon %1/%2</source>
         <translation>Pictogram %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1358"/>
+        <location filename="ViewWindow.cpp" line="1342"/>
         <source>Page %1/%2</source>
         <translation>Pagina %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1552"/>
-        <location filename="ViewWindow.cpp" line="1571"/>
+        <location filename="ViewWindow.cpp" line="1536"/>
+        <location filename="ViewWindow.cpp" line="1555"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Leeg &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2789"/>
+        <location filename="ViewWindow.cpp" line="2771"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Afbeelding wordt geconverteerd naar 24-bits RGB (8-bits per kanaal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2807"/>
+        <location filename="ViewWindow.cpp" line="2789"/>
         <source>Confirm Save</source>
         <translation>Opslaan bevestigen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2808"/>
+        <location filename="ViewWindow.cpp" line="2790"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; bestaat al!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2808"/>
+        <location filename="ViewWindow.cpp" line="2790"/>
         <source>Do you want to overwrite it?</source>
         <translation>Wilt u het overschrijven?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2833"/>
-        <location filename="ViewWindow.cpp" line="2963"/>
-        <location filename="ViewWindow.cpp" line="3013"/>
+        <location filename="ViewWindow.cpp" line="2815"/>
+        <location filename="ViewWindow.cpp" line="2945"/>
+        <location filename="ViewWindow.cpp" line="2995"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Afbeelding opslaan…</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2835"/>
-        <location filename="ViewWindow.cpp" line="3015"/>
+        <location filename="ViewWindow.cpp" line="2817"/>
+        <location filename="ViewWindow.cpp" line="2997"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2835"/>
-        <location filename="ViewWindow.cpp" line="3015"/>
+        <location filename="ViewWindow.cpp" line="2817"/>
+        <location filename="ViewWindow.cpp" line="2997"/>
         <source>An error occurred during saving!</source>
         <translation>Er trad een fout op bij het opslaan!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3089"/>
+        <location filename="ViewWindow.cpp" line="3071"/>
         <source>Properties</source>
         <translation>Eigenschappen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4202"/>
+        <location filename="ViewWindow.cpp" line="4185"/>
         <source>Colors count</source>
         <translation>Aantal kleuren</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1942"/>
+        <location filename="ViewWindow.cpp" line="1924"/>
         <source>Customize toolbar...</source>
         <translation>Werkbalk aanpassen…</translation>
     </message>
@@ -374,46 +374,46 @@
         <translation>Niet meer vragen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2201"/>
-        <location filename="ViewWindow.cpp" line="2207"/>
-        <location filename="ViewWindow.cpp" line="2211"/>
+        <location filename="ViewWindow.cpp" line="2183"/>
+        <location filename="ViewWindow.cpp" line="2189"/>
+        <location filename="ViewWindow.cpp" line="2193"/>
         <source>Delete items</source>
         <translation>Objecten verwijderen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2201"/>
+        <location filename="ViewWindow.cpp" line="2183"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Wilt u uw bewerkingen weggooien en verwijderen 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2207"/>
+        <location filename="ViewWindow.cpp" line="2189"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Weet u zeker dat u wilt verwijderen
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2211"/>
+        <location filename="ViewWindow.cpp" line="2193"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Weet u zeker dat u wilt verwijderen
 &quot;%1&quot; (%2 items)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2789"/>
-        <location filename="ViewWindow.cpp" line="2799"/>
+        <location filename="ViewWindow.cpp" line="2771"/>
+        <location filename="ViewWindow.cpp" line="2781"/>
         <source>Save</source>
         <translation>Opslaan</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2799"/>
+        <location filename="ViewWindow.cpp" line="2781"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Bestand &lt;%1&gt; is schrijfbeveiligd, kies een andere bestandsnaam.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4202"/>
+        <location filename="ViewWindow.cpp" line="4185"/>
         <source>Number of unique colors: %1</source>
         <translation>Aantal unieke kleuren: %1</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4681"/>
+        <location filename="ViewWindow.cpp" line="4664"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4672"/>
-        <location filename="ViewWindow.cpp" line="4681"/>
+        <location filename="ViewWindow.cpp" line="4655"/>
+        <location filename="ViewWindow.cpp" line="4664"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Bestand niet kunnen laden!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4672"/>
+        <location filename="ViewWindow.cpp" line="4655"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Om PDF/PS/EPS/AI-bestanden te bekijken of te converteren, dient Ghostscript %1 op uw systeem te zijn geïnstalleerd.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4673"/>
+        <location filename="ViewWindow.cpp" line="4656"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Bezoek de %1 voor meer informatie.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4685"/>
+        <location filename="ViewWindow.cpp" line="4668"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Leeg &gt;</translation>
     </message>
@@ -546,27 +546,27 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="1625"/>
+        <location filename="BrowserWindow.cpp" line="1627"/>
         <source>Add Favorite...</source>
         <translation>Toevoegen aan favorieten…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1849"/>
+        <location filename="BrowserWindow.cpp" line="1851"/>
         <source>Folders</source>
         <translation>Mappen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1853"/>
+        <location filename="BrowserWindow.cpp" line="1855"/>
         <source>Favorites</source>
         <translation>Favorieten</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1867"/>
+        <location filename="BrowserWindow.cpp" line="1869"/>
         <source>Categories</source>
         <translation>Categorieën</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1903"/>
+        <location filename="BrowserWindow.cpp" line="1905"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
@@ -586,28 +586,28 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         <translation>De database is corrupt, controleer deze voordat u verder gaat!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1617"/>
+        <location filename="BrowserWindow.cpp" line="1619"/>
         <source>Add to Favorites</source>
         <translation>Aan favorieten toevoegen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1857"/>
+        <location filename="BrowserWindow.cpp" line="1859"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Catalogus Filter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1872"/>
+        <location filename="BrowserWindow.cpp" line="1874"/>
         <source>Category Sets</source>
         <translation>Categorie-verzamelingen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2084"/>
+        <location filename="BrowserWindow.cpp" line="2086"/>
         <source>Match</source>
         <translation>Overeenkomst</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2094"/>
+        <location filename="BrowserWindow.cpp" line="2096"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -616,42 +616,42 @@ Rechtermuisklik opent het actiemenu.
 Sleep bestanden hierheen om label toe te kennen.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2117"/>
+        <location filename="BrowserWindow.cpp" line="2119"/>
         <source>Global</source>
         <translation>Overal</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2124"/>
+        <location filename="BrowserWindow.cpp" line="2126"/>
         <source>Current folder</source>
         <translation>Huidige map</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2131"/>
+        <location filename="BrowserWindow.cpp" line="2133"/>
         <source>Current folder (Recursive)</source>
         <translation>Huidige map (incl. submappen)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3211"/>
+        <location filename="BrowserWindow.cpp" line="3213"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Zoekresultaten&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3213"/>
+        <location filename="BrowserWindow.cpp" line="3215"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Gelabelde bestanden&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3302"/>
+        <location filename="BrowserWindow.cpp" line="3304"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Deze map bestaat niet!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3521"/>
+        <location filename="BrowserWindow.cpp" line="3523"/>
         <source>Favorite name:</source>
         <translation>Favoriet Naam:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3765"/>
+        <location filename="BrowserWindow.cpp" line="3767"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Dit %n object daadwerkelijk verwijderen?</numerusform>
@@ -659,28 +659,28 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3850"/>
+        <location filename="BrowserWindow.cpp" line="3852"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>De bestanden zijn niet hernoemd , er trad een fout op.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3302"/>
-        <location filename="BrowserWindow.cpp" line="3850"/>
+        <location filename="BrowserWindow.cpp" line="3304"/>
+        <location filename="BrowserWindow.cpp" line="3852"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3217"/>
+        <location filename="BrowserWindow.cpp" line="3219"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;bestanden&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3758"/>
+        <location filename="BrowserWindow.cpp" line="3760"/>
         <source>Delete items &amp; companions</source>
         <translation>Items &amp; bijbehorende bestanden verwijderen</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3759"/>
+        <location filename="BrowserWindow.cpp" line="3761"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>%1 object geselecteerd - Wilt u dit %n object verwijderen?</numerusform>
@@ -688,27 +688,27 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4208"/>
+        <location filename="BrowserWindow.cpp" line="4214"/>
         <source>Show files in subfolders</source>
         <translation>Bestanden in submappen weergeven</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4211"/>
+        <location filename="BrowserWindow.cpp" line="4217"/>
         <source>Add to favorites...</source>
         <translation>Toevoegen aan favorieten…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4219"/>
+        <location filename="BrowserWindow.cpp" line="4225"/>
         <source>Properties</source>
         <translation>Eigenschappen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4328"/>
+        <location filename="BrowserWindow.cpp" line="4334"/>
         <source>Load filelist</source>
         <translation>Bestandenlijst laden</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3764"/>
+        <location filename="BrowserWindow.cpp" line="3766"/>
         <source>Delete items</source>
         <translation>Objecten verwijderen</translation>
     </message>
@@ -718,52 +718,52 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Werkbalk aanpassen…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1911"/>
+        <location filename="BrowserWindow.cpp" line="1913"/>
         <source>Metadata</source>
         <translation>Metagegevens</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1920"/>
+        <location filename="BrowserWindow.cpp" line="1922"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2100"/>
+        <location filename="BrowserWindow.cpp" line="2102"/>
         <source>Match any selected entry (OR)</source>
         <translation>Overeenkomst met elk geselecteerd item (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2106"/>
+        <location filename="BrowserWindow.cpp" line="2108"/>
         <source>Match all selected entries (AND)</source>
         <translation>Overeenkomst met alle geselecteerde items (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3215"/>
+        <location filename="BrowserWindow.cpp" line="3217"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Catalogus filterresultaten&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4210"/>
+        <location filename="BrowserWindow.cpp" line="4216"/>
         <source>Search...</source>
         <translation>Zoeken…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4214"/>
+        <location filename="BrowserWindow.cpp" line="4220"/>
         <source>Start slideshow</source>
         <translation>Diavoorstelling starten</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4216"/>
+        <location filename="BrowserWindow.cpp" line="4222"/>
         <source>Explorer</source>
         <translation>Verkenner</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4251"/>
+        <location filename="BrowserWindow.cpp" line="4257"/>
         <source>Delete folder</source>
         <translation>Map verwijderen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4251"/>
+        <location filename="BrowserWindow.cpp" line="4257"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Weet u zeker dat u deze map wilt verwijderen?</translation>
     </message>
@@ -1036,12 +1036,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Sluiten</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1154"/>
+        <location filename="CompareWidget.cpp" line="1155"/>
         <source>Delete file</source>
         <translation>Bestand verwijderen</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1154"/>
+        <location filename="CompareWidget.cpp" line="1155"/>
         <source>Do you want to delete this file?</source>
         <translation>Wilt u dit bestand verwijderen?</translation>
     </message>
@@ -1156,6 +1156,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Kleurdiepte aanpassen</translation>
     </message>
     <message>
+        <location filename="DlgConvert.cpp" line="1706"/>
         <location filename="DlgConvertProcess.h" line="369"/>
         <source>Adjust</source>
         <translation>Aanpassen</translation>
@@ -1212,6 +1213,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="394"/>
+        <location filename="DlgLevels.h" line="47"/>
         <source>Levels</source>
         <translation>Niveaus</translation>
     </message>
@@ -1536,238 +1538,275 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <translation>Rechts</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="192"/>
+        <location filename="DlgConvert.cpp" line="201"/>
         <source>Automatic levels</source>
         <translation>Automatische niveaus</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="193"/>
+        <location filename="DlgConvert.cpp" line="202"/>
         <source>Automatic contrast</source>
         <translation>Automatisch contrast</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="194"/>
+        <location filename="DlgConvert.cpp" line="203"/>
         <source>Negative</source>
         <translation>Negatief</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="195"/>
+        <location filename="DlgConvert.cpp" line="204"/>
         <source>Desaturate</source>
         <translation>Desatureer</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="198"/>
+        <location filename="DlgConvert.cpp" line="207"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation>Logaritmische LUT</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="200"/>
+        <location filename="DlgConvert.cpp" line="209"/>
         <source>Normalize</source>
         <translation>Normaliseren</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="204"/>
+        <location filename="DlgConvert.cpp" line="213"/>
         <source>Equalize</source>
         <translation>Gelijkmaken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="205"/>
+        <location filename="DlgConvert.cpp" line="214"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
         <translation>Sepia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="206"/>
+        <location filename="DlgConvert.cpp" line="215"/>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>Overbelichten</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="223"/>
+        <location filename="DlgConvert.cpp" line="224"/>
+        <source>Exposure</source>
+        <translation type="unfinished">Belichting</translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="232"/>
         <location filename="DlgFilter.cpp" line="27"/>
         <source>Enhance detail</source>
         <translation>Details versterken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="224"/>
+        <location filename="DlgConvert.cpp" line="233"/>
         <location filename="DlgFilter.cpp" line="28"/>
         <source>Enhance focus</source>
         <translation>Focus versterken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="225"/>
+        <location filename="DlgConvert.cpp" line="234"/>
         <location filename="DlgFilter.cpp" line="29"/>
         <source>Enhance edges</source>
         <translation>Randen versterken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="226"/>
+        <location filename="DlgConvert.cpp" line="235"/>
         <location filename="DlgFilter.cpp" line="30"/>
         <source>Focus restoration</source>
         <translation>Focus herstellen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="228"/>
+        <location filename="DlgConvert.cpp" line="237"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Emboss</source>
         <translation>Reliëf aanbrengen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="229"/>
+        <location filename="DlgConvert.cpp" line="238"/>
         <location filename="DlgFilter.cpp" line="38"/>
         <source>Emboss more</source>
         <translation>Reliëf versterken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="230"/>
+        <location filename="DlgConvert.cpp" line="239"/>
         <location filename="DlgFilter.cpp" line="22"/>
         <source>Average</source>
         <translation>Gemiddeld</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="231"/>
+        <location filename="DlgConvert.cpp" line="240"/>
+        <location filename="DlgConvert.cpp" line="1707"/>
         <location filename="DlgFilter.cpp" line="23"/>
         <source>Blur</source>
         <translation>Vervagen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="232"/>
+        <location filename="DlgConvert.cpp" line="241"/>
         <location filename="DlgFilter.cpp" line="24"/>
         <source>Soften</source>
         <translation>Verzachten</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="233"/>
+        <location filename="DlgConvert.cpp" line="242"/>
         <location filename="DlgFilter.cpp" line="25"/>
         <source>Gaussian blur</source>
         <translation>Gaussiaans vervagen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="234"/>
+        <location filename="DlgConvert.cpp" line="243"/>
         <location filename="DlgFilter.cpp" line="39"/>
         <source>Maximum</source>
         <translation>Maximum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="235"/>
+        <location filename="DlgConvert.cpp" line="244"/>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="236"/>
+        <location filename="DlgConvert.cpp" line="245"/>
         <location filename="DlgFilter.cpp" line="41"/>
         <source>Median box</source>
         <translation>Mediaan rechthoek</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="237"/>
+        <location filename="DlgConvert.cpp" line="246"/>
         <location filename="DlgFilter.cpp" line="42"/>
         <source>Median cross</source>
         <translation>Mediaan diagonaal</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="238"/>
+        <location filename="DlgConvert.cpp" line="247"/>
+        <location filename="DlgConvert.cpp" line="1714"/>
         <location filename="DlgFilter.cpp" line="36"/>
         <source>Sharpen</source>
         <translation>Verscherpen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="240"/>
+        <location filename="DlgConvert.cpp" line="249"/>
         <location filename="DlgFilter.cpp" line="44"/>
         <source>Reduce noise</source>
         <translation>Ruis onderdrukken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="249"/>
+        <location filename="DlgConvert.cpp" line="258"/>
         <location filename="DlgFilter.cpp" line="53"/>
         <source>Mosaic</source>
         <translation>Mozaïek</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="250"/>
+        <location filename="DlgConvert.cpp" line="259"/>
         <location filename="DlgFilter.cpp" line="54"/>
         <source>Slice</source>
         <translation>Plakje</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="251"/>
+        <location filename="DlgConvert.cpp" line="260"/>
         <location filename="DlgFilter.cpp" line="55"/>
         <source>Tile</source>
         <translation>Tegel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="252"/>
+        <location filename="DlgConvert.cpp" line="261"/>
         <location filename="DlgFilter.cpp" line="56"/>
         <source>Shear</source>
         <translation>Scheren</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="253"/>
+        <location filename="DlgConvert.cpp" line="262"/>
         <location filename="DlgFilter.cpp" line="57"/>
         <source>Oil painting</source>
         <translation>Olieverf schilderij</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="254"/>
+        <location filename="DlgConvert.cpp" line="263"/>
         <location filename="DlgFilter.cpp" line="58"/>
         <source>Oil painting 2</source>
         <translation>Olieverf schilderij 2</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="255"/>
+        <location filename="DlgConvert.cpp" line="264"/>
         <location filename="DlgFilter.cpp" line="59"/>
         <source>Swirl</source>
         <translation>Werveling</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="256"/>
+        <location filename="DlgConvert.cpp" line="265"/>
         <location filename="DlgFilter.cpp" line="60"/>
         <source>Spread</source>
         <translation>Verspreiden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="257"/>
+        <location filename="DlgConvert.cpp" line="266"/>
         <location filename="DlgFilter.cpp" line="61"/>
         <source>Lens</source>
         <translation>Lens</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="260"/>
+        <location filename="DlgConvert.cpp" line="269"/>
         <location filename="DlgFilter.cpp" line="64"/>
         <source>Band</source>
         <translation>Band</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="273"/>
+        <location filename="DlgConvert.cpp" line="282"/>
         <location filename="DlgFilter.cpp" line="77"/>
         <source>Pointillize</source>
         <translation>Pointillisme</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1643"/>
-        <source>Image</source>
-        <translation>Afbeelding</translation>
+        <location filename="DlgConvert.cpp" line="1705"/>
+        <source>Add</source>
+        <translation type="unfinished">Toevoegen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1644"/>
-        <source>Map</source>
-        <translation>Aanpassen</translation>
+        <location filename="DlgConvert.cpp" line="1708"/>
+        <source>Channel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1645"/>
-        <source>Filter</source>
-        <translation>Filter</translation>
+        <location filename="DlgConvert.cpp" line="1709"/>
+        <source>Enhance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1646"/>
-        <source>Misc</source>
-        <translation>Div</translation>
+        <location filename="DlgConvert.cpp" line="1710"/>
+        <source>Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="1711"/>
+        <source>Metadata</source>
+        <translation type="unfinished">Metagegevens</translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="1712"/>
+        <source>Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="1713"/>
+        <source>Pixelate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="1715"/>
+        <source>Stylize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="1716"/>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="1717"/>
+        <source>Video</source>
+        <translation type="unfinished">Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2660"/>
+        <location filename="DlgConvert.cpp" line="2746"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 bestand(en) - %2% - %3</translation>
     </message>
@@ -1775,11 +1814,6 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DlgEnhanceColors.cpp" line="188"/>
         <source>Enhance colors</source>
         <translation>Kleuren versterken</translation>
-    </message>
-    <message>
-        <location filename="DlgLevels.h" line="47"/>
-        <source>Levels...</source>
-        <translation>Niveaus…</translation>
     </message>
     <message>
         <location filename="DlgFilm.cpp" line="133"/>
@@ -2979,8 +3013,9 @@ Overschrijven?</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="281"/>
-        <source>Hide XnView</source>
-        <translation>Verberg XnView</translation>
+        <source>Hide XnView MP</source>
+        <oldsource>Hide XnView</oldsource>
+        <translation type="unfinished">Verberg XnView</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="288"/>
@@ -3513,29 +3548,29 @@ Overschrijven?</translation>
 <context>
     <name>DlgConvert</name>
     <message>
-        <location filename="DlgConvert.cpp" line="724"/>
+        <location filename="DlgConvert.cpp" line="747"/>
         <source>_result</source>
         <translation>_resultaat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1133"/>
+        <location filename="DlgConvert.cpp" line="1156"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;XnConvert wordt aangeboden als freeware voor privé (niet-commercieel) of educatief gebruik, inclusief non-profit organisatie. &lt;br&gt;Bedrijven moet licenties kopen om het te kunnen gebruiken.&lt;br&gt; &lt;br&gt;U krijgt het recht om deze software te gebruiken en een onbeperkt aantal kopieën te maken.&lt;br&gt; &lt;br&gt;Deze software wordt geleverd &quot;as-is&quot;.&lt;br&gt;Geen enkele garantie wordt uitgedrukt of geïmpliceerd.&lt;br&gt; De auteur is niet aansprakelijk voor gegevensverlies, schade, winstderving of enig ander verlies tijdens het gebruik of misbruik van deze software.&lt;br&gt; &lt;br&gt;Alle suggesties, feedback en opmerkingen zijn welkom. </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1283"/>
+        <location filename="DlgConvert.cpp" line="1306"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
         <translation>Toepassing opnieuw starten.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1305"/>
+        <location filename="DlgConvert.cpp" line="1328"/>
         <source>New version</source>
         <translation>Nieuwe versie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1306"/>
+        <location filename="DlgConvert.cpp" line="1329"/>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
@@ -3545,33 +3580,33 @@ Do you want to go on the download page?</source>
 Wil je naar de download-pagina gaan?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1552"/>
+        <location filename="DlgConvert.cpp" line="1614"/>
         <source>Export script</source>
         <translation>Script exporteren</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1558"/>
+        <location filename="DlgConvert.cpp" line="1620"/>
         <source>Would you like to export filenames, too?</source>
         <translation>Wenst u de bestandsnamen ook te exporteren?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1874"/>
+        <location filename="DlgConvert.cpp" line="1944"/>
         <source>Load script</source>
         <translation>Script laden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1888"/>
+        <location filename="DlgConvert.cpp" line="1958"/>
         <source>Save script</source>
         <translation>Script opslaan</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2014"/>
-        <location filename="DlgConvert.cpp" line="2018"/>
+        <location filename="DlgConvert.cpp" line="2084"/>
+        <location filename="DlgConvert.cpp" line="2088"/>
         <source>Parameters</source>
         <translation>Parameters</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2056"/>
+        <location filename="DlgConvert.cpp" line="2133"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Invoer: %n bestand</numerusform>
@@ -3579,17 +3614,17 @@ Wil je naar de download-pagina gaan?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2086"/>
+        <location filename="DlgConvert.cpp" line="2163"/>
         <source>Choose a directory</source>
         <translation>Kies een map</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2125"/>
+        <location filename="DlgConvert.cpp" line="2202"/>
         <source>Choose ZIP filename</source>
         <translation>Kies een ZIP bestandsnaam</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2297"/>
+        <location filename="DlgConvert.cpp" line="2383"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n seconde</numerusform>
@@ -3597,8 +3632,8 @@ Wil je naar de download-pagina gaan?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2300"/>
-        <location filename="DlgConvert.cpp" line="2304"/>
+        <location filename="DlgConvert.cpp" line="2386"/>
+        <location filename="DlgConvert.cpp" line="2390"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minuut</numerusform>
@@ -3606,12 +3641,12 @@ Wil je naar de download-pagina gaan?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2334"/>
+        <location filename="DlgConvert.cpp" line="2420"/>
         <source>Overwrite</source>
         <translation>Overschrijven</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2335"/>
+        <location filename="DlgConvert.cpp" line="2421"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3621,28 +3656,28 @@ Do you want to overwrite it?</source>
 Overschrijven?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2344"/>
+        <location filename="DlgConvert.cpp" line="2430"/>
         <source>Saving ZIP file...</source>
         <translation>ZIP-bestand opslaan…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2347"/>
+        <location filename="DlgConvert.cpp" line="2433"/>
         <source>: saved</source>
         <translation>: opgeslagen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2373"/>
+        <location filename="DlgConvert.cpp" line="2459"/>
         <source>Uploading image(s) to server...</source>
         <translation>Afbeelding(en) uploaden naar server…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2436"/>
-        <location filename="DlgConvert.cpp" line="2438"/>
+        <location filename="DlgConvert.cpp" line="2522"/>
+        <location filename="DlgConvert.cpp" line="2524"/>
         <source>[Finished]</source>
         <translation>[Gereed]</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2645"/>
+        <location filename="DlgConvert.cpp" line="2731"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n seconde resterend</numerusform>
@@ -3650,8 +3685,8 @@ Overschrijven?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2648"/>
-        <location filename="DlgConvert.cpp" line="2652"/>
+        <location filename="DlgConvert.cpp" line="2734"/>
+        <location filename="DlgConvert.cpp" line="2738"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minuut resterend</numerusform>
@@ -3659,8 +3694,8 @@ Overschrijven?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2304"/>
-        <location filename="DlgConvert.cpp" line="2652"/>
+        <location filename="DlgConvert.cpp" line="2390"/>
+        <location filename="DlgConvert.cpp" line="2738"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n uur en </numerusform>
@@ -3668,185 +3703,190 @@ Overschrijven?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2684"/>
+        <location filename="DlgConvert.cpp" line="2770"/>
         <source>Output filename</source>
         <translation>Naam uitvoerbestand</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="161"/>
+        <location filename="DlgConvert.cpp" line="170"/>
         <source>Same as original</source>
         <translation>Zoals origineel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="558"/>
+        <location filename="DlgConvert.cpp" line="579"/>
         <source>Convert with XnConvert</source>
         <translation>Converteren met XnConvert</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="593"/>
+        <location filename="DlgConvert.cpp" line="614"/>
         <source>Save log as...</source>
         <translation>Logboek opslaan als…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="599"/>
+        <location filename="DlgConvert.cpp" line="620"/>
         <source>Export log</source>
         <translation>Exporteer log</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1411"/>
-        <location filename="DlgConvert.cpp" line="1420"/>
+        <location filename="DlgConvert.cpp" line="1442"/>
+        <location filename="DlgConvert.cpp" line="1451"/>
         <source>Actions</source>
         <translation>Acties</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1516"/>
+        <location filename="DlgConvert.cpp" line="1569"/>
         <source>Load image...</source>
         <translation>Afbeelding laden…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1520"/>
+        <location filename="DlgConvert.cpp" line="1575"/>
+        <source>Remove file from filelist</source>
+        <translation type="unfinished">Bestand van bestandenlijst verwijderen</translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.cpp" line="1582"/>
         <source>Use image from input files</source>
         <translation>Afbeeldingen van invoerbestanden gebruiken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2210"/>
+        <location filename="DlgConvert.cpp" line="2287"/>
         <source>Cancel batch processing</source>
         <translation>Verwerking van reeks annuleren</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2210"/>
+        <location filename="DlgConvert.cpp" line="2287"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>Wilt u de lopende verwerking van de reeks annuleren?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2253"/>
+        <location filename="DlgConvert.cpp" line="2339"/>
         <source>Loading error(s):</source>
         <translation>Fout(en) bij het laden:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2261"/>
+        <location filename="DlgConvert.cpp" line="2347"/>
         <source>Saving error(s):</source>
         <translation>Fout(en) bij het opslaan:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2272"/>
+        <location filename="DlgConvert.cpp" line="2358"/>
         <source>Input files:</source>
         <translation>Invoerbestanden:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2273"/>
+        <location filename="DlgConvert.cpp" line="2359"/>
         <source>Extracted pages:</source>
         <translation>Uitgepakte pagina&apos;s:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2276"/>
+        <location filename="DlgConvert.cpp" line="2362"/>
         <source>New files:</source>
         <translation>Nieuwe bestanden:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2278"/>
+        <location filename="DlgConvert.cpp" line="2364"/>
         <source>Overwritten:</source>
         <translation>Overschreven:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2280"/>
+        <location filename="DlgConvert.cpp" line="2366"/>
         <source>Skipped:</source>
         <translation>Overgeslagen:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2284"/>
+        <location filename="DlgConvert.cpp" line="2370"/>
         <source>Total input file size:</source>
         <translation>Totale grootte van het bestand:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2285"/>
+        <location filename="DlgConvert.cpp" line="2371"/>
         <source>Total output file size:</source>
         <translation>Totale grootte uitvoerbestand:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2287"/>
+        <location filename="DlgConvert.cpp" line="2373"/>
         <source>File size ratio:</source>
         <translation>Bestandsgrootte ratio:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2291"/>
+        <location filename="DlgConvert.cpp" line="2377"/>
         <source>Total Duration:</source>
         <translation>Totale duur:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2450"/>
+        <location filename="DlgConvert.cpp" line="2536"/>
         <source>Finished at: </source>
         <translation>Voltooid om: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2481"/>
+        <location filename="DlgConvert.cpp" line="2567"/>
         <source>uploaded</source>
         <translation>geüpload</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2489"/>
+        <location filename="DlgConvert.cpp" line="2575"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation>geen afbeelding</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2492"/>
+        <location filename="DlgConvert.cpp" line="2578"/>
         <source>open error</source>
         <translation>fout bij openen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2495"/>
+        <location filename="DlgConvert.cpp" line="2581"/>
         <source>create error</source>
         <translation>fout bij aanmaken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2498"/>
+        <location filename="DlgConvert.cpp" line="2584"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>is schrijfbeveiligd en kan dus niet worden overschreven!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2501"/>
+        <location filename="DlgConvert.cpp" line="2587"/>
         <source>skipped, file already exists!</source>
         <translation>overgeslagen, bestand bestaat al!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2503"/>
+        <location filename="DlgConvert.cpp" line="2589"/>
         <source>failed</source>
         <translation>mislukt</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2509"/>
+        <location filename="DlgConvert.cpp" line="2595"/>
         <source>loading</source>
         <translation>Ladende</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2527"/>
+        <location filename="DlgConvert.cpp" line="2613"/>
         <source>loaded</source>
         <translation>geladen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2561"/>
+        <location filename="DlgConvert.cpp" line="2647"/>
         <source>copied</source>
         <translation>gekopieerd</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2565"/>
+        <location filename="DlgConvert.cpp" line="2651"/>
         <source>saved</source>
         <translation>opgeslagen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2579"/>
+        <location filename="DlgConvert.cpp" line="2665"/>
         <source>%1 of %2 files</source>
         <translation>%1 of %2 bestanden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2610"/>
+        <location filename="DlgConvert.cpp" line="2696"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Bestand overschrijven</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2611"/>
+        <location filename="DlgConvert.cpp" line="2697"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3859,32 +3899,32 @@ Do you want to overwrite it?</oldsource>
 Overschrijven?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2613"/>
+        <location filename="DlgConvert.cpp" line="2699"/>
         <source>Yes to &amp;all</source>
         <translation>Ja voor &amp;Alles</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2614"/>
+        <location filename="DlgConvert.cpp" line="2700"/>
         <source>&amp;Yes</source>
         <translation>&amp;Ja</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2615"/>
+        <location filename="DlgConvert.cpp" line="2701"/>
         <source>&amp;No</source>
         <translation>&amp;Nee</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2616"/>
+        <location filename="DlgConvert.cpp" line="2702"/>
         <source>&amp;Rename</source>
         <translation>He&amp;rnoemen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2617"/>
+        <location filename="DlgConvert.cpp" line="2703"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Annuleren</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2674"/>
+        <location filename="DlgConvert.cpp" line="2760"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3893,7 +3933,7 @@ Do you want to continue?</source>
 Wil je doorgaan?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2684"/>
+        <location filename="DlgConvert.cpp" line="2770"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
@@ -3902,12 +3942,12 @@ Do you want to continue?</source>
 Wil je doorgaan?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2693"/>
+        <location filename="DlgConvert.cpp" line="2779"/>
         <source>Choose output pathname</source>
         <translation>Kies een uitvoerpad</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2707"/>
+        <location filename="DlgConvert.cpp" line="2793"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
@@ -3916,13 +3956,13 @@ Do you want to continue?</source>
 Wilt u doorgaan?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2835"/>
+        <location filename="DlgConvert.cpp" line="2921"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>De instelling &apos;Meerdere CPU-kernen gebruiken&apos; is uitgeschakeld. Deze instelling kan niet worden gecombineerd met de modus &apos;Vragen&apos; of pdf-bestanden met meerdere pagina&apos;s.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2837"/>
+        <location filename="DlgConvert.cpp" line="2923"/>
         <source>Started at: </source>
         <translation>Gestart op: </translation>
     </message>
@@ -4159,8 +4199,9 @@ Wilt u doorgaan?</translation>
         <location filename="DlgConvertBorder.ui" line="106"/>
         <location filename="DlgConvertBorder.ui" line="200"/>
         <location filename="DlgConvertBorder.ui" line="294"/>
-        <source>Rounded edge</source>
-        <translation>Ronde hoeken</translation>
+        <source>Rounded corner</source>
+        <oldsource>Rounded edge</oldsource>
+        <translation type="unfinished">Ronde hoeken</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4467,7 +4508,7 @@ Wilt u doorgaan?</translation>
         <translation>Map toevoegen…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1716"/>
+        <location filename="DlgConvert.ui" line="1793"/>
         <location filename="DlgConvert-old.ui" line="101"/>
         <source>Load format settings...</source>
         <translation>Formaatinstellingen laden…</translation>
@@ -4511,25 +4552,27 @@ Wilt u doorgaan?</translation>
         <translation>Parameters</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="180"/>
+        <location filename="DlgConvert.ui" line="197"/>
         <location filename="DlgConvert-old.ui" line="726"/>
         <source>Update preview</source>
         <translation>Voorbeeld bijwerken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="206"/>
+        <location filename="DlgConvert.ui" line="223"/>
         <location filename="DlgConvert-old.ui" line="752"/>
         <source>Apply actions</source>
         <translation>Acties toepassen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="209"/>
+        <location filename="DlgConvert.ui" line="243"/>
+        <location filename="DlgConvert.ui" line="270"/>
         <location filename="DlgConvert.ui" line="284"/>
-        <location filename="DlgConvert.ui" line="301"/>
-        <location filename="DlgConvert.ui" line="328"/>
-        <location filename="DlgConvert.ui" line="342"/>
-        <location filename="DlgConvert.ui" line="356"/>
-        <location filename="DlgConvert.ui" line="370"/>
+        <location filename="DlgConvert.ui" line="298"/>
+        <location filename="DlgConvert.ui" line="312"/>
+        <location filename="DlgConvert.ui" line="416"/>
+        <location filename="DlgConvert.ui" line="433"/>
+        <location filename="DlgConvert.ui" line="450"/>
+        <location filename="DlgConvert.ui" line="467"/>
         <location filename="DlgConvert-old.ui" line="755"/>
         <location filename="DlgConvert-old.ui" line="830"/>
         <location filename="DlgConvert-old.ui" line="847"/>
@@ -4541,49 +4584,46 @@ Wilt u doorgaan?</translation>
         <translation>…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="231"/>
+        <location filename="DlgConvert.ui" line="184"/>
         <location filename="DlgConvert-old.ui" line="777"/>
         <source>Preview</source>
         <translation>Voorbeeld</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="243"/>
         <location filename="DlgConvert-old.ui" line="789"/>
         <source>You can switch between tabs with &apos;space&apos; key</source>
         <translation>Gebruik spatiebalk om tabblad te wisselen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="250"/>
         <location filename="DlgConvert-old.ui" line="796"/>
         <source>Before</source>
         <translation>Vóór</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="260"/>
         <location filename="DlgConvert-old.ui" line="806"/>
         <source>After</source>
         <translation>Ná</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="281"/>
+        <location filename="DlgConvert.ui" line="430"/>
         <location filename="DlgConvert-old.ui" line="827"/>
         <source>Previous file</source>
         <translation>Vorig bestand</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="298"/>
+        <location filename="DlgConvert.ui" line="447"/>
         <location filename="DlgConvert-old.ui" line="844"/>
         <source>Next file</source>
         <translation>Volgend bestand</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="339"/>
+        <location filename="DlgConvert.ui" line="309"/>
         <location filename="DlgConvert-old.ui" line="871"/>
         <source>Best fit</source>
         <translation>Best passend</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1165"/>
+        <location filename="DlgConvert.ui" line="1242"/>
         <location filename="DlgConvert-old.ui" line="1617"/>
         <source>Clear the &apos;Input&apos; file(s)</source>
         <translation>Bestandenlijst wissen</translation>
@@ -4594,77 +4634,91 @@ Wilt u doorgaan?</translation>
         <translation>Script opslaan als</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="407"/>
         <location filename="DlgConvert-old.ui" line="933"/>
         <source>Load image...</source>
         <translation>Afbeelding laden…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="450"/>
-        <location filename="DlgConvert.ui" line="462"/>
+        <location filename="DlgConvert.ui" line="527"/>
+        <location filename="DlgConvert.ui" line="539"/>
         <location filename="DlgConvert-old.ui" line="962"/>
         <location filename="DlgConvert-old.ui" line="974"/>
         <source>Output</source>
         <translation>Uitvoer</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1220"/>
+        <location filename="DlgConvert.ui" line="1297"/>
         <location filename="DlgConvert-old.ui" line="1658"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1276"/>
+        <location filename="DlgConvert.ui" line="1353"/>
         <location filename="DlgConvert-old.ui" line="1683"/>
         <source>Estimated end time:</source>
         <translation>Geschatte eindtijd:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1306"/>
+        <location filename="DlgConvert.ui" line="1383"/>
         <location filename="DlgConvert-old.ui" line="1713"/>
         <source>Remaining:</source>
         <translation>Resterend:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1380"/>
+        <location filename="DlgConvert.ui" line="1457"/>
         <location filename="DlgConvert-old.ui" line="1743"/>
         <source>Error(s):</source>
         <translation>Fout(en):</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="537"/>
+        <location filename="DlgConvert.ui" line="614"/>
         <location filename="DlgConvert-old.ui" line="1068"/>
         <source>Source folder</source>
         <translation>Bronmap</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="483"/>
-        <location filename="DlgConvert.ui" line="549"/>
+        <location filename="DlgConvert.ui" line="240"/>
+        <source>Show original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.ui" line="413"/>
+        <source>First file</source>
+        <translation type="unfinished">Eerste bestand</translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.ui" line="464"/>
+        <source>Last file</source>
+        <translation type="unfinished">Laatste bestand</translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.ui" line="560"/>
+        <location filename="DlgConvert.ui" line="626"/>
         <location filename="DlgConvert-old.ui" line="989"/>
         <location filename="DlgConvert-old.ui" line="1083"/>
         <source>Folder</source>
         <translation>Map</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="488"/>
+        <location filename="DlgConvert.ui" line="565"/>
         <location filename="DlgConvert-old.ui" line="994"/>
         <source>E-Mail</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="498"/>
+        <location filename="DlgConvert.ui" line="575"/>
         <location filename="DlgConvert-old.ui" line="1004"/>
         <source>FTP</source>
         <translation>FTP</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="573"/>
+        <location filename="DlgConvert.ui" line="650"/>
         <location filename="DlgConvert-old.ui" line="1104"/>
         <source>Recipient:</source>
         <translation>Ontvanger:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="634"/>
+        <location filename="DlgConvert.ui" line="711"/>
         <location filename="DlgConvert-old.ui" line="1162"/>
         <source>Output filename:</source>
         <translation>Uitvoerbestand:</translation>
@@ -4675,69 +4729,69 @@ Wilt u doorgaan?</translation>
         <translation>Album:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="750"/>
-        <location filename="DlgConvert.ui" line="758"/>
+        <location filename="DlgConvert.ui" line="827"/>
+        <location filename="DlgConvert.ui" line="835"/>
         <location filename="DlgConvert-old.ui" line="1370"/>
         <location filename="DlgConvert-old.ui" line="1379"/>
         <source>Filename</source>
         <translation>Bestandsnaam</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="787"/>
+        <location filename="DlgConvert.ui" line="864"/>
         <location filename="DlgConvert-old.ui" line="1389"/>
         <source>Case</source>
         <translation>Schrijfwijze</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="795"/>
+        <location filename="DlgConvert.ui" line="872"/>
         <location filename="DlgConvert-old.ui" line="1397"/>
         <source>No change</source>
         <translation>Geen wijzigingen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="800"/>
+        <location filename="DlgConvert.ui" line="877"/>
         <location filename="DlgConvert-old.ui" line="1402"/>
         <source>Name &amp; extension lowercase</source>
         <translation>Naam &amp; extensie kleine letters</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="805"/>
+        <location filename="DlgConvert.ui" line="882"/>
         <location filename="DlgConvert-old.ui" line="1407"/>
         <source>Name &amp; extension uppercase</source>
         <translation>Naam &amp; extensie in kapitalen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="810"/>
+        <location filename="DlgConvert.ui" line="887"/>
         <location filename="DlgConvert-old.ui" line="1412"/>
         <source>Name lowercase</source>
         <translation>Naam in kleine letters</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="815"/>
+        <location filename="DlgConvert.ui" line="892"/>
         <location filename="DlgConvert-old.ui" line="1417"/>
         <source>Name uppercase</source>
         <translation>Naam in kapitalen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="820"/>
+        <location filename="DlgConvert.ui" line="897"/>
         <location filename="DlgConvert-old.ui" line="1422"/>
         <source>Extension lowercase</source>
         <translation>Extensie in kleine letters</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="825"/>
+        <location filename="DlgConvert.ui" line="902"/>
         <location filename="DlgConvert-old.ui" line="1427"/>
         <source>Extension uppercase</source>
         <translation>Extensie in kapitalen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="830"/>
+        <location filename="DlgConvert.ui" line="907"/>
         <location filename="DlgConvert-old.ui" line="1432"/>
         <source>First letters uppercase</source>
         <translation>Eerste letters in kapitalen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="881"/>
+        <location filename="DlgConvert.ui" line="958"/>
         <location filename="DlgConvert-old.ui" line="1449"/>
         <source>Format</source>
         <translation>Formaat</translation>
@@ -4748,53 +4802,53 @@ Wilt u doorgaan?</translation>
         <translation>Zoals origineel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1024"/>
+        <location filename="DlgConvert.ui" line="1101"/>
         <source>Preserve extension</source>
         <translation>Behoud de extension</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1618"/>
+        <location filename="DlgConvert.ui" line="1695"/>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
         <translation>Opmerking: Start opnieuw met beheerdersrechten om deze instelling te kunnen wijzigen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1654"/>
+        <location filename="DlgConvert.ui" line="1731"/>
         <source>Preview background color</source>
         <translation>Achtergrondkleur voorvertoning</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1707"/>
+        <location filename="DlgConvert.ui" line="1784"/>
         <source>Use color based on file format</source>
         <translation>Gebruik kleuren op basis van het bestandsformaat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1812"/>
+        <location filename="DlgConvert.ui" line="1889"/>
         <source>Presets:</source>
         <translation>Voorinstellingen:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1819"/>
+        <location filename="DlgConvert.ui" line="1896"/>
         <source>Load preset</source>
         <translation>Voorinstellingen laden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1852"/>
+        <location filename="DlgConvert.ui" line="1929"/>
         <source>Save preset</source>
         <translation>Voorinstelling opslaan</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1866"/>
+        <location filename="DlgConvert.ui" line="1943"/>
         <source>Remove preset from list</source>
         <translation>Voorinstelling van de lijst wissen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="2010"/>
+        <location filename="DlgConvert.ui" line="2087"/>
         <source>&amp;Convert</source>
         <translation>&amp;Converteren</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="698"/>
-        <location filename="DlgConvert.ui" line="900"/>
+        <location filename="DlgConvert.ui" line="775"/>
+        <location filename="DlgConvert.ui" line="977"/>
         <location filename="DlgConvert-old.ui" line="1223"/>
         <location filename="DlgConvert-old.ui" line="1285"/>
         <location filename="DlgConvert-old.ui" line="1322"/>
@@ -4803,7 +4857,7 @@ Wilt u doorgaan?</translation>
         <translation>Instellingen…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="916"/>
+        <location filename="DlgConvert.ui" line="993"/>
         <location filename="DlgConvert-old.ui" line="1489"/>
         <location filename="Helper.cpp" line="526"/>
         <source>Options</source>
@@ -4815,102 +4869,102 @@ Wilt u doorgaan?</translation>
         <translation>Als uitvoerbestaand al bestaat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="935"/>
+        <location filename="DlgConvert.ui" line="1012"/>
         <location filename="DlgConvert-old.ui" line="1508"/>
         <source>Replace</source>
         <translation>Vervangen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="940"/>
+        <location filename="DlgConvert.ui" line="1017"/>
         <location filename="DlgConvert-old.ui" line="1513"/>
         <source>Ask</source>
         <translation>Vragen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="945"/>
+        <location filename="DlgConvert.ui" line="1022"/>
         <location filename="DlgConvert-old.ui" line="1518"/>
         <source>Skip</source>
         <translation>Overslaan</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="950"/>
+        <location filename="DlgConvert.ui" line="1027"/>
         <location filename="DlgConvert-old.ui" line="1523"/>
         <source>Rename</source>
         <translation>Hernoemen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="980"/>
+        <location filename="DlgConvert.ui" line="1057"/>
         <location filename="DlgConvert-old.ui" line="1533"/>
         <source>Keep folder structure</source>
         <translation>Mappenstructuur behouden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1017"/>
+        <location filename="DlgConvert.ui" line="1094"/>
         <location filename="DlgConvert-old.ui" line="1540"/>
         <source>Keep original date/time attributes</source>
         <translation>Originele datum/tijd behouden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1031"/>
+        <location filename="DlgConvert.ui" line="1108"/>
         <location filename="DlgConvert-old.ui" line="1547"/>
         <source>Preserve Metadata</source>
         <translation>Metagegevens behouden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1038"/>
+        <location filename="DlgConvert.ui" line="1115"/>
         <location filename="DlgConvert-old.ui" line="1554"/>
         <source>Preserve color profile</source>
         <translation>Kleurprofiel behouden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1045"/>
+        <location filename="DlgConvert.ui" line="1122"/>
         <location filename="DlgConvert-old.ui" line="1561"/>
         <source>Delete original</source>
         <translation>Origineel verwijderen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1116"/>
+        <location filename="DlgConvert.ui" line="1193"/>
         <location filename="DlgConvert-old.ui" line="1575"/>
         <source>Multipage</source>
         <translation>Meerpagina</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1122"/>
+        <location filename="DlgConvert.ui" line="1199"/>
         <location filename="DlgConvert-old.ui" line="1581"/>
         <source>Convert multipage file to multipage file (when possible)</source>
         <translation>Meerpagina-bestanden converteren(indien mogelijk)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1129"/>
+        <location filename="DlgConvert.ui" line="1206"/>
         <location filename="DlgConvert-old.ui" line="1588"/>
         <source>Convert all pages from multipage file</source>
         <translation>Alle pagina&apos;s van een meerpagina-bestand converteren</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1145"/>
+        <location filename="DlgConvert.ui" line="1222"/>
         <location filename="DlgConvert-old.ui" line="1604"/>
         <source>After conversion</source>
         <translation>Na conversie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1151"/>
+        <location filename="DlgConvert.ui" line="1228"/>
         <location filename="DlgConvert-old.ui" line="1610"/>
         <source>Open file explorer</source>
         <translation>Windows verkenner openen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1172"/>
+        <location filename="DlgConvert.ui" line="1249"/>
         <source>Beep at the end of process</source>
         <translation>Beep op einde verwerking</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1752"/>
+        <location filename="DlgConvert.ui" line="1829"/>
         <location filename="DlgConvert-old.ui" line="1763"/>
         <source>About</source>
         <translation>Over</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1466"/>
+        <location filename="DlgConvert.ui" line="1543"/>
         <location filename="DlgConvert-old.ui" line="1798"/>
         <source>Language</source>
         <translation>Taal</translation>
@@ -4926,147 +4980,142 @@ Wilt u doorgaan?</translation>
         <translation>Actie toevoegen&gt;</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="325"/>
+        <location filename="DlgConvert.ui" line="267"/>
         <source>Zoom in</source>
         <translation>Inzoomen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="367"/>
+        <location filename="DlgConvert.ui" line="281"/>
         <source>Zoom out</source>
         <translation>Uitzoomen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="417"/>
-        <source>Remove file from filelist</source>
-        <translation>Bestand van bestandenlijst verwijderen</translation>
-    </message>
-    <message>
-        <location filename="DlgConvert.ui" line="854"/>
+        <location filename="DlgConvert.ui" line="931"/>
         <source>Start index</source>
         <translation>Start index</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="924"/>
+        <location filename="DlgConvert.ui" line="1001"/>
         <source>If an output file already exists</source>
         <oldsource>If an output file arealdy exists</oldsource>
         <translation>Als uitvoerbestaand al bestaat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="973"/>
+        <location filename="DlgConvert.ui" line="1050"/>
         <source>Keep original file when encoded result is larger (experimental)</source>
         <oldsource>Keep original file when encoded result is larger</oldsource>
         <translation>Het originele bestand behouden als het resultaat groter is (experimenteel)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1008"/>
+        <location filename="DlgConvert.ui" line="1085"/>
         <source>Keep parent folder</source>
         <translation>Bovenliggende map behouden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1054"/>
+        <location filename="DlgConvert.ui" line="1131"/>
         <source>Use multiple CPU Cores</source>
         <oldsource>Use CPU Cores</oldsource>
         <translation>Meerdere CPU-kernen gebruiken</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1158"/>
+        <location filename="DlgConvert.ui" line="1235"/>
         <source>Open in Browser</source>
         <translation>Openen in verkenner</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1179"/>
+        <location filename="DlgConvert.ui" line="1256"/>
         <source>Exit after conversion</source>
         <oldsource>Close after conversion</oldsource>
         <translation>Sluit af na de conversie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1228"/>
+        <location filename="DlgConvert.ui" line="1305"/>
         <source>Processing list:</source>
         <translation>Verwerkingslijst:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1444"/>
+        <location filename="DlgConvert.ui" line="1521"/>
         <source>Settings</source>
         <translation>Instellingen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1497"/>
+        <location filename="DlgConvert.ui" line="1574"/>
         <source>Theme</source>
         <translation>Thema</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1505"/>
+        <location filename="DlgConvert.ui" line="1582"/>
         <source>Default</source>
         <translation>Standaard</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1510"/>
+        <location filename="DlgConvert.ui" line="1587"/>
         <source>Light</source>
         <translation>Licht</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1515"/>
+        <location filename="DlgConvert.ui" line="1592"/>
         <source>Dark</source>
         <translation>Donker</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1540"/>
+        <location filename="DlgConvert.ui" line="1617"/>
         <source>Check for program updates</source>
         <translation>Op nieuwe versie controleren</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1548"/>
+        <location filename="DlgConvert.ui" line="1625"/>
         <source>Never</source>
         <translation>Nooit</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1553"/>
+        <location filename="DlgConvert.ui" line="1630"/>
         <source>Daily</source>
         <translation>Dagelijks</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1558"/>
+        <location filename="DlgConvert.ui" line="1635"/>
         <source>Weekly</source>
         <translation>Wekelijks</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1563"/>
+        <location filename="DlgConvert.ui" line="1640"/>
         <source>Monthly</source>
         <translation>Maandelijks</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1686"/>
+        <location filename="DlgConvert.ui" line="1763"/>
         <source>Clear filename field at startup</source>
         <translation>Bestandsnaam-veld wissen bij opstarten</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1586"/>
+        <location filename="DlgConvert.ui" line="1663"/>
         <location filename="DlgConvert-old.ui" line="1825"/>
         <source>Load last script used at startup</source>
         <translation>Bij opstarten laatstgebruikte script laden</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1593"/>
+        <location filename="DlgConvert.ui" line="1670"/>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
         <translation>&apos;Converteren met XnConvert&apos; toevoegen aan context-menu</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1679"/>
+        <location filename="DlgConvert.ui" line="1756"/>
         <source>Save actions list at exiting</source>
         <translation>Actielijst opslaan bij Afsluiten</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1700"/>
+        <location filename="DlgConvert.ui" line="1777"/>
         <source>Rotate images according to EXIF orientation tag</source>
         <translation>Afbeeldingen draaien op basis van EXIF-oriëntatie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1693"/>
+        <location filename="DlgConvert.ui" line="1770"/>
         <source>Restore previous input file list</source>
         <translation>Vorige lijst met invoerbestanden herstellen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1642"/>
+        <location filename="DlgConvert.ui" line="1719"/>
         <source>Registration...</source>
         <translation>Registratie…</translation>
     </message>
@@ -5081,23 +5130,23 @@ Wilt u doorgaan?</translation>
         <translation>Script van de lijst verwijderen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1893"/>
+        <location filename="DlgConvert.ui" line="1970"/>
         <location filename="DlgConvert-old.ui" line="1916"/>
         <source>Export for NConvert...</source>
         <translation>NConvert .bat exporteren…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1941"/>
+        <location filename="DlgConvert.ui" line="2018"/>
         <source>Follow us on Facebook...</source>
         <translation>Volg ons op Facebook…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1964"/>
+        <location filename="DlgConvert.ui" line="2041"/>
         <source>Follow us on Twitter...</source>
         <translation>Volg ons op X (Twitter)…</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="2003"/>
+        <location filename="DlgConvert.ui" line="2080"/>
         <location filename="DlgConvert-old.ui" line="1943"/>
         <source>Stop</source>
         <translation>Stoppen</translation>
@@ -5113,7 +5162,7 @@ Wilt u doorgaan?</translation>
         <translation>Annuleren</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="2021"/>
+        <location filename="DlgConvert.ui" line="2098"/>
         <source>Close</source>
         <translation>Sluiten</translation>
     </message>
@@ -5711,13 +5760,14 @@ Wilt u doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="129"/>
-        <source>Stretch mask</source>
-        <translation>Masker uitrekken</translation>
+        <source>Stretch</source>
+        <oldsource>Stretch mask</oldsource>
+        <translation type="unfinished">Masker uitrekken</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
-        <source>Repeat mask</source>
-        <translation>Masker herhalen</translation>
+        <source>Tile</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6642,9 +6692,15 @@ Wilt u doorgaan?</translation>
         <translation>Proportioneel</translation>
     </message>
     <message>
+        <location filename="DlgConvertWatermark.ui" line="148"/>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
-        <source>Tiling</source>
-        <translation>Tegeling</translation>
+        <source>Tile</source>
+        <oldsource>Tiling</oldsource>
+        <translation type="unfinished">Tegeling</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -6716,11 +6772,6 @@ Wilt u doorgaan?</translation>
         <location filename="DlgConvertWatermark.ui" line="141"/>
         <source>Fit</source>
         <translation>Passend</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertWatermark.ui" line="148"/>
-        <source>Fill</source>
-        <translation>Opvullen</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -7184,88 +7235,88 @@ Wilt u doorgaan?</translation>
         <translation>Herkomst</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="312"/>
+        <location filename="DlgEditXMP.ui" line="315"/>
         <source>Urgency</source>
         <translation>Urgentie</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="338"/>
+        <location filename="DlgEditXMP.ui" line="341"/>
         <source>IPTC Contact</source>
         <translation>IPTC Contact</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="390"/>
+        <location filename="DlgEditXMP.ui" line="393"/>
         <source>IPTC extensions</source>
         <translation>IPTC uitbreidngen</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="484"/>
+        <location filename="DlgEditXMP.ui" line="487"/>
         <source>Options</source>
         <translation>Opties</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="505"/>
+        <location filename="DlgEditXMP.ui" line="508"/>
         <source>Mode:</source>
         <translation>Modus:</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="513"/>
+        <location filename="DlgEditXMP.ui" line="516"/>
         <source>XMP only</source>
         <translation>enkel XMP</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="518"/>
+        <location filename="DlgEditXMP.ui" line="521"/>
         <source>XMP, update or create IPTC-IIM</source>
         <translation>XMP, IPTC-IIM bijwerken of aanmaken</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="547"/>
+        <location filename="DlgEditXMP.ui" line="550"/>
         <source>Multiple selection</source>
         <translation>Meervoudige selectie</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="556"/>
+        <location filename="DlgEditXMP.ui" line="559"/>
         <source>Keep original value if new value is empty</source>
         <translation>Originele waarde behouden bij lege invoer</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="563"/>
+        <location filename="DlgEditXMP.ui" line="566"/>
         <source>Replace only if original value is empty</source>
         <translation>Alleen vervangen bij lege originele waarde</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="573"/>
+        <location filename="DlgEditXMP.ui" line="576"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
         <translation>Geopende tab onthouden</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="632"/>
+        <location filename="DlgEditXMP.ui" line="635"/>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Links</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="652"/>
+        <location filename="DlgEditXMP.ui" line="655"/>
         <source>Ctrl+Right</source>
         <translation>CTRL+Rechts</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="666"/>
+        <location filename="DlgEditXMP.ui" line="669"/>
         <source>Save template...</source>
         <translation>Sjabloon opslaan…</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="676"/>
+        <location filename="DlgEditXMP.ui" line="679"/>
         <source>Load template...</source>
         <translation>Sjabloon laden…</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="702"/>
+        <location filename="DlgEditXMP.ui" line="705"/>
         <source>Clear all fields</source>
         <translation>Alle velden wissen</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="709"/>
+        <location filename="DlgEditXMP.ui" line="712"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
         <translation>Geen veldgegevens laden</translation>
@@ -7294,81 +7345,81 @@ Wilt u doorgaan?</translation>
         <translation>(Gebruik ; of , om de waarden te scheiden)</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="139"/>
+        <location filename="DlgEditXMP.cpp" line="140"/>
         <source>0: None</source>
         <translation>0: Geen</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="139"/>
+        <location filename="DlgEditXMP.cpp" line="140"/>
         <source>1: High</source>
         <translation>1: Hoog</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="140"/>
+        <location filename="DlgEditXMP.cpp" line="141"/>
         <source>5: Normal</source>
         <translation>5: Normaal</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="140"/>
+        <location filename="DlgEditXMP.cpp" line="141"/>
         <source>8: Low</source>
         <translation>8: Laag</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="265"/>
+        <location filename="DlgEditXMP.cpp" line="266"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation>Veldwaarden zijn niet geladen, omdat &quot;Veldwaarden niet laden&quot; geactiveerd is</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="512"/>
+        <location filename="DlgEditXMP.cpp" line="513"/>
         <source>Insert</source>
         <translation>Invoegen</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="524"/>
+        <location filename="DlgEditXMP.cpp" line="525"/>
         <source>Insert from</source>
         <translation>Formulier invoegen</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="545"/>
+        <location filename="DlgEditXMP.cpp" line="546"/>
         <source>Copy into</source>
         <translation>Kopiëren naar</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="569"/>
+        <location filename="DlgEditXMP.cpp" line="570"/>
         <source>Library</source>
         <translation>Bibliotheek</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="574"/>
+        <location filename="DlgEditXMP.cpp" line="575"/>
         <source>Edit history...</source>
         <translation>Geschiedenis bewerken…</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="575"/>
+        <location filename="DlgEditXMP.cpp" line="576"/>
         <source>Sort alphabetically</source>
         <translation>Alfabetisch sorteren</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="602"/>
+        <location filename="DlgEditXMP.cpp" line="603"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>IPTC-gegevens zijn veranderd.
 Wilt u de wijzigingen opslaan?</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="976"/>
+        <location filename="DlgEditXMP.cpp" line="977"/>
         <source>Required field</source>
         <translation>Verplicht veld</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="976"/>
+        <location filename="DlgEditXMP.cpp" line="977"/>
         <source>Some fields are required, please fill them!</source>
         <translation>Vul a.u.b. de verplichte velden!</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="1069"/>
-        <location filename="DlgEditXMP.cpp" line="1110"/>
-        <location filename="DlgEditXMP.cpp" line="1135"/>
+        <location filename="DlgEditXMP.cpp" line="1070"/>
+        <location filename="DlgEditXMP.cpp" line="1111"/>
+        <location filename="DlgEditXMP.cpp" line="1136"/>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
@@ -7377,8 +7428,8 @@ Please make sure that files are not read-only!</oldsource>
 Controleer of er geen bestanden alleen-lezen zijn!</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="1106"/>
-        <location filename="DlgEditXMP.cpp" line="1131"/>
+        <location filename="DlgEditXMP.cpp" line="1107"/>
+        <location filename="DlgEditXMP.cpp" line="1132"/>
         <source>Changing files, please wait...</source>
         <oldsource>Changing files, please wait... </oldsource>
         <translation>Bestanden aanpassen, even geduld…</translation>
@@ -8676,7 +8727,7 @@ De mappenstructuur gaat verloren. </translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="121"/>
-        <location filename="DlgImport.ui" line="227"/>
+        <location filename="DlgImport.ui" line="258"/>
         <source>Here the files will be transfered.
 Subfolders will be created. </source>
         <translation>De bestanden worden hierheen overgedragen.
@@ -8709,7 +8760,7 @@ Submappen worden aangemaakt. </translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="133"/>
-        <location filename="DlgImport.ui" line="245"/>
+        <location filename="DlgImport.ui" line="276"/>
         <source>Subfolder</source>
         <translation>Submap</translation>
     </message>
@@ -8719,59 +8770,54 @@ Submappen worden aangemaakt. </translation>
         <translation>Nieuwe bestandsnaam</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="189"/>
-        <source># enumerator per folder</source>
-        <translation># enumerator per map</translation>
-    </message>
-    <message>
-        <location filename="DlgImport.ui" line="198"/>
+        <location filename="DlgImport.ui" line="229"/>
         <source>IPTC Template</source>
         <translation>IPTC-sjabloon</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="231"/>
+        <location filename="DlgImport.ui" line="262"/>
         <source>Videos</source>
         <translation>Video&apos;s</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="287"/>
+        <location filename="DlgImport.ui" line="318"/>
         <source>Rename like photos</source>
         <translation>Hernoemen zoals de afbeeldingen</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="297"/>
+        <location filename="DlgImport.ui" line="328"/>
         <source>Categories to assign</source>
         <oldsource>Keywords to assign at import (XMP)</oldsource>
         <translation>Categorieën toewijzen</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="303"/>
+        <location filename="DlgImport.ui" line="334"/>
         <source>Use ; to separate categories</source>
         <oldsource>Use ; to separate keywords</oldsource>
         <translation>Gebruik ; als scheidingsteken</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="330"/>
+        <location filename="DlgImport.ui" line="361"/>
         <source>Filter</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="338"/>
+        <location filename="DlgImport.ui" line="369"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="361"/>
+        <location filename="DlgImport.ui" line="392"/>
         <source>from</source>
         <translation>van</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="371"/>
+        <location filename="DlgImport.ui" line="402"/>
         <source>to</source>
         <translation>naar</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="398"/>
+        <location filename="DlgImport.ui" line="429"/>
         <source>Extensions (; to separate)</source>
         <translation>Uitbreidingen (scheidingsteken ; )</translation>
     </message>
@@ -8781,6 +8827,17 @@ Submappen worden aangemaakt. </translation>
         <translation>De map Overige Bestanden wordt binnen de bestemmingsmap aangemaakt.</translation>
     </message>
     <message>
+        <location filename="DlgImport.ui" line="191"/>
+        <source># enumerator per</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgImport.ui" line="198"/>
+        <source>Input folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgImport.ui" line="205"/>
         <location filename="DlgImport.cpp" line="186"/>
         <source>Output folder</source>
         <translation>Resultaatmap</translation>
@@ -8827,12 +8884,12 @@ Submappen worden aangemaakt. </translation>
 <context>
     <name>DlgImportThread</name>
     <message>
-        <location filename="DlgImportThread.h" line="91"/>
+        <location filename="DlgImportThread.h" line="93"/>
         <source>Abort</source>
         <translation>Afbreken</translation>
     </message>
     <message>
-        <location filename="DlgImportThread.h" line="92"/>
+        <location filename="DlgImportThread.h" line="94"/>
         <source>Import and sort files...</source>
         <translation>Bestanden importeren en sorteren…</translation>
     </message>
@@ -9010,39 +9067,39 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <translation>IPTC-IIM/XMP bewerken</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="802"/>
+        <location filename="DlgIptc.ui" line="789"/>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Links</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="822"/>
+        <location filename="DlgIptc.ui" line="809"/>
         <source>Ctrl+Right</source>
         <translation>CTRL+Rechts</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="846"/>
+        <location filename="DlgIptc.ui" line="833"/>
         <source>Load template...</source>
         <translation>Sjabloon laden…</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="730"/>
+        <location filename="DlgIptc.ui" line="717"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
         <translation>Geopende tab onthouden</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="870"/>
+        <location filename="DlgIptc.ui" line="857"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
         <translation>Geen veldwaarden laden</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="836"/>
+        <location filename="DlgIptc.ui" line="823"/>
         <source>Save template...</source>
         <translation>Sjabloon opslaan…</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="863"/>
+        <location filename="DlgIptc.ui" line="850"/>
         <source>Clear all fields</source>
         <translation>Alle velden wissen</translation>
     </message>
@@ -9158,17 +9215,17 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <translation>Bewaren en nieuwe waarde toevoegen (trefwoorden en aanvullende categorieën)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="853"/>
+        <location filename="DlgIptc.ui" line="840"/>
         <source>Load template V1...</source>
         <translation>Sjabloon V1 laden…</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="713"/>
+        <location filename="DlgIptc.ui" line="700"/>
         <source>Keep original value if new value is empty</source>
         <translation>Originele waarde behouden bij lege invoer</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="720"/>
+        <location filename="DlgIptc.ui" line="707"/>
         <source>Replace only if original value is empty</source>
         <translation>Alleen vervangen bij lege de originele waarde</translation>
     </message>
@@ -10324,8 +10381,9 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="20"/>
-        <source>Name/Company name:</source>
-        <translation>Naam/Bedrijfsnaam:</translation>
+        <source>Person/Company name:</source>
+        <oldsource>Name/Company name:</oldsource>
+        <translation type="unfinished">Naam/Bedrijfsnaam:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10361,8 +10419,8 @@ Dank u voor de aanschaf van %1.</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation>Installeer het via Hulpmiddelen › Plug-ins</translation>
+        <source>Please install it by using Tools � Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10611,23 +10669,23 @@ Wil je ze verwijderen?</translation>
 <context>
     <name>DlgResize</name>
     <message>
-        <location filename="DlgResize.cpp" line="422"/>
+        <location filename="DlgResize.cpp" line="423"/>
         <source>Result image size: %1x%2 - %3 Mpixels</source>
         <oldsource>Result image size: %1x%2 - %1 Mpixels</oldsource>
         <translation>Resultaatafbeelding grootte: %1x%2 - %3 Mpixels</translation>
     </message>
     <message>
-        <location filename="DlgResize.cpp" line="1102"/>
+        <location filename="DlgResize.cpp" line="1103"/>
         <source>Canvas resize</source>
         <translation>Doekgrootte aanpassen</translation>
     </message>
     <message>
-        <location filename="DlgResize.cpp" line="1116"/>
+        <location filename="DlgResize.cpp" line="1117"/>
         <source>&lt;Last Used&gt;</source>
         <translation>&lt;Laatst gebruikt&gt;</translation>
     </message>
     <message>
-        <location filename="DlgResize.cpp" line="1117"/>
+        <location filename="DlgResize.cpp" line="1118"/>
         <source>&lt;Default&gt;</source>
         <translation>&lt;Standaard&gt;</translation>
     </message>
@@ -10915,13 +10973,13 @@ Wil je ze verwijderen?</translation>
         <translation>Zoeken…</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="495"/>
+        <location filename="DlgSearch.cpp" line="500"/>
         <source>Finished.</source>
         <translation>Voltooid.</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="497"/>
-        <location filename="DlgSearch.cpp" line="498"/>
+        <location filename="DlgSearch.cpp" line="502"/>
+        <location filename="DlgSearch.cpp" line="503"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
         <translation>Voltooid: %1 bestand(en) gevonden.</translation>
@@ -10931,119 +10989,122 @@ Wil je ze verwijderen?</translation>
     <name>DlgSearchClass</name>
     <message>
         <location filename="DlgSearch.ui" line="17"/>
-        <location filename="DlgSearch.ui" line="376"/>
         <source>Search</source>
         <translation>Zoeken</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="60"/>
-        <source>Use Regular Expression</source>
-        <oldsource>Use RegExp</oldsource>
-        <translation>Reguliere expressie gebruiken</translation>
-    </message>
-    <message>
-        <location filename="DlgSearch.ui" line="74"/>
-        <source>Case sensitive</source>
-        <translation>Hoofdlettergevoeling</translation>
-    </message>
-    <message>
-        <location filename="DlgSearch.ui" line="115"/>
-        <source>Include folders</source>
-        <translation>Inclusief mappen</translation>
-    </message>
-    <message>
-        <location filename="DlgSearch.ui" line="165"/>
+        <location filename="DlgSearch.ui" line="171"/>
         <source>Match</source>
         <translation>Overeenkomst</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="172"/>
+        <location filename="DlgSearch.ui" line="178"/>
         <source>All</source>
         <translation>Alle</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="179"/>
+        <location filename="DlgSearch.ui" line="185"/>
         <source>Any</source>
         <translation>Elke</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="232"/>
+        <location filename="DlgSearch.ui" line="238"/>
         <source>Current pathname:</source>
         <translation>Huidige pad:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="294"/>
+        <location filename="DlgSearch.ui" line="300"/>
         <source>Presets: </source>
         <translation>Voorinstellingen: </translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="356"/>
-        <source>&lt; Back</source>
-        <oldsource>&lt;&lt; Back</oldsource>
-        <translation>&lt; Terug</translation>
-    </message>
-    <message>
-        <location filename="DlgSearch.ui" line="386"/>
-        <source>Browse...</source>
-        <translation>Verkennen…</translation>
-    </message>
-    <message>
-        <location filename="DlgSearch.ui" line="393"/>
+        <location filename="DlgSearch.ui" line="399"/>
         <source>Close</source>
         <translation>Sluiten</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="400"/>
+        <location filename="DlgSearch.ui" line="406"/>
         <source>Abort</source>
         <translation>Afbreken</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="108"/>
+        <location filename="DlgSearch.ui" line="114"/>
         <source>Recurse through subfolders</source>
         <translation>Inclusief submappen</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="311"/>
+        <location filename="DlgSearch.ui" line="63"/>
+        <source>&amp;Use Regular Expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="70"/>
+        <source>F&amp;older</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="80"/>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="121"/>
+        <source>&amp;Include folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="317"/>
         <source>Save this request</source>
         <translation>Deze opdracht opslaan</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="325"/>
+        <location filename="DlgSearch.ui" line="331"/>
         <source>Save current search</source>
         <translation>Deze zoekopdracht opslaan</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="339"/>
+        <location filename="DlgSearch.ui" line="345"/>
         <source>Delete current search</source>
         <translation>Deze zoekopdracht verwijderen</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="127"/>
+        <location filename="DlgSearch.ui" line="362"/>
+        <source>&lt; Bac&amp;k</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="382"/>
+        <source>&amp;Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="392"/>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="133"/>
         <source>Conditions</source>
         <translation>Criteria</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="53"/>
-        <source>Filename</source>
-        <translation>Bestandsnaam</translation>
+        <source>&amp;Filename</source>
+        <oldsource>Filename</oldsource>
+        <translation type="unfinished">Bestandsnaam</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="67"/>
-        <source>Folder</source>
-        <translation>Map</translation>
-    </message>
-    <message>
-        <location filename="DlgSearch.ui" line="81"/>
+        <location filename="DlgSearch.ui" line="87"/>
         <source>Use catalog</source>
         <translation>Catalogus gebruiken</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="135"/>
+        <location filename="DlgSearch.ui" line="141"/>
         <source>Add &gt;&gt;</source>
         <translation>Toevoegen &gt;&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="145"/>
+        <location filename="DlgSearch.ui" line="151"/>
         <source>Clear all</source>
         <translation>Alles wissen</translation>
     </message>
@@ -12128,9 +12189,9 @@ Miniatuur</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
-        <source>Allow only one instance of XnView</source>
-        <oldsource>One instance of program only</oldsource>
-        <translation>Eén instantie van het programma</translation>
+        <source>Allow only one application instance</source>
+        <oldsource>Allow only one instance of XnView</oldsource>
+        <translation type="unfinished">Eén instantie van het programma</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="44"/>
@@ -12686,39 +12747,39 @@ Miniatuur</translation>
         <translation>-- NIEUW XMP-SJABLOON --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="506"/>
+        <location filename="DlgSettingsInterface.cpp" line="504"/>
         <source>Browse mode</source>
         <translation>Browse modus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="507"/>
+        <location filename="DlgSettingsInterface.cpp" line="505"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>View modus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="784"/>
-        <location filename="DlgSettingsInterface.cpp" line="804"/>
+        <location filename="DlgSettingsInterface.cpp" line="791"/>
+        <location filename="DlgSettingsInterface.cpp" line="811"/>
         <source>Set Icon...</source>
         <translation>Pictogram toekennen…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="982"/>
+        <location filename="DlgSettingsInterface.cpp" line="989"/>
         <source>Set label</source>
         <translation>Label instellen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="983"/>
+        <location filename="DlgSettingsInterface.cpp" line="990"/>
         <source>Label:</source>
         <translation>Label:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1132"/>
+        <location filename="DlgSettingsInterface.cpp" line="1139"/>
         <source>This shortcut is already assigned for </source>
         <translation>Deze snelkoppeling is al toegekend aan </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1147"/>
+        <location filename="DlgSettingsInterface.cpp" line="1155"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12729,22 +12790,22 @@ Do you want to reassign?</source>
 Opnieuw toewijzen?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1196"/>
+        <location filename="DlgSettingsInterface.cpp" line="1204"/>
         <source>Load toolbar</source>
         <translation>Werkbalk laden</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1214"/>
+        <location filename="DlgSettingsInterface.cpp" line="1222"/>
         <source>Save toolbar</source>
         <translation>Werkbalk opslaan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1270"/>
+        <location filename="DlgSettingsInterface.cpp" line="1278"/>
         <source>Load shortcuts</source>
         <translation>Sneltoetsen laden</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1301"/>
+        <location filename="DlgSettingsInterface.cpp" line="1309"/>
         <source>Save shortcuts</source>
         <translation>Sneltoetsen opslaan</translation>
     </message>
@@ -13719,15 +13780,15 @@ Opnieuw toewijzen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
-        <location filename="DlgSettingsView.ui" line="1314"/>
+        <location filename="DlgSettingsView.ui" line="1321"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
         <translation>Automatisch schalen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
-        <location filename="DlgSettingsView.ui" line="1167"/>
-        <location filename="DlgSettingsView.ui" line="1380"/>
+        <location filename="DlgSettingsView.ui" line="1230"/>
+        <location filename="DlgSettingsView.ui" line="1387"/>
         <source>Background color</source>
         <translation>Achtergrondkleur</translation>
     </message>
@@ -13829,42 +13890,47 @@ Opnieuw toewijzen?</translation>
         <translation>Nooit</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1306"/>
+        <location filename="DlgSettingsView.ui" line="1294"/>
+        <source>Stretch horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="1313"/>
         <source>Fullscreen</source>
         <translation>Volledig scherm</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1343"/>
+        <location filename="DlgSettingsView.ui" line="1350"/>
         <source>Show playbar</source>
         <translation>Afspeelbalk weergeven</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1350"/>
+        <location filename="DlgSettingsView.ui" line="1357"/>
         <source>Show info</source>
         <translation>Informatie weergeven</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1364"/>
+        <location filename="DlgSettingsView.ui" line="1371"/>
         <source>Show toolbar</source>
         <translation>Werkbalk weergeven</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1371"/>
+        <location filename="DlgSettingsView.ui" line="1378"/>
         <source>Hide mouse cursor</source>
         <translation>Muisaanwijzer verbergen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1405"/>
+        <location filename="DlgSettingsView.ui" line="1412"/>
         <source>Dual monitor: Use second monitor</source>
         <translation>Tweede beeldscherm gebruiken</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1418"/>
+        <location filename="DlgSettingsView.ui" line="1425"/>
         <source>Floating views</source>
         <translation>Zwevende vensters</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1443"/>
+        <location filename="DlgSettingsView.ui" line="1450"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
         <translation>(verschijnen zodra de muis over de bovenkant of rechts van het scherm beweegt)</translation>
     </message>
@@ -13875,7 +13941,7 @@ Opnieuw toewijzen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
-        <location filename="DlgSettingsView.ui" line="1357"/>
+        <location filename="DlgSettingsView.ui" line="1364"/>
         <source>Show scrollbars</source>
         <translation>Scrollbars weergeven</translation>
     </message>
@@ -14149,27 +14215,27 @@ Opnieuw toewijzen?</translation>
         <translation>Tekstkleur</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1102"/>
+        <location filename="DlgSettingsView.ui" line="1223"/>
         <source>Font</source>
         <translation>Lettertype</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1116"/>
+        <location filename="DlgSettingsView.ui" line="1102"/>
         <source>Support HTML tags</source>
         <translation>HTML-tags toestaan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1298"/>
+        <location filename="DlgSettingsView.ui" line="1305"/>
         <source>Always show in fullscreen</source>
         <translation>Altijd in volledig scherm tonen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1109"/>
+        <location filename="DlgSettingsView.ui" line="1287"/>
         <source>Opacity</source>
         <translation>Dekking</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1160"/>
+        <location filename="DlgSettingsView.ui" line="1193"/>
         <source>Position</source>
         <translation>Positie</translation>
     </message>
@@ -15506,23 +15572,27 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="33"/>
-        <source>Centered</source>
-        <translation>Gecentreerd</translation>
+        <source>Center</source>
+        <oldsource>Centered</oldsource>
+        <translation type="unfinished">Gecentreerd</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
-        <source>Tiled</source>
-        <translation>Tegels</translation>
+        <source>Tile</source>
+        <oldsource>Tiled</oldsource>
+        <translation type="unfinished">Tegels</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
-        <source>Center tiled</source>
-        <translation>Tegels gecentreerd</translation>
+        <source>Tile from center</source>
+        <oldsource>Center tiled</oldsource>
+        <translation type="unfinished">Tegels gecentreerd</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
-        <source>Stretched</source>
-        <translation>Uitgestrekt</translation>
+        <source>Stretch</source>
+        <oldsource>Stretched</oldsource>
+        <translation type="unfinished">Uitgestrekt</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16189,8 +16259,9 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <name>FileListWidget</name>
     <message>
         <location filename="FileListWidget.cpp" line="23"/>
-        <source>Small thumbnails</source>
-        <translation>Kleine miniaturen</translation>
+        <source>Thumbnails small</source>
+        <oldsource>Small thumbnails</oldsource>
+        <translation type="unfinished">Kleine miniaturen</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16199,9 +16270,9 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="33"/>
-        <source>Large thumbnails</source>
-        <oldsource>Big thumbnails</oldsource>
-        <translation>Grote miniaturen</translation>
+        <source>Thumbnails large</source>
+        <oldsource>Large thumbnails</oldsource>
+        <translation type="unfinished">Grote miniaturen</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16660,7 +16731,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Commentaar</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="403"/>
+        <location filename="DlgEditXMP.cpp" line="404"/>
         <location filename="IptcEditBase.cpp" line="74"/>
         <location filename="TemplateData.cpp" line="2679"/>
         <source>Folder</source>
@@ -16737,7 +16808,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Hoogte afbeelding</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="411"/>
+        <location filename="DlgEditXMP.cpp" line="412"/>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="IptcEditBase.cpp" line="114"/>
         <location filename="ItemModel.cpp" line="1070"/>
@@ -16789,13 +16860,13 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Hoogte (cm)</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="400"/>
+        <location filename="DlgEditXMP.cpp" line="401"/>
         <location filename="IptcEditBase.cpp" line="71"/>
         <source>Filename without extension</source>
         <translation>Bestandsnaam zonder extensie</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="401"/>
+        <location filename="DlgEditXMP.cpp" line="402"/>
         <location filename="DlgImport.cpp" line="228"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <location filename="IptcEditBase.cpp" line="110"/>
@@ -16804,35 +16875,35 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Bestandsnaam</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="402"/>
+        <location filename="DlgEditXMP.cpp" line="403"/>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
-        <source>Filename number</source>
-        <translation>Nummer bestandsnaam</translation>
+        <source>Filename (last number)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="404"/>
+        <location filename="DlgEditXMP.cpp" line="405"/>
         <location filename="IptcEditBase.cpp" line="75"/>
         <location filename="TemplateData.cpp" line="2680"/>
         <source>Folder name</source>
         <translation>Mapnaam</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="405"/>
+        <location filename="DlgEditXMP.cpp" line="406"/>
         <location filename="IptcEditBase.cpp" line="76"/>
         <location filename="TemplateData.cpp" line="2681"/>
         <source>Accessed date</source>
         <translation>Datum benaderd</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="406"/>
+        <location filename="DlgEditXMP.cpp" line="407"/>
         <location filename="IptcEditBase.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2682"/>
         <source>Creation date</source>
         <translation>Aanmaakdatum</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="407"/>
+        <location filename="DlgEditXMP.cpp" line="408"/>
         <location filename="DlgImport.cpp" line="230"/>
         <location filename="IptcEditBase.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2683"/>
@@ -16840,21 +16911,21 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Datum gewijzigd</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="408"/>
+        <location filename="DlgEditXMP.cpp" line="409"/>
         <location filename="IptcEditBase.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>Size (Auto)</source>
         <translation>Grootte (automatisch)</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="409"/>
+        <location filename="DlgEditXMP.cpp" line="410"/>
         <location filename="IptcEditBase.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>Size (Bytes)</source>
         <translation>Grootte (Bytes)</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="410"/>
+        <location filename="DlgEditXMP.cpp" line="411"/>
         <location filename="IptcEditBase.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2686"/>
         <source>Size (KB)</source>
@@ -17732,7 +17803,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Auteur bijschrift</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="135"/>
+        <location filename="DlgEditXMP.cpp" line="136"/>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1110"/>
@@ -17815,7 +17886,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Met dank aan</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="134"/>
+        <location filename="DlgEditXMP.cpp" line="135"/>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="29"/>
         <location filename="ItemModel.cpp" line="1122"/>
@@ -17876,8 +17947,8 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="130"/>
-        <location filename="DlgEditXMP.cpp" line="144"/>
-        <location filename="DlgEditXMP.cpp" line="160"/>
+        <location filename="DlgEditXMP.cpp" line="145"/>
+        <location filename="DlgEditXMP.cpp" line="161"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="42"/>
         <location filename="ItemModel.cpp" line="1128"/>
@@ -17902,8 +17973,8 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="132"/>
-        <location filename="DlgEditXMP.cpp" line="147"/>
-        <location filename="DlgEditXMP.cpp" line="161"/>
+        <location filename="DlgEditXMP.cpp" line="148"/>
+        <location filename="DlgEditXMP.cpp" line="162"/>
         <location filename="InfoIPTCView.cpp" line="63"/>
         <location filename="IptcHelper.cpp" line="45"/>
         <location filename="ItemModel.cpp" line="1134"/>
@@ -17967,7 +18038,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Contact</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="158"/>
+        <location filename="DlgEditXMP.cpp" line="159"/>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
         <location filename="ItemModel.cpp" line="1130"/>
@@ -18004,7 +18075,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Originele transmissie reference</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="133"/>
+        <location filename="DlgEditXMP.cpp" line="134"/>
         <location filename="ItemModel.cpp" line="1120"/>
         <location filename="SearchField.cpp" line="49"/>
         <location filename="SearchField.cpp" line="79"/>
@@ -18017,8 +18088,8 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="131"/>
-        <location filename="DlgEditXMP.cpp" line="145"/>
-        <location filename="DlgEditXMP.cpp" line="159"/>
+        <location filename="DlgEditXMP.cpp" line="146"/>
+        <location filename="DlgEditXMP.cpp" line="160"/>
         <location filename="ItemModel.cpp" line="1132"/>
         <location filename="TemplateData.cpp" line="2632"/>
         <location filename="TemplateData.cpp" line="2655"/>
@@ -18106,7 +18177,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Originele trans. ref.</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="136"/>
+        <location filename="DlgEditXMP.cpp" line="137"/>
         <location filename="TemplateData.cpp" line="2653"/>
         <source>Instructions</source>
         <translation>Instrukties</translation>
@@ -18142,57 +18213,61 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Sublocatie</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="137"/>
+        <location filename="DlgEditXMP.cpp" line="133"/>
+        <source>Country Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditXMP.cpp" line="138"/>
         <source>Transmission reference</source>
         <translation>Transmissie referentie</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="143"/>
+        <location filename="DlgEditXMP.cpp" line="144"/>
         <source>Address</source>
         <translation>Adres</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="146"/>
+        <location filename="DlgEditXMP.cpp" line="147"/>
         <source>ZIP code</source>
         <translation>Postcode</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="148"/>
+        <location filename="DlgEditXMP.cpp" line="149"/>
         <source>Telephon number</source>
         <translation>Telefoon nummer</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="149"/>
+        <location filename="DlgEditXMP.cpp" line="150"/>
         <source>Email</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="150"/>
+        <location filename="DlgEditXMP.cpp" line="151"/>
         <source>Web site</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="153"/>
+        <location filename="DlgEditXMP.cpp" line="154"/>
         <source>Person in image</source>
         <translation>Persoon in afbeelding</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="154"/>
+        <location filename="DlgEditXMP.cpp" line="155"/>
         <source>Name of organization represented</source>
         <translation>Naam van de organisatie vertegenwoordigd</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="155"/>
+        <location filename="DlgEditXMP.cpp" line="156"/>
         <source>Code of organization represented</source>
         <translation>Code van de vertegenwoordigde organisatie</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="156"/>
+        <location filename="DlgEditXMP.cpp" line="157"/>
         <source>Event</source>
         <translation>Gebeurtenis</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="164"/>
         <location filename="DlgEditXMP.cpp" line="165"/>
         <location filename="DlgEditXMP.cpp" line="166"/>
         <location filename="DlgEditXMP.cpp" line="167"/>
@@ -18202,6 +18277,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="DlgEditXMP.cpp" line="171"/>
         <location filename="DlgEditXMP.cpp" line="172"/>
         <location filename="DlgEditXMP.cpp" line="173"/>
+        <location filename="DlgEditXMP.cpp" line="174"/>
         <source>Custom field</source>
         <translation>Standaard veld</translation>
     </message>
@@ -18430,7 +18506,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="4734"/>
+        <location filename="ItemModel.cpp" line="4733"/>
         <source>New Folder %1</source>
         <translation>Nieuwe map %1</translation>
     </message>
@@ -18542,17 +18618,17 @@ Doorgaan?</translation>
 <context>
     <name>ItemSelection</name>
     <message>
-        <location filename="ItemSelection.cpp" line="110"/>
+        <location filename="ItemSelection.cpp" line="127"/>
         <source>&amp;Selected files</source>
         <translation>Ge&amp;selecteerde bestanden</translation>
     </message>
     <message>
-        <location filename="ItemSelection.cpp" line="111"/>
+        <location filename="ItemSelection.cpp" line="128"/>
         <source>&amp;Tagged files</source>
         <translation>Gelabelde bes&amp;tanden</translation>
     </message>
     <message>
-        <location filename="ItemSelection.cpp" line="113"/>
+        <location filename="ItemSelection.cpp" line="130"/>
         <source>Please select which group to use</source>
         <translation>Selecteer een groep</translation>
     </message>
@@ -18765,8 +18841,8 @@ Doorgaan?</translation>
 <context>
     <name>MainMenu</name>
     <message>
-        <location filename="MainMenu.cpp" line="565"/>
-        <location filename="MainMenu.cpp" line="586"/>
+        <location filename="MainMenu.cpp" line="569"/>
+        <location filename="MainMenu.cpp" line="590"/>
         <source>ToolBar %1</source>
         <translation>Werkbalk %1</translation>
     </message>
@@ -19233,13 +19309,15 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="642"/>
-        <source>Switch panel...</source>
-        <translation>Paneel wisselen…</translation>
+        <source>Switch panel</source>
+        <oldsource>Switch panel...</oldsource>
+        <translation type="unfinished">Paneel wisselen…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
-        <source>Path focus...</source>
-        <translation>Pad focus…</translation>
+        <source>Path focus</source>
+        <oldsource>Path focus...</oldsource>
+        <translation type="unfinished">Pad focus…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -19333,48 +19411,48 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
-        <location filename="DlgSettingsView.cpp" line="301"/>
+        <location filename="DlgSettingsView.cpp" line="303"/>
         <location filename="BrowserMenu.h" line="622"/>
         <source>No fit</source>
         <translation>Niet passend</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
-        <location filename="DlgSettingsView.cpp" line="302"/>
+        <location filename="DlgSettingsView.cpp" line="304"/>
         <location filename="BrowserMenu.h" line="623"/>
         <source>Fit image to window</source>
         <translation>Afbeelding passen in het venster</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
-        <location filename="DlgSettingsView.cpp" line="304"/>
+        <location filename="DlgSettingsView.cpp" line="306"/>
         <location filename="BrowserMenu.h" line="624"/>
         <source>Fit image to window, large only</source>
         <translation>Afbeelding passen in het venster, alleen groot</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
-        <location filename="DlgSettingsView.cpp" line="305"/>
+        <location filename="DlgSettingsView.cpp" line="307"/>
         <location filename="BrowserMenu.h" line="626"/>
         <source>Fit image to window width</source>
         <translation>Afbeelding passen in vensterbreedte</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
-        <location filename="DlgSettingsView.cpp" line="306"/>
+        <location filename="DlgSettingsView.cpp" line="308"/>
         <location filename="BrowserMenu.h" line="627"/>
         <source>Fit image to window height</source>
         <translation>Afbeelding passen in vensterhoogte</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
-        <location filename="DlgSettingsView.cpp" line="307"/>
+        <location filename="DlgSettingsView.cpp" line="309"/>
         <location filename="BrowserMenu.h" line="628"/>
         <source>Fit image to window width or height</source>
         <translation>Afbeelding passen in breedte of hoogte</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="27"/>
+        <location filename="DlgSettingsView.cpp" line="26"/>
         <source>Fit image to desktop</source>
         <translation>Afbeelding passen op bureaublad</translation>
     </message>
@@ -19502,8 +19580,9 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="651"/>
-        <source>Empty tab...</source>
-        <translation>Lege tab…</translation>
+        <source>Empty tab</source>
+        <oldsource>Empty tab...</oldsource>
+        <translation type="unfinished">Lege tab…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
@@ -19677,19 +19756,19 @@ Doorgaan?</translation>
         <translation>Openen…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4191"/>
+        <location filename="BrowserWindow.cpp" line="4197"/>
         <location filename="BrowserMenu.h" line="411"/>
         <source>Cut</source>
         <translation>Knippen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4193"/>
+        <location filename="BrowserWindow.cpp" line="4199"/>
         <location filename="BrowserMenu.h" line="413"/>
         <source>Copy</source>
         <translation>Kopiëren</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4195"/>
+        <location filename="BrowserWindow.cpp" line="4201"/>
         <location filename="BrowserMenu.h" line="418"/>
         <source>Paste</source>
         <translation>Plakken</translation>
@@ -19725,19 +19804,19 @@ Doorgaan?</translation>
         <translation>Gelabelde bestanden selecteren</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4203"/>
+        <location filename="BrowserWindow.cpp" line="4209"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Copy to...</source>
         <translation>Kopiëren naar…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4205"/>
+        <location filename="BrowserWindow.cpp" line="4211"/>
         <location filename="BrowserMenu.h" line="429"/>
         <source>Move to...</source>
         <translation>Verplaatsen naar…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4198"/>
+        <location filename="BrowserWindow.cpp" line="4204"/>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Delete</source>
         <translation>Verwijderen</translation>
@@ -20045,8 +20124,9 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="562"/>
-        <source>JPEG lossless transformations</source>
-        <translation>JPEG verliesloze transformaties</translation>
+        <source>Lossless transformations (JPEG)</source>
+        <oldsource>JPEG lossless transformations</oldsource>
+        <translation type="unfinished">JPEG verliesloze transformaties</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="564"/>
@@ -20198,7 +20278,7 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
-        <location filename="DlgSettingsView.cpp" line="303"/>
+        <location filename="DlgSettingsView.cpp" line="305"/>
         <location filename="BrowserMenu.h" line="625"/>
         <source>Fit image to window, small only</source>
         <translation>Afbeelding passen in venster, alleen klein</translation>
@@ -20224,17 +20304,17 @@ Doorgaan?</translation>
         <translation>Snelfilter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4188"/>
+        <location filename="BrowserWindow.cpp" line="4194"/>
         <source>New Folder</source>
         <translation>Nieuwe map</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4200"/>
+        <location filename="BrowserWindow.cpp" line="4206"/>
         <source>Rename</source>
         <translation>Hernoemen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="26"/>
+        <location filename="DlgSettingsView.cpp" line="27"/>
         <source>Fit window to image</source>
         <translation>Pas venster aan afbeelding</translation>
     </message>
@@ -20242,100 +20322,95 @@ Doorgaan?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1434"/>
-        <source>Recent files</source>
-        <translation>Recente bestanden</translation>
-    </message>
-    <message>
-        <location filename="xnview.cpp" line="1435"/>
+        <location filename="xnview.cpp" line="1440"/>
         <source>Quit</source>
         <translation>Afsluiten</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1438"/>
+        <location filename="xnview.cpp" line="1443"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Website…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1443"/>
+        <location filename="xnview.cpp" line="1448"/>
         <source>Make a donation...</source>
         <translation>Maak een donatie…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1436"/>
+        <location filename="xnview.cpp" line="1441"/>
         <source>About</source>
         <translation>Over</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1437"/>
+        <location filename="xnview.cpp" line="1442"/>
         <source>PlugIns...</source>
         <translation>Plug-ins…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1439"/>
+        <location filename="xnview.cpp" line="1444"/>
         <source>Forum...</source>
         <translation>Forum…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1440"/>
+        <location filename="xnview.cpp" line="1445"/>
         <source>Technical Support...</source>
         <translation>Technische ondersteuning…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1441"/>
+        <location filename="xnview.cpp" line="1446"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Meld een fout…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1442"/>
+        <location filename="xnview.cpp" line="1447"/>
         <source>Wiki...</source>
         <translation>Wiki…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1444"/>
+        <location filename="xnview.cpp" line="1449"/>
         <source>Check for update...</source>
         <translation>Controleren op nieuwe versie…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1445"/>
+        <location filename="xnview.cpp" line="1450"/>
         <source>Registration...</source>
         <translation>Registratie…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1446"/>
+        <location filename="xnview.cpp" line="1451"/>
         <source>Purchase...</source>
         <translation>Aanschaffen…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1456"/>
-        <location filename="xnview.cpp" line="1458"/>
+        <location filename="xnview.cpp" line="1461"/>
+        <location filename="xnview.cpp" line="1463"/>
         <source>Settings...</source>
         <translation>Instellingen…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1462"/>
+        <location filename="xnview.cpp" line="1467"/>
         <source>Always on top</source>
         <translation>Altijd bovenop</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1464"/>
+        <location filename="xnview.cpp" line="1469"/>
         <source>Titlebar</source>
         <translation>Titelbalk</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1465"/>
+        <location filename="xnview.cpp" line="1470"/>
         <source>Show</source>
         <translation>Weergeven</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1466"/>
+        <location filename="xnview.cpp" line="1471"/>
         <source>Bottom</source>
         <translation>Onder</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1467"/>
+        <location filename="xnview.cpp" line="1472"/>
         <source>Tab</source>
         <translation>Tabbladen</translation>
     </message>
@@ -21268,8 +21343,9 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
-        <source>JPEG lossless transformations</source>
-        <translation>JPEG verliesloze transformaties</translation>
+        <source>Lossless transformations (JPEG)</source>
+        <oldsource>JPEG lossless transformations</oldsource>
+        <translation type="unfinished">JPEG verliesloze transformaties</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="496"/>
@@ -21523,8 +21599,9 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="693"/>
-        <source>Metadata</source>
-        <translation>Metagegevens</translation>
+        <source>Meta&amp;data</source>
+        <oldsource>Metadata</oldsource>
+        <translation type="unfinished">Metagegevens</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="694"/>
@@ -21694,12 +21771,12 @@ Doorgaan?</translation>
         <translation>Rechtsonder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="926"/>
+        <location filename="DlgSettingsInterface.cpp" line="933"/>
         <source>Choose command</source>
         <translation>Opdracht</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="958"/>
+        <location filename="DlgSettingsInterface.cpp" line="965"/>
         <source>Choose icon</source>
         <translation>Pictogram kiezen</translation>
     </message>
@@ -21710,7 +21787,7 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="18"/>
-        <location filename="DlgSettingsView.cpp" line="300"/>
+        <location filename="DlgSettingsView.cpp" line="302"/>
         <source>Last used</source>
         <translation>Laatstgebruikt</translation>
     </message>
@@ -21763,7 +21840,7 @@ Doorgaan?</translation>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <location filename="MyBitmapView.cpp" line="964"/>
+        <location filename="MyBitmapView.cpp" line="954"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
         <translation>Afbeelding laden…</translation>
@@ -21806,12 +21883,12 @@ Doorgaan?</translation>
 <context>
     <name>MyFileComboEdit</name>
     <message>
-        <location filename="MyFolderComboEdit.h" line="219"/>
+        <location filename="MyFolderComboEdit.cpp" line="188"/>
         <source>Choose a file</source>
         <translation>Een bestand kiezen</translation>
     </message>
     <message>
-        <location filename="MyFolderComboEdit.h" line="219"/>
+        <location filename="MyFolderComboEdit.cpp" line="188"/>
         <source>Images</source>
         <translation>Afbeeldingen</translation>
     </message>
@@ -21819,7 +21896,7 @@ Doorgaan?</translation>
 <context>
     <name>MyFolderComboEdit</name>
     <message>
-        <location filename="MyFolderComboEdit.h" line="147"/>
+        <location filename="MyFolderComboEdit.cpp" line="133"/>
         <source>Choose a pathname</source>
         <translation>Padnaam kiezen</translation>
     </message>
@@ -21975,11 +22052,11 @@ Doorgaan?</translation>
     <name>MyThumbView</name>
     <message>
         <location filename="MyThumbView.cpp" line="484"/>
-        <source>Size of cached thumbnails is smaller than choosen one. 
+        <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
-You can change it in Settings � Catalog.</oldsource>
-        <translation>De grootte van opgeslagen miniaturen is kleiner dan gekozen.
+You can change it in Settings › Catalog.</oldsource>
+        <translation type="unfinished">De grootte van opgeslagen miniaturen is kleiner dan gekozen.
 U kunt dit wijzigen in Instellingen › Catalogus.</translation>
     </message>
     <message>
@@ -22429,8 +22506,9 @@ U kunt dit wijzigen in Instellingen › Catalogus.</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1215"/>
-        <source>Stretch image</source>
-        <translation>Afbeelding uitrekken</translation>
+        <source>Stretch</source>
+        <oldsource>Stretch image</oldsource>
+        <translation type="unfinished">Afbeelding uitrekken</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -22476,27 +22554,27 @@ U kunt dit wijzigen in Instellingen › Catalogus.</translation>
 <context>
     <name>Panel</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="208"/>
+        <location filename="PreviewInfo.cpp" line="254"/>
         <source>Preview</source>
         <translation>Voorbeeld</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="247"/>
+        <location filename="PreviewInfo.cpp" line="297"/>
         <source>Properties</source>
         <translation>Eigenschappen</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="282"/>
+        <location filename="PreviewInfo.cpp" line="332"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="521"/>
+        <location filename="PreviewInfo.cpp" line="571"/>
         <source>Categories</source>
         <translation>Categorieën</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2181"/>
+        <location filename="BrowserWindow.cpp" line="2183"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Selecteer een categorie voor dit bestand
@@ -22514,7 +22592,7 @@ Rechtermuisklik opent het actiemenu.</translation>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="676"/>
+        <location filename="PreviewInfo.cpp" line="726"/>
         <source>Preview</source>
         <translation>Voorbeeld</translation>
     </message>
@@ -23095,7 +23173,7 @@ Rechtermuisklik opent het actiemenu.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4352"/>
+        <location filename="ItemModel.cpp" line="4351"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Er is een fout opgetreden bij het hernoemen!</translation>
@@ -23616,13 +23694,18 @@ Wilt u de miniaturen behouden?
         <translation>Er is een probleem bij het openen van de catalogus, controleer uw instellingen of gebruikte map!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="975"/>
+        <location filename="xnview.cpp" line="980"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>De toepassing is bijgewerkt.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3106"/>
+        <location filename="xnview.cpp" line="1672"/>
+        <source>Do you want to save session?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="xnview.cpp" line="3114"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -23630,45 +23713,44 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Waardering, Labels en Kleurlabels worden niet opgeslagen.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1042"/>
+        <location filename="xnview.cpp" line="1047"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>De vorige sessie omvat veel geladen afbeeldingen, dit kan een vertraging veroorzaken!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1042"/>
+        <location filename="xnview.cpp" line="1047"/>
         <source>Session</source>
         <translation>Sessie</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1592"/>
+        <location filename="xnview.cpp" line="1597"/>
         <source>Do you want to quit?</source>
         <translation>Wilt u afsluiten?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1668"/>
+        <location filename="xnview.cpp" line="1673"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Het opslaan van veel tabbladen kan de heropening van applicaties merkbaar vertragen.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1674"/>
+        <location filename="xnview.cpp" line="1679"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Niet meer vragen</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1233"/>
+        <location filename="xnview.cpp" line="1238"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1233"/>
+        <location filename="xnview.cpp" line="1238"/>
         <source>File not found!</source>
         <translation>Bestand niet gevonden!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1667"/>
-        <location filename="xnview.cpp" line="1693"/>
+        <location filename="xnview.cpp" line="1698"/>
         <source>Do you want to save this session?</source>
         <translation>Wilt u deze sessie opslaan?</translation>
     </message>

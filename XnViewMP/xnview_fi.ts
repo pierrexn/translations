@@ -892,10 +892,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>HLS</translation>
     </message>
     <message>
-        <source>Map</source>
-        <translation>Kartta</translation>
-    </message>
-    <message>
         <source>Band</source>
         <translation>Band</translation>
     </message>
@@ -916,10 +912,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Linssit</translation>
     </message>
     <message>
-        <source>Misc</source>
-        <translation>Sekalaiset</translation>
-    </message>
-    <message>
         <source>None</source>
         <translation>Ei mitään</translation>
     </message>
@@ -938,10 +930,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Bloom</source>
         <translation>Bloom (kukoistus)</translation>
-    </message>
-    <message>
-        <source>Image</source>
-        <translation>Kuva</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -1082,10 +1070,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Vignetting</source>
         <translation>Vinjetointi</translation>
-    </message>
-    <message>
-        <source>Filter</source>
-        <translation>Suodin</translation>
     </message>
     <message>
         <source>Length</source>
@@ -1332,10 +1316,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Alhaalta-Oikealle</translation>
     </message>
     <message>
-        <source>Levels...</source>
-        <translation>Tasot...</translation>
-    </message>
-    <message>
         <source>Temperature</source>
         <translation>Lämpötila</translation>
     </message>
@@ -1390,6 +1370,50 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Logarithmic LUT</source>
         <translation>Logaritmi LUT</translation>
+    </message>
+    <message>
+        <source>Exposure</source>
+        <translation type="unfinished">Valotus</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished">Lisää</translation>
+    </message>
+    <message>
+        <source>Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enhance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metatiedot</translation>
+    </message>
+    <message>
+        <source>Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixelate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stylize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished">Video</translation>
     </message>
 </context>
 <context>
@@ -2290,10 +2314,6 @@ Haluatko korvata sen?</translation>
         <translation>Ulostulo</translation>
     </message>
     <message>
-        <source>Hide XnView</source>
-        <translation>Piilota WnView</translation>
-    </message>
-    <message>
         <source>Window</source>
         <translation>Ikkuna</translation>
     </message>
@@ -2340,6 +2360,10 @@ Haluatko korvata sen?</translation>
     <message>
         <source>second(s)</source>
         <translation>sekuntia</translation>
+    </message>
+    <message>
+        <source>Hide XnView MP</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3078,6 +3102,10 @@ Haluatko korvata sen?</translation>
         <source>not an image</source>
         <translation>ei kuvaa</translation>
     </message>
+    <message>
+        <source>Remove file from filelist</source>
+        <translation type="unfinished">Poista tiedosto tiedostolistalta</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvert3DBorderClass</name>
@@ -3294,10 +3322,6 @@ Haluatko korvata sen?</translation>
         <translation>Kehys 3</translation>
     </message>
     <message>
-        <source>Rounded edge</source>
-        <translation>Reunan pyöristys</translation>
-    </message>
-    <message>
         <source>Top-Left</source>
         <translation>Ylhäältä-Vasemmalle</translation>
     </message>
@@ -3328,6 +3352,10 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Bottom-Right</source>
         <translation>Alhaalta-Oikealle</translation>
+    </message>
+    <message>
+        <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3944,8 +3972,16 @@ Haluatko korvata sen?</translation>
         <translation>Säilytä alkuperäinen tiedosto, kun koodattu tulos on suurempi (kokeellinen)</translation>
     </message>
     <message>
-        <source>Remove file from filelist</source>
-        <translation>Poista tiedosto tiedostolistalta</translation>
+        <source>Show original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First file</source>
+        <translation type="unfinished">Ensimmäinen tiedosto</translation>
+    </message>
+    <message>
+        <source>Last file</source>
+        <translation type="unfinished">Viimeinen tiedosto</translation>
     </message>
 </context>
 <context>
@@ -4434,12 +4470,12 @@ Haluatko korvata sen?</translation>
         <translation>Käytä alfamaskia</translation>
     </message>
     <message>
-        <source>Repeat mask</source>
-        <translation>Toistuva maski</translation>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stretch mask</source>
-        <translation>Venyvä maski</translation>
+        <source>Tile</source>
+        <translation type="unfinished">Ruutu</translation>
     </message>
 </context>
 <context>
@@ -5215,10 +5251,6 @@ Haluatko korvata sen?</translation>
         <translation>Sovita</translation>
     </message>
     <message>
-        <source>Fill</source>
-        <translation>Täytä</translation>
-    </message>
-    <message>
         <source>Anchor</source>
         <translation>Ankkuri</translation>
     </message>
@@ -5229,10 +5261,6 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Longest side</source>
         <translation>Pisin sivu</translation>
-    </message>
-    <message>
-        <source>Tiling</source>
-        <translation>Laatoitus</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -5265,6 +5293,14 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Bottom-Right</source>
         <translation>Alhaalta-Oikealle</translation>
+    </message>
+    <message>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tile</source>
+        <translation type="unfinished">Ruutu</translation>
     </message>
 </context>
 <context>
@@ -6860,10 +6896,6 @@ ja luodaan alikansiot. </translation>
         <translation>Käytä ; luokkien erottamiseen</translation>
     </message>
     <message>
-        <source># enumerator per folder</source>
-        <translation># luetteloijaa / kansio</translation>
-    </message>
-    <message>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
         <translation>Tuontia ei voida suorittaa, lähde- ja kohdekansio ovat samoja!</translation>
     </message>
@@ -6874,6 +6906,14 @@ ja luodaan alikansiot. </translation>
     <message>
         <source>Sort by</source>
         <translation>Järjestä käyttäen</translation>
+    </message>
+    <message>
+        <source># enumerator per</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8072,10 +8112,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation>Nimi tai koodi on väärä!</translation>
     </message>
     <message>
-        <source>Name/Company name:</source>
-        <translation>Nimi/Yrityksen nimi:</translation>
-    </message>
-    <message>
         <source>Invalid code</source>
         <translation>Kelpaamaton koodi</translation>
     </message>
@@ -8091,6 +8127,10 @@ Thank you for purchasing %1.</source>
 
 Kiitos että tilasit %1.</translation>
     </message>
+    <message>
+        <source>Person/Company name:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgRemoveBg</name>
@@ -8099,8 +8139,8 @@ Kiitos että tilasit %1.</translation>
         <translation>Taustan poistaja</translation>
     </message>
     <message>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation>Asenna se kohdasta Työkalut › -Lisäosat...</translation>
+        <source>Please install it by using Tools � Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8546,10 +8586,6 @@ Haluatko poistaa ne?</translation>
 <context>
     <name>DlgSearchClass</name>
     <message>
-        <source>Filename</source>
-        <translation>Tiedostonimi</translation>
-    </message>
-    <message>
         <source>Abort</source>
         <translation>Keskeytä</translation>
     </message>
@@ -8562,20 +8598,12 @@ Haluatko poistaa ne?</translation>
         <translation>Tallenna nykyinen haku</translation>
     </message>
     <message>
-        <source>&lt; Back</source>
-        <translation>&lt; Takaisin</translation>
-    </message>
-    <message>
         <source>Add &gt;&gt;</source>
         <translation>Lisää &gt;&gt;</translation>
     </message>
     <message>
         <source>Search</source>
         <translation>Etsi</translation>
-    </message>
-    <message>
-        <source>Browse...</source>
-        <translation>Valitse...</translation>
     </message>
     <message>
         <source>Current pathname:</source>
@@ -8598,20 +8626,12 @@ Haluatko poistaa ne?</translation>
         <translation>Tyhjennä kaikki</translation>
     </message>
     <message>
-        <source>Case sensitive</source>
-        <translation>Kirjainkoko</translation>
-    </message>
-    <message>
         <source>Recurse through subfolders</source>
         <translation>Käy läpi alikansiot</translation>
     </message>
     <message>
         <source>Save this request</source>
         <translation>Tallenna tämä pyyntö</translation>
-    </message>
-    <message>
-        <source>Folder</source>
-        <translation>Kansio</translation>
     </message>
     <message>
         <source>Match</source>
@@ -8626,16 +8646,40 @@ Haluatko poistaa ne?</translation>
         <translation>Mikä tahansa</translation>
     </message>
     <message>
-        <source>Include folders</source>
-        <translation>Sisällytä kansio</translation>
-    </message>
-    <message>
         <source>Presets: </source>
         <translation>Esiasetukset: </translation>
     </message>
     <message>
-        <source>Use Regular Expression</source>
-        <translation>Käytä säännöllistä lauseketta</translation>
+        <source>&amp;Filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use Regular Expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;older</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Include folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt; Bac&amp;k</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9598,10 +9642,6 @@ esikatselukuvina</translation>
         <translation>Järjestelmäprofiili</translation>
     </message>
     <message>
-        <source>Allow only one instance of XnView</source>
-        <translation>Salli vai yksi avoin XnView</translation>
-    </message>
-    <message>
         <source>File saving</source>
         <translation>Tiedoston tallennuksessa</translation>
     </message>
@@ -9776,6 +9816,10 @@ esikatselukuvina</translation>
     <message>
         <source>Color management</source>
         <translation>Värien hallinta</translation>
+    </message>
+    <message>
+        <source>Allow only one application instance</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10994,6 +11038,10 @@ Haluatko määrittää uudelleen?</translation>
         <source>2.00  Anamorphic</source>
         <translation>2.00  Anamorfinen</translation>
     </message>
+    <message>
+        <source>Stretch horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSimilar</name>
@@ -12025,14 +12073,6 @@ Haluatko jatkaa?</translation>
         <translation>Täytä</translation>
     </message>
     <message>
-        <source>Tiled</source>
-        <translation>Vierekkäin</translation>
-    </message>
-    <message>
-        <source>Center tiled</source>
-        <translation>Keskitä vierekkäin</translation>
-    </message>
-    <message>
         <source>Set as wallpaper</source>
         <translation>Aseta taustakuvaksi</translation>
     </message>
@@ -12045,12 +12085,20 @@ Haluatko jatkaa?</translation>
         <translation>Taustaväri</translation>
     </message>
     <message>
-        <source>Centered</source>
-        <translation>Keskitä</translation>
+        <source>Center</source>
+        <translation type="unfinished">Keskellä</translation>
     </message>
     <message>
-        <source>Stretched</source>
-        <translation>Venytä</translation>
+        <source>Tile</source>
+        <translation type="unfinished">Ruutu</translation>
+    </message>
+    <message>
+        <source>Tile from center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12576,10 +12624,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
 <context>
     <name>FileListWidget</name>
     <message>
-        <source>Small thumbnails</source>
-        <translation>Pienet esikatselukuvat</translation>
-    </message>
-    <message>
         <source>Thumbnails</source>
         <translation>Esikatselukuvat</translation>
     </message>
@@ -12612,12 +12656,16 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Lisää tiedostot...</translation>
     </message>
     <message>
-        <source>Large thumbnails</source>
-        <translation>Suuret esikatselukuvat</translation>
-    </message>
-    <message>
         <source>List</source>
         <translation>Lista</translation>
+    </message>
+    <message>
+        <source>Thumbnails small</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnails large</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12916,10 +12964,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Luokitus</translation>
     </message>
     <message>
-        <source>Filename number</source>
-        <translation>Tiedostonimen numero</translation>
-    </message>
-    <message>
         <source>Annotation</source>
         <translation>Huomautus</translation>
     </message>
@@ -13090,6 +13134,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Output filename (with extension)</source>
         <translation>Ulostulotiedoston nimi (tiedostopäätteellä)</translation>
+    </message>
+    <message>
+        <source>Filename (last number)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13965,6 +14013,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>Copyright usage terms</source>
         <translation>Tekijänoikeuden käyttöehdot</translation>
     </message>
+    <message>
+        <source>Country Code</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -14708,14 +14760,6 @@ Jatketaanko?</translation>
         <translation>Työ&amp;kalut</translation>
     </message>
     <message>
-        <source>Path focus...</source>
-        <translation>Polun tarkennus...</translation>
-    </message>
-    <message>
-        <source>Empty tab...</source>
-        <translation>Tyhjä välilehti...</translation>
-    </message>
-    <message>
         <source>Video thumbnails gallery...</source>
         <translation>Videoiden esikatselukuvakokoelma...</translation>
     </message>
@@ -15018,10 +15062,6 @@ Jatketaanko?</translation>
     <message>
         <source>EXIF Thumbnail</source>
         <translation>EXIF esikatselukuva</translation>
-    </message>
-    <message>
-        <source>Switch panel...</source>
-        <translation>Vaihda paneelia...</translation>
     </message>
     <message>
         <source>Remove from all categories</source>
@@ -15344,10 +15384,6 @@ Jatketaanko?</translation>
         <translation>Monisivu-tiedosto...</translation>
     </message>
     <message>
-        <source>JPEG lossless transformations</source>
-        <translation>JPEG-tiedostojen häviöttömät muunnokset</translation>
-    </message>
-    <message>
         <source>Acquire into (TWAIN)...</source>
         <translation>Sarjaskannaus (TWAIN)...</translation>
     </message>
@@ -15523,6 +15559,22 @@ Jatketaanko?</translation>
         <source>Paste as image</source>
         <translation>Liitä kuvana</translation>
     </message>
+    <message>
+        <source>Lossless transformations (JPEG)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch panel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path focus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15549,10 +15601,6 @@ Jatketaanko?</translation>
     <message>
         <source>Titlebar</source>
         <translation>Nimipalkki</translation>
-    </message>
-    <message>
-        <source>Recent files</source>
-        <translation>Viimeksi käytetyt tiedostot</translation>
     </message>
     <message>
         <source>Report a Bug...</source>
@@ -16353,10 +16401,6 @@ Jatketaanko?</translation>
         <translation>Siirry kohtaan</translation>
     </message>
     <message>
-        <source>JPEG lossless transformations</source>
-        <translation>JPEG-tiedostojen häviöttömät muunnokset</translation>
-    </message>
-    <message>
         <source>Acquire into (TWAIN)...</source>
         <translation>Sarjaskannaus (TWAIN)...</translation>
     </message>
@@ -16465,10 +16509,6 @@ Jatketaanko?</translation>
         <translation>Rajaa (häviötön)</translation>
     </message>
     <message>
-        <source>Metadata</source>
-        <translation>Metatiedot</translation>
-    </message>
-    <message>
         <source>RGB→RBG</source>
         <translation>RGB→RBG</translation>
     </message>
@@ -16555,6 +16595,14 @@ Jatketaanko?</translation>
     <message>
         <source>##label## (move to next image)</source>
         <translation>##ikkuna## (siirry seuraavaan kuvaan))</translation>
+    </message>
+    <message>
+        <source>Lossless transformations (JPEG)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Meta&amp;data</source>
+        <translation type="unfinished">Meta&amp;tiedot</translation>
     </message>
 </context>
 <context>
@@ -16917,10 +16965,9 @@ Jatketaanko?</translation>
         <translation>Vapaa levytila: %1 %2]</translation>
     </message>
     <message>
-        <source>Size of cached thumbnails is smaller than choosen one. 
+        <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
-        <translation>Välimuistissa olevien esikatselukuvien koko on pienempi kuin valittu.
-Voit muuttaa sitä kohdassa Asetukset › Luettelo.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17050,10 +17097,6 @@ Voit muuttaa sitä kohdassa Asetukset › Luettelo.</translation>
     <message>
         <source>Right</source>
         <translation>Oikealle</translation>
-    </message>
-    <message>
-        <source>Stretch image</source>
-        <translation>Venytä kuva</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -17258,6 +17301,10 @@ Voit muuttaa sitä kohdassa Asetukset › Luettelo.</translation>
     <message>
         <source>Arrows</source>
         <translation>Nuolet</translation>
+    </message>
+    <message>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18177,6 +18224,10 @@ Haluatko säilyttää pikkukuvat?
 Rating, Tag &amp; Color labels will not be saved.</source>
         <translation>Luettelo ja metatiedot on poistettu käytöstä -
 Luokituksia-, merkintöjä (tageja)- ja värimerkintöjä ei tallenneta.</translation>
+    </message>
+    <message>
+        <source>Do you want to save session?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

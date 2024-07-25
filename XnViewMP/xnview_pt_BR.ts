@@ -1088,22 +1088,6 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Lentes</translation>
     </message>
     <message>
-        <source>Image</source>
-        <translation>Imagem</translation>
-    </message>
-    <message>
-        <source>Map</source>
-        <translation>Mapa</translation>
-    </message>
-    <message>
-        <source>Filter</source>
-        <translation>Filtro</translation>
-    </message>
-    <message>
-        <source>Misc</source>
-        <translation>Miscelânea</translation>
-    </message>
-    <message>
         <source>Change color depth</source>
         <translation>Mudar a profundidade da cor</translation>
     </message>
@@ -1234,10 +1218,6 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <source>Enhance colors</source>
         <translation>Realçar cores</translation>
-    </message>
-    <message>
-        <source>Levels...</source>
-        <translation>Níveis...</translation>
     </message>
     <message>
         <source>Pointillize</source>
@@ -1382,6 +1362,50 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <source>Logarithmic LUT</source>
         <translation>Logarítmica LUT</translation>
+    </message>
+    <message>
+        <source>Exposure</source>
+        <translation type="unfinished">Exposição</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished">Adicionar</translation>
+    </message>
+    <message>
+        <source>Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enhance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metadados</translation>
+    </message>
+    <message>
+        <source>Noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixelate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stylize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished">Vídeo</translation>
     </message>
 </context>
 <context>
@@ -2291,10 +2315,6 @@ Do you want to overwrite it?</source>
         <translation>Área de cliente</translation>
     </message>
     <message>
-        <source>Hide XnView</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play sound when done</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2328,6 +2348,10 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>second(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide XnView MP</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3054,6 +3078,10 @@ Do you want to overwrite it?</source>
         <source>not an image</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Remove file from filelist</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgConvert3DBorderClass</name>
@@ -3254,10 +3282,6 @@ Do you want to overwrite it?</source>
         <translation>Profundidade</translation>
     </message>
     <message>
-        <source>Rounded edge</source>
-        <translation>Borda arredondada</translation>
-    </message>
-    <message>
         <source>Use anti-aliasing</source>
         <translation>Usar antisserrilhado</translation>
     </message>
@@ -3303,6 +3327,10 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Bottom-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rounded corner</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3920,8 +3948,16 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove file from filelist</source>
+        <source>Show original</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First file</source>
+        <translation type="unfinished">Primeiro arquivo</translation>
+    </message>
+    <message>
+        <source>Last file</source>
+        <translation type="unfinished">Último arquivo</translation>
     </message>
 </context>
 <context>
@@ -4401,20 +4437,20 @@ Do you want to overwrite it?</source>
         <translation>Cor</translation>
     </message>
     <message>
-        <source>Stretch mask</source>
-        <translation>Máscara esticada</translation>
-    </message>
-    <message>
-        <source>Repeat mask</source>
-        <translation>Repetir máscara</translation>
-    </message>
-    <message>
         <source>Blur</source>
         <translation>Manchar</translation>
     </message>
     <message>
         <source>Use mask as alpha</source>
         <translation>Usar máscara como alfa</translation>
+    </message>
+    <message>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tile</source>
+        <translation type="unfinished">Ladrilho</translation>
     </message>
 </context>
 <context>
@@ -5190,10 +5226,6 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Ajustar</translation>
     </message>
     <message>
-        <source>Fill</source>
-        <translation type="unfinished">Preencher</translation>
-    </message>
-    <message>
         <source>Anchor</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5204,10 +5236,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Longest side</source>
         <translation type="unfinished">Lado mais comprido</translation>
-    </message>
-    <message>
-        <source>Tiling</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -5240,6 +5268,14 @@ Do you want to overwrite it?</source>
     <message>
         <source>Bottom-Right</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tile</source>
+        <translation type="unfinished">Ladrilho</translation>
     </message>
 </context>
 <context>
@@ -6793,10 +6829,6 @@ The internal folder structure will be flattened. </source>
         <translation type="unfinished">Vídeos</translation>
     </message>
     <message>
-        <source># enumerator per folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Rename like photos</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6847,6 +6879,14 @@ The internal folder structure will be flattened. </source>
     <message>
         <source>Sort by</source>
         <translation type="unfinished">Ordenar por</translation>
+    </message>
+    <message>
+        <source># enumerator per</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8036,10 +8076,6 @@ Please make sure that files are not read-only!</source>
         <translation>Registro</translation>
     </message>
     <message>
-        <source>Name/Company name:</source>
-        <translation>Nome / Empresa:</translation>
-    </message>
-    <message>
         <source>Code:</source>
         <translation>Código:</translation>
     </message>
@@ -8057,6 +8093,10 @@ Please make sure that files are not read-only!</source>
 Thank you for purchasing %1.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Person/Company name:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgRemoveBg</name>
@@ -8065,8 +8105,8 @@ Thank you for purchasing %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation>Instale-o usando Ferramentas › Plugins</translation>
+        <source>Please install it by using Tools � Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8518,10 +8558,6 @@ Do you want to remove them?</source>
         <translation>Procurar também nas subpastas</translation>
     </message>
     <message>
-        <source>Filename</source>
-        <translation>Nome do arquivo</translation>
-    </message>
-    <message>
         <source>Add &gt;&gt;</source>
         <translation>Adicionar &gt;&gt;</translation>
     </message>
@@ -8532,10 +8568,6 @@ Do you want to remove them?</source>
     <message>
         <source>Conditions</source>
         <translation>Condições</translation>
-    </message>
-    <message>
-        <source>Case sensitive</source>
-        <translation>Sensível a maiúscula / minúscula</translation>
     </message>
     <message>
         <source>Save this request</source>
@@ -8558,24 +8590,12 @@ Do you want to remove them?</source>
         <translation type="unfinished">Nome do caminho atual:</translation>
     </message>
     <message>
-        <source>Browse...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation type="unfinished">Fechar</translation>
     </message>
     <message>
         <source>Abort</source>
         <translation type="unfinished">Abortar</translation>
-    </message>
-    <message>
-        <source>&lt; Back</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Folder</source>
-        <translation type="unfinished">Pasta</translation>
     </message>
     <message>
         <source>Match</source>
@@ -8590,16 +8610,40 @@ Do you want to remove them?</source>
         <translation type="unfinished">Qualquer</translation>
     </message>
     <message>
-        <source>Include folders</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Presets: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use Regular Expression</source>
-        <translation type="unfinished">Usar expressão regular</translation>
+        <source>&amp;Filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use Regular Expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;older</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Include folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt; Bac&amp;k</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9551,10 +9595,6 @@ Thumbnail</source>
         <translation type="unfinished">Mensalmente</translation>
     </message>
     <message>
-        <source>Allow only one instance of XnView</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Make backup for lossless flip/rotation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9724,6 +9764,10 @@ Thumbnail</source>
     </message>
     <message>
         <source>Color management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow only one application instance</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10939,6 +10983,10 @@ Do you want to reassign?</source>
         <source>2.00  Anamorphic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Stretch horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSimilar</name>
@@ -11968,18 +12016,6 @@ Do you want to continue?</source>
         <translation>Posição</translation>
     </message>
     <message>
-        <source>Centered</source>
-        <translation>Centralizado</translation>
-    </message>
-    <message>
-        <source>Tiled</source>
-        <translation>Ladrilhado</translation>
-    </message>
-    <message>
-        <source>Center tiled</source>
-        <translation>Ladrilhado e centralizado</translation>
-    </message>
-    <message>
         <source>Fit</source>
         <translation>Ajustar</translation>
     </message>
@@ -11992,7 +12028,19 @@ Do you want to continue?</source>
         <translation>Cor do fundo</translation>
     </message>
     <message>
-        <source>Stretched</source>
+        <source>Center</source>
+        <translation type="unfinished">Centro</translation>
+    </message>
+    <message>
+        <source>Tile</source>
+        <translation type="unfinished">Ladrilho</translation>
+    </message>
+    <message>
+        <source>Tile from center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stretch</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12517,10 +12565,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>FileListWidget</name>
     <message>
-        <source>Small thumbnails</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Thumbnails</source>
         <translation type="unfinished">Miniaturas</translation>
     </message>
@@ -12553,12 +12597,16 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished">Detalhes</translation>
     </message>
     <message>
-        <source>Large thumbnails</source>
+        <source>List</source>
+        <translation type="unfinished">Lista</translation>
+    </message>
+    <message>
+        <source>Thumbnails small</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>List</source>
-        <translation type="unfinished">Lista</translation>
+        <source>Thumbnails large</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12791,10 +12839,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Filename without extension</source>
         <translation>Nome do arquivo sem extensão</translation>
-    </message>
-    <message>
-        <source>Filename number</source>
-        <translation>Número do nome do arquivo</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -13030,6 +13074,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Output filename (with extension)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filename (last number)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13905,6 +13953,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Copyright usage terms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country Code</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14812,10 +14864,6 @@ Do you want to continue?</source>
         <translation>Girar 180°</translation>
     </message>
     <message>
-        <source>JPEG lossless transformations</source>
-        <translation>Transformações sem perdas JPEG</translation>
-    </message>
-    <message>
         <source>Batch rename...</source>
         <translation>Renomear em lote...</translation>
     </message>
@@ -15220,10 +15268,6 @@ Do you want to continue?</source>
         <translation type="unfinished">Capturar...</translation>
     </message>
     <message>
-        <source>Empty tab...</source>
-        <translation type="unfinished">Aba vazia...</translation>
-    </message>
-    <message>
         <source>Select TWAIN source...</source>
         <translation type="unfinished">Selecionar fonte TWAIN...</translation>
     </message>
@@ -15356,15 +15400,7 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch panel...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Video thumbnails gallery...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Path focus...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15463,13 +15499,25 @@ Do you want to continue?</source>
         <source>Paste as image</source>
         <translation>Colar como imagem</translation>
     </message>
+    <message>
+        <source>Lossless transformations (JPEG)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch panel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path focus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
-    <message>
-        <source>Recent files</source>
-        <translation>Arquivos recentes</translation>
-    </message>
     <message>
         <source>Quit</source>
         <translation>Sair</translation>
@@ -16121,10 +16169,6 @@ Do you want to continue?</source>
         <translation>Reiniciar o campo de orientação EXIF</translation>
     </message>
     <message>
-        <source>JPEG lossless transformations</source>
-        <translation>Transformações sem perdas JPEG</translation>
-    </message>
-    <message>
         <source>&amp;Tools</source>
         <translation>&amp;Ferramentas</translation>
     </message>
@@ -16353,10 +16397,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Metadata</source>
-        <translation type="unfinished">Metadados</translation>
-    </message>
-    <message>
         <source>Fit image to desktop</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16495,6 +16535,14 @@ Do you want to continue?</source>
     <message>
         <source>##label## (move to next image)</source>
         <translation>##label## (mover para a próxima imagem)</translation>
+    </message>
+    <message>
+        <source>Lossless transformations (JPEG)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Meta&amp;data</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16858,7 +16906,7 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Size of cached thumbnails is smaller than choosen one. 
+        <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16998,10 +17046,6 @@ You can change it in Settings › Catalog.</source>
     <message>
         <source>Offset X</source>
         <translation type="unfinished">Offset X</translation>
-    </message>
-    <message>
-        <source>Stretch image</source>
-        <translation type="unfinished">Esticar a imagem</translation>
     </message>
     <message>
         <source>Choose an image</source>
@@ -17197,6 +17241,10 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stretch</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18112,6 +18160,10 @@ Você gostaria de preservar as miniaturas?
     <message>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to save session?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
