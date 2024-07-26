@@ -1588,7 +1588,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Belichting</translation>
+        <translation>Belichting</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -1757,52 +1757,52 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1705"/>
         <source>Add</source>
-        <translation type="unfinished">Toevoegen</translation>
+        <translation>Toevoegen</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1708"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanaal</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1709"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbeteren</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1710"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Kader</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1711"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metagegevens</translation>
+        <translation>Metagegevens</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1712"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruis</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1713"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixeleren</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1715"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Stileren</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1716"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformeren</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1717"/>
         <source>Video</source>
-        <translation type="unfinished">Video</translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -3015,7 +3015,7 @@ Overschrijven?</translation>
         <location filename="DlgCapture.ui" line="281"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Verberg XnView</translation>
+        <translation>XnView MP verbergen</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="288"/>
@@ -3741,7 +3741,7 @@ Overschrijven?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1575"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Bestand van bestandenlijst verwijderen</translation>
+        <translation>Bestand van bestandenlijst verwijderen</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1582"/>
@@ -3951,7 +3951,7 @@ Wil je doorgaan?</translation>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation>Je hebt de optie &apos;origineel bestand behouden als het resultaat groter is&apos; en enkele acties.
+        <translation>U hebt de optie &apos;origineel bestand behouden als het resultaat groter is&apos; en enkele acties.
 
 Wilt u doorgaan?</translation>
     </message>
@@ -4201,7 +4201,7 @@ Wilt u doorgaan?</translation>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Ronde hoeken</translation>
+        <translation>Afgeronde hoeken</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4679,17 +4679,17 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Origineel weergeven</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Eerste bestand</translation>
+        <translation>Eerste bestand</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Laatste bestand</translation>
+        <translation>Laatste bestand</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="560"/>
@@ -5762,12 +5762,12 @@ Wilt u doorgaan?</translation>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Masker uitrekken</translation>
+        <translation>Uitrekken</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Tegelen</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6694,13 +6694,13 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitrekken</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Tegeling</translation>
+        <translation>Tegelen</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -8829,12 +8829,12 @@ Submappen worden aangemaakt. </translation>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># teller per</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Invoermap</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -10383,7 +10383,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Naam/Bedrijfsnaam:</translation>
+        <translation>Naam/Bedrijfsnaam:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10420,7 +10420,7 @@ Dank u voor de aanschaf van %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Installeer het m.b.v. Hulpmiddelen � Plug-ins</translation>
     </message>
 </context>
 <context>
@@ -11035,22 +11035,22 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reguliere Expressie gebruiken</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>M&amp;ap</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hoofdlettergevoelig</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappen &amp;opnemen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -11070,17 +11070,17 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Teru&amp;g</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zoeken</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bladeren…</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="133"/>
@@ -11091,7 +11091,7 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Bestandsnaam</translation>
+        <translation>&amp;Bestandsnaam</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
@@ -12191,7 +12191,7 @@ Miniatuur</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Eén instantie van het programma</translation>
+        <translation>Eén instantie van het programma toestaan</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="44"/>
@@ -13892,7 +13892,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="1294"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontaal uitrekken</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1313"/>
@@ -15574,25 +15574,25 @@ Doorgaan?</translation>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Gecentreerd</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Tegels</translation>
+        <translation>Tegelen</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Tegels gecentreerd</translation>
+        <translation>Tegelen vanuit het midden</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Uitgestrekt</translation>
+        <translation>Uitrekken</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16261,7 +16261,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Kleine miniaturen</translation>
+        <translation>Miniaturen klein</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16272,7 +16272,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Grote miniaturen</translation>
+        <translation>Miniaturen groot</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16879,7 +16879,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandsnaam (laatste nummer)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="405"/>
@@ -18215,7 +18215,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Landcode</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -20126,7 +20126,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">JPEG verliesloze transformaties</translation>
+        <translation>Verliesloze transformaties (JPEG)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="564"/>
@@ -21345,7 +21345,7 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="494"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">JPEG verliesloze transformaties</translation>
+        <translation>Verliesloze transformaties (JPEG)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="496"/>
@@ -21601,7 +21601,7 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="693"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Metagegevens</translation>
+        <translation>Meta&amp;gegevens</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="694"/>
@@ -22056,7 +22056,7 @@ Doorgaan?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">De grootte van opgeslagen miniaturen is kleiner dan gekozen.
+        <translation>De grootte van opgeslagen miniaturen is kleiner dan gekozen.
 U kunt dit wijzigen in Instellingen › Catalogus.</translation>
     </message>
     <message>
@@ -22508,7 +22508,7 @@ U kunt dit wijzigen in Instellingen › Catalogus.</translation>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Afbeelding uitrekken</translation>
+        <translation>Uitrekken</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -23702,7 +23702,7 @@ Wilt u de miniaturen behouden?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wil je de sessie opslaan?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
