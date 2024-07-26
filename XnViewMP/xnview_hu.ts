@@ -1588,7 +1588,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Megvilágítás</translation>
+        <translation>Megvilágítás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -1757,12 +1757,12 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="1705"/>
         <source>Add</source>
-        <translation type="unfinished">Hozzáadás</translation>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1708"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatorna</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1709"/>
@@ -1782,7 +1782,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="1712"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaj</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1713"/>
@@ -1802,7 +1802,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="1717"/>
         <source>Video</source>
-        <translation type="unfinished">Videó</translation>
+        <translation>Videó</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -3004,7 +3004,7 @@ Felül szeretné írni?</translation>
         <location filename="DlgCapture.ui" line="281"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">XnView elrejtése</translation>
+        <translation>XnView MP elrejtése</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="288"/>
@@ -3582,7 +3582,7 @@ Szeretné a weboldalról letölteni?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1575"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Fájl eltávolítása a fájllistáról</translation>
+        <translation>Fájl eltávolítása a fájllistáról</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1582"/>
@@ -4992,12 +4992,12 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Első fájl</translation>
+        <translation>Első fájl</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Utolsó fájl</translation>
+        <translation>Utolsó fájl</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1085"/>
@@ -8817,7 +8817,7 @@ Az almappák jönnek létre. </translation>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bemeneti mappa</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -11074,7 +11074,7 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Fájlnév</translation>
+        <translation>&amp;Fájlnév</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
@@ -19994,7 +19994,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">JPEG veszteségmentes átalakítások</translation>
+        <translation>Veszteségmentes átalakítások (JPEG)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="564"/>
@@ -21364,7 +21364,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="494"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">JPEG veszteségmentes átalakítások</translation>
+        <translation>Veszteségmentes átalakítások (JPEG)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="496"/>
