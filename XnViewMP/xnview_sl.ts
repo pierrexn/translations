@@ -1594,7 +1594,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Osvetlitev</translation>
+        <translation>Izpostavljenost</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -1763,52 +1763,52 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1705"/>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1708"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1709"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Izboljšaj</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1710"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Okvir</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1711"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metapodatki</translation>
+        <translation>Metapodatki</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1712"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Hrup</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1713"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikseliziraj</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1715"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiliziraj</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1716"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformacija</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1717"/>
         <source>Video</source>
-        <translation type="unfinished">Video</translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -3034,7 +3034,7 @@ Ali jo želite prepisati?</translation>
         <location filename="DlgCapture.ui" line="281"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Skrij XnView</translation>
+        <translation>Skrij XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="288"/>
@@ -3788,7 +3788,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1575"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Odstrani datoteko s seznama datotek</translation>
+        <translation>Odstrani datoteko s seznama datotek</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1620"/>
@@ -4231,7 +4231,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Zaobljen rob</translation>
+        <translation>Zaobljen vogal</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4548,17 +4548,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži original</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Prva datoteka</translation>
+        <translation>Prva datoteka</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Zadnja datoteka</translation>
+        <translation>Zadnja datoteka</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="864"/>
@@ -5795,12 +5795,12 @@ Do you want to continue?</source>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Raztegni masko</translation>
+        <translation>Raztegni</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Ploščica</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6727,13 +6727,13 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Raztegni</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Ploščice</translation>
+        <translation>Ploščica</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -8861,12 +8861,12 @@ Ustvarjene bodo podmape. </translation>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># popisovalec</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vhodna mapa</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -10416,7 +10416,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Ime/Naziv podjetja:</translation>
+        <translation>Ime/Naziv podjetja:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10453,7 +10453,7 @@ Hvala za nakup %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Namestite ga z uporabo orodij � vtičnikov</translation>
     </message>
 </context>
 <context>
@@ -11069,22 +11069,22 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uporabi regularni izraz</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>M&amp;apa</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Razlikuje med velikimi in malimi črkami</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vključi mape</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -11104,17 +11104,17 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Naz&amp;aj</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Išči</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prebrskaj...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="133"/>
@@ -11125,7 +11125,7 @@ Ali jih želite odstraniti?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Ime datoteke</translation>
+        <translation>&amp;Ime datoteke</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
@@ -12214,7 +12214,7 @@ sličico</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Dovoli samo eno pojavitev XnView</translation>
+        <translation>Dovoli samo en primerek aplikacije</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="119"/>
@@ -14203,7 +14203,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="1294"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Raztegni vodoravno</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1313"/>
@@ -15605,25 +15605,25 @@ Do you want to continue?</source>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Centrirano</translation>
+        <translation>Center</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Tlakovano</translation>
+        <translation>Ploščica</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Tlakovano iz sredine</translation>
+        <translation>Ploščica iz središča</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Raztegnjeno</translation>
+        <translation>Raztegni</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16291,7 +16291,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Majhne sličice</translation>
+        <translation>Majhne sličice</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16302,7 +16302,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Velike sličice</translation>
+        <translation>Velike sličice</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16949,7 +16949,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime datoteke (zadnja številka)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="404"/>
@@ -18245,7 +18245,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Koda države</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -20158,7 +20158,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">JPEG transformacije brez izgube</translation>
+        <translation>Transformacije brez izgub (JPEG)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="572"/>
@@ -21183,7 +21183,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="693"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Metapodatki</translation>
+        <translation>Meta&amp;podatki</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="694"/>
@@ -21621,7 +21621,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="494"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">JPEG transformacije brez izgube</translation>
+        <translation>Transformacije brez izgub (JPEG)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="496"/>
@@ -22100,7 +22100,7 @@ Do you want to continue?</oldsource>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">Velikost predpomnjenih sličic je manjša od izbrane.
+        <translation>Velikost predpomnjenih sličic je manjša od izbrane.
 Spremenite ga lahko v Nastavitve › Katalog.</translation>
     </message>
     <message>
@@ -22559,7 +22559,7 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Raztegni sliko</translation>
+        <translation>Raztegni</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -23741,7 +23741,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite shraniti sejo?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
