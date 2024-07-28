@@ -12707,7 +12707,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="478"/>
         <source>%1 Bitmap file</source>
-        <translation>%1 Файл точечного рисунка</translation>
+        <translation>%1 растровый файл</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="713"/>
