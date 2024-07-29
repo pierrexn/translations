@@ -1774,17 +1774,17 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1708"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Canal</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1709"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Melhorar</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1710"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Moldura</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1711"/>
@@ -1794,22 +1794,22 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1712"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruído</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1713"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixelizar</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1715"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilizar</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1716"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1717"/>
@@ -2882,7 +2882,8 @@ Arrastar e largar sobre o nó pretendido.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation>Já existe um ficheiro com o nome %1.. 
+        <translation>Já existe um ficheiro com o nome: 
+%1:
 
 Deseja substituí-lo?</translation>
     </message>
@@ -3026,7 +3027,7 @@ Deseja substituí-lo?</translation>
         <location filename="DlgCapture.ui" line="281"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Ocultar XnView</translation>
+        <translation>Ocultar XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="288"/>
@@ -4223,7 +4224,7 @@ Deseja continuar?</translation>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Curvatura</translation>
+        <translation>Cantos redondos</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4577,7 +4578,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar o original</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
@@ -5635,7 +5636,8 @@ Deseja continuar?</translation>
         <location filename="DlgConvertIptc.ui" line="124"/>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>Manter valor e juntar novo (Palavras-chave e Categorias suplementares)</translation>
+        <translation>Manter valor e juntar novo
+ (Palavras-chave e Categorias suplementares)</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="135"/>
@@ -5784,12 +5786,12 @@ Deseja continuar?</translation>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Deformar máscara</translation>
+        <translation>Esticar</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished">Em mosaico</translation>
+        <translation>Mosaico</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6300,17 +6302,17 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvertRotate.h" line="113"/>
         <source>90° left</source>
-        <translation>90°  para a esquerda</translation>
+        <translation>90° para a esquerda</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.h" line="117"/>
         <source>90° right</source>
-        <translation>90°  para a direita</translation>
+        <translation>90° para a direita</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.h" line="119"/>
         <source>180° right</source>
-        <translation>180°  para a direita</translation>
+        <translation>180° para a direita</translation>
     </message>
 </context>
 <context>
@@ -6716,13 +6718,13 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Esticar</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Em mosaico</translation>
+        <translation>Mosaico</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -8857,12 +8859,12 @@ Irão ser criadas subpastas. </translation>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># contador por</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta da origem</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -10417,7 +10419,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Nome/Companhia:</translation>
+        <translation>Nome da Pessoa/Companhia:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10454,7 +10456,7 @@ Obrigado por adquirir o %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor instalar, usando no menu Configurações &gt; Plugins</translation>
     </message>
 </context>
 <context>
@@ -11072,22 +11074,22 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usar expressão regular</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;asta</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Maiúsculas/minúsculas</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Incluir pastas</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -11108,17 +11110,17 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Voltar</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Procurar</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Folhear...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="133"/>
@@ -11129,7 +11131,7 @@ Prefere retirá-los?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Nome de ficheiro</translation>
+        <translation>&amp;Nome de ficheiro</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
@@ -11274,7 +11276,7 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="126"/>
         <source>Use tooltips</source>
-        <translation>Mostrar balões  de informação</translation>
+        <translation>Mostrar balões de informação</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="64"/>
@@ -12024,7 +12026,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished">Ordenação</translation>
+        <translation>Ordenar</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
@@ -12222,7 +12224,7 @@ Miniatura</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Permitir apenas uma instância do XnView</translation>
+        <translation>Permitir apenas uma instância do programa</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="119"/>
@@ -12458,7 +12460,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="569"/>
         <source>Duplicate files</source>
-        <translation></translation>
+        <translation>Ficheiros duplicados</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="501"/>
@@ -12478,7 +12480,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="580"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation></translation>
+        <translation>&lt;Nome do ficheiro&gt; - Cópia (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="585"/>
@@ -12523,7 +12525,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="702"/>
         <source>Lossless transformations</source>
-        <translation>Transformações  sem perdas</translation>
+        <translation>Transformações sem perdas</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="709"/>
@@ -12707,7 +12709,7 @@ Miniatura</translation>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Set file associations...</source>
         <oldsource>Run the File association(s) tool...</oldsource>
-        <translation>Aplicar as  associações de ficheiros...</translation>
+        <translation>Aplicar as associações de ficheiros...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="87"/>
@@ -13517,7 +13519,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsKeywords.ui" line="486"/>
         <location filename="DlgSettingsKeywords.ui" line="529"/>
         <source>Default encoding</source>
-        <translation>Codificação  pré-definida</translation>
+        <translation>Codificação pré-definida</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="478"/>
@@ -14215,7 +14217,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="1294"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Esticar horizontalmente</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1313"/>
@@ -15625,25 +15627,25 @@ Deseja continuar?</translation>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Centrado</translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Em mosaico</translation>
+        <translation>Mosaico</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Em mosaico centrado</translation>
+        <translation>Mosaico desde o centro</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Esticado</translation>
+        <translation>Esticar</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16022,12 +16024,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgWritePNG.ui" line="85"/>
         <source>Avg</source>
-        <translation>Avg</translation>
+        <translation>Média</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="90"/>
         <source>Paeth</source>
-        <translation>Paeth</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="95"/>
@@ -16924,7 +16926,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do ficheiro (número final)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="404"/>
@@ -17763,7 +17765,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2579"/>
         <source>Latitude ref.</source>
-        <translation>Latitude ref.</translation>
+        <translation>Latitude de referência.</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
@@ -17773,7 +17775,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2582"/>
         <source>Longitude ref.</source>
-        <translation>Longitude ref.</translation>
+        <translation>Longitude de referência.</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2584"/>
@@ -17783,7 +17785,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2585"/>
         <source>Altitude ref.</source>
-        <translation>Altitude ref.</translation>
+        <translation>Altitude de referência.</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2586"/>
@@ -18274,7 +18276,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de país</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -20078,7 +20080,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Transformações JPEG sem perdas</translation>
+        <translation>Transformações sem perdas (JPEG)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="564"/>
@@ -21456,7 +21458,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="494"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Transformações JPEG sem perdas</translation>
+        <translation>Transformações sem perdas (JPEG)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="496"/>
@@ -21705,17 +21707,17 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewCropAction.cpp" line="150"/>
         <source>US Letter (1.29)</source>
-        <translation>US Letter (1.29)</translation>
+        <translation>US Letter (1,29)</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="151"/>
         <source>Cinema 1 (1.85)</source>
-        <translation>Cinema 1 (1.85)</translation>
+        <translation>Cinema 1 (1,85)</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="152"/>
         <source>Cinema 2 (2.35)</source>
-        <translation>Cinema 2 (2.35)</translation>
+        <translation>Cinema 2 (2,35)</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="179"/>
@@ -22137,8 +22139,8 @@ Deseja continuar?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">O tamanho das miniaturas em cache é menor que o escolhido. 
-Pode mudá-lo em Configurações&gt;Catálogo.</translation>
+        <translation>O tamanho das miniaturas em cache é menor que o escolhido. 
+Pode mudá-lo em Configurações &gt; Catálogo.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="603"/>
@@ -22591,7 +22593,7 @@ Pode mudá-lo em Configurações&gt;Catálogo.</translation>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Esticar imagem</translation>
+        <translation>Esticar</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -22601,12 +22603,12 @@ Pode mudá-lo em Configurações&gt;Catálogo.</translation>
     <message>
         <location filename="PaintWidget.cpp" line="572"/>
         <source>X: %1, Y: %2</source>
-        <translation>X: %1, Y:  %2</translation>
+        <translation>X: %1, Y: %2</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="577"/>
         <source>R: %1, G: %2, B: %3 [#%4]</source>
-        <translation>R: %1, G:  %2, B: %3 [#%4]</translation>
+        <translation>R: %1, G: %2, B: %3 [#%4]</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="988"/>
@@ -23564,7 +23566,7 @@ Botão direito do rato para menu com opções.</translation>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="75"/>
         <source>Blur</source>
-        <translation></translation>
+        <translation>Esbater</translation>
     </message>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="88"/>
@@ -23781,7 +23783,7 @@ Quer manter as miniaturas?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseja guardar a sessão?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
