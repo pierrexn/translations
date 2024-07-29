@@ -1373,7 +1373,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Exposure</source>
-        <translation type="unfinished">Valotus</translation>
+        <translation>Valotusaika</translation>
     </message>
     <message>
         <source>Add</source>
@@ -1381,15 +1381,15 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanava</translation>
     </message>
     <message>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Paranna</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Kehys</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -1397,19 +1397,19 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohina</translation>
     </message>
     <message>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikselointi</translation>
     </message>
     <message>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyylittely</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Muunna</translation>
     </message>
     <message>
         <source>Video</source>
@@ -2363,7 +2363,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Hide XnView MP</source>
-        <translation type="unfinished"></translation>
+        <translation>Piilota XnView MP</translation>
     </message>
 </context>
 <context>
@@ -3355,7 +3355,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Pyöristetty kulma</translation>
     </message>
 </context>
 <context>
@@ -3973,7 +3973,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä alkuperäinen</translation>
     </message>
     <message>
         <source>First file</source>
@@ -4471,7 +4471,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Venytä</translation>
     </message>
     <message>
         <source>Tile</source>
@@ -5296,7 +5296,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Venytä</translation>
     </message>
     <message>
         <source>Tile</source>
@@ -6909,11 +6909,11 @@ ja luodaan alikansiot. </translation>
     </message>
     <message>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># luetteloija per</translation>
     </message>
     <message>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Syötekansio</translation>
     </message>
 </context>
 <context>
@@ -8129,7 +8129,7 @@ Kiitos että tilasit %1.</translation>
     </message>
     <message>
         <source>Person/Company name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Henkilön/Yrityksen nimi:</translation>
     </message>
 </context>
 <context>
@@ -8140,7 +8140,7 @@ Kiitos että tilasit %1.</translation>
     </message>
     <message>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Asenna kohdasta Työkalut � Liitännäiset</translation>
     </message>
 </context>
 <context>
@@ -8651,35 +8651,35 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>&amp;Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tiedostonimi</translation>
     </message>
     <message>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Käytä säännöllistä lauseketta</translation>
     </message>
     <message>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kansio</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kirjainkoon erottelu</translation>
     </message>
     <message>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sisällytä kansiot</translation>
     </message>
     <message>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&amp;Back</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Etsi</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;elaa...</translation>
     </message>
 </context>
 <context>
@@ -9819,7 +9819,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Allow only one application instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Salli vain yksi sovellusesiintymä</translation>
     </message>
 </context>
 <context>
@@ -11040,7 +11040,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Venytä vaakasuunnassa</translation>
     </message>
 </context>
 <context>
