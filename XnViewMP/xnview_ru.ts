@@ -3828,17 +3828,17 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2370"/>
         <source>Total input file size:</source>
-        <translation>Общий размер входного файла:</translation>
+        <translation>Общий размер входных файлов:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2371"/>
         <source>Total output file size:</source>
-        <translation>Общий размер файла на выходе:</translation>
+        <translation>Общий размер выходных файлов:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2373"/>
         <source>File size ratio:</source>
-        <translation>Соотношение размера файла:</translation>
+        <translation>Соотношение размера файлов:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2377"/>
