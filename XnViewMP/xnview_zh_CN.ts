@@ -225,7 +225,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更新日志</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -1768,12 +1768,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="1708"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>通道</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1709"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>增强</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1710"/>
@@ -1788,12 +1788,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="1712"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">噪音</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1713"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">像素化</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1715"/>
