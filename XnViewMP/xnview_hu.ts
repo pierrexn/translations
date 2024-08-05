@@ -1767,17 +1767,17 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="1709"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Növelés</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1710"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Keret</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1711"/>
         <source>Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaadatok</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1712"/>
@@ -1787,12 +1787,12 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="1713"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Képpontosítás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1715"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stilizálás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1716"/>
