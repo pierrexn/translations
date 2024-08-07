@@ -1066,7 +1066,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоподгон</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -12495,7 +12495,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files</source>
-        <translation>Дублированные файлы</translation>
+        <translation>Именование дубликатов файлов</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="501"/>
@@ -12505,7 +12505,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">При сохранении изменений в файле</translation>
+        <translation>Сохранять измененный файл</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="574"/>
@@ -19249,47 +19249,47 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="474"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отлично (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="475"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорошо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="476"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Средне (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Неплохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="479"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Без рейтинга (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="492"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать рейтинг</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать цветовую метку</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать категорию</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
@@ -19509,12 +19509,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="577"/>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>Повернуть, основываясь на значении EXIF</translation>
+        <translation>Повернуть на основании поля ориентации EXIF</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="578"/>
         <source>Reset EXIF orientation field</source>
-        <translation>Сбросить значениия полей EXIF</translation>
+        <translation>Сбросить поле ориентации EXIF</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="579"/>
@@ -19810,7 +19810,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="478"/>
         <source>Poor (go to next image)</source>
         <oldsource>##label## (move to next image)</oldsource>
-        <translation type="unfinished">##label## (перейти к следующему файлу)</translation>
+        <translation>Плохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="527"/>
@@ -20262,17 +20262,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
-        <translation>Эскиз EXIF - поворот на 90° влево</translation>
+        <translation>Эскиз EXIF - повернуть на 90° влево</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="600"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
-        <translation>Эскиз EXIF - поворот на 90° вправо</translation>
+        <translation>Эскиз EXIF - повернуть на 90° вправо</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="601"/>
         <source>EXIF thumbnail - Rebuild</source>
-        <translation>Пересоздать эскиз EXIF</translation>
+        <translation>Эскиз EXIF - пересоздать</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
@@ -21429,12 +21429,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="519"/>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>Повернуть, основываясь на значении EXIF</translation>
+        <translation>Повернуть на основании поля ориентации EXIF</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="520"/>
         <source>Reset EXIF orientation field</source>
-        <translation>Сбросить значениия полей EXIF</translation>
+        <translation>Сбросить поле ориентации EXIF</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="524"/>
@@ -21475,47 +21475,47 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отлично (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорошо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Средне (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="367"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Неплохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="368"/>
         <source>Poor (go to next image)</source>
-        <translation type="unfinished">##label## (перейти к следующему файлу)</translation>
+        <translation>Плохо (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="369"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Без рейтинга (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="382"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать рейтинг</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать цветовую метку</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="435"/>
@@ -21827,13 +21827,13 @@ Do you want to continue?</oldsource>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить копию</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="250"/>
