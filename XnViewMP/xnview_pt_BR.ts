@@ -842,6 +842,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>Tabs</source>
         <translation type="unfinished">Abas</translation>
     </message>
+    <message>
+        <source>Auto fit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -9619,10 +9623,6 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use output filename after &apos;Save as&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unit for print size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9768,6 +9768,10 @@ Thumbnail</source>
     </message>
     <message>
         <source>Allow only one application instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save changes to file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10652,10 +10656,6 @@ Do you want to reassign?</source>
         <translation>Zoom de alta qualidade</translation>
     </message>
     <message>
-        <source>Never</source>
-        <translation>Nunca</translation>
-    </message>
-    <message>
         <source>Pixel ratio</source>
         <translation>Taxa de pixels</translation>
     </message>
@@ -10774,18 +10774,6 @@ Do you want to reassign?</source>
     <message>
         <source>Reset X/Y (No fit)</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save changes to file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ask</source>
-        <translation type="unfinished">Perguntar</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="unfinished">Sempre</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -14816,10 +14804,6 @@ Do you want to continue?</source>
         <translation>Marcação</translation>
     </message>
     <message>
-        <source>Category</source>
-        <translation>Categoria</translation>
-    </message>
-    <message>
         <source>Up</source>
         <translation>Acima</translation>
     </message>
@@ -15168,34 +15152,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Excellent (move to next image)</source>
-        <translation>Excelente (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Good (move to next image)</source>
-        <translation>Bom (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Average (move to next image)</source>
-        <translation>Média (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Fair (move to next image)</source>
-        <translation>Aceitável (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Poor (move to next image)</source>
-        <translation>Pobre (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Unrated (move to next image)</source>
-        <translation>Não avaliado (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>##label## (move to next image)</source>
-        <translation>##label## (mover para a próxima imagem)</translation>
-    </message>
-    <message>
         <source>Open all selected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15484,10 +15440,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Color label</source>
-        <translation>Classificação &amp;&amp; Etiqueta de cores</translation>
-    </message>
-    <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation>Usar índice de transparência (≤ 8bits)</translation>
     </message>
@@ -15513,6 +15465,46 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Empty tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poor (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Category</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16473,10 +16465,6 @@ Do you want to continue?</source>
         <translation>Editar paleta...</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Color label</source>
-        <translation>Classificação &amp;&amp; Etiqueta de cores</translation>
-    </message>
-    <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation>Usar índice de transparência (≤ 8bits)</translation>
     </message>
@@ -16509,39 +16497,51 @@ Do you want to continue?</source>
         <translation>Colar como imagem</translation>
     </message>
     <message>
-        <source>Excellent (move to next image)</source>
-        <translation>Excelente (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Good (move to next image)</source>
-        <translation>Bom (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Average (move to next image)</source>
-        <translation>Média (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Fair (move to next image)</source>
-        <translation>Aceitável (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Poor (move to next image)</source>
-        <translation>Pobre (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Unrated (move to next image)</source>
-        <translation>Não avaliado (mover para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>##label## (move to next image)</source>
-        <translation>##label## (mover para a próxima imagem)</translation>
-    </message>
-    <message>
         <source>Lossless transformations (JPEG)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meta&amp;data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save a copy...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poor (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Color label</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16658,6 +16658,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>An error occurred during processing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save a copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

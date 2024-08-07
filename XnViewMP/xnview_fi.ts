@@ -850,6 +850,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>Best fit</source>
         <translation>Paras sovitus</translation>
     </message>
+    <message>
+        <source>Auto fit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -9682,10 +9686,6 @@ esikatselukuvina</translation>
         <translation>Tallenna istunto lopetettaessa</translation>
     </message>
     <message>
-        <source>Use output filename after &apos;Save as&apos;</source>
-        <translation>Käytä &apos;Tallenna nimellä&apos; -toiminnossa alkuperäistä tiedostonimeä</translation>
-    </message>
-    <message>
         <source>File operations</source>
         <translation>Tiedostotoiminnot</translation>
     </message>
@@ -9820,6 +9820,10 @@ esikatselukuvina</translation>
     <message>
         <source>Allow only one application instance</source>
         <translation>Salli vain yksi sovellusesiintymä</translation>
+    </message>
+    <message>
+        <source>Save changes to file</source>
+        <translation type="unfinished">Tallenna muutokset tiedostoon</translation>
     </message>
 </context>
 <context>
@@ -10675,10 +10679,6 @@ Haluatko määrittää uudelleen?</translation>
 <context>
     <name>DlgSettingsViewClass</name>
     <message>
-        <source>Ask</source>
-        <translation>Kysy</translation>
-    </message>
-    <message>
         <source>Font</source>
         <translation>Fontti</translation>
     </message>
@@ -10709,10 +10709,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Misc.</source>
         <translation>Sekalaiset</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation>Ei koskaan</translation>
     </message>
     <message>
         <source>Loop video playing</source>
@@ -10773,10 +10769,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Show highlight selection</source>
         <translation>Näytä korostusvalinta</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation>Aina</translation>
     </message>
     <message>
         <source>Relative step</source>
@@ -10901,10 +10893,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Rule of thirds</source>
         <translation>Kolmanneksen sääntö</translation>
-    </message>
-    <message>
-        <source>Save changes to file</source>
-        <translation>Tallenna muutokset tiedostoon</translation>
     </message>
     <message>
         <source>Embedded preview</source>
@@ -12098,7 +12086,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Venytä</translation>
     </message>
 </context>
 <context>
@@ -14664,10 +14652,6 @@ Jatketaanko?</translation>
         <translation>Lähennä</translation>
     </message>
     <message>
-        <source>Excellent (move to next image)</source>
-        <translation>Erinomainen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
         <source>Open containing folder</source>
         <translation>Avaa sisältyvä kansio</translation>
     </message>
@@ -14738,10 +14722,6 @@ Jatketaanko?</translation>
     <message>
         <source>File size</source>
         <translation>Tiedostokoko</translation>
-    </message>
-    <message>
-        <source>Poor (move to next image)</source>
-        <translation>Huono (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
@@ -15004,10 +14984,6 @@ Jatketaanko?</translation>
         <translation>Tiedostolista työkalupalkki</translation>
     </message>
     <message>
-        <source>Fair (move to next image)</source>
-        <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
         <source>Move to...</source>
         <translation>Siirrä kansioon...</translation>
     </message>
@@ -15042,10 +15018,6 @@ Jatketaanko?</translation>
     <message>
         <source>Archives</source>
         <translation>Pakatut</translation>
-    </message>
-    <message>
-        <source>Category</source>
-        <translation>Kategoria</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -15142,10 +15114,6 @@ Jatketaanko?</translation>
     <message>
         <source>Fit image to window, large only</source>
         <translation>Sovita kuva ikkunaan (vain suuret kuvat)</translation>
-    </message>
-    <message>
-        <source>Good (move to next image)</source>
-        <translation>Hyvä (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>View as Icons</source>
@@ -15264,20 +15232,12 @@ Jatketaanko?</translation>
         <translation>Merkityt tiedostot</translation>
     </message>
     <message>
-        <source>Unrated (move to next image)</source>
-        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Työkalupalkki</translation>
     </message>
     <message>
         <source>Copy to...</source>
         <translation>Kopioi kansioon...</translation>
-    </message>
-    <message>
-        <source>Average (move to next image)</source>
-        <translation>Keskinkertainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
@@ -15310,10 +15270,6 @@ Jatketaanko?</translation>
     <message>
         <source>Categories</source>
         <translation>Kategoriat</translation>
-    </message>
-    <message>
-        <source>##label## (move to next image)</source>
-        <translation>##ikkuna## (siirry seuraavaan kuvaan))</translation>
     </message>
     <message>
         <source>Slideshow...</source>
@@ -15544,10 +15500,6 @@ Jatketaanko?</translation>
         <translation>EXIF-esikatselukuva - Käännä 90° oikealle</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Color label</source>
-        <translation>Luokitus &amp;&amp; värimerkinnät</translation>
-    </message>
-    <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation>Käytä läpinäkyvää indeksiä (≤ 8 bittiä)</translation>
     </message>
@@ -15573,6 +15525,46 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Empty tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poor (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Category</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16533,10 +16525,6 @@ Jatketaanko?</translation>
         <translation>Muokkaa palettia...</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Color label</source>
-        <translation>Luokitus &amp;&amp; värimerkinnät</translation>
-    </message>
-    <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation>Käytä läpinäkyvää indeksiä (≤ 8 bittiä)</translation>
     </message>
@@ -16569,40 +16557,52 @@ Jatketaanko?</translation>
         <translation>Liitä kuvana</translation>
     </message>
     <message>
-        <source>Excellent (move to next image)</source>
-        <translation>Erinomainen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Good (move to next image)</source>
-        <translation>Hyvä (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Average (move to next image)</source>
-        <translation>Keskinkertainen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Fair (move to next image)</source>
-        <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Poor (move to next image)</source>
-        <translation>Huono (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Unrated (move to next image)</source>
-        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>##label## (move to next image)</source>
-        <translation>##ikkuna## (siirry seuraavaan kuvaan))</translation>
-    </message>
-    <message>
         <source>Lossless transformations (JPEG)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meta&amp;data</source>
         <translation type="unfinished">Meta&amp;tiedot</translation>
+    </message>
+    <message>
+        <source>Save a copy...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poor (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Color label</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16718,6 +16718,14 @@ Jatketaanko?</translation>
     <message>
         <source>All Files</source>
         <translation>Kaiki tiedostot</translation>
+    </message>
+    <message>
+        <source>Save a copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17304,7 +17312,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Venytä</translation>
     </message>
 </context>
 <context>

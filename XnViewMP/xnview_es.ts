@@ -850,6 +850,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <source>Tabs</source>
         <translation>Pestañas</translation>
     </message>
+    <message>
+        <source>Auto fit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -9673,10 +9677,6 @@ miniatura</translation>
         <translation>Guardar sesión al salir del programa</translation>
     </message>
     <message>
-        <source>Use output filename after &apos;Save as&apos;</source>
-        <translation>Utilizar el nombre del archivo de salida después de &apos;Guardar como&apos;</translation>
-    </message>
-    <message>
         <source>File operations</source>
         <translation>Operaciones de archivo</translation>
     </message>
@@ -9815,6 +9815,10 @@ miniatura</translation>
     <message>
         <source>Allow only one application instance</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save changes to file</source>
+        <translation type="unfinished">Guardar cambios en archivo</translation>
     </message>
 </context>
 <context>
@@ -10669,10 +10673,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsViewClass</name>
     <message>
-        <source>Ask</source>
-        <translation>Preguntar</translation>
-    </message>
-    <message>
         <source>Font</source>
         <translation>Fuente</translation>
     </message>
@@ -10695,10 +10695,6 @@ Do you want to reassign?</source>
     <message>
         <source>Misc.</source>
         <translation>Otros.</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation>Nunca</translation>
     </message>
     <message>
         <source>Loop video playing</source>
@@ -10739,10 +10735,6 @@ Do you want to reassign?</source>
     <message>
         <source>Show highlight selection</source>
         <translation>Mostrar selección resaltada</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation>Siempre</translation>
     </message>
     <message>
         <source>Relative step</source>
@@ -10839,10 +10831,6 @@ Do you want to reassign?</source>
     <message>
         <source>Rule of thirds</source>
         <translation>Regla de los tercios</translation>
-    </message>
-    <message>
-        <source>Save changes to file</source>
-        <translation>Guardar cambios en archivo</translation>
     </message>
     <message>
         <source>Embedded preview</source>
@@ -14658,10 +14646,6 @@ Do you want to continue?</source>
         <translation>Acercar</translation>
     </message>
     <message>
-        <source>Excellent (move to next image)</source>
-        <translation>Excelente (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
         <source>Open containing folder</source>
         <translation>Abrir carpeta contenedora</translation>
     </message>
@@ -14732,10 +14716,6 @@ Do you want to continue?</source>
     <message>
         <source>File size</source>
         <translation>Tamaño de archivo</translation>
-    </message>
-    <message>
-        <source>Poor (move to next image)</source>
-        <translation>Deficiente (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
@@ -14994,10 +14974,6 @@ Do you want to continue?</source>
         <translation>Barra de herramientas de lista de archivos</translation>
     </message>
     <message>
-        <source>Fair (move to next image)</source>
-        <translation>Suficiente (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
         <source>Move to...</source>
         <translation>Mover a...</translation>
     </message>
@@ -15032,10 +15008,6 @@ Do you want to continue?</source>
     <message>
         <source>Archives</source>
         <translation>Archivos comprimidos</translation>
-    </message>
-    <message>
-        <source>Category</source>
-        <translation>Categoría</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -15128,10 +15100,6 @@ Do you want to continue?</source>
     <message>
         <source>Fit image to window, large only</source>
         <translation>Ajustar imagen a la ventana, solo grandes</translation>
-    </message>
-    <message>
-        <source>Good (move to next image)</source>
-        <translation>Bueno (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>View as Icons</source>
@@ -15250,20 +15218,12 @@ Do you want to continue?</source>
         <translation>Archivo(s) marcado(s)</translation>
     </message>
     <message>
-        <source>Unrated (move to next image)</source>
-        <translation>Sin calificar (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
         <source>Toolbar</source>
         <translation>Barra de herramientas</translation>
     </message>
     <message>
         <source>Copy to...</source>
         <translation>Copiar a...</translation>
-    </message>
-    <message>
-        <source>Average (move to next image)</source>
-        <translation>Medio (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
@@ -15292,10 +15252,6 @@ Do you want to continue?</source>
     <message>
         <source>Categories</source>
         <translation>Categorías</translation>
-    </message>
-    <message>
-        <source>##label## (move to next image)</source>
-        <translation>##label## (pasar a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Slideshow...</source>
@@ -15538,10 +15494,6 @@ Do you want to continue?</source>
         <translation>Miniatura EXIF - Girar 90º a la derecha</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Color label</source>
-        <translation>Clasificación &amp;&amp; Etiqueta de color</translation>
-    </message>
-    <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation>Utilizar índice de transparencia (≤ 8bits)</translation>
     </message>
@@ -15567,6 +15519,46 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Empty tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poor (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Category</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16527,10 +16519,6 @@ Do you want to continue?</source>
         <translation>Editar paleta...</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Color label</source>
-        <translation>Clasificación &amp;&amp; Etiqueta de color</translation>
-    </message>
-    <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation>Utilizar índice de transparencia (≤ 8bits)</translation>
     </message>
@@ -16563,40 +16551,52 @@ Do you want to continue?</source>
         <translation>Pegar como imagen</translation>
     </message>
     <message>
-        <source>Excellent (move to next image)</source>
-        <translation>Excelente (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Good (move to next image)</source>
-        <translation>Bueno (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Average (move to next image)</source>
-        <translation>Medio (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Fair (move to next image)</source>
-        <translation>Suficiente (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Poor (move to next image)</source>
-        <translation>Deficiente (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Unrated (move to next image)</source>
-        <translation>Sin calificar (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>##label## (move to next image)</source>
-        <translation>##label## (pasar a la siguiente imagen)</translation>
-    </message>
-    <message>
         <source>Lossless transformations (JPEG)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meta&amp;data</source>
         <translation type="unfinished">Meta&amp;datos</translation>
+    </message>
+    <message>
+        <source>Save a copy...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poor (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Color label</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16712,6 +16712,14 @@ Do you want to continue?</source>
     <message>
         <source>All Files</source>
         <translation>Todos los archivos</translation>
+    </message>
+    <message>
+        <source>Save a copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

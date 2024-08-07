@@ -263,67 +263,67 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1337"/>
+        <location filename="ViewWindow.cpp" line="1388"/>
         <source>Frame %1/%2</source>
         <translation>Kaader %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1340"/>
+        <location filename="ViewWindow.cpp" line="1391"/>
         <source>Icon %1/%2</source>
         <translation>Ikoon %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1342"/>
+        <location filename="ViewWindow.cpp" line="1393"/>
         <source>Page %1/%2</source>
         <translation>Leht %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1924"/>
+        <location filename="ViewWindow.cpp" line="1943"/>
         <source>Customize toolbar...</source>
         <translation>Muuda tööriistariba...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2183"/>
-        <location filename="ViewWindow.cpp" line="2189"/>
-        <location filename="ViewWindow.cpp" line="2193"/>
+        <location filename="ViewWindow.cpp" line="2202"/>
+        <location filename="ViewWindow.cpp" line="2208"/>
+        <location filename="ViewWindow.cpp" line="2212"/>
         <source>Delete items</source>
         <translation>Kustuta üksused</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2183"/>
+        <location filename="ViewWindow.cpp" line="2202"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2189"/>
+        <location filename="ViewWindow.cpp" line="2208"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2193"/>
+        <location filename="ViewWindow.cpp" line="2212"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2789"/>
+        <location filename="ViewWindow.cpp" line="2808"/>
         <source>Confirm Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2790"/>
+        <location filename="ViewWindow.cpp" line="2809"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2790"/>
+        <location filename="ViewWindow.cpp" line="2809"/>
         <source>Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4185"/>
+        <location filename="ViewWindow.cpp" line="4218"/>
         <source>Number of unique colors: %1</source>
         <translation>Ainulaadsete värvide arv: %1</translation>
     </message>
@@ -362,54 +362,54 @@
         <translation>Ärge küsige uuesti</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1536"/>
         <location filename="ViewWindow.cpp" line="1555"/>
+        <location filename="ViewWindow.cpp" line="1574"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Tühi &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2771"/>
-        <location filename="ViewWindow.cpp" line="2781"/>
+        <location filename="ViewWindow.cpp" line="2790"/>
+        <location filename="ViewWindow.cpp" line="2800"/>
         <source>Save</source>
         <translation>Salvesta</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2771"/>
+        <location filename="ViewWindow.cpp" line="2790"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Pilt konverteeritakse 24-bitiseks RGB-ks (8 bitti kanali kohta)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2781"/>
+        <location filename="ViewWindow.cpp" line="2800"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Fail &lt;%1&gt;on kirjutuskaitstud, palun valige teine nimi.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2815"/>
-        <location filename="ViewWindow.cpp" line="2945"/>
-        <location filename="ViewWindow.cpp" line="2995"/>
+        <location filename="ViewWindow.cpp" line="2834"/>
+        <location filename="ViewWindow.cpp" line="2964"/>
+        <location filename="ViewWindow.cpp" line="3014"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2817"/>
-        <location filename="ViewWindow.cpp" line="2997"/>
+        <location filename="ViewWindow.cpp" line="2836"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
         <source>Error</source>
         <translation type="unfinished">Viga</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2817"/>
-        <location filename="ViewWindow.cpp" line="2997"/>
+        <location filename="ViewWindow.cpp" line="2836"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
         <source>An error occurred during saving!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3071"/>
+        <location filename="ViewWindow.cpp" line="3104"/>
         <source>Properties</source>
         <translation>Omadused</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4185"/>
+        <location filename="ViewWindow.cpp" line="4218"/>
         <source>Colors count</source>
         <translation>Värvide arv</translation>
     </message>
@@ -467,28 +467,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4664"/>
+        <location filename="ViewWindow.cpp" line="4697"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4655"/>
-        <location filename="ViewWindow.cpp" line="4664"/>
+        <location filename="ViewWindow.cpp" line="4688"/>
+        <location filename="ViewWindow.cpp" line="4697"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Faili ei saa lugeda!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4655"/>
+        <location filename="ViewWindow.cpp" line="4688"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4656"/>
+        <location filename="ViewWindow.cpp" line="4689"/>
         <source>Please visit the %1 for more information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4668"/>
+        <location filename="ViewWindow.cpp" line="4701"/>
         <source>&lt; Empty &gt;</source>
         <translation type="unfinished">&lt; Tühi &gt;</translation>
     </message>
@@ -560,98 +560,98 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1619"/>
+        <location filename="BrowserWindow.cpp" line="1620"/>
         <source>Add to Favorites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1627"/>
+        <location filename="BrowserWindow.cpp" line="1628"/>
         <source>Add Favorite...</source>
         <translation>Lisa lemmik...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1851"/>
+        <location filename="BrowserWindow.cpp" line="1852"/>
         <source>Folders</source>
         <translation>Kaustad</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1855"/>
+        <location filename="BrowserWindow.cpp" line="1856"/>
         <source>Favorites</source>
         <translation>Lemmikud</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1859"/>
+        <location filename="BrowserWindow.cpp" line="1860"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1869"/>
+        <location filename="BrowserWindow.cpp" line="1870"/>
         <source>Categories</source>
         <translation>Kategooriad</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1874"/>
+        <location filename="BrowserWindow.cpp" line="1875"/>
         <source>Category Sets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1905"/>
+        <location filename="BrowserWindow.cpp" line="1906"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1913"/>
+        <location filename="BrowserWindow.cpp" line="1914"/>
         <source>Metadata</source>
         <translation type="unfinished">Metaandmed</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1922"/>
+        <location filename="BrowserWindow.cpp" line="1923"/>
         <source>Histogram</source>
         <translation type="unfinished">Histogramm</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2086"/>
+        <location filename="BrowserWindow.cpp" line="2087"/>
         <source>Match</source>
         <translation>Sobita</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2119"/>
+        <location filename="BrowserWindow.cpp" line="2120"/>
         <source>Global</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2126"/>
+        <location filename="BrowserWindow.cpp" line="2127"/>
         <source>Current folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2133"/>
+        <location filename="BrowserWindow.cpp" line="2134"/>
         <source>Current folder (Recursive)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3213"/>
+        <location filename="BrowserWindow.cpp" line="3214"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Leitud failid&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3215"/>
+        <location filename="BrowserWindow.cpp" line="3216"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Märgitud failid&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3304"/>
+        <location filename="BrowserWindow.cpp" line="3305"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3523"/>
+        <location filename="BrowserWindow.cpp" line="3524"/>
         <source>Favorite name:</source>
         <translation>Lemmiku nimi:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3767"/>
+        <location filename="BrowserWindow.cpp" line="3768"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translatorcomment>Siin on ainsus ja mitmus vist sama?</translatorcomment>
         <translation>
@@ -660,50 +660,50 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3852"/>
+        <location filename="BrowserWindow.cpp" line="3853"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3304"/>
-        <location filename="BrowserWindow.cpp" line="3852"/>
+        <location filename="BrowserWindow.cpp" line="3305"/>
+        <location filename="BrowserWindow.cpp" line="3853"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2096"/>
+        <location filename="BrowserWindow.cpp" line="2097"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2102"/>
+        <location filename="BrowserWindow.cpp" line="2103"/>
         <source>Match any selected entry (OR)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2108"/>
+        <location filename="BrowserWindow.cpp" line="2109"/>
         <source>Match all selected entries (AND)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3217"/>
+        <location filename="BrowserWindow.cpp" line="3218"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3219"/>
+        <location filename="BrowserWindow.cpp" line="3220"/>
         <source>&lt;files&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3760"/>
+        <location filename="BrowserWindow.cpp" line="3761"/>
         <source>Delete items &amp; companions</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3761"/>
+        <location filename="BrowserWindow.cpp" line="3762"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -711,53 +711,53 @@ Drag and Drop over the desired node to assign.</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4216"/>
+        <location filename="BrowserWindow.cpp" line="4217"/>
         <source>Search...</source>
         <translation type="unfinished">Otsi...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4217"/>
+        <location filename="BrowserWindow.cpp" line="4218"/>
         <source>Add to favorites...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4220"/>
+        <location filename="BrowserWindow.cpp" line="4221"/>
         <source>Start slideshow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4225"/>
+        <location filename="BrowserWindow.cpp" line="4226"/>
         <source>Properties</source>
         <translation type="unfinished">Omadused</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4334"/>
+        <location filename="BrowserWindow.cpp" line="4335"/>
         <source>Load filelist</source>
         <translation>Lae failinimekiri</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3766"/>
+        <location filename="BrowserWindow.cpp" line="3767"/>
         <source>Delete items</source>
         <translation>Kustuta üksused</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4214"/>
+        <location filename="BrowserWindow.cpp" line="4215"/>
         <source>Show files in subfolders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4222"/>
+        <location filename="BrowserWindow.cpp" line="4223"/>
         <source>Explorer</source>
         <translatorcomment>Ma arvan, et seda ei tõlgita</translatorcomment>
         <translation>Explorer</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4257"/>
+        <location filename="BrowserWindow.cpp" line="4258"/>
         <source>Delete folder</source>
         <translation>Kustuta kaust</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4257"/>
+        <location filename="BrowserWindow.cpp" line="4258"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Olete kindel, et soovite seda kausta kustutada?</translation>
     </message>
@@ -988,81 +988,86 @@ Drag and Drop over the desired node to assign.</source>
     <name>CompareWidget</name>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
+        <source>Auto fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CompareWidget.cpp" line="43"/>
         <source>Grid</source>
         <translation>Abijooned</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="43"/>
+        <location filename="CompareWidget.cpp" line="45"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="45"/>
+        <location filename="CompareWidget.cpp" line="47"/>
         <source>CRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="47"/>
+        <location filename="CompareWidget.cpp" line="49"/>
         <source>Histogram</source>
         <translation>Histogramm</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="68"/>
+        <location filename="CompareWidget.cpp" line="70"/>
         <source>Normal</source>
         <translation type="unfinished">Normaal</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="71"/>
+        <location filename="CompareWidget.cpp" line="73"/>
         <source>Tabs</source>
         <translation type="unfinished">Sakid</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="537"/>
+        <location filename="CompareWidget.cpp" line="542"/>
         <source>Zoom out</source>
         <translation>Vähenda</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="540"/>
+        <location filename="CompareWidget.cpp" line="545"/>
         <source>Zoom in</source>
         <translation>Suurenda</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="543"/>
+        <location filename="CompareWidget.cpp" line="548"/>
         <source>Zoom 100%</source>
         <translation>Suumi 100%</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="546"/>
+        <location filename="CompareWidget.cpp" line="551"/>
         <source>Best fit</source>
         <translation>Sobita aknasse</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="552"/>
+        <location filename="CompareWidget.cpp" line="557"/>
         <source>Copy to</source>
         <translation type="unfinished">Kopeeri asukohta</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="557"/>
+        <location filename="CompareWidget.cpp" line="562"/>
         <source>Move to</source>
         <translation type="unfinished">Teisalda asukohta</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="570"/>
+        <location filename="CompareWidget.cpp" line="575"/>
         <source>Close</source>
         <translation>Sulge</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1155"/>
+        <location filename="CompareWidget.cpp" line="1170"/>
         <source>Delete file</source>
         <translation type="unfinished">Kustuta fail</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1155"/>
+        <location filename="CompareWidget.cpp" line="1170"/>
         <source>Do you want to delete this file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="563"/>
+        <location filename="CompareWidget.cpp" line="568"/>
         <source>Delete</source>
         <translation>Kustuta</translation>
     </message>
@@ -1158,7 +1163,7 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Muuda värvisügavust</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1706"/>
+        <location filename="DlgConvert.cpp" line="1727"/>
         <location filename="DlgConvertProcess.h" line="369"/>
         <source>Adjust</source>
         <translation>Korrigeeri</translation>
@@ -1631,7 +1636,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="240"/>
-        <location filename="DlgConvert.cpp" line="1707"/>
+        <location filename="DlgConvert.cpp" line="1728"/>
         <location filename="DlgFilter.cpp" line="23"/>
         <source>Blur</source>
         <translation>Hajusta</translation>
@@ -1676,7 +1681,6 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="247"/>
-        <location filename="DlgConvert.cpp" line="1714"/>
         <location filename="DlgFilter.cpp" line="36"/>
         <source>Sharpen</source>
         <translation>Teravda</translation>
@@ -1754,58 +1758,58 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Punkteeritud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1705"/>
+        <location filename="DlgConvert.cpp" line="1726"/>
         <source>Add</source>
         <translation type="unfinished">Lisa</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1708"/>
+        <location filename="DlgConvert.cpp" line="1729"/>
         <source>Channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1709"/>
+        <location filename="DlgConvert.cpp" line="1730"/>
         <source>Enhance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1710"/>
+        <location filename="DlgConvert.cpp" line="1731"/>
         <source>Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1711"/>
+        <location filename="DlgConvert.cpp" line="1732"/>
         <source>Metadata</source>
         <translation type="unfinished">Metaandmed</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1712"/>
+        <location filename="DlgConvert.cpp" line="1733"/>
         <source>Noise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1713"/>
+        <location filename="DlgConvert.cpp" line="1734"/>
         <source>Pixelate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1715"/>
+        <location filename="DlgConvert.cpp" line="1735"/>
         <source>Stylize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1716"/>
+        <location filename="DlgConvert.cpp" line="1736"/>
         <source>Transform</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1717"/>
+        <location filename="DlgConvert.cpp" line="1737"/>
         <source>Video</source>
         <translation type="unfinished">Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2746"/>
+        <location filename="DlgConvert.cpp" line="2766"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 fail(i) - %2% - %3</translation>
     </message>
@@ -1815,7 +1819,7 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Paranda värve</translation>
     </message>
     <message>
-        <location filename="DlgFilm.cpp" line="133"/>
+        <location filename="DlgFilm.cpp" line="134"/>
         <source>Film simulation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2943,84 +2947,84 @@ Do you want to overwrite it?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="99"/>
+        <location filename="DlgCapture.ui" line="86"/>
         <source>Rectangle</source>
         <translation>Ristkülik</translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="109"/>
+        <location filename="DlgCapture.ui" line="96"/>
         <source>Method</source>
         <translation>Meetod</translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="117"/>
+        <location filename="DlgCapture.ui" line="104"/>
         <source>Delay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="129"/>
+        <location filename="DlgCapture.ui" line="116"/>
         <source>second(s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="138"/>
+        <location filename="DlgCapture.ui" line="125"/>
         <source>Hotkey</source>
         <translation>Kiirklahv</translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="166"/>
+        <location filename="DlgCapture.ui" line="153"/>
         <source>Output</source>
         <translation type="unfinished">Väljund</translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="172"/>
+        <location filename="DlgCapture.ui" line="159"/>
         <source>Open in View mode</source>
         <oldsource>Open in editor</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="179"/>
+        <location filename="DlgCapture.ui" line="166"/>
         <source>Open in Draw mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="188"/>
+        <location filename="DlgCapture.ui" line="175"/>
         <source>Save to folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="229"/>
+        <location filename="DlgCapture.ui" line="216"/>
         <source>Settings...</source>
         <translation type="unfinished">Seaded...</translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="261"/>
+        <location filename="DlgCapture.ui" line="264"/>
         <source>Options</source>
         <translation>Valikud</translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="267"/>
+        <location filename="DlgCapture.ui" line="270"/>
         <source>Include cursor</source>
         <translation>Kaasa kursor</translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="274"/>
+        <location filename="DlgCapture.ui" line="277"/>
         <source>Client area</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="281"/>
+        <location filename="DlgCapture.ui" line="284"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="288"/>
+        <location filename="DlgCapture.ui" line="291"/>
         <source>Play sound when done</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgCapture.ui" line="251"/>
+        <location filename="DlgCapture.ui" line="238"/>
         <source>Copy to clipboard</source>
         <oldsource>Copy in clipboard</oldsource>
         <translation type="unfinished">Kopeeri lõikepuhvrisse</translation>
@@ -3575,27 +3579,27 @@ Do you want to go on the download page?</source>
         <translation type="unfinished">XnConvert versioon %1 on saadaval, kas soovite avada allalaadimise lehte?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1614"/>
+        <location filename="DlgConvert.cpp" line="1635"/>
         <source>Export script</source>
         <translation>Ekspordi skript</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1620"/>
+        <location filename="DlgConvert.cpp" line="1641"/>
         <source>Would you like to export filenames, too?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1944"/>
+        <location filename="DlgConvert.cpp" line="1964"/>
         <source>Load script</source>
         <translation>Lae skript</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1958"/>
+        <location filename="DlgConvert.cpp" line="1978"/>
         <source>Save script</source>
         <translation>Salvesta skript</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2133"/>
+        <location filename="DlgConvert.cpp" line="2153"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Sisend: %n fail</numerusform>
@@ -3603,22 +3607,22 @@ Do you want to go on the download page?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2163"/>
+        <location filename="DlgConvert.cpp" line="2183"/>
         <source>Choose a directory</source>
         <translation>Valige kaust</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2202"/>
+        <location filename="DlgConvert.cpp" line="2222"/>
         <source>Choose ZIP filename</source>
         <translation>Valige ZIP-faili nimi</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2420"/>
+        <location filename="DlgConvert.cpp" line="2440"/>
         <source>Overwrite</source>
         <translation>Kirjuta üle</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2421"/>
+        <location filename="DlgConvert.cpp" line="2441"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3626,28 +3630,28 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Väljundfail on juba olemas, kas soovite seda üle kirjutada?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2430"/>
+        <location filename="DlgConvert.cpp" line="2450"/>
         <source>Saving ZIP file...</source>
         <translation>Salvestan ZIP-faili...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2433"/>
+        <location filename="DlgConvert.cpp" line="2453"/>
         <source>: saved</source>
         <translation>: salvestatud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2459"/>
+        <location filename="DlgConvert.cpp" line="2479"/>
         <source>Uploading image(s) to server...</source>
         <translation>Laen pilte serverisse...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2522"/>
-        <location filename="DlgConvert.cpp" line="2524"/>
+        <location filename="DlgConvert.cpp" line="2542"/>
+        <location filename="DlgConvert.cpp" line="2544"/>
         <source>[Finished]</source>
         <translation>[Lõpetatud]</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2731"/>
+        <location filename="DlgConvert.cpp" line="2751"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n sekund jäänud</numerusform>
@@ -3655,8 +3659,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2734"/>
-        <location filename="DlgConvert.cpp" line="2738"/>
+        <location filename="DlgConvert.cpp" line="2754"/>
+        <location filename="DlgConvert.cpp" line="2758"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minut jäänud</numerusform>
@@ -3664,8 +3668,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2390"/>
-        <location filename="DlgConvert.cpp" line="2738"/>
+        <location filename="DlgConvert.cpp" line="2410"/>
+        <location filename="DlgConvert.cpp" line="2758"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n tund ja </numerusform>
@@ -3693,99 +3697,99 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1442"/>
-        <location filename="DlgConvert.cpp" line="1451"/>
+        <location filename="DlgConvert.cpp" line="1463"/>
+        <location filename="DlgConvert.cpp" line="1472"/>
         <source>Actions</source>
         <translation>Toimingud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1569"/>
+        <location filename="DlgConvert.cpp" line="1590"/>
         <source>Load image...</source>
         <translation>Lae pilt...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1575"/>
+        <location filename="DlgConvert.cpp" line="1596"/>
         <source>Remove file from filelist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1582"/>
+        <location filename="DlgConvert.cpp" line="1603"/>
         <source>Use image from input files</source>
         <translation>Kasuta sisendfaili pilti</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2084"/>
-        <location filename="DlgConvert.cpp" line="2088"/>
+        <location filename="DlgConvert.cpp" line="2104"/>
+        <location filename="DlgConvert.cpp" line="2108"/>
         <source>Parameters</source>
         <translation>Parameetrid</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2287"/>
+        <location filename="DlgConvert.cpp" line="2307"/>
         <source>Cancel batch processing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2287"/>
+        <location filename="DlgConvert.cpp" line="2307"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2339"/>
+        <location filename="DlgConvert.cpp" line="2359"/>
         <source>Loading error(s):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2347"/>
+        <location filename="DlgConvert.cpp" line="2367"/>
         <source>Saving error(s):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2358"/>
+        <location filename="DlgConvert.cpp" line="2378"/>
         <source>Input files:</source>
         <translation>Sisendfailid:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2359"/>
+        <location filename="DlgConvert.cpp" line="2379"/>
         <source>Extracted pages:</source>
         <translation>Eraldatud lehed: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2362"/>
+        <location filename="DlgConvert.cpp" line="2382"/>
         <source>New files:</source>
         <translation>Uued failid:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2364"/>
+        <location filename="DlgConvert.cpp" line="2384"/>
         <source>Overwritten:</source>
         <translation>Üle kirjutatud: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2366"/>
+        <location filename="DlgConvert.cpp" line="2386"/>
         <source>Skipped:</source>
         <translation>Vahele jäetud: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2370"/>
+        <location filename="DlgConvert.cpp" line="2390"/>
         <source>Total input file size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2371"/>
+        <location filename="DlgConvert.cpp" line="2391"/>
         <source>Total output file size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2373"/>
+        <location filename="DlgConvert.cpp" line="2393"/>
         <source>File size ratio:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2377"/>
+        <location filename="DlgConvert.cpp" line="2397"/>
         <source>Total Duration:</source>
         <translation>Kogu kestvus:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2383"/>
+        <location filename="DlgConvert.cpp" line="2403"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n sekund(it)</numerusform>
@@ -3793,8 +3797,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2386"/>
-        <location filename="DlgConvert.cpp" line="2390"/>
+        <location filename="DlgConvert.cpp" line="2406"/>
+        <location filename="DlgConvert.cpp" line="2410"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minut(it)</numerusform>
@@ -3802,79 +3806,79 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2536"/>
+        <location filename="DlgConvert.cpp" line="2556"/>
         <source>Finished at: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2567"/>
+        <location filename="DlgConvert.cpp" line="2587"/>
         <source>uploaded</source>
         <translation>üles laetud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2575"/>
+        <location filename="DlgConvert.cpp" line="2595"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation type="unfinished">ei ole pilt</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2578"/>
+        <location filename="DlgConvert.cpp" line="2598"/>
         <source>open error</source>
         <translation>viga avamisel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2581"/>
+        <location filename="DlgConvert.cpp" line="2601"/>
         <source>create error</source>
         <translation>viga loomisel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2584"/>
+        <location filename="DlgConvert.cpp" line="2604"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>on kirjutuskaitstud ja seda ei ole võimalik üle kirjutada!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2587"/>
+        <location filename="DlgConvert.cpp" line="2607"/>
         <source>skipped, file already exists!</source>
         <translation>jäeti vahele, fail on juba olemas!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2589"/>
+        <location filename="DlgConvert.cpp" line="2609"/>
         <source>failed</source>
         <translation>ebaõnnestus</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2595"/>
+        <location filename="DlgConvert.cpp" line="2615"/>
         <source>loading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2613"/>
+        <location filename="DlgConvert.cpp" line="2633"/>
         <source>loaded</source>
         <translation>laetud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2647"/>
+        <location filename="DlgConvert.cpp" line="2667"/>
         <source>copied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2651"/>
+        <location filename="DlgConvert.cpp" line="2671"/>
         <source>saved</source>
         <translation>salvestatud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2665"/>
+        <location filename="DlgConvert.cpp" line="2685"/>
         <source>%1 of %2 files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2696"/>
+        <location filename="DlgConvert.cpp" line="2716"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Faili ülekirjutamine</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2697"/>
+        <location filename="DlgConvert.cpp" line="2717"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3884,69 +3888,69 @@ Do you want to overwrite it?</oldsource>
         <translation type="unfinished">Fail nimega %1 on juba olemas. Kas soovite seda üle kirjutada?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2699"/>
+        <location filename="DlgConvert.cpp" line="2719"/>
         <source>Yes to &amp;all</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2700"/>
+        <location filename="DlgConvert.cpp" line="2720"/>
         <source>&amp;Yes</source>
         <translation>&amp;Jah</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2701"/>
+        <location filename="DlgConvert.cpp" line="2721"/>
         <source>&amp;No</source>
         <translation>&amp;Ei</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2702"/>
+        <location filename="DlgConvert.cpp" line="2722"/>
         <source>&amp;Rename</source>
         <translation>&amp;Nimeta ringi</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2703"/>
+        <location filename="DlgConvert.cpp" line="2723"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Tühista</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2760"/>
+        <location filename="DlgConvert.cpp" line="2780"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2770"/>
+        <location filename="DlgConvert.cpp" line="2790"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2793"/>
+        <location filename="DlgConvert.cpp" line="2813"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2921"/>
+        <location filename="DlgConvert.cpp" line="2941"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2923"/>
+        <location filename="DlgConvert.cpp" line="2943"/>
         <source>Started at: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2770"/>
+        <location filename="DlgConvert.cpp" line="2790"/>
         <source>Output filename</source>
         <translation>Väljundfaili nimi</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2779"/>
+        <location filename="DlgConvert.cpp" line="2799"/>
         <source>Choose output pathname</source>
         <translation>Valige väljundi failitee</translation>
     </message>
@@ -4107,12 +4111,12 @@ Do you want to continue?</source>
         <translation>Meetod</translation>
     </message>
     <message>
-        <location filename="DlgConvertBloom.ui" line="53"/>
+        <location filename="DlgConvertBloom.ui" line="49"/>
         <source>Opacity</source>
         <translation>Läbipaistmts</translation>
     </message>
     <message>
-        <location filename="DlgConvertBloom.ui" line="87"/>
+        <location filename="DlgConvertBloom.ui" line="66"/>
         <source>Blur</source>
         <translation>Hajusta</translation>
     </message>
@@ -6239,12 +6243,12 @@ Do you want to continue?</source>
 <context>
     <name>DlgConvertRetro</name>
     <message>
-        <location filename="DlgConvertRetro.ui" line="57"/>
+        <location filename="DlgConvertRetro.ui" line="60"/>
         <source>Vignette</source>
         <translation>Vinjett</translation>
     </message>
     <message>
-        <location filename="DlgConvertRetro.ui" line="68"/>
+        <location filename="DlgConvertRetro.ui" line="71"/>
         <source>Power</source>
         <translation>Võimsus</translation>
     </message>
@@ -6622,12 +6626,12 @@ Do you want to continue?</source>
         <translation type="unfinished">Raadius</translation>
     </message>
     <message>
-        <location filename="DlgConvertUnsharp.ui" line="78"/>
+        <location filename="DlgConvertUnsharp.ui" line="72"/>
         <source>Amount</source>
         <translation type="unfinished">Maht</translation>
     </message>
     <message>
-        <location filename="DlgConvertUnsharp.ui" line="131"/>
+        <location filename="DlgConvertUnsharp.ui" line="119"/>
         <source>Threshold</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7651,120 +7655,120 @@ Please make sure that files are not read-only!</oldsource>
 <context>
     <name>DlgExport</name>
     <message>
-        <location filename="DlgExport.cpp" line="175"/>
+        <location filename="DlgExport.cpp" line="183"/>
         <source>Zoom out</source>
         <translation>Vähenda</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="177"/>
+        <location filename="DlgExport.cpp" line="185"/>
         <source>Zoom in</source>
         <translation>Suurenda</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="179"/>
+        <location filename="DlgExport.cpp" line="187"/>
         <source>Zoom 100%</source>
         <translation>Suumi 100%</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="181"/>
+        <location filename="DlgExport.cpp" line="189"/>
         <source>Best fit</source>
         <translation>Sobita aknasse</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="194"/>
+        <location filename="DlgExport.cpp" line="202"/>
         <source>Problem</source>
         <translation>Probleem</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="195"/>
+        <location filename="DlgExport.cpp" line="203"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
         <translation type="unfinished">See ei ole pildifail</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="288"/>
+        <location filename="DlgExport.cpp" line="296"/>
         <source>Black&amp;White</source>
         <translation>Mustvalge</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="290"/>
+        <location filename="DlgExport.cpp" line="298"/>
         <source>8 colors</source>
         <translation>8 värvi</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="292"/>
+        <location filename="DlgExport.cpp" line="300"/>
         <source>16 colors</source>
         <translation>16 värvi</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="294"/>
+        <location filename="DlgExport.cpp" line="302"/>
         <source>32 colors</source>
         <translation>32 värvi</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="296"/>
+        <location filename="DlgExport.cpp" line="304"/>
         <source>64 colors</source>
         <translation>64 värvi</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="298"/>
+        <location filename="DlgExport.cpp" line="306"/>
         <source>128 colors</source>
         <translation>128 värvi</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="300"/>
+        <location filename="DlgExport.cpp" line="308"/>
         <source>256 colors</source>
         <translation>256 värvi</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="302"/>
+        <location filename="DlgExport.cpp" line="310"/>
         <source>Greyscale</source>
         <translation>Halltoon</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="305"/>
+        <location filename="DlgExport.cpp" line="313"/>
         <source>16m</source>
         <translation>16m</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="323"/>
+        <location filename="DlgExport.cpp" line="331"/>
         <source>None</source>
         <translation>Puudub</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="323"/>
-        <location filename="DlgExport.cpp" line="332"/>
+        <location filename="DlgExport.cpp" line="331"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>Pattern</source>
         <translation>Muster</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="323"/>
-        <location filename="DlgExport.cpp" line="332"/>
+        <location filename="DlgExport.cpp" line="331"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>Floyd-Steinberg</source>
         <translation>Floyd-Steinberg</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="323"/>
+        <location filename="DlgExport.cpp" line="331"/>
         <source>Halftone 45</source>
         <translation>Pooltoonid 45</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="323"/>
+        <location filename="DlgExport.cpp" line="331"/>
         <source>Halftone 90</source>
         <translation>Pooltoonid 90</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="332"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>Adaptive</source>
         <translation>Adaptiivne</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="586"/>
+        <location filename="DlgExport.cpp" line="595"/>
         <source>Images</source>
         <translation>Pildid</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="605"/>
+        <location filename="DlgExport.cpp" line="614"/>
         <source>Save File</source>
         <translation>Salvesta fail</translation>
     </message>
@@ -7816,107 +7820,107 @@ Please make sure that files are not read-only!</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="231"/>
+        <location filename="DlgExport.ui" line="511"/>
         <source>Mode</source>
         <translation>Režiim</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="245"/>
+        <location filename="DlgExport.ui" line="525"/>
         <source>Dithering</source>
         <translation>Toonimine</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="327"/>
+        <location filename="DlgExport.ui" line="243"/>
         <source>JPEG</source>
         <translation>JPEG</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="335"/>
+        <location filename="DlgExport.ui" line="251"/>
         <source>Quality</source>
         <translation>Kvaliteet</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="542"/>
+        <location filename="DlgExport.ui" line="458"/>
         <source>Progressive</source>
         <translation>Progressiivne</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="514"/>
+        <location filename="DlgExport.ui" line="430"/>
         <source>Optimize Huffman table</source>
         <translation>Optimeeri Huffmani tabel</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="549"/>
+        <location filename="DlgExport.ui" line="465"/>
         <source>Remove all Metadata</source>
         <translation>Eemalda kõik metaandmed</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="528"/>
+        <location filename="DlgExport.ui" line="444"/>
         <source>DCT Method</source>
         <translation>DCT meetod</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="435"/>
+        <location filename="DlgExport.ui" line="351"/>
         <source>Slow</source>
         <translation>Aeglane</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="440"/>
+        <location filename="DlgExport.ui" line="356"/>
         <source>Fast (worst but faster)</source>
         <translation>Kiire (halvim, aga kiirem)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="445"/>
+        <location filename="DlgExport.ui" line="361"/>
         <source>Float (best but slowest)</source>
         <translation>Float (parim, aga aeglaseim)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="521"/>
+        <location filename="DlgExport.ui" line="437"/>
         <source>Smoothing factor</source>
         <translation>Sujuvuse faktor</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="468"/>
+        <location filename="DlgExport.ui" line="384"/>
         <source>Subsampling factor</source>
         <translation>Diskreetsusfaktor</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="278"/>
+        <location filename="DlgExport.ui" line="558"/>
         <source>Edit palette...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="481"/>
+        <location filename="DlgExport.ui" line="397"/>
         <source>2x2,1x1,1x1 (default)</source>
         <translation>2х2, 1x1, 1x1 (vaikimisi)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="486"/>
+        <location filename="DlgExport.ui" line="402"/>
         <source>2x1,1x1,1x1 (4:2:2)</source>
         <translation>2х1, 1x1, 1x1 (4:2:2)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="491"/>
+        <location filename="DlgExport.ui" line="407"/>
         <source>1x1,1x1,1x1 (best quality)</source>
         <translation>1x1, 1x1, 1x1 (parim kvaliteet)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="605"/>
+        <location filename="DlgExport.ui" line="595"/>
         <source>&amp;Export...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="612"/>
+        <location filename="DlgExport.ui" line="602"/>
         <source>Cancel</source>
         <translation>Tühista</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="346"/>
+        <location filename="DlgExport.ui" line="262"/>
         <source>Lowest</source>
         <translation>Madalaim</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="372"/>
+        <location filename="DlgExport.ui" line="288"/>
         <source>Best</source>
         <translation>Parim</translation>
     </message>
@@ -9043,44 +9047,44 @@ Please make sure that files are not read-only!</oldsource>
         <translation type="unfinished">Muuda IPTC/XMP</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="840"/>
+        <location filename="DlgIptc.ui" line="861"/>
         <source>Load template V1...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="789"/>
+        <location filename="DlgIptc.ui" line="810"/>
         <source>Ctrl+Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="809"/>
+        <location filename="DlgIptc.ui" line="830"/>
         <source>Ctrl+Right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="833"/>
+        <location filename="DlgIptc.ui" line="854"/>
         <source>Load template...</source>
         <translation>Lae mall...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="717"/>
+        <location filename="DlgIptc.ui" line="738"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="857"/>
+        <location filename="DlgIptc.ui" line="878"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="823"/>
+        <location filename="DlgIptc.ui" line="844"/>
         <source>Save template...</source>
         <translation>Salvesta mall...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="850"/>
+        <location filename="DlgIptc.ui" line="871"/>
         <source>Clear all fields</source>
         <translation>Puhasta kõik väljad</translation>
     </message>
@@ -9135,98 +9139,98 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Tunnustus</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="296"/>
+        <location filename="DlgIptc.ui" line="317"/>
         <source>Status</source>
         <translation>Staatus</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="305"/>
+        <location filename="DlgIptc.ui" line="326"/>
         <source>Priority</source>
         <translation>Prioriteet</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="328"/>
+        <location filename="DlgIptc.ui" line="349"/>
         <source>Object cycle</source>
         <translation>Objekti tsükkel</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="374"/>
+        <location filename="DlgIptc.ui" line="395"/>
         <source>Date/Time</source>
         <translation>Kuupäev/kellaaeg</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="380"/>
+        <location filename="DlgIptc.ui" line="401"/>
         <source>Created date/time</source>
         <translation>Loomise kuupäev/kellaaeg</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="426"/>
-        <location filename="DlgIptc.ui" line="485"/>
+        <location filename="DlgIptc.ui" line="447"/>
+        <location filename="DlgIptc.ui" line="506"/>
         <source>YYYYMMDD</source>
         <translation>AAAAKKPP</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="449"/>
+        <location filename="DlgIptc.ui" line="470"/>
         <source>Released date/time</source>
         <translation>Väljaandmise kuupäev/kellaaeg</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="516"/>
+        <location filename="DlgIptc.ui" line="537"/>
         <source>Source</source>
         <translation>Allikas</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="568"/>
+        <location filename="DlgIptc.ui" line="589"/>
         <source>Country code</source>
         <translation>Riigi kood</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="611"/>
+        <location filename="DlgIptc.ui" line="632"/>
         <source>Options</source>
         <translation>Valikud</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="684"/>
+        <location filename="DlgIptc.ui" line="705"/>
         <source>Multiple selection</source>
         <translation>Mitmene valik</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="693"/>
+        <location filename="DlgIptc.ui" line="714"/>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
         <translation>Säilita ja lisa uus väärtus (Võtmesõnad ja lisakategooriad)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="700"/>
+        <location filename="DlgIptc.ui" line="721"/>
         <source>Keep original value if new value is empty</source>
         <translation>Säilita algväärtus, kui uus väärtus on tühi</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="707"/>
+        <location filename="DlgIptc.ui" line="728"/>
         <source>Replace only if original value is empty</source>
         <translation>Asenda ainult siis, kui originaalväärtus on tühi</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="632"/>
+        <location filename="DlgIptc.ui" line="653"/>
         <source>Mode:</source>
         <translation>Režiim:</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="640"/>
+        <location filename="DlgIptc.ui" line="661"/>
         <source>IPTC-IIM only</source>
         <translation>Ainult IPTC-IIM</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="645"/>
+        <location filename="DlgIptc.ui" line="666"/>
         <source>IPTC-IIM, update or create XMP</source>
         <translation>IPTC-IIM, uuenda või loo XMP</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="655"/>
+        <location filename="DlgIptc.ui" line="676"/>
         <source>XMP, update or create IPTC-IIM</source>
         <translation>XMP, uuenda või loo IPTC-IIM</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="650"/>
+        <location filename="DlgIptc.ui" line="671"/>
         <source>XMP only</source>
         <translation>Ainult XMP</translation>
     </message>
@@ -10024,32 +10028,32 @@ Please make sure that files are not read-only!</oldsource>
 <context>
     <name>DlgProcess</name>
     <message>
-        <location filename="DlgProcess.cpp" line="47"/>
+        <location filename="DlgProcess.cpp" line="49"/>
         <source>Zoom out</source>
         <translation type="unfinished">Vähenda</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="49"/>
+        <location filename="DlgProcess.cpp" line="51"/>
         <source>Zoom in</source>
         <translation type="unfinished">Suurenda</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="51"/>
+        <location filename="DlgProcess.cpp" line="53"/>
         <source>Zoom 100%</source>
         <translation type="unfinished">Suumi 100%</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="53"/>
+        <location filename="DlgProcess.cpp" line="55"/>
         <source>Best fit</source>
         <translation type="unfinished">Sobita aknasse</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="305"/>
+        <location filename="DlgProcess.cpp" line="315"/>
         <source>&lt;Last Used&gt;</source>
         <translation>&lt;Viimati kasutatud&gt;</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="305"/>
+        <location filename="DlgProcess.cpp" line="315"/>
         <source>&lt;Default&gt;</source>
         <translation>&lt;Vaikimisi&gt;</translation>
     </message>
@@ -12187,24 +12191,27 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="186"/>
+        <location filename="DlgSettingsGeneral.ui" line="538"/>
         <source>Ask</source>
         <translation type="unfinished">Küsi</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="191"/>
+        <location filename="DlgSettingsGeneral.ui" line="543"/>
         <source>Always</source>
         <translation type="unfinished">Alati</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="196"/>
         <location filename="DlgSettingsGeneral.ui" line="253"/>
+        <location filename="DlgSettingsGeneral.ui" line="548"/>
         <source>Never</source>
         <translation type="unfinished">Mitte kunagi</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="451"/>
-        <location filename="DlgSettingsGeneral.ui" line="818"/>
-        <location filename="DlgSettingsGeneral.ui" line="885"/>
+        <location filename="DlgSettingsGeneral.ui" line="854"/>
+        <location filename="DlgSettingsGeneral.ui" line="921"/>
         <source>None</source>
         <translation>Puudub</translation>
     </message>
@@ -12261,12 +12268,12 @@ Thumbnail</source>
         <translation>Failioperatsioonid</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="544"/>
+        <location filename="DlgSettingsGeneral.ui" line="580"/>
         <source>Confirm file delete</source>
         <translation>Kinnita faili kustutamine</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="551"/>
+        <location filename="DlgSettingsGeneral.ui" line="587"/>
         <source>Use Recycle Bin</source>
         <translation>Kasuta Prügikasti</translation>
     </message>
@@ -12357,171 +12364,171 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="528"/>
-        <source>Use output filename after &apos;Save as&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsGeneral.ui" line="538"/>
+        <location filename="DlgSettingsGeneral.ui" line="574"/>
         <source>Delete</source>
         <translation type="unfinished">Kustuta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="561"/>
+        <location filename="DlgSettingsGeneral.ui" line="597"/>
         <source>Copy</source>
         <translation type="unfinished">Kopeeri</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="626"/>
+        <location filename="DlgSettingsGeneral.ui" line="662"/>
         <source>Rename</source>
         <translation type="unfinished">Nimeta ringi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="632"/>
+        <location filename="DlgSettingsGeneral.ui" line="668"/>
         <source>Use dialog to rename file/folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="659"/>
+        <location filename="DlgSettingsGeneral.ui" line="695"/>
         <source>Lossless operations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="665"/>
+        <location filename="DlgSettingsGeneral.ui" line="701"/>
         <source>Make backup for lossless flip/rotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="672"/>
+        <location filename="DlgSettingsGeneral.ui" line="708"/>
         <source>Make backup for lossless crop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="679"/>
+        <location filename="DlgSettingsGeneral.ui" line="715"/>
         <source>Make backup for other lossless operations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="735"/>
+        <location filename="DlgSettingsGeneral.ui" line="771"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
         <translation type="unfinished">Värviprofiil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1001"/>
+        <location filename="DlgSettingsGeneral.ui" line="1037"/>
         <source>Auto correct</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1029"/>
+        <location filename="DlgSettingsGeneral.ui" line="1065"/>
         <source>Replace</source>
         <translation type="unfinished">Asenda</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1034"/>
+        <location filename="DlgSettingsGeneral.ui" line="1070"/>
         <source>With</source>
         <translation type="unfinished">järgnevaks</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1071"/>
+        <location filename="DlgSettingsGeneral.ui" line="1107"/>
         <source>Delimiter character</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="569"/>
+        <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="580"/>
+        <location filename="DlgSettingsGeneral.ui" line="530"/>
+        <source>Save changes to file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsGeneral.ui" line="616"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="585"/>
+        <location filename="DlgSettingsGeneral.ui" line="621"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="590"/>
+        <location filename="DlgSettingsGeneral.ui" line="626"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="595"/>
+        <location filename="DlgSettingsGeneral.ui" line="631"/>
         <source>&lt;Filename&gt;-(#)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="600"/>
+        <location filename="DlgSettingsGeneral.ui" line="636"/>
         <source>&lt;Filename&gt;-#</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="689"/>
+        <location filename="DlgSettingsGeneral.ui" line="725"/>
         <source>Keep original date/time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="695"/>
+        <location filename="DlgSettingsGeneral.ui" line="731"/>
         <source>File saving</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="702"/>
+        <location filename="DlgSettingsGeneral.ui" line="738"/>
         <source>Lossless transformations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="709"/>
+        <location filename="DlgSettingsGeneral.ui" line="745"/>
         <source>Embedded Metadata change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="741"/>
+        <location filename="DlgSettingsGeneral.ui" line="777"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
         <translation>Kasuta monitori ICC profiili (aeglasem)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="785"/>
+        <location filename="DlgSettingsGeneral.ui" line="821"/>
         <source>System</source>
         <translation>Süsteem</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="772"/>
-        <location filename="DlgSettingsGeneral.ui" line="834"/>
-        <location filename="DlgSettingsGeneral.ui" line="901"/>
+        <location filename="DlgSettingsGeneral.ui" line="808"/>
+        <location filename="DlgSettingsGeneral.ui" line="870"/>
+        <location filename="DlgSettingsGeneral.ui" line="937"/>
         <source>Custom</source>
         <translation>Kohandatud</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="812"/>
+        <location filename="DlgSettingsGeneral.ui" line="848"/>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="825"/>
+        <location filename="DlgSettingsGeneral.ui" line="861"/>
         <source>sRGB</source>
         <translation>sRGB</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="879"/>
+        <location filename="DlgSettingsGeneral.ui" line="915"/>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="892"/>
+        <location filename="DlgSettingsGeneral.ui" line="928"/>
         <source>System profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="948"/>
+        <location filename="DlgSettingsGeneral.ui" line="984"/>
         <source>Rendering intent:</source>
         <translation>Renderduse sügavus:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="977"/>
+        <location filename="DlgSettingsGeneral.ui" line="1013"/>
         <source>Black Point Compensation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13442,17 +13449,17 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="613"/>
+        <location filename="DlgSettingsKeywords.ui" line="746"/>
         <source>Label</source>
         <translation type="unfinished">Silt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="606"/>
+        <location filename="DlgSettingsKeywords.ui" line="696"/>
         <source>Read (separated by ,)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="784"/>
+        <location filename="DlgSettingsKeywords.ui" line="739"/>
         <source>Write</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13743,8 +13750,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
-        <location filename="DlgSettingsView.ui" line="1230"/>
-        <location filename="DlgSettingsView.ui" line="1387"/>
+        <location filename="DlgSettingsView.ui" line="1187"/>
+        <location filename="DlgSettingsView.ui" line="1344"/>
         <source>Background color</source>
         <translation>Tausta värv</translation>
     </message>
@@ -13779,11 +13786,6 @@ Do you want to reassign?</source>
         <translation>Muuda suumi kvaliteeti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="803"/>
-        <source>Never</source>
-        <translation>Mitte kunagi</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
@@ -13796,7 +13798,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
-        <location filename="DlgSettingsView.ui" line="1321"/>
+        <location filename="DlgSettingsView.ui" line="1278"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
         <translation type="unfinished">Automaatne pildi suurus</translation>
@@ -13808,7 +13810,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
-        <location filename="DlgSettingsView.ui" line="1364"/>
+        <location filename="DlgSettingsView.ui" line="1321"/>
         <source>Show scrollbars</source>
         <translation type="unfinished">Peida kerimisribad</translation>
     </message>
@@ -13824,7 +13826,7 @@ Do you want to reassign?</source>
         <translation type="unfinished">Lähtesta XY (Ei mahu)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="934"/>
+        <location filename="DlgSettingsView.ui" line="891"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
         <translation type="unfinished">Icoonifailid näidatakse &apos;Hetktõmmisena&apos;</translation>
@@ -13963,217 +13965,202 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="785"/>
-        <source>Save changes to file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="793"/>
-        <source>Ask</source>
-        <translation type="unfinished">Küsi</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="798"/>
-        <source>Always</source>
-        <translation type="unfinished">Alati</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="826"/>
+        <location filename="DlgSettingsView.ui" line="783"/>
         <source>Two-pass rendering at loading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="833"/>
+        <location filename="DlgSettingsView.ui" line="790"/>
         <source>Cache</source>
         <translation>Puhver</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="839"/>
+        <location filename="DlgSettingsView.ui" line="796"/>
         <source>Read one image ahead</source>
         <translation>Lae järgmine pilt mällu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="846"/>
+        <location filename="DlgSettingsView.ui" line="803"/>
         <source>Keep current image</source>
         <translation>Säilita jooksev pilt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="856"/>
+        <location filename="DlgSettingsView.ui" line="813"/>
         <source>Quick slideshow</source>
         <translation>Kiire esitlus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="862"/>
+        <location filename="DlgSettingsView.ui" line="819"/>
         <source>Delay (ms)</source>
         <translation>Viivitus (ms)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="879"/>
+        <location filename="DlgSettingsView.ui" line="836"/>
         <source>Direction</source>
         <translation>Suund</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="887"/>
+        <location filename="DlgSettingsView.ui" line="844"/>
         <source>Forward</source>
         <translation>Edasi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="892"/>
+        <location filename="DlgSettingsView.ui" line="849"/>
         <source>Backward</source>
         <translation>Tagasi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="897"/>
+        <location filename="DlgSettingsView.ui" line="854"/>
         <source>Random</source>
         <translation>Juhuslikult</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="972"/>
+        <location filename="DlgSettingsView.ui" line="929"/>
         <source>StatusBar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="978"/>
+        <location filename="DlgSettingsView.ui" line="935"/>
         <source>Filename</source>
         <translation type="unfinished">Faili nimi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="987"/>
+        <location filename="DlgSettingsView.ui" line="944"/>
         <source>File date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="995"/>
+        <location filename="DlgSettingsView.ui" line="952"/>
         <source>File created date</source>
         <translation type="unfinished">Faili loomise kuupäev</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1000"/>
+        <location filename="DlgSettingsView.ui" line="957"/>
         <source>File modified date</source>
         <translation type="unfinished">Faili muutmise kuupäev</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1005"/>
+        <location filename="DlgSettingsView.ui" line="962"/>
         <source>EXIF date taken</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1010"/>
+        <location filename="DlgSettingsView.ui" line="967"/>
         <source>EXIF date modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1033"/>
+        <location filename="DlgSettingsView.ui" line="990"/>
         <source>File size</source>
         <translation type="unfinished">Filtri suurus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1040"/>
+        <location filename="DlgSettingsView.ui" line="997"/>
         <source>Properties</source>
         <translation type="unfinished">Omadused</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1047"/>
+        <location filename="DlgSettingsView.ui" line="1004"/>
         <source>Print size</source>
         <translation type="unfinished">Trükkimise suurus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1054"/>
+        <location filename="DlgSettingsView.ui" line="1011"/>
         <source>Zoom</source>
         <translation type="unfinished">Suum</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1061"/>
+        <location filename="DlgSettingsView.ui" line="1018"/>
         <source>Embedded comment</source>
         <translation type="unfinished">Sisemine kommentaar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1068"/>
+        <location filename="DlgSettingsView.ui" line="1025"/>
         <source>Description</source>
         <translation type="unfinished">Kirjeldus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1089"/>
+        <location filename="DlgSettingsView.ui" line="1046"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1294"/>
+        <location filename="DlgSettingsView.ui" line="1251"/>
         <source>Stretch horizontally</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1313"/>
+        <location filename="DlgSettingsView.ui" line="1270"/>
         <source>Fullscreen</source>
         <translation type="unfinished">Täisekraan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1350"/>
+        <location filename="DlgSettingsView.ui" line="1307"/>
         <source>Show playbar</source>
         <translation type="unfinished">Näita mängimise riba</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1357"/>
+        <location filename="DlgSettingsView.ui" line="1314"/>
         <source>Show info</source>
         <translation type="unfinished">Näita infot</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1371"/>
+        <location filename="DlgSettingsView.ui" line="1328"/>
         <source>Show toolbar</source>
         <translation type="unfinished">Peida tööriistariba</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1378"/>
+        <location filename="DlgSettingsView.ui" line="1335"/>
         <source>Hide mouse cursor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1412"/>
+        <location filename="DlgSettingsView.ui" line="1369"/>
         <source>Dual monitor: Use second monitor</source>
         <translation type="unfinished">Kaks monitori: kasuta teist monitori</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1425"/>
+        <location filename="DlgSettingsView.ui" line="1382"/>
         <source>Floating views</source>
         <translation type="unfinished">Liikuvad vaated</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1450"/>
+        <location filename="DlgSettingsView.ui" line="1407"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
         <translation type="unfinished">(ilmuvad, kui viia hiirekursor ekraani ülemisse või paremasse serva)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1267"/>
+        <location filename="DlgSettingsView.ui" line="1224"/>
         <source>Text color</source>
         <translation>Teksti värv</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1223"/>
+        <location filename="DlgSettingsView.ui" line="1180"/>
         <source>Font</source>
         <translation>Font</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1102"/>
+        <location filename="DlgSettingsView.ui" line="1059"/>
         <source>Support HTML tags</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1305"/>
+        <location filename="DlgSettingsView.ui" line="1262"/>
         <source>Always show in fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1287"/>
+        <location filename="DlgSettingsView.ui" line="1244"/>
         <source>Opacity</source>
         <translation>Läbipaistmatus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1193"/>
+        <location filename="DlgSettingsView.ui" line="1150"/>
         <source>Position</source>
         <translation>Asukoht</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="946"/>
+        <location filename="DlgSettingsView.ui" line="903"/>
         <source>Title bar</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14198,12 +14185,12 @@ Do you want to reassign?</source>
         <translation>Täissuurus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="921"/>
+        <location filename="DlgSettingsView.ui" line="878"/>
         <source>Multipage files</source>
         <translation>Mitmelehelised failid</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="927"/>
+        <location filename="DlgSettingsView.ui" line="884"/>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Keela GIF/JIF/APNG/ANI animatsioonid</translation>
     </message>
@@ -15417,17 +15404,17 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="97"/>
+        <location filename="DlgUserFilter.ui" line="483"/>
         <source>Bias</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="111"/>
+        <location filename="DlgUserFilter.ui" line="476"/>
         <source>Divisor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="505"/>
+        <location filename="DlgUserFilter.ui" line="503"/>
         <source>Apply</source>
         <translation type="unfinished">Rakenda</translation>
     </message>
@@ -15609,17 +15596,17 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished">Parim (kadudeta)</translation>
     </message>
     <message>
-        <location filename="DlgWriteAvif.ui" line="155"/>
+        <location filename="DlgWriteAvif.ui" line="99"/>
         <source>Subsampling</source>
         <translation type="unfinished">Subdiskreetimine</translation>
     </message>
     <message>
-        <location filename="DlgWriteAvif.ui" line="148"/>
+        <location filename="DlgWriteAvif.ui" line="123"/>
         <source>Speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgWriteAvif.ui" line="128"/>
+        <location filename="DlgWriteAvif.ui" line="116"/>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
         <translation type="unfinished"></translation>
@@ -15731,63 +15718,63 @@ Kas soovite jätkata?</translation>
         <translation>Optimeeri Huffmani tabel</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="110"/>
+        <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>DCT Method</source>
         <translation>DCT meetod</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="118"/>
+        <location filename="DlgWriteJPEG.ui" line="113"/>
         <source>Slow</source>
         <translation>Aeglane</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="123"/>
+        <location filename="DlgWriteJPEG.ui" line="118"/>
         <source>Fast (worst but faster)</source>
         <translation>Kiire (halvim, aga kiirem)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="128"/>
+        <location filename="DlgWriteJPEG.ui" line="123"/>
         <source>Float (best but slowest)</source>
         <translation>Float (parim, aga aeglaseim)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="136"/>
+        <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>Smoothing factor</source>
         <translation>Sujuvuse faktor</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="143"/>
+        <location filename="DlgWriteJPEG.ui" line="146"/>
         <source>Subsampling factor</source>
         <translation>Diskreetsusfaktor</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="151"/>
+        <location filename="DlgWriteJPEG.ui" line="194"/>
         <source>2x2,1x1,1x1 (default)</source>
         <translation>2х2, 1x1, 1x1 (vaikimisi)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="156"/>
+        <location filename="DlgWriteJPEG.ui" line="199"/>
         <source>2x1,1x1,1x1 (4:2:2)</source>
         <translation>2х1, 1x1, 1x1 (4:2:2)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="161"/>
+        <location filename="DlgWriteJPEG.ui" line="204"/>
         <source>1x1,1x1,1x1 (best quality)</source>
         <translation>1x1, 1x1, 1x1 (parim kvaliteet)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="208"/>
+        <location filename="DlgWriteJPEG.ui" line="229"/>
         <source>Rebuild embedded EXIF thumbnail</source>
         <oldsource>Rebuild embedded thumbnail</oldsource>
         <translation type="unfinished">Loo sisemine pisipilt uuesti</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="215"/>
+        <location filename="DlgWriteJPEG.ui" line="236"/>
         <source>Use estimated quality (when possible)</source>
         <translation>Kasuta hinnangulist kvaliteeti (kui võimalik)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="222"/>
+        <location filename="DlgWriteJPEG.ui" line="243"/>
         <source>Convert to XYB colorspace</source>
         <translation>Konverteerimine XYB värviruumi</translation>
     </message>
@@ -19111,233 +19098,278 @@ Kas soovite jätkata?</translation>
         <translation>Märgitud fail(id)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Navigate to</source>
         <translation>Navigeerige aadressile</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="474"/>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="475"/>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="476"/>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="477"/>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="479"/>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="492"/>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="511"/>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="512"/>
+        <source>Set Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="513"/>
+        <source>Set Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="540"/>
         <source>Show files in subfolders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="551"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Rotate 90° right</source>
         <translation>Pööra 90° paremale</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="552"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Rotate 90° left</source>
         <translation>Pööra 90° vasakule</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Pööra 90° paremale (kadudeta)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="556"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Pööra 90° vasakule (kadudeta)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="557"/>
+        <location filename="BrowserMenu.h" line="576"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Pööra 180° (kadudeta)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Flip horisontaalselt (kadudeta)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>Flip vertically (lossless)</source>
         <translation>Flip vertikaalselt (kadudeta)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>Open GPS location in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="580"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>EXIF pisipilt - Pööra 90° vasakule</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="581"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>EXIF pisipilt - Pööra 90° paremale</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF pisipilt</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Video thumbnails gallery...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Catalog</source>
         <translation type="unfinished">Puhver</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="662"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>Filter by All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="665"/>
         <source>Face tag...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Paste as image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="BrowserMenu.h" line="673"/>
         <source>Acquire (TWAIN)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="439"/>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="CompareWidget.cpp" line="444"/>
+        <location filename="BrowserMenu.h" line="467"/>
         <source>Excellent</source>
         <translation>Suurepärane</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="442"/>
-        <location filename="BrowserMenu.h" line="454"/>
+        <location filename="CompareWidget.cpp" line="447"/>
+        <location filename="BrowserMenu.h" line="468"/>
         <source>Good</source>
         <translation>Hea</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="445"/>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="CompareWidget.cpp" line="450"/>
+        <location filename="BrowserMenu.h" line="469"/>
         <source>Average</source>
         <translation>Keskmine</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="454"/>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="CompareWidget.cpp" line="459"/>
+        <location filename="BrowserMenu.h" line="472"/>
         <source>Unrated</source>
         <translation>Hindamata</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="486"/>
+        <location filename="CompareWidget.cpp" line="491"/>
         <location filename="BrowserMenu.h" line="111"/>
-        <location filename="BrowserMenu.h" line="476"/>
+        <location filename="BrowserMenu.h" line="490"/>
         <source>Uncolored</source>
         <translation>Värvita</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="550"/>
         <source>Open all selected</source>
         <translation>Ava kõik valitud</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="567"/>
         <source>Info panels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="575"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>Edit IPTC...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="576"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>Edit XMP...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Contact sheet...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>Slideshow...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>Banner...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>New image...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
-        <location filename="DlgSettingsView.cpp" line="303"/>
-        <location filename="BrowserMenu.h" line="622"/>
+        <location filename="DlgSettingsView.cpp" line="301"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>No fit</source>
         <translation>Ära mahuta</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
-        <location filename="DlgSettingsView.cpp" line="304"/>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="DlgSettingsView.cpp" line="302"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Fit image to window</source>
         <translation>Mahuta pilt aknasse</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
-        <location filename="DlgSettingsView.cpp" line="306"/>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="DlgSettingsView.cpp" line="304"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Fit image to window, large only</source>
         <translation>Mahuta pilt aknasse - ainult suured</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
-        <location filename="DlgSettingsView.cpp" line="307"/>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="DlgSettingsView.cpp" line="305"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Fit image to window width</source>
         <translation>Mahuta pilt aknasse laiuse järgi</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
-        <location filename="DlgSettingsView.cpp" line="308"/>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="DlgSettingsView.cpp" line="306"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Fit image to window height</source>
         <translation>Mahuta pilt aknasse kõrguse järgi</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
-        <location filename="DlgSettingsView.cpp" line="309"/>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="DlgSettingsView.cpp" line="307"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Fit image to window width or height</source>
         <translation>Mahuta pilt aknasse laiuse või kõrguse järgi</translation>
     </message>
@@ -19347,155 +19379,155 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="255"/>
+        <location filename="BrowserMenu.h" line="264"/>
         <source>Save layout D</source>
         <translation>Salvesta paigutus D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Panels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="409"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Open file list...</source>
         <translation>Ava failinimistu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="485"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>Theme</source>
         <translation>Teema</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Filelist toolbar</source>
         <translation>Failinimistu tööriistariba</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="555"/>
         <source>Preview as tab</source>
         <translation>Eelvaade sakina</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="558"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Pööra pilti EXIF välja järgi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="559"/>
+        <location filename="BrowserMenu.h" line="578"/>
         <source>Reset EXIF orientation field</source>
         <translation>Määra EXIF pöörde väli </translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Convert into</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>File listing...</source>
         <translation>Failinimistu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Archive...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
+        <location filename="BrowserMenu.h" line="611"/>
         <source>Send by email...</source>
         <translation>Saada e-postiga...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Import and sort...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Multi-page file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Join images...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Draw as tiled</source>
         <translation>Kujuta plaatidena</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
-        <location filename="DlgSettingsView.cpp" line="305"/>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="DlgSettingsView.cpp" line="303"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Fit image to window, small only</source>
         <translation type="unfinished">Mahuta pilt aknasse - ainult väikesed</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Category Search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Capture...</source>
         <translation type="unfinished">Pildihõive...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="670"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Tühi sakk</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="672"/>
         <source>Select TWAIN source...</source>
         <translation type="unfinished">Valige TWAIN-allikas...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="792"/>
+        <location filename="BrowserMenu.h" line="809"/>
         <source>&amp;File</source>
         <translation>&amp;Fail</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="793"/>
+        <location filename="BrowserMenu.h" line="810"/>
         <source>&amp;Edit</source>
         <translation>&amp;Redigeeri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="794"/>
+        <location filename="BrowserMenu.h" line="811"/>
         <source>&amp;View</source>
         <translation>&amp;Vaade</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="795"/>
+        <location filename="BrowserMenu.h" line="812"/>
         <source>Meta&amp;data</source>
         <translation type="unfinished">Metaandmed</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="796"/>
+        <location filename="BrowserMenu.h" line="813"/>
         <source>&amp;Tools</source>
         <translation>&amp;Tööriistad</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="674"/>
         <source>Acquire into (TWAIN)...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="797"/>
+        <location filename="BrowserMenu.h" line="814"/>
         <source>C&amp;reate</source>
         <translation>&amp;Loo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="798"/>
+        <location filename="BrowserMenu.h" line="815"/>
         <source>&amp;Help</source>
         <translation>&amp;Abi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="246"/>
+        <location filename="BrowserMenu.h" line="255"/>
         <source>Restore layout A</source>
         <oldsource>Restore layout 3</oldsource>
         <translation>Taasta paigutus A</translation>
@@ -19526,128 +19558,128 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="247"/>
+        <location filename="BrowserMenu.h" line="256"/>
         <source>Restore layout B</source>
         <oldsource>Restore layout 4</oldsource>
         <translation>Taasta paigutus B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="248"/>
+        <location filename="BrowserMenu.h" line="257"/>
         <source>Restore layout C</source>
         <oldsource>Restore layout 5</oldsource>
         <translation>Taasta paigutus C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="250"/>
+        <location filename="BrowserMenu.h" line="259"/>
         <source>Restore layout E</source>
         <oldsource>Save layout 1</oldsource>
         <translation>Taasta paigutus E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="252"/>
+        <location filename="BrowserMenu.h" line="261"/>
         <source>Save layout A</source>
         <oldsource>Save layout 3</oldsource>
         <translation>Salvesta paigutus A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="253"/>
+        <location filename="BrowserMenu.h" line="262"/>
         <source>Save layout B</source>
         <oldsource>Save layout 4</oldsource>
         <translation>Salvesta paigutus B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="254"/>
+        <location filename="BrowserMenu.h" line="263"/>
         <source>Save layout C</source>
         <oldsource>Save layout 5</oldsource>
         <translation>Salvesta paigutus C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="302"/>
+        <location filename="BrowserMenu.h" line="311"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="304"/>
+        <location filename="BrowserMenu.h" line="313"/>
         <source>Category Sets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="415"/>
+        <location filename="BrowserMenu.h" line="429"/>
         <source>Selected path(s)</source>
         <translation>Valitud tee(d)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="416"/>
+        <location filename="BrowserMenu.h" line="430"/>
         <source>Selected filename(s)</source>
         <translation>Valitud failinimed</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="417"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Valitud failinimed ja tee(d)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Back</source>
         <translation>Tagasi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="528"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>Edasi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Toolbar</source>
         <translation>Tööriistariba</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Status bar</source>
         <translation>Olekuriba</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="300"/>
+        <location filename="BrowserMenu.h" line="309"/>
         <source>Folder</source>
         <translation>Kaust</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="249"/>
+        <location filename="BrowserMenu.h" line="258"/>
         <source>Restore layout D</source>
         <translation>Taasta paigutus D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="256"/>
+        <location filename="BrowserMenu.h" line="265"/>
         <source>Save layout E</source>
         <translation>Salvesta paigutus E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="301"/>
+        <location filename="BrowserMenu.h" line="310"/>
         <source>Favorites</source>
         <translation>Lemmikud</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="303"/>
+        <location filename="BrowserMenu.h" line="312"/>
         <source>Categories</source>
         <translation>Kategooriad</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="305"/>
+        <location filename="BrowserMenu.h" line="314"/>
         <source>Information</source>
         <translation type="unfinished">Informatsioon</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="306"/>
-        <location filename="BrowserMenu.h" line="317"/>
-        <location filename="BrowserMenu.h" line="542"/>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="315"/>
+        <location filename="BrowserMenu.h" line="326"/>
+        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Preview</source>
         <translation>Eelvaade</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="318"/>
+        <location filename="BrowserMenu.h" line="327"/>
         <source>Histogram</source>
         <translation>Histogramm</translation>
     </message>
@@ -19669,615 +19701,569 @@ Kas soovite jätkata?</translation>
         <translation>Loomise kuupäev</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="448"/>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="CompareWidget.cpp" line="453"/>
+        <location filename="BrowserMenu.h" line="470"/>
         <source>Fair</source>
         <translation>Rahuldav</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="451"/>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="CompareWidget.cpp" line="456"/>
+        <location filename="BrowserMenu.h" line="471"/>
         <source>Poor</source>
         <translation>Kehv</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="404"/>
+        <location filename="BrowserMenu.h" line="418"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation type="unfinished">Ava programmiga</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="405"/>
+        <location filename="BrowserMenu.h" line="419"/>
         <source>Recent files</source>
         <translation>Viimatised failid</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="408"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Open...</source>
         <translation>Ava...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4197"/>
-        <location filename="BrowserMenu.h" line="411"/>
+        <location filename="BrowserWindow.cpp" line="4198"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Cut</source>
         <translation>Lõika</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4199"/>
-        <location filename="BrowserMenu.h" line="413"/>
+        <location filename="BrowserWindow.cpp" line="4200"/>
+        <location filename="BrowserMenu.h" line="427"/>
         <source>Copy</source>
         <translation>Kopeeri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="414"/>
+        <location filename="BrowserMenu.h" line="428"/>
         <source>Image</source>
         <translation type="unfinished">Pilt</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4201"/>
-        <location filename="BrowserMenu.h" line="418"/>
+        <location filename="BrowserWindow.cpp" line="4202"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Paste</source>
         <translation>Kleebi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="421"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Select all</source>
         <translation>Vali kõik</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="422"/>
+        <location filename="BrowserMenu.h" line="436"/>
         <source>Select none</source>
         <translation>Tühista valik</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Invert selection</source>
         <translation>Vastupidine valik</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>Select all images</source>
         <translation>Vali kõik pildid</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="425"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Select all files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Select tagged files</source>
         <translation>Vali märgitud failid</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4209"/>
-        <location filename="BrowserMenu.h" line="428"/>
+        <location filename="BrowserWindow.cpp" line="4210"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>Copy to...</source>
         <translation>Kopeeri...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4211"/>
-        <location filename="BrowserMenu.h" line="429"/>
+        <location filename="BrowserWindow.cpp" line="4212"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Move to...</source>
         <translation>Teisalda...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4204"/>
-        <location filename="BrowserMenu.h" line="430"/>
+        <location filename="BrowserWindow.cpp" line="4205"/>
+        <location filename="BrowserMenu.h" line="444"/>
         <source>Delete</source>
         <translation>Kustuta</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>Rename...</source>
         <translation>Nimeta ringi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>New folder</source>
         <translation>Uus kaust</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Previous file</source>
         <translation>Eelmine fail</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>Next file</source>
         <translation>Järgmine fail</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>First file</source>
         <translation>Esimene fail</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="437"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Last file</source>
         <translation>Viimane fail</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="438"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Previous page</source>
         <translation>Eelmine leht</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>Next page</source>
         <translation>Järgmine leht</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>First page</source>
         <translation>Esimene leht</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Last page</source>
         <translation>Viimane leht</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Page</source>
         <translation>Leht</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Show header</source>
         <translation>Näita päist</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="435"/>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="CompareWidget.cpp" line="440"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation type="unfinished">Märgi aktiivne</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="461"/>
         <source>Invert</source>
         <translation>Märge vastupidiseks</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="462"/>
         <source>Untag all</source>
         <translation>Võta kõigilt märge maha</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="463"/>
         <source>Clear all tags</source>
         <translation>Puhasta kõik märgitud</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="464"/>
         <source>Show tagged files</source>
         <translation>Näita märgitud faile</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="465"/>
         <source>Show tag box</source>
         <translation>Näita märke kasti</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
-        <source>Excellent (move to next image)</source>
-        <oldsource>Excellent (move to next photo)</oldsource>
-        <translation>Suurepärane (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="461"/>
-        <source>Good (move to next image)</source>
-        <oldsource>Good (move to next photo)</oldsource>
-        <translation>Hea (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="462"/>
-        <source>Average (move to next image)</source>
-        <oldsource>Average (move to next photo)</oldsource>
-        <translation>Keskmine (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="463"/>
-        <source>Fair (move to next image)</source>
-        <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Rahuldav (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="464"/>
-        <source>Poor (move to next image)</source>
-        <oldsource>Poor (move to next photo)</oldsource>
-        <translation>Kehv (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="465"/>
-        <source>Unrated (move to next image)</source>
-        <oldsource>Unrated (move to next photo)</oldsource>
-        <translation>Hindamata (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="478"/>
-        <source>##label## (move to next image)</source>
-        <translation>##label## (liikuda järgmisele pildile)</translation>
+        <source>Poor (go to next image)</source>
+        <oldsource>##label## (move to next image)</oldsource>
+        <translation type="unfinished">##label## (liikuda järgmisele pildile)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="487"/>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="505"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Layout</source>
         <translation>Paigutus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="488"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>View as</source>
         <translation>Näita kui</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="489"/>
+        <location filename="BrowserMenu.h" line="507"/>
         <source>Sort by</source>
         <translation>Sordi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="490"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Filter by</source>
         <translation>Filtreeri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="491"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>Thumbnails size</source>
         <translation>Pisipildi suurus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="492"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Tag</source>
         <translation>Märge</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="493"/>
-        <source>Rating &amp;&amp; Color label</source>
-        <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Hinnang ja Värvi silt</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="494"/>
-        <source>Category</source>
-        <translation>Kategooria</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="495"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>Remove from category</source>
         <translation>Eemalda kategooriast</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="496"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>Remove from all categories</source>
         <translation>Eemalda kõikidest kategooriatest</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="498"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="499"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="500"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="501"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="503"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="523"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>Show hidden files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Up</source>
         <translation>Üles</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Show title of panels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Rebuild thumbnails</source>
         <translation>Loo pisipildid uuesti</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="537"/>
         <source>Update catalog from files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Update files from catalog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Refresh</source>
         <translation>Värskenda</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Stop</source>
         <translation>Seiska</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Open</source>
         <translation>Ava</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="525"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Open containing folder</source>
         <translation>Ava sisaldav kaust</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="546"/>
         <source>Open in Finder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="529"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Open in file explorer</source>
         <translation>Ava failisirvijaga</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="533"/>
+        <location filename="BrowserMenu.h" line="552"/>
         <source>Fullscreen</source>
         <translation>Täisekraan</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="534"/>
+        <location filename="BrowserMenu.h" line="553"/>
         <source>Show</source>
         <translation>Näita</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="554"/>
         <source>Use tabs</source>
         <translation>Kasuta sakke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="558"/>
         <source>Show source panels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="541"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Vertical tabs</source>
         <translation>Vertikaalsed sakid</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="563"/>
         <source>Add to favorites...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="546"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Thumbnails view only</source>
         <translation>Ainult pisipiltide vaade</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="553"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate counter clockwise</oldsource>
         <translation>Pööra 180°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="581"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation type="unfinished">JPEG kadudeta teisendused</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="564"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Batch rename...</source>
         <translation>Rühmakaupa ümbernimetamine...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Võrdle...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Search...</source>
         <translation>Otsi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Find similar files...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation type="unfinished">Sea kommentaar...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>Change timestamp...</source>
         <translation>Muuda ajatemplit...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="577"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Export...</source>
         <translation>Eksport...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>Clean...</source>
         <translation>Puhasta...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="582"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF pisipilt - loo uuesti</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="583"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Transfer...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Metadata</source>
         <translation>Metaandmed</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>Batch convert...</source>
         <translation>Rühmakaupa teisendus...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Send by FTP...</source>
         <translation>Saada FTP abil...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>Upload on web...</source>
         <translation>Lae veebi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Set as wallpaper...</source>
         <translation>Sea taustapildiks...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>Print...</source>
         <translation>Trüki...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Properties...</source>
         <translation>Omadused...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Real size</source>
         <translation>Tegelik suurus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="611"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Zoom in</source>
         <translation>Suurenda</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Zoom out</source>
         <translation>Vähenda</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Lock zoom</source>
         <translation>Lukusta suum</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Kasuta läbipaistvuse indeksit (≤ 8bit)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>Use alpha channel</source>
         <translation>Kasuta alfakanalit</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Show alpha</source>
         <translation>Näita alfat</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Show red</source>
         <translation>Näita punast</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Show green</source>
         <translation>Näita rohelist</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Show blue</source>
         <translation>Näita sinist</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Zoom</source>
         <translation>Suum</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Copy to clipboard</source>
         <translation>Kopeeri lõikepuhvrisse</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>File operations</source>
         <translation type="unfinished">Failioperatsioonid</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Quick Filter</source>
         <translation>Kiirfilter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4194"/>
+        <location filename="BrowserWindow.cpp" line="4195"/>
         <source>New Folder</source>
         <translation type="unfinished">Uus kaust</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4206"/>
+        <location filename="BrowserWindow.cpp" line="4207"/>
         <source>Rename</source>
         <translation type="unfinished">Nimeta ringi</translation>
     </message>
@@ -20515,1077 +20501,1079 @@ Kas soovite jätkata?</translation>
 <context>
     <name>MenuView</name>
     <message>
-        <location filename="ViewMenu.h" line="315"/>
+        <location filename="ViewMenu.h" line="340"/>
         <source>No fit</source>
         <translation>Ära mahuta</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="316"/>
+        <location filename="ViewMenu.h" line="341"/>
         <source>Fit image to window</source>
         <translation>Mahuta pilt aknasse</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="317"/>
+        <location filename="ViewMenu.h" line="342"/>
         <source>Fit image to window, large only</source>
         <translation>Mahuta pilt aknasse - ainult suured</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="319"/>
+        <location filename="ViewMenu.h" line="344"/>
         <source>Fit image to window width</source>
         <translation>Mahuta pilt aknasse laiuse järgi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="320"/>
+        <location filename="ViewMenu.h" line="345"/>
         <source>Fit image to window height</source>
         <translation>Mahuta pilt aknasse kõrguse järgi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="321"/>
+        <location filename="ViewMenu.h" line="346"/>
         <source>Fit image to window width or height</source>
         <translation>Mahuta pilt aknasse laiuse või kõrguse järgi</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
-        <location filename="ViewMenu.h" line="304"/>
+        <location filename="ViewMenu.h" line="329"/>
         <source>Free</source>
         <translation>Vaba</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="332"/>
+        <location filename="ViewMenu.h" line="357"/>
         <source>Excellent</source>
         <translation>Suurepärane</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="333"/>
+        <location filename="ViewMenu.h" line="358"/>
         <source>Good</source>
         <translation>Hea</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="334"/>
+        <location filename="ViewMenu.h" line="359"/>
         <source>Average</source>
         <translation>Keskmine</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="337"/>
+        <location filename="ViewMenu.h" line="362"/>
         <source>Unrated</source>
         <translation>Hindamata</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="355"/>
+        <location filename="ViewMenu.h" line="380"/>
         <source>Uncolored</source>
         <translation>Värvita</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="318"/>
+        <location filename="ViewMenu.h" line="343"/>
         <source>Fit image to window, small only</source>
         <translation>Mahuta pilt aknasse - ainult väikesed</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="305"/>
+        <location filename="ViewMenu.h" line="330"/>
         <source>Same as image</source>
         <translation>Sama, mis pildil</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="335"/>
+        <location filename="ViewMenu.h" line="360"/>
         <source>Fair</source>
         <translation>Rahuldav</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="336"/>
+        <location filename="ViewMenu.h" line="361"/>
         <source>Poor</source>
         <translation>Kehv</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="199"/>
+        <location filename="ViewMenu.h" line="223"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
         <translation>RGB→RBG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="200"/>
+        <location filename="ViewMenu.h" line="224"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
         <translation>RGB→BGR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="201"/>
+        <location filename="ViewMenu.h" line="225"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
         <translation>RGB→BRG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="202"/>
+        <location filename="ViewMenu.h" line="226"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
         <translation>RGB→GRB</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="203"/>
+        <location filename="ViewMenu.h" line="227"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
         <translation>RGB→GBR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="208"/>
+        <location filename="ViewMenu.h" line="232"/>
         <source>Red</source>
         <translation>Punane</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="209"/>
+        <location filename="ViewMenu.h" line="233"/>
         <source>Green</source>
         <translation>Roheline</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="210"/>
+        <location filename="ViewMenu.h" line="234"/>
         <source>Blue</source>
         <translation>Sinine</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="211"/>
+        <location filename="ViewMenu.h" line="235"/>
         <source>Alpha</source>
         <translation>Alfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="216"/>
+        <location filename="ViewMenu.h" line="240"/>
         <source>Left</source>
         <oldsource>To the left</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="217"/>
+        <location filename="ViewMenu.h" line="241"/>
         <source>Right</source>
         <oldsource>To the right</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="219"/>
+        <location filename="ViewMenu.h" line="243"/>
         <source>Bottom</source>
         <oldsource>To the bottom</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="266"/>
+        <location filename="ViewMenu.h" line="290"/>
         <source>Open...</source>
         <translation>Ava...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="267"/>
+        <location filename="ViewMenu.h" line="291"/>
         <source>Open with</source>
         <translation>Ava programmiga</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="268"/>
+        <location filename="ViewMenu.h" line="292"/>
         <source>Recent files</source>
         <translation>Viimatised failid</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="269"/>
+        <location filename="ViewMenu.h" line="293"/>
         <source>Browse</source>
         <translation>Sirvi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="270"/>
+        <location filename="ViewMenu.h" line="294"/>
         <source>Format settings...</source>
         <translation>Formaadi seaded...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="274"/>
+        <location filename="ViewMenu.h" line="298"/>
         <source>Open in Finder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="276"/>
+        <location filename="ViewMenu.h" line="300"/>
         <source>Open in file explorer</source>
         <translation type="unfinished">Ava failisirvijaga</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="278"/>
+        <location filename="ViewMenu.h" line="302"/>
         <source>Reload</source>
         <translation>Lae uuesti</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="279"/>
+        <location filename="ViewMenu.h" line="303"/>
         <source>Save</source>
         <translation>Salvesta</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="280"/>
+        <location filename="ViewMenu.h" line="304"/>
         <source>Save as...</source>
         <translation>Salvesta kui...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="281"/>
+        <location filename="ViewMenu.h" line="305"/>
+        <source>Save a copy...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="306"/>
         <source>Save selection...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="282"/>
+        <location filename="ViewMenu.h" line="307"/>
         <source>Print...</source>
         <translation>Trüki...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="283"/>
+        <location filename="ViewMenu.h" line="308"/>
         <source>Print selection...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="284"/>
+        <location filename="ViewMenu.h" line="309"/>
         <source>Close</source>
         <translation type="unfinished">Sulge</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="286"/>
+        <location filename="ViewMenu.h" line="311"/>
         <source>Undo</source>
         <translation>Võta tagasi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="287"/>
+        <location filename="ViewMenu.h" line="312"/>
         <source>Redo</source>
         <translation>Tee uuesti</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="288"/>
+        <location filename="ViewMenu.h" line="313"/>
         <source>Cut</source>
         <translation>Lõika</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="289"/>
+        <location filename="ViewMenu.h" line="314"/>
         <source>Copy</source>
         <translation>Kopeeri</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="290"/>
+        <location filename="ViewMenu.h" line="315"/>
         <source>Paste</source>
         <translation>Kleebi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="293"/>
+        <location filename="ViewMenu.h" line="318"/>
         <source>Path</source>
         <translation type="unfinished">Faili tee</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="294"/>
+        <location filename="ViewMenu.h" line="319"/>
         <source>Filename</source>
         <translation type="unfinished">Faili nimi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="295"/>
+        <location filename="ViewMenu.h" line="320"/>
         <source>Filename and path</source>
         <translation type="unfinished">Failinimi ja tee</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="296"/>
+        <location filename="ViewMenu.h" line="321"/>
         <source>Background color...</source>
         <translation>Tausta värv...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="297"/>
+        <location filename="ViewMenu.h" line="322"/>
         <source>Crop...</source>
         <oldsource>Crop</oldsource>
         <translation>Kärbi...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="298"/>
+        <location filename="ViewMenu.h" line="323"/>
         <source>Add text...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="299"/>
+        <location filename="ViewMenu.h" line="324"/>
         <source>Add watermark...</source>
         <oldsource>Watermark...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="300"/>
+        <location filename="ViewMenu.h" line="325"/>
         <source>Spotlight...</source>
         <translation>Punktvalgus...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="301"/>
+        <location filename="ViewMenu.h" line="326"/>
         <source>Red-Eye correction</source>
         <oldsource>Red-Eyes reduction</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="307"/>
+        <location filename="ViewMenu.h" line="332"/>
         <source>Select all</source>
         <translation>Vali kõik</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="308"/>
+        <location filename="ViewMenu.h" line="333"/>
         <source>Select none</source>
         <translation>Ära vali midagi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="309"/>
+        <location filename="ViewMenu.h" line="334"/>
         <source>Selection - swap width &amp;&amp; height</source>
         <translation>Valik - vaheta laius ja kõrgus</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="310"/>
+        <location filename="ViewMenu.h" line="335"/>
         <source>Save selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="311"/>
+        <location filename="ViewMenu.h" line="336"/>
         <source>Restore selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="312"/>
+        <location filename="ViewMenu.h" line="337"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
         <translation type="unfinished">Määra valiku suhe</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="313"/>
+        <location filename="ViewMenu.h" line="338"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
         <translation type="unfinished">Määra valiku suurus</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="322"/>
+        <location filename="ViewMenu.h" line="347"/>
         <source>Fit window to image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="323"/>
+        <location filename="ViewMenu.h" line="348"/>
         <source>Fit image to desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="325"/>
+        <location filename="ViewMenu.h" line="350"/>
         <source>Copy to...</source>
         <translation>Kopeeri asukohta...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="326"/>
+        <location filename="ViewMenu.h" line="351"/>
         <source>Move to...</source>
         <translation>Teisalda asukohta...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="327"/>
+        <location filename="ViewMenu.h" line="352"/>
         <source>Delete...</source>
         <translation>Kustuta...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="328"/>
+        <location filename="ViewMenu.h" line="353"/>
         <source>Rename...</source>
         <translation>Nimeta ringi...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="339"/>
-        <source>Excellent (move to next image)</source>
-        <oldsource>Excellent (move to next photo)</oldsource>
-        <translation>Suurepärane (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="340"/>
-        <source>Good (move to next image)</source>
-        <oldsource>Good (move to next photo)</oldsource>
-        <translation>Hea (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="341"/>
-        <source>Average (move to next image)</source>
-        <oldsource>Average (move to next photo)</oldsource>
-        <translation>Keskmine (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="342"/>
-        <source>Fair (move to next image)</source>
-        <oldsource>Fair (move to next photo)</oldsource>
-        <translation>Rahuldav (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="343"/>
-        <source>Poor (move to next image)</source>
-        <oldsource>Poor (move to next photo)</oldsource>
-        <translation>Kehv (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="344"/>
-        <source>Unrated (move to next image)</source>
-        <oldsource>Unrated (move to next photo)</oldsource>
-        <translation>Hindamata (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="357"/>
-        <source>##label## (move to next image)</source>
-        <oldsource>##label## (move to next photo)</oldsource>
-        <translation>##label## (liikuda järgmisele pildile)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="364"/>
-        <source>Rating &amp;&amp; Color label</source>
-        <oldsource>Rating &amp;&amp; Colour label</oldsource>
-        <translation type="unfinished">Hinnang ja Värvi silt</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="366"/>
+        <location filename="ViewMenu.h" line="396"/>
         <source>Previous file</source>
         <translation>Eelmine fail</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="367"/>
+        <location filename="ViewMenu.h" line="397"/>
         <source>Next file</source>
         <translation>Järgmine fail</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="368"/>
+        <location filename="ViewMenu.h" line="398"/>
         <source>First file</source>
         <translation>Esimene fail</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="369"/>
+        <location filename="ViewMenu.h" line="399"/>
         <source>Last file</source>
         <translation>Viimane fail</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="370"/>
+        <location filename="ViewMenu.h" line="400"/>
         <source>Random file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="371"/>
+        <location filename="ViewMenu.h" line="401"/>
         <source>Previous page</source>
         <translation>Eelmine leht</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="372"/>
+        <location filename="ViewMenu.h" line="402"/>
         <source>Next page</source>
         <translation>Järgmine leht</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="373"/>
+        <location filename="ViewMenu.h" line="403"/>
         <source>First page</source>
         <translation>Esimene leht</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="374"/>
+        <location filename="ViewMenu.h" line="404"/>
         <source>Last page</source>
         <translation>Viimane leht</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="377"/>
+        <location filename="ViewMenu.h" line="407"/>
         <source>Quick Slideshow</source>
         <translation>Kiire esitlus</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="379"/>
+        <location filename="ViewMenu.h" line="409"/>
         <source>Fullscreen</source>
         <translation>Täisekraan</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="380"/>
+        <location filename="ViewMenu.h" line="410"/>
         <source>Real size</source>
         <translation>Tegelik suurus</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="381"/>
+        <location filename="ViewMenu.h" line="411"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="382"/>
+        <location filename="ViewMenu.h" line="412"/>
         <source>Zoom in</source>
         <translation>Suurenda</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="383"/>
+        <location filename="ViewMenu.h" line="413"/>
         <source>Zoom out</source>
         <translation>Vähenda</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="384"/>
+        <location filename="ViewMenu.h" line="414"/>
         <source>Lock zoom</source>
         <translation>Lukusta suum</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="387"/>
+        <location filename="ViewMenu.h" line="417"/>
         <source>Zoom</source>
         <translation>Suum</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="388"/>
+        <location filename="ViewMenu.h" line="418"/>
         <source>File</source>
         <translation>Fail</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="389"/>
+        <location filename="ViewMenu.h" line="419"/>
         <source>Page</source>
         <translation>Leht</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="390"/>
+        <location filename="ViewMenu.h" line="420"/>
         <source>Navigate to</source>
         <translation>Navigeerige aadressile</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="391"/>
+        <location filename="ViewMenu.h" line="421"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Kasuta läbipaistvuse indeksit (≤ 8bit)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="392"/>
+        <location filename="ViewMenu.h" line="422"/>
         <source>Use alpha channel</source>
         <translation>Kasuta alfakanalit</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="393"/>
+        <location filename="ViewMenu.h" line="423"/>
         <source>Show alpha</source>
         <translation>Näita alfat</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="394"/>
+        <location filename="ViewMenu.h" line="424"/>
         <source>Show red</source>
         <translation>Näita punast</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="395"/>
+        <location filename="ViewMenu.h" line="425"/>
         <source>Show green</source>
         <translation>Näita rohelist</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="396"/>
+        <location filename="ViewMenu.h" line="426"/>
         <source>Show blue</source>
         <translation>Näita sinist</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="397"/>
+        <location filename="ViewMenu.h" line="427"/>
         <source>Show grid</source>
         <translation>Näita abijooni</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="398"/>
+        <location filename="ViewMenu.h" line="428"/>
         <source>Grid settings...</source>
         <translation>Abijoonte seaded...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="399"/>
+        <location filename="ViewMenu.h" line="429"/>
         <source>Show information</source>
         <translation>Näita infot</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="400"/>
+        <location filename="ViewMenu.h" line="430"/>
         <source>Show histogram</source>
         <translation>Näita histogramm</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="401"/>
+        <location filename="ViewMenu.h" line="431"/>
         <source>Start/stop animation</source>
         <translation>Alusta/peata animatsioon</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="402"/>
+        <location filename="ViewMenu.h" line="432"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
         <translation type="unfinished">Ikooni hetktõmmis sees/väljas</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="403"/>
+        <location filename="ViewMenu.h" line="433"/>
         <source>Show colour information</source>
         <translation>Näita värvi infot</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="405"/>
+        <location filename="ViewMenu.h" line="435"/>
         <source>Toolbar</source>
         <oldsource>Use toolbar</oldsource>
         <translation>Tööriistariba</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="406"/>
+        <location filename="ViewMenu.h" line="436"/>
         <source>Status bar</source>
         <oldsource>Use statusbar</oldsource>
         <translation>Olekuriba</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="407"/>
+        <location filename="ViewMenu.h" line="437"/>
         <source>Go to x,y location...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="408"/>
+        <location filename="ViewMenu.h" line="438"/>
         <source>Show people&apos;s region</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="409"/>
+        <location filename="ViewMenu.h" line="439"/>
         <source>High zoom quality</source>
         <translation type="unfinished">Muuda suumi kvaliteeti</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="410"/>
+        <location filename="ViewMenu.h" line="440"/>
         <source>Use checkerboard pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="412"/>
+        <location filename="ViewMenu.h" line="442"/>
         <source>Export...</source>
         <translation>Eksport...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="413"/>
+        <location filename="ViewMenu.h" line="443"/>
         <source>Batch convert...</source>
         <translation>Rühmakaupa teisendus...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="419"/>
+        <location filename="ViewMenu.h" line="449"/>
         <source>Set as wallpaper...</source>
         <translation>Sea taustapildiks...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="420"/>
+        <location filename="ViewMenu.h" line="450"/>
         <source>Properties...</source>
         <translation>Omadused...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="421"/>
+        <location filename="ViewMenu.h" line="451"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation type="unfinished">Sea kommentaar...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="422"/>
+        <location filename="ViewMenu.h" line="452"/>
         <source>Draw...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="423"/>
+        <location filename="ViewMenu.h" line="453"/>
         <source>Set DPI...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="426"/>
+        <location filename="ViewMenu.h" line="456"/>
         <source>Change color depth...</source>
         <translation>Muuda värvisügavust...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="427"/>
+        <location filename="ViewMenu.h" line="457"/>
         <source>Automatic levels</source>
         <translation>Automaatsed tasemed</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="428"/>
+        <location filename="ViewMenu.h" line="458"/>
         <source>Automatic contrast</source>
         <translation>Automaatne kontrast</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="429"/>
+        <location filename="ViewMenu.h" line="459"/>
         <source>Negative</source>
         <translation>Negatiiv</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="430"/>
+        <location filename="ViewMenu.h" line="460"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation type="unfinished">Logaritmkõver</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="431"/>
+        <location filename="ViewMenu.h" line="461"/>
         <source>Normalize</source>
         <translation>Normaliseeri</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="432"/>
+        <location filename="ViewMenu.h" line="462"/>
         <source>Equalize</source>
         <translation>Tasanda</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="433"/>
+        <location filename="ViewMenu.h" line="463"/>
         <source>Solarize...</source>
         <translation>Ülesäritus...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="434"/>
+        <location filename="ViewMenu.h" line="464"/>
         <source>Posterize...</source>
         <translation>Isoheelia...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="435"/>
+        <location filename="ViewMenu.h" line="465"/>
         <source>Sepia...</source>
         <translation>Seepia...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="436"/>
+        <location filename="ViewMenu.h" line="466"/>
         <source>Old camera...</source>
         <translation>Vana kaamera...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="437"/>
+        <location filename="ViewMenu.h" line="467"/>
         <source>Vignetting...</source>
         <translation>Vinjettimine...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="438"/>
+        <location filename="ViewMenu.h" line="468"/>
         <source>Enhance colors...</source>
         <translation>Paranda värve...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="439"/>
+        <location filename="ViewMenu.h" line="469"/>
         <source>Levels...</source>
         <translation>Tasemed...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="441"/>
+        <location filename="ViewMenu.h" line="471"/>
         <source>User filter...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="442"/>
+        <location filename="ViewMenu.h" line="472"/>
         <source>Shadow/Highlight...</source>
         <translation>Vari/Eredus...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="443"/>
+        <location filename="ViewMenu.h" line="473"/>
         <source>Normalize...</source>
         <translation>Normaliseeri...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="444"/>
+        <location filename="ViewMenu.h" line="474"/>
         <source>Align...</source>
         <translation>Ühilda...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="446"/>
+        <location filename="ViewMenu.h" line="476"/>
         <source>Film simulation...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="447"/>
+        <location filename="ViewMenu.h" line="477"/>
         <source>Curves...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="448"/>
+        <location filename="ViewMenu.h" line="478"/>
         <source>Desaturate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="449"/>
+        <location filename="ViewMenu.h" line="479"/>
         <source>Offset...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="450"/>
+        <location filename="ViewMenu.h" line="480"/>
         <source>White Balance...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="459"/>
+        <location filename="ViewMenu.h" line="489"/>
         <source>Automatic Deskew</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="460"/>
+        <location filename="ViewMenu.h" line="490"/>
         <source>Remove alpha channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="472"/>
+        <location filename="ViewMenu.h" line="502"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="480"/>
+        <location filename="ViewMenu.h" line="510"/>
         <source>Clean metadata...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="481"/>
+        <location filename="ViewMenu.h" line="511"/>
         <source>Join images...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="482"/>
+        <location filename="ViewMenu.h" line="512"/>
         <source>Contact sheet...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="483"/>
+        <location filename="ViewMenu.h" line="513"/>
         <source>Slideshow...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="484"/>
+        <location filename="ViewMenu.h" line="514"/>
         <source>Send by email...</source>
         <translation type="unfinished">Saada e-postiga...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="497"/>
+        <location filename="ViewMenu.h" line="527"/>
         <source>Paste as image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="501"/>
+        <location filename="ViewMenu.h" line="531"/>
         <source>Acquire (TWAIN)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="502"/>
+        <location filename="ViewMenu.h" line="532"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="505"/>
+        <location filename="ViewMenu.h" line="535"/>
         <source>Save All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="479"/>
+        <location filename="ViewMenu.h" line="509"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="330"/>
+        <location filename="ViewMenu.h" line="355"/>
         <source>Tag/Untag current</source>
         <translation type="unfinished">Märgi aktiivne</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="451"/>
+        <location filename="ViewMenu.h" line="481"/>
         <source>Remove Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="453"/>
+        <location filename="ViewMenu.h" line="483"/>
         <source>Rotate 90° right</source>
         <translation>Pööra 90° paremale</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="454"/>
+        <location filename="ViewMenu.h" line="484"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
         <translation>Pööra 180°</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="455"/>
+        <location filename="ViewMenu.h" line="485"/>
         <source>Rotate 90° left</source>
         <translation>Pööra 90° vasakule</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="457"/>
+        <location filename="ViewMenu.h" line="487"/>
         <source>Flip horizontally</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="458"/>
+        <location filename="ViewMenu.h" line="488"/>
         <source>Flip vertically</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="486"/>
+        <location filename="ViewMenu.h" line="516"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Pööra 90° paremale (kadudeta)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="487"/>
+        <location filename="ViewMenu.h" line="517"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Pööra 90° vasakule (kadudeta)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="488"/>
+        <location filename="ViewMenu.h" line="518"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Pööra 180° (kadudeta)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="491"/>
+        <location filename="ViewMenu.h" line="521"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Flip horisontaalselt (kadudeta)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="492"/>
+        <location filename="ViewMenu.h" line="522"/>
         <source>Flip vertically (lossless)</source>
         <translation>Flip vertikaalselt (kadudeta)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="493"/>
+        <location filename="ViewMenu.h" line="523"/>
         <source>Crop (lossless)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="496"/>
+        <location filename="ViewMenu.h" line="526"/>
         <source>Capture...</source>
         <translation type="unfinished">Pildihõive...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="498"/>
+        <location filename="ViewMenu.h" line="528"/>
         <source>Empty tab...</source>
         <translation type="unfinished">Tühi sakk...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="500"/>
+        <location filename="ViewMenu.h" line="530"/>
         <source>Select TWAIN source...</source>
         <translation type="unfinished">Valige TWAIN-allikas...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="504"/>
+        <location filename="ViewMenu.h" line="534"/>
         <source>New image...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="456"/>
+        <location filename="ViewMenu.h" line="486"/>
         <source>Rotate...</source>
         <translation>Pööra...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="218"/>
+        <location filename="ViewMenu.h" line="242"/>
         <source>Top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="291"/>
+        <location filename="ViewMenu.h" line="316"/>
         <source>Clear selection</source>
         <translation>Puhasta valik</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="292"/>
+        <location filename="ViewMenu.h" line="317"/>
         <source>Image content</source>
         <oldsource>Image</oldsource>
         <translation type="unfinished">Pilt</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="418"/>
+        <location filename="ViewMenu.h" line="364"/>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="365"/>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="366"/>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="367"/>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="368"/>
+        <source>Poor (go to next image)</source>
+        <translation type="unfinished">##label## (liikuda järgmisele pildile)</translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="369"/>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="382"/>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="393"/>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="394"/>
+        <source>Set Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="448"/>
         <source>Open GPS location in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="424"/>
+        <location filename="ViewMenu.h" line="454"/>
         <source>Send by FTP...</source>
         <translation type="unfinished">Saada FTP abil...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="440"/>
+        <location filename="ViewMenu.h" line="470"/>
         <source>Effect...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="462"/>
+        <location filename="ViewMenu.h" line="492"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
         <translation type="unfinished">Muuda suurust...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="463"/>
+        <location filename="ViewMenu.h" line="493"/>
         <source>Canvas resize...</source>
         <translation>Muuda lõuendi suurust...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="464"/>
+        <location filename="ViewMenu.h" line="494"/>
         <source>Map</source>
         <translation>Kaardista</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="465"/>
+        <location filename="ViewMenu.h" line="495"/>
         <source>Adjust</source>
         <translation>Korrigeeri</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="466"/>
+        <location filename="ViewMenu.h" line="496"/>
         <source>Rotate</source>
         <translation>Pööra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="467"/>
+        <location filename="ViewMenu.h" line="497"/>
         <source>Mirror</source>
         <translation>Peegel</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="468"/>
+        <location filename="ViewMenu.h" line="498"/>
         <source>Count colors used</source>
         <translation>Loe kasutatud värvide arv</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="469"/>
+        <location filename="ViewMenu.h" line="499"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
         <translation type="unfinished">Vaheta</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="470"/>
+        <location filename="ViewMenu.h" line="500"/>
         <source>Extract channel</source>
         <translation>Eralda kanal</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="471"/>
+        <location filename="ViewMenu.h" line="501"/>
         <source>Copy to clipboard</source>
         <translation>Kopeeri lõikepuhvrisse</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="474"/>
+        <location filename="ViewMenu.h" line="504"/>
         <source>Adobe Photoshop Plugin...</source>
         <translation>Adobe Photoshop Plugin...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="477"/>
+        <location filename="ViewMenu.h" line="507"/>
         <source>Edit IPTC...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="478"/>
+        <location filename="ViewMenu.h" line="508"/>
         <source>Edit XMP...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="489"/>
+        <location filename="ViewMenu.h" line="519"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Pööra pilti EXIF välja järgi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="490"/>
+        <location filename="ViewMenu.h" line="520"/>
         <source>Reset EXIF orientation field</source>
         <translation>Määra EXIF pöörde väli </translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="494"/>
+        <location filename="ViewMenu.h" line="524"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation type="unfinished">JPEG kadudeta teisendused</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="689"/>
+        <location filename="ViewMenu.h" line="722"/>
         <source>&amp;File</source>
         <translation>&amp;Fail</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="690"/>
+        <location filename="ViewMenu.h" line="723"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>&amp;Redigeeri</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="691"/>
+        <location filename="ViewMenu.h" line="724"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>&amp;Vaade</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="692"/>
+        <location filename="ViewMenu.h" line="725"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Pilt</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="693"/>
+        <location filename="ViewMenu.h" line="726"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation type="unfinished">Metaandmed</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="694"/>
+        <location filename="ViewMenu.h" line="727"/>
         <source>Effect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="695"/>
+        <location filename="ViewMenu.h" line="728"/>
         <source>&amp;Tools</source>
         <translation>&amp;Tööriistad</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="696"/>
+        <location filename="ViewMenu.h" line="729"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>&amp;Abi</translation>
@@ -21683,60 +21671,71 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="Helper.cpp" line="422"/>
         <location filename="Helper.cpp" line="423"/>
-        <location filename="Helper.cpp" line="637"/>
         <source>Save File</source>
         <translation>Salvesta fail</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="252"/>
+        <location filename="Helper.cpp" line="558"/>
+        <location filename="Helper.cpp" line="639"/>
+        <source>Save a copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Helper.cpp" line="558"/>
+        <location filename="Helper.cpp" line="639"/>
+        <source>Save as</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.cpp" line="250"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Left</source>
         <translation>Üles vasakule</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="253"/>
+        <location filename="DlgSettingsView.cpp" line="251"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Top-Center</source>
         <translation>Üles keskele</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="254"/>
+        <location filename="DlgSettingsView.cpp" line="252"/>
         <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Top-Right</source>
         <translation>Üles paremale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="255"/>
+        <location filename="DlgSettingsView.cpp" line="253"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
         <translation>Keskele vasakule</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="256"/>
+        <location filename="DlgSettingsView.cpp" line="254"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Center</source>
         <translation>Keskele</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="257"/>
+        <location filename="DlgSettingsView.cpp" line="255"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Center-Right</source>
         <translation>Keskele paremale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="258"/>
+        <location filename="DlgSettingsView.cpp" line="256"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Left</source>
         <translation>Alla vasakule</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="259"/>
+        <location filename="DlgSettingsView.cpp" line="257"/>
         <location filename="DlgSlideshow.cpp" line="52"/>
         <source>Bottom-Center</source>
         <translation>Alla keskele</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="260"/>
+        <location filename="DlgSettingsView.cpp" line="258"/>
         <location filename="DlgSlideshow.cpp" line="53"/>
         <source>Bottom-Right</source>
         <translation>Alla paremale</translation>
@@ -21758,7 +21757,7 @@ Kas soovite jätkata?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="18"/>
-        <location filename="DlgSettingsView.cpp" line="302"/>
+        <location filename="DlgSettingsView.cpp" line="300"/>
         <source>Last used</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22544,7 +22543,7 @@ You can change it in Settings › Catalog.</oldsource>
         <translation>Kategooriad</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2183"/>
+        <location filename="BrowserWindow.cpp" line="2184"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation type="unfinished"></translation>

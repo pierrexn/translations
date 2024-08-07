@@ -850,6 +850,10 @@ Drag and Drop over the desired node to assign.</translation>
         <source>Tabs</source>
         <translation>Ներդիրներ</translation>
     </message>
+    <message>
+        <source>Auto fit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -9660,10 +9664,6 @@ Thumbnail</source>
         <translation>Համակարգային պրոֆիլ</translation>
     </message>
     <message>
-        <source>Use output filename after &apos;Save as&apos;</source>
-        <translation>Օգտ. արտածման ֆայլի անունը &apos;Պահել որպես&apos;-ից հետո</translation>
-    </message>
-    <message>
         <source>Browser</source>
         <translation>Զննիչ</translation>
     </message>
@@ -9814,6 +9814,10 @@ Thumbnail</source>
     <message>
         <source>Allow only one application instance</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save changes to file</source>
+        <translation type="unfinished">Պահել փոփոխությունները ֆայլում</translation>
     </message>
 </context>
 <context>
@@ -10692,10 +10696,6 @@ Do you want to reassign?</source>
         <translation>Այլ</translation>
     </message>
     <message>
-        <source>Never</source>
-        <translation>Երբեք</translation>
-    </message>
-    <message>
         <source>High zoom quality</source>
         <translation>Բարձր որակ՝ դիտելիս</translation>
     </message>
@@ -10822,18 +10822,6 @@ Do you want to reassign?</source>
     <message>
         <source>Reset X/Y (No fit)</source>
         <translation>Վերակայել X/Y (չհարմարեցնել)</translation>
-    </message>
-    <message>
-        <source>Save changes to file</source>
-        <translation>Պահել փոփոխությունները ֆայլում</translation>
-    </message>
-    <message>
-        <source>Ask</source>
-        <translation>Հարցնել</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation>Միշտ</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -14881,10 +14869,6 @@ Do you want to continue?</source>
         <translation>Արխիվներ</translation>
     </message>
     <message>
-        <source>Category</source>
-        <translation>Անվանակարգ</translation>
-    </message>
-    <message>
         <source>Refresh</source>
         <translation>Թարմացնել</translation>
     </message>
@@ -15221,34 +15205,6 @@ Do you want to continue?</source>
         <translation>Միակցնել պատկերները...</translation>
     </message>
     <message>
-        <source>Excellent (move to next image)</source>
-        <translation>Գերազանց (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Good (move to next image)</source>
-        <translation>Լավ (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Average (move to next image)</source>
-        <translation>Միջին (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Fair (move to next image)</source>
-        <translation>Բավարար (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Poor (move to next image)</source>
-        <translation>Վատ (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Unrated (move to next image)</source>
-        <translation>Չգտահատված (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>##label## (move to next image)</source>
-        <translation>##label## (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
         <source>Open all selected</source>
         <translation>Բացել բոլոր ընտրվածները</translation>
     </message>
@@ -15537,10 +15493,6 @@ Do you want to continue?</source>
         <translation>EXIF մանրապատկեր - Պտտել 90° աջ</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Color label</source>
-        <translation>Գնահատականը և գույնի պիտակը</translation>
-    </message>
-    <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation>Օգտագործել թափանցիկ ցուցանիշ (≤ 8 բիթ)</translation>
     </message>
@@ -15566,6 +15518,46 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Empty tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poor (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Color label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Category</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16526,10 +16518,6 @@ Do you want to continue?</source>
         <translation>Խմբագրել նախշը...</translation>
     </message>
     <message>
-        <source>Rating &amp;&amp; Color label</source>
-        <translation>Գնահատականը և գույնի պիտակը</translation>
-    </message>
-    <message>
         <source>Use transparent index (≤ 8bits)</source>
         <translation>Օգտագործել թափանցիկ ցուցանիշ (≤ 8 բիթ)</translation>
     </message>
@@ -16562,40 +16550,52 @@ Do you want to continue?</source>
         <translation>Փակցնել որպես պատկեր</translation>
     </message>
     <message>
-        <source>Excellent (move to next image)</source>
-        <translation>Գերազանց (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Good (move to next image)</source>
-        <translation>Լավ (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Average (move to next image)</source>
-        <translation>Միջին (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Fair (move to next image)</source>
-        <translation>Բավարար (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Poor (move to next image)</source>
-        <translation>Վատ (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>Unrated (move to next image)</source>
-        <translation>Չգտահատված (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
-        <source>##label## (move to next image)</source>
-        <translation>##label## (տեղափոխել հաջորդ պատկեր)</translation>
-    </message>
-    <message>
         <source>Lossless transformations (JPEG)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meta&amp;data</source>
         <translation type="unfinished">Մետատվյալներ</translation>
+    </message>
+    <message>
+        <source>Save a copy...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excellent (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fair (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poor (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrated (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Color label</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16711,6 +16711,14 @@ Do you want to continue?</source>
     <message>
         <source>An error occurred during processing!</source>
         <translation>Սխալ՝ մշակման ընթացքում:</translation>
+    </message>
+    <message>
+        <source>Save a copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
