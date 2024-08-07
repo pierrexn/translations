@@ -1051,7 +1051,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustement auto</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -12393,7 +12393,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">Sauver les modifications dans le fichier</translation>
+        <translation>Sauver les modifications dans le fichier</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="616"/>
@@ -19199,17 +19199,17 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="478"/>
         <source>Poor (go to next image)</source>
         <oldsource>##label## (move to next image)</oldsource>
-        <translation type="unfinished">##label## (aller à la photo suivante)</translation>
+        <translation>Médiocre (aller à la photo suivante)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="479"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Non évalué (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="492"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="503"/>
@@ -19219,17 +19219,17 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Note</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquette couleur</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Catégorie</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
@@ -20136,22 +20136,22 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="474"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Excellent (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="475"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bon (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="476"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Moyen (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Passable (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="553"/>
@@ -21093,7 +21093,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer une copie...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="316"/>
@@ -21103,47 +21103,47 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Excellent (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bon (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Moyen (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="367"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Passable (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="368"/>
         <source>Poor (go to next image)</source>
-        <translation type="unfinished">##label## (aller à la photo suivante)</translation>
+        <translation>Médiocre (aller à la photo suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="369"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Non évalué (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="382"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Note</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquette couleur</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21725,13 +21725,13 @@ Voulez-vous continuer ?</translation>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer une copie</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer sous</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="250"/>
