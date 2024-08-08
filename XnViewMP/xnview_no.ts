@@ -19129,7 +19129,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="BrowserMenu.h" line="478"/>
         <source>Poor (go to next image)</source>
         <oldsource>##label## (move to next image)</oldsource>
-        <translation type="unfinished">##label## (Gå videre til neste bilde)</translation>
+        <translation>Dårlig (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
@@ -19203,7 +19203,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="BrowserMenu.h" line="474"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ypperlig (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="475"/>
@@ -19228,7 +19228,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="BrowserMenu.h" line="492"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
@@ -21255,7 +21255,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ypperlig (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
@@ -21275,7 +21275,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="ViewMenu.h" line="368"/>
         <source>Poor (go to next image)</source>
-        <translation type="unfinished">##label## (Gå videre til neste bilde)</translation>
+        <translation>Dårlig (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="369"/>
@@ -21285,7 +21285,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="ViewMenu.h" line="382"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="393"/>
