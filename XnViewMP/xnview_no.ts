@@ -19208,22 +19208,22 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="BrowserMenu.h" line="475"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bra (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="476"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjennomsnittlig (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Greit nok (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="479"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Urangert (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="492"/>
@@ -21260,17 +21260,17 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="ViewMenu.h" line="365"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bra (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjennomsnittlig (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="367"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Greit nok (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="368"/>
@@ -21280,7 +21280,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="ViewMenu.h" line="369"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Urangert (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="382"/>
