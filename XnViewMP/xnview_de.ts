@@ -19133,32 +19133,32 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="474"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sehr gut (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="475"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gut (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="476"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchschnittlich (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eher schlecht (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="479"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohne Bewertung (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="492"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
@@ -19339,7 +19339,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="478"/>
         <source>Poor (go to next image)</source>
         <oldsource>##label## (move to next image)</oldsource>
-        <translation type="unfinished">##label## (zum nächsten Bild wechseln)</translation>
+        <translation>Schlecht (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="503"/>
@@ -21150,37 +21150,37 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sehr gut (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gut (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchschnittlich (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="367"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eher schlecht (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="368"/>
         <source>Poor (go to next image)</source>
-        <translation type="unfinished">##label## (zum nächsten Bild wechseln)</translation>
+        <translation>Schlecht (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="369"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohne Bewertung (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="382"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="393"/>
