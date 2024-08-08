@@ -21,7 +21,7 @@
     <string name="menu_create_template">Vorlage erstellen</string>
     <string name="menu_report">Technischen Fehler melden</string>
     <string name="menu_restore">Wiederherstellen</string>
-    <string name="menu_clear">Löschen</string>
+    <string name="menu_clear">Leeren</string>
     <string name="menu_append">Anhängen</string>
     <string name="menu_select_all">Alle auswählen</string>
     <string name="group_none">Nicht gruppieren</string>
@@ -65,16 +65,16 @@
     <string name="contrast">Kontrast</string>
     <string name="saturation">Sättigung</string>
     <!-- Dialog size -->
-    <string name="dialog_size_title">"Only 12 sizes will shown"</string>
+    <string name="dialog_size_title">Es werden nur 12 Größen angezeigt</string>
     <!-- Preferences -->
     <string name="settings_global">Global</string>
     <string name="settings">Einstellungen</string>
     <string name="settings_output">Ausgabe</string>
     <string name="settings_misc">Sonstiges</string>
     <string name="settings_keepMetadata">Metadaten behalten</string>
-    <string name="settings_keepMetadataSummary">Ursprüngliche Exif-Tags werden gespeichert.</string>
+    <string name="settings_keepMetadataSummary">Ursprüngliche Exif-Tags werden gespeichert</string>
     <string name="settings_keepFileDate">Dateidatum beibehalten</string>
-    <string name="settings_keepFileDateSummary">Die Ausgabedatei hat das Datum der ursprünglichen Datei.</string>
+    <string name="settings_keepFileDateSummary">Die Ausgabedatei erhält das Datum der ursprünglichen Datei</string>
     <string name="settings_sharpen">Schärfen</string>
     <string name="settings_manageSize">Standardgröße verwalten</string>
     <string name="settings_manageTemplate">Vorlage verwalten</string>
@@ -88,7 +88,7 @@
     <string name="settings_medium">Mittel</string>
     <string name="settings_high">Hoch</string>
     <string name="settings_hideXnFolder">Ausgabeordner ausblenden</string>
-    <string name="settings_hideXnFolderSummary">Dateien des Ausgabeordners werden ausgeblendet.</string>
+    <string name="settings_hideXnFolderSummary">Dateien des Ausgabeordners werden ausgeblendet</string>
     <string name="settings_show_text">Text</string>
     <string name="settings_show_watermark">Wasserzeichen</string>
     <string name="setttings_reset_template">Vorlage zurücksetzen</string>
@@ -123,4 +123,21 @@
     <string name="pro_item3">• Unbegrenzte Vorlagen</string>
     <string name="pro_item4">• Um uns zu helfen, uns weiter zu verbessern</string>
     <string name="pro_purchase">Kaufen</string>
+    <string name="canvas_resize">Leinwandgröße ändern</string>
+    <string name="exposure">Belichtung</string>
+    <string name="white_balance">Weißabgleich</string>
+    <string name="cut_limit">Schnittgrenze</string>
+    <string name="height">Höhe</string>
+    <string name="percent">Prozent</string>
+    <string name="no_app_found">Keine gültige App gefunden</string>
+    <string name="share_via">Teilen per</string>
+    <string name="maximum_share_reached">Sie können nicht so viele Inhalte auf einmal teilen</string>
+    <string name="unknown_error_occurred">Ein unbekannter Fehler ist aufgetreten</string>
+    <string name="app_name">XnConvert</string>
+    <string name="settings_keepAlpha">Alphakanal verwenden</string>
+    <string name="width">Breite</string>
+    <string name="drawer_sdcard">SD-Karte</string>
+    <string name="gamma">Gamma</string>
+    <string name="canvas">Leinwand</string>
+    <string name="an_error_occurred">Ein Fehler ist aufgetreten: %s</string>
 </resources>
