@@ -1058,7 +1058,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno prileganje</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -12425,7 +12425,7 @@ sličico</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">Shrani spremembe v datoteko</translation>
+        <translation>Shrani spremembe v datoteko</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="616"/>
@@ -19178,47 +19178,47 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="474"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Odlično (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="475"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dobro (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="476"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Povprečno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošteno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="479"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neocenjeno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="492"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi oceno</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi barvno oznako</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi kategorijo</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="517"/>
@@ -19359,7 +19359,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="478"/>
         <source>Poor (go to next image)</source>
         <oldsource>##label## (move to next image)</oldsource>
-        <translation type="unfinished">##label## (premakni na naslednjo sliko)</translation>
+        <translation>Slabo (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="503"/>
@@ -21135,52 +21135,52 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani kopijo...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Odlično (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dobro (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Povprečno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="367"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošteno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="368"/>
         <source>Poor (go to next image)</source>
-        <translation type="unfinished">##label## (premakni na naslednjo sliko)</translation>
+        <translation>Slabo (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="369"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neocenjeno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="382"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi oceno</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi barvno oznako</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21752,13 +21752,13 @@ Do you want to continue?</oldsource>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani kopijo</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani kot</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="250"/>
