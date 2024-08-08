@@ -1050,7 +1050,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch anpassen</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -12463,7 +12463,7 @@ Miniaturbild</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">Geänderte Datei speichern</translation>
+        <translation>Änderungen in Datei speichern</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="616"/>
@@ -19163,17 +19163,17 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewertung festlegen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbmarkierung festlegen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorie festlegen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
@@ -21140,7 +21140,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopie speichern...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="316"/>
@@ -21185,12 +21185,12 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewertung festlegen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbmarkierung festlegen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21705,13 +21705,13 @@ Möchten Sie fortfahren?</translation>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopie speichern</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern unter</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="250"/>
