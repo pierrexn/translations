@@ -1051,7 +1051,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatikus illesztés</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -1801,7 +1801,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="1736"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Átalakítás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
@@ -4991,7 +4991,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Eredeti megjelenítése</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
@@ -5749,12 +5749,12 @@ Biztos folytassuk?</translation>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Maszk nyújtása</translation>
+        <translation>Nyújtás</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Csempe</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6681,13 +6681,13 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyújtás</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Csempézés</translation>
+        <translation>Csempe</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -8816,7 +8816,7 @@ Az almappák jönnek létre. </translation>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"># számláló per</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
@@ -10407,7 +10407,7 @@ Köszönjük a(z) %1 megvásárlását.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools � Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Kérem, az Eszközök � Beépülők alól telepítse</translation>
     </message>
 </context>
 <context>
@@ -11022,22 +11022,22 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Reg&amp;uláris kifejezés használata</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mappa</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nagybetűk megkülönböztetése</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappákban &amp;is</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -11057,17 +11057,17 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Vissza</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Keresés</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Böngészés...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="133"/>
@@ -12178,7 +12178,7 @@ miniatűrként</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Csak egy XnView programpéldány futása engedélyezett</translation>
+        <translation>Csak egy programpéldány futása engedélyezett</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="44"/>
@@ -12411,7 +12411,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">Módosítások fájlba mentése</translation>
+        <translation>Módosítások fájlba mentése</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="574"/>
@@ -13877,7 +13877,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="1251"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Vízszintes nyújtás</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1270"/>
@@ -15544,25 +15544,25 @@ Biztos folytassuk?</translation>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Középre</translation>
+        <translation>Középre</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Csempézett</translation>
+        <translation>Csempe</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Középre csempézett</translation>
+        <translation>Középre csempézett</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Nyújtott</translation>
+        <translation>Nyújtás</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16232,7 +16232,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Kicsi miniatűrök</translation>
+        <translation>Kicsi miniatűrök</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16243,7 +16243,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Nagy miniatűrök</translation>
+        <translation>Nagy miniatűrök</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16850,7 +16850,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlnév (utolsó szám)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="405"/>
@@ -18186,7 +18186,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Országkód</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
