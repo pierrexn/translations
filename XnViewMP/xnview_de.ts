@@ -10417,7 +10417,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte installieren Sie es über Werkzeuge › I/O-Plug-Ins</translation>
     </message>
 </context>
 <context>
@@ -12367,7 +12367,7 @@ Miniaturbild</translation>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">Namenskonflikt</translation>
+        <translation>Namenskonflikt</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
@@ -12963,83 +12963,83 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Titelleiste</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished">Statusleiste</translation>
+        <translation>Statusleiste</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="700"/>
         <location filename="DlgSettingsInterface.ui" line="816"/>
         <source>File date</source>
-        <translation type="unfinished">Dateidatum</translation>
+        <translation>Dateidatum</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="708"/>
         <location filename="DlgSettingsInterface.ui" line="824"/>
         <source>File created date</source>
-        <translation type="unfinished">Erstelldatum</translation>
+        <translation>Erstelldatum</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="713"/>
         <location filename="DlgSettingsInterface.ui" line="829"/>
         <source>File modified date</source>
-        <translation type="unfinished">Änderungsdatum</translation>
+        <translation>Änderungsdatum</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="718"/>
         <location filename="DlgSettingsInterface.ui" line="834"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished">EXIF: Aufnahmedatum</translation>
+        <translation>EXIF: Aufnahmedatum</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="723"/>
         <location filename="DlgSettingsInterface.ui" line="839"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished">EXIF: Änderungsdatum</translation>
+        <translation>EXIF: Änderungsdatum</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="746"/>
         <location filename="DlgSettingsInterface.ui" line="862"/>
         <source>Filename</source>
-        <translation type="unfinished">Dateiname</translation>
+        <translation>Dateiname</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="753"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschaften</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">Druckgröße</translation>
+        <translation>Druckgröße</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="869"/>
         <source>File size</source>
-        <translation type="unfinished">Dateigröße</translation>
+        <translation>Dateigröße</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Eingebetteter Kommentar</translation>
+        <translation>Eingebetteter Kommentar</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">Beschreibung</translation>
+        <translation>Beschreibung</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="932"/>
@@ -13171,7 +13171,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Moduswechsel</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -21261,7 +21261,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch zuschneiden...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
@@ -23297,32 +23297,32 @@ Rechte Maustaste öffnet Kontextmenü mit weiteren Aktionen.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Suche</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Suchen in</translation>
+        <translation>Suchen in</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">IPTC-Daten</translation>
+        <translation>IPTC-Daten</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Eingebetteter Kommentar</translation>
+        <translation>Eingebetteter Kommentar</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Beschreibung</translation>
+        <translation>Beschreibung</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Kategorien (Katalog)</translation>
+        <translation>Kategorien (Katalog)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="181"/>
