@@ -8143,8 +8143,8 @@ Kiitos että tilasit %1.</translation>
         <translation>Taustan poistaja</translation>
     </message>
     <message>
-        <source>Please install it by using Tools � Plugins</source>
-        <translation>Asenna kohdasta Työkalut � Liitännäiset</translation>
+        <source>Please install it by using Tools › Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8793,10 +8793,6 @@ Haluatko poistaa ne?</translation>
         <translation>Järjestä</translation>
     </message>
     <message>
-        <source>Filename</source>
-        <translation>Tiedostonimi</translation>
-    </message>
-    <message>
         <source>Icons</source>
         <translation>Kuvakkeet</translation>
     </message>
@@ -8825,14 +8821,6 @@ Haluatko poistaa ne?</translation>
         <translation>Tyhjennä merkittyjen tiedostojen luettelo</translation>
     </message>
     <message>
-        <source>File date</source>
-        <translation>Tiedoston päivämäärä</translation>
-    </message>
-    <message>
-        <source>File size</source>
-        <translation>Tiedostokoko</translation>
-    </message>
-    <message>
         <source>View scroll the content by thumbnail</source>
         <translation>Näytä vierityspalkki esikatselukuvanäkymässä</translation>
     </message>
@@ -8841,20 +8829,8 @@ Haluatko poistaa ne?</translation>
         <translation>Esikatselukuvat</translation>
     </message>
     <message>
-        <source>File modified date</source>
-        <translation>Tiedoston muokkauspäivä</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation>Upotetuista kommenteista</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Suodin</translation>
-    </message>
-    <message>
-        <source>Print size</source>
-        <translation>Tulostuskoko</translation>
     </message>
     <message>
         <source>Rating</source>
@@ -8869,36 +8845,12 @@ Haluatko poistaa ne?</translation>
         <translation>Lopetettaessa</translation>
     </message>
     <message>
-        <source>IPTC fields</source>
-        <translation>IPTC-kentistä</translation>
-    </message>
-    <message>
         <source>Rotation</source>
         <translation>Kääntäminen</translation>
     </message>
     <message>
-        <source>XMP fields</source>
-        <translation>XMP-kentistä</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Ominaisuudet</translation>
-    </message>
-    <message>
         <source>Thumbnails scaling</source>
         <translation>Esikatselukuvien skaalaus</translation>
-    </message>
-    <message>
-        <source>Search in</source>
-        <translation>Etsi</translation>
-    </message>
-    <message>
-        <source>StatusBar</source>
-        <translation>Tilarivi</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation>Selitys</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -8917,14 +8869,6 @@ Haluatko poistaa ne?</translation>
         <translation>Tiedot</translation>
     </message>
     <message>
-        <source>EXIF date taken</source>
-        <translation>EXIF kuvauspäivä</translation>
-    </message>
-    <message>
-        <source>Title bar</source>
-        <translation>Otsikkopalkki</translation>
-    </message>
-    <message>
         <source>Thumbnails + Details</source>
         <translation>Esikatselukuvat + tiedot</translation>
     </message>
@@ -8935,10 +8879,6 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>Tooltip</source>
         <translation>Työkaluvihje</translation>
-    </message>
-    <message>
-        <source>EXIF date modified</source>
-        <translation>EXIF -muokkauspäivä</translation>
     </message>
     <message>
         <source>View as</source>
@@ -8957,24 +8897,12 @@ Haluatko poistaa ne?</translation>
         <translation>Muuta VAIN EXIF-suuntaus (jos mahdolliata)</translation>
     </message>
     <message>
-        <source>File created date</source>
-        <translation>Tiedoston luontipäivä</translation>
-    </message>
-    <message>
         <source>Preview background color</source>
         <translation>Taustavärin esikatselu</translation>
     </message>
     <message>
         <source>After an operation</source>
         <translation>Toiminnon jälkeen</translation>
-    </message>
-    <message>
-        <source>Categories (catalog)</source>
-        <translation>Kategoriat (luettelo)</translation>
-    </message>
-    <message>
-        <source>Quick filter</source>
-        <translation>Pikasuodin</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -9554,10 +9482,6 @@ esikatselukuvina</translation>
         <translation>sRGB</translation>
     </message>
     <message>
-        <source>Duplicate files</source>
-        <translation>Duplikaatti.tiedostot</translation>
-    </message>
-    <message>
         <source>Daily</source>
         <translation>Päivittäin</translation>
     </message>
@@ -9824,6 +9748,10 @@ esikatselukuvina</translation>
     <message>
         <source>Save changes to file</source>
         <translation type="unfinished">Tallenna muutokset tiedostoon</translation>
+    </message>
+    <message>
+        <source>Duplicate files naming</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10160,10 +10088,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Kuvaselain</translation>
     </message>
     <message>
-        <source>Switching mode</source>
-        <translation>Valintatila</translation>
-    </message>
-    <message>
         <source>Make selection</source>
         <translation>Luo valinta</translation>
     </message>
@@ -10330,6 +10254,66 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Hide Tab header when only one is opened</source>
         <translation>Piilota otsikko, jos vain yksi välilehti on auki</translation>
+    </message>
+    <message>
+        <source>TitleBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StatusBar</source>
+        <translation type="unfinished">Tilarivi</translation>
+    </message>
+    <message>
+        <source>File date</source>
+        <translation type="unfinished">Tiedoston päivämäärä</translation>
+    </message>
+    <message>
+        <source>File created date</source>
+        <translation type="unfinished">Tiedoston luontipäivä</translation>
+    </message>
+    <message>
+        <source>File modified date</source>
+        <translation type="unfinished">Tiedoston muokkauspäivä</translation>
+    </message>
+    <message>
+        <source>EXIF date taken</source>
+        <translation type="unfinished">EXIF kuvauspäivä</translation>
+    </message>
+    <message>
+        <source>EXIF date modified</source>
+        <translation type="unfinished">EXIF -muokkauspäivä</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="unfinished">Tiedostonimi</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">Ominaisuudet</translation>
+    </message>
+    <message>
+        <source>Print size</source>
+        <translation type="unfinished">Tulostuskoko</translation>
+    </message>
+    <message>
+        <source>File size</source>
+        <translation type="unfinished">Tiedostokoko</translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="unfinished">Upotetuista kommenteista</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Selitys</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished">Zoomaus</translation>
+    </message>
+    <message>
+        <source>Switching modes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10691,14 +10675,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Näkymä</translation>
     </message>
     <message>
-        <source>Zoom</source>
-        <translation>Zoomaus</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation>Tiedostonimi</translation>
-    </message>
-    <message>
         <source>Quick slideshow</source>
         <translation>Pika-kuvaesitys</translation>
     </message>
@@ -10731,14 +10707,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Näytä aina koko näytössä</translation>
     </message>
     <message>
-        <source>File date</source>
-        <translation>Tiedoston päivämäärä</translation>
-    </message>
-    <message>
-        <source>File size</source>
-        <translation>Tiedostokoko</translation>
-    </message>
-    <message>
         <source>Half size</source>
         <translation>Puoli koko</translation>
     </message>
@@ -10757,14 +10725,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Älä käytä GIF/JIF/APNG/ANI-animaatioita</translation>
-    </message>
-    <message>
-        <source>File modified date</source>
-        <translation>Tiedoston muokkauspäivä</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation>Upotetuista kommenteista</translation>
     </message>
     <message>
         <source>Show highlight selection</source>
@@ -10795,10 +10755,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Normaali</translation>
     </message>
     <message>
-        <source>Print size</source>
-        <translation>Tulostuskoko</translation>
-    </message>
-    <message>
         <source>Random</source>
         <translation>Satunnainen</translation>
     </message>
@@ -10823,10 +10779,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Sijoittelu</translation>
     </message>
     <message>
-        <source>Properties</source>
-        <translation>Ominaisuudet</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Taustaväri</translation>
     </message>
@@ -10843,16 +10795,8 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Suunta</translation>
     </message>
     <message>
-        <source>StatusBar</source>
-        <translation>Tilarivi</translation>
-    </message>
-    <message>
         <source>Auto play (video)</source>
         <translation>Automaattitoisto (video)</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation>Selitys</translation>
     </message>
     <message>
         <source>Two-pass rendering at loading</source>
@@ -10867,14 +10811,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Säilytä nykyinen kuva</translation>
     </message>
     <message>
-        <source>EXIF date taken</source>
-        <translation>EXIF kuvauspäivä</translation>
-    </message>
-    <message>
-        <source>Title bar</source>
-        <translation>Otsikkopalkki</translation>
-    </message>
-    <message>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <translation>Zoomaa HiDPI-näytöllä: 1 kuvan pikseli vastaa yhtä näyttöpistettä</translation>
     </message>
@@ -10887,10 +10823,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Lue yksi kuva eteenpäin</translation>
     </message>
     <message>
-        <source>EXIF date modified</source>
-        <translation>EXIF -muokkauspäivä</translation>
-    </message>
-    <message>
         <source>Rule of thirds</source>
         <translation>Kolmanneksen sääntö</translation>
     </message>
@@ -10901,10 +10833,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Forward</source>
         <translation>Eteenpäin</translation>
-    </message>
-    <message>
-        <source>File created date</source>
-        <translation>Tiedoston luontipäivä</translation>
     </message>
     <message>
         <source>Pixel ratio</source>
@@ -16604,6 +16532,10 @@ Jatketaanko?</translation>
         <source>Set Color label</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic crop...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -17954,6 +17886,30 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     <message>
         <source>Clear Recent Searches</source>
         <translation>Tyhjennä &apos;Viimeksi etsityt&apos;</translation>
+    </message>
+    <message>
+        <source>Advanced search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Etsi</translation>
+    </message>
+    <message>
+        <source>IPTC fields</source>
+        <translation type="unfinished">IPTC-kentistä</translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="unfinished">Upotetuista kommenteista</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Selitys</translation>
+    </message>
+    <message>
+        <source>Categories (catalog)</source>
+        <translation type="unfinished">Kategoriat (luettelo)</translation>
     </message>
 </context>
 <context>

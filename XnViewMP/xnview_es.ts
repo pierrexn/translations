@@ -8139,7 +8139,7 @@ Gracias por su compra %1.</translation>
         <translation>Eliminador de fondo</translation>
     </message>
     <message>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8789,10 +8789,6 @@ Do you want to remove them?</source>
         <translation>Ordenar</translation>
     </message>
     <message>
-        <source>Filename</source>
-        <translation>Nombre de archivo</translation>
-    </message>
-    <message>
         <source>Icons</source>
         <translation>Iconos</translation>
     </message>
@@ -8821,14 +8817,6 @@ Do you want to remove them?</source>
         <translation>Limpiar lista de archivos marcados</translation>
     </message>
     <message>
-        <source>File date</source>
-        <translation>Fecha del archivo</translation>
-    </message>
-    <message>
-        <source>File size</source>
-        <translation>Tamaño de archivo</translation>
-    </message>
-    <message>
         <source>View scroll the content by thumbnail</source>
         <translation>Mostrar el desplazamiento del contenido por miniaturas</translation>
     </message>
@@ -8837,20 +8825,8 @@ Do you want to remove them?</source>
         <translation>Miniaturas</translation>
     </message>
     <message>
-        <source>File modified date</source>
-        <translation>Fecha de modificación del archivo</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation>Comentario incrustado</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Filtro</translation>
-    </message>
-    <message>
-        <source>Print size</source>
-        <translation>Tamaño de impresión</translation>
     </message>
     <message>
         <source>Rating</source>
@@ -8865,36 +8841,12 @@ Do you want to remove them?</source>
         <translation>Al salir</translation>
     </message>
     <message>
-        <source>IPTC fields</source>
-        <translation>Campos IPTC</translation>
-    </message>
-    <message>
         <source>Rotation</source>
         <translation>Rotación</translation>
     </message>
     <message>
-        <source>XMP fields</source>
-        <translation>Campos XMP</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Propiedades</translation>
-    </message>
-    <message>
         <source>Thumbnails scaling</source>
         <translation>Escalado de miniaturas</translation>
-    </message>
-    <message>
-        <source>Search in</source>
-        <translation>Buscar en</translation>
-    </message>
-    <message>
-        <source>StatusBar</source>
-        <translation>Barra de estado</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation>Descripción</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -8913,14 +8865,6 @@ Do you want to remove them?</source>
         <translation>Detalles</translation>
     </message>
     <message>
-        <source>EXIF date taken</source>
-        <translation>Fecha de captura EXIF</translation>
-    </message>
-    <message>
-        <source>Title bar</source>
-        <translation>Barra de título</translation>
-    </message>
-    <message>
         <source>Thumbnails + Details</source>
         <translation>Miniaturas + Detalles</translation>
     </message>
@@ -8931,10 +8875,6 @@ Do you want to remove them?</source>
     <message>
         <source>Tooltip</source>
         <translation>Descripción</translation>
-    </message>
-    <message>
-        <source>EXIF date modified</source>
-        <translation>Fecha de modificación EXIF</translation>
     </message>
     <message>
         <source>View as</source>
@@ -8953,24 +8893,12 @@ Do you want to remove them?</source>
         <translation>Cambiar SOLO la orientación EXIF (si es posible)</translation>
     </message>
     <message>
-        <source>File created date</source>
-        <translation>Fecha de creación del archivo</translation>
-    </message>
-    <message>
         <source>Preview background color</source>
         <translation>Color de fondo de vista previa</translation>
     </message>
     <message>
         <source>After an operation</source>
         <translation>Después de operación</translation>
-    </message>
-    <message>
-        <source>Categories (catalog)</source>
-        <translation>Categorías (catálogo)</translation>
-    </message>
-    <message>
-        <source>Quick filter</source>
-        <translation>Filtro rápido</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -9549,10 +9477,6 @@ miniatura</translation>
         <translation>sRGB</translation>
     </message>
     <message>
-        <source>Duplicate files</source>
-        <translation>Duplicar archivos</translation>
-    </message>
-    <message>
         <source>Daily</source>
         <translation>Diariamente</translation>
     </message>
@@ -9819,6 +9743,10 @@ miniatura</translation>
     <message>
         <source>Save changes to file</source>
         <translation type="unfinished">Guardar cambios en archivo</translation>
+    </message>
+    <message>
+        <source>Duplicate files naming</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10151,10 +10079,6 @@ Do you want to reassign?</source>
         <translation>Navegador</translation>
     </message>
     <message>
-        <source>Switching mode</source>
-        <translation>Cambiar de modo</translation>
-    </message>
-    <message>
         <source>Make selection</source>
         <translation>Hacer selección</translation>
     </message>
@@ -10325,6 +10249,66 @@ Do you want to reassign?</source>
     <message>
         <source>Hide Tab header when only one is opened</source>
         <translation>Ocultar la cabecera de la pestaña cuando se abre solo una</translation>
+    </message>
+    <message>
+        <source>TitleBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StatusBar</source>
+        <translation type="unfinished">Barra de estado</translation>
+    </message>
+    <message>
+        <source>File date</source>
+        <translation type="unfinished">Fecha del archivo</translation>
+    </message>
+    <message>
+        <source>File created date</source>
+        <translation type="unfinished">Fecha de creación del archivo</translation>
+    </message>
+    <message>
+        <source>File modified date</source>
+        <translation type="unfinished">Fecha de modificación del archivo</translation>
+    </message>
+    <message>
+        <source>EXIF date taken</source>
+        <translation type="unfinished">Fecha de captura EXIF</translation>
+    </message>
+    <message>
+        <source>EXIF date modified</source>
+        <translation type="unfinished">Fecha de modificación EXIF</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="unfinished">Nombre de archivo</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">Propiedades</translation>
+    </message>
+    <message>
+        <source>Print size</source>
+        <translation type="unfinished">Tamaño de impresión</translation>
+    </message>
+    <message>
+        <source>File size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="unfinished">Comentario incrustado</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descripción</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished">Zoom</translation>
+    </message>
+    <message>
+        <source>Switching modes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10813,10 +10797,6 @@ Do you want to reassign?</source>
         <translation>Mantener la imagen actual</translation>
     </message>
     <message>
-        <source>Title bar</source>
-        <translation>Barra de título</translation>
-    </message>
-    <message>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <translation>Zoom en pantalla HiDPI: 1 píxel de imagen equivale a 1 píxel de pantalla</translation>
     </message>
@@ -10859,58 +10839,6 @@ Do you want to reassign?</source>
     <message>
         <source>Zoom In</source>
         <translation>Acercar</translation>
-    </message>
-    <message>
-        <source>StatusBar</source>
-        <translation>Barra de estado</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation>Nombre de archivo</translation>
-    </message>
-    <message>
-        <source>File date</source>
-        <translation>Fecha del archivo</translation>
-    </message>
-    <message>
-        <source>File created date</source>
-        <translation>Fecha de creación del archivo</translation>
-    </message>
-    <message>
-        <source>File modified date</source>
-        <translation>Fecha de modificación del archivo</translation>
-    </message>
-    <message>
-        <source>EXIF date taken</source>
-        <translation>Fecha de captura EXIF</translation>
-    </message>
-    <message>
-        <source>EXIF date modified</source>
-        <translation>Fecha de modificación EXIF</translation>
-    </message>
-    <message>
-        <source>File size</source>
-        <translation>Tamaño de archivo</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Propiedades</translation>
-    </message>
-    <message>
-        <source>Print size</source>
-        <translation>Tamaño de impresión</translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation>Zoom</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation>Comentario incrustado</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation>Descripción</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -16598,6 +16526,10 @@ Do you want to continue?</source>
         <source>Set Color label</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic crop...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -17947,6 +17879,30 @@ Clic Derecho para menú contextual con acciones.</translation>
     <message>
         <source>Clear Recent Searches</source>
         <translation>Borrar búsquedas recientes</translation>
+    </message>
+    <message>
+        <source>Advanced search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Buscar en</translation>
+    </message>
+    <message>
+        <source>IPTC fields</source>
+        <translation type="unfinished">Campos IPTC</translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="unfinished">Comentario incrustado</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descripción</translation>
+    </message>
+    <message>
+        <source>Categories (catalog)</source>
+        <translation type="unfinished">Categorías (catálogo)</translation>
     </message>
 </context>
 <context>

@@ -263,12 +263,12 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="207"/>
+        <location filename="ViewWindow.cpp" line="211"/>
         <source>Save changed file</source>
         <translation>Salva il file modificato</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="208"/>
+        <location filename="ViewWindow.cpp" line="212"/>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
         <oldsource>Do you want to save changes to
@@ -278,142 +278,142 @@
 &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1388"/>
+        <location filename="ViewWindow.cpp" line="1392"/>
         <source>Frame %1/%2</source>
         <translation>Fotogramma %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1391"/>
+        <location filename="ViewWindow.cpp" line="1395"/>
         <source>Icon %1/%2</source>
         <translation>Icona %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1393"/>
+        <location filename="ViewWindow.cpp" line="1397"/>
         <source>Page %1/%2</source>
         <translation>Pagina %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1555"/>
-        <location filename="ViewWindow.cpp" line="1574"/>
+        <location filename="ViewWindow.cpp" line="1561"/>
+        <location filename="ViewWindow.cpp" line="1580"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Vuoto &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2790"/>
+        <location filename="ViewWindow.cpp" line="2796"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>L&apos;immagine sarà convertita in RGB 24-bit (8 bit per canale)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2808"/>
+        <location filename="ViewWindow.cpp" line="2814"/>
         <source>Confirm Save</source>
         <translation>Conferma salvataggio</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2809"/>
+        <location filename="ViewWindow.cpp" line="2815"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; è già esistente!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2809"/>
+        <location filename="ViewWindow.cpp" line="2815"/>
         <source>Do you want to overwrite it?</source>
         <translation>Volete sovrascriverlo?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2834"/>
-        <location filename="ViewWindow.cpp" line="2964"/>
-        <location filename="ViewWindow.cpp" line="3014"/>
+        <location filename="ViewWindow.cpp" line="2840"/>
+        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="3020"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Salvataggio dell&apos;immagine...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2836"/>
-        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="2842"/>
+        <location filename="ViewWindow.cpp" line="3022"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2836"/>
-        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="2842"/>
+        <location filename="ViewWindow.cpp" line="3022"/>
         <source>An error occurred during saving!</source>
         <translation>È stato rilevato un errore durante lil salvataggio del file!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3104"/>
+        <location filename="ViewWindow.cpp" line="3110"/>
         <source>Properties</source>
         <translation>Proprietà</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4218"/>
+        <location filename="ViewWindow.cpp" line="4232"/>
         <source>Colors count</source>
         <translation>Conteggio colori</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1943"/>
+        <location filename="ViewWindow.cpp" line="1949"/>
         <source>Customize toolbar...</source>
         <translation>Personalizza la barra degli strumenti...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="211"/>
+        <location filename="ViewWindow.cpp" line="215"/>
         <source>Save &amp;as...</source>
         <translation>S&amp;alva come...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="219"/>
+        <location filename="ViewWindow.cpp" line="223"/>
         <source>&amp;Save</source>
         <translation>&amp;Salva</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="220"/>
+        <location filename="ViewWindow.cpp" line="224"/>
         <source>&amp;Don&apos;t Save</source>
         <translation>N&amp;on Salvare</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="223"/>
+        <location filename="ViewWindow.cpp" line="227"/>
         <source>Don&apos;t ask again</source>
         <translation>Non chiedere ulteriormente</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2202"/>
         <location filename="ViewWindow.cpp" line="2208"/>
-        <location filename="ViewWindow.cpp" line="2212"/>
+        <location filename="ViewWindow.cpp" line="2214"/>
+        <location filename="ViewWindow.cpp" line="2218"/>
         <source>Delete items</source>
         <translation>Elimina elementi</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2202"/>
+        <location filename="ViewWindow.cpp" line="2208"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Volete abbandonare le vostre modifiche e cancellare 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2208"/>
+        <location filename="ViewWindow.cpp" line="2214"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Volete davvero eliminare 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2212"/>
+        <location filename="ViewWindow.cpp" line="2218"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Volete davvero eliminare 
 &quot;%1&quot; (%2 elementi)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2790"/>
-        <location filename="ViewWindow.cpp" line="2800"/>
+        <location filename="ViewWindow.cpp" line="2796"/>
+        <location filename="ViewWindow.cpp" line="2806"/>
         <source>Save</source>
         <translation>Salva</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2800"/>
+        <location filename="ViewWindow.cpp" line="2806"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Il file &lt;%1&gt; è di sola lettura, si prega di scegliere un altro nome.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4218"/>
+        <location filename="ViewWindow.cpp" line="4232"/>
         <source>Number of unique colors: %1</source>
         <translation>Numero di colori unici: %1</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4697"/>
+        <location filename="ViewWindow.cpp" line="4716"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4688"/>
-        <location filename="ViewWindow.cpp" line="4697"/>
+        <location filename="ViewWindow.cpp" line="4707"/>
+        <location filename="ViewWindow.cpp" line="4716"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Il file non può essere caricato!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4688"/>
+        <location filename="ViewWindow.cpp" line="4707"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnViewMP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4689"/>
+        <location filename="ViewWindow.cpp" line="4708"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Si prega di vistare il %1 per ulteriori informazioni.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4701"/>
+        <location filename="ViewWindow.cpp" line="4720"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Vuoto &gt;</translation>
     </message>
@@ -546,73 +546,73 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="657"/>
+        <location filename="BrowserWindow.cpp" line="661"/>
         <source>Customize toolbar...</source>
         <translation>Personalizza barra degli strumenti...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1628"/>
+        <location filename="BrowserWindow.cpp" line="1639"/>
         <source>Add Favorite...</source>
         <translation>Aggiungi Preferito...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1852"/>
+        <location filename="BrowserWindow.cpp" line="1864"/>
         <source>Folders</source>
         <translation>Cartelle</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1856"/>
+        <location filename="BrowserWindow.cpp" line="1868"/>
         <source>Favorites</source>
         <translation>Preferiti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1870"/>
+        <location filename="BrowserWindow.cpp" line="1882"/>
         <source>Categories</source>
         <translation>Categorie</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1906"/>
+        <location filename="BrowserWindow.cpp" line="1918"/>
         <source>Info</source>
         <translation>Informazioni</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="661"/>
+        <location filename="BrowserWindow.cpp" line="665"/>
         <source>Detach preview panel</source>
         <translation>Stacca pannello anteprima</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="663"/>
+        <location filename="BrowserWindow.cpp" line="667"/>
         <source>Attach preview panel</source>
         <translation>Attacca pannello anteprima</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="897"/>
+        <location filename="BrowserWindow.cpp" line="901"/>
         <source>The database is corrupted, please check it before to continue!</source>
         <translation>La banca dati è danneggata, si prega di verificarla prima di continuare!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1620"/>
+        <location filename="BrowserWindow.cpp" line="1631"/>
         <source>Add to Favorites</source>
         <translation>Aggiungi ai preferiti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1860"/>
+        <location filename="BrowserWindow.cpp" line="1872"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Filtro del Catalogo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1875"/>
+        <location filename="BrowserWindow.cpp" line="1887"/>
         <source>Category Sets</source>
         <translation>Gruppi di categorie</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2087"/>
+        <location filename="BrowserWindow.cpp" line="2099"/>
         <source>Match</source>
         <translation>Corrispondenza</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2097"/>
+        <location filename="BrowserWindow.cpp" line="2109"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -621,42 +621,42 @@ Fate clic destro sui differenti elementi per i menu di scelta rapida con le azio
 Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2120"/>
+        <location filename="BrowserWindow.cpp" line="2132"/>
         <source>Global</source>
         <translation>Globale</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2127"/>
+        <location filename="BrowserWindow.cpp" line="2139"/>
         <source>Current folder</source>
         <translation>Cartella corrente</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2134"/>
+        <location filename="BrowserWindow.cpp" line="2146"/>
         <source>Current folder (Recursive)</source>
         <translation>Cartella corrente (Ricorsivo)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3214"/>
+        <location filename="BrowserWindow.cpp" line="3226"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Risultati ricerca&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3216"/>
+        <location filename="BrowserWindow.cpp" line="3228"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;File contrassegnati&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3305"/>
+        <location filename="BrowserWindow.cpp" line="3317"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Questa cartella non esiste!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3524"/>
+        <location filename="BrowserWindow.cpp" line="3536"/>
         <source>Favorite name:</source>
         <translation>Nome preferito:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3768"/>
+        <location filename="BrowserWindow.cpp" line="3780"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Volete davvero eliminare questo %n elemento?</numerusform>
@@ -664,53 +664,53 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3853"/>
+        <location filename="BrowserWindow.cpp" line="3865"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Non è stato possibile rinominare i file, è stato rilevato un errore.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3305"/>
-        <location filename="BrowserWindow.cpp" line="3853"/>
+        <location filename="BrowserWindow.cpp" line="3317"/>
+        <location filename="BrowserWindow.cpp" line="3865"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1914"/>
+        <location filename="BrowserWindow.cpp" line="1926"/>
         <source>Metadata</source>
         <translation>Metadati</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1923"/>
+        <location filename="BrowserWindow.cpp" line="1935"/>
         <source>Histogram</source>
         <translation>Istogramma</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2103"/>
+        <location filename="BrowserWindow.cpp" line="2115"/>
         <source>Match any selected entry (OR)</source>
         <translation>Riscontra ogni elemento selezionato (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2109"/>
+        <location filename="BrowserWindow.cpp" line="2121"/>
         <source>Match all selected entries (AND)</source>
         <translation>Riscontra tutti gli elementi selezionati (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3218"/>
+        <location filename="BrowserWindow.cpp" line="3230"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;risultati del filtro del Catalogo&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3220"/>
+        <location filename="BrowserWindow.cpp" line="3232"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;file&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3761"/>
+        <location filename="BrowserWindow.cpp" line="3773"/>
         <source>Delete items &amp; companions</source>
         <translation>Elimina elementi &amp; file ausiliari</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3762"/>
+        <location filename="BrowserWindow.cpp" line="3774"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Volete davvero eliminare questo %n elemento - %1 elemento selezionato?</numerusform>
@@ -718,57 +718,57 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4217"/>
+        <location filename="BrowserWindow.cpp" line="4229"/>
         <source>Search...</source>
         <translation>Cerca...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4218"/>
+        <location filename="BrowserWindow.cpp" line="4230"/>
         <source>Add to favorites...</source>
         <translation>Aggiungi ai preferiti...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4221"/>
+        <location filename="BrowserWindow.cpp" line="4233"/>
         <source>Start slideshow</source>
         <translation>Avvia presentazione</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4226"/>
+        <location filename="BrowserWindow.cpp" line="4238"/>
         <source>Properties</source>
         <translation>Proprietà</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4335"/>
+        <location filename="BrowserWindow.cpp" line="4347"/>
         <source>Load filelist</source>
         <translation>Carica elenco di file</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3767"/>
+        <location filename="BrowserWindow.cpp" line="3779"/>
         <source>Delete items</source>
         <translation>Elimina elementi</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4215"/>
+        <location filename="BrowserWindow.cpp" line="4227"/>
         <source>Show files in subfolders</source>
         <translation>Mostra file nelle sottocartelle</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4223"/>
+        <location filename="BrowserWindow.cpp" line="4235"/>
         <source>Explorer</source>
         <translation>Esplora</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4258"/>
+        <location filename="BrowserWindow.cpp" line="4270"/>
         <source>Delete folder</source>
         <translation>Elimina cartella</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4258"/>
+        <location filename="BrowserWindow.cpp" line="4270"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Volete davvero eliminare questa cartella?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="609"/>
+        <location filename="BrowserWindow.cpp" line="613"/>
         <source>Browser</source>
         <translation>Catalogatore</translation>
     </message>
@@ -1174,6 +1174,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="513"/>
+        <location filename="DlgAutoCrop.h" line="105"/>
         <source>Automatic crop</source>
         <translation>Ritaglio automatico</translation>
     </message>
@@ -1229,7 +1230,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Imposta DPI</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2424"/>
+        <location filename="DlgConvertProcess.h" line="2426"/>
         <source>Extract channel</source>
         <translation>Estrai canale</translation>
     </message>
@@ -1246,260 +1247,260 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Curve</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4666"/>
+        <location filename="DlgConvertProcess.h" line="4668"/>
         <location filename="DlgWhiteBalance.h" line="88"/>
         <source>White Balance</source>
         <translation>Bilanciamento del bianco</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2448"/>
+        <location filename="DlgConvertProcess.h" line="2450"/>
         <source>Black/White Points</source>
         <translation>Punti di Nero/Bianco</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2469"/>
+        <location filename="DlgConvertProcess.h" line="2471"/>
         <source>Mirror</source>
         <translation>Rispecchia</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2493"/>
+        <location filename="DlgConvertProcess.h" line="2495"/>
         <source>Replace color</source>
         <translation>Sostituisci colore</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2525"/>
+        <location filename="DlgConvertProcess.h" line="2527"/>
         <source>Transparent color</source>
         <translation>Colore di trasparenza</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2572"/>
+        <location filename="DlgConvertProcess.h" line="2574"/>
         <source>Aspect Pad</source>
         <translation>Padding immagine</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2631"/>
+        <location filename="DlgConvertProcess.h" line="2633"/>
         <source>Color balance</source>
         <translation>Bilanciamento colore</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2657"/>
+        <location filename="DlgConvertProcess.h" line="2659"/>
         <source>HLS</source>
         <translation>HLS</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2732"/>
+        <location filename="DlgConvertProcess.h" line="2734"/>
         <location filename="DlgShadowHighlight.h" line="88"/>
         <source>Shadow-Highlight</source>
         <translation>Ombra-Luce</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2754"/>
+        <location filename="DlgConvertProcess.h" line="2756"/>
         <source>Add noise</source>
         <translation>Aggiungi disturbo</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2830"/>
+        <location filename="DlgConvertProcess.h" line="2832"/>
         <source>Edge detect</source>
         <translation>Individuazione bordi</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2897"/>
+        <location filename="DlgConvertProcess.h" line="2899"/>
         <source>De-interlace</source>
         <translation>De-interlaccia</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3229"/>
+        <location filename="DlgConvertProcess.h" line="3231"/>
         <source>Blurred frame</source>
         <translation>Cornice sfocata</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3474"/>
+        <location filename="DlgConvertProcess.h" line="3476"/>
         <source>Inner Frame</source>
         <translation>Cornice interna</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3828"/>
+        <location filename="DlgConvertProcess.h" line="3830"/>
         <source>JPEG Lossless rotation</source>
         <translation>Rotazione JPEG senza perdite</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4239"/>
+        <location filename="DlgConvertProcess.h" line="4241"/>
         <source>Retro</source>
         <translation>Retrò</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4468"/>
+        <location filename="DlgConvertProcess.h" line="4470"/>
         <source>Film Simulation</source>
         <translation>Simulazione Film</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4508"/>
+        <location filename="DlgConvertProcess.h" line="4510"/>
         <source>Bloom</source>
         <translation>Luce raggiante</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4532"/>
+        <location filename="DlgConvertProcess.h" line="4534"/>
         <source>Unsharp Mask</source>
         <translation>Maschera di Contrasto</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4564"/>
+        <location filename="DlgConvertProcess.h" line="4566"/>
         <source>Clear transparent pixels</source>
         <translation>Cancella pixel trasparenti</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4578"/>
+        <location filename="DlgConvertProcess.h" line="4580"/>
         <source>Remove alpha channel</source>
         <translation>Rimuovi canale alfa</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4592"/>
+        <location filename="DlgConvertProcess.h" line="4594"/>
         <location filename="DlgOffset.h" line="100"/>
         <source>Offset</source>
         <translation>Scostamento</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4618"/>
+        <location filename="DlgConvertProcess.h" line="4620"/>
         <source>Symmetry</source>
         <translation>Simmetria</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4639"/>
+        <location filename="DlgConvertProcess.h" line="4641"/>
         <source>Saturation</source>
         <translation>Saturazione</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4682"/>
+        <location filename="DlgConvertProcess.h" line="4684"/>
         <source>Mono Mixer</source>
         <translation>Mixer mono</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4707"/>
+        <location filename="DlgConvertProcess.h" line="4709"/>
         <source>Fantasy</source>
         <translation>Fantasia</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4727"/>
+        <location filename="DlgConvertProcess.h" line="4729"/>
         <source>Crystallize</source>
         <translation>Cristallizza</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4745"/>
+        <location filename="DlgConvertProcess.h" line="4747"/>
         <source>Temperature</source>
         <translation>Temperatura</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4762"/>
+        <location filename="DlgConvertProcess.h" line="4764"/>
         <source>Photo Spread</source>
         <translation>Foto sparpagliate</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4789"/>
+        <location filename="DlgConvertProcess.h" line="4791"/>
         <source>Frequency</source>
         <translation>Frequenza</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4794"/>
+        <location filename="DlgConvertProcess.h" line="4796"/>
         <source>Halftone</source>
         <translation>Mezzitoni</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4890"/>
+        <location filename="DlgConvertProcess.h" line="4892"/>
         <source>QR Code</source>
         <translation>Codice QR</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2919"/>
+        <location filename="DlgConvertProcess.h" line="2921"/>
         <location filename="Dlg1SliderPanel.h" line="82"/>
         <source>Posterize</source>
         <translation>Posterizza</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2697"/>
+        <location filename="DlgConvertProcess.h" line="2699"/>
         <source>Swap color</source>
         <translation>Scambia</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2939"/>
+        <location filename="DlgConvertProcess.h" line="2941"/>
         <source>Border 3D</source>
         <translation>Bordo 3D</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2966"/>
+        <location filename="DlgConvertProcess.h" line="2968"/>
         <source>Waves</source>
         <translation>Onde</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2971"/>
+        <location filename="DlgConvertProcess.h" line="2973"/>
         <source>Length</source>
         <translation>Lunghezza</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2972"/>
+        <location filename="DlgConvertProcess.h" line="2974"/>
         <source>Phase</source>
         <translation>Fase</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2973"/>
+        <location filename="DlgConvertProcess.h" line="2975"/>
         <source>Amount</source>
         <translation>Quantità</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3015"/>
+        <location filename="DlgConvertProcess.h" line="3017"/>
         <source>Normalize Ex</source>
         <translation>Normalizza Ex</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3020"/>
-        <location filename="DlgConvertProcess.h" line="3078"/>
+        <location filename="DlgConvertProcess.h" line="3022"/>
+        <location filename="DlgConvertProcess.h" line="3080"/>
         <source>Black limit %</source>
         <translation>% limite Nero</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3021"/>
-        <location filename="DlgConvertProcess.h" line="3079"/>
+        <location filename="DlgConvertProcess.h" line="3023"/>
+        <location filename="DlgConvertProcess.h" line="3081"/>
         <source>White limit %</source>
         <translation>% limite Bianco</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3022"/>
+        <location filename="DlgConvertProcess.h" line="3024"/>
         <source>Expansion limit</source>
         <translation>Limite espansione</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3073"/>
+        <location filename="DlgConvertProcess.h" line="3075"/>
         <source>Align histogram</source>
         <translation>Allinea istogramma</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3080"/>
+        <location filename="DlgConvertProcess.h" line="3082"/>
         <source>Align %</source>
         <translation>% Allineamento</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3144"/>
+        <location filename="DlgConvertProcess.h" line="3146"/>
         <source>ICC convert</source>
         <translation>Conversione ICC</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3286"/>
+        <location filename="DlgConvertProcess.h" line="3288"/>
         <source>Border</source>
         <translation>Margini</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3520"/>
+        <location filename="DlgConvertProcess.h" line="3522"/>
         <location filename="DlgOldCamera.h" line="99"/>
         <source>Old camera</source>
         <translation>Vecchia fotocamera</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3541"/>
+        <location filename="DlgConvertProcess.h" line="3543"/>
         <location filename="DlgVignetting.h" line="108"/>
         <source>Vignetting</source>
         <translation>Vignettatura</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3720"/>
+        <location filename="DlgConvertProcess.h" line="3722"/>
         <source>Add mask</source>
         <translation>Aggiungi maschera</translation>
     </message>
@@ -8784,44 +8785,44 @@ Saranno create delle sottocartelle. </translation>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="318"/>
+        <location filename="DlgImport.ui" line="321"/>
         <source>Rename like photos</source>
         <translation>Rinomina come foto</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="328"/>
+        <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign</source>
         <oldsource>Keywords to assign at import (XMP)</oldsource>
         <translation>Categorie da assegnare</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="334"/>
+        <location filename="DlgImport.ui" line="337"/>
         <source>Use ; to separate categories</source>
         <oldsource>Use ; to separate keywords</oldsource>
         <translation>Usa ; per separare le parole chiave</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="361"/>
+        <location filename="DlgImport.ui" line="364"/>
         <source>Filter</source>
         <translation>Filtro</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="369"/>
+        <location filename="DlgImport.ui" line="372"/>
         <source>Date</source>
         <translation>Data</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="392"/>
+        <location filename="DlgImport.ui" line="398"/>
         <source>from</source>
         <translation>dal</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="402"/>
+        <location filename="DlgImport.ui" line="408"/>
         <source>to</source>
         <translation>al</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="429"/>
+        <location filename="DlgImport.ui" line="435"/>
         <source>Extensions (; to separate)</source>
         <translation>Estensioni (; per separare)</translation>
     </message>
@@ -10423,24 +10424,24 @@ Grazie per aver acquistato %1.</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DlgRename</name>
     <message>
-        <location filename="DlgRename.cpp" line="156"/>
+        <location filename="DlgRename.cpp" line="803"/>
         <source>(%1 files)</source>
         <translation>(%1 file)</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="312"/>
+        <location filename="DlgRename.cpp" line="310"/>
         <source>Companion renaming</source>
         <translation>Rinomina file ausiliari</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="312"/>
+        <location filename="DlgRename.cpp" line="310"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
@@ -10449,7 +10450,7 @@ Do you want to remove them?</source>
 Si desidera rimuoverli?</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1108"/>
+        <location filename="DlgRename.cpp" line="1120"/>
         <source>Do you want to delete all your name templates?</source>
         <oldsource>Do you want to delete all your template&apos;s name?</oldsource>
         <translation>Volete rimuovere tutti i vostri modelli di nome?</translation>
@@ -10963,28 +10964,28 @@ Si desidera rimuoverli?</translation>
 <context>
     <name>DlgSearch</name>
     <message>
-        <location filename="DlgSearch.cpp" line="291"/>
+        <location filename="DlgSearch.cpp" line="294"/>
         <source>Search name:</source>
         <translation>Cerca nome:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="448"/>
+        <location filename="DlgSearch.cpp" line="451"/>
         <source>Files found (%1):</source>
         <translation>File trovato (%1):</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="469"/>
+        <location filename="DlgSearch.cpp" line="472"/>
         <source>Searching...</source>
         <translation>Ricerca in corso...</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="500"/>
+        <location filename="DlgSearch.cpp" line="503"/>
         <source>Finished.</source>
         <translation>Finito.</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="502"/>
-        <location filename="DlgSearch.cpp" line="503"/>
+        <location filename="DlgSearch.cpp" line="505"/>
+        <location filename="DlgSearch.cpp" line="506"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
         <translation>Finito: %1 file trovato(i).</translation>
@@ -11238,250 +11239,157 @@ Si desidera rimuoverli?</translation>
         <translation>Catalogatore</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="126"/>
+        <location filename="DlgSettingsBrowser.ui" line="112"/>
         <source>Use tooltips</source>
         <translation>Usa suggerimenti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="64"/>
+        <location filename="DlgSettingsBrowser.ui" line="50"/>
         <source>Preview background color</source>
         <translation>Colore dello sfondo dell&apos;anteprima</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="89"/>
+        <location filename="DlgSettingsBrowser.ui" line="75"/>
         <source>Show ratings</source>
         <translation>Mostra valutazioni</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="99"/>
+        <location filename="DlgSettingsBrowser.ui" line="85"/>
         <source>View scroll the content by thumbnail</source>
         <translation>La visualizzazione scorre il contenuto presso le miniature</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="44"/>
-        <source>Title bar</source>
-        <translation>Barra del titolo</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="188"/>
+        <location filename="DlgSettingsBrowser.ui" line="174"/>
         <source>ToolBar</source>
         <translation>Barra degli strumenti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="196"/>
+        <location filename="DlgSettingsBrowser.ui" line="182"/>
         <source>Filter</source>
         <translation>Filtro</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="203"/>
+        <location filename="DlgSettingsBrowser.ui" line="189"/>
         <source>Sort</source>
         <translation>Ordina</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="210"/>
+        <location filename="DlgSettingsBrowser.ui" line="196"/>
         <source>Thumbnails + Details</source>
         <translation>Miniature + Dettagli</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="217"/>
+        <location filename="DlgSettingsBrowser.ui" line="203"/>
         <source>Thumbnails + Filename</source>
         <translation>Miniature + Nome del file</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="224"/>
+        <location filename="DlgSettingsBrowser.ui" line="210"/>
         <source>Thumbnails</source>
         <translation>Miniature</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="231"/>
+        <location filename="DlgSettingsBrowser.ui" line="217"/>
         <source>Icons</source>
         <translation>Icone</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="238"/>
+        <location filename="DlgSettingsBrowser.ui" line="224"/>
         <source>List</source>
         <translation>Elenco</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="261"/>
+        <location filename="DlgSettingsBrowser.ui" line="247"/>
         <source>Favorites</source>
         <translation>Preferiti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="309"/>
+        <location filename="DlgSettingsBrowser.ui" line="295"/>
         <source>View as</source>
         <translation>Visualizza come</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="268"/>
+        <location filename="DlgSettingsBrowser.ui" line="254"/>
         <source>Thumbnails + Labels</source>
         <translation>Miniature + Etichette</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="56"/>
+        <location filename="DlgSettingsBrowser.ui" line="42"/>
         <source>Preview</source>
         <translation>Anteprima</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="120"/>
+        <location filename="DlgSettingsBrowser.ui" line="106"/>
         <source>Tooltip</source>
         <translation>Suggerimento</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="275"/>
+        <location filename="DlgSettingsBrowser.ui" line="261"/>
         <source>Details</source>
         <translation>Dettagli</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="302"/>
+        <location filename="DlgSettingsBrowser.ui" line="288"/>
         <source>Thumbnails scaling</source>
         <translation>Ridimensionamento miniature</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="316"/>
+        <location filename="DlgSettingsBrowser.ui" line="302"/>
         <source>Rating</source>
         <translation>Valutazione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="339"/>
-        <source>StatusBar</source>
-        <translation>Barra di stato</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="345"/>
-        <source>Filename</source>
-        <translation>Nome file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="352"/>
-        <source>Properties</source>
-        <translation>Proprietà</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="359"/>
-        <source>Print size</source>
-        <translation>Dimensioni stampa</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="366"/>
-        <source>File size</source>
-        <translation>Dimensione del file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="375"/>
-        <source>File date</source>
-        <translation>Data del file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="383"/>
-        <source>File created date</source>
-        <translation>Data creazione file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="388"/>
-        <source>File modified date</source>
-        <translation>Data modifica file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="398"/>
-        <source>EXIF date modified</source>
-        <translation>EXIF Data modifica</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="393"/>
-        <source>EXIF date taken</source>
-        <translation>EXIF Data cattura</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="449"/>
+        <location filename="DlgSettingsBrowser.ui" line="325"/>
         <source>Tag</source>
         <translation>Contrassegni</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="457"/>
+        <location filename="DlgSettingsBrowser.ui" line="333"/>
         <source>Clear the list of tagged files</source>
         <translation>Svuota la lista di file contrassegnati</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="465"/>
+        <location filename="DlgSettingsBrowser.ui" line="341"/>
         <source>After an operation</source>
         <translation>Dopo ogni operazione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="470"/>
+        <location filename="DlgSettingsBrowser.ui" line="346"/>
         <source>After folder change</source>
         <translation>Dopo aver cambiato cartella</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="475"/>
+        <location filename="DlgSettingsBrowser.ui" line="351"/>
         <source>On exit</source>
         <translation>All&apos;uscita</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="480"/>
+        <location filename="DlgSettingsBrowser.ui" line="356"/>
         <source>Never</source>
         <translation>Mai</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="282"/>
+        <location filename="DlgSettingsBrowser.ui" line="268"/>
         <source>Quick search</source>
         <translation>Ricerca rapida</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="523"/>
-        <source>Search in</source>
-        <oldsource>Search in IPTC fields</oldsource>
-        <translation>Cerca in</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="529"/>
-        <source>IPTC fields</source>
-        <translation>Campi IPTC</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="536"/>
-        <source>XMP fields</source>
-        <translation>Campi XMP</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="421"/>
-        <location filename="DlgSettingsBrowser.ui" line="543"/>
-        <source>Embedded comment</source>
-        <translation>Commento incorporato</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="428"/>
-        <location filename="DlgSettingsBrowser.ui" line="550"/>
-        <source>Description</source>
-        <translation>Descrizione</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="517"/>
-        <source>Quick filter</source>
-        <translation>Ricerca rapida</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="557"/>
-        <source>Categories (catalog)</source>
-        <translation>Categorie (catalogo)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="581"/>
+        <location filename="DlgSettingsBrowser.ui" line="393"/>
         <source>Misc.</source>
         <translation>Miscellanea</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="587"/>
+        <location filename="DlgSettingsBrowser.ui" line="399"/>
         <source>Rotation</source>
         <translation>Rotazione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="593"/>
+        <location filename="DlgSettingsBrowser.ui" line="405"/>
         <source>Change EXIF orientation ONLY (if possible)</source>
         <translation>Modifica SOLO orientamento EXIF (se possibile)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="600"/>
+        <location filename="DlgSettingsBrowser.ui" line="412"/>
         <source>Use lossless rotation (if possible)</source>
         <translation>Usa rotazione senza perdite (se possibile)</translation>
     </message>
@@ -12474,8 +12382,9 @@ miniatura</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
-        <source>Duplicate files</source>
-        <translation>File duplicati</translation>
+        <source>Duplicate files naming</source>
+        <oldsource>Duplicate files</oldsource>
+        <translation type="unfinished">File duplicati</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
@@ -12766,28 +12675,28 @@ miniatura</translation>
         <translation>Modalità Visualizzazione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="791"/>
-        <location filename="DlgSettingsInterface.cpp" line="811"/>
+        <location filename="DlgSettingsInterface.cpp" line="859"/>
+        <location filename="DlgSettingsInterface.cpp" line="879"/>
         <source>Set Icon...</source>
         <translation>Imposta icona...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="989"/>
+        <location filename="DlgSettingsInterface.cpp" line="1057"/>
         <source>Set label</source>
         <translation>Imposta etichetta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="990"/>
+        <location filename="DlgSettingsInterface.cpp" line="1058"/>
         <source>Label:</source>
         <translation>Etichetta:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1139"/>
+        <location filename="DlgSettingsInterface.cpp" line="1207"/>
         <source>This shortcut is already assigned for </source>
         <translation>Questa scelta rapida è stata già assegnata per </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1155"/>
+        <location filename="DlgSettingsInterface.cpp" line="1223"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12798,22 +12707,22 @@ Do you want to reassign?</source>
 Desiderate riassegnarlo?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1204"/>
+        <location filename="DlgSettingsInterface.cpp" line="1272"/>
         <source>Load toolbar</source>
         <translation>Carica barra degli strumenti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1222"/>
+        <location filename="DlgSettingsInterface.cpp" line="1290"/>
         <source>Save toolbar</source>
         <translation>Salva barra degli strumenti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1278"/>
+        <location filename="DlgSettingsInterface.cpp" line="1346"/>
         <source>Load shortcuts</source>
         <translation>Carica tasti di scelta rapida</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1309"/>
+        <location filename="DlgSettingsInterface.cpp" line="1377"/>
         <source>Save shortcuts</source>
         <translation>Salva tasti di scelta rapida</translation>
     </message>
@@ -12837,7 +12746,7 @@ Desiderate riassegnarlo?</translation>
         <translation>Svuota la lista &apos;File recenti&apos; all&apos;uscita</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="177"/>
+        <location filename="DlgSettingsInterface.ui" line="221"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
         <translation>La chiusura dell&apos;ultima scheda terminerà l&apos;applicazione</translation>
@@ -12861,27 +12770,27 @@ Desiderate riassegnarlo?</translation>
         <translation>Numero di voci massimo:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="218"/>
+        <location filename="DlgSettingsInterface.ui" line="262"/>
         <source>Tab</source>
         <translation>Schede</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="224"/>
+        <location filename="DlgSettingsInterface.ui" line="268"/>
         <source>Close button</source>
         <translation>Pulsante di chiusura</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="246"/>
+        <location filename="DlgSettingsInterface.ui" line="290"/>
         <source>Thumbnail</source>
         <translation>Miniatura</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="276"/>
+        <location filename="DlgSettingsInterface.ui" line="320"/>
         <source>Max width:</source>
         <translation>Larghezza massima:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="291"/>
+        <location filename="DlgSettingsInterface.ui" line="335"/>
         <source>characters</source>
         <translation>caratteri</translation>
     </message>
@@ -12896,443 +12805,528 @@ Desiderate riassegnarlo?</translation>
         <translation>Svuota adesso</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="164"/>
+        <location filename="DlgSettingsInterface.ui" line="208"/>
         <source>Tabs</source>
         <translation>Schede</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="186"/>
+        <location filename="DlgSettingsInterface.ui" line="230"/>
         <source>Maximum of view tabs:</source>
         <translation>Numero di schede di visualizzazzione massimo:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="233"/>
+        <location filename="DlgSettingsInterface.ui" line="277"/>
         <source>Display:</source>
         <translation>Mostra:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="251"/>
+        <location filename="DlgSettingsInterface.ui" line="295"/>
         <source>Icon</source>
         <translation>Icona</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="296"/>
+        <location filename="DlgSettingsInterface.ui" line="340"/>
         <source>pixels</source>
         <translation>pixel</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="324"/>
+        <location filename="DlgSettingsInterface.ui" line="368"/>
         <source>Double-click on tab: </source>
         <translation>Doppio-clic sulla scheda:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="332"/>
-        <location filename="DlgSettingsInterface.ui" line="1201"/>
-        <location filename="DlgSettingsInterface.ui" line="1282"/>
-        <location filename="DlgSettingsInterface.ui" line="1332"/>
-        <location filename="DlgSettingsInterface.ui" line="1382"/>
-        <location filename="DlgSettingsInterface.ui" line="1422"/>
-        <location filename="DlgSettingsInterface.ui" line="1491"/>
-        <location filename="DlgSettingsInterface.ui" line="1541"/>
-        <location filename="DlgSettingsInterface.ui" line="1591"/>
-        <location filename="DlgSettingsInterface.ui" line="1631"/>
-        <location filename="DlgSettingsInterface.ui" line="1697"/>
-        <location filename="DlgSettingsInterface.ui" line="1751"/>
+        <location filename="DlgSettingsInterface.ui" line="376"/>
+        <location filename="DlgSettingsInterface.ui" line="1495"/>
+        <location filename="DlgSettingsInterface.ui" line="1576"/>
+        <location filename="DlgSettingsInterface.ui" line="1626"/>
+        <location filename="DlgSettingsInterface.ui" line="1676"/>
+        <location filename="DlgSettingsInterface.ui" line="1716"/>
         <location filename="DlgSettingsInterface.ui" line="1785"/>
-        <location filename="DlgSettingsInterface.ui" line="1819"/>
-        <location filename="DlgSettingsInterface.ui" line="1846"/>
-        <location filename="DlgSettingsInterface.ui" line="1958"/>
-        <location filename="DlgSettingsInterface.ui" line="2007"/>
-        <location filename="DlgSettingsInterface.ui" line="2043"/>
+        <location filename="DlgSettingsInterface.ui" line="1835"/>
+        <location filename="DlgSettingsInterface.ui" line="1885"/>
+        <location filename="DlgSettingsInterface.ui" line="1925"/>
+        <location filename="DlgSettingsInterface.ui" line="1991"/>
+        <location filename="DlgSettingsInterface.ui" line="2045"/>
+        <location filename="DlgSettingsInterface.ui" line="2079"/>
+        <location filename="DlgSettingsInterface.ui" line="2113"/>
+        <location filename="DlgSettingsInterface.ui" line="2140"/>
+        <location filename="DlgSettingsInterface.ui" line="2252"/>
+        <location filename="DlgSettingsInterface.ui" line="2301"/>
+        <location filename="DlgSettingsInterface.ui" line="2337"/>
         <source>Do nothing</source>
         <translation>Nessuna azione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="337"/>
+        <location filename="DlgSettingsInterface.ui" line="381"/>
         <source>Close tab</source>
         <translation>Chiudi scheda</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="342"/>
+        <location filename="DlgSettingsInterface.ui" line="386"/>
         <source>Duplicate tab</source>
         <translation>Duplica scheda</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="379"/>
+        <location filename="DlgSettingsInterface.ui" line="423"/>
         <source>ToolBar</source>
         <translation>Barra degli strumenti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="390"/>
-        <location filename="DlgSettingsInterface.ui" line="856"/>
-        <location filename="DlgSettingsInterface.ui" line="1218"/>
+        <location filename="DlgSettingsInterface.ui" line="170"/>
+        <location filename="DlgSettingsInterface.ui" line="434"/>
+        <location filename="DlgSettingsInterface.ui" line="692"/>
+        <location filename="DlgSettingsInterface.ui" line="1150"/>
+        <location filename="DlgSettingsInterface.ui" line="1512"/>
         <source>Browser</source>
         <oldsource>Browse mode</oldsource>
         <translation>Modalità Catalogatore</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="601"/>
-        <location filename="DlgSettingsInterface.ui" line="1058"/>
+        <location filename="DlgSettingsInterface.ui" line="645"/>
+        <location filename="DlgSettingsInterface.ui" line="1352"/>
         <source>Load...</source>
         <translation>Carica...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="608"/>
-        <location filename="DlgSettingsInterface.ui" line="1065"/>
+        <location filename="DlgSettingsInterface.ui" line="652"/>
+        <location filename="DlgSettingsInterface.ui" line="1359"/>
         <source>Save...</source>
         <translation>Salva...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="445"/>
+        <location filename="DlgSettingsInterface.ui" line="489"/>
         <source>Set label...</source>
         <translation>Imposta etichetta...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="554"/>
-        <location filename="DlgSettingsInterface.ui" line="784"/>
-        <location filename="DlgSettingsInterface.ui" line="869"/>
+        <location filename="DlgSettingsInterface.ui" line="598"/>
+        <location filename="DlgSettingsInterface.ui" line="1078"/>
+        <location filename="DlgSettingsInterface.ui" line="1163"/>
         <source>Filter</source>
         <translation>Filtro</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1302"/>
-        <location filename="DlgSettingsInterface.ui" line="1352"/>
-        <location filename="DlgSettingsInterface.ui" line="1402"/>
-        <location filename="DlgSettingsInterface.ui" line="1442"/>
+        <location filename="DlgSettingsInterface.ui" line="1596"/>
+        <location filename="DlgSettingsInterface.ui" line="1646"/>
+        <location filename="DlgSettingsInterface.ui" line="1696"/>
+        <location filename="DlgSettingsInterface.ui" line="1736"/>
         <source>Previous file</source>
         <translation>File precedente</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="435"/>
+        <location filename="DlgSettingsInterface.ui" line="479"/>
         <source>Set command...</source>
         <translation>Imposta comando...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="455"/>
+        <location filename="DlgSettingsInterface.ui" line="164"/>
+        <source>TitleBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="499"/>
         <source>Set Icon...</source>
         <translation>Imposta icona...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="594"/>
-        <location filename="DlgSettingsInterface.ui" line="824"/>
-        <location filename="DlgSettingsInterface.ui" line="1051"/>
+        <location filename="DlgSettingsInterface.ui" line="638"/>
+        <location filename="DlgSettingsInterface.ui" line="1118"/>
+        <location filename="DlgSettingsInterface.ui" line="1345"/>
         <source>Defaults</source>
         <translation>Predefiniti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="628"/>
+        <location filename="DlgSettingsInterface.ui" line="672"/>
         <source>Large icons</source>
         <translation>Icone grandi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="847"/>
+        <location filename="DlgSettingsInterface.ui" line="682"/>
+        <source>StatusBar</source>
+        <translation type="unfinished">Barra di stato</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="700"/>
+        <location filename="DlgSettingsInterface.ui" line="816"/>
+        <source>File date</source>
+        <translation type="unfinished">Data del file</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="708"/>
+        <location filename="DlgSettingsInterface.ui" line="824"/>
+        <source>File created date</source>
+        <translation type="unfinished">Data creazione file</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="713"/>
+        <location filename="DlgSettingsInterface.ui" line="829"/>
+        <source>File modified date</source>
+        <translation type="unfinished">Data modifica file</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="718"/>
+        <location filename="DlgSettingsInterface.ui" line="834"/>
+        <source>EXIF date taken</source>
+        <translation type="unfinished">EXIF Data cattura</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="723"/>
+        <location filename="DlgSettingsInterface.ui" line="839"/>
+        <source>EXIF date modified</source>
+        <translation type="unfinished">EXIF Data modifica</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="746"/>
+        <location filename="DlgSettingsInterface.ui" line="862"/>
+        <source>Filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="753"/>
+        <location filename="DlgSettingsInterface.ui" line="876"/>
+        <source>Properties</source>
+        <translation type="unfinished">Proprietà</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="760"/>
+        <location filename="DlgSettingsInterface.ui" line="883"/>
+        <source>Print size</source>
+        <translation type="unfinished">Dimensioni stampa</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="767"/>
+        <location filename="DlgSettingsInterface.ui" line="869"/>
+        <source>File size</source>
+        <translation type="unfinished">Dimensione file</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="774"/>
+        <location filename="DlgSettingsInterface.ui" line="897"/>
+        <source>Embedded comment</source>
+        <translation type="unfinished">Commento incorporato</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="781"/>
+        <location filename="DlgSettingsInterface.ui" line="904"/>
+        <source>Description</source>
+        <translation type="unfinished">Descrizione</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="890"/>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="1141"/>
         <source>Shortcuts</source>
         <translation>Tasti di scelta rapida</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="987"/>
+        <location filename="DlgSettingsInterface.ui" line="1281"/>
         <source>Shortcut for selected action</source>
         <translation>Tasti di scelta rapida per l&apos;azione selezionata</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1088"/>
+        <location filename="DlgSettingsInterface.ui" line="1382"/>
         <source>Keyboard</source>
         <translation>Tastiera</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1100"/>
+        <location filename="DlgSettingsInterface.ui" line="1394"/>
         <source>Left/Right</source>
         <translation>Sinistra/Destra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1117"/>
+        <location filename="DlgSettingsInterface.ui" line="1411"/>
         <source>Horizontal scroll</source>
         <oldsource>Scroll left/right</oldsource>
         <translation>Scorrimento orizzontale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1122"/>
-        <location filename="DlgSettingsInterface.ui" line="1147"/>
-        <location filename="DlgSettingsInterface.ui" line="1756"/>
-        <location filename="DlgSettingsInterface.ui" line="1790"/>
-        <location filename="DlgSettingsInterface.ui" line="1824"/>
-        <location filename="DlgSettingsInterface.ui" line="1851"/>
+        <location filename="DlgSettingsInterface.ui" line="1416"/>
+        <location filename="DlgSettingsInterface.ui" line="1441"/>
+        <location filename="DlgSettingsInterface.ui" line="2050"/>
+        <location filename="DlgSettingsInterface.ui" line="2084"/>
+        <location filename="DlgSettingsInterface.ui" line="2118"/>
+        <location filename="DlgSettingsInterface.ui" line="2145"/>
         <source>Previous/next file</source>
         <translation>File precedente/seguente</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1127"/>
-        <location filename="DlgSettingsInterface.ui" line="1152"/>
+        <location filename="DlgSettingsInterface.ui" line="1421"/>
+        <location filename="DlgSettingsInterface.ui" line="1446"/>
         <source>Automatic</source>
         <translation>Automatico</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1173"/>
+        <location filename="DlgSettingsInterface.ui" line="1467"/>
         <source>Up/Down</source>
         <translation>Su/Giù</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1265"/>
-        <location filename="DlgSettingsInterface.ui" line="1474"/>
-        <location filename="DlgSettingsInterface.ui" line="1683"/>
-        <location filename="DlgSettingsInterface.ui" line="1774"/>
+        <location filename="DlgSettingsInterface.ui" line="1559"/>
+        <location filename="DlgSettingsInterface.ui" line="1768"/>
+        <location filename="DlgSettingsInterface.ui" line="1977"/>
+        <location filename="DlgSettingsInterface.ui" line="2068"/>
         <source>No modifier</source>
         <translation>Nessun modificatoe</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1307"/>
-        <location filename="DlgSettingsInterface.ui" line="1357"/>
-        <location filename="DlgSettingsInterface.ui" line="1407"/>
-        <location filename="DlgSettingsInterface.ui" line="1447"/>
-        <location filename="DlgSettingsInterface.ui" line="1516"/>
-        <location filename="DlgSettingsInterface.ui" line="1566"/>
-        <location filename="DlgSettingsInterface.ui" line="1616"/>
-        <location filename="DlgSettingsInterface.ui" line="1656"/>
+        <location filename="DlgSettingsInterface.ui" line="1601"/>
+        <location filename="DlgSettingsInterface.ui" line="1651"/>
+        <location filename="DlgSettingsInterface.ui" line="1701"/>
+        <location filename="DlgSettingsInterface.ui" line="1741"/>
+        <location filename="DlgSettingsInterface.ui" line="1810"/>
+        <location filename="DlgSettingsInterface.ui" line="1860"/>
+        <location filename="DlgSettingsInterface.ui" line="1910"/>
+        <location filename="DlgSettingsInterface.ui" line="1950"/>
         <source>Zoom &amp; move</source>
         <translation>Ingrandisci&amp;muovi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1315"/>
-        <location filename="DlgSettingsInterface.ui" line="1524"/>
-        <location filename="DlgSettingsInterface.ui" line="1733"/>
+        <location filename="DlgSettingsInterface.ui" line="1609"/>
+        <location filename="DlgSettingsInterface.ui" line="1818"/>
+        <location filename="DlgSettingsInterface.ui" line="2027"/>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1365"/>
-        <location filename="DlgSettingsInterface.ui" line="1574"/>
-        <location filename="DlgSettingsInterface.ui" line="1740"/>
+        <location filename="DlgSettingsInterface.ui" line="1659"/>
+        <location filename="DlgSettingsInterface.ui" line="1868"/>
+        <location filename="DlgSettingsInterface.ui" line="2034"/>
         <source>Alt</source>
         <translation>Alt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1455"/>
-        <location filename="DlgSettingsInterface.ui" line="1664"/>
-        <location filename="DlgSettingsInterface.ui" line="1808"/>
+        <location filename="DlgSettingsInterface.ui" line="1749"/>
+        <location filename="DlgSettingsInterface.ui" line="1958"/>
+        <location filename="DlgSettingsInterface.ui" line="2102"/>
         <source>Shift</source>
         <translation>Maiusc</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1727"/>
+        <location filename="DlgSettingsInterface.ui" line="2021"/>
         <source>Wheel</source>
         <translation>Rotella</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1142"/>
-        <location filename="DlgSettingsInterface.ui" line="1761"/>
-        <location filename="DlgSettingsInterface.ui" line="1795"/>
-        <location filename="DlgSettingsInterface.ui" line="1829"/>
-        <location filename="DlgSettingsInterface.ui" line="1856"/>
+        <location filename="DlgSettingsInterface.ui" line="1436"/>
+        <location filename="DlgSettingsInterface.ui" line="2055"/>
+        <location filename="DlgSettingsInterface.ui" line="2089"/>
+        <location filename="DlgSettingsInterface.ui" line="2123"/>
+        <location filename="DlgSettingsInterface.ui" line="2150"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
         <translation>Scorrimento verticale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1249"/>
+        <location filename="DlgSettingsInterface.ui" line="1543"/>
         <source>Mouse</source>
         <translation>Mouse</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1259"/>
+        <location filename="DlgSettingsInterface.ui" line="1553"/>
         <source>Left button</source>
         <translation>Pulsante sinistro</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1287"/>
-        <location filename="DlgSettingsInterface.ui" line="1337"/>
-        <location filename="DlgSettingsInterface.ui" line="1387"/>
-        <location filename="DlgSettingsInterface.ui" line="1427"/>
-        <location filename="DlgSettingsInterface.ui" line="1496"/>
-        <location filename="DlgSettingsInterface.ui" line="1546"/>
-        <location filename="DlgSettingsInterface.ui" line="1596"/>
-        <location filename="DlgSettingsInterface.ui" line="1636"/>
-        <location filename="DlgSettingsInterface.ui" line="1702"/>
+        <location filename="DlgSettingsInterface.ui" line="1581"/>
+        <location filename="DlgSettingsInterface.ui" line="1631"/>
+        <location filename="DlgSettingsInterface.ui" line="1681"/>
+        <location filename="DlgSettingsInterface.ui" line="1721"/>
+        <location filename="DlgSettingsInterface.ui" line="1790"/>
+        <location filename="DlgSettingsInterface.ui" line="1840"/>
+        <location filename="DlgSettingsInterface.ui" line="1890"/>
+        <location filename="DlgSettingsInterface.ui" line="1930"/>
+        <location filename="DlgSettingsInterface.ui" line="1996"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
         <translation>Sposta immagine</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1292"/>
-        <location filename="DlgSettingsInterface.ui" line="1342"/>
-        <location filename="DlgSettingsInterface.ui" line="1392"/>
-        <location filename="DlgSettingsInterface.ui" line="1432"/>
-        <location filename="DlgSettingsInterface.ui" line="1501"/>
-        <location filename="DlgSettingsInterface.ui" line="1551"/>
-        <location filename="DlgSettingsInterface.ui" line="1601"/>
-        <location filename="DlgSettingsInterface.ui" line="1641"/>
-        <location filename="DlgSettingsInterface.ui" line="1707"/>
+        <location filename="DlgSettingsInterface.ui" line="1586"/>
+        <location filename="DlgSettingsInterface.ui" line="1636"/>
+        <location filename="DlgSettingsInterface.ui" line="1686"/>
+        <location filename="DlgSettingsInterface.ui" line="1726"/>
+        <location filename="DlgSettingsInterface.ui" line="1795"/>
+        <location filename="DlgSettingsInterface.ui" line="1845"/>
+        <location filename="DlgSettingsInterface.ui" line="1895"/>
+        <location filename="DlgSettingsInterface.ui" line="1935"/>
+        <location filename="DlgSettingsInterface.ui" line="2001"/>
         <source>Make selection</source>
         <translation>Crea selezione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1297"/>
-        <location filename="DlgSettingsInterface.ui" line="1347"/>
-        <location filename="DlgSettingsInterface.ui" line="1397"/>
-        <location filename="DlgSettingsInterface.ui" line="1437"/>
-        <location filename="DlgSettingsInterface.ui" line="1506"/>
-        <location filename="DlgSettingsInterface.ui" line="1556"/>
-        <location filename="DlgSettingsInterface.ui" line="1606"/>
-        <location filename="DlgSettingsInterface.ui" line="1646"/>
-        <location filename="DlgSettingsInterface.ui" line="1712"/>
+        <location filename="DlgSettingsInterface.ui" line="1591"/>
+        <location filename="DlgSettingsInterface.ui" line="1641"/>
+        <location filename="DlgSettingsInterface.ui" line="1691"/>
+        <location filename="DlgSettingsInterface.ui" line="1731"/>
+        <location filename="DlgSettingsInterface.ui" line="1800"/>
+        <location filename="DlgSettingsInterface.ui" line="1850"/>
+        <location filename="DlgSettingsInterface.ui" line="1900"/>
+        <location filename="DlgSettingsInterface.ui" line="1940"/>
+        <location filename="DlgSettingsInterface.ui" line="2006"/>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation>Ingrandisci sulla selezione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1677"/>
+        <location filename="DlgSettingsInterface.ui" line="1971"/>
         <source>Middle button</source>
         <translation>Pulsante centrale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1468"/>
+        <location filename="DlgSettingsInterface.ui" line="1762"/>
         <source>Right button</source>
         <translation>Pulsante destro</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="170"/>
+        <location filename="DlgSettingsInterface.ui" line="214"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
         <translation>Nascondi schede quando solo una è aperta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="395"/>
-        <location filename="DlgSettingsInterface.ui" line="659"/>
-        <location filename="DlgSettingsInterface.ui" line="861"/>
-        <location filename="DlgSettingsInterface.ui" line="1225"/>
+        <location filename="DlgSettingsInterface.ui" line="182"/>
+        <location filename="DlgSettingsInterface.ui" line="439"/>
+        <location filename="DlgSettingsInterface.ui" line="808"/>
+        <location filename="DlgSettingsInterface.ui" line="953"/>
+        <location filename="DlgSettingsInterface.ui" line="1155"/>
+        <location filename="DlgSettingsInterface.ui" line="1519"/>
         <source>Viewer</source>
         <translation>Visualizzazione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="638"/>
+        <location filename="DlgSettingsInterface.ui" line="932"/>
         <source>Context menu</source>
         <translation>Menu contestuale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="649"/>
+        <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Thumbnail</source>
         <translation>Catalogatore - Diapositive</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="654"/>
+        <location filename="DlgSettingsInterface.ui" line="948"/>
         <source>Browser - Preview</source>
         <translation>Catalogatore - Anteprima</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="922"/>
-        <location filename="DlgSettingsInterface.ui" line="965"/>
+        <location filename="DlgSettingsInterface.ui" line="1216"/>
+        <location filename="DlgSettingsInterface.ui" line="1259"/>
         <source>Action</source>
         <translation>Azione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="927"/>
-        <location filename="DlgSettingsInterface.ui" line="970"/>
+        <location filename="DlgSettingsInterface.ui" line="1221"/>
+        <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Shortcut</source>
         <translation>Collegamento</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="932"/>
-        <location filename="DlgSettingsInterface.ui" line="975"/>
+        <location filename="DlgSettingsInterface.ui" line="1226"/>
+        <location filename="DlgSettingsInterface.ui" line="1269"/>
         <source>Command name</source>
         <translation>Nome comando</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1183"/>
+        <location filename="DlgSettingsInterface.ui" line="1477"/>
         <source>SPACE</source>
         <translation>SPAZIO</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1191"/>
-        <location filename="DlgSettingsInterface.ui" line="1511"/>
-        <location filename="DlgSettingsInterface.ui" line="1561"/>
-        <location filename="DlgSettingsInterface.ui" line="1611"/>
-        <location filename="DlgSettingsInterface.ui" line="1651"/>
+        <location filename="DlgSettingsInterface.ui" line="1485"/>
+        <location filename="DlgSettingsInterface.ui" line="1805"/>
+        <location filename="DlgSettingsInterface.ui" line="1855"/>
+        <location filename="DlgSettingsInterface.ui" line="1905"/>
+        <location filename="DlgSettingsInterface.ui" line="1945"/>
         <source>Next file</source>
         <translation>File seguente</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1196"/>
+        <location filename="DlgSettingsInterface.ui" line="1490"/>
         <source>Quick Slideshow</source>
         <translation>Presentazione rapida</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1212"/>
+        <location filename="DlgSettingsInterface.ui" line="1506"/>
         <source>Pressing ESC closes</source>
         <translation>Premendo ESC chiude</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1766"/>
-        <location filename="DlgSettingsInterface.ui" line="1800"/>
-        <location filename="DlgSettingsInterface.ui" line="1834"/>
-        <location filename="DlgSettingsInterface.ui" line="1861"/>
+        <location filename="DlgSettingsInterface.ui" line="2060"/>
+        <location filename="DlgSettingsInterface.ui" line="2094"/>
+        <location filename="DlgSettingsInterface.ui" line="2128"/>
+        <location filename="DlgSettingsInterface.ui" line="2155"/>
         <source>Zoom in/out</source>
         <translation>Ingrandimento/Riduzione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1916"/>
-        <source>Switching mode</source>
-        <translation>Cambio modalità</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsInterface.ui" line="1930"/>
+        <location filename="DlgSettingsInterface.ui" line="2224"/>
         <source>Double click</source>
         <oldsource>Doublie click</oldsource>
         <translation>Doppio clic</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1979"/>
+        <location filename="DlgSettingsInterface.ui" line="2273"/>
         <source>Middle click</source>
         <translation>Clic centrale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2015"/>
+        <location filename="DlgSettingsInterface.ui" line="2309"/>
         <source>Enter</source>
         <translation>Invio</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1938"/>
-        <location filename="DlgSettingsInterface.ui" line="1987"/>
-        <location filename="DlgSettingsInterface.ui" line="2023"/>
+        <location filename="DlgSettingsInterface.ui" line="2232"/>
+        <location filename="DlgSettingsInterface.ui" line="2281"/>
+        <location filename="DlgSettingsInterface.ui" line="2317"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
         <translation>Catalogatore ↔ Schermo intero | Visualizzatore ↔ Schermo intero</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1943"/>
-        <location filename="DlgSettingsInterface.ui" line="1992"/>
-        <location filename="DlgSettingsInterface.ui" line="2028"/>
+        <location filename="DlgSettingsInterface.ui" line="2210"/>
+        <source>Switching modes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="2237"/>
+        <location filename="DlgSettingsInterface.ui" line="2286"/>
+        <location filename="DlgSettingsInterface.ui" line="2322"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
         <translation>Catalogatore ↔ Visualizzatore</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1948"/>
-        <location filename="DlgSettingsInterface.ui" line="1997"/>
-        <location filename="DlgSettingsInterface.ui" line="2033"/>
+        <location filename="DlgSettingsInterface.ui" line="2242"/>
+        <location filename="DlgSettingsInterface.ui" line="2291"/>
+        <location filename="DlgSettingsInterface.ui" line="2327"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
         <translation>Catalogatore → Schermo intero → Visualizzatore</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1953"/>
-        <location filename="DlgSettingsInterface.ui" line="2002"/>
-        <location filename="DlgSettingsInterface.ui" line="2038"/>
+        <location filename="DlgSettingsInterface.ui" line="2247"/>
+        <location filename="DlgSettingsInterface.ui" line="2296"/>
+        <location filename="DlgSettingsInterface.ui" line="2332"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
         <translation>Catalogatore → Visualizzatore → Schermo intero</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="241"/>
-        <location filename="DlgSettingsInterface.ui" line="996"/>
+        <location filename="DlgSettingsInterface.ui" line="285"/>
+        <location filename="DlgSettingsInterface.ui" line="1290"/>
         <source>None</source>
         <translation>Nessuno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1006"/>
+        <location filename="DlgSettingsInterface.ui" line="1300"/>
         <source>Default</source>
         <translation>Predefiniti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1016"/>
+        <location filename="DlgSettingsInterface.ui" line="1310"/>
         <source>Custom</source>
         <translation>Personalizzati</translation>
     </message>
@@ -13528,7 +13522,7 @@ Desiderate riassegnarlo?</translation>
 <context>
     <name>DlgSettingsPanel</name>
     <message>
-        <location filename="DlgSettingsPanel.h" line="89"/>
+        <location filename="DlgSettingsPanel.h" line="94"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
         <translation>Si prega di riavviare l&apos;applicazione.</translation>
@@ -13789,15 +13783,15 @@ Desiderate riassegnarlo?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
-        <location filename="DlgSettingsView.ui" line="1278"/>
+        <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
         <translation>Dimensione automatica immagine</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
-        <location filename="DlgSettingsView.ui" line="1187"/>
-        <location filename="DlgSettingsView.ui" line="1344"/>
+        <location filename="DlgSettingsView.ui" line="1056"/>
+        <location filename="DlgSettingsView.ui" line="1213"/>
         <source>Background color</source>
         <translation>Colore sfondo</translation>
     </message>
@@ -13849,7 +13843,7 @@ Desiderate riassegnarlo?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
-        <location filename="DlgSettingsView.ui" line="1321"/>
+        <location filename="DlgSettingsView.ui" line="1190"/>
         <source>Show scrollbars</source>
         <translation>Mostra barre di scorrimento</translation>
     </message>
@@ -14043,154 +14037,84 @@ Desiderate riassegnarlo?</translation>
         <translation>Casuale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="929"/>
-        <source>StatusBar</source>
-        <translation>Barra di stato</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="935"/>
-        <source>Filename</source>
-        <translation>Nome file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="944"/>
-        <source>File date</source>
-        <translation>Data del file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="952"/>
-        <source>File created date</source>
-        <translation>Data creazione file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="957"/>
-        <source>File modified date</source>
-        <translation>Data modifica file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="962"/>
-        <source>EXIF date taken</source>
-        <translation>EXIF Data cattura</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="967"/>
-        <source>EXIF date modified</source>
-        <translation>EXIF Data modifica</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="990"/>
-        <source>File size</source>
-        <translation>Dimensione file</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="997"/>
-        <source>Properties</source>
-        <translation>Proprietà</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="1004"/>
-        <source>Print size</source>
-        <translation>Dimensioni stampa</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="1011"/>
-        <source>Zoom</source>
-        <translation>Ingrandimento/riduzione</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="1018"/>
-        <source>Embedded comment</source>
-        <translation>Commento incorporato</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="1025"/>
-        <source>Description</source>
-        <translation>Descrizione</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="1046"/>
+        <location filename="DlgSettingsView.ui" line="915"/>
         <source>Info</source>
         <translation>Informazioni</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1251"/>
+        <location filename="DlgSettingsView.ui" line="1120"/>
         <source>Stretch horizontally</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1270"/>
+        <location filename="DlgSettingsView.ui" line="1139"/>
         <source>Fullscreen</source>
         <translation>Schermo intero</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1307"/>
+        <location filename="DlgSettingsView.ui" line="1176"/>
         <source>Show playbar</source>
         <translation>Mostra barra di esecuzione</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1314"/>
+        <location filename="DlgSettingsView.ui" line="1183"/>
         <source>Show info</source>
         <translation>Mostra informazioni</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1328"/>
+        <location filename="DlgSettingsView.ui" line="1197"/>
         <source>Show toolbar</source>
         <translation>Mostra barra degli strumenti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1335"/>
+        <location filename="DlgSettingsView.ui" line="1204"/>
         <source>Hide mouse cursor</source>
         <translation>Nascondi puntatore del mouse</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1369"/>
+        <location filename="DlgSettingsView.ui" line="1238"/>
         <source>Dual monitor: Use second monitor</source>
         <translation>Doppio monitor: usa secondo monitor</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1382"/>
+        <location filename="DlgSettingsView.ui" line="1251"/>
         <source>Floating views</source>
         <translation>Viste galleggianti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1407"/>
+        <location filename="DlgSettingsView.ui" line="1276"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
         <translation>(appaiono quando il puntatore viene mosso all&apos;estremità superiore oppure alla destra dello schermo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1224"/>
+        <location filename="DlgSettingsView.ui" line="1093"/>
         <source>Text color</source>
         <translation>Colore testo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1180"/>
+        <location filename="DlgSettingsView.ui" line="1049"/>
         <source>Font</source>
         <translation>Carattere</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1059"/>
+        <location filename="DlgSettingsView.ui" line="928"/>
         <source>Support HTML tags</source>
         <translation>Supporta tag HTML</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1262"/>
+        <location filename="DlgSettingsView.ui" line="1131"/>
         <source>Always show in fullscreen</source>
         <translation>Mostra sempre a schermo intero</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1244"/>
+        <location filename="DlgSettingsView.ui" line="1113"/>
         <source>Opacity</source>
         <translation>Opacità</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1150"/>
+        <location filename="DlgSettingsView.ui" line="1019"/>
         <source>Position</source>
         <translation>Posizione</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="903"/>
-        <source>Title bar</source>
-        <translation>Barra del titolo</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="769"/>
@@ -18495,7 +18419,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="4733"/>
+        <location filename="ItemModel.cpp" line="4735"/>
         <source>New Folder %1</source>
         <translation>Nuova cartella %1</translation>
     </message>
@@ -19261,42 +19185,42 @@ Volete continuare?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
-        <location filename="DlgSettingsView.cpp" line="301"/>
+        <location filename="DlgSettingsView.cpp" line="272"/>
         <location filename="BrowserMenu.h" line="641"/>
         <source>No fit</source>
         <translation>Nessun adattamento</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
-        <location filename="DlgSettingsView.cpp" line="302"/>
+        <location filename="DlgSettingsView.cpp" line="273"/>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Fit image to window</source>
         <translation>Adatta l&apos;immagine alla finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
-        <location filename="DlgSettingsView.cpp" line="304"/>
+        <location filename="DlgSettingsView.cpp" line="275"/>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Fit image to window, large only</source>
         <translation>Adatta l&apos;immagine alla finestra, solo le grandi</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
-        <location filename="DlgSettingsView.cpp" line="305"/>
+        <location filename="DlgSettingsView.cpp" line="276"/>
         <location filename="BrowserMenu.h" line="645"/>
         <source>Fit image to window width</source>
         <translation>Adatta l&apos;immagine alla larghezza della finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
-        <location filename="DlgSettingsView.cpp" line="306"/>
+        <location filename="DlgSettingsView.cpp" line="277"/>
         <location filename="BrowserMenu.h" line="646"/>
         <source>Fit image to window height</source>
         <translation>Adatta l&apos;immagine all&apos;altezza della finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
-        <location filename="DlgSettingsView.cpp" line="307"/>
+        <location filename="DlgSettingsView.cpp" line="278"/>
         <location filename="BrowserMenu.h" line="647"/>
         <source>Fit image to window width or height</source>
         <translation>Adatta l&apos;immagine alla larghezza od all&apos;altezza della finestra</translation>
@@ -19793,19 +19717,19 @@ Volete continuare?</translation>
         <translation>Apri...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4198"/>
+        <location filename="BrowserWindow.cpp" line="4210"/>
         <location filename="BrowserMenu.h" line="425"/>
         <source>Cut</source>
         <translation>Taglia</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4200"/>
+        <location filename="BrowserWindow.cpp" line="4212"/>
         <location filename="BrowserMenu.h" line="427"/>
         <source>Copy</source>
         <translation>Copia</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4202"/>
+        <location filename="BrowserWindow.cpp" line="4214"/>
         <location filename="BrowserMenu.h" line="432"/>
         <source>Paste</source>
         <translation>Incolla</translation>
@@ -19841,19 +19765,19 @@ Volete continuare?</translation>
         <translation>Seleziona file contrassegnati</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4210"/>
+        <location filename="BrowserWindow.cpp" line="4222"/>
         <location filename="BrowserMenu.h" line="442"/>
         <source>Copy to...</source>
         <translation>Copia in...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4212"/>
+        <location filename="BrowserWindow.cpp" line="4224"/>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Move to...</source>
         <translation>Sposta in...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4205"/>
+        <location filename="BrowserWindow.cpp" line="4217"/>
         <location filename="BrowserMenu.h" line="444"/>
         <source>Delete</source>
         <translation>Elimina</translation>
@@ -20275,7 +20199,7 @@ Volete continuare?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
-        <location filename="DlgSettingsView.cpp" line="303"/>
+        <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Fit image to window, small only</source>
         <translation>Adatta l&apos;immagine alla finestra, solo le piccole</translation>
@@ -20296,12 +20220,12 @@ Volete continuare?</translation>
         <translation>Filtro rapido</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4195"/>
+        <location filename="BrowserWindow.cpp" line="4207"/>
         <source>New Folder</source>
         <translation>Nuova cartella</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4207"/>
+        <location filename="BrowserWindow.cpp" line="4219"/>
         <source>Rename</source>
         <translation>Rinomina</translation>
     </message>
@@ -21101,23 +21025,28 @@ Volete continuare?</translation>
         <translation>Usa motivo a scacchiera</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="514"/>
+        <location filename="ViewMenu.h" line="482"/>
+        <source>Automatic crop...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="515"/>
         <source>Send by email...</source>
         <translation>Invia tramite email...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="527"/>
+        <location filename="ViewMenu.h" line="528"/>
         <source>Paste as image</source>
         <translation>Incolla come immagine</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="726"/>
+        <location filename="ViewMenu.h" line="728"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation type="unfinished">Metadati</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="727"/>
+        <location filename="ViewMenu.h" line="729"/>
         <source>Effect</source>
         <translation>Effetto</translation>
     </message>
@@ -21178,178 +21107,178 @@ Volete continuare?</translation>
         <translation>Rimuovi Sfondo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="483"/>
+        <location filename="ViewMenu.h" line="484"/>
         <source>Rotate 90° right</source>
         <translation>Ruota 90° a destra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="485"/>
+        <location filename="ViewMenu.h" line="486"/>
         <source>Rotate 90° left</source>
         <translation>Ruota 90° sinistra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="487"/>
+        <location filename="ViewMenu.h" line="488"/>
         <source>Flip horizontally</source>
         <translation>Ribaltamento orizzontale</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="488"/>
+        <location filename="ViewMenu.h" line="489"/>
         <source>Flip vertically</source>
         <translation>Ribaltamento verticale</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="489"/>
+        <location filename="ViewMenu.h" line="490"/>
         <source>Automatic Deskew</source>
         <translation>Raddrizzamento automatico</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="490"/>
+        <location filename="ViewMenu.h" line="491"/>
         <source>Remove alpha channel</source>
         <translation>Rimuovi canale alfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="497"/>
+        <location filename="ViewMenu.h" line="498"/>
         <source>Mirror</source>
         <translation>Rispecchia</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="498"/>
+        <location filename="ViewMenu.h" line="499"/>
         <source>Count colors used</source>
         <translation>Conteggio colori impiegati</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="499"/>
+        <location filename="ViewMenu.h" line="500"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
         <translation>Scambia</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="500"/>
+        <location filename="ViewMenu.h" line="501"/>
         <source>Extract channel</source>
         <translation>Estrai canale</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="501"/>
+        <location filename="ViewMenu.h" line="502"/>
         <source>Copy to clipboard</source>
         <translation>Copia negli Appunti Windows</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="502"/>
+        <location filename="ViewMenu.h" line="503"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
         <translation>Incolla speciale</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="504"/>
+        <location filename="ViewMenu.h" line="505"/>
         <source>Adobe Photoshop Plugin...</source>
         <translation>Plugin di Adobe Photoshop...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="507"/>
+        <location filename="ViewMenu.h" line="508"/>
         <source>Edit IPTC...</source>
         <translation>Modifica IPTC...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="508"/>
+        <location filename="ViewMenu.h" line="509"/>
         <source>Edit XMP...</source>
         <translation>Modifica XMP...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="510"/>
+        <location filename="ViewMenu.h" line="511"/>
         <source>Clean metadata...</source>
         <translation>Rimuovi metadati...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="516"/>
+        <location filename="ViewMenu.h" line="517"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Ruota 90° a destra (senza perdite)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="517"/>
+        <location filename="ViewMenu.h" line="518"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Ruota 90° a sinistra (senza perdite)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="518"/>
+        <location filename="ViewMenu.h" line="519"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Ruota 180° (senza perdite)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="521"/>
+        <location filename="ViewMenu.h" line="522"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Ribaltamento orizzontale (senza perdite)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="522"/>
+        <location filename="ViewMenu.h" line="523"/>
         <source>Flip vertically (lossless)</source>
         <translation>Ribaltamento verticale (senza perdite)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="523"/>
+        <location filename="ViewMenu.h" line="524"/>
         <source>Crop (lossless)</source>
         <translation>Ritaglia (senza perdite)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="531"/>
+        <location filename="ViewMenu.h" line="532"/>
         <source>Acquire (TWAIN)</source>
         <translation>Acquisisci (TWAIN)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="532"/>
+        <location filename="ViewMenu.h" line="533"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
         <translation>Acquisisci in (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="535"/>
+        <location filename="ViewMenu.h" line="536"/>
         <source>Save All</source>
         <translation>Salva tutto</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="509"/>
+        <location filename="ViewMenu.h" line="510"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
         <translation>Modifica tavolozza colori...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="484"/>
+        <location filename="ViewMenu.h" line="485"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
         <translation>Ruota 180°</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="519"/>
+        <location filename="ViewMenu.h" line="520"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Ruota in accordo al campo EXIF di orientamento</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="520"/>
+        <location filename="ViewMenu.h" line="521"/>
         <source>Reset EXIF orientation field</source>
         <translation>Reimposta campo EXIF di orientamento</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="524"/>
+        <location filename="ViewMenu.h" line="525"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation type="unfinished">Trasformazioni JPEG senza perdite</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="526"/>
+        <location filename="ViewMenu.h" line="527"/>
         <source>Capture...</source>
         <translation>Cattura...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="528"/>
+        <location filename="ViewMenu.h" line="529"/>
         <source>Empty tab...</source>
         <translation>Scheda vuota...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="530"/>
+        <location filename="ViewMenu.h" line="531"/>
         <source>Select TWAIN source...</source>
         <translation>Seleziona interfaccia TWAIN...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="534"/>
+        <location filename="ViewMenu.h" line="535"/>
         <source>New image...</source>
         <translation>Nuova immagine...</translation>
     </message>
@@ -21537,81 +21466,81 @@ Volete continuare?</translation>
         <translation>Allinea...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="486"/>
+        <location filename="ViewMenu.h" line="487"/>
         <source>Rotate...</source>
         <translation>Ruota...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="492"/>
+        <location filename="ViewMenu.h" line="493"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
         <translation>Ridimensiona...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="493"/>
+        <location filename="ViewMenu.h" line="494"/>
         <source>Canvas resize...</source>
         <translation>Ridimensiona quadro...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="494"/>
+        <location filename="ViewMenu.h" line="495"/>
         <source>Map</source>
         <translation>Mappa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="495"/>
+        <location filename="ViewMenu.h" line="496"/>
         <source>Adjust</source>
         <translation>Regola</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="496"/>
+        <location filename="ViewMenu.h" line="497"/>
         <source>Rotate</source>
         <translation>Ruota</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="511"/>
+        <location filename="ViewMenu.h" line="512"/>
         <source>Join images...</source>
         <translation>Unisci immagini...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="512"/>
+        <location filename="ViewMenu.h" line="513"/>
         <source>Contact sheet...</source>
         <translation>Provini a contatto...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="513"/>
+        <location filename="ViewMenu.h" line="514"/>
         <source>Slideshow...</source>
         <translation>Presentazione...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="722"/>
+        <location filename="ViewMenu.h" line="724"/>
         <source>&amp;File</source>
         <translation>&amp;File</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="723"/>
+        <location filename="ViewMenu.h" line="725"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>&amp;Modifica</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="724"/>
+        <location filename="ViewMenu.h" line="726"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>&amp;Visualizza</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="725"/>
+        <location filename="ViewMenu.h" line="727"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Immagine</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="728"/>
+        <location filename="ViewMenu.h" line="730"/>
         <source>&amp;Tools</source>
         <translation>&amp;Strumenti</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="729"/>
+        <location filename="ViewMenu.h" line="731"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>&amp;?</translation>
@@ -21725,66 +21654,66 @@ Volete continuare?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="250"/>
+        <location filename="DlgSettingsView.cpp" line="223"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Left</source>
         <translation>Superiore-Sinistra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="251"/>
+        <location filename="DlgSettingsView.cpp" line="224"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Top-Center</source>
         <translation>Superiore-Centrale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="252"/>
+        <location filename="DlgSettingsView.cpp" line="225"/>
         <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Top-Right</source>
         <translation>Superiore-Destra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="253"/>
+        <location filename="DlgSettingsView.cpp" line="226"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
         <translation>Centrale-Sinistra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="254"/>
+        <location filename="DlgSettingsView.cpp" line="227"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Center</source>
         <translation>Centrale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="255"/>
+        <location filename="DlgSettingsView.cpp" line="228"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Center-Right</source>
         <translation>Centrale-Destra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="256"/>
+        <location filename="DlgSettingsView.cpp" line="229"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Left</source>
         <translation>Inferiore-Sinistra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="257"/>
+        <location filename="DlgSettingsView.cpp" line="230"/>
         <location filename="DlgSlideshow.cpp" line="52"/>
         <source>Bottom-Center</source>
         <translation>Inferiore-Centrale</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="258"/>
+        <location filename="DlgSettingsView.cpp" line="231"/>
         <location filename="DlgSlideshow.cpp" line="53"/>
         <source>Bottom-Right</source>
         <translation>Inferiore-Destra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="933"/>
+        <location filename="DlgSettingsInterface.cpp" line="1001"/>
         <source>Choose command</source>
         <translation>Scegli comando</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="965"/>
+        <location filename="DlgSettingsInterface.cpp" line="1033"/>
         <source>Choose icon</source>
         <translation>Scegli icona</translation>
     </message>
@@ -21795,7 +21724,7 @@ Volete continuare?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="18"/>
-        <location filename="DlgSettingsView.cpp" line="300"/>
+        <location filename="DlgSettingsView.cpp" line="271"/>
         <source>Last used</source>
         <translation>Ultimo</translation>
     </message>
@@ -22068,20 +21997,20 @@ You can change it in Settings › Catalog.</oldsource>
 Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="603"/>
+        <location filename="MyThumbView.cpp" line="606"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
         <translation>Aggiornamento catalogo, si prega di attendere...</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="617"/>
+        <location filename="MyThumbView.cpp" line="620"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
         <translation>Aggiornamento file, si prega di attendere...</translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1200"/>
-        <location filename="MyThumbView.cpp" line="1213"/>
+        <location filename="MyThumbView.cpp" line="1217"/>
+        <location filename="MyThumbView.cpp" line="1230"/>
         <source>%n object(s)</source>
         <translation>
             <numerusform>%n oggetto</numerusform>
@@ -22089,7 +22018,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1200"/>
+        <location filename="MyThumbView.cpp" line="1217"/>
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
             <numerusform>%n oggetto selezionato [%3 %4]</numerusform>
@@ -22097,7 +22026,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1211"/>
+        <location filename="MyThumbView.cpp" line="1228"/>
         <source>%n object(s) [%2 %3]</source>
         <translation>
             <numerusform>%n oggetto [%2 %3]</numerusform>
@@ -22105,17 +22034,17 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1253"/>
+        <location filename="MyThumbView.cpp" line="1270"/>
         <source>[Free disk space: %1 %2]</source>
         <translation>[Spazio libero sul disco: %1 %2]</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1571"/>
+        <location filename="MyThumbView.cpp" line="1588"/>
         <source>All</source>
         <translation>Tutti</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1575"/>
+        <location filename="MyThumbView.cpp" line="1592"/>
         <source>None</source>
         <translation>Nessuno</translation>
     </message>
@@ -22572,7 +22501,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <translation>Istogramma</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2184"/>
+        <location filename="BrowserWindow.cpp" line="2196"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Clic sulla casella di spunta per variare l&apos;assegnazione
@@ -23169,7 +23098,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4351"/>
+        <location filename="ItemModel.cpp" line="4353"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>È stato rilevato un errore durante la ridenominazione!</translation>
@@ -23319,7 +23248,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
 <context>
     <name>SearchLineEdit</name>
     <message>
-        <location filename="SearchLineEdit.cpp" line="93"/>
+        <location filename="SearchLineEdit.cpp" line="15"/>
         <location filename="SearchLineEdit.cpp" line="112"/>
         <source>Quick filter</source>
         <oldsource>Quick search</oldsource>
@@ -23376,17 +23305,47 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
 <context>
     <name>ToolbarSearch</name>
     <message>
-        <location filename="ToolbarSearch.cpp" line="107"/>
+        <location filename="ToolbarSearch.cpp" line="47"/>
+        <source>Advanced search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ToolbarSearch.cpp" line="145"/>
+        <source>Search in</source>
+        <translation type="unfinished">Cerca in</translation>
+    </message>
+    <message>
+        <location filename="ToolbarSearch.cpp" line="151"/>
+        <source>IPTC fields</source>
+        <translation type="unfinished">Campi IPTC</translation>
+    </message>
+    <message>
+        <location filename="ToolbarSearch.cpp" line="159"/>
+        <source>Embedded comment</source>
+        <translation type="unfinished">Commento incorporato</translation>
+    </message>
+    <message>
+        <location filename="ToolbarSearch.cpp" line="164"/>
+        <source>Description</source>
+        <translation type="unfinished">Descrizione</translation>
+    </message>
+    <message>
+        <location filename="ToolbarSearch.cpp" line="169"/>
+        <source>Categories (catalog)</source>
+        <translation type="unfinished">Categorie (catalogo)</translation>
+    </message>
+    <message>
+        <location filename="ToolbarSearch.cpp" line="181"/>
         <source>No Recent Searches</source>
         <translation>Nesssuna ricerca recente</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="111"/>
+        <location filename="ToolbarSearch.cpp" line="185"/>
         <source>Recent Searches</source>
         <translation>Ricerche recenti</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="119"/>
+        <location filename="ToolbarSearch.cpp" line="197"/>
         <source>Clear Recent Searches</source>
         <translation>Rimuovi ricerche recenti</translation>
     </message>

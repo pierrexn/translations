@@ -8138,7 +8138,7 @@ Thank you for purchasing %1.</source>
         <translation>Հեռացնել խորքը</translation>
     </message>
     <message>
-        <source>Please install it by using Tools � Plugins</source>
+        <source>Please install it by using Tools › Plugins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8836,74 +8836,6 @@ Do you want to remove them?</source>
         <translation>Սղեցնելով դիտել բովանդակությունը</translation>
     </message>
     <message>
-        <source>Title bar</source>
-        <translation>Անվանման փեղկ</translation>
-    </message>
-    <message>
-        <source>Search in</source>
-        <translation>Որոնել՝</translation>
-    </message>
-    <message>
-        <source>IPTC fields</source>
-        <translation>IPTC դաշտեր</translation>
-    </message>
-    <message>
-        <source>XMP fields</source>
-        <translation>XMP դաշտեր</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation>Ներկառուցված մեկնաբանություն</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation>Նկարագրություն</translation>
-    </message>
-    <message>
-        <source>StatusBar</source>
-        <translation>Վիճակի գոտի</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation>Ֆայլի անուն</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Հատկություններ</translation>
-    </message>
-    <message>
-        <source>Print size</source>
-        <translation>Տպելու չափ</translation>
-    </message>
-    <message>
-        <source>File size</source>
-        <translation>Ֆայլի չափ</translation>
-    </message>
-    <message>
-        <source>File date</source>
-        <translation>Ֆայլի ամսաթիվ</translation>
-    </message>
-    <message>
-        <source>File created date</source>
-        <translation>Ֆայլը ստեղծելու ամսաթիվ</translation>
-    </message>
-    <message>
-        <source>File modified date</source>
-        <translation>Ֆայլի փոփոխման ամսաթիվ</translation>
-    </message>
-    <message>
-        <source>EXIF date modified</source>
-        <translation>EXIF տվյալը փոփոխվել է</translation>
-    </message>
-    <message>
-        <source>EXIF date taken</source>
-        <translation>Վերցված է EXIF ամսաթիվը</translation>
-    </message>
-    <message>
-        <source>Categories (catalog)</source>
-        <translation>Անվանակարգեր (գրացուցակ)</translation>
-    </message>
-    <message>
         <source>Clear the list of tagged files</source>
         <translation>Մաքրել կցված ֆայլերի ցուցակը</translation>
     </message>
@@ -8966,10 +8898,6 @@ Do you want to remove them?</source>
     <message>
         <source>Rating</source>
         <translation>Գնահատական</translation>
-    </message>
-    <message>
-        <source>Quick filter</source>
-        <translation>Արագ զտիչ</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -9692,10 +9620,6 @@ Thumbnail</source>
         <translation>&apos;Պահել որպես&apos;-ի համար օգտ. բնօրինակ ձևաչափ</translation>
     </message>
     <message>
-        <source>Duplicate files</source>
-        <translation>Կրկնօրինակել ֆայլերը</translation>
-    </message>
-    <message>
         <source>&lt;Filename&gt; - Copy (#)</source>
         <translation>&lt;Filename&gt; - Պատճենել (#)</translation>
     </message>
@@ -9818,6 +9742,10 @@ Thumbnail</source>
     <message>
         <source>Save changes to file</source>
         <translation type="unfinished">Պահել փոփոխությունները ֆայլում</translation>
+    </message>
+    <message>
+        <source>Duplicate files naming</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10166,10 +10094,6 @@ Do you want to reassign?</source>
         <translation>Չափի որոշում</translation>
     </message>
     <message>
-        <source>Switching mode</source>
-        <translation>Փոխանջատելու կերպ</translation>
-    </message>
-    <message>
         <source>Automatic</source>
         <translation>Ինքնաշխատ</translation>
     </message>
@@ -10324,6 +10248,66 @@ Do you want to reassign?</source>
     <message>
         <source>Hide Tab header when only one is opened</source>
         <translation>Թաքցնել ներդիրի գլխագիրը միայն, երբ մեկը բաց է</translation>
+    </message>
+    <message>
+        <source>TitleBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StatusBar</source>
+        <translation type="unfinished">Վիճակի գոտի</translation>
+    </message>
+    <message>
+        <source>File date</source>
+        <translation type="unfinished">Ֆայլի ամսաթիվ</translation>
+    </message>
+    <message>
+        <source>File created date</source>
+        <translation type="unfinished">Ֆայլի ստեղծելու ամսաթիվ</translation>
+    </message>
+    <message>
+        <source>File modified date</source>
+        <translation type="unfinished">Ֆայլի ամսաթվի փոփոխում</translation>
+    </message>
+    <message>
+        <source>EXIF date taken</source>
+        <translation type="unfinished">Վերցված է EXIF ամսաթիվը</translation>
+    </message>
+    <message>
+        <source>EXIF date modified</source>
+        <translation type="unfinished">EXIF տվյալը փոփոխվել է</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="unfinished">Ֆայլի անուն</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print size</source>
+        <translation type="unfinished">Տպելու չափ</translation>
+    </message>
+    <message>
+        <source>File size</source>
+        <translation type="unfinished">Ֆայլի չափ</translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="unfinished">Ներկառուցված մեկնաբանություն</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Նկարագրություն</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switching modes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10808,10 +10792,6 @@ Do you want to reassign?</source>
         <translation>Ցուցադրել Ոլորագոտիները</translation>
     </message>
     <message>
-        <source>Title bar</source>
-        <translation>Անվանման փեղկ</translation>
-    </message>
-    <message>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <translation>Չափափոխել HiDPI էկրանին. 1 պատկերի փիքսելը հավասար է 1 էկրանի փիքսելի</translation>
     </message>
@@ -10858,58 +10838,6 @@ Do you want to reassign?</source>
     <message>
         <source>Zoom In</source>
         <translation>Մեծացնել</translation>
-    </message>
-    <message>
-        <source>StatusBar</source>
-        <translation>Վիճակի գոտի</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation>Ֆայլի անուն</translation>
-    </message>
-    <message>
-        <source>File date</source>
-        <translation>Ֆայլի ամսաթիվ</translation>
-    </message>
-    <message>
-        <source>File created date</source>
-        <translation>Ֆայլի ստեղծելու ամսաթիվ</translation>
-    </message>
-    <message>
-        <source>File modified date</source>
-        <translation>Ֆայլի փոփոխման ամսաթիվ</translation>
-    </message>
-    <message>
-        <source>EXIF date taken</source>
-        <translation>Վերցված է EXIF ամսաթիվը</translation>
-    </message>
-    <message>
-        <source>EXIF date modified</source>
-        <translation>EXIF տվյալը փոփոխվել է</translation>
-    </message>
-    <message>
-        <source>File size</source>
-        <translation>Ֆայլի չափ</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Հատկություններ</translation>
-    </message>
-    <message>
-        <source>Print size</source>
-        <translation>Տպելու չափ</translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation>Չափափոխել</translation>
-    </message>
-    <message>
-        <source>Embedded comment</source>
-        <translation>Ներկառուցված մեկնաբանություն</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation>Նկարագրություն</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -16597,6 +16525,10 @@ Do you want to continue?</source>
         <source>Set Color label</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic crop...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -17946,6 +17878,30 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <source>Clear Recent Searches</source>
         <translation>Մաքրել վերջին որոնումը</translation>
+    </message>
+    <message>
+        <source>Advanced search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Որոնել՝</translation>
+    </message>
+    <message>
+        <source>IPTC fields</source>
+        <translation type="unfinished">IPTC դաշտեր</translation>
+    </message>
+    <message>
+        <source>Embedded comment</source>
+        <translation type="unfinished">Ներկառուցված մեկնաբանություն</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Նկարագրություն</translation>
+    </message>
+    <message>
+        <source>Categories (catalog)</source>
+        <translation type="unfinished">Անվանակարգեր (գրացուցակ)</translation>
     </message>
 </context>
 <context>
