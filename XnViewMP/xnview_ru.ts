@@ -10491,7 +10491,8 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагин не установлен.
+Пожалуйста, установите его с помощью Инструменты › Плагины</translation>
     </message>
 </context>
 <context>
@@ -10552,7 +10553,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="92"/>
         <source>Duplicate...</source>
-        <translation>Дублирование...</translation>
+        <translation>Дубликаты...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="121"/>
@@ -10675,7 +10676,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRenameDup.ui" line="13"/>
         <source>Duplicate name</source>
-        <translation>Дублирование</translation>
+        <translation>Именование дубликатов</translation>
     </message>
     <message>
         <location filename="DlgRenameDup.ui" line="21"/>
@@ -11080,7 +11081,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation>&amp;Использовать регулярное выражение</translation>
+        <translation>&amp;Использовать регулярные выражения</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
@@ -12404,7 +12405,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">Именование дубликатов файлов</translation>
+        <translation>Именование дубликатов файлов</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="501"/>
@@ -13053,83 +13054,83 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок окна</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished">Строка состояния</translation>
+        <translation>Строка состояния</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="700"/>
         <location filename="DlgSettingsInterface.ui" line="816"/>
         <source>File date</source>
-        <translation type="unfinished">Дата файла</translation>
+        <translation>Дата файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="708"/>
         <location filename="DlgSettingsInterface.ui" line="824"/>
         <source>File created date</source>
-        <translation type="unfinished">Дата создания файла</translation>
+        <translation>Дата создания файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="713"/>
         <location filename="DlgSettingsInterface.ui" line="829"/>
         <source>File modified date</source>
-        <translation type="unfinished">Дата изменения файла</translation>
+        <translation>Дата изменения файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="718"/>
         <location filename="DlgSettingsInterface.ui" line="834"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished">Дата съёмки EXIF</translation>
+        <translation>Дата съёмки EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="723"/>
         <location filename="DlgSettingsInterface.ui" line="839"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished">Дата изменения EXIF</translation>
+        <translation>Дата изменения EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="746"/>
         <location filename="DlgSettingsInterface.ui" line="862"/>
         <source>Filename</source>
-        <translation type="unfinished">Имя файла</translation>
+        <translation>Имя файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="753"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">Размер при печати</translation>
+        <translation>Размер при печати</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="869"/>
         <source>File size</source>
-        <translation type="unfinished">Размер файла</translation>
+        <translation>Размер файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Встроенный комментарий</translation>
+        <translation>Встроенный комментарий</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">Описание</translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">Масштаб</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="932"/>
@@ -13261,7 +13262,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение режимов</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -20784,7 +20785,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить копию...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="306"/>
@@ -21132,7 +21133,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Автообрезка...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="515"/>
@@ -23422,47 +23423,47 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенный поиск</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Искать в</translation>
+        <translation>Искать в</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">Поля IPTC</translation>
+        <translation>Поля IPTC</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Встроенный комментарий</translation>
+        <translation>Встроенный комментарий</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Описание</translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Категории (Каталог)</translation>
+        <translation>Категории (Каталог)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="181"/>
         <source>No Recent Searches</source>
-        <translation>Нет сохраненных поисков</translation>
+        <translation>Нет недавних поисков</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="185"/>
         <source>Recent Searches</source>
-        <translation>Сохраненные поиски</translation>
+        <translation>Недавние поиски</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="197"/>
         <source>Clear Recent Searches</source>
-        <translation>Очистить сохраненные поиски</translation>
+        <translation>Очистить недавние поиски</translation>
     </message>
 </context>
 <context>
