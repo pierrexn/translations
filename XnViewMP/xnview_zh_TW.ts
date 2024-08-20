@@ -13243,7 +13243,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение режимов</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
