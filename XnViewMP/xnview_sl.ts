@@ -10458,7 +10458,7 @@ Hvala za nakup %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Namestite ga z uporabo Orodja › Vtičniki</translation>
     </message>
 </context>
 <context>
@@ -12329,7 +12329,7 @@ sličico</translation>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">Podvojene datoteke</translation>
+        <translation>Poimenovanje podvojenih datotek</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
@@ -12955,7 +12955,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslovna vrstica</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -12977,78 +12977,78 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished">Statusna vrstica</translation>
+        <translation>Statusna vrstica</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="700"/>
         <location filename="DlgSettingsInterface.ui" line="816"/>
         <source>File date</source>
-        <translation type="unfinished">Datum datoteke</translation>
+        <translation>Datum datoteke</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="708"/>
         <location filename="DlgSettingsInterface.ui" line="824"/>
         <source>File created date</source>
-        <translation type="unfinished">Datum nastanka datoteke</translation>
+        <translation>Datum nastanka datoteke</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="713"/>
         <location filename="DlgSettingsInterface.ui" line="829"/>
         <source>File modified date</source>
-        <translation type="unfinished">Datum spremembe datoteke</translation>
+        <translation>Datum spremembe datoteke</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="718"/>
         <location filename="DlgSettingsInterface.ui" line="834"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished">EXIF datum posnetka</translation>
+        <translation>EXIF datum posnetka</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="723"/>
         <location filename="DlgSettingsInterface.ui" line="839"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished">EXIF datum spremembe</translation>
+        <translation>EXIF datum spremembe</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="746"/>
         <location filename="DlgSettingsInterface.ui" line="862"/>
         <source>Filename</source>
-        <translation type="unfinished">Ime datoteke</translation>
+        <translation>Ime datoteke</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="753"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished">Lastnosti</translation>
+        <translation>Lastnosti</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">Velikost izpisa</translation>
+        <translation>Velikost izpisa</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="869"/>
         <source>File size</source>
-        <translation type="unfinished">Velikost datoteke</translation>
+        <translation>Velikost datoteke</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Vdelan komentar</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">Povečava</translation>
+        <translation>Povečava</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1141"/>
@@ -13322,7 +13322,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklapljanje načinov</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -21246,7 +21246,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno obrezovanje...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
@@ -23348,32 +23348,32 @@ Desni klik za pojavni meni z ukrepi.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Napredno iskanje</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Išči v</translation>
+        <translation>Išči v</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">IPTC poljih</translation>
+        <translation>IPTC poljih</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Vdelan komentar</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Razredi (katalog)</translation>
+        <translation>Kategorije (katalog)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="181"/>
