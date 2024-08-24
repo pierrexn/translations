@@ -1242,7 +1242,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="2387"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
-        <translation>Изменение кол-ва точек/дюйм</translation>
+        <translation>Изменение DPI</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2426"/>
@@ -3613,7 +3613,7 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1635"/>
         <source>Export script</source>
-        <translation>Экспортировать сценарий</translation>
+        <translation>Экспортировать скрипт</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1641"/>
@@ -4871,7 +4871,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1970"/>
         <location filename="DlgConvert-old.ui" line="1916"/>
         <source>Export for NConvert...</source>
-        <translation>Экспортировать сценарий для NConvert...</translation>
+        <translation>Экспортировать для NConvert...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="2018"/>
@@ -7866,7 +7866,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
         <source>Export all files from catalog</source>
-        <translation>Экспортировать все файлы из каталога</translation>
+        <translation>Экспортировать все файлы из Каталога</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.h" line="37"/>
@@ -11236,7 +11236,7 @@ Do you want to remove them?</source>
         <location filename="DlgSetDpi.ui" line="14"/>
         <source>Set DPI</source>
         <oldsource>Change DPI</oldsource>
-        <translation>Изменение кол-ва точек/дюйм</translation>
+        <translation>Изменение DPI</translation>
     </message>
     <message>
         <location filename="DlgSetDpi.ui" line="122"/>
@@ -12181,7 +12181,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="126"/>
         <source>Adjust image if X/Y DPI are different</source>
         <oldsource>Adjust zoom if X/Y DPI are different</oldsource>
-        <translation>Изменять изображение, если кол-во точек/дюйм по X/Y различны</translation>
+        <translation>Изменять изображение, если X/Y DPI различны</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="312"/>
@@ -21176,7 +21176,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="453"/>
         <source>Set DPI...</source>
-        <translation>Изменить кол-во точек/дюйм...</translation>
+        <translation>Изменить DPI...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="471"/>
@@ -21247,7 +21247,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="498"/>
         <source>Mirror</source>
-        <translation>Зеркально</translation>
+        <translation>Отразить</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="499"/>
