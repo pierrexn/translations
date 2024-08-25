@@ -1778,7 +1778,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1731"/>
         <source>Frame</source>
-        <translation type="unfinished">Fotogramma</translation>
+        <translation>Cornice</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1732"/>
@@ -5772,7 +5772,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished">Affianca</translation>
+        <translation>Affianca</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6705,7 +6705,7 @@ Volete continuare?</translation>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Affianca</translation>
+        <translation>Affianca</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -12384,7 +12384,7 @@ miniatura</translation>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">Nome dei file duplicato</translation>
+        <translation>Nome dei file duplicati</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
@@ -13014,7 +13014,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">Scala</translation>
+        <translation>Scala</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1141"/>
@@ -13823,7 +13823,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>High zoom quality</source>
-        <translation type="unfinished">Alta qualità di scala</translation>
+        <translation>Alta qualità di scala</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
@@ -21017,7 +21017,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="439"/>
         <source>High zoom quality</source>
-        <translation type="unfinished">Alta qualità di scala</translation>
+        <translation>Alta qualhttps://translation.xnview.com/translate/xnview-mp/general/it/?q=state%3A%3Ctranslated&amp;offset=8ità di scala</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="440"/>
