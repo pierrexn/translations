@@ -224,7 +224,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista zmian</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -1055,7 +1055,7 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne dopasowanie</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -1597,7 +1597,7 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Ekspozycja</translation>
+        <translation>Ekspozycja</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -1765,52 +1765,52 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1726"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1729"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanał</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1730"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwydatnienie</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1731"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramka</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1732"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadane</translation>
+        <translation>Metadane</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1733"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Szum</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1734"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikselizacja</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1735"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Stylizacja</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1736"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Przekształcenie</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
         <source>Video</source>
-        <translation type="unfinished">Wideo</translation>
+        <translation>Wideo</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -3029,7 +3029,7 @@ Czy nadpisać ten plik?</translation>
         <location filename="DlgCapture.ui" line="284"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Ukryj XnView</translation>
+        <translation>Ukryj XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="291"/>
@@ -3780,7 +3780,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1596"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Usuń pliki z listy plików</translation>
+        <translation>Usuń plik z listy plików</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1603"/>
@@ -4222,7 +4222,7 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Zaokrąglone krawędzie</translation>
+        <translation>Zaokrąglone narożniki</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4667,17 +4667,17 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj oryginał</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Pierwszy plik</translation>
+        <translation>Pierwszy plik</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Ostatni plik</translation>
+        <translation>Ostatni plik</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1085"/>
@@ -5782,12 +5782,12 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Rozciągnij maskę</translation>
+        <translation>Rozciągnij</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Sąsiadująco</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6714,13 +6714,13 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozciągnięcie</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Mozaika</translation>
+        <translation>Sąsiadująco</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -8849,12 +8849,12 @@ Zostaną utworzone podfoldery. </translation>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># - kolejne liczby</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder wejściowy</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -10403,7 +10403,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Nazwisko/Nazwa firmy:</translation>
+        <translation>Nazwisko/Nazwa firmy:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10440,7 +10440,7 @@ Dziękujmy za zakup %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę zainstalować przy użyciu Narzędzia &gt; Wtyczki</translation>
     </message>
 </context>
 <context>
@@ -11025,22 +11025,22 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Używaj &amp;wyrażeń regularnych</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;older</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwzględniaj wielkość &amp;liter</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwzględniaj &amp;podfoldery</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -11090,17 +11090,17 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Wstecz</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Szukaj</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przeglądaj...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="238"/>
@@ -11126,7 +11126,7 @@ Czy chcesz je usunąć?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Nazwa pliku</translation>
+        <translation>&amp;Nazwa pliku</translation>
     </message>
 </context>
 <context>
@@ -12107,7 +12107,7 @@ miniatury</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Zezwalaj tylko na jedną instancję XnView</translation>
+        <translation>Zezwalaj tylko na jedną instancję aplikacji</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="119"/>
@@ -12342,7 +12342,7 @@ miniatury</translation>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">Zmiana nazw duplikatów plików</translation>
+        <translation>Zmiana nazw duplikatów plików</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="501"/>
@@ -12352,7 +12352,7 @@ miniatury</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">Zapisuj zmiany do pliku</translation>
+        <translation>Zapisz zmiany do pliku</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="574"/>
@@ -12989,83 +12989,83 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasek tytułu</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished">Pasek stanu</translation>
+        <translation>Pasek stanu</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="700"/>
         <location filename="DlgSettingsInterface.ui" line="816"/>
         <source>File date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data pliku</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="708"/>
         <location filename="DlgSettingsInterface.ui" line="824"/>
         <source>File created date</source>
-        <translation type="unfinished">Data utworzenia pliku</translation>
+        <translation>Data utworzenia pliku</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="713"/>
         <location filename="DlgSettingsInterface.ui" line="829"/>
         <source>File modified date</source>
-        <translation type="unfinished">Data modyfikacji pliku</translation>
+        <translation>Data modyfikacji pliku</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="718"/>
         <location filename="DlgSettingsInterface.ui" line="834"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished"></translation>
+        <translation>Data wykonania EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="723"/>
         <location filename="DlgSettingsInterface.ui" line="839"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Data modyfikacji EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="746"/>
         <location filename="DlgSettingsInterface.ui" line="862"/>
         <source>Filename</source>
-        <translation type="unfinished">Nazwa pliku</translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="753"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished">Właściwości</translation>
+        <translation>Właściwości</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">Rozmiar wydruku</translation>
+        <translation>Rozmiar wydruku</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="869"/>
         <source>File size</source>
-        <translation type="unfinished">Rozmiar pliku</translation>
+        <translation>Rozmiar pliku</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Komentarz osadzony</translation>
+        <translation>Komentarz osadzony</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">Powiększenie</translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="932"/>
@@ -13197,7 +13197,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełączanie trybów</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -14069,7 +14069,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="1120"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozciągaj w poziomie</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1139"/>
@@ -15501,25 +15501,25 @@ Czy chcesz kontynuować?</translation>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Na środku</translation>
+        <translation>Do środka</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Kafelek</translation>
+        <translation>Kafelek</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Kafelki od środka</translation>
+        <translation>Kafelki od środka</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Rozciągnięcie</translation>
+        <translation>Rozciągnięcie</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16187,7 +16187,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Małe miniatury</translation>
+        <translation>Małe miniatury</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16198,7 +16198,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Duże miniatury</translation>
+        <translation>Duże miniatury</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16291,7 +16291,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="ThumbInfo.cpp" line="171"/>
         <source>EXIF Date modified</source>
-        <translation>EXIF: data modyfikacji</translation>
+        <translation>Data modyfikacji EXIF</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="172"/>
@@ -16798,7 +16798,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pliku (ostatni numer)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="404"/>
@@ -18145,7 +18145,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod kraju</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -18429,7 +18429,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1054"/>
         <source>EXIF Date Modified</source>
-        <translation>EXIF: data modyfikacji</translation>
+        <translation>Data modyfikacji EXIF</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1060"/>
@@ -19116,17 +19116,17 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw ocenę</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw kolorową etykietę</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw kategorię</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
@@ -19409,7 +19409,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="670"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Pusta karta</translation>
+        <translation>Pusta karta</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="672"/>
@@ -19987,7 +19987,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="581"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Bezstratne przekształcenia JPEG</translation>
+        <translation>Bezstratne przekształcenia JPEG</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="583"/>
@@ -21077,7 +21077,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="728"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Metadane</translation>
+        <translation>&amp;Metadane</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="729"/>
@@ -21092,7 +21092,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako kopię...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="316"/>
@@ -21137,12 +21137,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw ocenę</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw kolorową etykietę</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21289,7 +21289,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne przycinanie...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
@@ -21506,7 +21506,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="525"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Bezstratne przekształcenia JPEG</translation>
+        <translation>Bezstratne przekształcenia JPEG</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="527"/>
@@ -21662,13 +21662,13 @@ Czy chcesz kontynuować?</translation>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako kopię</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
@@ -22010,7 +22010,7 @@ Czy chcesz kontynuować?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">Wielkość miniatur w katalogu jest mniejsza niż wybrany rozmiar.
+        <translation>Wielkość buforowanych miniatur jest mniejsza niż wybrany rozmiar.
 Można go zmienić w Ustawienia&gt;Katalog</translation>
     </message>
     <message>
@@ -22465,7 +22465,7 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Rozciągnij obraz</translation>
+        <translation>Rozciągnij obraz</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -23327,32 +23327,32 @@ Kliknij prawym przyciskiem myszy, aby wyświetlić menu z akcjami.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukiwanie zaawansowane</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Szukaj w</translation>
+        <translation>Szukaj w</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">Polach IPTC</translation>
+        <translation>Polach IPTC</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Komentarz osadzony</translation>
+        <translation>Osadzonym komentarzu</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opisie</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Kategoriach (katalogu)</translation>
+        <translation>Kategoriach (katalogu)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="181"/>
@@ -23677,7 +23677,7 @@ Czy chcesz zachować miniatury?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy zapisać obecną sesję?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
