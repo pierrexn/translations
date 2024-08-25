@@ -224,7 +224,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Elenco delle modifiche</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -484,7 +484,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4707"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnViewMP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
+        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnView MP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4708"/>
@@ -588,7 +588,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="901"/>
         <source>The database is corrupted, please check it before to continue!</source>
-        <translation>La banca dati è danneggata, si prega di verificarla prima di continuare!</translation>
+        <translation>La banca dati è danneggiata, si prega di verificarla prima di continuare!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1631"/>
@@ -1053,7 +1053,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Adattamento automatico</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -1595,7 +1595,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Esposizione</translation>
+        <translation>Esposizione</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -1763,52 +1763,52 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1726"/>
         <source>Add</source>
-        <translation type="unfinished">Aggiungi</translation>
+        <translation>Aggiungi</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1729"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Canale</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1730"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Migliora</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1731"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fotogramma</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1732"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadati</translation>
+        <translation>Metadati</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1733"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumore</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1734"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixelato</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1735"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilizza</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1736"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasforma</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
         <source>Video</source>
-        <translation type="unfinished">Video</translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -3020,7 +3020,7 @@ Si desidera sovrascriverlo?</translation>
         <location filename="DlgCapture.ui" line="284"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Nascondi XnViewMP</translation>
+        <translation>Nascondi XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="291"/>
@@ -3766,7 +3766,7 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1596"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Rimuovi file dall&apos;elenco di file</translation>
+        <translation>Rimuovi file dall&apos;elenco di file</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1603"/>
@@ -4206,7 +4206,7 @@ Volete continuare?</translation>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Bordo arrotondato</translation>
+        <translation>Angolo arrotondato</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4962,7 +4962,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra l&apos;originale</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="267"/>
@@ -4977,12 +4977,12 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">File iniziale</translation>
+        <translation>File iniziale</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">File finale</translation>
+        <translation>File finale</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="931"/>
@@ -5767,12 +5767,12 @@ Volete continuare?</translation>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Adatta maschera</translation>
+        <translation>Estendi</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Affianca</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6699,7 +6699,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Estendi</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
@@ -7990,7 +7990,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgFileAssociation.ui" line="20"/>
         <source>Select the file-types which you would like to associate with XnViewMP
 (E.g. when double-clicking on a file to open under Windows Explorer)</source>
-        <translation>Selezionate i tipi di file che desiderate associare ad XnViewMP
+        <translation>Selezionate i tipi di file che desiderate associare ad XnView MP
 (es. quando fate doppio-clic in Esplora risorse su un file da aprire)</translation>
     </message>
     <message>
@@ -8016,7 +8016,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgFileAssociation.ui" line="87"/>
         <source>Unregister XnViewMP</source>
-        <translation>Deregistra XnViewMP</translation>
+        <translation>Deregistra XnView MP</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="111"/>
@@ -8834,12 +8834,12 @@ Saranno create delle sottocartelle. </translation>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># enumeratore per</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella di ingresso</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -10388,7 +10388,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Nome/Nome della Società:</translation>
+        <translation>Nome/Nome della Società:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10425,7 +10425,7 @@ Grazie per aver acquistato %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Si prega di installarlo utilizzando Strumenti › Plugin</translation>
     </message>
 </context>
 <context>
@@ -11011,22 +11011,22 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usa Espressione Regolare (RegExp)</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Distingui maiuscole/minuscole</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Includere le cartelle</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -11076,17 +11076,17 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Indietro</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfoglia...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="238"/>
@@ -11112,7 +11112,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Nome file</translation>
+        <translation>Nome file</translation>
     </message>
 </context>
 <context>
@@ -11526,7 +11526,7 @@ Volete rilevare questi casi per prima di iniziare?</translation>
         <location filename="DlgSettingsCache.cpp" line="921"/>
         <source>Category tree successfully imported into XnView categories</source>
         <oldsource>Category tree was successfully imported in XnView&apos;s Category catalog</oldsource>
-        <translation>La gerarchia delle categorie è stata importata correttamente nelle categorie di XnViewMP</translation>
+        <translation>La gerarchia delle categorie è stata importata correttamente nelle categorie di XnView MP</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
@@ -12215,7 +12215,7 @@ miniatura</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Consenti una sola istanza di XnViewMP</translation>
+        <translation>Consenti una sola istanza dell&apos;applicazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
@@ -12384,12 +12384,12 @@ miniatura</translation>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">File duplicati</translation>
+        <translation type="unfinished">Nome dei file duplicato</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">Salva modifiche al file</translation>
+        <translation>Salva modifiche al file</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="616"/>
@@ -12496,7 +12496,7 @@ miniatura</translation>
         <location filename="DlgStartupWizard.cpp" line="32"/>
         <location filename="DlgStartupWizard.cpp" line="146"/>
         <source>Program (XnView)</source>
-        <translation>Programma (XnViewMP)</translation>
+        <translation>Programma (XnView MP)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12520,7 +12520,7 @@ miniatura</translation>
         <location filename="DlgSettingsIntegration.cpp" line="130"/>
         <location filename="DlgSettingsIntegration.cpp" line="131"/>
         <source>Browse with XnViewMP</source>
-        <translation>Visualizza con XnViewMP</translation>
+        <translation>Sfoglia con XnView MP</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="315"/>
@@ -12530,17 +12530,17 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="315"/>
         <source>Please be careful to folder rights by using XnView folder</source>
-        <translation>Si prega di fare attenzione ai privilegi delle cartelle usando la cartella di XnViewMP</translation>
+        <translation>Si prega di fare attenzione ai privilegi delle cartelle usando la cartella di XnView MP</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="461"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
-        <translation>XnViewMP è un veloce convertitore, visualizzatore e catalogatore multiformato. Legge più di 400 formati di file.</translation>
+        <translation>XnView MP è un veloce convertitore, visualizzatore e catalogatore multiformato. Legge più di 400 formati di file.</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="462"/>
         <source>XnViewMP for Windows</source>
-        <translation>XnViewMP per Windows</translation>
+        <translation>XnView MP per Windows</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="478"/>
@@ -12555,7 +12555,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="713"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Si prega di avviare XnViewMP con i privilegi di Amministratore (solo la prima volta).</translation>
+        <translation>Si prega di avviare XnView MP con i privilegi di Amministratore (solo la prima volta).</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.cpp" line="30"/>
@@ -12574,7 +12574,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="42"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Aggiungi &apos;Visualizza con XnViewMP&apos; al menu contestuale (richiede privilegi di Amministratore)</translation>
+        <translation>Aggiungi &apos;Visualizza con XnView MP&apos; al menu contestuale (richiede privilegi di Amministratore)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
@@ -12605,7 +12605,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="93"/>
         <source>XnView settings</source>
-        <translation>Impostazioni XnViewMP</translation>
+        <translation>Impostazioni XnView MP</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="104"/>
@@ -12921,7 +12921,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra del titolo</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -12943,78 +12943,78 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished">Barra di stato</translation>
+        <translation>Barra di stato</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="700"/>
         <location filename="DlgSettingsInterface.ui" line="816"/>
         <source>File date</source>
-        <translation type="unfinished">Data del file</translation>
+        <translation>Data del file</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="708"/>
         <location filename="DlgSettingsInterface.ui" line="824"/>
         <source>File created date</source>
-        <translation type="unfinished">Data creazione file</translation>
+        <translation>Data creazione file</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="713"/>
         <location filename="DlgSettingsInterface.ui" line="829"/>
         <source>File modified date</source>
-        <translation type="unfinished">Data modifica file</translation>
+        <translation>Data modifica file</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="718"/>
         <location filename="DlgSettingsInterface.ui" line="834"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished">EXIF Data cattura</translation>
+        <translation>EXIF Data cattura</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="723"/>
         <location filename="DlgSettingsInterface.ui" line="839"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished">EXIF Data modifica</translation>
+        <translation>EXIF Data modifica</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="746"/>
         <location filename="DlgSettingsInterface.ui" line="862"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome file</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="753"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished">Proprietà</translation>
+        <translation>Proprietà</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">Dimensioni stampa</translation>
+        <translation>Dimensioni stampa</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="869"/>
         <source>File size</source>
-        <translation type="unfinished">Dimensione file</translation>
+        <translation>Dimensione file</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Commento incorporato</translation>
+        <translation>Commento incorporato</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">Descrizione</translation>
+        <translation>Descrizione</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scala</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1141"/>
@@ -13288,7 +13288,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Commutazione modalità</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -13823,7 +13823,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>High zoom quality</source>
-        <translation>Alta qualità ingrandisci/riduci</translation>
+        <translation type="unfinished">Alta qualità di scala</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
@@ -14044,7 +14044,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="1120"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Estendi orizzontalmente</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1139"/>
@@ -14515,7 +14515,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="298"/>
         <source>Stretch small images</source>
-        <translation>Riaddatta immagini piccole</translation>
+        <translation>Estendi immagini piccole</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="270"/>
@@ -14727,7 +14727,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="117"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation>Aggiungi &apos;Visualizza con XnViewMP&apos; al menu contestuale</translation>
+        <translation>Aggiungi &apos;Visualizza con XnView MP&apos; al menu contestuale</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="124"/>
@@ -15487,25 +15487,25 @@ Volete continuare?</translation>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Centrato</translation>
+        <translation>Centrato</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Affiancato</translation>
+        <translation>Affiancato</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Centrato affiancato</translation>
+        <translation>Centrato affiancato</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Esteso</translation>
+        <translation>Estendi</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16173,7 +16173,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Miniature piccole</translation>
+        <translation>Miniature piccole</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16184,7 +16184,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Miniature grandi</translation>
+        <translation>Miniature grandi</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16784,7 +16784,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del file (ultimo numero)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="404"/>
@@ -16904,7 +16904,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2661"/>
         <source>Zoom</source>
-        <translation>Ingrandimento/riduzione</translation>
+        <translation>Scala</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2662"/>
@@ -18127,7 +18127,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice Nazione</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -19104,17 +19104,17 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta valutazione</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta etichetta colorata</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta Categoria</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
@@ -20036,7 +20036,7 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="581"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Trasformazioni JPEG senza perdite</translation>
+        <translation>Trasformazioni senza perdite (JPEG)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="583"/>
@@ -20680,7 +20680,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva una copia...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="306"/>
@@ -21017,7 +21017,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="439"/>
         <source>High zoom quality</source>
-        <translation>Alta qualità ingrandisci/riduci</translation>
+        <translation type="unfinished">Alta qualità di scala</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="440"/>
@@ -21027,7 +21027,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritaglio automatico...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="515"/>
@@ -21043,7 +21043,7 @@ Volete continuare?</translation>
         <location filename="ViewMenu.h" line="728"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Metadati</translation>
+        <translation>Metadati</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="729"/>
@@ -21260,7 +21260,7 @@ Volete continuare?</translation>
         <location filename="ViewMenu.h" line="525"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Trasformazioni JPEG senza perdite</translation>
+        <translation>Trasformazioni senza perdite (JPEG)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="527"/>
@@ -21330,12 +21330,12 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta valutazione</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta etichetta colorata</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="435"/>
@@ -21645,13 +21645,13 @@ Volete continuare?</translation>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva una copia</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva con nome</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
@@ -21993,7 +21993,7 @@ Volete continuare?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">La dimensione delle miniature nel catalogo è inferiore alla dimensione prescelta.
+        <translation>La dimensione delle miniature nel catalogo è inferiore alla dimensione prescelta. 
 Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     </message>
     <message>
@@ -22065,12 +22065,12 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <location filename="MyView.cpp" line="949"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
-        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnViewMP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
+        <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnView MP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="950"/>
         <source>Please visit the XnView %1 for more information.</source>
-        <translation>Si prega di vistare il %1 di XnViewMP per ulteriori informazioni.</translation>
+        <translation>Si prega di vistare il %1 di XnView MP per ulteriori informazioni.</translation>
     </message>
 </context>
 <context>
@@ -22445,7 +22445,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Adatta immagine</translation>
+        <translation>Estendi immagine</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -23307,32 +23307,32 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca avanzata</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Cerca in</translation>
+        <translation>Cerca in</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">Campi IPTC</translation>
+        <translation>Campi IPTC</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Commento incorporato</translation>
+        <translation>Commento incorporato</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Descrizione</translation>
+        <translation>Descrizione</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Categorie (catalogo)</translation>
+        <translation>Categorie (catalogo)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="181"/>
@@ -23614,7 +23614,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
     <message>
         <location filename="xnview.cpp" line="476"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
-        <translation>XnViewMP - Il Catalogo ha un numero di versione più recente di quanto atteso</translation>
+        <translation>XnView MP - Il Catalogo ha un numero di versione più recente di quanto atteso</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="482"/>
@@ -23622,7 +23622,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>XnViewMP aggiornerà il catalogo. Ciò potrebbe richiedere tempo.
+        <translation>XnView MP aggiornerà il catalogo. Ciò potrebbe richiedere tempo.
 
 Volete preservare le miniature?
 (Se rispondete di SI il processo di aggiornamento sarà più lento)</translation>
@@ -23636,7 +23636,7 @@ Volete preservare le miniature?
     <message>
         <location filename="xnview.cpp" line="489"/>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Si è verificato un problema durante l&apos;aggiornamento del catalogo (Errore %1), si prega di contattare lo sviluppatore.</translation>
+        <translation>XnView MP - Si è verificato un problema durante l&apos;aggiornamento del catalogo (Errore %1), si prega di contattare lo sviluppatore.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="596"/>
@@ -23657,7 +23657,7 @@ Volete preservare le miniature?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Volete salvare la sessione?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
