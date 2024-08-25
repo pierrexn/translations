@@ -578,7 +578,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="1882"/>
         <source>Categories</source>
         <translatorcomment>TXT_BrowseMenu_Categories</translatorcomment>
-        <translation>カテゴリ</translation>
+        <translation>カテゴリー</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1918"/>
@@ -786,7 +786,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryLineEdit.h" line="41"/>
         <source> [Create New]</source>
-        <translation>[新規作成]</translation>
+        <translation> [新規作成]</translation>
     </message>
 </context>
 <context>
@@ -795,7 +795,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="CategoryManager.cpp" line="227"/>
         <location filename="CategoryManager.cpp" line="404"/>
         <source>Categories</source>
-        <translation>カテゴリ</translation>
+        <translation>カテゴリー</translation>
     </message>
 </context>
 <context>
@@ -2025,7 +2025,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="138"/>
         <source>Uncategorized</source>
-        <translation>カテゴリなし</translation>
+        <translation>カテゴリーなし</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="139"/>
@@ -2860,7 +2860,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n 時間</numerusform>
+            <numerusform>%n時間と </numerusform>
         </translation>
     </message>
     <message>
@@ -2871,7 +2871,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="1379"/>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnResizeは私用もしくは商用においてフリーウェアとして提供されます。&lt;br&gt;本ソフトウェアの無限の複製を作り使用する権利が付与されます。&lt;br&gt;&lt;br&gt;本ソフトウェアは&quot;現状のまま&quot;で提供されます。&lt;br&gt;明示黙示を問わず、いかなる保証もありません。&lt;br&gt;著作者はデータの損失・ダメージ、利益の損失、その他ソフトウェアの使用・誤使用による損失に責任を持ちません。&lt;br&gt;&lt;br&gt;あらゆる提案・フィードバック・コメントを歓迎します。</translation>
+        <translation>&lt;br&gt;XnResizeは私用もしくは商用においてフリーウェアとして提供されます。&lt;br&gt;本ソフトウェアの無限の複製を作り使用する権利が付与されます。&lt;br&gt;&lt;br&gt;本ソフトウェアは&quot;現状のまま&quot;で提供されます。&lt;br&gt;明示黙示を問わず、いかなる保証もありません。&lt;br&gt;著作者はデータの損失・ダメージ、利益の損失、その他ソフトウェアの使用・誤使用による損失に責任を持ちません。&lt;br&gt;&lt;br&gt;あらゆる提案・フィードバック・コメントを歓迎します。 </translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1425"/>
@@ -3115,7 +3115,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="57"/>
         <source>Copy Categories to Set...</source>
-        <translation>カテゴリをセットにコピー...</translation>
+        <translation>カテゴリーをセットにコピー...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="83"/>
@@ -3755,7 +3755,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2758"/>
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n時間</numerusform>
+            <numerusform>%n時間と </numerusform>
         </translation>
     </message>
     <message>
@@ -3896,7 +3896,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2556"/>
         <source>Finished at: </source>
-        <translation>～で終わる:</translation>
+        <translation>～で終わる: </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2595"/>
@@ -4026,7 +4026,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2943"/>
         <source>Started at: </source>
-        <translation>～で始まる:</translation>
+        <translation>～で始まる: </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2799"/>
@@ -5694,7 +5694,8 @@ Do you want to continue?</source>
         <location filename="DlgConvertIptc.ui" line="124"/>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>元の値に新しい値を追加（キーワードと追加のカテゴリ）</translation>
+        <translation>元の値に新しい値を追加
+（キーワードと追加のカテゴリー）</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="135"/>
@@ -7305,7 +7306,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="183"/>
         <source>Modification Date: </source>
-        <translation>更新日付:</translation>
+        <translation>更新日付: </translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="215"/>
@@ -7320,7 +7321,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="248"/>
         <source>Apply parent categories</source>
-        <translation>親カテゴリを適用</translation>
+        <translation>親カテゴリーを適用</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="256"/>
@@ -7909,7 +7910,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.h" line="37"/>
         <source>Categories file</source>
-        <translation>カテゴリファイル</translation>
+        <translation>カテゴリーファイル</translation>
     </message>
 </context>
 <context>
@@ -8590,7 +8591,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.h" line="241"/>
         <source>Uploading: </source>
-        <translation>アップロード:</translation>
+        <translation>アップロード: </translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="248"/>
@@ -8816,7 +8817,8 @@ The internal folder structure will be flattened. </source>
         <oldsource>The Source folder of the files to be transferred.
 The internal folder structure will be flattered. </oldsource>
         <translatorcomment>flatter要注意</translatorcomment>
-        <translation>ファイルの元のフォルダーは移動されています。内部のフォルダー構造は崩れます。</translation>
+        <translation>ファイルの元のフォルダーは移動されています。
+内部のフォルダー構造は崩れます。 </translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="24"/>
@@ -8833,7 +8835,8 @@ The internal folder structure will be flattered. </oldsource>
         <location filename="DlgImport.ui" line="258"/>
         <source>Here the files will be transfered.
 Subfolders will be created. </source>
-        <translation>このファイルは移動されます。サブフォルダーは作成されます。</translation>
+        <translation>このファイルは移動されます。
+サブフォルダーは作成されます。 </translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="89"/>
@@ -8890,7 +8893,7 @@ Subfolders will be created. </source>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign</source>
         <oldsource>Keywords to assign at import (XMP)</oldsource>
-        <translation>割り当てるカテゴリ</translation>
+        <translation>割り当てるカテゴリー</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="337"/>
@@ -9082,7 +9085,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgIptc.cpp" line="319"/>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
-        <translation>XMPメタデータを編集したいのであれば、新しい&apos;XMPを編集&apos;ダイアログをチェックしてください。</translation>
+        <translation>XMPメタデータを編集したいのであれば、新しい&apos;XMPを編集&apos;ダイアログをチェックしてください。 </translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="363"/>
@@ -9232,7 +9235,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="94"/>
         <source>Categories (database)</source>
-        <translation>カテゴリ（データベース）</translation>
+        <translation>カテゴリー（データベース）</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="99"/>
@@ -9257,7 +9260,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="225"/>
         <source>Categories</source>
-        <translation>カテゴリ</translation>
+        <translation>カテゴリー</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="258"/>
@@ -9323,7 +9326,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="714"/>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
-        <translation>新しい値を追加する（キーワードと補足のカテゴリ）</translation>
+        <translation>新しい値を追加する（キーワードと追加のカテゴリー）</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="721"/>
@@ -9459,7 +9462,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgKeywordTree.ui" line="14"/>
         <source>Select new parent</source>
-        <translation>元カテゴリの選択</translation>
+        <translation>親カテゴリーの選択</translation>
     </message>
 </context>
 <context>
@@ -10537,7 +10540,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>使用するには、ツール＞プラグインからインストールしてください</translation>
     </message>
 </context>
 <context>
@@ -11168,7 +11171,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="300"/>
         <source>Presets: </source>
-        <translation>プリセット:</translation>
+        <translation>プリセット: </translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -12500,7 +12503,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">重複ファイル</translation>
+        <translation>ファイル名の重複</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
@@ -12816,7 +12819,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1207"/>
         <source>This shortcut is already assigned for </source>
-        <translation>このショートカットはすでに割り当てられています</translation>
+        <translation>このショートカットはすでに割り当てられています: </translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1223"/>
@@ -12881,7 +12884,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="368"/>
         <source>Double-click on tab: </source>
-        <translation>タブをダブルクリック:</translation>
+        <translation>タブをダブルクリック: </translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="376"/>
@@ -13097,83 +13100,83 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>タイトルバー</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished">ステータスバー</translation>
+        <translation>ステータスバー</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="700"/>
         <location filename="DlgSettingsInterface.ui" line="816"/>
         <source>File date</source>
-        <translation type="unfinished">ファイル日付</translation>
+        <translation>ファイル日付</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="708"/>
         <location filename="DlgSettingsInterface.ui" line="824"/>
         <source>File created date</source>
-        <translation type="unfinished">ファイルを作成した日付</translation>
+        <translation>ファイル作成日付</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="713"/>
         <location filename="DlgSettingsInterface.ui" line="829"/>
         <source>File modified date</source>
-        <translation type="unfinished">ファイルを更新した日付</translation>
+        <translation>ファイル更新日付</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="718"/>
         <location filename="DlgSettingsInterface.ui" line="834"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished">EXIF撮影日付</translation>
+        <translation>EXIF撮影日付</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="723"/>
         <location filename="DlgSettingsInterface.ui" line="839"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished">EXIF更新日付</translation>
+        <translation>EXIF更新日付</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="746"/>
         <location filename="DlgSettingsInterface.ui" line="862"/>
         <source>Filename</source>
-        <translation type="unfinished">ファイル名</translation>
+        <translation>ファイル名</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="753"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>プロパティ</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">印刷サイズ</translation>
+        <translation>印刷サイズ</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="869"/>
         <source>File size</source>
-        <translation type="unfinished">ファイルサイズ</translation>
+        <translation>ファイルサイズ</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">埋め込みコメント</translation>
+        <translation>埋め込みコメント</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">説明</translation>
+        <translation>説明</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">ズーム</translation>
+        <translation>ズーム</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="932"/>
@@ -13305,7 +13308,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>モードの切り替え</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -13474,7 +13477,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
         <source>Read hierarchical keywords from images as categories</source>
         <oldsource>Read hierarchical keywords</oldsource>
-        <translation>カテゴリとして画像から階層的なキーワードを読み込み</translation>
+        <translation>カテゴリーとして画像から階層的なキーワードを読み込み</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
@@ -13628,7 +13631,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="39"/>
         <source>Categories and keywords</source>
-        <translation>カテゴリとキーワード</translation>
+        <translation>カテゴリーとキーワード</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="358"/>
@@ -15340,7 +15343,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdate.ui" line="39"/>
         <source>New version: </source>
-        <translation>新しいバージョン:</translation>
+        <translation>新しいバージョン: </translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="46"/>
@@ -15769,7 +15772,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJP2K.ui" line="101"/>
         <source>Compression rate: 1 to </source>
         <oldsource>Compression rate : 1 to </oldsource>
-        <translation>圧縮率: 1 から</translation>
+        <translation>圧縮率: 1から </translation>
     </message>
     <message>
         <location filename="DlgWriteJP2K.ui" line="132"/>
@@ -16166,27 +16169,27 @@ Do you want to continue?</source>
     <message>
         <location filename="Email.h" line="367"/>
         <source>Authentication failed: </source>
-        <translation>認証失敗：</translation>
+        <translation>認証失敗： </translation>
     </message>
     <message>
         <location filename="Email.h" line="379"/>
         <source>Connection failed: </source>
-        <translation>接続失敗：</translation>
+        <translation>接続失敗： </translation>
     </message>
     <message>
         <location filename="Email.h" line="391"/>
         <source>Sending of email failed: </source>
-        <translation>電子メール送信失敗：</translation>
+        <translation>電子メール送信失敗： </translation>
     </message>
     <message>
         <location filename="Email.h" line="398"/>
         <source>Recipient rejected: </source>
-        <translation>受信者拒否：</translation>
+        <translation>受信者拒否： </translation>
     </message>
     <message>
         <location filename="Email.h" line="405"/>
         <source>Sender rejected: </source>
-        <translation>送信者拒否：</translation>
+        <translation>送信者拒否： </translation>
     </message>
 </context>
 <context>
@@ -16809,7 +16812,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2668"/>
         <source>Categories</source>
         <translatorcomment>TXT_String_TabTitle_Categories</translatorcomment>
-        <translation>カテゴリ</translation>
+        <translation>カテゴリー</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -17173,7 +17176,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="111"/>
         <source>Hide assigned categories</source>
-        <translation>割り当てられたカテゴリを隠す</translation>
+        <translation>割り当てられたカテゴリーを隠す</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="119"/>
@@ -17193,7 +17196,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="134"/>
         <source>Categories Management</source>
-        <translation>カテゴリ管理</translation>
+        <translation>カテゴリー管理</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="135"/>
@@ -17203,12 +17206,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="137"/>
         <source>Import Categories File</source>
-        <translation>カテゴリファイルをインポート</translation>
+        <translation>カテゴリーファイルをインポート</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Export Categories File</source>
-        <translation>カテゴリファイルをエクスポート</translation>
+        <translation>カテゴリーファイルをエクスポート</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
@@ -17235,7 +17238,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="286"/>
         <location filename="InfoCategoryView.cpp" line="310"/>
         <source>Categories file</source>
-        <translation>カテゴリファイル</translation>
+        <translation>カテゴリーファイル</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
@@ -17247,46 +17250,46 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <location filename="InfoCategoryView.cpp" line="292"/>
         <source>Are you sure that you want to start importing categories file?</source>
-        <translation>カテゴリファイルのインポートを開始してよろしいですか？</translation>
+        <translation>カテゴリーファイルのインポートを開始してよろしいですか？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="256"/>
         <location filename="InfoCategoryView.cpp" line="299"/>
         <source>Importing categories file, please wait...</source>
         <oldsource>Importing categories file, please wait... </oldsource>
-        <translation>カテゴリファイルをインポートしています。お待ちください...</translation>
+        <translation>カテゴリーファイルをインポートしています。お待ちください...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="274"/>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Exporting categories file, please wait...</source>
         <oldsource>Exporting categories file, please wait... </oldsource>
-        <translation>カテゴリファイルをエクスポートしています。お待ちください...</translation>
+        <translation>カテゴリーファイルをエクスポートしています。お待ちください...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Clear all categories</source>
-        <translation>すべてのカテゴリをクリア</translation>
+        <translation>すべてのカテゴリーをクリア</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to clear all categories?</source>
-        <translation>すべてのカテゴリをクリアしますか？</translation>
+        <translation>すべてのカテゴリーをクリアしますか？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="332"/>
         <source>Clear orphaned categories</source>
-        <translation>不明なカテゴリをクリア</translation>
+        <translation>不明なカテゴリーをクリア</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="332"/>
         <source>Do you want to clear orphaned categories?</source>
-        <translation>不明なカテゴリをクリアしますか？</translation>
+        <translation>不明なカテゴリーをクリアしますか？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="412"/>
         <source> [Create New]</source>
-        <translation>[新規作成]</translation>
+        <translation> [新規作成]</translation>
     </message>
 </context>
 <context>
@@ -17912,7 +17915,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="116"/>
         <source>Keywords &amp; Categories</source>
         <translatorcomment>TXT_TemplateMenu_IPTC_Keywords_categories</translatorcomment>
-        <translation>キーワード &amp; カテゴリ</translation>
+        <translation>キーワード &amp; カテゴリー</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="124"/>
@@ -18009,7 +18012,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2604"/>
         <source>Supplemental categories</source>
         <translatorcomment>TXT_Iptc_Supplemental_Categories</translatorcomment>
-        <translation>補充カテゴリ</translation>
+        <translation>補足カテゴリー</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="40"/>
@@ -19925,7 +19928,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="312"/>
         <source>Categories</source>
         <translatorcomment>TXT_String_TabTitle_Categories</translatorcomment>
-        <translation>カテゴリ</translation>
+        <translation>カテゴリー</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="315"/>
@@ -20203,7 +20206,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
         <source>Remove from all categories</source>
-        <translation>すべてのカテゴリから除去</translation>
+        <translation>すべてのカテゴリーから除去</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="517"/>
@@ -20752,7 +20755,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2699"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
-        <translation>IPTC - キーワード ＆ カテゴリ</translation>
+        <translation>IPTC - キーワード ＆ カテゴリー</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2703"/>
@@ -21616,7 +21619,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>自動クロップ...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
@@ -22282,7 +22285,7 @@ Do you want to continue?</oldsource>
         <location filename="MyProgressThreadDialog.h" line="30"/>
         <source>Please wait...</source>
         <oldsource>Please wait... </oldsource>
-        <translation>お待ちください... </translation>
+        <translation>お待ちください...</translation>
     </message>
     <message>
         <location filename="MyProgressThreadDialog.h" line="40"/>
@@ -22860,7 +22863,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
         <source>Categories</source>
-        <translation>カテゴリ</translation>
+        <translation>カテゴリー</translation>
     </message>
 </context>
 <context>
@@ -23653,32 +23656,32 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>高度な検索</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">IPTC項目</translation>
+        <translation>IPTC項目</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">埋め込みコメント</translation>
+        <translation>埋め込みコメント</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">説明</translation>
+        <translation>説明</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">カテゴリ（カタログ）</translation>
+        <translation>カテゴリー（カタログ）</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="181"/>
