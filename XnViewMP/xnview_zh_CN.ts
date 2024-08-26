@@ -1057,7 +1057,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>自动适配</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -1808,7 +1808,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="1736"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>变换</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
@@ -4794,7 +4794,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示原图</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
@@ -5760,7 +5760,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>平铺</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6686,7 +6686,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>拉伸</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
@@ -8827,7 +8827,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件夹</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -11068,12 +11068,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt; 返回(&amp;k)</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索(&amp;s)</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
@@ -12916,7 +12916,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>标题栏</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -12980,7 +12980,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="753"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
@@ -12998,13 +12998,13 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">嵌入式评论</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>描述</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
@@ -13283,7 +13283,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>切换模式</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -14080,7 +14080,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1120"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>水平拉伸</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1139"/>
@@ -18144,7 +18144,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>国家代码</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -19142,17 +19142,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置评级</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>设置颜色标签</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>设置分类</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="517"/>
@@ -20821,7 +20821,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存为副本……</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="306"/>
@@ -21196,7 +21196,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>自动裁切……</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="484"/>
@@ -21370,12 +21370,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>设置评级</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>设置颜色标签</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="435"/>
@@ -21673,13 +21673,13 @@ Do you want to continue?</oldsource>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>保存一个副本</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
@@ -23338,7 +23338,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>高级设置</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
@@ -23353,12 +23353,12 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished"></translation>
+        <translation>嵌入式评论</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>描述</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
@@ -23688,7 +23688,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>你是否要保存进程？</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
