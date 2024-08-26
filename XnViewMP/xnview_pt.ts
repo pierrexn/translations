@@ -1061,7 +1061,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste automático</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -10461,7 +10461,7 @@ Obrigado por adquirir o %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor instale-o pelo menu Ferramentas &gt; Plugins</translation>
     </message>
 </context>
 <context>
@@ -12371,7 +12371,7 @@ Miniatura</translation>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">Ficheiros duplicados</translation>
+        <translation>Nomes para os ficheiros duplicados</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="501"/>
@@ -12966,7 +12966,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de título</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -12988,37 +12988,37 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de estado</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="700"/>
         <location filename="DlgSettingsInterface.ui" line="816"/>
         <source>File date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data do ficheiro</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="708"/>
         <location filename="DlgSettingsInterface.ui" line="824"/>
         <source>File created date</source>
-        <translation type="unfinished">Ficheiro: Data de criação</translation>
+        <translation>Data de criação do ficheiro</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="713"/>
         <location filename="DlgSettingsInterface.ui" line="829"/>
         <source>File modified date</source>
-        <translation type="unfinished">Ficheiro: Data de modificação</translation>
+        <translation>Data de modificação do ficheiro</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="718"/>
         <location filename="DlgSettingsInterface.ui" line="834"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished">EXIF: Data de captação</translation>
+        <translation>Data EXIF de captação</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="723"/>
         <location filename="DlgSettingsInterface.ui" line="839"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished">EXIF: Data de modificação</translation>
+        <translation>Data EXIF de modificação</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="746"/>
@@ -13334,7 +13334,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudança de modo</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -15940,7 +15940,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgWritePNG.ui" line="90"/>
         <source>Paeth</source>
-        <translation type="unfinished"></translation>
+        <translation>Paeth</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="95"/>
@@ -19167,17 +19167,17 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Classificar</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar etiqueta de cor</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar categoria</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
@@ -20749,7 +20749,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar cópia...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="306"/>
@@ -21097,12 +21097,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte automático...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="515"/>
         <source>Send by email...</source>
-        <translation type="unfinished">Enviar por email...</translation>
+        <translation>Enviar por email...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="528"/>
@@ -21113,7 +21113,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="728"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Metadados</translation>
+        <translation>Meta&amp;dados</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="729"/>
@@ -21400,12 +21400,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Classificar</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar etiqueta de cor</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="435"/>
@@ -21717,13 +21717,13 @@ Deseja continuar?</translation>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar cópia</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
@@ -23389,7 +23389,7 @@ Botão direito do rato para menu com opções.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Busca avançada</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
