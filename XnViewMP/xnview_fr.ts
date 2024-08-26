@@ -1273,7 +1273,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2574"/>
         <source>Aspect Pad</source>
-        <translation type="unfinished">Aspect Pad</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2633"/>
