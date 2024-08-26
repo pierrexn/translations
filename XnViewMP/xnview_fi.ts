@@ -852,7 +852,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Autom. sovitus</translation>
     </message>
 </context>
 <context>
@@ -8144,7 +8144,7 @@ Kiitos että tilasit %1.</translation>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Asenna kohdasta Työkalut &gt; Lisäosat</translation>
     </message>
 </context>
 <context>
