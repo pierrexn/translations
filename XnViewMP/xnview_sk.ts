@@ -1055,7 +1055,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatické prispôsobenie</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -1769,17 +1769,17 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1729"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kanál</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1730"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlepšiť</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1731"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rám</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1732"/>
@@ -1789,22 +1789,22 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1733"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Šum</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1734"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixelovať</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1735"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Štylizovať</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1736"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformovať</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
@@ -4864,7 +4864,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobraziť originál</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
@@ -5786,7 +5786,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Dlaždica</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6713,7 +6713,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Natiahnuť</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
