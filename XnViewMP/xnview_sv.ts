@@ -224,7 +224,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändringslogg</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -1053,7 +1053,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-anpassa</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
@@ -1596,7 +1596,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Exponering</translation>
+        <translation>Exponering</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -1764,52 +1764,52 @@ Dra och släpp över önskad nod för att tilldela.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1726"/>
         <source>Add</source>
-        <translation type="unfinished">Lägg till</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1729"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1730"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbättra</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1731"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Ram</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1732"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadata</translation>
+        <translation>Metadata</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1733"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Brus</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1734"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixelera</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1735"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilisera</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1736"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformera</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
         <source>Video</source>
-        <translation type="unfinished">Video</translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -3021,7 +3021,7 @@ Vill du skriva över den?</translation>
         <location filename="DlgCapture.ui" line="284"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Dölj XnView</translation>
+        <translation>Dölj XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="291"/>
@@ -3663,7 +3663,7 @@ Vill du gå till nerladdningssidan?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1596"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Ta bort filen från fillistan</translation>
+        <translation>Ta bort filen från fillistan</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1603"/>
@@ -4207,7 +4207,7 @@ Vill du fortsätta?</translation>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Rundad kant</translation>
+        <translation>Rundat hörn</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4518,7 +4518,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa original</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="267"/>
@@ -4533,12 +4533,12 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Första filen</translation>
+        <translation>Första filen</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Sista filen</translation>
+        <translation>Sista filen</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="864"/>
@@ -5768,12 +5768,12 @@ Vill du fortsätta?</translation>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Sträck ut mask</translation>
+        <translation>Sträck ut</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished">Rutor</translation>
+        <translation>Rutor</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -6700,13 +6700,13 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Sträck ut</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Rutor</translation>
+        <translation>Rutor</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -8835,12 +8835,12 @@ Undermappar kommer att skapas. </translation>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># uppräknare per</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Indatamapp</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -10389,7 +10389,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Namn/Företagsnamn:</translation>
+        <translation>Person/Företagsnamn:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10426,7 +10426,7 @@ Tack för att du köper %1.</translation>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera det med hjälp av Verktyg › Insticksmoduler</translation>
     </message>
 </context>
 <context>
@@ -11012,22 +11012,22 @@ Vill du ta bort dem?</translation>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Använd Regular Expression</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mapp</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;kiftlägeskänslig</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inkludera mappar</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -11077,17 +11077,17 @@ Vill du ta bort dem?</translation>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Tillbaka</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sök</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bläddra...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="238"/>
@@ -11113,7 +11113,7 @@ Vill du ta bort dem?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Filnamn</translation>
+        <translation>&amp;Filnamn</translation>
     </message>
 </context>
 <context>
@@ -12094,7 +12094,7 @@ miniatyr</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Tillåt endast en instans av XnView</translation>
+        <translation>Tillåt endast en programinstans</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="119"/>
@@ -12380,12 +12380,12 @@ miniatyr</translation>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">Duplicera filer</translation>
+        <translation>Namnge duplicerade filer</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">Spara ändringar till fil</translation>
+        <translation>Spara ändringar till fil</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="616"/>
@@ -12976,83 +12976,83 @@ Vill du ta bort tilldelningen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Namnfält</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished">Statusfält</translation>
+        <translation>Statusfält</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="700"/>
         <location filename="DlgSettingsInterface.ui" line="816"/>
         <source>File date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fildatum</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="708"/>
         <location filename="DlgSettingsInterface.ui" line="824"/>
         <source>File created date</source>
-        <translation type="unfinished">Skapad</translation>
+        <translation>Fil skapad</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="713"/>
         <location filename="DlgSettingsInterface.ui" line="829"/>
         <source>File modified date</source>
-        <translation type="unfinished">Ändrad</translation>
+        <translation>Fil ändrad</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="718"/>
         <location filename="DlgSettingsInterface.ui" line="834"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished">EXIF-datum taget</translation>
+        <translation>EXIF-datum taget</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="723"/>
         <location filename="DlgSettingsInterface.ui" line="839"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished">EXIF-ändrad</translation>
+        <translation>EXIF-datum ändrad</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="746"/>
         <location filename="DlgSettingsInterface.ui" line="862"/>
         <source>Filename</source>
-        <translation type="unfinished">Filnamn</translation>
+        <translation>Filnamn</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="753"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished">Egenskaper</translation>
+        <translation>Egenskaper</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">Utskriftsstorlek</translation>
+        <translation>Utskriftsstorlek</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="869"/>
         <source>File size</source>
-        <translation type="unfinished">Filstorlek</translation>
+        <translation>Filstorlek</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Inbäddad kommentar</translation>
+        <translation>Inbäddad kommentar</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">Beskrivning</translation>
+        <translation>Beskrivning</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="932"/>
@@ -13184,7 +13184,7 @@ Vill du ta bort tilldelningen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Växlingslägen</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -14057,7 +14057,7 @@ Vill du ta bort tilldelningen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="1120"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Sträck ut horisontellt</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1139"/>
@@ -15489,25 +15489,25 @@ Vill du fortsätta?</translation>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Centrerad</translation>
+        <translation>Centrera</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Rutor</translation>
+        <translation>Rutor</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Centrerade rutor</translation>
+        <translation>Centrerade rutor</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Utsträckt</translation>
+        <translation>Utsträckt</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -16175,7 +16175,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Små miniatyrer</translation>
+        <translation>Små miniatyrer</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16186,7 +16186,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Stora miniatyrer</translation>
+        <translation>Stora miniatyrer</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16786,7 +16786,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamn (sista siffran)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="404"/>
@@ -18129,7 +18129,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Landskod</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -19100,17 +19100,17 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange betyg</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange färgetikett</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange kategori</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
@@ -20028,7 +20028,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="581"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Förlustfria JPEG-omvandlingar</translation>
+        <translation>Förlustfria-omvandlingar (JPEG)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="583"/>
@@ -21062,7 +21062,7 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="728"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Metadata</translation>
+        <translation>Meta&amp;data</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="729"/>
@@ -21077,7 +21077,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara en kopia...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="316"/>
@@ -21122,12 +21122,12 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange betyg</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange färgetikett</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21274,7 +21274,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk beskärning...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
@@ -21491,7 +21491,7 @@ Vill du fortsätta?</translation>
         <location filename="ViewMenu.h" line="525"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Förlustfri JPEG-omvandling</translation>
+        <translation>Förlustfria-omvandlingar (JPEG)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="527"/>
@@ -21647,13 +21647,13 @@ Vill du fortsätta?</translation>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara en kopia</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara som</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
@@ -21995,8 +21995,8 @@ Vill du fortsätta?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">Cachelagrad miniatyrstorlek är mindre än den valda storleken. 
-Du kan ändra det i &quot;Inställningar&gt;Katalog&quot;.</translation>
+        <translation>Cachelagrad miniatyrstorlek är mindre än den valda storleken. 
+Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="606"/>
@@ -22447,7 +22447,7 @@ Du kan ändra det i &quot;Inställningar&gt;Katalog&quot;.</translation>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Sträck ut bilden</translation>
+        <translation>Sträck ut</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -23309,32 +23309,32 @@ Högerklicka för popup-meny med åtgärder.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancerat sök</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Sök i</translation>
+        <translation>Sök i</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">IPTC-fält</translation>
+        <translation>IPTC-fält</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Inbäddad kommentar</translation>
+        <translation>Inbäddad kommentar</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Beskrivning</translation>
+        <translation>Beskrivning</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Kategorier (katalog)</translation>
+        <translation>Kategorier (katalog)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="181"/>
@@ -23659,7 +23659,7 @@ Vill du bevara miniatyrerna?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du spara sessionen?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
