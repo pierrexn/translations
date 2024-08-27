@@ -200,7 +200,7 @@
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro de cambios</translation>
     </message>
 </context>
 <context>
@@ -840,7 +840,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Ajustar</translation>
+        <translation>Mejor ajuste</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -852,7 +852,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste automático</translation>
     </message>
 </context>
 <context>
@@ -1377,47 +1377,47 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Exposure</source>
-        <translation type="unfinished">Exposición</translation>
+        <translation>Exposición</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Añadir</translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Canal</translation>
     </message>
     <message>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejorar</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished">Metadatos</translation>
+        <translation>Metadatos</translation>
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruido</translation>
     </message>
     <message>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixelado</translation>
     </message>
     <message>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilizado</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished">Vídeo</translation>
+        <translation>Vídeo</translation>
     </message>
 </context>
 <context>
@@ -2367,7 +2367,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Hide XnView MP</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar XnView MP</translation>
     </message>
 </context>
 <context>
@@ -3359,7 +3359,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquina redondeada</translation>
     </message>
 </context>
 <context>
@@ -3977,15 +3977,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar original</translation>
     </message>
     <message>
         <source>First file</source>
-        <translation type="unfinished">Primer archivo</translation>
+        <translation>Primer archivo</translation>
     </message>
     <message>
         <source>Last file</source>
-        <translation type="unfinished">Último archivo</translation>
+        <translation>Último archivo</translation>
     </message>
 </context>
 <context>
