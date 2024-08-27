@@ -16900,7 +16900,8 @@ Do you want to continue?</source>
     <message>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Շտեմված մանրապատկերների չափն ավելի փոքր է, քան ընտրվածինը: 
+Կարող եք փոխել այն Կարգավորումներ › Անվանակարգ-ում:</translation>
     </message>
 </context>
 <context>
@@ -17237,7 +17238,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ձգել</translation>
     </message>
 </context>
 <context>
@@ -17881,7 +17882,7 @@ Right Click for pop-up menu with actions.</source>
     </message>
     <message>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Ընդլայնված որոնում</translation>
     </message>
     <message>
         <source>Search in</source>
@@ -18183,7 +18184,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
     </message>
     <message>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Պահպանե՞լ աշխատաշրջանը:</translation>
     </message>
 </context>
 </TS>
