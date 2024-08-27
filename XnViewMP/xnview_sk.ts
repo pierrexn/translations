@@ -1596,7 +1596,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Expozícia</translation>
+        <translation>Expozícia</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -13011,7 +13011,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="869"/>
         <source>File size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Veľkosť súboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
@@ -13302,7 +13302,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prepínanie režimov</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -14069,7 +14069,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="1120"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Roztiahnuť vodorovne</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1139"/>
@@ -16798,7 +16798,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Názov súboru (posledné číslo)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="404"/>
@@ -18141,7 +18141,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="133"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kód krajiny</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="138"/>
@@ -19112,17 +19112,17 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastaviť hodnotenie</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastaviť farbu štítku</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastaviť kategóriu</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
@@ -21089,7 +21089,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložiť kópiu...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="316"/>
@@ -21134,12 +21134,12 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastaviť hodnotenie</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastaviť farbu štítku</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21286,7 +21286,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatické orezanie...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
@@ -21659,13 +21659,13 @@ Chcete pokračovať?</translation>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložiť kópiu</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložiť ako</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
@@ -23325,7 +23325,7 @@ Kliknite pravým tlačidlom myši na vyskakovacie menu s akciami.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozšírené vyhľadávanie</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
@@ -23675,7 +23675,7 @@ Chcete v ňom ponechať miniatúry?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete uložiť reláciu?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
