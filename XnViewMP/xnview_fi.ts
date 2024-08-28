@@ -1381,7 +1381,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Lisää</translation>
+        <translation>Lisää</translation>
     </message>
     <message>
         <source>Channel</source>
@@ -1397,7 +1397,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished">Metatiedot</translation>
+        <translation>Metatiedot</translation>
     </message>
     <message>
         <source>Noise</source>
@@ -1417,7 +1417,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished">Video</translation>
+        <translation>Video</translation>
     </message>
 </context>
 <context>
@@ -3108,7 +3108,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Poista tiedosto tiedostolistalta</translation>
+        <translation>Poista tiedosto tiedostolistalta</translation>
     </message>
 </context>
 <context>
@@ -3981,11 +3981,11 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>First file</source>
-        <translation type="unfinished">Ensimmäinen tiedosto</translation>
+        <translation>Ensimmäinen tiedosto</translation>
     </message>
     <message>
         <source>Last file</source>
-        <translation type="unfinished">Viimeinen tiedosto</translation>
+        <translation>Viimeinen tiedosto</translation>
     </message>
 </context>
 <context>
@@ -4479,7 +4479,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished">Ruutu</translation>
+        <translation>Laatta</translation>
     </message>
 </context>
 <context>
@@ -5304,7 +5304,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished">Ruutu</translation>
+        <translation>Laatta</translation>
     </message>
 </context>
 <context>
@@ -9747,11 +9747,11 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Save changes to file</source>
-        <translation type="unfinished">Tallenna muutokset tiedostoon</translation>
+        <translation>Tallenna muutokset tiedostoon</translation>
     </message>
     <message>
         <source>Duplicate files naming</source>
-        <translation type="unfinished"></translation>
+        <translation>Samannimisten tiedostojen nimeäminen</translation>
     </message>
 </context>
 <context>
@@ -10257,63 +10257,63 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsikkopalkki</translation>
     </message>
     <message>
         <source>StatusBar</source>
-        <translation type="unfinished">Tilarivi</translation>
+        <translation>Tilarivi</translation>
     </message>
     <message>
         <source>File date</source>
-        <translation type="unfinished">Tiedoston päivämäärä</translation>
+        <translation>Tiedoston päivämäärä</translation>
     </message>
     <message>
         <source>File created date</source>
-        <translation type="unfinished">Tiedoston luontipäivä</translation>
+        <translation>Tiedoston luontipäivä</translation>
     </message>
     <message>
         <source>File modified date</source>
-        <translation type="unfinished">Tiedoston muokkauspäivä</translation>
+        <translation>Tiedoston muokkauspäivä</translation>
     </message>
     <message>
         <source>EXIF date taken</source>
-        <translation type="unfinished">EXIF kuvauspäivä</translation>
+        <translation>EXIF kuvauspäivä</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
-        <translation type="unfinished">EXIF -muokkauspäivä</translation>
+        <translation>EXIF -muokkauspäivä</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished">Tiedostonimi</translation>
+        <translation>Tiedostonimi</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished">Ominaisuudet</translation>
+        <translation>Ominaisuudet</translation>
     </message>
     <message>
         <source>Print size</source>
-        <translation type="unfinished">Tulostuskoko</translation>
+        <translation>Tulostuskoko</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation type="unfinished">Tiedostokoko</translation>
+        <translation>Tiedostokoko</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation type="unfinished">Upotetuista kommenteista</translation>
+        <translation>Upotetuista kommenteista</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Selitys</translation>
+        <translation>Selitys</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">Zoomaus</translation>
+        <translation>Zoomaus</translation>
     </message>
     <message>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilojen vaihto</translation>
     </message>
 </context>
 <context>
@@ -12002,19 +12002,19 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished">Keskellä</translation>
+        <translation>Keskellä</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished">Ruutu</translation>
+        <translation>Laatta</translation>
     </message>
     <message>
         <source>Tile from center</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatoita keskeltä</translation>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished">Venytä</translation>
+        <translation>Venytä</translation>
     </message>
 </context>
 <context>
@@ -12577,11 +12577,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Thumbnails small</source>
-        <translation type="unfinished"></translation>
+        <translation>Esikatselukuvat - pieni</translation>
     </message>
     <message>
         <source>Thumbnails large</source>
-        <translation type="unfinished"></translation>
+        <translation>Esikatselukuvat - suuri</translation>
     </message>
 </context>
 <context>
@@ -13053,7 +13053,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostonimi (viimeinen numero)</translation>
     </message>
 </context>
 <context>
@@ -13931,7 +13931,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Maakoodi</translation>
     </message>
 </context>
 <context>
@@ -15441,59 +15441,59 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Lossless transformations (JPEG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Häviöttömät muunnokset (JPEG)</translation>
     </message>
     <message>
         <source>Switch panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaihda paneeli</translation>
     </message>
     <message>
         <source>Path focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Polun tarkennus</translation>
     </message>
     <message>
         <source>Empty tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjä välilehti</translation>
     </message>
     <message>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Erinomainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyvä (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskimääräinen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Poor (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Huono (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta luokitus</translation>
     </message>
     <message>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta värimerkintä</translation>
     </message>
     <message>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta kategoria</translation>
     </message>
 </context>
 <context>
@@ -16486,55 +16486,55 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Lossless transformations (JPEG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Häviöttömät muunnokset (JPEG)</translation>
     </message>
     <message>
         <source>Meta&amp;data</source>
-        <translation type="unfinished">Meta&amp;tiedot</translation>
+        <translation>Meta&amp;tiedot</translation>
     </message>
     <message>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Talenna kopio...</translation>
     </message>
     <message>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Erinomainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyvä (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskimääräinen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Poor (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Huono (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta luokitus</translation>
     </message>
     <message>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta värimerkintä</translation>
     </message>
     <message>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaattinen rajaus...</translation>
     </message>
 </context>
 <context>
@@ -16653,11 +16653,11 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna kopio</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna nimellä</translation>
     </message>
 </context>
 <context>
@@ -16907,7 +16907,8 @@ Jatketaanko?</translation>
     <message>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välimuistissa olevien pikkukuvien koko on pienempi kuin valittu.
+Voit muuttaa sitä kohdassa Asetukset › Luettelo.</translation>
     </message>
 </context>
 <context>
@@ -17244,7 +17245,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished">Venytä</translation>
+        <translation>Venytä</translation>
     </message>
 </context>
 <context>
@@ -17889,27 +17890,27 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkennettu haku</translation>
     </message>
     <message>
         <source>Search in</source>
-        <translation type="unfinished">Etsi</translation>
+        <translation>Etsi</translation>
     </message>
     <message>
         <source>IPTC fields</source>
-        <translation type="unfinished">IPTC-kentistä</translation>
+        <translation>IPTC-kentistä</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation type="unfinished">Upotetuista kommenteista</translation>
+        <translation>Upotetuista kommenteista</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Selitys</translation>
+        <translation>Selitys</translation>
     </message>
     <message>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Kategoriat (luettelo)</translation>
+        <translation>Kategoriat (luettelo)</translation>
     </message>
 </context>
 <context>
@@ -18191,7 +18192,7 @@ Luokituksia-, merkintöjä (tageja)- ja värimerkintöjä ei tallenneta.</transl
     </message>
     <message>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko tallentaa istunnon?</translation>
     </message>
 </context>
 </TS>
