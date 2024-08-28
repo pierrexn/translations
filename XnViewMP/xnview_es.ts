@@ -16484,7 +16484,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Meta&amp;data</source>
-        <translation type="unfinished">Meta&amp;datos</translation>
+        <translation>Meta&amp;datos</translation>
     </message>
     <message>
         <source>Save a copy...</source>
@@ -17887,23 +17887,23 @@ Clic Derecho para menú contextual con acciones.</translation>
     </message>
     <message>
         <source>Search in</source>
-        <translation type="unfinished">Buscar en</translation>
+        <translation>Buscar en</translation>
     </message>
     <message>
         <source>IPTC fields</source>
-        <translation type="unfinished">Campos IPTC</translation>
+        <translation>Campos IPTC</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation type="unfinished">Comentario incrustado</translation>
+        <translation>Comentario incrustado</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descripción</translation>
+        <translation>Descripción</translation>
     </message>
     <message>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Categorías (catálogo)</translation>
+        <translation>Categorías (catálogo)</translation>
     </message>
 </context>
 <context>
