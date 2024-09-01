@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>Review</source>
-        <translation>Revisón</translation>
+        <translation>Revisión</translation>
     </message>
     <message>
         <source>Second</source>
@@ -226,7 +226,7 @@
     </message>
     <message>
         <source>Colors count</source>
-        <translation>Recuento de colores</translation>
+        <translation>Número de colores</translation>
     </message>
     <message>
         <source>Delete items</source>
@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation>La imagen se convertirá a RGB de 24-bit (8 bits por canal)</translation>
+        <translation>La imagen se convertirá a RGB de 24-bits (8 bits por canal)</translation>
     </message>
     <message>
         <source>Number of unique colors: %1</source>
