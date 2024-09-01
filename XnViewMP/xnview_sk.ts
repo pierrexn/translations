@@ -1779,12 +1779,12 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1731"/>
         <source>Frame</source>
-        <translation type="unfinished">Rám</translation>
+        <translation>Rám</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1732"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metaúdaje</translation>
+        <translation>Metaúdaje</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1733"/>
@@ -3028,7 +3028,7 @@ Chcete ho prepísať?</translation>
         <location filename="DlgCapture.ui" line="284"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Skryť XnView</translation>
+        <translation>Skryť XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="291"/>
@@ -3734,7 +3734,7 @@ Chcete ho nahradiť?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1596"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Odstrániť súbor zo zoznamu súborov</translation>
+        <translation>Odstrániť súbor zo zoznamu súborov</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2104"/>
@@ -4221,7 +4221,7 @@ Chcete pokračovať?</translation>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Zaoblené okraje</translation>
+        <translation>Zaoblené okraje</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4864,12 +4864,12 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished">Zobraziť originál</translation>
+        <translation>Zobraziť originál</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Prvý súbor</translation>
+        <translation>Prvý súbor</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
