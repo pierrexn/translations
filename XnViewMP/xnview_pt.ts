@@ -326,7 +326,7 @@
         <location filename="ViewWindow.cpp" line="3020"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Gravando a imagem...</translation>
+        <translation>Gravando a imagem...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2842"/>
@@ -1606,7 +1606,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="224"/>
         <source>Exposure</source>
-        <translation type="unfinished">Exposição</translation>
+        <translation>Exposição</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="232"/>
@@ -1774,7 +1774,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1726"/>
         <source>Add</source>
-        <translation type="unfinished">Adicionar</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1729"/>
@@ -1794,7 +1794,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1732"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadados</translation>
+        <translation>Metadados</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1733"/>
@@ -1819,7 +1819,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
         <source>Video</source>
-        <translation type="unfinished">Vídeo</translation>
+        <translation>Vídeo</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -2831,7 +2831,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">não é uma imagem</translation>
+        <translation>não é uma imagem</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
@@ -3789,7 +3789,7 @@ Deseja gravar por cima?</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1596"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Remover ficheiro da lista</translation>
+        <translation>Remover ficheiro da lista</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1603"/>
@@ -3855,7 +3855,7 @@ Deseja gravar por cima?</translation>
         <location filename="DlgConvert.cpp" line="2595"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">não é uma imagem</translation>
+        <translation>não é uma imagem</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2598"/>
@@ -4588,12 +4588,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Primeiro ficheiro</translation>
+        <translation>Primeiro ficheiro</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Último ficheiro</translation>
+        <translation>Último ficheiro</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="872"/>
@@ -5714,12 +5714,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+Luminância</translation>
+        <translation>RGB+Luminância</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -9127,7 +9127,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgIptc.ui" line="878"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished">Não carregar os valores dos campos</translation>
+        <translation>Não carregar os valores dos campos</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="844"/>
@@ -11357,7 +11357,7 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="42"/>
         <source>Preview</source>
-        <translation type="unfinished">Pré-visualização</translation>
+        <translation>Pré-visualização</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="106"/>
@@ -11943,7 +11943,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished">Selecção</translation>
+        <translation>Selecção</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
@@ -11958,12 +11958,12 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">Ver como</translation>
+        <translation>Ver como</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished">Mostrar tamanho do ficheiro em bytes</translation>
+        <translation>Mostrar tamanho de ficheiro em bytes</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -12381,7 +12381,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">Gravar as alterações</translation>
+        <translation>Gravar alterações</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="574"/>
@@ -13024,42 +13024,42 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsInterface.ui" line="746"/>
         <location filename="DlgSettingsInterface.ui" line="862"/>
         <source>Filename</source>
-        <translation type="unfinished">Nome de ficheiro</translation>
+        <translation>Nome de ficheiro</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="753"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished">Propriedades</translation>
+        <translation>Propriedades</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">Tamanho da impressão</translation>
+        <translation>Tamanho de impressão</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="869"/>
         <source>File size</source>
-        <translation type="unfinished">Tamanho do ficheiro</translation>
+        <translation>Tamanho de ficheiro</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Comentário integrado</translation>
+        <translation>Comentário integrado</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">Descrição</translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1141"/>
@@ -13611,7 +13611,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
-        <translation type="unfinished">Criar miniaturas para toda a pasta</translation>
+        <translation>Criar miniaturas para toda a pasta</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -14063,7 +14063,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation type="unfinished">Razão áurea (Phi)</translation>
+        <translation>Razão áurea (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -15612,7 +15612,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Subamostragem</translation>
+        <translation>Subamostragem</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="123"/>
@@ -15841,7 +15841,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Subamostragem</translation>
+        <translation>Subamostragem</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -15981,7 +15981,7 @@ Deseja continuar?</translation>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">Compressão para imagem a cores</translation>
+        <translation>Compressão para imagem a cores</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -16140,7 +16140,7 @@ Deseja continuar?</translation>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished">Este favorito indica uma pasta que não existe. 
+        <translation>Este favorito indica uma pasta que não existe. 
 
 Deseja apagar o favorito &quot;%1&quot;?</translation>
     </message>
@@ -16224,7 +16224,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Miniaturas pequenas</translation>
+        <translation>Miniaturas pequenas</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16235,7 +16235,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Miniaturas grandes</translation>
+        <translation>Miniaturas grandes</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16463,7 +16463,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
-        <translation type="unfinished">Subamostragem</translation>
+        <translation>Subamostragem</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -19638,7 +19638,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="418"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">Abrir com</translation>
+        <translation>Abrir com</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="419"/>
@@ -21544,7 +21544,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="493"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Redimensionar...</translation>
+        <translation>Redimensionar...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -23394,27 +23394,27 @@ Botão direito do rato para menu com opções.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Procurar em</translation>
+        <translation>Procurar em</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">Campos IPTC</translation>
+        <translation>Campos IPTC</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Comentário integrado</translation>
+        <translation>Comentário integrado</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Descrição</translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Categorias (catálogo)</translation>
+        <translation>Categorias (catálogo)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="181"/>
