@@ -781,7 +781,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryLineEdit.h" line="41"/>
         <source> [Create New]</source>
-        <translation>[新建]</translation>
+        <translation> [新建]</translation>
     </message>
 </context>
 <context>
@@ -2803,7 +2803,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n 小时</numerusform>
+            <numerusform>%n 小时 </numerusform>
         </translation>
     </message>
     <message>
@@ -7204,7 +7204,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="183"/>
         <source>Modification Date: </source>
-        <translation>修改日期:</translation>
+        <translation>修改日期： </translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="215"/>
@@ -8822,7 +8822,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"># 每个计数器</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
@@ -10415,7 +10415,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请使用 工具 › 插件 安装</translation>
     </message>
 </context>
 <context>
@@ -11033,22 +11033,22 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用正则表达式(&amp;u)</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">目录(&amp;o)</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">区分大小写(&amp;c)</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">包括目录(&amp;i)</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -11078,7 +11078,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">浏览(&amp;b)…</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="133"/>
@@ -16790,7 +16790,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2678"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件名（尾数）</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="404"/>
@@ -17132,7 +17132,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="412"/>
         <source> [Create New]</source>
-        <translation>[新建]</translation>
+        <translation type="unfinished"> [新建]</translation>
     </message>
 </context>
 <context>
