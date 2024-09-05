@@ -224,7 +224,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation>Denník zmien</translation>
+        <translation>Zoznam zmien</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -15240,7 +15240,7 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="DlgUpdate.ui" line="75"/>
         <source>Changelog:</source>
-        <translation>Denník zmien:</translation>
+        <translation>Zoznam zmien:</translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="106"/>
