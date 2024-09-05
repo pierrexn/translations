@@ -1772,7 +1772,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="1730"/>
         <source>Enhance</source>
-        <translation type="unfinished">Növelés</translation>
+        <translation>Hangsúlyozás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1731"/>
@@ -1792,12 +1792,12 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvert.cpp" line="1734"/>
         <source>Pixelate</source>
-        <translation type="unfinished">Képpontosítás</translation>
+        <translation>Képpontosítás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1735"/>
         <source>Stylize</source>
-        <translation type="unfinished">Stilizálás</translation>
+        <translation>Stilizálás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1736"/>
@@ -1818,7 +1818,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgEnhanceColors.cpp" line="188"/>
         <source>Enhance colors</source>
-        <translation>Színek növelése</translation>
+        <translation>Színek javítása</translation>
     </message>
     <message>
         <location filename="DlgFilm.cpp" line="134"/>
@@ -4190,7 +4190,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Kerekített élek</translation>
+        <translation>Lekerekített sarkok</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -8817,7 +8817,7 @@ Az almappák jönnek létre. </translation>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"># számláló per</translation>
+        <translation># számláló per</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
@@ -10371,7 +10371,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Név/Vállalat neve:</translation>
+        <translation>Személy/Vállalat neve:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -12310,7 +12310,7 @@ miniatűrként</translation>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">Duplikált fájlok</translation>
+        <translation>Névütközés</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="501"/>
@@ -13270,7 +13270,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Módok váltása</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2237"/>
@@ -19091,17 +19091,17 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Értékelés beállítása</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Színcímke beállítása</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategória beállítása</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
@@ -20652,7 +20652,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Másolat mentése...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="306"/>
@@ -20852,12 +20852,12 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Értékelés beállítása</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Színcímke beállítása</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="482"/>
@@ -21412,7 +21412,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="468"/>
         <source>Enhance colors...</source>
-        <translation>Színek növelése...</translation>
+        <translation>Színek fokozása...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="469"/>
@@ -21619,13 +21619,13 @@ Biztosan folytassuk?</translation>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Másolat mentése</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Mentés másként</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
@@ -21967,8 +21967,8 @@ Biztosan folytassuk?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">A miniatűrök mérete kisebb, mint a választott méret.
-Megváltoztathatja a Beállítások › Katalógusban.</translation>
+        <translation>A gyorsítótárazott miniatűrök kisebbek, mint a választott méret.
+Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="606"/>
@@ -23278,7 +23278,7 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Speciális keresés</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
@@ -23628,7 +23628,7 @@ Megőrizzük a miniatűröket?
     <message>
         <location filename="xnview.cpp" line="1672"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>El akarja menteni a munkamenetet?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3114"/>
