@@ -1201,7 +1201,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="607"/>
         <source>Automatic deskew</source>
-        <translation>Автоматическое выравнивание</translation>
+        <translation>Автовыравнивание</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="628"/>
@@ -21236,7 +21236,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="490"/>
         <source>Automatic Deskew</source>
-        <translation>Автоматическое выравнивание</translation>
+        <translation>Автовыравнивание</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="491"/>
