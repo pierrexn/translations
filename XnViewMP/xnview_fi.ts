@@ -9014,7 +9014,7 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Catalog Maintenance</source>
         <translatorcomment>Katalogin ylläpito</translatorcomment>
-        <translation>Katalogin ylläpito</translation>
+        <translation>Luettelon ylläpito</translation>
     </message>
     <message>
         <source>Some database entries with assigned Rating, 
@@ -15113,7 +15113,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Show source panels</source>
-        <translation>Näytä lähdeikkunat</translation>
+        <translation>Näytä lähdeikkuna</translation>
     </message>
     <message>
         <source>Histogram</source>
