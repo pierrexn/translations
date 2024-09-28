@@ -5319,6 +5319,17 @@ Do you want to overwrite it?</source>
     </message>
 </context>
 <context>
+    <name>DlgConvertXMP</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load template...</source>
+        <translation type="unfinished">Cargar plantilla...</translation>
+    </message>
+</context>
+<context>
     <name>DlgCreateMulti</name>
     <message>
         <source>List</source>
@@ -5576,11 +5587,11 @@ Do you want to overwrite it?</source>
     <name>DlgEditXMP</name>
     <message>
         <source>Mode:</source>
-        <translation>Modo:</translation>
+        <translation type="vanished">Modo:</translation>
     </message>
     <message>
         <source>Public domain</source>
-        <translation>Dominio público</translation>
+        <translation type="vanished">Dominio público</translation>
     </message>
     <message>
         <source>Changing files, please wait...</source>
@@ -5594,19 +5605,19 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>XMP only</source>
-        <translation>Solo XMP</translation>
+        <translation type="vanished">Solo XMP</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation>Biblioteca</translation>
+        <translation type="vanished">Biblioteca</translation>
     </message>
     <message>
         <source>8: Low</source>
-        <translation>8: Baja</translation>
+        <translation type="vanished">8: Baja</translation>
     </message>
     <message>
         <source>0: None</source>
-        <translation>0: Ninguna</translation>
+        <translation type="vanished">0: Ninguna</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
@@ -5614,19 +5625,19 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Sort alphabetically</source>
-        <translation>Ordenar alfabéticamente</translation>
+        <translation type="vanished">Ordenar alfabéticamente</translation>
     </message>
     <message>
         <source>IPTC extensions</source>
-        <translation>Extensiones IPTC</translation>
+        <translation type="vanished">Extensiones IPTC</translation>
     </message>
     <message>
         <source>1: High</source>
-        <translation>1: Alta</translation>
+        <translation type="vanished">1: Alta</translation>
     </message>
     <message>
         <source>Keep original value if new value is empty</source>
-        <translation>Mantener el valor original si el nuevo valor está vacío</translation>
+        <translation type="vanished">Mantener el valor original si el nuevo valor está vacío</translation>
     </message>
     <message>
         <source>Load template...</source>
@@ -5634,19 +5645,19 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Insertar</translation>
+        <translation type="vanished">Insertar</translation>
     </message>
     <message>
         <source>5: Normal</source>
-        <translation>5: Normal</translation>
+        <translation type="vanished">5: Normal</translation>
     </message>
     <message>
         <source>Origin</source>
-        <translation>Origen</translation>
+        <translation type="vanished">Origen</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Calificación</translation>
+        <translation type="vanished">Calificación</translation>
     </message>
     <message>
         <source>Save template...</source>
@@ -5654,19 +5665,19 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Replace only if original value is empty</source>
-        <translation>Reemplazar solo si el valor original está vacío</translation>
+        <translation type="vanished">Reemplazar solo si el valor original está vacío</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Opciones</translation>
+        <translation type="vanished">Opciones</translation>
     </message>
     <message>
         <source>Multiple selection</source>
-        <translation>Selección múltiple</translation>
+        <translation type="vanished">Selección múltiple</translation>
     </message>
     <message>
         <source>Copyright status</source>
-        <translation>Estado de los derechos de autor</translation>
+        <translation type="vanished">Estado de los derechos de autor</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
@@ -5674,7 +5685,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Copy into</source>
-        <translation>Copiar en</translation>
+        <translation type="vanished">Copiar en</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
@@ -5682,23 +5693,23 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Insert from</source>
-        <translation>Insertar desde</translation>
+        <translation type="vanished">Insertar desde</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Descripción</translation>
+        <translation type="vanished">Descripción</translation>
     </message>
     <message>
         <source>Modification Date: </source>
-        <translation>Fecha de modificación: </translation>
+        <translation type="vanished">Fecha de modificación: </translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation>Indefinido</translation>
+        <translation type="vanished">Indefinido</translation>
     </message>
     <message>
         <source>(Use ; or , to separate the values)</source>
-        <translation>(Utilizar ; o , para separar valores)</translation>
+        <translation type="vanished">(Utilizar ; o , para separar valores)</translation>
     </message>
     <message>
         <source>Edit XMP</source>
@@ -5706,15 +5717,15 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Edit history...</source>
-        <translation>Editar historial...</translation>
+        <translation type="vanished">Editar historial...</translation>
     </message>
     <message>
         <source>Protected by copyright</source>
-        <translation>Protegido por derechos de autor</translation>
+        <translation type="vanished">Protegido por derechos de autor</translation>
     </message>
     <message>
         <source>Urgency</source>
-        <translation>Urgencia</translation>
+        <translation type="vanished">Urgencia</translation>
     </message>
     <message>
         <source>Clear all fields</source>
@@ -5722,11 +5733,11 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>IPTC Contact</source>
-        <translation>Contacto IPTC</translation>
+        <translation type="vanished">Contacto IPTC</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, actualizar o crear IPTC-IIM</translation>
+        <translation type="vanished">XMP, actualizar o crear IPTC-IIM</translation>
     </message>
     <message>
         <source>Ctrl+Right</source>
@@ -5734,27 +5745,27 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Creation Date: </source>
-        <translation>Fecha de creación: </translation>
+        <translation type="vanished">Fecha de creación: </translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation>Palabras clave</translation>
+        <translation type="vanished">Palabras clave</translation>
     </message>
     <message>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation>(Utilizar | para separar las palabras clave jerárquicamente)</translation>
+        <translation type="vanished">(Utilizar | para separar las palabras clave jerárquicamente)</translation>
     </message>
     <message>
         <source>Apply parent categories</source>
-        <translation>Aplicar categorías principalesl</translation>
+        <translation type="vanished">Aplicar categorías principalesl</translation>
     </message>
     <message>
         <source>Required field</source>
-        <translation>Campo obligatorio</translation>
+        <translation type="vanished">Campo obligatorio</translation>
     </message>
     <message>
         <source>Some fields are required, please fill them!</source>
-        <translation>¡Algunos campos son obligatorios, por favor, rellénelos!</translation>
+        <translation type="vanished">¡Algunos campos son obligatorios, por favor, rellénelos!</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
@@ -5776,7 +5787,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation>Recordar pestaña abierta</translation>
+        <translation type="vanished">Recordar pestaña abierta</translation>
     </message>
 </context>
 <context>
@@ -5976,7 +5987,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Acercar</translation>
+        <translation type="vanished">Acercar</translation>
     </message>
     <message>
         <source>Images</source>
@@ -5984,11 +5995,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoom 100%</translation>
+        <translation type="vanished">Zoom 100%</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Alejar</translation>
+        <translation type="vanished">Alejar</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -6040,7 +6051,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Ajustar</translation>
+        <translation type="vanished">Ajustar</translation>
     </message>
     <message>
         <source>Greyscale</source>
@@ -6179,6 +6190,14 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Edit palette...</source>
         <translation>Editar paleta...</translation>
+    </message>
+    <message>
+        <source>Use JPEG-li</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to XYB colorspace</source>
+        <translation type="unfinished">Convertir a espacio de color XYB</translation>
     </message>
 </context>
 <context>
@@ -6919,6 +6938,10 @@ Se crearán subcarpetas. </translation>
         <source>Input folder</source>
         <translation>Carpeta de entrada</translation>
     </message>
+    <message>
+        <source>No action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgImportThread</name>
@@ -7409,11 +7432,19 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Configure programs...</source>
-        <translation>Configurar programas...</translation>
+        <translation type="vanished">Configurar programas...</translation>
     </message>
     <message>
         <source>Arguments</source>
         <translation>Argumentos</translation>
+    </message>
+    <message>
+        <source>Configure programs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="unfinished">Ruta</translation>
     </message>
 </context>
 <context>
@@ -12420,6 +12451,157 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
+    <name>EditXMPWidget</name>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descripción</translation>
+    </message>
+    <message>
+        <source>Rating</source>
+        <translation type="unfinished">Calificación</translation>
+    </message>
+    <message>
+        <source>Copyright status</source>
+        <translation type="unfinished">Estado de los derechos de autor</translation>
+    </message>
+    <message>
+        <source>Undefined</source>
+        <translation type="unfinished">Indefinido</translation>
+    </message>
+    <message>
+        <source>Protected by copyright</source>
+        <translation type="unfinished">Protegido por derechos de autor</translation>
+    </message>
+    <message>
+        <source>Public domain</source>
+        <translation type="unfinished">Dominio público</translation>
+    </message>
+    <message>
+        <source>Creation Date: </source>
+        <translation type="unfinished">Fecha de creación: </translation>
+    </message>
+    <message>
+        <source>Modification Date: </source>
+        <translation type="unfinished">Fecha de modificación: </translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation type="unfinished">Palabras clave</translation>
+    </message>
+    <message>
+        <source>(Use | to separate keywords in hierarchy)</source>
+        <translation type="unfinished">(Utilizar | para separar las palabras clave jerárquicamente)</translation>
+    </message>
+    <message>
+        <source>Apply parent categories</source>
+        <translation type="unfinished">Aplicar categorías principalesl</translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <translation type="unfinished">Origen</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="unfinished">Fecha de creación</translation>
+    </message>
+    <message>
+        <source>Urgency</source>
+        <translation type="unfinished">Urgencia</translation>
+    </message>
+    <message>
+        <source>IPTC Contact</source>
+        <translation type="unfinished">Contacto IPTC</translation>
+    </message>
+    <message>
+        <source>IPTC extensions</source>
+        <translation type="unfinished">Extensiones IPTC</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Opciones</translation>
+    </message>
+    <message>
+        <source>Mode:</source>
+        <translation type="unfinished">Modo:</translation>
+    </message>
+    <message>
+        <source>XMP only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMP, update or create IPTC-IIM</source>
+        <translation type="unfinished">XMP, actualizar o crear IPTC-IIM</translation>
+    </message>
+    <message>
+        <source>Multiple selection</source>
+        <translation type="unfinished">Selección múltiple</translation>
+    </message>
+    <message>
+        <source>Keep original value if new value is empty</source>
+        <translation type="unfinished">Mantener el valor original si el nuevo valor está vacío</translation>
+    </message>
+    <message>
+        <source>Replace only if original value is empty</source>
+        <translation type="unfinished">Reemplazar solo si el valor original está vacío</translation>
+    </message>
+    <message>
+        <source>Remember opened tab</source>
+        <translation type="unfinished">Recordar pestaña abierta</translation>
+    </message>
+    <message>
+        <source>(Use ; or , to separate the values)</source>
+        <translation type="unfinished">(Utilizar ; o , para separar valores)</translation>
+    </message>
+    <message>
+        <source>0: None</source>
+        <translation type="unfinished">0: Ninguna</translation>
+    </message>
+    <message>
+        <source>1: High</source>
+        <translation type="unfinished">1: Alta</translation>
+    </message>
+    <message>
+        <source>5: Normal</source>
+        <translation type="unfinished">5: Normal</translation>
+    </message>
+    <message>
+        <source>8: Low</source>
+        <translation type="unfinished">8: Baja</translation>
+    </message>
+    <message>
+        <source>Required field</source>
+        <translation type="unfinished">Campo obligatorio</translation>
+    </message>
+    <message>
+        <source>Some fields are required, please fill them!</source>
+        <translation type="unfinished">¡Algunos campos son obligatorios, por favor, rellénelos!</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished">Insertar</translation>
+    </message>
+    <message>
+        <source>Insert from</source>
+        <translation type="unfinished">Insertar desde</translation>
+    </message>
+    <message>
+        <source>Copy into</source>
+        <translation type="unfinished">Copiar en</translation>
+    </message>
+    <message>
+        <source>Library</source>
+        <translation type="unfinished">Biblioteca</translation>
+    </message>
+    <message>
+        <source>Edit history...</source>
+        <translation type="unfinished">Editar historial...</translation>
+    </message>
+    <message>
+        <source>Sort alphabetically</source>
+        <translation type="unfinished">Ordenar alfabéticamente</translation>
+    </message>
+</context>
+<context>
     <name>Email</name>
     <message>
         <source>Abort</source>
@@ -13048,6 +13230,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Filename (last number)</source>
         <translation>Nombre del archivo (último número)</translation>
+    </message>
+    <message>
+        <source>Create date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify date</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13805,7 +13995,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Object name</source>
-        <translation>Nombre del objeto</translation>
+        <translation type="vanished">Nombre del objeto</translation>
     </message>
     <message>
         <source>Contact</source>
@@ -17265,6 +17455,10 @@ Clic Derecho para menú contextual con acciones.</translation>
     <message>
         <source>Categories</source>
         <translation>Categorías</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished">Mapa</translation>
     </message>
 </context>
 <context>

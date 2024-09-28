@@ -4,102 +4,102 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="419"/>
+        <location filename="MyThumbSettings.cpp" line="420"/>
         <source>Uncolored</source>
         <translation>Non coloré</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="425"/>
+        <location filename="MyThumbSettings.cpp" line="426"/>
         <source>Important</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="425"/>
+        <location filename="MyThumbSettings.cpp" line="426"/>
         <source>Red</source>
         <translation>Rouge</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="425"/>
+        <location filename="MyThumbSettings.cpp" line="426"/>
         <source>Select</source>
         <translation>Sélection</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="426"/>
+        <location filename="MyThumbSettings.cpp" line="427"/>
         <source>Work</source>
         <translation>Travail</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="426"/>
+        <location filename="MyThumbSettings.cpp" line="427"/>
         <source>Yellow</source>
         <translation>Jaune</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="426"/>
+        <location filename="MyThumbSettings.cpp" line="427"/>
         <source>Second</source>
         <translation>Second</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="427"/>
+        <location filename="MyThumbSettings.cpp" line="428"/>
         <source>Personal</source>
         <translation>Personnel</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="427"/>
+        <location filename="MyThumbSettings.cpp" line="428"/>
         <source>Green</source>
         <translation>Vert</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="427"/>
+        <location filename="MyThumbSettings.cpp" line="428"/>
         <source>Approved</source>
         <translation>Approuvé</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="428"/>
+        <location filename="MyThumbSettings.cpp" line="429"/>
         <source>To do</source>
         <translation>A faire</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="428"/>
+        <location filename="MyThumbSettings.cpp" line="429"/>
         <source>Blue</source>
         <translation>Bleu</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="428"/>
+        <location filename="MyThumbSettings.cpp" line="429"/>
         <source>Review</source>
         <translation>Vérification</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="429"/>
+        <location filename="MyThumbSettings.cpp" line="430"/>
         <source>Later</source>
         <translation>Plus tard</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="429"/>
+        <location filename="MyThumbSettings.cpp" line="430"/>
         <source>Purple</source>
         <translation>Violet</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="429"/>
+        <location filename="MyThumbSettings.cpp" line="430"/>
         <source>To Do</source>
         <translation>A faire</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="430"/>
+        <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Orange</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="431"/>
+        <location filename="MyThumbSettings.cpp" line="432"/>
         <source>Grey</source>
         <translation>Gris</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="432"/>
+        <location filename="MyThumbSettings.cpp" line="433"/>
         <source>Black</source>
         <translation>Noir</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="433"/>
+        <location filename="MyThumbSettings.cpp" line="434"/>
         <source>White</source>
         <translation>Blanc</translation>
     </message>
@@ -263,91 +263,91 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1392"/>
+        <location filename="ViewWindow.cpp" line="1414"/>
         <source>Frame %1/%2</source>
         <translation>Image %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1395"/>
+        <location filename="ViewWindow.cpp" line="1417"/>
         <source>Icon %1/%2</source>
         <translation>Icône %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1397"/>
+        <location filename="ViewWindow.cpp" line="1419"/>
         <source>Page %1/%2</source>
         <translation>Page %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1561"/>
-        <location filename="ViewWindow.cpp" line="1580"/>
+        <location filename="ViewWindow.cpp" line="1583"/>
+        <location filename="ViewWindow.cpp" line="1602"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Vide &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1949"/>
+        <location filename="ViewWindow.cpp" line="1983"/>
         <source>Customize toolbar...</source>
         <translation>Personnaliser la barre d&apos;outils...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2208"/>
-        <location filename="ViewWindow.cpp" line="2214"/>
-        <location filename="ViewWindow.cpp" line="2218"/>
+        <location filename="ViewWindow.cpp" line="2242"/>
+        <location filename="ViewWindow.cpp" line="2248"/>
+        <location filename="ViewWindow.cpp" line="2252"/>
         <source>Delete items</source>
         <translation>Suppression d&apos;objets</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2208"/>
+        <location filename="ViewWindow.cpp" line="2242"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Voulez-vous annuler vos changements et effacer
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2214"/>
+        <location filename="ViewWindow.cpp" line="2248"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Voulez vous vraiment supprimer
 &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2218"/>
+        <location filename="ViewWindow.cpp" line="2252"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Etes-vous sûr de vouloir supprimer 
 &quot;%1&quot; (%2 fichiers)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2796"/>
+        <location filename="ViewWindow.cpp" line="2830"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>L&apos;image sera convertie en RVB 24 bits (8 bits par canal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2814"/>
+        <location filename="ViewWindow.cpp" line="2848"/>
         <source>Confirm Save</source>
         <translation>Confirmation sauvegarde</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2815"/>
+        <location filename="ViewWindow.cpp" line="2849"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; existe déjà!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2815"/>
+        <location filename="ViewWindow.cpp" line="2849"/>
         <source>Do you want to overwrite it?</source>
         <translation>Voulez-vous l&apos;écraser?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4232"/>
+        <location filename="ViewWindow.cpp" line="4284"/>
         <source>Number of unique colors: %1</source>
         <translation>Nombre de couleurs uniques : %1</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="211"/>
+        <location filename="ViewWindow.cpp" line="234"/>
         <source>Save changed file</source>
         <translation>Enregistrement du fichier modifié</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="212"/>
+        <location filename="ViewWindow.cpp" line="235"/>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
         <oldsource>Do you want to save changes to
@@ -357,63 +357,63 @@
 &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="215"/>
+        <location filename="ViewWindow.cpp" line="238"/>
         <source>Save &amp;as...</source>
         <translation>Enregistrer &amp;sous...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="223"/>
+        <location filename="ViewWindow.cpp" line="246"/>
         <source>&amp;Save</source>
         <translation>&amp;Enregistrer</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="224"/>
+        <location filename="ViewWindow.cpp" line="247"/>
         <source>&amp;Don&apos;t Save</source>
         <translation>&amp;Ne pas enregistrer</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="227"/>
+        <location filename="ViewWindow.cpp" line="250"/>
         <source>Don&apos;t ask again</source>
         <translation>Ne plus demander</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2796"/>
-        <location filename="ViewWindow.cpp" line="2806"/>
+        <location filename="ViewWindow.cpp" line="2830"/>
+        <location filename="ViewWindow.cpp" line="2840"/>
         <source>Save</source>
         <translation>Enregistrer</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2806"/>
+        <location filename="ViewWindow.cpp" line="2840"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Le fichier &lt;%1&gt; est en lecture-seule, merci de choisir un autre nom de fichier.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2840"/>
-        <location filename="ViewWindow.cpp" line="2970"/>
-        <location filename="ViewWindow.cpp" line="3020"/>
+        <location filename="ViewWindow.cpp" line="2874"/>
+        <location filename="ViewWindow.cpp" line="3004"/>
+        <location filename="ViewWindow.cpp" line="3054"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Enregistrement de l&apos;image...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2842"/>
-        <location filename="ViewWindow.cpp" line="3022"/>
+        <location filename="ViewWindow.cpp" line="2876"/>
+        <location filename="ViewWindow.cpp" line="3056"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2842"/>
-        <location filename="ViewWindow.cpp" line="3022"/>
+        <location filename="ViewWindow.cpp" line="2876"/>
+        <location filename="ViewWindow.cpp" line="3056"/>
         <source>An error occurred during saving!</source>
         <translation>Une erreur est survenue pendant la sauvegarde!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3110"/>
+        <location filename="ViewWindow.cpp" line="3144"/>
         <source>Properties</source>
         <translation>Propriétés</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4232"/>
+        <location filename="ViewWindow.cpp" line="4284"/>
         <source>Colors count</source>
         <translation>Nombre de couleurs</translation>
     </message>
@@ -450,7 +450,7 @@
 <context>
     <name>AutoHideButton</name>
     <message>
-        <location filename="ViewAutoHidePanel.cpp" line="36"/>
+        <location filename="ViewAutoHidePanel.cpp" line="37"/>
         <source>Auto hide</source>
         <translation>Masquer automatiquement</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4716"/>
+        <location filename="ViewWindow.cpp" line="4768"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4707"/>
-        <location filename="ViewWindow.cpp" line="4716"/>
+        <location filename="ViewWindow.cpp" line="4759"/>
+        <location filename="ViewWindow.cpp" line="4768"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Le fichier ne peut être chargé !</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4707"/>
+        <location filename="ViewWindow.cpp" line="4759"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Pour visualiser et convertir les fichiers PDF/PS/EPS/AI, Ghostscript %1 doit être installé sur votre système.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4708"/>
+        <location filename="ViewWindow.cpp" line="4760"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Merci de visiter %1 pour plus d&apos;informations.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4720"/>
+        <location filename="ViewWindow.cpp" line="4772"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Vide &gt;</translation>
     </message>
@@ -546,130 +546,130 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="661"/>
+        <location filename="BrowserWindow.cpp" line="662"/>
         <source>Customize toolbar...</source>
         <translation>Personnaliser la barre d&apos;outils...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1639"/>
+        <location filename="BrowserWindow.cpp" line="1640"/>
         <source>Add Favorite...</source>
         <translation>Ajouter favori...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1864"/>
+        <location filename="BrowserWindow.cpp" line="1871"/>
         <source>Folders</source>
         <translation>Dossiers</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1868"/>
+        <location filename="BrowserWindow.cpp" line="1875"/>
         <source>Favorites</source>
         <translation>Favoris</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1872"/>
+        <location filename="BrowserWindow.cpp" line="1879"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Filtre catalogue</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1882"/>
+        <location filename="BrowserWindow.cpp" line="1889"/>
         <source>Categories</source>
         <translation>Catégories</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1887"/>
+        <location filename="BrowserWindow.cpp" line="1894"/>
         <source>Category Sets</source>
         <translation>Groupe de catégories</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1918"/>
+        <location filename="BrowserWindow.cpp" line="1927"/>
         <source>Info</source>
         <translation>Informations</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="665"/>
+        <location filename="BrowserWindow.cpp" line="666"/>
         <source>Detach preview panel</source>
         <translation>Détacher le volet de l&apos;aperçu</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="667"/>
+        <location filename="BrowserWindow.cpp" line="668"/>
         <source>Attach preview panel</source>
         <translation>Attacher le volet de l&apos;aperçu</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="901"/>
+        <location filename="BrowserWindow.cpp" line="902"/>
         <source>The database is corrupted, please check it before to continue!</source>
         <translation>La base de données est corromptue, merci de vérifier avant de continuer!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1631"/>
+        <location filename="BrowserWindow.cpp" line="1632"/>
         <source>Add to Favorites</source>
         <translation>Ajouter aux favoris</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1926"/>
+        <location filename="BrowserWindow.cpp" line="1935"/>
         <source>Metadata</source>
         <translation>Métadonnées</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1935"/>
+        <location filename="BrowserWindow.cpp" line="1944"/>
         <source>Histogram</source>
         <translation>Histogramme</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2109"/>
+        <location filename="BrowserWindow.cpp" line="2118"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2115"/>
+        <location filename="BrowserWindow.cpp" line="2124"/>
         <source>Match any selected entry (OR)</source>
         <translation>N&apos;importe quelle entrée sélectionnée (OU)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2121"/>
+        <location filename="BrowserWindow.cpp" line="2130"/>
         <source>Match all selected entries (AND)</source>
         <translation>Toute entrée sélectionnée (ET)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2132"/>
+        <location filename="BrowserWindow.cpp" line="2141"/>
         <source>Global</source>
         <translation>Global</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2139"/>
+        <location filename="BrowserWindow.cpp" line="2148"/>
         <source>Current folder</source>
         <translation>Dossier courant</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2146"/>
+        <location filename="BrowserWindow.cpp" line="2155"/>
         <source>Current folder (Recursive)</source>
         <translation>Dossier courant (récursif)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3226"/>
+        <location filename="BrowserWindow.cpp" line="3241"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Résultat de la recherche&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3228"/>
+        <location filename="BrowserWindow.cpp" line="3243"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Fichiers marqués&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3317"/>
+        <location filename="BrowserWindow.cpp" line="3332"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Ce dossier n&apos;existe pas !</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3536"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
         <source>Favorite name:</source>
         <translation>Nom du favori :</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3780"/>
+        <location filename="BrowserWindow.cpp" line="3796"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Etes-vous sûr de vouloir supprimer ce(s) %n fichier(s) ?</numerusform>
@@ -677,33 +677,33 @@ Drag and Drop over the desired node to assign.</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3865"/>
+        <location filename="BrowserWindow.cpp" line="3881"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Une erreur est survenue, les fichiers ne peuvent être renommés.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3317"/>
-        <location filename="BrowserWindow.cpp" line="3865"/>
+        <location filename="BrowserWindow.cpp" line="3332"/>
+        <location filename="BrowserWindow.cpp" line="3881"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3230"/>
+        <location filename="BrowserWindow.cpp" line="3245"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Résultats filtre catalogue&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3232"/>
+        <location filename="BrowserWindow.cpp" line="3247"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;fichiers&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3773"/>
+        <location filename="BrowserWindow.cpp" line="3789"/>
         <source>Delete items &amp; companions</source>
         <translation>Effacer les éléments avec compagnons</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3774"/>
+        <location filename="BrowserWindow.cpp" line="3790"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Voulez-vous effacer ces %n fichier(s) - %1 fichier(s) sélectionné(s)?</numerusform>
@@ -711,62 +711,62 @@ Drag and Drop over the desired node to assign.</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4229"/>
+        <location filename="BrowserWindow.cpp" line="4245"/>
         <source>Search...</source>
         <translation>Rechercher...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4230"/>
+        <location filename="BrowserWindow.cpp" line="4246"/>
         <source>Add to favorites...</source>
         <translation>Ajouter aux favoris...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4233"/>
+        <location filename="BrowserWindow.cpp" line="4249"/>
         <source>Start slideshow</source>
         <translation>Démarrer le diaporama</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4238"/>
+        <location filename="BrowserWindow.cpp" line="4254"/>
         <source>Properties</source>
         <translation>Propriétés</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4347"/>
+        <location filename="BrowserWindow.cpp" line="4363"/>
         <source>Load filelist</source>
         <translation>Charger une liste de fichiers</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2099"/>
+        <location filename="BrowserWindow.cpp" line="2108"/>
         <source>Match</source>
         <translation>Correspond</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3779"/>
+        <location filename="BrowserWindow.cpp" line="3795"/>
         <source>Delete items</source>
         <translation>Suppression d&apos;objets</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4227"/>
+        <location filename="BrowserWindow.cpp" line="4243"/>
         <source>Show files in subfolders</source>
         <translation>Voir les fichiers des sous-dossiers</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4235"/>
+        <location filename="BrowserWindow.cpp" line="4251"/>
         <source>Explorer</source>
         <translation>Explorer</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4270"/>
+        <location filename="BrowserWindow.cpp" line="4286"/>
         <source>Delete folder</source>
         <translation>Supprimer le répertoire</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4270"/>
+        <location filename="BrowserWindow.cpp" line="4286"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Etes-vous sûr de vouloir supprimer ce répertoire ?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="613"/>
+        <location filename="BrowserWindow.cpp" line="614"/>
         <source>Browser</source>
         <translation>Explorateur</translation>
     </message>
@@ -1154,351 +1154,351 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Bas droite</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="167"/>
+        <location filename="DlgConvertProcess.h" line="170"/>
         <location filename="DlgConvertEmpty.h" line="22"/>
         <source>No settings</source>
         <translation>Aucun paramètres</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="226"/>
+        <location filename="DlgConvertProcess.h" line="229"/>
         <source>Change color depth</source>
         <translation>Modifier le nombre de couleurs</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1727"/>
-        <location filename="DlgConvertProcess.h" line="369"/>
+        <location filename="DlgConvert.cpp" line="1728"/>
+        <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation>Ajuster</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="513"/>
-        <location filename="DlgAutoCrop.h" line="105"/>
+        <location filename="DlgConvertProcess.h" line="516"/>
+        <location filename="DlgAutoCrop.h" line="107"/>
         <source>Automatic crop</source>
         <translation>Rognage automatique</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="566"/>
+        <location filename="DlgConvertProcess.h" line="569"/>
         <source>Zealous crop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="607"/>
+        <location filename="DlgConvertProcess.h" line="610"/>
         <source>Automatic deskew</source>
         <translation>Redressement automatique</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="628"/>
+        <location filename="DlgConvertProcess.h" line="631"/>
         <source>Clean metadata</source>
         <translation>Effacer les métadonnées</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="667"/>
+        <location filename="DlgConvertProcess.h" line="670"/>
         <source>Watermark</source>
         <translation>Filigrane</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="826"/>
+        <location filename="DlgConvertProcess.h" line="829"/>
         <source>Text</source>
         <translation>Texte</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1335"/>
+        <location filename="DlgConvertProcess.h" line="1338"/>
         <source>Crop</source>
         <translation>Rogner</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1403"/>
+        <location filename="DlgConvertProcess.h" line="1406"/>
         <source>Canvas resize</source>
         <translation>Recadrage</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1639"/>
+        <location filename="DlgConvertProcess.h" line="1642"/>
         <source>Resize</source>
         <translation>Redimensionner</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2057"/>
+        <location filename="DlgConvertProcess.h" line="2060"/>
         <source>Rotate</source>
         <translation>Rotation</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2387"/>
+        <location filename="DlgConvertProcess.h" line="2390"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
         <translation>Modifier les PPI</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2426"/>
+        <location filename="DlgConvertProcess.h" line="2429"/>
         <source>Extract channel</source>
         <translation>Extraire le canal</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="394"/>
+        <location filename="DlgConvertProcess.h" line="397"/>
         <location filename="DlgLevels.h" line="47"/>
         <source>Levels</source>
         <translation>Niveaux</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="476"/>
+        <location filename="DlgConvertProcess.h" line="479"/>
         <location filename="DlgCurves.h" line="41"/>
         <source>Curves</source>
         <translation>Courbes</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4668"/>
+        <location filename="DlgConvertProcess.h" line="4671"/>
         <location filename="DlgWhiteBalance.h" line="88"/>
         <source>White Balance</source>
         <translation>Balance des blancs</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2450"/>
+        <location filename="DlgConvertProcess.h" line="2453"/>
         <source>Black/White Points</source>
         <translation>Points Blanc/Noir</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2471"/>
+        <location filename="DlgConvertProcess.h" line="2474"/>
         <source>Mirror</source>
         <translation>Miroir</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2495"/>
+        <location filename="DlgConvertProcess.h" line="2498"/>
         <source>Replace color</source>
         <translation>Remplacer couleur</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2527"/>
+        <location filename="DlgConvertProcess.h" line="2530"/>
         <source>Transparent color</source>
         <translation>Couleur Transparente</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2574"/>
+        <location filename="DlgConvertProcess.h" line="2577"/>
         <source>Aspect Pad</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2633"/>
+        <location filename="DlgConvertProcess.h" line="2636"/>
         <source>Color balance</source>
         <translation>Balance des couleurs</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2659"/>
+        <location filename="DlgConvertProcess.h" line="2662"/>
         <source>HLS</source>
         <translation>HLS</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2734"/>
+        <location filename="DlgConvertProcess.h" line="2737"/>
         <location filename="DlgShadowHighlight.h" line="88"/>
         <source>Shadow-Highlight</source>
         <translation>Teintes sombres/claires</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2756"/>
+        <location filename="DlgConvertProcess.h" line="2759"/>
         <source>Add noise</source>
         <translation>Ajouter du bruit</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2832"/>
+        <location filename="DlgConvertProcess.h" line="2835"/>
         <source>Edge detect</source>
         <translation>Détection du contour</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2899"/>
+        <location filename="DlgConvertProcess.h" line="2902"/>
         <source>De-interlace</source>
         <translation>Désentrelacer</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3231"/>
+        <location filename="DlgConvertProcess.h" line="3234"/>
         <source>Blurred frame</source>
         <translation>Bordure floue</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3476"/>
+        <location filename="DlgConvertProcess.h" line="3479"/>
         <source>Inner Frame</source>
         <translation>Cadre intérieur</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3830"/>
+        <location filename="DlgConvertProcess.h" line="3833"/>
         <source>JPEG Lossless rotation</source>
         <translation>Rotation JPEG sans pertes</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4241"/>
+        <location filename="DlgConvertProcess.h" line="4244"/>
         <source>Retro</source>
         <translation>Effet rétro</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4470"/>
+        <location filename="DlgConvertProcess.h" line="4473"/>
         <source>Film Simulation</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4510"/>
+        <location filename="DlgConvertProcess.h" line="4513"/>
         <source>Bloom</source>
         <translation>Bloom</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4534"/>
+        <location filename="DlgConvertProcess.h" line="4537"/>
         <source>Unsharp Mask</source>
         <translation>Masque de netteté</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4566"/>
+        <location filename="DlgConvertProcess.h" line="4569"/>
         <source>Clear transparent pixels</source>
         <translation>Effacer les pixels transparents</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4580"/>
+        <location filename="DlgConvertProcess.h" line="4583"/>
         <source>Remove alpha channel</source>
         <translation>Enlever le canal alpha</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4594"/>
+        <location filename="DlgConvertProcess.h" line="4597"/>
         <location filename="DlgOffset.h" line="100"/>
         <source>Offset</source>
         <translation>Décalage</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4620"/>
+        <location filename="DlgConvertProcess.h" line="4623"/>
         <source>Symmetry</source>
         <translation>Symétrie</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4641"/>
+        <location filename="DlgConvertProcess.h" line="4644"/>
         <source>Saturation</source>
         <translation>Saturation</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4684"/>
+        <location filename="DlgConvertProcess.h" line="4687"/>
         <source>Mono Mixer</source>
         <translation>Mixer Mono</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4709"/>
+        <location filename="DlgConvertProcess.h" line="4712"/>
         <source>Fantasy</source>
         <translation>Fantaisie</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4729"/>
+        <location filename="DlgConvertProcess.h" line="4732"/>
         <source>Crystallize</source>
         <translation>Cristalliser</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4747"/>
+        <location filename="DlgConvertProcess.h" line="4750"/>
         <source>Temperature</source>
         <translation>Température</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4764"/>
+        <location filename="DlgConvertProcess.h" line="4767"/>
         <source>Photo Spread</source>
         <translation>Série de photos</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4791"/>
+        <location filename="DlgConvertProcess.h" line="4794"/>
         <source>Frequency</source>
         <translation>Fréquence</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4796"/>
+        <location filename="DlgConvertProcess.h" line="4799"/>
         <source>Halftone</source>
         <translation>Demi-ton</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4892"/>
+        <location filename="DlgConvertProcess.h" line="4933"/>
         <source>QR Code</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2921"/>
+        <location filename="DlgConvertProcess.h" line="2924"/>
         <location filename="Dlg1SliderPanel.h" line="82"/>
         <source>Posterize</source>
         <translation>Postériser</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2699"/>
+        <location filename="DlgConvertProcess.h" line="2702"/>
         <source>Swap color</source>
         <translation>Inverser couleur</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2941"/>
+        <location filename="DlgConvertProcess.h" line="2944"/>
         <source>Border 3D</source>
         <translation>Bordure 3D</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2968"/>
+        <location filename="DlgConvertProcess.h" line="2971"/>
         <source>Waves</source>
         <translation>Vagues</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2973"/>
+        <location filename="DlgConvertProcess.h" line="2976"/>
         <source>Length</source>
         <translation>Longueur</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2974"/>
+        <location filename="DlgConvertProcess.h" line="2977"/>
         <source>Phase</source>
         <translation>Phase</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2975"/>
+        <location filename="DlgConvertProcess.h" line="2978"/>
         <source>Amount</source>
         <translation>Intensité</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3017"/>
+        <location filename="DlgConvertProcess.h" line="3020"/>
         <source>Normalize Ex</source>
         <translation>Normaliser Ex</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3022"/>
-        <location filename="DlgConvertProcess.h" line="3080"/>
+        <location filename="DlgConvertProcess.h" line="3025"/>
+        <location filename="DlgConvertProcess.h" line="3083"/>
         <source>Black limit %</source>
         <translation>Limite noir %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3023"/>
-        <location filename="DlgConvertProcess.h" line="3081"/>
+        <location filename="DlgConvertProcess.h" line="3026"/>
+        <location filename="DlgConvertProcess.h" line="3084"/>
         <source>White limit %</source>
         <translation>Limite blanc %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3024"/>
+        <location filename="DlgConvertProcess.h" line="3027"/>
         <source>Expansion limit</source>
         <translation>Limite d&apos;expansion</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3075"/>
+        <location filename="DlgConvertProcess.h" line="3078"/>
         <source>Align histogram</source>
         <translation>Aligner l&apos;histogramme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3082"/>
+        <location filename="DlgConvertProcess.h" line="3085"/>
         <source>Align %</source>
         <translation>Alignement %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3146"/>
+        <location filename="DlgConvertProcess.h" line="3149"/>
         <source>ICC convert</source>
         <translation>Convertir le profil ICC</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3288"/>
+        <location filename="DlgConvertProcess.h" line="3291"/>
         <source>Border</source>
         <translation>Bordure</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3522"/>
+        <location filename="DlgConvertProcess.h" line="3525"/>
         <location filename="DlgOldCamera.h" line="99"/>
         <source>Old camera</source>
         <translation>Vieil appareil photo</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3543"/>
+        <location filename="DlgConvertProcess.h" line="3546"/>
         <location filename="DlgVignetting.h" line="108"/>
         <source>Vignetting</source>
         <translation>Vignetage</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3722"/>
+        <location filename="DlgConvertProcess.h" line="3725"/>
         <source>Add mask</source>
         <translation>Ajouter masque</translation>
     </message>
@@ -1543,284 +1543,284 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Droite</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="201"/>
+        <location filename="DlgConvert.cpp" line="202"/>
         <source>Automatic levels</source>
         <translation>Niveaux automatiques</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="202"/>
+        <location filename="DlgConvert.cpp" line="203"/>
         <source>Automatic contrast</source>
         <translation>Contraste automatique</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="203"/>
+        <location filename="DlgConvert.cpp" line="204"/>
         <source>Negative</source>
         <translation>Négatif</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="204"/>
+        <location filename="DlgConvert.cpp" line="205"/>
         <source>Desaturate</source>
         <translation>Désaturation</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="207"/>
+        <location filename="DlgConvert.cpp" line="208"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation>LUT logarithmique</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="209"/>
+        <location filename="DlgConvert.cpp" line="210"/>
         <source>Normalize</source>
         <translation>Normaliser</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="213"/>
+        <location filename="DlgConvert.cpp" line="214"/>
         <source>Equalize</source>
         <translation>Egaliser</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="214"/>
+        <location filename="DlgConvert.cpp" line="215"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
         <translation>Sépia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="215"/>
+        <location filename="DlgConvert.cpp" line="216"/>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>Solariser</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="224"/>
+        <location filename="DlgConvert.cpp" line="225"/>
         <source>Exposure</source>
         <translation>Exposition</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="232"/>
+        <location filename="DlgConvert.cpp" line="233"/>
         <location filename="DlgFilter.cpp" line="27"/>
         <source>Enhance detail</source>
         <translation>Accentuer les détails</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="233"/>
+        <location filename="DlgConvert.cpp" line="234"/>
         <location filename="DlgFilter.cpp" line="28"/>
         <source>Enhance focus</source>
         <translation>Accentuer le focus</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="234"/>
+        <location filename="DlgConvert.cpp" line="235"/>
         <location filename="DlgFilter.cpp" line="29"/>
         <source>Enhance edges</source>
         <translation>Accentuer les bords</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="235"/>
+        <location filename="DlgConvert.cpp" line="236"/>
         <location filename="DlgFilter.cpp" line="30"/>
         <source>Focus restoration</source>
         <translation>Restauration du focus</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="237"/>
+        <location filename="DlgConvert.cpp" line="238"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Emboss</source>
         <translation>Bosseler</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="238"/>
+        <location filename="DlgConvert.cpp" line="239"/>
         <location filename="DlgFilter.cpp" line="38"/>
         <source>Emboss more</source>
         <translation>Bosseler +</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="239"/>
+        <location filename="DlgConvert.cpp" line="240"/>
         <location filename="DlgFilter.cpp" line="22"/>
         <source>Average</source>
         <translation>Moyenne</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="240"/>
-        <location filename="DlgConvert.cpp" line="1728"/>
+        <location filename="DlgConvert.cpp" line="241"/>
+        <location filename="DlgConvert.cpp" line="1729"/>
         <location filename="DlgFilter.cpp" line="23"/>
         <source>Blur</source>
         <translation>Flou</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="241"/>
+        <location filename="DlgConvert.cpp" line="242"/>
         <location filename="DlgFilter.cpp" line="24"/>
         <source>Soften</source>
         <translation>Adoucir</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="242"/>
+        <location filename="DlgConvert.cpp" line="243"/>
         <location filename="DlgFilter.cpp" line="25"/>
         <source>Gaussian blur</source>
         <translation>Flou gaussien</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="243"/>
+        <location filename="DlgConvert.cpp" line="244"/>
         <location filename="DlgFilter.cpp" line="39"/>
         <source>Maximum</source>
         <translation>Maximum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="244"/>
+        <location filename="DlgConvert.cpp" line="245"/>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="245"/>
+        <location filename="DlgConvert.cpp" line="246"/>
         <location filename="DlgFilter.cpp" line="41"/>
         <source>Median box</source>
         <translation>Médian carré</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="246"/>
+        <location filename="DlgConvert.cpp" line="247"/>
         <location filename="DlgFilter.cpp" line="42"/>
         <source>Median cross</source>
         <translation>Médian croix</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="247"/>
+        <location filename="DlgConvert.cpp" line="248"/>
         <location filename="DlgFilter.cpp" line="36"/>
         <source>Sharpen</source>
         <translation>Accentuer</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="249"/>
+        <location filename="DlgConvert.cpp" line="250"/>
         <location filename="DlgFilter.cpp" line="44"/>
         <source>Reduce noise</source>
         <translation>Réduire le bruit</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="258"/>
+        <location filename="DlgConvert.cpp" line="259"/>
         <location filename="DlgFilter.cpp" line="53"/>
         <source>Mosaic</source>
         <translation>Mosaïque</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="259"/>
+        <location filename="DlgConvert.cpp" line="260"/>
         <location filename="DlgFilter.cpp" line="54"/>
         <source>Slice</source>
         <translation>Trancher</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="260"/>
+        <location filename="DlgConvert.cpp" line="261"/>
         <location filename="DlgFilter.cpp" line="55"/>
         <source>Tile</source>
         <translation>Damier</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="261"/>
+        <location filename="DlgConvert.cpp" line="262"/>
         <location filename="DlgFilter.cpp" line="56"/>
         <source>Shear</source>
         <translation>Déformer</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="262"/>
+        <location filename="DlgConvert.cpp" line="263"/>
         <location filename="DlgFilter.cpp" line="57"/>
         <source>Oil painting</source>
         <translation>Huile</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="263"/>
+        <location filename="DlgConvert.cpp" line="264"/>
         <location filename="DlgFilter.cpp" line="58"/>
         <source>Oil painting 2</source>
         <translation>Huile 2</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="264"/>
+        <location filename="DlgConvert.cpp" line="265"/>
         <location filename="DlgFilter.cpp" line="59"/>
         <source>Swirl</source>
         <translation>Spirale</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="265"/>
+        <location filename="DlgConvert.cpp" line="266"/>
         <location filename="DlgFilter.cpp" line="60"/>
         <source>Spread</source>
         <translation>Étale</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="266"/>
+        <location filename="DlgConvert.cpp" line="267"/>
         <location filename="DlgFilter.cpp" line="61"/>
         <source>Lens</source>
         <translation>Lentille</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="269"/>
+        <location filename="DlgConvert.cpp" line="270"/>
         <location filename="DlgFilter.cpp" line="64"/>
         <source>Band</source>
         <translation>Bandes</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="282"/>
+        <location filename="DlgConvert.cpp" line="283"/>
         <location filename="DlgFilter.cpp" line="77"/>
         <source>Pointillize</source>
         <translation>Pointillisme</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1726"/>
+        <location filename="DlgConvert.cpp" line="1727"/>
         <source>Add</source>
         <translation>Ajouter</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1729"/>
+        <location filename="DlgConvert.cpp" line="1730"/>
         <source>Channel</source>
         <translation>Canal</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1730"/>
+        <location filename="DlgConvert.cpp" line="1731"/>
         <source>Enhance</source>
         <translation>Améliorer</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1731"/>
+        <location filename="DlgConvert.cpp" line="1732"/>
         <source>Frame</source>
         <translation>Cadre</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1732"/>
+        <location filename="DlgConvert.cpp" line="1733"/>
         <source>Metadata</source>
         <translation>Métadonnées</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1733"/>
+        <location filename="DlgConvert.cpp" line="1734"/>
         <source>Noise</source>
         <translation>Bruit</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1734"/>
+        <location filename="DlgConvert.cpp" line="1735"/>
         <source>Pixelate</source>
         <translation>Pixéliser</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1735"/>
+        <location filename="DlgConvert.cpp" line="1736"/>
         <source>Stylize</source>
         <translation>Style</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1736"/>
+        <location filename="DlgConvert.cpp" line="1737"/>
         <source>Transform</source>
         <translation>Transformation</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1737"/>
+        <location filename="DlgConvert.cpp" line="1738"/>
         <source>Video</source>
         <translation>Vidéo</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2766"/>
+        <location filename="DlgConvert.cpp" line="2767"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 fichier(s) - %2% - %3</translation>
     </message>
     <message>
-        <location filename="DlgEnhanceColors.cpp" line="188"/>
+        <location filename="DlgEnhanceColors.cpp" line="194"/>
         <source>Enhance colors</source>
         <translation>Ajuster les couleurs</translation>
     </message>
     <message>
-        <location filename="DlgFilm.cpp" line="134"/>
+        <location filename="DlgFilm.cpp" line="136"/>
         <source>Film simulation</source>
         <translation>Simulation film</translation>
     </message>
@@ -3550,29 +3550,29 @@ Voulez-vous l&apos;écraser?</translation>
 <context>
     <name>DlgConvert</name>
     <message>
-        <location filename="DlgConvert.cpp" line="747"/>
+        <location filename="DlgConvert.cpp" line="748"/>
         <source>_result</source>
         <translation>_resultat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1156"/>
+        <location filename="DlgConvert.cpp" line="1157"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1306"/>
+        <location filename="DlgConvert.cpp" line="1307"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
         <translation>Merci de redémarrer l&apos;application.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1328"/>
+        <location filename="DlgConvert.cpp" line="1329"/>
         <source>New version</source>
         <translation>Nouvelle version</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1329"/>
+        <location filename="DlgConvert.cpp" line="1330"/>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
@@ -3582,38 +3582,38 @@ Do you want to go on the download page?</source>
 Voulez-vous aller à la page de téléchargement ?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1463"/>
-        <location filename="DlgConvert.cpp" line="1472"/>
+        <location filename="DlgConvert.cpp" line="1464"/>
+        <location filename="DlgConvert.cpp" line="1473"/>
         <source>Actions</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1590"/>
+        <location filename="DlgConvert.cpp" line="1591"/>
         <source>Load image...</source>
         <translation>Charger une image...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1603"/>
+        <location filename="DlgConvert.cpp" line="1604"/>
         <source>Use image from input files</source>
         <translation>Utiliser une image de la liste des fichiers</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1635"/>
+        <location filename="DlgConvert.cpp" line="1636"/>
         <source>Export script</source>
         <translation>Exporter le script</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1964"/>
+        <location filename="DlgConvert.cpp" line="1965"/>
         <source>Load script</source>
         <translation>Charger le script</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1978"/>
+        <location filename="DlgConvert.cpp" line="1979"/>
         <source>Save script</source>
         <translation>Enregistrer le script</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2153"/>
+        <location filename="DlgConvert.cpp" line="2154"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Source : %n fichier</numerusform>
@@ -3621,22 +3621,22 @@ Voulez-vous aller à la page de téléchargement ?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2183"/>
+        <location filename="DlgConvert.cpp" line="2184"/>
         <source>Choose a directory</source>
         <translation>Choisissez un répertoire</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2222"/>
+        <location filename="DlgConvert.cpp" line="2223"/>
         <source>Choose ZIP filename</source>
         <translation>Choisissez un nom de fichier ZIP</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2440"/>
+        <location filename="DlgConvert.cpp" line="2441"/>
         <source>Overwrite</source>
         <translation>Ecraser le fichier</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2441"/>
+        <location filename="DlgConvert.cpp" line="2442"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3646,28 +3646,28 @@ Do you want to overwrite it?</source>
 Voulez-vous l&apos;écraser ?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2450"/>
+        <location filename="DlgConvert.cpp" line="2451"/>
         <source>Saving ZIP file...</source>
         <translation>Enregistrement du fichier ZIP...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2453"/>
+        <location filename="DlgConvert.cpp" line="2454"/>
         <source>: saved</source>
         <translation>: enregistré</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2479"/>
+        <location filename="DlgConvert.cpp" line="2480"/>
         <source>Uploading image(s) to server...</source>
         <translation>Téléchargement des images vers le serveur...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2542"/>
-        <location filename="DlgConvert.cpp" line="2544"/>
+        <location filename="DlgConvert.cpp" line="2543"/>
+        <location filename="DlgConvert.cpp" line="2545"/>
         <source>[Finished]</source>
         <translation>[Terminé]</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2751"/>
+        <location filename="DlgConvert.cpp" line="2752"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n seconde restante</numerusform>
@@ -3675,8 +3675,8 @@ Voulez-vous l&apos;écraser ?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2754"/>
-        <location filename="DlgConvert.cpp" line="2758"/>
+        <location filename="DlgConvert.cpp" line="2755"/>
+        <location filename="DlgConvert.cpp" line="2759"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minute restante</numerusform>
@@ -3684,8 +3684,8 @@ Voulez-vous l&apos;écraser ?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2410"/>
-        <location filename="DlgConvert.cpp" line="2758"/>
+        <location filename="DlgConvert.cpp" line="2411"/>
+        <location filename="DlgConvert.cpp" line="2759"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n heure et </numerusform>
@@ -3698,52 +3698,52 @@ Voulez-vous l&apos;écraser ?</translation>
         <translation>Comme l&apos;original</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="579"/>
+        <location filename="DlgConvert.cpp" line="580"/>
         <source>Convert with XnConvert</source>
         <translation>Convertir avec XnConvert</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="614"/>
+        <location filename="DlgConvert.cpp" line="615"/>
         <source>Save log as...</source>
         <translation>Enregistrer le journal...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="620"/>
+        <location filename="DlgConvert.cpp" line="621"/>
         <source>Export log</source>
         <translation>Exporter le journal</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2378"/>
+        <location filename="DlgConvert.cpp" line="2379"/>
         <source>Input files:</source>
         <translation>Fichiers sources :</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2379"/>
+        <location filename="DlgConvert.cpp" line="2380"/>
         <source>Extracted pages:</source>
         <translation>Page(s) extraite(s) :</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2382"/>
+        <location filename="DlgConvert.cpp" line="2383"/>
         <source>New files:</source>
         <translation>Nouveaux fichiers :</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2384"/>
+        <location filename="DlgConvert.cpp" line="2385"/>
         <source>Overwritten:</source>
         <translation>Fichier(s) écrasé(s) :</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2386"/>
+        <location filename="DlgConvert.cpp" line="2387"/>
         <source>Skipped:</source>
         <translation>Fichier(s) ignoré(s) :</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2397"/>
+        <location filename="DlgConvert.cpp" line="2398"/>
         <source>Total Duration:</source>
         <translation>Durée totale :</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2780"/>
+        <location filename="DlgConvert.cpp" line="2781"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3752,68 +3752,68 @@ Do you want to continue?</source>
 Voulez-vous continuer?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2790"/>
+        <location filename="DlgConvert.cpp" line="2791"/>
         <source>Output filename</source>
         <translation>Fichier destination</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2587"/>
+        <location filename="DlgConvert.cpp" line="2588"/>
         <source>uploaded</source>
         <translation>téléchargé</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1596"/>
+        <location filename="DlgConvert.cpp" line="1597"/>
         <source>Remove file from filelist</source>
         <translation>Enlever le fichier de la liste</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1641"/>
+        <location filename="DlgConvert.cpp" line="1642"/>
         <source>Would you like to export filenames, too?</source>
         <translation>Voulez-vous exporter les nom de fichiers?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2104"/>
-        <location filename="DlgConvert.cpp" line="2108"/>
+        <location filename="DlgConvert.cpp" line="2105"/>
+        <location filename="DlgConvert.cpp" line="2109"/>
         <source>Parameters</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2307"/>
+        <location filename="DlgConvert.cpp" line="2308"/>
         <source>Cancel batch processing</source>
         <translation>Annuler le traitement par lot</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2307"/>
+        <location filename="DlgConvert.cpp" line="2308"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>Voulez-vous annuler le traitement par lot en cours?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2359"/>
+        <location filename="DlgConvert.cpp" line="2360"/>
         <source>Loading error(s):</source>
         <translation>Erreur(s) de chargement:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2367"/>
+        <location filename="DlgConvert.cpp" line="2368"/>
         <source>Saving error(s):</source>
         <translation>Erreur(s) de sauvegarde:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2390"/>
+        <location filename="DlgConvert.cpp" line="2391"/>
         <source>Total input file size:</source>
         <translation>Taille totale des fichiers en entrée:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2391"/>
+        <location filename="DlgConvert.cpp" line="2392"/>
         <source>Total output file size:</source>
         <translation>Taille totale des fichiers en sortie:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2393"/>
+        <location filename="DlgConvert.cpp" line="2394"/>
         <source>File size ratio:</source>
         <translation>Ratio taille fichier:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2403"/>
+        <location filename="DlgConvert.cpp" line="2404"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n seconde</numerusform>
@@ -3821,8 +3821,8 @@ Voulez-vous continuer?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2406"/>
-        <location filename="DlgConvert.cpp" line="2410"/>
+        <location filename="DlgConvert.cpp" line="2407"/>
+        <location filename="DlgConvert.cpp" line="2411"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minute</numerusform>
@@ -3830,74 +3830,74 @@ Voulez-vous continuer?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2556"/>
+        <location filename="DlgConvert.cpp" line="2557"/>
         <source>Finished at: </source>
         <translation>Terminé à: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2595"/>
+        <location filename="DlgConvert.cpp" line="2596"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation>pas une image</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2598"/>
+        <location filename="DlgConvert.cpp" line="2599"/>
         <source>open error</source>
         <translation>erreur d&apos;ouverture</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2601"/>
+        <location filename="DlgConvert.cpp" line="2602"/>
         <source>create error</source>
         <translation>erreur de création</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2604"/>
+        <location filename="DlgConvert.cpp" line="2605"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>possède l&apos;attribute lecture seule, et ne peut être écrasé !</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2607"/>
+        <location filename="DlgConvert.cpp" line="2608"/>
         <source>skipped, file already exists!</source>
         <translation>ignoré, le fichier existe déjà !</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2609"/>
+        <location filename="DlgConvert.cpp" line="2610"/>
         <source>failed</source>
         <translation>échoué</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2615"/>
+        <location filename="DlgConvert.cpp" line="2616"/>
         <source>loading</source>
         <translation>en chargement</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2633"/>
+        <location filename="DlgConvert.cpp" line="2634"/>
         <source>loaded</source>
         <translation>chargé</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2667"/>
+        <location filename="DlgConvert.cpp" line="2668"/>
         <source>copied</source>
         <translation>copié</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2671"/>
+        <location filename="DlgConvert.cpp" line="2672"/>
         <source>saved</source>
         <translation>enregistré</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
+        <location filename="DlgConvert.cpp" line="2686"/>
         <source>%1 of %2 files</source>
         <translation>%1 de %2 fichiers</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2716"/>
+        <location filename="DlgConvert.cpp" line="2717"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Ecraser le fichier</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2717"/>
+        <location filename="DlgConvert.cpp" line="2718"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3910,32 +3910,32 @@ Do you want to overwrite it?</oldsource>
 Voulez-vous l&apos;écraser ?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2719"/>
+        <location filename="DlgConvert.cpp" line="2720"/>
         <source>Yes to &amp;all</source>
         <translation>Oui pour &amp;tous</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2720"/>
+        <location filename="DlgConvert.cpp" line="2721"/>
         <source>&amp;Yes</source>
         <translation>&amp;Oui</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2721"/>
+        <location filename="DlgConvert.cpp" line="2722"/>
         <source>&amp;No</source>
         <translation>&amp;Non</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2722"/>
+        <location filename="DlgConvert.cpp" line="2723"/>
         <source>&amp;Rename</source>
         <translation>&amp;Renommer</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2723"/>
+        <location filename="DlgConvert.cpp" line="2724"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Annuler</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2790"/>
+        <location filename="DlgConvert.cpp" line="2791"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
@@ -3944,7 +3944,7 @@ Do you want to continue?</source>
 Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2813"/>
+        <location filename="DlgConvert.cpp" line="2814"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
@@ -3953,18 +3953,18 @@ Do you want to continue?</source>
 Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2941"/>
+        <location filename="DlgConvert.cpp" line="2942"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2943"/>
+        <location filename="DlgConvert.cpp" line="2944"/>
         <source>Started at: </source>
         <translation>Démarré à: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2799"/>
+        <location filename="DlgConvert.cpp" line="2800"/>
         <source>Choose output pathname</source>
         <translation>Choisissez un répertoire destination</translation>
     </message>
@@ -6847,6 +6847,19 @@ Voulez-vous continuer ?</translation>
     </message>
 </context>
 <context>
+    <name>DlgConvertXMP</name>
+    <message>
+        <location filename="DlgConvertXMP.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertXMP.ui" line="35"/>
+        <source>Load template...</source>
+        <translation type="unfinished">Charger un modèle...</translation>
+    </message>
+</context>
+<context>
     <name>DlgCreateMulti</name>
     <message>
         <location filename="DlgCreateMulti.ui" line="14"/>
@@ -7179,251 +7192,207 @@ Voulez-vous continuer ?</translation>
         <translation>Editer XMP</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="44"/>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation type="vanished">Description</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="71"/>
         <source>Rating</source>
-        <translation>Note</translation>
+        <translation type="vanished">Note</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="101"/>
         <source>Copyright status</source>
-        <translation>Statut de copyright</translation>
+        <translation type="vanished">Statut de copyright</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="109"/>
         <source>Undefined</source>
-        <translation>Indéfini</translation>
+        <translation type="vanished">Indéfini</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="114"/>
         <source>Protected by copyright</source>
-        <translation>Protégé par copyright</translation>
+        <translation type="vanished">Protégé par copyright</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="119"/>
         <source>Public domain</source>
-        <translation>Domaine publique</translation>
+        <translation type="vanished">Domaine publique</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="169"/>
         <source>Creation Date: </source>
-        <translation>Date de création: </translation>
+        <translation type="vanished">Date de création: </translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="183"/>
         <source>Modification Date: </source>
-        <translation>Date de modification: </translation>
+        <translation type="vanished">Date de modification: </translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="215"/>
         <source>Keywords</source>
-        <translation>Mots clés</translation>
+        <translation type="vanished">Mots clés</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="221"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation>(| pour séparer les mots clés dans la hiérarchie)</translation>
+        <translation type="vanished">(| pour séparer les mots clés dans la hiérarchie)</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="248"/>
         <source>Apply parent categories</source>
-        <translation>Appliquer les catégories de parents</translation>
+        <translation type="vanished">Appliquer les catégories de parents</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="256"/>
         <source>Origin</source>
-        <translation>Origine</translation>
+        <translation type="vanished">Origine</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="315"/>
         <source>Urgency</source>
-        <translation>Urgence</translation>
+        <translation type="vanished">Urgence</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="341"/>
-        <source>IPTC Contact</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="DlgEditXMP.ui" line="393"/>
-        <source>IPTC extensions</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="DlgEditXMP.ui" line="487"/>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation type="vanished">Options</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="508"/>
         <source>Mode:</source>
-        <translation>Mode :</translation>
+        <translation type="vanished">Mode :</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="516"/>
         <source>XMP only</source>
-        <translation>Seulement XMP</translation>
+        <translation type="vanished">Seulement XMP</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="521"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, mise à jour ou création IPTC-IIM</translation>
+        <translation type="vanished">XMP, mise à jour ou création IPTC-IIM</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="550"/>
         <source>Multiple selection</source>
-        <translation>Sélection multiple</translation>
+        <translation type="vanished">Sélection multiple</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="559"/>
         <source>Keep original value if new value is empty</source>
-        <translation>Garder la valeur courante du tag si le champ est vide</translation>
+        <translation type="vanished">Garder la valeur courante du tag si le champ est vide</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="566"/>
         <source>Replace only if original value is empty</source>
-        <translation>Modifier le tag seulement s&apos;il est vide</translation>
+        <translation type="vanished">Modifier le tag seulement s&apos;il est vide</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="576"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation>Ré-ouvrir le dernier onglet</translation>
+        <translation type="vanished">Ré-ouvrir le dernier onglet</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="635"/>
+        <location filename="DlgEditXMP.ui" line="73"/>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Gauche</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="655"/>
+        <location filename="DlgEditXMP.ui" line="93"/>
         <source>Ctrl+Right</source>
         <translation>Ctrl+Droite</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="669"/>
+        <location filename="DlgEditXMP.ui" line="107"/>
         <source>Save template...</source>
         <translation>Enregistrer le modèle...</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="679"/>
+        <location filename="DlgEditXMP.ui" line="117"/>
         <source>Load template...</source>
         <translation>Charger un modèle...</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="705"/>
+        <location filename="DlgEditXMP.ui" line="143"/>
         <source>Clear all fields</source>
         <translation>Effacer les champs</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.ui" line="712"/>
+        <location filename="DlgEditXMP.ui" line="150"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
         <translation>Ne pas charger les champs</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="48"/>
+        <location filename="DlgEditXMP.cpp" line="42"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
         <translation>Ecrire &amp;tous les fichiers</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="49"/>
+        <location filename="DlgEditXMP.cpp" line="43"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
         <translation>&amp;Ecrire</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="50"/>
+        <location filename="DlgEditXMP.cpp" line="44"/>
         <source>&amp;Apply</source>
         <oldsource>Apply</oldsource>
         <translation>&amp;Appliquer</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="101"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation>(Utiliser ; ou , pour séparer les valeurs)</translation>
+        <translation type="vanished">(Utiliser ; ou , pour séparer les valeurs)</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="140"/>
         <source>0: None</source>
-        <translation>0 : Aucune</translation>
+        <translation type="vanished">0 : Aucune</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="140"/>
         <source>1: High</source>
-        <translation>1 : Haute</translation>
+        <translation type="vanished">1 : Haute</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="141"/>
         <source>5: Normal</source>
-        <translation>5 : Normale</translation>
+        <translation type="vanished">5 : Normale</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="141"/>
         <source>8: Low</source>
-        <translation>8 : Basse</translation>
+        <translation type="vanished">8 : Basse</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="266"/>
+        <location filename="DlgEditXMP.cpp" line="142"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation>Les valeurs des champs ne sont pas chargées car &apos;Ne pas charger les champs&apos; est actif</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="513"/>
         <source>Insert</source>
-        <translation>Insérer</translation>
+        <translation type="vanished">Insérer</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="525"/>
         <source>Insert from</source>
-        <translation>Insérer de</translation>
+        <translation type="vanished">Insérer de</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="546"/>
         <source>Copy into</source>
-        <translation>Copier en</translation>
+        <translation type="vanished">Copier en</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="570"/>
         <source>Library</source>
-        <translation>Bibliothèque</translation>
+        <translation type="vanished">Bibliothèque</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="575"/>
         <source>Edit history...</source>
-        <translation>Editer l&apos;historique...</translation>
+        <translation type="vanished">Editer l&apos;historique...</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="576"/>
         <source>Sort alphabetically</source>
-        <translation>Tri alphabétique</translation>
+        <translation type="vanished">Tri alphabétique</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="603"/>
+        <location filename="DlgEditXMP.cpp" line="229"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>Les données IPTC ont été modifiées.
 Voules-vous les enregistrer ?</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="977"/>
         <source>Required field</source>
-        <translation>Champ requis</translation>
+        <translation type="vanished">Champ requis</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="977"/>
         <source>Some fields are required, please fill them!</source>
-        <translation>Certains champs sont requis, merci de les remplir!</translation>
+        <translation type="vanished">Certains champs sont requis, merci de les remplir!</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="1070"/>
-        <location filename="DlgEditXMP.cpp" line="1111"/>
-        <location filename="DlgEditXMP.cpp" line="1136"/>
+        <location filename="DlgEditXMP.cpp" line="389"/>
+        <location filename="DlgEditXMP.cpp" line="430"/>
+        <location filename="DlgEditXMP.cpp" line="455"/>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
@@ -7432,8 +7401,8 @@ Please make sure that files are not read-only!</oldsource>
 Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="1107"/>
-        <location filename="DlgEditXMP.cpp" line="1132"/>
+        <location filename="DlgEditXMP.cpp" line="426"/>
+        <location filename="DlgEditXMP.cpp" line="451"/>
         <source>Changing files, please wait...</source>
         <oldsource>Changing files, please wait... </oldsource>
         <translation>Modification des fichiers, merci de patienter...</translation>
@@ -7675,120 +7644,112 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
 <context>
     <name>DlgExport</name>
     <message>
-        <location filename="DlgExport.cpp" line="183"/>
         <source>Zoom out</source>
-        <translation>Réduire</translation>
+        <translation type="vanished">Réduire</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="185"/>
         <source>Zoom in</source>
-        <translation>Agrandir</translation>
+        <translation type="vanished">Agrandir</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="187"/>
-        <source>Zoom 100%</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="DlgExport.cpp" line="189"/>
         <source>Best fit</source>
-        <translation>Meilleure adaptation</translation>
+        <translation type="vanished">Meilleure adaptation</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="202"/>
+        <location filename="DlgExport.cpp" line="196"/>
         <source>Problem</source>
         <translation>Problème</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="203"/>
+        <location filename="DlgExport.cpp" line="197"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
         <translation>Ce n&apos;est pas un fichier image</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="296"/>
+        <location filename="DlgExport.cpp" line="298"/>
         <source>Black&amp;White</source>
         <translation>Noir&amp;Blanc</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="298"/>
+        <location filename="DlgExport.cpp" line="300"/>
         <source>8 colors</source>
         <translation>8 couleurs</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="300"/>
+        <location filename="DlgExport.cpp" line="302"/>
         <source>16 colors</source>
         <translation>16 couleurs</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="302"/>
+        <location filename="DlgExport.cpp" line="304"/>
         <source>32 colors</source>
         <translation>32 couleurs</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="304"/>
+        <location filename="DlgExport.cpp" line="306"/>
         <source>64 colors</source>
         <translation>64 couleurs</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="306"/>
+        <location filename="DlgExport.cpp" line="308"/>
         <source>128 colors</source>
         <translation>128 couleurs</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="308"/>
+        <location filename="DlgExport.cpp" line="310"/>
         <source>256 colors</source>
         <translation>256 couleurs</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="310"/>
+        <location filename="DlgExport.cpp" line="312"/>
         <source>Greyscale</source>
         <translation>Niveaux de gris</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="313"/>
+        <location filename="DlgExport.cpp" line="315"/>
         <source>16m</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
+        <location filename="DlgExport.cpp" line="333"/>
         <source>None</source>
         <translation>Aucun</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
-        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="333"/>
+        <location filename="DlgExport.cpp" line="342"/>
         <source>Pattern</source>
         <translation>Motif</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
-        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="333"/>
+        <location filename="DlgExport.cpp" line="342"/>
         <source>Floyd-Steinberg</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
+        <location filename="DlgExport.cpp" line="333"/>
         <source>Halftone 45</source>
         <translation>Demi-ton 45</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
+        <location filename="DlgExport.cpp" line="333"/>
         <source>Halftone 90</source>
         <translation>Demi-ton 90</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="342"/>
         <source>Adaptive</source>
         <translation>Adaptif</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="595"/>
+        <location filename="DlgExport.cpp" line="599"/>
         <source>Images</source>
         <translation>Images</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="614"/>
+        <location filename="DlgExport.cpp" line="618"/>
         <source>Save File</source>
         <translation>Enregistrer le fichier</translation>
     </message>
@@ -7840,12 +7801,12 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <translation>Mise à jour aperçu</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="511"/>
+        <location filename="DlgExport.ui" line="528"/>
         <source>Mode</source>
         <translation>Mode</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="525"/>
+        <location filename="DlgExport.ui" line="542"/>
         <source>Dithering</source>
         <translation>Tramage</translation>
     </message>
@@ -7855,92 +7816,102 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <translation>JPEG</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="251"/>
+        <location filename="DlgExport.ui" line="258"/>
         <source>Quality</source>
         <translation>Qualité</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="458"/>
+        <location filename="DlgExport.ui" line="419"/>
         <source>Progressive</source>
         <translation>Progressif</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="430"/>
+        <location filename="DlgExport.ui" line="412"/>
         <source>Optimize Huffman table</source>
         <translation>Optimiser les tables Huffman</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="465"/>
+        <location filename="DlgExport.ui" line="249"/>
+        <source>Use JPEG-li</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="339"/>
         <source>Remove all Metadata</source>
         <translation>Supprimer les métadonnées</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="444"/>
+        <location filename="DlgExport.ui" line="359"/>
         <source>DCT Method</source>
         <translation>Methode DCT</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="351"/>
+        <location filename="DlgExport.ui" line="379"/>
         <source>Slow</source>
         <translation>Lent</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="356"/>
+        <location filename="DlgExport.ui" line="384"/>
         <source>Fast (worst but faster)</source>
         <translation>Rapide (mauvais mais rapide)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="361"/>
+        <location filename="DlgExport.ui" line="389"/>
         <source>Float (best but slowest)</source>
         <translation>Float (meilleure mais lente)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="437"/>
+        <location filename="DlgExport.ui" line="426"/>
         <source>Smoothing factor</source>
         <translation>Facteur de lissage</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="384"/>
+        <location filename="DlgExport.ui" line="446"/>
         <source>Subsampling factor</source>
         <translation>Sous-échantillonnage</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="558"/>
+        <location filename="DlgExport.ui" line="495"/>
+        <source>Convert to XYB colorspace</source>
+        <translation type="unfinished">Convertir dans l&apos;espace de couleur XYB</translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="575"/>
         <source>Edit palette...</source>
         <translation>Editer la palette...</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="397"/>
+        <location filename="DlgExport.ui" line="459"/>
         <source>2x2,1x1,1x1 (default)</source>
         <translation>2x2,1x1,1x1 (défaut)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="402"/>
+        <location filename="DlgExport.ui" line="464"/>
         <source>2x1,1x1,1x1 (4:2:2)</source>
         <translation>2x1,1x1,1x1 (4:2:2)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="407"/>
+        <location filename="DlgExport.ui" line="469"/>
         <source>1x1,1x1,1x1 (best quality)</source>
         <translation>1x1,1x1,1x1 (meilleure qualité)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="595"/>
+        <location filename="DlgExport.ui" line="612"/>
         <source>&amp;Export...</source>
         <translation>&amp;Exporter...</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="602"/>
+        <location filename="DlgExport.ui" line="619"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="262"/>
+        <location filename="DlgExport.ui" line="269"/>
         <source>Lowest</source>
         <translation>Moins bonne</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="288"/>
+        <location filename="DlgExport.ui" line="295"/>
         <source>Best</source>
         <translation>Meilleure</translation>
     </message>
@@ -8869,18 +8840,23 @@ Les sous-dossiers seront créés.</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
+        <source>No action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgImport.cpp" line="280"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG)</oldsource>
         <translation>Ecrire dans les métadonnées intégrées (JPEG/TIIF/PNG)</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="280"/>
+        <location filename="DlgImport.cpp" line="283"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG) and sidecar (others)</oldsource>
         <translation>Ecrie dans les métadonnées intégrées (JPEG/TIIF/PNG) et companions (autres)</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="283"/>
+        <location filename="DlgImport.cpp" line="286"/>
         <source>Create XMP sidecar for all files</source>
         <translation>Créer un companion XMP pour tous fichiers</translation>
     </message>
@@ -9113,93 +9089,93 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <translation>Légende</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="77"/>
+        <location filename="DlgIptc.ui" line="80"/>
         <source>Keywords</source>
         <translation>Mots clés</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="89"/>
+        <location filename="DlgIptc.ui" line="92"/>
         <source>History</source>
         <translation>Historique</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="94"/>
+        <location filename="DlgIptc.ui" line="97"/>
         <source>Categories (database)</source>
         <translation>Catégories (base de données)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="99"/>
+        <location filename="DlgIptc.ui" line="102"/>
         <source>Text file</source>
         <translation>Fichier texte</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="107"/>
+        <location filename="DlgIptc.ui" line="110"/>
         <source>...</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="163"/>
+        <location filename="DlgIptc.ui" line="166"/>
         <source>Use parent keywords</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="198"/>
+        <location filename="DlgIptc.ui" line="201"/>
         <source>Import...</source>
         <translation>Importer...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="225"/>
+        <location filename="DlgIptc.ui" line="228"/>
         <source>Categories</source>
         <translation>Catégories</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="258"/>
+        <location filename="DlgIptc.ui" line="261"/>
         <source>Credits</source>
         <translation>Crédits</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="317"/>
+        <location filename="DlgIptc.ui" line="320"/>
         <source>Status</source>
         <translation>Statut</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="326"/>
+        <location filename="DlgIptc.ui" line="329"/>
         <source>Priority</source>
         <translation>Priorité</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="349"/>
+        <location filename="DlgIptc.ui" line="352"/>
         <source>Object cycle</source>
         <translation>Cycle de l&apos;objet</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="395"/>
+        <location filename="DlgIptc.ui" line="398"/>
         <source>Date/Time</source>
         <translation>Date/Heure</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="401"/>
+        <location filename="DlgIptc.ui" line="404"/>
         <source>Created date/time</source>
         <translation>Date/Heure de création</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="447"/>
-        <location filename="DlgIptc.ui" line="506"/>
+        <location filename="DlgIptc.ui" line="450"/>
+        <location filename="DlgIptc.ui" line="509"/>
         <source>YYYYMMDD</source>
         <translation>YYYYMMDD</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="470"/>
+        <location filename="DlgIptc.ui" line="473"/>
         <source>Released date/time</source>
         <translation>Date/Heure de sortie</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="537"/>
+        <location filename="DlgIptc.ui" line="540"/>
         <source>Source</source>
         <translation>Source</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="589"/>
+        <location filename="DlgIptc.ui" line="548"/>
         <source>Country code</source>
         <translation>Code pays</translation>
     </message>
@@ -9486,8 +9462,9 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <name>DlgOpenWith</name>
     <message>
         <location filename="DlgOpenWith.ui" line="14"/>
-        <source>Configure programs...</source>
-        <translation>Configurer les programmes...</translation>
+        <source>Configure programs</source>
+        <oldsource>Configure programs...</oldsource>
+        <translation type="unfinished">Configurer les programmes...</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9496,22 +9473,27 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
+        <source>Path</source>
+        <translation type="unfinished">Chemin</translation>
+    </message>
+    <message>
+        <location filename="DlgOpenWith.ui" line="57"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
         <translation>Arguments</translation>
     </message>
     <message>
-        <location filename="DlgOpenWith.ui" line="62"/>
+        <location filename="DlgOpenWith.ui" line="67"/>
         <source>Add...</source>
         <translation>Ajouter...</translation>
     </message>
     <message>
-        <location filename="DlgOpenWith.ui" line="69"/>
+        <location filename="DlgOpenWith.ui" line="100"/>
         <source>Select all</source>
         <translation>Sélectionner tout</translation>
     </message>
     <message>
-        <location filename="DlgOpenWith.ui" line="92"/>
+        <location filename="DlgOpenWith.ui" line="77"/>
         <source>Remove</source>
         <translation>Enlever</translation>
     </message>
@@ -12519,43 +12501,44 @@ Vignette</translation>
         <translation>Pareil au catalogue</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="130"/>
-        <location filename="DlgSettingsIntegration.cpp" line="131"/>
+        <location filename="DlgSettingsIntegration.cpp" line="132"/>
+        <location filename="DlgSettingsIntegration.cpp" line="133"/>
+        <location filename="DlgSettingsIntegration.cpp" line="134"/>
         <source>Browse with XnViewMP</source>
         <translation>Parcourir avec XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="315"/>
+        <location filename="DlgSettingsIntegration.cpp" line="319"/>
         <source>Paths</source>
         <translation>Chemins</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="315"/>
+        <location filename="DlgSettingsIntegration.cpp" line="319"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Merci de faire attention aux droits du dossier en utilisant le dossier XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="461"/>
+        <location filename="DlgSettingsIntegration.cpp" line="465"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP est un logiciel de navigation, visualisation et conversion multi-format. Il supporte plus de 400 formats de fichier.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="462"/>
+        <location filename="DlgSettingsIntegration.cpp" line="466"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP pour Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="478"/>
+        <location filename="DlgSettingsIntegration.cpp" line="482"/>
         <source>%1 Bitmap file</source>
         <translation>%1 fichier Image</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="713"/>
+        <location filename="DlgSettingsIntegration.cpp" line="717"/>
         <source>File Associations</source>
         <translation>Associations de fichier</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="713"/>
+        <location filename="DlgSettingsIntegration.cpp" line="717"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>Veuillez démarrer XnViewMP avec les droits d&apos;administrateur (uniquement la première fois).</translation>
     </message>
@@ -12840,21 +12823,21 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="376"/>
         <location filename="DlgSettingsInterface.ui" line="1495"/>
         <location filename="DlgSettingsInterface.ui" line="1576"/>
-        <location filename="DlgSettingsInterface.ui" line="1626"/>
+        <location filename="DlgSettingsInterface.ui" line="1636"/>
         <location filename="DlgSettingsInterface.ui" line="1676"/>
         <location filename="DlgSettingsInterface.ui" line="1716"/>
-        <location filename="DlgSettingsInterface.ui" line="1785"/>
-        <location filename="DlgSettingsInterface.ui" line="1835"/>
-        <location filename="DlgSettingsInterface.ui" line="1885"/>
-        <location filename="DlgSettingsInterface.ui" line="1925"/>
-        <location filename="DlgSettingsInterface.ui" line="1991"/>
-        <location filename="DlgSettingsInterface.ui" line="2045"/>
-        <location filename="DlgSettingsInterface.ui" line="2079"/>
-        <location filename="DlgSettingsInterface.ui" line="2113"/>
-        <location filename="DlgSettingsInterface.ui" line="2140"/>
-        <location filename="DlgSettingsInterface.ui" line="2252"/>
-        <location filename="DlgSettingsInterface.ui" line="2301"/>
-        <location filename="DlgSettingsInterface.ui" line="2337"/>
+        <location filename="DlgSettingsInterface.ui" line="1788"/>
+        <location filename="DlgSettingsInterface.ui" line="1828"/>
+        <location filename="DlgSettingsInterface.ui" line="1908"/>
+        <location filename="DlgSettingsInterface.ui" line="1948"/>
+        <location filename="DlgSettingsInterface.ui" line="2017"/>
+        <location filename="DlgSettingsInterface.ui" line="2070"/>
+        <location filename="DlgSettingsInterface.ui" line="2097"/>
+        <location filename="DlgSettingsInterface.ui" line="2124"/>
+        <location filename="DlgSettingsInterface.ui" line="2165"/>
+        <location filename="DlgSettingsInterface.ui" line="2291"/>
+        <location filename="DlgSettingsInterface.ui" line="2340"/>
+        <location filename="DlgSettingsInterface.ui" line="2376"/>
         <source>Do nothing</source>
         <translation>Ne rien faire</translation>
     </message>
@@ -12909,7 +12892,7 @@ Voulez-vous le réaffecter ?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
-        <location filename="DlgSettingsInterface.ui" line="1646"/>
+        <location filename="DlgSettingsInterface.ui" line="1656"/>
         <location filename="DlgSettingsInterface.ui" line="1696"/>
         <location filename="DlgSettingsInterface.ui" line="1736"/>
         <source>Previous file</source>
@@ -12948,56 +12931,56 @@ Voulez-vous le réaffecter ?</translation>
         <translation>Barre d&apos;état</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="700"/>
-        <location filename="DlgSettingsInterface.ui" line="816"/>
+        <location filename="DlgSettingsInterface.ui" line="714"/>
+        <location filename="DlgSettingsInterface.ui" line="830"/>
         <source>File date</source>
         <translation>Date du fichier</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="708"/>
-        <location filename="DlgSettingsInterface.ui" line="824"/>
+        <location filename="DlgSettingsInterface.ui" line="722"/>
+        <location filename="DlgSettingsInterface.ui" line="838"/>
         <source>File created date</source>
         <translation>Fichier : date de création</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="713"/>
-        <location filename="DlgSettingsInterface.ui" line="829"/>
+        <location filename="DlgSettingsInterface.ui" line="727"/>
+        <location filename="DlgSettingsInterface.ui" line="843"/>
         <source>File modified date</source>
         <translation>Fichier : date de modification</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="718"/>
-        <location filename="DlgSettingsInterface.ui" line="834"/>
+        <location filename="DlgSettingsInterface.ui" line="732"/>
+        <location filename="DlgSettingsInterface.ui" line="848"/>
         <source>EXIF date taken</source>
         <translation>EXIF: date de prise</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="723"/>
-        <location filename="DlgSettingsInterface.ui" line="839"/>
+        <location filename="DlgSettingsInterface.ui" line="737"/>
+        <location filename="DlgSettingsInterface.ui" line="853"/>
         <source>EXIF date modified</source>
         <translation>EXIF: date de modification</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="746"/>
-        <location filename="DlgSettingsInterface.ui" line="862"/>
+        <location filename="DlgSettingsInterface.ui" line="698"/>
+        <location filename="DlgSettingsInterface.ui" line="814"/>
         <source>Filename</source>
         <translation>Nom de fichier</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="753"/>
+        <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
         <translation>Propriétés</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="760"/>
+        <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
         <translation>Taille d&apos;impression</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="767"/>
-        <location filename="DlgSettingsInterface.ui" line="869"/>
+        <location filename="DlgSettingsInterface.ui" line="705"/>
+        <location filename="DlgSettingsInterface.ui" line="821"/>
         <source>File size</source>
         <translation>Taille de fichier</translation>
     </message>
@@ -13047,10 +13030,10 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1416"/>
         <location filename="DlgSettingsInterface.ui" line="1441"/>
-        <location filename="DlgSettingsInterface.ui" line="2050"/>
-        <location filename="DlgSettingsInterface.ui" line="2084"/>
-        <location filename="DlgSettingsInterface.ui" line="2118"/>
-        <location filename="DlgSettingsInterface.ui" line="2145"/>
+        <location filename="DlgSettingsInterface.ui" line="2075"/>
+        <location filename="DlgSettingsInterface.ui" line="2102"/>
+        <location filename="DlgSettingsInterface.ui" line="2129"/>
+        <location filename="DlgSettingsInterface.ui" line="2170"/>
         <source>Previous/next file</source>
         <translation>Fichier précédent/suivant</translation>
     </message>
@@ -13066,57 +13049,57 @@ Voulez-vous le réaffecter ?</translation>
         <translation>Haut/Bas</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1559"/>
-        <location filename="DlgSettingsInterface.ui" line="1768"/>
-        <location filename="DlgSettingsInterface.ui" line="1977"/>
-        <location filename="DlgSettingsInterface.ui" line="2068"/>
+        <location filename="DlgSettingsInterface.ui" line="1609"/>
+        <location filename="DlgSettingsInterface.ui" line="1861"/>
+        <location filename="DlgSettingsInterface.ui" line="2003"/>
+        <location filename="DlgSettingsInterface.ui" line="2195"/>
         <source>No modifier</source>
         <translation>Sans modificateur</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1601"/>
-        <location filename="DlgSettingsInterface.ui" line="1651"/>
+        <location filename="DlgSettingsInterface.ui" line="1661"/>
         <location filename="DlgSettingsInterface.ui" line="1701"/>
         <location filename="DlgSettingsInterface.ui" line="1741"/>
-        <location filename="DlgSettingsInterface.ui" line="1810"/>
-        <location filename="DlgSettingsInterface.ui" line="1860"/>
-        <location filename="DlgSettingsInterface.ui" line="1910"/>
-        <location filename="DlgSettingsInterface.ui" line="1950"/>
+        <location filename="DlgSettingsInterface.ui" line="1813"/>
+        <location filename="DlgSettingsInterface.ui" line="1853"/>
+        <location filename="DlgSettingsInterface.ui" line="1933"/>
+        <location filename="DlgSettingsInterface.ui" line="1973"/>
         <source>Zoom &amp; move</source>
         <translation>Zoom &amp; déplacer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1609"/>
-        <location filename="DlgSettingsInterface.ui" line="1818"/>
-        <location filename="DlgSettingsInterface.ui" line="2027"/>
+        <location filename="DlgSettingsInterface.ui" line="1749"/>
+        <location filename="DlgSettingsInterface.ui" line="1871"/>
+        <location filename="DlgSettingsInterface.ui" line="2188"/>
         <source>Ctrl</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1659"/>
-        <location filename="DlgSettingsInterface.ui" line="1868"/>
-        <location filename="DlgSettingsInterface.ui" line="2034"/>
+        <location filename="DlgSettingsInterface.ui" line="1559"/>
+        <location filename="DlgSettingsInterface.ui" line="1891"/>
+        <location filename="DlgSettingsInterface.ui" line="2154"/>
         <source>Alt</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1749"/>
-        <location filename="DlgSettingsInterface.ui" line="1958"/>
-        <location filename="DlgSettingsInterface.ui" line="2102"/>
+        <location filename="DlgSettingsInterface.ui" line="1619"/>
+        <location filename="DlgSettingsInterface.ui" line="1881"/>
+        <location filename="DlgSettingsInterface.ui" line="2147"/>
         <source>Shift</source>
         <translation>Maj</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2021"/>
+        <location filename="DlgSettingsInterface.ui" line="2060"/>
         <source>Wheel</source>
         <translation>Roue</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1436"/>
-        <location filename="DlgSettingsInterface.ui" line="2055"/>
-        <location filename="DlgSettingsInterface.ui" line="2089"/>
-        <location filename="DlgSettingsInterface.ui" line="2123"/>
-        <location filename="DlgSettingsInterface.ui" line="2150"/>
+        <location filename="DlgSettingsInterface.ui" line="2080"/>
+        <location filename="DlgSettingsInterface.ui" line="2107"/>
+        <location filename="DlgSettingsInterface.ui" line="2134"/>
+        <location filename="DlgSettingsInterface.ui" line="2175"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
         <translation>Déplacement vertical</translation>
@@ -13133,52 +13116,52 @@ Voulez-vous le réaffecter ?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1581"/>
-        <location filename="DlgSettingsInterface.ui" line="1631"/>
+        <location filename="DlgSettingsInterface.ui" line="1641"/>
         <location filename="DlgSettingsInterface.ui" line="1681"/>
         <location filename="DlgSettingsInterface.ui" line="1721"/>
-        <location filename="DlgSettingsInterface.ui" line="1790"/>
-        <location filename="DlgSettingsInterface.ui" line="1840"/>
-        <location filename="DlgSettingsInterface.ui" line="1890"/>
-        <location filename="DlgSettingsInterface.ui" line="1930"/>
-        <location filename="DlgSettingsInterface.ui" line="1996"/>
+        <location filename="DlgSettingsInterface.ui" line="1793"/>
+        <location filename="DlgSettingsInterface.ui" line="1833"/>
+        <location filename="DlgSettingsInterface.ui" line="1913"/>
+        <location filename="DlgSettingsInterface.ui" line="1953"/>
+        <location filename="DlgSettingsInterface.ui" line="2022"/>
         <source>Move image</source>
         <oldsource>Move picture</oldsource>
         <translation>Déplacer l&apos;image</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1586"/>
-        <location filename="DlgSettingsInterface.ui" line="1636"/>
+        <location filename="DlgSettingsInterface.ui" line="1646"/>
         <location filename="DlgSettingsInterface.ui" line="1686"/>
         <location filename="DlgSettingsInterface.ui" line="1726"/>
-        <location filename="DlgSettingsInterface.ui" line="1795"/>
-        <location filename="DlgSettingsInterface.ui" line="1845"/>
-        <location filename="DlgSettingsInterface.ui" line="1895"/>
-        <location filename="DlgSettingsInterface.ui" line="1935"/>
-        <location filename="DlgSettingsInterface.ui" line="2001"/>
+        <location filename="DlgSettingsInterface.ui" line="1798"/>
+        <location filename="DlgSettingsInterface.ui" line="1838"/>
+        <location filename="DlgSettingsInterface.ui" line="1918"/>
+        <location filename="DlgSettingsInterface.ui" line="1958"/>
+        <location filename="DlgSettingsInterface.ui" line="2027"/>
         <source>Make selection</source>
         <translation>Faire une sélection</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1591"/>
-        <location filename="DlgSettingsInterface.ui" line="1641"/>
+        <location filename="DlgSettingsInterface.ui" line="1651"/>
         <location filename="DlgSettingsInterface.ui" line="1691"/>
         <location filename="DlgSettingsInterface.ui" line="1731"/>
-        <location filename="DlgSettingsInterface.ui" line="1800"/>
-        <location filename="DlgSettingsInterface.ui" line="1850"/>
-        <location filename="DlgSettingsInterface.ui" line="1900"/>
-        <location filename="DlgSettingsInterface.ui" line="1940"/>
-        <location filename="DlgSettingsInterface.ui" line="2006"/>
+        <location filename="DlgSettingsInterface.ui" line="1803"/>
+        <location filename="DlgSettingsInterface.ui" line="1843"/>
+        <location filename="DlgSettingsInterface.ui" line="1923"/>
+        <location filename="DlgSettingsInterface.ui" line="1963"/>
+        <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation>Sélection zoomée</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1971"/>
+        <location filename="DlgSettingsInterface.ui" line="1997"/>
         <source>Middle button</source>
         <translation>Bouton milieu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1762"/>
+        <location filename="DlgSettingsInterface.ui" line="1775"/>
         <source>Right button</source>
         <translation>Bouton droit</translation>
     </message>
@@ -13238,10 +13221,10 @@ Voulez-vous le réaffecter ?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1485"/>
-        <location filename="DlgSettingsInterface.ui" line="1805"/>
-        <location filename="DlgSettingsInterface.ui" line="1855"/>
-        <location filename="DlgSettingsInterface.ui" line="1905"/>
-        <location filename="DlgSettingsInterface.ui" line="1945"/>
+        <location filename="DlgSettingsInterface.ui" line="1808"/>
+        <location filename="DlgSettingsInterface.ui" line="1848"/>
+        <location filename="DlgSettingsInterface.ui" line="1928"/>
+        <location filename="DlgSettingsInterface.ui" line="1968"/>
         <source>Next file</source>
         <translation>Fichier suivant</translation>
     </message>
@@ -13256,62 +13239,62 @@ Voulez-vous le réaffecter ?</translation>
         <translation>Appui sur ESC ferme</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2060"/>
-        <location filename="DlgSettingsInterface.ui" line="2094"/>
-        <location filename="DlgSettingsInterface.ui" line="2128"/>
-        <location filename="DlgSettingsInterface.ui" line="2155"/>
+        <location filename="DlgSettingsInterface.ui" line="2085"/>
+        <location filename="DlgSettingsInterface.ui" line="2112"/>
+        <location filename="DlgSettingsInterface.ui" line="2139"/>
+        <location filename="DlgSettingsInterface.ui" line="2180"/>
         <source>Zoom in/out</source>
         <translation>Zoom avant/arrière</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2224"/>
+        <location filename="DlgSettingsInterface.ui" line="2263"/>
         <source>Double click</source>
         <oldsource>Doublie click</oldsource>
         <translation>Double clic</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2273"/>
+        <location filename="DlgSettingsInterface.ui" line="2312"/>
         <source>Middle click</source>
         <translation>Clic milieu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2309"/>
+        <location filename="DlgSettingsInterface.ui" line="2348"/>
         <source>Enter</source>
         <translation>Entrée</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2232"/>
-        <location filename="DlgSettingsInterface.ui" line="2281"/>
-        <location filename="DlgSettingsInterface.ui" line="2317"/>
+        <location filename="DlgSettingsInterface.ui" line="2271"/>
+        <location filename="DlgSettingsInterface.ui" line="2320"/>
+        <location filename="DlgSettingsInterface.ui" line="2356"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
         <translation>Explorateur ↔ Plein écran | Vue ↔ Plein écran</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2210"/>
+        <location filename="DlgSettingsInterface.ui" line="2249"/>
         <source>Switching modes</source>
         <translation>Changement de mode</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2237"/>
-        <location filename="DlgSettingsInterface.ui" line="2286"/>
-        <location filename="DlgSettingsInterface.ui" line="2322"/>
+        <location filename="DlgSettingsInterface.ui" line="2276"/>
+        <location filename="DlgSettingsInterface.ui" line="2325"/>
+        <location filename="DlgSettingsInterface.ui" line="2361"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
         <translation>Explorateur ↔ Vue</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2242"/>
-        <location filename="DlgSettingsInterface.ui" line="2291"/>
-        <location filename="DlgSettingsInterface.ui" line="2327"/>
+        <location filename="DlgSettingsInterface.ui" line="2281"/>
+        <location filename="DlgSettingsInterface.ui" line="2330"/>
+        <location filename="DlgSettingsInterface.ui" line="2366"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
         <translation>Explorateur → Plein écran → Vue</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2247"/>
-        <location filename="DlgSettingsInterface.ui" line="2296"/>
-        <location filename="DlgSettingsInterface.ui" line="2332"/>
+        <location filename="DlgSettingsInterface.ui" line="2286"/>
+        <location filename="DlgSettingsInterface.ui" line="2335"/>
+        <location filename="DlgSettingsInterface.ui" line="2371"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
         <translation>Explorateur → Vue → Plein écran</translation>
@@ -15140,7 +15123,7 @@ Voulez-vous continuer?</translation>
         <translation>Effacer tout</translation>
     </message>
     <message>
-        <location filename="DlgTransfer.cpp" line="204"/>
+        <location filename="DlgTransfer.cpp" line="203"/>
         <source>Apply</source>
         <translation>Appliquer</translation>
     </message>
@@ -16030,6 +16013,194 @@ Voulez-vous continuer?</translation>
     </message>
 </context>
 <context>
+    <name>EditXMPWidget</name>
+    <message>
+        <location filename="EditXMPWidget.ui" line="57"/>
+        <source>Description</source>
+        <translation type="unfinished">Description</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="84"/>
+        <source>Rating</source>
+        <translation type="unfinished">Note</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="114"/>
+        <source>Copyright status</source>
+        <translation type="unfinished">Statut de copyright</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="122"/>
+        <source>Undefined</source>
+        <translation type="unfinished">Indéfini</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="127"/>
+        <source>Protected by copyright</source>
+        <translation type="unfinished">Protégé par copyright</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="132"/>
+        <source>Public domain</source>
+        <translation type="unfinished">Domaine publique</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="182"/>
+        <source>Creation Date: </source>
+        <translation type="unfinished">Date de création: </translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="196"/>
+        <source>Modification Date: </source>
+        <translation type="unfinished">Date de modification: </translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="228"/>
+        <source>Keywords</source>
+        <translation type="unfinished">Mots clés</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="234"/>
+        <source>(Use | to separate keywords in hierarchy)</source>
+        <translation type="unfinished">(| pour séparer les mots clés dans la hiérarchie)</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="261"/>
+        <source>Apply parent categories</source>
+        <translation type="unfinished">Appliquer les catégories de parents</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="269"/>
+        <source>Origin</source>
+        <translation type="unfinished">Origine</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="277"/>
+        <source>Date created</source>
+        <translation type="unfinished">Date de création</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="365"/>
+        <source>Urgency</source>
+        <translation type="unfinished">Urgence</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="391"/>
+        <source>IPTC Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="443"/>
+        <source>IPTC extensions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="537"/>
+        <source>Options</source>
+        <translation type="unfinished">Options</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="558"/>
+        <source>Mode:</source>
+        <translation type="unfinished">Mode :</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="566"/>
+        <source>XMP only</source>
+        <translation type="unfinished">Seulement XMP</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="571"/>
+        <source>XMP, update or create IPTC-IIM</source>
+        <translation type="unfinished">XMP, mise à jour ou création IPTC-IIM</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="600"/>
+        <source>Multiple selection</source>
+        <translation type="unfinished">Sélection multiple</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="609"/>
+        <source>Keep original value if new value is empty</source>
+        <translation type="unfinished">Garder la valeur courante du tag si le champ est vide</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="616"/>
+        <source>Replace only if original value is empty</source>
+        <translation type="unfinished">Modifier le tag seulement s&apos;il est vide</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.ui" line="626"/>
+        <source>Remember opened tab</source>
+        <translation type="unfinished">Ré-ouvrir le dernier onglet</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="66"/>
+        <source>(Use ; or , to separate the values)</source>
+        <translation type="unfinished">(Utiliser ; ou , pour séparer les valeurs)</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="108"/>
+        <source>0: None</source>
+        <translation type="unfinished">0 : Aucune</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="108"/>
+        <source>1: High</source>
+        <translation type="unfinished">1 : Haute</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="109"/>
+        <source>5: Normal</source>
+        <translation type="unfinished">5 : Normale</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="109"/>
+        <source>8: Low</source>
+        <translation type="unfinished">8 : Basse</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="288"/>
+        <source>Required field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="288"/>
+        <source>Some fields are required, please fill them!</source>
+        <translation type="unfinished">Certains champs sont requis, merci de les remplir!</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="430"/>
+        <source>Insert</source>
+        <translation type="unfinished">Insérer</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="442"/>
+        <source>Insert from</source>
+        <translation type="unfinished">Insérer de</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="463"/>
+        <source>Copy into</source>
+        <translation type="unfinished">Copier en</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="487"/>
+        <source>Library</source>
+        <translation type="unfinished">Bibliothèque</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="492"/>
+        <source>Edit history...</source>
+        <translation type="unfinished">Editer l&apos;historique...</translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="493"/>
+        <source>Sort alphabetically</source>
+        <translation type="unfinished">Tri alphabétique</translation>
+    </message>
+</context>
+<context>
     <name>Email</name>
     <message>
         <location filename="Email.h" line="333"/>
@@ -16323,18 +16494,18 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
 <context>
     <name>Info</name>
     <message>
-        <location filename="ItemModel.cpp" line="1084"/>
+        <location filename="ItemModel.cpp" line="1086"/>
         <location filename="SearchField.cpp" line="28"/>
         <location filename="SearchField.cpp" line="127"/>
-        <location filename="TemplateData.cpp" line="2668"/>
+        <location filename="TemplateData.cpp" line="2753"/>
         <source>Categories</source>
         <translation>Catégories</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1062"/>
+        <location filename="ItemModel.cpp" line="1064"/>
         <location filename="SearchField.cpp" line="29"/>
         <location filename="SearchField.cpp" line="133"/>
-        <location filename="TemplateData.cpp" line="2664"/>
+        <location filename="TemplateData.cpp" line="2749"/>
         <source>Rating</source>
         <translation>Note</translation>
     </message>
@@ -16347,7 +16518,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="30"/>
         <location filename="SearchField.cpp" line="140"/>
-        <location filename="TemplateData.cpp" line="2666"/>
+        <location filename="TemplateData.cpp" line="2751"/>
         <source>Color label</source>
         <translation>Libellé de couleur</translation>
     </message>
@@ -16381,7 +16552,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="694"/>
         <location filename="InfoPropertiesView.cpp" line="713"/>
         <location filename="SearchField.cpp" line="35"/>
-        <location filename="TemplateData.cpp" line="2460"/>
+        <location filename="TemplateData.cpp" line="2543"/>
         <source>Format</source>
         <translation></translation>
     </message>
@@ -16398,13 +16569,13 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <translation>Hauteur d&apos;image</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="412"/>
+        <location filename="EditXMPWidget.cpp" line="338"/>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="IptcEditBase.cpp" line="114"/>
-        <location filename="ItemModel.cpp" line="1070"/>
+        <location filename="ItemModel.cpp" line="1072"/>
         <location filename="SearchField.cpp" line="39"/>
         <location filename="SearchField.cpp" line="207"/>
-        <location filename="TemplateData.cpp" line="2688"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Annotation</source>
         <translation></translation>
     </message>
@@ -16425,10 +16596,10 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <translation>Modèle</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="408"/>
         <location filename="DlgImport.cpp" line="230"/>
+        <location filename="EditXMPWidget.cpp" line="334"/>
         <location filename="IptcEditBase.cpp" line="78"/>
-        <location filename="TemplateData.cpp" line="2683"/>
+        <location filename="TemplateData.cpp" line="2768"/>
         <source>Modified date</source>
         <translation>Date de modification</translation>
     </message>
@@ -16445,60 +16616,60 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <translation>Commentaire intégré</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1056"/>
+        <location filename="ItemModel.cpp" line="1058"/>
         <source>Properties</source>
         <translation>Propriétés</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="90"/>
-        <location filename="ItemModel.cpp" line="1058"/>
+        <location filename="ItemModel.cpp" line="1060"/>
         <source>Print size</source>
         <translation>Taille d&apos;impression</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1064"/>
+        <location filename="ItemModel.cpp" line="1066"/>
         <source>Colour label</source>
         <translation>Libellé de couleur</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1066"/>
+        <location filename="ItemModel.cpp" line="1068"/>
         <source>Tag</source>
         <translation>Marque</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1072"/>
+        <location filename="ItemModel.cpp" line="1074"/>
         <source>Path</source>
         <translation>Chemin</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="691"/>
         <location filename="InfoPropertiesView.cpp" line="731"/>
-        <location filename="ItemModel.cpp" line="1068"/>
+        <location filename="ItemModel.cpp" line="1070"/>
         <location filename="SearchField.cpp" line="40"/>
-        <location filename="TemplateData.cpp" line="2466"/>
+        <location filename="TemplateData.cpp" line="2549"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1082"/>
+        <location filename="ItemModel.cpp" line="1084"/>
         <source>Extension</source>
         <translation>Extension</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="73"/>
         <location filename="InfoPropertiesView.cpp" line="679"/>
-        <location filename="ItemModel.cpp" line="1076"/>
-        <location filename="TemplateData.cpp" line="2463"/>
-        <location filename="TemplateData.cpp" line="2484"/>
+        <location filename="ItemModel.cpp" line="1078"/>
+        <location filename="TemplateData.cpp" line="2546"/>
+        <location filename="TemplateData.cpp" line="2567"/>
         <source>Width</source>
         <translation>Largeur</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <location filename="InfoPropertiesView.cpp" line="680"/>
-        <location filename="ItemModel.cpp" line="1078"/>
-        <location filename="TemplateData.cpp" line="2464"/>
-        <location filename="TemplateData.cpp" line="2485"/>
+        <location filename="ItemModel.cpp" line="1080"/>
+        <location filename="TemplateData.cpp" line="2547"/>
+        <location filename="TemplateData.cpp" line="2568"/>
         <source>Height</source>
         <translation>Hauteur</translation>
     </message>
@@ -16515,7 +16686,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="79"/>
         <location filename="InfoPropertiesView.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2461"/>
+        <location filename="TemplateData.cpp" line="2544"/>
         <source>Color model</source>
         <translation>Modèle couleur</translation>
     </message>
@@ -16531,16 +16702,16 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="85"/>
-        <location filename="ItemModel.cpp" line="1080"/>
-        <location filename="TemplateData.cpp" line="2467"/>
-        <location filename="TemplateData.cpp" line="2487"/>
+        <location filename="ItemModel.cpp" line="1082"/>
+        <location filename="TemplateData.cpp" line="2550"/>
+        <location filename="TemplateData.cpp" line="2570"/>
         <source>DPI</source>
         <translation>PPI</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="93"/>
         <location filename="InfoPropertiesView.cpp" line="98"/>
-        <location filename="TemplateData.cpp" line="2462"/>
+        <location filename="TemplateData.cpp" line="2545"/>
         <source>Compression</source>
         <translation></translation>
     </message>
@@ -16731,194 +16902,204 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <translation>Date d&apos;enregistrement</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2465"/>
-        <location filename="TemplateData.cpp" line="2486"/>
+        <location filename="TemplateData.cpp" line="2548"/>
+        <location filename="TemplateData.cpp" line="2569"/>
         <source>BPP</source>
         <translation>BPP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2468"/>
-        <location filename="TemplateData.cpp" line="2488"/>
+        <location filename="TemplateData.cpp" line="2551"/>
+        <location filename="TemplateData.cpp" line="2571"/>
         <source>Width (inch)</source>
         <translation>Largeur (pouce)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2469"/>
-        <location filename="TemplateData.cpp" line="2489"/>
+        <location filename="TemplateData.cpp" line="2552"/>
+        <location filename="TemplateData.cpp" line="2572"/>
         <source>Height (inch)</source>
         <translation>Hauteur (pouce)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2470"/>
-        <location filename="TemplateData.cpp" line="2490"/>
+        <location filename="TemplateData.cpp" line="2553"/>
+        <location filename="TemplateData.cpp" line="2573"/>
         <source>Width (cm)</source>
         <translation>Largeur (cm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2471"/>
-        <location filename="TemplateData.cpp" line="2491"/>
+        <location filename="TemplateData.cpp" line="2554"/>
+        <location filename="TemplateData.cpp" line="2574"/>
         <source>Height (cm)</source>
         <translation>Hauteur (cm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2472"/>
+        <location filename="TemplateData.cpp" line="2555"/>
         <source>Width (mm)</source>
         <translation>Largeur (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2473"/>
+        <location filename="TemplateData.cpp" line="2556"/>
         <source>Height (mm)</source>
         <translation>Hauteur (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2475"/>
+        <location filename="TemplateData.cpp" line="2558"/>
         <source>Ratio Decimal</source>
         <translation>Ratio Décimal</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2476"/>
+        <location filename="TemplateData.cpp" line="2559"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
         <translation>Ratio Largeur/Hauteur</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2477"/>
+        <location filename="TemplateData.cpp" line="2560"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
         <translation>Ratio Hauteur/Largeur</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2478"/>
+        <location filename="TemplateData.cpp" line="2561"/>
         <source>MPixels</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2677"/>
+        <location filename="TemplateData.cpp" line="2743"/>
+        <source>Create date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TemplateData.cpp" line="2744"/>
+        <source>Modify date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TemplateData.cpp" line="2762"/>
         <source>Filename (with extension)</source>
         <translation>Nom de fichier (avec extension)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2687"/>
+        <location filename="TemplateData.cpp" line="2772"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2689"/>
+        <location filename="TemplateData.cpp" line="2774"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
         <translation>Fichier destination</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2690"/>
+        <location filename="TemplateData.cpp" line="2775"/>
         <source>Output filename (with extension)</source>
         <translation>Fichier destination (avec extension)</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="402"/>
         <location filename="DlgImport.cpp" line="228"/>
+        <location filename="EditXMPWidget.cpp" line="328"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <location filename="IptcEditBase.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2676"/>
+        <location filename="TemplateData.cpp" line="2761"/>
         <source>Filename</source>
         <translation>Nom de fichier</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="401"/>
+        <location filename="EditXMPWidget.cpp" line="327"/>
         <location filename="IptcEditBase.cpp" line="71"/>
         <source>Filename without extension</source>
         <translation>Nom de fichier sans extension</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="403"/>
+        <location filename="EditXMPWidget.cpp" line="329"/>
         <location filename="IptcEditBase.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2678"/>
+        <location filename="TemplateData.cpp" line="2763"/>
         <source>Filename (last number)</source>
         <translation>Nom de fichier (dernier numéro)</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="404"/>
+        <location filename="EditXMPWidget.cpp" line="330"/>
         <location filename="IptcEditBase.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2679"/>
+        <location filename="TemplateData.cpp" line="2764"/>
         <source>Folder</source>
         <translation>Répertoire</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="405"/>
+        <location filename="EditXMPWidget.cpp" line="331"/>
         <location filename="IptcEditBase.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2680"/>
+        <location filename="TemplateData.cpp" line="2765"/>
         <source>Folder name</source>
         <translation>Nom du dossier</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="406"/>
+        <location filename="EditXMPWidget.cpp" line="332"/>
         <location filename="IptcEditBase.cpp" line="76"/>
-        <location filename="TemplateData.cpp" line="2681"/>
+        <location filename="TemplateData.cpp" line="2766"/>
         <source>Accessed date</source>
         <translation>Date d&apos;accès</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="407"/>
+        <location filename="EditXMPWidget.cpp" line="333"/>
         <location filename="IptcEditBase.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2682"/>
+        <location filename="TemplateData.cpp" line="2767"/>
         <source>Creation date</source>
         <translation>Date de création</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="411"/>
+        <location filename="EditXMPWidget.cpp" line="337"/>
         <location filename="IptcEditBase.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2686"/>
+        <location filename="TemplateData.cpp" line="2771"/>
         <source>Size (KB)</source>
         <translation>Taille (Kio)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2660"/>
+        <location filename="TemplateData.cpp" line="2745"/>
         <source>File index</source>
         <translation>Index du fichier</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2661"/>
+        <location filename="TemplateData.cpp" line="2746"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2662"/>
+        <location filename="TemplateData.cpp" line="2747"/>
         <source>Current date</source>
         <translation>Date actuelle</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2663"/>
+        <location filename="TemplateData.cpp" line="2748"/>
         <source>Tag status</source>
         <translation>Marque</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1074"/>
+        <location filename="ItemModel.cpp" line="1076"/>
         <location filename="SearchField.cpp" line="38"/>
         <location filename="SearchField.cpp" line="194"/>
-        <location filename="TemplateData.cpp" line="2474"/>
+        <location filename="TemplateData.cpp" line="2557"/>
         <source>Ratio</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="409"/>
+        <location filename="EditXMPWidget.cpp" line="335"/>
         <location filename="IptcEditBase.cpp" line="79"/>
-        <location filename="TemplateData.cpp" line="2684"/>
+        <location filename="TemplateData.cpp" line="2769"/>
         <source>Size (Auto)</source>
         <translation>Taille (auto)</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="410"/>
+        <location filename="EditXMPWidget.cpp" line="336"/>
         <location filename="IptcEditBase.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2685"/>
+        <location filename="TemplateData.cpp" line="2770"/>
         <source>Size (Bytes)</source>
         <translation>Taille (octets)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2665"/>
+        <location filename="TemplateData.cpp" line="2750"/>
         <source>Rating (number)</source>
         <translation>Note (nombre)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2667"/>
+        <location filename="TemplateData.cpp" line="2752"/>
         <source>Color label (number)</source>
         <translation>Libellé de couleur (nombre)</translation>
     </message>
@@ -17157,55 +17338,55 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="ItemModel.cpp" line="1087"/>
+        <location filename="ItemModel.cpp" line="1089"/>
         <location filename="SearchField.cpp" line="285"/>
-        <location filename="TemplateData.cpp" line="2496"/>
+        <location filename="TemplateData.cpp" line="2579"/>
         <source>Maker</source>
         <translation>Fabricant</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1089"/>
+        <location filename="ItemModel.cpp" line="1091"/>
         <location filename="SearchField.cpp" line="291"/>
-        <location filename="TemplateData.cpp" line="2497"/>
+        <location filename="TemplateData.cpp" line="2580"/>
         <source>Model</source>
         <translation>Modèle</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1091"/>
+        <location filename="ItemModel.cpp" line="1093"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1093"/>
+        <location filename="ItemModel.cpp" line="1095"/>
         <source>ShutterSpeed</source>
         <translation>Vitesse d&apos;obturation</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1095"/>
+        <location filename="ItemModel.cpp" line="1097"/>
         <location filename="SearchField.cpp" line="348"/>
         <source>Exposure Time</source>
         <translation>Temps d&apos;exposition</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1097"/>
+        <location filename="ItemModel.cpp" line="1099"/>
         <source>Focal Length</source>
         <translation>Longueur de focale</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1099"/>
-        <location filename="TemplateData.cpp" line="2535"/>
+        <location filename="ItemModel.cpp" line="1101"/>
+        <location filename="TemplateData.cpp" line="2618"/>
         <source>Aperture</source>
         <translation>Indice d&apos;ouverture</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1101"/>
-        <location filename="TemplateData.cpp" line="2580"/>
+        <location filename="ItemModel.cpp" line="1103"/>
+        <location filename="TemplateData.cpp" line="2663"/>
         <source>Latitude</source>
         <translation>Latitude</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1103"/>
-        <location filename="TemplateData.cpp" line="2583"/>
+        <location filename="ItemModel.cpp" line="1105"/>
+        <location filename="TemplateData.cpp" line="2666"/>
         <source>Longitude</source>
         <translation>Longitude</translation>
     </message>
@@ -17241,19 +17422,19 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="297"/>
-        <location filename="TemplateData.cpp" line="2509"/>
+        <location filename="TemplateData.cpp" line="2592"/>
         <source>Software</source>
         <translation>Logiciel</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="303"/>
-        <location filename="TemplateData.cpp" line="2498"/>
+        <location filename="TemplateData.cpp" line="2581"/>
         <source>Artist</source>
         <translation>Artiste</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="309"/>
-        <location filename="TemplateData.cpp" line="2522"/>
+        <location filename="TemplateData.cpp" line="2605"/>
         <source>User comment</source>
         <translation>Commentaire utilisateur</translation>
     </message>
@@ -17284,380 +17465,380 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="356"/>
-        <location filename="TemplateData.cpp" line="2530"/>
+        <location filename="TemplateData.cpp" line="2613"/>
         <source>F-Number</source>
         <translation>F/stop</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2499"/>
+        <location filename="TemplateData.cpp" line="2582"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2500"/>
+        <location filename="TemplateData.cpp" line="2583"/>
         <source>Date/time modified</source>
         <translation>Date/Heure de modification</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2501"/>
+        <location filename="TemplateData.cpp" line="2584"/>
         <source>Orientation</source>
         <translation>Orientation</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2502"/>
+        <location filename="TemplateData.cpp" line="2585"/>
         <source>X-Resolution</source>
         <translation>Résolution en X</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2503"/>
+        <location filename="TemplateData.cpp" line="2586"/>
         <source>Y-Resolution</source>
         <translation>Résolution en Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2504"/>
+        <location filename="TemplateData.cpp" line="2587"/>
         <source>Resolution unit</source>
         <translation>Unité pour la résolution</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2505"/>
+        <location filename="TemplateData.cpp" line="2588"/>
         <source>Primary chromaticities</source>
         <translation>Chrominances primaires</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2506"/>
+        <location filename="TemplateData.cpp" line="2589"/>
         <source>YCbCr-Coefficients</source>
         <translation>Coefficients YCbCr</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2507"/>
+        <location filename="TemplateData.cpp" line="2590"/>
         <source>YCbCr-Positioning</source>
         <translation>Positionnement YCbCr</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2508"/>
+        <location filename="TemplateData.cpp" line="2591"/>
         <source>Ref. black/white</source>
         <translation>Référence noir¦blanc</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2511"/>
+        <location filename="TemplateData.cpp" line="2594"/>
         <source>LensID</source>
         <translation>ID-Lentille</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2513"/>
+        <location filename="TemplateData.cpp" line="2596"/>
         <source>XP Title</source>
         <translation>XP Titre</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2514"/>
+        <location filename="TemplateData.cpp" line="2597"/>
         <source>XP Comment</source>
         <translation>XP Commentaire</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2515"/>
+        <location filename="TemplateData.cpp" line="2598"/>
         <source>XP Author</source>
         <translation>XP Auteur</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2516"/>
+        <location filename="TemplateData.cpp" line="2599"/>
         <source>XP Keywords</source>
         <translation>XP Mots clés</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2517"/>
+        <location filename="TemplateData.cpp" line="2600"/>
         <source>XP Subject</source>
         <translation>XP Sujet</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2523"/>
+        <location filename="TemplateData.cpp" line="2606"/>
         <source>Date taken</source>
         <translation>Date de prise</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2524"/>
+        <location filename="TemplateData.cpp" line="2607"/>
         <source>Date digitized</source>
         <translation>Date de digitalisation</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2525"/>
+        <location filename="TemplateData.cpp" line="2608"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translation>Temps d&apos;exposition (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2526"/>
+        <location filename="TemplateData.cpp" line="2609"/>
         <source>Exposure Program</source>
         <translation>Programme d&apos;exposition</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2527"/>
+        <location filename="TemplateData.cpp" line="2610"/>
         <source>Exposure Mode</source>
         <translation>Mode exposition</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2528"/>
+        <location filename="TemplateData.cpp" line="2611"/>
         <source>Exposure Bias</source>
         <translation>Compensation exposition</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2529"/>
+        <location filename="TemplateData.cpp" line="2612"/>
         <source>Exposure Index</source>
         <translation>Indice d&apos;exposition</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2531"/>
+        <location filename="TemplateData.cpp" line="2614"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translation>Longueur de focale (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2532"/>
+        <location filename="TemplateData.cpp" line="2615"/>
         <source>35mm Focal length</source>
         <translation>Longueur de focale 35mm équ.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2533"/>
+        <location filename="TemplateData.cpp" line="2616"/>
         <source>ISO Value</source>
         <translation>Valeur ISO</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2534"/>
+        <location filename="TemplateData.cpp" line="2617"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translation>Vitesse d&apos;obturation (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2536"/>
+        <location filename="TemplateData.cpp" line="2619"/>
         <source>Max. aperture</source>
         <translation>Ouverture max.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2537"/>
+        <location filename="TemplateData.cpp" line="2620"/>
         <source>Colour space</source>
         <translation>Espace colorimétrique</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2538"/>
+        <location filename="TemplateData.cpp" line="2621"/>
         <source>Digital zoom</source>
         <translation>Zoom numérique</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2539"/>
+        <location filename="TemplateData.cpp" line="2622"/>
         <source>Subject Distance (m)</source>
         <translation>Distance au sujet (m)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2540"/>
+        <location filename="TemplateData.cpp" line="2623"/>
         <source>Subj. Dist. Range</source>
         <translation>Distance au sujet</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2541"/>
+        <location filename="TemplateData.cpp" line="2624"/>
         <source>Subject location</source>
         <translation>Localisation du sujet</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2542"/>
+        <location filename="TemplateData.cpp" line="2625"/>
         <source>Flash</source>
         <translation>Flash</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2543"/>
+        <location filename="TemplateData.cpp" line="2626"/>
         <source>Flash energy</source>
         <translation>Type de flash</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2544"/>
+        <location filename="TemplateData.cpp" line="2627"/>
         <source>Metering mode</source>
         <translation>Calcul de distance</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2545"/>
+        <location filename="TemplateData.cpp" line="2628"/>
         <source>Gain control</source>
         <translation>Contrôle de gain</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2546"/>
+        <location filename="TemplateData.cpp" line="2629"/>
         <source>Light source</source>
         <translation>Source de lumière</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2547"/>
+        <location filename="TemplateData.cpp" line="2630"/>
         <source>White balance</source>
         <translation>Balance des blancs</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2548"/>
+        <location filename="TemplateData.cpp" line="2631"/>
         <source>Contrast</source>
         <translation>Contraste</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2549"/>
+        <location filename="TemplateData.cpp" line="2632"/>
         <source>Saturation</source>
         <translation>Saturation</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2550"/>
+        <location filename="TemplateData.cpp" line="2633"/>
         <source>Sharpness</source>
         <translation>Netteté</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2551"/>
+        <location filename="TemplateData.cpp" line="2634"/>
         <source>Brightness</source>
         <translation>Brillance</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2552"/>
+        <location filename="TemplateData.cpp" line="2635"/>
         <source>Spectral sensitivity</source>
         <translation>Sensibilité spéctrale</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2553"/>
+        <location filename="TemplateData.cpp" line="2636"/>
         <source>Spatial freq. response</source>
         <translation>Réponse fréquence spatiale</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2554"/>
+        <location filename="TemplateData.cpp" line="2637"/>
         <source>Sensing method</source>
         <translation>Méthode capteur</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2555"/>
+        <location filename="TemplateData.cpp" line="2638"/>
         <source>File source</source>
         <translation>Source du fichier</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2556"/>
+        <location filename="TemplateData.cpp" line="2639"/>
         <source>CFA pattern</source>
         <translation>Modèle CFA</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2557"/>
+        <location filename="TemplateData.cpp" line="2640"/>
         <source>Custom rendered</source>
         <translation>Rendu personnalisé</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2558"/>
+        <location filename="TemplateData.cpp" line="2641"/>
         <source>Device settings desc.</source>
         <translation>Description des réglages de l&apos;appareil</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2559"/>
+        <location filename="TemplateData.cpp" line="2642"/>
         <source>Scene type</source>
         <translation>Type de scène</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2560"/>
+        <location filename="TemplateData.cpp" line="2643"/>
         <source>Scene capture type</source>
         <translation>Type capture de scène</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2561"/>
+        <location filename="TemplateData.cpp" line="2644"/>
         <source>Image-ID</source>
         <translation>ID-Image</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2562"/>
+        <location filename="TemplateData.cpp" line="2645"/>
         <source>Image width</source>
         <translation>Largeur de l&apos;image</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2563"/>
+        <location filename="TemplateData.cpp" line="2646"/>
         <source>Image height</source>
         <translation>Hauteur de l&apos;image</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2564"/>
+        <location filename="TemplateData.cpp" line="2647"/>
         <source>Image description</source>
         <translation>Description de l&apos;image</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2565"/>
+        <location filename="TemplateData.cpp" line="2648"/>
         <source>Components configuration</source>
         <translation>Configuration des composantes</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2566"/>
+        <location filename="TemplateData.cpp" line="2649"/>
         <source>Photometric interpretation</source>
         <translation>Interprétation photométrique</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2567"/>
+        <location filename="TemplateData.cpp" line="2650"/>
         <source>Focal Plane X-Resolution</source>
         <translation>Résolution plan focal X</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2568"/>
+        <location filename="TemplateData.cpp" line="2651"/>
         <source>Focal Plane Y-Resolution</source>
         <translation>Résolution plan focal Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2569"/>
+        <location filename="TemplateData.cpp" line="2652"/>
         <source>Focal Plane Res. Unit</source>
         <translation>Unité résolution plan focal</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2570"/>
+        <location filename="TemplateData.cpp" line="2653"/>
         <source>EXIF Version</source>
         <translation>Version EXIF</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2571"/>
+        <location filename="TemplateData.cpp" line="2654"/>
         <source>White point</source>
         <translation>Point blanc</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2572"/>
+        <location filename="TemplateData.cpp" line="2655"/>
         <source>Lens Make</source>
         <translation>Fabricant</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2573"/>
+        <location filename="TemplateData.cpp" line="2656"/>
         <source>Lens Model</source>
         <translation>Modèle de lentille</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2579"/>
+        <location filename="TemplateData.cpp" line="2662"/>
         <source>Latitude ref.</source>
         <translation>Réf. Latitude</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2581"/>
+        <location filename="TemplateData.cpp" line="2664"/>
         <source>Latitude (value)</source>
         <translation>Latitude (valeur)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2582"/>
+        <location filename="TemplateData.cpp" line="2665"/>
         <source>Longitude ref.</source>
         <translation>Réf. Longitude</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2584"/>
+        <location filename="TemplateData.cpp" line="2667"/>
         <source>Longitude (value)</source>
         <translation>Longitude (valeur)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2585"/>
+        <location filename="TemplateData.cpp" line="2668"/>
         <source>Altitude ref.</source>
         <translation>Réf. Altitude</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2586"/>
+        <location filename="TemplateData.cpp" line="2669"/>
         <source>Altitude</source>
         <translation>Altitude</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2587"/>
+        <location filename="TemplateData.cpp" line="2670"/>
         <source>Direction ref.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2588"/>
+        <location filename="TemplateData.cpp" line="2671"/>
         <source>Direction</source>
         <translation>Direction</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2589"/>
+        <location filename="TemplateData.cpp" line="2672"/>
         <source>Location Code</source>
         <translation>Code de localisation</translation>
     </message>
@@ -17695,53 +17876,53 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
-        <location filename="ItemModel.cpp" line="1106"/>
+        <location filename="ItemModel.cpp" line="1108"/>
         <location filename="SearchField.cpp" line="43"/>
         <location filename="SearchField.cpp" line="219"/>
-        <location filename="TemplateData.cpp" line="2594"/>
+        <location filename="TemplateData.cpp" line="2677"/>
         <source>Caption</source>
         <translation>Légende</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="120"/>
+        <location filename="EditXMPWidget.cpp" line="88"/>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
-        <location filename="ItemModel.cpp" line="1108"/>
+        <location filename="ItemModel.cpp" line="1110"/>
         <location filename="SearchField.cpp" line="44"/>
         <location filename="SearchField.cpp" line="75"/>
         <location filename="SearchField.cpp" line="225"/>
         <location filename="SearchField.cpp" line="393"/>
-        <location filename="TemplateData.cpp" line="2595"/>
-        <location filename="TemplateData.cpp" line="2648"/>
+        <location filename="TemplateData.cpp" line="2678"/>
+        <location filename="TemplateData.cpp" line="2731"/>
         <source>Caption writer</source>
         <translation>Rédacteur de la description</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="136"/>
+        <location filename="EditXMPWidget.cpp" line="104"/>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
-        <location filename="ItemModel.cpp" line="1110"/>
+        <location filename="ItemModel.cpp" line="1112"/>
         <location filename="SearchField.cpp" line="45"/>
         <location filename="SearchField.cpp" line="231"/>
-        <location filename="TemplateData.cpp" line="2596"/>
-        <location filename="TemplateData.cpp" line="2652"/>
+        <location filename="TemplateData.cpp" line="2679"/>
+        <location filename="TemplateData.cpp" line="2735"/>
         <source>Headline</source>
         <translation>Titre</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="126"/>
+        <location filename="EditXMPWidget.cpp" line="94"/>
         <location filename="InfoIPTCView.cpp" line="33"/>
         <location filename="IptcHelper.cpp" line="22"/>
-        <location filename="ItemModel.cpp" line="1112"/>
+        <location filename="ItemModel.cpp" line="1114"/>
         <location filename="SearchField.cpp" line="51"/>
         <location filename="SearchField.cpp" line="267"/>
-        <location filename="TemplateData.cpp" line="2602"/>
+        <location filename="TemplateData.cpp" line="2685"/>
         <source>Keywords</source>
         <translation>Mots clés</translation>
     </message>
     <message>
         <location filename="IptcHelper.cpp" line="23"/>
-        <location filename="ItemModel.cpp" line="1114"/>
+        <location filename="ItemModel.cpp" line="1116"/>
         <location filename="SearchField.cpp" line="52"/>
         <location filename="SearchField.cpp" line="273"/>
         <source>Categories</source>
@@ -17765,56 +17946,56 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="26"/>
-        <location filename="ItemModel.cpp" line="1116"/>
+        <location filename="ItemModel.cpp" line="1118"/>
         <location filename="SearchField.cpp" line="47"/>
         <location filename="SearchField.cpp" line="243"/>
-        <location filename="TemplateData.cpp" line="2610"/>
+        <location filename="TemplateData.cpp" line="2693"/>
         <source>Byline</source>
         <translation>Créateur</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
-        <location filename="ItemModel.cpp" line="1118"/>
+        <location filename="ItemModel.cpp" line="1120"/>
         <location filename="SearchField.cpp" line="48"/>
         <location filename="SearchField.cpp" line="249"/>
-        <location filename="TemplateData.cpp" line="2611"/>
+        <location filename="TemplateData.cpp" line="2694"/>
         <source>Byline title</source>
         <translation>Titre du créateur</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="134"/>
-        <location filename="ItemModel.cpp" line="1120"/>
+        <location filename="EditXMPWidget.cpp" line="102"/>
+        <location filename="ItemModel.cpp" line="1122"/>
         <location filename="SearchField.cpp" line="49"/>
         <location filename="SearchField.cpp" line="79"/>
         <location filename="SearchField.cpp" line="255"/>
         <location filename="SearchField.cpp" line="405"/>
-        <location filename="TemplateData.cpp" line="2612"/>
-        <location filename="TemplateData.cpp" line="2651"/>
+        <location filename="TemplateData.cpp" line="2695"/>
+        <location filename="TemplateData.cpp" line="2734"/>
         <source>Credit</source>
         <translation>Crédit</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="135"/>
+        <location filename="EditXMPWidget.cpp" line="103"/>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="29"/>
-        <location filename="ItemModel.cpp" line="1122"/>
+        <location filename="ItemModel.cpp" line="1124"/>
         <location filename="SearchField.cpp" line="50"/>
         <location filename="SearchField.cpp" line="261"/>
-        <location filename="TemplateData.cpp" line="2613"/>
-        <location filename="TemplateData.cpp" line="2654"/>
+        <location filename="TemplateData.cpp" line="2696"/>
+        <location filename="TemplateData.cpp" line="2737"/>
         <source>Source</source>
         <translation></translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="40"/>
         <location filename="IptcHelper.cpp" line="30"/>
-        <location filename="ItemModel.cpp" line="1124"/>
+        <location filename="ItemModel.cpp" line="1126"/>
         <location filename="SearchField.cpp" line="46"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="SearchField.cpp" line="237"/>
-        <location filename="TemplateData.cpp" line="2609"/>
-        <location filename="TemplateData.cpp" line="2644"/>
+        <location filename="TemplateData.cpp" line="2692"/>
+        <location filename="TemplateData.cpp" line="2727"/>
         <source>Copyright</source>
         <translation></translation>
     </message>
@@ -17831,67 +18012,63 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="72"/>
         <location filename="IptcHelper.cpp" line="31"/>
-        <location filename="ItemModel.cpp" line="1126"/>
-        <location filename="TemplateData.cpp" line="2636"/>
+        <location filename="ItemModel.cpp" line="1128"/>
+        <location filename="TemplateData.cpp" line="2719"/>
         <source>Contact</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="130"/>
-        <location filename="DlgEditXMP.cpp" line="145"/>
-        <location filename="DlgEditXMP.cpp" line="161"/>
+        <location filename="EditXMPWidget.cpp" line="98"/>
+        <location filename="EditXMPWidget.cpp" line="139"/>
+        <location filename="EditXMPWidget.cpp" line="155"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="42"/>
-        <location filename="ItemModel.cpp" line="1128"/>
+        <location filename="ItemModel.cpp" line="1130"/>
         <location filename="SearchField.cpp" line="77"/>
         <location filename="SearchField.cpp" line="399"/>
-        <location filename="TemplateData.cpp" line="2630"/>
-        <location filename="TemplateData.cpp" line="2649"/>
+        <location filename="TemplateData.cpp" line="2713"/>
+        <location filename="TemplateData.cpp" line="2732"/>
         <source>City</source>
         <translation>Ville</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2637"/>
+        <location filename="TemplateData.cpp" line="2720"/>
         <source>Content location</source>
         <translation>Localisation</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="131"/>
-        <location filename="DlgEditXMP.cpp" line="146"/>
-        <location filename="DlgEditXMP.cpp" line="160"/>
-        <location filename="ItemModel.cpp" line="1132"/>
-        <location filename="TemplateData.cpp" line="2632"/>
-        <location filename="TemplateData.cpp" line="2655"/>
+        <location filename="EditXMPWidget.cpp" line="99"/>
+        <location filename="EditXMPWidget.cpp" line="140"/>
+        <location filename="EditXMPWidget.cpp" line="154"/>
+        <location filename="ItemModel.cpp" line="1134"/>
+        <location filename="TemplateData.cpp" line="2715"/>
+        <location filename="TemplateData.cpp" line="2738"/>
         <source>State</source>
         <translation>État</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="132"/>
-        <location filename="DlgEditXMP.cpp" line="148"/>
-        <location filename="DlgEditXMP.cpp" line="162"/>
+        <location filename="EditXMPWidget.cpp" line="100"/>
+        <location filename="EditXMPWidget.cpp" line="142"/>
+        <location filename="EditXMPWidget.cpp" line="156"/>
         <location filename="InfoIPTCView.cpp" line="63"/>
         <location filename="IptcHelper.cpp" line="45"/>
-        <location filename="ItemModel.cpp" line="1134"/>
+        <location filename="ItemModel.cpp" line="1136"/>
         <location filename="SearchField.cpp" line="78"/>
         <location filename="SearchField.cpp" line="402"/>
-        <location filename="TemplateData.cpp" line="2633"/>
-        <location filename="TemplateData.cpp" line="2650"/>
+        <location filename="TemplateData.cpp" line="2716"/>
+        <location filename="TemplateData.cpp" line="2733"/>
         <source>Country</source>
         <translation>Pays</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="59"/>
-        <location filename="IptcHelper.cpp" line="48"/>
-        <location filename="ItemModel.cpp" line="1136"/>
-        <location filename="TemplateData.cpp" line="2627"/>
         <source>Object name</source>
-        <translation>Nom de l&apos;objet</translation>
+        <translation type="vanished">Nom de l&apos;objet</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
-        <location filename="TemplateData.cpp" line="2597"/>
+        <location filename="TemplateData.cpp" line="2680"/>
         <source>Special instructions</source>
         <translation>Instructions spéciales</translation>
     </message>
@@ -17899,14 +18076,14 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="SearchField.cpp" line="76"/>
         <location filename="SearchField.cpp" line="396"/>
-        <location filename="TemplateData.cpp" line="2603"/>
+        <location filename="TemplateData.cpp" line="2686"/>
         <source>Category</source>
         <translation>Catégorie</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
         <location filename="IptcHelper.cpp" line="24"/>
-        <location filename="TemplateData.cpp" line="2604"/>
+        <location filename="TemplateData.cpp" line="2687"/>
         <source>Supplemental categories</source>
         <translation>Catégories supplémentaires</translation>
     </message>
@@ -17919,21 +18096,21 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="49"/>
         <location filename="IptcHelper.cpp" line="33"/>
-        <location filename="TemplateData.cpp" line="2618"/>
+        <location filename="TemplateData.cpp" line="2701"/>
         <source>Edit status</source>
         <translation>Statut éditorial</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2621"/>
+        <location filename="TemplateData.cpp" line="2704"/>
         <source>Job ID</source>
         <translation>ID de processus</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="37"/>
-        <location filename="TemplateData.cpp" line="2622"/>
+        <location filename="TemplateData.cpp" line="2705"/>
         <source>Program</source>
         <translation>Programme</translation>
     </message>
@@ -17946,7 +18123,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="53"/>
         <location filename="IptcHelper.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2619"/>
+        <location filename="TemplateData.cpp" line="2702"/>
         <source>Priority</source>
         <translation>Priorité</translation>
     </message>
@@ -17965,7 +18142,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
-        <location filename="TemplateData.cpp" line="2634"/>
+        <location filename="TemplateData.cpp" line="2717"/>
         <source>Country code</source>
         <translation>Code pays</translation>
     </message>
@@ -17976,7 +18153,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <location filename="TemplateData.cpp" line="2628"/>
+        <location filename="TemplateData.cpp" line="2711"/>
         <source>Created date</source>
         <translation>Date de création</translation>
     </message>
@@ -17987,7 +18164,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="68"/>
-        <location filename="TemplateData.cpp" line="2629"/>
+        <location filename="TemplateData.cpp" line="2712"/>
         <source>Released date</source>
         <translation>Date de sortie</translation>
     </message>
@@ -17997,11 +18174,11 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <translation>Heure de sortie</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="159"/>
+        <location filename="EditXMPWidget.cpp" line="153"/>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
-        <location filename="ItemModel.cpp" line="1130"/>
-        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="ItemModel.cpp" line="1132"/>
+        <location filename="TemplateData.cpp" line="2714"/>
         <source>Location</source>
         <translation>Emplacement</translation>
     </message>
@@ -18011,18 +18188,18 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <translation>Autre</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2620"/>
+        <location filename="TemplateData.cpp" line="2703"/>
         <source>Cycle</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2635"/>
+        <location filename="TemplateData.cpp" line="2718"/>
         <source>Original trans. ref.</source>
         <translation>Référence de la transmission</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="137"/>
-        <location filename="TemplateData.cpp" line="2653"/>
+        <location filename="EditXMPWidget.cpp" line="105"/>
+        <location filename="TemplateData.cpp" line="2736"/>
         <source>Instructions</source>
         <translation></translation>
     </message>
@@ -18039,37 +18216,37 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="69"/>
         <location filename="SearchField.cpp" line="378"/>
-        <location filename="TemplateData.cpp" line="2642"/>
+        <location filename="TemplateData.cpp" line="2725"/>
         <source>Creator</source>
         <translation>Créateur</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="118"/>
+        <location filename="EditXMPWidget.cpp" line="86"/>
         <location filename="SearchField.cpp" line="70"/>
         <location filename="SearchField.cpp" line="381"/>
-        <location filename="TemplateData.cpp" line="2643"/>
+        <location filename="TemplateData.cpp" line="2726"/>
         <source>Description</source>
         <translation>Description</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="SearchField.cpp" line="371"/>
-        <location filename="TemplateData.cpp" line="2645"/>
+        <location filename="TemplateData.cpp" line="2728"/>
         <source>Subject</source>
         <translation>Sujet</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="73"/>
         <location filename="SearchField.cpp" line="387"/>
-        <location filename="TemplateData.cpp" line="2646"/>
+        <location filename="TemplateData.cpp" line="2729"/>
         <source>Title</source>
         <translation>Titre</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="117"/>
+        <location filename="EditXMPWidget.cpp" line="85"/>
         <location filename="SearchField.cpp" line="74"/>
         <location filename="SearchField.cpp" line="390"/>
-        <location filename="TemplateData.cpp" line="2647"/>
+        <location filename="TemplateData.cpp" line="2730"/>
         <source>Authors position</source>
         <translation>Poste de l&apos;auteur</translation>
     </message>
@@ -18097,101 +18274,105 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <translation>Copyrights</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="115"/>
+        <location filename="EditXMPWidget.cpp" line="83"/>
+        <location filename="InfoIPTCView.cpp" line="59"/>
+        <location filename="IptcHelper.cpp" line="48"/>
+        <location filename="ItemModel.cpp" line="1138"/>
+        <location filename="TemplateData.cpp" line="2710"/>
         <source>Document title</source>
         <translation>Titre</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="116"/>
+        <location filename="EditXMPWidget.cpp" line="84"/>
         <source>Author</source>
         <translation>Auteur</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="121"/>
+        <location filename="EditXMPWidget.cpp" line="89"/>
         <source>Copyright Notice</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="122"/>
+        <location filename="EditXMPWidget.cpp" line="90"/>
         <source>Copyright info URL</source>
         <translation>URL info copyright</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="123"/>
+        <location filename="EditXMPWidget.cpp" line="91"/>
         <source>Copyright usage terms</source>
         <translation>Conditions d&apos;utilisation des droits d&apos;auteur</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="129"/>
+        <location filename="EditXMPWidget.cpp" line="97"/>
         <source>Sublocation</source>
         <translation>Sous-localisation</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="133"/>
+        <location filename="EditXMPWidget.cpp" line="101"/>
         <source>Country Code</source>
         <translation>Code pays</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="138"/>
+        <location filename="EditXMPWidget.cpp" line="106"/>
         <source>Transmission reference</source>
         <translation>Référence de la transmission</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="144"/>
+        <location filename="EditXMPWidget.cpp" line="138"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="147"/>
+        <location filename="EditXMPWidget.cpp" line="141"/>
         <source>ZIP code</source>
         <translation>Code postal</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="149"/>
+        <location filename="EditXMPWidget.cpp" line="143"/>
         <source>Telephon number</source>
         <translation>Numéro de téléphone</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="150"/>
+        <location filename="EditXMPWidget.cpp" line="144"/>
         <source>Email</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="151"/>
+        <location filename="EditXMPWidget.cpp" line="145"/>
         <source>Web site</source>
         <translation>Site Web</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="154"/>
+        <location filename="EditXMPWidget.cpp" line="148"/>
         <source>Person in image</source>
         <translation>Personne dans l&apos;image</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="155"/>
+        <location filename="EditXMPWidget.cpp" line="149"/>
         <source>Name of organization represented</source>
         <translation>Nom de l&apos;organisation représentée</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="156"/>
+        <location filename="EditXMPWidget.cpp" line="150"/>
         <source>Code of organization represented</source>
         <translation>Code de l&apos;organisation représentée</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="157"/>
+        <location filename="EditXMPWidget.cpp" line="151"/>
         <source>Event</source>
         <translation>Événement</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="165"/>
-        <location filename="DlgEditXMP.cpp" line="166"/>
-        <location filename="DlgEditXMP.cpp" line="167"/>
-        <location filename="DlgEditXMP.cpp" line="168"/>
-        <location filename="DlgEditXMP.cpp" line="169"/>
-        <location filename="DlgEditXMP.cpp" line="170"/>
-        <location filename="DlgEditXMP.cpp" line="171"/>
-        <location filename="DlgEditXMP.cpp" line="172"/>
-        <location filename="DlgEditXMP.cpp" line="173"/>
-        <location filename="DlgEditXMP.cpp" line="174"/>
+        <location filename="EditXMPWidget.cpp" line="159"/>
+        <location filename="EditXMPWidget.cpp" line="160"/>
+        <location filename="EditXMPWidget.cpp" line="161"/>
+        <location filename="EditXMPWidget.cpp" line="162"/>
+        <location filename="EditXMPWidget.cpp" line="163"/>
+        <location filename="EditXMPWidget.cpp" line="164"/>
+        <location filename="EditXMPWidget.cpp" line="165"/>
+        <location filename="EditXMPWidget.cpp" line="166"/>
+        <location filename="EditXMPWidget.cpp" line="167"/>
+        <location filename="EditXMPWidget.cpp" line="168"/>
         <source>Custom field</source>
         <translation>Champ personnalisé</translation>
     </message>
@@ -18376,52 +18557,52 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
 <context>
     <name>ItemModel</name>
     <message>
-        <location filename="ItemModel.cpp" line="1040"/>
+        <location filename="ItemModel.cpp" line="1042"/>
         <source>No.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1042"/>
+        <location filename="ItemModel.cpp" line="1044"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1044"/>
+        <location filename="ItemModel.cpp" line="1046"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1046"/>
+        <location filename="ItemModel.cpp" line="1048"/>
         <source>Info</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1048"/>
+        <location filename="ItemModel.cpp" line="1050"/>
         <source>Modified date</source>
         <translation>Date de modification</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1050"/>
+        <location filename="ItemModel.cpp" line="1052"/>
         <source>Created date</source>
         <translation>Date de création</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1052"/>
+        <location filename="ItemModel.cpp" line="1054"/>
         <source>EXIF Date Taken</source>
         <translation>EXIF Date de prise</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1054"/>
+        <location filename="ItemModel.cpp" line="1056"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF Date de modification</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1060"/>
+        <location filename="ItemModel.cpp" line="1062"/>
         <source>Type</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="4735"/>
+        <location filename="ItemModel.cpp" line="4769"/>
         <source>New Folder %1</source>
         <translation>Nouveau dossier %1</translation>
     </message>
@@ -18824,12 +19005,12 @@ Voulez-vous continuer ?</translation>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4207"/>
+        <location filename="BrowserWindow.cpp" line="4223"/>
         <source>New Folder</source>
         <translation>Nouveau dossier</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4219"/>
+        <location filename="BrowserWindow.cpp" line="4235"/>
         <source>Rename</source>
         <translation>Renommer</translation>
     </message>
@@ -19698,13 +19879,13 @@ Voulez-vous continuer ?</translation>
         <translation>Ouvrir une liste de fichiers...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4210"/>
+        <location filename="BrowserWindow.cpp" line="4226"/>
         <location filename="BrowserMenu.h" line="425"/>
         <source>Cut</source>
         <translation>Couper</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4212"/>
+        <location filename="BrowserWindow.cpp" line="4228"/>
         <location filename="BrowserMenu.h" line="427"/>
         <source>Copy</source>
         <translation>Copier</translation>
@@ -19715,7 +19896,7 @@ Voulez-vous continuer ?</translation>
         <translation>Image</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4214"/>
+        <location filename="BrowserWindow.cpp" line="4230"/>
         <location filename="BrowserMenu.h" line="432"/>
         <source>Paste</source>
         <translation>Coller</translation>
@@ -19751,19 +19932,19 @@ Voulez-vous continuer ?</translation>
         <translation>Sélectionner les fichiers marqués</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4222"/>
+        <location filename="BrowserWindow.cpp" line="4238"/>
         <location filename="BrowserMenu.h" line="442"/>
         <source>Copy to...</source>
         <translation>Copier vers...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4224"/>
+        <location filename="BrowserWindow.cpp" line="4240"/>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Move to...</source>
         <translation>Déplacer vers...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4217"/>
+        <location filename="BrowserWindow.cpp" line="4233"/>
         <location filename="BrowserMenu.h" line="444"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
@@ -20245,95 +20426,95 @@ Voulez-vous continuer ?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1440"/>
+        <location filename="xnview.cpp" line="1445"/>
         <source>Quit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1443"/>
+        <location filename="xnview.cpp" line="1448"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Site web...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1448"/>
+        <location filename="xnview.cpp" line="1453"/>
         <source>Make a donation...</source>
         <translation>Faire un don...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1441"/>
+        <location filename="xnview.cpp" line="1446"/>
         <source>About</source>
         <translation>A propos</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1442"/>
+        <location filename="xnview.cpp" line="1447"/>
         <source>PlugIns...</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1444"/>
+        <location filename="xnview.cpp" line="1449"/>
         <source>Forum...</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1445"/>
+        <location filename="xnview.cpp" line="1450"/>
         <source>Technical Support...</source>
         <translation>Support technique...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1446"/>
+        <location filename="xnview.cpp" line="1451"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Reporter un bogue...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1447"/>
+        <location filename="xnview.cpp" line="1452"/>
         <source>Wiki...</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1449"/>
+        <location filename="xnview.cpp" line="1454"/>
         <source>Check for update...</source>
         <translation>Vérifier les mises à jour...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1450"/>
+        <location filename="xnview.cpp" line="1455"/>
         <source>Registration...</source>
         <translation>Enregistrement...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1451"/>
+        <location filename="xnview.cpp" line="1456"/>
         <source>Purchase...</source>
         <translation>Acheter...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1461"/>
-        <location filename="xnview.cpp" line="1463"/>
+        <location filename="xnview.cpp" line="1466"/>
+        <location filename="xnview.cpp" line="1468"/>
         <source>Settings...</source>
         <translation>Paramètres...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1467"/>
+        <location filename="xnview.cpp" line="1472"/>
         <source>Always on top</source>
         <translation>Toujours au dessus</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1469"/>
+        <location filename="xnview.cpp" line="1474"/>
         <source>Titlebar</source>
         <translation>Barre de titre</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1470"/>
+        <location filename="xnview.cpp" line="1475"/>
         <source>Show</source>
         <translation>Afficher</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1471"/>
+        <location filename="xnview.cpp" line="1476"/>
         <source>Bottom</source>
         <translation>En bas</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1472"/>
+        <location filename="xnview.cpp" line="1477"/>
         <source>Tab</source>
         <translation>Onglets</translation>
     </message>
@@ -20341,128 +20522,128 @@ Voulez-vous continuer ?</translation>
 <context>
     <name>MenuTemplate</name>
     <message>
-        <location filename="TemplateData.cpp" line="2674"/>
+        <location filename="TemplateData.cpp" line="2759"/>
         <source>Date format variables</source>
         <translation>Variables pour le format des dates</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2443"/>
+        <location filename="TemplateData.cpp" line="2526"/>
         <source>Y - Year</source>
         <translation>Y - Année</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2444"/>
+        <location filename="TemplateData.cpp" line="2527"/>
         <source>y - Year without century (00-99)</source>
         <translation>y - Année sans le siècle (00-99)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2445"/>
+        <location filename="TemplateData.cpp" line="2528"/>
         <source>m - Month as decimal (01-12)</source>
         <translation>m - Mois en décimal (01-12)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2446"/>
+        <location filename="TemplateData.cpp" line="2529"/>
         <source>d - Day as decimal (01-31)</source>
         <translation>d - Jour en décimal (01-31)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2448"/>
+        <location filename="TemplateData.cpp" line="2531"/>
         <source>H - Hour (01-24)</source>
         <translation>H - Heure (01-24)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2449"/>
+        <location filename="TemplateData.cpp" line="2532"/>
         <source>M - Minute (00-59)</source>
         <translation>M - Minute (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2450"/>
+        <location filename="TemplateData.cpp" line="2533"/>
         <source>S - Second (00-59)</source>
         <translation>S - Seconde (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2452"/>
+        <location filename="TemplateData.cpp" line="2535"/>
         <source>B - Month name (eg. february)</source>
         <translation>B - Nom du mois (ex. février)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2453"/>
+        <location filename="TemplateData.cpp" line="2536"/>
         <source>b - Abbreviated month name (eg. feb)</source>
         <translation>b - Nom du mois abrégé (ex. fev)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2454"/>
+        <location filename="TemplateData.cpp" line="2537"/>
         <source>A - Weekday name (eg. wednesday)</source>
         <translation>A - Nom du jour (ex. mercredi)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2455"/>
+        <location filename="TemplateData.cpp" line="2538"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
         <translation>a - Nom du jour abrégé (ex. mer)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2673"/>
+        <location filename="TemplateData.cpp" line="2758"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
         <translation># - Enumérateur numérique</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2691"/>
+        <location filename="TemplateData.cpp" line="2776"/>
         <source>Extra</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2693"/>
+        <location filename="TemplateData.cpp" line="2778"/>
         <source>Image</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2694"/>
+        <location filename="TemplateData.cpp" line="2779"/>
         <source>Saved Image</source>
         <translation>Image enregistrée</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2695"/>
+        <location filename="TemplateData.cpp" line="2780"/>
         <source>EXIF - Camera</source>
         <translation>EXIF - Caméra</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2696"/>
+        <location filename="TemplateData.cpp" line="2781"/>
         <source>EXIF - Image</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2697"/>
+        <location filename="TemplateData.cpp" line="2782"/>
         <source>EXIF - GPS</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2698"/>
+        <location filename="TemplateData.cpp" line="2783"/>
         <source>IPTC - Caption</source>
         <translation>IPTC - Légende</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2699"/>
+        <location filename="TemplateData.cpp" line="2784"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
         <translation>IPTC - Mots clés&amp;&amp;Catégories</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2703"/>
+        <location filename="TemplateData.cpp" line="2788"/>
         <source>XMP</source>
         <translation>XMP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2700"/>
+        <location filename="TemplateData.cpp" line="2785"/>
         <source>IPTC - Credits</source>
         <translation>IPTC - Crédits</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2701"/>
+        <location filename="TemplateData.cpp" line="2786"/>
         <source>IPTC - Status</source>
         <translation>IPTC - Statut</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2702"/>
+        <location filename="TemplateData.cpp" line="2787"/>
         <source>IPTC - Origin</source>
         <translation></translation>
     </message>
@@ -21821,7 +22002,7 @@ Voulez-vous continuer ?</translation>
         <translation>Dossiers</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1929"/>
+        <location filename="MyDirModel.cpp" line="1935"/>
         <source>New Folder %1</source>
         <translation>Nouveau Dossier %1</translation>
     </message>
@@ -21871,52 +22052,52 @@ Voulez-vous continuer ?</translation>
 <context>
     <name>MyHistogram</name>
     <message>
-        <location filename="MyHistogram.cpp" line="183"/>
+        <location filename="MyHistogram.cpp" line="189"/>
         <source>Red</source>
         <translation>Rouge</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="191"/>
+        <location filename="MyHistogram.cpp" line="197"/>
         <source>Green</source>
         <translation>Vert</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="199"/>
+        <location filename="MyHistogram.cpp" line="205"/>
         <source>Blue</source>
         <translation>Bleu</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="159"/>
+        <location filename="MyHistogram.cpp" line="165"/>
         <source>Luminance</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="167"/>
+        <location filename="MyHistogram.cpp" line="173"/>
         <source>RGB</source>
         <translation>RVB</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="175"/>
+        <location filename="MyHistogram.cpp" line="181"/>
         <source>RGB+Luminance</source>
         <translation>RVB+Luminance</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="215"/>
+        <location filename="MyHistogram.cpp" line="221"/>
         <source>Dark background</source>
         <translation>Fond sombre</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="222"/>
+        <location filename="MyHistogram.cpp" line="228"/>
         <source>Light background</source>
         <translation>Fond clair</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="228"/>
+        <location filename="MyHistogram.cpp" line="234"/>
         <source>Transparent</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="240"/>
+        <location filename="MyHistogram.cpp" line="246"/>
         <source>Close</source>
         <translation>Fermer</translation>
     </message>
@@ -21998,7 +22179,7 @@ Voulez-vous continuer ?</translation>
 <context>
     <name>MyThumbView</name>
     <message>
-        <location filename="MyThumbView.cpp" line="484"/>
+        <location filename="MyThumbView.cpp" line="490"/>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
@@ -22007,20 +22188,20 @@ You can change it in Settings › Catalog.</oldsource>
 Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="606"/>
+        <location filename="MyThumbView.cpp" line="612"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
         <translation>Mise à jour du catalogue, merci de patienter...</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="620"/>
+        <location filename="MyThumbView.cpp" line="626"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
         <translation>Mise à jour des fichiers, merci de patienter...</translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1217"/>
-        <location filename="MyThumbView.cpp" line="1230"/>
+        <location filename="MyThumbView.cpp" line="1228"/>
+        <location filename="MyThumbView.cpp" line="1241"/>
         <source>%n object(s)</source>
         <translation>
             <numerusform>%n objet</numerusform>
@@ -22028,7 +22209,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1217"/>
+        <location filename="MyThumbView.cpp" line="1228"/>
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
             <numerusform>%n objet sélectionné [%3 %4]</numerusform>
@@ -22036,7 +22217,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1228"/>
+        <location filename="MyThumbView.cpp" line="1239"/>
         <source>%n object(s) [%2 %3]</source>
         <oldsource>%1 object(s)</oldsource>
         <translation>
@@ -22045,17 +22226,17 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
         </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1270"/>
+        <location filename="MyThumbView.cpp" line="1281"/>
         <source>[Free disk space: %1 %2]</source>
         <translation>[Espace disque libre : %1 %2]</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1588"/>
+        <location filename="MyThumbView.cpp" line="1599"/>
         <source>All</source>
         <translation>Tous</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1592"/>
+        <location filename="MyThumbView.cpp" line="1603"/>
         <source>None</source>
         <translation>Aucun</translation>
     </message>
@@ -22507,12 +22688,17 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
         <translation>Aperçu</translation>
     </message>
     <message>
+        <location filename="PreviewInfo.cpp" line="490"/>
+        <source>Map</source>
+        <translation type="unfinished">Table</translation>
+    </message>
+    <message>
         <location filename="PreviewInfo.cpp" line="571"/>
         <source>Categories</source>
         <translation>Catégories</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2196"/>
+        <location filename="BrowserWindow.cpp" line="2205"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Cochez la case pour activer le menu contextuel par clic droit.</translation>
@@ -23108,7 +23294,7 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4353"/>
+        <location filename="ItemModel.cpp" line="4388"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Une erreur est survenue pendant le renommage!</translation>
@@ -23608,26 +23794,26 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="484"/>
-        <location filename="xnview.cpp" line="504"/>
+        <location filename="xnview.cpp" line="485"/>
+        <location filename="xnview.cpp" line="505"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>Sauvegarde en cours de création, merci de patienter...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="476"/>
-        <location filename="xnview.cpp" line="482"/>
-        <location filename="xnview.cpp" line="489"/>
+        <location filename="xnview.cpp" line="477"/>
+        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="490"/>
         <source>Catalog</source>
         <translation>Catalogue</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="476"/>
+        <location filename="xnview.cpp" line="477"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - La version du catalogue est plus récente que celle attendue</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="482"/>
+        <location filename="xnview.cpp" line="483"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -23638,39 +23824,39 @@ Souhaitez-vous conserver les vignettes ?
 (Si vous choisissez OUI, le processus de mise à jour sera plus long)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="486"/>
+        <location filename="xnview.cpp" line="487"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>Mise à jour du catalogue, merci de patienter...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="489"/>
+        <location filename="xnview.cpp" line="490"/>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
         <translation>XnViewMP - Un problème est survenu lors de la mise à jour du catalogue (erreur: %1), merci de contacter le développeur.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="596"/>
+        <location filename="xnview.cpp" line="597"/>
         <source>Catalog problem</source>
         <translation>Problème catalogue</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="596"/>
+        <location filename="xnview.cpp" line="597"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Il y a un problème pour ouvrir le catalogue, vérifier vos paramêtres ou le dossier utilisé!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="980"/>
+        <location filename="xnview.cpp" line="982"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>L&apos;application est actuellement à jour.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1672"/>
+        <location filename="xnview.cpp" line="1677"/>
         <source>Do you want to save session?</source>
         <translation>Voulez-vous sauvegarder la session ?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3114"/>
+        <location filename="xnview.cpp" line="3124"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -23678,44 +23864,44 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Les étiquettes de classement, d&apos;étiquette et de couleur ne seront pas sauvegardées.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1047"/>
+        <location filename="xnview.cpp" line="1053"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Votre précédente session contient beaucoup d&apos;images chargées, cela peut causer un ralentissement!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1047"/>
+        <location filename="xnview.cpp" line="1053"/>
         <source>Session</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1597"/>
+        <location filename="xnview.cpp" line="1602"/>
         <source>Do you want to quit?</source>
         <translation>Voulez-vous quitter?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1673"/>
+        <location filename="xnview.cpp" line="1678"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Sauver beaucoup d&apos;onglets peut ralentir le lancement de l&apos;application.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1679"/>
+        <location filename="xnview.cpp" line="1684"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Ne plus demander</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1238"/>
+        <location filename="xnview.cpp" line="1246"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1238"/>
+        <location filename="xnview.cpp" line="1246"/>
         <source>File not found!</source>
         <translation>Fichier non trouvé !</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1698"/>
+        <location filename="xnview.cpp" line="1703"/>
         <source>Do you want to save this session?</source>
         <translation>Voulez-vous enregistrer cette session ?</translation>
     </message>

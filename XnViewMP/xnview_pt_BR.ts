@@ -5294,6 +5294,17 @@ Do you want to overwrite it?</source>
     </message>
 </context>
 <context>
+    <name>DlgConvertXMP</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load template...</source>
+        <translation type="unfinished">Carregar modelo...</translation>
+    </message>
+</context>
+<context>
     <name>DlgCreateMulti</name>
     <message>
         <source>Create multi-page file</source>
@@ -5555,67 +5566,31 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descrição</translation>
-    </message>
-    <message>
-        <source>Rating</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copyright status</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Undefined</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protected by copyright</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Public domain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Creation Date: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modification Date: </source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Descrição</translation>
     </message>
     <message>
         <source>Origin</source>
-        <translation type="unfinished">Origem</translation>
-    </message>
-    <message>
-        <source>Urgency</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Origem</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opções</translation>
-    </message>
-    <message>
-        <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Opções</translation>
     </message>
     <message>
         <source>XMP only</source>
-        <translation type="unfinished">Somente XMP</translation>
+        <translation type="obsolete">Somente XMP</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, atualizar ou criar IPTC-IIM</translation>
+        <translation type="obsolete">XMP, atualizar ou criar IPTC-IIM</translation>
     </message>
     <message>
         <source>Multiple selection</source>
-        <translation type="unfinished">Seleção múltipla</translation>
+        <translation type="obsolete">Seleção múltipla</translation>
     </message>
     <message>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Manter os valores originais quando os novos valores estiverem vazios</translation>
+        <translation type="obsolete">Manter os valores originais quando os novos valores estiverem vazios</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
@@ -5638,24 +5613,20 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Limpar todos os campos</translation>
     </message>
     <message>
-        <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>0: None</source>
-        <translation type="unfinished">0 : Nenhum</translation>
+        <translation type="obsolete">0 : Nenhum</translation>
     </message>
     <message>
         <source>1: High</source>
-        <translation type="unfinished">1 : Alto</translation>
+        <translation type="obsolete">1 : Alto</translation>
     </message>
     <message>
         <source>5: Normal</source>
-        <translation type="unfinished">5 : Normal</translation>
+        <translation type="obsolete">5 : Normal</translation>
     </message>
     <message>
         <source>8: Low</source>
-        <translation type="unfinished">8 : Baixo</translation>
+        <translation type="obsolete">8 : Baixo</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
@@ -5663,37 +5634,29 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished">Inserir</translation>
+        <translation type="obsolete">Inserir</translation>
     </message>
     <message>
         <source>Insert from</source>
-        <translation type="unfinished">Inserir de</translation>
+        <translation type="obsolete">Inserir de</translation>
     </message>
     <message>
         <source>Copy into</source>
-        <translation type="unfinished">Copiar em</translation>
+        <translation type="obsolete">Copiar em</translation>
     </message>
     <message>
         <source>Edit history...</source>
-        <translation type="unfinished">Editar histórico...</translation>
+        <translation type="obsolete">Editar histórico...</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Ordem alfabética</translation>
+        <translation type="obsolete">Ordem alfabética</translation>
     </message>
     <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation type="unfinished">Os dados IPTC foram alterados.(new line)
 Você gostaria de salvar as alterações?</translation>
-    </message>
-    <message>
-        <source>IPTC Contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IPTC extensions</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Changing files, please wait...</source>
@@ -5705,31 +5668,7 @@ Você gostaria de salvar as alterações?</translation>
     </message>
     <message>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Substituir somente se o valor original estiver vazio</translation>
-    </message>
-    <message>
-        <source>Library</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Keywords</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply parent categories</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Required field</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Substituir somente se o valor original estiver vazio</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
@@ -5746,10 +5685,6 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember opened tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5942,19 +5877,19 @@ Please make sure that files are not read-only!</source>
     <name>DlgExport</name>
     <message>
         <source>Zoom out</source>
-        <translation>Diminuir zoom</translation>
+        <translation type="vanished">Diminuir zoom</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Aumentar zoom</translation>
+        <translation type="vanished">Aumentar zoom</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoom em 100%</translation>
+        <translation type="vanished">Zoom em 100%</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Melhor tamanho</translation>
+        <translation type="vanished">Melhor tamanho</translation>
     </message>
     <message>
         <source>Problem</source>
@@ -6153,6 +6088,14 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Edit palette...</source>
         <translation>Editar paleta...</translation>
+    </message>
+    <message>
+        <source>Use JPEG-li</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to XYB colorspace</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6892,6 +6835,10 @@ The internal folder structure will be flattened. </source>
         <source>Input folder</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>No action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgImportThread</name>
@@ -7365,7 +7312,7 @@ Please make sure that files are not read-only!</source>
     <name>DlgOpenWith</name>
     <message>
         <source>Configure programs...</source>
-        <translation>Configurar programas...</translation>
+        <translation type="vanished">Configurar programas...</translation>
     </message>
     <message>
         <source>Name</source>
@@ -7386,6 +7333,14 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Arguments</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configure programs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="unfinished">Caminho</translation>
     </message>
 </context>
 <context>
@@ -12369,6 +12324,157 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
+    <name>EditXMPWidget</name>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descrição</translation>
+    </message>
+    <message>
+        <source>Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copyright status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undefined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protected by copyright</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creation Date: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modification Date: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Use | to separate keywords in hierarchy)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply parent categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <translation type="unfinished">Origem</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="unfinished">Data de criação</translation>
+    </message>
+    <message>
+        <source>Urgency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IPTC Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IPTC extensions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Opções</translation>
+    </message>
+    <message>
+        <source>Mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMP only</source>
+        <translation type="unfinished">Somente XMP</translation>
+    </message>
+    <message>
+        <source>XMP, update or create IPTC-IIM</source>
+        <translation type="unfinished">XMP, atualizar ou criar IPTC-IIM</translation>
+    </message>
+    <message>
+        <source>Multiple selection</source>
+        <translation type="unfinished">Seleção múltipla</translation>
+    </message>
+    <message>
+        <source>Keep original value if new value is empty</source>
+        <translation type="unfinished">Manter os valores originais quando os novos valores estiverem vazios</translation>
+    </message>
+    <message>
+        <source>Replace only if original value is empty</source>
+        <translation type="unfinished">Substituir somente se o valor original estiver vazio</translation>
+    </message>
+    <message>
+        <source>Remember opened tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Use ; or , to separate the values)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0: None</source>
+        <translation type="unfinished">0 : Nenhum</translation>
+    </message>
+    <message>
+        <source>1: High</source>
+        <translation type="unfinished">1 : Alto</translation>
+    </message>
+    <message>
+        <source>5: Normal</source>
+        <translation type="unfinished">5 : Normal</translation>
+    </message>
+    <message>
+        <source>8: Low</source>
+        <translation type="unfinished">8 : Baixo</translation>
+    </message>
+    <message>
+        <source>Required field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some fields are required, please fill them!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished">Inserir</translation>
+    </message>
+    <message>
+        <source>Insert from</source>
+        <translation type="unfinished">Inserir de</translation>
+    </message>
+    <message>
+        <source>Copy into</source>
+        <translation type="unfinished">Copiar em</translation>
+    </message>
+    <message>
+        <source>Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit history...</source>
+        <translation type="unfinished">Editar histórico...</translation>
+    </message>
+    <message>
+        <source>Sort alphabetically</source>
+        <translation type="unfinished">Ordem alfabética</translation>
+    </message>
+</context>
+<context>
     <name>Email</name>
     <message>
         <source>Sending...</source>
@@ -12994,6 +13100,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Filename (last number)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify date</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13665,7 +13779,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Object name</source>
-        <translation>Nome do objeto</translation>
+        <translation type="vanished">Nome do objeto</translation>
     </message>
     <message>
         <source>City</source>
@@ -17210,6 +17324,10 @@ You can change it in Settings › Catalog.</source>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Clique na caixa de checagem para alterar a atribuição. Use o botão direito do mouse para acessar o menu com as ações disponíveis.</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished">Mapa</translation>
     </message>
 </context>
 <context>
