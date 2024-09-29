@@ -6857,7 +6857,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Sjabloon laden…</translation>
+        <translation>Sjabloon laden…</translation>
     </message>
 </context>
 <context>
@@ -7856,7 +7856,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-li gebruiken</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7896,7 +7896,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Converteren naar XYB-kleurenruimte</translation>
+        <translation>Converteren naar XYB-kleurenruimte</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8854,7 +8854,7 @@ Submappen worden aangemaakt. </translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen actie</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9022,7 +9022,7 @@ Wilt u de wijzigingen opslaan?</translation>
     <message>
         <location filename="DlgIptc.cpp" line="1109"/>
         <source>Sort alphabetically</source>
-        <translation>Alfabetisch sorteren</translation>
+        <translation>Sorteren op alfabet</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1575"/>
@@ -9477,7 +9477,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Programma&apos;s instellen…</translation>
+        <translation>Programma&apos;s instellen</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9487,7 +9487,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Pad</translation>
+        <translation>Pad</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -11853,7 +11853,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="117"/>
         <source>Folder always sorted alphabetically</source>
-        <translation>Map altijd alphabetisch gesorteerd</translation>
+        <translation>Map altijd gesorteerd op alfabet</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
@@ -16026,187 +16026,187 @@ Doorgaan?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Beschrijving</translation>
+        <translation>Beschrijving</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Waardering</translation>
+        <translation>Waardering</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Auteursrechtstatus</translation>
+        <translation>Auteursrechtstatus</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">Ongedefinieerd</translation>
+        <translation>Ongedefinieerd</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Beschermd door Auteursrechten</translation>
+        <translation>Beschermd door Auteursrechten</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">Publiek domein</translation>
+        <translation>Publiek domein</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Aanmaakdatum: </translation>
+        <translation>Aanmaakdatum: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Wijzigingsdatum: </translation>
+        <translation>Wijzigingsdatum: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Trefwoorden</translation>
+        <translation>Trefwoorden</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(gebruik | om trefworden in hiërarchie te scheiden)</translation>
+        <translation>(gebruik | om trefwoorden in hiërarchie te scheiden)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Bovenliggende categorieën toepassen</translation>
+        <translation>Bovenliggende categorieën toepassen</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished">Herkomst</translation>
+        <translation>Herkomst</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Datum aangemaakt</translation>
+        <translation>Datum aangemaakt</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="365"/>
         <source>Urgency</source>
-        <translation type="unfinished">Urgentie</translation>
+        <translation>Urgentie</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="391"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">IPTC Contact</translation>
+        <translation>IPTC Contact</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="443"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">IPTC uitbreidngen</translation>
+        <translation>IPTC uitbreidngen</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="537"/>
         <source>Options</source>
-        <translation type="unfinished">Opties</translation>
+        <translation>Opties</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="558"/>
         <source>Mode:</source>
-        <translation type="unfinished">Modus:</translation>
+        <translation>Modus:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="566"/>
         <source>XMP only</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="571"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, IPTC-IIM bijwerken of aanmaken</translation>
+        <translation>XMP, IPTC-IIM bijwerken of aanmaken</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="600"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Meervoudige selectie</translation>
+        <translation>Meervoudige selectie</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="609"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Originele waarde behouden bij lege invoer</translation>
+        <translation>Originele waarde behouden bij lege invoer</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="616"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervang alleen als de oorspronkelijke waarde leeg is</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="626"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Geopende tab onthouden</translation>
+        <translation>Geopende tab onthouden</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(Gebruik ; of , om de waarden te scheiden)</translation>
+        <translation>(Gebruik ; of , om de waarden te scheiden)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Geen</translation>
+        <translation>0: Geen</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Hoog</translation>
+        <translation>1: Hoog</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Normaal</translation>
+        <translation>5: Normaal</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Laag</translation>
+        <translation>8: Laag</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="288"/>
         <source>Required field</source>
-        <translation type="unfinished">Verplicht veld</translation>
+        <translation>Verplicht veld</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="288"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Vul a.u.b. de verplichte velden!</translation>
+        <translation>Sommige velden zijn verplicht, vul ze in!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="430"/>
         <source>Insert</source>
-        <translation type="unfinished">Invoegen</translation>
+        <translation>Invoegen</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="442"/>
         <source>Insert from</source>
-        <translation type="unfinished"></translation>
+        <translation>Invoegen van</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="463"/>
         <source>Copy into</source>
-        <translation type="unfinished">Kopiëren naar</translation>
+        <translation>Kopiëren naar</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="487"/>
         <source>Library</source>
-        <translation type="unfinished">Bibliotheek</translation>
+        <translation>Bibliotheek</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="492"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Geschiedenis bewerken…</translation>
+        <translation>Geschiedenis bewerken…</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Alfabetisch sorteren</translation>
+        <translation>Sorteren op alfabet</translation>
     </message>
 </context>
 <context>
@@ -17060,12 +17060,12 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum aanmaken</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum bewerken</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -18559,7 +18559,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="IptcEditBase.cpp" line="178"/>
         <source>Sort alphabetically</source>
-        <translation>Alfabetisch sorteren</translation>
+        <translation>Sorteren op alfabet</translation>
     </message>
 </context>
 <context>
@@ -22694,7 +22694,7 @@ U kunt dit wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Aanpassen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
