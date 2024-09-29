@@ -6840,7 +6840,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Sablon betöltése...</translation>
+        <translation>Sablon betöltése...</translation>
     </message>
 </context>
 <context>
@@ -7839,7 +7839,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-li használata</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7879,7 +7879,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">XYB színtérré konvertálás</translation>
+        <translation>XYB színtérré konvertálás</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8837,7 +8837,7 @@ Az almappák jönnek létre. </translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs művelet</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9460,7 +9460,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Programok beállítása...</translation>
+        <translation>Programok beállítása</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9470,7 +9470,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Elérési út</translation>
+        <translation>Elérési út</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -16010,187 +16010,187 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Leírás</translation>
+        <translation>Leírás</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Értékelés</translation>
+        <translation>Értékelés</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Szerzői jogi állapot</translation>
+        <translation>Szerzői jogi állapot</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">Meghatározatlan</translation>
+        <translation>Meghatározatlan</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Szerzői jogi védelem alatt</translation>
+        <translation>Szerzői jogi védelem alatt</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">Nyilvános tartomány</translation>
+        <translation>Nyilvános tartomány</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Létrehozás dátuma: </translation>
+        <translation>Létrehozás dátuma: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Módosítás dátuma: </translation>
+        <translation>Módosítás dátuma: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Kulcsszavak</translation>
+        <translation>Kulcsszavak</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(A hierarchiában a kulcsszavak elválasztásához | karakter)</translation>
+        <translation>(A hierarchiában a kulcsszavak elválasztásához | karakter)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Szülő kategóriák alkalmazása</translation>
+        <translation>Szülő kategóriák alkalmazása</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished">Eredet</translation>
+        <translation>Eredet</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Létrehozás dátuma</translation>
+        <translation>Létrehozás dátuma</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="365"/>
         <source>Urgency</source>
-        <translation type="unfinished">Sürgősség</translation>
+        <translation>Sürgősség</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="391"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">IPTC kapcsolat</translation>
+        <translation>IPTC kapcsolat</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="443"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">IPTC kiterjesztések</translation>
+        <translation>IPTC kiterjesztések</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="537"/>
         <source>Options</source>
-        <translation type="unfinished">Beállítások</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="558"/>
         <source>Mode:</source>
-        <translation type="unfinished">Mód:</translation>
+        <translation>Mód:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="566"/>
         <source>XMP only</source>
-        <translation type="unfinished">Csak XMP</translation>
+        <translation>Csak XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="571"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, IPTC-IIM frissítése vagy létrehozása</translation>
+        <translation>XMP, IPTC-IIM frissítése vagy létrehozása</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="600"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Több kijelölés</translation>
+        <translation>Több kijelölés</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="609"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Eredeti érték megtartása, ha az új érték üres</translation>
+        <translation>Eredeti érték megtartása, ha az új érték üres</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="616"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Csak akkor cseréli, ha az eredeti érték üres</translation>
+        <translation>Csak akkor cseréli, ha az eredeti érték üres</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="626"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Megnyitott lapok megjegyzése</translation>
+        <translation>Megnyitott lapok megjegyzése</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(Az értékek elválasztásához ; vagy , )</translation>
+        <translation>(Az értékek elválasztásához ; vagy , )</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Nincs</translation>
+        <translation>0: Nincs</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Magas</translation>
+        <translation>1: Magas</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Normál</translation>
+        <translation>5: Normál</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Alacsony</translation>
+        <translation>8: Alacsony</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="288"/>
         <source>Required field</source>
-        <translation type="unfinished">Kötelező mező</translation>
+        <translation>Kötelező mező</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="288"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Néhány mező kitöltése kötelező, töltse ki őket!</translation>
+        <translation>Néhány mező kitöltése kötelező, töltse ki őket!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="430"/>
         <source>Insert</source>
-        <translation type="unfinished">Beszúrás</translation>
+        <translation>Beszúrás</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="442"/>
         <source>Insert from</source>
-        <translation type="unfinished"></translation>
+        <translation>Beszúrás innen</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="463"/>
         <source>Copy into</source>
-        <translation type="unfinished">Másolás</translation>
+        <translation>Másolás</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="487"/>
         <source>Library</source>
-        <translation type="unfinished">Könyvtár</translation>
+        <translation>Könyvtár</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="492"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Előzmények szerkesztése...</translation>
+        <translation>Előzmények szerkesztése...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Rendezés betűrendben</translation>
+        <translation>Rendezés betűrendben</translation>
     </message>
 </context>
 <context>
@@ -17044,12 +17044,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Létrehozás dátuma</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Módosítás dátuma</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -22672,7 +22672,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Térkép</translation>
+        <translation>Térkép</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
