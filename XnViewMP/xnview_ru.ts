@@ -6902,12 +6902,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertXMP.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Загрузить шаблон...</translation>
+        <translation>Загрузить шаблон...</translation>
     </message>
 </context>
 <context>
@@ -7897,7 +7897,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7937,7 +7937,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Преобразовать в цветовое пространство XYB</translation>
+        <translation>Преобразовать в цветовое пространство XYB</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8914,7 +8914,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ничего не делать</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9539,7 +9539,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Изменить список программ...</translation>
+        <translation>Настройка программ</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9549,7 +9549,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Путь</translation>
+        <translation>Путь</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -16118,57 +16118,57 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Описание</translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Рейтинг</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Статус авторских прав</translation>
+        <translation>Статус авторских прав</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">Не определено</translation>
+        <translation>Не определено</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Защищено Авторским правом</translation>
+        <translation>Защищено авторским правом</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">Общественное достояние</translation>
+        <translation>Общественное достояние</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Дата создания: </translation>
+        <translation>Дата создания: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Дата изменения: </translation>
+        <translation>Дата изменения: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Ключевые слова</translation>
+        <translation>Ключевые слова</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(используйте | для разделения иерархии Ключевых слов)</translation>
+        <translation>(используйте | для разделения иерархии ключевых слов)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Назначать родительские Категории</translation>
+        <translation>Присваивать родительские Категории</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
@@ -22404,7 +22404,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="OpenWithMenu.cpp" line="329"/>
         <source>Configure programs...</source>
-        <translation>Изменить список программ...</translation>
+        <translation>Настроить программы...</translation>
     </message>
 </context>
 <context>
@@ -22824,7 +22824,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Карта</translation>
+        <translation>Карта</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
