@@ -6885,12 +6885,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertXMP.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Naloži predlogo...</translation>
+        <translation>Naloži predlogo...</translation>
     </message>
 </context>
 <context>
@@ -7878,7 +7878,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7918,7 +7918,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Pretvori v XYB barvni prostor</translation>
+        <translation>Pretvori v XYB barvni prostor</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8886,7 +8886,7 @@ Ustvarjene bodo podmape. </translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez ukrepanja</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9510,7 +9510,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Konfiguriraj programe...</translation>
+        <translation>Konfiguriraj programe</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9520,7 +9520,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Pot</translation>
+        <translation>Pot</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -16056,187 +16056,187 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Ocena</translation>
+        <translation>Ocena</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Status avtorskih pravic</translation>
+        <translation>Status avtorskih pravic</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">Nedoločeno</translation>
+        <translation>Nedoločeno</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Zaščiteno z avtorskimi pravicami</translation>
+        <translation>Zaščiteno z avtorskimi pravicami</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">Javna domena</translation>
+        <translation>Javna domena</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Datum nastanka: </translation>
+        <translation>Datum nastanka: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Datum spremembe: </translation>
+        <translation>Datum spremembe: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Ključne besede</translation>
+        <translation>Ključne besede</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(Uporabi | za ločevanje ključnih besed v hierarhiji)</translation>
+        <translation>(Uporabi | za ločevanje ključnih besed v hierarhiji)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Uporabi nadrejene kategorije</translation>
+        <translation>Uporabi nadrejene kategorije</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvor</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Datum nastanka</translation>
+        <translation>Datum nastanka</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="365"/>
         <source>Urgency</source>
-        <translation type="unfinished">Nujnost</translation>
+        <translation>Nujnost</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="391"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">Stik IPTC</translation>
+        <translation>Stik IPTC</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="443"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">Pripoone IPTC</translation>
+        <translation>Pripoone IPTC</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="537"/>
         <source>Options</source>
-        <translation type="unfinished">Možnosti</translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="558"/>
         <source>Mode:</source>
-        <translation type="unfinished">Način:</translation>
+        <translation>Način:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="566"/>
         <source>XMP only</source>
-        <translation type="unfinished">Samo XMP</translation>
+        <translation>Samo XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="571"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, posodobite ali ustvarite IPTC-IIM</translation>
+        <translation>XMP, posodobite ali ustvarite IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="600"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Večkratna izbira</translation>
+        <translation>Večkratna izbira</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="609"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Če je nova vrednost prazna, ohrani izvirno vrednost</translation>
+        <translation>Ohrani prvotno vrednost, če je nova vrednost prazna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="616"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Zamenjaj le, če je izvirna vrednost prazna</translation>
+        <translation>Zamenjaj le, če je izvirna vrednost prazna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="626"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Zapomni si odprt zavihek</translation>
+        <translation>Zapomni si odprt zavihek</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(Uporabi; ali loči vrednosti)</translation>
+        <translation>(Uporabi; ali loči vrednosti)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Brez</translation>
+        <translation>0: Brez</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Visoka</translation>
+        <translation>1: Visoko</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Običajno</translation>
+        <translation>5: Običajno</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Nizko</translation>
+        <translation>8: Nizko</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="288"/>
         <source>Required field</source>
-        <translation type="unfinished">Zahtevano polje</translation>
+        <translation>Zahtevano polje</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="288"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Nekatera polja so obvezna, izpolnite jih!</translation>
+        <translation>Nekatera polja so obvezna, izpolnite jih!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="430"/>
         <source>Insert</source>
-        <translation type="unfinished">Vstavi</translation>
+        <translation>Vstavi</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="442"/>
         <source>Insert from</source>
-        <translation type="unfinished">Vstavi iz</translation>
+        <translation>Vstavi iz</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="463"/>
         <source>Copy into</source>
-        <translation type="unfinished">Kopiraj v</translation>
+        <translation>Kopiraj v</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="487"/>
         <source>Library</source>
-        <translation type="unfinished">Knjižnica</translation>
+        <translation>Knjižnica</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="492"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Uredi zgodovino...</translation>
+        <translation>Uredi zgodovino...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Razvrsti po abecedi</translation>
+        <translation>Razvrsti po abecedi</translation>
     </message>
 </context>
 <context>
@@ -17005,12 +17005,12 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari datum</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni datum</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -22732,7 +22732,7 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Mapa</translation>
+        <translation>Mapa</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
