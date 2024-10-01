@@ -9093,7 +9093,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgIptc.cpp" line="1575"/>
         <source>Some fields are required, please fill them!</source>
-        <translation>Некоторые поля обязательны для заполнения, их необходимо заполнить!</translation>
+        <translation>Некоторые поля обязательны, их необходимо заполнить!</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1646"/>
@@ -16173,132 +16173,132 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Местоположение</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Дата создания</translation>
+        <translation>Дата создания</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="365"/>
         <source>Urgency</source>
-        <translation type="unfinished">Срочность</translation>
+        <translation>Срочность</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="391"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">IPTC - Контактная информация</translation>
+        <translation>IPTC - Контактная информация</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="443"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">IPTC - Расширения</translation>
+        <translation>IPTC - Расширения</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="537"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="558"/>
         <source>Mode:</source>
-        <translation type="unfinished">Режим:</translation>
+        <translation>Режим:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="566"/>
         <source>XMP only</source>
-        <translation type="unfinished">XMP только</translation>
+        <translation>XMP только</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="571"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, обновлять или создавать IPTC</translation>
+        <translation>XMP, обновлять или создавать IPTC</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="600"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Множественный выбор</translation>
+        <translation>Множественный выбор</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="609"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Сохранять текущее значение, если новое значение пустое</translation>
+        <translation>Сохранять текущее значение, если новое значение пустое</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="616"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Заменять только пустые значения</translation>
+        <translation>Заменять только пустые значения</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="626"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Запоминать открытую вкладку</translation>
+        <translation>Запоминать открытую вкладку</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(используйте ; или , для разделения)</translation>
+        <translation>(используйте ; или , для разделения)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Не указан</translation>
+        <translation>0: Не указан</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Высокий</translation>
+        <translation>1: Высокий</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Нормальный</translation>
+        <translation>5: Нормальный</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Низкий</translation>
+        <translation>8: Низкий</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="288"/>
         <source>Required field</source>
-        <translation type="unfinished">Обязательное поле</translation>
+        <translation>Обязательное поле</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="288"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Некоторые поля обязательны для заполнения, их необходимо заполнить!</translation>
+        <translation>Некоторые поля обязательны, их необходимо заполнить!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="430"/>
         <source>Insert</source>
-        <translation type="unfinished">Вставить</translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="442"/>
         <source>Insert from</source>
-        <translation type="unfinished">Вставить из</translation>
+        <translation>Вставить из</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="463"/>
         <source>Copy into</source>
-        <translation type="unfinished">Копировать в</translation>
+        <translation>Копировать в</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="487"/>
         <source>Library</source>
-        <translation type="unfinished">Библиотека</translation>
+        <translation>Библиотека</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="492"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Редактировать историю...</translation>
+        <translation>Редактировать историю...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Упорядочить по алфавиту</translation>
+        <translation>Упорядочить по алфавиту</translation>
     </message>
 </context>
 <context>
@@ -17156,12 +17156,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата создания</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата изменения</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
