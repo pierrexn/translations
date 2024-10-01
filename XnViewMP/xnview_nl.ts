@@ -6852,7 +6852,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
@@ -22694,7 +22694,7 @@ U kunt dit wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaart</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
