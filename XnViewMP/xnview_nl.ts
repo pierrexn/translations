@@ -17060,7 +17060,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation>Datum aanmaken</translation>
+        <translation>Datum aangemaakt</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
