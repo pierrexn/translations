@@ -6839,7 +6839,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertXMP.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>形式</translation>
     </message>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
@@ -7834,7 +7834,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -8842,7 +8842,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无动作</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -16025,7 +16025,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>描述</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
@@ -16080,7 +16080,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>来源</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
@@ -16115,12 +16115,12 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="566"/>
         <source>XMP only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="571"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP，更新或创建IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="600"/>
@@ -16140,7 +16140,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="626"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished"></translation>
+        <translation>记住已打开的选项卡</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
@@ -17067,12 +17067,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>创建日期</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>修改日期</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
