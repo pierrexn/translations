@@ -6851,7 +6851,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Charger un modèle...</translation>
+        <translation>Charger un modèle...</translation>
     </message>
 </context>
 <context>
@@ -7679,7 +7679,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7719,7 +7719,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Convertir dans l&apos;espace de couleur XYB</translation>
+        <translation>Convertir dans l&apos;espace de couleur XYB</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8687,7 +8687,7 @@ Les sous-dossiers seront créés.</translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune action</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9310,7 +9310,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Configurer les programmes...</translation>
+        <translation>Configurer les programmes...</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9320,7 +9320,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Chemin</translation>
+        <translation>Chemin</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -13064,7 +13064,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Image précédente/suivante</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -15869,72 +15869,72 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Note</translation>
+        <translation>Note</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Statut de copyright</translation>
+        <translation>Statut de copyright</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">Indéfini</translation>
+        <translation>Indéfini</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Protégé par copyright</translation>
+        <translation>Protégé par copyright</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">Domaine publique</translation>
+        <translation>Domaine publique</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Date de création: </translation>
+        <translation>Date de création: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Date de modification: </translation>
+        <translation>Date de modification: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Mots clés</translation>
+        <translation>Mots clés</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(| pour séparer les mots clés dans la hiérarchie)</translation>
+        <translation>(| pour séparer les mots clés dans la hiérarchie)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Appliquer les catégories de parents</translation>
+        <translation>Appliquer les catégories de parents</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished">Origine</translation>
+        <translation>Origine</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Date de création</translation>
+        <translation>Date de création</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="368"/>
         <source>Urgency</source>
-        <translation type="unfinished">Urgence</translation>
+        <translation>Urgence</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="394"/>
@@ -15949,107 +15949,107 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="540"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="561"/>
         <source>Mode:</source>
-        <translation type="unfinished">Mode :</translation>
+        <translation>Mode :</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="569"/>
         <source>XMP only</source>
-        <translation type="unfinished">Seulement XMP</translation>
+        <translation>Seulement XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="574"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, mise à jour ou création IPTC-IIM</translation>
+        <translation>XMP, mise à jour ou création IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="603"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Sélection multiple</translation>
+        <translation>Sélection multiple</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="612"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Garder la valeur courante du tag si le champ est vide</translation>
+        <translation>Garder la valeur courante du tag si le champ est vide</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="619"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Modifier le tag seulement s&apos;il est vide</translation>
+        <translation>Modifier le tag seulement s&apos;il est vide</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="629"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Ré-ouvrir le dernier onglet</translation>
+        <translation>Ré-ouvrir le dernier onglet</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(Utiliser ; ou , pour séparer les valeurs)</translation>
+        <translation>(Utiliser ; ou , pour séparer les valeurs)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0 : Aucune</translation>
+        <translation>0 : Aucune</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1 : Haute</translation>
+        <translation>1 : Haute</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5 : Normale</translation>
+        <translation>5 : Normale</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8 : Basse</translation>
+        <translation>8 : Basse</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Required field</source>
-        <translation type="unfinished">Champs requis</translation>
+        <translation>Champs requis</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Certains champs sont requis, merci de les remplir!</translation>
+        <translation>Certains champs sont requis, merci de les remplir!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished">Insérer</translation>
+        <translation>Insérer</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="443"/>
         <source>Insert from</source>
-        <translation type="unfinished">Insérer de</translation>
+        <translation>Insérer de</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="464"/>
         <source>Copy into</source>
-        <translation type="unfinished">Copier en</translation>
+        <translation>Copier en</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="488"/>
         <source>Library</source>
-        <translation type="unfinished">Bibliothèque</translation>
+        <translation>Bibliothèque</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Editer l&apos;historique...</translation>
+        <translation>Editer l&apos;historique...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="494"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Tri alphabétique</translation>
+        <translation>Tri alphabétique</translation>
     </message>
 </context>
 <context>
@@ -16818,12 +16818,12 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date création</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date de modification</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -22543,7 +22543,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Table</translation>
+        <translation>Table</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
