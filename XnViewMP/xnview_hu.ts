@@ -6835,7 +6835,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Űrlap</translation>
     </message>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
