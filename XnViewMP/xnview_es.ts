@@ -5321,10 +5321,6 @@ Do you want to overwrite it?</source>
 <context>
     <name>DlgConvertXMP</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Load template...</source>
         <translation type="unfinished">Cargar plantilla...</translation>
     </message>
@@ -5586,14 +5582,6 @@ Do you want to overwrite it?</source>
 <context>
     <name>DlgEditXMP</name>
     <message>
-        <source>Mode:</source>
-        <translation type="vanished">Modo:</translation>
-    </message>
-    <message>
-        <source>Public domain</source>
-        <translation type="vanished">Dominio público</translation>
-    </message>
-    <message>
         <source>Changing files, please wait...</source>
         <translation>Cambiando archivos, por favor espere...</translation>
     </message>
@@ -5604,168 +5592,36 @@ Do you want to save your changes?</source>
 ¿Desea guardar los cambios?</translation>
     </message>
     <message>
-        <source>XMP only</source>
-        <translation type="vanished">Solo XMP</translation>
-    </message>
-    <message>
-        <source>Library</source>
-        <translation type="vanished">Biblioteca</translation>
-    </message>
-    <message>
-        <source>8: Low</source>
-        <translation type="vanished">8: Baja</translation>
-    </message>
-    <message>
-        <source>0: None</source>
-        <translation type="vanished">0: Ninguna</translation>
-    </message>
-    <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation>Los valores de los campos no se cargan porque está seleccionada &apos;No cargar valores de los campos&apos;</translation>
-    </message>
-    <message>
-        <source>Sort alphabetically</source>
-        <translation type="vanished">Ordenar alfabéticamente</translation>
-    </message>
-    <message>
-        <source>IPTC extensions</source>
-        <translation type="vanished">Extensiones IPTC</translation>
-    </message>
-    <message>
-        <source>1: High</source>
-        <translation type="vanished">1: Alta</translation>
-    </message>
-    <message>
-        <source>Keep original value if new value is empty</source>
-        <translation type="vanished">Mantener el valor original si el nuevo valor está vacío</translation>
     </message>
     <message>
         <source>Load template...</source>
         <translation>Cargar plantilla...</translation>
     </message>
     <message>
-        <source>Insert</source>
-        <translation type="vanished">Insertar</translation>
-    </message>
-    <message>
-        <source>5: Normal</source>
-        <translation type="vanished">5: Normal</translation>
-    </message>
-    <message>
-        <source>Origin</source>
-        <translation type="vanished">Origen</translation>
-    </message>
-    <message>
-        <source>Rating</source>
-        <translation type="vanished">Calificación</translation>
-    </message>
-    <message>
         <source>Save template...</source>
         <translation>Guardar plantilla...</translation>
-    </message>
-    <message>
-        <source>Replace only if original value is empty</source>
-        <translation type="vanished">Reemplazar solo si el valor original está vacío</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Opciones</translation>
-    </message>
-    <message>
-        <source>Multiple selection</source>
-        <translation type="vanished">Selección múltiple</translation>
-    </message>
-    <message>
-        <source>Copyright status</source>
-        <translation type="vanished">Estado de los derechos de autor</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
         <translation>No cargar los valores de los campos</translation>
     </message>
     <message>
-        <source>Copy into</source>
-        <translation type="vanished">Copiar en</translation>
-    </message>
-    <message>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Izquierdo</translation>
-    </message>
-    <message>
-        <source>Insert from</source>
-        <translation type="vanished">Insertar desde</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="vanished">Descripción</translation>
-    </message>
-    <message>
-        <source>Modification Date: </source>
-        <translation type="vanished">Fecha de modificación: </translation>
-    </message>
-    <message>
-        <source>Undefined</source>
-        <translation type="vanished">Indefinido</translation>
-    </message>
-    <message>
-        <source>(Use ; or , to separate the values)</source>
-        <translation type="vanished">(Utilizar ; o , para separar valores)</translation>
     </message>
     <message>
         <source>Edit XMP</source>
         <translation>Editar XMP</translation>
     </message>
     <message>
-        <source>Edit history...</source>
-        <translation type="vanished">Editar historial...</translation>
-    </message>
-    <message>
-        <source>Protected by copyright</source>
-        <translation type="vanished">Protegido por derechos de autor</translation>
-    </message>
-    <message>
-        <source>Urgency</source>
-        <translation type="vanished">Urgencia</translation>
-    </message>
-    <message>
         <source>Clear all fields</source>
         <translation>Limpiar todos los campos</translation>
     </message>
     <message>
-        <source>IPTC Contact</source>
-        <translation type="vanished">Contacto IPTC</translation>
-    </message>
-    <message>
-        <source>XMP, update or create IPTC-IIM</source>
-        <translation type="vanished">XMP, actualizar o crear IPTC-IIM</translation>
-    </message>
-    <message>
         <source>Ctrl+Right</source>
         <translation>Ctrl+Derecho</translation>
-    </message>
-    <message>
-        <source>Creation Date: </source>
-        <translation type="vanished">Fecha de creación: </translation>
-    </message>
-    <message>
-        <source>Keywords</source>
-        <translation type="vanished">Palabras clave</translation>
-    </message>
-    <message>
-        <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="vanished">(Utilizar | para separar las palabras clave jerárquicamente)</translation>
-    </message>
-    <message>
-        <source>Apply parent categories</source>
-        <translation type="vanished">Aplicar categorías principalesl</translation>
-    </message>
-    <message>
-        <source>Required field</source>
-        <translation type="vanished">Campo obligatorio</translation>
-    </message>
-    <message>
-        <source>Some fields are required, please fill them!</source>
-        <translation type="vanished">¡Algunos campos son obligatorios, por favor, rellénelos!</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
@@ -5784,10 +5640,6 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Aplicar</translation>
-    </message>
-    <message>
-        <source>Remember opened tab</source>
-        <translation type="vanished">Recordar pestaña abierta</translation>
     </message>
 </context>
 <context>
@@ -5986,20 +5838,8 @@ Please make sure that files are not read-only!</source>
         <translation>Ninguno</translation>
     </message>
     <message>
-        <source>Zoom in</source>
-        <translation type="vanished">Acercar</translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>Imágenes</translation>
-    </message>
-    <message>
-        <source>Zoom 100%</source>
-        <translation type="vanished">Zoom 100%</translation>
-    </message>
-    <message>
-        <source>Zoom out</source>
-        <translation type="vanished">Alejar</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -6048,10 +5888,6 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Save File</source>
         <translation>Guardar archivo</translation>
-    </message>
-    <message>
-        <source>Best fit</source>
-        <translation type="vanished">Ajustar</translation>
     </message>
     <message>
         <source>Greyscale</source>
@@ -7429,10 +7265,6 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Select all</source>
         <translation>Seleccionar todo</translation>
-    </message>
-    <message>
-        <source>Configure programs...</source>
-        <translation type="vanished">Configurar programas...</translation>
     </message>
     <message>
         <source>Arguments</source>
@@ -10340,6 +10172,10 @@ Do you want to reassign?</source>
     <message>
         <source>Switching modes</source>
         <translation>Cambio de modos</translation>
+    </message>
+    <message>
+        <source>Previous/next frame</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13994,10 +13830,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Posición del autor</translation>
     </message>
     <message>
-        <source>Object name</source>
-        <translation type="vanished">Nombre del objeto</translation>
-    </message>
-    <message>
         <source>Contact</source>
         <translation>Contacto</translation>
     </message>
@@ -14116,6 +13948,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Country Code</source>
         <translation>Código del país</translation>
+    </message>
+    <message>
+        <source>Subject code</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

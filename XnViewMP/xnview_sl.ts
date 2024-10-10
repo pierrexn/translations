@@ -263,81 +263,81 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1414"/>
+        <location filename="ViewWindow.cpp" line="1421"/>
         <source>Frame %1/%2</source>
         <translation>Kader %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1417"/>
+        <location filename="ViewWindow.cpp" line="1424"/>
         <source>Icon %1/%2</source>
         <translation>Ikona %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1419"/>
+        <location filename="ViewWindow.cpp" line="1426"/>
         <source>Page %1/%2</source>
         <translation>Stran %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1583"/>
-        <location filename="ViewWindow.cpp" line="1602"/>
+        <location filename="ViewWindow.cpp" line="1590"/>
+        <location filename="ViewWindow.cpp" line="1609"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Prazno &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1983"/>
+        <location filename="ViewWindow.cpp" line="1998"/>
         <source>Customize toolbar...</source>
         <translation>Prilagodi orodno vrstico...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2242"/>
-        <location filename="ViewWindow.cpp" line="2248"/>
-        <location filename="ViewWindow.cpp" line="2252"/>
+        <location filename="ViewWindow.cpp" line="2263"/>
+        <location filename="ViewWindow.cpp" line="2269"/>
+        <location filename="ViewWindow.cpp" line="2273"/>
         <source>Delete items</source>
         <translation>Izbriši postavke</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2242"/>
+        <location filename="ViewWindow.cpp" line="2263"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Ali želite zavreči svoje popravke in izbrisati
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2248"/>
+        <location filename="ViewWindow.cpp" line="2269"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Ali ste prepričani, da želite izbrisati
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2252"/>
+        <location filename="ViewWindow.cpp" line="2273"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Ali ste prepričani, da želite izbrisati
 &quot;%1&quot; (%2 postavk)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2830"/>
+        <location filename="ViewWindow.cpp" line="2916"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Slika bo pretvorjena v 24-bitni RGB (8 bitov na kanal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2848"/>
+        <location filename="ViewWindow.cpp" line="2934"/>
         <source>Confirm Save</source>
         <translation>Potrdi Shrani</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2849"/>
+        <location filename="ViewWindow.cpp" line="2935"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; že obstaja!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2849"/>
+        <location filename="ViewWindow.cpp" line="2935"/>
         <source>Do you want to overwrite it?</source>
         <translation>Ali jo želite prepisati?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4284"/>
+        <location filename="ViewWindow.cpp" line="4366"/>
         <source>Number of unique colors: %1</source>
         <translation>Število edinstvenih barv: %1</translation>
     </message>
@@ -378,43 +378,43 @@
         <translation>Ne sprašuj več</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2830"/>
-        <location filename="ViewWindow.cpp" line="2840"/>
+        <location filename="ViewWindow.cpp" line="2916"/>
+        <location filename="ViewWindow.cpp" line="2926"/>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2840"/>
+        <location filename="ViewWindow.cpp" line="2926"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Datoteka &lt;%1&gt; je samo za branje, izberite drugo ime datoteke.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2874"/>
-        <location filename="ViewWindow.cpp" line="3004"/>
-        <location filename="ViewWindow.cpp" line="3054"/>
+        <location filename="ViewWindow.cpp" line="2960"/>
+        <location filename="ViewWindow.cpp" line="3090"/>
+        <location filename="ViewWindow.cpp" line="3140"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Shranjevanje slike...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2876"/>
-        <location filename="ViewWindow.cpp" line="3056"/>
+        <location filename="ViewWindow.cpp" line="2962"/>
+        <location filename="ViewWindow.cpp" line="3142"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2876"/>
-        <location filename="ViewWindow.cpp" line="3056"/>
+        <location filename="ViewWindow.cpp" line="2962"/>
+        <location filename="ViewWindow.cpp" line="3142"/>
         <source>An error occurred during saving!</source>
         <translation>Med shranjevanjem je prišlo do napake!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3144"/>
+        <location filename="ViewWindow.cpp" line="3230"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4284"/>
+        <location filename="ViewWindow.cpp" line="4366"/>
         <source>Colors count</source>
         <translation>Število barv</translation>
     </message>
@@ -472,28 +472,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4759"/>
+        <location filename="ViewWindow.cpp" line="4841"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Za ogled in pretvorbo datotek PDF/PS/EPS/AI XnView MP zahteva, da je v vašem sistemu nameščen Ghostscript %1.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4760"/>
+        <location filename="ViewWindow.cpp" line="4842"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Prosim, obiščite %1 za več informacij.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4768"/>
+        <location filename="ViewWindow.cpp" line="4850"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4759"/>
-        <location filename="ViewWindow.cpp" line="4768"/>
+        <location filename="ViewWindow.cpp" line="4841"/>
+        <location filename="ViewWindow.cpp" line="4850"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Datoteke ni mogoče naložiti!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4772"/>
+        <location filename="ViewWindow.cpp" line="4854"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Prazno &gt;</translation>
     </message>
@@ -547,78 +547,78 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="662"/>
+        <location filename="BrowserWindow.cpp" line="664"/>
         <source>Customize toolbar...</source>
         <translation>Prilagodi orodno vrstico...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1640"/>
+        <location filename="BrowserWindow.cpp" line="1639"/>
         <source>Add Favorite...</source>
         <translation>Dodaj priljubljeno...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1871"/>
+        <location filename="BrowserWindow.cpp" line="1870"/>
         <source>Folders</source>
         <translation>Mape</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1875"/>
+        <location filename="BrowserWindow.cpp" line="1874"/>
         <source>Favorites</source>
         <translation>Priljubljene</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1879"/>
+        <location filename="BrowserWindow.cpp" line="1878"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Katalog Filter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1889"/>
+        <location filename="BrowserWindow.cpp" line="1888"/>
         <source>Categories</source>
         <translation>Razredi</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1894"/>
+        <location filename="BrowserWindow.cpp" line="1893"/>
         <source>Category Sets</source>
         <translation>Nabori razredov</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1927"/>
+        <location filename="BrowserWindow.cpp" line="1926"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="666"/>
+        <location filename="BrowserWindow.cpp" line="668"/>
         <source>Detach preview panel</source>
         <translation>Odstrani panel za predogled</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="668"/>
+        <location filename="BrowserWindow.cpp" line="670"/>
         <source>Attach preview panel</source>
         <translation>Priloži panel za predogled</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="902"/>
+        <location filename="BrowserWindow.cpp" line="901"/>
         <source>The database is corrupted, please check it before to continue!</source>
         <translation>Baza podatkov je poškodovana, preverite jo pred nadaljevanjem!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1632"/>
+        <location filename="BrowserWindow.cpp" line="1631"/>
         <source>Add to Favorites</source>
         <translation>Dodaj med priljubljene</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1935"/>
+        <location filename="BrowserWindow.cpp" line="1934"/>
         <source>Metadata</source>
         <translation>Metapodatki</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1944"/>
+        <location filename="BrowserWindow.cpp" line="1943"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2118"/>
+        <location filename="BrowserWindow.cpp" line="2114"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -627,52 +627,52 @@ Desni klik na različne postavke za pojavne menije z ukrepi.
 Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2124"/>
+        <location filename="BrowserWindow.cpp" line="2120"/>
         <source>Match any selected entry (OR)</source>
         <translation>Ujemanje s katerim koli izbranim vnosom (ALI)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2130"/>
+        <location filename="BrowserWindow.cpp" line="2126"/>
         <source>Match all selected entries (AND)</source>
         <translation>Ujemanje z vsemi izbranimi vnosi (IN)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2141"/>
+        <location filename="BrowserWindow.cpp" line="2137"/>
         <source>Global</source>
         <translation>Globalno</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2148"/>
+        <location filename="BrowserWindow.cpp" line="2144"/>
         <source>Current folder</source>
         <translation>Trenutna mapa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2155"/>
+        <location filename="BrowserWindow.cpp" line="2151"/>
         <source>Current folder (Recursive)</source>
         <translation>Trenutna mapa (rekurzivno)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3241"/>
+        <location filename="BrowserWindow.cpp" line="3219"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Izid iskanja&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3243"/>
+        <location filename="BrowserWindow.cpp" line="3221"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Označene datoteke&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3332"/>
+        <location filename="BrowserWindow.cpp" line="3310"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Ta mapa ne obstaja!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3552"/>
+        <location filename="BrowserWindow.cpp" line="3530"/>
         <source>Favorite name:</source>
         <translation>Ime priljubljene:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3796"/>
+        <location filename="BrowserWindow.cpp" line="3774"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Ali ste prepričani, da želite izbrisati %n postavko?</numerusform>
@@ -682,33 +682,33 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3881"/>
+        <location filename="BrowserWindow.cpp" line="3859"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Datotek ni mogoče preimenovati, prišlo je do napake.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3332"/>
-        <location filename="BrowserWindow.cpp" line="3881"/>
+        <location filename="BrowserWindow.cpp" line="3310"/>
+        <location filename="BrowserWindow.cpp" line="3859"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3245"/>
+        <location filename="BrowserWindow.cpp" line="3223"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Rezultati filtra kataloga&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3247"/>
+        <location filename="BrowserWindow.cpp" line="3225"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;datoteke&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3789"/>
+        <location filename="BrowserWindow.cpp" line="3767"/>
         <source>Delete items &amp; companions</source>
         <translation>Izbriši postavke in spremljevalce</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3790"/>
+        <location filename="BrowserWindow.cpp" line="3768"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Ali ste prepričani, da želite izbrisati %n postavko - %1 postavka izbrana?</numerusform>
@@ -718,62 +718,62 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4245"/>
+        <location filename="BrowserWindow.cpp" line="4223"/>
         <source>Search...</source>
         <translation>Najdi...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4246"/>
+        <location filename="BrowserWindow.cpp" line="4224"/>
         <source>Add to favorites...</source>
         <translation>Dodaj med priljubljene...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4249"/>
+        <location filename="BrowserWindow.cpp" line="4227"/>
         <source>Start slideshow</source>
         <translation>Začni diaprojekcijo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4254"/>
+        <location filename="BrowserWindow.cpp" line="4232"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4363"/>
+        <location filename="BrowserWindow.cpp" line="4341"/>
         <source>Load filelist</source>
         <translation>Naloži seznam datotek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2108"/>
+        <location filename="BrowserWindow.cpp" line="2104"/>
         <source>Match</source>
         <translation>Ujemanje</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3795"/>
+        <location filename="BrowserWindow.cpp" line="3773"/>
         <source>Delete items</source>
         <translation>Izbriši postavke</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4243"/>
+        <location filename="BrowserWindow.cpp" line="4221"/>
         <source>Show files in subfolders</source>
         <translation>Pokaži datoteke v podmapah</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4251"/>
+        <location filename="BrowserWindow.cpp" line="4229"/>
         <source>Explorer</source>
         <translation>Raziskovalec</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4286"/>
+        <location filename="BrowserWindow.cpp" line="4264"/>
         <source>Delete folder</source>
         <translation>Izbriši mapo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4286"/>
+        <location filename="BrowserWindow.cpp" line="4264"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Ali ste prepričani, da želite izbrisati to mapo?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="614"/>
+        <location filename="BrowserWindow.cpp" line="616"/>
         <source>Browser</source>
         <translation>Brskalnik</translation>
     </message>
@@ -1410,7 +1410,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>Polton</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4933"/>
+        <location filename="DlgConvertProcess.h" line="4934"/>
         <source>QR Code</source>
         <translation>QR koda</translation>
     </message>
@@ -1822,7 +1822,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <translation>%1 datotek(a) - %2% - %3</translation>
     </message>
     <message>
-        <location filename="DlgEnhanceColors.cpp" line="194"/>
+        <location filename="DlgEnhanceColors.cpp" line="204"/>
         <source>Enhance colors</source>
         <translation>Izboljšaj barve</translation>
     </message>
@@ -2161,7 +2161,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
 <context>
     <name>DlgBanner</name>
     <message>
-        <location filename="DlgBanner.cpp" line="120"/>
+        <location filename="DlgBanner.cpp" line="121"/>
         <source>Are you sure to overwrite original files?</source>
         <translation>Ali ste prepričani prepisati izvirne datoteke?</translation>
     </message>
@@ -6883,11 +6883,6 @@ Do you want to continue?</source>
 <context>
     <name>DlgConvertXMP</name>
     <message>
-        <location filename="DlgConvertXMP.ui" line="14"/>
-        <source>Form</source>
-        <translation>Forma</translation>
-    </message>
-    <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
         <translation>Naloži predlogo...</translation>
@@ -7225,99 +7220,6 @@ Do you want to continue?</source>
         <translation>Uredi XMP</translation>
     </message>
     <message>
-        <source>Description</source>
-        <translation type="vanished">Opis</translation>
-    </message>
-    <message>
-        <source>Rating</source>
-        <translation type="vanished">Ocena</translation>
-    </message>
-    <message>
-        <source>Copyright status</source>
-        <translation type="vanished">Status avtorskih pravic</translation>
-    </message>
-    <message>
-        <source>Undefined</source>
-        <translation type="vanished">Nedoločeno</translation>
-    </message>
-    <message>
-        <source>Protected by copyright</source>
-        <translation type="vanished">Zaščiteno z avtorskimi pravicami</translation>
-    </message>
-    <message>
-        <source>Public domain</source>
-        <translation type="vanished">Javna domena</translation>
-    </message>
-    <message>
-        <source>Creation Date: </source>
-        <translation type="vanished">Datum nastanka: </translation>
-    </message>
-    <message>
-        <source>Modification Date: </source>
-        <translation type="vanished">Datum spremembe: </translation>
-    </message>
-    <message>
-        <source>Keywords</source>
-        <translation type="vanished">Ključne besede</translation>
-    </message>
-    <message>
-        <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="vanished">(Uporabi | za ločevanje ključnih besed v hierarhiji)</translation>
-    </message>
-    <message>
-        <source>Apply parent categories</source>
-        <translation type="vanished">Uporabi nadrejene kategorije</translation>
-    </message>
-    <message>
-        <source>Origin</source>
-        <translation type="vanished">Original</translation>
-    </message>
-    <message>
-        <source>Urgency</source>
-        <translation type="vanished">Nujnost</translation>
-    </message>
-    <message>
-        <source>IPTC Contact</source>
-        <translation type="vanished">Stik IPTC</translation>
-    </message>
-    <message>
-        <source>IPTC extensions</source>
-        <translation type="vanished">Pripoone IPTC</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Možnosti</translation>
-    </message>
-    <message>
-        <source>Mode:</source>
-        <translation type="vanished">Način:</translation>
-    </message>
-    <message>
-        <source>XMP only</source>
-        <translation type="vanished">Samo XMP</translation>
-    </message>
-    <message>
-        <source>XMP, update or create IPTC-IIM</source>
-        <translation type="vanished">XMP, posodobite ali ustvarite IPTC-IIM</translation>
-    </message>
-    <message>
-        <source>Multiple selection</source>
-        <translation type="vanished">Večkratna izbira</translation>
-    </message>
-    <message>
-        <source>Keep original value if new value is empty</source>
-        <translation type="vanished">Če je nova vrednost prazna, ohrani izvirno vrednost</translation>
-    </message>
-    <message>
-        <source>Replace only if original value is empty</source>
-        <translation type="vanished">Zamenjaj le, če je izvirna vrednost prazna</translation>
-    </message>
-    <message>
-        <source>Remember opened tab</source>
-        <oldsource>Open last opened tab</oldsource>
-        <translation type="vanished">Zapomni si odprt zavihek</translation>
-    </message>
-    <message>
         <location filename="DlgEditXMP.ui" line="73"/>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Levo</translation>
@@ -7367,53 +7269,9 @@ Do you want to continue?</source>
         <translation>&amp;Uporabi</translation>
     </message>
     <message>
-        <source>(Use ; or , to separate the values)</source>
-        <translation type="vanished">(Uporabi; ali loči vrednosti)</translation>
-    </message>
-    <message>
-        <source>0: None</source>
-        <translation type="vanished">0: Brez</translation>
-    </message>
-    <message>
-        <source>1: High</source>
-        <translation type="vanished">1: Visoka</translation>
-    </message>
-    <message>
-        <source>5: Normal</source>
-        <translation type="vanished">5: Običajno</translation>
-    </message>
-    <message>
-        <source>8: Low</source>
-        <translation type="vanished">8: Nizko</translation>
-    </message>
-    <message>
         <location filename="DlgEditXMP.cpp" line="142"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation>Vrednosti polja niso naložene, ker je &apos;Ne naloži vrednosti polja&apos; označeno</translation>
-    </message>
-    <message>
-        <source>Insert</source>
-        <translation type="vanished">Vstavi</translation>
-    </message>
-    <message>
-        <source>Insert from</source>
-        <translation type="vanished">Vstavi iz</translation>
-    </message>
-    <message>
-        <source>Copy into</source>
-        <translation type="vanished">Kopiraj v</translation>
-    </message>
-    <message>
-        <source>Library</source>
-        <translation type="vanished">Knjižnica</translation>
-    </message>
-    <message>
-        <source>Edit history...</source>
-        <translation type="vanished">Uredi zgodovino...</translation>
-    </message>
-    <message>
-        <source>Sort alphabetically</source>
-        <translation type="vanished">Razvrsti po abecedi</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="229"/>
@@ -7421,14 +7279,6 @@ Do you want to continue?</source>
 Do you want to save your changes?</source>
         <translation>Podatki IPTC so se spremenili.
 Ali želite shraniti spremembe?</translation>
-    </message>
-    <message>
-        <source>Required field</source>
-        <translation type="vanished">Zahtevano polje</translation>
-    </message>
-    <message>
-        <source>Some fields are required, please fill them!</source>
-        <translation type="vanished">Nekatera polja so obvezna, izpolnite jih!</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="389"/>
@@ -7684,22 +7534,6 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
 </context>
 <context>
     <name>DlgExport</name>
-    <message>
-        <source>Zoom out</source>
-        <translation type="vanished">Pomanjšaj</translation>
-    </message>
-    <message>
-        <source>Zoom in</source>
-        <translation type="vanished">Povečaj</translation>
-    </message>
-    <message>
-        <source>Zoom 100%</source>
-        <translation type="vanished">100% povečava</translation>
-    </message>
-    <message>
-        <source>Best fit</source>
-        <translation type="vanished">Najboljša prilagoditev</translation>
-    </message>
     <message>
         <location filename="DlgExport.cpp" line="196"/>
         <source>Problem</source>
@@ -12073,38 +11907,38 @@ sličico</translation>
 <context>
     <name>DlgSettingsGeneral</name>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="227"/>
-        <location filename="DlgSettingsGeneral.cpp" line="228"/>
+        <location filename="DlgSettingsGeneral.cpp" line="240"/>
+        <location filename="DlgSettingsGeneral.cpp" line="241"/>
         <source>Load profile</source>
         <translation>Naloži profil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="235"/>
+        <location filename="DlgSettingsGeneral.cpp" line="248"/>
         <source>Perceptual</source>
         <translation>Zaznave</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="235"/>
+        <location filename="DlgSettingsGeneral.cpp" line="248"/>
         <source>Relative colorimetric</source>
         <translation>Relativna kolorimetrija</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="235"/>
+        <location filename="DlgSettingsGeneral.cpp" line="248"/>
         <source>Saturation</source>
         <translation>Nasičenost</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="235"/>
+        <location filename="DlgSettingsGeneral.cpp" line="248"/>
         <source>Absolute colorimetric</source>
         <translation>Absolutna kolorimetrija</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="401"/>
+        <location filename="DlgSettingsGeneral.cpp" line="414"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="401"/>
+        <location filename="DlgSettingsGeneral.cpp" line="414"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Želite izbrisati izbrani vnos za Samodejno popravo?</translation>
     </message>
@@ -12336,22 +12170,22 @@ sličico</translation>
         <translation>&lt;Filename&gt; - Kopija (#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="621"/>
+        <location filename="DlgSettingsGeneral.ui" line="636"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
         <translation>Kopija (#) od &lt;Filename&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="626"/>
+        <location filename="DlgSettingsGeneral.ui" line="621"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
         <translation>&lt;Filename&gt; - Kopija (#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="631"/>
+        <location filename="DlgSettingsGeneral.ui" line="626"/>
         <source>&lt;Filename&gt;-(#)</source>
         <translation>&lt;Filename&gt;-(#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="636"/>
+        <location filename="DlgSettingsGeneral.ui" line="631"/>
         <source>&lt;Filename&gt;-#</source>
         <translation>&lt;Filename&gt;-(#)</translation>
     </message>
@@ -12704,28 +12538,28 @@ sličico</translation>
         <translation>Način pregledovalnika</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="859"/>
-        <location filename="DlgSettingsInterface.cpp" line="879"/>
+        <location filename="DlgSettingsInterface.cpp" line="861"/>
+        <location filename="DlgSettingsInterface.cpp" line="881"/>
         <source>Set Icon...</source>
         <translation>Nastavi ikono...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1057"/>
+        <location filename="DlgSettingsInterface.cpp" line="1059"/>
         <source>Set label</source>
         <translation>Nastavi oznako</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1058"/>
+        <location filename="DlgSettingsInterface.cpp" line="1060"/>
         <source>Label:</source>
         <translation>Oznaka:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1207"/>
+        <location filename="DlgSettingsInterface.cpp" line="1209"/>
         <source>This shortcut is already assigned for </source>
         <translation>Ta bližnjica je že dodeljena </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1223"/>
+        <location filename="DlgSettingsInterface.cpp" line="1225"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12736,22 +12570,22 @@ Do you want to reassign?</source>
 Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1272"/>
+        <location filename="DlgSettingsInterface.cpp" line="1274"/>
         <source>Load toolbar</source>
         <translation>Naloži orodno vrstico</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1290"/>
+        <location filename="DlgSettingsInterface.cpp" line="1292"/>
         <source>Save toolbar</source>
         <translation>Shrani orodno vrstico</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1346"/>
+        <location filename="DlgSettingsInterface.cpp" line="1348"/>
         <source>Load shortcuts</source>
         <translation>Naloži bližnjice</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1377"/>
+        <location filename="DlgSettingsInterface.cpp" line="1379"/>
         <source>Save shortcuts</source>
         <translation>Shrani bližnjice</translation>
     </message>
@@ -12865,23 +12699,23 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="376"/>
-        <location filename="DlgSettingsInterface.ui" line="1495"/>
-        <location filename="DlgSettingsInterface.ui" line="1576"/>
-        <location filename="DlgSettingsInterface.ui" line="1636"/>
-        <location filename="DlgSettingsInterface.ui" line="1676"/>
-        <location filename="DlgSettingsInterface.ui" line="1716"/>
-        <location filename="DlgSettingsInterface.ui" line="1788"/>
-        <location filename="DlgSettingsInterface.ui" line="1828"/>
-        <location filename="DlgSettingsInterface.ui" line="1908"/>
-        <location filename="DlgSettingsInterface.ui" line="1948"/>
-        <location filename="DlgSettingsInterface.ui" line="2017"/>
-        <location filename="DlgSettingsInterface.ui" line="2070"/>
-        <location filename="DlgSettingsInterface.ui" line="2097"/>
-        <location filename="DlgSettingsInterface.ui" line="2124"/>
-        <location filename="DlgSettingsInterface.ui" line="2165"/>
-        <location filename="DlgSettingsInterface.ui" line="2291"/>
-        <location filename="DlgSettingsInterface.ui" line="2340"/>
-        <location filename="DlgSettingsInterface.ui" line="2376"/>
+        <location filename="DlgSettingsInterface.ui" line="1505"/>
+        <location filename="DlgSettingsInterface.ui" line="1586"/>
+        <location filename="DlgSettingsInterface.ui" line="1646"/>
+        <location filename="DlgSettingsInterface.ui" line="1686"/>
+        <location filename="DlgSettingsInterface.ui" line="1726"/>
+        <location filename="DlgSettingsInterface.ui" line="1798"/>
+        <location filename="DlgSettingsInterface.ui" line="1838"/>
+        <location filename="DlgSettingsInterface.ui" line="1918"/>
+        <location filename="DlgSettingsInterface.ui" line="1958"/>
+        <location filename="DlgSettingsInterface.ui" line="2027"/>
+        <location filename="DlgSettingsInterface.ui" line="2080"/>
+        <location filename="DlgSettingsInterface.ui" line="2107"/>
+        <location filename="DlgSettingsInterface.ui" line="2134"/>
+        <location filename="DlgSettingsInterface.ui" line="2175"/>
+        <location filename="DlgSettingsInterface.ui" line="2301"/>
+        <location filename="DlgSettingsInterface.ui" line="2350"/>
+        <location filename="DlgSettingsInterface.ui" line="2386"/>
         <source>Do nothing</source>
         <translation>Ne stori nič</translation>
     </message>
@@ -12905,7 +12739,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="434"/>
         <location filename="DlgSettingsInterface.ui" line="692"/>
         <location filename="DlgSettingsInterface.ui" line="1150"/>
-        <location filename="DlgSettingsInterface.ui" line="1512"/>
+        <location filename="DlgSettingsInterface.ui" line="1522"/>
         <source>Browser</source>
         <oldsource>Browse mode</oldsource>
         <translation>Brskalnik</translation>
@@ -12935,10 +12769,10 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Filter</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1596"/>
-        <location filename="DlgSettingsInterface.ui" line="1656"/>
-        <location filename="DlgSettingsInterface.ui" line="1696"/>
-        <location filename="DlgSettingsInterface.ui" line="1736"/>
+        <location filename="DlgSettingsInterface.ui" line="1606"/>
+        <location filename="DlgSettingsInterface.ui" line="1666"/>
+        <location filename="DlgSettingsInterface.ui" line="1706"/>
+        <location filename="DlgSettingsInterface.ui" line="1746"/>
         <source>Previous file</source>
         <translation>Predhodna datoteka</translation>
     </message>
@@ -13073,117 +12907,90 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1416"/>
-        <location filename="DlgSettingsInterface.ui" line="1441"/>
-        <location filename="DlgSettingsInterface.ui" line="2075"/>
-        <location filename="DlgSettingsInterface.ui" line="2102"/>
-        <location filename="DlgSettingsInterface.ui" line="2129"/>
-        <location filename="DlgSettingsInterface.ui" line="2170"/>
+        <location filename="DlgSettingsInterface.ui" line="1446"/>
+        <location filename="DlgSettingsInterface.ui" line="2085"/>
+        <location filename="DlgSettingsInterface.ui" line="2112"/>
+        <location filename="DlgSettingsInterface.ui" line="2139"/>
+        <location filename="DlgSettingsInterface.ui" line="2180"/>
         <source>Previous/next file</source>
         <translation>Predhodna/naslednja datoteka</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1421"/>
-        <location filename="DlgSettingsInterface.ui" line="1446"/>
+        <location filename="DlgSettingsInterface.ui" line="1451"/>
         <source>Automatic</source>
         <translation>Samodejno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1467"/>
+        <location filename="DlgSettingsInterface.ui" line="1477"/>
         <source>Up/Down</source>
         <translation>Navzgor/Navzdol</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1609"/>
-        <location filename="DlgSettingsInterface.ui" line="1861"/>
-        <location filename="DlgSettingsInterface.ui" line="2003"/>
-        <location filename="DlgSettingsInterface.ui" line="2195"/>
+        <location filename="DlgSettingsInterface.ui" line="1619"/>
+        <location filename="DlgSettingsInterface.ui" line="1871"/>
+        <location filename="DlgSettingsInterface.ui" line="2013"/>
+        <location filename="DlgSettingsInterface.ui" line="2205"/>
         <source>No modifier</source>
         <translation>Brez modifikatorja</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1601"/>
-        <location filename="DlgSettingsInterface.ui" line="1661"/>
-        <location filename="DlgSettingsInterface.ui" line="1701"/>
-        <location filename="DlgSettingsInterface.ui" line="1741"/>
-        <location filename="DlgSettingsInterface.ui" line="1813"/>
-        <location filename="DlgSettingsInterface.ui" line="1853"/>
-        <location filename="DlgSettingsInterface.ui" line="1933"/>
-        <location filename="DlgSettingsInterface.ui" line="1973"/>
+        <location filename="DlgSettingsInterface.ui" line="1611"/>
+        <location filename="DlgSettingsInterface.ui" line="1671"/>
+        <location filename="DlgSettingsInterface.ui" line="1711"/>
+        <location filename="DlgSettingsInterface.ui" line="1751"/>
+        <location filename="DlgSettingsInterface.ui" line="1823"/>
+        <location filename="DlgSettingsInterface.ui" line="1863"/>
+        <location filename="DlgSettingsInterface.ui" line="1943"/>
+        <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; move</source>
         <translation>Povečava in premik</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1749"/>
-        <location filename="DlgSettingsInterface.ui" line="1871"/>
-        <location filename="DlgSettingsInterface.ui" line="2188"/>
+        <location filename="DlgSettingsInterface.ui" line="1759"/>
+        <location filename="DlgSettingsInterface.ui" line="1881"/>
+        <location filename="DlgSettingsInterface.ui" line="2198"/>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1559"/>
-        <location filename="DlgSettingsInterface.ui" line="1891"/>
-        <location filename="DlgSettingsInterface.ui" line="2154"/>
+        <location filename="DlgSettingsInterface.ui" line="1569"/>
+        <location filename="DlgSettingsInterface.ui" line="1901"/>
+        <location filename="DlgSettingsInterface.ui" line="2164"/>
         <source>Alt</source>
         <translation>Alt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1619"/>
-        <location filename="DlgSettingsInterface.ui" line="1881"/>
-        <location filename="DlgSettingsInterface.ui" line="2147"/>
+        <location filename="DlgSettingsInterface.ui" line="1629"/>
+        <location filename="DlgSettingsInterface.ui" line="1891"/>
+        <location filename="DlgSettingsInterface.ui" line="2157"/>
         <source>Shift</source>
         <translation>Shift</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2060"/>
+        <location filename="DlgSettingsInterface.ui" line="2070"/>
         <source>Wheel</source>
         <translation>Kolesce</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1436"/>
-        <location filename="DlgSettingsInterface.ui" line="2080"/>
-        <location filename="DlgSettingsInterface.ui" line="2107"/>
-        <location filename="DlgSettingsInterface.ui" line="2134"/>
-        <location filename="DlgSettingsInterface.ui" line="2175"/>
+        <location filename="DlgSettingsInterface.ui" line="1441"/>
+        <location filename="DlgSettingsInterface.ui" line="2090"/>
+        <location filename="DlgSettingsInterface.ui" line="2117"/>
+        <location filename="DlgSettingsInterface.ui" line="2144"/>
+        <location filename="DlgSettingsInterface.ui" line="2185"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
         <translation>Navpično drsenje</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1543"/>
+        <location filename="DlgSettingsInterface.ui" line="1553"/>
         <source>Mouse</source>
         <translation>Miška</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1553"/>
+        <location filename="DlgSettingsInterface.ui" line="1563"/>
         <source>Left button</source>
         <translation>Levi gumb</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsInterface.ui" line="1581"/>
-        <location filename="DlgSettingsInterface.ui" line="1641"/>
-        <location filename="DlgSettingsInterface.ui" line="1681"/>
-        <location filename="DlgSettingsInterface.ui" line="1721"/>
-        <location filename="DlgSettingsInterface.ui" line="1793"/>
-        <location filename="DlgSettingsInterface.ui" line="1833"/>
-        <location filename="DlgSettingsInterface.ui" line="1913"/>
-        <location filename="DlgSettingsInterface.ui" line="1953"/>
-        <location filename="DlgSettingsInterface.ui" line="2022"/>
-        <source>Move image</source>
-        <oldsource>Move picture</oldsource>
-        <translation>Premakni sliko</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsInterface.ui" line="1586"/>
-        <location filename="DlgSettingsInterface.ui" line="1646"/>
-        <location filename="DlgSettingsInterface.ui" line="1686"/>
-        <location filename="DlgSettingsInterface.ui" line="1726"/>
-        <location filename="DlgSettingsInterface.ui" line="1798"/>
-        <location filename="DlgSettingsInterface.ui" line="1838"/>
-        <location filename="DlgSettingsInterface.ui" line="1918"/>
-        <location filename="DlgSettingsInterface.ui" line="1958"/>
-        <location filename="DlgSettingsInterface.ui" line="2027"/>
-        <source>Make selection</source>
-        <translation>Naredi izbor</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1591"/>
@@ -13195,17 +13002,44 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="1923"/>
         <location filename="DlgSettingsInterface.ui" line="1963"/>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
+        <source>Move image</source>
+        <oldsource>Move picture</oldsource>
+        <translation>Premakni sliko</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="1596"/>
+        <location filename="DlgSettingsInterface.ui" line="1656"/>
+        <location filename="DlgSettingsInterface.ui" line="1696"/>
+        <location filename="DlgSettingsInterface.ui" line="1736"/>
+        <location filename="DlgSettingsInterface.ui" line="1808"/>
+        <location filename="DlgSettingsInterface.ui" line="1848"/>
+        <location filename="DlgSettingsInterface.ui" line="1928"/>
+        <location filename="DlgSettingsInterface.ui" line="1968"/>
+        <location filename="DlgSettingsInterface.ui" line="2037"/>
+        <source>Make selection</source>
+        <translation>Naredi izbor</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="1601"/>
+        <location filename="DlgSettingsInterface.ui" line="1661"/>
+        <location filename="DlgSettingsInterface.ui" line="1701"/>
+        <location filename="DlgSettingsInterface.ui" line="1741"/>
+        <location filename="DlgSettingsInterface.ui" line="1813"/>
+        <location filename="DlgSettingsInterface.ui" line="1853"/>
+        <location filename="DlgSettingsInterface.ui" line="1933"/>
+        <location filename="DlgSettingsInterface.ui" line="1973"/>
+        <location filename="DlgSettingsInterface.ui" line="2042"/>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation>Izbira povečave</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1997"/>
+        <location filename="DlgSettingsInterface.ui" line="2007"/>
         <source>Middle button</source>
         <translation>Srednji gumb</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1775"/>
+        <location filename="DlgSettingsInterface.ui" line="1785"/>
         <source>Right button</source>
         <translation>Desni gumb</translation>
     </message>
@@ -13221,7 +13055,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="808"/>
         <location filename="DlgSettingsInterface.ui" line="953"/>
         <location filename="DlgSettingsInterface.ui" line="1155"/>
-        <location filename="DlgSettingsInterface.ui" line="1519"/>
+        <location filename="DlgSettingsInterface.ui" line="1529"/>
         <source>Viewer</source>
         <translation>Pregledovalnik</translation>
     </message>
@@ -13259,86 +13093,92 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Ime ukaza</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1477"/>
+        <location filename="DlgSettingsInterface.ui" line="1426"/>
+        <location filename="DlgSettingsInterface.ui" line="1456"/>
+        <source>Previous/next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="1487"/>
         <source>SPACE</source>
         <translation>PRESLEDEK</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1485"/>
-        <location filename="DlgSettingsInterface.ui" line="1808"/>
-        <location filename="DlgSettingsInterface.ui" line="1848"/>
-        <location filename="DlgSettingsInterface.ui" line="1928"/>
-        <location filename="DlgSettingsInterface.ui" line="1968"/>
+        <location filename="DlgSettingsInterface.ui" line="1495"/>
+        <location filename="DlgSettingsInterface.ui" line="1818"/>
+        <location filename="DlgSettingsInterface.ui" line="1858"/>
+        <location filename="DlgSettingsInterface.ui" line="1938"/>
+        <location filename="DlgSettingsInterface.ui" line="1978"/>
         <source>Next file</source>
         <translation>Naslednja datoteka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1490"/>
+        <location filename="DlgSettingsInterface.ui" line="1500"/>
         <source>Quick Slideshow</source>
         <translation>Hitra diaprojekcija</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1506"/>
+        <location filename="DlgSettingsInterface.ui" line="1516"/>
         <source>Pressing ESC closes</source>
         <translation>S pritiskom na ESC se zapre</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2085"/>
-        <location filename="DlgSettingsInterface.ui" line="2112"/>
-        <location filename="DlgSettingsInterface.ui" line="2139"/>
-        <location filename="DlgSettingsInterface.ui" line="2180"/>
+        <location filename="DlgSettingsInterface.ui" line="2095"/>
+        <location filename="DlgSettingsInterface.ui" line="2122"/>
+        <location filename="DlgSettingsInterface.ui" line="2149"/>
+        <location filename="DlgSettingsInterface.ui" line="2190"/>
         <source>Zoom in/out</source>
         <translation>Povečaj/Pomanjšaj</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2263"/>
+        <location filename="DlgSettingsInterface.ui" line="2273"/>
         <source>Double click</source>
         <oldsource>Doublie click</oldsource>
         <translation>Dvojni klik</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2312"/>
+        <location filename="DlgSettingsInterface.ui" line="2322"/>
         <source>Middle click</source>
         <translation>Sredinski klik</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2348"/>
+        <location filename="DlgSettingsInterface.ui" line="2358"/>
         <source>Enter</source>
         <translation>Enter</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsInterface.ui" line="2271"/>
-        <location filename="DlgSettingsInterface.ui" line="2320"/>
-        <location filename="DlgSettingsInterface.ui" line="2356"/>
-        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
-        <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation>Brskalnik ↔ Celozaslonski način | Pregledovalnik ↔ Celozaslonski način</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsInterface.ui" line="2249"/>
-        <source>Switching modes</source>
-        <translation>Preklapljanje načinov</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsInterface.ui" line="2276"/>
-        <location filename="DlgSettingsInterface.ui" line="2325"/>
-        <location filename="DlgSettingsInterface.ui" line="2361"/>
-        <source>Browser ↔ Viewer</source>
-        <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation>Brskalnik ↔ Pregledovalnik</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2281"/>
         <location filename="DlgSettingsInterface.ui" line="2330"/>
         <location filename="DlgSettingsInterface.ui" line="2366"/>
-        <source>Browser → Fullscreen → Viewer</source>
-        <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation>Brskalnik → Celozaslonski način → Pregledovalnik</translation>
+        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
+        <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
+        <translation>Brskalnik ↔ Celozaslonski način | Pregledovalnik ↔ Celozaslonski način</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="2259"/>
+        <source>Switching modes</source>
+        <translation>Preklapljanje načinov</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2286"/>
         <location filename="DlgSettingsInterface.ui" line="2335"/>
         <location filename="DlgSettingsInterface.ui" line="2371"/>
+        <source>Browser ↔ Viewer</source>
+        <oldsource>Browser &lt;&gt; Viewer</oldsource>
+        <translation>Brskalnik ↔ Pregledovalnik</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="2291"/>
+        <location filename="DlgSettingsInterface.ui" line="2340"/>
+        <location filename="DlgSettingsInterface.ui" line="2376"/>
+        <source>Browser → Fullscreen → Viewer</source>
+        <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
+        <translation>Brskalnik → Celozaslonski način → Pregledovalnik</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsInterface.ui" line="2296"/>
+        <location filename="DlgSettingsInterface.ui" line="2345"/>
+        <location filename="DlgSettingsInterface.ui" line="2381"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
         <translation>Brskalnik → Pregledovalnik → Celozaslonski način</translation>
@@ -16119,57 +15959,57 @@ Do you want to continue?</source>
         <translation>Datum nastanka</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="365"/>
+        <location filename="EditXMPWidget.ui" line="368"/>
         <source>Urgency</source>
         <translation>Nujnost</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="391"/>
+        <location filename="EditXMPWidget.ui" line="394"/>
         <source>IPTC Contact</source>
         <translation>Stik IPTC</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="443"/>
+        <location filename="EditXMPWidget.ui" line="446"/>
         <source>IPTC extensions</source>
         <translation>Pripoone IPTC</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="537"/>
+        <location filename="EditXMPWidget.ui" line="540"/>
         <source>Options</source>
         <translation>Možnosti</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="558"/>
+        <location filename="EditXMPWidget.ui" line="561"/>
         <source>Mode:</source>
         <translation>Način:</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="566"/>
+        <location filename="EditXMPWidget.ui" line="569"/>
         <source>XMP only</source>
         <translation>Samo XMP</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="571"/>
+        <location filename="EditXMPWidget.ui" line="574"/>
         <source>XMP, update or create IPTC-IIM</source>
         <translation>XMP, posodobite ali ustvarite IPTC-IIM</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="600"/>
+        <location filename="EditXMPWidget.ui" line="603"/>
         <source>Multiple selection</source>
         <translation>Večkratna izbira</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="609"/>
+        <location filename="EditXMPWidget.ui" line="612"/>
         <source>Keep original value if new value is empty</source>
         <translation>Ohrani prvotno vrednost, če je nova vrednost prazna</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="616"/>
+        <location filename="EditXMPWidget.ui" line="619"/>
         <source>Replace only if original value is empty</source>
         <translation>Zamenjaj le, če je izvirna vrednost prazna</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.ui" line="626"/>
+        <location filename="EditXMPWidget.ui" line="629"/>
         <source>Remember opened tab</source>
         <translation>Zapomni si odprt zavihek</translation>
     </message>
@@ -16199,42 +16039,42 @@ Do you want to continue?</source>
         <translation>8: Nizko</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="288"/>
+        <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Required field</source>
         <translation>Zahtevano polje</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="288"/>
+        <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Some fields are required, please fill them!</source>
         <translation>Nekatera polja so obvezna, izpolnite jih!</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="430"/>
+        <location filename="EditXMPWidget.cpp" line="431"/>
         <source>Insert</source>
         <translation>Vstavi</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="442"/>
+        <location filename="EditXMPWidget.cpp" line="443"/>
         <source>Insert from</source>
         <translation>Vstavi iz</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="463"/>
+        <location filename="EditXMPWidget.cpp" line="464"/>
         <source>Copy into</source>
         <translation>Kopiraj v</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="487"/>
+        <location filename="EditXMPWidget.cpp" line="488"/>
         <source>Library</source>
         <translation>Knjižnica</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="492"/>
+        <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Edit history...</source>
         <translation>Uredi zgodovino...</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="493"/>
+        <location filename="EditXMPWidget.cpp" line="494"/>
         <source>Sort alphabetically</source>
         <translation>Razvrsti po abecedi</translation>
     </message>
@@ -16364,17 +16204,17 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>FileListViewEx</name>
     <message>
-        <location filename="FileListViewEx.cpp" line="217"/>
+        <location filename="FileListViewEx.cpp" line="229"/>
         <source>All</source>
         <translation>Vse</translation>
     </message>
     <message>
-        <location filename="FileListViewEx.cpp" line="221"/>
+        <location filename="FileListViewEx.cpp" line="233"/>
         <source>None</source>
         <translation>Brez</translation>
     </message>
     <message>
-        <location filename="FileListViewEx.cpp" line="261"/>
+        <location filename="FileListViewEx.cpp" line="282"/>
         <source>Paste filenames</source>
         <translation>Prilepi imena datotek</translation>
     </message>
@@ -16533,7 +16373,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>Info</name>
     <message>
-        <location filename="ItemModel.cpp" line="1086"/>
+        <location filename="ItemModel.cpp" line="1103"/>
         <location filename="SearchField.cpp" line="28"/>
         <location filename="SearchField.cpp" line="127"/>
         <location filename="TemplateData.cpp" line="2753"/>
@@ -16541,7 +16381,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Kategorije</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1064"/>
+        <location filename="ItemModel.cpp" line="1081"/>
         <location filename="SearchField.cpp" line="29"/>
         <location filename="SearchField.cpp" line="133"/>
         <location filename="TemplateData.cpp" line="2749"/>
@@ -16608,10 +16448,10 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Višina slike</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="338"/>
+        <location filename="EditXMPWidget.cpp" line="339"/>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="IptcEditBase.cpp" line="114"/>
-        <location filename="ItemModel.cpp" line="1072"/>
+        <location filename="ItemModel.cpp" line="1089"/>
         <location filename="SearchField.cpp" line="39"/>
         <location filename="SearchField.cpp" line="207"/>
         <location filename="TemplateData.cpp" line="2773"/>
@@ -16636,7 +16476,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="230"/>
-        <location filename="EditXMPWidget.cpp" line="334"/>
+        <location filename="EditXMPWidget.cpp" line="335"/>
         <location filename="IptcEditBase.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2768"/>
         <source>Modified date</source>
@@ -16655,49 +16495,49 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Integrirani komentar</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1058"/>
+        <location filename="ItemModel.cpp" line="1075"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="90"/>
-        <location filename="ItemModel.cpp" line="1060"/>
+        <location filename="ItemModel.cpp" line="1077"/>
         <source>Print size</source>
         <translation>Velikost izpisa</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1066"/>
+        <location filename="ItemModel.cpp" line="1083"/>
         <source>Colour label</source>
         <translation>Barvna oznaka</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1068"/>
+        <location filename="ItemModel.cpp" line="1085"/>
         <source>Tag</source>
         <translation>Oznaka</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1074"/>
+        <location filename="ItemModel.cpp" line="1091"/>
         <source>Path</source>
         <translation>Pot</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="691"/>
         <location filename="InfoPropertiesView.cpp" line="731"/>
-        <location filename="ItemModel.cpp" line="1070"/>
+        <location filename="ItemModel.cpp" line="1087"/>
         <location filename="SearchField.cpp" line="40"/>
         <location filename="TemplateData.cpp" line="2549"/>
         <source>Comment</source>
         <translation>Komentar</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1084"/>
+        <location filename="ItemModel.cpp" line="1101"/>
         <source>Extension</source>
         <translation>Pripona</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="73"/>
         <location filename="InfoPropertiesView.cpp" line="679"/>
-        <location filename="ItemModel.cpp" line="1078"/>
+        <location filename="ItemModel.cpp" line="1095"/>
         <location filename="TemplateData.cpp" line="2546"/>
         <location filename="TemplateData.cpp" line="2567"/>
         <source>Width</source>
@@ -16706,7 +16546,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <location filename="InfoPropertiesView.cpp" line="680"/>
-        <location filename="ItemModel.cpp" line="1080"/>
+        <location filename="ItemModel.cpp" line="1097"/>
         <location filename="TemplateData.cpp" line="2547"/>
         <location filename="TemplateData.cpp" line="2568"/>
         <source>Height</source>
@@ -16741,7 +16581,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="85"/>
-        <location filename="ItemModel.cpp" line="1082"/>
+        <location filename="ItemModel.cpp" line="1099"/>
         <location filename="TemplateData.cpp" line="2550"/>
         <location filename="TemplateData.cpp" line="2570"/>
         <source>DPI</source>
@@ -17035,7 +16875,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="228"/>
-        <location filename="EditXMPWidget.cpp" line="328"/>
+        <location filename="EditXMPWidget.cpp" line="329"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <location filename="IptcEditBase.cpp" line="110"/>
         <location filename="TemplateData.cpp" line="2761"/>
@@ -17043,48 +16883,48 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Ime datoteke</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="327"/>
+        <location filename="EditXMPWidget.cpp" line="328"/>
         <location filename="IptcEditBase.cpp" line="71"/>
         <source>Filename without extension</source>
         <translation>Ime datoteke brez pripone</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="329"/>
+        <location filename="EditXMPWidget.cpp" line="330"/>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2763"/>
         <source>Filename (last number)</source>
         <translation>Ime datoteke (zadnja številka)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="330"/>
+        <location filename="EditXMPWidget.cpp" line="331"/>
         <location filename="IptcEditBase.cpp" line="74"/>
         <location filename="TemplateData.cpp" line="2764"/>
         <source>Folder</source>
         <translation>Mapa</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="331"/>
+        <location filename="EditXMPWidget.cpp" line="332"/>
         <location filename="IptcEditBase.cpp" line="75"/>
         <location filename="TemplateData.cpp" line="2765"/>
         <source>Folder name</source>
         <translation>Ime mape</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="332"/>
+        <location filename="EditXMPWidget.cpp" line="333"/>
         <location filename="IptcEditBase.cpp" line="76"/>
         <location filename="TemplateData.cpp" line="2766"/>
         <source>Accessed date</source>
         <translation>Datum dostopa</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="333"/>
+        <location filename="EditXMPWidget.cpp" line="334"/>
         <location filename="IptcEditBase.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2767"/>
         <source>Creation date</source>
         <translation>Datum nastanka</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="337"/>
+        <location filename="EditXMPWidget.cpp" line="338"/>
         <location filename="IptcEditBase.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2771"/>
         <source>Size (KB)</source>
@@ -17111,7 +16951,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Status oznake</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1076"/>
+        <location filename="ItemModel.cpp" line="1093"/>
         <location filename="SearchField.cpp" line="38"/>
         <location filename="SearchField.cpp" line="194"/>
         <location filename="TemplateData.cpp" line="2557"/>
@@ -17119,14 +16959,14 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Razmerje</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="335"/>
+        <location filename="EditXMPWidget.cpp" line="336"/>
         <location filename="IptcEditBase.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2769"/>
         <source>Size (Auto)</source>
         <translation>Velikost (avto)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="336"/>
+        <location filename="EditXMPWidget.cpp" line="337"/>
         <location filename="IptcEditBase.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2770"/>
         <source>Size (Bytes)</source>
@@ -17377,54 +17217,54 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="ItemModel.cpp" line="1089"/>
+        <location filename="ItemModel.cpp" line="1106"/>
         <location filename="SearchField.cpp" line="285"/>
         <location filename="TemplateData.cpp" line="2579"/>
         <source>Maker</source>
         <translation>Avtor</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1091"/>
+        <location filename="ItemModel.cpp" line="1108"/>
         <location filename="SearchField.cpp" line="291"/>
         <location filename="TemplateData.cpp" line="2580"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1093"/>
+        <location filename="ItemModel.cpp" line="1110"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1095"/>
+        <location filename="ItemModel.cpp" line="1112"/>
         <source>ShutterSpeed</source>
         <translation>Hitrost zaklopa</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1097"/>
+        <location filename="ItemModel.cpp" line="1114"/>
         <location filename="SearchField.cpp" line="348"/>
         <source>Exposure Time</source>
         <translation>Čas osvetlitve</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1099"/>
+        <location filename="ItemModel.cpp" line="1116"/>
         <source>Focal Length</source>
         <translation>Goriščna razdalja</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1101"/>
+        <location filename="ItemModel.cpp" line="1118"/>
         <location filename="TemplateData.cpp" line="2618"/>
         <source>Aperture</source>
         <translation>Zaslonka</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1103"/>
+        <location filename="ItemModel.cpp" line="1120"/>
         <location filename="TemplateData.cpp" line="2663"/>
         <source>Latitude</source>
         <translation>Zemljepisna širina</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1105"/>
+        <location filename="ItemModel.cpp" line="1122"/>
         <location filename="TemplateData.cpp" line="2666"/>
         <source>Longitude</source>
         <translation>Zemljepisna dolžina</translation>
@@ -17915,7 +17755,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
-        <location filename="ItemModel.cpp" line="1108"/>
+        <location filename="ItemModel.cpp" line="1125"/>
         <location filename="SearchField.cpp" line="43"/>
         <location filename="SearchField.cpp" line="219"/>
         <location filename="TemplateData.cpp" line="2677"/>
@@ -17926,7 +17766,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="88"/>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
-        <location filename="ItemModel.cpp" line="1110"/>
+        <location filename="ItemModel.cpp" line="1127"/>
         <location filename="SearchField.cpp" line="44"/>
         <location filename="SearchField.cpp" line="75"/>
         <location filename="SearchField.cpp" line="225"/>
@@ -17940,7 +17780,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="104"/>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
-        <location filename="ItemModel.cpp" line="1112"/>
+        <location filename="ItemModel.cpp" line="1129"/>
         <location filename="SearchField.cpp" line="45"/>
         <location filename="SearchField.cpp" line="231"/>
         <location filename="TemplateData.cpp" line="2679"/>
@@ -17952,7 +17792,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="94"/>
         <location filename="InfoIPTCView.cpp" line="33"/>
         <location filename="IptcHelper.cpp" line="22"/>
-        <location filename="ItemModel.cpp" line="1114"/>
+        <location filename="ItemModel.cpp" line="1131"/>
         <location filename="SearchField.cpp" line="51"/>
         <location filename="SearchField.cpp" line="267"/>
         <location filename="TemplateData.cpp" line="2685"/>
@@ -17961,7 +17801,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="IptcHelper.cpp" line="23"/>
-        <location filename="ItemModel.cpp" line="1116"/>
+        <location filename="ItemModel.cpp" line="1133"/>
         <location filename="SearchField.cpp" line="52"/>
         <location filename="SearchField.cpp" line="273"/>
         <source>Categories</source>
@@ -17985,7 +17825,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="26"/>
-        <location filename="ItemModel.cpp" line="1118"/>
+        <location filename="ItemModel.cpp" line="1135"/>
         <location filename="SearchField.cpp" line="47"/>
         <location filename="SearchField.cpp" line="243"/>
         <location filename="TemplateData.cpp" line="2693"/>
@@ -17995,7 +17835,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
-        <location filename="ItemModel.cpp" line="1120"/>
+        <location filename="ItemModel.cpp" line="1137"/>
         <location filename="SearchField.cpp" line="48"/>
         <location filename="SearchField.cpp" line="249"/>
         <location filename="TemplateData.cpp" line="2694"/>
@@ -18004,7 +17844,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="102"/>
-        <location filename="ItemModel.cpp" line="1122"/>
+        <location filename="ItemModel.cpp" line="1139"/>
         <location filename="SearchField.cpp" line="49"/>
         <location filename="SearchField.cpp" line="79"/>
         <location filename="SearchField.cpp" line="255"/>
@@ -18018,7 +17858,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="103"/>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="29"/>
-        <location filename="ItemModel.cpp" line="1124"/>
+        <location filename="ItemModel.cpp" line="1141"/>
         <location filename="SearchField.cpp" line="50"/>
         <location filename="SearchField.cpp" line="261"/>
         <location filename="TemplateData.cpp" line="2696"/>
@@ -18029,7 +17869,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="40"/>
         <location filename="IptcHelper.cpp" line="30"/>
-        <location filename="ItemModel.cpp" line="1126"/>
+        <location filename="ItemModel.cpp" line="1143"/>
         <location filename="SearchField.cpp" line="46"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="SearchField.cpp" line="237"/>
@@ -18051,7 +17891,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="72"/>
         <location filename="IptcHelper.cpp" line="31"/>
-        <location filename="ItemModel.cpp" line="1128"/>
+        <location filename="ItemModel.cpp" line="1145"/>
         <location filename="TemplateData.cpp" line="2719"/>
         <source>Contact</source>
         <translation>Stik</translation>
@@ -18059,10 +17899,10 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="98"/>
         <location filename="EditXMPWidget.cpp" line="139"/>
-        <location filename="EditXMPWidget.cpp" line="155"/>
+        <location filename="EditXMPWidget.cpp" line="156"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="42"/>
-        <location filename="ItemModel.cpp" line="1130"/>
+        <location filename="ItemModel.cpp" line="1147"/>
         <location filename="SearchField.cpp" line="77"/>
         <location filename="SearchField.cpp" line="399"/>
         <location filename="TemplateData.cpp" line="2713"/>
@@ -18079,8 +17919,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="99"/>
         <location filename="EditXMPWidget.cpp" line="140"/>
-        <location filename="EditXMPWidget.cpp" line="154"/>
-        <location filename="ItemModel.cpp" line="1134"/>
+        <location filename="EditXMPWidget.cpp" line="155"/>
+        <location filename="ItemModel.cpp" line="1151"/>
         <location filename="TemplateData.cpp" line="2715"/>
         <location filename="TemplateData.cpp" line="2738"/>
         <source>State</source>
@@ -18089,20 +17929,16 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="100"/>
         <location filename="EditXMPWidget.cpp" line="142"/>
-        <location filename="EditXMPWidget.cpp" line="156"/>
+        <location filename="EditXMPWidget.cpp" line="157"/>
         <location filename="InfoIPTCView.cpp" line="63"/>
         <location filename="IptcHelper.cpp" line="45"/>
-        <location filename="ItemModel.cpp" line="1136"/>
+        <location filename="ItemModel.cpp" line="1153"/>
         <location filename="SearchField.cpp" line="78"/>
         <location filename="SearchField.cpp" line="402"/>
         <location filename="TemplateData.cpp" line="2716"/>
         <location filename="TemplateData.cpp" line="2733"/>
         <source>Country</source>
         <translation>Država</translation>
-    </message>
-    <message>
-        <source>Object name</source>
-        <translation type="vanished">Ime objekta</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="28"/>
@@ -18213,10 +18049,10 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Čas izdaje</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="153"/>
+        <location filename="EditXMPWidget.cpp" line="154"/>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
-        <location filename="ItemModel.cpp" line="1132"/>
+        <location filename="ItemModel.cpp" line="1149"/>
         <location filename="TemplateData.cpp" line="2714"/>
         <source>Location</source>
         <translation>Lokacija</translation>
@@ -18316,7 +18152,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="83"/>
         <location filename="InfoIPTCView.cpp" line="59"/>
         <location filename="IptcHelper.cpp" line="48"/>
-        <location filename="ItemModel.cpp" line="1138"/>
+        <location filename="ItemModel.cpp" line="1155"/>
         <location filename="TemplateData.cpp" line="2710"/>
         <source>Document title</source>
         <translation>Naslov dokumenta</translation>
@@ -18382,27 +18218,31 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Spletna stran</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="148"/>
+        <location filename="EditXMPWidget.cpp" line="146"/>
+        <source>Subject code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="EditXMPWidget.cpp" line="149"/>
         <source>Person in image</source>
         <translation>Oseba na sliki</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="149"/>
+        <location filename="EditXMPWidget.cpp" line="150"/>
         <source>Name of organization represented</source>
         <translation>Ime zastopane organizacije</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="150"/>
+        <location filename="EditXMPWidget.cpp" line="151"/>
         <source>Code of organization represented</source>
         <translation>Kodeks zastopane organizacije</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="151"/>
+        <location filename="EditXMPWidget.cpp" line="152"/>
         <source>Event</source>
         <translation>Dogodek</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="159"/>
         <location filename="EditXMPWidget.cpp" line="160"/>
         <location filename="EditXMPWidget.cpp" line="161"/>
         <location filename="EditXMPWidget.cpp" line="162"/>
@@ -18412,6 +18252,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="166"/>
         <location filename="EditXMPWidget.cpp" line="167"/>
         <location filename="EditXMPWidget.cpp" line="168"/>
+        <location filename="EditXMPWidget.cpp" line="169"/>
         <source>Custom field</source>
         <translation>Polje po meri</translation>
     </message>
@@ -18596,52 +18437,52 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>ItemModel</name>
     <message>
-        <location filename="ItemModel.cpp" line="1042"/>
+        <location filename="ItemModel.cpp" line="1059"/>
         <source>No.</source>
         <translation>Št.</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1044"/>
+        <location filename="ItemModel.cpp" line="1061"/>
         <source>Name</source>
         <translation>Ime</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1046"/>
+        <location filename="ItemModel.cpp" line="1063"/>
         <source>Size</source>
         <translation>Velikost</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1048"/>
+        <location filename="ItemModel.cpp" line="1065"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1050"/>
+        <location filename="ItemModel.cpp" line="1067"/>
         <source>Modified date</source>
         <translation>Datum spremembe</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1052"/>
+        <location filename="ItemModel.cpp" line="1069"/>
         <source>Created date</source>
         <translation>Datum nastanka</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1054"/>
+        <location filename="ItemModel.cpp" line="1071"/>
         <source>EXIF Date Taken</source>
         <translation>EXIF datum posnetka</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1056"/>
+        <location filename="ItemModel.cpp" line="1073"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF datum spremembe</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1062"/>
+        <location filename="ItemModel.cpp" line="1079"/>
         <source>Type</source>
         <translation>Vrsta</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="4769"/>
+        <location filename="ItemModel.cpp" line="4824"/>
         <source>New Folder %1</source>
         <translation>Nova mapa %1</translation>
     </message>
@@ -19044,12 +18885,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4223"/>
+        <location filename="BrowserWindow.cpp" line="4201"/>
         <source>New Folder</source>
         <translation>Nova mapa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4235"/>
+        <location filename="BrowserWindow.cpp" line="4213"/>
         <source>Rename</source>
         <translation>Preimenuj</translation>
     </message>
@@ -20014,13 +19855,13 @@ Do you want to continue?</oldsource>
         <translation>Odpri seznam datotek...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4226"/>
+        <location filename="BrowserWindow.cpp" line="4204"/>
         <location filename="BrowserMenu.h" line="425"/>
         <source>Cut</source>
         <translation>Izreži</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4228"/>
+        <location filename="BrowserWindow.cpp" line="4206"/>
         <location filename="BrowserMenu.h" line="427"/>
         <source>Copy</source>
         <translation>Kopiraj</translation>
@@ -20031,7 +19872,7 @@ Do you want to continue?</oldsource>
         <translation>Slika</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4230"/>
+        <location filename="BrowserWindow.cpp" line="4208"/>
         <location filename="BrowserMenu.h" line="432"/>
         <source>Paste</source>
         <translation>Prilepi</translation>
@@ -20067,19 +19908,19 @@ Do you want to continue?</oldsource>
         <translation>Izberi označene datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4238"/>
+        <location filename="BrowserWindow.cpp" line="4216"/>
         <location filename="BrowserMenu.h" line="442"/>
         <source>Copy to...</source>
         <translation>Kopiraj v...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4240"/>
+        <location filename="BrowserWindow.cpp" line="4218"/>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Move to...</source>
         <translation>Premakni v...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4233"/>
+        <location filename="BrowserWindow.cpp" line="4211"/>
         <location filename="BrowserMenu.h" line="444"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
@@ -20465,95 +20306,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1445"/>
+        <location filename="xnview.cpp" line="1461"/>
         <source>Quit</source>
         <translation>Izhod</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1448"/>
+        <location filename="xnview.cpp" line="1464"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Spletna stran...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1453"/>
+        <location filename="xnview.cpp" line="1469"/>
         <source>Make a donation...</source>
         <translation>Donirajte...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1446"/>
+        <location filename="xnview.cpp" line="1462"/>
         <source>About</source>
         <translation>Vizitka</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1447"/>
+        <location filename="xnview.cpp" line="1463"/>
         <source>PlugIns...</source>
         <translation>Vtičniki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1449"/>
+        <location filename="xnview.cpp" line="1465"/>
         <source>Forum...</source>
         <translation>Forum...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1450"/>
+        <location filename="xnview.cpp" line="1466"/>
         <source>Technical Support...</source>
         <translation>Tehnična podpora...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1451"/>
+        <location filename="xnview.cpp" line="1467"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Prijavite napako...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1452"/>
+        <location filename="xnview.cpp" line="1468"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1454"/>
+        <location filename="xnview.cpp" line="1470"/>
         <source>Check for update...</source>
         <translation>Preverite za posodobitve...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1455"/>
+        <location filename="xnview.cpp" line="1471"/>
         <source>Registration...</source>
         <translation>Registracija...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1456"/>
+        <location filename="xnview.cpp" line="1472"/>
         <source>Purchase...</source>
         <translation>Nakup...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1466"/>
-        <location filename="xnview.cpp" line="1468"/>
+        <location filename="xnview.cpp" line="1482"/>
+        <location filename="xnview.cpp" line="1484"/>
         <source>Settings...</source>
         <translation>Nastavitve...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1472"/>
+        <location filename="xnview.cpp" line="1488"/>
         <source>Always on top</source>
         <translation>Vedno na vrhu</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1474"/>
+        <location filename="xnview.cpp" line="1490"/>
         <source>Titlebar</source>
         <translation>Naslovna vrstica</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1475"/>
+        <location filename="xnview.cpp" line="1491"/>
         <source>Show</source>
         <translation>Pokaži</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1476"/>
+        <location filename="xnview.cpp" line="1492"/>
         <source>Bottom</source>
         <translation>Spodaj</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1493"/>
         <source>Tab</source>
         <translation>Zavihek</translation>
     </message>
@@ -21937,12 +21778,12 @@ Do you want to continue?</oldsource>
         <translation>Spodaj-Desno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1001"/>
+        <location filename="DlgSettingsInterface.cpp" line="1003"/>
         <source>Choose command</source>
         <translation>Izberi ukaz</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1033"/>
+        <location filename="DlgSettingsInterface.cpp" line="1035"/>
         <source>Choose icon</source>
         <translation>Izberi ikono</translation>
     </message>
@@ -22041,7 +21882,7 @@ Do you want to continue?</oldsource>
         <translation>Mape</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1935"/>
+        <location filename="MyDirModel.cpp" line="1929"/>
         <source>New Folder %1</source>
         <translation>Nova mapa %1</translation>
     </message>
@@ -22740,7 +22581,7 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
         <translation>Razredi</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2205"/>
+        <location filename="BrowserWindow.cpp" line="2201"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Kliknite potrditveno polje za preklop naloge
@@ -23337,7 +23178,7 @@ Desni klik za pojavni meni z ukrepi.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4388"/>
+        <location filename="ItemModel.cpp" line="4442"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Pri preimenovanju je prišlo do napake!</translation>
@@ -23668,52 +23509,52 @@ Desni klik za pojavni meni z ukrepi.</translation>
 <context>
     <name>ViewSpotlightAction</name>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="54"/>
+        <location filename="ViewSpotlightAction.cpp" line="63"/>
         <source>Opacity</source>
         <translation>Motnost</translation>
     </message>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="65"/>
+        <location filename="ViewSpotlightAction.cpp" line="74"/>
         <source>Brightness</source>
         <translation>Svetlost</translation>
     </message>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="75"/>
+        <location filename="ViewSpotlightAction.cpp" line="84"/>
         <source>Blur</source>
         <translation>Zameglitev</translation>
     </message>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="88"/>
+        <location filename="ViewSpotlightAction.cpp" line="97"/>
         <source>Red</source>
         <translation>Rdeča</translation>
     </message>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="91"/>
+        <location filename="ViewSpotlightAction.cpp" line="100"/>
         <source>Green</source>
         <translation>Zelena</translation>
     </message>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="94"/>
+        <location filename="ViewSpotlightAction.cpp" line="103"/>
         <source>Blue</source>
         <translation>Modra</translation>
     </message>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="113"/>
+        <location filename="ViewSpotlightAction.cpp" line="122"/>
         <source>Undo</source>
         <translation>Razveljavi</translation>
     </message>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="115"/>
+        <location filename="ViewSpotlightAction.cpp" line="124"/>
         <source>Remove last drawn rectangle</source>
         <translation>Odstrani zadnji povlečeni pravokotnik</translation>
     </message>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="121"/>
+        <location filename="ViewSpotlightAction.cpp" line="131"/>
         <source>Apply</source>
         <translation>Uporabi</translation>
     </message>
     <message>
-        <location filename="ViewSpotlightAction.cpp" line="125"/>
+        <location filename="ViewSpotlightAction.cpp" line="135"/>
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
@@ -23837,26 +23678,26 @@ Desni klik za pojavni meni z ukrepi.</translation>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="485"/>
-        <location filename="xnview.cpp" line="505"/>
+        <location filename="xnview.cpp" line="488"/>
+        <location filename="xnview.cpp" line="508"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>Ustvarjanje varnostne kopije, počakajte trenutek...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="477"/>
-        <location filename="xnview.cpp" line="483"/>
-        <location filename="xnview.cpp" line="490"/>
+        <location filename="xnview.cpp" line="480"/>
+        <location filename="xnview.cpp" line="486"/>
+        <location filename="xnview.cpp" line="493"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="477"/>
+        <location filename="xnview.cpp" line="480"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - različica Kataloga je novejša od pričakovane</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="486"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -23867,39 +23708,39 @@ Do you want to keep the thumbnails?
 .(Če izberete DA, bo postopek nadgradnje počasen)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="487"/>
+        <location filename="xnview.cpp" line="490"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>Nadgradnja kataloga, počakajte trenutek...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="490"/>
+        <location filename="xnview.cpp" line="493"/>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
         <translation>XnViewMP - Pri posodobitvi kataloga je težava (napaka: %1), obrnite se na razvijalca.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="597"/>
+        <location filename="xnview.cpp" line="600"/>
         <source>Catalog problem</source>
         <translation>Težava s katalogom</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="597"/>
+        <location filename="xnview.cpp" line="600"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Prišlo je do težave pri odpiranju kataloga, preverjanju nastavitev ali uporabljene mape!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="982"/>
+        <location filename="xnview.cpp" line="993"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>Aplikacija je posodobljena.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1677"/>
+        <location filename="xnview.cpp" line="1693"/>
         <source>Do you want to save session?</source>
         <translation>Ali želite shraniti sejo?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3124"/>
+        <location filename="xnview.cpp" line="3111"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -23907,44 +23748,44 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Oznake z oceno, oznako in barvo ne bodo shranjene.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1053"/>
+        <location filename="xnview.cpp" line="1064"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Vaša prejšnja seja vsebuje veliko naloženih slik, kar lahko povzroči upočasnitev!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1053"/>
+        <location filename="xnview.cpp" line="1064"/>
         <source>Session</source>
         <translation>Seja</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1602"/>
+        <location filename="xnview.cpp" line="1618"/>
         <source>Do you want to quit?</source>
         <translation>Ali želite končati?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1678"/>
+        <location filename="xnview.cpp" line="1694"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Shranjevanje številnih zavihkov lahko opazno upočasni ponovno odpiranje.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1684"/>
+        <location filename="xnview.cpp" line="1700"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Ne sprašuj več</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1246"/>
+        <location filename="xnview.cpp" line="1262"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1246"/>
+        <location filename="xnview.cpp" line="1262"/>
         <source>File not found!</source>
         <translation>Datoteka ni najdena!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1703"/>
+        <location filename="xnview.cpp" line="1719"/>
         <source>Do you want to save this session?</source>
         <translation>Ali želite shraniti to sejo?</translation>
     </message>

@@ -5321,10 +5321,6 @@ Haluatko korvata sen?</translation>
 <context>
     <name>DlgConvertXMP</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Load template...</source>
         <translation type="unfinished">Lataa mallipohja...</translation>
     </message>
@@ -5586,14 +5582,6 @@ Haluatko korvata sen?</translation>
 <context>
     <name>DlgEditXMP</name>
     <message>
-        <source>Mode:</source>
-        <translation type="vanished">Tila:</translation>
-    </message>
-    <message>
-        <source>Public domain</source>
-        <translation type="vanished">Julkinen verkkotunnus</translation>
-    </message>
-    <message>
         <source>Changing files, please wait...</source>
         <translation>Muutetaan tiedostoja, odota...</translation>
     </message>
@@ -5604,168 +5592,36 @@ Do you want to save your changes?</source>
 Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
-        <source>XMP only</source>
-        <translation type="vanished">Vain XMP</translation>
-    </message>
-    <message>
-        <source>Library</source>
-        <translation type="vanished">KIrjasto</translation>
-    </message>
-    <message>
-        <source>8: Low</source>
-        <translation type="vanished">8: Matala</translation>
-    </message>
-    <message>
-        <source>0: None</source>
-        <translation type="vanished">0: Ei mitään</translation>
-    </message>
-    <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation>Kentän arvoja ei ladata, koska &apos;Älä lataa kenttien arvoja&apos; -valinta on valittu</translation>
-    </message>
-    <message>
-        <source>Sort alphabetically</source>
-        <translation type="vanished">Järjestä aakkosjärjestykseen</translation>
-    </message>
-    <message>
-        <source>IPTC extensions</source>
-        <translation type="vanished">IPTC-laajennukset</translation>
-    </message>
-    <message>
-        <source>1: High</source>
-        <translation type="vanished">1: Korkea</translation>
-    </message>
-    <message>
-        <source>Keep original value if new value is empty</source>
-        <translation type="vanished">Pidä alkuperäinen arvo jos uusi arvo on tyhjä</translation>
     </message>
     <message>
         <source>Load template...</source>
         <translation>Lataa mallipohja...</translation>
     </message>
     <message>
-        <source>Insert</source>
-        <translation type="vanished">Lisää</translation>
-    </message>
-    <message>
-        <source>5: Normal</source>
-        <translation type="vanished">5: Normaali</translation>
-    </message>
-    <message>
-        <source>Origin</source>
-        <translation type="vanished">Alkuperäinen</translation>
-    </message>
-    <message>
-        <source>Rating</source>
-        <translation type="vanished">Luokitus</translation>
-    </message>
-    <message>
-        <source>Apply parent categories</source>
-        <translation type="vanished">Käytä pääkategorioita</translation>
-    </message>
-    <message>
         <source>Save template...</source>
         <translation>Tallenna mallipohja...</translation>
-    </message>
-    <message>
-        <source>Replace only if original value is empty</source>
-        <translation type="vanished">Korvaa vain jos alkuperäinen arvo on tyhjä</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Valinnat</translation>
-    </message>
-    <message>
-        <source>Multiple selection</source>
-        <translation type="vanished">Monivalinta</translation>
-    </message>
-    <message>
-        <source>Copyright status</source>
-        <translation type="vanished">Tekijänoikeustunnus</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
         <translation>Älä lataa kenttäarvoja</translation>
     </message>
     <message>
-        <source>Copy into</source>
-        <translation type="vanished">Kopioi kansioon</translation>
-    </message>
-    <message>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Vasen</translation>
-    </message>
-    <message>
-        <source>Insert from</source>
-        <translation type="vanished">Lisää kohteesta</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="vanished">Selitys</translation>
-    </message>
-    <message>
-        <source>Modification Date: </source>
-        <translation type="vanished">Muokkauspäivä: </translation>
-    </message>
-    <message>
-        <source>Undefined</source>
-        <translation type="vanished">Ei määritelty</translation>
-    </message>
-    <message>
-        <source>(Use ; or , to separate the values)</source>
-        <translation type="vanished">(Käytä ; tai , erottaaksesi arvot)</translation>
     </message>
     <message>
         <source>Edit XMP</source>
         <translation>Muokkaa XMP:tä</translation>
     </message>
     <message>
-        <source>Edit history...</source>
-        <translation type="vanished">Muokkaushistoria...</translation>
-    </message>
-    <message>
-        <source>Protected by copyright</source>
-        <translation type="vanished">Suojattu tekijänoikeuksilla</translation>
-    </message>
-    <message>
-        <source>Urgency</source>
-        <translation type="vanished">Kiireellisyys</translation>
-    </message>
-    <message>
-        <source>Keywords</source>
-        <translation type="vanished">Avainsanat</translation>
-    </message>
-    <message>
         <source>Clear all fields</source>
         <translation>Tyhjennä kaikki kentät</translation>
     </message>
     <message>
-        <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="vanished">(Käytä | avainsanojen erottamiseen hierarkiassa)</translation>
-    </message>
-    <message>
-        <source>IPTC Contact</source>
-        <translation type="vanished">IPTC-kontakti</translation>
-    </message>
-    <message>
-        <source>XMP, update or create IPTC-IIM</source>
-        <translation type="vanished">XMP, päivitä tai luo IPTC-IIM</translation>
-    </message>
-    <message>
         <source>Ctrl+Right</source>
         <translation>Ctrl+Oikea</translation>
-    </message>
-    <message>
-        <source>Creation Date: </source>
-        <translation type="vanished">Luontipäivä: </translation>
-    </message>
-    <message>
-        <source>Required field</source>
-        <translation type="vanished">Pakollinen kenttä</translation>
-    </message>
-    <message>
-        <source>Some fields are required, please fill them!</source>
-        <translation type="vanished">Jotkut kentät ovat pakollisia, täytä ne!</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
@@ -5784,10 +5640,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Käytä</translation>
-    </message>
-    <message>
-        <source>Remember opened tab</source>
-        <translation type="vanished">Muista avatut välilehdet</translation>
     </message>
 </context>
 <context>
@@ -5986,20 +5838,8 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation>Ei mitään</translation>
     </message>
     <message>
-        <source>Zoom in</source>
-        <translation type="vanished">Lähennä</translation>
-    </message>
-    <message>
         <source>Images</source>
         <translation>Kuvat</translation>
-    </message>
-    <message>
-        <source>Zoom 100%</source>
-        <translation type="vanished">Zoomaus 100%</translation>
-    </message>
-    <message>
-        <source>Zoom out</source>
-        <translation type="vanished">Loitonna</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -6048,10 +5888,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Save File</source>
         <translation>Tallenna tiedosto</translation>
-    </message>
-    <message>
-        <source>Best fit</source>
-        <translation type="vanished">Paras sovitus</translation>
     </message>
     <message>
         <source>Greyscale</source>
@@ -7429,10 +7265,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Select all</source>
         <translation>Valitse kaikki</translation>
-    </message>
-    <message>
-        <source>Configure programs...</source>
-        <translation type="vanished">Määrittele ohjelmat...</translation>
     </message>
     <message>
         <source>Arguments</source>
@@ -10345,6 +10177,10 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Switching modes</source>
         <translation>Tilojen vaihto</translation>
+    </message>
+    <message>
+        <source>Previous/next frame</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14012,10 +13848,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Kirjoittajien sijainti</translation>
     </message>
     <message>
-        <source>Object name</source>
-        <translation type="vanished">Objektin nimi</translation>
-    </message>
-    <message>
         <source>Contact</source>
         <translation>Kontakti</translation>
     </message>
@@ -14122,6 +13954,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Country Code</source>
         <translation>Maakoodi</translation>
+    </message>
+    <message>
+        <source>Subject code</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

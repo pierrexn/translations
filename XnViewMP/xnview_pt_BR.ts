@@ -5296,10 +5296,6 @@ Do you want to overwrite it?</source>
 <context>
     <name>DlgConvertXMP</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Load template...</source>
         <translation type="unfinished">Carregar modelo...</translation>
     </message>
@@ -5565,34 +5561,6 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Description</source>
-        <translation type="obsolete">Descrição</translation>
-    </message>
-    <message>
-        <source>Origin</source>
-        <translation type="obsolete">Origem</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="obsolete">Opções</translation>
-    </message>
-    <message>
-        <source>XMP only</source>
-        <translation type="obsolete">Somente XMP</translation>
-    </message>
-    <message>
-        <source>XMP, update or create IPTC-IIM</source>
-        <translation type="obsolete">XMP, atualizar ou criar IPTC-IIM</translation>
-    </message>
-    <message>
-        <source>Multiple selection</source>
-        <translation type="obsolete">Seleção múltipla</translation>
-    </message>
-    <message>
-        <source>Keep original value if new value is empty</source>
-        <translation type="obsolete">Manter os valores originais quando os novos valores estiverem vazios</translation>
-    </message>
-    <message>
         <source>Ctrl+Left</source>
         <translation type="unfinished">Ctrl+Left</translation>
     </message>
@@ -5613,44 +5581,8 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Limpar todos os campos</translation>
     </message>
     <message>
-        <source>0: None</source>
-        <translation type="obsolete">0 : Nenhum</translation>
-    </message>
-    <message>
-        <source>1: High</source>
-        <translation type="obsolete">1 : Alto</translation>
-    </message>
-    <message>
-        <source>5: Normal</source>
-        <translation type="obsolete">5 : Normal</translation>
-    </message>
-    <message>
-        <source>8: Low</source>
-        <translation type="obsolete">8 : Baixo</translation>
-    </message>
-    <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert</source>
-        <translation type="obsolete">Inserir</translation>
-    </message>
-    <message>
-        <source>Insert from</source>
-        <translation type="obsolete">Inserir de</translation>
-    </message>
-    <message>
-        <source>Copy into</source>
-        <translation type="obsolete">Copiar em</translation>
-    </message>
-    <message>
-        <source>Edit history...</source>
-        <translation type="obsolete">Editar histórico...</translation>
-    </message>
-    <message>
-        <source>Sort alphabetically</source>
-        <translation type="obsolete">Ordem alfabética</translation>
     </message>
     <message>
         <source>IPTC data has changed.
@@ -5665,10 +5597,6 @@ Você gostaria de salvar as alterações?</translation>
     <message>
         <source>Don&apos;t load field values</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace only if original value is empty</source>
-        <translation type="obsolete">Substituir somente se o valor original estiver vazio</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
@@ -5875,22 +5803,6 @@ Please make sure that files are not read-only!</source>
 </context>
 <context>
     <name>DlgExport</name>
-    <message>
-        <source>Zoom out</source>
-        <translation type="vanished">Diminuir zoom</translation>
-    </message>
-    <message>
-        <source>Zoom in</source>
-        <translation type="vanished">Aumentar zoom</translation>
-    </message>
-    <message>
-        <source>Zoom 100%</source>
-        <translation type="vanished">Zoom em 100%</translation>
-    </message>
-    <message>
-        <source>Best fit</source>
-        <translation type="vanished">Melhor tamanho</translation>
-    </message>
     <message>
         <source>Problem</source>
         <translation>Problema</translation>
@@ -7310,10 +7222,6 @@ Please make sure that files are not read-only!</source>
 </context>
 <context>
     <name>DlgOpenWith</name>
-    <message>
-        <source>Configure programs...</source>
-        <translation type="vanished">Configurar programas...</translation>
-    </message>
     <message>
         <source>Name</source>
         <translation>Nome</translation>
@@ -10214,6 +10122,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Switching modes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous/next frame</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13778,10 +13690,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Ciclo do objeto</translation>
     </message>
     <message>
-        <source>Object name</source>
-        <translation type="vanished">Nome do objeto</translation>
-    </message>
-    <message>
         <source>City</source>
         <translation>Cidade</translation>
     </message>
@@ -13987,6 +13895,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Country Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subject code</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
