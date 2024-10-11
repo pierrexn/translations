@@ -280,7 +280,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="1421"/>
         <source>Frame %1/%2</source>
-        <translation>Kader %1/%2</translation>
+        <translation>Frame %1/%2</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1424"/>
@@ -1383,7 +1383,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="3234"/>
         <source>Blurred frame</source>
-        <translation>Wazig frame</translation>
+        <translation>Vervaagd frame</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3291"/>
@@ -4163,7 +4163,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Blur</source>
-        <translation>Wazig</translation>
+        <translation>Vervaagd</translation>
     </message>
 </context>
 <context>
@@ -13061,7 +13061,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorige/volgende frame</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -16443,7 +16443,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="118"/>
         <source>Images/frames count</source>
-        <translation>Aantal afbeeldingen/kaders</translation>
+        <translation>Aantal afbeeldingen/frames</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="135"/>
@@ -18190,7 +18190,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderwerpcode</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
