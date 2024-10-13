@@ -8353,7 +8353,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu Koordinaten wechseln</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -10825,13 +10825,13 @@ Möchten Sie sie entfernen?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Katalog verwenden</translation>
+        <translation>Nur im Katalog suchen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Unterordner einbeziehen</translation>
+        <translation>Unterordner einbeziehen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10852,7 +10852,7 @@ Möchten Sie sie entfernen?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">Ordner e&amp;inschließen</translation>
+        <translation>Ordner e&amp;inschließen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12741,7 +12741,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Bild verschieben</translation>
+        <translation>Bild verschieben</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -12951,7 +12951,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Zoomen und verschieben</translation>
+        <translation>Zoomen und verschieben</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -21061,7 +21061,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Gehe zu X/Y-Position...</translation>
+        <translation>Gehe zu X/Y-Position...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
