@@ -8417,7 +8417,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти по координатам</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -10905,13 +10905,13 @@ Do you want to remove them?</source>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
         <translatorcomment>???</translatorcomment>
-        <translation type="unfinished">Учитывать данные Каталога</translation>
+        <translation>Искать только по Каталогу</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Искать во вложенных папках</translation>
+        <translation>Искать во вложенных папках</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10932,7 +10932,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">Искать в именах папок</translation>
+        <translation>Искать в именах папок</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12833,7 +12833,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Перемещение изображения</translation>
+        <translation>Перемещение изображения</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -13006,7 +13006,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущий/следующий кадр</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -13043,7 +13043,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Масштабирование и перемещение</translation>
+        <translation>Масштабирование и перемещение</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -18298,7 +18298,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код темы</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
@@ -21157,7 +21157,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Перейти по x, y координатам...</translation>
+        <translation>Перейти по координатам...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
