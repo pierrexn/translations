@@ -8361,7 +8361,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer vers les coordonnées</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -10869,7 +10869,7 @@ Voulez-vous les enlever?</translation>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Récursif dans les sous dossiers</translation>
+        <translation>Rechercher dans les sous dossiers</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10890,7 +10890,7 @@ Voulez-vous les enlever?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">&amp;Inclure les dossiers</translation>
+        <translation>Rechercher dans les noms de dossier</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10937,7 +10937,7 @@ Voulez-vous les enlever?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Utilisation du catalogue</translation>
+        <translation>Rechercher dans le catalogue uniquement</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12920,7 +12920,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Zoom &amp; déplacer</translation>
+        <translation>Zoom &amp; déplacer</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12980,7 +12980,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Déplacer l&apos;image</translation>
+        <translation>Déplacer l&apos;image</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -15947,12 +15947,12 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="394"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC Contact</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="446"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC extensions</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="540"/>
@@ -21014,7 +21014,7 @@ Voulez-vous continuer ?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Aller à la position x, y...</translation>
+        <translation>Aller à la position...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
