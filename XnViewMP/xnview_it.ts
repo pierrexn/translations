@@ -299,52 +299,52 @@
         <translation>&lt; Vuoto &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>L&apos;immagine sarà convertita in RGB 24-bit (8 bit per canale)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2934"/>
+        <location filename="ViewWindow.cpp" line="2951"/>
         <source>Confirm Save</source>
         <translation>Conferma salvataggio</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; è già esistente!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>Do you want to overwrite it?</source>
         <translation>Volete sovrascriverlo?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="3090"/>
-        <location filename="ViewWindow.cpp" line="3140"/>
+        <location filename="ViewWindow.cpp" line="2977"/>
+        <location filename="ViewWindow.cpp" line="3107"/>
+        <location filename="ViewWindow.cpp" line="3157"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Salvataggio dell&apos;immagine...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>An error occurred during saving!</source>
         <translation>È stato rilevato un errore durante lil salvataggio del file!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3230"/>
+        <location filename="ViewWindow.cpp" line="3248"/>
         <source>Properties</source>
         <translation>Proprietà</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Colors count</source>
         <translation>Conteggio colori</translation>
     </message>
@@ -402,18 +402,18 @@
 &quot;%1&quot; (%2 elementi)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>Save</source>
         <translation>Salva</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Il file &lt;%1&gt; è di sola lettura, si prega di scegliere un altro nome.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Number of unique colors: %1</source>
         <translation>Numero di colori unici: %1</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Il file non può essere caricato!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnView MP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4842"/>
+        <location filename="ViewWindow.cpp" line="4860"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Si prega di vistare il %1 per ulteriori informazioni.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4854"/>
+        <location filename="ViewWindow.cpp" line="4872"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Vuoto &gt;</translation>
     </message>
@@ -8360,6 +8360,11 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
 <context>
     <name>DlgGoXY</name>
     <message>
+        <location filename="DlgGoXY.ui" line="14"/>
+        <source>Pan to coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgGoXY.ui" line="20"/>
         <source>You can paste values as Xx, Yy</source>
         <translation>Potete incollare i valori come Xx, Yy</translation>
@@ -10828,13 +10833,15 @@ Si desidera rimuoverli?</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
-        <source>Use catalog</source>
-        <translation>Usa catalogo</translation>
+        <source>Search in Catalog only</source>
+        <oldsource>Use catalog</oldsource>
+        <translation type="unfinished">Usa catalogo</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
-        <source>Recurse through subfolders</source>
-        <translation>Segui sottocartelle nidificate</translation>
+        <source>Search in subfolders</source>
+        <oldsource>Recurse through subfolders</oldsource>
+        <translation type="unfinished">Segui sottocartelle nidificate</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10853,8 +10860,9 @@ Si desidera rimuoverli?</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
-        <source>&amp;Include folders</source>
-        <translation>&amp;Includere le cartelle</translation>
+        <source>Search in folder names</source>
+        <oldsource>&amp;Include folders</oldsource>
+        <translation type="unfinished">&amp;Includere le cartelle</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12909,8 +12917,9 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="1863"/>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
-        <source>Zoom &amp; move</source>
-        <translation>Ingrandisci&amp;muovi</translation>
+        <source>Zoom &amp; pan</source>
+        <oldsource>Zoom &amp; move</oldsource>
+        <translation type="unfinished">Ingrandisci&amp;muovi</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12968,9 +12977,9 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="1923"/>
         <location filename="DlgSettingsInterface.ui" line="1963"/>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
-        <source>Move image</source>
-        <oldsource>Move picture</oldsource>
-        <translation>Sposta immagine</translation>
+        <source>Pan image</source>
+        <oldsource>Move image</oldsource>
+        <translation type="unfinished">Sposta immagine</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -21040,8 +21049,9 @@ Volete continuare?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
-        <source>Go to x,y location...</source>
-        <translation>Vai alla posizione x,y...</translation>
+        <source>Pan to coordinates...</source>
+        <oldsource>Go to x,y location...</oldsource>
+        <translation type="unfinished">Vai alla posizione x,y...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>

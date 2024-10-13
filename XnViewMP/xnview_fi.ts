@@ -6519,6 +6519,10 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <source>Real size</source>
         <translation>Todellinen koko</translation>
     </message>
+    <message>
+        <source>Pan to coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgGrid</name>
@@ -8481,20 +8485,12 @@ Haluatko poistaa ne?</translation>
         <translation>Poista nykyinen haku</translation>
     </message>
     <message>
-        <source>Use catalog</source>
-        <translation>Käytä luetteloa</translation>
-    </message>
-    <message>
         <source>Conditions</source>
         <translation>Ehdot</translation>
     </message>
     <message>
         <source>Clear all</source>
         <translation>Tyhjennä kaikki</translation>
-    </message>
-    <message>
-        <source>Recurse through subfolders</source>
-        <translation>Käy läpi alikansiot</translation>
     </message>
     <message>
         <source>Save this request</source>
@@ -8533,10 +8529,6 @@ Haluatko poistaa ne?</translation>
         <translation>&amp;Kirjainkoon erottelu</translation>
     </message>
     <message>
-        <source>&amp;Include folders</source>
-        <translation>&amp;Sisällytä kansiot</translation>
-    </message>
-    <message>
         <source>&lt; Bac&amp;k</source>
         <translation>&lt;&amp;Back</translation>
     </message>
@@ -8547,6 +8539,18 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>&amp;Browse...</source>
         <translation>S&amp;elaa...</translation>
+    </message>
+    <message>
+        <source>Search in Catalog only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in subfolders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in folder names</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10059,10 +10063,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Ei muokkaajaa</translation>
     </message>
     <message>
-        <source>Zoom &amp; move</source>
-        <translation>Zoomaa &amp; siirrä</translation>
-    </message>
-    <message>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
     </message>
@@ -10097,10 +10097,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Closing last tab exits application</source>
         <translation>Viimeisen välilehden sulkeminen sulkee sovelluksen</translation>
-    </message>
-    <message>
-        <source>Move image</source>
-        <translation>Siirrä kuva</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
@@ -10180,6 +10176,14 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Previous/next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pan image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom &amp; pan</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16031,10 +16035,6 @@ Jatketaanko?</translation>
         <translation>Sovita kuva ikkunan korkeuteen</translation>
     </message>
     <message>
-        <source>Go to x,y location...</source>
-        <translation>Siirry x, y -sijaintiin...</translation>
-    </message>
-    <message>
         <source>New image...</source>
         <translation>Uusi kuva...</translation>
     </message>
@@ -16561,6 +16561,10 @@ Jatketaanko?</translation>
     <message>
         <source>Automatic crop...</source>
         <translation>Automaattinen rajaus...</translation>
+    </message>
+    <message>
+        <source>Pan to coordinates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

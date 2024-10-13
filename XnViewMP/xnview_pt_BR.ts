@@ -6493,6 +6493,10 @@ Please make sure that files are not read-only!</source>
         <source>Real size</source>
         <translation type="unfinished">Tamanho real</translation>
     </message>
+    <message>
+        <source>Pan to coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgGrid</name>
@@ -8421,10 +8425,6 @@ Do you want to remove them?</source>
         <translation>Procurar</translation>
     </message>
     <message>
-        <source>Recurse through subfolders</source>
-        <translation>Procurar também nas subpastas</translation>
-    </message>
-    <message>
         <source>Add &gt;&gt;</source>
         <translation>Adicionar &gt;&gt;</translation>
     </message>
@@ -8447,10 +8447,6 @@ Do you want to remove them?</source>
     <message>
         <source>Delete current search</source>
         <translation>Apagar a pesquisa atual</translation>
-    </message>
-    <message>
-        <source>Use catalog</source>
-        <translation>Usar catálogo</translation>
     </message>
     <message>
         <source>Current pathname:</source>
@@ -8497,10 +8493,6 @@ Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Include folders</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt; Bac&amp;k</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8510,6 +8502,18 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in Catalog only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in subfolders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in folder names</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10005,10 +10009,6 @@ Do you want to reassign?</source>
         <translation>Sem modificador</translation>
     </message>
     <message>
-        <source>Zoom &amp; move</source>
-        <translation>Zoom e mover</translation>
-    </message>
-    <message>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
     </message>
@@ -10043,10 +10043,6 @@ Do you want to reassign?</source>
     <message>
         <source>Closing last tab exits application</source>
         <translation>O fechamento da última guia encerra o aplicativo</translation>
-    </message>
-    <message>
-        <source>Move image</source>
-        <translation>Mover imagem</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
@@ -10126,6 +10122,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Previous/next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pan image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom &amp; pan</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16183,10 +16187,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Go to x,y location...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Curves...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16500,6 +16500,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Automatic crop...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pan to coordinates...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

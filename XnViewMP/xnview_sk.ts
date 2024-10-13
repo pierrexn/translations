@@ -311,22 +311,22 @@
 &quot;%1&quot; (%2 položiek)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2934"/>
+        <location filename="ViewWindow.cpp" line="2951"/>
         <source>Confirm Save</source>
         <translation>Potvrdiť Uloženie</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; už existuje!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>Do you want to overwrite it?</source>
         <translation>Chcete ho prepísať?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Number of unique colors: %1</source>
         <translation>Počet jedinečných farieb: %1</translation>
     </message>
@@ -372,48 +372,48 @@
         <translation>&lt; Prázdne &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>Save</source>
         <translation>Uložiť</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Obrázok sa prevedie na 24-bitový RGB (8 bitov na kanál)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Súbor &lt;%1&gt; je len na čítanie, vyberte prosím iný názov súboru.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="3090"/>
-        <location filename="ViewWindow.cpp" line="3140"/>
+        <location filename="ViewWindow.cpp" line="2977"/>
+        <location filename="ViewWindow.cpp" line="3107"/>
+        <location filename="ViewWindow.cpp" line="3157"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Ukladanie obrázka...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>An error occurred during saving!</source>
         <translation>Pri ukladaní sa vyskytla chyba!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3230"/>
+        <location filename="ViewWindow.cpp" line="3248"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Colors count</source>
         <translation>Počet farieb</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Nie je možné načítať súbor!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Pre prezeranie a konvertovanie PDF/PS/EPS/AI súborov, XnView MP vyžaduje nainštalovaný Ghostscript %1 vo vašom počítači.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4842"/>
+        <location filename="ViewWindow.cpp" line="4860"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Navštívte prosím %1 pre viac informácií.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4854"/>
+        <location filename="ViewWindow.cpp" line="4872"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Prázdne &gt;</translation>
     </message>
@@ -8374,6 +8374,11 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
 <context>
     <name>DlgGoXY</name>
     <message>
+        <location filename="DlgGoXY.ui" line="14"/>
+        <source>Pan to coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgGoXY.ui" line="20"/>
         <source>You can paste values as Xx, Yy</source>
         <translation>Hodnoty môžete vložiť ako Xx, Yy</translation>
@@ -10841,13 +10846,15 @@ Chcete ich odstrániť?</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
-        <source>Use catalog</source>
-        <translation>Použiť katalóg</translation>
+        <source>Search in Catalog only</source>
+        <oldsource>Use catalog</oldsource>
+        <translation type="unfinished">Použiť katalóg</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
-        <source>Recurse through subfolders</source>
-        <translation>Vrátane podadresárov</translation>
+        <source>Search in subfolders</source>
+        <oldsource>Recurse through subfolders</oldsource>
+        <translation type="unfinished">Vrátane podadresárov</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10866,8 +10873,9 @@ Chcete ich odstrániť?</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
-        <source>&amp;Include folders</source>
-        <translation>&amp;Zahrnúť priečinky</translation>
+        <source>Search in folder names</source>
+        <oldsource>&amp;Include folders</oldsource>
+        <translation type="unfinished">&amp;Zahrnúť priečinky</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12923,8 +12931,9 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsInterface.ui" line="1863"/>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
-        <source>Zoom &amp; move</source>
-        <translation>Približiť a posunúť</translation>
+        <source>Zoom &amp; pan</source>
+        <oldsource>Zoom &amp; move</oldsource>
+        <translation type="unfinished">Približiť a posunúť</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12982,9 +12991,9 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsInterface.ui" line="1923"/>
         <location filename="DlgSettingsInterface.ui" line="1963"/>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
-        <source>Move image</source>
-        <oldsource>Move picture</oldsource>
-        <translation>Presunúť obrázok</translation>
+        <source>Pan image</source>
+        <oldsource>Move image</oldsource>
+        <translation type="unfinished">Presunúť obrázok</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -21076,8 +21085,9 @@ Chcete pokračovať?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
-        <source>Go to x,y location...</source>
-        <translation>Prejsť na pozíciu x,y...</translation>
+        <source>Pan to coordinates...</source>
+        <oldsource>Go to x,y location...</oldsource>
+        <translation type="unfinished">Prejsť na pozíciu x,y...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>

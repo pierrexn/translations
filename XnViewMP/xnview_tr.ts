@@ -311,22 +311,22 @@
 &quot;%1&quot; (%2 öğe)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2934"/>
+        <location filename="ViewWindow.cpp" line="2951"/>
         <source>Confirm Save</source>
         <translation>Kaydet&apos;i Onayla</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; zaten var!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>Do you want to overwrite it?</source>
         <translation>Üzerine yazmak ister misin?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Number of unique colors: %1</source>
         <translation>Benzersiz renk sayısı: %1</translation>
     </message>
@@ -372,48 +372,48 @@
         <translation>&lt; Boş &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>Save</source>
         <translation>Kaydet</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Görüntü 24-bit RGB&apos;ye dönüştürülecektir (kanal başına 8 bit)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>&lt;%1&gt; dosyası salt okunur, lütfen başka bir dosya adı seçin.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="3090"/>
-        <location filename="ViewWindow.cpp" line="3140"/>
+        <location filename="ViewWindow.cpp" line="2977"/>
+        <location filename="ViewWindow.cpp" line="3107"/>
+        <location filename="ViewWindow.cpp" line="3157"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation type="unfinished">Resim kaydediliyor...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>An error occurred during saving!</source>
         <translation>Kaydetme sırasında bir hata oluştu!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3230"/>
+        <location filename="ViewWindow.cpp" line="3248"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Colors count</source>
         <translation>Renk Sayısı</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Dosya yüklenemedi!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>XnView MP, PDF/PS/EPS/AI dosyalarını görüntülemek ve dönüştürmek  için sisteminizde Ghostscript %1 yüklü olmasını gerektirir.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4842"/>
+        <location filename="ViewWindow.cpp" line="4860"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Daha fazla bilgi için lütfen %1 adresini ziyaret ediniz.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4854"/>
+        <location filename="ViewWindow.cpp" line="4872"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Boş &gt;</translation>
     </message>
@@ -8331,6 +8331,11 @@ Please make sure that files are not read-only!</oldsource>
 <context>
     <name>DlgGoXY</name>
     <message>
+        <location filename="DlgGoXY.ui" line="14"/>
+        <source>Pan to coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgGoXY.ui" line="20"/>
         <source>You can paste values as Xx, Yy</source>
         <translation>Değerleri Xx, Yy gibi yapıştırabilirsin</translation>
@@ -10792,8 +10797,9 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
-        <source>Recurse through subfolders</source>
-        <translation>Alt Klasörlerden İtibaren Yenile</translation>
+        <source>Search in subfolders</source>
+        <oldsource>Recurse through subfolders</oldsource>
+        <translation type="unfinished">Alt Klasörlerden İtibaren Yenile</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10873,12 +10879,14 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
-        <source>Use catalog</source>
-        <translation>Katalog kullanın</translation>
+        <source>Search in Catalog only</source>
+        <oldsource>Use catalog</oldsource>
+        <translation type="unfinished">Katalog kullanın</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
-        <source>&amp;Include folders</source>
+        <source>Search in folder names</source>
+        <oldsource>&amp;Include folders</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12862,7 +12870,8 @@ Yeniden atamak ister misin?</translation>
         <location filename="DlgSettingsInterface.ui" line="1863"/>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
-        <source>Zoom &amp; move</source>
+        <source>Zoom &amp; pan</source>
+        <oldsource>Zoom &amp; move</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12921,8 +12930,8 @@ Yeniden atamak ister misin?</translation>
         <location filename="DlgSettingsInterface.ui" line="1923"/>
         <location filename="DlgSettingsInterface.ui" line="1963"/>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
-        <source>Move image</source>
-        <oldsource>Move picture</oldsource>
+        <source>Pan image</source>
+        <oldsource>Move image</oldsource>
         <translation type="unfinished">Resmi Taşı</translation>
     </message>
     <message>
@@ -21074,8 +21083,9 @@ Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
-        <source>Go to x,y location...</source>
-        <translation>x,y konumuna git...</translation>
+        <source>Pan to coordinates...</source>
+        <oldsource>Go to x,y location...</oldsource>
+        <translation type="unfinished">x,y konumuna git...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>

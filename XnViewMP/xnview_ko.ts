@@ -315,27 +315,27 @@
         <translation>&quot;%1&quot;를 삭제 하시겠습니까 (%2 항목)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>이미지가 24비트 RGB (채널당 8비트)로 변환될 것입니다</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2934"/>
+        <location filename="ViewWindow.cpp" line="2951"/>
         <source>Confirm Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; 이 이미 존재합니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>Do you want to overwrite it?</source>
         <translation>덮어쓰겠습니까?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Number of unique colors: %1</source>
         <translation>중요 색상 수: %1</translation>
     </message>
@@ -375,43 +375,43 @@
         <translation>다시 묻지 않기</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>&lt;%1&gt; 파일이 읽기 전용입니다, 다른 파일 이름을 선택하세요.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="3090"/>
-        <location filename="ViewWindow.cpp" line="3140"/>
+        <location filename="ViewWindow.cpp" line="2977"/>
+        <location filename="ViewWindow.cpp" line="3107"/>
+        <location filename="ViewWindow.cpp" line="3157"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>이미지 저장 중...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>An error occurred during saving!</source>
         <translation>저장중 오류가 발생하였습니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3230"/>
+        <location filename="ViewWindow.cpp" line="3248"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Colors count</source>
         <translation>색상 수</translation>
     </message>
@@ -469,28 +469,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>File can&apos;t be loaded!</source>
         <translation>파일을 불러올 수 없습니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>PDF/PS/EPS/AI 파일을 보거나 변환하는데 XnView MP를 사용하려면, Ghostscript %1을 시스템에 설치해야 합니다. </translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4842"/>
+        <location filename="ViewWindow.cpp" line="4860"/>
         <source>Please visit the %1 for more information.</source>
         <translation>추가 정보는 %1을 방문해 주세요.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4854"/>
+        <location filename="ViewWindow.cpp" line="4872"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 비어 있음 &gt;</translation>
     </message>
@@ -8325,6 +8325,11 @@ Please make sure that files are not read-only!</oldsource>
 <context>
     <name>DlgGoXY</name>
     <message>
+        <location filename="DlgGoXY.ui" line="14"/>
+        <source>Pan to coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgGoXY.ui" line="20"/>
         <source>You can paste values as Xx, Yy</source>
         <translation>Xx, Yy 형식으로 값을 붙여넣을 수 있습니다</translation>
@@ -10782,8 +10787,9 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
-        <source>Recurse through subfolders</source>
-        <translation>하위폴더를 통해 재귀</translation>
+        <source>Search in subfolders</source>
+        <oldsource>Recurse through subfolders</oldsource>
+        <translation type="unfinished">하위폴더를 통해 재귀</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10863,13 +10869,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
-        <source>Use catalog</source>
-        <translation>카탈로그 사용</translation>
+        <source>Search in Catalog only</source>
+        <oldsource>Use catalog</oldsource>
+        <translation type="unfinished">카탈로그 사용</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
-        <source>&amp;Include folders</source>
-        <translation>폴더 포함 (&amp;I)</translation>
+        <source>Search in folder names</source>
+        <oldsource>&amp;Include folders</oldsource>
+        <translation type="unfinished">폴더 포함 (&amp;I)</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12859,8 +12867,9 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1863"/>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
-        <source>Zoom &amp; move</source>
-        <translation>확대 &amp; 이동</translation>
+        <source>Zoom &amp; pan</source>
+        <oldsource>Zoom &amp; move</oldsource>
+        <translation type="unfinished">확대 &amp; 이동</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12918,9 +12927,9 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1923"/>
         <location filename="DlgSettingsInterface.ui" line="1963"/>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
-        <source>Move image</source>
-        <oldsource>Move picture</oldsource>
-        <translation>사진 이동</translation>
+        <source>Pan image</source>
+        <oldsource>Move image</oldsource>
+        <translation type="unfinished">사진 이동</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -20918,8 +20927,9 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
-        <source>Go to x,y location...</source>
-        <translation>x, y 위치로 이동...</translation>
+        <source>Pan to coordinates...</source>
+        <oldsource>Go to x,y location...</oldsource>
+        <translation type="unfinished">x, y 위치로 이동...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>

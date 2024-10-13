@@ -299,52 +299,52 @@
         <translation>&lt; Leeg &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Afbeelding wordt geconverteerd naar 24-bits RGB (8-bits per kanaal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2934"/>
+        <location filename="ViewWindow.cpp" line="2951"/>
         <source>Confirm Save</source>
         <translation>Opslaan bevestigen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; bestaat al!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>Do you want to overwrite it?</source>
         <translation>Wilt u het overschrijven?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="3090"/>
-        <location filename="ViewWindow.cpp" line="3140"/>
+        <location filename="ViewWindow.cpp" line="2977"/>
+        <location filename="ViewWindow.cpp" line="3107"/>
+        <location filename="ViewWindow.cpp" line="3157"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Afbeelding opslaan…</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
-        <location filename="ViewWindow.cpp" line="3142"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3159"/>
         <source>An error occurred during saving!</source>
         <translation>Er trad een fout op bij het opslaan!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3230"/>
+        <location filename="ViewWindow.cpp" line="3248"/>
         <source>Properties</source>
         <translation>Eigenschappen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Colors count</source>
         <translation>Aantal kleuren</translation>
     </message>
@@ -402,18 +402,18 @@
 &quot;%1&quot; (%2 items)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2916"/>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2933"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>Save</source>
         <translation>Opslaan</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2926"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Bestand &lt;%1&gt; is schrijfbeveiligd, kies een andere bestandsnaam.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4366"/>
+        <location filename="ViewWindow.cpp" line="4384"/>
         <source>Number of unique colors: %1</source>
         <translation>Aantal unieke kleuren: %1</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
-        <location filename="ViewWindow.cpp" line="4850"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
+        <location filename="ViewWindow.cpp" line="4868"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Bestand niet kunnen laden!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4841"/>
+        <location filename="ViewWindow.cpp" line="4859"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Om PDF/PS/EPS/AI-bestanden te bekijken of te converteren, dient Ghostscript %1 op uw systeem te zijn geïnstalleerd.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4842"/>
+        <location filename="ViewWindow.cpp" line="4860"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Bezoek de %1 voor meer informatie.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4854"/>
+        <location filename="ViewWindow.cpp" line="4872"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Leeg &gt;</translation>
     </message>
@@ -8360,6 +8360,11 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
 <context>
     <name>DlgGoXY</name>
     <message>
+        <location filename="DlgGoXY.ui" line="14"/>
+        <source>Pan to coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgGoXY.ui" line="20"/>
         <source>You can paste values as Xx, Yy</source>
         <translation>Voeg waarden in als Xx, Yy</translation>
@@ -10862,8 +10867,9 @@ Wil je ze verwijderen?</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
-        <source>Recurse through subfolders</source>
-        <translation>Inclusief submappen</translation>
+        <source>Search in subfolders</source>
+        <oldsource>Recurse through subfolders</oldsource>
+        <translation type="unfinished">Inclusief submappen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10882,8 +10888,9 @@ Wil je ze verwijderen?</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
-        <source>&amp;Include folders</source>
-        <translation>Mappen &amp;opnemen</translation>
+        <source>Search in folder names</source>
+        <oldsource>&amp;Include folders</oldsource>
+        <translation type="unfinished">Mappen &amp;opnemen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10928,8 +10935,9 @@ Wil je ze verwijderen?</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
-        <source>Use catalog</source>
-        <translation>Catalogus gebruiken</translation>
+        <source>Search in Catalog only</source>
+        <oldsource>Use catalog</oldsource>
+        <translation type="unfinished">Catalogus gebruiken</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12908,8 +12916,9 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1863"/>
         <location filename="DlgSettingsInterface.ui" line="1943"/>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
-        <source>Zoom &amp; move</source>
-        <translation>Zoomen &amp; verplaatsen</translation>
+        <source>Zoom &amp; pan</source>
+        <oldsource>Zoom &amp; move</oldsource>
+        <translation type="unfinished">Zoomen &amp; verplaatsen</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12967,9 +12976,9 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1923"/>
         <location filename="DlgSettingsInterface.ui" line="1963"/>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
-        <source>Move image</source>
-        <oldsource>Move picture</oldsource>
-        <translation>Afbeelding verplaatsen</translation>
+        <source>Pan image</source>
+        <oldsource>Move image</oldsource>
+        <translation type="unfinished">Afbeelding verplaatsen</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -21101,8 +21110,9 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
-        <source>Go to x,y location...</source>
-        <translation>Ga naar x,y-locatie…</translation>
+        <source>Pan to coordinates...</source>
+        <oldsource>Go to x,y location...</oldsource>
+        <translation type="unfinished">Ga naar x,y-locatie…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>

@@ -6518,6 +6518,10 @@ Please make sure that files are not read-only!</source>
         <source>Real size</source>
         <translation>Իրական չափ</translation>
     </message>
+    <message>
+        <source>Pan to coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgGrid</name>
@@ -8464,14 +8468,6 @@ Do you want to remove them?</source>
         <translation>Մաքրել բոլորը</translation>
     </message>
     <message>
-        <source>Recurse through subfolders</source>
-        <translation>Որոնում ենթապանակներում</translation>
-    </message>
-    <message>
-        <source>Use catalog</source>
-        <translation>Օգտագործել գրացուցակ</translation>
-    </message>
-    <message>
         <source>Save this request</source>
         <translation>Պահել այս հարցումը</translation>
     </message>
@@ -8528,10 +8524,6 @@ Do you want to remove them?</source>
         <translation>&amp;Տառաշարազգայուն</translation>
     </message>
     <message>
-        <source>&amp;Include folders</source>
-        <translation>&amp;Ներառել պանակներ</translation>
-    </message>
-    <message>
         <source>&lt; Bac&amp;k</source>
         <translation>«Հե&amp;տ</translation>
     </message>
@@ -8542,6 +8534,18 @@ Do you want to remove them?</source>
     <message>
         <source>&amp;Browse...</source>
         <translation>&amp;Ընտրել...</translation>
+    </message>
+    <message>
+        <source>Search in Catalog only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in subfolders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in folder names</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10053,10 +10057,6 @@ Do you want to reassign?</source>
         <translation>Առանց փոփոխիչի</translation>
     </message>
     <message>
-        <source>Zoom &amp; move</source>
-        <translation>Դիտափոխել և տեղափոխում</translation>
-    </message>
-    <message>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
     </message>
@@ -10091,10 +10091,6 @@ Do you want to reassign?</source>
     <message>
         <source>Closing last tab exits application</source>
         <translation>Վերջին ներդիրի փակումը կփակի նաև ծրագիրը</translation>
-    </message>
-    <message>
-        <source>Move image</source>
-        <translation>Տեղափոխել պատկերը</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
@@ -10174,6 +10170,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Previous/next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pan image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom &amp; pan</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16236,10 +16240,6 @@ Do you want to continue?</source>
         <translation>Տպել նշումը...</translation>
     </message>
     <message>
-        <source>Go to x,y location...</source>
-        <translation>Անցնել x,y տեղադրության...</translation>
-    </message>
-    <message>
         <source>Curves...</source>
         <translation>Կորեր...</translation>
     </message>
@@ -16554,6 +16554,10 @@ Do you want to continue?</source>
     <message>
         <source>Automatic crop...</source>
         <translation>Ինքնաշխատ եզրատում...</translation>
+    </message>
+    <message>
+        <source>Pan to coordinates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

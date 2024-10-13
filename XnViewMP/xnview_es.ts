@@ -6519,6 +6519,10 @@ Please make sure that files are not read-only!</source>
         <source>Real size</source>
         <translation>Tamaño real</translation>
     </message>
+    <message>
+        <source>Pan to coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgGrid</name>
@@ -8477,20 +8481,12 @@ Do you want to remove them?</source>
         <translation>Eliminar búsqueda actual</translation>
     </message>
     <message>
-        <source>Use catalog</source>
-        <translation>Utilizar catálogo</translation>
-    </message>
-    <message>
         <source>Conditions</source>
         <translation>Condiciones</translation>
     </message>
     <message>
         <source>Clear all</source>
         <translation>Limpiar todo</translation>
-    </message>
-    <message>
-        <source>Recurse through subfolders</source>
-        <translation>Incluir subcarpetas</translation>
     </message>
     <message>
         <source>Save this request</source>
@@ -8529,10 +8525,6 @@ Do you want to remove them?</source>
         <translation>&amp;Distingue entre mayúsculas y minúsculas</translation>
     </message>
     <message>
-        <source>&amp;Include folders</source>
-        <translation>&amp;Incluir carpetas</translation>
-    </message>
-    <message>
         <source>&lt; Bac&amp;k</source>
         <translation>&lt; A&amp;trás</translation>
     </message>
@@ -8543,6 +8535,18 @@ Do you want to remove them?</source>
     <message>
         <source>&amp;Browse...</source>
         <translation>&amp;Explorar...</translation>
+    </message>
+    <message>
+        <source>Search in Catalog only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in subfolders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in folder names</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10054,10 +10058,6 @@ Do you want to reassign?</source>
         <translation>Sin modificador</translation>
     </message>
     <message>
-        <source>Zoom &amp; move</source>
-        <translation>Zoom y mover</translation>
-    </message>
-    <message>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
     </message>
@@ -10092,10 +10092,6 @@ Do you want to reassign?</source>
     <message>
         <source>Closing last tab exits application</source>
         <translation>Al cerrar la última pestaña se sale de la aplicación</translation>
-    </message>
-    <message>
-        <source>Move image</source>
-        <translation>Mover imagen</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
@@ -10175,6 +10171,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Previous/next frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pan image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom &amp; pan</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16013,10 +16017,6 @@ Do you want to continue?</source>
         <translation>Ajustar imagen al alto de la ventana</translation>
     </message>
     <message>
-        <source>Go to x,y location...</source>
-        <translation>Ir a la ubicación x,y...</translation>
-    </message>
-    <message>
         <source>New image...</source>
         <translation>Crear imagen...</translation>
     </message>
@@ -16555,6 +16555,10 @@ Do you want to continue?</source>
     <message>
         <source>Automatic crop...</source>
         <translation>Recortar automáticamente...</translation>
+    </message>
+    <message>
+        <source>Pan to coordinates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
