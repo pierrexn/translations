@@ -8345,7 +8345,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinátákra mozgatás</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -12901,7 +12901,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Nagyítás és mozgatás</translation>
+        <translation>Nagyítás és mozgatás</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12961,7 +12961,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Kép mozgatása</translation>
+        <translation>Kép mozgatása</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -21089,7 +21089,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">X,y pozícióra ugrás...</translation>
+        <translation>Koordinátákra mozgatás...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
