@@ -8392,7 +8392,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrar pelas coordenadas</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -10907,7 +10907,7 @@ Prefere retirá-los?</translation>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Recursivamente em todas as subpastas</translation>
+        <translation>Procurar nas subpastas</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10928,7 +10928,7 @@ Prefere retirá-los?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">&amp;Incluir pastas</translation>
+        <translation>Procurar nos nomes de pasta</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10976,7 +10976,7 @@ Prefere retirá-los?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Usar catálogo</translation>
+        <translation>Procurar só no catálogo</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12964,7 +12964,7 @@ Pretende reatribuir?</translation>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
         <translatorcomment>Opted to avoid &apos;&amp;&apos;, it is not used in Portuguese</translatorcomment>
-        <translation type="unfinished">Ampliar e mover</translation>
+        <translation>Ampliar e deslocar</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -13024,7 +13024,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Mover a imagem</translation>
+        <translation>Deslocar a imagem</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -13116,7 +13116,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotograma anterior/seguinte</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -18259,7 +18259,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de documentação</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
@@ -21120,7 +21120,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Ir para o ponto x,y...</translation>
+        <translation>Deslocar para as coordenadas...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
