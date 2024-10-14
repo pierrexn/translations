@@ -8394,7 +8394,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomik na koordinate</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -10902,7 +10902,7 @@ Ali jih želite odstraniti?</translation>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Rekurzivno v podmapah</translation>
+        <translation>Iskanje v podmapah</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10923,7 +10923,7 @@ Ali jih želite odstraniti?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">&amp;Vključi mape</translation>
+        <translation>Iskanje v imenih map</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10970,7 +10970,7 @@ Ali jih želite odstraniti?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Uporabi katalog</translation>
+        <translation>Iskanje samo v katalogu</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12952,7 +12952,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Povečava in premik</translation>
+        <translation>Povečava in premik</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -13012,7 +13012,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Premakni sliko</translation>
+        <translation>Premik slike</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -21046,7 +21046,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Pojdi na x,y lokacijo...</translation>
+        <translation>Pomik na koordinate...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
