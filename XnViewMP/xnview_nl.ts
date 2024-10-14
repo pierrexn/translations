@@ -8083,7 +8083,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgFilter.cpp" line="83"/>
         <source>Misc</source>
-        <translation>Diversen</translation>
+        <translation>Div.</translation>
     </message>
 </context>
 <context>
@@ -8362,7 +8362,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaatsen naar coördinaten</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -10869,7 +10869,7 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Inclusief submappen</translation>
+        <translation>Ziekten in submappen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10890,7 +10890,7 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">Mappen &amp;opnemen</translation>
+        <translation>Zoeken in mapnamen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10937,7 +10937,7 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Catalogus gebruiken</translation>
+        <translation>Alleen catalogus doorzoeken</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12918,7 +12918,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Zoomen &amp; verplaatsen</translation>
+        <translation>Zoomen &amp; verplaatsen</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12978,7 +12978,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Afbeelding verplaatsen</translation>
+        <translation>Afbeelding verplaatsen</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -21112,7 +21112,7 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Ga naar x,y-locatie…</translation>
+        <translation>Verplaatsen naar coördinaten…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
