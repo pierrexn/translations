@@ -10852,7 +10852,7 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Rekurzívan alkönyvtárakban</translation>
+        <translation>Keresés almappákban</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10873,7 +10873,7 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">Mappákban &amp;is</translation>
+        <translation>Keresés mappanevekben</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10920,7 +10920,7 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Katalógus használata</translation>
+        <translation>Csak katalógusban keresés</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
