@@ -22552,7 +22552,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation>Table</translation>
+        <translation>Carte</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
