@@ -1783,7 +1783,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="1732"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>框架</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1733"/>
@@ -8349,7 +8349,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>平移到坐标</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -13064,7 +13064,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上一帧/下一帧</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
