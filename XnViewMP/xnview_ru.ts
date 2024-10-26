@@ -15903,7 +15903,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteWebP.ui" line="42"/>
         <source>Drawing</source>
-        <translation>Чертеж</translation>
+        <translation>Рисунок</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="47"/>
