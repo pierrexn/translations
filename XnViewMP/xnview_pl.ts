@@ -6867,7 +6867,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Wczytaj szablon...</translation>
+        <translation>Wczytaj szablon...</translation>
     </message>
 </context>
 <context>
@@ -7695,7 +7695,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7735,7 +7735,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Konwertuj do przestrzeni barw XYB</translation>
+        <translation>Konwertuj do przestrzeni barw XYB</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8377,7 +8377,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Przesuń do współrzędnych</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -8708,7 +8708,7 @@ Zostaną utworzone podfoldery. </translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak akcji</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9331,7 +9331,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Konfiguracja programów...</translation>
+        <translation>Konfiguracja programów</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9341,7 +9341,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Ścieżka</translation>
+        <translation>Ścieżka</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -10849,13 +10849,13 @@ Czy chcesz je usunąć?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Użyj katalogu</translation>
+        <translation>Szukaj tylko w katalogu</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Uwzględniaj wszystkie podfoldery</translation>
+        <translation>Uwzględniaj podfoldery</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10876,7 +10876,7 @@ Czy chcesz je usunąć?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">Uwzględniaj &amp;podfoldery</translation>
+        <translation>Szukaj w nazwach folderów</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12768,7 +12768,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Przesuwanie obrazu</translation>
+        <translation>Przesuwanie obrazu</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -12941,7 +12941,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzednia/następna ramka</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -12978,7 +12978,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Powiększanie i przesuwanie</translation>
+        <translation>Powiększanie i przesuwanie</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -15890,187 +15890,187 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Ocena</translation>
+        <translation>Ocena</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Status praw autorskich</translation>
+        <translation>Status praw autorskich</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">Niezdefiniowany</translation>
+        <translation>Niezdefiniowany</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Chroniony prawami autorskimi</translation>
+        <translation>Chroniony prawami autorskimi</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">Domena publiczna</translation>
+        <translation>Domena publiczna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Data utworzenia: </translation>
+        <translation>Data utworzenia: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Data modyfikacji: </translation>
+        <translation>Data modyfikacji: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Słowa kluczowe</translation>
+        <translation>Słowa kluczowe</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(Użyj | aby oddzielić słowa kluczowe w hierarchii)</translation>
+        <translation>(Użyj | aby oddzielić słowa kluczowe w hierarchii)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Zastosuj kategorie nadrzędne</translation>
+        <translation>Zastosuj kategorie nadrzędne</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pochodzenie</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Data utworzenia</translation>
+        <translation>Data utworzenia</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="368"/>
         <source>Urgency</source>
-        <translation type="unfinished">Pilność</translation>
+        <translation>Pilność</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="394"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">Kontakt IPTC</translation>
+        <translation>Kontakt IPTC</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="446"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">Rozszerzenia IPTC</translation>
+        <translation>Rozszerzenia IPTC</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="540"/>
         <source>Options</source>
-        <translation type="unfinished">Opcje</translation>
+        <translation>Opcje</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="561"/>
         <source>Mode:</source>
-        <translation type="unfinished">Tryb:</translation>
+        <translation>Tryb:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="569"/>
         <source>XMP only</source>
-        <translation type="unfinished">tylko XMP</translation>
+        <translation>tylko XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="574"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, aktualizuj lub utwórz IPTC-IIM</translation>
+        <translation>XMP, aktualizuj lub utwórz IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="603"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Zaznaczenie wielu pozycji</translation>
+        <translation>Zaznaczenie wielu pozycji</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="612"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Zachowaj wartość oryginalną, jeżeli nie określono nowej wartości</translation>
+        <translation>Zachowaj wartość oryginalną, jeżeli nie określono nowej wartości</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="619"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Zamieniaj tylko, jeżeli pole było puste</translation>
+        <translation>Zamieniaj tylko, jeżeli pole było puste</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="629"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Otwieraj ostatnio używaną kartę</translation>
+        <translation>Otwieraj ostatnio używaną kartę</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(Użyj ; lub , do oddzielenia wartości)</translation>
+        <translation>(Użyj ; lub , do oddzielenia wartości)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Brak</translation>
+        <translation>0: Brak</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Wysoka</translation>
+        <translation>1: Wysoka</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Normalna</translation>
+        <translation>5: Normalna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Niska</translation>
+        <translation>8: Niska</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Required field</source>
-        <translation type="unfinished">Pole wymagane</translation>
+        <translation>Pole wymagane</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Niektóre pola są wymagane. Proszę je wypełnić!</translation>
+        <translation>Niektóre pola są wymagane. Proszę je wypełnić!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished">Wstaw</translation>
+        <translation>Wstaw</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="443"/>
         <source>Insert from</source>
-        <translation type="unfinished">Wstaw z</translation>
+        <translation>Wstaw z</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="464"/>
         <source>Copy into</source>
-        <translation type="unfinished">Kopiuj do</translation>
+        <translation>Kopiuj do</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="488"/>
         <source>Library</source>
-        <translation type="unfinished">Biblioteka</translation>
+        <translation>Biblioteka</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Edytuj historię...</translation>
+        <translation>Edytuj historię...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="494"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Sortuj alfabetycznie</translation>
+        <translation>Sortuj alfabetycznie</translation>
     </message>
 </context>
 <context>
@@ -16924,12 +16924,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data utworzenia</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data modyfikacji</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -18218,7 +18218,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod tematu</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
@@ -21090,7 +21090,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Idź do lokalizacji x, y...</translation>
+        <translation>Idź do lokalizacji...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -22579,7 +22579,7 @@ Kliknij prawym przyciskiem myszy, aby wyświetlić menu z akcjami.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Mapa</translation>
+        <translation>Mapa</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
