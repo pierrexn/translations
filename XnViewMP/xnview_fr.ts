@@ -18136,7 +18136,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="ItemModel.cpp" line="1155"/>
         <location filename="TemplateData.cpp" line="2710"/>
         <source>Document title</source>
-        <translation>Titre</translation>
+        <translation>Nom du document</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="84"/>
