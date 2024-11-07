@@ -2221,7 +2221,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;p&gt;Tutte le specifiche del banner (carattere, colore, dimensione, ecc.) vengono importate dal banner creato in precedenza. Fa eccezione la dimensione del testo, che viene calcolata con il &apos;miglior adattamento&apos; all&apos;altezza del banner.&lt;/p&gt;&lt;p&gt;È possibile selezionare più immagini per applicare lo stesso banner a più immagini contemporaneamente. Si noti che il testo avrà la stessa dimensione in tutte le immagini.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt; Scorciatoie&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; Ctrl+Più/Meno&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Aumenta/diminuisce la dimensione del carattere di 2 punti&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; Ctrl+Shift+Più/Meno&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Aumenta/diminuisce la dimensione del banner dell&apos;1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Avvia la creazione del banner&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -6851,7 +6851,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Carica modello...</translation>
+        <translation>Carica un modello...</translation>
     </message>
 </context>
 <context>
@@ -7679,7 +7679,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizzare JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7719,7 +7719,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Converti verso lo spazio colori XYB</translation>
+        <translation>Converti verso lo spazio colori XYB</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -7953,7 +7953,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgFileReplace.ui" line="151"/>
         <source>Original zoom</source>
-        <translation>Ingrandimento originale</translation>
+        <translation>Zoom originale (100%)</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="165"/>
@@ -8361,7 +8361,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai alle coordinate</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -8371,7 +8371,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="123"/>
         <source>Current zoom</source>
-        <translation>Ingrandimento corrente</translation>
+        <translation>Zoom corrente</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="133"/>
@@ -8692,7 +8692,7 @@ Saranno create delle sottocartelle. </translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna azione</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9315,7 +9315,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Configura programmi...</translation>
+        <translation>Configura programmi...</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9325,7 +9325,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Percorso</translation>
+        <translation>Percorso</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -10834,13 +10834,13 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Usa catalogo</translation>
+        <translation>Ricerca solo nel catalogo</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Segui sottocartelle nidificate</translation>
+        <translation>Ricerca nelle sottocartelle</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10861,7 +10861,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">&amp;Includere le cartelle</translation>
+        <translation>Ricerca nei nomi delle cartelle</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12850,7 +12850,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation>Scala</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1141"/>
@@ -12918,7 +12918,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Ingrandisci&amp;muovi</translation>
+        <translation>Zoom &amp; panoramica</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12978,7 +12978,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Sposta immagine</translation>
+        <translation>Sposta immagine</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -13005,7 +13005,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2042"/>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
-        <translation>Ingrandisci sulla selezione</translation>
+        <translation>Ingrandisci selezione</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2007"/>
@@ -13070,7 +13070,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotogramma precedente/successivo</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -13629,7 +13629,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
-        <translation>Dimensione automatica immagine</translation>
+        <translation>Zoom automatico</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
@@ -13646,7 +13646,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
         <source>Zoom step</source>
-        <translation>Incrementi Scala</translation>
+        <translation>Incrementi Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="390"/>
@@ -13666,7 +13666,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>High zoom quality</source>
-        <translation>Alta qualità di scala</translation>
+        <translation>Alta qualità di zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
@@ -13705,7 +13705,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation>Reimposta &apos;Dimensione automatica immagine&apos; con il file seguente/precedente</translation>
+        <translation>Reimposta &apos;Zoom automatico&apos; con il file seguente/precedente</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -13715,7 +13715,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation>Ingrandisci su schermo HiDPI: 1 pixel immagine equivale 1 pixel schermo</translation>
+        <translation>Zoom su schermo HiDPI: 1 pixel immagine equivale 1 pixel schermo</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="592"/>
@@ -14113,7 +14113,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSimilarResult.ui" line="112"/>
         <location filename="DlgSimilarResult.ui" line="264"/>
         <source>Original zoom</source>
-        <translation>Ingrandimento originale</translation>
+        <translation>Zoom originale (100%)</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="126"/>
@@ -15875,187 +15875,187 @@ Volete continuare?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Descrizione</translation>
+        <translation>Descrizione</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Valutazione</translation>
+        <translation>Valutazione</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Stato Copyright</translation>
+        <translation>Stato copyright</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">Non definito</translation>
+        <translation>Non definito</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Protetto da copyright</translation>
+        <translation>Protetto da copyright</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">Pubblico dominio</translation>
+        <translation>Pubblico dominio</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Data di creazione: </translation>
+        <translation>Data di creazione: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Data di modifica: </translation>
+        <translation>Data di modifica: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Parole chiave</translation>
+        <translation>Parole chiave</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(Usate | per separare le parole chiave nella gerarchia)</translation>
+        <translation>(Usate | per separare le parole chiave nella gerarchia)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Appplica categorie sovraordinate</translation>
+        <translation>Applica categorie sovraordinate</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished">Origine</translation>
+        <translation>Origine</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Data creazione</translation>
+        <translation>Data di creazione</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="368"/>
         <source>Urgency</source>
-        <translation type="unfinished">Urgenza</translation>
+        <translation>Urgenza</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="394"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">Contatto IPTC</translation>
+        <translation>Contatto IPTC</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="446"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">Estensioni IPTC</translation>
+        <translation>Estensioni IPTC</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="540"/>
         <source>Options</source>
-        <translation type="unfinished">Opzioni</translation>
+        <translation>Opzioni</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="561"/>
         <source>Mode:</source>
-        <translation type="unfinished">Modalità:</translation>
+        <translation>Modalità:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="569"/>
         <source>XMP only</source>
-        <translation type="unfinished">Solo XMP</translation>
+        <translation>Solo XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="574"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, aggiorna o crea IPTC-IIM</translation>
+        <translation>XMP, aggiorna o crea IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="603"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Scelta multipla</translation>
+        <translation>Selezione multipla</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="612"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Preserva valore originario se il nuovo valore è assente</translation>
+        <translation>Preserva valore originario se il nuovo valore è assente</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="619"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Sostituisci solo se il valore originario è assente</translation>
+        <translation>Sostituisci solo se il valore originario è assente</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="629"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Apri le schede più recenti</translation>
+        <translation>Apri le schede più recenti</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(Usa ; o , per separare i valori)</translation>
+        <translation>(Usa ; o , per separare i valori)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Nessuna</translation>
+        <translation>0: Nessuna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Elevata</translation>
+        <translation>1: Elevata</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Normale</translation>
+        <translation>5: Normale</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Bassa</translation>
+        <translation>8: Bassa</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Required field</source>
-        <translation type="unfinished">Campo richiesto</translation>
+        <translation>Campo richiesto</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Alcuni campi sono richiesti, si prega di compilarli!</translation>
+        <translation>Alcuni campi sono richiesti, si prega di compilarli!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished">Inserisci</translation>
+        <translation>Inserisci</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="443"/>
         <source>Insert from</source>
-        <translation type="unfinished">Inserisci da</translation>
+        <translation>Inserisci da</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="464"/>
         <source>Copy into</source>
-        <translation type="unfinished">Copia in</translation>
+        <translation>Copia in</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="488"/>
         <source>Library</source>
-        <translation type="unfinished">Biblioteca</translation>
+        <translation>Biblioteca</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Modifica cronologia...</translation>
+        <translation>Modifica cronologia...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="494"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Ordina alfabeticamente</translation>
+        <translation>Ordina alfabeticamente</translation>
     </message>
 </context>
 <context>
@@ -16909,12 +16909,12 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data di creazione</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data di modifica</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -16945,7 +16945,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2746"/>
         <source>Zoom</source>
-        <translation>Scala</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2747"/>
@@ -18199,7 +18199,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice soggetto</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
@@ -20206,7 +20206,7 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="633"/>
         <source>Lock zoom</source>
-        <translation>Blocca scala</translation>
+        <translation>Blocca zoom</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="634"/>
@@ -20249,7 +20249,7 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="649"/>
         <source>Zoom</source>
-        <translation>Scala</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="652"/>
@@ -20962,12 +20962,12 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="414"/>
         <source>Lock zoom</source>
-        <translation>Blocca scala</translation>
+        <translation>Blocca zoom</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="417"/>
         <source>Zoom</source>
-        <translation>Scala</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="418"/>
@@ -21050,7 +21050,7 @@ Volete continuare?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Vai alla posizione x,y...</translation>
+        <translation>Vai alle coordinate...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -21060,7 +21060,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="439"/>
         <source>High zoom quality</source>
-        <translation>Alta qualhttps://translation.xnview.com/translate/xnview-mp/general/it/?q=state%3A%3Ctranslated&amp;offset=8ità di scala</translation>
+        <translation>Alta qualità di zoom</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="440"/>
@@ -22558,7 +22558,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Mappa</translation>
+        <translation>Mappa</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
@@ -23385,7 +23385,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichette delle miniature</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
