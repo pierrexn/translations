@@ -6883,7 +6883,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Indlæs skabelonfil...</translation>
+        <translation>Indlæs skabelon...</translation>
     </message>
 </context>
 <context>
@@ -7712,7 +7712,7 @@ Vær sikker på, at filerne ikke er read-only!</translation>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7752,7 +7752,7 @@ Vær sikker på, at filerne ikke er read-only!</translation>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Konvertér til XYB farvespektrum</translation>
+        <translation>Konvertér til XYB farvespektrum</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8396,7 +8396,7 @@ Vær sikker på, at filerne ikke er read-only!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Panorér til koordinater</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -8728,7 +8728,7 @@ Undermapper vil blive oprettet. </translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen handling</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9350,7 +9350,7 @@ Tjek at filerne ikke er read-only!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Konfigurér programmer...</translation>
+        <translation>Konfigurér programmer</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9360,7 +9360,7 @@ Tjek at filerne ikke er read-only!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Sti</translation>
+        <translation>Sti</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -10913,7 +10913,7 @@ Vil du fjerne dem?</translation>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Gå tilbage gennem undermapper</translation>
+        <translation>Søg i undermapper</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10934,7 +10934,7 @@ Vil du fjerne dem?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">&amp;Inkludér mapper</translation>
+        <translation>Søg i mappe-navne</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10981,7 +10981,7 @@ Vil du fjerne dem?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Brug katalog</translation>
+        <translation>Søg kun i katalog</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12971,7 +12971,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Zoom &amp; flyt</translation>
+        <translation>Zoom &amp; panorér</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -13031,7 +13031,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Flyt billede</translation>
+        <translation>Panorér billede</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -13123,7 +13123,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Forrige/næste ramme</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -15942,187 +15942,187 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Beskrivelse</translation>
+        <translation>Beskrivelse</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Bedømmelse</translation>
+        <translation>Bedømmelse</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Copyright-status</translation>
+        <translation>Copyright-status</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">Ikke defineret</translation>
+        <translation>Ikke defineret</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Copyright-beskyttet</translation>
+        <translation>Copyright-beskyttet</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">Offentligt domæne</translation>
+        <translation>Offentligt domæne</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Oprettelsesdato: </translation>
+        <translation>Oprettelsesdato: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Ændringsdato: </translation>
+        <translation>Ændringsdato: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Nøgleord</translation>
+        <translation>Nøgleord</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(Brug | til at adskille nøgleord i hierarkiet)</translation>
+        <translation>(Brug | til at adskille nøgleord i hierarkiet)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Anvend overordnede kategorier</translation>
+        <translation>Anvend overordnede kategorier</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished">Oprindelig</translation>
+        <translation>Oprindelig</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Oprettet dato</translation>
+        <translation>Oprettet dato</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="368"/>
         <source>Urgency</source>
-        <translation type="unfinished">Aktualitetsbehov</translation>
+        <translation>Aktuel nødvendighed</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="394"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">IPTC kontakt</translation>
+        <translation>IPTC kontakt</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="446"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">IPTC udvidelser</translation>
+        <translation>IPTC udvidelser</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="540"/>
         <source>Options</source>
-        <translation type="unfinished">Indstillinger</translation>
+        <translation>Indstillinger</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="561"/>
         <source>Mode:</source>
-        <translation type="unfinished">Tilstand:</translation>
+        <translation>Tilstand:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="569"/>
         <source>XMP only</source>
-        <translation type="unfinished">Kun XMP</translation>
+        <translation>Kun XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="574"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, opdatér eller opret IPTC.IIM</translation>
+        <translation>XMP, opdatér eller opret IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="603"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Flere valg er mulige</translation>
+        <translation>Flere valg</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="612"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Behold original værdi, hvis ny værdi er tom</translation>
+        <translation>Behold original værdi, hvis ny værdi er tom</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="619"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Erstat kun, hvis original værdi er tom</translation>
+        <translation>Erstat kun, hvis originale værdi er tom</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="629"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Husk åbnet fane</translation>
+        <translation>Husk åbnet fane</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">Brug ; eller , til adskillelse af værdierne</translation>
+        <translation>(Brug ; eller , til adskillelse af værdierne)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0. Ingen</translation>
+        <translation>0: Ingen</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Høj</translation>
+        <translation>1: Høj</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Normal</translation>
+        <translation>5: Normal</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Lav</translation>
+        <translation>8: Lav</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Required field</source>
-        <translation type="unfinished">Krævet felt</translation>
+        <translation>Krævet felt</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Visse felter er nødvendige, udfyld dem!</translation>
+        <translation>Visse felter er nødvendige, udfyld dem!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished">Indsæt</translation>
+        <translation>Indsæt</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="443"/>
         <source>Insert from</source>
-        <translation type="unfinished">Indsæt fra</translation>
+        <translation>Indsæt fra</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="464"/>
         <source>Copy into</source>
-        <translation type="unfinished">Kopiér ind i</translation>
+        <translation>Kopiér ind i</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="488"/>
         <source>Library</source>
-        <translation type="unfinished">Bibliotek</translation>
+        <translation>Bibliotek</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Redigerings historik...</translation>
+        <translation>Redigér historik...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="494"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Sorter alfabetisk</translation>
+        <translation>Sortér alfabetisk</translation>
     </message>
 </context>
 <context>
@@ -16981,12 +16981,12 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprettelsesdato</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ændringsdato</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -18275,7 +18275,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Emnekode</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
@@ -21174,7 +21174,7 @@ Vil du fortsætte?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Gå til x,y placering....</translation>
+        <translation>Panorér til koordinater...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -22665,7 +22665,7 @@ Højreklik for pop-op-menu med handlinger.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
@@ -23493,7 +23493,7 @@ Højreklik for pop-op-menu med handlinger.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiketter på miniaturebilleder</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
