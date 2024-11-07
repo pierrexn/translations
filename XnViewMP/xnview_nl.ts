@@ -2220,7 +2220,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;p&gt;Alle eigenschappen van een banier (lettertype, kleur, grootte, enz.) worden overgenomen vanuit de eerder aangemaakte banier. Een uitzondering is de tekstgrootte, die wordt berekend op &apos;Best passend&apos; voor de hoogte van de banier.&lt;/p&gt;&lt;p&gt;Je kunt meerdere afbeeldingen selecteren om dezelfde banier op meerdere afbeeldingen tegelijk toe te passen. Houd er rekening mee dat de tekst in alle afbeeldingen dezelfde grootte heeft.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px effen grijs;padding-top:15px&quot;&gt;Snelkoppelingen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Min&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Lettergrootte met 2 punten&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt; vergroten/verkleinen&lt;td&gt;Ctrl+Shift+Plus/Min&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Afmetingen van de banier vergroten/verkleinen met 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Begin met het maken van banieren&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -2235,7 +2235,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgBanner.ui" line="187"/>
         <source>Left (top-bottom)</source>
-        <translation>Links (Top-Bodm)</translation>
+        <translation>Links (Top-Bodem)</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="192"/>
@@ -23390,7 +23390,7 @@ Rechtermuisklik opent het actiemenu.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatuurslabels</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
