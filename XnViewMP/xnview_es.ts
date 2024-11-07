@@ -1749,10 +1749,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Color de fondo</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Todas las especificaciones del banner (fuente, color, tamaño, etc.) se transfieren del banner creado anteriormente. Una excepción es el tamaño del texto, que se calcula para &quot;ajustarse mejor&quot; a la altura del banner.&lt;/p&gt;&lt;p&gt;Puede seleccionar varias imágenes para aplicar el mismo banner a todas ellas.a la vez. Tenga en cuenta que el texto tendrá el mismo tamaño en todas las imágenes, puede utilizar los siguientes atajos.&lt;/p&gt;&lt;p&gt;Atajos de teclado:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margen derecho: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margen superior:0px; margen inferior:12px; margen izquierdo:0px; margen derecho:0px; -qt -block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Más] / [Ctrl]+[Menos]: Aumenta/Disminuye el tamaño de fuente en 2 puntos&lt;/li&gt;&lt;/ul&gt;&lt;ul style =&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin- bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Mayús]+[Más] o [Ctrl]+[ Mayús]+[Menos]: Aumenta/Disminuye el tamaño del banner en un 1 %&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0 ; text-indent:0px;&quot;&gt;[Ctrl]+[S]: Inicia creación del banner&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Overwrite original file(s) when saving</source>
         <translation>Sobrescribir archivo(s) original(es) al guardar</translation>
     </message>
@@ -1767,6 +1763,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Alignment</source>
         <translation>Alineación</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17938,6 +17938,10 @@ Clic Derecho para menú contextual con acciones.</translation>
     <message>
         <source>Categories (catalog)</source>
         <translation>Categorías (catálogo)</translation>
+    </message>
+    <message>
+        <source>Thumbnail&apos;s labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

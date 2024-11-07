@@ -299,57 +299,57 @@
         <translation>&lt; Vuoto &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2933"/>
+        <location filename="ViewWindow.cpp" line="2935"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>L&apos;immagine sarà convertita in RGB 24-bit (8 bit per canale)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2951"/>
+        <location filename="ViewWindow.cpp" line="2953"/>
         <source>Confirm Save</source>
         <translation>Conferma salvataggio</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2952"/>
+        <location filename="ViewWindow.cpp" line="2954"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; è già esistente!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2952"/>
+        <location filename="ViewWindow.cpp" line="2954"/>
         <source>Do you want to overwrite it?</source>
         <translation>Volete sovrascriverlo?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2977"/>
-        <location filename="ViewWindow.cpp" line="3107"/>
-        <location filename="ViewWindow.cpp" line="3157"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3110"/>
+        <location filename="ViewWindow.cpp" line="3160"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Salvataggio dell&apos;immagine...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
-        <location filename="ViewWindow.cpp" line="3159"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
+        <location filename="ViewWindow.cpp" line="3162"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
-        <location filename="ViewWindow.cpp" line="3159"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
+        <location filename="ViewWindow.cpp" line="3162"/>
         <source>An error occurred during saving!</source>
         <translation>È stato rilevato un errore durante lil salvataggio del file!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3248"/>
+        <location filename="ViewWindow.cpp" line="3251"/>
         <source>Properties</source>
         <translation>Proprietà</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4384"/>
+        <location filename="ViewWindow.cpp" line="4388"/>
         <source>Colors count</source>
         <translation>Conteggio colori</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1998"/>
+        <location filename="ViewWindow.cpp" line="1999"/>
         <source>Customize toolbar...</source>
         <translation>Personalizza la barra degli strumenti...</translation>
     </message>
@@ -374,46 +374,46 @@
         <translation>Non chiedere ulteriormente</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2263"/>
-        <location filename="ViewWindow.cpp" line="2269"/>
-        <location filename="ViewWindow.cpp" line="2273"/>
+        <location filename="ViewWindow.cpp" line="2264"/>
+        <location filename="ViewWindow.cpp" line="2270"/>
+        <location filename="ViewWindow.cpp" line="2274"/>
         <source>Delete items</source>
         <translation>Elimina elementi</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2263"/>
+        <location filename="ViewWindow.cpp" line="2264"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Volete abbandonare le vostre modifiche e cancellare 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2269"/>
+        <location filename="ViewWindow.cpp" line="2270"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Volete davvero eliminare 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2273"/>
+        <location filename="ViewWindow.cpp" line="2274"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Volete davvero eliminare 
 &quot;%1&quot; (%2 elementi)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2933"/>
-        <location filename="ViewWindow.cpp" line="2943"/>
+        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2945"/>
         <source>Save</source>
         <translation>Salva</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2943"/>
+        <location filename="ViewWindow.cpp" line="2945"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Il file &lt;%1&gt; è di sola lettura, si prega di scegliere un altro nome.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4384"/>
+        <location filename="ViewWindow.cpp" line="4388"/>
         <source>Number of unique colors: %1</source>
         <translation>Numero di colori unici: %1</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4868"/>
+        <location filename="ViewWindow.cpp" line="4873"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4859"/>
-        <location filename="ViewWindow.cpp" line="4868"/>
+        <location filename="ViewWindow.cpp" line="4864"/>
+        <location filename="ViewWindow.cpp" line="4873"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Il file non può essere caricato!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4859"/>
+        <location filename="ViewWindow.cpp" line="4864"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Per visualizzare e convertire i file PDF/PS/EPS/AI, XnView MP richiede che Ghostscript %1 sia installato nel vostro sistema.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4860"/>
+        <location filename="ViewWindow.cpp" line="4865"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Si prega di vistare il %1 per ulteriori informazioni.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4872"/>
+        <location filename="ViewWindow.cpp" line="4877"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Vuoto &gt;</translation>
     </message>
@@ -546,73 +546,73 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="664"/>
+        <location filename="BrowserWindow.cpp" line="658"/>
         <source>Customize toolbar...</source>
         <translation>Personalizza barra degli strumenti...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1639"/>
+        <location filename="BrowserWindow.cpp" line="1634"/>
         <source>Add Favorite...</source>
         <translation>Aggiungi Preferito...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1870"/>
+        <location filename="BrowserWindow.cpp" line="1865"/>
         <source>Folders</source>
         <translation>Cartelle</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1874"/>
+        <location filename="BrowserWindow.cpp" line="1869"/>
         <source>Favorites</source>
         <translation>Preferiti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1888"/>
+        <location filename="BrowserWindow.cpp" line="1883"/>
         <source>Categories</source>
         <translation>Categorie</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1926"/>
+        <location filename="BrowserWindow.cpp" line="1921"/>
         <source>Info</source>
         <translation>Informazioni</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="668"/>
+        <location filename="BrowserWindow.cpp" line="662"/>
         <source>Detach preview panel</source>
         <translation>Stacca pannello anteprima</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="670"/>
+        <location filename="BrowserWindow.cpp" line="664"/>
         <source>Attach preview panel</source>
         <translation>Attacca pannello anteprima</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="901"/>
+        <location filename="BrowserWindow.cpp" line="895"/>
         <source>The database is corrupted, please check it before to continue!</source>
         <translation>La banca dati è danneggiata, si prega di verificarla prima di continuare!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1631"/>
+        <location filename="BrowserWindow.cpp" line="1626"/>
         <source>Add to Favorites</source>
         <translation>Aggiungi ai preferiti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1878"/>
+        <location filename="BrowserWindow.cpp" line="1873"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Filtro del Catalogo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1893"/>
+        <location filename="BrowserWindow.cpp" line="1888"/>
         <source>Category Sets</source>
         <translation>Gruppi di categorie</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2104"/>
+        <location filename="BrowserWindow.cpp" line="2099"/>
         <source>Match</source>
         <translation>Corrispondenza</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2114"/>
+        <location filename="BrowserWindow.cpp" line="2109"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -621,42 +621,42 @@ Fate clic destro sui differenti elementi per i menu di scelta rapida con le azio
 Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2137"/>
+        <location filename="BrowserWindow.cpp" line="2132"/>
         <source>Global</source>
         <translation>Globale</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2144"/>
+        <location filename="BrowserWindow.cpp" line="2139"/>
         <source>Current folder</source>
         <translation>Cartella corrente</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2151"/>
+        <location filename="BrowserWindow.cpp" line="2146"/>
         <source>Current folder (Recursive)</source>
         <translation>Cartella corrente (Ricorsivo)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3219"/>
+        <location filename="BrowserWindow.cpp" line="3214"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Risultati ricerca&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3221"/>
+        <location filename="BrowserWindow.cpp" line="3216"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;File contrassegnati&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3310"/>
+        <location filename="BrowserWindow.cpp" line="3305"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Questa cartella non esiste!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3530"/>
+        <location filename="BrowserWindow.cpp" line="3525"/>
         <source>Favorite name:</source>
         <translation>Nome preferito:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3774"/>
+        <location filename="BrowserWindow.cpp" line="3769"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Volete davvero eliminare questo %n elemento?</numerusform>
@@ -664,53 +664,53 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3859"/>
+        <location filename="BrowserWindow.cpp" line="3854"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Non è stato possibile rinominare i file, è stato rilevato un errore.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3310"/>
-        <location filename="BrowserWindow.cpp" line="3859"/>
+        <location filename="BrowserWindow.cpp" line="3305"/>
+        <location filename="BrowserWindow.cpp" line="3854"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1934"/>
+        <location filename="BrowserWindow.cpp" line="1929"/>
         <source>Metadata</source>
         <translation>Metadati</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1943"/>
+        <location filename="BrowserWindow.cpp" line="1938"/>
         <source>Histogram</source>
         <translation>Istogramma</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2120"/>
+        <location filename="BrowserWindow.cpp" line="2115"/>
         <source>Match any selected entry (OR)</source>
         <translation>Riscontra ogni elemento selezionato (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2126"/>
+        <location filename="BrowserWindow.cpp" line="2121"/>
         <source>Match all selected entries (AND)</source>
         <translation>Riscontra tutti gli elementi selezionati (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3223"/>
+        <location filename="BrowserWindow.cpp" line="3218"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;risultati del filtro del Catalogo&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3225"/>
+        <location filename="BrowserWindow.cpp" line="3220"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;file&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3767"/>
+        <location filename="BrowserWindow.cpp" line="3762"/>
         <source>Delete items &amp; companions</source>
         <translation>Elimina elementi &amp; file ausiliari</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3768"/>
+        <location filename="BrowserWindow.cpp" line="3763"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Volete davvero eliminare questo %n elemento - %1 elemento selezionato?</numerusform>
@@ -718,57 +718,57 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4223"/>
+        <location filename="BrowserWindow.cpp" line="4218"/>
         <source>Search...</source>
         <translation>Cerca...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4224"/>
+        <location filename="BrowserWindow.cpp" line="4219"/>
         <source>Add to favorites...</source>
         <translation>Aggiungi ai preferiti...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4227"/>
+        <location filename="BrowserWindow.cpp" line="4222"/>
         <source>Start slideshow</source>
         <translation>Avvia presentazione</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4232"/>
+        <location filename="BrowserWindow.cpp" line="4227"/>
         <source>Properties</source>
         <translation>Proprietà</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4341"/>
+        <location filename="BrowserWindow.cpp" line="4336"/>
         <source>Load filelist</source>
         <translation>Carica elenco di file</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3773"/>
+        <location filename="BrowserWindow.cpp" line="3768"/>
         <source>Delete items</source>
         <translation>Elimina elementi</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4221"/>
+        <location filename="BrowserWindow.cpp" line="4216"/>
         <source>Show files in subfolders</source>
         <translation>Mostra file nelle sottocartelle</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4229"/>
+        <location filename="BrowserWindow.cpp" line="4224"/>
         <source>Explorer</source>
         <translation>Esplora</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4264"/>
+        <location filename="BrowserWindow.cpp" line="4259"/>
         <source>Delete folder</source>
         <translation>Elimina cartella</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4264"/>
+        <location filename="BrowserWindow.cpp" line="4259"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Volete davvero eliminare questa cartella?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="616"/>
+        <location filename="BrowserWindow.cpp" line="610"/>
         <source>Browser</source>
         <translation>Catalogatore</translation>
     </message>
@@ -1167,7 +1167,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Modifica profondità di colore</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1728"/>
+        <location filename="DlgConvert.cpp" line="1730"/>
         <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation>Regola</translation>
@@ -1641,7 +1641,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="241"/>
-        <location filename="DlgConvert.cpp" line="1729"/>
+        <location filename="DlgConvert.cpp" line="1731"/>
         <location filename="DlgFilter.cpp" line="23"/>
         <source>Blur</source>
         <translation>Sfocatura</translation>
@@ -1761,58 +1761,58 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Puntinismo</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1727"/>
+        <location filename="DlgConvert.cpp" line="1729"/>
         <source>Add</source>
         <translation>Aggiungi</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1730"/>
+        <location filename="DlgConvert.cpp" line="1732"/>
         <source>Channel</source>
         <translation>Canale</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1731"/>
+        <location filename="DlgConvert.cpp" line="1733"/>
         <source>Enhance</source>
         <translation>Migliora</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1732"/>
+        <location filename="DlgConvert.cpp" line="1734"/>
         <source>Frame</source>
         <translation>Cornice</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1733"/>
+        <location filename="DlgConvert.cpp" line="1735"/>
         <source>Metadata</source>
         <translation>Metadati</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1734"/>
+        <location filename="DlgConvert.cpp" line="1736"/>
         <source>Noise</source>
         <translation>Rumore</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1735"/>
+        <location filename="DlgConvert.cpp" line="1737"/>
         <source>Pixelate</source>
         <translation>Pixelato</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1736"/>
+        <location filename="DlgConvert.cpp" line="1738"/>
         <source>Stylize</source>
         <translation>Stilizza</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1737"/>
+        <location filename="DlgConvert.cpp" line="1739"/>
         <source>Transform</source>
         <translation>Trasforma</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1738"/>
+        <location filename="DlgConvert.cpp" line="1740"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2767"/>
+        <location filename="DlgConvert.cpp" line="2769"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 file - %2% - %3</translation>
     </message>
@@ -2169,12 +2169,6 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <translation>Striscione</translation>
     </message>
     <message>
-        <location filename="DlgBanner.ui" line="23"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&amp;quot; &lt;span style=&quot; font-style:italic;&quot;&gt;Note: &amp;quot;S&amp;quot; is supposed to be in square bracket&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tutte le specifiche dello striscione (carattere, colore, dimensioni, ecc.) sono riportate da quello precedentemente creato. Eccezion fatta per la dimensione del testo, che è calcolata per meglio adattarla all&apos;altezza dello striscione.&lt;/p&gt;&lt;p&gt;Potete selezionare molteplici immagini per applicare a tutte lo stesso striscione. Si noti che il testo sarà delle stesse dimenzioni in tutte le immagini.&lt;/p&gt;&lt;p&gt;Tasti di scelta rapida:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per aumentare/ridurre la dimensione dei caratteri di 2 punti, usate [Ctrl] + [Più] / [Ctrl] + [Meno]&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per aumentare/ridurre la dimensione dello striscione dello 1%, usate [Ctrl] + [Maiusc] + [Più] o [Ctrl] + [Maiusc] + [Meno]&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per salvare il file, usate [Ctrl] + [S]&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <location filename="DlgBanner.ui" line="48"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
@@ -2223,6 +2217,11 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
         <location filename="DlgBanner.ui" line="103"/>
         <source>Position</source>
         <translation>Posizione</translation>
+    </message>
+    <message>
+        <location filename="DlgBanner.ui" line="23"/>
+        <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -3553,29 +3552,29 @@ Si desidera sovrascriverlo?</translation>
 <context>
     <name>DlgConvert</name>
     <message>
-        <location filename="DlgConvert.cpp" line="748"/>
+        <location filename="DlgConvert.cpp" line="750"/>
         <source>_result</source>
         <translation>_risultato</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1157"/>
+        <location filename="DlgConvert.cpp" line="1159"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;XnConvert è disponibile gratuitamente&lt;br&gt;&lt;br&gt;Vi viene concesso il diritto di utilizzare questi applicativi e di farne un numero illimitato di copie.&lt;br&gt;&lt;br&gt;Questi applicativi sono forniti &quot;come-sono&quot;.&lt;br&gt;Non viene fornita alcuna garanzia espressa o implicita.&lt;br&gt;L&apos;autore non sarà responsabile per perdita dati, danni, perdita di profitti o qualsiasi altro tipo di perdita conseguente all&apos;uso corretto od all&apos;uso scorretto di questi applicativi.&lt;br&gt;&lt;br&gt;Qualsiasi suggerimento, feedback e commento è accolto. </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1307"/>
+        <location filename="DlgConvert.cpp" line="1309"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
         <translation>Si prega di riavviare l&apos;applicazione.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1329"/>
+        <location filename="DlgConvert.cpp" line="1331"/>
         <source>New version</source>
         <translation>Nuova versione</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1330"/>
+        <location filename="DlgConvert.cpp" line="1332"/>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
@@ -3585,33 +3584,33 @@ Do you want to go on the download page?</source>
 Volete andare alla pagina di download?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1636"/>
+        <location filename="DlgConvert.cpp" line="1638"/>
         <source>Export script</source>
         <translation>Esporta script</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1642"/>
+        <location filename="DlgConvert.cpp" line="1644"/>
         <source>Would you like to export filenames, too?</source>
         <translation>Volete esportare anche i nomi dei file?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1965"/>
+        <location filename="DlgConvert.cpp" line="1967"/>
         <source>Load script</source>
         <translation>Carica script</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1979"/>
+        <location filename="DlgConvert.cpp" line="1981"/>
         <source>Save script</source>
         <translation>Salva script</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2105"/>
-        <location filename="DlgConvert.cpp" line="2109"/>
+        <location filename="DlgConvert.cpp" line="2107"/>
+        <location filename="DlgConvert.cpp" line="2111"/>
         <source>Parameters</source>
         <translation>Parametri</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2154"/>
+        <location filename="DlgConvert.cpp" line="2156"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Origine: %n file</numerusform>
@@ -3619,37 +3618,37 @@ Volete andare alla pagina di download?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2184"/>
+        <location filename="DlgConvert.cpp" line="2186"/>
         <source>Choose a directory</source>
         <translation>Scegliete un percorso</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2223"/>
+        <location filename="DlgConvert.cpp" line="2225"/>
         <source>Choose ZIP filename</source>
         <translation>Scegliete il nome del file ZIP</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2308"/>
+        <location filename="DlgConvert.cpp" line="2310"/>
         <source>Cancel batch processing</source>
         <translation>Annulla elaborazione in serie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2308"/>
+        <location filename="DlgConvert.cpp" line="2310"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>Voelte annullare l&apos;attuale elaborazione in serie?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2360"/>
+        <location filename="DlgConvert.cpp" line="2362"/>
         <source>Loading error(s):</source>
         <translation>Errore(i) di caricamento:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2368"/>
+        <location filename="DlgConvert.cpp" line="2370"/>
         <source>Saving error(s):</source>
         <translation>Errore(i) di salvataggio:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2404"/>
+        <location filename="DlgConvert.cpp" line="2406"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n secondo</numerusform>
@@ -3657,8 +3656,8 @@ Volete andare alla pagina di download?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2407"/>
-        <location filename="DlgConvert.cpp" line="2411"/>
+        <location filename="DlgConvert.cpp" line="2409"/>
+        <location filename="DlgConvert.cpp" line="2413"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minuto</numerusform>
@@ -3666,12 +3665,12 @@ Volete andare alla pagina di download?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2441"/>
+        <location filename="DlgConvert.cpp" line="2443"/>
         <source>Overwrite</source>
         <translation>Sovrascrivi</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2442"/>
+        <location filename="DlgConvert.cpp" line="2444"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3681,28 +3680,28 @@ Do you want to overwrite it?</source>
 Si desidera sovrascriverlo?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2451"/>
+        <location filename="DlgConvert.cpp" line="2453"/>
         <source>Saving ZIP file...</source>
         <translation>Salvataggio del file ZIP...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2454"/>
+        <location filename="DlgConvert.cpp" line="2456"/>
         <source>: saved</source>
         <translation>: salvato(i)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2480"/>
+        <location filename="DlgConvert.cpp" line="2482"/>
         <source>Uploading image(s) to server...</source>
         <translation>Invia immagine(i) al server...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2543"/>
         <location filename="DlgConvert.cpp" line="2545"/>
+        <location filename="DlgConvert.cpp" line="2547"/>
         <source>[Finished]</source>
         <translation>[Finito]</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2752"/>
+        <location filename="DlgConvert.cpp" line="2754"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n secondo rimanente</numerusform>
@@ -3710,8 +3709,8 @@ Si desidera sovrascriverlo?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2755"/>
-        <location filename="DlgConvert.cpp" line="2759"/>
+        <location filename="DlgConvert.cpp" line="2757"/>
+        <location filename="DlgConvert.cpp" line="2761"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minuto rimanente</numerusform>
@@ -3719,8 +3718,8 @@ Si desidera sovrascriverlo?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2411"/>
-        <location filename="DlgConvert.cpp" line="2759"/>
+        <location filename="DlgConvert.cpp" line="2413"/>
+        <location filename="DlgConvert.cpp" line="2761"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n ora e </numerusform>
@@ -3728,7 +3727,7 @@ Si desidera sovrascriverlo?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2791"/>
+        <location filename="DlgConvert.cpp" line="2793"/>
         <source>Output filename</source>
         <translation>Nome del file di destinazione</translation>
     </message>
@@ -3753,145 +3752,145 @@ Si desidera sovrascriverlo?</translation>
         <translation>Esporta registro</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1464"/>
-        <location filename="DlgConvert.cpp" line="1473"/>
+        <location filename="DlgConvert.cpp" line="1466"/>
+        <location filename="DlgConvert.cpp" line="1475"/>
         <source>Actions</source>
         <translation>Azioni</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1591"/>
+        <location filename="DlgConvert.cpp" line="1593"/>
         <source>Load image...</source>
         <translation>Carica immagine...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1597"/>
+        <location filename="DlgConvert.cpp" line="1599"/>
         <source>Remove file from filelist</source>
         <translation>Rimuovi file dall&apos;elenco di file</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1604"/>
+        <location filename="DlgConvert.cpp" line="1606"/>
         <source>Use image from input files</source>
         <translation>Usa immagine dai file di origine</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2379"/>
+        <location filename="DlgConvert.cpp" line="2381"/>
         <source>Input files:</source>
         <translation>File di origine:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2380"/>
+        <location filename="DlgConvert.cpp" line="2382"/>
         <source>Extracted pages:</source>
         <translation>Pagine estratte:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2383"/>
+        <location filename="DlgConvert.cpp" line="2385"/>
         <source>New files:</source>
         <translation>Nuovi file:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2385"/>
+        <location filename="DlgConvert.cpp" line="2387"/>
         <source>Overwritten:</source>
         <translation>Sovrascritti:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2387"/>
+        <location filename="DlgConvert.cpp" line="2389"/>
         <source>Skipped:</source>
         <translation>Tralasciati:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2391"/>
+        <location filename="DlgConvert.cpp" line="2393"/>
         <source>Total input file size:</source>
         <translation>Totale dimensione file in ingresso:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2392"/>
+        <location filename="DlgConvert.cpp" line="2394"/>
         <source>Total output file size:</source>
         <translation>Totale dimensione file in uscita:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2394"/>
+        <location filename="DlgConvert.cpp" line="2396"/>
         <source>File size ratio:</source>
         <translation>rapporto dimensione del file:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2398"/>
+        <location filename="DlgConvert.cpp" line="2400"/>
         <source>Total Duration:</source>
         <translation>Durata totale:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2557"/>
+        <location filename="DlgConvert.cpp" line="2559"/>
         <source>Finished at: </source>
         <translation>Completato a: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2588"/>
+        <location filename="DlgConvert.cpp" line="2590"/>
         <source>uploaded</source>
         <translation>inviato(i)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2596"/>
+        <location filename="DlgConvert.cpp" line="2598"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation>non un&apos;immagine</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2599"/>
+        <location filename="DlgConvert.cpp" line="2601"/>
         <source>open error</source>
         <translation>errore caricamento</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2602"/>
+        <location filename="DlgConvert.cpp" line="2604"/>
         <source>create error</source>
         <translation>errore creazione</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2605"/>
+        <location filename="DlgConvert.cpp" line="2607"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>è a sola lettura e non può essere sovrascritto!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2608"/>
+        <location filename="DlgConvert.cpp" line="2610"/>
         <source>skipped, file already exists!</source>
         <translation>tralasciato, file già esistente!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2610"/>
+        <location filename="DlgConvert.cpp" line="2612"/>
         <source>failed</source>
         <translation>fallito</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2616"/>
+        <location filename="DlgConvert.cpp" line="2618"/>
         <source>loading</source>
         <translation>Caricamento</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2634"/>
+        <location filename="DlgConvert.cpp" line="2636"/>
         <source>loaded</source>
         <translation>caricato</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2668"/>
+        <location filename="DlgConvert.cpp" line="2670"/>
         <source>copied</source>
         <translation>copiato</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2672"/>
+        <location filename="DlgConvert.cpp" line="2674"/>
         <source>saved</source>
         <translation>salvato</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2686"/>
+        <location filename="DlgConvert.cpp" line="2688"/>
         <source>%1 of %2 files</source>
         <translation>%1 di %2 file</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2717"/>
+        <location filename="DlgConvert.cpp" line="2719"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Sovrascrivere file</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2718"/>
+        <location filename="DlgConvert.cpp" line="2720"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3904,32 +3903,32 @@ Do you want to overwrite it?</oldsource>
 Si desidera sovrascriverlo?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2720"/>
+        <location filename="DlgConvert.cpp" line="2722"/>
         <source>Yes to &amp;all</source>
         <translation>Si a &amp;tutti</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2721"/>
+        <location filename="DlgConvert.cpp" line="2723"/>
         <source>&amp;Yes</source>
         <translation>&amp;Sì</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2722"/>
+        <location filename="DlgConvert.cpp" line="2724"/>
         <source>&amp;No</source>
         <translation>&amp;No</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2723"/>
+        <location filename="DlgConvert.cpp" line="2725"/>
         <source>&amp;Rename</source>
         <translation>&amp;Rinomina</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2724"/>
+        <location filename="DlgConvert.cpp" line="2726"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Annulla</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2781"/>
+        <location filename="DlgConvert.cpp" line="2783"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3938,7 +3937,7 @@ Do you want to continue?</source>
 Volete continuare?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2791"/>
+        <location filename="DlgConvert.cpp" line="2793"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
@@ -3947,12 +3946,12 @@ Do you want to continue?</source>
 Volete continuare?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2800"/>
+        <location filename="DlgConvert.cpp" line="2802"/>
         <source>Choose output pathname</source>
         <translation>Scegliete il percorso di destinazione</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2814"/>
+        <location filename="DlgConvert.cpp" line="2816"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
@@ -3961,13 +3960,13 @@ Do you want to continue?</source>
 Volete continuare?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2942"/>
+        <location filename="DlgConvert.cpp" line="2944"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>L&apos;impostazione &apos;Usa molteplici core CPU&apos; è stata disabilitata. Questa impostazione non può essere utilizzata assieme alla modalità &apos;Chiedi&apos;, o con file PDF multipagina.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2944"/>
+        <location filename="DlgConvert.cpp" line="2946"/>
         <source>Started at: </source>
         <translation>Iniziato a: </translation>
     </message>
@@ -14844,19 +14843,19 @@ Volete continuare?</translation>
         <translation>EXIF: Data digitalizzazione</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="593"/>
-        <location filename="DlgTimestamp.cpp" line="620"/>
+        <location filename="DlgTimestamp.cpp" line="542"/>
+        <location filename="DlgTimestamp.cpp" line="569"/>
         <source>Problem</source>
         <translation>Problema</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="593"/>
-        <location filename="DlgTimestamp.cpp" line="620"/>
+        <location filename="DlgTimestamp.cpp" line="542"/>
+        <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred in updating process!</source>
         <translation>È stato rilevato un errore durante l&apos;aggiornamento!</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="608"/>
+        <location filename="DlgTimestamp.cpp" line="557"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
         <translation>Modifica marca temporale, si prega di attendere...</translation>
@@ -16151,32 +16150,32 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
 <context>
     <name>File</name>
     <message>
-        <location filename="GeneralSettings.cpp" line="897"/>
+        <location filename="GeneralSettings.cpp" line="898"/>
         <source>Copy of %1%2</source>
         <translation>Copia di %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="899"/>
+        <location filename="GeneralSettings.cpp" line="900"/>
         <source>Copy (%3) of %1%2</source>
         <translation>Copia (%3) di %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="905"/>
+        <location filename="GeneralSettings.cpp" line="906"/>
         <source>%1 - Copy%2</source>
         <translation>%1 - Copia%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="907"/>
+        <location filename="GeneralSettings.cpp" line="908"/>
         <source>%1 - Copy (%3)%2</source>
         <translation>%1 - Copia (%3)%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="912"/>
+        <location filename="GeneralSettings.cpp" line="913"/>
         <source>%1-Copy%2</source>
         <translation>%1 - Copia%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="914"/>
+        <location filename="GeneralSettings.cpp" line="915"/>
         <source>%1-Copy (%3)%2</source>
         <translation>%1-Copia (%3)%2</translation>
     </message>
@@ -18462,7 +18461,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="4824"/>
+        <location filename="ItemModel.cpp" line="4838"/>
         <source>New Folder %1</source>
         <translation>Nuova cartella %1</translation>
     </message>
@@ -19186,31 +19185,31 @@ Volete continuare?</translation>
         <translation>Acquisisci (TWAIN)</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="444"/>
+        <location filename="CompareWidget.cpp" line="459"/>
         <location filename="BrowserMenu.h" line="467"/>
         <source>Excellent</source>
         <translation>Eccellente</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="447"/>
+        <location filename="CompareWidget.cpp" line="456"/>
         <location filename="BrowserMenu.h" line="468"/>
         <source>Good</source>
         <translation>Buono</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="450"/>
+        <location filename="CompareWidget.cpp" line="453"/>
         <location filename="BrowserMenu.h" line="469"/>
         <source>Average</source>
         <translation>Discreto</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="459"/>
+        <location filename="CompareWidget.cpp" line="444"/>
         <location filename="BrowserMenu.h" line="472"/>
         <source>Unrated</source>
         <translation>Non valutato</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="491"/>
+        <location filename="CompareWidget.cpp" line="464"/>
         <location filename="BrowserMenu.h" line="111"/>
         <location filename="BrowserMenu.h" line="490"/>
         <source>Uncolored</source>
@@ -19514,27 +19513,27 @@ Volete continuare?</translation>
         <translation>Seleziona interfaccia TWAIN...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="809"/>
+        <location filename="BrowserMenu.h" line="813"/>
         <source>&amp;File</source>
         <translation>&amp;File</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="810"/>
+        <location filename="BrowserMenu.h" line="814"/>
         <source>&amp;Edit</source>
         <translation>&amp;Modifica</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="811"/>
+        <location filename="BrowserMenu.h" line="815"/>
         <source>&amp;View</source>
         <translation>&amp;Visualizza</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="812"/>
+        <location filename="BrowserMenu.h" line="816"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;dati</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="813"/>
+        <location filename="BrowserMenu.h" line="817"/>
         <source>&amp;Tools</source>
         <translation>&amp;Strumenti</translation>
     </message>
@@ -19584,12 +19583,12 @@ Volete continuare?</translation>
         <translation>Acquisisci in (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="814"/>
+        <location filename="BrowserMenu.h" line="818"/>
         <source>C&amp;reate</source>
         <translation>&amp;Crea</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="815"/>
+        <location filename="BrowserMenu.h" line="819"/>
         <source>&amp;Help</source>
         <translation>&amp;?</translation>
     </message>
@@ -19699,13 +19698,13 @@ Volete continuare?</translation>
         <translation>Cartelle</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="453"/>
+        <location filename="CompareWidget.cpp" line="450"/>
         <location filename="BrowserMenu.h" line="470"/>
         <source>Fair</source>
         <translation>Sufficiente</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="456"/>
+        <location filename="CompareWidget.cpp" line="447"/>
         <location filename="BrowserMenu.h" line="471"/>
         <source>Poor</source>
         <translation>Scadente</translation>
@@ -19760,19 +19759,19 @@ Volete continuare?</translation>
         <translation>Apri...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4204"/>
+        <location filename="BrowserWindow.cpp" line="4199"/>
         <location filename="BrowserMenu.h" line="425"/>
         <source>Cut</source>
         <translation>Taglia</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4206"/>
+        <location filename="BrowserWindow.cpp" line="4201"/>
         <location filename="BrowserMenu.h" line="427"/>
         <source>Copy</source>
         <translation>Copia</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4208"/>
+        <location filename="BrowserWindow.cpp" line="4203"/>
         <location filename="BrowserMenu.h" line="432"/>
         <source>Paste</source>
         <translation>Incolla</translation>
@@ -19808,19 +19807,19 @@ Volete continuare?</translation>
         <translation>Seleziona file contrassegnati</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4216"/>
+        <location filename="BrowserWindow.cpp" line="4211"/>
         <location filename="BrowserMenu.h" line="442"/>
         <source>Copy to...</source>
         <translation>Copia in...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4218"/>
+        <location filename="BrowserWindow.cpp" line="4213"/>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Move to...</source>
         <translation>Sposta in...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4211"/>
+        <location filename="BrowserWindow.cpp" line="4206"/>
         <location filename="BrowserMenu.h" line="444"/>
         <source>Delete</source>
         <translation>Elimina</translation>
@@ -20263,12 +20262,12 @@ Volete continuare?</translation>
         <translation>Filtro rapido</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4201"/>
+        <location filename="BrowserWindow.cpp" line="4196"/>
         <source>New Folder</source>
         <translation>Nuova cartella</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4213"/>
+        <location filename="BrowserWindow.cpp" line="4208"/>
         <source>Rename</source>
         <translation>Rinomina</translation>
     </message>
@@ -20281,95 +20280,95 @@ Volete continuare?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1461"/>
+        <location filename="xnview.cpp" line="1466"/>
         <source>Quit</source>
         <translation>Esci</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1464"/>
+        <location filename="xnview.cpp" line="1469"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Visitate il Sito web...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1469"/>
+        <location filename="xnview.cpp" line="1474"/>
         <source>Make a donation...</source>
         <translation>Fate una donazione...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1462"/>
+        <location filename="xnview.cpp" line="1467"/>
         <source>About</source>
         <translation>Informazioni su</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1463"/>
+        <location filename="xnview.cpp" line="1468"/>
         <source>PlugIns...</source>
         <translation>Plugin...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1465"/>
+        <location filename="xnview.cpp" line="1470"/>
         <source>Forum...</source>
         <translation>Forrum...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1466"/>
+        <location filename="xnview.cpp" line="1471"/>
         <source>Technical Support...</source>
         <translation>Supporto Tecnico...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1467"/>
+        <location filename="xnview.cpp" line="1472"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Segnala un difetto...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1468"/>
+        <location filename="xnview.cpp" line="1473"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1470"/>
+        <location filename="xnview.cpp" line="1475"/>
         <source>Check for update...</source>
         <translation>Controlla aggiornamenti...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1471"/>
+        <location filename="xnview.cpp" line="1476"/>
         <source>Registration...</source>
         <translation>Registrazione...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1472"/>
+        <location filename="xnview.cpp" line="1477"/>
         <source>Purchase...</source>
         <translation>Acquista...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1482"/>
-        <location filename="xnview.cpp" line="1484"/>
+        <location filename="xnview.cpp" line="1487"/>
+        <location filename="xnview.cpp" line="1489"/>
         <source>Settings...</source>
         <translation>Impostazioni...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1488"/>
+        <location filename="xnview.cpp" line="1493"/>
         <source>Always on top</source>
         <translation>Sempre in primo piano</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1490"/>
+        <location filename="xnview.cpp" line="1495"/>
         <source>Titlebar</source>
         <translation>Barra del titolo</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1491"/>
+        <location filename="xnview.cpp" line="1496"/>
         <source>Show</source>
         <translation>Mostra</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1492"/>
+        <location filename="xnview.cpp" line="1497"/>
         <source>Bottom</source>
         <translation>In basso</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1493"/>
+        <location filename="xnview.cpp" line="1498"/>
         <source>Tab</source>
         <translation>Schede</translation>
     </message>
@@ -21821,7 +21820,7 @@ Volete continuare?</translation>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <location filename="MyBitmapView.cpp" line="954"/>
+        <location filename="MyBitmapView.cpp" line="957"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
         <translation>Caricamento immagine...</translation>
@@ -22291,7 +22290,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <translation>Spessore</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="952"/>
+        <location filename="PaintWidget.ui" line="1170"/>
         <source>Enter your text</source>
         <translation>Immettete il vostro testo</translation>
     </message>
@@ -22301,28 +22300,28 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <translation>Carattere</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="963"/>
+        <location filename="PaintWidget.ui" line="950"/>
         <source>Effect</source>
         <translation>Effetto</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="712"/>
-        <location filename="PaintWidget.ui" line="987"/>
+        <location filename="PaintWidget.ui" line="974"/>
         <source>Size</source>
         <translation>Dimensione</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1029"/>
+        <location filename="PaintWidget.ui" line="1016"/>
         <source>Outline</source>
         <translation>Contorno</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1135"/>
+        <location filename="PaintWidget.ui" line="1125"/>
         <source>Blur</source>
         <translation>Sfocatura</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1069"/>
+        <location filename="PaintWidget.ui" line="1095"/>
         <source>Shadow</source>
         <translation>Ombreggiatura</translation>
     </message>
@@ -22416,7 +22415,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <translation>Destra</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1108"/>
+        <location filename="PaintWidget.ui" line="1056"/>
         <source>Offset Y</source>
         <translation>Scostamento Y</translation>
     </message>
@@ -22461,7 +22460,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <translation>Gestisci...</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1115"/>
+        <location filename="PaintWidget.ui" line="1105"/>
         <source>Offset X</source>
         <translation>Scostamento X</translation>
     </message>
@@ -22492,42 +22491,42 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <translation>Estendi immagine</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="425"/>
+        <location filename="PaintWidget.cpp" line="436"/>
         <source>Draw [%1]</source>
         <translation>Disegna [%1]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="572"/>
+        <location filename="PaintWidget.cpp" line="583"/>
         <source>X: %1, Y: %2</source>
         <translation>X: %1, Y: %2</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="577"/>
+        <location filename="PaintWidget.cpp" line="588"/>
         <source>R: %1, G: %2, B: %3 [#%4]</source>
         <translation>R: %1, G: %2, B: %3 [#%4]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="988"/>
+        <location filename="PaintWidget.cpp" line="999"/>
         <source>Choose an image</source>
         <translation>Scegliete una immagine</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="988"/>
+        <location filename="PaintWidget.cpp" line="999"/>
         <source>Images</source>
         <translation>Immagini</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1399"/>
+        <location filename="PaintWidget.cpp" line="1410"/>
         <source>Include color</source>
         <translation>Includi colore</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1406"/>
+        <location filename="PaintWidget.cpp" line="1417"/>
         <source>Name:</source>
         <translation>Nome:</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1414"/>
+        <location filename="PaintWidget.cpp" line="1425"/>
         <source>Preset name</source>
         <translation>Nome configurazione</translation>
     </message>
@@ -22545,7 +22544,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
         <translation>Istogramma</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2201"/>
+        <location filename="BrowserWindow.cpp" line="2196"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Clic sulla casella di spunta per variare l&apos;assegnazione
@@ -23147,7 +23146,7 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4442"/>
+        <location filename="ItemModel.cpp" line="4456"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>È stato rilevato un errore durante la ridenominazione!</translation>
@@ -23384,17 +23383,22 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
         <translation>Categorie (catalogo)</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="181"/>
+        <location filename="ToolbarSearch.cpp" line="174"/>
+        <source>Thumbnail&apos;s labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ToolbarSearch.cpp" line="186"/>
         <source>No Recent Searches</source>
         <translation>Nesssuna ricerca recente</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="185"/>
+        <location filename="ToolbarSearch.cpp" line="190"/>
         <source>Recent Searches</source>
         <translation>Ricerche recenti</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="197"/>
+        <location filename="ToolbarSearch.cpp" line="202"/>
         <source>Clear Recent Searches</source>
         <translation>Rimuovi ricerche recenti</translation>
     </message>
@@ -23647,26 +23651,26 @@ Clic destro per il menu di scelta rapida con le azioni.</translation>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="488"/>
-        <location filename="xnview.cpp" line="508"/>
+        <location filename="xnview.cpp" line="490"/>
+        <location filename="xnview.cpp" line="510"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>Creazione backup, si prega di attendere...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="480"/>
-        <location filename="xnview.cpp" line="486"/>
-        <location filename="xnview.cpp" line="493"/>
+        <location filename="xnview.cpp" line="482"/>
+        <location filename="xnview.cpp" line="488"/>
+        <location filename="xnview.cpp" line="495"/>
         <source>Catalog</source>
         <translation>Catalogo</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="480"/>
+        <location filename="xnview.cpp" line="482"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnView MP - Il Catalogo ha un numero di versione più recente di quanto atteso</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="486"/>
+        <location filename="xnview.cpp" line="488"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -23677,39 +23681,39 @@ Volete preservare le miniature?
 (Se rispondete di SI il processo di aggiornamento sarà più lento)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="490"/>
+        <location filename="xnview.cpp" line="492"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>Aggiornamento del catalogo, si prega di attendere...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="493"/>
+        <location filename="xnview.cpp" line="495"/>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
         <translation>XnView MP - Si è verificato un problema durante l&apos;aggiornamento del catalogo (Errore %1), si prega di contattare lo sviluppatore.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="600"/>
+        <location filename="xnview.cpp" line="602"/>
         <source>Catalog problem</source>
         <translation>Problema del Catalogo</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="600"/>
+        <location filename="xnview.cpp" line="602"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>C&apos;è un problema nell&apos;apertura del catalogo, si prega di controllare le impostazioni o la cartella impiegate!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="993"/>
+        <location filename="xnview.cpp" line="998"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>L&apos;applicazione è correntemente aggiornata.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1693"/>
+        <location filename="xnview.cpp" line="1698"/>
         <source>Do you want to save session?</source>
         <translation>Volete salvare la sessione?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3111"/>
+        <location filename="xnview.cpp" line="3116"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -23717,44 +23721,44 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Le etichette di Valutazione, Contrassegno &amp; Colore non verranno salvate.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1064"/>
+        <location filename="xnview.cpp" line="1069"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>La vostra sessione precedente contiene molte immagini voluminose, questo può causare rallentamenti!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1064"/>
+        <location filename="xnview.cpp" line="1069"/>
         <source>Session</source>
         <translation>Sessione</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1618"/>
+        <location filename="xnview.cpp" line="1623"/>
         <source>Do you want to quit?</source>
         <translation>Volete terminare l&apos;applicazione?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1694"/>
+        <location filename="xnview.cpp" line="1699"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Salvare molte schede potrebbe rallentare vistosamente la riapertura dell&apos;applicazione.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1700"/>
+        <location filename="xnview.cpp" line="1705"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Non chiedere più</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1262"/>
+        <location filename="xnview.cpp" line="1267"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1262"/>
+        <location filename="xnview.cpp" line="1267"/>
         <source>File not found!</source>
         <translation>File non trovato!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1719"/>
+        <location filename="xnview.cpp" line="1724"/>
         <source>Do you want to save this session?</source>
         <translation>Volete salvare questa sessione?</translation>
     </message>

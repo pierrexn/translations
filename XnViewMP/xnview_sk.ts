@@ -278,55 +278,55 @@
         <translation>Stránka %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1998"/>
+        <location filename="ViewWindow.cpp" line="1999"/>
         <source>Customize toolbar...</source>
         <translation>Prispôsobiť panel s nástrojmi...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2263"/>
-        <location filename="ViewWindow.cpp" line="2269"/>
-        <location filename="ViewWindow.cpp" line="2273"/>
+        <location filename="ViewWindow.cpp" line="2264"/>
+        <location filename="ViewWindow.cpp" line="2270"/>
+        <location filename="ViewWindow.cpp" line="2274"/>
         <source>Delete items</source>
         <translation>Odstránenie položiek</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2263"/>
+        <location filename="ViewWindow.cpp" line="2264"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Chcete svoje úpravy zahodiť a odstrániť
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2269"/>
+        <location filename="ViewWindow.cpp" line="2270"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Chcete skutočne odstrániť 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2273"/>
+        <location filename="ViewWindow.cpp" line="2274"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Ste si istý že chcete odstrániť 
 &quot;%1&quot; (%2 položiek)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2951"/>
+        <location filename="ViewWindow.cpp" line="2953"/>
         <source>Confirm Save</source>
         <translation>Potvrdiť Uloženie</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2952"/>
+        <location filename="ViewWindow.cpp" line="2954"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; už existuje!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2952"/>
+        <location filename="ViewWindow.cpp" line="2954"/>
         <source>Do you want to overwrite it?</source>
         <translation>Chcete ho prepísať?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4384"/>
+        <location filename="ViewWindow.cpp" line="4388"/>
         <source>Number of unique colors: %1</source>
         <translation>Počet jedinečných farieb: %1</translation>
     </message>
@@ -372,48 +372,48 @@
         <translation>&lt; Prázdne &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2933"/>
-        <location filename="ViewWindow.cpp" line="2943"/>
+        <location filename="ViewWindow.cpp" line="2935"/>
+        <location filename="ViewWindow.cpp" line="2945"/>
         <source>Save</source>
         <translation>Uložiť</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2933"/>
+        <location filename="ViewWindow.cpp" line="2935"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Obrázok sa prevedie na 24-bitový RGB (8 bitov na kanál)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2943"/>
+        <location filename="ViewWindow.cpp" line="2945"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Súbor &lt;%1&gt; je len na čítanie, vyberte prosím iný názov súboru.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2977"/>
-        <location filename="ViewWindow.cpp" line="3107"/>
-        <location filename="ViewWindow.cpp" line="3157"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="3110"/>
+        <location filename="ViewWindow.cpp" line="3160"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Ukladanie obrázka...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
-        <location filename="ViewWindow.cpp" line="3159"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
+        <location filename="ViewWindow.cpp" line="3162"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
-        <location filename="ViewWindow.cpp" line="3159"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
+        <location filename="ViewWindow.cpp" line="3162"/>
         <source>An error occurred during saving!</source>
         <translation>Pri ukladaní sa vyskytla chyba!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3248"/>
+        <location filename="ViewWindow.cpp" line="3251"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4384"/>
+        <location filename="ViewWindow.cpp" line="4388"/>
         <source>Colors count</source>
         <translation>Počet farieb</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4868"/>
+        <location filename="ViewWindow.cpp" line="4873"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4859"/>
-        <location filename="ViewWindow.cpp" line="4868"/>
+        <location filename="ViewWindow.cpp" line="4864"/>
+        <location filename="ViewWindow.cpp" line="4873"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Nie je možné načítať súbor!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4859"/>
+        <location filename="ViewWindow.cpp" line="4864"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Pre prezeranie a konvertovanie PDF/PS/EPS/AI súborov, XnView MP vyžaduje nainštalovaný Ghostscript %1 vo vašom počítači.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4860"/>
+        <location filename="ViewWindow.cpp" line="4865"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Navštívte prosím %1 pre viac informácií.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4872"/>
+        <location filename="ViewWindow.cpp" line="4877"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Prázdne &gt;</translation>
     </message>
@@ -546,73 +546,73 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="664"/>
+        <location filename="BrowserWindow.cpp" line="658"/>
         <source>Customize toolbar...</source>
         <translation>Prispôsobiť panel s nástrojmi...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1639"/>
+        <location filename="BrowserWindow.cpp" line="1634"/>
         <source>Add Favorite...</source>
         <translation>Pridať k obľúbeným...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1870"/>
+        <location filename="BrowserWindow.cpp" line="1865"/>
         <source>Folders</source>
         <translation>Priečinky</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1874"/>
+        <location filename="BrowserWindow.cpp" line="1869"/>
         <source>Favorites</source>
         <translation>Obľúbené</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1888"/>
+        <location filename="BrowserWindow.cpp" line="1883"/>
         <source>Categories</source>
         <translation>Kategórie</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1926"/>
+        <location filename="BrowserWindow.cpp" line="1921"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="668"/>
+        <location filename="BrowserWindow.cpp" line="662"/>
         <source>Detach preview panel</source>
         <translation>Oddeliť panel s náhľadom</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="670"/>
+        <location filename="BrowserWindow.cpp" line="664"/>
         <source>Attach preview panel</source>
         <translation>Pripojiť panel s náhľadom</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="901"/>
+        <location filename="BrowserWindow.cpp" line="895"/>
         <source>The database is corrupted, please check it before to continue!</source>
         <translation>Databáza je poškodená, pred pokračovaním ju prosím skontrolujte!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1631"/>
+        <location filename="BrowserWindow.cpp" line="1626"/>
         <source>Add to Favorites</source>
         <translation>Pridať k obľúbeným</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1878"/>
+        <location filename="BrowserWindow.cpp" line="1873"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Filter kategórii</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1893"/>
+        <location filename="BrowserWindow.cpp" line="1888"/>
         <source>Category Sets</source>
         <translation>Kategória Série</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2104"/>
+        <location filename="BrowserWindow.cpp" line="2099"/>
         <source>Match</source>
         <translation>Zhoda</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2114"/>
+        <location filename="BrowserWindow.cpp" line="2109"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -621,42 +621,42 @@ Pravý klik na rôzne položky pre ponuku s akciami.
 Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2137"/>
+        <location filename="BrowserWindow.cpp" line="2132"/>
         <source>Global</source>
         <translation>Vo všetkých umiestneniach</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2144"/>
+        <location filename="BrowserWindow.cpp" line="2139"/>
         <source>Current folder</source>
         <translation>V aktuálnom priečinku</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2151"/>
+        <location filename="BrowserWindow.cpp" line="2146"/>
         <source>Current folder (Recursive)</source>
         <translation>V aktuálnom priečinku (vrátane podpriečinkov)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3219"/>
+        <location filename="BrowserWindow.cpp" line="3214"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Výsledky vyhľadávania&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3221"/>
+        <location filename="BrowserWindow.cpp" line="3216"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Označené súbory&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3310"/>
+        <location filename="BrowserWindow.cpp" line="3305"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Tento priečinok neexistuje!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3530"/>
+        <location filename="BrowserWindow.cpp" line="3525"/>
         <source>Favorite name:</source>
         <translation>Názov obľúbenej položky:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3774"/>
+        <location filename="BrowserWindow.cpp" line="3769"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Ste si istý že chcete odstrániť túto položku?</numerusform>
@@ -665,53 +665,53 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3859"/>
+        <location filename="BrowserWindow.cpp" line="3854"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Súbory sa nedajú premenovať, vyskytla sa chyba.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3310"/>
-        <location filename="BrowserWindow.cpp" line="3859"/>
+        <location filename="BrowserWindow.cpp" line="3305"/>
+        <location filename="BrowserWindow.cpp" line="3854"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1934"/>
+        <location filename="BrowserWindow.cpp" line="1929"/>
         <source>Metadata</source>
         <translation>Metaúdaje</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1943"/>
+        <location filename="BrowserWindow.cpp" line="1938"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2120"/>
+        <location filename="BrowserWindow.cpp" line="2115"/>
         <source>Match any selected entry (OR)</source>
         <translation>Zhoda s akýmkoľvek zvoleným záznamom (ALEBO)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2126"/>
+        <location filename="BrowserWindow.cpp" line="2121"/>
         <source>Match all selected entries (AND)</source>
         <translation>Zhoda so všetkými zvolenými záznamami (A)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3223"/>
+        <location filename="BrowserWindow.cpp" line="3218"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Výsledky filtrovania katalógu&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3225"/>
+        <location filename="BrowserWindow.cpp" line="3220"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;súbory&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3767"/>
+        <location filename="BrowserWindow.cpp" line="3762"/>
         <source>Delete items &amp; companions</source>
         <translation>Odstrániť položky a sprievodné súbory</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3768"/>
+        <location filename="BrowserWindow.cpp" line="3763"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Chcete naozaj odstrániť túto %n položku - %1 vybratá položka?</numerusform>
@@ -720,57 +720,57 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4223"/>
+        <location filename="BrowserWindow.cpp" line="4218"/>
         <source>Search...</source>
         <translation>Hľadať...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4224"/>
+        <location filename="BrowserWindow.cpp" line="4219"/>
         <source>Add to favorites...</source>
         <translation>Pridať k obľúbeným...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4227"/>
+        <location filename="BrowserWindow.cpp" line="4222"/>
         <source>Start slideshow</source>
         <translation>Spustiť prezentáciu</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4232"/>
+        <location filename="BrowserWindow.cpp" line="4227"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4341"/>
+        <location filename="BrowserWindow.cpp" line="4336"/>
         <source>Load filelist</source>
         <translation>Načítať zoznam súborov</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3773"/>
+        <location filename="BrowserWindow.cpp" line="3768"/>
         <source>Delete items</source>
         <translation>Odstránenie položiek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4221"/>
+        <location filename="BrowserWindow.cpp" line="4216"/>
         <source>Show files in subfolders</source>
         <translation>Zobraziť súbory v podpriečinkoch</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4229"/>
+        <location filename="BrowserWindow.cpp" line="4224"/>
         <source>Explorer</source>
         <translation>Prieskumník</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4264"/>
+        <location filename="BrowserWindow.cpp" line="4259"/>
         <source>Delete folder</source>
         <translation>Odstrániť priečinok</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4264"/>
+        <location filename="BrowserWindow.cpp" line="4259"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Ste si istý že chcete odstrániť tento priečinok?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="616"/>
+        <location filename="BrowserWindow.cpp" line="610"/>
         <source>Browser</source>
         <translation>Prehliadač</translation>
     </message>
@@ -1169,7 +1169,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <translation>Zmeniť farebnú hĺbku</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1728"/>
+        <location filename="DlgConvert.cpp" line="1730"/>
         <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation>Prispôsobiť</translation>
@@ -1642,7 +1642,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="241"/>
-        <location filename="DlgConvert.cpp" line="1729"/>
+        <location filename="DlgConvert.cpp" line="1731"/>
         <location filename="DlgFilter.cpp" line="23"/>
         <source>Blur</source>
         <translation>Rozostriť</translation>
@@ -1762,58 +1762,58 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <translation>Pointillize</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1727"/>
+        <location filename="DlgConvert.cpp" line="1729"/>
         <source>Add</source>
         <translation>Pridať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1730"/>
+        <location filename="DlgConvert.cpp" line="1732"/>
         <source>Channel</source>
         <translation>Kanál</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1731"/>
+        <location filename="DlgConvert.cpp" line="1733"/>
         <source>Enhance</source>
         <translation>Zlepšiť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1732"/>
+        <location filename="DlgConvert.cpp" line="1734"/>
         <source>Frame</source>
         <translation>Rám</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1733"/>
+        <location filename="DlgConvert.cpp" line="1735"/>
         <source>Metadata</source>
         <translation>Metaúdaje</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1734"/>
+        <location filename="DlgConvert.cpp" line="1736"/>
         <source>Noise</source>
         <translation>Šum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1735"/>
+        <location filename="DlgConvert.cpp" line="1737"/>
         <source>Pixelate</source>
         <translation>Pixelovať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1736"/>
+        <location filename="DlgConvert.cpp" line="1738"/>
         <source>Stylize</source>
         <translation>Štylizovať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1737"/>
+        <location filename="DlgConvert.cpp" line="1739"/>
         <source>Transform</source>
         <translation>Transformovať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1738"/>
+        <location filename="DlgConvert.cpp" line="1740"/>
         <source>Video</source>
         <translation type="unfinished">Video súbory</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2767"/>
+        <location filename="DlgConvert.cpp" line="2769"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 súbor(ov) - %2% - %3</translation>
     </message>
@@ -2170,12 +2170,6 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <translation>Nápis</translation>
     </message>
     <message>
-        <location filename="DlgBanner.ui" line="23"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&amp;quot; &lt;span style=&quot; font-style:italic;&quot;&gt;Note: &amp;quot;S&amp;quot; is supposed to be in square bracket&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Všetky vlastnosti nápisu (písmo, farba, veľkosť atď.) sa skopírujú z predošlého nápisu. Jedinou výnimkou je veľkosť písma, ktorá sa počíta automaticky, aby zodpovedala výške nápisu.&lt;/p&gt;&lt;p&gt;Môžete vybrať viac obrázkov, na ktoré bude nápis umiestnený. Veľkosť písma bude na všetkých obrázkoch rovnaká.&lt;/p&gt;&lt;p&gt;Klávesové skratky:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Pre zväčšenie / zmenšenie veľkosti písma o 2 body stlačte [Ctrl] + [Plus] / [Ctrl] + [Mínus]&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Pre zväčšenie / zmenšenie veľkosti nápisu o 1% stlačte [Ctrl] + [Shift] + [Plus] alebo [Ctrl] + [Shift] + [Mínus]&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Pre uloženie banera stlačte [Ctrl] + S&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <location filename="DlgBanner.ui" line="48"/>
         <source>Settings</source>
         <translation>Nastavenia</translation>
@@ -2224,6 +2218,11 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <location filename="DlgBanner.ui" line="103"/>
         <source>Position</source>
         <translation>Pozícia</translation>
+    </message>
+    <message>
+        <location filename="DlgBanner.ui" line="23"/>
+        <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -3560,29 +3559,29 @@ Chcete ho prepísať?</translation>
 <context>
     <name>DlgConvert</name>
     <message>
-        <location filename="DlgConvert.cpp" line="748"/>
+        <location filename="DlgConvert.cpp" line="750"/>
         <source>_result</source>
         <translation>_výsledok</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1157"/>
+        <location filename="DlgConvert.cpp" line="1159"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;XnConvert je poskytovaný ako freeware, bezplatne pre osobné (nekomerčné), alebo vzdelávacie použitie, vrátane neziskových organizácii. &lt;br&gt;Komerčné firmy si musia zakúpiť licencie, aby ho mohli používať.&lt;br&gt;&lt;br&gt;&lt;br&gt;Máte právo používať a vytvárať neobmedzený počet kópii tohoto programu.&lt;br&gt;&lt;br&gt;Tento program je poskytovaný tak ako je.&lt;br&gt;Nie je poskytovaná záruka akéhokoľvek druhu.&lt;br&gt;Autor nebude zodpovedný pri strate dát, škodách, strate ušlého zisku alebo stratách akéhokoľvek iného druhu počas používania alebo pri nesprávnom použití tohoto programu.&lt;br&gt;&lt;br&gt;Akékoľvek návrhy, pripomienky a komentáre sú vítané. </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1307"/>
+        <location filename="DlgConvert.cpp" line="1309"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
         <translation>Prosím reštartujte aplikáciu.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1329"/>
+        <location filename="DlgConvert.cpp" line="1331"/>
         <source>New version</source>
         <translation>Nová verzia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1330"/>
+        <location filename="DlgConvert.cpp" line="1332"/>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
@@ -3592,43 +3591,43 @@ Do you want to go on the download page?</source>
 Chcete prejsť na stránku s odkazom na stiahnutie?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1464"/>
-        <location filename="DlgConvert.cpp" line="1473"/>
+        <location filename="DlgConvert.cpp" line="1466"/>
+        <location filename="DlgConvert.cpp" line="1475"/>
         <source>Actions</source>
         <translation>Operácie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1591"/>
+        <location filename="DlgConvert.cpp" line="1593"/>
         <source>Load image...</source>
         <translation>Načítať obrázok...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1604"/>
+        <location filename="DlgConvert.cpp" line="1606"/>
         <source>Use image from input files</source>
         <translation>Použiť obrázok zo vstupných súborov</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1636"/>
+        <location filename="DlgConvert.cpp" line="1638"/>
         <source>Export script</source>
         <translation>Exportovať skript</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1642"/>
+        <location filename="DlgConvert.cpp" line="1644"/>
         <source>Would you like to export filenames, too?</source>
         <translation>Chcete exportovať aj názvy súborov?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1965"/>
+        <location filename="DlgConvert.cpp" line="1967"/>
         <source>Load script</source>
         <translation>Načítať skript</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1979"/>
+        <location filename="DlgConvert.cpp" line="1981"/>
         <source>Save script</source>
         <translation>Uložiť skript</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2154"/>
+        <location filename="DlgConvert.cpp" line="2156"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Vstup: %n súbor</numerusform>
@@ -3637,22 +3636,22 @@ Chcete prejsť na stránku s odkazom na stiahnutie?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2184"/>
+        <location filename="DlgConvert.cpp" line="2186"/>
         <source>Choose a directory</source>
         <translation>Vyberte priečinok</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2223"/>
+        <location filename="DlgConvert.cpp" line="2225"/>
         <source>Choose ZIP filename</source>
         <translation>Zvoľte názov súboru ZIP</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2441"/>
+        <location filename="DlgConvert.cpp" line="2443"/>
         <source>Overwrite</source>
         <translation>Nahradiť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2442"/>
+        <location filename="DlgConvert.cpp" line="2444"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3662,28 +3661,28 @@ Do you want to overwrite it?</source>
 Chcete ho nahradiť?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2451"/>
+        <location filename="DlgConvert.cpp" line="2453"/>
         <source>Saving ZIP file...</source>
         <translation>Ukladanie súboru ZIP...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2454"/>
+        <location filename="DlgConvert.cpp" line="2456"/>
         <source>: saved</source>
         <translation>: uložené</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2480"/>
+        <location filename="DlgConvert.cpp" line="2482"/>
         <source>Uploading image(s) to server...</source>
         <translation>Odosielanie obrázka (obrázkov) na server...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2543"/>
         <location filename="DlgConvert.cpp" line="2545"/>
+        <location filename="DlgConvert.cpp" line="2547"/>
         <source>[Finished]</source>
         <translation>[Dokončené]</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2752"/>
+        <location filename="DlgConvert.cpp" line="2754"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n sekunda do konca</numerusform>
@@ -3692,8 +3691,8 @@ Chcete ho nahradiť?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2755"/>
-        <location filename="DlgConvert.cpp" line="2759"/>
+        <location filename="DlgConvert.cpp" line="2757"/>
+        <location filename="DlgConvert.cpp" line="2761"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minúta do konca</numerusform>
@@ -3702,8 +3701,8 @@ Chcete ho nahradiť?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2411"/>
-        <location filename="DlgConvert.cpp" line="2759"/>
+        <location filename="DlgConvert.cpp" line="2413"/>
+        <location filename="DlgConvert.cpp" line="2761"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n hodina a </numerusform>
@@ -3732,83 +3731,83 @@ Chcete ho nahradiť?</translation>
         <translation>Exportovať denník</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1597"/>
+        <location filename="DlgConvert.cpp" line="1599"/>
         <source>Remove file from filelist</source>
         <translation>Odstrániť súbor zo zoznamu súborov</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2105"/>
-        <location filename="DlgConvert.cpp" line="2109"/>
+        <location filename="DlgConvert.cpp" line="2107"/>
+        <location filename="DlgConvert.cpp" line="2111"/>
         <source>Parameters</source>
         <translation>Parametre</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2308"/>
+        <location filename="DlgConvert.cpp" line="2310"/>
         <source>Cancel batch processing</source>
         <translation>Zrušiť dávkové spracovanie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2308"/>
+        <location filename="DlgConvert.cpp" line="2310"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>Chcete zrušiť aktuálne dávkové spracovanie?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2360"/>
+        <location filename="DlgConvert.cpp" line="2362"/>
         <source>Loading error(s):</source>
         <translation>Chyby pri načítavaní:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2368"/>
+        <location filename="DlgConvert.cpp" line="2370"/>
         <source>Saving error(s):</source>
         <translation>Chyby pri ukladaní:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2379"/>
+        <location filename="DlgConvert.cpp" line="2381"/>
         <source>Input files:</source>
         <translation>Vstupné súbory:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2380"/>
+        <location filename="DlgConvert.cpp" line="2382"/>
         <source>Extracted pages:</source>
         <translation>Extrahované stránky:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2383"/>
+        <location filename="DlgConvert.cpp" line="2385"/>
         <source>New files:</source>
         <translation>Nové súbory:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2385"/>
+        <location filename="DlgConvert.cpp" line="2387"/>
         <source>Overwritten:</source>
         <translation>Prepísané:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2387"/>
+        <location filename="DlgConvert.cpp" line="2389"/>
         <source>Skipped:</source>
         <translation>Preskočené:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2391"/>
+        <location filename="DlgConvert.cpp" line="2393"/>
         <source>Total input file size:</source>
         <translation>Celková veľkosť vstupného súboru:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2392"/>
+        <location filename="DlgConvert.cpp" line="2394"/>
         <source>Total output file size:</source>
         <translation>Celková veľkosť výstupného súboru:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2394"/>
+        <location filename="DlgConvert.cpp" line="2396"/>
         <source>File size ratio:</source>
         <translation>Pomer veľkosti súboru:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2398"/>
+        <location filename="DlgConvert.cpp" line="2400"/>
         <source>Total Duration:</source>
         <translation>Celková doba trvania:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2404"/>
+        <location filename="DlgConvert.cpp" line="2406"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n sekunda</numerusform>
@@ -3817,8 +3816,8 @@ Chcete ho nahradiť?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2407"/>
-        <location filename="DlgConvert.cpp" line="2411"/>
+        <location filename="DlgConvert.cpp" line="2409"/>
+        <location filename="DlgConvert.cpp" line="2413"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minúta</numerusform>
@@ -3827,80 +3826,80 @@ Chcete ho nahradiť?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2557"/>
+        <location filename="DlgConvert.cpp" line="2559"/>
         <source>Finished at: </source>
         <translatorcomment>**o alebo za?</translatorcomment>
         <translation>Dokončené o: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2588"/>
+        <location filename="DlgConvert.cpp" line="2590"/>
         <source>uploaded</source>
         <translation>odoslané</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2596"/>
+        <location filename="DlgConvert.cpp" line="2598"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation>nie je obrázok</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2599"/>
+        <location filename="DlgConvert.cpp" line="2601"/>
         <source>open error</source>
         <translation>chyba pri otvorení</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2602"/>
+        <location filename="DlgConvert.cpp" line="2604"/>
         <source>create error</source>
         <translation>chyba pri vytváraní</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2605"/>
+        <location filename="DlgConvert.cpp" line="2607"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>ma atribút len na čítanie a preto nemôže byť prepísaný!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2608"/>
+        <location filename="DlgConvert.cpp" line="2610"/>
         <source>skipped, file already exists!</source>
         <translation>preskočené, súbor už existuje!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2610"/>
+        <location filename="DlgConvert.cpp" line="2612"/>
         <source>failed</source>
         <translation>neúspešný</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2616"/>
+        <location filename="DlgConvert.cpp" line="2618"/>
         <source>loading</source>
         <translation>načítanie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2634"/>
+        <location filename="DlgConvert.cpp" line="2636"/>
         <source>loaded</source>
         <translation>načítaný</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2668"/>
+        <location filename="DlgConvert.cpp" line="2670"/>
         <source>copied</source>
         <translation>skopírované</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2672"/>
+        <location filename="DlgConvert.cpp" line="2674"/>
         <source>saved</source>
         <translation>uložený</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2686"/>
+        <location filename="DlgConvert.cpp" line="2688"/>
         <source>%1 of %2 files</source>
         <translation>%1 z %2 súborov</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2717"/>
+        <location filename="DlgConvert.cpp" line="2719"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Prepísať súbor</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2718"/>
+        <location filename="DlgConvert.cpp" line="2720"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3913,32 +3912,32 @@ Do you want to overwrite it?</oldsource>
 Chcete ho prepísať?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2720"/>
+        <location filename="DlgConvert.cpp" line="2722"/>
         <source>Yes to &amp;all</source>
         <translation>Áno pre &amp;všetky</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2721"/>
+        <location filename="DlgConvert.cpp" line="2723"/>
         <source>&amp;Yes</source>
         <translation>Án&amp;o</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2722"/>
+        <location filename="DlgConvert.cpp" line="2724"/>
         <source>&amp;No</source>
         <translation>&amp;Nie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2723"/>
+        <location filename="DlgConvert.cpp" line="2725"/>
         <source>&amp;Rename</source>
         <translation>&amp;Premenovať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2724"/>
+        <location filename="DlgConvert.cpp" line="2726"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Zrušiť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2781"/>
+        <location filename="DlgConvert.cpp" line="2783"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3947,7 +3946,7 @@ Do you want to continue?</source>
 Chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2791"/>
+        <location filename="DlgConvert.cpp" line="2793"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
@@ -3956,7 +3955,7 @@ Do you want to continue?</source>
 Chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2814"/>
+        <location filename="DlgConvert.cpp" line="2816"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
@@ -3965,24 +3964,24 @@ Do you want to continue?</source>
 Chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2942"/>
+        <location filename="DlgConvert.cpp" line="2944"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>Nastavenie &apos;Používať viacero jadier procesora&apos; je vypnuté. Toto nastavenie nemôže byť kombinované s režimom &apos;Spýtať sa&apos; alebo viacstránkovými súbormi PDF.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2944"/>
+        <location filename="DlgConvert.cpp" line="2946"/>
         <source>Started at: </source>
         <translatorcomment>**</translatorcomment>
         <translation>Spustené o: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2791"/>
+        <location filename="DlgConvert.cpp" line="2793"/>
         <source>Output filename</source>
         <translation>Názov výstupného súboru</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2800"/>
+        <location filename="DlgConvert.cpp" line="2802"/>
         <source>Choose output pathname</source>
         <translation>Vybrať výstupnú cestu</translation>
     </message>
@@ -14858,19 +14857,19 @@ Chcette pokračovať?</translation>
         <translation>EXIF: Dátum digitalizácie</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="593"/>
-        <location filename="DlgTimestamp.cpp" line="620"/>
+        <location filename="DlgTimestamp.cpp" line="542"/>
+        <location filename="DlgTimestamp.cpp" line="569"/>
         <source>Problem</source>
         <translation>Problém</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="593"/>
-        <location filename="DlgTimestamp.cpp" line="620"/>
+        <location filename="DlgTimestamp.cpp" line="542"/>
+        <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred in updating process!</source>
         <translation>Pri odosielaní nastala chyba!</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="608"/>
+        <location filename="DlgTimestamp.cpp" line="557"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
         <translation>Úprava časovej pečiatky, čakajte prosím...</translation>
@@ -16165,32 +16164,32 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
 <context>
     <name>File</name>
     <message>
-        <location filename="GeneralSettings.cpp" line="897"/>
+        <location filename="GeneralSettings.cpp" line="898"/>
         <source>Copy of %1%2</source>
         <translation>Kópia z %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="899"/>
+        <location filename="GeneralSettings.cpp" line="900"/>
         <source>Copy (%3) of %1%2</source>
         <translation>Kópia (%3) z %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="905"/>
+        <location filename="GeneralSettings.cpp" line="906"/>
         <source>%1 - Copy%2</source>
         <translation>%1 - Kópia%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="907"/>
+        <location filename="GeneralSettings.cpp" line="908"/>
         <source>%1 - Copy (%3)%2</source>
         <translation>%1 - Kópia (%3)%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="912"/>
+        <location filename="GeneralSettings.cpp" line="913"/>
         <source>%1-Copy%2</source>
         <translation>%1-Kópia%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="914"/>
+        <location filename="GeneralSettings.cpp" line="915"/>
         <source>%1-Copy (%3)%2</source>
         <translation>%1-Kópia (%3)%2</translation>
     </message>
@@ -18476,7 +18475,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="4824"/>
+        <location filename="ItemModel.cpp" line="4838"/>
         <source>New Folder %1</source>
         <translation>Nový priečinok %1</translation>
     </message>
@@ -19204,31 +19203,31 @@ Chcete pokračovať?</translation>
         <translation>Získať (TWAIN)</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="444"/>
+        <location filename="CompareWidget.cpp" line="459"/>
         <location filename="BrowserMenu.h" line="467"/>
         <source>Excellent</source>
         <translation>Výborné</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="447"/>
+        <location filename="CompareWidget.cpp" line="456"/>
         <location filename="BrowserMenu.h" line="468"/>
         <source>Good</source>
         <translation>Dobré</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="450"/>
+        <location filename="CompareWidget.cpp" line="453"/>
         <location filename="BrowserMenu.h" line="469"/>
         <source>Average</source>
         <translation>Priemerné</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="459"/>
+        <location filename="CompareWidget.cpp" line="444"/>
         <location filename="BrowserMenu.h" line="472"/>
         <source>Unrated</source>
         <translation>Bez hodnotenia</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="491"/>
+        <location filename="CompareWidget.cpp" line="464"/>
         <location filename="BrowserMenu.h" line="111"/>
         <location filename="BrowserMenu.h" line="490"/>
         <source>Uncolored</source>
@@ -19506,27 +19505,27 @@ Chcete pokračovať?</translation>
         <translation>Vybrať TWAIN zdroj...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="809"/>
+        <location filename="BrowserMenu.h" line="813"/>
         <source>&amp;File</source>
         <translation>&amp;Súbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="810"/>
+        <location filename="BrowserMenu.h" line="814"/>
         <source>&amp;Edit</source>
         <translation>&amp;Upraviť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="811"/>
+        <location filename="BrowserMenu.h" line="815"/>
         <source>&amp;View</source>
         <translation>&amp;Zobraziť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="812"/>
+        <location filename="BrowserMenu.h" line="816"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;údaje</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="813"/>
+        <location filename="BrowserMenu.h" line="817"/>
         <source>&amp;Tools</source>
         <translation>&amp;Nástroje</translation>
     </message>
@@ -19536,12 +19535,12 @@ Chcete pokračovať?</translation>
         <translation>Získať do (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="814"/>
+        <location filename="BrowserMenu.h" line="818"/>
         <source>C&amp;reate</source>
         <translation>&amp;Vytvoriť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="815"/>
+        <location filename="BrowserMenu.h" line="819"/>
         <source>&amp;Help</source>
         <translation>Ná&amp;poveda</translation>
     </message>
@@ -19735,13 +19734,13 @@ Chcete pokračovať?</translation>
         <translation>Dátum vytvorenia</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="453"/>
+        <location filename="CompareWidget.cpp" line="450"/>
         <location filename="BrowserMenu.h" line="470"/>
         <source>Fair</source>
         <translation>Podpriemerné</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="456"/>
+        <location filename="CompareWidget.cpp" line="447"/>
         <location filename="BrowserMenu.h" line="471"/>
         <source>Poor</source>
         <translation>Zlé</translation>
@@ -19763,13 +19762,13 @@ Chcete pokračovať?</translation>
         <translation>Otvoriť...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4204"/>
+        <location filename="BrowserWindow.cpp" line="4199"/>
         <location filename="BrowserMenu.h" line="425"/>
         <source>Cut</source>
         <translation>Vystrihnúť</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4206"/>
+        <location filename="BrowserWindow.cpp" line="4201"/>
         <location filename="BrowserMenu.h" line="427"/>
         <source>Copy</source>
         <translation>Kopírovať</translation>
@@ -19780,7 +19779,7 @@ Chcete pokračovať?</translation>
         <translation>Obrázok</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4208"/>
+        <location filename="BrowserWindow.cpp" line="4203"/>
         <location filename="BrowserMenu.h" line="432"/>
         <source>Paste</source>
         <translation>Prilepiť</translation>
@@ -19816,19 +19815,19 @@ Chcete pokračovať?</translation>
         <translation>Vybrať označené súbory</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4216"/>
+        <location filename="BrowserWindow.cpp" line="4211"/>
         <location filename="BrowserMenu.h" line="442"/>
         <source>Copy to...</source>
         <translation>Kopírovať do...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4218"/>
+        <location filename="BrowserWindow.cpp" line="4213"/>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Move to...</source>
         <translation>Presunúť do...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4211"/>
+        <location filename="BrowserWindow.cpp" line="4206"/>
         <location filename="BrowserMenu.h" line="444"/>
         <source>Delete</source>
         <translation>Odstrániť</translation>
@@ -20277,12 +20276,12 @@ Chcete pokračovať?</translation>
         <translation>Rychlý filter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4201"/>
+        <location filename="BrowserWindow.cpp" line="4196"/>
         <source>New Folder</source>
         <translation>Nový priečinok</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4213"/>
+        <location filename="BrowserWindow.cpp" line="4208"/>
         <source>Rename</source>
         <translation>Premenovať</translation>
     </message>
@@ -20295,95 +20294,95 @@ Chcete pokračovať?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1461"/>
+        <location filename="xnview.cpp" line="1466"/>
         <source>Quit</source>
         <translation>Ukončiť</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1464"/>
+        <location filename="xnview.cpp" line="1469"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Webstránka...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1469"/>
+        <location filename="xnview.cpp" line="1474"/>
         <source>Make a donation...</source>
         <translation>Prispieť na XnView...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1462"/>
+        <location filename="xnview.cpp" line="1467"/>
         <source>About</source>
         <translation>O programe</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1463"/>
+        <location filename="xnview.cpp" line="1468"/>
         <source>PlugIns...</source>
         <translation>Zásuvné moduly...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1465"/>
+        <location filename="xnview.cpp" line="1470"/>
         <source>Forum...</source>
         <translation>Fórum...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1466"/>
+        <location filename="xnview.cpp" line="1471"/>
         <source>Technical Support...</source>
         <translation>Technická podpora...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1467"/>
+        <location filename="xnview.cpp" line="1472"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Nahlásiť chybu...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1468"/>
+        <location filename="xnview.cpp" line="1473"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1470"/>
+        <location filename="xnview.cpp" line="1475"/>
         <source>Check for update...</source>
         <translation>Kontrolovať aktualizáciu...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1471"/>
+        <location filename="xnview.cpp" line="1476"/>
         <source>Registration...</source>
         <translation>Registrácia...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1472"/>
+        <location filename="xnview.cpp" line="1477"/>
         <source>Purchase...</source>
         <translation>Zakúpiť...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1482"/>
-        <location filename="xnview.cpp" line="1484"/>
+        <location filename="xnview.cpp" line="1487"/>
+        <location filename="xnview.cpp" line="1489"/>
         <source>Settings...</source>
         <translation>Nastavenia...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1488"/>
+        <location filename="xnview.cpp" line="1493"/>
         <source>Always on top</source>
         <translation>Vždy navrchu</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1490"/>
+        <location filename="xnview.cpp" line="1495"/>
         <source>Titlebar</source>
         <translation>Záhlavie okna</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1491"/>
+        <location filename="xnview.cpp" line="1496"/>
         <source>Show</source>
         <translation>Zobraziť</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1492"/>
+        <location filename="xnview.cpp" line="1497"/>
         <source>Bottom</source>
         <translation>Dole</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1493"/>
+        <location filename="xnview.cpp" line="1498"/>
         <source>Tab</source>
         <translation>Karta</translation>
     </message>
@@ -21835,7 +21834,7 @@ Chcete pokračovať?</translation>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <location filename="MyBitmapView.cpp" line="954"/>
+        <location filename="MyBitmapView.cpp" line="957"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
         <translation>Načítánie obrázku...</translation>
@@ -22308,7 +22307,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         <translation>Hrúbka</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="952"/>
+        <location filename="PaintWidget.ui" line="1170"/>
         <source>Enter your text</source>
         <translation>Vložte svoj text</translation>
     </message>
@@ -22318,28 +22317,28 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         <translation>Písmo</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="963"/>
+        <location filename="PaintWidget.ui" line="950"/>
         <source>Effect</source>
         <translation>Efekt</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="712"/>
-        <location filename="PaintWidget.ui" line="987"/>
+        <location filename="PaintWidget.ui" line="974"/>
         <source>Size</source>
         <translation>Veľkosť</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1029"/>
+        <location filename="PaintWidget.ui" line="1016"/>
         <source>Outline</source>
         <translation>Obrys</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1135"/>
+        <location filename="PaintWidget.ui" line="1125"/>
         <source>Blur</source>
         <translation>Rozostrenie</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1069"/>
+        <location filename="PaintWidget.ui" line="1095"/>
         <source>Shadow</source>
         <translation>Tieň</translation>
     </message>
@@ -22433,7 +22432,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         <translation>Napravo</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1108"/>
+        <location filename="PaintWidget.ui" line="1056"/>
         <source>Offset Y</source>
         <translation>Odstup Y</translation>
     </message>
@@ -22478,7 +22477,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         <translation>Spravovať...</translation>
     </message>
     <message>
-        <location filename="PaintWidget.ui" line="1115"/>
+        <location filename="PaintWidget.ui" line="1105"/>
         <source>Offset X</source>
         <translation>Odstup X</translation>
     </message>
@@ -22509,42 +22508,42 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         <translation type="unfinished">Roztiahnuť obrázok</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="425"/>
+        <location filename="PaintWidget.cpp" line="436"/>
         <source>Draw [%1]</source>
         <translation>Kresliť [%1]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="572"/>
+        <location filename="PaintWidget.cpp" line="583"/>
         <source>X: %1, Y: %2</source>
         <translation>X: %1, Y: %2</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="577"/>
+        <location filename="PaintWidget.cpp" line="588"/>
         <source>R: %1, G: %2, B: %3 [#%4]</source>
         <translation>R: %1, G: %2, B: %3 [#%4]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="988"/>
+        <location filename="PaintWidget.cpp" line="999"/>
         <source>Choose an image</source>
         <translation>Vyberte obrázok</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="988"/>
+        <location filename="PaintWidget.cpp" line="999"/>
         <source>Images</source>
         <translation>Obrázky</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1399"/>
+        <location filename="PaintWidget.cpp" line="1410"/>
         <source>Include color</source>
         <translation>Zahrnúť farbu</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1406"/>
+        <location filename="PaintWidget.cpp" line="1417"/>
         <source>Name:</source>
         <translation>Názov:</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1414"/>
+        <location filename="PaintWidget.cpp" line="1425"/>
         <source>Preset name</source>
         <translation>Meno predvoľby</translation>
     </message>
@@ -22562,7 +22561,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2201"/>
+        <location filename="BrowserWindow.cpp" line="2196"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Kliknutím na začiarkavacie políčko prepnete priradenie
@@ -23165,7 +23164,7 @@ Kliknite pravým tlačidlom myši na vyskakovacie menu s akciami.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4442"/>
+        <location filename="ItemModel.cpp" line="4456"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Počas premenovania nastala chyba!</translation>
@@ -23402,17 +23401,22 @@ Kliknite pravým tlačidlom myši na vyskakovacie menu s akciami.</translation>
         <translation type="unfinished">Kategórie (katalóg)</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="181"/>
+        <location filename="ToolbarSearch.cpp" line="174"/>
+        <source>Thumbnail&apos;s labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ToolbarSearch.cpp" line="186"/>
         <source>No Recent Searches</source>
         <translation>Nepouživať naposledy hľadané</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="185"/>
+        <location filename="ToolbarSearch.cpp" line="190"/>
         <source>Recent Searches</source>
         <translation>Naposledy hľadané</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="197"/>
+        <location filename="ToolbarSearch.cpp" line="202"/>
         <source>Clear Recent Searches</source>
         <translation>Vymazať naposledy hľadané</translation>
     </message>
@@ -23665,26 +23669,26 @@ Kliknite pravým tlačidlom myši na vyskakovacie menu s akciami.</translation>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="488"/>
-        <location filename="xnview.cpp" line="508"/>
+        <location filename="xnview.cpp" line="490"/>
+        <location filename="xnview.cpp" line="510"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>Vytváranie zálohy, čakajte prosím...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="480"/>
-        <location filename="xnview.cpp" line="486"/>
-        <location filename="xnview.cpp" line="493"/>
+        <location filename="xnview.cpp" line="482"/>
+        <location filename="xnview.cpp" line="488"/>
+        <location filename="xnview.cpp" line="495"/>
         <source>Catalog</source>
         <translation>Katalóg</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="480"/>
+        <location filename="xnview.cpp" line="482"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - katalóg má novšiu verziu ako predpokladaná</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="486"/>
+        <location filename="xnview.cpp" line="488"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -23695,39 +23699,39 @@ Chcete v ňom ponechať miniatúry?
  (Ak zvolíte ÁNO, proces inovácie bude pomalý)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="490"/>
+        <location filename="xnview.cpp" line="492"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>Aktualizácia katalógu, čakajte, prosím...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="493"/>
+        <location filename="xnview.cpp" line="495"/>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
         <translation>XnViewMP - Nastal problém pri aktualizácii katalóga (chyba: %1), kontaktujte prosím vývojára.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="600"/>
+        <location filename="xnview.cpp" line="602"/>
         <source>Catalog problem</source>
         <translation>Problém s katalógom</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="600"/>
+        <location filename="xnview.cpp" line="602"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Vyskytol sa problém s otvorením katalógu, skontrolujte nastavenia alebo použitý priečinok!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="993"/>
+        <location filename="xnview.cpp" line="998"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>Aplikácia je aktuálna.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1693"/>
+        <location filename="xnview.cpp" line="1698"/>
         <source>Do you want to save session?</source>
         <translation>Chcete uložiť reláciu?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3111"/>
+        <location filename="xnview.cpp" line="3116"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -23735,44 +23739,44 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Hodnotenie, štítky a farebné štítky sa neuložia.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1064"/>
+        <location filename="xnview.cpp" line="1069"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Vaša predošlá relácia obsahuje veľa nahraných obrázkov, môže to spôsobiť spomalenie!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1064"/>
+        <location filename="xnview.cpp" line="1069"/>
         <source>Session</source>
         <translation>Relácia</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1618"/>
+        <location filename="xnview.cpp" line="1623"/>
         <source>Do you want to quit?</source>
         <translation>Chcete ukončiť program?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1694"/>
+        <location filename="xnview.cpp" line="1699"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Uloženie mnohých kariet môže výrazne spomaliť opätovné otvorenie aplikácie.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1700"/>
+        <location filename="xnview.cpp" line="1705"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Nepýtať sa nabudúce</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1262"/>
+        <location filename="xnview.cpp" line="1267"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1262"/>
+        <location filename="xnview.cpp" line="1267"/>
         <source>File not found!</source>
         <translation>Súbor nebol nájdený!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1719"/>
+        <location filename="xnview.cpp" line="1724"/>
         <source>Do you want to save this session?</source>
         <translation>Chcete uložiť túto reláciu?</translation>
     </message>
