@@ -12369,7 +12369,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP, թարմացնել կամ ստեղծել IPTC-IIM</translation>
     </message>
     <message>
         <source>Multiple selection</source>
@@ -12417,11 +12417,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Ներածել</translation>
     </message>
     <message>
         <source>Insert from</source>
-        <translation type="unfinished"></translation>
+        <translation>Ներածել հետևյալից՝</translation>
     </message>
     <message>
         <source>Copy into</source>
@@ -13072,11 +13072,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ստեղծել ամսաթիվ</translation>
     </message>
     <message>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Փոփոխել ամսաթիվը</translation>
     </message>
 </context>
 <context>
@@ -13954,7 +13954,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Նյութի կոդը</translation>
     </message>
 </context>
 <context>
@@ -16557,7 +16557,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Pan to coordinates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Անցնել կորդինատներին...</translation>
     </message>
 </context>
 <context>
@@ -17940,7 +17940,7 @@ Right Click for pop-up menu with actions.</source>
     </message>
     <message>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Մանրապատկերների պիտակներ</translation>
     </message>
 </context>
 <context>
