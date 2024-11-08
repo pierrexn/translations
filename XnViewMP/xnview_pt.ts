@@ -23466,7 +23466,7 @@ Botão direito do rato para menu com opções.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquetas das miniaturas</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
