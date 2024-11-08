@@ -15793,12 +15793,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgWritePNG.ui" line="85"/>
         <source>Avg</source>
-        <translation>Avg</translation>
+        <translation>Gns.</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="90"/>
         <source>Paeth</source>
-        <translation>Paeth</translation>
+        <translation>Sti</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="95"/>
@@ -17714,7 +17714,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2653"/>
         <source>EXIF Version</source>
-        <translation>EXIF Version</translation>
+        <translation>EXIF-version</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2654"/>
@@ -20593,7 +20593,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2786"/>
         <source>IPTC - Status</source>
-        <translation>IPTC - Status</translation>
+        <translation>IPTC-status</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2787"/>
