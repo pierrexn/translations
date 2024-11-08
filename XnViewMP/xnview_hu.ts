@@ -23356,7 +23356,7 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Miniatűrök címkéi</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
