@@ -23501,7 +23501,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Подписи эскизов</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
