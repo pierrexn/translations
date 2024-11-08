@@ -8691,7 +8691,7 @@ Subfolders will be created. </source>
         <location filename="DlgImport.cpp" line="283"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG) and sidecar (others)</oldsource>
-        <translation>写入嵌入式元数据（JPEG/TIFF/PNG）并创建 XM Psidecar（其他）</translation>
+        <translation>写入嵌入式元数据（JPEG/TIFF/PNG）并创建 XMP sidecar（其他）</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="286"/>
