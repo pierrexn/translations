@@ -6935,7 +6935,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">テンプレートの読み込み...</translation>
+        <translation>テンプレートの読み込み...</translation>
     </message>
 </context>
 <context>
@@ -7771,7 +7771,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-liを使用する</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7815,7 +7815,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">XYB色空間へ変換</translation>
+        <translation>XYB色空間へ変換</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8460,7 +8460,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>座標にパン</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -8792,7 +8792,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>何もしない</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9424,7 +9424,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">プログラムの設定...</translation>
+        <translation>プログラムの設定</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
