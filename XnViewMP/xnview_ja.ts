@@ -9434,7 +9434,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">パス</translation>
+        <translation>パス</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -10949,13 +10949,13 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">カタログを使用</translation>
+        <translation>カタログ検索のみ</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">サブフォルダーを含む</translation>
+        <translation>サブフォルダーを検索</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10976,7 +10976,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">フォルダーを含む(&amp;I)</translation>
+        <translation>フォルダー名で検索</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12878,7 +12878,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">画像を移動</translation>
+        <translation>画像をパンする</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -13051,7 +13051,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>前のフレーム/次のフレーム</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -13088,7 +13088,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">ズームと移動</translation>
+        <translation>ズーム＆パン</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -16002,187 +16002,187 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">説明</translation>
+        <translation>説明</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">レーティング</translation>
+        <translation>レーティング</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">著作権</translation>
+        <translation>著作権の状況</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">未定義</translation>
+        <translation>未定義</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">著作権で保護</translation>
+        <translation>著作権で保護</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">パブリックドメイン</translation>
+        <translation>パブリックドメイン</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">作成日付: </translation>
+        <translation>作成日付: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">更新日付: </translation>
+        <translation>更新日付: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">キーワード</translation>
+        <translation>キーワード</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(階層でキーワードを分けるには | を使用してください）</translation>
+        <translation>（階層でキーワードを区切るには｜を使用してください）</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">親カテゴリーを適用</translation>
+        <translation>親カテゴリーを適用</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished">起源</translation>
+        <translation>起源</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">作成日付</translation>
+        <translation>作成日付</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="368"/>
         <source>Urgency</source>
-        <translation type="unfinished">緊急性</translation>
+        <translation>緊急性</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="394"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">IPTC コンタクト</translation>
+        <translation>IPTC コンタクト</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="446"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">IPTC 拡張</translation>
+        <translation>IPTC 拡張</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="540"/>
         <source>Options</source>
-        <translation type="unfinished">オプション</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="561"/>
         <source>Mode:</source>
-        <translation type="unfinished">モード:</translation>
+        <translation>モード:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="569"/>
         <source>XMP only</source>
-        <translation type="unfinished">XMPのみ</translation>
+        <translation>XMPのみ</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="574"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP、更新または作成されたIPTC-IIM</translation>
+        <translation>XMP、IPTC-IIMの更新または作成</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="603"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">複数選択</translation>
+        <translation>複数選択</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="612"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">新しい値が空の場合、元の値を保つ</translation>
+        <translation>新しい値が空の場合、元の値を保つ</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="619"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">元の値が空の場合のみ置き換える</translation>
+        <translation>元の値が空の場合のみ置き換える</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="629"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">開いたタブを記憶</translation>
+        <translation>開いたタブを記憶</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">( ; または , を値の区切りに使用してください)</translation>
+        <translation>( ; または , を値の区切りに使用してください)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0: なし</translation>
+        <translation>0: なし</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: 高</translation>
+        <translation>1: 高</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: 中</translation>
+        <translation>5: 中</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: 低</translation>
+        <translation>8: 低</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Required field</source>
-        <translation type="unfinished">必須項目</translation>
+        <translation>必須項目</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">項目は必須です。記入をしてください</translation>
+        <translation>項目は必須です。記入をしてください</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished">挿入</translation>
+        <translation>挿入</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="443"/>
         <source>Insert from</source>
-        <translation type="unfinished">挿入元</translation>
+        <translation>挿入元</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="464"/>
         <source>Copy into</source>
-        <translation type="unfinished">コピー先</translation>
+        <translation>コピー先</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="488"/>
         <source>Library</source>
-        <translation type="unfinished">ライブラリ</translation>
+        <translation>ライブラリ</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Edit history...</source>
-        <translation type="unfinished">履歴編集...</translation>
+        <translation>履歴編集...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="494"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">アルファベット順にソート</translation>
+        <translation>アルファベット順にソート</translation>
     </message>
 </context>
 <context>
@@ -17069,12 +17069,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>作成日付</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>更新日付</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -18482,7 +18482,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>件名コード</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
@@ -21418,7 +21418,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">x,y位置に行く...</translation>
+        <translation>座標にパンする...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -22905,7 +22905,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">マップ</translation>
+        <translation>マップ</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
@@ -23733,7 +23733,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>サムネイルのラベル</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
