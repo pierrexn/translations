@@ -1766,7 +1766,7 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;p&gt;Ազդռրիզի բոլոր բնութագրերը (տառատեսակ, գույն, չափ և այլն) տեղափոխվել է նախկինում ստեղծված ազդերիզից: Բացառաություն է գրվածքի չափը, որը հաշվարկվել է «լավագույնս հարմարեցնել» ազդերիզի բարձրությամբ:&lt;/p&gt;&lt;p&gt;Դուք կարող եք ընտրել բազմակի պատկերներ՝ միևնույն ազդերիզը մի քանի պատկերների միաժամանակ գործադրելու համար: Հիշեք, որ գրվածքի չափը նույն չափի կլինի բոլոր պատկերներում:&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Դյուրանցումներ&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Մեծացնել/փոքրացնել տառատեսակը 2 կետով:&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Մեծացնել/փոքրացնել ազդերիզի չափը 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Ստեղծել ազդերիզ&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -6029,7 +6029,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Օգտագործել JPEG-li</translation>
     </message>
     <message>
         <source>Convert to XYB colorspace</source>
@@ -6520,7 +6520,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Անցնել կորդինատներին</translation>
     </message>
 </context>
 <context>
@@ -6779,7 +6779,7 @@ The internal folder structure will be flattened. </source>
     </message>
     <message>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Չկա գործույթ</translation>
     </message>
 </context>
 <context>
@@ -7275,7 +7275,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Configure programs</source>
-        <translation type="unfinished"></translation>
+        <translation>Կազմաձևել ծրագրերը</translation>
     </message>
     <message>
         <source>Path</source>
@@ -8537,15 +8537,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Search in Catalog only</source>
-        <translation type="unfinished"></translation>
+        <translation>Որոնել միայն գրացուցակում</translation>
     </message>
     <message>
         <source>Search in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Որոնել ենթապանակներում</translation>
     </message>
     <message>
         <source>Search in folder names</source>
-        <translation type="unfinished"></translation>
+        <translation>Որոնել պանակների անվանումներում</translation>
     </message>
 </context>
 <context>
@@ -10170,15 +10170,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Նախորդ/հաջորդ շրջանակը</translation>
     </message>
     <message>
         <source>Pan image</source>
-        <translation type="unfinished"></translation>
+        <translation>Անցնել պատկերին</translation>
     </message>
     <message>
         <source>Zoom &amp; pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Չափափոխել և անցնել</translation>
     </message>
 </context>
 <context>
