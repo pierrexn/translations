@@ -23374,7 +23374,7 @@ Rechte Maustaste öffnet Kontextmenü mit weiteren Aktionen.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschriftungen der Miniaturansichten</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
