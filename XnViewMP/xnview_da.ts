@@ -15798,7 +15798,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgWritePNG.ui" line="90"/>
         <source>Paeth</source>
-        <translation>Sti</translation>
+        <translation>Paeth</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="95"/>
