@@ -7693,7 +7693,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Použiť JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7814,7 +7814,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgFileAssociation.ui" line="14"/>
         <source>File association</source>
-        <translation>Asociácie súborov</translation>
+        <translation>Asociácia súbora</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.ui" line="20"/>
@@ -8375,7 +8375,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Posunúť sa na súradnice</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -8706,7 +8706,7 @@ Budú vytvorené podpriečinky. </translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadna akcia</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -13084,7 +13084,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Predchádzajúca/nasledujúca snímka</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -15894,7 +15894,7 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnotenie</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
@@ -15969,7 +15969,7 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="540"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="561"/>
@@ -16923,12 +16923,12 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoriť dátum</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Upraviť dátum</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -18213,7 +18213,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kód predmetu</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
@@ -23403,7 +23403,7 @@ Kliknite pravým tlačidlom myši na vyskakovacie menu s akciami.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Menovky miniatúr</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
