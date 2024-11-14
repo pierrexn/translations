@@ -6,132 +6,132 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="420"/>
         <source>Uncolored</source>
-        <translation type="unfinished"></translation>
+        <translation>Necolorat</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="426"/>
         <source>Important</source>
-        <translation type="unfinished"></translation>
+        <translation>Important</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="426"/>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Roșu</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="426"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="427"/>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>Muncă</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="427"/>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Galben</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="427"/>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Al doilea</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="428"/>
         <source>Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>Personal</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="428"/>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="428"/>
         <source>Approved</source>
-        <translation type="unfinished"></translation>
+        <translation>Aprobat</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="429"/>
         <source>To do</source>
-        <translation type="unfinished"></translation>
+        <translation>De făcut</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="429"/>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Albastru</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="429"/>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Revizuire</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="430"/>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai târziu</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="430"/>
         <source>Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Violet</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="430"/>
         <source>To Do</source>
-        <translation type="unfinished"></translation>
+        <translation>De făcut</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Portocaliu</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
         <source>Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Negru</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="434"/>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Alb</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
         <source>Unrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Neevaluat</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="334"/>
         <source>Poor</source>
-        <translation type="unfinished"></translation>
+        <translation>Sărac</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="335"/>
         <source>Fair</source>
-        <translation type="unfinished"></translation>
+        <translation>Destul de sărac</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="336"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Mediu</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="337"/>
         <source>Good</source>
-        <translation type="unfinished"></translation>
+        <translation>Bun</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="338"/>
         <source>Excellent</source>
-        <translation type="unfinished"></translation>
+        <translation>Excelent</translation>
     </message>
 </context>
 <context>
@@ -139,117 +139,117 @@
     <message>
         <location filename="AboutWidget.ui" line="36"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="119"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="126"/>
         <source>Social</source>
-        <translation type="unfinished"></translation>
+        <translation>Socializare</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="133"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Email</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="206"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Website</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="213"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="220"/>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="279"/>
         <source>Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="154"/>
         <source>INI filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele fișierului INI</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="370"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licență</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="384"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Credite</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="398"/>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formate</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="436"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin-uri</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="461"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele fișierului</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="466"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descriere</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="471"/>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Drepturi de autor</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="487"/>
         <source>Command line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie de comandă</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnalul de modificări</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation>Citire</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Scriere</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensie</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="271"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Formate în modul citire: %1 | Formate în modul scriere: %2</translation>
     </message>
 </context>
 <context>
@@ -257,7 +257,7 @@
     <message>
         <location filename="AboutWindow.h" line="24"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Despre</translation>
     </message>
 </context>
 <context>
@@ -265,34 +265,34 @@
     <message>
         <location filename="ViewWindow.cpp" line="1421"/>
         <source>Frame %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadru %1/%2</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1424"/>
         <source>Icon %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Iconița %1/%2</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1426"/>
         <source>Page %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina %1/%2</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1999"/>
         <source>Customize toolbar...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizează bara de unelte...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2264"/>
         <location filename="ViewWindow.cpp" line="2270"/>
         <location filename="ViewWindow.cpp" line="2274"/>
         <source>Delete items</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere șterse</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="234"/>
         <source>Save changed file</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează fișierul modificat</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="235"/>
@@ -306,28 +306,28 @@
     <message>
         <location filename="ViewWindow.cpp" line="238"/>
         <source>Save &amp;as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvare c&amp;a...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="246"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salvare</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="247"/>
         <source>&amp;Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nu salva</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="250"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu întreba din nou</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1590"/>
         <location filename="ViewWindow.cpp" line="1609"/>
         <source>&lt; Empty &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Gol &gt;</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2264"/>
@@ -355,12 +355,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="2953"/>
         <source>Confirm Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmă salvarea</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2954"/>
         <source>&lt;%1&gt; already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%1&gt; există deja!</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2954"/>
@@ -376,7 +376,7 @@
         <location filename="ViewWindow.cpp" line="2935"/>
         <location filename="ViewWindow.cpp" line="2945"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvare</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2945"/>
@@ -395,7 +395,7 @@
         <location filename="ViewWindow.cpp" line="2981"/>
         <location filename="ViewWindow.cpp" line="3162"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2981"/>
@@ -406,7 +406,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="3251"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietăți</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4388"/>
@@ -419,7 +419,7 @@
     <message>
         <location filename="ActionPanelItem.cpp" line="77"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Activat</translation>
     </message>
 </context>
 <context>
@@ -427,7 +427,7 @@
     <message>
         <location filename="CategorySetPanel.cpp" line="287"/>
         <source>Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare...</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="288"/>
@@ -440,7 +440,7 @@
     <message>
         <location filename="DlgSlideshow.cpp" line="563"/>
         <source>Audio Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere audio</translation>
     </message>
 </context>
 <context>
@@ -479,18 +479,18 @@
     <message>
         <location filename="ViewWindow.cpp" line="4873"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4864"/>
         <location filename="ViewWindow.cpp" line="4873"/>
         <source>File can&apos;t be loaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul nu poate fi încărcat!</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4877"/>
         <source>&lt; Empty &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Gol &gt;</translation>
     </message>
 </context>
 <context>
@@ -529,7 +529,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="Bookmarks.cpp" line="363"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă</translation>
     </message>
     <message>
         <location filename="Bookmarks.cpp" line="364"/>
@@ -547,22 +547,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1865"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Foldere</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1869"/>
         <source>Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Favorite</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1883"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorii</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1921"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informații</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="662"/>
@@ -598,12 +598,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1929"/>
         <source>Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadate</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1938"/>
         <source>Histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Histogramă</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2099"/>
@@ -10864,7 +10864,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Numele &amp;fișierului</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -11496,7 +11496,7 @@ Do you want to check for affected entries first?</source>
     <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="548"/>
@@ -20140,7 +20140,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="813"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fișier</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="814"/>
@@ -20160,7 +20160,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="817"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Unelte</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="674"/>
@@ -20190,7 +20190,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="819"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ajutor</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4196"/>
@@ -21475,7 +21475,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="724"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fișier</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="725"/>
@@ -21509,13 +21509,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="730"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Unelte</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="731"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ajutor</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="149"/>
@@ -23660,7 +23660,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
     <message>
         <location filename="xnview.cpp" line="1267"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1267"/>
