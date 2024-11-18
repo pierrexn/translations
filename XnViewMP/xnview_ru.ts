@@ -11648,7 +11648,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsFilelist.cpp" line="45"/>
         <location filename="DlgSettingsFilelist.cpp" line="193"/>
         <source>Associated program</source>
-        <translation>Связанная программа</translation>
+        <translation>Ассоциированная программа</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -22244,12 +22244,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="OpenWithMenu.cpp" line="320"/>
         <source>Associated program</source>
-        <translation>Внешняя программа</translation>
+        <translation>Ассоциированная программа</translation>
     </message>
     <message>
         <location filename="OpenWithMenu.cpp" line="324"/>
         <source>Associated editor</source>
-        <translation>Внешний редактор</translation>
+        <translation>Ассоциированный редактор</translation>
     </message>
     <message>
         <location filename="OpenWithMenu.cpp" line="329"/>
