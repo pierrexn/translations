@@ -385,7 +385,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2945"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul &lt;%1&gt; este în modul doar citire, te rugăm să alegi un alt nume pentru fișier.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2979"/>
@@ -465,7 +465,7 @@
     <message>
         <location filename="BannerProcess.h" line="54"/>
         <source>Creating contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se crează foaia de contact...</translation>
     </message>
 </context>
 <context>
@@ -473,12 +473,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4864"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru vizualizarea și convertirea fișierelor PDF/PS/EPS/AI, XnView MP necesită instalarea Ghostscript %1 pe sistemul tău.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4865"/>
         <source>Please visit the %1 for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru mai multe informații te rugăm să vizitezi %1.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4873"/>
@@ -525,7 +525,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="Bookmarks.cpp" line="879"/>
         <source>No favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără favorite</translation>
     </message>
 </context>
 <context>
@@ -581,7 +581,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="895"/>
         <source>The database is corrupted, please check it before to continue!</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza de date este coruptă, te rugăm să o verifici înainte de a continua!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1626"/>
@@ -629,12 +629,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2139"/>
         <source>Current folder</source>
-        <translation>Dosarul curent</translation>
+        <translation>Folderul curent</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2146"/>
         <source>Current folder (Recursive)</source>
-        <translation>Dosarul curent (Recursiv)</translation>
+        <translation>Folderul curent (Recursiv)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3214"/>
@@ -654,7 +654,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3305"/>
         <source>This folder doesn&apos;t exist!</source>
-        <translation>Acest dosar nu există!</translation>
+        <translation>Acest folder nu există!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3525"/>
@@ -679,7 +679,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4216"/>
         <source>Show files in subfolders</source>
-        <translation>Afișează fișierele în subdosare</translation>
+        <translation>Afișează fișierele în subfoldere</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4219"/>
@@ -709,22 +709,22 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2115"/>
         <source>Match any selected entry (OR)</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește fiecare intrare selectată (OR)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2121"/>
         <source>Match all selected entries (AND)</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește toate intrările selectate (AND)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3218"/>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Rezultatele filtrului de catalog&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3762"/>
         <source>Delete items &amp; companions</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge elementele și însoțitorii</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="3763"/>
@@ -738,7 +738,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3854"/>
         <source>The files cannot be renamed, an error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierele nu pot fi redenumite, a apărut o eroare.</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4218"/>
@@ -758,12 +758,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4259"/>
         <source>Delete folder</source>
-        <translation>Șterge dosarul</translation>
+        <translation>Șterge folderul</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4259"/>
         <source>Are you sure to delete this folder?</source>
-        <translation>Ești sigur că vrei să ștergi acest dosar?</translation>
+        <translation>Ești sigur că vrei să ștergi acest folder?</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="610"/>
@@ -936,38 +936,38 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="437"/>
         <source>Are you sure to delete this album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești sigur că vrei să ștergi acest album?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="443"/>
         <source>New Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Album nou</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="455"/>
         <source>Empty album</source>
-        <translation type="unfinished"></translation>
+        <translation>Album gol</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="455"/>
         <source>Are you sure to clear this album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești sigur că vrei să golești acest album?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="462"/>
         <source>Import collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Importă colecție</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="468"/>
         <source>Export collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă colecția</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="544"/>
         <location filename="CategoryView.cpp" line="608"/>
         <source>New Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorie nouă</translation>
     </message>
 </context>
 <context>
@@ -1011,22 +1011,22 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="542"/>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="545"/>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="548"/>
         <source>Zoom 100%</source>
-        <translation type="unfinished"></translation>
+        <translation>Mărire cu 100%</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="551"/>
         <source>Best fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Cea mai bună potrivire</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="575"/>
@@ -1112,7 +1112,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="ContactSheetProcess.h" line="44"/>
         <source>Creating contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se creează foaia de contact...</translation>
     </message>
 </context>
 <context>
@@ -1194,7 +1194,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="670"/>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Filigran</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="829"/>
@@ -1219,7 +1219,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2060"/>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotire</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2390"/>
@@ -1268,7 +1268,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2530"/>
         <source>Transparent color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare transparentă</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2577"/>
@@ -1283,7 +1283,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2662"/>
         <source>HLS</source>
-        <translation type="unfinished"></translation>
+        <translation>HLS</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2737"/>
