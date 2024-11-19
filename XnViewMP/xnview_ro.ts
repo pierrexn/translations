@@ -341,7 +341,7 @@
         <location filename="ViewWindow.cpp" line="2270"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation>Ești sigur că vrei să ștergi 
+        <translation>Ești sigur(ă) că vrei să ștergi 
 &quot;%1&quot;?</translation>
     </message>
     <message>
@@ -517,7 +517,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest favorit indică un folder care nu există. 
+
+Vrei să ștergi favoritul &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -619,7 +621,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fă clic pentru a filtra - utilizează Shift și Control pentru mai multe selecții.
+Fă clic dreapta pe diferite elemente pentru meniurile pop-up cu acțiuni.
+Trage și plasează peste nodul dorit pentru atribuire.</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2132"/>
@@ -664,10 +668,10 @@ Drag and Drop over the desired node to assign.</source>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="3769"/>
         <source>Are you sure to delete these %n item(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ești sigur(ă) că vrei să ștergi acest element %n?</numerusform>
+            <numerusform>Ești sigur(ă) că vrei să ștergi aceste elemente %n?</numerusform>
+            <numerusform>Ești sigur(ă) că vrei să ștergi aceste elemente %n?</numerusform>
         </translation>
     </message>
     <message>
@@ -729,10 +733,10 @@ Drag and Drop over the desired node to assign.</source>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="3763"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ești sigur(ă) că vrei să ștergi acest element %n - %1 selectat?</numerusform>
+            <numerusform>Ești sigur(ă) că vrei să ștergi aceste elemente %n - %1 selectate?</numerusform>
+            <numerusform>Ești sigur(ă) că vrei să ștergi aceste elemente %n - %1 selectate?</numerusform>
         </translation>
     </message>
     <message>
@@ -763,7 +767,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4259"/>
         <source>Are you sure to delete this folder?</source>
-        <translation>Ești sigur că vrei să ștergi acest folder?</translation>
+        <translation>Ești sigur(ă) că vrei să ștergi acest folder?</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="610"/>
@@ -936,7 +940,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="437"/>
         <source>Are you sure to delete this album?</source>
-        <translation>Ești sigur că vrei să ștergi acest album?</translation>
+        <translation>Ești sigur(ă) că vrei să ștergi acest album?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="443"/>
@@ -951,7 +955,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="455"/>
         <source>Are you sure to clear this album?</source>
-        <translation>Ești sigur că vrei să golești acest album?</translation>
+        <translation>Ești sigur(ă) că vrei să golești acest album?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="462"/>
@@ -1121,25 +1125,25 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertCanvas.h" line="39"/>
         <location filename="DlgConvertAutoCrop.h" line="24"/>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga sus</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.h" line="40"/>
         <location filename="DlgConvertAutoCrop.h" line="25"/>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta sus</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.h" line="41"/>
         <location filename="DlgConvertAutoCrop.h" line="26"/>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga jos</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.h" line="42"/>
         <location filename="DlgConvertAutoCrop.h" line="27"/>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta jos</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.h" line="179"/>
@@ -1162,7 +1166,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="229"/>
         <source>Change color depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă adâncimea culorii</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1730"/>
@@ -1174,22 +1178,22 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="516"/>
         <location filename="DlgAutoCrop.h" line="107"/>
         <source>Automatic crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Decupare automată</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="569"/>
         <source>Zealous crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Decupare zealoasă</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="610"/>
         <source>Automatic deskew</source>
-        <translation type="unfinished"></translation>
+        <translation>Îndreptare automată</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="631"/>
         <source>Clean metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Golește metadatele</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="670"/>
@@ -1209,12 +1213,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="1406"/>
         <source>Canvas resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionează pânza</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="1642"/>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionare</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2060"/>
@@ -1225,45 +1229,45 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="2390"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Setează DPI-ul</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2429"/>
         <source>Extract channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrage canalul</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="397"/>
         <location filename="DlgLevels.h" line="47"/>
         <source>Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveluri</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="479"/>
         <location filename="DlgCurves.h" line="41"/>
         <source>Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Curbe</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4671"/>
         <location filename="DlgWhiteBalance.h" line="88"/>
         <source>White Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Balanța de alb</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2453"/>
         <source>Black/White Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Puncte negre/albe</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2474"/>
         <source>Mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Oglindire</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2498"/>
         <source>Replace color</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește culoarea</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2530"/>
@@ -1273,12 +1277,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2577"/>
         <source>Aspect Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapoarte</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2636"/>
         <source>Color balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Echilibru de culoare</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2662"/>
@@ -1289,12 +1293,12 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="2737"/>
         <location filename="DlgShadowHighlight.h" line="88"/>
         <source>Shadow-Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbră-Evidențiere</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2759"/>
         <source>Add noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă zgomot</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2835"/>
@@ -1324,7 +1328,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4244"/>
         <source>Retro</source>
-        <translation type="unfinished"></translation>
+        <translation>Retro</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4473"/>
@@ -1360,12 +1364,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4623"/>
         <source>Symmetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Simetrie</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4644"/>
         <source>Saturation</source>
-        <translation type="unfinished"></translation>
+        <translation>Saturație</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4687"/>
@@ -1385,7 +1389,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4750"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatură</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4767"/>
@@ -1405,7 +1409,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4934"/>
         <source>QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Cod QR</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2924"/>
@@ -1446,7 +1450,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="3020"/>
         <source>Normalize Ex</source>
-        <translation type="unfinished"></translation>
+        <translation>Ex normalizare</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3025"/>
@@ -1530,17 +1534,17 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertText.h" line="26"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga</translation>
     </message>
     <message>
         <location filename="DlgConvertText.h" line="27"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centru</translation>
     </message>
     <message>
         <location filename="DlgConvertText.h" line="28"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="202"/>
@@ -1555,7 +1559,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="204"/>
         <source>Negative</source>
-        <translation type="unfinished"></translation>
+        <translation>Negativ</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="205"/>
@@ -1571,12 +1575,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="210"/>
         <source>Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalizare</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="214"/>
         <source>Equalize</source>
-        <translation type="unfinished"></translation>
+        <translation>Egalizare</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="215"/>
@@ -21092,12 +21096,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="461"/>
         <source>Normalize</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalizare</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
         <source>Equalize</source>
-        <translation type="unfinished"></translation>
+        <translation>Egalizare</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
@@ -21152,7 +21156,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="473"/>
         <source>Normalize...</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalizare...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="474"/>
