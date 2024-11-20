@@ -11663,17 +11663,17 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="419"/>
         <source>Master extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Основне розширення</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="419"/>
         <source>Companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Залежні</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
         <source>Delete...</source>
-        <translation type="unfinished">Видалити...</translation>
+        <translation>Видалити...</translation>
     </message>
 </context>
 <context>
@@ -11701,12 +11701,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="49"/>
         <source>Recognize only by extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Визначати тільки за розширенням</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="117"/>
         <source>Folder always sorted alphabetically</source>
-        <translation type="unfinished"></translation>
+        <translation>Папки завжди сортуються за алфавітом</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
@@ -11716,37 +11716,37 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
         <source>Scan file headers</source>
-        <translation type="unfinished"></translation>
+        <translation>Сканувати заголовки файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="66"/>
         <source>Always</source>
-        <translation type="unfinished">Завжди</translation>
+        <translation>Завжди</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="71"/>
         <source>Exclude Floppy/CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Виключити Дискети/CD/DVD</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="76"/>
         <source>Only fixed disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Тільки жорсткі диски</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="81"/>
         <source>Never</source>
-        <translation type="unfinished">Ніколи</translation>
+        <translation>Ніколи</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="104"/>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортування</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибір</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
@@ -11761,37 +11761,37 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation type="unfinished">Вид</translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати розмір файла в байтах</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Додавати супутні файли для наступних подій</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
         <source>Delete</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалення</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="216"/>
         <source>Copy/move/rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювання/переміщення/перейменування</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="226"/>
         <source>Association list (use ; as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ассоціативний список (використовуйте ; для відокремлення)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Супутні файли</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -11818,17 +11818,17 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="297"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть розширення:</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="307"/>
         <source>or choose a format:</source>
-        <translation type="unfinished"></translation>
+        <translation>або виберіть формат:</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="353"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Новий</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="363"/>
@@ -11846,7 +11846,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
-        <translation type="unfinished">Підтримувані формати</translation>
+        <translation>Підтримувані формати</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="42"/>
@@ -11861,7 +11861,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="87"/>
         <source>Select most used</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибрати найчастіше вживані</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="94"/>
