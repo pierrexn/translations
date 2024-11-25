@@ -16,12 +16,12 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="426"/>
         <source>Red</source>
-        <translation type="unfinished">Червоний</translation>
+        <translation>Червоний</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="426"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Виділення</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="427"/>
@@ -31,12 +31,12 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="427"/>
         <source>Yellow</source>
-        <translation type="unfinished">Жовтий</translation>
+        <translation>Жовтий</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="427"/>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Другий</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="428"/>
@@ -46,12 +46,12 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="428"/>
         <source>Green</source>
-        <translation type="unfinished">Зелений</translation>
+        <translation>Зелений</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="428"/>
         <source>Approved</source>
-        <translation type="unfinished"></translation>
+        <translation>Затверджені</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="429"/>
@@ -61,12 +61,12 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="429"/>
         <source>Blue</source>
-        <translation type="unfinished">Синій</translation>
+        <translation>Синій</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="429"/>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>На розгляд</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="430"/>
@@ -76,37 +76,37 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="430"/>
         <source>Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Фіолетовий</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="430"/>
         <source>To Do</source>
-        <translation type="unfinished"></translation>
+        <translation>На обробку</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Помаранчевий</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="432"/>
         <source>Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="433"/>
         <source>Black</source>
-        <translation type="unfinished">Чорний</translation>
+        <translation>Чорний</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="434"/>
         <source>White</source>
-        <translation type="unfinished">Білий</translation>
+        <translation>Білий</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="333"/>
         <source>Unrated</source>
-        <translation>Без оцінки</translation>
+        <translation>Без рейтингу</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="334"/>
@@ -144,42 +144,42 @@
     <message>
         <location filename="AboutWidget.ui" line="119"/>
         <source>Date</source>
-        <translation type="unfinished">Дата</translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="126"/>
         <source>Social</source>
-        <translation type="unfinished"></translation>
+        <translation>Соціальні мережі</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="133"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Електронна пошта</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="206"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Веб-сайт</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="213"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="220"/>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Форум</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="279"/>
         <source>Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="154"/>
         <source>INI filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Розташування файлу INI</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="370"/>
@@ -224,7 +224,7 @@
     <message>
         <location filename="AboutWidget.ui" line="497"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміни</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="228"/>
@@ -270,22 +270,22 @@
     <message>
         <location filename="ViewWindow.cpp" line="238"/>
         <source>Save &amp;as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти &amp;як...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="246"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Зберегти</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="247"/>
         <source>&amp;Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Не зберігати</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="250"/>
         <source>Don&apos;t ask again</source>
-        <translation>Більше не питати</translation>
+        <translation>Не питати знову</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1421"/>
@@ -306,48 +306,49 @@
         <location filename="ViewWindow.cpp" line="2264"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation>Ви бажаєте відкинути ваші правки і видалити 
+        <translation>Хочете скасувати свої зміни та видалити 
 &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2270"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation>Ви впевнені, що хочете видалити 
+        <translation>Ви дійсно хочете видалити 
+
 &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2274"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation>Ви впевнені, що хочете видалити 
+        <translation>Ви точно видалили?
 &quot;%1&quot; (%2 елементи)?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2935"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation>Зображення буде перетворено в 24-бітний RGB (8 біт на канал)</translation>
+        <translation>Зображення буде перетворено на 24-бітний RGB (8 біт на канал)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2953"/>
         <source>Confirm Save</source>
-        <translation>Підтвердити Зберегти</translation>
+        <translation>Підтвердження збереження</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2954"/>
         <source>&lt;%1&gt; already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%1&gt; вже існує!</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2954"/>
         <source>Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете перезаписати його?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2981"/>
         <location filename="ViewWindow.cpp" line="3162"/>
         <source>An error occurred during saving!</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка збереження!</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4388"/>
@@ -371,7 +372,7 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation>Ви хочете зберегти зміни в
+        <translation>Зберегти зміни в
 &quot;%1&quot;?</translation>
     </message>
     <message>
@@ -396,7 +397,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2945"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>Файл &quot;%1&quot; доступний лише для читання.
+        <translation>Файл &lt;%1&gt; доступний лише для читання.
 Виберіть інше ім&apos;я для файлу.</translation>
     </message>
     <message>
@@ -405,13 +406,13 @@
         <location filename="ViewWindow.cpp" line="3160"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation type="unfinished">Збереження зображення...</translation>
+        <translation>Збереження зображення...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2981"/>
         <location filename="ViewWindow.cpp" line="3162"/>
         <source>Error</source>
-        <translation type="unfinished">Помилка</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3251"/>
@@ -446,7 +447,7 @@
     <message>
         <location filename="DlgSlideshow.cpp" line="563"/>
         <source>Audio Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудіофайли</translation>
     </message>
 </context>
 <context>
@@ -462,12 +463,12 @@
     <message>
         <location filename="BannerProcess.h" line="53"/>
         <source>Abort</source>
-        <translation type="unfinished">Перервати</translation>
+        <translation>Перервати</translation>
     </message>
     <message>
         <location filename="BannerProcess.h" line="54"/>
         <source>Creating contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Створення оглядового листа...</translation>
     </message>
 </context>
 <context>
@@ -486,12 +487,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4864"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для перегляду та конвертування файлів PDF/PS/EPS/AI необхідно встановити Ghostscript %1.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4865"/>
         <source>Please visit the %1 for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для отримання більш детальної інформації, будь ласка, відвідайте %1.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4877"/>
@@ -504,7 +505,7 @@
     <message>
         <location filename="BatchRenameProcess.h" line="21"/>
         <source>Renaming files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейменування файлів...</translation>
     </message>
 </context>
 <context>
@@ -512,14 +513,16 @@
     <message>
         <location filename="Bookmarks.cpp" line="160"/>
         <source>Favorite doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибране не знайдено</translation>
     </message>
     <message>
         <location filename="Bookmarks.cpp" line="160"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибране вказує на неіснуючу папку.
+
+Ви хочете видалити вибране &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -569,7 +572,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="1873"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
-        <translation type="unfinished">Фільтр за категоріями</translation>
+        <translation>Фільтр за категоріями</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1883"/>
@@ -589,22 +592,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="662"/>
         <source>Detach preview panel</source>
-        <translation type="unfinished">Відкріпити панель попереднього перегляду</translation>
+        <translation>Відкріпити панель попереднього перегляду</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="664"/>
         <source>Attach preview panel</source>
-        <translation type="unfinished">Закріпити панель попереднього перегляду</translation>
+        <translation>Закріпити панель попереднього перегляду</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="895"/>
         <source>The database is corrupted, please check it before to continue!</source>
-        <translation type="unfinished"></translation>
+        <translation>База даних пошкоджена, будь ласка, перевірте дані перед продовженням!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1626"/>
         <source>Add to Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати до вибраного</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2099"/>
@@ -617,7 +620,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клацніть, щоб застосувати фільтр - використовуйте Shift та Ctrl для вибору кількох елементів.
+Клацніть правою кнопкою миші по будь-якому елементу викликає спливаюче меню.
+Перетягніть об&apos;єкт на потрібний вузол для присвоєння категорії.</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2132"/>
@@ -648,7 +653,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3854"/>
         <source>The files cannot be renamed, an error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл не може бути перейменований, виникла помилка.</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3525"/>
@@ -673,32 +678,32 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1929"/>
         <source>Metadata</source>
-        <translation type="unfinished">Метадані</translation>
+        <translation>Метадані</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1938"/>
         <source>Histogram</source>
-        <translation type="unfinished">Гістограма</translation>
+        <translation>Гістограма</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2115"/>
         <source>Match any selected entry (OR)</source>
-        <translation type="unfinished"></translation>
+        <translation>Збіг з будь-яким вибраним записом (АБО)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2121"/>
         <source>Match all selected entries (AND)</source>
-        <translation type="unfinished"></translation>
+        <translation>Збіг з будь-яким вибраним записом (І)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3218"/>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Результат фільтрації за категоріями&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3220"/>
         <source>&lt;files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;файли&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3305"/>
@@ -708,36 +713,36 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3762"/>
         <source>Delete items &amp; companions</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалення елементів та супутніх файлів</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="3763"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ви впевнені, що хочете видалити цей %n елемент - вибрано %1 елемент?</numerusform>
+            <numerusform>Ви впевнені, що хочете видалити ці %n елементи - вибрано %1 елемени?</numerusform>
+            <numerusform>Ви впевнені, що хочете видалити цих %n елементів - вибрано %1 елементів?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4218"/>
         <source>Search...</source>
-        <translation type="unfinished">Знайти...</translation>
+        <translation>Знайти...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4219"/>
         <source>Add to favorites...</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати до вибраного...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4222"/>
         <source>Start slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити слайд-шоу</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4227"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Властивості</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4336"/>
@@ -752,7 +757,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4216"/>
         <source>Show files in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати файли у вкладених папках</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4224"/>
@@ -780,7 +785,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryLineEdit.h" line="41"/>
         <source> [Create New]</source>
-        <translation>[Створити новий]</translation>
+        <translation> [Створити новий]</translation>
     </message>
 </context>
 <context>
@@ -811,13 +816,13 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="CategorySetPanel.cpp" line="208"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation>Присвоїти значення вибору</translation>
+        <translation>Призначити Набір виділених об&apos;єктів</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="209"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation>Скасувати набір для вибору</translation>
+        <translation>Зняти Набір виділених об&apos;єктів</translation>
     </message>
 </context>
 <context>
@@ -894,7 +899,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="400"/>
         <source>New album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Новий альбом...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="405"/>
@@ -920,52 +925,52 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="407"/>
         <source>Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Порожній</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="409"/>
         <source>Export (Bridge format)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Експорт (формат Bridge)...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="412"/>
         <source>Import (Bridge format)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпорт (формат Bridge)...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="437"/>
         <source>Delete album</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити альбом</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="437"/>
         <source>Are you sure to delete this album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви впевнені, що хочете видалити цей альбом?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="443"/>
         <source>New Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Новий альбом</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="455"/>
         <source>Empty album</source>
-        <translation type="unfinished"></translation>
+        <translation>Порожній альбом</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="455"/>
         <source>Are you sure to clear this album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви впевнені, що хочете очистити цей альбом?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="462"/>
         <source>Import collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпортувати колекцію</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="468"/>
         <source>Export collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Експортувати колекцію</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="544"/>
@@ -995,7 +1000,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="41"/>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Автопідганяння</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="43"/>
@@ -1010,7 +1015,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="47"/>
         <source>CRC</source>
-        <translation type="unfinished"></translation>
+        <translation>CRC</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="49"/>
@@ -1020,12 +1025,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="70"/>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Звичайний</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="73"/>
         <source>Tabs</source>
-        <translation type="unfinished">Вкладки</translation>
+        <translation>Вкладки</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="542"/>
@@ -1112,12 +1117,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="ContactSheetProcess.h" line="44"/>
         <source>Abort</source>
-        <translation type="unfinished">Перервати</translation>
+        <translation>Перервати</translation>
     </message>
     <message>
         <location filename="ContactSheetProcess.h" line="44"/>
         <source>Creating contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Створення оглядового листа...</translation>
     </message>
 </context>
 <context>
@@ -1185,12 +1190,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="569"/>
         <source>Zealous crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Добре обрізання</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="610"/>
         <source>Automatic deskew</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичне вирівнювання</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="631"/>
@@ -1248,7 +1253,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvertProcess.h" line="479"/>
         <location filename="DlgCurves.h" line="41"/>
         <source>Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Криві</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4671"/>
@@ -1259,7 +1264,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2453"/>
         <source>Black/White Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Чорно-біла точка</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2474"/>
@@ -1274,12 +1279,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2530"/>
         <source>Transparent color</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозорий колір</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2577"/>
         <source>Aspect Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропорції</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2636"/>
@@ -1315,12 +1320,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="3234"/>
         <source>Blurred frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмитий кадр</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3479"/>
         <source>Inner Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Внутрішій кадр</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3833"/>
@@ -1335,7 +1340,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4473"/>
         <source>Film Simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>Імітація фільму</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4513"/>
@@ -1345,23 +1350,23 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4537"/>
         <source>Unsharp Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Нерізка маска</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4569"/>
         <source>Clear transparent pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити прозорі пікселі</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4583"/>
         <source>Remove alpha channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити альфа-канал</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4597"/>
         <location filename="DlgOffset.h" line="100"/>
         <source>Offset</source>
-        <translation type="unfinished">Зсув</translation>
+        <translation>Зсув</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4623"/>
@@ -1376,7 +1381,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4687"/>
         <source>Mono Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Мономіксер</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4712"/>
@@ -1412,7 +1417,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4934"/>
         <source>QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR-код</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2924"/>
@@ -1423,7 +1428,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2702"/>
         <source>Swap color</source>
-        <translation type="unfinished">Поміняти</translation>
+        <translation>Поміняти</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2944"/>
@@ -1569,7 +1574,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="205"/>
         <source>Desaturate</source>
-        <translation type="unfinished"></translation>
+        <translation>Знебарвлення</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="208"/>
@@ -1602,7 +1607,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="225"/>
         <source>Exposure</source>
-        <translation type="unfinished">Експозиція</translation>
+        <translation>Експозиція</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="233"/>
@@ -1770,52 +1775,52 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="1729"/>
         <source>Add</source>
-        <translation type="unfinished">Додавати</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1732"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Канали</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1733"/>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Поліпшити</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1734"/>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Рамка</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1735"/>
         <source>Metadata</source>
-        <translation type="unfinished">Метадані</translation>
+        <translation>Метадані</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1736"/>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Шум</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Пікселізація</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1738"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Стилізація</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1739"/>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетворити</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1740"/>
         <source>Video</source>
-        <translation type="unfinished">Відеофайли</translation>
+        <translation>Відео</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -1831,12 +1836,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgFilm.cpp" line="136"/>
         <source>Film simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>Імітація плівки</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="253"/>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Ефекти</translation>
     </message>
 </context>
 <context>
@@ -1846,7 +1851,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="ConvertThread.cpp" line="1258"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation>УВАГА: Зображення буде перетворено в 24-бітовий RGB (8 біт на канал)</translation>
+        <translation>Попередження: Зображення буде перетворено на 24-бітний RGB (8 біт на канал)</translation>
     </message>
 </context>
 <context>
@@ -1854,13 +1859,13 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgPlugins.h" line="84"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити</translation>
     </message>
     <message>
         <location filename="DlgPlugins.h" line="98"/>
         <location filename="DlgPlugins.h" line="122"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановлено</translation>
     </message>
 </context>
 <context>
@@ -1959,7 +1964,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="132"/>
         <source>People</source>
-        <translation type="unfinished"></translation>
+        <translation>Люди</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="135"/>
@@ -1979,7 +1984,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="142"/>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Альбом</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="327"/>
@@ -2001,98 +2006,98 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgAcquireInto.ui" line="14"/>
         <source>Batch acquire (TWAIN)</source>
         <oldsource>Batch scanning</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Пакетне сканування</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="28"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="53"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="44"/>
         <source>Use subfolder based on current date</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити підпапку на основі поточної дати</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="67"/>
         <source>Start index</source>
-        <translation type="unfinished"></translation>
+        <translation>Початковий індекс</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="81"/>
         <source>Decrease</source>
-        <translation type="unfinished"></translation>
+        <translation>Зменшення</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="105"/>
         <source>Format</source>
-        <translation type="unfinished">Формат</translation>
+        <translation>Формат</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="119"/>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Установки...</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="141"/>
         <source>Save as multipage (TIFF/PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти як багатосторінковий файл (TIFF/PDF)</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="166"/>
         <source>Restart TWAIN driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустити драйвер TWAIN</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="200"/>
         <source>Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Сканувати</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="220"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="74"/>
         <source>Please enter a valid output pathname!</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, введіть дійсний шлях!</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="78"/>
         <source>Close</source>
-        <translation type="unfinished">Закрити</translation>
+        <translation>Закрити</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="81"/>
         <source>Scan started...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сканування почалося...</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="149"/>
         <source>Scan saved in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Відсканований об&apos;єкт збережено в %1</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="173"/>
         <source>An error has occurred when saving %1</source>
         <oldsource>An error occured when saving %1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Сталася помилка при збереженні %1</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="179"/>
         <source>Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Продовжити?</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="179"/>
         <source>Do you want to continue to scan?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви хочете сканування?</translation>
     </message>
 </context>
 <context>
@@ -2152,7 +2157,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgArchive.cpp" line="103"/>
         <source>Creating archive, please wait...</source>
         <oldsource>Creating archive, please wait... </oldsource>
-        <translation type="unfinished">Створення архіву, будь ласка, зачекайте...</translation>
+        <translation>Створення архіву, будь ласка, зачекайте...</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="124"/>
@@ -2165,7 +2170,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBanner.cpp" line="121"/>
         <source>Are you sure to overwrite original files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете перезаписати вихідні файли?</translation>
     </message>
 </context>
 <context>
@@ -2173,67 +2178,67 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBanner.ui" line="14"/>
         <source>Banner</source>
-        <translation type="unfinished"></translation>
+        <translation>Банер</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="48"/>
         <source>Settings</source>
-        <translation type="unfinished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="56"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="210"/>
         <source>Font</source>
-        <translation type="unfinished">Шрифт</translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="169"/>
         <source>Alignment</source>
-        <translation type="unfinished">Вирівнювання</translation>
+        <translation>Вирівнювання</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="151"/>
         <source>Left</source>
-        <translation type="unfinished">Зліва</translation>
+        <translation>Зліва</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="156"/>
         <source>Center</source>
-        <translation type="unfinished">Центр</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="161"/>
         <source>Right</source>
-        <translation type="unfinished">Праворуч</translation>
+        <translation>Справа</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="86"/>
         <source>Text color</source>
-        <translation type="unfinished">Колір тексту</translation>
+        <translation>Колір тексту</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="123"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="103"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Розташування</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;p&gt;Усі характеристики банера (шрифт, колір, розмір тощо) переносяться з попередньо створеного банера. Винятком є розмір тексту, який розраховується як «Найкраще припасування» для висоти банера.&lt;/p&gt;&lt;p&gt;Ви можете вибрати кілька зображень, щоб застосувати той самий банер до кількох зображень одночасно. Зверніть увагу, що тоді текст матиме однаковий розмір на всіх зображеннях.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot; left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Комбінації клавіш&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Плюс/Мінус&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Збільшити/зменшити розмір шрифту на 2 пункти&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Плюс/Мінус&lt;/td&gt;&lt;td style=&quot;padding- left:15px&quot;&gt;Збільшити/зменшити розмір банера на 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Почати створення банера&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
         <source>Top</source>
-        <translation type="unfinished">Зверху</translation>
+        <translation>Зверху</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="182"/>
@@ -2243,38 +2248,38 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBanner.ui" line="187"/>
         <source>Left (top-bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>Зліва (зверху донизу)</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="192"/>
         <source>Left (bottom-top)</source>
-        <translation type="unfinished"></translation>
+        <translation>Зліва (знизу догори)</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="197"/>
         <source>Right (top-bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>Праворуч (згори донизу)</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="202"/>
         <source>Right (bottom-top)</source>
-        <translation type="unfinished"></translation>
+        <translation>Дело (знизу догори)</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="224"/>
         <source>Border</source>
-        <translation type="unfinished">Обрамлення</translation>
+        <translation>Обрамлення</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="238"/>
         <source>Overwrite original file(s) when saving</source>
         <oldsource>Overwrite original file when saving</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Перезаписувати вихідні файли</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="143"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір</translation>
     </message>
 </context>
 <context>
@@ -2282,515 +2287,515 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.ui" line="43"/>
         <source>Select Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибрати зображення</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="74"/>
         <source>Action</source>
-        <translation type="unfinished">Дія</translation>
+        <translation>Дія</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="257"/>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміна розміру</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="284"/>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Предустановки</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="292"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Користувацька</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="297"/>
         <source>Original size</source>
-        <translation type="unfinished">Початковий розмір</translation>
+        <translation>Початковий розмір</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="302"/>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation type="unfinished">Фотографія 8x10 дюйма (20x25 см) {4x?} {6 ?} {10x?} {15 ?}</translation>
+        <translation>Фото 4x6 дм (10x15 см)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="307"/>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation type="unfinished">Фотографія 8x10 дюйма (20x25 см) {5x?} {7 ?} {13x?} {18 ?}</translation>
+        <translation>Фото 5x7 дм (13x18 cm)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="312"/>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation type="unfinished">Фотографія 8x10 дюйма (20x25 см) {6x?} {8 ?} {15x?} {20 ?}</translation>
+        <translation>Фото 6x8 дм (15x20 cm)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="317"/>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation type="unfinished">Фотографія 8x10 дм (20x25 см)</translation>
+        <translation>Фото 8x10 дм (20x25 см)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="358"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="372"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>За розміром</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="377"/>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="382"/>
         <source>Longest side</source>
-        <translation type="unfinished">За найбільшою стороні</translation>
+        <translation>За найбільшою стороні</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="387"/>
         <source>Shortest side</source>
-        <translation type="unfinished">За найменшою стороні</translation>
+        <translation>За найменшою стороні</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="392"/>
         <source>Mpixels</source>
-        <translation type="unfinished">Мегапікселі</translation>
+        <translation>Мегапікселі</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="397"/>
         <location filename="DlgBatchResize.ui" line="461"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="402"/>
         <location filename="DlgBatchResize.ui" line="437"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="430"/>
         <source>Image size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір зображення</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="508"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="518"/>
         <location filename="DlgBatchResize.ui" line="534"/>
         <location filename="DlgBatchResize.ui" line="550"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="581"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>пікселів</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="586"/>
         <source>percent</source>
-        <translation type="unfinished"></translation>
+        <translation>відсотків</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="591"/>
         <source>inches</source>
-        <translation type="unfinished"></translation>
+        <translation>дюймів</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="596"/>
         <source>cm</source>
-        <translation type="unfinished">см</translation>
+        <translation>см</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="601"/>
         <source>mm</source>
-        <translation type="unfinished">мм</translation>
+        <translation>мм</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="626"/>
         <source>Keep ratio</source>
-        <translation type="unfinished">Зберігати пропорції</translation>
+        <translation>Зберігати пропорції</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="636"/>
         <source>Use gamma correction</source>
-        <translation type="unfinished">Використовувати гамма-корекцію</translation>
+        <translation>Використовувати гамма-корекцію</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="661"/>
         <source>Resample</source>
-        <translation type="unfinished">Повторна вибірка</translation>
+        <translation>Повторна вибірка</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="672"/>
         <source>Nearest Neighbour</source>
-        <translation type="unfinished">Сусідні пікселі</translation>
+        <translation>Сусідні пікселі</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="677"/>
         <source>Bilinear</source>
-        <translation type="unfinished">Білінійна</translation>
+        <translation>Білінійна</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="719"/>
         <source>Enlarge/Reduce</source>
-        <translation type="unfinished">Збільшення/Зменшення</translation>
+        <translation>Збільшення/Зменшення</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="730"/>
         <source>Always</source>
-        <translation type="unfinished">Завжди</translation>
+        <translation>Завжди</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="735"/>
         <source>Reduce only</source>
-        <translation type="unfinished">Тільки зменш.</translation>
+        <translation>Лише зменшити</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="740"/>
         <source>Enlarge only</source>
-        <translation type="unfinished">Тільки збільш.</translation>
+        <translation>Лише збільшити</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="780"/>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Обертання</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="789"/>
         <source>+90° (clockwise)</source>
         <oldsource>90° Clockwise</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>+90° (Повернути за годинниковою стрілкою)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="796"/>
         <source>-90° (counter clockwise)</source>
         <oldsource>90° Anti Clockwise</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>-90° (Повернути проти годинникової стрілки)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="803"/>
         <source>180°</source>
-        <translation type="unfinished">На 180°</translation>
+        <translation>На 180°</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="102"/>
         <source>Output</source>
-        <translation type="unfinished">Вихідні дані</translation>
+        <translation>Вихідні дані</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="851"/>
         <source>Output Filename</source>
-        <translation>Ім&apos;я на виході</translation>
+        <translation>Кінцевий шлях</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="859"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="880"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="909"/>
         <source>Case</source>
-        <translation type="unfinished">Регістр</translation>
+        <translation>Регістр</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="917"/>
         <source>No change</source>
-        <translation type="unfinished">Без змін</translation>
+        <translation>Без змін</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="922"/>
         <source>Name &amp; extension lowercase</source>
-        <translation type="unfinished">Ім&apos;я та розширення: нижній регістр</translation>
+        <translation>Ім&apos;я та розширення: нижній регістр</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="927"/>
         <source>Name &amp; extension uppercase</source>
-        <translation type="unfinished">Ім&apos;я та розширення: верхній регістр</translation>
+        <translation>Ім&apos;я та розширення: верхній регістр</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="932"/>
         <source>Name lowercase</source>
-        <translation type="unfinished">Ім&apos;я: нижній регістр</translation>
+        <translation>Ім&apos;я: нижній регістр</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="937"/>
         <source>Name uppercase</source>
-        <translation type="unfinished">Ім&apos;я: верхній регістр</translation>
+        <translation>Ім&apos;я: верхній регістр</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="942"/>
         <source>Extension lowercase</source>
-        <translation type="unfinished">Розширення: нижній регістр</translation>
+        <translation>Розширення: нижній регістр</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="947"/>
         <source>Extension uppercase</source>
-        <translation type="unfinished">Розширення: верхній регістр</translation>
+        <translation>Розширення: верхній регістр</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="952"/>
         <source>First letters uppercase</source>
-        <translation type="unfinished">Перша буква заголовна</translation>
+        <translation>Перша буква заголовна</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="976"/>
         <source>Start index</source>
-        <translation type="unfinished"></translation>
+        <translation>Початковий індекс</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1003"/>
         <source>Format</source>
-        <translation type="unfinished">Формат</translation>
+        <translation>Формат</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1013"/>
         <location filename="DlgBatchResize.cpp" line="143"/>
         <source>Same as original</source>
         <oldsource>As original</oldsource>
-        <translation type="unfinished">Як вихідний</translation>
+        <translation>Як вихідний</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1027"/>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Установки...</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1039"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1047"/>
         <source>If an output file already exists</source>
         <oldsource>If an output file arealdy exists</oldsource>
-        <translation type="unfinished">Якщо файл вже існує, то</translation>
+        <translation>Якщо файл вже існує, то</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1058"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Замінити</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1063"/>
         <source>Ask</source>
-        <translation type="unfinished">Повідомляти</translation>
+        <translation>Повідомляти</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1068"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустити</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1073"/>
         <source>Rename</source>
-        <translation type="unfinished">Перейменувати</translation>
+        <translation>Перейменувати</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1096"/>
         <source>Keep folder structure</source>
-        <translation type="unfinished">Зберігати структуру папок</translation>
+        <translation>Зберігати структуру папок</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1124"/>
         <source>Keep parent folder</source>
-        <translation type="unfinished">Зберегти батьківську папку</translation>
+        <translation>Зберегти батьківську папку</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1133"/>
         <source>Keep original date/time attributes</source>
-        <translation type="unfinished">Зберігати вихідні атрибути дати/часу</translation>
+        <translation>Зберігати вихідні атрибути дати/часу</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1140"/>
         <source>Preserve Metadata</source>
-        <translation type="unfinished">Зберігати метадані</translation>
+        <translation>Зберігати метадані</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1147"/>
         <source>Preserve color profile</source>
-        <translation type="unfinished">Зберігати колірний профіль</translation>
+        <translation>Зберігати колірний профіль</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="130"/>
         <source>Status</source>
-        <translation type="unfinished">Стан</translation>
+        <translation>Стан</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1193"/>
         <source>Estimated end time:</source>
-        <translation type="unfinished">Приблизно залишилося:</translation>
+        <translation>Приблизно залишилося:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1223"/>
         <source>Remaining:</source>
-        <translation type="unfinished">Залишилося файлів:</translation>
+        <translation>Залишилося файлів:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1253"/>
         <source>Error(s):</source>
-        <translation type="unfinished">Помилок:</translation>
+        <translation>Помилок:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="171"/>
         <source>Settings</source>
-        <translation type="unfinished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1280"/>
         <source>Check for program updates</source>
-        <translation type="unfinished">Перевіряти оновлення програми</translation>
+        <translation>Перевіряти оновлення програми</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1288"/>
         <source>Never</source>
-        <translation type="unfinished">Ніколи</translation>
+        <translation>Ніколи</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1293"/>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation>Кожен день</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1298"/>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation>Раз на тиждень</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1303"/>
         <source>Monthly</source>
-        <translation type="unfinished"></translation>
+        <translation>Раз на місяць</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1328"/>
         <source>Language</source>
-        <translation type="unfinished">Мова</translation>
+        <translation>Мова</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1357"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation type="unfinished">Повертати зображення згідно значення EXIF орієнтації</translation>
+        <translation>Повертати зображення згідно значення EXIF орієнтації</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1371"/>
         <source>Load format settings...</source>
-        <translation type="unfinished">Завантажити настроювання формату...</translation>
+        <translation>Завантажити настроювання формату...</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="199"/>
         <source>About</source>
-        <translation type="unfinished">Про програму</translation>
+        <translation>Про програму</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1364"/>
         <source>Use multiple CPU Cores</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати кілька ядер у багатоядерних процесорах</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1460"/>
         <source>&lt; Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Назад</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1488"/>
         <source>Stop</source>
-        <translation type="unfinished">Зупинити</translation>
+        <translation>Зупинити</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1500"/>
         <source>&amp;Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Перетворити</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1522"/>
         <source>Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Наступний &gt;</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1543"/>
         <source>Close</source>
-        <translation type="unfinished">Закрити</translation>
+        <translation>Закрити</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="460"/>
         <source>Select Photos: %n file(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Виберіть фотографію: %n файлі</numerusform>
+            <numerusform>Виберіть фотографії: %n файлах</numerusform>
+            <numerusform>Виберіть фотографії: %n файлах</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="496"/>
         <source>%n file(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n файл</numerusform>
+            <numerusform>%n файли</numerusform>
+            <numerusform>%n файлів</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="496"/>
         <source>Source: %1 %2 - Output (estimated): %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Початковий файл: %1 %2 - Кінцевий файл (оцінно): %3 %4</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="507"/>
         <source>Choose output pathname</source>
-        <translation type="unfinished">Виберіть кінцевий шлях</translation>
+        <translation>Виберіть кінцевий шлях</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="590"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Параметр &quot;Використовувати кілька ядер процесора&quot; було вимкнено. Цей параметр не можна поєднувати з режимом &quot;Запитати&quot; або багатосторінковими PDF-файлами.</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="638"/>
         <source>Input files:</source>
-        <translation type="unfinished">Вхідних файлів:</translation>
+        <translation>Вхідних файлів:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="639"/>
         <source>Extracted pages:</source>
-        <translation type="unfinished">Витягнутих сторінок:</translation>
+        <translation>Витягнутих сторінок:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="642"/>
         <source>New files:</source>
-        <translation type="unfinished">Нових файлів:</translation>
+        <translation>Нових файлів:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="644"/>
         <source>Overwritten:</source>
-        <translation type="unfinished">Перезаписано:</translation>
+        <translation>Перезаписано:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="646"/>
         <source>Skipped:</source>
-        <translation type="unfinished">Пропущено:</translation>
+        <translation>Пропущено:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="649"/>
         <source>Total Duration:</source>
-        <translation type="unfinished">Загальна тривалість:</translation>
+        <translation>Загальна тривалість:</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="655"/>
         <source>%n second(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n секунда</numerusform>
             <numerusform>%n секунди</numerusform>
             <numerusform>%n секунд</numerusform>
@@ -2800,7 +2805,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="658"/>
         <location filename="DlgBatchResize.cpp" line="662"/>
         <source>%n minute(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n хвилина</numerusform>
             <numerusform>%n хвилини</numerusform>
             <numerusform>%n хвилин</numerusform>
@@ -2810,73 +2815,73 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgBatchResize.cpp" line="662"/>
         <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n hour(s) and </source>
-        <translation type="unfinished">
-            <numerusform>%n година і</numerusform>
-            <numerusform>%n години і</numerusform>
-            <numerusform>%n годин і</numerusform>
+        <translation>
+            <numerusform>%n година і </numerusform>
+            <numerusform>%n години і </numerusform>
+            <numerusform>%n годин і </numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="706"/>
         <source>[Finished]</source>
-        <translation type="unfinished">[Завершено]</translation>
+        <translation>[Завершено]</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1379"/>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;XnResize надається безкоштовно для приватного чи комерційного використання. &lt;br&gt;Вам надається право використовувати та створювати необмежену кількість копій цього програмного забезпечення.&lt;br&gt;&lt;br&gt;Це програмне забезпечення надається «як є».&lt;br&gt;Жодних гарантій будь-якого роду явних чи неявних немає. &lt;br&gt;Автор не несе відповідальності за втрату даних, збитки, втрачену вигоду або будь-який інший вид втрати під час використання або неправильного використання цього програмного забезпечення.&lt;br&gt;&lt;br&gt;Будь-які пропозиції, відгуки та коментарі вітаються. </translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1425"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">файл не є зображенням</translation>
+        <translation>файл не є зображенням</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1428"/>
         <source>open error</source>
-        <translation type="unfinished">помилка при відкритті</translation>
+        <translation>помилка при відкритті</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1431"/>
         <source>create error</source>
-        <translation type="unfinished">помилка при створенні</translation>
+        <translation>помилка при створенні</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1434"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation type="unfinished">файл має атрибут тільки для читання, його не можливо перезаписати!</translation>
+        <translation>файл має атрибут тільки для читання, його не можливо перезаписати!</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1437"/>
         <source>skipped, file already exists!</source>
-        <translation type="unfinished">пропущено, файл вже існує!</translation>
+        <translation>пропущено, файл вже існує!</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1439"/>
         <source>failed</source>
-        <translation type="unfinished">невдало</translation>
+        <translation>невдало</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1445"/>
         <source>loading</source>
-        <translation type="unfinished"></translation>
+        <translation>завантаження</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1463"/>
         <source>loaded</source>
-        <translation type="unfinished">завантажено</translation>
+        <translation>завантажено</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1484"/>
         <source>saved</source>
-        <translation type="unfinished">збережено</translation>
+        <translation>збережено</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1519"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation>Перезаписати файл</translation>
+        <translation>Перезаписування файлу</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1520"/>
@@ -2886,38 +2891,40 @@ Drag and Drop over the desired node to assign.</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Файл &quot;%1&quot; вже існує.
-Ви хочете перезаписати його?</translation>
+        <translation>У пункті призначення вже є файл з ім&apos;ям: 
+%1
+
+Ви хочете його перезаписати?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
         <source>Yes to &amp;all</source>
-        <translation type="unfinished">Так &amp;все</translation>
+        <translation>Так &amp;все</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished">&amp;Так</translation>
+        <translation>&amp;Так</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1524"/>
         <source>&amp;No</source>
-        <translation type="unfinished">&amp;Ні</translation>
+        <translation>&amp;Ні</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1525"/>
         <source>&amp;Rename</source>
-        <translation type="unfinished"> &amp;Перейменувати </translation>
+        <translation>&amp;Перейменувати</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1526"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Скасувати</translation>
+        <translation>&amp;Скасувати</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="1554"/>
         <source>%n second(s) remaining</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n секунда</numerusform>
             <numerusform>%n секунди</numerusform>
             <numerusform>%n секунд</numerusform>
@@ -2927,7 +2934,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgBatchResize.cpp" line="1557"/>
         <location filename="DlgBatchResize.cpp" line="1561"/>
         <source>%n minute(s) remaining</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n хвилина</numerusform>
             <numerusform>%n хвилини</numerusform>
             <numerusform>%n хвилин</numerusform>
@@ -2974,12 +2981,12 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="104"/>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Затримка</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="116"/>
         <source>second(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>секунди</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="125"/>
@@ -2989,28 +2996,28 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="153"/>
         <source>Output</source>
-        <translation type="unfinished">Вихідні дані</translation>
+        <translation>Вихідні дані</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="159"/>
         <source>Open in View mode</source>
         <oldsource>Open in editor</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити в редакторі</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="166"/>
         <source>Open in Draw mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити в режимі &quot;Малювання&quot;</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="175"/>
         <source>Save to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти до папки</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="216"/>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Установки...</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="264"/>
@@ -3031,18 +3038,18 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgCapture.ui" line="284"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Приховувати XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="291"/>
         <source>Play sound when done</source>
-        <translation type="unfinished"></translation>
+        <translation>Відтворювати звук після завершення</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="238"/>
         <source>Copy to clipboard</source>
         <oldsource>Copy in clipboard</oldsource>
-        <translation type="unfinished">Копіювати в буфер обміну</translation>
+        <translation>Копіювати в буфер обміну</translation>
     </message>
 </context>
 <context>
@@ -3187,7 +3194,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgComment.ui" line="14"/>
         <source>Edit comment</source>
         <oldsource>Set comment</oldsource>
-        <translation type="unfinished">Змінити опис/коментар</translation>
+        <translation>Змінити опис/коментар</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="35"/>
@@ -3213,7 +3220,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgComment.ui" line="65"/>
         <source>Use same text for description &amp;&amp; comment</source>
         <oldsource>Use same text for description &amp; comment</oldsource>
-        <translation type="unfinished">Використовувати той самий текст в описі та вбудованому коментарі</translation>
+        <translation>Використовувати той самий текст в описі та вбудованому коментарі</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="138"/>
@@ -3225,7 +3232,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgComment.ui" line="145"/>
         <source>Write &amp;all</source>
         <oldsource>Write all</oldsource>
-        <translation type="unfinished">Зберегти все</translation>
+        <translation>Зберегти &amp;все</translation>
     </message>
 </context>
 <context>
@@ -3246,319 +3253,319 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="14"/>
         <source>Create Contact Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Створення оглядового листа</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="24"/>
         <source>File list</source>
-        <translation type="unfinished">Список файлів</translation>
+        <translation>Список файлів</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="34"/>
         <source>Settings</source>
-        <translation type="unfinished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="42"/>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Аркуш</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="91"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="109"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>пікселі</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="114"/>
         <source>inches</source>
-        <translation type="unfinished"></translation>
+        <translation>дюйми</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="119"/>
         <source>cm</source>
-        <translation type="unfinished">см</translation>
+        <translation>см</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="124"/>
         <source>mm</source>
-        <translation type="unfinished">мм</translation>
+        <translation>мм</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="132"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="156"/>
         <source>DPI</source>
-        <translation type="unfinished">Кількість точок/дюйм</translation>
+        <translation>Кількість точок/дюйм</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="193"/>
         <source>Margin (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміщення (пікселів)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="200"/>
         <source>Horizontal margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміщення по горизонталі</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="207"/>
         <source>Vertical margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміщення по вертикалі</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="231"/>
         <location filename="DlgContactSheet.ui" line="396"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="258"/>
         <source>Background image</source>
-        <translation type="unfinished"></translation>
+        <translation>Фонове зображення</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="293"/>
         <source>Thumbnail</source>
-        <translation type="unfinished">Ескіз</translation>
+        <translation>Ескіз</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="301"/>
         <source>Thumbnails per page</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість ескізів на сторінці</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="308"/>
         <source>Columns</source>
-        <translation type="unfinished">Стовпців</translation>
+        <translation>Стовпців</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="328"/>
         <source>Rows</source>
-        <translation type="unfinished">Рядів</translation>
+        <translation>Рядів</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="358"/>
         <source>Spacing (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Інтервал (пікселів)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="365"/>
         <source>Horizontal spacing</source>
-        <translation type="unfinished">Відстань по горизонталі</translation>
+        <translation>Відстань по горизонталі</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="372"/>
         <source>Vertical spacing</source>
-        <translation type="unfinished">Відстань по вертикалі</translation>
+        <translation>Відстань по вертикалі</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="421"/>
         <source>Fill mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим заповнення</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="448"/>
         <source>Information</source>
-        <translation type="unfinished">Інформація</translation>
+        <translation>Інформація</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="454"/>
         <source>Header</source>
-        <translation type="unfinished">Верхній колонтитул</translation>
+        <translation>Верхній колонтитул</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="482"/>
         <source>Footer</source>
-        <translation type="unfinished">Нижній колонтитул</translation>
+        <translation>Нижній колонтитул</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="510"/>
         <source>Show information</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображати блок інформації</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="533"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Колір</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="541"/>
         <source>Text background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Колір тексту тла</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="568"/>
         <source>Text color</source>
-        <translation type="unfinished">Колір тексту</translation>
+        <translation>Колір тексту</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="599"/>
         <source>Font</source>
-        <translation type="unfinished">Шрифт</translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="627"/>
         <source>Output</source>
-        <translation type="unfinished">Вихідні дані</translation>
+        <translation>Вихідні дані</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="633"/>
         <source>Source folder</source>
-        <translation type="unfinished">Вихідна папка</translation>
+        <translation>Вихідна папка</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="642"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="663"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="693"/>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Установки...</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="704"/>
         <source>After finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Після завершення</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="712"/>
         <source>Do Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічого не робити</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="717"/>
         <source>Open Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкривати браузер</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Explorer</source>
         <oldsource>Open System Explorer</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити файли у провіднику</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
         <source>Preview</source>
-        <translation type="unfinished">Передпроглядання</translation>
+        <translation>Передпроглядання</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="783"/>
         <source>Previous file</source>
-        <translation type="unfinished">Попередній файл</translation>
+        <translation>Попередній файл</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="800"/>
         <source>Next file</source>
-        <translation type="unfinished">Наступний файл</translation>
+        <translation>Наступний файл</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="830"/>
         <source>Zoom in</source>
-        <translation type="unfinished">Збільшити</translation>
+        <translation>Збільшити</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
         <source>Best fit</source>
-        <translation type="unfinished"></translation>
+        <translation>За розміром вікна</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
         <source>Zoom out</source>
-        <translation type="unfinished">Зменшити</translation>
+        <translation>Зменшити</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="183"/>
         <source>&amp;Create</source>
-        <translation type="unfinished">&amp;Створити</translation>
+        <translation>&amp;Створити</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="216"/>
         <source>Error</source>
-        <translation type="unfinished">Помилка</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="216"/>
         <source>You need to choose an output folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Необхідно вибрати папку вихідних даних.</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="354"/>
         <source>Page number</source>
-        <translation type="unfinished">Номер сторінки</translation>
+        <translation>Номер сторінки</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="356"/>
         <source>Page count</source>
-        <translation type="unfinished">Кількість сторінок</translation>
+        <translation>Кількість сторінок</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="358"/>
         <source>Current date</source>
-        <translation type="unfinished">Поточна дата</translation>
+        <translation>Поточна дата</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="389"/>
         <source>Letter (8.5x11 inch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Letter (8.5x11 дюймів)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="391"/>
         <source>Legal (8.5x14 inch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Legal (8.5x14 дюймів)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="393"/>
         <source>A4 (21.0x29.7cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A4 (21.0x29.7 см)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="395"/>
         <source>A3 (29.7x42.0cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A3 (29.7x42.0cm)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="397"/>
         <source>4x6 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>4x6 дюймів</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="399"/>
         <source>5x7 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>5x7 дюймів</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="401"/>
         <source>6x8 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>6x8 дюймів</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="403"/>
         <source>8x10 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>8x10 дюймів</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="405"/>
         <source>9x12 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>9x12 дюймів</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="407"/>
         <source>11x14 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>11x14 дюймів</translation>
     </message>
 </context>
 <context>
@@ -3572,7 +3579,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgConvert.cpp" line="1309"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
-        <translation type="unfinished">Будь ласка, перезапустіть XnConvert</translation>
+        <translation>Будь ласка, перезапустіть XnConvert.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1331"/>
@@ -3587,7 +3594,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="1644"/>
         <source>Would you like to export filenames, too?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви також хочете експортувати імена файлів?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1967"/>
@@ -3654,7 +3661,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Кінцевий файл вже існує, Ви хочете переписати його?</translation>
+        <translation>Концевий файл вже існує.
+
+Ви хочете його перезаписати?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2453"/>
@@ -3745,23 +3754,23 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="170"/>
         <source>Same as original</source>
-        <translation type="unfinished">Як вихідний</translation>
+        <translation>Як вихідний</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="615"/>
         <source>Save log as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти журнал як...</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="621"/>
         <source>Export log</source>
-        <translation type="unfinished"></translation>
+        <translation>Експорт журналу</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1159"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
-        <translation type="unfinished">&lt;br&gt;XnConvert надається безкоштовно&lt;br&gt;&lt;br&gt;Вам надається право використовувати і робити необмежену кількість копій програмного забезпечення.&lt;br&gt;&lt;br&gt;Це програмне забезпечення надається &quot;як є&quot;.&lt;br&gt;Жодних гарантій будь-якого роду, явних або неявних.&lt;br&gt;Автор не відповідає за втрату даних, пошкодження, втрати прибутку або будь-які інші види втрат, пов&apos;язаних з використанням (правильним чи неправильним) цієї програми.&lt;br&gt;&lt;br&gt;Вітаються будь-які пропозиції, відгуки та коментарі.</translation>
+        <translation>&lt;br&gt;XnConvert надається безкоштовно&lt;br&gt;&lt;br&gt;Вам надається право використовувати і робити необмежену кількість копій програмного забезпечення.&lt;br&gt;&lt;br&gt;Це програмне забезпечення надається &quot;як є&quot;.&lt;br&gt;Жодних гарантій будь-якого роду, явних або неявних.&lt;br&gt;Автор не відповідає за втрату даних, пошкодження, втрати прибутку або будь-які інші види втрат, пов&apos;язаних з використанням (правильним чи неправильним) цієї програми.&lt;br&gt;&lt;br&gt;Вітаються будь-які пропозиції, відгуки та коментарі. </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1332"/>
@@ -3769,7 +3778,9 @@ Do you want to overwrite it?</source>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">%1 версія XnConvert доступна, Ви хочете перейти на сторінку завантаження?</translation>
+        <translation>Доступна версія %1 XnConvert.
+
+Ви хочете перейти на сторінку завантаження?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1593"/>
@@ -3779,7 +3790,7 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1599"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити файл зі списку файлів</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1606"/>
@@ -3789,52 +3800,52 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2310"/>
         <source>Cancel batch processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасування пакетної обробки</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2310"/>
         <source>Do you want to cancel current batch processing?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете скасувати поточну пакетну обробку?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2362"/>
         <source>Loading error(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка завантаження:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2370"/>
         <source>Saving error(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка збереження:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2393"/>
         <source>Total input file size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальний розмір вхідного файлу:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2394"/>
         <source>Total output file size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальний розмір файлу на виході:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2396"/>
         <source>File size ratio:</source>
-        <translation type="unfinished"></translation>
+        <translation>Співвідношення розміру файлу:</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2413"/>
         <location filename="DlgConvert.cpp" line="2761"/>
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n година і</numerusform>
-            <numerusform>%n години і</numerusform>
-            <numerusform>%n годин і</numerusform>
+            <numerusform>%n година і </numerusform>
+            <numerusform>%n години і </numerusform>
+            <numerusform>%n годин і </numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2559"/>
         <source>Finished at: </source>
-        <translation type="unfinished"></translation>
+        <translation>Завершилося: </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2590"/>
@@ -3846,7 +3857,7 @@ Do you want to go on the download page?</source>
         <location filename="DlgConvert.cpp" line="2598"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">файл не є зображенням</translation>
+        <translation>файл не є зображенням</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2601"/>
@@ -3876,7 +3887,7 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2618"/>
         <source>loading</source>
-        <translation type="unfinished"></translation>
+        <translation>завантаження</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2636"/>
@@ -3886,7 +3897,7 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2670"/>
         <source>copied</source>
-        <translation type="unfinished"></translation>
+        <translation>скопійовано</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2674"/>
@@ -3896,13 +3907,13 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2688"/>
         <source>%1 of %2 files</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 із %2 файлів</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2719"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation>Перезаписати файл</translation>
+        <translation>Перезаписування файлу</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2720"/>
@@ -3912,8 +3923,10 @@ Do you want to go on the download page?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Файл &quot;%1&quot; вже існує.
-Ви хочете перезаписати його?</translation>
+        <translation>У пункті призначення вже є файл з ім&apos;ям: 
+%1
+
+Ви хочете його перезаписати?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2722"/>
@@ -3933,7 +3946,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="2725"/>
         <source>&amp;Rename</source>
-        <translation> &amp;Перейменувати </translation>
+        <translation>&amp;Перейменувати</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2726"/>
@@ -3945,14 +3958,18 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнено опцію &quot;Видаляти вихідний файл&quot;.
+
+Ви хочете продовжити?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2793"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я вихідного файлу буде однаковим для всіх перетворених файлів.
+
+Ви хочете продовжити?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2802"/>
@@ -3964,18 +3981,20 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнена опція &quot;Зберегти вихідний файл, якщо результат більший&quot; та деякі дії.
+
+Ви хочете продовжити?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2944"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування &quot;Використовувати кілька ядер у багатоядерних процесорах&quot; вимкнено. Ця установка не може працювати одночасно з налаштуванням &quot;Повідомляти&quot; або з багатосторінковими PDF-файлами.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2946"/>
         <source>Started at: </source>
-        <translation type="unfinished"></translation>
+        <translation>Запущено: </translation>
     </message>
 </context>
 <context>
@@ -4015,27 +4034,27 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="19"/>
         <source>Ratio</source>
-        <translation type="unfinished">Оцінка</translation>
+        <translation>Співвідношення</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="50"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="77"/>
         <source>Orientation</source>
-        <translation type="unfinished">Орієнтація</translation>
+        <translation>Орієнтація</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="85"/>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Пейзаж</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="90"/>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Портрет</translation>
     </message>
 </context>
 <context>
@@ -4059,7 +4078,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Edges:</source>
-        <translation type="unfinished">Краї</translation>
+        <translation>Обрамлення:</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="111"/>
@@ -4069,17 +4088,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="121"/>
         <source>Top</source>
-        <translation type="unfinished">Зверху</translation>
+        <translation>Зверху</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="131"/>
         <source>Left</source>
-        <translation type="unfinished">Зліва</translation>
+        <translation>Зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="141"/>
         <source>Right</source>
-        <translation type="unfinished">Праворуч</translation>
+        <translation>Справа</translation>
     </message>
 </context>
 <context>
@@ -4087,12 +4106,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="22"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Smooth</source>
-        <translation type="unfinished">Згладжувати</translation>
+        <translation>Згладжувати</translation>
     </message>
 </context>
 <context>
@@ -4100,32 +4119,32 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBlackWhite.ui" line="14"/>
         <source>Mono mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Мономіксер</translation>
     </message>
     <message>
         <location filename="DlgConvertBlackWhite.ui" line="22"/>
         <source>Red</source>
-        <translation type="unfinished">Червоний</translation>
+        <translation>Червоний</translation>
     </message>
     <message>
         <location filename="DlgConvertBlackWhite.ui" line="64"/>
         <source>Green</source>
-        <translation type="unfinished">Зелений</translation>
+        <translation>Зелений</translation>
     </message>
     <message>
         <location filename="DlgConvertBlackWhite.ui" line="106"/>
         <source>Blue</source>
-        <translation type="unfinished">Синій</translation>
+        <translation>Синій</translation>
     </message>
     <message>
         <location filename="DlgConvertBlackWhite.ui" line="152"/>
         <source>Colorize</source>
-        <translation type="unfinished">Тонування</translation>
+        <translation>Тонування</translation>
     </message>
     <message>
         <location filename="DlgConvertBlackWhite.ui" line="198"/>
         <source>Saturation</source>
-        <translation type="unfinished">Насиченість</translation>
+        <translation>Насиченість</translation>
     </message>
 </context>
 <context>
@@ -4151,27 +4170,27 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="20"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Квадратне</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="32"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="52"/>
         <source> X </source>
-        <translation type="unfinished"></translation>
+        <translation> X </translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="59"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Blur</source>
-        <translation type="unfinished">Розмиття</translation>
+        <translation>Розмиття</translation>
     </message>
 </context>
 <context>
@@ -4179,7 +4198,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="19"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
@@ -4214,7 +4233,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="294"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Округлення країв</translation>
+        <translation>Округлення</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="138"/>
@@ -4245,48 +4264,48 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="434"/>
         <source>Direction</source>
-        <translation type="unfinished">Напрямок</translation>
+        <translation>Напрямок</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="445"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Верх-Ліворуч</translation>
+        <translation>Верх зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="450"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Верх-Центр</translation>
+        <translation>Верх-центр</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Верх-Праворуч</translation>
+        <translation>Верх-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation>Центр-Ліворуч</translation>
+        <translation>Центр-ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
         <source>Center</source>
-        <translation type="unfinished">Центр</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation>Центр-Праворуч</translation>
+        <translation>Центр-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Низ-Ліворуч</translation>
+        <translation>Низ-Зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
@@ -4298,7 +4317,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Низ-Праворуч</translation>
+        <translation>Низ-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="511"/>
@@ -4311,168 +4330,168 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="35"/>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Предустановки</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="43"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Користувацьке</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="48"/>
         <source>Original size</source>
-        <translation type="unfinished">Початковий розмір</translation>
+        <translation>Початковий розмір</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="53"/>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation type="unfinished">Фотографія 8x10 дюйма (20x25 см) {4x?} {6 ?} {10x?} {15 ?}</translation>
+        <translation>Фото 4x6 дм (10x15 cm)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="58"/>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation type="unfinished">Фотографія 8x10 дюйма (20x25 см) {5x?} {7 ?} {13x?} {18 ?}</translation>
+        <translation>Фото 5x7 дм (13x18 cm)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="63"/>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation type="unfinished">Фотографія 8x10 дюйма (20x25 см) {6x?} {8 ?} {15x?} {20 ?}</translation>
+        <translation>Фото 6x8 дм (15x20 cm)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="68"/>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation type="unfinished">Фотографія 8x10 дм (20x25 см)</translation>
+        <translation>Фото 8x10 дм (20x25 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="116"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="130"/>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Нормальний</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="135"/>
         <source>Square - Longest side</source>
-        <translation type="unfinished"></translation>
+        <translation>Квадрат - Найбільша сторона</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="140"/>
         <source>Square - Shortest side</source>
-        <translation type="unfinished"></translation>
+        <translation>Квадрат - Найменша сторона</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="248"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="255"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="280"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>пікселі</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="285"/>
         <source>percent</source>
-        <translation type="unfinished"></translation>
+        <translation>відсотки</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="290"/>
         <source>inches</source>
-        <translation type="unfinished"></translation>
+        <translation>дюймів</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="295"/>
         <source>cm</source>
-        <translation type="unfinished">см</translation>
+        <translation>см</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="300"/>
         <source>mm</source>
-        <translation type="unfinished">мм</translation>
+        <translation>мм</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="359"/>
         <source>Relative</source>
-        <translation type="unfinished">Відповідно</translation>
+        <translation>Відповідно</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="372"/>
         <source>Keep ratio</source>
-        <translation type="unfinished">Зберігати пропорції</translation>
+        <translation>Зберігати пропорції</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="382"/>
         <source>Follow orientation</source>
-        <translation type="unfinished">Враховувати орієнтацію</translation>
+        <translation>Враховувати орієнтацію</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="401"/>
         <source>Color of pixel at</source>
-        <translation type="unfinished">За кольором пікселя</translation>
+        <translation>За кольором пікселя</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="450"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="394"/>
         <source>Alpha</source>
-        <translation type="unfinished">Альфа-канал</translation>
+        <translation>Альфа-канал</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="480"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Розташування</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Верх-Ліворуч</translation>
+        <translation>Верх зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Верх-Центр</translation>
+        <translation>Верх-центр</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Верх-Праворуч</translation>
+        <translation>Верх-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation>Центр-Ліворуч</translation>
+        <translation>Центр-ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
         <source>Center</source>
-        <translation type="unfinished">Центр</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation>Центр-Праворуч</translation>
+        <translation>Центр-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation>Низ-Ліворуч</translation>
+        <translation>Низ-Зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
@@ -4484,7 +4503,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Низ-Праворуч</translation>
+        <translation>Низ-справа</translation>
     </message>
 </context>
 <context>
@@ -4663,7 +4682,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1050"/>
         <source>Keep original file when encoded result is larger (experimental)</source>
         <oldsource>Keep original file when encoded result is larger</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Зберігати вихідний файл, якщо результат кодування більший (експериментальний)</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1057"/>
@@ -4680,7 +4699,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1101"/>
         <source>Preserve extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти розширення</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1108"/>
@@ -4704,7 +4723,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1131"/>
         <source>Use multiple CPU Cores</source>
         <oldsource>Use CPU Cores</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати кілька ядер у багатоядерних процесорах</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1193"/>
@@ -4739,82 +4758,82 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1305"/>
         <source>Processing list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Список обробки:</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1574"/>
         <source>Theme</source>
-        <translation type="unfinished">Стиль оформлення</translation>
+        <translation>Стиль оформлення</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1582"/>
         <source>Default</source>
-        <translation type="unfinished">Типово</translation>
+        <translation>Типово</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1587"/>
         <source>Light</source>
-        <translation type="unfinished">Легка</translation>
+        <translation>Легка</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1592"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Темний Fusion</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1719"/>
         <source>Registration...</source>
-        <translation type="unfinished">Реєстрація...</translation>
+        <translation>Реєстрація...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1784"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Використовувати вихідний колір підсвічування формату файлу</translation>
+        <translation>Використовувати вихідний колір підсвічування формату файлу</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1249"/>
         <source>Beep at the end of process</source>
-        <translation type="unfinished"></translation>
+        <translation>Звуковий сигнал після завершення процесу</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="240"/>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати оригінал</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Перший файл</translation>
+        <translation>Перший файл</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Останній файл</translation>
+        <translation>Останній файл</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1889"/>
         <source>Presets:</source>
-        <translation type="unfinished">Передустановки:</translation>
+        <translation>Передустановки:</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1896"/>
         <source>Load preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити попереднє встановлення</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1929"/>
         <source>Save preset</source>
-        <translation type="unfinished">Зберегти передустановку</translation>
+        <translation>Зберегти передустановку</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1943"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити попереднє встановлення зі списку</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="2087"/>
         <source>&amp;Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Перетворити</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1829"/>
@@ -4853,7 +4872,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1770"/>
         <source>Restore previous input file list</source>
-        <translation type="unfinished"></translation>
+        <translation>Відновити попередній список вхідних файлів</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="1855"/>
@@ -4895,7 +4914,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="2098"/>
         <source>Close</source>
-        <translation type="unfinished">Закрити</translation>
+        <translation>Закрити</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="243"/>
@@ -5099,13 +5118,13 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="931"/>
         <source>Start index</source>
-        <translation type="unfinished"></translation>
+        <translation>Початковий індекс</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1001"/>
         <source>If an output file already exists</source>
         <oldsource>If an output file arealdy exists</oldsource>
-        <translation type="unfinished">Якщо файл вже існує, то</translation>
+        <translation>Якщо файл вже існує, то</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1085"/>
@@ -5116,7 +5135,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1256"/>
         <source>Exit after conversion</source>
         <oldsource>Close after conversion</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Вийти після перетворення</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1521"/>
@@ -5156,7 +5175,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1695"/>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Примітка: Щоб змінити цей параметр, необхідно запустити програму з правами адміністратора</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1756"/>
@@ -5208,12 +5227,12 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="101"/>
         <source>Grayscale</source>
         <oldsource>Greyscale</oldsource>
-        <translation type="unfinished">Відтінки сірого</translation>
+        <translation>Відтінки сірого</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="94"/>
         <source>Colors</source>
-        <translation>Кольоровий</translation>
+        <translation>Кольорове</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
@@ -5228,7 +5247,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="85"/>
         <source>Background color to use if image has an alpha channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати колір тла, якщо зображення має альфа-канал</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="143"/>
@@ -5245,7 +5264,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Замінювати альфа-канал для 32-розрядних зображень</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5594,22 +5613,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertInnerFrame.ui" line="22"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Колір</translation>
     </message>
     <message>
         <location filename="DlgConvertInnerFrame.ui" line="66"/>
         <source>Fill color</source>
-        <translation type="unfinished"></translation>
+        <translation>Колір заливки</translation>
     </message>
     <message>
         <location filename="DlgConvertInnerFrame.ui" line="46"/>
         <source>Offset</source>
-        <translation type="unfinished">Зсув</translation>
+        <translation>Зсув</translation>
     </message>
     <message>
         <location filename="DlgConvertInnerFrame.ui" line="39"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
 </context>
 <context>
@@ -5625,7 +5644,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="118"/>
         <source>Options</source>
-        <translation>Налаштування</translation>
+        <translation>Опції</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="124"/>
@@ -5662,7 +5681,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="240"/>
         <source>Load template...</source>
-        <translation type="unfinished">Завантажити шаблон...</translation>
+        <translation>Завантажити шаблон...</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="162"/>
@@ -5677,18 +5696,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="193"/>
         <source>Works only for JPEG, TIFF, PNG output format</source>
-        <translation>Буде працювати тільки з JPEG, TIFF і PNG
-вихідними форматами</translation>
+        <translation>Буде працювати тільки з JPEG, TIFF і PNG вихідними форматами</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.h" line="235"/>
         <source>Insert</source>
-        <translation type="unfinished">Вставити</translation>
+        <translation>Вставити</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.h" line="242"/>
         <source>Insert from</source>
-        <translation type="unfinished">Вставити з</translation>
+        <translation>Вставити з</translation>
     </message>
 </context>
 <context>
@@ -5697,37 +5715,37 @@ Do you want to continue?</source>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Яскравість</translation>
+        <translation>Яскравість</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+Яскравість</translation>
+        <translation>RGB+Яскравість</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
         <source>Red</source>
-        <translation type="unfinished">Червоний</translation>
+        <translation>Червоний</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="58"/>
         <source>Green</source>
-        <translation type="unfinished">Зелений</translation>
+        <translation>Зелений</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="63"/>
         <source>Blue</source>
-        <translation type="unfinished">Синій</translation>
+        <translation>Синій</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="214"/>
         <source>Output</source>
-        <translation type="unfinished">Вихідні дані</translation>
+        <translation>Вихідні дані</translation>
     </message>
 </context>
 <context>
@@ -5750,8 +5768,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertLossless.ui" line="57"/>
         <source>based on EXIF rotation value</source>
-        <translation>Повернути, ґрунтуючись
-на значенні EXIF</translation>
+        <translation>Повернути, ґрунтуючись на значенні EXIF</translation>
     </message>
 </context>
 <context>
@@ -5780,12 +5797,12 @@ Do you want to continue?</source>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Розтягнути маску</translation>
+        <translation>Розтягнути</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Замостити</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
@@ -5849,58 +5866,58 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="24"/>
         <source>Left</source>
-        <translation type="unfinished">Зліва</translation>
+        <translation>Зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="44"/>
         <source>Right</source>
-        <translation type="unfinished">Праворуч</translation>
+        <translation>Справа</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="56"/>
         <source>Offset X</source>
-        <translation type="unfinished">Зрушення по X</translation>
+        <translation>Зрушення по X</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="106"/>
         <location filename="DlgConvertOffset.ui" line="204"/>
         <source>pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>пікселів</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="119"/>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Вниз</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="139"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Вгору</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="151"/>
         <source>Offset Y</source>
-        <translation type="unfinished">Зрушення по Y</translation>
+        <translation>Зрушення по Y</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="213"/>
         <source>Empty Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Область тла</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="221"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="250"/>
         <source>Repeat edges pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Замостити граничними пікселями</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="257"/>
         <source>Wrap image around</source>
-        <translation type="unfinished"></translation>
+        <translation>Обтікання зображенням навколо</translation>
     </message>
 </context>
 <context>
@@ -5940,12 +5957,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertPoints.ui" line="20"/>
         <source>Black point</source>
-        <translation type="unfinished">Чорна точка</translation>
+        <translation>Чорна точка</translation>
     </message>
     <message>
         <location filename="DlgConvertPoints.ui" line="53"/>
         <source>White point</source>
-        <translation type="unfinished">Біла точка</translation>
+        <translation>Біла точка</translation>
     </message>
 </context>
 <context>
@@ -5963,45 +5980,45 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="58"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Розташування</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Верх-Ліворуч</translation>
+        <translation>Верх зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Верх-Праворуч</translation>
+        <translation>Верх-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
         <source>Center</source>
-        <translation type="unfinished">Центр</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished">Верх-Центр</translation>
+        <translation>Верх-центр</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation>Центр-Ліворуч</translation>
+        <translation>Центр-ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation>Центр-Праворуч</translation>
+        <translation>Центр-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Низ-Ліворуч</translation>
+        <translation>Низ-Зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
@@ -6013,27 +6030,27 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Низ-Праворуч</translation>
+        <translation>Низ-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
         <source>X margin</source>
-        <translation type="unfinished">Зсув по X</translation>
+        <translation>Зсув по X</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="151"/>
         <source>Y margin</source>
-        <translation type="unfinished">Зсув по Y</translation>
+        <translation>Зсув по Y</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="185"/>
         <source>Scale</source>
-        <translation type="unfinished">Розмір</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="216"/>
         <source>Border</source>
-        <translation type="unfinished">Обрамлення</translation>
+        <translation>Обрамлення</translation>
     </message>
 </context>
 <context>
@@ -6059,22 +6076,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRemoveColor.ui" line="22"/>
         <source>Green</source>
-        <translation type="unfinished">Зелений</translation>
+        <translation>Зелений</translation>
     </message>
     <message>
         <location filename="DlgConvertRemoveColor.ui" line="39"/>
         <source>Red</source>
-        <translation type="unfinished">Червоний</translation>
+        <translation>Червоний</translation>
     </message>
     <message>
         <location filename="DlgConvertRemoveColor.ui" line="56"/>
         <source>Blue</source>
-        <translation type="unfinished">Синій</translation>
+        <translation>Синій</translation>
     </message>
     <message>
         <location filename="DlgConvertRemoveColor.ui" line="87"/>
         <source>Tolerance</source>
-        <translation type="unfinished">Допуск</translation>
+        <translation>Допуск</translation>
     </message>
 </context>
 <context>
@@ -6123,22 +6140,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="50"/>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Фотографія 4x6 дм (10x15 см)</translation>
+        <translation>Фото 4x6 дм (10x15 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="55"/>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Фотографія 5x7 дм (13x18 см)</translation>
+        <translation>Фото 5x7 дм (13x18 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="60"/>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Фотографія 6x8 дм (15x20 см)</translation>
+        <translation>Фото 6x8 дм (15x20 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="65"/>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Фотографія 8x10 дм (20x25 см)</translation>
+        <translation>Фото 8x10 дм (20x25 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="113"/>
@@ -6193,7 +6210,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertResize.ui" line="185"/>
         <source>Image size</source>
         <translatorcomment>Розмір</translatorcomment>
-        <translation>Розмір зобр.</translation>
+        <translation>Розмір зображення</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="283"/>
@@ -6255,12 +6272,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="439"/>
         <source>Reduce only</source>
-        <translation>Тільки зменш.</translation>
+        <translation>Лише зменшити</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="444"/>
         <source>Enlarge only</source>
-        <translation>Тільки збільш.</translation>
+        <translation>Лише збільшити</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="486"/>
@@ -6346,7 +6363,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRotate.ui" line="188"/>
         <source>Auto crop</source>
-        <translation type="unfinished">Автоматична обрізка</translation>
+        <translation>Автоматична обрізка</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
@@ -6453,29 +6470,29 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="63"/>
         <source>% (Height)</source>
-        <translation type="unfinished"></translation>
+        <translation>% (Висота)</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="68"/>
         <source>% (Width)</source>
-        <translation type="unfinished"></translation>
+        <translation>% (Ширина)</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="73"/>
         <source>% (Minimum)</source>
-        <translation type="unfinished"></translation>
+        <translation>% (мінімум)</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Верх-Ліворуч</translation>
+        <translation>Верх зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Верх-Праворуч</translation>
+        <translation>Верх-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6486,7 +6503,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Низ-Ліворуч</translation>
+        <translation>Низ-Зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
@@ -6498,7 +6515,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Низ-Праворуч</translation>
+        <translation>Низ-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6541,12 +6558,12 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="471"/>
         <source>Use anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished">Використовувати згладжування</translation>
+        <translation>Використовувати згладжування</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="640"/>
         <source>Adjust to image&apos;s width</source>
-        <translation type="unfinished"></translation>
+        <translation>Скоригувати ширину зображення</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="50"/>
@@ -6561,17 +6578,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished">Верх-Центр</translation>
+        <translation>Верх-центр</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation>Центр-Ліворуч</translation>
+        <translation>Центр-ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation>Центр-Праворуч</translation>
+        <translation>Центр-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6624,7 +6641,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="580"/>
         <source>Fill</source>
-        <translation>Заливка</translation>
+        <translation>Заповнити</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="547"/>
@@ -6663,17 +6680,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertUnsharp.ui" line="22"/>
         <source>Radius</source>
-        <translation type="unfinished">Радіус</translation>
+        <translation>Радіус</translation>
     </message>
     <message>
         <location filename="DlgConvertUnsharp.ui" line="72"/>
         <source>Amount</source>
-        <translation type="unfinished">Амплітуда</translation>
+        <translation>Амплітуда</translation>
     </message>
     <message>
         <location filename="DlgConvertUnsharp.ui" line="119"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Поріг</translation>
     </message>
 </context>
 <context>
@@ -6701,7 +6718,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertVignette.ui" line="113"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Колір</translation>
     </message>
 </context>
 <context>
@@ -6714,38 +6731,38 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="39"/>
         <source>Proportional</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропорційний</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Розтягнути</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Замостити</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished">Верх-Центр</translation>
+        <translation>Верх-центр</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation>Центр-Ліворуч</translation>
+        <translation>Центр-ліворуч</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation>Центр-Праворуч</translation>
+        <translation>Центр-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
         <source>Offset</source>
-        <translation type="unfinished">Зсув</translation>
+        <translation>Зсув</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="310"/>
@@ -6770,33 +6787,33 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="95"/>
         <source>Relative to target image</source>
-        <translation type="unfinished"></translation>
+        <translation>Щодо цільового зображення</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="103"/>
         <source>Longest side</source>
         <oldsource>Largest size</oldsource>
-        <translation type="unfinished">За найбільшою стороні</translation>
+        <translation>За найбільшою стороні</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="108"/>
         <source>Smallest side</source>
-        <translation type="unfinished"></translation>
+        <translation>З найменшою стороною</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="113"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>За шириною</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="118"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="141"/>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>За розміром</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -6806,19 +6823,19 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="173"/>
         <source>Anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>Прив&apos;язка</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Верх-Ліворуч</translation>
+        <translation>Верх зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Верх-Праворуч</translation>
+        <translation>Верх-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6829,7 +6846,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Низ-Ліворуч</translation>
+        <translation>Низ-Зліва</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
@@ -6841,7 +6858,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Низ-Праворуч</translation>
+        <translation>Низ-справа</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -6859,12 +6876,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWhiteBalance.ui" line="22"/>
         <source>Cut limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Межа відсікання</translation>
     </message>
     <message>
         <location filename="DlgConvertWhiteBalance.ui" line="59"/>
         <source>Contrast</source>
-        <translation type="unfinished">Контраст</translation>
+        <translation>Контраст</translation>
     </message>
 </context>
 <context>
@@ -6872,7 +6889,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Завантажити шаблон...</translation>
+        <translation>Завантажити шаблон...</translation>
     </message>
 </context>
 <context>
@@ -6885,17 +6902,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="26"/>
         <source>View as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вигляд:</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="33"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Ескізи</translation>
+        <translation>Ескізи</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="43"/>
         <source>List</source>
-        <translation type="unfinished">Список</translation>
+        <translation>Список</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="116"/>
@@ -6920,23 +6937,23 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="233"/>
         <source>After finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Після завершення</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="241"/>
         <source>Do Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічого не робити</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="246"/>
         <source>Open Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкривати браузер</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Explorer</source>
         <oldsource>Open System Explorer</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити файли у провіднику</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -6952,7 +6969,7 @@ Do you want to continue?</source>
         <location filename="DlgCreateMulti.cpp" line="125"/>
         <source>Creating multipage file, please wait...</source>
         <oldsource>Create multipage file, please wait...</oldsource>
-        <translation type="unfinished">Створення багатосторінкового файлу, будь ласка зачекайте...</translation>
+        <translation>Створення багатосторінкового файлу, будь ласка зачекайте...</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="128"/>
@@ -6962,13 +6979,13 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.cpp" line="128"/>
         <source>An error occurred in multipage creating process!</source>
-        <translation>Сталася помилка в процесі  багатосторінкового створення!</translation>
+        <translation>Сталася помилка в процесі багатосторінкового створення!</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="160"/>
         <source>Loading file(s). Please wait...</source>
         <oldsource>Load file(s), please wait... </oldsource>
-        <translation type="unfinished">Завантажити файл(и), будь ласка, зачекайте...</translation>
+        <translation>Завантажити файл(и), будь ласка, зачекайте...</translation>
     </message>
 </context>
 <context>
@@ -6976,28 +6993,28 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCropSize.ui" line="14"/>
         <source>Crop size</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрізка</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="37"/>
         <source>New...</source>
         <oldsource>Add...</oldsource>
-        <translation type="unfinished">Додати...</translation>
+        <translation>Новий...</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="44"/>
         <source>Edit...</source>
-        <translation type="unfinished">Правка...</translation>
+        <translation>Правка...</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="51"/>
         <source>Remove</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="58"/>
         <source>Defaults</source>
-        <translation type="unfinished">Типово</translation>
+        <translation>Типово</translation>
     </message>
 </context>
 <context>
@@ -7005,43 +7022,43 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCurves.ui" line="14"/>
         <source>Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Криві</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Яскравість</translation>
+        <translation>Яскравість</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="93"/>
         <source>Right click to remove control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Клацніть правою кнопкою миші, щоб видалити контрольну точку</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="102"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Скинути</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="45"/>
         <source>Red</source>
-        <translation type="unfinished">Червоний</translation>
+        <translation>Червоний</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="55"/>
         <source>Green</source>
-        <translation type="unfinished">Зелений</translation>
+        <translation>Зелений</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="65"/>
         <source>Blue</source>
-        <translation type="unfinished">Синій</translation>
+        <translation>Синій</translation>
     </message>
 </context>
 <context>
@@ -7050,57 +7067,57 @@ Do you want to continue?</source>
         <location filename="DlgDBClean.ui" line="14"/>
         <source>Catalog maintenance</source>
         <oldsource>Catalog optimization</oldsource>
-        <translation type="unfinished">Обслуговування бази даних</translation>
+        <translation>Обслуговування бази даних</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="20"/>
         <source>Optimize database (long process)</source>
         <oldsource>Optimize (long process)</oldsource>
-        <translation type="unfinished">Оптимізувати (довгий процес)</translation>
+        <translation>Оптимізувати (довгий процес)</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="27"/>
         <source>Clean up</source>
-        <translation type="unfinished"></translation>
+        <translation>Прибирати</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="33"/>
         <source>Remove data for empty directories</source>
         <oldsource>Remove empty directories</oldsource>
-        <translation type="unfinished">Видалити порожні папки</translation>
+        <translation>Видалити порожні папки</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="57"/>
         <source>Purge</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистка</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="63"/>
         <source>Purge all thumbnails</source>
         <oldsource>Clean thumbnails</oldsource>
-        <translation type="unfinished">Очистити ескізи</translation>
+        <translation>Очистити ескізи</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="70"/>
         <source>Purge file data</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити дані файлу</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="40"/>
         <source>Remove data for orphaned directories</source>
         <oldsource>Check for orphaned directories</oldsource>
-        <translation type="unfinished">Перевіряти на втрачені папки</translation>
+        <translation>Перевіряти на втрачені папки</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="47"/>
         <source>Remove data for orphaned files</source>
         <oldsource>Check for orphaned files</oldsource>
-        <translation type="unfinished">Перевіряти на втрачені файли</translation>
+        <translation>Перевіряти на втрачені файли</translation>
     </message>
     <message>
         <location filename="DlgDBClean.cpp" line="23"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконати</translation>
     </message>
 </context>
 <context>
@@ -7136,68 +7153,68 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditGps.ui" line="14"/>
         <source>Edit GPS Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміна даних GPS</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="79"/>
         <source>Longitude</source>
-        <translation type="unfinished">Довгота</translation>
+        <translation>Довгота</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="125"/>
         <source>Altitude (m)</source>
-        <translation type="unfinished"></translation>
+        <translation>Висота (м)</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="30"/>
         <source>Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Десятичне число</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="63"/>
         <source>Sexagesimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Шістдесяткове число</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="50"/>
         <source>Latitude</source>
-        <translation type="unfinished">Широта</translation>
+        <translation>Широта</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="138"/>
         <source>Copy</source>
-        <translation type="unfinished">Копіювати</translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="151"/>
         <source>Paste</source>
-        <translation type="unfinished">Вставити</translation>
+        <translation>Вставити</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="202"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="219"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="270"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Записати</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="277"/>
         <source>Write all</source>
-        <translation type="unfinished">Зберегти все</translation>
+        <translation>Записати все</translation>
     </message>
     <message>
         <location filename="DlgEditGps.cpp" line="34"/>
         <source>ExifTool is not installed in AddOn folder!</source>
         <oldsource>ExifTool is not installed in Addon folder!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool не знайдено в папці AddOn!</translation>
     </message>
 </context>
 <context>
@@ -7205,7 +7222,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="14"/>
         <source>Edit XMP</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити дані XMP</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="73"/>
@@ -7215,57 +7232,57 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="93"/>
         <source>Ctrl+Right</source>
-        <translation type="unfinished">Ctrl+Right</translation>
+        <translation>Ctrl+Right</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="107"/>
         <source>Save template...</source>
-        <translation type="unfinished">Зберегти шаблон...</translation>
+        <translation>Зберегти шаблон...</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="117"/>
         <source>Load template...</source>
-        <translation type="unfinished">Завантажити шаблон...</translation>
+        <translation>Завантажити шаблон...</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="143"/>
         <source>Clear all fields</source>
-        <translation type="unfinished">Очистити всі поля</translation>
+        <translation>Очистити всі поля</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="150"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Не завантажувати значення полів</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="42"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
-        <translation type="unfinished">Зберегти все</translation>
+        <translation>Записати &amp;все</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="43"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation type="unfinished">&amp;Зберегти</translation>
+        <translation>&amp;Записати</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="44"/>
         <source>&amp;Apply</source>
         <oldsource>Apply</oldsource>
-        <translation type="unfinished">Застосувати</translation>
+        <translation>З&amp;астосувати</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="142"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення поля не завантажено через перевірку значення &apos;Не завантажено значення поля&apos;</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="229"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation type="unfinished">Дані IPTC змінені.
+        <translation>Дані IPTC змінені.
 Ви хочете зберегти зміни?</translation>
     </message>
     <message>
@@ -7276,14 +7293,15 @@ Do you want to save your changes?</source>
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Під час обробки сталася помилка.
+Переконайтеся, що файли не мають атрибута «Тільки читання»!</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="426"/>
         <location filename="DlgEditXMP.cpp" line="451"/>
         <source>Changing files, please wait...</source>
         <oldsource>Changing files, please wait... </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Зміна файлів...</translation>
     </message>
 </context>
 <context>
@@ -7511,12 +7529,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEnhanceColors.ui" line="455"/>
         <source>Exposure</source>
-        <translation type="unfinished">Експозиція</translation>
+        <translation>Експозиція</translation>
     </message>
     <message>
         <location filename="DlgEnhanceColors.ui" line="505"/>
         <source>Tint</source>
-        <translation type="unfinished"></translation>
+        <translation>Відтінок</translation>
     </message>
 </context>
 <context>
@@ -7530,7 +7548,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.cpp" line="197"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">Цей файл не є зображенням</translation>
+        <translation>Цей файл не є зображенням</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="298"/>
@@ -7625,28 +7643,28 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.ui" line="14"/>
         <source>Catalog export</source>
-        <translation type="unfinished"></translation>
+        <translation>Експорт каталогу</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="22"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Експортувати Рейтинг та Колірні мітки</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
         <source>Export all files from catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Експортувати всі файли з каталогу</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.h" line="37"/>
         <source>Categories file</source>
-        <translation type="unfinished">Категорії файлів</translation>
+        <translation>Категорії файлів</translation>
     </message>
 </context>
 <context>
@@ -7659,12 +7677,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="57"/>
         <source>Automatic preview refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично оновлювати перегляд</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="77"/>
         <source>Refresh preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновити перегляд</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="528"/>
@@ -7699,7 +7717,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7739,12 +7757,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Перетворення в простір кольорів XYB</translation>
+        <translation>Перетворити на колірний простір XYB</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
         <source>Edit palette...</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити палітру...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="459"/>
@@ -7872,7 +7890,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFile.ui" line="56"/>
         <source>Clear history entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити історію</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="70"/>
@@ -7920,7 +7938,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileListing.ui" line="98"/>
         <source>Append to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати до файлу</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="76"/>
@@ -7995,7 +8013,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileReplace.ui" line="352"/>
         <source>Re&amp;name</source>
         <oldsource>Rename</oldsource>
-        <translation type="unfinished">Перейменувати</translation>
+        <translation>Пер&amp;ейменувати</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="362"/>
@@ -8005,18 +8023,18 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileReplace.ui" line="432"/>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Замінити</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="442"/>
         <source>Replace &amp;all</source>
         <oldsource>Replace all</oldsource>
-        <translation type="unfinished">Замінити все</translation>
+        <translation>Замінити &amp;все</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="449"/>
         <source>&amp;Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Пропустити</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.cpp" line="123"/>
@@ -8027,7 +8045,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileReplace.ui" line="459"/>
         <source>Skip a&amp;ll</source>
         <oldsource>Skip all</oldsource>
-        <translation type="unfinished">Пропустити все</translation>
+        <translation>Пр&amp;опустити все</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="479"/>
@@ -8067,12 +8085,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFilm.ui" line="14"/>
         <source>Film simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>Імітація плівки</translation>
     </message>
     <message>
         <location filename="DlgFilm.ui" line="65"/>
         <source>Intensity</source>
-        <translation type="unfinished">Інтенсивність</translation>
+        <translation>Інтенсивність</translation>
     </message>
 </context>
 <context>
@@ -8093,17 +8111,17 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFilter.cpp" line="81"/>
         <source>Map</source>
-        <translation type="unfinished">Корекція</translation>
+        <translation>Корекція</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="82"/>
         <source>Filter</source>
-        <translation type="unfinished">Фільтр</translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="83"/>
         <source>Misc</source>
-        <translation type="unfinished">Різне</translation>
+        <translation>Різне</translation>
     </message>
 </context>
 <context>
@@ -8116,7 +8134,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFlickr.h" line="36"/>
         <source>Uploading image(s) to Flickr album</source>
-        <translation>Завантаження зображення(нь) в альбом Flickr </translation>
+        <translation>Завантаження зображення(нь) в альбом Flickr</translation>
     </message>
     <message>
         <location filename="DlgFlickr.h" line="55"/>
@@ -8172,7 +8190,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="246"/>
         <source>Retry</source>
-        <translation type="unfinished">Повторити</translation>
+        <translation>Повторити</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="440"/>
@@ -8208,22 +8226,22 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="559"/>
         <source>Uploading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження...</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="597"/>
         <source>Upload canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження скасовано</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="603"/>
         <source>Uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажено</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="622"/>
         <source>Directory changed to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог змінено на %1.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="573"/>
@@ -8296,7 +8314,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.ui" line="280"/>
         <source>&lt; Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Назад</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="72"/>
@@ -8325,12 +8343,12 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFtp.h" line="210"/>
         <source>Aborted.</source>
         <oldsource>Aborted...</oldsource>
-        <translation type="unfinished">Переривання...</translation>
+        <translation>Перервано.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="241"/>
         <source>Uploading: </source>
-        <translation>Завантаження:</translation>
+        <translation>Завантаження: </translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="248"/>
@@ -8383,22 +8401,22 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти координатами</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
         <source>You can paste values as Xx, Yy</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення можна виставляти як Xx, Yy</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="123"/>
         <source>Current zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Поточний масштаб</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="133"/>
         <source>Real size</source>
-        <translation type="unfinished">Реальний розмір</translation>
+        <translation>Реальний розмір</translation>
     </message>
 </context>
 <context>
@@ -8414,7 +8432,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgGrid.ui" line="67"/>
         <source>Properties</source>
-        <translation>Параметри</translation>
+        <translation>Властивості</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="111"/>
@@ -8518,22 +8536,22 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgHotFolder.ui" line="14"/>
         <source>Hot folders</source>
-        <translation>Улюблені папки...</translation>
+        <translation>Улюблені папки</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.ui" line="27"/>
         <source>Recursive</source>
-        <translation type="unfinished">Шукати у підпапках</translation>
+        <translation>Шукати у підпапках</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.ui" line="32"/>
         <source>Pathname</source>
-        <translation type="unfinished">Шлях</translation>
+        <translation>Шлях</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.ui" line="42"/>
         <source>Extensions</source>
-        <translation type="unfinished">Розширення</translation>
+        <translation>Розширення</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.ui" line="56"/>
@@ -8556,7 +8574,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgImport.ui" line="14"/>
         <source>Import and sort</source>
-        <translation>Імпорт і сортування файлів...</translation>
+        <translation>Імпорт і сортування</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="20"/>
@@ -8564,7 +8582,8 @@ Please make sure that files are not read-only!</oldsource>
 The internal folder structure will be flattened. </source>
         <oldsource>The Source folder of the files to be transferred.
 The internal folder structure will be flattered. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Вихідна папка файлів для передачі.
+Внутрішня структура папок буде зведена. </translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="24"/>
@@ -8582,32 +8601,33 @@ The internal folder structure will be flattered. </oldsource>
         <source>Here the files will be transfered.
 Subfolders will be created. </source>
         <translation>Тут файли будуть передані.
-Вкладені папки будуть створені.</translation>
+Вкладені папки будуть
+створені. </translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="89"/>
         <source>Destination</source>
-        <translation>Місце збереження:</translation>
+        <translation>Місце збереження</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="58"/>
         <source>Sort by</source>
-        <translation type="unfinished">Сортування</translation>
+        <translation>Сортування</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="104"/>
         <source>Transfer files with no EXIF to &apos;Other Files&apos; folder</source>
-        <translation type="unfinished">Передавати файли без exif до папки &quot;Інші файли&quot;</translation>
+        <translation>Передавати файли без exif до папки &quot;Інші файли&quot;</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="111"/>
         <source>Move files</source>
-        <translation type="unfinished"></translation>
+        <translation>Переміщати файли</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="125"/>
         <source>Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="133"/>
@@ -8618,34 +8638,34 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="167"/>
         <source>New filename</source>
-        <translation>Нових файлів:</translation>
+        <translation>Нове ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="229"/>
         <source>IPTC Template</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC шаблон</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="262"/>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Відеофайли</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="321"/>
         <source>Rename like photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейменовувати фотографії, що сподобалися</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign</source>
         <oldsource>Keywords to assign at import (XMP)</oldsource>
-        <translation type="unfinished">Ключові слова призначені на імпорт (XMP)</translation>
+        <translation>Ключові слова призначені на імпорт (XMP)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="337"/>
         <source>Use ; to separate categories</source>
         <oldsource>Use ; to separate keywords</oldsource>
-        <translation type="unfinished">Використовувати ; для поділу ключових слів</translation>
+        <translation>Використовувати ; для поділу ключових слів</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="364"/>
@@ -8670,7 +8690,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="435"/>
         <source>Extensions (; to separate)</source>
-        <translation type="unfinished"></translation>
+        <translation>Розширення (; - для поділу)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="101"/>
@@ -8680,61 +8700,61 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="191"/>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># лічильник</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Початкова папка</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
         <location filename="DlgImport.cpp" line="186"/>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка вихідних даних</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="186"/>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпорт неможливий, вихідна та кінцева папки збігаються!</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="207"/>
         <location filename="DlgImport.cpp" line="218"/>
         <source>Import</source>
-        <translation type="unfinished">Імпорт</translation>
+        <translation>Імпорт</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="207"/>
         <source>No files to import!</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає файлів для імпортування!</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="218"/>
         <source>Files import finished!</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпорт файлів завершено!</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічого не робити</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Оновити вбудовані метадані (JPEG/TIFF/PNG)</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="283"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG) and sidecar (others)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Оновити вбудовані метадані (JPEG/TIFF/PNG) та пов&apos;язані файли XMP (інші)</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="286"/>
         <source>Create XMP sidecar for all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити пов&apos;язані файли XMP для всіх файлів</translation>
     </message>
 </context>
 <context>
@@ -8756,13 +8776,13 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="47"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
-        <translation type="unfinished">Зберегти все</translation>
+        <translation>Зберегти в&amp;се</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="48"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation type="unfinished">&amp;Зберегти</translation>
+        <translation>&amp;Зберегти</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="174"/>
@@ -8827,18 +8847,18 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgIptc.cpp" line="319"/>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо ви хочете змінити метадані XMP, перевірте нове діалогове вікно «Змінити дані XMP». </translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="363"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Значення поля не завантажено через перевірку значення &apos;Не завантажено значення поля&apos;</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="49"/>
         <source>&amp;Apply</source>
         <oldsource>Apply</oldsource>
-        <translation type="unfinished">Застосувати</translation>
+        <translation>Застосувати</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="900"/>
@@ -8860,42 +8880,42 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgIptc.cpp" line="1042"/>
         <source>Insert</source>
-        <translation type="unfinished">Вставити</translation>
+        <translation>Вставити</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1054"/>
         <source>Insert from</source>
-        <translation type="unfinished">Вставити з</translation>
+        <translation>Вставити з</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1079"/>
         <source>Copy into</source>
-        <translation type="unfinished">Копіювати в</translation>
+        <translation>Копіювати в</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1102"/>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Бібліотека</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1108"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Редагувати історію...</translation>
+        <translation>Редагувати історію...</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1109"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Сортувати за алфавітом</translation>
+        <translation>Сортувати за алфавітом</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1575"/>
         <source>Required field</source>
-        <translation type="unfinished"></translation>
+        <translation>Обов&apos;язкове поле</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1575"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished"></translation>
+        <translation>Деякі поля є обов&apos;язковими для заповнення, їх необхідно заповнити!</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1646"/>
@@ -8905,12 +8925,13 @@ Do you want to save your changes?</source>
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Помилка при обробці.
+Перевірте, чи не має файл атрибут &quot;Тільки читання&quot;!</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1681"/>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете перезаписати дані IPTC/XMP для всіх файлів із поточними значеннями полів?</translation>
     </message>
 </context>
 <context>
@@ -8929,19 +8950,19 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptc.ui" line="14"/>
         <source>Edit IPTC-IIM</source>
         <oldsource>Edit IPTC-IIM/XMP</oldsource>
-        <translation type="unfinished">Змінити дані IPTC/XMP</translation>
+        <translation>Змінити дані IPTC/XMP</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="738"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Запам&apos;ятовувати відкриту вкладку</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="878"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Не завантажувати значення полів</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="810"/>
@@ -8991,7 +9012,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="166"/>
         <source>Use parent keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати батьківські ключові слова</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="201"/>
@@ -9123,32 +9144,32 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptcTemplate.ui" line="14"/>
         <source>Choose template file</source>
-        <translation type="unfinished">Виберіть шаблон</translation>
+        <translation>Виберіть шаблон</translation>
     </message>
     <message>
         <location filename="DlgIptcTemplate.ui" line="20"/>
         <source>Name:</source>
-        <translation type="unfinished">Ім&apos;я:</translation>
+        <translation>Ім&apos;я:</translation>
     </message>
     <message>
         <location filename="DlgIptcTemplate.ui" line="41"/>
         <source>Merge data</source>
         <oldsource>Merge datas</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Об&apos;єднати дати</translation>
     </message>
     <message>
         <location filename="DlgIptcTemplate.cpp" line="38"/>
         <location filename="DlgIptcTemplate.cpp" line="40"/>
         <location filename="DlgIptcTemplate.cpp" line="103"/>
         <source>XMP file</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл XMP</translation>
     </message>
     <message>
         <location filename="DlgIptcTemplate.cpp" line="45"/>
         <location filename="DlgIptcTemplate.cpp" line="47"/>
         <location filename="DlgIptcTemplate.cpp" line="103"/>
         <source>IPTC file</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл IPTC</translation>
     </message>
 </context>
 <context>
@@ -9157,7 +9178,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgKeywordProperties.ui" line="14"/>
         <source>Properties</source>
         <oldsource>Keyword properties</oldsource>
-        <translation type="unfinished">Властивості ключових слів</translation>
+        <translation>Властивості ключових слів</translation>
     </message>
     <message>
         <location filename="DlgKeywordProperties.ui" line="20"/>
@@ -9264,22 +9285,22 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgMessage.cpp" line="23"/>
         <source>Don&apos;t ask again</source>
-        <translation>Більше не питати</translation>
+        <translation>Не питати знову</translation>
     </message>
     <message>
         <location filename="DlgMessage.cpp" line="42"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Більше не показувати</translation>
     </message>
     <message>
         <location filename="DlgMessage.cpp" line="77"/>
         <source>Catalog</source>
-        <translation type="unfinished">Каталог</translation>
+        <translation>Каталог</translation>
     </message>
     <message>
         <location filename="DlgMessage.cpp" line="79"/>
         <source>Catalog Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог ескізів</translation>
     </message>
 </context>
 <context>
@@ -9287,47 +9308,47 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgNew.ui" line="14"/>
         <source>Create image</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити зображення</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="48"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="78"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="85"/>
         <source>DPI</source>
-        <translation type="unfinished">Кількість точок/дюйм</translation>
+        <translation>Кількість точок/дюйм</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="106"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Відтінки сірого</translation>
+        <translation>Відтінки сірого</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="111"/>
         <source>256 Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>256 кольорів</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="116"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="124"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Кольоровий режим</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="135"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
 </context>
 <context>
@@ -9336,7 +9357,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Змінити список програм...</translation>
+        <translation>Налаштування програм</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9346,13 +9367,13 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Шлях</translation>
+        <translation>Шлях</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
         <source>Arguments</source>
         <oldsource>Last Argument</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Останній аргумент</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="67"/>
@@ -9375,52 +9396,52 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPalette.ui" line="14"/>
         <source>Edit Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити палітру</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="70"/>
         <source>Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозорість</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="78"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Набір</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="85"/>
         <source>Clear</source>
-        <translation type="unfinished">Очистити</translation>
+        <translation>Очистити</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="124"/>
         <source>Load...</source>
-        <translation type="unfinished">Завантажити...</translation>
+        <translation>Завантажити...</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="131"/>
         <source>Save...</source>
-        <translation type="unfinished">Зберегти...</translation>
+        <translation>Зберегти...</translation>
     </message>
     <message>
         <location filename="DlgPalette.cpp" line="384"/>
         <location filename="DlgPalette.cpp" line="395"/>
         <location filename="DlgPalette.cpp" line="420"/>
         <source>Index: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Індекс: %1</translation>
     </message>
     <message>
         <location filename="DlgPalette.cpp" line="385"/>
         <location filename="DlgPalette.cpp" line="396"/>
         <location filename="DlgPalette.cpp" line="421"/>
         <source>RGB: %1 %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB: %1 %2 %3</translation>
     </message>
     <message>
         <location filename="DlgPalette.cpp" line="437"/>
         <location filename="DlgPalette.cpp" line="450"/>
         <source>Choose Palette file</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть файл Палітри</translation>
     </message>
 </context>
 <context>
@@ -9481,7 +9502,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPlugins.cpp" line="45"/>
         <source>Abort</source>
-        <translation type="unfinished">Перервати</translation>
+        <translation>Перервати</translation>
     </message>
 </context>
 <context>
@@ -9489,23 +9510,23 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPlugins.ui" line="14"/>
         <source>AddOns &amp; Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Доповнення та Модулі</translation>
     </message>
     <message>
         <location filename="DlgPlugins.ui" line="24"/>
         <source>AddOns</source>
-        <translation type="unfinished"></translation>
+        <translation>Доповнення</translation>
     </message>
     <message>
         <location filename="DlgPlugins.ui" line="42"/>
         <location filename="DlgPlugins.ui" line="66"/>
         <source>Description</source>
-        <translation type="unfinished">Опис</translation>
+        <translation>Опис</translation>
     </message>
     <message>
         <location filename="DlgPlugins.ui" line="51"/>
         <source>Plugins</source>
-        <translation type="unfinished">Модулі</translation>
+        <translation>Модулі</translation>
     </message>
 </context>
 <context>
@@ -9513,7 +9534,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPresetsManage.ui" line="14"/>
         <source>Edit presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Правка установок</translation>
     </message>
 </context>
 <context>
@@ -9568,7 +9589,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Колекція картинок</translation>
+        <translation>Колекція</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9690,7 +9711,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Автоматично повертати зображення, якщо необхідно</translation>
+        <translation>Автоматично повертати (якщо необхідно)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -9731,7 +9752,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="559"/>
         <source>Top-Left</source>
-        <translation>Верх-Ліворуч</translation>
+        <translation>Верх-Зліва</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="564"/>
@@ -9746,7 +9767,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="574"/>
         <source>Center-Left</source>
-        <translation>Центр-Ліворуч</translation>
+        <translation>Центр-Зліва</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="579"/>
@@ -9962,7 +9983,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgProcess.ui" line="78"/>
         <source>Apply to image</source>
         <oldsource>Apply to original</oldsource>
-        <translation type="unfinished">Застосувати до зображення</translation>
+        <translation>Застосувати до зображення</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="89"/>
@@ -9972,12 +9993,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.ui" line="167"/>
         <source>Apply</source>
-        <translation type="unfinished">Застосувати</translation>
+        <translation>Застосувати</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="174"/>
         <source>Undo</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -10005,7 +10026,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="63"/>
         <source>Use Embedded color matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати вбудовану колірну матрицю</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="70"/>
@@ -10041,7 +10062,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="172"/>
         <source>Convert to sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетворити на sRGB</translation>
     </message>
 </context>
 <context>
@@ -10049,32 +10070,32 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadFITS.ui" line="22"/>
         <source>FITS Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображення FITS</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="30"/>
         <source>Min/Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Мін./Макс.</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="35"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Лінійне</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="40"/>
         <source>Logarithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Логарифмічне</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="45"/>
         <source>Squared root</source>
-        <translation type="unfinished"></translation>
+        <translation>Квадратний корінь</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="50"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>У квадраті</translation>
     </message>
 </context>
 <context>
@@ -10150,7 +10171,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadPSD.ui" line="23"/>
         <source>Fix alpha channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Виправити альфа-канал</translation>
     </message>
 </context>
 <context>
@@ -10158,7 +10179,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadRaw.ui" line="30"/>
         <source>Header size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір верхнього колонтитулу</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="70"/>
@@ -10168,22 +10189,22 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadRaw.ui" line="174"/>
         <source>Interleaved</source>
-        <translation type="unfinished"></translation>
+        <translation>З чергуванням</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="184"/>
         <source>Byte order</source>
-        <translation type="unfinished"></translation>
+        <translation>Порядок проходження байт</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="195"/>
         <source>LSBF</source>
-        <translation type="unfinished"></translation>
+        <translation>LSBF</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="200"/>
         <source>MSBF</source>
-        <translation type="unfinished"></translation>
+        <translation>MSBF</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="147"/>
@@ -10205,7 +10226,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgReadRaw.h" line="111"/>
         <location filename="DlgReadRaw.h" line="128"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Відтінки сірого</translation>
+        <translation>Відтінки сірого</translation>
     </message>
 </context>
 <context>
@@ -10245,7 +10266,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Ім&apos;я/Назва компанії:</translation>
+        <translation>Ім&apos;я/Назва компанії:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10267,7 +10288,9 @@ Please make sure that files are not read-only!</oldsource>
         <source>Registration successful.
 
 Thank you for purchasing %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Реєстрацію виконано успішно.
+
+Дякуємо за покупку %1.</translation>
     </message>
 </context>
 <context>
@@ -10275,12 +10298,13 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Background remover</source>
-        <translation type="unfinished"></translation>
+        <translation>Засіб для видалення тла</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагін не встановлено.
+Будь ласка, встановіть його за допомогою Інструменти › Плагіни</translation>
     </message>
 </context>
 <context>
@@ -10293,20 +10317,22 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRename.cpp" line="310"/>
         <source>Companion renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Супутнє перейменування</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="310"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>У списку файлів виявлено Супутні файли, вони автоматично перейменовуються відповідно до імені основного файлу.
+
+Ви хочете забрати їх зі списку?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1120"/>
         <source>Do you want to delete all your name templates?</source>
         <oldsource>Do you want to delete all your template&apos;s name?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете видалити всі імена шаблонів?</translation>
     </message>
 </context>
 <context>
@@ -10394,12 +10420,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="114"/>
         <source>Ignore extension for # enumerator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ігнорувати розширення для # лічильника</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="225"/>
         <source>Clean diacritic characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити діакритичні символи</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="232"/>
@@ -10425,7 +10451,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="297"/>
         <source>Exclude extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Виключати розширення</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="335"/>
@@ -10506,7 +10532,7 @@ Do you want to remove them?</source>
         <location filename="DlgRenameFile.ui" line="14"/>
         <source>File rename</source>
         <oldsource>Rename</oldsource>
-        <translation type="unfinished">Перейменувати</translation>
+        <translation>Перейменувати</translation>
     </message>
     <message>
         <location filename="DlgRenameFile.ui" line="26"/>
@@ -10517,7 +10543,7 @@ Do you want to remove them?</source>
         <location filename="DlgRenameFile.ui" line="92"/>
         <source>Extension:</source>
         <oldsource>File extension:</oldsource>
-        <translation type="unfinished">Розширення файлу:</translation>
+        <translation>Розширення файлу:</translation>
     </message>
     <message>
         <location filename="DlgRenameFile.ui" line="99"/>
@@ -10531,12 +10557,12 @@ Do you want to remove them?</source>
         <location filename="DlgResize.cpp" line="423"/>
         <source>Result image size: %1x%2 - %3 Mpixels</source>
         <oldsource>Result image size: %1x%2 - %1 Mpixels</oldsource>
-        <translation type="unfinished">Підсумковий розмір зображення: %1 Мегапіксель</translation>
+        <translation>Підсумковий розмір зображення: %1x%2 - %3 мегапікселів</translation>
     </message>
     <message>
         <location filename="DlgResize.cpp" line="1103"/>
         <source>Canvas resize</source>
-        <translation type="unfinished">Змінити розмір полотна</translation>
+        <translation>Змінити розмір полотна</translation>
     </message>
     <message>
         <location filename="DlgResize.cpp" line="1117"/>
@@ -10564,7 +10590,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="39"/>
         <source>Save current settings as new preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти поточні налаштування як нові установки</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="53"/>
@@ -10596,54 +10622,54 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="113"/>
         <source>Load &apos;Default values&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити &quot;Налаштування за замовчуванням&quot;</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="163"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="177"/>
         <source>Size (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір (пікселів)</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="182"/>
         <source>Size (%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір (%)</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="187"/>
         <source>Longest side</source>
-        <translation type="unfinished">За найбільшою стороні</translation>
+        <translation>За найбільшою стороні</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="192"/>
         <source>Shortest side</source>
-        <translation type="unfinished">За найменшою стороні</translation>
+        <translation>За найменшою стороні</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="197"/>
         <source>Mpixels</source>
-        <translation type="unfinished">Мегапікселі</translation>
+        <translation>Мегапікселі</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="228"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="282"/>
         <location filename="DlgResize.ui" line="298"/>
         <location filename="DlgResize.ui" line="435"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="331"/>
         <source>Image size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір зображення</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="373"/>
@@ -10668,7 +10694,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="425"/>
         <source>Sharpen</source>
-        <translation type="unfinished">Посилення різкості</translation>
+        <translation>Посилення різкості</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="463"/>
@@ -10726,28 +10752,28 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Верх-Ліворуч</translation>
+        <translation>Верх зліва</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
-        <translation type="unfinished">Верх-Центр</translation>
+        <translation>Верх-центр</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation>Центр-Ліворуч</translation>
+        <translation>Центр-ліворуч</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation>Центр-Праворуч</translation>
+        <translation>Центр-справа</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Верх-Праворуч</translation>
+        <translation>Верх-справа</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="627"/>
@@ -10758,7 +10784,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Низ-Ліворуч</translation>
+        <translation>Низ-Зліва</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="642"/>
@@ -10770,7 +10796,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Низ-Праворуч</translation>
+        <translation>Низ-справа</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="669"/>
@@ -10798,7 +10824,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRotate.ui" line="110"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Використовувати згладжування</translation>
+        <translation>Використовувати згладжування</translation>
     </message>
     <message>
         <location filename="DlgRotate.ui" line="117"/>
@@ -10826,24 +10852,24 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="451"/>
         <source>Files found (%1):</source>
-        <translation type="unfinished">Знайдено файлів (%1):</translation>
+        <translation>Знайдено файлів (%1):</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="472"/>
         <source>Searching...</source>
-        <translation type="unfinished">Пошук...</translation>
+        <translation>Пошук...</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="503"/>
         <source>Finished.</source>
-        <translation type="unfinished">Завершено...</translation>
+        <translation>Завершено.</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="505"/>
         <location filename="DlgSearch.cpp" line="506"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Завершено: знайдено файлів %1.</translation>
     </message>
 </context>
 <context>
@@ -10857,34 +10883,34 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Враховувати дані каталогу</translation>
+        <translation>Шукати тільки за Каталогом</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Шукати у вкладених папках</translation>
+        <translation>Шукати у вкладених папках</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Використовувати регулярні вирази</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="70"/>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Шлях</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="80"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Вр&amp;аховувати регістр</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Шукати в іменах папок</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -10899,22 +10925,22 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="171"/>
         <source>Match</source>
-        <translation type="unfinished">Відповідати</translation>
+        <translation>Відповідати</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="178"/>
         <source>All</source>
-        <translation type="unfinished">Все</translation>
+        <translation>Усім умовам</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="185"/>
         <source>Any</source>
-        <translation type="unfinished">Будь-якій з умов</translation>
+        <translation>Будь-якій з умов</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="300"/>
         <source>Presets: </source>
-        <translation type="unfinished"></translation>
+        <translation>Предустановки: </translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10934,32 +10960,32 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Назад</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="382"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>П&amp;ошук</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="392"/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Огляд...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="238"/>
         <source>Current pathname:</source>
-        <translation type="unfinished">Поточний шлях:</translation>
+        <translation>Поточний шлях:</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="399"/>
         <source>Close</source>
-        <translation type="unfinished">Закрити</translation>
+        <translation>Закрити</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="406"/>
         <source>Abort</source>
-        <translation type="unfinished">Перервати</translation>
+        <translation>Перервати</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="133"/>
@@ -10971,7 +10997,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Ім&apos;я файла</translation>
+        <translation>І&amp;м&apos;я файлу</translation>
     </message>
 </context>
 <context>
@@ -10979,7 +11005,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearchProgress.cpp" line="24"/>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Огляд...</translation>
     </message>
     <message>
         <location filename="DlgSearchProgress.cpp" line="45"/>
@@ -10995,14 +11021,14 @@ Do you want to remove them?</source>
         <location filename="DlgSearchProgress.cpp" line="91"/>
         <source>Finished.</source>
         <oldsource>Finished...</oldsource>
-        <translation type="unfinished">Завершено...</translation>
+        <translation>Завершено.</translation>
     </message>
     <message>
         <location filename="DlgSearchProgress.cpp" line="93"/>
         <location filename="DlgSearchProgress.cpp" line="94"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Завершено: знайдено файлів %1.</translation>
     </message>
 </context>
 <context>
@@ -11024,17 +11050,17 @@ Do you want to remove them?</source>
         <location filename="DlgSetDpi.ui" line="14"/>
         <source>Set DPI</source>
         <oldsource>Change DPI</oldsource>
-        <translation type="unfinished">Зміна пікселів на дюйм</translation>
+        <translation>Зміна пікселів на дюйм</translation>
     </message>
     <message>
         <location filename="DlgSetDpi.ui" line="122"/>
         <source>Print size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір друку:</translation>
     </message>
     <message>
         <location filename="DlgSetDpi.ui" line="144"/>
         <source>Change EXIF DPI if exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити інформацію про кількість точок/дюйм з EXIF, якщо можливо</translation>
     </message>
 </context>
 <context>
@@ -11120,82 +11146,82 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="174"/>
         <source>ToolBar</source>
-        <translation type="unfinished">Панель інструментів</translation>
+        <translation>Панель інструментів</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
         <source>Filter</source>
-        <translation type="unfinished">Фільтр</translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="189"/>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортування</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="196"/>
         <source>Thumbnails + Details</source>
-        <translation type="unfinished">Ескізи + Таблиця</translation>
+        <translation>Ескізи + Таблиця</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="203"/>
         <source>Thumbnails + Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ескізи + Ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="210"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Ескізи</translation>
+        <translation>Ескізи</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="217"/>
         <source>Icons</source>
-        <translation type="unfinished">Значки</translation>
+        <translation>Значки</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="224"/>
         <source>List</source>
-        <translation type="unfinished">Список</translation>
+        <translation>Список</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="247"/>
         <source>Favorites</source>
-        <translation type="unfinished">Вибране</translation>
+        <translation>Вибране</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="295"/>
         <source>View as</source>
-        <translation type="unfinished">Вид</translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="254"/>
         <source>Thumbnails + Labels</source>
-        <translation type="unfinished">Ескізи + Інформація</translation>
+        <translation>Ескізи + Інформація</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="42"/>
         <source>Preview</source>
-        <translation type="unfinished">Передпроглядання</translation>
+        <translation>Перегляд</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="106"/>
         <source>Tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation>Підказка</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="261"/>
         <source>Details</source>
-        <translation type="unfinished">Таблиця</translation>
+        <translation>Таблиця</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="288"/>
         <source>Thumbnails scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабування ескізів</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="302"/>
         <source>Rating</source>
-        <translation type="unfinished">Оцінка</translation>
+        <translation>Оцінка</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="325"/>
@@ -11205,7 +11231,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="333"/>
         <source>Clear the list of tagged files</source>
-        <translation type="unfinished">Очищати список відмічених файлів</translation>
+        <translation>Очищати список відмічених файлів</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="341"/>
@@ -11259,7 +11285,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsCache.cpp" line="151"/>
         <source>Catalog maintenance [Catalog size %1 %2 - %3 %4]</source>
         <oldsource>Cache maintenance [Cache size %1 %2 - %3 %4]</oldsource>
-        <translation type="unfinished">Кешування [Розмір кеша %1 %2 - %3 %4]</translation>
+        <translation>Кешування [Розмір кеша %1 %2 - %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="259"/>
@@ -11303,7 +11329,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>База даних - Абсолютний/відносний шлях</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
@@ -11311,18 +11337,21 @@ Do you want to remove them?</source>
 Do it only if you want to share same folder between several computers. 
 
 Do you want to change the &apos;base path&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміна «базового шляху» може призвести до вимкнення файлів, що зберігаються в базі даних.
+Робіть це лише в тому випадку, якщо ви хочете використовувати ту саму папку на декількох комп&apos;ютерах.
+
+Ви бажаєте змінити «базовий шлях»?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="360"/>
         <location filename="DlgSettingsCache.cpp" line="970"/>
         <source>Catalog - Remove Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>База даних - Видалити записи</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="511"/>
         <source>Catalog - Synchronize Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>База даних - Синхронізувати папки</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="512"/>
@@ -11330,13 +11359,15 @@ Do you want to change the &apos;base path&apos;?</source>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ця операція видаляє всі втрачені файли з каталогу.
+
+Ви хочете продовжити?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="546"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
-        <translation type="unfinished">Перерозташувати папку</translation>
+        <translation>Перерозташувати папку</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="546"/>
@@ -11351,7 +11382,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="564"/>
         <source>Catalog Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Обслуговування бази даних</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="565"/>
@@ -11360,13 +11391,16 @@ Color labels, Keywords may be deleted.
 
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ця операція може видалити деякі записи з БД
+(рейтинги/кольори/ключові слова).
+
+Ви хочете перевірити ці записи перед виконанням цієї операції?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="883"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <oldsource>Can&apos;t import XnView category database</oldsource>
-        <translation type="unfinished">Не можу імпортувати категорію бази даних XnView</translation>
+        <translation>Не вдалося імпортувати базу даних категорій XnView Classic</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="919"/>
@@ -11377,7 +11411,7 @@ Do you want to check for affected entries first?</source>
         <location filename="DlgSettingsCache.cpp" line="921"/>
         <source>Category tree successfully imported into XnView categories</source>
         <oldsource>Category tree was successfully imported in XnView&apos;s Category catalog</oldsource>
-        <translation type="unfinished">Дерево категорій - коректно імпортованіф в категорії Xnview</translation>
+        <translation>Дерево категорій - коректно імпортованіф в категорії Xnview</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="361"/>
@@ -11392,12 +11426,17 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ця операція може видалити деякі записи з БД (рейтинги/кольори/ключові слова).
+
+(Якщо інформація експортується до вбудованих або пов&apos;язаних файлів XMP,
+ви зможете повторно імпортувати їх пізніше)
+
+Ви хочете перевірити ці записи перед виконанням цієї операції?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="931"/>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо імпортувати базу даних XnView</translation>
     </message>
 </context>
 <context>
@@ -11432,7 +11471,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="42"/>
         <source>Enable Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути каталог</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="105"/>
@@ -11463,13 +11502,13 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="244"/>
         <source>Check integrity of catalog at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірка цілісності каталогу під час запуску</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="290"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
-        <translation type="unfinished">Кешована папка</translation>
+        <translation>Кешована папка</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="295"/>
@@ -11496,12 +11535,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="361"/>
         <source>Maintenance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Обслуговування...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="368"/>
         <source>Import folder...</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпортувати папку...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="402"/>
@@ -11517,7 +11556,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
-        <translation type="unfinished">Імпортувати категорію базиданих XnView...</translation>
+        <translation>Імпортувати базу даних категорій XnView Classic...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="472"/>
@@ -11533,7 +11572,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="409"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Перевірити папки...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="432"/>
@@ -11571,7 +11610,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettings.ui" line="30"/>
         <source>Filter</source>
-        <translation type="unfinished">Фільтр</translation>
+        <translation>Фільтр</translation>
     </message>
 </context>
 <context>
@@ -11601,7 +11640,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
         <source>Open with</source>
-        <translation>Відкрити c допомогою</translation>
+        <translation>Відкрити за допомогою</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="285"/>
@@ -11663,12 +11702,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="419"/>
         <source>Master extension</source>
-        <translation>Основне розширення</translation>
+        <translation>Головне розширення</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="419"/>
         <source>Companion</source>
-        <translation>Залежні</translation>
+        <translation>Супутні файли</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="643"/>
@@ -11701,12 +11740,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="49"/>
         <source>Recognize only by extension</source>
-        <translation>Визначати тільки за розширенням</translation>
+        <translation>Розпізнавати лише з розширення</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="117"/>
         <source>Folder always sorted alphabetically</source>
-        <translation>Папки завжди сортуються за алфавітом</translation>
+        <translation>Папки завжди сортувати за абеткою</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="124"/>
@@ -11716,7 +11755,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
         <source>Scan file headers</source>
-        <translation>Сканувати заголовки файла</translation>
+        <translation>Сканувати заголовки файлів</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="66"/>
@@ -11726,12 +11765,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="71"/>
         <source>Exclude Floppy/CD/DVD</source>
-        <translation>Виключити Дискети/CD/DVD</translation>
+        <translation>Виключати Floppy/CD/DVD</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="76"/>
         <source>Only fixed disks</source>
-        <translation>Тільки жорсткі диски</translation>
+        <translation>Тільки фіксовані диски</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="81"/>
@@ -11746,12 +11785,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation>Вибір</translation>
+        <translation>Виділення</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation>Автоматичний вибір першого елемента при вході до папки</translation>
+        <translation>Автоматичний вибір першого елемента під час входу до папки</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
@@ -11761,32 +11800,32 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation>Вид</translation>
+        <translation>Вигляд</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation>Показувати розмір файла в байтах</translation>
+        <translation>Відображати розмір файлу в байтах</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation>Додавати супутні файли для наступних подій</translation>
+        <translation>Зв&apos;язати супутні файли з наступними діями</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
         <source>Delete</source>
-        <translation>Видалення</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="216"/>
         <source>Copy/move/rename</source>
-        <translation>Копіювання/переміщення/перейменування</translation>
+        <translation>Копіювати/перемістити/перейменувати</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="226"/>
         <source>Association list (use ; as separator)</source>
-        <translation>Ассоціативний список (використовуйте ; для відокремлення)</translation>
+        <translation>Список асоціацій (Використовуйте ; як розділювач)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
@@ -11803,7 +11842,7 @@ Thumbnail</source>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
         <translatorcomment>Схиляння не те, але в меню не можливо змінити</translatorcomment>
-        <translation>Використання: Вид › Фільтр › Призначена для користувача</translation>
+        <translation>Використання: Вигляд › Фільтр › Користувальницький</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="278"/>
@@ -11828,7 +11867,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="353"/>
         <source>New</source>
-        <translation>Новий</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="363"/>
@@ -11861,7 +11900,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="87"/>
         <source>Select most used</source>
-        <translation>Вибрати найчастіше вживані</translation>
+        <translation>Виділити часто використовувані</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="94"/>
@@ -11872,22 +11911,22 @@ Thumbnail</source>
         <location filename="DlgSettingsFormat.ui" line="116"/>
         <source>Show most used formats at beginning</source>
         <oldsource>Show most used format at beginning</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Показувати формати, що часто використовуються, на початку списку</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
         <source>Show write settings before saving</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати параметри запису перед збереженням</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="131"/>
         <source>Read</source>
-        <translation type="unfinished">Читання</translation>
+        <translation>Читання</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="153"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис</translation>
     </message>
 </context>
 <context>
@@ -11921,12 +11960,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="414"/>
         <source>Delete</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="414"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation type="unfinished">Ви хочете  видалити вибраний запис автокорекції?</translation>
+        <translation>Ви хочете видалити вибраний запис автокорекції?</translation>
     </message>
 </context>
 <context>
@@ -11940,7 +11979,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Запускати тільки одну копію програми</translation>
+        <translation>Дозволити запускати лише один екземпляр програми</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="119"/>
@@ -11951,22 +11990,22 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="126"/>
         <source>Adjust image if X/Y DPI are different</source>
         <oldsource>Adjust zoom if X/Y DPI are different</oldsource>
-        <translation type="unfinished">Змінювати масштаб, якщо кіль-ть точок/дюйм по X/Y різні</translation>
+        <translation>Змінювати масштаб, якщо кіль-ть точок/дюйм по X/Y різні</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="312"/>
         <source>Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="318"/>
         <source>Start with file</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск із файлом</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="326"/>
         <source>Open</source>
-        <translation type="unfinished">Відкрити</translation>
+        <translation>Відкрити</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="451"/>
@@ -11984,56 +12023,56 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Auto-rotate images according to EXIF orientation tag</source>
         <oldsource>Rotate images according to EXIF orientation tag</oldsource>
-        <translation type="unfinished">Повертати зображення згідно значення EXIF орієнтації</translation>
+        <translation>Повертати зображення згідно значення EXIF орієнтації</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="135"/>
         <source>Unit for print size</source>
-        <translation type="unfinished"></translation>
+        <translation>Одиниці вимірювання для розміру під час друку</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="143"/>
         <source>inch</source>
-        <translation type="unfinished">дюйми</translation>
+        <translation>дюйми</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="148"/>
         <source>cm</source>
-        <translation type="unfinished">см</translation>
+        <translation>см</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="153"/>
         <source>mm</source>
-        <translation type="unfinished">мм</translation>
+        <translation>мм</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="178"/>
         <source>Save session on program exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберігати &quot;Сесію&quot; під час виходу з програми</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="186"/>
         <location filename="DlgSettingsGeneral.ui" line="538"/>
         <source>Ask</source>
-        <translation type="unfinished">Повідомляти</translation>
+        <translation>Повідомляти</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="191"/>
         <location filename="DlgSettingsGeneral.ui" line="543"/>
         <source>Always</source>
-        <translation type="unfinished">Завжди</translation>
+        <translation>Завжди</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="196"/>
         <location filename="DlgSettingsGeneral.ui" line="253"/>
         <location filename="DlgSettingsGeneral.ui" line="548"/>
         <source>Never</source>
-        <translation type="unfinished">Ніколи</translation>
+        <translation>Ніколи</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="430"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="437"/>
@@ -12053,12 +12092,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="291"/>
         <source>Send anonymous logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Надсилати анонімні логи</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="521"/>
         <source>For &apos;Save as&apos;, use original format</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати вихідний формат для &quot;Зберегти як&quot;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="44"/>
@@ -12068,7 +12107,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="344"/>
         <source>Browser</source>
-        <translation type="unfinished">Оглядач</translation>
+        <translation>Оглядач</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="221"/>
@@ -12094,62 +12133,62 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="339"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Перегляд - Повноекранний режим</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="245"/>
         <source>Check for program updates</source>
-        <translation type="unfinished">Перевіряти оновлення програми</translation>
+        <translation>Перевіряти оновлення програми</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="258"/>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation>Щодня</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="263"/>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation>Раз на тиждень</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="268"/>
         <source>Monthly</source>
-        <translation type="unfinished"></translation>
+        <translation>Раз на місяць</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="334"/>
         <source>Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Перегляд</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="349"/>
         <source>Browser - Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглядач - Повноекранний режим</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="375"/>
         <source>Start without file</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск без файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="381"/>
         <source>Open browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити браузер</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="390"/>
         <source>Remember selected filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Запам&apos;ятати вибране ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="501"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Збереження</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="507"/>
         <source>Save as copy for &apos;Save&apos; action</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти копію для дії &quot;Зберегти&quot;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="514"/>
@@ -12159,17 +12198,17 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="574"/>
         <source>Delete</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="597"/>
         <source>Copy</source>
-        <translation type="unfinished">Копіювати</translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="662"/>
         <source>Rename</source>
-        <translation type="unfinished">Перейменувати</translation>
+        <translation>Перейменувати</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="668"/>
@@ -12179,84 +12218,84 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="695"/>
         <source>Lossless operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетворення без втрат</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="701"/>
         <source>Make backup for lossless flip/rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Створювати резервну копію під час перетворення без втрат (Відображення/Обертання)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="708"/>
         <source>Make backup for lossless crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Створювати резервну копію під час перетворення без втрат (Обрізка)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="715"/>
         <source>Make backup for other lossless operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Створювати резервну копію для інших змін без втрат</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="771"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
-        <translation type="unfinished">Кольоровий профіль</translation>
+        <translation>Керування кольором</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1037"/>
         <source>Auto correct</source>
-        <translation type="unfinished"></translation>
+        <translation>Автозаміна</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1065"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Замінювати</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1070"/>
         <source>With</source>
-        <translation type="unfinished"></translation>
+        <translation>на</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1107"/>
         <source>Delimiter character</source>
-        <translation type="unfinished"></translation>
+        <translation>Символ-розділювач</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Назва дублікатів файлів</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished"></translation>
+        <translation>При збереженні змін у файлі</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="616"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Filename&gt; - Копія (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="636"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Копія (#) &lt;Filename&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="621"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Filename&gt;-Копія (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="626"/>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Filename&gt;-(#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="631"/>
         <source>&lt;Filename&gt;-#</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Filename&gt;-#</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="725"/>
@@ -12299,7 +12338,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="848"/>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати профіль RGB, якщо вбудований профіль не знайдено</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="861"/>
@@ -12309,12 +12348,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="915"/>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати профіль CMYK, якщо вбудований профіль не знайдено</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="928"/>
         <source>System profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Системний профіль</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="984"/>
@@ -12324,7 +12363,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1013"/>
         <source>Black Point Compensation</source>
-        <translation type="unfinished"></translation>
+        <translation>Компенсація чорної точки</translation>
     </message>
 </context>
 <context>
@@ -12375,12 +12414,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="319"/>
         <source>Paths</source>
-        <translation type="unfinished">Шлях</translation>
+        <translation>Шлях</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="319"/>
         <source>Please be careful to folder rights by using XnView folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, надайте необхідні права папці, яку використовує XnView</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="465"/>
@@ -12405,13 +12444,13 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="717"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустіть XnViewMP з правами адміністратора (тільки вперше).</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.cpp" line="30"/>
         <location filename="DlgStartupWizard.cpp" line="144"/>
         <source>Program (XnConvert)</source>
-        <translation type="unfinished"></translation>
+        <translation>Програма (XnConvert)</translation>
     </message>
 </context>
 <context>
@@ -12430,7 +12469,7 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Set file associations...</source>
         <oldsource>Run the File association(s) tool...</oldsource>
-        <translation type="unfinished">Запустити програму &quot;Асоціація файлів&quot;</translation>
+        <translation>Запустити &quot;Асоціація файлів&quot;...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="87"/>
@@ -12506,12 +12545,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="160"/>
         <source>-- NEW IPTC TEMPLATE --</source>
-        <translation type="unfinished"></translation>
+        <translation>-- НОВИЙ IPTC ШАБЛОН --</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="166"/>
         <source>-- NEW XMP TEMPLATE --</source>
-        <translation type="unfinished"></translation>
+        <translation>-- НОВИЙ XMP ШАБЛОН --</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="504"/>
@@ -12522,13 +12561,13 @@ Thumbnail</source>
         <location filename="DlgSettingsInterface.cpp" line="505"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
-        <translation type="unfinished">Режим перегляду</translation>
+        <translation>Режим перегляду</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="861"/>
         <location filename="DlgSettingsInterface.cpp" line="881"/>
         <source>Set Icon...</source>
-        <translation type="unfinished">Змінити іконку...</translation>
+        <translation>Змінити іконку...</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1059"/>
@@ -12543,7 +12582,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1209"/>
         <source>This shortcut is already assigned for </source>
-        <translation>Цей ярлик, вже призначений для</translation>
+        <translation>Цей ярлик, вже призначений для </translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1225"/>
@@ -12588,7 +12627,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation type="unfinished">Відкриття того самого файлу в різних вкладках</translation>
+        <translation>Дозволити відкриття декількох вкладок Перегляду для одного файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -12608,7 +12647,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="368"/>
         <source>Double-click on tab: </source>
-        <translation>Подвійний клік на вкладці:</translation>
+        <translation>Подвійний клік на вкладці: </translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="376"/>
@@ -12655,7 +12694,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1522"/>
         <source>Browser</source>
         <oldsource>Browse mode</oldsource>
-        <translation type="unfinished">Режим оглядача</translation>
+        <translation>Режим оглядача</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="645"/>
@@ -12672,14 +12711,14 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="672"/>
         <source>Large icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Великі значки</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="598"/>
         <location filename="DlgSettingsInterface.ui" line="1078"/>
         <location filename="DlgSettingsInterface.ui" line="1163"/>
         <source>Filter</source>
-        <translation type="unfinished">Фільтр</translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1382"/>
@@ -12695,7 +12734,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1411"/>
         <source>Horizontal scroll</source>
         <oldsource>Scroll left/right</oldsource>
-        <translation type="unfinished">Прокрутка вліво/вправо</translation>
+        <translation>Прокрутка вліво/вправо</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1416"/>
@@ -12724,7 +12763,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2013"/>
         <location filename="DlgSettingsInterface.ui" line="2205"/>
         <source>No modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Без модифікатора</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1606"/>
@@ -12732,7 +12771,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1706"/>
         <location filename="DlgSettingsInterface.ui" line="1746"/>
         <source>Previous file</source>
-        <translation type="unfinished">Попередній файл</translation>
+        <translation>Попередній файл</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1441"/>
@@ -12742,7 +12781,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2185"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation type="unfinished">Прокрутка вгору/вниз</translation>
+        <translation>Прокручування вгору/вниз</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1553"/>
@@ -12766,7 +12805,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Переміщення зображення</translation>
+        <translation>Переміщення зображення</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -12793,7 +12832,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2042"/>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
-        <translation type="unfinished">Масштабування виділеної області</translation>
+        <translation>Масштабування виділеної області</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2007"/>
@@ -12809,7 +12848,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="214"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Приховувати заголовок вкладки, коли відкрито лише одну</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="182"/>
@@ -12819,132 +12858,132 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1155"/>
         <location filename="DlgSettingsInterface.ui" line="1529"/>
         <source>Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим перегляду</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок вікна</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Рядок стану</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="714"/>
         <location filename="DlgSettingsInterface.ui" line="830"/>
         <source>File date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="722"/>
         <location filename="DlgSettingsInterface.ui" line="838"/>
         <source>File created date</source>
-        <translation type="unfinished">Дата створення файлу</translation>
+        <translation>Дата створення файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="727"/>
         <location filename="DlgSettingsInterface.ui" line="843"/>
         <source>File modified date</source>
-        <translation type="unfinished">Дата зміни файлу</translation>
+        <translation>Дата зміни файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="732"/>
         <location filename="DlgSettingsInterface.ui" line="848"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата зйомки EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="737"/>
         <location filename="DlgSettingsInterface.ui" line="853"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата зміни EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="698"/>
         <location filename="DlgSettingsInterface.ui" line="814"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Властивості</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">Розмір при друку</translation>
+        <translation>Розмір під час друку</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="705"/>
         <location filename="DlgSettingsInterface.ui" line="821"/>
         <source>File size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Вбудований коментар</translation>
+        <translation>Вбудований коментар</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">Опис</translation>
+        <translation>Опис</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">Масштаб</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="932"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстне меню</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглядач - Ескіз</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
         <source>Browser - Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглядач - Режим перегляду</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1216"/>
         <location filename="DlgSettingsInterface.ui" line="1259"/>
         <source>Action</source>
-        <translation type="unfinished">Дія</translation>
+        <translation>Дія</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1221"/>
         <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Shortcut</source>
-        <translation type="unfinished">Ярлик</translation>
+        <translation>Ярлик</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1226"/>
         <location filename="DlgSettingsInterface.ui" line="1269"/>
         <source>Command name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я команди</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередній/наступний кадр</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
         <source>SPACE</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробіл</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1495"/>
@@ -12953,17 +12992,17 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1938"/>
         <location filename="DlgSettingsInterface.ui" line="1978"/>
         <source>Next file</source>
-        <translation type="unfinished">Наступний файл</translation>
+        <translation>Наступний файл</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1500"/>
         <source>Quick Slideshow</source>
-        <translation type="unfinished">Швидке слайд-шоу</translation>
+        <translation>Швидке слайд-шоу</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1516"/>
         <source>Pressing ESC closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Натискання клавіші ESC закриває</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1611"/>
@@ -12976,33 +13015,33 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Масштабування та переміщення</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
         <location filename="DlgSettingsInterface.ui" line="1881"/>
         <location filename="DlgSettingsInterface.ui" line="2198"/>
         <source>Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1569"/>
         <location filename="DlgSettingsInterface.ui" line="1901"/>
         <location filename="DlgSettingsInterface.ui" line="2164"/>
         <source>Alt</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1629"/>
         <location filename="DlgSettingsInterface.ui" line="1891"/>
         <location filename="DlgSettingsInterface.ui" line="2157"/>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2070"/>
         <source>Wheel</source>
-        <translation type="unfinished"></translation>
+        <translation>Коліщатко</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2095"/>
@@ -13016,17 +13055,17 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2273"/>
         <source>Double click</source>
         <oldsource>Doublie click</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Подвійний клік миші</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2322"/>
         <source>Middle click</source>
-        <translation type="unfinished"></translation>
+        <translation>Середня кнопка миші</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2358"/>
         <source>Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Клавіша Enter</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2281"/>
@@ -13034,12 +13073,12 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2366"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation>Оглядач ↔ Повноекранний режим | Режим перегляду ↔ Повноекранний режим</translation>
+        <translation>Оглядач ↔ Повний екран | Перегляд ↔ Повний екран</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2259"/>
         <source>Switching modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключення режимів</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2286"/>
@@ -13047,7 +13086,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2371"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation>Оглядач ↔ Режим перегляду</translation>
+        <translation>Оглядач ↔ Перегляд</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2291"/>
@@ -13055,7 +13094,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2376"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation>Оглядач → Повноекранний режим → Режим перегляду</translation>
+        <translation>Оглядач → Повноекранний режим → Перегляд</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2296"/>
@@ -13063,32 +13102,32 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2381"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation>Оглядач → Режим перегляду → Повноекранний режим</translation>
+        <translation>Оглядач → Перегляд → Повний екран</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="221"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation type="unfinished">Вихід з XnView при закритті останньої вкладки</translation>
+        <translation>Виходити з програми під час закриття останньої вкладки</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
         <translatorcomment>Режим чи?</translatorcomment>
-        <translation type="unfinished">Синхронізувати оглядач при закритті режиму перегляду</translation>
+        <translation>Виділити файл у браузері під час закриття вкладки Перегляду</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation type="unfinished">Одне вікно для декількох відкритих файлів</translation>
+        <translation>Drag&amp;&amp;Drop: відкривати список файлів в одній вкладці Перегляду</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
         <source>Maximum entries:</source>
         <oldsource>Maximum entries</oldsource>
-        <translation type="unfinished">Максимальна кількість</translation>
+        <translation>Максимальна кількість:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="230"/>
@@ -13203,79 +13242,79 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation type="unfinished">Імпортувати ключові слова з XMP/IPTC в категорії бази даних</translation>
+        <translation>Автоматично імпортувати XMP:Subject та IPTC:Keywords у Категорії Каталогу</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
         <source>Read hierarchical keywords from images as categories</source>
         <oldsource>Read hierarchical keywords</oldsource>
-        <translation type="unfinished">Читати ієрархічні символи</translation>
+        <translation>Читати ієрархічні символи</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="252"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation type="unfinished">Автоматично застосовувати батьківські ключові слова (Ctrl+клік для одиночних ключових слів)</translation>
+        <translation>Автоматично надавати батьківську категорію (Ctrl+клік тільки для поточної)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
         <source>Update when file is changed outside (date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлювати при зміні вихідного файлу (дата/розмір)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Експорт Категорії Каталогу в XMP:Subject та IPTC:Keywords</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
         <source>Create XMP data</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити дані XMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="140"/>
         <source>Create IPTC data</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити дані IPTC</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="328"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Створювати або оновлювати пов&apos;язані файли XMP (sidecar)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="335"/>
         <source>Naming convention</source>
-        <translation type="unfinished"></translation>
+        <translation>Правила іменування</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="341"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу.xmp</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="348"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу.розширення.xmp</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="245"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Записувати Категорії у зображення як ієрархію Ключових слів</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="33"/>
         <source>Metadata</source>
-        <translation type="unfinished">Метадані</translation>
+        <translation>Метадані</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="39"/>
         <source>Categories and keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Категорії та Ключові слова</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="262"/>
@@ -13305,76 +13344,76 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="301"/>
         <source>Import XMP Face tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпортувати тег обличчя XMP</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="322"/>
         <source>Sidecar</source>
-        <translation type="unfinished"></translation>
+        <translation>Пов&apos;язані файли</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="391"/>
         <source>Video files</source>
-        <translation type="unfinished"></translation>
+        <translation>Відеофайли</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="398"/>
         <source>Other files</source>
-        <translation type="unfinished"></translation>
+        <translation>Інші файли</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="422"/>
         <source>Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Кодування</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="436"/>
         <location filename="DlgSettingsKeywords.ui" line="486"/>
         <location filename="DlgSettingsKeywords.ui" line="529"/>
         <source>Default encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Кодування за умовчанням</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="478"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Вбудований коментар</translation>
+        <translation>Вбудований коментар</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="521"/>
         <source>EXIF Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторські права EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="578"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation type="unfinished">Підписи ескізу</translation>
+        <translation>Колірні позначки</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="746"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибраний колір</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="696"/>
         <source>Read (separated by ,)</source>
-        <translation type="unfinished"></translation>
+        <translation>Читання (розділяти за допомогою ;)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="358"/>
         <source>Supported formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтримувані формати</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="739"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="468"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
-        <translation>Використовувати кодування UTF8 при записі в IPTC</translation>
+        <translation>Використовувати кодування UTF-8 при записі в IPTC</translation>
     </message>
 </context>
 <context>
@@ -13383,7 +13422,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsPanel.h" line="94"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnView</oldsource>
-        <translation type="unfinished">Будь ласка, перезапустіть XnView</translation>
+        <translation>Будь ласка, перезапустіть XnView.</translation>
     </message>
 </context>
 <context>
@@ -13423,7 +13462,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
-        <translation type="unfinished">Створити ескізи для всієї папки</translation>
+        <translation>Створювати ескізи для всієї папки</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13443,12 +13482,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="997"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Колір</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1005"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
@@ -13520,7 +13559,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="548"/>
         <source>Has category</source>
-        <translation type="unfinished"></translation>
+        <translation>Має категорію</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
@@ -13571,8 +13610,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="833"/>
         <source>Automatic rotation</source>
-        <translation>Автоматично повернене
-зображення</translation>
+        <translation>Автоматичне обертання</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="661"/>
@@ -13597,12 +13635,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="694"/>
         <source>Face tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Тег особи</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="654"/>
         <source>Sidecar</source>
-        <translation type="unfinished"></translation>
+        <translation>Пов&apos;язані файли</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="843"/>
@@ -13622,7 +13660,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="857"/>
         <source>Browser - Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглядач - Ескіз</translation>
     </message>
 </context>
 <context>
@@ -13631,7 +13669,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.cpp" line="89"/>
         <location filename="DlgSettingsView.cpp" line="91"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічого</translation>
     </message>
 </context>
 <context>
@@ -13646,7 +13684,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
-        <translation type="unfinished">Автомасштабування зображення</translation>
+        <translation>Автомасштабування зображення</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
@@ -13689,7 +13727,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation type="unfinished">Обрамлення зображення</translation>
+        <translation>Рамка навколо полотна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
@@ -13711,7 +13749,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="891"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation type="unfinished">Файли іконок відображати одним знімком</translation>
+        <translation>Відображати іконки з кількома дозволами у вигляді Знімків</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="713"/>
@@ -13722,119 +13760,119 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Скидати параметри Автомаштабування під час переходу до наступного/попереднього файлу</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
         <source>Use sharpen</source>
-        <translation type="unfinished"></translation>
+        <translation>Посилення різкості</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабувати до дозволу HiDPI: 1 піксель зображення дорівнює 1 пікселю на екрані</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="592"/>
         <source>Filter</source>
-        <translation type="unfinished">Фільтр</translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="604"/>
         <source>Like Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Як у Режимі браузера</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="611"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Користувацьке</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="642"/>
         <source>Audio</source>
-        <translation type="unfinished">Аудіофайли</translation>
+        <translation>Аудіофайли</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="649"/>
         <source>Video</source>
-        <translation type="unfinished">Відеофайли</translation>
+        <translation>Відеофайли</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="656"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовий файл</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="670"/>
         <source>Exclude</source>
-        <translation type="unfinished">Винятки</translation>
+        <translation>Винятки</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="677"/>
         <source>Include</source>
-        <translation type="unfinished">Включення</translation>
+        <translation>Включення</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="684"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>(Налаштування › Список файлів › Спеціальний фільтр)</translation>
+        <translation>(з Налаштування › Список файлів › Користувальницький фільтр)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="721"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Виділення</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="729"/>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Нормальне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="734"/>
         <source>Rule of thirds</source>
-        <translation type="unfinished"></translation>
+        <translation>Правило третин</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="500"/>
         <source>Show highlight selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображати кольорове виділення</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation>1.00  Квадратне</translation>
+        <translation>1.00 Квадратне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation>1.90  D4/D16 Анаморфне</translation>
+        <translation>1.90 D4/D16 Анаморфне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation>2.00  Анаморфне</translation>
+        <translation>2.00 Анаморфне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>При зменшенні</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="467"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>При збільшенні</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відображати Рейтинг та Колірну мітку</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Golden ratio (Phi)</source>
-        <translation>Золотий перетин (Phi)</translation>
+        <translation>Золотий перетин (Фі)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -13844,12 +13882,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="776"/>
         <source>Loop video playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Циклічне відтворення відео</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="783"/>
         <source>Two-pass rendering at loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Двопрохідний рендеринг під час завантаження</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="790"/>
@@ -13874,7 +13912,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="819"/>
         <source>Delay (ms)</source>
-        <translation>Затримка (мс)</translation>
+        <translation>Затримка (мс.)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="836"/>
@@ -13904,47 +13942,47 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1120"/>
         <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Розтягнути по горизонталі</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1139"/>
         <source>Fullscreen</source>
-        <translation type="unfinished">На весь екран</translation>
+        <translation>Повноекранний режим</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1176"/>
         <source>Show playbar</source>
-        <translation type="unfinished">Показувати панель відтворення</translation>
+        <translation>Показувати панель відтворення</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1183"/>
         <source>Show info</source>
-        <translation type="unfinished">Показувати інформацію</translation>
+        <translation>Показувати інформацію</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1197"/>
         <source>Show toolbar</source>
-        <translation type="unfinished">Показувати панель інструментів</translation>
+        <translation>Показувати панель інструментів</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1204"/>
         <source>Hide mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховувати курсор миші</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1238"/>
         <source>Dual monitor: Use second monitor</source>
-        <translation type="unfinished">Використовувати другий монітор за наявності двох моніторів</translation>
+        <translation>Використовувати другий монітор за наявності двох моніторів</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1251"/>
         <source>Floating views</source>
-        <translation type="unfinished">Спливаючі вікна</translation>
+        <translation>Спливаючі вікна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1276"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation type="unfinished">(з&apos;являються при наведенні курсору миші на верхній іліл правий край екрана)</translation>
+        <translation>(з&apos;являються при наведенні курсору миші на верхній іліл правий край екрана)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1093"/>
@@ -13959,12 +13997,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="928"/>
         <source>Support HTML tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтримка HTML маркерів</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1131"/>
         <source>Always show in fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди відображати у повноекранному режимі</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1113"/>
@@ -13985,7 +14023,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y (No fit)</source>
         <oldsource>Reset XY (Not fit)</oldsource>
-        <translation type="unfinished">Скидання по XY (Не підганяти)</translation>
+        <translation>Скидання по XY (Не підганяти)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="537"/>
@@ -14006,7 +14044,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="555"/>
         <source>Full size</source>
         <translatorcomment>Повний розмір</translatorcomment>
-        <translation>Full size</translation>
+        <translation>Повний розмір</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="878"/>
@@ -14070,7 +14108,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.ui" line="234"/>
         <source>Between folders only</source>
-        <translation type="unfinished"></translation>
+        <translation>Тільки між папками</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="151"/>
@@ -14081,7 +14119,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation type="unfinished">Схожість зображень (повільно)</translation>
+        <translation>Схожість зображень (повільно)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -14259,37 +14297,37 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSizeEdit.ui" line="14"/>
         <source>Size edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміна розміру</translation>
     </message>
     <message>
         <location filename="DlgSizeEdit.ui" line="22"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="DlgSizeEdit.ui" line="36"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgSizeEdit.ui" line="51"/>
         <source>inch</source>
-        <translation type="unfinished">дюйми</translation>
+        <translation>дюйми</translation>
     </message>
     <message>
         <location filename="DlgSizeEdit.ui" line="56"/>
         <source>cm</source>
-        <translation type="unfinished">см</translation>
+        <translation>см</translation>
     </message>
     <message>
         <location filename="DlgSizeEdit.ui" line="61"/>
         <source>pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>пікселі</translation>
     </message>
     <message>
         <location filename="DlgSizeEdit.ui" line="66"/>
         <source>ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>коефіцієнт</translation>
     </message>
 </context>
 <context>
@@ -14297,163 +14335,163 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="14"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Слайд-шоу</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="24"/>
         <source>Filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Список файлів</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="34"/>
         <source>Settings</source>
-        <translation type="unfinished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="142"/>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Перехід</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="148"/>
         <source>Use timer</source>
-        <translation type="unfinished"></translation>
+        <translation>За таймером</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="171"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>секунд</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="194"/>
         <source>Use keyboard press or mouse click</source>
-        <translation type="unfinished"></translation>
+        <translation>При натисканні клавіші на клавіатурі або при натисканні миші</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="573"/>
         <source>Relative paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Відносний шлях</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="44"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="60"/>
         <source>Fixed size</source>
-        <translation type="unfinished"></translation>
+        <translation>Фіксований розмір</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="93"/>
         <source>Fullscreen</source>
-        <translation type="unfinished">На весь екран</translation>
+        <translation>На весь екран</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="53"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="132"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="237"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="284"/>
         <source>Random order</source>
-        <translation type="unfinished"></translation>
+        <translation>Випадковий порядок</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="291"/>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторювати</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="298"/>
         <source>Stretch small images</source>
-        <translation type="unfinished"></translation>
+        <translation>Розтягувати маленькі зображення</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="270"/>
         <source>Window title bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель завдань Windows</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="277"/>
         <source>Always on Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди поверх вікон</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="245"/>
         <location filename="DlgSlideshow.ui" line="446"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="203"/>
         <source>Use transition effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати ефекти для переходів</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати аудіофайли</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="336"/>
         <source>Auto hide cursor (fullscreen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично приховувати курсор (повноекранний режим)</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="369"/>
         <source>Show information</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображення інформації</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="415"/>
         <source>Text color</source>
-        <translation type="unfinished">Колір тексту</translation>
+        <translation>Колір тексту</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="473"/>
         <source>Opacity</source>
-        <translation type="unfinished">Непрозорість</translation>
+        <translation>Непрозорість</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="388"/>
         <source>Font</source>
-        <translation type="unfinished">Шрифт</translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="504"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Розташування</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="559"/>
         <source>Open...</source>
-        <translation type="unfinished">Відкрити файл...</translation>
+        <translation>Відкрити файл...</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="566"/>
         <source>Save...</source>
-        <translation type="unfinished">Зберегти...</translation>
+        <translation>Зберегти...</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.cpp" line="186"/>
         <source>Import Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпорт слайд-шоу</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.cpp" line="232"/>
         <source>Export Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Експорт слайд-шоу</translation>
     </message>
 </context>
 <context>
@@ -14461,82 +14499,82 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Розбивка зображення</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
         <source>Best fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Підігнати під розмір вікна</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="55"/>
         <source>Zoom in</source>
-        <translation type="unfinished">Збільшити</translation>
+        <translation>Збільшити</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="69"/>
         <source>Zoom out</source>
-        <translation type="unfinished">Зменшити</translation>
+        <translation>Зменшити</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="124"/>
         <source>Tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Плитки</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="130"/>
         <source>Count</source>
-        <translation type="unfinished">Кількість</translation>
+        <translation>Кількість</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="140"/>
         <source>Columns</source>
-        <translation type="unfinished">Стовпців</translation>
+        <translation>Стовпців</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="169"/>
         <source>Rows</source>
-        <translation type="unfinished">Рядів</translation>
+        <translation>Рядів</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="192"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="156"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="205"/>
         <source>Size (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір (пікселів)</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="230"/>
         <source>Output</source>
-        <translation type="unfinished">Вихідні дані</translation>
+        <translation>Вихідні дані</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="238"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="276"/>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри...</translation>
     </message>
     <message>
         <location filename="DlgSplit.cpp" line="25"/>
         <source>Create</source>
-        <translation type="unfinished">Створити</translation>
+        <translation>Створити</translation>
     </message>
     <message>
         <location filename="DlgSplit.cpp" line="166"/>
         <source>Splitting image(s), please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Розбиває зображення (й)...</translation>
     </message>
 </context>
 <context>
@@ -14549,7 +14587,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальні</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="28"/>
@@ -14559,27 +14597,27 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="59"/>
         <source>Theme</source>
-        <translation type="unfinished">Стиль оформлення</translation>
+        <translation>Стиль оформлення</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="70"/>
         <source>Default</source>
-        <translation type="unfinished">Типово</translation>
+        <translation>Типово</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="75"/>
         <source>Light</source>
-        <translation type="unfinished">Легка</translation>
+        <translation>Легка</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="80"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Темний Fusion</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="85"/>
         <source>Black</source>
-        <translation type="unfinished">Чорний</translation>
+        <translation>Чорний</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="111"/>
@@ -14594,13 +14632,13 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="124"/>
         <source>Run the File association(s) tool...</source>
-        <translation>Запустити програму &quot;Асоціація файлів&quot;</translation>
+        <translation>Запустити програму &quot;Асоціація файлів&quot;...</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Settings</source>
         <oldsource>XnView settings</oldsource>
-        <translation type="unfinished">Налаштування XnView</translation>
+        <translation>Налаштування XnView</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="148"/>
@@ -14620,7 +14658,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="322"/>
         <source>Send anonymous logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Надсилати анонімні логи</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="228"/>
@@ -14669,115 +14707,115 @@ Do you want to reassign?</source>
         <location filename="DlgStrip.ui" line="14"/>
         <source>Join images</source>
         <oldsource>Strip of images</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>З&apos;єднання зображень</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="24"/>
         <source>File list</source>
-        <translation type="unfinished">Список файлів</translation>
+        <translation>Список файлів</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="40"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Розташування</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="59"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>По вертикалі</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="66"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>По горизонталі</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="75"/>
         <source>Alignment</source>
-        <translation type="unfinished">Вирівнювання</translation>
+        <translation>Вирівнювання</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="83"/>
         <source>Left / Top</source>
         <oldsource>Left</oldsource>
-        <translation type="unfinished">Зліва</translation>
+        <translation>Верх-зліва</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="88"/>
         <source>Center</source>
-        <translation type="unfinished">Центр</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="93"/>
         <source>Right / Bottom</source>
         <oldsource>Right</oldsource>
-        <translation type="unfinished">Праворуч</translation>
+        <translation>Низ-справа</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="121"/>
         <source>Spacing</source>
-        <translation type="unfinished">Інтервал</translation>
+        <translation>Інтервал</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="150"/>
         <source>Mosaic</source>
-        <translation type="unfinished">Мозаїка</translation>
+        <translation>Мозаїка</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="159"/>
         <source>Thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість ескізів у ряді</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="191"/>
         <source>Collage</source>
-        <translation type="unfinished"></translation>
+        <translation>Колаж</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="198"/>
         <source>Fit width or height</source>
-        <translation type="unfinished"></translation>
+        <translation>За шириною або висотою вікна</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="210"/>
         <source>Output size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір на виході</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="222"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="246"/>
         <source>pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>пікселі</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="251"/>
         <source>inch</source>
-        <translation type="unfinished">дюйми</translation>
+        <translation>дюйми</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="256"/>
         <source>cm</source>
-        <translation type="unfinished">см</translation>
+        <translation>см</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="277"/>
         <source>Height</source>
-        <translation type="unfinished">Висота</translation>
+        <translation>Висота</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="34"/>
         <location filename="DlgStrip.ui" line="300"/>
         <source>Settings</source>
-        <translation type="unfinished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="308"/>
         <source>Background color</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
 </context>
 <context>
@@ -14786,50 +14824,50 @@ Do you want to reassign?</source>
         <location filename="DlgTagPhoto.ui" line="14"/>
         <source>Face Tag</source>
         <oldsource>Tag Face</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відзначити людей</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="85"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Поріг</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="124"/>
         <source>Add</source>
-        <translation type="unfinished">Додавати</translation>
+        <translation>Додавати</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="78"/>
         <source>Search face</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук по обличчю</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити області</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="283"/>
         <source>Write...</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти...</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
         <location filename="DlgTagPhoto.cpp" line="398"/>
         <source>Remove</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.cpp" line="417"/>
         <source>Overwrite face regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезаписати області з особами</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.cpp" line="417"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation>Це призведе до перезапису областей XMP-обличчя у файлі. 
+        <translation>У файлі буде перезаписано XMP області з особами.
 
 Ви хочете продовжити?</translation>
     </message>
@@ -14865,19 +14903,19 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.cpp" line="542"/>
         <location filename="DlgTimestamp.cpp" line="569"/>
         <source>Problem</source>
-        <translation type="unfinished">Проблема</translation>
+        <translation>Проблема</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="542"/>
         <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred in updating process!</source>
-        <translation type="unfinished"></translation>
+        <translation>Відбулася помилка в процесі оновлення!</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="557"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Зміна мітки часу...</translation>
     </message>
 </context>
 <context>
@@ -14922,18 +14960,18 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="428"/>
         <source>Force the update in case of anomaly</source>
-        <translation type="unfinished"></translation>
+        <translation>Примусове оновлення для виявлення аномалії</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Збільшувати на кожному зображенні на</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>секунд</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="403"/>
@@ -14979,7 +15017,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.ui" line="555"/>
         <source>Write to all files</source>
         <oldsource>Write all</oldsource>
-        <translation type="unfinished">Зберегти все</translation>
+        <translation>Зберегти все</translation>
     </message>
 </context>
 <context>
@@ -14987,22 +15025,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Metadata transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенесення метаданих</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
         <source>Add&gt;&gt;</source>
-        <translation type="unfinished">Додати&gt;&gt;</translation>
+        <translation>Додати&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="36"/>
         <source>Clear all</source>
-        <translation type="unfinished">Очистити все</translation>
+        <translation>Очистити все</translation>
     </message>
     <message>
         <location filename="DlgTransfer.cpp" line="203"/>
         <source>Apply</source>
-        <translation type="unfinished">Застосувати</translation>
+        <translation>Застосувати</translation>
     </message>
 </context>
 <context>
@@ -15010,57 +15048,57 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransitionEffects.ui" line="14"/>
         <source>Transition effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ефекти переходів</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="24"/>
         <source>Transition Effects List:</source>
-        <translation type="unfinished"></translation>
+        <translation>Список ефектів для переходів:</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="49"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ніякий</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="56"/>
         <source>All</source>
-        <translation type="unfinished">Все</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="88"/>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Швидкість зміни переходів</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="96"/>
         <source>Very fast (0.25 s)</source>
         <oldsource>Shortest (0.25 s)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Дуже швидка (0.25 с)</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="101"/>
         <source>Fast (0.5 s)</source>
         <oldsource>Shorter (0.5 s)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Швидка (0.5 с)</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="106"/>
         <source>Normal (1 s)</source>
         <oldsource>Medium (1 s)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Середня (1 с)</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="111"/>
         <source>Slow (1.5 s)</source>
         <oldsource>Longer (1.5 s)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Повільна (1.5 с)</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="116"/>
         <source>Very slow (2 s)</source>
         <oldsource>Longuest (2 s)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Дуже повільна (2 с)</translation>
     </message>
 </context>
 <context>
@@ -15068,32 +15106,32 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdate.ui" line="14"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлення</translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="20"/>
         <source>A new version is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна нова версія</translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="39"/>
         <source>New version: </source>
-        <translation type="unfinished"></translation>
+        <translation>Нова версія: </translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="46"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поточна версія:</translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="75"/>
         <source>Changelog:</source>
-        <translation type="unfinished"></translation>
+        <translation>Список змін:</translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="106"/>
         <source>Download new version...</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити нову версію...</translation>
     </message>
 </context>
 <context>
@@ -15252,7 +15290,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете зберегти змінені фільтри?</translation>
     </message>
 </context>
 <context>
@@ -15300,7 +15338,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Стартовий кадр</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -15330,7 +15368,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.cpp" line="72"/>
         <source>Creating video thumbnails, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Створення ескізу відео, чекайте...</translation>
     </message>
 </context>
 <context>
@@ -15349,25 +15387,25 @@ Do you want to continue?</source>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Центрувати</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Замостити</translation>
+        <translation>Замостити</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Замостити по центру</translation>
+        <translation>Замостити від центру</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Розтягнути</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -15409,33 +15447,33 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="22"/>
         <source>Quality</source>
-        <translation type="unfinished">Якість</translation>
+        <translation>Якість</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="54"/>
         <source>Lowest</source>
-        <translation type="unfinished"></translation>
+        <translation>Найгірше</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="80"/>
         <source>Best (lossless)</source>
-        <translation type="unfinished">Найкраща</translation>
+        <translation>Найкраща</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Субдискретизація</translation>
+        <translation>Субдискретизація</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="123"/>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Швидкість зміни переходів</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="116"/>
         <source>(10 = fastest)</source>
         <oldsource>(10 for fastest)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>(10 для швидкого)</translation>
     </message>
 </context>
 <context>
@@ -15469,17 +15507,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteHeic.ui" line="54"/>
         <source>Lowest</source>
-        <translation type="unfinished"></translation>
+        <translation>Найгірше</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="80"/>
         <source>Best (lossless)</source>
-        <translation type="unfinished">Найкраща</translation>
+        <translation>Найкраща</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="22"/>
         <source>Quality</source>
-        <translation type="unfinished">Якість</translation>
+        <translation>Якість</translation>
     </message>
 </context>
 <context>
@@ -15508,7 +15546,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJP2K.ui" line="101"/>
         <source>Compression rate: 1 to </source>
         <oldsource>Compression rate : 1 to </oldsource>
-        <translation>Коефіцієнт стиснення: 1 до</translation>
+        <translation>Коефіцієнт стиснення: 1 до </translation>
     </message>
     <message>
         <location filename="DlgWriteJP2K.ui" line="132"/>
@@ -15586,13 +15624,13 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="204"/>
         <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1, 1x1, 1x1 (найкраща якість)</translation>
+        <translation>1x1,1x1,1x1 (найкраща якість)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="229"/>
         <source>Rebuild embedded EXIF thumbnail</source>
         <oldsource>Rebuild embedded thumbnail</oldsource>
-        <translation type="unfinished">Перебудувати вбудований ескіз</translation>
+        <translation>Перебудувати вбудований ескіз</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="236"/>
@@ -15602,7 +15640,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="243"/>
         <source>Convert to XYB colorspace</source>
-        <translation>Перетворення в простір кольорів XYB</translation>
+        <translation>Перетворити на колірний простір XYB</translation>
     </message>
 </context>
 <context>
@@ -15610,27 +15648,27 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEGXL.ui" line="20"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Стиснення без втрат</translation>
+        <translation>Стиснення без втрат</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEGXL.ui" line="95"/>
         <source>Quality</source>
-        <translation type="unfinished">Якість</translation>
+        <translation>Якість</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEGXL.ui" line="54"/>
         <source>Lowest</source>
-        <translation type="unfinished"></translation>
+        <translation>Низьке</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEGXL.ui" line="80"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Найкраще</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEGXL.ui" line="106"/>
         <source>Compression</source>
-        <translation type="unfinished">Стиснення</translation>
+        <translation>Стиснення</translation>
     </message>
 </context>
 <context>
@@ -15653,7 +15691,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="99"/>
         <source>Subsampling</source>
-        <translation type="unfinished">Субдискретизація</translation>
+        <translation>Субдискретизація</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
@@ -15689,22 +15727,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWritePDF.ui" line="17"/>
         <source>Compression type</source>
-        <translation type="unfinished"></translation>
+        <translation>Алгоритм стиснення</translation>
     </message>
     <message>
         <location filename="DlgWritePDF.ui" line="23"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Колір</translation>
     </message>
     <message>
         <location filename="DlgWritePDF.ui" line="33"/>
         <source>B&amp;W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ч/Б</translation>
     </message>
     <message>
         <location filename="DlgWritePDF.ui" line="46"/>
         <source>Grayscale</source>
-        <translation type="unfinished">Відтінки сірого</translation>
+        <translation>Відтінки сірого</translation>
     </message>
     <message>
         <location filename="DlgWritePDF.ui" line="70"/>
@@ -15788,13 +15826,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation type="unfinished">Стиснення чорно-білого зображення</translation>
+        <translation>Стиск чорно-білого зображення</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation type="unfinished">Стиснення кольорового зображення</translation>
+        <translation>Стиск кольорового зображення</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -15812,37 +15850,37 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteWebP.ui" line="19"/>
         <source>Save preset</source>
-        <translation type="unfinished">Зберегти передустановку</translation>
+        <translation>Зберегти передустановку</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="27"/>
         <source>Default</source>
-        <translation type="unfinished">Типово</translation>
+        <translation>Типово</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="32"/>
         <source>Photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Фотографія</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="37"/>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="42"/>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Креслення</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="47"/>
         <source>Icon</source>
-        <translation type="unfinished">Значки</translation>
+        <translation>Значки</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="52"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="89"/>
@@ -15858,7 +15896,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="292"/>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <oldsource>Use sharp (and slow) RGB-&gt;YUV conversion</oldsource>
-        <translation>Використовуйте різке (і повільне) перетворення RGB→YUV</translation>
+        <translation>Використовувати різке (і повільне) RGB→YUV перетворення</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="77"/>
@@ -15896,187 +15934,187 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Опис</translation>
+        <translation>Опис</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Оцінка</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус авторських прав</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Не визначено</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Захищено авторським правом</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished"></translation>
+        <translation>Громадське надбання</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished"></translation>
+        <translation>Дата створення: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished"></translation>
+        <translation>Дата зміни: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Ключові слова</translation>
+        <translation>Ключові слова</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished"></translation>
+        <translation>(використовуйте | для розділення ієрархії ключових слів)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Надавати батьківські Категорії</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished">Розташування</translation>
+        <translation>Оригінальний</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Дата створення</translation>
+        <translation>Дата створення</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="368"/>
         <source>Urgency</source>
-        <translation type="unfinished"></translation>
+        <translation>Терміновість</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="394"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC - Контактна інформація</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="446"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC - Розширення</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="540"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="561"/>
         <source>Mode:</source>
-        <translation type="unfinished">Режим:</translation>
+        <translation>Режим:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="569"/>
         <source>XMP only</source>
-        <translation type="unfinished">XMP тільки</translation>
+        <translation>XMP тільки</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="574"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, оновити або створити IPTC-IIM</translation>
+        <translation>XMP, оновлювати або створювати IPTC</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="603"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Множинний вибір</translation>
+        <translation>Множинний вибір</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="612"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Зберігати поточне значення, якщо нове значення пусте</translation>
+        <translation>Зберігати поточне значення, якщо нове значення порожнє</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="619"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Замінювати тільки порожні значення</translation>
+        <translation>Замінювати лише порожні значення</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="629"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Запам&apos;ятовувати відкриту вкладку</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished"></translation>
+        <translation>(використовуйте ; або для розділення)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Не вказаний</translation>
+        <translation>0: Не вказано</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Високий</translation>
+        <translation>1: Високий</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Нормальний</translation>
+        <translation>5: Нормальний</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Низький</translation>
+        <translation>8: Низький</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Required field</source>
-        <translation type="unfinished"></translation>
+        <translation>Обов&apos;язкове поле</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished"></translation>
+        <translation>Деякі поля є обов&apos;язковими, їх необхідно заповнити!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished">Вставити</translation>
+        <translation>Вставити</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="443"/>
         <source>Insert from</source>
-        <translation type="unfinished">Вставити з</translation>
+        <translation>Вставити з</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="464"/>
         <source>Copy into</source>
-        <translation type="unfinished">Копіювати в</translation>
+        <translation>Копіювати в</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="488"/>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Бібліотека</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Редагувати історію...</translation>
+        <translation>Редагувати історію...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="494"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Сортувати за алфавітом</translation>
+        <translation>Упорядкувати за абеткою</translation>
     </message>
 </context>
 <context>
@@ -16094,27 +16132,27 @@ Do you want to continue?</source>
     <message>
         <location filename="Email.h" line="367"/>
         <source>Authentication failed: </source>
-        <translation>Помилка ідентифікації:</translation>
+        <translation>Помилка ідентифікації: </translation>
     </message>
     <message>
         <location filename="Email.h" line="379"/>
         <source>Connection failed: </source>
-        <translation>Помилка з&apos;єднання:</translation>
+        <translation>Помилка з&apos;єднання: </translation>
     </message>
     <message>
         <location filename="Email.h" line="391"/>
         <source>Sending of email failed: </source>
-        <translation>Помилка відправки листів:</translation>
+        <translation>Помилка відправки листів: </translation>
     </message>
     <message>
         <location filename="Email.h" line="398"/>
         <source>Recipient rejected: </source>
-        <translation>Повернення від одержувача:</translation>
+        <translation>Повернення від одержувача: </translation>
     </message>
     <message>
         <location filename="Email.h" line="405"/>
         <source>Sender rejected: </source>
-        <translation>Повернення від відправника:</translation>
+        <translation>Відправник відхилений: </translation>
     </message>
 </context>
 <context>
@@ -16134,14 +16172,16 @@ Do you want to continue?</source>
         <location filename="FavoritesView.cpp" line="73"/>
         <source>Favorite doesn&apos;t exist</source>
         <oldsource>Favorite doens&apos;t exist</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Вибране не знайдено</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="73"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибране вказує на неіснуючу папку.
+
+Ви хочете видалити вибране &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="103"/>
@@ -16191,12 +16231,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeneralSettings.cpp" line="913"/>
         <source>%1-Copy%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-Копія %2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="915"/>
         <source>%1-Copy (%3)%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-Копія (%3)%2</translation>
     </message>
 </context>
 <context>
@@ -16204,17 +16244,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListViewEx.cpp" line="229"/>
         <source>All</source>
-        <translation type="unfinished">Все</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="FileListViewEx.cpp" line="233"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічого</translation>
     </message>
     <message>
         <location filename="FileListViewEx.cpp" line="282"/>
         <source>Paste filenames</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставити ім&apos;я</translation>
     </message>
 </context>
 <context>
@@ -16223,58 +16263,58 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ескізи маленькі</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Ескізи</translation>
+        <translation>Ескізи</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ескізи великі</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
         <source>Details</source>
-        <translation type="unfinished">Таблиця</translation>
+        <translation>Таблиця</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="43"/>
         <source>List</source>
-        <translation type="unfinished">Список</translation>
+        <translation>Список</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="231"/>
         <source>Drag&amp;Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Можете &amp;перетягнути сюди файли</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="34"/>
         <source>Add files...</source>
-        <translation type="unfinished">Додати файли...</translation>
+        <translation>Додати файли...</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="45"/>
         <source>Add folder...</source>
-        <translation type="unfinished">Додати папку...</translation>
+        <translation>Додати папку...</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="71"/>
         <source>Remove</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="85"/>
         <source>Remove all</source>
-        <translation type="unfinished">Видалити все</translation>
+        <translation>Видалити все</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="321"/>
         <source>Choose a directory</source>
-        <translation type="unfinished">Виберіть папку</translation>
+        <translation>Виберіть папку</translation>
     </message>
 </context>
 <context>
@@ -16346,7 +16386,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="Flickr.cpp" line="353"/>
         <source>An error has occurred!!</source>
         <oldsource>An error has occured!!</oldsource>
-        <translation type="unfinished">Сталася помилка!</translation>
+        <translation>Сталася помилка!</translation>
     </message>
     <message>
         <location filename="Flickr.cpp" line="378"/>
@@ -16365,7 +16405,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="imgurapi3.cpp" line="231"/>
         <source>Could not open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося відкрити файл</translation>
     </message>
 </context>
 <context>
@@ -16401,7 +16441,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="76"/>
         <source>Dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимір</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="77"/>
@@ -16451,7 +16491,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
-        <translation type="unfinished">Субдискретизація</translation>
+        <translation>Субдискретизація</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -16490,7 +16530,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="348"/>
         <source>Lens model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель лінзи</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="350"/>
@@ -16500,112 +16540,112 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="677"/>
         <source>Encoded date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата кодування</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="678"/>
         <location filename="InfoPropertiesView.cpp" line="698"/>
         <location filename="InfoPropertiesView.cpp" line="717"/>
         <source>Codec</source>
-        <translation type="unfinished"></translation>
+        <translation>Кодек</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="681"/>
         <location filename="InfoPropertiesView.cpp" line="699"/>
         <location filename="InfoPropertiesView.cpp" line="718"/>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Тривалість</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="683"/>
         <location filename="InfoPropertiesView.cpp" line="701"/>
         <location filename="InfoPropertiesView.cpp" line="720"/>
         <source>Bit rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Швидкість потоку</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="684"/>
         <source>Aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропорції</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="685"/>
         <source>Frame rate mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим частоти кадрів</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="686"/>
         <location filename="InfoPropertiesView.cpp" line="703"/>
         <location filename="InfoPropertiesView.cpp" line="722"/>
         <source>Frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Частота кадрів</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="687"/>
         <location filename="InfoPropertiesView.cpp" line="704"/>
         <location filename="InfoPropertiesView.cpp" line="723"/>
         <source>Compression mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим стиснення</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="688"/>
         <source>Bits/sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Кількість біт</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="695"/>
         <location filename="InfoPropertiesView.cpp" line="714"/>
         <source>Format version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія формату</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="696"/>
         <location filename="InfoPropertiesView.cpp" line="715"/>
         <source>Format profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат профілю</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="697"/>
         <location filename="InfoPropertiesView.cpp" line="716"/>
         <source>Format settings</source>
-        <translation type="unfinished">Налаштування формату</translation>
+        <translation>Налаштування формату</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="700"/>
         <location filename="InfoPropertiesView.cpp" line="719"/>
         <source>Bit rate mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим швидкості потоку</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="702"/>
         <location filename="InfoPropertiesView.cpp" line="721"/>
         <source>Sampling rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Частота вибірки</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="725"/>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Альбом</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="726"/>
         <source>Title</source>
-        <translation type="unfinished">Назва</translation>
+        <translation>Назва</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="727"/>
         <source>Performer</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконавець</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="728"/>
         <source>Genre</source>
-        <translation type="unfinished"></translation>
+        <translation>Жанр</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="729"/>
         <source>Recorded date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата запису</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="344"/>
@@ -16640,7 +16680,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="83"/>
         <source>Colors used</source>
-        <translation type="unfinished"></translation>
+        <translation>Користувацькі кольори</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="256"/>
@@ -16682,7 +16722,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1091"/>
         <source>Path</source>
-        <translation type="unfinished">Шлях</translation>
+        <translation>Шлях</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="691"/>
@@ -16711,7 +16751,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="27"/>
         <location filename="SearchField.cpp" line="120"/>
         <source>Pathname</source>
-        <translation type="unfinished">Шлях</translation>
+        <translation>Шлях</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1103"/>
@@ -16837,7 +16877,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2763"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу (останній номер)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="331"/>
@@ -16894,54 +16934,54 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2771"/>
         <source>Size (KB)</source>
-        <translation>Розмір (Кб)</translation>
+        <translation>Розмір (кбайт)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2555"/>
         <source>Width (mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина (мм)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2556"/>
         <source>Height (mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Висота (мм)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2558"/>
         <source>Ratio Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Десятичне співвідношення</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2559"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Коефіцієнт ширини/висоти</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2560"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Коефіцієнт висоти/ширини</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>MPixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Мегапікселі</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата створення</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата зміни</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
         <source>Filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу (з розширенням)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2772"/>
@@ -16952,12 +16992,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2774"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
-        <translation type="unfinished">Ім&apos;я на виході</translation>
+        <translation>Ім&apos;я на виході</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2775"/>
         <source>Output filename (with extension)</source>
-        <translation>Ім&apos;я на виході (з розширенням)</translation>
+        <translation>Ім&apos;я файлу на виході (з розширенням)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2745"/>
@@ -17072,12 +17112,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="109"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="111"/>
         <source>Hide assigned categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховати призначені категорії</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="119"/>
@@ -17122,17 +17162,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Catalog</source>
-        <translation type="unfinished">Каталог</translation>
+        <translation>Каталог</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="150"/>
         <source>Import...</source>
-        <translation type="unfinished">Імпорт...</translation>
+        <translation>Імпорт...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="152"/>
         <source>Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>Експорт...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
@@ -17158,14 +17198,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="299"/>
         <source>Importing categories file, please wait...</source>
         <oldsource>Importing categories file, please wait... </oldsource>
-        <translation type="unfinished">Імпорт категорій файлу, будь ласка, зачекайте...</translation>
+        <translation>Імпорт категорій файлу, будь ласка, зачекайте...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="274"/>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Exporting categories file, please wait...</source>
         <oldsource>Exporting categories file, please wait... </oldsource>
-        <translation type="unfinished">Експорт категорій файлу, будь ласка, зачекайте...</translation>
+        <translation>Експорт категорій файлу, будь ласка, зачекайте...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
@@ -17180,17 +17220,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="332"/>
         <source>Clear orphaned categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити втрачені категорії</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="332"/>
         <source>Do you want to clear orphaned categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете очистити втрачені категорії?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="412"/>
         <source> [Create New]</source>
-        <translation>[Створити новий]</translation>
+        <translation> [Створити новий]</translation>
     </message>
 </context>
 <context>
@@ -17276,7 +17316,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1114"/>
         <location filename="SearchField.cpp" line="348"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Час експозиції</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17444,7 +17484,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2608"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
-        <translation>Витримка (с)</translation>
+        <translation>Витримка (c)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2609"/>
@@ -17486,7 +17526,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2617"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation>Швидкість затвора в (с)</translation>
+        <translation>Швидкість затвора (c)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2619"/>
@@ -17671,37 +17711,37 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2655"/>
         <source>Lens Make</source>
-        <translation type="unfinished"></translation>
+        <translation>Виробник лінзи</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2656"/>
         <source>Lens Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модель лінзи</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2662"/>
         <source>Latitude ref.</source>
-        <translation>Широта посилання</translation>
+        <translation>Широта ref.</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2664"/>
         <source>Latitude (value)</source>
-        <translation type="unfinished"></translation>
+        <translation>Широта (значення)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2665"/>
         <source>Longitude ref.</source>
-        <translation>Довгота посилання</translation>
+        <translation>Довгота ref.</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2667"/>
         <source>Longitude (value)</source>
-        <translation type="unfinished"></translation>
+        <translation>Довгота (значення)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2668"/>
         <source>Altitude ref.</source>
-        <translation>Висота посилання</translation>
+        <translation>Висота ref.</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2669"/>
@@ -17711,17 +17751,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2670"/>
         <source>Direction ref.</source>
-        <translation type="unfinished"></translation>
+        <translation>Напрямок ref.</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2671"/>
         <source>Direction</source>
-        <translation type="unfinished">Напрямок</translation>
+        <translation>Напрямок</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2672"/>
         <source>Location Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Регіональний код</translation>
     </message>
 </context>
 <context>
@@ -17990,12 +18030,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="70"/>
         <source>Digitized date</source>
-        <translation type="unfinished">Дата оцифровки</translation>
+        <translation>Дата оцифровки</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="71"/>
         <source>Digitized time</source>
-        <translation type="unfinished"></translation>
+        <translation>Час оцифрування</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="72"/>
@@ -18079,7 +18119,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="105"/>
         <location filename="TemplateData.cpp" line="2736"/>
         <source>Instructions</source>
-        <translation type="unfinished"></translation>
+        <translation>Інструкції</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="53"/>
@@ -18132,19 +18172,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="SearchField.cpp" line="411"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Усі поля (числові)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="82"/>
         <location filename="SearchField.cpp" line="414"/>
         <source>Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="83"/>
         <location filename="SearchField.cpp" line="417"/>
         <source>Field (Number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле (числове)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="384"/>
@@ -18158,92 +18198,92 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1155"/>
         <location filename="TemplateData.cpp" line="2710"/>
         <source>Document title</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок документа</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="84"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="89"/>
         <source>Copyright Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторські права</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="90"/>
         <source>Copyright info URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Інформація про авторські права</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="91"/>
         <source>Copyright usage terms</source>
-        <translation type="unfinished"></translation>
+        <translation>Умови використання авторських прав</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="97"/>
         <source>Sublocation</source>
-        <translation type="unfinished"></translation>
+        <translation>Район</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="101"/>
         <source>Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код країни</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="106"/>
         <source>Transmission reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Посилання на оригінал</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="138"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Адреса</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="141"/>
         <source>ZIP code</source>
-        <translation type="unfinished"></translation>
+        <translation>Поштовий індекс</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="143"/>
         <source>Telephon number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер телефону</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="144"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Електронна пошта</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="145"/>
         <source>Web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Веб-сайт</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код теми</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
         <source>Person in image</source>
-        <translation type="unfinished"></translation>
+        <translation>Людина на зображенні</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="150"/>
         <source>Name of organization represented</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва організації, що представляється</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="151"/>
         <source>Code of organization represented</source>
-        <translation type="unfinished"></translation>
+        <translation>Код організації, що представляється</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="152"/>
         <source>Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Подія</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="160"/>
@@ -18257,7 +18297,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="168"/>
         <location filename="EditXMPWidget.cpp" line="169"/>
         <source>Custom field</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле користувача</translation>
     </message>
 </context>
 <context>
@@ -18295,12 +18335,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="133"/>
         <source>Top-Left</source>
-        <translation>Верх-Ліворуч</translation>
+        <translation>Верх-Зліва</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="150"/>
         <source>Extra</source>
-        <translation type="unfinished"></translation>
+        <translation>Додатково</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="236"/>
@@ -18383,13 +18423,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="675"/>
         <source>Video</source>
-        <translation type="unfinished">Відеофайли</translation>
+        <translation>Відеофайли</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="693"/>
         <location filename="InfoPropertiesView.cpp" line="712"/>
         <source>Audio</source>
-        <translation type="unfinished">Аудіофайли</translation>
+        <translation>Аудіофайли</translation>
     </message>
 </context>
 <context>
@@ -18425,7 +18465,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="IptcEditBase.cpp" line="172"/>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Бібліотека</translation>
     </message>
     <message>
         <location filename="IptcEditBase.cpp" line="177"/>
@@ -18473,12 +18513,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1071"/>
         <source>EXIF Date Taken</source>
-        <translation type="unfinished">Дата EXIF</translation>
+        <translation>Дата EXIF</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1073"/>
         <source>EXIF Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF: Дата зміни</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1079"/>
@@ -18496,7 +18536,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemProcess.cpp" line="293"/>
         <source>Lossless Crop</source>
-        <translation>Обрізка без втрат</translation>
+        <translation>Обрізання без втрат</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="294"/>
@@ -18522,12 +18562,12 @@ Do you want to continue?</source>
         <location filename="ItemProcess.cpp" line="404"/>
         <source>An error has occurred, the lossless rotation can&apos;t be executed.</source>
         <oldsource>An error occured, the lossless rotation can&apos;t be executed.</oldsource>
-        <translation type="unfinished">Виникла помилка, поворот без втрат не можливо виконати.</translation>
+        <translation>Виникла помилка, поворот без втрат не можливо виконати.</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="361"/>
         <source>Lossless Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетворення без втрат</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="439"/>
@@ -18556,15 +18596,15 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation>Зображення буде перетворено в 24-бітний RGB (8 біт на канал). 
+        <translation>Зображення буде перетворено на 24-бітний RGB (8 біт на канал).
 
-Бажаєте продовжити?</translation>
+Ви хочете продовжити?</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="497"/>
         <source>An error has occurred.</source>
         <oldsource>An error occured.</oldsource>
-        <translation type="unfinished">Сталася помилка.</translation>
+        <translation>Сталася помилка.</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="19"/>
@@ -18574,25 +18614,25 @@ Do you want to continue?</oldsource>
         <location filename="GFFHelper.h" line="76"/>
         <location filename="GFFHelper.h" line="90"/>
         <source>Confirm Save - Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердження збереження - Формат</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="20"/>
         <location filename="GFFHelper.h" line="64"/>
         <source>Saving in this format will discard comment and any existing metadata!</source>
-        <translation type="unfinished"></translation>
+        <translation>При збереженні в цей формат видаляться коментарі та всі метадані!</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="34"/>
         <location filename="GFFHelper.h" line="77"/>
         <source>Saving in this format will discard any existing metadata!</source>
-        <translation type="unfinished"></translation>
+        <translation>При збереженні в цей формат видаляться всі метадані!</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="48"/>
         <location filename="GFFHelper.h" line="91"/>
         <source>Saving in this format will discard some metadata!</source>
-        <translation type="unfinished"></translation>
+        <translation>При збереженні в цей формат видаляться деякі метадані!</translation>
     </message>
 </context>
 <context>
@@ -18662,7 +18702,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="LanguageComboBox.cpp" line="26"/>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Estonian</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="27"/>
@@ -18774,7 +18814,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="LanguageComboBox.cpp" line="49"/>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovenian</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="50"/>
@@ -18795,17 +18835,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="LanguageComboBox.cpp" line="55"/>
         <source>Chinese Simplified</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinese Simplified</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="56"/>
         <source>Chinese Traditional</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinese Traditional</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="57"/>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebrew</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="60"/>
@@ -18816,7 +18856,7 @@ Do you want to continue?</oldsource>
         <location filename="LanguageComboBox.cpp" line="83"/>
         <location filename="LanguageComboBox.cpp" line="87"/>
         <source>your name</source>
-        <translation>Роман Бабій</translation>
+        <translation>Roman Babiy</translation>
     </message>
 </context>
 <context>
@@ -18833,12 +18873,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayer.cpp" line="273"/>
         <source>Show playbar</source>
-        <translation type="unfinished">Показувати панель відтворення</translation>
+        <translation>Показувати панель відтворення</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="277"/>
         <source>Extract current frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Вилучити поточний кадр</translation>
     </message>
 </context>
 <context>
@@ -18846,17 +18886,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerAv.cpp" line="42"/>
         <source>Can not create video renderer</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо створити відеорендер</translation>
     </message>
     <message>
         <location filename="MediaPlayerAv.cpp" line="347"/>
         <source>Show playbar</source>
-        <translation type="unfinished">Показувати панель відтворення</translation>
+        <translation>Показувати панель відтворення</translation>
     </message>
     <message>
         <location filename="MediaPlayerAv.cpp" line="351"/>
         <source>Extract current frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Витягнути поточний кадр</translation>
     </message>
 </context>
 <context>
@@ -18864,7 +18904,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerBase.cpp" line="85"/>
         <source>Adjust volume</source>
-        <translation type="unfinished">Регулювання гучності</translation>
+        <translation>Регулювання гучності</translation>
     </message>
 </context>
 <context>
@@ -18872,17 +18912,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="233"/>
         <source>Show playbar</source>
-        <translation type="unfinished">Показувати панель відтворення</translation>
+        <translation>Показувати панель відтворення</translation>
     </message>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="237"/>
         <source>Extract current frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Витягнути поточний кадр</translation>
     </message>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="240"/>
         <source>Save frame as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти кадр як...</translation>
     </message>
 </context>
 <context>
@@ -18956,7 +18996,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="31"/>
         <source>Thumbnails + Filenames</source>
         <oldsource>Thumbnails + Filename</oldsource>
-        <translation type="unfinished">Ескізи + Файл</translation>
+        <translation>Ескізи + Файл</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="32"/>
@@ -18972,7 +19012,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="34"/>
         <source>Icons</source>
         <oldsource>Icon</oldsource>
-        <translation type="unfinished">Значки</translation>
+        <translation>Значки</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="35"/>
@@ -19008,12 +19048,12 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="48"/>
         <source>EXIF Date Taken</source>
         <oldsource>EXIF Date</oldsource>
-        <translation type="unfinished">Дата EXIF</translation>
+        <translation>Дата EXIF</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="49"/>
         <source>EXIF Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF: Дата зміни</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="50"/>
@@ -19063,7 +19103,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="59"/>
         <source>Path</source>
-        <translation type="unfinished">Шлях</translation>
+        <translation>Шлях</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="60"/>
@@ -19095,17 +19135,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
         <source>Name - numeric order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я - числова послідовність</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="69"/>
         <source>Name - normal order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я - звичайний порядок</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="70"/>
         <source>Name - alphabetic order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я - впорядкувати за абеткою</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="78"/>
@@ -19141,159 +19181,159 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
         <source>Navigate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти до</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="474"/>
         <source>Excellent (go to next image)</source>
-        <translation>Відмінно (перехід до наступного зображення)</translation>
+        <translation>Відмінно (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="475"/>
         <source>Good (go to next image)</source>
-        <translation>Добре (перехід до наступного зображення)</translation>
+        <translation>Добре (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="476"/>
         <source>Average (go to next image)</source>
-        <translation>Задовільно (перехід до наступного зображення)</translation>
+        <translation>Середньо (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
         <source>Fair (go to next image)</source>
-        <translation>Погано (перехід до наступного зображення)</translation>
+        <translation>Непогано (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="479"/>
         <source>Unrated (go to next image)</source>
-        <translation>Без оцінки (перехід до наступного зображення)</translation>
+        <translation>Без рейтингу (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="492"/>
         <source>##label## (go to next image)</source>
-        <translation>##label## (перехід до наступного зображення)</translation>
+        <translation>##label## (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Задати рейтинг</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Задати колірну позначку</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Set Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити категорію</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
         <source>Show files in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати файли у вкладених папках</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="570"/>
         <source>Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 90° праворуч</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="571"/>
         <source>Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 90° ліворуч</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="574"/>
         <source>Rotate 90° right (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 90° праворуч (без втрат)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="575"/>
         <source>Rotate 90° left (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 90° ліворуч (без втрат)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="576"/>
         <source>Rotate 180° (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 180° (без втрат)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="579"/>
         <source>Flip horizontally (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевернути горизонтально (без втрат)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="580"/>
         <source>Flip vertically (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевернути вертикально (без втрат)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Open GPS location in</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати розташування GPS в</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>Мініатюра EXIF - Поворот на 90° ліворуч</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="600"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>Мініатюра EXIF - Поворот на 90° праворуч</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="604"/>
         <source>EXIF Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Ескіз EXIF</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="626"/>
         <source>Video thumbnails gallery...</source>
-        <translation type="unfinished"></translation>
+        <translation>Галерея ескізів відео...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="656"/>
         <source>Clear &amp;&amp; Import...</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалення та імпорт...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="657"/>
         <source>Catalog</source>
-        <translation type="unfinished">Каталог</translation>
+        <translation>Каталог</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="661"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Переключити панель</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Перемістити фокус на шлях</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="663"/>
         <source>Filter by All</source>
-        <translation type="unfinished"></translation>
+        <translation>Фільтрувати по всіх</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="665"/>
         <source>Face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Тег обличчя...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставити як зображення</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="673"/>
         <source>Acquire (TWAIN)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримати (TWAIN)</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="459"/>
@@ -19334,7 +19374,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="610"/>
         <source>Archive...</source>
-        <translation>Архів... </translation>
+        <translation>Архів...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="615"/>
@@ -19355,7 +19395,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="634"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation>Використовувати індекс прозорості (≤ 8bits)</translation>
+        <translation>Використовувати індекс прозорості (≤ 8біт)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
@@ -19376,14 +19416,14 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="275"/>
         <location filename="BrowserMenu.h" line="643"/>
         <source>Fit image to window, large only</source>
-        <translation>Підганяти зображення під розмір вікна, тільки велике</translation>
+        <translation>Підганяти зображення під розмір вікна, тільки якщо воно більше розміру вікна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Fit image to window, small only</source>
-        <translation>Підганяти зображення під розмір вікна, тільки маленьке</translation>
+        <translation>Підігнати зображення під розмір вікна, тільки якщо воно менше розміру вікна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
@@ -19409,7 +19449,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsView.cpp" line="26"/>
         <source>Fit image to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Припасувати зображення для Робочого столу</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="264"/>
@@ -19420,7 +19460,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="4"/>
         <source>Dark</source>
         <oldsource>Fusion dark</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Темний Fusion</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="423"/>
@@ -19460,7 +19500,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Open in Finder</source>
-        <translation>Відкрийте у Finder</translation>
+        <translation>Відкрити в пошуковій системі</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="555"/>
@@ -19470,17 +19510,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="563"/>
         <source>Add to favorites...</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати до вибраного...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="567"/>
         <source>Info panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Область інформації</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="572"/>
         <source>Rotate 180°</source>
-        <translation type="unfinished">Повернути на 180°</translation>
+        <translation>Повернути на 180°</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="577"/>
@@ -19495,23 +19535,23 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="594"/>
         <source>Edit IPTC...</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити дані IPTC...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="595"/>
         <source>Edit XMP...</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити дані XMP...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Правка GPS...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="602"/>
         <source>Transfer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенесення...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="609"/>
@@ -19527,33 +19567,33 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="620"/>
         <source>Join images...</source>
-        <translation type="unfinished"></translation>
+        <translation>З&apos;єднання зображень...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="621"/>
         <source>Contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглядовий лист...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="622"/>
         <source>Slideshow...</source>
-        <translation type="unfinished"></translation>
+        <translation>Слайд-шоу...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="623"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Розділити зображення...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="624"/>
         <source>Banner...</source>
-        <translation type="unfinished"></translation>
+        <translation>Банер...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="625"/>
         <source>New image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Нове зображення...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -19564,7 +19604,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
         <source>File operations</source>
-        <translation type="unfinished">Дії з файлами</translation>
+        <translation>Дії з файлами</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="660"/>
@@ -19574,18 +19614,18 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Capture...</source>
-        <translation type="unfinished">Захоплення...</translation>
+        <translation>Захоплення...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="670"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation type="unfinished">Пуста вкладка</translation>
+        <translation>Порожня вкладка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="672"/>
         <source>Select TWAIN source...</source>
-        <translation type="unfinished">Вибрати TWAIN-сумісний пристрій</translation>
+        <translation>Вибрати TWAIN-сумісний пристрій...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="813"/>
@@ -19605,7 +19645,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="816"/>
         <source>Meta&amp;data</source>
-        <translation type="unfinished">Метадані</translation>
+        <translation>Мета&amp;дані</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="817"/>
@@ -19615,47 +19655,47 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="3"/>
         <source>Light</source>
-        <translation type="unfinished">Легка</translation>
+        <translation>Легка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="5"/>
         <source>Black</source>
-        <translation type="unfinished">Чорний</translation>
+        <translation>Чорний</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="7"/>
         <source>Old Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Старий темний</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="79"/>
         <source>Images (+folders)</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення (+папки)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="81"/>
         <source>Videos (+folders)</source>
-        <translation type="unfinished"></translation>
+        <translation>Відеофайли (+папки)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="314"/>
         <source>Information</source>
-        <translation type="unfinished">Інформація</translation>
+        <translation>Інформація</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="566"/>
         <source>Panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Панелі</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Image</source>
-        <translation type="unfinished">Зображення</translation>
+        <translation>Зображення</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="674"/>
         <source>Acquire into (TWAIN)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримати (TWAIN)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="818"/>
@@ -19713,12 +19753,12 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="311"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
-        <translation type="unfinished">Фільтр за категоріями</translation>
+        <translation>Фільтр за категоріями</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="313"/>
         <source>Category Sets</source>
-        <translation type="unfinished">Набір категорій</translation>
+        <translation>Набір категорій</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="429"/>
@@ -19739,7 +19779,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="478"/>
         <source>Poor (go to next image)</source>
         <oldsource>##label## (move to next image)</oldsource>
-        <translation>Дуже погано (перехід до наступного зображення)</translation>
+        <translation>Погано (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="527"/>
@@ -19816,7 +19856,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="418"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">Відкрити з допомогою</translation>
+        <translation>Відкрити з допомогою</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="419"/>
@@ -19869,7 +19909,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="439"/>
         <source>Select all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Виділити все</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="440"/>
@@ -19959,7 +19999,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
-        <translation type="unfinished">Відзначити поточний</translation>
+        <translation>Відзначити поточний</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
@@ -20021,48 +20061,48 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="517"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відображати як ескізи</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="518"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відображати як Ескізи + Ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="519"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відображати як Ескізи + Інформація</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відображати як Ескізи + Таблиця</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="521"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відображати як Значки</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="522"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відображати як Список</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="523"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Відображати як Таблиця</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="525"/>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати приховані файли</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="529"/>
@@ -20072,7 +20112,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="534"/>
         <source>Show title of panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати назви областей</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="536"/>
@@ -20102,12 +20142,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Open in file explorer</source>
-        <translation>Відкрити у провіднику</translation>
+        <translation>Відкрити файл у провіднику</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="550"/>
         <source>Open all selected</source>
-        <translation>Відкрити всі вибрані</translation>
+        <translation>Відкрити всі виділені</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
@@ -20127,7 +20167,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="558"/>
         <source>Show source panels</source>
-        <translation type="unfinished">Показати вихідні панелі</translation>
+        <translation>Показати вихідні панелі</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="560"/>
@@ -20143,7 +20183,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="581"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Перетворення JPEG без втрат</translation>
+        <translation>Перетворення без втрат (JPEG)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="583"/>
@@ -20164,13 +20204,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Find similar files...</source>
-        <translation>Знайти схожі файли...</translation>
+        <translation>Пошук схожих файлів...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="592"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
-        <translation type="unfinished">Змінити опис/коментар...</translation>
+        <translation>Змінити опис/коментар...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
@@ -20302,7 +20342,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsView.cpp" line="27"/>
         <source>Fit window to image</source>
-        <translation type="unfinished"></translation>
+        <translation>За розміром зображення</translation>
     </message>
 </context>
 <context>
@@ -20316,7 +20356,7 @@ Do you want to continue?</oldsource>
         <location filename="xnview.cpp" line="1469"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
-        <translation type="unfinished">Відвідати сайт XnView...</translation>
+        <translation>Відвідати сайт XnView...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1474"/>
@@ -20331,33 +20371,33 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1468"/>
         <source>PlugIns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Модулі...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1470"/>
         <source>Forum...</source>
-        <translation type="unfinished"></translation>
+        <translation>Форум...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1471"/>
         <source>Technical Support...</source>
-        <translation type="unfinished"></translation>
+        <translation>Технічна підтримка...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1472"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Повідомити про помилку...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1473"/>
         <source>Wiki...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1475"/>
         <source>Check for update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірити оновлення...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1476"/>
@@ -20367,7 +20407,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1477"/>
         <source>Purchase...</source>
-        <translation type="unfinished"></translation>
+        <translation>Купити...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1487"/>
@@ -20383,7 +20423,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1495"/>
         <source>Titlebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок вікна</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1496"/>
@@ -20467,12 +20507,12 @@ Do you want to continue?</oldsource>
         <location filename="TemplateData.cpp" line="2758"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation># - Числовий номер</translation>
+        <translation># - лічильник</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2776"/>
         <source>Extra</source>
-        <translation type="unfinished"></translation>
+        <translation>Додатково</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2778"/>
@@ -20507,12 +20547,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2784"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC - Ключові слова та Категорії</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2788"/>
         <source>XMP</source>
-        <translation type="unfinished">XMP</translation>
+        <translation>XMP</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2785"/>
@@ -20540,27 +20580,27 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="341"/>
         <source>Fit image to window</source>
-        <translation>Підганяти зображення під розмір вікна</translation>
+        <translation>Підігнати зображення під розмір вікна</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Fit image to window, large only</source>
-        <translation>Підганяти зображення під розмір вікна, тільки велике</translation>
+        <translation>Підігнати зображення під розмір вікна, тільки якщо воно більше розміру вікна</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Fit image to window width</source>
-        <translation>Підганяти зображення під ширину вікна</translation>
+        <translation>Підігнати зображення під ширину вікна</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="345"/>
         <source>Fit image to window height</source>
-        <translation>Підганяти зображення під висоту вікна</translation>
+        <translation>Підігнати зображення під висоту вікна</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="346"/>
         <source>Fit image to window width or height</source>
-        <translation>Підганяти зображення під ширину або висоту вікна</translation>
+        <translation>Підігнати зображення під ширину або висоту вікна</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
@@ -20571,13 +20611,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="242"/>
         <source>Top</source>
-        <translation type="unfinished">Зверху</translation>
+        <translation>Зверху</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="317"/>
         <source>Image content</source>
         <oldsource>Image</oldsource>
-        <translation type="unfinished">Зображення</translation>
+        <translation>Зображення</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
@@ -20617,7 +20657,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="343"/>
         <source>Fit image to window, small only</source>
-        <translation>Підганяти зображення під розмір вікна, тільки маленьке</translation>
+        <translation>Підігнати зображення під розмір вікна, тільки якщо воно менше розміру вікна</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="330"/>
@@ -20678,19 +20718,19 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="240"/>
         <source>Left</source>
         <oldsource>To the left</oldsource>
-        <translation type="unfinished">Зліва</translation>
+        <translation>Зліва</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="241"/>
         <source>Right</source>
         <oldsource>To the right</oldsource>
-        <translation type="unfinished">Праворуч</translation>
+        <translation>Праворуч</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="243"/>
         <source>Bottom</source>
         <oldsource>To the bottom</oldsource>
-        <translation>Знизу</translation>
+        <translation>Вниз</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="290"/>
@@ -20720,12 +20760,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="298"/>
         <source>Open in Finder</source>
-        <translation>Відкрийте у Finder</translation>
+        <translation>Відкрити в Пошуку</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="300"/>
         <source>Open in file explorer</source>
-        <translation>Відкрити у провіднику</translation>
+        <translation>Відкрити файл у провіднику</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="302"/>
@@ -20755,12 +20795,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="308"/>
         <source>Print selection...</source>
-        <translation type="unfinished"></translation>
+        <translation>Друк виділеної області...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="309"/>
         <source>Close</source>
-        <translation type="unfinished">Закрити</translation>
+        <translation>Закрити</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="311"/>
@@ -20816,13 +20856,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Add text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати текст...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="324"/>
         <source>Add watermark...</source>
         <oldsource>Watermark...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Додати водяний знак...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="325"/>
@@ -20834,7 +20874,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="326"/>
         <source>Red-Eye correction</source>
         <oldsource>Red-Eyes reduction</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Видалення ефекту червоних очей</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="332"/>
@@ -20854,34 +20894,34 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="335"/>
         <source>Save selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти виділену область</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="336"/>
         <source>Restore selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Відновити виділену область</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="337"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Задати виділеної області пропорцію</translation>
+        <translation>Виділення - задати співвідношення</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="338"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Задати виділеної області розмір</translation>
+        <translation>Виділення - задати розмір</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="347"/>
         <source>Fit window to image</source>
-        <translation type="unfinished"></translation>
+        <translation>За розміром зображення</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="348"/>
         <source>Fit image to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Припасувати зображення для Робочого столу</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="350"/>
@@ -20926,7 +20966,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="400"/>
         <source>Random file</source>
-        <translation type="unfinished"></translation>
+        <translation>Випадковий файл</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="401"/>
@@ -21001,95 +21041,95 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="420"/>
         <source>Navigate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти до</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="421"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation>Використовувати індекс прозорості (≤ 8bits)</translation>
+        <translation>Використовувати індекс прозорості (≤ 8біт)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="448"/>
         <source>Open GPS location in</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати розташування GPS в</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
         <source>Send by FTP...</source>
-        <translation type="unfinished">Завантажити на FTP-сервер...</translation>
+        <translation>Завантажити на FTP-сервер...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Effect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ефекти...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="476"/>
         <source>Film simulation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Імітація плівки...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="477"/>
         <source>Curves...</source>
-        <translation type="unfinished"></translation>
+        <translation>Криві...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="478"/>
         <source>Desaturate</source>
-        <translation type="unfinished"></translation>
+        <translation>Знебарвлення</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="479"/>
         <source>Offset...</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміщення...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="482"/>
         <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation>Автообрізання...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="490"/>
         <source>Automatic Deskew</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичне вирівнювання</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="510"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Змінити палітру...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="511"/>
         <source>Clean metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити метадані...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="512"/>
         <source>Join images...</source>
-        <translation type="unfinished"></translation>
+        <translation>З&apos;єднання зображень...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="513"/>
         <source>Contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглядовий лист...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="514"/>
         <source>Slideshow...</source>
-        <translation type="unfinished"></translation>
+        <translation>Слайд-шоу...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="485"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
-        <translation type="unfinished">Повернути на 180°</translation>
+        <translation>Повернути на 180°</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="355"/>
         <source>Tag/Untag current</source>
-        <translation type="unfinished">Відзначити поточний</translation>
+        <translation>Відзначити поточний</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="422"/>
@@ -21145,7 +21185,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="432"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">Іконку знімка увімк/вимк.</translation>
+        <translation>Відображати у вигляді Знімка (тільки для іконок)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -21161,7 +21201,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="500"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
-        <translation type="unfinished">Поміняти</translation>
+        <translation>Поміняти</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -21193,7 +21233,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="525"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Перетворення JPEG без втрат</translation>
+        <translation>Перетворення без втрат (JPEG)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="433"/>
@@ -21203,57 +21243,57 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="305"/>
         <source>Save a copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти копію...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="316"/>
         <source>Clear selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити виділення</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Excellent (go to next image)</source>
-        <translation>Відмінно (перехід до наступного зображення)</translation>
+        <translation>Відмінно (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
         <source>Good (go to next image)</source>
-        <translation>Добре (перехід до наступного зображення)</translation>
+        <translation>Добре (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
         <source>Average (go to next image)</source>
-        <translation>Задовільно (перехід до наступного зображення)</translation>
+        <translation>Середньо (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="367"/>
         <source>Fair (go to next image)</source>
-        <translation>Погано (перехід до наступного зображення)</translation>
+        <translation>Непогано (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="368"/>
         <source>Poor (go to next image)</source>
-        <translation>Дуже погано (перехід до наступного зображення)</translation>
+        <translation>Погано (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="369"/>
         <source>Unrated (go to next image)</source>
-        <translation>Без оцінки (перехід до наступного зображення)</translation>
+        <translation>Без рейтингу (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="382"/>
         <source>##label## (go to next image)</source>
-        <translation>##label## (перехід до наступного зображення)</translation>
+        <translation>##label## (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Задати рейтинг</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Задати колірну позначку</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="435"/>
@@ -21271,22 +21311,22 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Перейти координатами...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
         <source>Show people&apos;s region</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати область людей</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="439"/>
         <source>High zoom quality</source>
-        <translation type="unfinished">Висока якість при масштабуванні</translation>
+        <translation>Висока якість при масштабуванні</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="440"/>
         <source>Use checkerboard pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати тло - шаховий порядок</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="442"/>
@@ -21312,17 +21352,17 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="451"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
-        <translation type="unfinished">Змінити опис/коментар...</translation>
+        <translation>Змінити опис/коментар...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="452"/>
         <source>Draw...</source>
-        <translation type="unfinished"></translation>
+        <translation>Малювання...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="453"/>
         <source>Set DPI...</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити DPI...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="456"/>
@@ -21348,7 +21388,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="460"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">Логарифмічна LUT</translation>
+        <translation>Логарифмічна LUT</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
@@ -21418,124 +21458,124 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="480"/>
         <source>White Balance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Баланс білого...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="481"/>
         <source>Remove Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити тло</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 90° праворуч</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="486"/>
         <source>Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 90° ліворуч</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="488"/>
         <source>Flip horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевернути горизонтально</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="489"/>
         <source>Flip vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевернути вертикально</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="491"/>
         <source>Remove alpha channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити альфа-канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="503"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Спеціальна вставка</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="508"/>
         <source>Edit IPTC...</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити дані IPTC...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="509"/>
         <source>Edit XMP...</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити дані XMP...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="515"/>
         <source>Send by email...</source>
-        <translation type="unfinished">Надіслати по e-mail...</translation>
+        <translation>Надіслати поштою...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="517"/>
         <source>Rotate 90° right (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 90° праворуч (без втрат)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="518"/>
         <source>Rotate 90° left (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 90° праворуч (без втрат)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="519"/>
         <source>Rotate 180° (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути на 180° (без втрат)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="522"/>
         <source>Flip horizontally (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевернути горизонтально (без втрат)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="523"/>
         <source>Flip vertically (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевернути вертикально (без втрат)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="524"/>
         <source>Crop (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Кадрувати (без втрат)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="527"/>
         <source>Capture...</source>
-        <translation type="unfinished">Захоплення...</translation>
+        <translation>Захоплення...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="529"/>
         <source>Empty tab...</source>
-        <translation type="unfinished">Пуста вкладка</translation>
+        <translation>Пуста вкладка...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="531"/>
         <source>Select TWAIN source...</source>
-        <translation type="unfinished">Вибрати TWAIN-сумісний пристрій</translation>
+        <translation>Вибрати TWAIN-сумісний пристрій...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="532"/>
         <source>Acquire (TWAIN)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримати (TWAIN)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="533"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Отримати (TWAIN)...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="535"/>
         <source>New image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Нове зображення...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="536"/>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти все</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
@@ -21546,7 +21586,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="493"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Зміна розміру...</translation>
+        <translation>Зміна розміру...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -21571,7 +21611,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="528"/>
         <source>Paste as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставити як зображення</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="724"/>
@@ -21600,12 +21640,12 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="728"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Метадані</translation>
+        <translation>&amp;Метадані</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="729"/>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Ефекти</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="730"/>
@@ -21650,12 +21690,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="Helper.h" line="98"/>
         <source>inches</source>
-        <translation>дюйма</translation>
+        <translation>дюйми</translation>
     </message>
     <message>
         <location filename="Helper.h" line="103"/>
         <source>mm</source>
-        <translation type="unfinished">мм</translation>
+        <translation>мм</translation>
     </message>
     <message>
         <location filename="Helper.h" line="109"/>
@@ -21719,19 +21759,19 @@ Do you want to continue?</oldsource>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти копію</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти як</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Left</source>
-        <translation>Верх-Ліворуч</translation>
+        <translation>Верх-Зліва</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="224"/>
@@ -21749,7 +21789,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="226"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
-        <translation>Центр-Ліворуч</translation>
+        <translation>Центр-Зліва</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="227"/>
@@ -21800,18 +21840,18 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="18"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
         <source>Last used</source>
-        <translation type="unfinished"></translation>
+        <translation>Остання використана</translation>
     </message>
     <message>
         <location filename="BitmapViewProcess.h" line="41"/>
         <source>An error occurred during processing!</source>
         <oldsource>An error occurs during process!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Сталась помилка в поточному процесі!</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.cpp" line="564"/>
         <source>Choose audio file</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть аудіофайл</translation>
     </message>
 </context>
 <context>
@@ -21840,12 +21880,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyAddFolderProcess.h" line="297"/>
         <source>Abort</source>
-        <translation type="unfinished">Перервати</translation>
+        <translation>Перервати</translation>
     </message>
     <message>
         <location filename="MyAddFolderProcess.h" line="297"/>
         <source>Check folders...</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірити папки...</translation>
     </message>
 </context>
 <context>
@@ -21925,12 +21965,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyFolderView.cpp" line="520"/>
         <source>Delete folder</source>
-        <translation type="unfinished">Видалення папки</translation>
+        <translation>Видалення папки</translation>
     </message>
     <message>
         <location filename="MyFolderView.cpp" line="520"/>
         <source>Are you sure to delete this folder?</source>
-        <translation type="unfinished">Ви впевнені, що хочете видалити папку?</translation>
+        <translation>Ви впевнені, що хочете видалити папку?</translation>
     </message>
 </context>
 <context>
@@ -21978,7 +22018,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="234"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозорість</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="246"/>
@@ -21993,8 +22033,7 @@ Do you want to continue?</oldsource>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <oldsource>Click to change between width of thumbnail
  and number of thumbnails per row</oldsource>
-        <translation type="unfinished">Клацніть, щоб змінити ширину ескізів
- і кількість ескізів у стовпці</translation>
+        <translation>Клацніть, щоб змінити ширину ескізів і кількість ескізів у стовпці</translation>
     </message>
 </context>
 <context>
@@ -22002,7 +22041,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
-        <translation type="unfinished">Перервати</translation>
+        <translation>Перервати</translation>
     </message>
 </context>
 <context>
@@ -22011,7 +22050,7 @@ Do you want to continue?</oldsource>
         <location filename="MyProgressThreadDialog.h" line="30"/>
         <source>Please wait...</source>
         <oldsource>Please wait... </oldsource>
-        <translation type="unfinished">Будь ласка, зачекайте... </translation>
+        <translation>Будь ласка, зачекайте...</translation>
     </message>
     <message>
         <location filename="MyProgressThreadDialog.h" line="40"/>
@@ -22068,19 +22107,20 @@ Do you want to continue?</oldsource>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">Розмір ескізу вказаний в каталозі менший за вибраний вами розмір. Ви можете змінити його у настроках (Налаштування&gt;Каталог).</translation>
+        <translation>Розмір кешованого ескізу менший за вибраний.
+Це можна змінити в Налаштуваннях › Каталогу.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="612"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
-        <translation type="unfinished">Оновлення каталогу...</translation>
+        <translation>Оновлення каталогу...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="626"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
-        <translation type="unfinished">Оновлення файлів, будь ласка зачекайте... </translation>
+        <translation>Оновлення файлів, будь ласка зачекайте...</translation>
     </message>
     <message numerus="yes">
         <location filename="MyThumbView.cpp" line="1228"/>
@@ -22142,12 +22182,12 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="MyView.cpp" line="949"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Для перегляду та конвертування файлів PDF/PS/EPS/AI необхідно встановити Ghostscript %1.</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="950"/>
         <source>Please visit the XnView %1 for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, відвідайте XnView %1 для отримання додаткової інформації.</translation>
     </message>
 </context>
 <context>
@@ -22181,17 +22221,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintBitmapView.cpp" line="221"/>
         <source>Move to front</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемістити на передній план</translation>
     </message>
     <message>
         <location filename="PaintBitmapView.cpp" line="222"/>
         <source>Move to back</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемістити на задній план</translation>
     </message>
     <message>
         <location filename="PaintBitmapView.cpp" line="224"/>
         <source>Delete</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
 </context>
 <context>
@@ -22200,12 +22240,12 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintDialog.cpp" line="64"/>
         <source>Do you want to exit drawing and discard your changes?</source>
         <oldsource>Do you want to close the draw tools?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете закрити інструменти для малювання?</translation>
     </message>
     <message>
         <location filename="PaintDialog.cpp" line="64"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Малювання</translation>
     </message>
 </context>
 <context>
@@ -22214,7 +22254,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintText.cpp" line="70"/>
         <location filename="PaintText.cpp" line="194"/>
         <source>Enter your text</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть текст</translation>
     </message>
 </context>
 <context>
@@ -22222,23 +22262,23 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="89"/>
         <source>Logo</source>
-        <translation type="unfinished"></translation>
+        <translation>Логотип</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="109"/>
         <location filename="PaintWidget.ui" line="664"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="20"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Малювання</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="391"/>
         <source>Best fit</source>
-        <translation type="unfinished"></translation>
+        <translation>За розміром вікна</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="46"/>
@@ -22251,62 +22291,62 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="394"/>
         <location filename="PaintWidget.ui" line="414"/>
         <source>Rectangle</source>
-        <translation type="unfinished">Прямокутник</translation>
+        <translation>Прямокутник</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="126"/>
         <source>Zoom in</source>
-        <translation type="unfinished">Збільшити</translation>
+        <translation>Збільшити</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="338"/>
         <source>Zoom 100%</source>
-        <translation type="unfinished">Початковий розмір</translation>
+        <translation>Початковий розмір</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="106"/>
         <source>Add text</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати текст</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="86"/>
         <source>Add a watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати водяний знак</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="222"/>
         <source>Draw an ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Намалювати еліпс</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="225"/>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Еліпс</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="279"/>
         <source>Zoom out</source>
-        <translation type="unfinished">Зменшити</translation>
+        <translation>Зменшити</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="63"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Виділення</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="159"/>
         <source>Draw a rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Намалювати прямокутник</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="299"/>
         <source>Draw a line</source>
-        <translation type="unfinished"></translation>
+        <translation>Намалювати лінію</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="302"/>
         <source>Line</source>
-        <translation type="unfinished">Порядковий номер</translation>
+        <translation>Порядковий номер</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="486"/>
@@ -22314,255 +22354,255 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="1183"/>
         <location filename="PaintWidget.ui" line="1448"/>
         <source>Opacity</source>
-        <translation type="unfinished">Непрозорість</translation>
+        <translation>Непрозорість</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="493"/>
         <location filename="PaintWidget.ui" line="1421"/>
         <source>Thickness</source>
         <oldsource>Thickness:</oldsource>
-        <translation type="unfinished">Товщина лінії</translation>
+        <translation>Товщина лінії</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1170"/>
         <source>Enter your text</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть текст</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="682"/>
         <source>Font</source>
-        <translation type="unfinished">Шрифт</translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="950"/>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Ефекти</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="712"/>
         <location filename="PaintWidget.ui" line="974"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1016"/>
         <source>Outline</source>
-        <translation type="unfinished">Контурна лінія</translation>
+        <translation>Контурна лінія</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1125"/>
         <source>Blur</source>
-        <translation type="unfinished">Розмиття</translation>
+        <translation>Розмиття</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1095"/>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Тінь</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="242"/>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Піпетка</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="43"/>
         <source>Redo</source>
-        <translation type="unfinished">Крок вперед</translation>
+        <translation>Крок вперед</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="411"/>
         <source>Undo</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="503"/>
         <source>Style</source>
         <oldsource>Style:</oldsource>
-        <translation type="unfinished">Накреслення</translation>
+        <translation>Накреслення</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="531"/>
         <source>Fill + Contour</source>
-        <translation type="unfinished"></translation>
+        <translation>Заливка + Контур</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="536"/>
         <source>Fill only</source>
-        <translation type="unfinished"></translation>
+        <translation>Тільки заливка</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="541"/>
         <source>Contour only</source>
-        <translation type="unfinished"></translation>
+        <translation>Тільки контур</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="520"/>
         <source>Fill</source>
         <oldsource>Fill:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="549"/>
         <source>Arrows</source>
         <oldsource>Arrows:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Стрілка</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="829"/>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Підкреслений</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="846"/>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="863"/>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Напівжирний</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="883"/>
         <source>Strike</source>
-        <translation type="unfinished"></translation>
+        <translation>Закреслений</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="761"/>
         <source>Left</source>
-        <translation type="unfinished">Зліва</translation>
+        <translation>Зліва</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1503"/>
         <location filename="PaintWidget.ui" line="1514"/>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Предустановки</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="778"/>
         <source>Centered</source>
-        <translation type="unfinished">Центрувати</translation>
+        <translation>Центрувати</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="795"/>
         <source>Right</source>
-        <translation type="unfinished">Праворуч</translation>
+        <translation>Праворуч</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="917"/>
         <source>Background</source>
-        <translation type="unfinished">Колір тла</translation>
+        <translation>Колір тла</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1056"/>
         <source>Offset Y</source>
-        <translation type="unfinished">Зрушення по Y</translation>
+        <translation>Зрушення по Y</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1240"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Розташування</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1251"/>
         <source>Top-Left</source>
-        <translation>Верх-Ліворуч</translation>
+        <translation>Верх зліва</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1256"/>
         <source>Top-Right</source>
-        <translation type="unfinished">Верх-Праворуч</translation>
+        <translation>Верх-Праворуч</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1261"/>
         <source>Center</source>
-        <translation type="unfinished">Центр</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1266"/>
         <source>Bottom-Left</source>
-        <translation type="unfinished">Низ-Ліворуч</translation>
+        <translation>Низ-Ліворуч</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1271"/>
         <source>Bottom-Right</source>
-        <translation type="unfinished">Низ-Праворуч</translation>
+        <translation>Низ-Праворуч</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1530"/>
         <source>Add...</source>
-        <translation type="unfinished">Додати...</translation>
+        <translation>Додати...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1537"/>
         <source>Manage...</source>
-        <translation type="unfinished"></translation>
+        <translation>Керувати...</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1105"/>
         <source>Offset X</source>
-        <translation type="unfinished">Зрушення по X</translation>
+        <translation>Зрушення по X</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1296"/>
         <source>Margin X</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміщення X</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1330"/>
         <source>Margin Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміщення Y</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1380"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Набір</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Розтягнути зображення</translation>
+        <translation>Розтягнути</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="436"/>
         <source>Draw [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Малювання [%1]</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="583"/>
         <source>X: %1, Y: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>X: %1, Y: %2</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="588"/>
         <source>R: %1, G: %2, B: %3 [#%4]</source>
-        <translation type="unfinished"></translation>
+        <translation>R: %1, G: %2, B: %3 [#%4]</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="999"/>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть зображення</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="999"/>
         <source>Images</source>
-        <translation type="unfinished">Зображення</translation>
+        <translation>Зображення</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="1410"/>
         <source>Include color</source>
-        <translation type="unfinished"></translation>
+        <translation>Включити колір</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="1417"/>
         <source>Name:</source>
-        <translation type="unfinished">Ім&apos;я:</translation>
+        <translation>Ім&apos;я:</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="1425"/>
         <source>Preset name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я передустановки</translation>
     </message>
 </context>
 <context>
@@ -22592,7 +22632,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Корекція</translation>
+        <translation>Карта</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
@@ -22657,7 +22697,8 @@ Right Click for pop-up menu with actions.</source>
         <location filename="qftp.cpp" line="2110"/>
         <source>Connecting to host failed:
 %1</source>
-        <translation>Підключення до хосту %1 відмовлено</translation>
+        <translation>Помилка підключення до хосту:
+%1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2114"/>
@@ -22902,7 +22943,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtcopydialog.cpp" line="534"/>
         <source>%1/s ( %2 remaining )</source>
-        <translation>%1/с (  залишилося %2 )</translation>
+        <translation>%1/с (залишилося %2)</translation>
     </message>
     <message>
         <location filename="qtcopydialog.ui" line="22"/>
@@ -22972,7 +23013,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtcopydialog.cpp" line="185"/>
         <source>Source doesn&apos;t exist.</source>
-        <translation>Джерело не знайдене</translation>
+        <translation>Джерело не знайдене.</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="246"/>
@@ -22988,7 +23029,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="qtcopydialog.cpp" line="256"/>
         <source>Destination path does not exist.</source>
         <oldsource>Path to destination does not exist.</oldsource>
-        <translation type="unfinished">Шлях до місця призначення не існує.</translation>
+        <translation>Шлях до місця призначення не існує.</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="261"/>
@@ -23003,7 +23044,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtcopydialog.cpp" line="271"/>
         <source>Cannot open destination file. Please check permissions.</source>
-        <translation> Не вдається відкрити кінцевий файл. Будь ласка, перевірте дозвіл.</translation>
+        <translation>Не вдається відкрити кінцевий файл. Будь ласка, перевірте дозвіл.</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="276"/>
@@ -23056,7 +23097,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtotherdialog.ui" line="98"/>
         <source>Destination file already exists.</source>
-        <translation>Кінцевий файл вже існує</translation>
+        <translation>Кінцевий файл вже існує.</translation>
     </message>
     <message>
         <location filename="qtotherdialog.ui" line="129"/>
@@ -23182,7 +23223,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="ItemModel.cpp" line="4456"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Сталася помилка при перейменуванні!</translation>
     </message>
 </context>
 <context>
@@ -23216,7 +23257,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="SearchField.cpp" line="725"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
-        <translation type="unfinished">не містить</translation>
+        <translation>не містить</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="508"/>
@@ -23333,7 +23374,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="SearchLineEdit.cpp" line="112"/>
         <source>Quick filter</source>
         <oldsource>Quick search</oldsource>
-        <translation type="unfinished">Швидкий пошук</translation>
+        <translation>Швидкий пошук</translation>
     </message>
 </context>
 <context>
@@ -23341,7 +23382,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="Slideshow.cpp" line="38"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Слайд-шоу</translation>
     </message>
 </context>
 <context>
@@ -23349,7 +23390,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="TagEntryModel.h" line="82"/>
         <source>Enter a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть ім&apos;я</translation>
     </message>
 </context>
 <context>
@@ -23357,7 +23398,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="TemplateWidget.cpp" line="13"/>
         <source>Default</source>
-        <translation type="unfinished">Типово</translation>
+        <translation>Типово</translation>
     </message>
 </context>
 <context>
@@ -23380,7 +23421,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="TemplateWidget.cpp" line="162"/>
         <source>Default</source>
-        <translation type="unfinished">Типово</translation>
+        <translation>Типово</translation>
     </message>
 </context>
 <context>
@@ -23388,37 +23429,37 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поширений пошук</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Шукати у IPTC</translation>
+        <translation>Шукати в</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Поля IPTC</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Вбудований коментар</translation>
+        <translation>Вбудований коментар</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Опис</translation>
+        <translation>Опис</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished"></translation>
+        <translation>Категорії (Каталог)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Підписи ескізів</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
@@ -23441,27 +23482,27 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="VideoGalleryProcess.h" line="99"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я файлу</translation>
     </message>
     <message>
         <location filename="VideoGalleryProcess.h" line="99"/>
         <source>File size</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір файлу</translation>
     </message>
     <message>
         <location filename="VideoGalleryProcess.h" line="99"/>
         <source>Dimensions</source>
-        <translation type="unfinished">Розмір</translation>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="VideoGalleryProcess.h" line="100"/>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Тривалість</translation>
     </message>
     <message>
         <location filename="VideoGalleryProcess.h" line="100"/>
         <source>Bit rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Швидкість потоку</translation>
     </message>
 </context>
 <context>
@@ -23469,27 +23510,27 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ViewCropAction.cpp" line="213"/>
         <source>Selection horizontal position</source>
-        <translation type="unfinished"></translation>
+        <translation>Положення по горизонталі виділеної області</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="216"/>
         <source>Selection vertical position</source>
-        <translation type="unfinished"></translation>
+        <translation>Положення щодо вертикалі виділеної області</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="228"/>
         <source>Swap selection width and height</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити місцями ширину та висоту виділеної області</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="240"/>
         <source>Show selection grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати сітку у виділеній області</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="246"/>
         <source>Center selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Центрувати виділену область</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="250"/>
@@ -23504,7 +23545,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ViewCropAction.cpp" line="279"/>
         <source>Crop, Save &amp;&amp; Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрізати, Зберегти та перейти до наступного</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="284"/>
@@ -23570,32 +23611,32 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ViewTextAction.cpp" line="87"/>
         <source>TYPE YOUR TEXT</source>
-        <translation type="unfinished"></translation>
+        <translation>ВИД ВАШОГО ТЕКСТА</translation>
     </message>
     <message>
         <location filename="ViewTextAction.cpp" line="144"/>
         <source>Text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст...</translation>
     </message>
     <message>
         <location filename="ViewTextAction.cpp" line="150"/>
         <source>Font</source>
-        <translation type="unfinished">Шрифт</translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <location filename="ViewTextAction.cpp" line="256"/>
         <source>Apply</source>
-        <translation type="unfinished">Застосувати</translation>
+        <translation>Застосувати</translation>
     </message>
     <message>
         <location filename="ViewTextAction.cpp" line="260"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <location filename="ViewTextAction.cpp" line="319"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
 </context>
 <context>
@@ -23603,17 +23644,17 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="95"/>
         <source>Opacity</source>
-        <translation type="unfinished">Непрозорість</translation>
+        <translation>Непрозорість</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="104"/>
         <source>Apply</source>
-        <translation type="unfinished">Застосувати</translation>
+        <translation>Застосувати</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="108"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -23634,7 +23675,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="WebError.cpp" line="123"/>
         <source>No error</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає помилок</translation>
     </message>
 </context>
 <context>
@@ -23655,7 +23696,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="DlgWritePDF.h" line="24"/>
         <location filename="DlgWritePDF.h" line="27"/>
         <source>PackBits</source>
-        <translation type="unfinished"></translation>
+        <translation>PackBits</translation>
     </message>
 </context>
 <context>
@@ -23688,7 +23729,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="xnview.cpp" line="510"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
-        <translation type="unfinished">Створення резервної копії... </translation>
+        <translation>Створення резервної копії...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="482"/>
@@ -23700,7 +23741,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="xnview.cpp" line="482"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
-        <translation>XnViewMP - Каталог має новішу версію, ніж очікувалося.</translation>
+        <translation>XnViewMP - Каталог має новішу версію, ніж очікувалося</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="488"/>
@@ -23717,7 +23758,7 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="492"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
-        <translation type="unfinished">Оновлення каталогу...</translation>
+        <translation>Оновлення каталогу, зачекайте...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="495"/>
@@ -23727,57 +23768,58 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="602"/>
         <source>Catalog problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Проблема з каталогом</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="602"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation type="unfinished"></translation>
+        <translation>Виникла проблема з відкриттям каталогу, перевіркою ваших налаштувань або папки, що використовується!</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="998"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Програму оновлено до останньої версії.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1069"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша попередня сесія містить багато відкритих зображень, це може призвести до уповільнення роботи програми!</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1069"/>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Сесія</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1623"/>
         <source>Do you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно хочете вийти?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1698"/>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Чи хочете зберегти сесію?</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1699"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Збереження великої кількості вкладок може помітно уповільнити відкриття програми.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1705"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
-        <translation>Більше не питати</translation>
+        <translation>Не питати знову</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3116"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Каталог і метадані вимкнено - 
+Мітки рейтингу, тегів і кольорів не будуть збережені.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1267"/>
