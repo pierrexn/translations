@@ -21,11 +21,11 @@
     </message>
     <message>
         <source>Ask</source>
-        <translation>Cere</translation>
+        <translation>Întreabă</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation>Potrivi</translation>
+        <translation>Potrivire</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -37,23 +37,23 @@
     </message>
     <message>
         <source>Fill</source>
-        <translation>Completati</translation>
+        <translation>Completare</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Modul</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Mărimea</translation>
+        <translation>Mărime</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Ocolire</translation>
+        <translation>Sari peste</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation>Oprire</translation>
     </message>
     <message>
         <source>Settings...</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nume de fișier</translation>
+        <translation>Numele fișierului</translation>
     </message>
     <message>
         <source>Bilinear</source>
@@ -97,11 +97,11 @@
     </message>
     <message>
         <source>open error</source>
-        <translation>eroare deschisă</translation>
+        <translation>eroare de deschidere</translation>
     </message>
     <message>
         <source>Preserve Metadata</source>
-        <translation>Păstrați metadatele</translation>
+        <translation>Păstrează metadatele</translation>
     </message>
     <message>
         <source>saved</source>
@@ -109,11 +109,11 @@
     </message>
     <message>
         <source>Load format settings...</source>
-        <translation>Încărcați setările de format...</translation>
+        <translation>Încarcă setările de format...</translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation>Setarea „Utilizați mai multe nuclee CPU” a fost dezactivată. Această setare nu poate fi combinată cu modul „Ask” sau cu fișierele PDF cu mai multe pagini.</translation>
+        <translation>Setarea „Se utilizează mai multe nuclee CPU” a fost dezactivată. Această setare nu poate fi combinată cu modul „Întreabă” sau cu fișierele PDF cu mai multe pagini.</translation>
     </message>
     <message>
         <source>Source: %1 %2 - Output (estimated): %3 %4</source>
@@ -162,14 +162,14 @@
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n oră(e) și </numerusform>
-            <numerusform>%n oră(e) și </numerusform>
-            <numerusform>%n oră(e) și </numerusform>
+            <numerusform>%n oră și </numerusform>
+            <numerusform>%n ore și </numerusform>
+            <numerusform>%n ore și </numerusform>
         </translation>
     </message>
     <message>
         <source>loading</source>
-        <translation>Se încarcă</translation>
+        <translation>se încarcă</translation>
     </message>
     <message>
         <source>Shortest side</source>
@@ -225,7 +225,7 @@
     </message>
     <message>
         <source>Use multiple CPU Cores</source>
-        <translation>Utilizați mai multe nuclee CPU</translation>
+        <translation>Se utlizează mai multe nuclee CPU</translation>
     </message>
     <message>
         <source>Choose output pathname</source>
@@ -262,9 +262,9 @@
     <message numerus="yes">
         <source>%n second(s) remaining</source>
         <translation>
-            <numerusform>Au rămas %n minut(e)</numerusform>
-            <numerusform>Au rămas %n minut(e)</numerusform>
-            <numerusform>Au rămas %n minut(e)</numerusform>
+            <numerusform>A rămas %n minut</numerusform>
+            <numerusform>Au rămas %n minute</numerusform>
+            <numerusform>Au rămas %n de minute</numerusform>
         </translation>
     </message>
     <message>
@@ -322,9 +322,9 @@
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minut(e)</numerusform>
-            <numerusform>%n minut(e)</numerusform>
-            <numerusform>%n minut(e)</numerusform>
+            <numerusform>%n minut</numerusform>
+            <numerusform>%n minute</numerusform>
+            <numerusform>%n de minute</numerusform>
         </translation>
     </message>
     <message>
@@ -346,9 +346,9 @@
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
         <translation>
-            <numerusform>Au rămas %n minut(e)</numerusform>
-            <numerusform>Au rămas %n minut(e)</numerusform>
-            <numerusform>Au rămas %n minut(e)</numerusform>
+            <numerusform>A rămas %n minute</numerusform>
+            <numerusform>Au rămas %n minute</numerusform>
+            <numerusform>Au rămas %n de minute</numerusform>
         </translation>
     </message>
     <message>
@@ -434,9 +434,9 @@
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation>
-            <numerusform>%n secundă(e)</numerusform>
-            <numerusform>%n secundă(e)</numerusform>
-            <numerusform>%n secundă(e)</numerusform>
+            <numerusform>%n secundă</numerusform>
+            <numerusform>%n secunde</numerusform>
+            <numerusform>%n de secunde</numerusform>
         </translation>
     </message>
     <message>
@@ -450,9 +450,9 @@
     <message numerus="yes">
         <source>%n file(s)</source>
         <translation>
-            <numerusform>%n fișier(e)</numerusform>
-            <numerusform>%n fișier(e)</numerusform>
-            <numerusform>%n fișier(e)</numerusform>
+            <numerusform>%n fișier</numerusform>
+            <numerusform>%n fișiere</numerusform>
+            <numerusform>%n de fișiere</numerusform>
         </translation>
     </message>
     <message>
@@ -898,7 +898,7 @@
     </message>
     <message>
         <source>Longest side</source>
-        <translation>Longest side</translation>
+        <translation>Partea cea mai lungă</translation>
     </message>
     <message>
         <source>Remove preset</source>
@@ -1053,7 +1053,7 @@
     </message>
     <message>
         <source>Sidecar</source>
-        <translation>Sidecar</translation>
+        <translation>Fișierul însoțitor (Sidecar)</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -1393,7 +1393,7 @@
     </message>
     <message>
         <source>Decimal</source>
-        <translation>Decimal</translation>
+        <translation>Zecimal</translation>
     </message>
     <message>
         <source>Sexagesimal</source>
@@ -1456,7 +1456,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation></translation>
+        <translation>Despre</translation>
     </message>
     <message>
         <source>After</source>
@@ -1584,7 +1584,7 @@
     </message>
     <message>
         <source>Use multiple CPU Cores</source>
-        <translation>Utilizați mai multe nuclee CPU</translation>
+        <translation>Se utilizează mai multe nuclee CPU</translation>
     </message>
     <message>
         <source>Keep parent folder</source>
@@ -1740,7 +1740,7 @@
     </message>
     <message>
         <source>You can switch between tabs with &apos;space&apos; key</source>
-        <translation>You can switch between tabs with &apos;space&apos; key</translation>
+        <translation>Poți comuta între file cu tasta „space”</translation>
     </message>
     <message>
         <source>Delete original</source>
@@ -2155,7 +2155,7 @@
     </message>
     <message>
         <source>Change EXIF DPI if exists</source>
-        <translation>Change EXIF DPI if exists</translation>
+        <translation>Schimbă EXIF DPI-ul dacă există</translation>
     </message>
     <message>
         <source>Print size:</source>
@@ -2517,7 +2517,7 @@
     </message>
     <message>
         <source>Sidecar</source>
-        <translation>Sidecar</translation>
+        <translation>Fișierul însoțitor (Sidecar)</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -2549,7 +2549,7 @@
     </message>
     <message>
         <source>Update when file is changed outside (date/size)</source>
-        <translation>Actualizați când fișierul este schimbat în afara (data/dimensiune)</translation>
+        <translation>Actualizează când fișierul este schimbat în afară (dată/dimensiune)</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.xmp</source>
@@ -2722,7 +2722,7 @@
     </message>
     <message>
         <source>Avg</source>
-        <translation>Avg</translation>
+        <translation>Medie</translation>
     </message>
     <message>
         <source>Sub</source>
@@ -3469,7 +3469,7 @@
     </message>
     <message>
         <source>Excellent</source>
-        <translation>Excellent</translation>
+        <translation>Excelent</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -4043,7 +4043,7 @@
     </message>
     <message>
         <source>Single - DPI</source>
-        <translation>Single - DPI</translation>
+        <translation>Singur - DPI</translation>
     </message>
     <message>
         <source>Visiting card - 91x55mm (3.58x2.17&quot;)</source>
@@ -4366,7 +4366,7 @@
     </message>
     <message>
         <source>Make backup for lossless flip/rotation</source>
-        <translation>Faceți o copie de rezervă pentru rotire/rotire fără pierderi</translation>
+        <translation>Fă o copie de rezervă pentru răsturnare/rotire fără pierderi</translation>
     </message>
     <message>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
@@ -4486,7 +4486,7 @@
     </message>
     <message>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Filename&gt;-Copy (#)</translation>
+        <translation>&lt;Numele fișierului&gt;-Copie (#)</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-(#)</source>
@@ -4778,7 +4778,7 @@
     </message>
     <message>
         <source>bytes</source>
-        <translation>byti  octeți</translation>
+        <translation>bytes</translation>
     </message>
     <message>
         <source>is greater than or equal to</source>
@@ -5023,7 +5023,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation>Setarea „Utilizați mai multe nuclee CPU” a fost dezactivată. Această setare nu poate fi combinată cu modul „Ask” sau cu fișierele PDF cu mai multe pagini.</translation>
+        <translation>Setarea „Se utilizează mai multe nuclee CPU” a fost dezactivată. Această setare nu poate fi combinată cu modul „Întreabă” sau cu fișierele PDF cu mai multe pagini.</translation>
     </message>
     <message>
         <source>The %1 version of XnConvert is available, do you want to go on the download page?</source>
@@ -5140,9 +5140,9 @@ Subfolderele vor fi create.. </translation>
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minut(e)</numerusform>
-            <numerusform>%n minut(e)</numerusform>
-            <numerusform>%n minut(e)</numerusform>
+            <numerusform>%n minut</numerusform>
+            <numerusform>%n minute</numerusform>
+            <numerusform>%n de minute</numerusform>
         </translation>
     </message>
     <message>
@@ -5172,9 +5172,9 @@ Subfolderele vor fi create.. </translation>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
         <translation>
-            <numerusform>au rămas %n minut(e)</numerusform>
-            <numerusform>au rămas %n minut(e)</numerusform>
-            <numerusform>au rămas %n minut(e)</numerusform>
+            <numerusform>a rămas %n minut</numerusform>
+            <numerusform>au rămas %n minute</numerusform>
+            <numerusform>au rămas %n de minute</numerusform>
         </translation>
     </message>
     <message>
@@ -5208,9 +5208,9 @@ Subfolderele vor fi create.. </translation>
     <message numerus="yes">
         <source>Input: %n file(s)</source>
         <translation>
-            <numerusform>Intrare: %n fișier(e)</numerusform>
-            <numerusform>Intrare: %n fișier(e)</numerusform>
-            <numerusform>Intrare: %n fișier(e)</numerusform>
+            <numerusform>Intrare: %n fișiere</numerusform>
+            <numerusform>Intrare: %n fișiere</numerusform>
+            <numerusform>Intrare: %n de fișiere</numerusform>
         </translation>
     </message>
     <message>
@@ -7188,9 +7188,9 @@ Subfolderele vor fi create.. </translation>
     <message numerus="yes">
         <source>%n object(s)</source>
         <translation>
-            <numerusform>%n obiect(e)</numerusform>
-            <numerusform>%n obiect(e)</numerusform>
-            <numerusform>%n obiect(e)</numerusform>
+            <numerusform>%n obiecte</numerusform>
+            <numerusform>%n obiecte</numerusform>
+            <numerusform>%n de obiecte</numerusform>
         </translation>
     </message>
     <message>
@@ -7200,17 +7200,17 @@ Subfolderele vor fi create.. </translation>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
         <translation>
-            <numerusform>%n obiect(e) [%2 %3]</numerusform>
-            <numerusform>%n obiect(e) [%2 %3]</numerusform>
-            <numerusform>%n obiect(e) [%2 %3]</numerusform>
+            <numerusform>%n obiect [%2 %3]</numerusform>
+            <numerusform>%n obiecte [%2 %3]</numerusform>
+            <numerusform>%n de obiecte [%2 %3]</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
-            <numerusform>%n obiect(e) selectat(e) [%3 %4]</numerusform>
-            <numerusform>%n obiect(e) selectat(e) [%3 %4]</numerusform>
-            <numerusform>%n obiect(e) selectat(e) [%3 %4]</numerusform>
+            <numerusform>%n obiect selectat [%3 %4]</numerusform>
+            <numerusform>%n obiecte selectate [%3 %4]</numerusform>
+            <numerusform>%n de obiecte selectate [%3 %4]</numerusform>
         </translation>
     </message>
     <message>
@@ -9602,7 +9602,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Lossless</source>
-        <translation>Fara pierderi</translation>
+        <translation>Fără pierderi</translation>
     </message>
     <message>
         <source>(10 = fastest)</source>
@@ -11758,7 +11758,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Lossless</source>
-        <translation>Fara pierderi</translation>
+        <translation>Fără pierderi</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -12430,9 +12430,9 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
-            <numerusform>Sunteți sigur că ștergeți aceste %n articol(e)?</numerusform>
-            <numerusform>Sunteți sigur că ștergeți aceste %n articol(e)?</numerusform>
-            <numerusform>Sunteți sigur că ștergeți aceste %n articol(e)?</numerusform>
+            <numerusform>Ești sigur(ă) că ștergi acest %n articol?</numerusform>
+            <numerusform>Ești sigur(ă) că ștergi aceste %n articole?</numerusform>
+            <numerusform>Ești sigur(ă) că ștergi aceste %n de articole?</numerusform>
         </translation>
     </message>
     <message>
@@ -12454,9 +12454,9 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
-            <numerusform>Sunteți sigur că ștergeți aceste %n articol(e) - %1 articol(e) selectat(e)?</numerusform>
-            <numerusform>Sunteți sigur că ștergeți aceste %n articol(e) - %1 articol(e) selectat(e)?</numerusform>
-            <numerusform>Sunteți sigur că ștergeți aceste %n articol(e) - %1 articol(e) selectat(e)?</numerusform>
+            <numerusform>Ești sigur(ă) că ștergi acest %n articol - %1 articol selectat?</numerusform>
+            <numerusform>Ești sigur(ă) că ștergi aceste %n articole - %1 articole selectate?</numerusform>
+            <numerusform>Ești sigur(ă) că ștergi aceste %n de articole - %1 de articole selectate?</numerusform>
         </translation>
     </message>
     <message>
@@ -13206,7 +13206,9 @@ Previzualizare</translation>
         <source>The file &lt;%1&gt; already exists!
 
 Do you want to overwrite it?</source>
-        <translation>Fișierul &lt;%1&gt; există deja!</translation>
+        <translation>Fișierul &lt;%1&gt; există deja!
+
+Vrei să îl suprascrii?</translation>
     </message>
     <message>
         <source>Delete items</source>
@@ -15593,10 +15595,10 @@ Vă mulțumim că ați achiziționat %1.</translation>
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>XnViewMP va actualiza catalogul. Poate dura ceva timp.
+        <translation>XnViewMP va actualiza catalogul. Poate dura ceva timp. 
 
 Vrei să păstrezi miniaturile?
-  (Dacă alegeți DA, procesul de actualizare va fi lent)</translation>
+ (Dacă alegeți DA, procesul de actualizare va fi lent)</translation>
     </message>
     <message>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
@@ -15787,7 +15789,7 @@ Vrei să păstrezi miniaturile?
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
         <translation>Păstrați și adăugați valoare nouă
-  (Cuvinte cheie și categorii suplimentare)</translation>
+ (Cuvinte cheie și categorii suplimentare)</translation>
     </message>
 </context>
 <context>
@@ -17060,18 +17062,18 @@ Doriți să ștergeți „%1” preferat?</translation>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation>Va rugam asteptati...</translation>
+        <translation>Vă rugăm așteptați...</translation>
     </message>
 </context>
 <context>
     <name>DlgConbrightPanelClass</name>
     <message>
         <source>Conbright</source>
-        <translation>Conbright</translation>
+        <translation>Contrast și luminozitate</translation>
     </message>
     <message>
         <source>Gammasat</source>
-        <translation>Gammasat</translation>
+        <translation>Saturație și gamma</translation>
     </message>
 </context>
 <context>
@@ -17211,7 +17213,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Crop size</source>
-        <translation>A decupa mărimea</translation>
+        <translation>Decupează mărimea</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -17264,7 +17266,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation>A evidentia</translation>
+        <translation>Evidențiază</translation>
     </message>
 </context>
 <context>
@@ -17319,7 +17321,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation>Confirm</translation>
+        <translation>Confirmă</translation>
     </message>
 </context>
 <context>
@@ -17554,7 +17556,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     <name>Flickr</name>
     <message>
         <source>An error has occured!!</source>
-        <translation>A aparut o eroare!!</translation>
+        <translation>A apărut o eroare!!</translation>
     </message>
     <message>
         <source>Authorization</source>
@@ -17577,25 +17579,25 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Start...</source>
-        <translation>Start...</translation>
+        <translation>Pornire...</translation>
     </message>
 </context>
 <context>
     <name>MyFolderView</name>
     <message>
         <source>Are you sure to delete this folder?</source>
-        <translation>Sunteți sigur că ștergeți acest dosar?</translation>
+        <translation>Ești sigur(ă) că ștergi acest folder?</translation>
     </message>
     <message>
         <source>Delete folder</source>
-        <translation>Ștergeți dosarul</translation>
+        <translation>Șterge folderul</translation>
     </message>
 </context>
 <context>
     <name>BookmarksMenu</name>
     <message>
         <source>No favorites</source>
-        <translation>Fara favorite</translation>
+        <translation>Fără favorite</translation>
     </message>
 </context>
 <context>
@@ -17617,7 +17619,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     <name>TemplateModel</name>
     <message>
         <source>Default</source>
-        <translation>Mod implicit</translation>
+        <translation>Implicit</translation>
     </message>
 </context>
 <context>
@@ -17662,22 +17664,22 @@ Doriți să ștergeți „%1” preferat?</translation>
     </message>
     <message>
         <source>Favorite doesn&apos;t exist</source>
-        <translation>Favorita nu există</translation>
+        <translation>Favoritul nu există</translation>
     </message>
 </context>
 <context>
     <name>CategorySetPanel</name>
     <message>
         <source>Edit...</source>
-        <translation>Editați...</translation>
+        <translation>Editare...</translation>
     </message>
     <message>
         <source>Assign Set to selection...</source>
-        <translation>Atribuiți set selecției...</translation>
+        <translation>Atribuie o setare selecției...</translation>
     </message>
     <message>
         <source>Unassign Set to selection...</source>
-        <translation>Anulați atribuirea setării selecției...</translation>
+        <translation>Anulează atribuirea setării selecției...</translation>
     </message>
 </context>
 <context>
@@ -17702,7 +17704,7 @@ Doriți să ștergeți „%1” preferat?</translation>
     <name>OpenWithMenu</name>
     <message>
         <source>Configure programs...</source>
-        <translation>Configurați programe...</translation>
+        <translation>Configurează programe...</translation>
     </message>
     <message>
         <source>Associated program</source>
@@ -17763,14 +17765,14 @@ Doriți să ștergeți „%1” preferat?</translation>
     <name>DlgKeywordTree</name>
     <message>
         <source>Select new parent</source>
-        <translation>Selectați noul părinte</translation>
+        <translation>Selectează noul părinte</translation>
     </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
     <message>
         <source> [Create New]</source>
-        <translation> [Creaza nou]</translation>
+        <translation> [Crează nou]</translation>
     </message>
 </context>
 <context>
