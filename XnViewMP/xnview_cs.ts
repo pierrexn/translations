@@ -6888,7 +6888,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Načíst šablonu...</translation>
+        <translation>Načíst šablonu...</translation>
     </message>
 </context>
 <context>
@@ -7720,7 +7720,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7760,7 +7760,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Převod na barevný prostor XYB</translation>
+        <translation>Převést na barevný prostor XYB</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8403,7 +8403,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunout k souřadnicím</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -8736,7 +8736,7 @@ Budou vytvořeny odpovídající podsložky.</translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádná akce</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9362,7 +9362,7 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Nastavit programy...</translation>
+        <translation>Nastavit programy</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9372,7 +9372,7 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Cesta</translation>
+        <translation>Cesta</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -10926,7 +10926,7 @@ Chcete je odstranit?</translation>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Rekurzivně procházet podsložky</translation>
+        <translation>Hledat v podsložkách</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10947,7 +10947,7 @@ Chcete je odstranit?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">Včetně s&amp;ložek</translation>
+        <translation>Hledat v názvech složek</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10995,7 +10995,7 @@ Chcete je odstranit?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Použít katalog</translation>
+        <translation>Hledat pouze v katalogu</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12819,7 +12819,7 @@ Chcete znovu přiřadit?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Přesunout obrázek</translation>
+        <translation>Přesunout obrázek</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -12993,7 +12993,7 @@ Chcete znovu přiřadit?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí / další snímek</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -13030,7 +13030,7 @@ Chcete znovu přiřadit?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Zvětšení a posun</translation>
+        <translation>Zvětšení a posun</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -15952,187 +15952,187 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Popis</translation>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="84"/>
         <source>Rating</source>
-        <translation type="unfinished">Hodnocení</translation>
+        <translation>Hodnocení</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Autorská práva</translation>
+        <translation>Autorská práva</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="122"/>
         <source>Undefined</source>
-        <translation type="unfinished">Nedefinováno</translation>
+        <translation>Nedefinováno</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="127"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Chráněno autorskými právy</translation>
+        <translation>Chráněno autorskými právy</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="132"/>
         <source>Public domain</source>
-        <translation type="unfinished">Volně šiřitelné</translation>
+        <translation>Volně šiřitelné</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="182"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Datum vytvoření:</translation>
+        <translation>Datum vytvoření: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="196"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Datum poslední změny: </translation>
+        <translation>Datum poslední změny: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="228"/>
         <source>Keywords</source>
-        <translation type="unfinished">Klíčová slova</translation>
+        <translation>Klíčová slova</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="234"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(Klíčová slova v hierachii oddělte svislou čárou | )</translation>
+        <translation>(Klíčová slova v hierachii oddělte svislou čárou | )</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="261"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Aplikovat nadřazené kategorie</translation>
+        <translation>Aplikovat nadřazené kategorie</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="269"/>
         <source>Origin</source>
-        <translation type="unfinished">Původ</translation>
+        <translation>Původ</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="277"/>
         <source>Date created</source>
-        <translation type="unfinished">Datum vytvoření</translation>
+        <translation>Datum vytvoření</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="368"/>
         <source>Urgency</source>
-        <translation type="unfinished">Urgence</translation>
+        <translation>Urgence</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="394"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">IPTC - kontakt</translation>
+        <translation>IPTC - kontakt</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="446"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">IPTC - rozšíření</translation>
+        <translation>IPTC - rozšíření</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="540"/>
         <source>Options</source>
-        <translation type="unfinished">Možnosti</translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="561"/>
         <source>Mode:</source>
-        <translation type="unfinished">Režim:</translation>
+        <translation>Režim:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="569"/>
         <source>XMP only</source>
-        <translation type="unfinished">Pouze XMP</translation>
+        <translation>Pouze XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="574"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, aktualizovat nebo vytvořit IPTC-IIM</translation>
+        <translation>XMP, aktualizovat nebo vytvořit IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="603"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Vícenásobný výběr</translation>
+        <translation>Vícenásobný výběr</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="612"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Zachovat původní hodnotu, pokud je nová hodnota prázdná</translation>
+        <translation>Zachovat původní hodnotu, pokud je nová hodnota prázdná</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="619"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Zaměnit pouze pokud je původní hodnota prázdná</translation>
+        <translation>Zaměnit pouze pokud je původní hodnota prázdná</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="629"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Zapamatovat otevřenou záložku</translation>
+        <translation>Zapamatovat otevřenou záložku</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="66"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(Jednotlivé hodnoty oddělte středníky ; nebo čárkami ,)</translation>
+        <translation>(Jednotlivé hodnoty oddělte středníky ; nebo čárkami ,)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Žádné</translation>
+        <translation>0: Žádné</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="108"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Vysoké</translation>
+        <translation>1: Vysoké</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Normální</translation>
+        <translation>5: Normální</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="109"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Nízké</translation>
+        <translation>8: Nízké</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Required field</source>
-        <translation type="unfinished">Povinné pole</translation>
+        <translation>Povinné pole</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="289"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Některá pole jsou povinná. Vyplňte je, prosím!</translation>
+        <translation>Některá pole jsou povinná. Vyplňte je, prosím!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished">Vložit</translation>
+        <translation>Vložit</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="443"/>
         <source>Insert from</source>
-        <translation type="unfinished">Vložit z</translation>
+        <translation>Vložit z</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="464"/>
         <source>Copy into</source>
-        <translation type="unfinished">Zkopírovat do</translation>
+        <translation>Zkopírovat do</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="488"/>
         <source>Library</source>
-        <translation type="unfinished">Knihovna</translation>
+        <translation>Knihovna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="493"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Upravit historii...</translation>
+        <translation>Upravit historii...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="494"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Seřadit abecedně</translation>
+        <translation>Seřadit abecedně</translation>
     </message>
 </context>
 <context>
@@ -16989,12 +16989,12 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum vytvoření</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum poslední změny</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2762"/>
@@ -18289,7 +18289,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="146"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kód předmětu</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="149"/>
@@ -21149,7 +21149,7 @@ Chcete pokračovat?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Přejít na pozici x,y...</translation>
+        <translation>Přesunout na souřadnice...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -22663,7 +22663,7 @@ Kliknutím pravým tlačítkem zobrazíte kontextovou nápovědu s akcemi.</tran
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Mapa</translation>
+        <translation>Mapa</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
@@ -23491,7 +23491,7 @@ Kliknutím pravým tlačítkem zobrazíte kontextovou nápovědu s akcemi.</tran
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Popisy náhledů</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
