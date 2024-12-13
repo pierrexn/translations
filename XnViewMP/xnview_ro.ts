@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Fill</source>
-        <translation>Completare</translation>
+        <translation>Umplere</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -385,15 +385,15 @@
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nume și extensie majuscule</translation>
+        <translation>Nume și extensie pentru majuscule</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
-        <translation>&amp;Convertit</translation>
+        <translation>&amp;Convertire</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anulare</translation>
+        <translation>&amp;Revocare</translation>
     </message>
     <message>
         <source>Yes to &amp;all</source>
@@ -1560,7 +1560,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
@@ -5191,7 +5191,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anulare</translation>
+        <translation>&amp;Revocare</translation>
     </message>
     <message>
         <source>Choose a directory</source>
@@ -5239,7 +5239,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>%n second(s)</source>
-        <translation></translation>
+        <translation>%n (de) secundă(e)</translation>
     </message>
     <message>
         <source>Total input file size:</source>
@@ -6158,7 +6158,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Bold</translation>
+        <translation>Îngroșat</translation>
     </message>
     <message>
         <source>Draw</source>
@@ -6405,7 +6405,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>0 / 1 dirs</source>
-        <translation>0 / 1 dirs</translation>
+        <translation>0 / 1 directoare</translation>
     </message>
     <message>
         <source>%1 of %2 completed</source>
@@ -6413,7 +6413,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Source</source>
@@ -6429,7 +6429,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>%1 / %2 dirs</source>
-        <translation>%1 / %2 dirs</translation>
+        <translation>%1 / %2 directoare</translation>
     </message>
     <message>
         <source>%1% of %2 (%3)</source>
@@ -6690,7 +6690,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Size (Auto)</source>
-        <translation></translation>
+        <translation>Dimensiune (Automată)</translation>
     </message>
     <message>
         <source>Manufacturer</source>
@@ -6985,7 +6985,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Suffix</source>
-        <translation>Suffix</translation>
+        <translation>Sufix</translation>
     </message>
     <message>
         <source>Duplicate name</source>
@@ -7129,7 +7129,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Off</translation>
+        <translation>Oprit</translation>
     </message>
     <message>
         <source>Best (lossless)</source>
@@ -7325,7 +7325,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>High zoom quality</source>
-        <translation></translation>
+        <translation>Calitate înaltă pentru scalare</translation>
     </message>
     <message>
         <source>Zoom-in</source>
@@ -8279,7 +8279,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Effe&amp;ct</source>
-        <translation>Effe&amp;ct</translation>
+        <translation>Efe&amp;ct</translation>
     </message>
     <message>
         <source>Capture...</source>
@@ -8687,7 +8687,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Digital zoom</source>
-        <translation>Digital zoom</translation>
+        <translation>Scalare digitală</translation>
     </message>
     <message>
         <source>Image-ID</source>
@@ -8871,7 +8871,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>ShutterSpeed</source>
-        <translation>ShutterSpeed</translation>
+        <translation>Viteza obturatorului</translation>
     </message>
     <message>
         <source>XP Comment</source>
@@ -8923,7 +8923,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Makernotes</source>
-        <translation>Makernotes</translation>
+        <translation>Notele producătorului</translation>
     </message>
     <message>
         <source>XP Keywords</source>
@@ -10282,7 +10282,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -11452,7 +11452,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Source</source>
@@ -11491,7 +11491,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Source</source>
@@ -11554,7 +11554,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Export</source>
@@ -12221,7 +12221,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Crop, Save &amp;&amp; Next</source>
@@ -12311,7 +12311,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Text...</source>
@@ -13301,7 +13301,7 @@ Vrei să îl suprascrii?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -13435,7 +13435,7 @@ Vrei să îl suprascrii?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -14928,7 +14928,7 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Change layout...</source>
@@ -14943,7 +14943,7 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -15517,7 +15517,7 @@ Vă mulțumim că ați achiziționat %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -17058,7 +17058,7 @@ Doriți să ștergeți „%1” preferat?</translation>
     <name>MyProgressThreadDialog</name>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>Please wait...</source>
