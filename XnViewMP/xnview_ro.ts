@@ -229,7 +229,7 @@
     </message>
     <message>
         <source>Choose output pathname</source>
-        <translation>Alegeți calea de ieșire</translation>
+        <translation>Alege calea de ieșire</translation>
     </message>
     <message>
         <source>Next &gt;</source>
@@ -281,7 +281,7 @@
     </message>
     <message>
         <source>Start index</source>
-        <translation>Începeți indexul</translation>
+        <translation>Începe indexarea</translation>
     </message>
     <message>
         <source>Preserve color profile</source>
@@ -608,7 +608,7 @@
     </message>
     <message>
         <source>Reduce only</source>
-        <translation>Reduceți doar</translation>
+        <translation>Se reduce doar</translation>
     </message>
     <message>
         <source>Enlarge only</source>
@@ -961,7 +961,7 @@
     </message>
     <message>
         <source>For video files, extract frame at</source>
-        <translation>Pentru fișierele video, extrageți cadrul la</translation>
+        <translation>Pentru fișierele video, extrage cadrul la</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
@@ -1184,7 +1184,7 @@
     </message>
     <message>
         <source>Write to all files</source>
-        <translation>Scrieți în toate fișierele</translation>
+        <translation>Scrie în toate fișierele</translation>
     </message>
     <message>
         <source>Increment at each images by</source>
@@ -1227,7 +1227,7 @@
     </message>
     <message>
         <source>Always exclude CD/DVD drives</source>
-        <translation>Excludeți întotdeauna unitățile CD/DVD</translation>
+        <translation>Exclude întotdeauna unitățile CD/DVD</translation>
     </message>
     <message>
         <source>Memory usage for database engine</source>
@@ -1255,7 +1255,7 @@
     </message>
     <message>
         <source>Get thumbnail size</source>
-        <translation>Obțineți dimensiunea miniatură</translation>
+        <translation>Obține mărimea de miniatură</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1267,7 +1267,7 @@
     </message>
     <message>
         <source>Always exclude removable drives</source>
-        <translation>Excludeți întotdeauna unitățile amovibile</translation>
+        <translation>Exclude întotdeauna unitățile amovibile</translation>
     </message>
     <message>
         <source>Add folder...</source>
@@ -8759,7 +8759,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>LensID</source>
-        <translation>LensID</translation>
+        <translation>ID-ul lentilelor</translation>
     </message>
     <message>
         <source>Max. aperture</source>
@@ -9425,7 +9425,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Aspect Pad</source>
-        <translation>Aspect Pad</translation>
+        <translation>Rapoarte de aspect</translation>
     </message>
     <message>
         <source>Negative</source>
@@ -9653,7 +9653,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Exclude Floppy/CD/DVD</source>
-        <translation>Exclude Floppy/CD/DVD</translation>
+        <translation>Exclude discheta/CD-ul/DVD-ul</translation>
     </message>
     <message>
         <source>Show hidden files &amp;&amp; folders</source>
@@ -10352,7 +10352,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Display:</source>
-        <translation>Display:</translation>
+        <translation>Afișaj:</translation>
     </message>
     <message>
         <source>Zoomed selection</source>
@@ -10584,7 +10584,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Browser &lt;&gt; Viewer</source>
-        <translation>Browser &lt;&gt; Viewer</translation>
+        <translation>Navigator &lt;&gt; Vizualizator</translation>
     </message>
     <message>
         <source>Previous/next file</source>
@@ -10969,7 +10969,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Toate specificațiile bannerului (font, culoare, dimensiune etc.) sunt transferate de la bannerul creat anterior. O excepție este dimensiunea textului, care este calculată la „cel mai potrivit” pentru înălțimea bannerului.&lt;/p&gt;&lt;p&gt;Puteți selecta mai multe imagini pentru a aplica același banner mai multor imagini simultan. Prin urmare, rețineți că textul va avea aceeași dimensiune în toate imaginile.&lt;/p&gt;&lt;p&gt;Taste de comandă rapidă:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt -block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Mărește/descrește dimensiunea fontului cu 2 puncte&lt;/li&gt;&lt;/ul&gt;&lt;ul style =&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin- jos:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] sau [Ctrl]+[ Shift]+[Minus]: Mărește/descrește dimensiunea bannerului cu 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0 ; text-indent:0px;&quot;&gt;[Ctrl]+(S): Începeți crearea bannerului&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/b ody&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;AToate specificațiile bannerului (font, culoare, dimensiune etc.) sunt transferate de la bannerul creat anterior. O excepție este dimensiunea textului, care este calculată la „cel mai potrivit” pentru înălțimea bannerului.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;p&gt;Shortcut keys:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Plus] / [Ctrl]+[Minus]: Increase/decrease font size by 2 points&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+[Shift]+[Plus] or [Ctrl]+[Shift]+[Minus]: Increase/decrease banner size by 1%&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;[Ctrl]+(S): Start banner creation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Overwrite original file(s) when saving</source>
@@ -11071,11 +11071,11 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Y margin</source>
-        <translation>Y margin</translation>
+        <translation>Marginea Y</translation>
     </message>
     <message>
         <source>X margin</source>
-        <translation>X margin</translation>
+        <translation>Marginea X</translation>
     </message>
     <message>
         <source>Bottom right</source>
@@ -11602,7 +11602,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Dithering</translation>
+        <translation>Rasterizare</translation>
     </message>
     <message>
         <source>Auto refresh</source>
@@ -11896,7 +11896,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Byline</source>
-        <translation>Byline</translation>
+        <translation>Creator</translation>
     </message>
     <message>
         <source>Credit</source>
@@ -11904,11 +11904,11 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Job ID</source>
-        <translation>Job ID</translation>
+        <translation>ID-ul sarcinii</translation>
     </message>
     <message>
         <source>Original tr. ref.</source>
-        <translation>Original tr. ref.</translation>
+        <translation>Ref. de trans. originale</translation>
     </message>
     <message>
         <source>Location</source>
@@ -12326,7 +12326,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Computer</source>
-        <translation>Computer</translation>
+        <translation>Calculator</translation>
     </message>
     <message>
         <source>New Folder %1</source>
@@ -14614,7 +14614,7 @@ Doriți să salvați modificările?</translation>
     <name>WebCapture</name>
     <message>
         <source>Abort</source>
-        <translation></translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Generating image...</source>
@@ -14690,7 +14690,7 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Dithering</translation>
+        <translation>Rasterizare</translation>
     </message>
 </context>
 <context>
@@ -14978,7 +14978,7 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>FITS Display</source>
-        <translation>FITS Display</translation>
+        <translation>Afișaj FITS</translation>
     </message>
 </context>
 <context>
@@ -15669,7 +15669,7 @@ Vrei să păstrezi miniaturile?
     </message>
     <message>
         <source>Makernotes</source>
-        <translation>Makernotes</translation>
+        <translation>Notele producătorului</translation>
     </message>
 </context>
 <context>
@@ -16469,7 +16469,7 @@ Vrei să păstrezi miniaturile?
     </message>
     <message>
         <source>Large thumbnails</source>
-        <translation></translation>
+        <translation>Miniaturi mari</translation>
     </message>
     <message>
         <source>View as:</source>
