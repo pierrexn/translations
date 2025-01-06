@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Păstrați raportul</translation>
+        <translation>Păstrează raportul</translation>
     </message>
     <message>
         <source>Total Duration:</source>
@@ -149,11 +149,11 @@
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Utilizați corecția gamma</translation>
+        <translation>Utilizează corecția gamma</translation>
     </message>
     <message>
         <source>A file called %1 already exists.Do you want to overwrite it?</source>
-        <translation>Un fișier numit %1 există deja. Doriți să-l suprascrieți?</translation>
+        <translation>Un fișier numit %1 există deja. Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
@@ -241,7 +241,7 @@
     </message>
     <message>
         <source>Keep parent folder</source>
-        <translation>Păstrați dosarul părinte</translation>
+        <translation>Păstrează folderul (dosarul) părinte</translation>
     </message>
     <message>
         <source>Output</source>
@@ -249,11 +249,11 @@
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumiți</translation>
+        <translation>Redenumire</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>Redimensionați</translation>
+        <translation>Redimensionare</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -298,9 +298,9 @@
     <message numerus="yes">
         <source>Select Photos: %n file(s)</source>
         <translation>
-            <numerusform>Selectați fotografii: %n fișier(e)</numerusform>
-            <numerusform>Selectați fotografii: %n fișier(e)</numerusform>
-            <numerusform>Selectați fotografii: %ni fișier(e)</numerusform>
+            <numerusform>Selectează fotografii: %n fișier</numerusform>
+            <numerusform>Selectează fotografii: %n fișiere</numerusform>
+            <numerusform>Selectează fotografii: %n de fișiere</numerusform>
         </translation>
     </message>
     <message>
@@ -401,7 +401,7 @@
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>&amp;Redenumiți</translation>
+        <translation>&amp;Redenumire</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
@@ -409,7 +409,7 @@
     </message>
     <message>
         <source>Overwrite file?</source>
-        <translation>Suprascrieți fișierul?</translation>
+        <translation>Suprascrii fișierul?</translation>
     </message>
     <message>
         <source>-90° (counter clockwise)</source>
@@ -417,7 +417,7 @@
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Rotiți imaginile conform etichetei de orientare EXIF</translation>
+        <translation>Rotește imaginile conform etichetei de orientare EXIF</translation>
     </message>
     <message>
         <source>+90° (clockwise)</source>
@@ -429,7 +429,7 @@
     </message>
     <message>
         <source>Resample</source>
-        <translation>Reeșantionați</translation>
+        <translation>Reeșantionare</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
@@ -441,7 +441,7 @@
     </message>
     <message>
         <source>Select Photos</source>
-        <translation>Selectați Fotografii</translation>
+        <translation>Selectează fotografii</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -457,7 +457,7 @@
     </message>
     <message>
         <source>Keep original date/time attributes</source>
-        <translation>Păstrați atributele originale de dată/ora</translation>
+        <translation>Păstrează atributele originale de dată/oră</translation>
     </message>
     <message>
         <source>Image size</source>
@@ -485,7 +485,7 @@
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Verificați actualizările programului</translation>
+        <translation>Verifică actualizările programului</translation>
     </message>
     <message>
         <source>Extracted pages:</source>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>Keep folder structure</source>
-        <translation>Păstrați structura dosarului</translation>
+        <translation>Păstrează structura folderului (dosarului)</translation>
     </message>
     <message>
         <source>Same as original</source>
@@ -552,11 +552,11 @@
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Păstrați raportul</translation>
+        <translation>Păstrează raportul</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Utilizați corecția gamma</translation>
+        <translation>Folosește corecția gamma</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
@@ -600,7 +600,7 @@
     </message>
     <message>
         <source>Follow orientation</source>
-        <translation>Urmați orientarea</translation>
+        <translation>Urmează orientarea</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
@@ -624,7 +624,7 @@
     </message>
     <message>
         <source>Resample</source>
-        <translation>Reeșantionați</translation>
+        <translation>Reeșantionare</translation>
     </message>
     <message>
         <source>Image size</source>
@@ -715,7 +715,7 @@
     </message>
     <message>
         <source>Don&apos;t use alpha channel</source>
-        <translation>Nu utilizați canalul alfa</translation>
+        <translation>Nu utiliza canalul alfa</translation>
     </message>
     <message>
         <source>Bottom right</source>
@@ -786,11 +786,11 @@
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Păstrați raportul</translation>
+        <translation>Păstrează raportul</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Utilizați corecția gamma</translation>
+        <translation>Utilizează corecția gamma</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
@@ -830,7 +830,7 @@
     </message>
     <message>
         <source>Resize</source>
-        <translation>Redimensionați</translation>
+        <translation>Redimensionare</translation>
     </message>
     <message>
         <source>Bottom left</source>
@@ -1101,7 +1101,7 @@
     </message>
     <message>
         <source>Sharpen thumbnail</source>
-        <translation>Ascuțiți miniatura</translation>
+        <translation>Miniatură mai clară</translation>
     </message>
     <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
@@ -1251,7 +1251,7 @@
     </message>
     <message>
         <source>Rebuild thumbnails</source>
-        <translation>Reconstruiți miniaturile</translation>
+        <translation>Reconstruiește miniaturile</translation>
     </message>
     <message>
         <source>Get thumbnail size</source>
@@ -1564,7 +1564,7 @@
     </message>
     <message>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
-        <translation>Notă: trebuie să începeți cu drepturi de administrator pentru a putea schimba această setare</translation>
+        <translation>Notă: trebuie să începi cu drepturile de administrator ca să poți schimba această setare</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -1604,7 +1604,7 @@
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumiți</translation>
+        <translation>Redenumire</translation>
     </message>
     <message>
         <source>Open in Browser</source>
@@ -1632,7 +1632,7 @@
     </message>
     <message>
         <source>Start index</source>
-        <translation>Începeți indexul</translation>
+        <translation>Pornește indexul</translation>
     </message>
     <message>
         <source>Preserve color profile</source>
@@ -1660,7 +1660,7 @@
     </message>
     <message>
         <source>Open file explorer</source>
-        <translation>Deschideți exploratorul de fișiere</translation>
+        <translation>Deschide exploratorul de fișiere</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -1720,7 +1720,7 @@
     </message>
     <message>
         <source>Clear the &apos;Input&apos; file(s)</source>
-        <translation>Ștergeți fișierele „Intrare”</translation>
+        <translation>Șterge fișierul (fișierele) „de intrare”</translation>
     </message>
     <message>
         <source>Error(s):</source>
@@ -1744,7 +1744,7 @@
     </message>
     <message>
         <source>Delete original</source>
-        <translation>Ștergeți originalul</translation>
+        <translation>Șterge originalul</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
@@ -1784,7 +1784,7 @@
     </message>
     <message>
         <source>You can drag&amp;drop your files on the list below.</source>
-        <translation>Puteți să vă glisați&amp;plasați fișierele în lista de mai jos.</translation>
+        <translation>Poți să-ți tragi și să-ți plasezi fișierele în lista de mai jos.</translation>
     </message>
     <message>
         <source>Best fit</source>
@@ -1808,7 +1808,7 @@
     </message>
     <message>
         <source>Clear filename field at startup</source>
-        <translation>Ștergeți câmpul pentru numele fișierului la pornire</translation>
+        <translation>Șterge câmpul pentru numele fișierului la pornire</translation>
     </message>
     <message>
         <source>If an output file already exists</source>
@@ -2306,7 +2306,7 @@
     </message>
     <message>
         <source>Open File Explorer</source>
-        <translation>Deschideți File Explorer</translation>
+        <translation>Deschide exploratorul de fișiere</translation>
     </message>
     <message>
         <source>inches</source>
@@ -2402,7 +2402,7 @@
     </message>
     <message>
         <source>You need to choose an output folder.</source>
-        <translation>Trebuie să alegeți un dosar de ieșire.</translation>
+        <translation>Trebuie să alegi un dosar de ieșire.</translation>
     </message>
     <message>
         <source>A4 (21.0x29.7cm)</source>
@@ -2529,7 +2529,7 @@
     </message>
     <message>
         <source>Write categories into images as hierachical keywords</source>
-        <translation>Scrieți categorii în imagini ca cuvinte cheie ierarhice</translation>
+        <translation>Scrie categoriile în imagini ca și cuvinte cheie ierarhice</translation>
     </message>
     <message>
         <source>Default encoding</source>
