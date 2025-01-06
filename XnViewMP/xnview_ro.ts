@@ -1656,7 +1656,7 @@
     </message>
     <message>
         <source>Follow us on Facebook...</source>
-        <translation>Urmariți-ne pe Facebook...</translation>
+        <translation>Urmarește-ne pe Facebook...</translation>
     </message>
     <message>
         <source>Open file explorer</source>
@@ -1716,7 +1716,7 @@
     </message>
     <message>
         <source>Convert all pages from multipage file</source>
-        <translation>Convertiți toate paginile dintr-un fișier cu mai multe pagini</translation>
+        <translation>Convertește toate paginile dintr-un fișier cu mai multe pagini</translation>
     </message>
     <message>
         <source>Clear the &apos;Input&apos; file(s)</source>
@@ -1768,7 +1768,7 @@
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Rotiți imaginile conform etichetei de orientare EXIF</translation>
+        <translation>Rotește imaginile conform etichetei de orientare EXIF</translation>
     </message>
     <message>
         <source>Add files...</source>
@@ -1824,7 +1824,7 @@
     </message>
     <message>
         <source>Convert multipage file to multipage file (when possible)</source>
-        <translation>Convertiți fișierul cu mai multe pagini în fișier cu mai multe pagini (când este posibil)</translation>
+        <translation>Convertește fișierul cu mai multe pagini într-un fișier cu mai multe pagini (atunci când e posibil)</translation>
     </message>
     <message>
         <source>Preview background color</source>
@@ -2505,11 +2505,11 @@
     </message>
     <message>
         <source>Read (separated by ,)</source>
-        <translation>Citiți (separați prin ,)</translation>
+        <translation>Citire (separat(ă) prin ,)</translation>
     </message>
     <message>
         <source>Read hierarchical keywords from images as categories</source>
-        <translation>Citiți cuvintele cheie ierarhice din imagini ca categorii</translation>
+        <translation>Citește cuvintele cheie ierarhice din imagini ca niște categorii</translation>
     </message>
     <message>
         <source>Create XMP data</source>
@@ -2557,7 +2557,7 @@
     </message>
     <message>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Scrieți comentariu în XMP (dc:description și exif:UserComment)</translation>
+        <translation>Scrie comentariul în XMP (dc:descriere și exif:Comentariul utilizatorului)</translation>
     </message>
 </context>
 <context>
@@ -2817,7 +2817,7 @@
     </message>
     <message>
         <source>Poor</source>
-        <translation>Sărac</translation>
+        <translation>Săracă</translation>
     </message>
     <message>
         <source>Show</source>
@@ -2901,7 +2901,7 @@
     </message>
     <message>
         <source>Clear all tags</source>
-        <translation>Ștergeți toate etichetele</translation>
+        <translation>Șterge toate etichetele</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Colour label</source>
@@ -2913,7 +2913,7 @@
     </message>
     <message>
         <source>EXIF thumbnail - Rotate 270°</source>
-        <translation>Miniatura EXIF - Rotiți 270°</translation>
+        <translation>Miniatură EXIF - Rotește-o la 270°</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rebuild</source>
@@ -2925,7 +2925,7 @@
     </message>
     <message>
         <source>Flip horizontal</source>
-        <translation>Întoarceți orizontal</translation>
+        <translation>Întoarce orizontal</translation>
     </message>
     <message>
         <source>Quick Filter</source>
@@ -2937,11 +2937,11 @@
     </message>
     <message>
         <source>Excellent (move to next image)</source>
-        <translation>Excelent (treceți la imaginea următoare)</translation>
+        <translation>Excelent (treci la imaginea următoare)</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation>Deschideți folderul care conține</translation>
+        <translation>Deschide folderul conținător</translation>
     </message>
     <message>
         <source>Save layout A</source>
@@ -2973,11 +2973,11 @@
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>Rotiți pe baza câmpului de orientare EXIF</translation>
+        <translation>Rotește pe baza câmpului de orientare EXIF</translation>
     </message>
     <message>
         <source>Flip vertical</source>
-        <translation>Întoarceți vertical</translation>
+        <translation>Întoarce vertical</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
@@ -2985,7 +2985,7 @@
     </message>
     <message>
         <source>Split image(s)...</source>
-        <translation>Împărțiți imaginea(i)...</translation>
+        <translation>Împarte imaginea (imaginile)...</translation>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
@@ -3005,7 +3005,7 @@
     </message>
     <message>
         <source>Open in Finder</source>
-        <translation>Deschideți în Finder</translation>
+        <translation>Deschide în Finder</translation>
     </message>
     <message>
         <source>Old Dark</source>
@@ -3017,11 +3017,11 @@
     </message>
     <message>
         <source>Poor (move to next image)</source>
-        <translation>Sărac (treceți la imaginea următoare)</translation>
+        <translation>Săracă (treci la imaginea următoare)</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
-        <translation>Rotiți 180°</translation>
+        <translation>Rotește-o 180°</translation>
     </message>
     <message>
         <source>Upload on web...</source>
@@ -3033,7 +3033,7 @@
     </message>
     <message>
         <source>Use transparent index (&lt;=8bits)</source>
-        <translation>Utilizați index transparent (&lt;=8 biți)</translation>
+        <translation>Utilizează indexul transparent (&lt;=8 biți)</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -3097,7 +3097,7 @@
     </message>
     <message>
         <source>EXIF thumbnail - Rotate 90°</source>
-        <translation>Miniatura EXIF - Rotiți 90°</translation>
+        <translation>Miniatură EXIF - Rotește-o la 90°</translation>
     </message>
     <message>
         <source>Thumbnails + Filenames</source>
@@ -3245,7 +3245,7 @@
     </message>
     <message>
         <source>View as Details</source>
-        <translation>Vedeți ca detalii</translation>
+        <translation>Vezi ca detalii</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -3313,7 +3313,7 @@
     </message>
     <message>
         <source>Fair (move to next image)</source>
-        <translation>Corect (treceți la imaginea următoare)</translation>
+        <translation>Slabă (treci la imaginea următoare)</translation>
     </message>
     <message>
         <source>Move to...</source>
@@ -3425,7 +3425,7 @@
     </message>
     <message>
         <source>Open GPS location in</source>
-        <translation>Deschideți locația GPS în</translation>
+        <translation>Deschide locația GPS în</translation>
     </message>
     <message>
         <source>Show alpha</source>
@@ -3457,7 +3457,7 @@
     </message>
     <message>
         <source>Good (move to next image)</source>
-        <translation>Bun (treceți la imaginea următoare)</translation>
+        <translation>Bun (treci la imaginea următoare)</translation>
     </message>
     <message>
         <source>View as Icons</source>
@@ -3585,7 +3585,7 @@
     </message>
     <message>
         <source>Unrated (move to next image)</source>
-        <translation>Neevaluat (treceți la imaginea următoare)</translation>
+        <translation>Neevaluat (treci la imaginea următoare)</translation>
     </message>
     <message>
         <source>Toolbar</source>
@@ -3597,7 +3597,7 @@
     </message>
     <message>
         <source>Average (move to next image)</source>
-        <translation>Medie (treceți la imaginea următoare)</translation>
+        <translation>Medie (treci la imaginea următoare)</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
@@ -4294,7 +4294,7 @@
     </message>
     <message>
         <source>Open browser at startup</source>
-        <translation>Deschideți browserul la pornire</translation>
+        <translation>Deschide browserul la pornire</translation>
     </message>
     <message>
         <source>Duplicate files</source>
@@ -4330,7 +4330,7 @@
     </message>
     <message>
         <source>Send anonymous logs</source>
-        <translation>Trimiteți jurnalele anonime</translation>
+        <translation>Trimite jurnalele anonime</translation>
     </message>
     <message>
         <source>Black Point Compensation</source>
@@ -4342,7 +4342,7 @@
     </message>
     <message>
         <source>Make backup for other lossless operations</source>
-        <translation>Faceți backup pentru alte operațiuni fără pierderi</translation>
+        <translation>Fă backup pentru alte operațiuni fără pierderi</translation>
     </message>
     <message>
         <source>Reset all confirm prompts</source>
@@ -4394,7 +4394,7 @@
     </message>
     <message>
         <source>Allow only one instance of XnView</source>
-        <translation>Permiteți o singură instanță a XnView</translation>
+        <translation>Permite o singură instanță a XnView</translation>
     </message>
     <message>
         <source>File saving</source>
@@ -7133,7 +7133,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Best (lossless)</source>
-        <translation>Cel mai bun (fără pierderi)</translation>
+        <translation>Cea mai bună (fără pierderi)</translation>
     </message>
     <message>
         <source>Lowest</source>
@@ -7667,7 +7667,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>Sărac</translation>
+        <translation>Săracă</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -7855,7 +7855,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Poor (move to next photo)</source>
-        <translation>Slab (treceți la fotografia următoare)</translation>
+        <translation>Slabă (treceți la fotografia următoare)</translation>
     </message>
     <message>
         <source>A4, A3, ... (1.41)</source>
@@ -8051,7 +8051,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Enhance colors...</source>
-        <translation>Îmbunătățiți culorile...</translation>
+        <translation>Îmbunătățește culorile...</translation>
     </message>
     <message>
         <source>Film simulation...</source>
@@ -9125,7 +9125,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Enhance detail</source>
-        <translation>Îmbunătățiți detaliile</translation>
+        <translation>Îmbunătățește detaliile</translation>
     </message>
     <message>
         <source>Extract channel</source>
@@ -9133,7 +9133,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Enhance colors</source>
-        <translation>Îmbunătățiți culorile</translation>
+        <translation>Îmbunătățește culorile</translation>
     </message>
     <message>
         <source>Oil painting</source>
@@ -9413,11 +9413,11 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Enhance focus</source>
-        <translation>Îmbunătățiți concentrarea</translation>
+        <translation>Îmbunătățește focalizarea</translation>
     </message>
     <message>
         <source>Enhance edges</source>
-        <translation>Îmbunătățiți marginile</translation>
+        <translation>Îmbunătățește marginile</translation>
     </message>
     <message>
         <source>Gaussian blur</source>
@@ -9908,7 +9908,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>Sărac</translation>
+        <translation>Săracă</translation>
     </message>
     <message>
         <source>Work</source>
@@ -11518,7 +11518,7 @@ Subfolderele vor fi create.. </translation>
     <name>DlgExportClass</name>
     <message>
         <source>Best</source>
-        <translation>Cel mai bun</translation>
+        <translation>Cea mai bună</translation>
     </message>
     <message>
         <source>JPEG</source>
@@ -11550,7 +11550,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Float (best but slowest)</source>
-        <translation>Plutire (cel mai bun, dar cel mai lent)</translation>
+        <translation>Plutire (cea mai bună, dar cel mai lentă)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11617,7 +11617,7 @@ Subfolderele vor fi create.. </translation>
     <name>DlgWriteJP2KClass</name>
     <message>
         <source>Best</source>
-        <translation>Cel mai bun</translation>
+        <translation>Cea mai bună</translation>
     </message>
     <message>
         <source>Compression rate: 1 to </source>
@@ -11644,7 +11644,7 @@ Subfolderele vor fi create.. </translation>
     <name>DlgWriteJPEGClass</name>
     <message>
         <source>Best</source>
-        <translation>Cel mai bun</translation>
+        <translation>Cea mai bună</translation>
     </message>
     <message>
         <source>Slow</source>
@@ -11660,7 +11660,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Float (best but slowest)</source>
-        <translation>Plutire (cel mai bun, dar cel mai lent)</translation>
+        <translation>Plutire (cea mai bună, dar cel mai lentă)</translation>
     </message>
     <message>
         <source>Use estimated quality (when possible)</source>
@@ -11711,7 +11711,7 @@ Subfolderele vor fi create.. </translation>
     <name>DlgWriteJPEGXLClass</name>
     <message>
         <source>Best</source>
-        <translation>Cel mai bun</translation>
+        <translation>Cea mai bună</translation>
     </message>
     <message>
         <source>Lowest</source>
@@ -11734,7 +11734,7 @@ Subfolderele vor fi create.. </translation>
     <name>DlgWriteWebPClass</name>
     <message>
         <source>Best</source>
-        <translation>Cel mai bun</translation>
+        <translation>Cea mai bună</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -16342,7 +16342,7 @@ Vrei să păstrezi miniaturile?
     <name>DlgWriteHeic</name>
     <message>
         <source>Best (lossless)</source>
-        <translation>Cel mai bun (fără pierderi)</translation>
+        <translation>Cea mai bună (fără pierderi)</translation>
     </message>
     <message>
         <source>Lowest</source>
