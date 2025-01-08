@@ -1826,7 +1826,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr verwischen</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -4172,7 +4172,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergrößern</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -12379,12 +12379,12 @@ Miniaturbild</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="503"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Diashow-Datei</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="510"/>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Bild-Datei</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="701"/>
@@ -13513,17 +13513,17 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildausrichtung</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="476"/>
         <source>Top</source>
-        <translation type="unfinished">Oben</translation>
+        <translation>Oben</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Unten</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="511"/>
@@ -13559,7 +13559,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="883"/>
         <source>Companion</source>
-        <translation type="unfinished">Begleitdatei</translation>
+        <translation>Begleit-Datei</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1054"/>
@@ -15423,12 +15423,12 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Beste</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Verlustfreie Komprimierung</translation>
+        <translation>Verlustfreie Komprimierung</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="112"/>
@@ -15483,12 +15483,12 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgWriteHeic.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Beste</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Verlustfreie Komprimierung</translation>
+        <translation>Verlustfreie Komprimierung</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="94"/>
@@ -16014,7 +16014,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wert erhalten und neuen Wert hinzufügen (Schlüsselwörter)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
@@ -16269,12 +16269,12 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="53"/>
         <source>Remove filtered</source>
-        <translation type="unfinished">Gefilterte entfernen</translation>
+        <translation>Gefilterte entfernen</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">Ungefilterte entfernen</translation>
+        <translation>Ungefilterte entfernen</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -16304,7 +16304,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="328"/>
@@ -16999,12 +16999,12 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2562"/>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2758"/>
@@ -19366,7 +19366,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei(en) ohne Tags</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="315"/>
