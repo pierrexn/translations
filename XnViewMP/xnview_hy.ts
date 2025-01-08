@@ -1419,6 +1419,10 @@ Drag and Drop over the desired node to assign.</translation>
         <source>Video</source>
         <translation type="unfinished">Տեսանյութեր</translation>
     </message>
+    <message>
+        <source>Blur more</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ConvertThread</name>
@@ -3360,6 +3364,10 @@ Do you want to overwrite it?</source>
     <message>
         <source>Rounded corner</source>
         <translation>Կլորացված անկյուն</translation>
+    </message>
+    <message>
+        <source>Enlarge</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9646,10 +9654,6 @@ Thumbnail</source>
         <translation>Ֆայլի ասոցիացումներ</translation>
     </message>
     <message>
-        <source>%1 Bitmap file</source>
-        <translation>%1 Bitmap ֆայլ</translation>
-    </message>
-    <message>
         <source>Same as Catalog</source>
         <translation>Նույնը, ինչ գրացուցակը</translation>
     </message>
@@ -9668,6 +9672,14 @@ Thumbnail</source>
     <message>
         <source>Program (XnConvert)</source>
         <translation>Ծրագիր (XnConvert)</translation>
+    </message>
+    <message>
+        <source>XnView Slide file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Image file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10515,6 +10527,22 @@ Do you want to reassign?</source>
     <message>
         <source>Create thumbnails for whole folder</source>
         <translation>Ստեղծել մանրապատկերներ ամբողջ պանակի համար</translation>
+    </message>
+    <message>
+        <source>Image alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Companion</source>
+        <translation type="unfinished">Ուղեկից</translation>
     </message>
 </context>
 <context>
@@ -11915,12 +11943,16 @@ Do you want to continue?</source>
         <translation>Ամենացածր</translation>
     </message>
     <message>
-        <source>Best (lossless)</source>
-        <translation>Լավագույն (առանց կորստի)</translation>
-    </message>
-    <message>
         <source>Subsampling</source>
         <translation>Ենթանմուշառում</translation>
+    </message>
+    <message>
+        <source>Best</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lossless compression</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11952,12 +11984,16 @@ Do you want to continue?</source>
         <translation>Ամենացածր</translation>
     </message>
     <message>
-        <source>Best (lossless)</source>
-        <translation>Լավագույն</translation>
-    </message>
-    <message>
         <source>Quality</source>
         <translation>Որակ</translation>
+    </message>
+    <message>
+        <source>Best</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lossless compression</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12439,6 +12475,10 @@ Do you want to continue?</source>
         <source>Sort alphabetically</source>
         <translation type="unfinished">Խմբավորել այբբենական</translation>
     </message>
+    <message>
+        <source>Keep and add new value (Keywords)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Email</name>
@@ -12597,6 +12637,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Thumbnails large</source>
         <translation>Մեծ մանրապատկերներ</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Remove filtered</source>
+        <translation type="unfinished">Հեռացնել զտվածը</translation>
+    </message>
+    <message>
+        <source>Remove unfiltered</source>
+        <translation type="unfinished">Հեռացնել չզտվածը</translation>
     </message>
 </context>
 <context>
@@ -13077,6 +13129,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Modify date</source>
         <translation>Փոփոխել ամսաթիվը</translation>
+    </message>
+    <message>
+        <source>DPI-X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DPI-Y</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15283,10 +15343,6 @@ Do you want to continue?</source>
         <translation>Սև</translation>
     </message>
     <message>
-        <source>Old Dark</source>
-        <translation>Հին մուգ</translation>
-    </message>
-    <message>
         <source>Panels</source>
         <translation>Վահանակներ</translation>
     </message>
@@ -15517,6 +15573,10 @@ Do you want to continue?</source>
     <message>
         <source>Set Category</source>
         <translation>Կայել անվանակարգ</translation>
+    </message>
+    <message>
+        <source>Untagged file(s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

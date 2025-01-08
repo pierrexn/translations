@@ -1419,6 +1419,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <source>Video</source>
         <translation>Vídeo</translation>
     </message>
+    <message>
+        <source>Blur more</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ConvertThread</name>
@@ -3360,6 +3364,10 @@ Do you want to overwrite it?</source>
     <message>
         <source>Rounded corner</source>
         <translation>Esquina redondeada</translation>
+    </message>
+    <message>
+        <source>Enlarge</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9655,10 +9663,6 @@ miniatura</translation>
         <translation>Asociación de Archivos</translation>
     </message>
     <message>
-        <source>%1 Bitmap file</source>
-        <translation>%1 Archivo Bitmap</translation>
-    </message>
-    <message>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP para Windows</translation>
     </message>
@@ -9669,6 +9673,14 @@ miniatura</translation>
     <message>
         <source>Program (XnConvert)</source>
         <translation>Programa (XnConvert)</translation>
+    </message>
+    <message>
+        <source>XnView Slide file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Image file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10516,6 +10528,22 @@ Do you want to reassign?</source>
     <message>
         <source>Create thumbnails for whole folder</source>
         <translation>Crear miniaturas para toda la carpeta</translation>
+    </message>
+    <message>
+        <source>Image alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished">Superior</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Inferior</translation>
+    </message>
+    <message>
+        <source>Companion</source>
+        <translation type="unfinished">Complementario</translation>
     </message>
 </context>
 <context>
@@ -11916,12 +11944,16 @@ Do you want to continue?</source>
         <translation>Baja</translation>
     </message>
     <message>
-        <source>Best (lossless)</source>
-        <translation>Alta (sin pérdidas)</translation>
-    </message>
-    <message>
         <source>Subsampling</source>
         <translation>Submuestreo</translation>
+    </message>
+    <message>
+        <source>Best</source>
+        <translation type="unfinished">Alta</translation>
+    </message>
+    <message>
+        <source>Lossless compression</source>
+        <translation type="unfinished">Compresión sin pérdidas</translation>
     </message>
 </context>
 <context>
@@ -11949,16 +11981,20 @@ Do you want to continue?</source>
 <context>
     <name>DlgWriteHeic</name>
     <message>
-        <source>Best (lossless)</source>
-        <translation>Alta (sin pérdidas)</translation>
-    </message>
-    <message>
         <source>Lowest</source>
         <translation>Baja</translation>
     </message>
     <message>
         <source>Quality</source>
         <translation>Calidad</translation>
+    </message>
+    <message>
+        <source>Best</source>
+        <translation type="unfinished">Alta</translation>
+    </message>
+    <message>
+        <source>Lossless compression</source>
+        <translation type="unfinished">Compresión sin pérdidas</translation>
     </message>
 </context>
 <context>
@@ -12440,6 +12476,10 @@ Do you want to continue?</source>
         <source>Sort alphabetically</source>
         <translation type="unfinished">Ordenar alfabéticamente</translation>
     </message>
+    <message>
+        <source>Keep and add new value (Keywords)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Email</name>
@@ -12598,6 +12638,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Thumbnails large</source>
         <translation>Miniaturas grandes</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Remove filtered</source>
+        <translation type="unfinished">Eliminar filtrado</translation>
+    </message>
+    <message>
+        <source>Remove unfiltered</source>
+        <translation type="unfinished">Eliminar no filtrado</translation>
     </message>
 </context>
 <context>
@@ -13077,6 +13129,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Modify date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DPI-X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DPI-Y</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14668,10 +14728,6 @@ Do you want to continue?</source>
         <translation>Abrir en buscador (Finder)</translation>
     </message>
     <message>
-        <source>Old Dark</source>
-        <translation>Vieja Oscuridad (Hoja de estilo)</translation>
-    </message>
-    <message>
         <source>File size</source>
         <translation>Tamaño de archivo</translation>
     </message>
@@ -15518,6 +15574,10 @@ Do you want to continue?</source>
     <message>
         <source>Set Category</source>
         <translation>Establecer categoría</translation>
+    </message>
+    <message>
+        <source>Untagged file(s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1411,6 +1411,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>Video</source>
         <translation type="unfinished">Vídeo</translation>
     </message>
+    <message>
+        <source>Blur more</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ConvertThread</name>
@@ -3335,6 +3339,10 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Rounded corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enlarge</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9601,10 +9609,6 @@ Thumbnail</source>
         <translation>Associações de arquivos</translation>
     </message>
     <message>
-        <source>%1 Bitmap file</source>
-        <translation>%1 arquivo bitmap</translation>
-    </message>
-    <message>
         <source>Same as Catalog</source>
         <translation>Salvar como Catálogo</translation>
     </message>
@@ -9622,6 +9626,14 @@ Thumbnail</source>
     </message>
     <message>
         <source>Program (XnConvert)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XnView Slide file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Image file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10466,6 +10478,22 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create thumbnails for whole folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished">Superior</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Companion</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11865,12 +11893,16 @@ Do you want to continue?</source>
         <translation type="unfinished">Mais baixo</translation>
     </message>
     <message>
-        <source>Best (lossless)</source>
-        <translation type="unfinished">Melhor (sem perdas)</translation>
-    </message>
-    <message>
         <source>Subsampling</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Best</source>
+        <translation type="unfinished">Melhor</translation>
+    </message>
+    <message>
+        <source>Lossless compression</source>
+        <translation type="unfinished">Compressão sem perdas</translation>
     </message>
 </context>
 <context>
@@ -11902,12 +11934,16 @@ Do you want to continue?</source>
         <translation type="unfinished">Mais baixo</translation>
     </message>
     <message>
-        <source>Best (lossless)</source>
-        <translation type="unfinished">Melhor (sem perdas)</translation>
-    </message>
-    <message>
         <source>Quality</source>
         <translation type="unfinished">Qualidade</translation>
+    </message>
+    <message>
+        <source>Best</source>
+        <translation type="unfinished">Melhor</translation>
+    </message>
+    <message>
+        <source>Lossless compression</source>
+        <translation type="unfinished">Compressão sem perdas</translation>
     </message>
 </context>
 <context>
@@ -12389,6 +12425,10 @@ Do you want to continue?</source>
         <source>Sort alphabetically</source>
         <translation type="unfinished">Ordem alfabética</translation>
     </message>
+    <message>
+        <source>Keep and add new value (Keywords)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Email</name>
@@ -12545,6 +12585,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Thumbnails large</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Remove filtered</source>
+        <translation type="unfinished">Remover filtrados</translation>
+    </message>
+    <message>
+        <source>Remove unfiltered</source>
+        <translation type="unfinished">Remover não filtrados</translation>
     </message>
 </context>
 <context>
@@ -13024,6 +13076,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Modify date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DPI-X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DPI-Y</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15230,10 +15290,6 @@ Do you want to continue?</source>
         <translation type="unfinished">Preto</translation>
     </message>
     <message>
-        <source>Old Dark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Panels</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15463,6 +15519,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Set Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Untagged file(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

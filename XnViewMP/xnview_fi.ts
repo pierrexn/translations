@@ -1419,6 +1419,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>Video</source>
         <translation>Video</translation>
     </message>
+    <message>
+        <source>Blur more</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ConvertThread</name>
@@ -3360,6 +3364,10 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Rounded corner</source>
         <translation>Pyöristetty kulma</translation>
+    </message>
+    <message>
+        <source>Enlarge</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9660,10 +9668,6 @@ esikatselukuvina</translation>
         <translation>Tiedostokytkennät</translation>
     </message>
     <message>
-        <source>%1 Bitmap file</source>
-        <translation>%1 Bitmap-tiedosto</translation>
-    </message>
-    <message>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP Windows-versio</translation>
     </message>
@@ -9674,6 +9678,14 @@ esikatselukuvina</translation>
     <message>
         <source>Program (XnConvert)</source>
         <translation>Ohjelma (XnConvert)</translation>
+    </message>
+    <message>
+        <source>XnView Slide file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Image file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10522,6 +10534,22 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Create thumbnails for whole folder</source>
         <translation>Luo esikatselukuvat koko kansiolle</translation>
+    </message>
+    <message>
+        <source>Image alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished">Ylös</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Alhaalla</translation>
+    </message>
+    <message>
+        <source>Companion</source>
+        <translation type="unfinished">Oheistiedosto</translation>
     </message>
 </context>
 <context>
@@ -11922,12 +11950,16 @@ Haluatko jatkaa?</translation>
         <translation>Huonoin</translation>
     </message>
     <message>
-        <source>Best (lossless)</source>
-        <translation>Paras (häviötön)</translation>
-    </message>
-    <message>
         <source>Subsampling</source>
         <translation>Alinäytteistys</translation>
+    </message>
+    <message>
+        <source>Best</source>
+        <translation type="unfinished">Paras</translation>
+    </message>
+    <message>
+        <source>Lossless compression</source>
+        <translation type="unfinished">Häviötön pakkaus</translation>
     </message>
 </context>
 <context>
@@ -11955,16 +11987,20 @@ Haluatko jatkaa?</translation>
 <context>
     <name>DlgWriteHeic</name>
     <message>
-        <source>Best (lossless)</source>
-        <translation>Paras (häviötön)</translation>
-    </message>
-    <message>
         <source>Lowest</source>
         <translation>Huonoin</translation>
     </message>
     <message>
         <source>Quality</source>
         <translation>Laatu</translation>
+    </message>
+    <message>
+        <source>Best</source>
+        <translation type="unfinished">Paras</translation>
+    </message>
+    <message>
+        <source>Lossless compression</source>
+        <translation type="unfinished">Häviötön pakkaus</translation>
     </message>
 </context>
 <context>
@@ -12446,6 +12482,10 @@ Haluatko jatkaa?</translation>
         <source>Sort alphabetically</source>
         <translation>Järjestä aakkosjärjestykseen</translation>
     </message>
+    <message>
+        <source>Keep and add new value (Keywords)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Email</name>
@@ -12604,6 +12644,18 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Thumbnails large</source>
         <translation>Esikatselukuvat - suuri</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Remove filtered</source>
+        <translation type="unfinished">Poista suodatetut</translation>
+    </message>
+    <message>
+        <source>Remove unfiltered</source>
+        <translation type="unfinished">Poista suodattamattomat</translation>
     </message>
 </context>
 <context>
@@ -13084,6 +13136,14 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Modify date</source>
         <translation>Muokkauspäivä</translation>
+    </message>
+    <message>
+        <source>DPI-X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DPI-Y</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14674,10 +14734,6 @@ Jatketaanko?</translation>
         <translation>Avaa Etsimessä</translation>
     </message>
     <message>
-        <source>Old Dark</source>
-        <translation>Vanha tumma</translation>
-    </message>
-    <message>
         <source>File size</source>
         <translation>Tiedostokoko</translation>
     </message>
@@ -15524,6 +15580,10 @@ Jatketaanko?</translation>
     <message>
         <source>Set Category</source>
         <translation>Aseta kategoria</translation>
+    </message>
+    <message>
+        <source>Untagged file(s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
