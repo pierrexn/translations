@@ -1309,7 +1309,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgConvertProcess.h" line="3234"/>
         <source>Blurred frame</source>
-        <translation>Homályos keret</translation>
+        <translation>Elmosott keret</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3485"/>
@@ -1643,7 +1643,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="DlgConvert.cpp" line="1728"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Blur</source>
-        <translation>Homályosítás</translation>
+        <translation>Elmosás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="242"/>
@@ -1655,7 +1655,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="DlgConvert.cpp" line="243"/>
         <location filename="DlgFilter.cpp" line="39"/>
         <source>Gaussian blur</source>
-        <translation>Gaussz elmosás</translation>
+        <translation>Gauss-elmosás</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="244"/>
@@ -1828,7 +1828,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Több elmosás</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -4123,7 +4123,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertBloom.ui" line="66"/>
         <source>Blur</source>
-        <translation>Homályosítás</translation>
+        <translation>Elmosás</translation>
     </message>
 </context>
 <context>
@@ -4151,7 +4151,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Blur</source>
-        <translation>Homályosítás</translation>
+        <translation>Elmosás</translation>
     </message>
 </context>
 <context>
@@ -4164,7 +4164,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Növelés</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -5769,7 +5769,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertMask.ui" line="143"/>
         <source>Blur</source>
-        <translation>Homályosítás</translation>
+        <translation>Elmosás</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="150"/>
@@ -6627,7 +6627,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertText.ui" line="770"/>
         <source>Blur</source>
-        <translation>Homályosítás</translation>
+        <translation>Elmosás</translation>
     </message>
 </context>
 <context>
@@ -12373,12 +12373,12 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="503"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView diavetítés-fájl</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="510"/>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 képfájl</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="701"/>
@@ -13424,22 +13424,22 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép igazítása</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="476"/>
         <source>Top</source>
-        <translation type="unfinished">Fent</translation>
+        <translation>Fent</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
-        <translation type="unfinished">Lent</translation>
+        <translation>Lent</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="883"/>
         <source>Companion</source>
-        <translation type="unfinished">Kísérő</translation>
+        <translation>Kísérő</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1054"/>
@@ -15416,12 +15416,12 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">Legjobb</translation>
+        <translation>Legjobb</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Veszteségmentes tömörítés</translation>
+        <translation>Veszteségmentes tömörítés</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="112"/>
@@ -15475,12 +15475,12 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgWriteHeic.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">Legjobb</translation>
+        <translation>Legjobb</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Veszteségmentes tömörítés</translation>
+        <translation>Veszteségmentes tömörítés</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="94"/>
@@ -16007,7 +16007,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Érték megtartása és új érték hozzáadása (kulcsszavak)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
@@ -16262,12 +16262,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="53"/>
         <source>Remove filtered</source>
-        <translation type="unfinished">Szűrtek eltávolítása</translation>
+        <translation>Szűrtek eltávolítása</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">Nem szűrtek eltávolítása</translation>
+        <translation>Nem szűrtek eltávolítása</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -16297,7 +16297,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="328"/>
@@ -16992,12 +16992,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2562"/>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2758"/>
@@ -19095,7 +19095,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Címkétlen fájl(ok)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="310"/>
@@ -22365,7 +22365,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="PaintWidget.ui" line="1125"/>
         <source>Blur</source>
-        <translation>Homályosítás</translation>
+        <translation>Elmosás</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1095"/>
@@ -23541,7 +23541,7 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="84"/>
         <source>Blur</source>
-        <translation>Homályosítás</translation>
+        <translation>Elmosás</translation>
     </message>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="97"/>
