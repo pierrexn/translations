@@ -1848,7 +1848,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Размытие усиленное</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -4216,7 +4216,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличивать</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -12470,12 +12470,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="503"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>SLD файл слайдшоу XnView</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="510"/>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Файл изображения</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="701"/>
@@ -13525,22 +13525,22 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание изображения</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="476"/>
         <source>Top</source>
-        <translation type="unfinished">Сверху</translation>
+        <translation>Сверху</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Снизу</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="883"/>
         <source>Companion</source>
-        <translation type="unfinished">Сопутствующие файлы</translation>
+        <translation>Сопутствующие файлы</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1054"/>
@@ -15523,12 +15523,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">Лучшее</translation>
+        <translation>Лучшее</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Сжатие без потерь</translation>
+        <translation>Сжатие без потерь</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="112"/>
@@ -15583,12 +15583,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteHeic.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">Лучшее</translation>
+        <translation>Лучшее</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Сжатие без потерь</translation>
+        <translation>Сжатие без потерь</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="94"/>
@@ -16117,7 +16117,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранять и добавлять новые значения (ключевые слова)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
@@ -16372,12 +16372,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.cpp" line="53"/>
         <source>Remove filtered</source>
-        <translation type="unfinished">Удалить найденные</translation>
+        <translation>Удалить найденные</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">Удалить нефильтрованные</translation>
+        <translation>Удалить нефильтрованные</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -16407,7 +16407,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="328"/>
@@ -17106,12 +17106,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2562"/>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2758"/>
@@ -19464,7 +19464,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Неотмеченные файлы</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="424"/>
