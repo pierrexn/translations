@@ -1828,7 +1828,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer vervagen</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -4180,7 +4180,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergroten</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -9053,7 +9053,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgIptc.ui" line="714"/>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
-        <translation>Bewaren en nieuwe waarde toevoegen (trefwoorden en aanvullende categorieën)</translation>
+        <translation>Bewaren en nieuwe waarde toevoegen (Trefwoorden en aanvullende categorieën)</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="861"/>
@@ -12390,12 +12390,12 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="503"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView diabestand</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="510"/>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 afbeeldingbestand</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="701"/>
@@ -13202,7 +13202,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
         <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation>XMP:Subject en IPTC:Keywords automatisch importeren in de Categorieën-catalogus</translation>
+        <translation>XMP:Onderwerp en IPTCTrefwoorden automatisch importeren in de Categorieën-catalogus</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="151"/>
@@ -13225,7 +13225,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsKeywords.ui" line="82"/>
         <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
         <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation>Categorieën van de catalogus exporteren naar XMP:Subject en IPTC:Keywords</translation>
+        <translation>Categorieën van de catalogus exporteren naar XMP:Onderwerp en IPTC:Trefwoorden</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="110"/>
@@ -13357,7 +13357,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="696"/>
         <source>Read (separated by ,)</source>
-        <translation>Lees (gescheiden door ,)</translation>
+        <translation>Lezen (gescheiden door ,)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="358"/>
@@ -13441,22 +13441,22 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingsuitlijning</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="476"/>
         <source>Top</source>
-        <translation type="unfinished">Boven</translation>
+        <translation>Boven</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
-        <translation type="unfinished">Onder</translation>
+        <translation>Onder</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="883"/>
         <source>Companion</source>
-        <translation type="unfinished">Bijbehorend</translation>
+        <translation>Bijbehorend</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1054"/>
@@ -15433,12 +15433,12 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Beste</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Verliesloze compressie</translation>
+        <translation>Verliesloze compressie</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="112"/>
@@ -15494,12 +15494,12 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgWriteHeic.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Beste</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Verliesloze compressie</translation>
+        <translation>Verliesloze compressie</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="94"/>
@@ -16025,7 +16025,7 @@ Doorgaan?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Behouden en nieuwe waarde toevoegen (Trefwoorden)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
@@ -16280,12 +16280,12 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="53"/>
         <source>Remove filtered</source>
-        <translation type="unfinished">Gefilterd verwijderen</translation>
+        <translation>Gefilterde verwijderen</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">Ongefilterd verwijderen</translation>
+        <translation>Ongefilterde verwijderen</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -16315,7 +16315,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
         <source>...</source>
-        <translation type="unfinished">…</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="328"/>
@@ -17010,12 +17010,12 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2562"/>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2758"/>
@@ -19252,7 +19252,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand(en) zonder label</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="458"/>
