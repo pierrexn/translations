@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Medie</translation>
     </message>
     <message>
         <source>Good</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Roșu</translation>
     </message>
     <message>
         <source>Select</source>
@@ -172,7 +172,7 @@
     </message>
     <message>
         <source>Social</source>
-        <translation type="unfinished"></translation>
+        <translation>Social</translation>
     </message>
     <message>
         <source>Email</source>
@@ -180,11 +180,11 @@
     </message>
     <message>
         <source>INI filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele fișierului INI</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Site-ul web</translation>
     </message>
     <message>
         <source>Version</source>
@@ -192,15 +192,15 @@
     </message>
     <message>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum</translation>
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnal de modificări</translation>
     </message>
 </context>
 <context>
@@ -267,62 +267,66 @@
     <message>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrei să salvezi schimbările pentru
+„%1”?</translation>
     </message>
     <message>
         <source>Save &amp;as...</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;alvează ca...</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salvare</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nu salva</translation>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu întreba din nou</translation>
     </message>
     <message>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ai vrea să-ți anulezi editările și să ștergi 
+„%1”?</translation>
     </message>
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești sigur(ă) că vrei să ștergi 
+„%1”?</translation>
     </message>
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești sigur(ă) că vrei să ștergi 
+„%1” (%2 (de) elemente)?</translation>
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imaginea va fi convertită în RGB pe 24 de biți (8 biți pe canal)</translation>
     </message>
     <message>
         <source>Confirm Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmă salvarea</translation>
     </message>
     <message>
         <source>&lt;%1&gt; already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%1&gt; deja există!</translation>
     </message>
     <message>
         <source>Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrei să-l suprascrii?</translation>
     </message>
     <message>
         <source>Saving image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se salvează imaginea...</translation>
     </message>
     <message>
         <source>Number of unique colors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de culori unice: %1</translation>
     </message>
 </context>
 <context>
@@ -395,7 +399,7 @@
     <name>BatchRenameProcess</name>
     <message>
         <source>Renaming files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se redenumesc fișierele...</translation>
     </message>
 </context>
 <context>
@@ -408,7 +412,9 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest favorit indică un folder care nu există. 
+
+Vrei să ștergi favoritul „%1”?</translation>
     </message>
 </context>
 <context>
@@ -589,7 +595,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtru de catalog</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -597,23 +603,23 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Histogramă</translation>
     </message>
     <message>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Rezultatele filtrului de catalog&gt;</translation>
     </message>
     <message>
         <source>&lt;files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;fișiere&gt;</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează fișierele în subfoldere</translation>
     </message>
     <message>
         <source>Start slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Începe prezentarea</translation>
     </message>
 </context>
 <context>
@@ -645,11 +651,11 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Assign Set to selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Atribuie un set selecției</translation>
     </message>
     <message>
         <source>Unassign Set from selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează atribuirea unui set din selecție</translation>
     </message>
 </context>
 <context>
@@ -18230,15 +18236,15 @@ Vrei să păstrezi miniaturile?
     </message>
     <message>
         <source>Application is up to date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicația este actualizată.</translation>
     </message>
     <message>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesiune</translation>
     </message>
     <message>
         <source>Do you want to save session?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrei să salvezi sesiunea?</translation>
     </message>
     <message>
         <source>Saving many tabs may noticeably slow application reopening.</source>
@@ -18246,7 +18252,7 @@ Vrei să păstrezi miniaturile?
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu întreba din nou</translation>
     </message>
     <message>
         <source>Catalog and Metadata are disabled - 
