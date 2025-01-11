@@ -846,7 +846,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Auto fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivire automată</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -1363,7 +1363,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation type="unfinished"></translation>
+        <translation>LUT logaritmic</translation>
     </message>
     <message>
         <source>Add</source>
@@ -1371,15 +1371,15 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Canal</translation>
     </message>
     <message>
         <source>Enhance</source>
-        <translation type="unfinished"></translation>
+        <translation>Îmbunătățire</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadru</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -1387,19 +1387,19 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgomot</translation>
     </message>
     <message>
         <source>Pixelate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixelare</translation>
     </message>
     <message>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilizare</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformare</translation>
     </message>
     <message>
         <source>Video</source>
@@ -1407,7 +1407,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Estompează mai mult</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -1415,11 +1415,11 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Swap color</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă culoarea</translation>
     </message>
     <message>
         <source>Inner Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadru interior</translation>
     </message>
     <message>
         <source>Remove alpha channel</source>
@@ -1430,18 +1430,18 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     <name>ConvertThread</name>
     <message>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>ATENȚIE: Imaginea va fi convertită în RGB pe 24 de biți (8 biți pe canal)</translation>
     </message>
 </context>
 <context>
     <name>CustomTreeWidgetItem</name>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalare</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalat</translation>
     </message>
 </context>
 <context>
@@ -1625,7 +1625,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>An error has occurred when saving %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare la salvarea %1</translation>
     </message>
 </context>
 <context>
@@ -1772,7 +1772,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;p&gt;Toate specificațiile pancartei (bannerului) (font, culoare, dimensiune etc.) sunt transferate de la pancarta (bannerul) creat(ă) anterior. O excepție este dimensiunea textului, care este calculată la „Cel mai potrivită” pentru înălțimea pancartei (bannerului)..&lt;/p&gt;&lt;p&gt;Poți selecta mai multe imagini pentru a aplica aceeași pancartă (același banner) mai multor imagini simultan. Reține că textul va avea atunci aceeași dimensiune în toate imaginile.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Comenzi rapide (Scurtături)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea fontului cu 2 puncte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea pancartei (bannerului) cu 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Pornește creare pancartei (bannerului)&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2279,11 +2279,11 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>nu e o imagine</translation>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprascrie fișierul</translation>
     </message>
     <message>
         <source>Destination already has a file named: 
@@ -2369,15 +2369,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Întârziere</translation>
     </message>
     <message>
         <source>second(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>secundă(e)</translation>
     </message>
     <message>
         <source>Hide XnView MP</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde XnView MP</translation>
     </message>
 </context>
 <context>
@@ -3042,33 +3042,35 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Please restart application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Te rugăm să repornești aplicația.</translation>
     </message>
     <message>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiunea %1 a XnConvert este disponibilă. 
+
+Vrei să mergi pe pagina de descărcare?</translation>
     </message>
     <message>
         <source>Remove file from filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge fișierul din lista de fișiere</translation>
     </message>
     <message>
         <source>Cancel batch processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează procesarea în masă</translation>
     </message>
     <message>
         <source>Do you want to cancel current batch processing?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrei să anulezi procesarea în masă actuală?</translation>
     </message>
     <message>
         <source>Loading error(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare (erori) de încărcare:</translation>
     </message>
     <message>
         <source>Saving error(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare (erori) de salvare:</translation>
     </message>
     <message>
         <source>Output file already exist. 
@@ -3078,15 +3080,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>nu e o imagine</translation>
     </message>
     <message>
         <source>copied</source>
-        <translation type="unfinished"></translation>
+        <translation>copiat(ă)</translation>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprascrie fișierul</translation>
     </message>
     <message>
         <source>Destination already has a file named: 
@@ -3326,15 +3328,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Rounded corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Colț rotunjit</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -3342,7 +3344,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -3477,7 +3479,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -3485,7 +3487,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -3964,11 +3966,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Show original</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează originalul</translation>
     </message>
     <message>
         <source>First file</source>
-        <translation type="unfinished"></translation>
+        <translation>Primul fișier</translation>
     </message>
     <message>
         <source>Last file</source>
@@ -3984,7 +3986,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Implicit</translation>
     </message>
     <message>
         <source>Light</source>
@@ -4046,7 +4048,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește alfa pentru imaginile pe 32 de biți</translation>
     </message>
 </context>
 <context>
@@ -4337,7 +4339,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare de umplere</translation>
     </message>
 </context>
 <context>
@@ -4482,7 +4484,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Întinde</translation>
     </message>
     <message>
         <source>Tile</source>
@@ -4646,7 +4648,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -4654,7 +4656,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta jos</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -4953,7 +4955,7 @@ Do you want to continue?</source>
     <name>DlgConvertSwapClass</name>
     <message>
         <source>RGB →</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB →</translation>
     </message>
 </context>
 <context>
@@ -5130,7 +5132,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -5138,7 +5140,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -5239,11 +5241,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Proportional</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporțional</translation>
     </message>
     <message>
         <source>Relative to target image</source>
-        <translation type="unfinished"></translation>
+        <translation>În raport cu imaginea țintă</translation>
     </message>
     <message>
         <source>Longest side</source>
@@ -5251,7 +5253,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Smallest side</source>
-        <translation type="unfinished"></translation>
+        <translation>Cea mai mică parte</translation>
     </message>
     <message>
         <source>Width</source>
@@ -5263,11 +5265,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește</translation>
     </message>
     <message>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Întinde</translation>
     </message>
     <message>
         <source>Tile</source>
@@ -5275,11 +5277,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancoră</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -5287,7 +5289,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta jos</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -5318,7 +5320,7 @@ Do you want to continue?</source>
     <name>DlgConvertWhiteBalanceClass</name>
     <message>
         <source>Cut limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limita tăierii</translation>
     </message>
     <message>
         <source>Contrast</source>
@@ -5497,15 +5499,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Clean up</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Purge</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergere</translation>
     </message>
     <message>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Rulează</translation>
     </message>
 </context>
 <context>
