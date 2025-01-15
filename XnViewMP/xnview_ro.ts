@@ -2290,7 +2290,10 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
 %1
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinația are deja un fișier numit: 
+%1
+
+Dorești să-l suprascrii?</translation>
     </message>
 </context>
 <context>
@@ -3076,7 +3079,9 @@ Vrei să mergi pe pagina de descărcare?</translation>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul de ieșire există deja. 
+
+Dorești să îl suprascrii?</translation>
     </message>
     <message>
         <source>not an image</source>
@@ -3095,25 +3100,34 @@ Do you want to overwrite it?</source>
 %1
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinația are deja un fișier numit: 
+%1
+
+Vrei să-l suprascrii?</translation>
     </message>
     <message>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiunea „Șterge originalul” este activată
+
+Vrei să continui?</translation>
     </message>
     <message>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele fișierului de ieșire va fi același pentru toate fișierele convertite. 
+
+Dorești să continui?</translation>
     </message>
     <message>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ai opțiunea „păstrează fișierul original dacă rezultatul este mai mare” și câteva acțiuni. 
+
+Vrei să continui?</translation>
     </message>
 </context>
 <context>
@@ -3978,7 +3992,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Keep original file when encoded result is larger (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Păstrează fișierul original atunci când rezultatul codificat este mai mare (experimental)</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -5634,7 +5648,7 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrie î&amp;n toate fișierele</translation>
     </message>
     <message>
         <source>&amp;Write</source>
@@ -5642,12 +5656,13 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Se &amp;aplică</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare în timpul procesării. 
+Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</translation>
     </message>
 </context>
 <context>
@@ -5832,7 +5847,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Tint</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentă</translation>
     </message>
 </context>
 <context>
@@ -5911,7 +5926,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>This is not an image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesta nu este un fișier imagine</translation>
     </message>
 </context>
 <context>
@@ -5934,7 +5949,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluare de export și etichete de culoare</translation>
     </message>
 </context>
 <context>
@@ -6025,23 +6040,23 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Automatic preview refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Reîmprospătare automată a previzualizării</translation>
     </message>
     <message>
         <source>Refresh preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizează reîmprospătarea</translation>
     </message>
     <message>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosește JPEG-li</translation>
     </message>
     <message>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertește în spațiu de culoare XYB</translation>
     </message>
     <message>
         <source>Edit palette...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează paleta...</translation>
     </message>
 </context>
 <context>
@@ -6246,23 +6261,23 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Rede&amp;numire</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocui&amp;re</translation>
     </message>
     <message>
         <source>Replace &amp;all</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește-le pe to&amp;ate</translation>
     </message>
     <message>
         <source>&amp;Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sari</translation>
     </message>
     <message>
         <source>Skip a&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Sare-&amp;le pe toate</translation>
     </message>
 </context>
 <context>
@@ -6396,19 +6411,19 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Uploading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se încarcă...</translation>
     </message>
     <message>
         <source>Upload canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare anulată</translation>
     </message>
     <message>
         <source>Uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcat</translation>
     </message>
     <message>
         <source>Directory changed to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorul a fost schimbat în %1.</translation>
     </message>
 </context>
 <context>
@@ -6529,7 +6544,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Treci la coordonate</translation>
     </message>
 </context>
 <context>
@@ -6768,23 +6783,23 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source># enumerator per</source>
-        <translation type="unfinished"></translation>
+        <translation># enumerator per</translation>
     </message>
     <message>
         <source>Input folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folderul de intrare</translation>
     </message>
     <message>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folderul de ieșire</translation>
     </message>
     <message>
         <source>IPTC Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon IPTC</translation>
     </message>
     <message>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
-        <translation type="unfinished"></translation>
+        <translation>Importul nu se poate face, folderul sursă este același cu folderul destinație!</translation>
     </message>
     <message>
         <source>No action</source>
@@ -6904,7 +6919,7 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrie în &amp;toate fișierele</translation>
     </message>
     <message>
         <source>&amp;Write</source>
@@ -6912,20 +6927,21 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Se &amp;aplică</translation>
     </message>
     <message>
         <source>Required field</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp obligatoriu</translation>
     </message>
     <message>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished"></translation>
+        <translation>Unele câmpuri sunt obligatorii, te rugăm să le completezi!</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare în timpul procesării. 
+Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translation>
     </message>
 </context>
 <context>
@@ -7076,7 +7092,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Ține minte fila deschisă</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
@@ -7205,11 +7221,11 @@ Please make sure that files are not read-only!</source>
     <name>DlgMessage</name>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu întreba din nou</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu mai arăta</translation>
     </message>
     <message>
         <source>Catalog</source>
@@ -7217,7 +7233,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Catalog Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturi de catalog</translation>
     </message>
 </context>
 <context>
@@ -7279,7 +7295,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Configure programs</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurează programele</translation>
     </message>
     <message>
         <source>Path</source>
@@ -7287,7 +7303,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumente</translation>
     </message>
 </context>
 <context>
@@ -7322,11 +7338,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Setează</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Golește</translation>
     </message>
 </context>
 <context>
@@ -7375,18 +7391,18 @@ Please make sure that files are not read-only!</source>
     <name>DlgPlugins</name>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
     <name>DlgPluginsClass</name>
     <message>
         <source>AddOns &amp; Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Suplimente și pluginuri</translation>
     </message>
     <message>
         <source>AddOns</source>
-        <translation type="unfinished"></translation>
+        <translation>Suplimente</translation>
     </message>
     <message>
         <source>Description</source>
@@ -7401,7 +7417,7 @@ Please make sure that files are not read-only!</source>
     <name>DlgPresetsManageClass</name>
     <message>
         <source>Edit presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează presetările</translation>
     </message>
 </context>
 <context>
@@ -7704,11 +7720,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Colecție</translation>
     </message>
     <message>
         <source>Automatically rotate (if needed)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotire automată (dacă e necesară)</translation>
     </message>
 </context>
 <context>
@@ -8003,18 +8019,18 @@ Vă mulțumim că ați achiziționat %1.</translation>
     </message>
     <message>
         <source>Person/Company name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele companiei/persoanei:</translation>
     </message>
 </context>
 <context>
     <name>DlgRemoveBg</name>
     <message>
         <source>Background remover</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminator de fundal</translation>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Te rugăm să-l instalezi folosind Instrumente › Pluginuri</translation>
     </message>
 </context>
 <context>
@@ -8035,7 +8051,9 @@ Vă mulțumim că ați achiziționat %1.</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierele însoțitoare sunt detectate în lista de fișiere, sunt redenumite automat pentru a urma numele fișierului principal. 
+
+Vrei să le redenumești?</translation>
     </message>
 </context>
 <context>
@@ -8370,7 +8388,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -8378,7 +8396,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -8499,31 +8517,31 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>&amp;Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele &amp;fișierului</translation>
     </message>
     <message>
         <source>&amp;Use Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Folosește expresia regulată</translation>
     </message>
     <message>
         <source>F&amp;older</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;older (Dosar)</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Doar majuscule</translation>
     </message>
     <message>
         <source>Search in Catalog only</source>
-        <translation type="unfinished"></translation>
+        <translation>Caută numai în catalog</translation>
     </message>
     <message>
         <source>Search in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Caută în subfoldere (subdosare)</translation>
     </message>
     <message>
         <source>Search in folder names</source>
-        <translation type="unfinished"></translation>
+        <translation>Caută în numele folderelor (dosarelor)</translation>
     </message>
     <message>
         <source>Match</source>
@@ -8531,27 +8549,27 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Orice</translation>
     </message>
     <message>
         <source>Presets: </source>
-        <translation type="unfinished"></translation>
+        <translation>Presetări: </translation>
     </message>
     <message>
         <source>&lt; Bac&amp;k</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Î&amp;napoi</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Căutare</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Răsfoire...</translation>
     </message>
 </context>
 <context>
@@ -8833,18 +8851,21 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Catalog - Absolute/Relative paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalog - căi absolute/relative</translation>
     </message>
     <message>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
 
 Do you want to change the &apos;base path&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbarea „căii de bază” poate deconecta fișierele stocate în baza de date. 
+Fă-o numai dacă doriți să partajezi același folder (dosar) între mai multe computere. 
+
+Dorești să schimbi „calea de bază”?</translation>
     </message>
     <message>
         <source>Catalog - Remove Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalog - Șterge intrări</translation>
     </message>
     <message>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
@@ -8853,36 +8874,46 @@ If information is exported into embedded or sidecar metadata,
 you&apos;ll be able to re-import later.
 
 Do you want to remove entries assigned to a Category?</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrările din catalog cu etichetele Categorii, Evaluare și Culoare vor fi eliminate. 
+
+Dacă informațiile sunt exportate în metadate încorporate sau cu dosar suplimentar (sidecar), 
+le vei putea reimporta mai târziu. 
+
+Dorești să elimini intrările atribuite unei categorii?</translation>
     </message>
     <message>
         <source>Catalog - Synchronize Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalog - Sincronizează folderele (dosarele)</translation>
     </message>
     <message>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele orfane vor fi șterse din Catalog.
+
+Vrei să continui?</translation>
     </message>
     <message>
         <source>Catalog - Relocate the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalog - Relocă folderul (dosarul)</translation>
     </message>
     <message>
         <source>Catalog Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mentenanța catalogului</translation>
     </message>
     <message>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
 Do you want to check for affected entries first?</source>
-        <translation type="unfinished"></translation>
+        <translation>Unele intrări din baza de date cu Evaluare atribuită (Rating atribuit),
+Etichete de culoare, Cuvintele cheie pot fi șterse.
+
+Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate importa baza de date din categoria XnView Classic</translation>
     </message>
 </context>
 <context>
@@ -8973,7 +9004,7 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Relocate...</source>
-        <translation>Mutați...</translation>
+        <translation>Relocare...</translation>
     </message>
     <message>
         <source>Delete all</source>
@@ -8997,15 +9028,15 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Base path of files</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea de bază a fișierelor</translation>
     </message>
     <message>
         <source>Maintenance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mentenanță...</translation>
     </message>
     <message>
         <source>Import XnView Classic category db...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importă baza de date din categoria XnView Classic...</translation>
     </message>
 </context>
 <context>
@@ -9097,7 +9128,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Însoțitor</translation>
     </message>
 </context>
 <context>
@@ -9188,7 +9219,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortare</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -9196,11 +9227,11 @@ Miniatură</translation>
     </message>
     <message>
         <source>Auto-select first item on entering folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează automat primul element la intrarea în folder (dosar)</translation>
     </message>
     <message>
         <source>Auto-select new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează automat fișierele noi</translation>
     </message>
     <message>
         <source>View as</source>
@@ -9212,7 +9243,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Link companion files for the following actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectează fișierele însoțitoare pentru următoarele acțiuni</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9220,15 +9251,15 @@ Miniatură</translation>
     </message>
     <message>
         <source>Copy/move/rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiere/mutare/redenumire</translation>
     </message>
     <message>
         <source>Association list (use ; as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de asociere (folosește ; ca separator)</translation>
     </message>
     <message>
         <source>Used by Filter › Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosit de Filtru › Personalizat</translation>
     </message>
 </context>
 <context>
@@ -9267,7 +9298,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Show most used formats at beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează cele mai utilizate formate la început</translation>
     </message>
 </context>
 <context>
@@ -9525,23 +9556,23 @@ Miniatură</translation>
     </message>
     <message>
         <source>Allow only one application instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite o singură instanță a aplicației</translation>
     </message>
     <message>
         <source>Auto-rotate images according to EXIF orientation tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotește automat imaginile conform etichetei de orientare EXIF</translation>
     </message>
     <message>
         <source>Adjust image if X/Y DPI are different</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustează imaginea dacă X/Y DPI sunt diferite</translation>
     </message>
     <message>
         <source>Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornire</translation>
     </message>
     <message>
         <source>Start with file</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește cu fișierul</translation>
     </message>
     <message>
         <source>Open</source>
@@ -9549,15 +9580,15 @@ Miniatură</translation>
     </message>
     <message>
         <source>Start without file</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește fără fișierul</translation>
     </message>
     <message>
         <source>Open browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide browser-ul</translation>
     </message>
     <message>
         <source>Remember selected filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Ține minte numele fișierului selectat</translation>
     </message>
     <message>
         <source>Save</source>
@@ -9573,39 +9604,39 @@ Miniatură</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiere</translation>
     </message>
     <message>
         <source>Duplicate files naming</source>
-        <translation type="unfinished"></translation>
+        <translation>Numirea fișierelor duplicate</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenumire</translation>
     </message>
     <message>
         <source>Lossless operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Operații fără pierdere</translation>
     </message>
     <message>
         <source>Color management</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionarea culorilor</translation>
     </message>
     <message>
         <source>Auto correct</source>
-        <translation type="unfinished"></translation>
+        <translation>Corectare automată</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished">A inlocui</translation>
+        <translation>Înlocuire</translation>
     </message>
     <message>
         <source>With</source>
-        <translation type="unfinished">Cu</translation>
+        <translation>Cu</translation>
     </message>
     <message>
         <source>Delimiter character</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracterul delimitator</translation>
     </message>
 </context>
 <context>
@@ -9656,11 +9687,11 @@ Miniatură</translation>
     </message>
     <message>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier de diapozitiv XnView</translation>
     </message>
     <message>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul de imagine %1</translation>
     </message>
     <message>
         <source>Program (XnConvert)</source>
