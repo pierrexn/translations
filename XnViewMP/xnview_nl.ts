@@ -1873,7 +1873,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Wees</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -13441,37 +13441,37 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Labelkleuren</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Gebruik kleuren op basis van het bestandsformaat</translation>
+        <translation>Gebruik kleuren op basis van het bestandsformaat</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Bestandsextensie:</translation>
+        <translation>Voer een extensie in:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">of bestandsformaat:</translation>
+        <translation>of kies een formaat:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">Nieuw</translation>
+        <translation>Nieuw</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished">Verwijderen</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">Standaardkleur</translation>
+        <translation>Standaardkleur</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
