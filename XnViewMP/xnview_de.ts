@@ -1871,7 +1871,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwaist</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -13508,37 +13508,37 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennzeichnungs-Farben</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Farben abhängig vom Dateiformat verwenden</translation>
+        <translation>Farben abhängig vom Dateiformat verwenden</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Dateierweiterung eingeben:</translation>
+        <translation>Dateierweiterung eingeben:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">oder Format:</translation>
+        <translation>oder Format:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">Neu</translation>
+        <translation>Neu</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">Standardfarbe</translation>
+        <translation>Standardfarbe</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="481"/>
