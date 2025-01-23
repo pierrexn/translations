@@ -787,8 +787,8 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategoryManager</name>
     <message>
-        <location filename="CategoryManager.cpp" line="229"/>
-        <location filename="CategoryManager.cpp" line="411"/>
+        <location filename="CategoryManager.cpp" line="203"/>
+        <location filename="CategoryManager.cpp" line="385"/>
         <source>Categories</source>
         <translation>分类</translation>
     </message>
@@ -1875,6 +1875,11 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="MyDB.cpp" line="2875"/>
         <source>Other</source>
         <translation>其他</translation>
+    </message>
+    <message>
+        <location filename="CategoryManager.cpp" line="171"/>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -11648,17 +11653,17 @@ Thumbnail</source>
         <translation>包含</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Master extension</source>
         <translation>主扩展名</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Companion</source>
         <translation type="unfinished">配套文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="647"/>
+        <location filename="DlgSettingsFilelist.cpp" line="450"/>
         <source>Delete...</source>
         <translation>删除…</translation>
     </message>
@@ -11791,41 +11796,6 @@ Thumbnail</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
         <translatorcomment>是指在浏览器模式菜单的“筛选”-》“自定义”？？？</translatorcomment>
         <translation>用于 筛选 › 自定义</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="278"/>
-        <source>Format colors</source>
-        <translation>格式颜色</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="284"/>
-        <source>Use color based on file format</source>
-        <translation>文件根据格式显示以下颜色</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="297"/>
-        <source>Enter an extension:</source>
-        <translation>输入扩展名：</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="307"/>
-        <source>or choose a format:</source>
-        <translation>或选择一种格式:</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="353"/>
-        <source>New</source>
-        <translation>新建</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="363"/>
-        <source>Remove</source>
-        <translation>移除</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="387"/>
-        <source>Default color</source>
-        <translation>默认颜色</translation>
     </message>
 </context>
 <context>
@@ -13464,6 +13434,41 @@ Do you want to reassign?</source>
         <translation>文字</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1167"/>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1173"/>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">文件根据格式显示以下颜色</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1186"/>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">输入扩展名：</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1196"/>
+        <source>or choose a format:</source>
+        <translation type="unfinished">或选择一种格式:</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1242"/>
+        <source>New</source>
+        <translation type="unfinished">新建</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1252"/>
+        <source>Remove</source>
+        <translation type="unfinished">移除</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1276"/>
+        <source>Default color</source>
+        <translation type="unfinished">默认颜色</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
         <translation>在视频缩略图中显示4张缩略图（替代1张）</translation>
@@ -15012,7 +15017,7 @@ Do you want to continue?</source>
         <translation>全部清除</translation>
     </message>
     <message>
-        <location filename="DlgTransfer.cpp" line="203"/>
+        <location filename="DlgTransfer.cpp" line="228"/>
         <source>Apply</source>
         <translation>应用</translation>
     </message>
@@ -23820,7 +23825,7 @@ Do you want to keep the thumbnails?
         <translation>你是否要保存进程？</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3115"/>
+        <location filename="xnview.cpp" line="3117"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>

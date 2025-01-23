@@ -1504,6 +1504,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <source>Pictures</source>
         <translation>Pinturas</translation>
     </message>
+    <message>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DBFilterModel</name>
@@ -9119,10 +9123,6 @@ miniatura</translation>
 <context>
     <name>DlgSettingsFilelistClass</name>
     <message>
-        <source>New</source>
-        <translation>Nuevo</translation>
-    </message>
-    <message>
         <source>Never</source>
         <translation>Nunca</translation>
     </message>
@@ -9159,14 +9159,6 @@ miniatura</translation>
         <translation>Ordenar mezclando archivos/carpetas</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation>Eliminar</translation>
-    </message>
-    <message>
-        <source>Enter an extension:</source>
-        <translation>Introducir extensión:</translation>
-    </message>
-    <message>
         <source>Scan file headers</source>
         <translation>Analizar encabezados de archivos</translation>
     </message>
@@ -9183,24 +9175,8 @@ miniatura</translation>
         <translation>Filtro personalizado</translation>
     </message>
     <message>
-        <source>Format colors</source>
-        <translation>Formato de colores</translation>
-    </message>
-    <message>
-        <source>Default color</source>
-        <translation>Color predeterminado</translation>
-    </message>
-    <message>
         <source>Only fixed disks</source>
         <translation>Solo discos fijos</translation>
-    </message>
-    <message>
-        <source>or choose a format:</source>
-        <translation>o elegir formato:</translation>
-    </message>
-    <message>
-        <source>Use color based on file format</source>
-        <translation>Utilizar color en función del formato del archivo</translation>
     </message>
     <message>
         <source>Link companion files for the following actions</source>
@@ -10544,6 +10520,34 @@ Do you want to reassign?</source>
     <message>
         <source>Companion</source>
         <translation type="unfinished">Complementario</translation>
+    </message>
+    <message>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">Utilizar color según el formato de archivo</translation>
+    </message>
+    <message>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">Introducir extensión:</translation>
+    </message>
+    <message>
+        <source>or choose a format:</source>
+        <translation type="unfinished">o elegir formato:</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished">Nuevo</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Eliminar</translation>
+    </message>
+    <message>
+        <source>Default color</source>
+        <translation type="unfinished">Color predeterminado</translation>
     </message>
 </context>
 <context>

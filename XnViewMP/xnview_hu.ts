@@ -782,8 +782,8 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
 <context>
     <name>CategoryManager</name>
     <message>
-        <location filename="CategoryManager.cpp" line="229"/>
-        <location filename="CategoryManager.cpp" line="411"/>
+        <location filename="CategoryManager.cpp" line="203"/>
+        <location filename="CategoryManager.cpp" line="385"/>
         <source>Categories</source>
         <translation>Kategóriák</translation>
     </message>
@@ -1869,6 +1869,11 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="MyDB.cpp" line="2875"/>
         <source>Other</source>
         <translation>Egyéb</translation>
+    </message>
+    <message>
+        <location filename="CategoryManager.cpp" line="171"/>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -11642,17 +11647,17 @@ miniatűrként</translation>
         <translation>Beleszámít</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Master extension</source>
         <translation>Mester bővítmény</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Companion</source>
         <translation>Kísérő</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="647"/>
+        <location filename="DlgSettingsFilelist.cpp" line="450"/>
         <source>Delete...</source>
         <translation>Törlés...</translation>
     </message>
@@ -11784,41 +11789,6 @@ miniatűrként</translation>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
         <translation>Szűrő › Egyéni menüpont használata</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="278"/>
-        <source>Format colors</source>
-        <translation>Fájlformátum színe</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="284"/>
-        <source>Use color based on file format</source>
-        <translation>Színek használata a fájlformátumhoz</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="297"/>
-        <source>Enter an extension:</source>
-        <translation>Kiterjesztés megadása:</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="307"/>
-        <source>or choose a format:</source>
-        <translation>vagy válasszon formátumot:</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="353"/>
-        <source>New</source>
-        <translation>Új</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="363"/>
-        <source>Remove</source>
-        <translation>Eltávolít</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="387"/>
-        <source>Default color</source>
-        <translation>Alapszín</translation>
     </message>
 </context>
 <context>
@@ -13452,6 +13422,41 @@ Szeretné újratársítani?</translation>
         <translation>Szöveg</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1167"/>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1173"/>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">Színek használata a fájlformátum alapján</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1186"/>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">Kiterjesztés megadása:</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1196"/>
+        <source>or choose a format:</source>
+        <translation type="unfinished">vagy válasszon formátumot:</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1242"/>
+        <source>New</source>
+        <translation type="unfinished">Új</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1252"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1276"/>
+        <source>Default color</source>
+        <translation type="unfinished">Alapszín</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
         <translation>4 miniatűr mutatása a videó miniatűrökből (mint az elsőnél)</translation>
@@ -14998,7 +15003,7 @@ Biztos folytassuk?</translation>
         <translation>Mind töröl</translation>
     </message>
     <message>
-        <location filename="DlgTransfer.cpp" line="203"/>
+        <location filename="DlgTransfer.cpp" line="228"/>
         <source>Apply</source>
         <translation>Alkalmaz</translation>
     </message>
@@ -23760,7 +23765,7 @@ Megőrizzük a miniatűröket?
         <translation>El akarja menteni a munkamenetet?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3115"/>
+        <location filename="xnview.cpp" line="3117"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>

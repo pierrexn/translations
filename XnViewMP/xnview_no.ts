@@ -782,8 +782,8 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
 <context>
     <name>CategoryManager</name>
     <message>
-        <location filename="CategoryManager.cpp" line="229"/>
-        <location filename="CategoryManager.cpp" line="411"/>
+        <location filename="CategoryManager.cpp" line="203"/>
+        <location filename="CategoryManager.cpp" line="385"/>
         <source>Categories</source>
         <translation>Kategorier</translation>
     </message>
@@ -1868,6 +1868,11 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
         <location filename="MyDB.cpp" line="2875"/>
         <source>Other</source>
         <translation>Annet</translation>
+    </message>
+    <message>
+        <location filename="CategoryManager.cpp" line="171"/>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -11624,17 +11629,17 @@ Miniatyrbilde</translation>
         <translation>Inkluder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Master extension</source>
         <translation>Hovedformat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Companion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="647"/>
+        <location filename="DlgSettingsFilelist.cpp" line="450"/>
         <source>Delete...</source>
         <translation type="unfinished">Slett...</translation>
     </message>
@@ -11766,41 +11771,6 @@ Miniatyrbilde</translation>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
         <translation>Brukt av Filter › Tilpasset</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="278"/>
-        <source>Format colors</source>
-        <translation>Formatfarger</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="284"/>
-        <source>Use color based on file format</source>
-        <translation type="unfinished">Bruk farger basert på filformatet</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="297"/>
-        <source>Enter an extension:</source>
-        <translation>Skriv inn et filformat:</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="307"/>
-        <source>or choose a format:</source>
-        <translation>eller velg et format:</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="353"/>
-        <source>New</source>
-        <translation type="unfinished">Legg til</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="363"/>
-        <source>Remove</source>
-        <translation>Fjern</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="387"/>
-        <source>Default color</source>
-        <translation>Standardfarge</translation>
     </message>
 </context>
 <context>
@@ -13437,6 +13407,41 @@ Do you want to reassign?</source>
         <translation type="unfinished">Tekst</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1167"/>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1173"/>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">Bruk farge basert på filformatet</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1186"/>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">Skriv inn et filformat:</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1196"/>
+        <source>or choose a format:</source>
+        <translation type="unfinished">eller velg et format:</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1242"/>
+        <source>New</source>
+        <translation type="unfinished">Legg til</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1252"/>
+        <source>Remove</source>
+        <translation type="unfinished">Fjern</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1276"/>
+        <source>Default color</source>
+        <translation type="unfinished">Standardfarge</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
         <translation>Vis 4 småbilder i videoens småbilde (i stedet for 1)</translation>
@@ -14983,7 +14988,7 @@ Vil du fortsette?</translation>
         <translation>Tøm alle</translation>
     </message>
     <message>
-        <location filename="DlgTransfer.cpp" line="203"/>
+        <location filename="DlgTransfer.cpp" line="228"/>
         <source>Apply</source>
         <translation>Bruk</translation>
     </message>
@@ -23756,7 +23761,7 @@ Vil du beholde småbildene?
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3115"/>
+        <location filename="xnview.cpp" line="3117"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>

@@ -781,8 +781,8 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategoryManager</name>
     <message>
-        <location filename="CategoryManager.cpp" line="229"/>
-        <location filename="CategoryManager.cpp" line="411"/>
+        <location filename="CategoryManager.cpp" line="203"/>
+        <location filename="CategoryManager.cpp" line="385"/>
         <source>Categories</source>
         <translation>Kategorien</translation>
     </message>
@@ -1867,6 +1867,11 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="MyDB.cpp" line="2875"/>
         <source>Other</source>
         <translation>Anderes</translation>
+    </message>
+    <message>
+        <location filename="CategoryManager.cpp" line="171"/>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -11647,17 +11652,17 @@ Miniaturbild</translation>
         <translation>Benutzerdefiniert: Einschließen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Master extension</source>
         <translation>Dateierweiterung der Hauptdatei</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Companion</source>
         <translation>Begleitdatei</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="647"/>
+        <location filename="DlgSettingsFilelist.cpp" line="450"/>
         <source>Delete...</source>
         <translation>Löschen...</translation>
     </message>
@@ -11789,41 +11794,6 @@ Miniaturbild</translation>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
         <translation>Verfügbar über Menüpunkt &quot;Filter › Benutzerdefiniert&quot;</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="278"/>
-        <source>Format colors</source>
-        <translation>Farben für Formate</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="284"/>
-        <source>Use color based on file format</source>
-        <translation>Farben abhängig vom Dateiformat verwenden</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="297"/>
-        <source>Enter an extension:</source>
-        <translation>Dateierweiterung eingeben:</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="307"/>
-        <source>or choose a format:</source>
-        <translation>oder Format:</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="353"/>
-        <source>New</source>
-        <translation>Neu</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="363"/>
-        <source>Remove</source>
-        <translation>Entfernen</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="387"/>
-        <source>Default color</source>
-        <translation>Standardfarbe</translation>
     </message>
 </context>
 <context>
@@ -13536,6 +13506,41 @@ Möchten Sie neu zuweisen?</translation>
         <translation>Links</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1167"/>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1173"/>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">Farben abhängig vom Dateiformat verwenden</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1186"/>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">Dateierweiterung eingeben:</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1196"/>
+        <source>or choose a format:</source>
+        <translation type="unfinished">oder Format:</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1242"/>
+        <source>New</source>
+        <translation type="unfinished">Neu</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1252"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1276"/>
+        <source>Default color</source>
+        <translation type="unfinished">Standardfarbe</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="481"/>
         <location filename="DlgSettingsThumbnail.ui" line="524"/>
         <source>Center</source>
@@ -15005,7 +15010,7 @@ Wollen Sie fortfahren?</translation>
         <translation>Alle löschen</translation>
     </message>
     <message>
-        <location filename="DlgTransfer.cpp" line="203"/>
+        <location filename="DlgTransfer.cpp" line="228"/>
         <source>Apply</source>
         <translation>Anwenden</translation>
     </message>
@@ -23789,7 +23794,7 @@ Wollen Sie die Miniaturbilder beibehalten?
         <translation>Nicht mehr fragen</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3115"/>
+        <location filename="xnview.cpp" line="3117"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <translation>Bewertung/Kennzeichnung/Farbkennzeichnung können nicht gespeichert werden, wenn Katalog oder Metadatenexport deaktiviert sind!</translation>

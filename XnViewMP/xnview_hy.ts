@@ -1504,6 +1504,10 @@ Drag and Drop over the desired node to assign.</translation>
         <source>Pictures</source>
         <translation>Նկարներ</translation>
     </message>
+    <message>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DBFilterModel</name>
@@ -9130,10 +9134,6 @@ Thumbnail</source>
         <translation>Ֆայլի/պանակի խմբավորում</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation>Ջնջել</translation>
-    </message>
-    <message>
         <source>Show companion files</source>
         <translation>Ցուցադրել համադրվող ֆայլերը</translation>
     </message>
@@ -9144,30 +9144,6 @@ Thumbnail</source>
     <message>
         <source>Custom filter</source>
         <translation>Հարմարեցված զտում</translation>
-    </message>
-    <message>
-        <source>Default color</source>
-        <translation>Գույնը ըստ ծրագրայինի</translation>
-    </message>
-    <message>
-        <source>Format colors</source>
-        <translation>Ձևաչափի գույներ</translation>
-    </message>
-    <message>
-        <source>Use color based on file format</source>
-        <translation>Օգտագործել գույներ՝ ըստ ձևաչափերի</translation>
-    </message>
-    <message>
-        <source>Enter an extension:</source>
-        <translation>Մուտքագրեք ընդլայնումը.</translation>
-    </message>
-    <message>
-        <source>or choose a format:</source>
-        <translation>կամ ընտրեք ձևաչափը.</translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation>Նոր</translation>
     </message>
     <message>
         <source>Companion files</source>
@@ -10543,6 +10519,34 @@ Do you want to reassign?</source>
     <message>
         <source>Companion</source>
         <translation type="unfinished">Ուղեկից</translation>
+    </message>
+    <message>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">Օգտագործել գույներ՝ ըստ ֆայլի ձևաչափի</translation>
+    </message>
+    <message>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">Մուտքագրեք ընդլայնումը.</translation>
+    </message>
+    <message>
+        <source>or choose a format:</source>
+        <translation type="unfinished">կամ ընտրեք ձևաչափը.</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished">Նոր</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Ջնջել</translation>
+    </message>
+    <message>
+        <source>Default color</source>
+        <translation type="unfinished">Գույնը ըստ ծրագրայինի</translation>
     </message>
 </context>
 <context>

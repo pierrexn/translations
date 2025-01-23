@@ -789,8 +789,8 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
 <context>
     <name>CategoryManager</name>
     <message>
-        <location filename="CategoryManager.cpp" line="229"/>
-        <location filename="CategoryManager.cpp" line="411"/>
+        <location filename="CategoryManager.cpp" line="203"/>
+        <location filename="CategoryManager.cpp" line="385"/>
         <source>Categories</source>
         <translation>Razredi</translation>
     </message>
@@ -1875,6 +1875,11 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="MyDB.cpp" line="2875"/>
         <source>Other</source>
         <translation>Drugo</translation>
+    </message>
+    <message>
+        <location filename="CategoryManager.cpp" line="171"/>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -11692,17 +11697,17 @@ sličico</translation>
         <translation>Vključi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Master extension</source>
         <translation>Glavna pripona</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="419"/>
+        <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Companion</source>
         <translation>Spremljevalec</translation>
     </message>
     <message>
-        <location filename="DlgSettingsFilelist.cpp" line="647"/>
+        <location filename="DlgSettingsFilelist.cpp" line="450"/>
         <source>Delete...</source>
         <translation>Izbriši...</translation>
     </message>
@@ -11834,41 +11839,6 @@ sličico</translation>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
         <translation>Uporabi z Filter › Po meri</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="278"/>
-        <source>Format colors</source>
-        <translation>Barva formatov</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="284"/>
-        <source>Use color based on file format</source>
-        <translation>Uporabi barvo, ki temelji na datotečnem formatu</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="297"/>
-        <source>Enter an extension:</source>
-        <translation>Vnesite pripono:</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="307"/>
-        <source>or choose a format:</source>
-        <translation>ali izberite format:</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="353"/>
-        <source>New</source>
-        <translation>Novo</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="387"/>
-        <source>Default color</source>
-        <translation>Privzeta barva</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsFilelist.ui" line="363"/>
-        <source>Remove</source>
-        <translation>Odstrani</translation>
     </message>
 </context>
 <context>
@@ -13551,6 +13521,41 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Levo</translation>
     </message>
     <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1167"/>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1173"/>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">Uporabi barvo, ki temelji na datotečnem formatu</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1186"/>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">Vnesite pripono:</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1196"/>
+        <source>or choose a format:</source>
+        <translation type="unfinished">ali izberite format:</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1242"/>
+        <source>New</source>
+        <translation type="unfinished">Novo</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1252"/>
+        <source>Remove</source>
+        <translation type="unfinished">Odstrani</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1276"/>
+        <source>Default color</source>
+        <translation type="unfinished">Privzeta barva</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsThumbnail.ui" line="481"/>
         <location filename="DlgSettingsThumbnail.ui" line="524"/>
         <source>Center</source>
@@ -15050,7 +15055,7 @@ Do you want to continue?</source>
         <translation>Počisti vse</translation>
     </message>
     <message>
-        <location filename="DlgTransfer.cpp" line="203"/>
+        <location filename="DlgTransfer.cpp" line="228"/>
         <source>Apply</source>
         <translation>Uporabi</translation>
     </message>
@@ -23831,7 +23836,7 @@ Do you want to keep the thumbnails?
         <translation>Ali želite shraniti sejo?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3115"/>
+        <location filename="xnview.cpp" line="3117"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>

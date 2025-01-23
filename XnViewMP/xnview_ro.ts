@@ -1506,6 +1506,10 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
         <source>Pictures</source>
         <translation>Poze</translation>
     </message>
+    <message>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DBFilterModel</name>
@@ -9134,10 +9138,6 @@ Miniatură</translation>
 <context>
     <name>DlgSettingsFilelistClass</name>
     <message>
-        <source>New</source>
-        <translation>Nou</translation>
-    </message>
-    <message>
         <source>Never</source>
         <translation>Niciodată</translation>
     </message>
@@ -9174,14 +9174,6 @@ Miniatură</translation>
         <translation>Sortare mixtă fișier/dosar</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation>Elimina</translation>
-    </message>
-    <message>
-        <source>Enter an extension:</source>
-        <translation>Introduceți o extensie:</translation>
-    </message>
-    <message>
         <source>Scan file headers</source>
         <translation>Scanați antetele fișierelor</translation>
     </message>
@@ -9198,24 +9190,8 @@ Miniatură</translation>
         <translation>Filtru customizat</translation>
     </message>
     <message>
-        <source>Format colors</source>
-        <translation>Formatați culorile</translation>
-    </message>
-    <message>
-        <source>Default color</source>
-        <translation>Culoare implicită</translation>
-    </message>
-    <message>
         <source>Only fixed disks</source>
         <translation>Doar discuri fixe</translation>
-    </message>
-    <message>
-        <source>or choose a format:</source>
-        <translation>sau alegeți un format:</translation>
-    </message>
-    <message>
-        <source>Use color based on file format</source>
-        <translation>Utilizați culoarea în funcție de formatul fișierului</translation>
     </message>
     <message>
         <source>Sorting</source>
@@ -10559,6 +10535,34 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Text</source>
         <translation>Text</translation>
+    </message>
+    <message>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">Utilizați culoarea în funcție de formatul fișierului</translation>
+    </message>
+    <message>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">Introduceți o extensie:</translation>
+    </message>
+    <message>
+        <source>or choose a format:</source>
+        <translation type="unfinished">sau alegeți un format:</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished">Nou</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Elimina</translation>
+    </message>
+    <message>
+        <source>Default color</source>
+        <translation type="unfinished">Culoare implicită</translation>
     </message>
 </context>
 <context>

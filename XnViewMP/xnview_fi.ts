@@ -1504,6 +1504,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>Pictures</source>
         <translation>Kuvat</translation>
     </message>
+    <message>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DBFilterModel</name>
@@ -9124,10 +9128,6 @@ esikatselukuvina</translation>
 <context>
     <name>DlgSettingsFilelistClass</name>
     <message>
-        <source>New</source>
-        <translation>Uusi</translation>
-    </message>
-    <message>
         <source>Never</source>
         <translation>Ei koskaan</translation>
     </message>
@@ -9164,14 +9164,6 @@ esikatselukuvina</translation>
         <translation>Järjestä tiedostot/kansiot</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation>Poista</translation>
-    </message>
-    <message>
-        <source>Enter an extension:</source>
-        <translation>Anna tiedostopääte:</translation>
-    </message>
-    <message>
         <source>Scan file headers</source>
         <translation>Skannaa tiedostojen otsikot</translation>
     </message>
@@ -9188,24 +9180,8 @@ esikatselukuvina</translation>
         <translation>Mukautetut suotimet</translation>
     </message>
     <message>
-        <source>Format colors</source>
-        <translation>Formaattivärit</translation>
-    </message>
-    <message>
-        <source>Default color</source>
-        <translation>Oletusväri</translation>
-    </message>
-    <message>
         <source>Only fixed disks</source>
         <translation>Vain kiinteät levyt</translation>
-    </message>
-    <message>
-        <source>or choose a format:</source>
-        <translation>tai valitse formaatti:</translation>
-    </message>
-    <message>
-        <source>Use color based on file format</source>
-        <translation>Käytettävä väri perustuu tiedostomuotoon</translation>
     </message>
     <message>
         <source>Link companion files for the following actions</source>
@@ -10550,6 +10526,34 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Companion</source>
         <translation type="unfinished">Oheistiedosto</translation>
+    </message>
+    <message>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">Käytettävä väri perustuu tiedostomuotoon</translation>
+    </message>
+    <message>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">Anna tiedostopääte:</translation>
+    </message>
+    <message>
+        <source>or choose a format:</source>
+        <translation type="unfinished">tai valitse formaatti:</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished">Uusi</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Poista</translation>
+    </message>
+    <message>
+        <source>Default color</source>
+        <translation type="unfinished">Oletusväri</translation>
     </message>
 </context>
 <context>

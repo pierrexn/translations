@@ -1496,6 +1496,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>Audios</source>
         <translation>Áudios</translation>
     </message>
+    <message>
+        <source>Orphaned</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DBFilterModel</name>
@@ -9085,14 +9089,6 @@ Thumbnail</source>
         <translation>Mostrar arquivos semelhantes</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation>Remover</translation>
-    </message>
-    <message>
-        <source>Default color</source>
-        <translation>Cor padrão</translation>
-    </message>
-    <message>
         <source>Custom filter</source>
         <translation>Filtro personalizado</translation>
     </message>
@@ -9103,26 +9099,6 @@ Thumbnail</source>
     <message>
         <source>New files are added at the end of the list</source>
         <translation>Arquivos novos são adicionados no final da lista</translation>
-    </message>
-    <message>
-        <source>Format colors</source>
-        <translation>Formatos de cores</translation>
-    </message>
-    <message>
-        <source>Use color based on file format</source>
-        <translation>Use cores baseadas em arquivo de formatos</translation>
-    </message>
-    <message>
-        <source>Enter an extension:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>or choose a format:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Companion files</source>
@@ -10495,6 +10471,34 @@ Do you want to reassign?</source>
     <message>
         <source>Companion</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Label colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use color based on file format</source>
+        <translation type="unfinished">Use cores baseadas em arquivo de formatos</translation>
+    </message>
+    <message>
+        <source>Enter an extension:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>or choose a format:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Remover</translation>
+    </message>
+    <message>
+        <source>Default color</source>
+        <translation type="unfinished">Cor padrão</translation>
     </message>
 </context>
 <context>
