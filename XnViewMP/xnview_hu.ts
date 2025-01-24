@@ -1873,7 +1873,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elárvult</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -13429,32 +13429,32 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Színek használata a fájlformátum alapján</translation>
+        <translation>Színek használata a fájlformátum alapján</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Kiterjesztés megadása:</translation>
+        <translation>Kiterjesztés megadása:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">vagy válasszon formátumot:</translation>
+        <translation>vagy formátum választása:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">Új</translation>
+        <translation>Új</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">Alapszín</translation>
+        <translation>Alapszín</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
