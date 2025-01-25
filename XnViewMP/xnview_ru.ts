@@ -1893,7 +1893,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Осиротевшие</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -4780,7 +4780,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1784"/>
         <source>Use color based on file format</source>
-        <translation>Использовать цвет для подсветки формата файла</translation>
+        <translation>Использовать цвет в зависимости от формата файла</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1249"/>
@@ -13468,7 +13468,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Sharpen thumbnail</source>
-        <translation>Увеличенная резкость эскиза</translation>
+        <translation>Использовать усиление резкости</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13525,37 +13525,37 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвета подписей</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Использовать цвет для подсветки формата файла</translation>
+        <translation>Использовать цвет в зависимости от формата файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Введите расширение:</translation>
+        <translation>Введите расширение:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">или выберите формат:</translation>
+        <translation>или выберите формат:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">Цвет по умолчанию</translation>
+        <translation>Цвет по умолчанию</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
@@ -13730,7 +13730,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser - Thumbnail</source>
-        <translation>Обозреватель - Эскиз</translation>
+        <translation>Обозреватель › Вид › Эскизы + Подписи</translation>
     </message>
 </context>
 <context>
@@ -13835,7 +13835,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
         <source>Use sharpen</source>
-        <translation>Усиление резкости</translation>
+        <translation>Использовать усиление резкости</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="493"/>
