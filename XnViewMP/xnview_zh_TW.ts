@@ -12979,8 +12979,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="943"/>
-        <source>Browser - Thumbnail</source>
-        <translation>瀏覽 - 縮圖</translation>
+        <source>Browser - Filelist</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">瀏覽 - 縮圖</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13319,8 +13320,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
-        <source>Create high quality thumbnail</source>
-        <translation>建立高品質縮圖</translation>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <oldsource>Create high quality thumbnail</oldsource>
+        <translation type="unfinished">建立高品質縮圖</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13340,8 +13342,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
-        <source>Sharpen thumbnail</source>
-        <translation>銳化縮圖</translation>
+        <source>Use sharpen</source>
+        <oldsource>Sharpen thumbnail</oldsource>
+        <translation type="unfinished">銳化縮圖</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13599,8 +13602,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
-        <source>Browser - Thumbnail</source>
-        <translation>瀏覽 - 縮圖</translation>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">瀏覽 - 縮圖</translation>
     </message>
 </context>
 <context>
@@ -21884,12 +21888,12 @@ Do you want to continue?</oldsource>
         <translation>主</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1628"/>
+        <location filename="MyDirModel.cpp" line="1629"/>
         <source>Folders</source>
         <translation>資料夾</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1929"/>
+        <location filename="MyDirModel.cpp" line="1930"/>
         <source>New Folder %1</source>
         <translation>新增資料夾 %1</translation>
     </message>

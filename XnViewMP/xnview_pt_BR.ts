@@ -9945,10 +9945,6 @@ Do you want to reassign?</source>
         <translation>Menu de contexto</translation>
     </message>
     <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Navegador - Miniatura</translation>
-    </message>
-    <message>
         <source>Browser - Preview</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10120,6 +10116,10 @@ Do you want to reassign?</source>
         <source>Zoom &amp; pan</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Browser - Filelist</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsKeywords</name>
@@ -10277,20 +10277,12 @@ Do you want to reassign?</source>
         <translation>Mostrar 4 miniaturas na miniatura da pasta (em lugar de 1)</translation>
     </message>
     <message>
-        <source>Create high quality thumbnail</source>
-        <translation>Criar miniatura de alta qualidade</translation>
-    </message>
-    <message>
         <source>Use embedded thumbnail</source>
         <translation>Usar miniatura embutida</translation>
     </message>
     <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
         <translation>Criar a partir da imagem original se a miniatura embutida for menor que o tamanho de miniatura estabelecido</translation>
-    </message>
-    <message>
-        <source>Sharpen thumbnail</source>
-        <translation>Miniatura nítida</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -10441,10 +10433,6 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Navegador - Miniatura</translation>
-    </message>
-    <message>
         <source>Color</source>
         <translation type="unfinished">Cor</translation>
     </message>
@@ -10499,6 +10487,18 @@ Do you want to reassign?</source>
     <message>
         <source>Default color</source>
         <translation type="unfinished">Cor padrão</translation>
+    </message>
+    <message>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use sharpen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

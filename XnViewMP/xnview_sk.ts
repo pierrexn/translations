@@ -13039,8 +13039,9 @@ Chcete ho priradiť znova?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="943"/>
-        <source>Browser - Thumbnail</source>
-        <translation>Prehliadač – miniatúra</translation>
+        <source>Browser - Filelist</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">Prehliadač – miniatúra</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13379,8 +13380,9 @@ Chcete ho priradiť znova?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
-        <source>Create high quality thumbnail</source>
-        <translation>Vytvárať miniatúry vo vysokej kvalite</translation>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <oldsource>Create high quality thumbnail</oldsource>
+        <translation type="unfinished">Vytvárať miniatúry vo vysokej kvalite</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13400,8 +13402,9 @@ Chcete ho priradiť znova?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
-        <source>Sharpen thumbnail</source>
-        <translation>Zaostrovať miniatúru</translation>
+        <source>Use sharpen</source>
+        <oldsource>Sharpen thumbnail</oldsource>
+        <translation type="unfinished">Zaostrovať miniatúru</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13659,8 +13662,9 @@ Chcete ho priradiť znova?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
-        <source>Browser - Thumbnail</source>
-        <translation>Prehliadač – Miniatúra</translation>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">Prehliadač – Miniatúra</translation>
     </message>
 </context>
 <context>
@@ -21947,12 +21951,12 @@ Chcete pokračovať?</translation>
         <translation>Domov</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1628"/>
+        <location filename="MyDirModel.cpp" line="1629"/>
         <source>Folders</source>
         <translation>Priečinky</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1929"/>
+        <location filename="MyDirModel.cpp" line="1930"/>
         <source>New Folder %1</source>
         <translation>Nový priečinok %1</translation>
     </message>

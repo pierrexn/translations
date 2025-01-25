@@ -12868,8 +12868,9 @@ Möchten Sie neu zuweisen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="943"/>
-        <source>Browser - Thumbnail</source>
-        <translation>Bildverwaltung - Miniaturbild</translation>
+        <source>Browser - Filelist</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">Bildverwaltung - Miniaturbild</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13353,8 +13354,9 @@ Möchten Sie neu zuweisen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
-        <source>Create high quality thumbnail</source>
-        <translation>Hohe Darstellungsqualität</translation>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <oldsource>Create high quality thumbnail</oldsource>
+        <translation type="unfinished">Hohe Darstellungsqualität</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13374,8 +13376,9 @@ Möchten Sie neu zuweisen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
-        <source>Sharpen thumbnail</source>
-        <translation>Miniaturbild schärfen</translation>
+        <source>Use sharpen</source>
+        <oldsource>Sharpen thumbnail</oldsource>
+        <translation type="unfinished">Miniaturbild schärfen</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13633,8 +13636,9 @@ Möchten Sie neu zuweisen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
-        <source>Browser - Thumbnail</source>
-        <translation>Bildverwaltung - Miniaturbild</translation>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">Bildverwaltung - Miniaturbild</translation>
     </message>
 </context>
 <context>
@@ -21921,12 +21925,12 @@ Möchten Sie fortfahren?</translation>
         <translation>Arbeitsplatz</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1628"/>
+        <location filename="MyDirModel.cpp" line="1629"/>
         <source>Folders</source>
         <translation>Ordner</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1929"/>
+        <location filename="MyDirModel.cpp" line="1930"/>
         <source>New Folder %1</source>
         <translation>Neuer Ordner %1</translation>
     </message>

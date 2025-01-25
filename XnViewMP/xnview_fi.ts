@@ -9911,10 +9911,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>pikseliä</translation>
     </message>
     <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Kuvaselain - Pikkukuvat</translation>
-    </message>
-    <message>
         <source>Max width:</source>
         <translation>Maksim. leveys:</translation>
     </message>
@@ -10173,6 +10169,10 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Zoom &amp; pan</source>
         <translation>Zoomaa ja panoroi</translation>
+    </message>
+    <message>
+        <source>Browser - Filelist</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10472,10 +10472,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Kategoria</translation>
     </message>
     <message>
-        <source>Create high quality thumbnail</source>
-        <translation>Luo korkealaatuiset esikatselukuvat</translation>
-    </message>
-    <message>
         <source>Overlay icons</source>
         <translation>Kuvakkeet (overlay)</translation>
     </message>
@@ -10484,20 +10480,12 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Väriprofiili</translation>
     </message>
     <message>
-        <source>Sharpen thumbnail</source>
-        <translation>Terävöitä esikatselukuvat</translation>
-    </message>
-    <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
         <translation>Luo alkuperäisestä kuvasta jos upotettu- on pienempi kuin esikatselukuva</translation>
     </message>
     <message>
         <source>Shortcut</source>
         <translation>Pikakuvake</translation>
-    </message>
-    <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Kuvaselain - Pikkukuvat</translation>
     </message>
     <message>
         <source>Color</source>
@@ -10554,6 +10542,18 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Default color</source>
         <translation type="unfinished">Oletusväri</translation>
+    </message>
+    <message>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use sharpen</source>
+        <translation type="unfinished">Käytä terävöitystä</translation>
+    </message>
+    <message>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

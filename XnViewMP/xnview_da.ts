@@ -13078,8 +13078,9 @@ Vil du tilknytte igen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="943"/>
-        <source>Browser - Thumbnail</source>
-        <translation>Browser-miniature</translation>
+        <source>Browser - Filelist</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">Browser-miniature</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13419,8 +13420,9 @@ Vil du tilknytte igen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
-        <source>Create high quality thumbnail</source>
-        <translation>Opret højkvalitets miniature</translation>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <oldsource>Create high quality thumbnail</oldsource>
+        <translation type="unfinished">Opret højkvalitets miniature</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13435,8 +13437,9 @@ Vil du tilknytte igen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
-        <source>Sharpen thumbnail</source>
-        <translation>Gør miniaturer skarpere</translation>
+        <source>Use sharpen</source>
+        <oldsource>Sharpen thumbnail</oldsource>
+        <translation type="unfinished">Gør miniaturer skarpere</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13703,8 +13706,9 @@ Vil du tilknytte igen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
-        <source>Browser - Thumbnail</source>
-        <translation>Browser-miniature</translation>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">Browser-miniature</translation>
     </message>
 </context>
 <context>
@@ -22039,12 +22043,12 @@ Vil du fortsætte?</translation>
         <translation>Hjem</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1628"/>
+        <location filename="MyDirModel.cpp" line="1629"/>
         <source>Folders</source>
         <translation>Mapper</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1929"/>
+        <location filename="MyDirModel.cpp" line="1930"/>
         <source>New Folder %1</source>
         <translation>Ny mappe %1</translation>
     </message>

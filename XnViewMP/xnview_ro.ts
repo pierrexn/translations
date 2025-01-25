@@ -10085,10 +10085,6 @@ Dorești să-l reatribui?</translation>
         <translation>Meniul contextual</translation>
     </message>
     <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Navigator - Miniaturi</translation>
-    </message>
-    <message>
         <source>Browser - Preview</source>
         <translation>Navigator - Previzualizare</translation>
     </message>
@@ -10183,6 +10179,10 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Enter</source>
         <translation>Enter</translation>
+    </message>
+    <message>
+        <source>Browser - Filelist</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10481,20 +10481,12 @@ Dorești să-l reatribui?</translation>
         <translation>Are categorie</translation>
     </message>
     <message>
-        <source>Create high quality thumbnail</source>
-        <translation>Creați o miniatură de înaltă calitate</translation>
-    </message>
-    <message>
         <source>Overlay icons</source>
         <translation>Suprapunerea pictogramelor</translation>
     </message>
     <message>
         <source>Color profile</source>
         <translation>Profil de culoare</translation>
-    </message>
-    <message>
-        <source>Sharpen thumbnail</source>
-        <translation>Miniatură mai clară</translation>
     </message>
     <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
@@ -10523,10 +10515,6 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Companion</source>
         <translation>Însoțitor</translation>
-    </message>
-    <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Navigator - Miniaturi</translation>
     </message>
     <message>
         <source>Color</source>
@@ -10563,6 +10551,18 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Default color</source>
         <translation type="unfinished">Culoare implicită</translation>
+    </message>
+    <message>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use sharpen</source>
+        <translation type="unfinished">Utilizați ascuțire</translation>
+    </message>
+    <message>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

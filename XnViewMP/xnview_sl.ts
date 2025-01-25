@@ -13058,8 +13058,9 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="943"/>
-        <source>Browser - Thumbnail</source>
-        <translation>Brskalnik - Sličica</translation>
+        <source>Browser - Filelist</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">Brskalnik - Sličica</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13399,8 +13400,9 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
-        <source>Create high quality thumbnail</source>
-        <translation>Ustvari kakovostno sličico</translation>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <oldsource>Create high quality thumbnail</oldsource>
+        <translation type="unfinished">Ustvari kakovostno sličico</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13415,8 +13417,9 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
-        <source>Sharpen thumbnail</source>
-        <translation>Izostri sličico</translation>
+        <source>Use sharpen</source>
+        <oldsource>Sharpen thumbnail</oldsource>
+        <translation type="unfinished">Izostri sličico</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13679,8 +13682,9 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
-        <source>Browser - Thumbnail</source>
-        <translation>Brskalnik - Sličica</translation>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <oldsource>Browser - Thumbnail</oldsource>
+        <translation type="unfinished">Brskalnik - Sličica</translation>
     </message>
 </context>
 <context>
@@ -21968,12 +21972,12 @@ Do you want to continue?</oldsource>
         <translation>Domov</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1628"/>
+        <location filename="MyDirModel.cpp" line="1629"/>
         <source>Folders</source>
         <translation>Mape</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1929"/>
+        <location filename="MyDirModel.cpp" line="1930"/>
         <source>New Folder %1</source>
         <translation>Nova mapa %1</translation>
     </message>

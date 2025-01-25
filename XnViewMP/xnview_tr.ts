@@ -12978,7 +12978,8 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="943"/>
-        <source>Browser - Thumbnail</source>
+        <source>Browser - Filelist</source>
+        <oldsource>Browser - Thumbnail</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13318,8 +13319,9 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
-        <source>Create high quality thumbnail</source>
-        <translation>Yüksek kalitede küçük resim oluştur</translation>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <oldsource>Create high quality thumbnail</oldsource>
+        <translation type="unfinished">Yüksek kalitede küçük resim oluştur</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13333,8 +13335,9 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
-        <source>Sharpen thumbnail</source>
-        <translation>Küçük resimleri netleştir</translation>
+        <source>Use sharpen</source>
+        <oldsource>Sharpen thumbnail</oldsource>
+        <translation type="unfinished">Küçük resimleri netleştir</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13597,7 +13600,8 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
-        <source>Browser - Thumbnail</source>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <oldsource>Browser - Thumbnail</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -21879,12 +21883,12 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Anasayfa</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1628"/>
+        <location filename="MyDirModel.cpp" line="1629"/>
         <source>Folders</source>
         <translation>Klasörler</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1929"/>
+        <location filename="MyDirModel.cpp" line="1930"/>
         <source>New Folder %1</source>
         <translation>Yeni Klasör %1</translation>
     </message>

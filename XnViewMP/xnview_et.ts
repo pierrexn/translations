@@ -12838,7 +12838,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="943"/>
-        <source>Browser - Thumbnail</source>
+        <source>Browser - Filelist</source>
+        <oldsource>Browser - Thumbnail</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13328,8 +13329,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
-        <source>Create high quality thumbnail</source>
-        <translation>Loo kõrge kvaliteediga pisipildid</translation>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <oldsource>Create high quality thumbnail</oldsource>
+        <translation type="unfinished">Loo kõrge kvaliteediga pisipildid</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13349,8 +13351,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
-        <source>Sharpen thumbnail</source>
-        <translation>Tee pisipildid teravamaks</translation>
+        <source>Use sharpen</source>
+        <oldsource>Sharpen thumbnail</oldsource>
+        <translation type="unfinished">Tee pisipildid teravamaks</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13603,7 +13606,8 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
-        <source>Browser - Thumbnail</source>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <oldsource>Browser - Thumbnail</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13720,7 +13724,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
         <source>Use sharpen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tee pisipildid teravamaks</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="493"/>
@@ -21892,12 +21896,12 @@ Kas soovite jätkata?</translation>
         <translation>Kodu</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1628"/>
+        <location filename="MyDirModel.cpp" line="1629"/>
         <source>Folders</source>
         <translation>Kaustad</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1929"/>
+        <location filename="MyDirModel.cpp" line="1930"/>
         <source>New Folder %1</source>
         <translation>Uus kaust %1</translation>
     </message>

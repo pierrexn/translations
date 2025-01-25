@@ -9994,10 +9994,6 @@ Do you want to reassign?</source>
         <translation>Menú contextual</translation>
     </message>
     <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Navegador - Miniaturas</translation>
-    </message>
-    <message>
         <source>Browser - Preview</source>
         <translation>Navegador - Vista previa</translation>
     </message>
@@ -10167,6 +10163,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Zoom &amp; pan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser - Filelist</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10466,10 +10466,6 @@ Do you want to reassign?</source>
         <translation>Categoría</translation>
     </message>
     <message>
-        <source>Create high quality thumbnail</source>
-        <translation>Crear miniaturas de alta calidad</translation>
-    </message>
-    <message>
         <source>Overlay icons</source>
         <translation>Iconos superpuestos</translation>
     </message>
@@ -10478,20 +10474,12 @@ Do you want to reassign?</source>
         <translation>Perfil de color</translation>
     </message>
     <message>
-        <source>Sharpen thumbnail</source>
-        <translation>Perfilar miniatura (mejorar nitidez)</translation>
-    </message>
-    <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
         <translation>Crear desde la imagen original si la miniatura incrustada es menor que el tamaño de la miniatura</translation>
     </message>
     <message>
         <source>Shortcut</source>
         <translation>Atajo de teclado</translation>
-    </message>
-    <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Navegador - Miniaturas</translation>
     </message>
     <message>
         <source>Color</source>
@@ -10548,6 +10536,18 @@ Do you want to reassign?</source>
     <message>
         <source>Default color</source>
         <translation type="unfinished">Color predeterminado</translation>
+    </message>
+    <message>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use sharpen</source>
+        <translation type="unfinished">Utilizar afilado</translation>
+    </message>
+    <message>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

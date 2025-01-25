@@ -9993,10 +9993,6 @@ Do you want to reassign?</source>
         <translation>Համատեքստային ցանկ</translation>
     </message>
     <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Զննիչ - Մանրապատկեր</translation>
-    </message>
-    <message>
         <source>Browser - Preview</source>
         <translation>Զննիչ - Նախադիտում</translation>
     </message>
@@ -10167,6 +10163,10 @@ Do you want to reassign?</source>
     <message>
         <source>Zoom &amp; pan</source>
         <translation>Չափափոխել և անցնել</translation>
+    </message>
+    <message>
+        <source>Browser - Filelist</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10433,20 +10433,12 @@ Do you want to reassign?</source>
         <translation>Մանրապատկեր</translation>
     </message>
     <message>
-        <source>Create high quality thumbnail</source>
-        <translation>Օգտագործել մանրապատկերի բարձր որակ</translation>
-    </message>
-    <message>
         <source>Overlay icons</source>
         <translation>Վերածածկի պատկերակը</translation>
     </message>
     <message>
         <source>Color profile</source>
         <translation>Գույնային սխեմա</translation>
-    </message>
-    <message>
-        <source>Sharpen thumbnail</source>
-        <translation>Հստակեցված մանրապատկեր</translation>
     </message>
     <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
@@ -10487,10 +10479,6 @@ Do you want to reassign?</source>
     <message>
         <source>Sidecar</source>
         <translation>Կողաֆայլ</translation>
-    </message>
-    <message>
-        <source>Browser - Thumbnail</source>
-        <translation>Զննիչ - Մանրապատկեր</translation>
     </message>
     <message>
         <source>Color</source>
@@ -10547,6 +10535,18 @@ Do you want to reassign?</source>
     <message>
         <source>Default color</source>
         <translation type="unfinished">Գույնը ըստ ծրագրայինի</translation>
+    </message>
+    <message>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use sharpen</source>
+        <translation type="unfinished">Օգտագործել հստակեցում</translation>
+    </message>
+    <message>
+        <source>Browser › View › View as › Thumbnails + Labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
