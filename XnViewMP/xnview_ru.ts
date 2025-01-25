@@ -12962,7 +12962,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Обозреватель - Эскиз</translation>
+        <translation>Обозреватель - Список файлов</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13449,7 +13449,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">Использовать высокое качество</translation>
+        <translation>Создавать высококачественные эскизы (bilinear фильтр)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13471,7 +13471,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">Использовать усиление резкости</translation>
+        <translation>Использовать усиление резкости</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13734,7 +13734,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Обозреватель › Вид › Эскизы + Подписи</translation>
+        <translation>Обозреватель › Вид › Вид › Эскизы + Подписи</translation>
     </message>
 </context>
 <context>
