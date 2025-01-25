@@ -13028,7 +13028,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Explorateur - Vignette</translation>
+        <translation>Explorateur - Liste fichiers</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13369,7 +13369,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">Créer des vignettes de très bonne qualité</translation>
+        <translation>Créer des vignettes de très bonne qualité</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13386,7 +13386,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">Augmenter les détails des vignettes</translation>
+        <translation>Augmenter les détails des vignettes</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13651,7 +13651,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Explorateur - Vignette</translation>
+        <translation>Explorer › Afficher › Afficher en › Vignettes + Libellés</translation>
     </message>
 </context>
 <context>
