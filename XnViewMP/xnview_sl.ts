@@ -1879,7 +1879,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Osirotel</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -13060,7 +13060,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Brskalnik - Sličica</translation>
+        <translation>Brskalnik – seznam datotek</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13402,7 +13402,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">Ustvari kakovostno sličico</translation>
+        <translation>Ustvari visokokakovostno sličico (bilinearni filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13419,7 +13419,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">Izostri sličico</translation>
+        <translation>Uporabi ostrenje</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13526,37 +13526,37 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Barve nalepk</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Uporabi barvo, ki temelji na datotečnem formatu</translation>
+        <translation>Uporabi barvo, ki temelji na datotečnem formatu</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Vnesite pripono:</translation>
+        <translation>Vnesite pripono:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">ali izberite format:</translation>
+        <translation>ali izberite format:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">Novo</translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished">Odstrani</translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">Privzeta barva</translation>
+        <translation>Privzeta barva</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="481"/>
@@ -13684,7 +13684,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Brskalnik - Sličica</translation>
+        <translation>Brskalnik › Pogled › Pogled kot › Sličice + oznake</translation>
     </message>
 </context>
 <context>
