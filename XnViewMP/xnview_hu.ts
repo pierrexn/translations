@@ -13009,7 +13009,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Böngésző - Miniatűr</translation>
+        <translation>Böngésző - Fájllista</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13350,7 +13350,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">Magas minőségű miniatűrök készítése</translation>
+        <translation>Magas minőségű miniatűrök készítése (bilineáris szűrő)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
