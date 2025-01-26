@@ -11043,7 +11043,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsInterface.h" line="17"/>
         <source>Interface</source>
-        <translation>Oberfläche</translation>
+        <translation>Benutzeroberfläche</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.h" line="13"/>
@@ -12541,7 +12541,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="36"/>
         <source>Interface</source>
-        <translation>Allgemein</translation>
+        <translation>Benutzeroberfläche</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="42"/>
