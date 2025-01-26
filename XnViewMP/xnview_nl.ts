@@ -2821,7 +2821,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DlgBatchResize.cpp" line="1379"/>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnResize wordt geleverd als freeware voor privé- of commercieel gebruik.&lt;br&gt;U krijgt het recht om deze software te gebruiken en een onbeperkt aantal exemplaren te maken.&lt;br&gt;&lt;br&gt;Deze software wordt geleverd &quot;as-is&quot;.&lt;br&gt;Geen enkele garantie wordt uitgedrukt of geïmpliceerd.&lt;br&gt;De auteur is niet aansprakelijk voor gegevensverlies, schade, winstderving of enig ander verlies tijdens het gebruik of misbruik van deze software.&lt;br&gt;&lt;br&gt;Eventuele suggesties, feedback en opmerkingen zijn welkom. </translation>
+        <translation>&lt;br&gt;XnResize wordt geleverd als freeware voor privé- of commercieel gebruik.&lt;br&gt;Je krijgt het recht om deze software te gebruiken en een onbeperkt aantal exemplaren te maken.&lt;br&gt;&lt;br&gt;Deze software wordt geleverd &quot;as-is&quot;.&lt;br&gt;Geen enkele garantie wordt uitgedrukt of geïmpliceerd.&lt;br&gt;De auteur is niet aansprakelijk voor gegevensverlies, schade, winstderving of enig ander verlies tijdens het gebruik of misbruik van deze software.&lt;br&gt;&lt;br&gt;Eventuele suggesties, feedback en opmerkingen zijn welkom. </translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1425"/>
@@ -3570,7 +3570,7 @@ Overschrijven?</translation>
         <location filename="DlgConvert.cpp" line="1159"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
-        <translation>&lt;br&gt;XnConvert wordt aangeboden als freeware voor privé (niet-commercieel) of educatief gebruik, inclusief non-profit organisatie. &lt;br&gt;Bedrijven moet licenties kopen om het te kunnen gebruiken.&lt;br&gt; &lt;br&gt;U krijgt het recht om deze software te gebruiken en een onbeperkt aantal kopieën te maken.&lt;br&gt; &lt;br&gt;Deze software wordt geleverd &quot;as-is&quot;.&lt;br&gt;Geen enkele garantie wordt uitgedrukt of geïmpliceerd.&lt;br&gt; De auteur is niet aansprakelijk voor gegevensverlies, schade, winstderving of enig ander verlies tijdens het gebruik of misbruik van deze software.&lt;br&gt; &lt;br&gt;Alle suggesties, feedback en opmerkingen zijn welkom. </translation>
+        <translation>&lt;br&gt;XnConvert wordt aangeboden als freeware voor privé (niet-commercieel) of educatief gebruik, inclusief non-profit organisatie. &lt;br&gt;Bedrijven moet licenties kopen om het te kunnen gebruiken.&lt;br&gt; &lt;br&gt;Je krijgt het recht om deze software te gebruiken en een onbeperkt aantal kopieën te maken.&lt;br&gt; &lt;br&gt;Deze software wordt geleverd &quot;as-is&quot;.&lt;br&gt;Geen enkele garantie wordt uitgedrukt of geïmpliceerd.&lt;br&gt; De auteur is niet aansprakelijk voor gegevensverlies, schade, winstderving of enig ander verlies tijdens het gebruik of misbruik van deze software.&lt;br&gt; &lt;br&gt;Alle suggesties, feedback en opmerkingen zijn welkom. </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1309"/>
@@ -3965,9 +3965,9 @@ Wil je doorgaan?</translation>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation>U hebt de optie &apos;origineel bestand behouden als het resultaat groter is&apos; en enkele acties.
+        <translation>Je hebt de optie &apos;origineel bestand behouden als het resultaat groter is&apos; en enkele acties.
 
-Wilt u doorgaan?</translation>
+Doorgaan?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2941"/>
@@ -13026,7 +13026,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Verkenner - Miniatuur</translation>
+        <translation>Verkenner - Bestandenlijst</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13367,7 +13367,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">Hoge kwaliteit-miniatuur aanmaken</translation>
+        <translation>Hoge kwaliteit-miniatuur aanmaken (bilineair filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13388,7 +13388,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">Miniatuur verscherpen</translation>
+        <translation>Verscherpen gebruiken</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13648,7 +13648,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Verkenner - Miniatuur</translation>
+        <translation>Verkenner › Weergave › Weggeven als › Miniaturen + Labels</translation>
     </message>
 </context>
 <context>
@@ -22117,7 +22117,7 @@ You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
         <translation>De grootte van opgeslagen miniaturen is kleiner dan gekozen.
-U kunt dit wijzigen in Instellingen › Catalogus.</translation>
+Dit is te wijzigen in Instellingen › Catalogus.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="612"/>
