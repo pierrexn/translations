@@ -214,7 +214,7 @@
     <name>AbstractViewWindow</name>
     <message>
         <source>Save</source>
-        <translation>Salvați</translation>
+        <translation>Salvare</translation>
     </message>
     <message>
         <source>Icon %1/%2</source>
@@ -250,7 +250,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>Fișierul &lt;%1&gt; este doar pentru citire, alegeți alt nume de fișier.</translation>
+        <translation>Fișierul &lt;%1&gt; este doar pentru citire, alege alt nume pentru fișier.</translation>
     </message>
     <message>
         <source>&lt; Empty &gt;</source>
@@ -258,11 +258,11 @@
     </message>
     <message>
         <source>Save changed file</source>
-        <translation>Salvați fișierul modificat</translation>
+        <translation>Salvează fișierul modificat</translation>
     </message>
     <message>
         <source>Customize toolbar...</source>
-        <translation>Personalizați bara de instrumente...</translation>
+        <translation>Personalizează bara de instrumente...</translation>
     </message>
     <message>
         <source>Do you want to save changes to
@@ -340,11 +340,11 @@
     <name>AssignedSetPanel</name>
     <message>
         <source>Create Set from selection...</source>
-        <translation>Creați set din selecție...</translation>
+        <translation>Crează un set din selecția...</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Editați ...</translation>
+        <translation>Editare...</translation>
     </message>
 </context>
 <context>
@@ -380,7 +380,7 @@
     </message>
     <message>
         <source>Please visit the %1 for more information.</source>
-        <translation>Vă rugăm să vizitați %1 pentru mai multe informații.</translation>
+        <translation>Te rugăm să vizitezi %1 pentru mai multe informații.</translation>
     </message>
     <message>
         <source>&lt; Empty &gt;</source>
@@ -479,7 +479,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>The database is corrupted, please check it before to continue!</source>
-        <translation>Baza de date este coruptă, vă rugăm să o verificați înainte pentru a continua!</translation>
+        <translation>Baza de date este coruptă, te rugăm să o verifici înainte pentru a continua!</translation>
     </message>
     <message>
         <source>&lt;Search results&gt;</source>
@@ -491,15 +491,15 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Attach preview panel</source>
-        <translation>Atașați panoul de previzualizare</translation>
+        <translation>Atașează panoul de previzualizare</translation>
     </message>
     <message>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation>Faceți clic pentru a filtra - utilizați Shift și Control pentru mai multe selecții.
-Faceți clic dreapta pe diferite elemente pentru meniurile pop-up cu acțiuni.
-Trageți și plasați peste nodul dorit de alocat.</translation>
+        <translation>Fă clic pentru a filtra - utilizați Shift și Control pentru mai multe selecții.
+Fă clic dreapta pe diferite elemente pentru meniurile pop-up cu acțiuni.
+Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -527,7 +527,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Are you sure to delete this folder?</source>
-        <translation>Sunteți sigur că ștergeți acest dosar?</translation>
+        <translation>Ești sigur(ă) că ștergi acest dosar (folder)?</translation>
     </message>
     <message>
         <source>Current folder</source>
@@ -547,7 +547,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Delete folder</source>
-        <translation>Ștergeți dosarul</translation>
+        <translation>Șterge dosarul (folderul)</translation>
     </message>
     <message>
         <source>&lt;Tagged files&gt;</source>
@@ -670,7 +670,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Enter a name for this set</source>
-        <translation>Introduceți un nume pentru acest set</translation>
+        <translation>Introdu un nume pentru acest set</translation>
     </message>
     <message>
         <source>Save layout...</source>
@@ -698,7 +698,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Enter a name for this layout</source>
-        <translation>Introduceți un nume pentru acest aspect</translation>
+        <translation>Introdu un nume pentru acest aspect</translation>
     </message>
 </context>
 <context>
@@ -737,7 +737,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Delete category</source>
-        <translation>Ștergeți categoria</translation>
+        <translation>Șterge categoria</translation>
     </message>
     <message>
         <source>Empty album</source>
@@ -1508,7 +1508,7 @@ Trageți și plasați peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Orfan</translation>
     </message>
 </context>
 <context>
@@ -10182,7 +10182,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Browser - Filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigator - Listă de fișiere</translation>
     </message>
 </context>
 <context>
@@ -10526,43 +10526,43 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Culorile etichetelor</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Utilizați culoarea în funcție de formatul fișierului</translation>
+        <translation>Folosește culoarea în funcție de formatul fișierului</translation>
     </message>
     <message>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Introduceți o extensie:</translation>
+        <translation>Introduce o extensie:</translation>
     </message>
     <message>
         <source>or choose a format:</source>
-        <translation type="unfinished">sau alegeți un format:</translation>
+        <translation>sau alege un format:</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished">Nou</translation>
+        <translation>Nou</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Elimina</translation>
+        <translation>Eliminare</translation>
     </message>
     <message>
         <source>Default color</source>
-        <translation type="unfinished">Culoare implicită</translation>
+        <translation>Culoare implicită</translation>
     </message>
     <message>
         <source>Create high quality thumbnail (bilinear filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Crează o miniatură de înaltă calitate (filtru biliniar)</translation>
     </message>
     <message>
         <source>Use sharpen</source>
-        <translation type="unfinished">Utilizați ascuțire</translation>
+        <translation>Crește claritatea miniaturilor</translation>
     </message>
     <message>
         <source>Browser › View › View as › Thumbnails + Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigator › Vezi › Vezi ca › Miniaturi + Etichete</translation>
     </message>
 </context>
 <context>
