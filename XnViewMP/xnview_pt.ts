@@ -1885,12 +1885,12 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Órfão</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
         <source>Photographs</source>
-        <translation>Fotos</translation>
+        <translation>Fotografias</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="730"/>
@@ -13072,7 +13072,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Browser - Miniatura</translation>
+        <translation>Browser - Lista de ficheiros</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13413,7 +13413,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">Criar miniatura de alta qualidade</translation>
+        <translation>Criar miniatura de alta qualidade (filtro bilinear)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13435,7 +13435,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">Dar nitidez à miniatura</translation>
+        <translation>Melhorar nitidez</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13491,37 +13491,37 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Cores das etiquetas</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Cor baseada no formato do ficheiro</translation>
+        <translation>Usar cor baseada no formato do ficheiro</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Introduza uma extensão:</translation>
+        <translation>Introduza uma extensão:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">ou escolha um formato:</translation>
+        <translation>ou escolha um formato:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">Nova</translation>
+        <translation>Nova</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">Cor por defeito</translation>
+        <translation>Cor por defeito</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
@@ -13695,7 +13695,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Browser - Miniatura</translation>
+        <translation>Browser &gt; Ver &gt; Ver como &gt; Miniaturas + Etiquetas</translation>
     </message>
 </context>
 <context>
