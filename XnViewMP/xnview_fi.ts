@@ -1421,7 +1421,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumenna lisää</translation>
     </message>
 </context>
 <context>
@@ -1506,7 +1506,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Orvot</translation>
     </message>
 </context>
 <context>
@@ -3371,7 +3371,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Suurenna</translation>
     </message>
 </context>
 <context>
@@ -9657,11 +9657,11 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView kuvaesitystiedosto</translation>
     </message>
     <message>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kuvatiedosto</translation>
     </message>
 </context>
 <context>
@@ -10172,7 +10172,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Browser - Filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvaselain - Tiedostolista</translation>
     </message>
 </context>
 <context>
@@ -10501,59 +10501,59 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvan kohdistus</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished">Ylös</translation>
+        <translation>Ylös</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished">Alhaalla</translation>
+        <translation>Alhaalla</translation>
     </message>
     <message>
         <source>Companion</source>
-        <translation type="unfinished">Oheistiedosto</translation>
+        <translation>Oheistiedosto</translation>
     </message>
     <message>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietoikkunan värit</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Käytettävä väri perustuu tiedostomuotoon</translation>
+        <translation>Käytettävä väri perustuu tiedostomuotoon</translation>
     </message>
     <message>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Anna tiedostopääte:</translation>
+        <translation>Anna tiedostopääte:</translation>
     </message>
     <message>
         <source>or choose a format:</source>
-        <translation type="unfinished">tai valitse formaatti:</translation>
+        <translation>tai valitse formaatti:</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished">Uusi</translation>
+        <translation>Uusi</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Poista</translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <source>Default color</source>
-        <translation type="unfinished">Oletusväri</translation>
+        <translation>Oletusväri</translation>
     </message>
     <message>
         <source>Create high quality thumbnail (bilinear filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo korkealaatuinen esikatselukuva (bilineaarinen suodin)</translation>
     </message>
     <message>
         <source>Use sharpen</source>
-        <translation type="unfinished">Käytä terävöitystä</translation>
+        <translation>Käytä terävöitystä</translation>
     </message>
     <message>
         <source>Browser › View › View as › Thumbnails + Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvaselain › Näkymä › Näkymä nimellä › Esikatselukuvat + Tiedot</translation>
     </message>
 </context>
 <context>
@@ -11959,11 +11959,11 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Best</source>
-        <translation type="unfinished">Paras</translation>
+        <translation>Paras</translation>
     </message>
     <message>
         <source>Lossless compression</source>
-        <translation type="unfinished">Häviötön pakkaus</translation>
+        <translation>Häviötön pakkaus</translation>
     </message>
 </context>
 <context>
@@ -12000,11 +12000,11 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Best</source>
-        <translation type="unfinished">Paras</translation>
+        <translation>Paras</translation>
     </message>
     <message>
         <source>Lossless compression</source>
-        <translation type="unfinished">Häviötön pakkaus</translation>
+        <translation>Häviötön pakkaus</translation>
     </message>
 </context>
 <context>
@@ -12488,7 +12488,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Säilytä ja lisää uusi arvo (avainsanat)</translation>
     </message>
 </context>
 <context>
@@ -12651,15 +12651,15 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Remove filtered</source>
-        <translation type="unfinished">Poista suodatetut</translation>
+        <translation>Poista suodatetut</translation>
     </message>
     <message>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">Poista suodattamattomat</translation>
+        <translation>Poista suodattamattomat</translation>
     </message>
 </context>
 <context>
@@ -13143,11 +13143,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
 </context>
 <context>
@@ -15587,7 +15587,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Merkitsemättömät tiedostot</translation>
     </message>
 </context>
 <context>
