@@ -1876,7 +1876,7 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Osierocony</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -4201,7 +4201,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Powiększ</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -12376,12 +12376,12 @@ miniatury</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="503"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik pokazu slajdów XnView</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="510"/>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik obrazu %1</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="701"/>
@@ -12897,7 +12897,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Przeglądarka - Miniatura</translation>
+        <translation>Przeglądarka - Lista plików</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13383,7 +13383,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">Twórz miniatury wysokiej jakości</translation>
+        <translation>Twórz miniatury wysokiej jakości (filtr dwuliniowy)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13394,7 +13394,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">Wyostrzaj miniatury</translation>
+        <translation>Używaj wyostrzania</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="126"/>
@@ -13528,17 +13528,17 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Umiejscowienie obrazu</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="476"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>U góry</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>U dołu</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="511"/>
@@ -13558,7 +13558,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="883"/>
         <source>Companion</source>
-        <translation type="unfinished">Plik towarzyszący</translation>
+        <translation>Plik towarzyszący</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1054"/>
@@ -13573,37 +13573,37 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolory etykiet</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Używaj koloru w oparciu o format pliku</translation>
+        <translation>Używaj koloru w oparciu o format pliku</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Podaj rozszerzenie:</translation>
+        <translation>Podaj rozszerzenie:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">albo wybierz format:</translation>
+        <translation>albo wybierz format:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">Nowy</translation>
+        <translation>Nowy</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">Kolor domyślny</translation>
+        <translation>Kolor domyślny</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="777"/>
@@ -13664,7 +13664,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Przeglądarka - Miniatura</translation>
+        <translation>Przeglądarka &gt; Widok &gt; Wyświetl jako &gt; Miniatury i etykiety</translation>
     </message>
 </context>
 <context>
@@ -15458,12 +15458,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Najlepsza</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Kompresja bezstratna</translation>
+        <translation>Kompresja bezstratna</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="112"/>
@@ -15518,12 +15518,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DlgWriteHeic.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Najlepsza</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Kompresja bezstratna</translation>
+        <translation>Kompresja bezstratna</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="94"/>
@@ -16304,12 +16304,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="53"/>
         <source>Remove filtered</source>
-        <translation type="unfinished">Usuń pliki pasujące do filtra</translation>
+        <translation>Usuń pliki pasujące do filtra</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">Usuń pliki nie pasujące do filtra</translation>
+        <translation>Usuń pliki nie pasujące do filtra</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -16339,7 +16339,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="328"/>
@@ -17034,12 +17034,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2562"/>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2758"/>
@@ -19400,7 +19400,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieoznaczone pliki</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="315"/>
