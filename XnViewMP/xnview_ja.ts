@@ -1892,7 +1892,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>もっとぼかす</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -1937,7 +1937,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>孤立化</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -4247,7 +4247,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>拡大する</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -11271,7 +11271,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="295"/>
         <source>View as</source>
-        <translation>指定形式表示</translation>
+        <translation>表示形式</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="254"/>
@@ -11885,7 +11885,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation>指定形式表示</translation>
+        <translation>表示形式</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
@@ -12486,12 +12486,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="503"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>XnViewスライドファイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="510"/>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 画像ファイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="701"/>
@@ -13008,7 +13008,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">ブラウザ - サムネイル</translation>
+        <translation>ブラウザ - ファイルリスト</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13494,7 +13494,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">高品質サムネイルを作成</translation>
+        <translation>高画質サムネイル作成（バイリニアフィルター）</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13516,7 +13516,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">シャープなサムネイル</translation>
+        <translation>シャープ化を使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13624,17 +13624,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>画像の位置合わせ</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="476"/>
         <source>Top</source>
-        <translation type="unfinished">上</translation>
+        <translation>上</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>下</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="511"/>
@@ -13649,37 +13649,37 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>ラベルの色</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">ファイル形式に基づいた色を使用する</translation>
+        <translation>ファイル形式に基づいた色を使用する</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">拡張子を入力</translation>
+        <translation>拡張子を入力:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">または形式を選択</translation>
+        <translation>または形式を選択:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">新規</translation>
+        <translation>新規</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished">除去</translation>
+        <translation>除去</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">デフォルトの色</translation>
+        <translation>デフォルトの色</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="481"/>
@@ -13705,7 +13705,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="883"/>
         <source>Companion</source>
-        <translation type="unfinished">コンパニオン</translation>
+        <translation>コンパニオン</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1054"/>
@@ -13776,7 +13776,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">ブラウザ - サムネイル</translation>
+        <translation>ブラウザ › 表示 › 表示形式 › サムネイル+ラベル</translation>
     </message>
 </context>
 <context>
@@ -15571,12 +15571,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">最高</translation>
+        <translation>最高</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">ロスレス圧縮</translation>
+        <translation>ロスレス圧縮</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="112"/>
@@ -15631,12 +15631,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteHeic.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">最高</translation>
+        <translation>最高</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">ロスレス圧縮</translation>
+        <translation>ロスレス圧縮</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="94"/>
@@ -16162,7 +16162,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>新しい値（キーワード）を追加し保持する</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
@@ -16421,12 +16421,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.cpp" line="53"/>
         <source>Remove filtered</source>
-        <translation type="unfinished">フィルターされたものを除去</translation>
+        <translation>フィルターされたものを除去</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">フィルターされてないものを除去</translation>
+        <translation>フィルターされてないものを除去</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -16456,7 +16456,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="328"/>
@@ -17181,12 +17181,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2562"/>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2758"/>
@@ -19673,7 +19673,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>タグなしファイル</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="315"/>
@@ -20304,7 +20304,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="507"/>
         <source>View as</source>
         <translatorcomment>TXT_BrowseMenu_View_As</translatorcomment>
-        <translation>指定形式表示</translation>
+        <translation>表示形式</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
