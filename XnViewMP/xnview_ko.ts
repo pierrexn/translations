@@ -1824,7 +1824,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>더 흐리게</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -1869,7 +1869,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>지정되지 않음</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -4165,7 +4165,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>확대</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -6840,7 +6840,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">템플릿 불러오기...</translation>
+        <translation>템플릿 불러오기...</translation>
     </message>
 </context>
 <context>
@@ -7659,7 +7659,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-li 사용</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
@@ -7699,7 +7699,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">XYB 색 공간으로 변환</translation>
+        <translation>XYB 색 공간으로 변환</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -8341,7 +8341,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>좌표로 이동</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -8668,7 +8668,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>아무것도 하지 않음</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9287,7 +9287,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">프로그램 구성...</translation>
+        <translation>프로그램 구성</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -9297,7 +9297,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">경로</translation>
+        <translation>경로</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -10803,7 +10803,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">하위폴더를 통해 재귀</translation>
+        <translation>하위폴더 검색</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10885,13 +10885,13 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">카탈로그 사용</translation>
+        <translation>카탈로그만 검색하기</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">폴더 포함 (&amp;I)</translation>
+        <translation>폴더명 검색</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -12314,12 +12314,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="503"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView 슬라이드 파일</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="510"/>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 이미지 파일</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="701"/>
@@ -12853,7 +12853,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">확대 &amp; 이동</translation>
+        <translation>확대 &amp; 이동</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12913,7 +12913,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">사진 이동</translation>
+        <translation>사진 이동</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -12977,7 +12977,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">브라우저 - 썸네일</translation>
+        <translation>브라우저 - 파일 목록</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13006,7 +13006,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>이전/다음 프레임</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -13315,7 +13315,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">고품질 썸네일 만들기</translation>
+        <translation>고품질 썸네일 만들기 (바이리니어)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13331,7 +13331,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">썸네일 선명하게 만들기</translation>
+        <translation>선명화 사용</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13413,17 +13413,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 정렬</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="476"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>위</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>아래</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="511"/>
@@ -13438,37 +13438,37 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>라벨 색상</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">파일 형식에 따라 색상 사용하기</translation>
+        <translation>파일 형식에 따라 색상 사용하기</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">확장자 입력:</translation>
+        <translation>확장자 입력:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">또는 형식 선택:</translation>
+        <translation>또는 형식 선택:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">새로 만들기</translation>
+        <translation>새로 만들기</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished">제거</translation>
+        <translation>제거</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">기본 색상</translation>
+        <translation>기본 색상</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="481"/>
@@ -13484,7 +13484,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="883"/>
         <source>Companion</source>
-        <translation type="unfinished">컴패니언</translation>
+        <translation>컴패니언</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1054"/>
@@ -13596,7 +13596,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">브라우저 - 썸네일</translation>
+        <translation>브라우저 &gt; 보기 &gt; 다음과 같이 보기 &gt; 썸네일 + 라벨</translation>
     </message>
 </context>
 <context>
@@ -15386,12 +15386,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteAvif.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">최고</translation>
+        <translation>최고</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">무손실 압축</translation>
+        <translation>무손실 압축</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="112"/>
@@ -15446,12 +15446,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteHeic.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">최고</translation>
+        <translation>최고</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">무손실 압축</translation>
+        <translation>무손실 압축</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="94"/>
@@ -15871,192 +15871,192 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">설명</translation>
+        <translation>설명</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Rating</source>
-        <translation type="unfinished">등급</translation>
+        <translation>등급</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="144"/>
         <source>Copyright status</source>
-        <translation type="unfinished">저작권</translation>
+        <translation>저작권 상태</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="152"/>
         <source>Undefined</source>
-        <translation type="unfinished">지정되지 않음</translation>
+        <translation>지정되지 않음</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="157"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">저작권으로 보호됨</translation>
+        <translation>저작권으로 보호됨</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="162"/>
         <source>Public domain</source>
-        <translation type="unfinished">퍼블릭 도메인</translation>
+        <translation>퍼블릭 도메인</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="216"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">생성일: </translation>
+        <translation>생성일: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="230"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">수정일: </translation>
+        <translation>수정일: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="262"/>
         <source>Keywords</source>
-        <translation type="unfinished">키워드</translation>
+        <translation>키워드</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="268"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(|를 사용해서 키워드 계층 구분)</translation>
+        <translation>(|를 사용해서 키워드 계층 구분)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="295"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">부모 카테고리 적용</translation>
+        <translation>부모 카테고리 적용</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="303"/>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="341"/>
         <source>Date created</source>
-        <translation type="unfinished">생성일</translation>
+        <translation>생성일</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="433"/>
         <source>Urgency</source>
-        <translation type="unfinished">중요</translation>
+        <translation>중요</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="463"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">IPTC 연락처</translation>
+        <translation>IPTC 연락처</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="515"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">IPTC 확장</translation>
+        <translation>IPTC 확장</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="609"/>
         <source>Options</source>
-        <translation type="unfinished">옵션</translation>
+        <translation>옵션</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="630"/>
         <source>Mode:</source>
-        <translation type="unfinished">모드:</translation>
+        <translation>모드:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="638"/>
         <source>XMP only</source>
-        <translation type="unfinished">XMP만</translation>
+        <translation>XMP만</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP, 업데이트 또는 IPTC-IIM 생성</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">다중 선택</translation>
+        <translation>다중 선택</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>유지하고 새 값 추가 (키워드)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">새 값이 비어 있는 경우 원본 값을 유지하기</translation>
+        <translation>새 값이 비어 있는 경우 원본 값을 유지하기</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="695"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">원본 값이 비어 있는 경우에만 바꾸기</translation>
+        <translation>원본 값이 비어 있는 경우에만 바꾸기</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="705"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">열린 탭 기억하기</translation>
+        <translation>열린 탭 기억하기</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="68"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(; 또는 , 로 값을 구분)</translation>
+        <translation>(; 또는 , 로 값을 구분)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="121"/>
         <source>0: None</source>
-        <translation type="unfinished">0: 없음</translation>
+        <translation>0: 없음</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="121"/>
         <source>1: High</source>
-        <translation type="unfinished">1: 높음</translation>
+        <translation>1: 높음</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="122"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: 보통</translation>
+        <translation>5: 보통</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="122"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: 낮음</translation>
+        <translation>8: 낮음</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="302"/>
         <source>Required field</source>
-        <translation type="unfinished">필요한 필드</translation>
+        <translation>필요한 필드</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="302"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">필드의 내용이 필요합니다.</translation>
+        <translation>필드의 내용이 필요합니다. 입력해 주세요!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="444"/>
         <source>Insert</source>
-        <translation type="unfinished">넣기</translation>
+        <translation>넣기</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="456"/>
         <source>Insert from</source>
-        <translation type="unfinished">넣기 &lt;&lt;</translation>
+        <translation>넣기 &lt;&lt;</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="477"/>
         <source>Copy into</source>
-        <translation type="unfinished">복사 &gt;&gt;</translation>
+        <translation>복사 &gt;&gt;</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="501"/>
         <source>Library</source>
-        <translation type="unfinished">라이브러리</translation>
+        <translation>라이브러리</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="506"/>
         <source>Edit history...</source>
-        <translation type="unfinished">히스토리 편집...</translation>
+        <translation>히스토리 편집...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="507"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">알파벳순 정렬</translation>
+        <translation>알파벳순 정렬</translation>
     </message>
 </context>
 <context>
@@ -16231,12 +16231,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.cpp" line="53"/>
         <source>Remove filtered</source>
-        <translation type="unfinished">필터된 것 제거</translation>
+        <translation>필터된 것 제거</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">필터 안 된 것 제거</translation>
+        <translation>필터 안 된 것 제거</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -16266,7 +16266,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="328"/>
@@ -16783,12 +16783,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2562"/>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2563"/>
@@ -16849,12 +16849,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2755"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>생성일</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2756"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>수정일</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2774"/>
@@ -18226,7 +18226,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="159"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>주제 코드</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="162"/>
@@ -20140,7 +20140,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>태그되지 않은 파일</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="475"/>
@@ -21015,7 +21015,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">x, y 위치로 이동...</translation>
+        <translation>x, y 위치로 이동...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -22541,7 +22541,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">매핑</translation>
+        <translation>매핑</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
@@ -23384,7 +23384,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>썸네일 레이블</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
