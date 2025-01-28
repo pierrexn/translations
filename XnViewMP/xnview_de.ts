@@ -12870,7 +12870,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Bildverwaltung - Miniaturbild</translation>
+        <translation>Bildverwaltung - Dateiliste</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13356,7 +13356,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">Hohe Darstellungsqualität</translation>
+        <translation>Hohe Darstellungsqualität (bilinearer Filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13378,7 +13378,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">Miniaturbild schärfen</translation>
+        <translation>Miniaturbild schärfen</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13638,7 +13638,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Bildverwaltung - Miniaturbild</translation>
+        <translation>Bildverwaltung › Ansicht › Anzeigen als › Miniaturansichten + Beschriftungen</translation>
     </message>
 </context>
 <context>
