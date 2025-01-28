@@ -1873,7 +1873,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished">Elárvult</translation>
+        <translation>Árva</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -11108,12 +11108,12 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="196"/>
         <source>Thumbnails + Details</source>
-        <translation>Miniatűrök + Részletek</translation>
+        <translation>Miniatűrök + részletek</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="203"/>
         <source>Thumbnails + Filename</source>
-        <translation>Miniatűrök + Fájlnevek</translation>
+        <translation>Miniatűrök + fájlnevek</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="210"/>
@@ -11143,7 +11143,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="254"/>
         <source>Thumbnails + Labels</source>
-        <translation>Miniatűrök + Címkék</translation>
+        <translation>Miniatűrök + címkék</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="42"/>
@@ -13371,7 +13371,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">Élesebb miniatűr</translation>
+        <translation>Élesítés használata</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13427,7 +13427,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Címkézési színek</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
@@ -13631,7 +13631,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Böngésző - Miniatűr</translation>
+        <translation>Böngésző › Nézet ›Nézet › Miniatűrök + címkék</translation>
     </message>
 </context>
 <context>
@@ -18992,17 +18992,17 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="31"/>
         <source>Thumbnails + Filenames</source>
         <oldsource>Thumbnails + Filename</oldsource>
-        <translation>Miniatűrök + Fájlnevek</translation>
+        <translation>Miniatűrök + fájlnevek</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="32"/>
         <source>Thumbnails + Labels</source>
-        <translation>Miniatűrök + Címkék</translation>
+        <translation>Miniatűrök + címkék</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="33"/>
         <source>Thumbnails + Details</source>
-        <translation>Miniatűrök + Részletek</translation>
+        <translation>Miniatűrök + részletek</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="34"/>
