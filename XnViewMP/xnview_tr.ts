@@ -9297,7 +9297,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Programları Yapılandır...</translation>
+        <translation>Programları Yapılandır</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
