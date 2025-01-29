@@ -1831,7 +1831,7 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Silniejsze rozmycie</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -16049,7 +16049,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachowaj i dodaj nową wartość (słowa kluczowe)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
