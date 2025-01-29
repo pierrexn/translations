@@ -9321,7 +9321,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation>Programme konfigurieren...</translation>
+        <translation>Programme konfigurieren</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
