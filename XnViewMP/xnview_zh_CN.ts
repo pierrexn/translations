@@ -9319,7 +9319,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">配置程序…</translation>
+        <translation>配置程序</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
