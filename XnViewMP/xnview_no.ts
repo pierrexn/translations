@@ -9310,7 +9310,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Sett opp programmer...</translation>
+        <translation>Sett opp programmer</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
