@@ -9323,7 +9323,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Configureu els programes...</translation>
+        <translation>Configureu els programes</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
