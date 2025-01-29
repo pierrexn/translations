@@ -9329,7 +9329,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation>Configurer les programmes...</translation>
+        <translation>Configurer les programmes</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
