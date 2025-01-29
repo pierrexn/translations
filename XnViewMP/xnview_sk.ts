@@ -9345,7 +9345,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Nastavenie programov...</translation>
+        <translation>Nastavenie programov</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
