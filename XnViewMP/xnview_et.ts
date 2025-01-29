@@ -9303,7 +9303,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation type="unfinished">Seadista programmid...</translation>
+        <translation>Seadista programmid</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
