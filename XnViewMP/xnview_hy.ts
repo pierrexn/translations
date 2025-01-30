@@ -1421,7 +1421,7 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Ավելի շատ լղոզում</translation>
     </message>
 </context>
 <context>
@@ -1506,7 +1506,7 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Որբացած</translation>
     </message>
 </context>
 <context>
@@ -3371,7 +3371,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Մեծացնել</translation>
     </message>
 </context>
 <context>
@@ -9651,11 +9651,11 @@ Thumbnail</source>
     </message>
     <message>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView-ի սահոցի ֆայլ</translation>
     </message>
     <message>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 պատկերի ֆայլ</translation>
     </message>
 </context>
 <context>
@@ -10166,7 +10166,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Browser - Filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Դիտարկիչ - Ֆայլերի ցանկ</translation>
     </message>
 </context>
 <context>
@@ -10494,15 +10494,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Պատկերի հավասարեցում</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերև</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ներքև</translation>
     </message>
     <message>
         <source>Companion</source>
@@ -10510,7 +10510,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Պիտակի գույներ</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
@@ -10538,7 +10538,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create high quality thumbnail (bilinear filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ստեղծել բարձր որակի մանրապատկերներ (երկգծային զտիչներ)</translation>
     </message>
     <message>
         <source>Use sharpen</source>
@@ -10546,7 +10546,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Browser › View › View as › Thumbnails + Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Դիտարկիչ » Տեսք » Դիտել որպես » Մանրապատկերներ » Պիտակներ</translation>
     </message>
 </context>
 <context>
@@ -11952,11 +11952,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Լավագույն</translation>
     </message>
     <message>
         <source>Lossless compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Անկորուստ սեղմում</translation>
     </message>
 </context>
 <context>
@@ -11993,11 +11993,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Լավագույն</translation>
     </message>
     <message>
         <source>Lossless compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Անկորուստ սեղմում</translation>
     </message>
 </context>
 <context>
@@ -12481,7 +12481,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Պահել և հավելել նոր արժեք (հիմնաբառեր)</translation>
     </message>
 </context>
 <context>
@@ -13136,11 +13136,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
 </context>
 <context>
@@ -15580,7 +15580,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Չպիտակավորված ֆայլ(եր)</translation>
     </message>
 </context>
 <context>
