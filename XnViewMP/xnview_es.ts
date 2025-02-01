@@ -1421,7 +1421,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Difuminar más</translation>
     </message>
 </context>
 <context>
@@ -1506,7 +1506,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Huérfanos</translation>
     </message>
 </context>
 <context>
@@ -3371,7 +3371,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
 </context>
 <context>
@@ -6041,7 +6041,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar JPEG-li</translation>
     </message>
     <message>
         <source>Convert to XYB colorspace</source>
@@ -6533,7 +6533,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento por coordenadas</translation>
     </message>
 </context>
 <context>
@@ -6792,7 +6792,7 @@ Se crearán subcarpetas. </translation>
     </message>
     <message>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin acción</translation>
     </message>
 </context>
 <context>
@@ -7288,7 +7288,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Configure programs</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar programas</translation>
     </message>
     <message>
         <source>Path</source>
@@ -8550,15 +8550,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Search in Catalog only</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar solo en el catálogo</translation>
     </message>
     <message>
         <source>Search in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en subcarpetas</translation>
     </message>
     <message>
         <source>Search in folder names</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en nombres de carpetas</translation>
     </message>
 </context>
 <context>
@@ -9652,11 +9652,11 @@ miniatura</translation>
     </message>
     <message>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de diapositivas XnView</translation>
     </message>
     <message>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Archivo de imagen</translation>
     </message>
 </context>
 <context>
@@ -10155,19 +10155,19 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Anterior/siguiente fotograma</translation>
     </message>
     <message>
         <source>Pan image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen panorámica</translation>
     </message>
     <message>
         <source>Zoom &amp; pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom y desplazamiento</translation>
     </message>
     <message>
         <source>Browser - Filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador - Lista de archivos</translation>
     </message>
 </context>
 <context>
@@ -10213,7 +10213,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Export color label in XMP metadata</source>
-        <translation>Exportar etiqueta de color a metadatos de XMP</translation>
+        <translation>Exportar etiqueta de color en metadatos XMP</translation>
     </message>
     <message>
         <source>Encoding</source>
@@ -10495,7 +10495,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineación de imagen</translation>
     </message>
     <message>
         <source>Top</source>
@@ -10511,7 +10511,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Colores de las etiquetas</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
@@ -10539,7 +10539,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Create high quality thumbnail (bilinear filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear miniaturas de alta calidad (filtro bilineal)</translation>
     </message>
     <message>
         <source>Use sharpen</source>
@@ -10547,7 +10547,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Browser › View › View as › Thumbnails + Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador › Ver › Ver como › Miniaturas + Etiquetas</translation>
     </message>
 </context>
 <context>
@@ -12374,7 +12374,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Aplicar categorías principalesl</translation>
+        <translation>Aplicar categorías principales</translation>
     </message>
     <message>
         <source>Origin</source>
@@ -12406,7 +12406,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>XMP only</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo XMP</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
@@ -12482,7 +12482,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantener y añadir nuevo valor (Palabras clave)</translation>
     </message>
 </context>
 <context>
@@ -13129,19 +13129,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de creación</translation>
     </message>
     <message>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de modificación</translation>
     </message>
     <message>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
 </context>
 <context>
@@ -14019,7 +14019,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código del asunto</translation>
     </message>
 </context>
 <context>
@@ -15581,7 +15581,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo(s) sin etiquetar</translation>
     </message>
 </context>
 <context>
@@ -16622,7 +16622,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Pan to coordinates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazarse a coordenadas...</translation>
     </message>
 </context>
 <context>
@@ -18005,7 +18005,7 @@ Clic Derecho para menú contextual con acciones.</translation>
     </message>
     <message>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquetas de las miniaturas</translation>
     </message>
 </context>
 <context>
