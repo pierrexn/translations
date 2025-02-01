@@ -1607,7 +1607,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Use subfolder based on current date</source>
-        <translation>Usar subcarpeta en función de la fecha actual</translation>
+        <translation>Utilizar subcarpeta en función de la fecha actual</translation>
     </message>
     <message>
         <source>Save as multipage (TIFF/PDF)</source>
@@ -1889,7 +1889,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation>Se ha desactivado el ajuste &quot;Usar varios núcleos de CPU&quot;. Este ajuste no puede combinarse con el modo &apos;Preguntar&apos; ni con archivos PDF de varias páginas.</translation>
+        <translation>Se ha desactivado el ajuste &quot;Utilizar varios núcleos de CPU&quot;. Este ajuste no puede combinarse con el modo &apos;Preguntar&apos; ni con archivos PDF de varias páginas.</translation>
     </message>
     <message>
         <source>Source: %1 %2 - Output (estimated): %3 %4</source>
@@ -1925,7 +1925,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Usar corrección gamma</translation>
+        <translation>Utilizar corrección gamma</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
@@ -2812,7 +2812,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation>Se ha desactivado el ajuste &quot;Usar varios núcleos de CPU&quot;. Este ajuste no puede combinarse con el modo &apos;Preguntar&apos; ni con archivos PDF de varias páginas.</translation>
+        <translation>Se ha desactivado el ajuste &quot;Utilizar varios núcleos de CPU&quot;. Este ajuste no puede combinarse con el modo &apos;Preguntar&apos; ni con archivos PDF de varias páginas.</translation>
     </message>
     <message>
         <source>File size ratio:</source>
@@ -4483,7 +4483,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Use mask as alpha</source>
-        <translation>Usar máscara como alfa</translation>
+        <translation>Utilizar máscara como alfa</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -4787,7 +4787,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Usar corrección gamma</translation>
+        <translation>Utilizar corrección gamma</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
@@ -7017,7 +7017,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Use parent keywords</source>
-        <translation>Usar palabras clave principales</translation>
+        <translation>Utilizar palabras clave principales</translation>
     </message>
     <message>
         <source>Caption</source>
@@ -8097,7 +8097,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Use Regular Expression</source>
-        <translation>Usar Expresión regular</translation>
+        <translation>Utilizar expresión regular</translation>
     </message>
     <message>
         <source>Name lowercase</source>
@@ -8713,7 +8713,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Use lossless rotation (if possible)</source>
-        <translation>Usar rotación sin pérdidas (si es posible)</translation>
+        <translation>Utilizar rotación sin pérdidas (si es posible)</translation>
     </message>
     <message>
         <source>On exit</source>
@@ -12052,7 +12052,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use estimated quality (when possible)</source>
-        <translation>Usar calidad estimada (cuando sea posible)</translation>
+        <translation>Utilizar calidad estimada (cuando sea posible)</translation>
     </message>
     <message>
         <source>Rebuild embedded EXIF thumbnail</source>
@@ -12327,7 +12327,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
-        <translation>Usar conversión RGB→YUV nítida (pero lenta)</translation>
+        <translation>Utilizar conversión RGB→YUV nítida (pero lenta)</translation>
     </message>
 </context>
 <context>
