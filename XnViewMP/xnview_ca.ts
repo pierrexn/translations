@@ -1829,7 +1829,7 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Fes més borròs</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -1844,7 +1844,7 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
         <location filename="ConvertThread.cpp" line="1254"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation type="unfinished">ATENCIÓ: la imatge serà convertida a RGB amb 8 bits per component</translation>
+        <translation>ATENCIÓ: la imatge serà convertida a RGB de 24 bits (amb 8 bits per canal)</translation>
     </message>
 </context>
 <context>
@@ -1874,7 +1874,7 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Feta orfe</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -2884,7 +2884,7 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Un fitxer anomenat %1 ja existeix. Sobrescric el fitxer?</translation>
+        <translation>Un fitxer anomenat %1 ja existeix. Sobreescric el fitxer?</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1522"/>
@@ -3026,7 +3026,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgCapture.ui" line="284"/>
         <source>Hide XnView MP</source>
         <oldsource>Hide XnView</oldsource>
-        <translation type="unfinished">Amaga XnView</translation>
+        <translation>Amaga XnView MP</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="291"/>
@@ -3586,7 +3586,7 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">La versió %1 de XnConvert està disponible, voleu anar a la pàgina de descàrrega?</translation>
+        <translation>La versió %1 de XnConvert està disponible.  Voleu anar a la pàgina de descàrrega?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1466"/>
@@ -3602,7 +3602,7 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1596"/>
         <source>Remove file from filelist</source>
-        <translation type="unfinished">Treu el fitxer de la llista</translation>
+        <translation>Treu el fitxer de la llista</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1603"/>
@@ -3716,7 +3716,7 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">El fitxer destí ja existeix. El voleu sobrescriure?</translation>
+        <translation>El fitxer destí ja existeix. El voleu sobreescriure?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2450"/>
@@ -3853,7 +3853,7 @@ Vols continuar?</translation>
         <location filename="DlgConvert.cpp" line="2595"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation type="unfinished">no és una imatge</translation>
+        <translation>no és una imatge</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2598"/>
@@ -3909,7 +3909,7 @@ Vols continuar?</translation>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">Un fitxer anomenat %1 ja existeix. Sobrescric el fitxer?</translation>
+        <translation>Un fitxer anomenat %1 ja existeix. Sobreescric el fitxer?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2719"/>
@@ -4175,7 +4175,7 @@ Voleu continuar?</translation>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplia</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -4210,7 +4210,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertBorder.ui" line="304"/>
         <source>Rounded corner</source>
         <oldsource>Rounded edge</oldsource>
-        <translation type="unfinished">Vora arrodonida</translation>
+        <translation>Vora arrodonida</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="148"/>
@@ -4252,19 +4252,19 @@ Voleu continuar?</translation>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Dalt-centre</translation>
+        <translation>Dalt-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="470"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Centre-esquerra</translation>
+        <translation>Centre-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
@@ -4275,13 +4275,13 @@ Voleu continuar?</translation>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Centre-dreta</translation>
+        <translation>Centre-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="490"/>
@@ -4293,7 +4293,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertBorder.ui" line="495"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="521"/>
@@ -4438,19 +4438,19 @@ Voleu continuar?</translation>
         <location filename="DlgConvertCanvas.ui" line="496"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation type="unfinished">Dalt-centre</translation>
+        <translation>Dalt-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="501"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="506"/>
         <source>Center-Left</source>
         <oldsource>Center left</oldsource>
-        <translation type="unfinished">Centre-esquerra</translation>
+        <translation>Centre-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
@@ -4461,25 +4461,25 @@ Voleu continuar?</translation>
         <location filename="DlgConvertCanvas.ui" line="516"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation type="unfinished">Centre-dreta</translation>
+        <translation>Centre-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="521"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">Baix-centre</translation>
+        <translation>Baix-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
 </context>
 <context>
@@ -5022,12 +5022,12 @@ Voleu continuar?</translation>
     <message>
         <location filename="DlgConvert.ui" line="413"/>
         <source>First file</source>
-        <translation type="unfinished">Primer fitxer</translation>
+        <translation>Primer fitxer</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Darrer fitxer</translation>
+        <translation>Darrer fitxer</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="614"/>
@@ -5238,7 +5238,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation type="unfinished">Remplaça alfa per imatges de 32 bits</translation>
+        <translation>Reemplaça alfa per imatges de 32 bits</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -5691,17 +5691,17 @@ Voleu continuar?</translation>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Lluminositat</translation>
+        <translation>Lluminositat</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB+Luminància</translation>
+        <translation>RGB+Luminància</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="53"/>
@@ -5773,7 +5773,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Expandeix la màscara</translation>
+        <translation>Expandeix la màscara</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
@@ -5966,7 +5966,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertQRcode.ui" line="79"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
@@ -5976,23 +5976,23 @@ Voleu continuar?</translation>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation type="unfinished">Dalt-centre</translation>
+        <translation>Dalt-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
         <source>Center-Left</source>
-        <translation type="unfinished">Centre-esquerra</translation>
+        <translation>Centre-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation type="unfinished">Centre-dreta</translation>
+        <translation>Centre-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="104"/>
@@ -6004,7 +6004,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertQRcode.ui" line="109"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="134"/>
@@ -6456,13 +6456,13 @@ Voleu continuar?</translation>
         <location filename="DlgConvertText.ui" line="109"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="119"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
@@ -6473,7 +6473,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertText.ui" line="139"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="144"/>
@@ -6485,7 +6485,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertText.ui" line="149"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="174"/>
@@ -6548,17 +6548,17 @@ Voleu continuar?</translation>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation type="unfinished">Dalt-centre</translation>
+        <translation>Dalt-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
         <source>Center-Left</source>
-        <translation type="unfinished">Centre-esquerra</translation>
+        <translation>Centre-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="134"/>
         <source>Center-Right</source>
-        <translation type="unfinished">Centre-dreta</translation>
+        <translation>Centre-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
@@ -6711,22 +6711,22 @@ Voleu continuar?</translation>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Enrajolant</translation>
+        <translation>Rajola</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
         <source>Top-Center</source>
-        <translation type="unfinished">Dalt-centre</translation>
+        <translation>Dalt-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="199"/>
         <source>Center-Left</source>
-        <translation type="unfinished">Centre-esquerra</translation>
+        <translation>Centre-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="209"/>
         <source>Center-Right</source>
-        <translation type="unfinished">Centre-dreta</translation>
+        <translation>Centre-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="296"/>
@@ -6798,13 +6798,13 @@ Voleu continuar?</translation>
         <location filename="DlgConvertWatermark.ui" line="184"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="194"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
@@ -6815,7 +6815,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertWatermark.ui" line="214"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="219"/>
@@ -6827,7 +6827,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertWatermark.ui" line="224"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="289"/>
@@ -6858,7 +6858,7 @@ Voleu continuar?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Carrega una plantilla...</translation>
+        <translation>Carrega una plantilla...</translation>
     </message>
 </context>
 <context>
@@ -6997,7 +6997,7 @@ Voleu continuar?</translation>
         <location filename="DlgCurves.ui" line="22"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation type="unfinished">Lluminositat</translation>
+        <translation>Luminància</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="35"/>
@@ -7517,7 +7517,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgExport.cpp" line="197"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation type="unfinished">No és un fitxer d&apos;imatge</translation>
+        <translation>No és un fitxer d&apos;imatge</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="296"/>
@@ -7623,7 +7623,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation type="unfinished">Exporta la valoració &amp;&amp; Etiqueta</translation>
+        <translation>Exporta la valoració &amp;&amp; Etiquetes de color</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -7686,7 +7686,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgExport.ui" line="249"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="339"/>
