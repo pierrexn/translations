@@ -7726,12 +7726,12 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Converteix a espai de color XYB</translation>
+        <translation>Converteix a espai de color XYB</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
         <source>Edit palette...</source>
-        <translation type="unfinished">Edita mapa de color...</translation>
+        <translation>Edita paleta de color...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="459"/>
@@ -8368,7 +8368,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Adapta a les coordenades</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -8699,7 +8699,7 @@ Es crearan les subcarpetes.</translation>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap acció</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -8923,13 +8923,13 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgIptc.ui" line="738"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation type="unfinished">Obre la darrera pestanya usada</translation>
+        <translation>Recorda la darrera pestanya oberta</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="878"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
-        <translation type="unfinished">No carreguis valors dels camps</translation>
+        <translation>No carreguis valors del camp</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="844"/>
@@ -9333,7 +9333,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Camí</translation>
+        <translation>Camí</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -9555,7 +9555,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation type="unfinished">Col·lecció d&apos;imatges</translation>
+        <translation>Col·lecció</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -9676,7 +9676,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgPrint.ui" line="469"/>
         <source>Automatically rotate (if needed)</source>
         <oldsource>Automatically rotate the picture if needed</oldsource>
-        <translation type="unfinished">Gira la imatge automàticament si cal</translation>
+        <translation>Gira la imatge automàticament (si cal)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="483"/>
@@ -10228,7 +10228,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Nom/Nom de la companyia:</translation>
+        <translation>Nom Persona/Companyia:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10711,28 +10711,28 @@ Voleu suprimir-los?</translation>
         <location filename="DlgResize.ui" line="607"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="612"/>
         <source>Top-Center</source>
-        <translation type="unfinished">Dalt-centre</translation>
+        <translation>Dalt-Centre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation type="unfinished">Centre-esquerra</translation>
+        <translation>Centre-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation type="unfinished">Centre-dreta</translation>
+        <translation>Centre-Dreta</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="627"/>
@@ -10743,7 +10743,7 @@ Voleu suprimir-los?</translation>
         <location filename="DlgResize.ui" line="637"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="642"/>
@@ -10755,7 +10755,7 @@ Voleu suprimir-los?</translation>
         <location filename="DlgResize.ui" line="647"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="669"/>
@@ -10877,7 +10877,7 @@ Voleu suprimir-los?</translation>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Recursivament en les subcarpetes</translation>
+        <translation>Cerca en les subcarpetes</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10898,7 +10898,7 @@ Voleu suprimir-los?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">&amp;inclou carpetes</translation>
+        <translation>Cerca en els noms de carpeta</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -10939,13 +10939,13 @@ Voleu suprimir-los?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Nom de fitxer</translation>
+        <translation>&amp;Nom de fitxer</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Usa catàleg</translation>
+        <translation>Busca sols en Catàleg</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -11160,7 +11160,7 @@ Voleu suprimir-los?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="42"/>
         <source>Preview</source>
-        <translation type="unfinished">Vista prèvia</translation>
+        <translation>Vista prèvia</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="106"/>
@@ -12348,12 +12348,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="503"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer diapo. XnView</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="510"/>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer imatge %1</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="701"/>
@@ -13043,7 +13043,7 @@ Vols reassignar?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge prèvia/següent</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -13454,7 +13454,7 @@ Vols reassignar?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineació imatge</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="476"/>
@@ -13464,7 +13464,7 @@ Vols reassignar?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Peu</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="511"/>
@@ -13479,7 +13479,7 @@ Vols reassignar?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Colors etiqueta</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
@@ -13504,7 +13504,7 @@ Vols reassignar?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
@@ -15431,7 +15431,7 @@ Vols continuar?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Millor</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="101"/>
@@ -15491,7 +15491,7 @@ Vols continuar?</translation>
     <message>
         <location filename="DlgWriteHeic.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Millor</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="101"/>
@@ -15957,42 +15957,42 @@ Vols continuar?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="262"/>
         <source>Keywords</source>
-        <translation type="unfinished">Mots clau</translation>
+        <translation>Mots clau</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="268"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(Usa | per separar mots clau jeràrquicament)</translation>
+        <translation>(Usa | per separar mots clau jeràrquicament)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="295"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Aplica categories paternes</translation>
+        <translation>Aplica categories paternes</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="303"/>
         <source>Origin</source>
-        <translation type="unfinished">Origen</translation>
+        <translation>Origen</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="341"/>
         <source>Date created</source>
-        <translation type="unfinished">Data de creació</translation>
+        <translation>Data de creació</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="433"/>
         <source>Urgency</source>
-        <translation type="unfinished">Urgència</translation>
+        <translation>Urgència</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="463"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">IPTC-Contacte</translation>
+        <translation>IPTC-Contacte</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="515"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">IPTC extensions</translation>
+        <translation>IPTC extensions</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="609"/>
@@ -16002,32 +16002,32 @@ Vols continuar?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="630"/>
         <source>Mode:</source>
-        <translation type="unfinished">Mode:</translation>
+        <translation>Mode:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="638"/>
         <source>XMP only</source>
-        <translation type="unfinished">Solament XMP</translation>
+        <translation>Solament XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, actualització o creació IPTC-IIM</translation>
+        <translation>XMP, actualització o creació IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Selecció múltiple</translation>
+        <translation>Selecció múltiple</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Guarda i afegeix nou valor(Paraules clau)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Conserva el valor original si el camp resta buit</translation>
+        <translation>Conserva el valor original si el camp resta buit</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="695"/>
@@ -16037,22 +16037,22 @@ Vols continuar?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="705"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Obre la darrera pestanya usada</translation>
+        <translation>Recorda  la darrera pestanya usada</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="68"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(Usa ; or , per separar els valors)</translation>
+        <translation>(Usa ; or , per separar els valors)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="121"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Cap</translation>
+        <translation>0: Cap</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="121"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Alta</translation>
+        <translation>1: Alta</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="122"/>
@@ -16062,47 +16062,47 @@ Vols continuar?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="122"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Baixa</translation>
+        <translation>8: Baixa</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="302"/>
         <source>Required field</source>
-        <translation type="unfinished">Camp necessari</translation>
+        <translation>Camp necessari</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="302"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Calen alguns camps, sisplau ompliu-los!</translation>
+        <translation>Calen alguns camps, sisplau ompliu-los!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="444"/>
         <source>Insert</source>
-        <translation type="unfinished">Insereix</translation>
+        <translation>Insereix</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="456"/>
         <source>Insert from</source>
-        <translation type="unfinished">Insereix des de</translation>
+        <translation>Insereix des de</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="477"/>
         <source>Copy into</source>
-        <translation type="unfinished">Copia en</translation>
+        <translation>Copia en</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="501"/>
         <source>Library</source>
-        <translation type="unfinished">Biblioteca</translation>
+        <translation>Biblioteca</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="506"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Edita l&apos;historial...</translation>
+        <translation>Edita l&apos;historial...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="507"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Ordena-ho alfabèticament</translation>
+        <translation>Ordena-ho alfabèticament</translation>
     </message>
 </context>
 <context>
@@ -16251,7 +16251,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Miniatures petites</translation>
+        <translation>Miniatures petites</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16277,12 +16277,12 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="53"/>
         <source>Remove filtered</source>
-        <translation type="unfinished">Eliminació filtrada</translation>
+        <translation>Eliminació filtrada</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">Eliminació sense filtre</translation>
+        <translation>Eliminació sense filtre</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -16312,7 +16312,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="328"/>
@@ -16650,7 +16650,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
-        <translation type="unfinished">Submostreig</translation>
+        <translation>Submostreig</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="116"/>
@@ -16830,12 +16830,12 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2562"/>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2563"/>
@@ -16896,12 +16896,12 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2755"/>
         <source>Create date</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea data</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2756"/>
         <source>Modify date</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia data</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2774"/>
@@ -18272,7 +18272,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="159"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codi subjecte</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="162"/>
@@ -19188,7 +19188,7 @@ Vols continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer(s ) sense etiqueta</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="458"/>
@@ -19925,7 +19925,7 @@ Vols continuar?</translation>
         <location filename="BrowserMenu.h" line="419"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
-        <translation type="unfinished">Obre amb</translation>
+        <translation>Obre amb</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="420"/>
@@ -20179,7 +20179,7 @@ Vols continuar?</translation>
         <location filename="BrowserMenu.h" line="582"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Transformacions JPEG sense pèrdua</translation>
+        <translation>Transformacions JPEG sense pèrdua</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="607"/>
@@ -20763,13 +20763,13 @@ Vols continuar?</translation>
         <location filename="ViewMenu.h" line="337"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation type="unfinished">Fixa ràtio de la selecció</translation>
+        <translation>Fixa ràtio de la selecció</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="338"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation type="unfinished">Mida de la selecció</translation>
+        <translation>Mida de la selecció</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="347"/>
@@ -21088,7 +21088,7 @@ Vols continuar?</translation>
         <location filename="ViewMenu.h" line="432"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation type="unfinished">Instantània icona sí/no</translation>
+        <translation>Dibuixa com Instantània (Sols icona )</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="433"/>
@@ -21111,7 +21111,7 @@ Vols continuar?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Ves al lloc x,y...</translation>
+        <translation>Ves al lloc de coordenades x,y...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -21142,7 +21142,7 @@ Vols continuar?</translation>
         <location filename="ViewMenu.h" line="728"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Meta&amp;dades</translation>
+        <translation>Meta&amp;dades</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="729"/>
@@ -21375,7 +21375,7 @@ Vols continuar?</translation>
         <location filename="ViewMenu.h" line="493"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation type="unfinished">Redimensiona...</translation>
+        <translation>Redimensiona...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="494"/>
@@ -21457,7 +21457,7 @@ Vols continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="515"/>
         <source>Send by email...</source>
-        <translation type="unfinished">Envia per correu...</translation>
+        <translation>Envia per correu...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="517"/>
@@ -21514,7 +21514,7 @@ Vols continuar?</translation>
         <location filename="ViewMenu.h" line="510"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
-        <translation type="unfinished">Edita mapa de color...</translation>
+        <translation>Edita mapa de color...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="470"/>
@@ -21541,7 +21541,7 @@ Vols continuar?</translation>
         <location filename="ViewMenu.h" line="525"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">Transformacions JPEG sense pèrdua</translation>
+        <translation>Transformacions JPEG sense pèrdua</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="529"/>
@@ -22117,7 +22117,7 @@ Vols continuar?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">La mida de la miniatura en el catàleg és menor que la mida escollida. 
+        <translation>La mida de la miniatura en el catàleg és menor que la mida escollida. 
 Podeu canviar-la en Opcions › Catàleg</translation>
     </message>
     <message>
@@ -22570,7 +22570,7 @@ Podeu canviar-la en Opcions › Catàleg</translation>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Expandeix la imatge</translation>
+        <translation>Expandeix la imatge</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="436"/>
@@ -22623,7 +22623,7 @@ Podeu canviar-la en Opcions › Catàleg</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Taula</translation>
+        <translation>Taula</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
@@ -23442,32 +23442,32 @@ Clic dret per al menú contextual amb accions.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Cercar en</translation>
+        <translation>Cercar en</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">Camps IPTC</translation>
+        <translation>Camps IPTC</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Comentari integrat</translation>
+        <translation>Comentari integrat</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Descripció</translation>
+        <translation>Descripció</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Categories (catàleg)</translation>
+        <translation>Categories (catàleg)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquetes miniatures</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="186"/>
