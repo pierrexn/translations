@@ -451,7 +451,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Match</source>
-        <translation>Meci</translation>
+        <translation>Potrivește</translation>
     </message>
     <message>
         <source>The files cannot be renamed, an error occurred.</source>
@@ -459,11 +459,11 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Match any selected entry (OR)</source>
-        <translation>Potriviți orice intrare selectată (SAU)</translation>
+        <translation>Potrivește orice intrare selectată (SAU)</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
-        <translation>Adauga la favorite...</translation>
+        <translation>Adaugă la favorite...</translation>
     </message>
     <message>
         <source>Detach preview panel</source>
@@ -497,7 +497,7 @@ Vrei să ștergi favoritul „%1”?</translation>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation>Fă clic pentru a filtra - utilizați Shift și Control pentru mai multe selecții.
+        <translation>Fă clic pentru a filtra - utilizează Shift și Control pentru mai multe selecții.
 Fă clic dreapta pe diferite elemente pentru meniurile pop-up cu acțiuni.
 Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
@@ -567,11 +567,11 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Load filelist</source>
-        <translation>Încărcați lista de fișiere</translation>
+        <translation>Încarcă lista de fișiere</translation>
     </message>
     <message>
         <source>Customize toolbar...</source>
-        <translation>Personalizați bara de instrumente...</translation>
+        <translation>Personalizează bara de instrumente...</translation>
     </message>
     <message>
         <source>Match all selected entries (AND)</source>
@@ -583,7 +583,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Add Favorite...</source>
-        <translation>Adăugați favorit...</translation>
+        <translation>Adaugă la favorite...</translation>
     </message>
     <message>
         <source>Explorer</source>
@@ -674,7 +674,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Save layout...</source>
-        <translation>Salvați aspectul...</translation>
+        <translation>Salvează aspectul...</translation>
     </message>
     <message>
         <source>Assigned</source>
@@ -814,7 +814,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation>Mutați la</translation>
+        <translation>Mută în</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1095,7 +1095,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Align histogram</source>
-        <translation>Aliniați histograma</translation>
+        <translation>Aliniază histograma</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -1103,7 +1103,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>Redimensionați</translation>
+        <translation>Redimensionează</translation>
     </message>
     <message>
         <source>White Balance</source>
@@ -1127,7 +1127,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Solarize</source>
-        <translation>Solarizați</translation>
+        <translation>Solarizează</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -1171,7 +1171,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Change color depth</source>
-        <translation>Schimbați adâncimea culorii</translation>
+        <translation>Schimbă adâncimea culorii</translation>
     </message>
     <message>
         <source>Blue-Green-Red</source>
@@ -1183,11 +1183,11 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Align %</source>
-        <translation>Aliniați %</translation>
+        <translation>Aliniază (cu) %</translation>
     </message>
     <message>
         <source>Normalize Ex</source>
-        <translation>Normalizați Ex</translation>
+        <translation>Normalizează Ex</translation>
     </message>
     <message>
         <source>Border 3D</source>
@@ -1211,7 +1211,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation>Setați DPI</translation>
+        <translation>Setează DPI-ul</translation>
     </message>
     <message>
         <source>Sharpen</source>
@@ -1609,15 +1609,15 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Use subfolder based on current date</source>
-        <translation>Utilizați subdosarul pe baza datei curente</translation>
+        <translation>Utilizează subdosarul (subfolderul) pe baza datei curente</translation>
     </message>
     <message>
         <source>Save as multipage (TIFF/PDF)</source>
-        <translation>Salvați ca mai multe pagini (TIFF/PDF)</translation>
+        <translation>Salvează ca mai multe pagini (TIFF/PDF)</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation>Scădea</translation>
+        <translation>Scade</translation>
     </message>
     <message>
         <source>Restart TWAIN driver</source>
@@ -1760,7 +1760,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Overwrite original file(s) when saving</source>
-        <translation>Suprascrieți fișierele originale când salvați</translation>
+        <translation>Suprascrie fișierul original (fișierele originale) când salvezi</translation>
     </message>
     <message>
         <source>Left (top-bottom)</source>
@@ -1907,7 +1907,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>create error</source>
-        <translation>crea o eroare</translation>
+        <translation>crează o eroare</translation>
     </message>
     <message>
         <source>Skipped:</source>
@@ -2368,7 +2368,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Save to folder</source>
-        <translation>Salvați în dosar</translation>
+        <translation>Salvează în dosar (folder)</translation>
     </message>
     <message>
         <source>Open in Draw mode</source>
@@ -2391,7 +2391,7 @@ Dorești să-l suprascrii?</translation>
     <name>DlgCategorySetsSettings</name>
     <message>
         <source>Set:</source>
-        <translation>A stabilit:</translation>
+        <translation>Stabilit:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -2489,7 +2489,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
-        <translation>Optimizați masa Huffman</translation>
+        <translation>Optimizează tabelul Huffman</translation>
     </message>
 </context>
 <context>
@@ -2520,7 +2520,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Use same text for description &amp;&amp; comment</source>
-        <translation>Utilizați același text pentru descriere și&amp; comentariu</translation>
+        <translation>Folosește același text pentru descriere și comentarii</translation>
     </message>
     <message>
         <source>Edit comment</source>
@@ -2638,7 +2638,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Create Contact Sheet</source>
-        <translation>Creați o foaie de contact</translation>
+        <translation>Crează o foaie de contact</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -2726,7 +2726,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation>&amp;Crea</translation>
+        <translation>&amp;Creare</translation>
     </message>
     <message>
         <source>4x6 inch</source>
@@ -2833,11 +2833,11 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Save log as...</source>
-        <translation>Salvați jurnalul ca...</translation>
+        <translation>Salvează jurnalul ca...</translation>
     </message>
     <message>
         <source>create error</source>
-        <translation>crea o eroare</translation>
+        <translation>crează o eroare</translation>
     </message>
     <message>
         <source>Skipped:</source>
@@ -2941,7 +2941,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Save script</source>
-        <translation>Salvați scriptul</translation>
+        <translation>Salvează scriptul</translation>
     </message>
     <message>
         <source>Load script</source>
@@ -3021,7 +3021,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Use image from input files</source>
-        <translation>Utilizați imaginea din fișierele de intrare</translation>
+        <translation>Folosește imaginea din fișierele de intrare</translation>
     </message>
     <message>
         <source>Uploading image(s) to server...</source>
@@ -3326,7 +3326,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Utilizați anti-aliasing</translation>
+        <translation>Folosește anti-aliasarea</translation>
     </message>
     <message>
         <source>Frame 1</source>
@@ -3644,7 +3644,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Save script as</source>
-        <translation>Salvați scriptul ca</translation>
+        <translation>Salvează scriptul ca</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
@@ -3736,7 +3736,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Save actions list at exiting</source>
-        <translation>Salvați lista de acțiuni la ieșire</translation>
+        <translation>Salvează lista de acțiuni la ieșire</translation>
     </message>
     <message>
         <source>Weekly</source>
@@ -3784,7 +3784,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Salvați presetarea</translation>
+        <translation>Salvează presetarea</translation>
     </message>
     <message>
         <source>Load preset</source>
@@ -3980,7 +3980,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
-        <translation>Utilizați culoarea în funcție de formatul fișierului</translation>
+        <translation>Folosește culoarea în funcție de formatul fișierului</translation>
     </message>
     <message>
         <source>Show original</source>
@@ -5122,7 +5122,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Utilizați anti-aliasing</translation>
+        <translation>Folosește anti-aliasarea</translation>
     </message>
     <message>
         <source>Activated</source>
@@ -5364,7 +5364,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nume de fișier</translation>
+        <translation>Numele fișierului</translation>
     </message>
     <message>
         <source>Insert all pages from multipage source files</source>
@@ -5380,7 +5380,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add...</source>
-        <translation>Adăuga...</translation>
+        <translation>Adaugă...</translation>
     </message>
     <message>
         <source>Do Nothing</source>
@@ -5388,7 +5388,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Create multi-page file</source>
@@ -5420,7 +5420,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation>Deschide Browser</translation>
+        <translation>Deschide navigatorul</translation>
     </message>
     <message>
         <source>View as:</source>
@@ -5493,7 +5493,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Optimize database (long process)</source>
-        <translation>Optimizarea bazei de date (proces lung)</translation>
+        <translation>Optimizează baza de date (proces lung)</translation>
     </message>
     <message>
         <source>Remove data for empty directories</source>
@@ -5616,7 +5616,7 @@ Vrei să continui?</translation>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>Datele IPTC s-au schimbat.
-Doriți să salvați modificările?</translation>
+Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
@@ -5628,7 +5628,7 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>Save template...</source>
-        <translation>Salvați șablonul...</translation>
+        <translation>Salvează șablonul...</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
@@ -5721,7 +5721,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Use default mail client</source>
-        <translation>Utilizați clientul de e-mail implicit</translation>
+        <translation>Folosește clientul de e-mail implicit</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -5788,7 +5788,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Use secure connection (SSL)</source>
-        <translation>Utilizați conexiune securizată (SSL)</translation>
+        <translation>Folosește conexiune securizată (SSL)</translation>
     </message>
     <message>
         <source>SMTP server:</source>
@@ -6143,7 +6143,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Create folder</source>
-        <translation>Creeaza dosar</translation>
+        <translation>Creează un dosar (folder)</translation>
     </message>
 </context>
 <context>
@@ -6598,7 +6598,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Save script</source>
-        <translation>Salvați scriptul</translation>
+        <translation>Salvează scriptul</translation>
     </message>
     <message>
         <source>Remove script from list</source>
@@ -6835,7 +6835,7 @@ Subfolderele vor fi create.. </translation>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>Datele IPTC s-au schimbat.
-Doriți să salvați modificările?</translation>
+Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>File modified date/time</source>
@@ -6891,7 +6891,7 @@ Doriți să salvați modificările?</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation>Doriți să salvați modificările?</translation>
+        <translation>Dorești să îți salvezi modificările?</translation>
     </message>
     <message>
         <source>Insert from</source>
@@ -7000,7 +7000,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Save template...</source>
-        <translation>Salvați șablonul...</translation>
+        <translation>Salvează șablonul...</translation>
     </message>
     <message>
         <source>Replace only if original value is empty</source>
@@ -7334,7 +7334,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Save...</source>
-        <translation>Salvați...</translation>
+        <translation>Salvare...</translation>
     </message>
     <message>
         <source>Index: %1</source>
@@ -7774,7 +7774,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Salvați presetarea</translation>
+        <translation>Salvează presetarea</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -7801,7 +7801,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Use Automatic white balance</source>
-        <translation>Utilizați balansul de alb automat</translation>
+        <translation>Folosește balansul de alb automat</translation>
     </message>
     <message>
         <source>Half size</source>
@@ -7813,11 +7813,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Use Embedded color matrix</source>
-        <translation>Utilizați matricea de culori încorporată</translation>
+        <translation>Folosește matricea de culori încorporată</translation>
     </message>
     <message>
         <source>Use Camera white balance</source>
-        <translation>Utilizați balansul de alb al camerei</translation>
+        <translation>Folosește balansul de alb al camerei</translation>
     </message>
     <message>
         <source>Red scaling</source>
@@ -7916,7 +7916,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Use CIE color</source>
-        <translation>Utilizați culoarea CIE</translation>
+        <translation>Folosește culoarea CIE</translation>
     </message>
     <message>
         <source>Page size</source>
@@ -8112,7 +8112,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Use Regular Expression</source>
-        <translation>Utilizați Expresia Regulată</translation>
+        <translation>Folosește expresia regulată</translation>
     </message>
     <message>
         <source>Name lowercase</source>
@@ -8336,7 +8336,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Save current settings as new preset</source>
-        <translation>Salvați setările curente ca presetare nouă</translation>
+        <translation>Salvează setările curente ca presetare nouă</translation>
     </message>
     <message>
         <source>Position</source>
@@ -8447,7 +8447,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Utilizați anti-aliasing</translation>
+        <translation>Folosește anti-aliasarea</translation>
     </message>
     <message>
         <source>Auto crop</source>
@@ -8489,7 +8489,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Save current search</source>
-        <translation>Salvați căutarea curentă</translation>
+        <translation>Salvează căutarea curentă</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
@@ -8629,7 +8629,7 @@ Vrei să le redenumești?</translation>
     <name>DlgSettings</name>
     <message>
         <source>View</source>
-        <translation>Vedere</translation>
+        <translation>Vizualizare</translation>
     </message>
     <message>
         <source>File list</source>
@@ -8641,7 +8641,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Browser</translation>
+        <translation>Navigator</translation>
     </message>
     <message>
         <source>Interface</source>
@@ -8653,7 +8653,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation>Metadata</translation>
+        <translation>Metadate</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -8728,7 +8728,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Use lossless rotation (if possible)</source>
-        <translation>Utilizați rotația fără pierderi (dacă este posibil)</translation>
+        <translation>Folosește rotația fără pierderi (dacă este posibil)</translation>
     </message>
     <message>
         <source>On exit</source>
@@ -8744,11 +8744,11 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Browser</translation>
+        <translation>Navigator</translation>
     </message>
     <message>
         <source>After folder change</source>
-        <translation>După schimbarea dosarului</translation>
+        <translation>După schimbarea dosarului (folderului)</translation>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
@@ -9254,7 +9254,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Choose the formats which you use for saving.</source>
-        <translation>Alegeți formatele pe care le utilizați pentru salvare.</translation>
+        <translation>Alege formatele pe care le utilizezi pentru salvare.</translation>
     </message>
     <message>
         <source>Show write settings before saving</source>
@@ -9356,7 +9356,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original format</source>
-        <translation>Pentru „Salvare ca”, utilizați formatul original</translation>
+        <translation>Pentru „Salvează ca”, utilizează formatul original</translation>
     </message>
     <message>
         <source>Embedded Metadata change</source>
@@ -9364,7 +9364,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Use ICC profile for monitor (slower)</source>
-        <translation>Utilizați profilul ICC pentru monitor (mai lent)</translation>
+        <translation>Folosește profilul ICC pentru monitor (mai lent)</translation>
     </message>
     <message>
         <source>Send anonymous logs</source>
@@ -9432,7 +9432,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>File saving</source>
-        <translation>Salvare fișier</translation>
+        <translation>Salvează fișierul</translation>
     </message>
     <message>
         <source>Browser - Fullscreen</source>
@@ -9452,7 +9452,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Use dialog to rename file/folder</source>
-        <translation>Utilizați dialogul pentru a redenumi fișierul/dosarul</translation>
+        <translation>Folosește dialogul pentru a redenumi fișierul/dosarul (folderul)</translation>
     </message>
     <message>
         <source>Keep original date/time</source>
@@ -9460,15 +9460,15 @@ Miniatură</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original pathname</source>
-        <translation>Pentru „Salvare ca”, utilizați calea originală</translation>
+        <translation>Pentru „Salvează ca”, folosește calea originală</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Browser</translation>
+        <translation>Navigator</translation>
     </message>
     <message>
         <source>Save session on program exit</source>
-        <translation>Salvați sesiunea la ieșirea din program</translation>
+        <translation>Salvează sesiunea la ieșirea din program</translation>
     </message>
     <message>
         <source>File operations</source>
@@ -9488,7 +9488,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Save as copy for &apos;Save&apos; action</source>
-        <translation>Salvați ca copie pentru acțiunea „Salvare”</translation>
+        <translation>Salvează ca copie pentru acțiunea „Salvare”</translation>
     </message>
     <message>
         <source>Make backup for lossless crop</source>
@@ -9512,7 +9512,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Use EXIF DPI (if exists)</source>
-        <translation>Utilizați EXIF DPI (dacă există)</translation>
+        <translation>Folosește EXIF DPI (dacă există)</translation>
     </message>
     <message>
         <source>Check for program updates</source>
@@ -9528,7 +9528,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Use Recycle Bin</source>
-        <translation>Folosiți Coșul de reciclare</translation>
+        <translation>Folosește Coșul de reciclare (Coșul de gunoi)</translation>
     </message>
     <message>
         <source>Allow only one application instance</source>
@@ -9702,7 +9702,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Use .ini file in folder</source>
-        <translation>Utilizați fișierul .ini în dosar</translation>
+        <translation>Folosește fișierul .ini în dosar (folder)</translation>
     </message>
     <message>
         <source>Folder for other files</source>
@@ -9726,7 +9726,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Use Windows registry</source>
-        <translation>Utilizați registrul Windows</translation>
+        <translation>Folosește registrul Windows</translation>
     </message>
 </context>
 <context>
@@ -9737,7 +9737,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Save toolbar</source>
-        <translation>Salvați bara de instrumente</translation>
+        <translation>Salvează bara de instrumente</translation>
     </message>
     <message>
         <source>Load shortcuts</source>
@@ -9761,11 +9761,11 @@ Miniatură</translation>
     </message>
     <message>
         <source>-- NEW BAR --</source>
-        <translation>-- BAR NOU --</translation>
+        <translation>-- BARĂ NOUĂ --</translation>
     </message>
     <message>
         <source>This shortcut is already assigned for </source>
-        <translation>Această comandă rapidă este deja atribuită pentru </translation>
+        <translation>Această comandă rapidă (scurtătură) este deja atribuită pentru </translation>
     </message>
     <message>
         <source>Viewer mode</source>
@@ -9773,7 +9773,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Save shortcuts</source>
-        <translation>Salvați comenzile rapide</translation>
+        <translation>Salvează comenzile rapide (scurtăturile)</translation>
     </message>
     <message>
         <source>-- COMMAND --</source>
@@ -9806,19 +9806,19 @@ Dorești să-l reatribui?</translation>
     <name>DlgSettingsInterfaceClass</name>
     <message>
         <source>Tab</source>
-        <translation>Tab</translation>
+        <translation>Filă</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Pictograma</translation>
+        <translation>Pictogramă</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Nmic</translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>Taburi</translation>
+        <translation>File</translation>
     </message>
     <message>
         <source>Quick Slideshow</source>
@@ -9830,7 +9830,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>SPACE</source>
-        <translation>SPAŢIU</translation>
+        <translation>SPACE (SPAŢIU)</translation>
     </message>
     <message>
         <source>Display:</source>
@@ -9942,7 +9942,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation>Salvați...</translation>
+        <translation>Salvare...</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -10236,7 +10236,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
-        <translation>&lt;numefișier&gt;.&lt;extensie&gt;.xmp</translation>
+        <translation>&lt;numelefișierului&gt;.&lt;extensie&gt;.xmp</translation>
     </message>
     <message>
         <source>Categories and keywords</source>
@@ -10272,7 +10272,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use UTF-8 to write IPTC fields</source>
-        <translation>Utilizați UTF-8 pentru a scrie câmpuri IPTC</translation>
+        <translation>Folosește UTF-8 ca să scrii câmpuri IPTC</translation>
     </message>
     <message>
         <source>Export rating in XMP metadata</source>
@@ -10284,7 +10284,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.xmp</source>
-        <translation>&lt;numefișier&gt;.xmp</translation>
+        <translation>&lt;numelefișierului&gt;.xmp</translation>
     </message>
     <message>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
@@ -10350,7 +10350,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Thumbnail cell</source>
-        <translation>Celula miniatură</translation>
+        <translation>Celula miniaturii</translation>
     </message>
     <message>
         <source>Right</source>
@@ -10366,7 +10366,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Utilizați canalul alfa</translation>
+        <translation>Folosește canalul alfa</translation>
     </message>
     <message>
         <source>Spacing between labels</source>
@@ -10386,7 +10386,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Utilizați corecția gamma</translation>
+        <translation>Folosește corecția gamma</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -10442,7 +10442,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use embedded thumbnail</source>
-        <translation>Utilizați miniatura încorporată</translation>
+        <translation>Folosește miniatura încorporată</translation>
     </message>
     <message>
         <source>Sidecar</source>
@@ -10584,7 +10584,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Vedere</translation>
+        <translation>Vizualizare</translation>
     </message>
     <message>
         <source>Quick slideshow</source>
@@ -10608,7 +10608,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use checkboard pattern as background</source>
-        <translation>Utilizați modelul de șah ca fundal</translation>
+        <translation>Folosește modelul de șah ca fundal</translation>
     </message>
     <message>
         <source>Always show in fullscreen</source>
@@ -10628,7 +10628,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Utilizați corecția gamma</translation>
+        <translation>Folosește corecția gamma</translation>
     </message>
     <message>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
@@ -10668,7 +10668,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom step</source>
-        <translation>Pas de zoom</translation>
+        <translation>Pas pentru scalare</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -10708,7 +10708,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use sharpen</source>
-        <translation>Utilizați ascuțire</translation>
+        <translation>Folosește accentuarea</translation>
     </message>
     <message>
         <source>Keep current image</source>
@@ -10716,7 +10716,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation>Zoom pe ecranul HiDPI: 1 pixel de imagine este egal cu 1 pixel de ecran</translation>
+        <translation>Scalează pe ecranul HiDPI: 1 pixel de imagine este egal cu 1 pixel de ecran</translation>
     </message>
     <message>
         <source>Fixed step</source>
@@ -10752,7 +10752,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Auto zoom</source>
-        <translation>Sclare automată</translation>
+        <translation>Scalare automată</translation>
     </message>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
@@ -11010,7 +11010,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use as reference</source>
-        <translation>Utilizați ca referință</translation>
+        <translation>Folosește ca referință</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -11132,7 +11132,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use audio file</source>
-        <translation>Utilizați fișierul audio</translation>
+        <translation>Folosește fișierul audio</translation>
     </message>
     <message>
         <source>Use timer</source>
@@ -11156,7 +11156,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation>Salvați...</translation>
+        <translation>Salvare...</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -11180,7 +11180,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use transition effects</source>
-        <translation>Utilizați efecte de tranziție</translation>
+        <translation>Folosește efecte de tranziție</translation>
     </message>
     <message>
         <source>Always on Top</source>
@@ -11235,7 +11235,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Crea</translation>
+        <translation>Creare</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -11338,7 +11338,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use .ini file in folder</source>
-        <translation>Utilizați fișierul .ini în folder</translation>
+        <translation>Folosește fișierul .ini în dosar (folder)</translation>
     </message>
     <message>
         <source>Default</source>
@@ -11362,7 +11362,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use Windows registry</source>
-        <translation>Utilizați registrul Windows</translation>
+        <translation>Folosește registrul Windows</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -12067,7 +12067,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use estimated quality (when possible)</source>
-        <translation>Utilizați calitatea estimată (când este posibil)</translation>
+        <translation>Folosește calitatea estimată (când este posibil)</translation>
     </message>
     <message>
         <source>Rebuild embedded EXIF thumbnail</source>
@@ -12314,7 +12314,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Salvați presetarea</translation>
+        <translation>Salvează presetarea</translation>
     </message>
     <message>
         <source>Filter strength</source>
@@ -12715,7 +12715,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date created</source>
-        <translation>Data creării</translation>
+        <translation>Data la care a fost creată</translation>
     </message>
     <message>
         <source>Date modified</source>
@@ -12828,7 +12828,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Creation date</source>
-        <translation>Data crearii</translation>
+        <translation>Data creării</translation>
     </message>
     <message>
         <source>Filename (with extension)</source>
@@ -13206,7 +13206,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     <name>InfoCategoryView</name>
     <message>
         <source>Use Regular Expressions</source>
-        <translation>Utilizați expresii regulate</translation>
+        <translation>Folosește expresiile regulate</translation>
     </message>
     <message>
         <source>Export Categories File</source>
@@ -13306,7 +13306,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source> [Create New]</source>
-        <translation> [Creaza nou]</translation>
+        <translation> [Crează nou]</translation>
     </message>
     <message>
         <source>Catalog</source>
@@ -14237,7 +14237,7 @@ Dorești să ștergi favoritul „%1”?</translation>
 Do you want to continue?</source>
         <translation>Operația fără pierderi JPEG va modifica fișierele originale și poate elimina unii pixeli neutilizați (lățimea și înălțimea trebuie să fie multiplu de 8 pixeli)!
 
-Doriți să continuați?</translation>
+Vrei să continui?</translation>
     </message>
     <message>
         <source>Problem</source>
@@ -14296,7 +14296,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Please select which group to use</source>
-        <translation>Vă rugăm să selectați ce grup să utilizați</translation>
+        <translation>Te rugăm să selectezi ce grup să utilizezi</translation>
     </message>
     <message>
         <source>&amp;Tagged files</source>
@@ -14454,7 +14454,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>&lt;Autodetect&gt;</source>
-        <translation>&lt;Autodetectare&gt;</translation>
+        <translation>&lt;Detectare automată&gt;</translation>
     </message>
     <message>
         <source>Chinese Simplified</source>
@@ -14509,7 +14509,7 @@ Vrei să continui?</translation>
     <name>MediaPlayerMDK</name>
     <message>
         <source>Save frame as...</source>
-        <translation>Salvați cadrul ca...</translation>
+        <translation>Salvează cadrul ca...</translation>
     </message>
     <message>
         <source>Show playbar</source>
@@ -14624,7 +14624,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;Vedere</translation>
+        <translation>&amp;Vizualizare</translation>
     </message>
     <message>
         <source>Category Sets</source>
@@ -14688,27 +14688,27 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Save layout A</source>
-        <translation>Salvați aspectul A</translation>
+        <translation>Salvează aspectul A</translation>
     </message>
     <message>
         <source>Save layout B</source>
-        <translation>Salvați aspectul B</translation>
+        <translation>Salvează aspectul B</translation>
     </message>
     <message>
         <source>Save layout C</source>
-        <translation>Salvați aspectul C</translation>
+        <translation>Salvează aspectul C</translation>
     </message>
     <message>
         <source>Save layout D</source>
-        <translation>Salvați aspectul D</translation>
+        <translation>Salvează aspectul D</translation>
     </message>
     <message>
         <source>Save layout E</source>
-        <translation>Salvați aspectul E</translation>
+        <translation>Salvează aspectul E</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Utilizați canalul alfa</translation>
+        <translation>Folosește canalul alfa</translation>
     </message>
     <message>
         <source>Show tagged files</source>
@@ -14720,7 +14720,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
-        <translation>Adauga la favorite...</translation>
+        <translation>Adaugă la favorite...</translation>
     </message>
     <message>
         <source>Split image(s)...</source>
@@ -15124,7 +15124,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use tabs</source>
-        <translation>Folosiți taburi</translation>
+        <translation>Folosește filele</translation>
     </message>
     <message>
         <source>Remove from category</source>
@@ -15841,11 +15841,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>A reface</translation>
+        <translation>Refacere</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvați</translation>
+        <translation>Salvare</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -15853,11 +15853,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>Scalare</translation>
     </message>
     <message>
         <source>Filename and path</source>
-        <translation>Nume fișier și cale</translation>
+        <translation>Numele fișierului și calea</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -15873,7 +15873,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;Vedere</translation>
+        <translation>&amp;Vizualizare</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -15925,7 +15925,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Utilizați canalul alfa</translation>
+        <translation>Folosește canalul alfa</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
@@ -15969,7 +15969,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use checkerboard pattern</source>
-        <translation>Utilizați modelul de șah</translation>
+        <translation>Folosește modelul de șah</translation>
     </message>
     <message>
         <source>&amp;Image</source>
@@ -16285,7 +16285,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Save selection</source>
-        <translation>Salvați selecția</translation>
+        <translation>Salvează selecția</translation>
     </message>
     <message>
         <source>Add text...</source>
@@ -16389,7 +16389,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Save selection...</source>
-        <translation>Salvați selecția...</translation>
+        <translation>Salvează selecția...</translation>
     </message>
     <message>
         <source>Properties...</source>
@@ -16732,7 +16732,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Last used</source>
-        <translation>Folosit ultima data</translation>
+        <translation>Folosită ultima dată</translation>
     </message>
     <message>
         <source>Choose a directory</source>
@@ -16942,7 +16942,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Iconify tabs</source>
-        <translation>Iconizați Taburi</translation>
+        <translation>Iconizează filele</translation>
     </message>
     <message>
         <source>Close &amp;other tabs</source>
@@ -17968,7 +17968,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     <name>TemplateWidget</name>
     <message>
         <source>Save preset</source>
-        <translation>Salvați presetarea</translation>
+        <translation>Salvează presetarea</translation>
     </message>
     <message>
         <source>Insert &gt;&gt;</source>
@@ -18061,11 +18061,11 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Crop, Save &amp;&amp; Next</source>
-        <translation>Decupați, Salvați &amp;&amp; Următorul</translation>
+        <translation>Decupează, salvează și următorul</translation>
     </message>
     <message>
         <source>Save selection as...</source>
-        <translation>Salvați selecția ca...</translation>
+        <translation>Salvează selecția ca...</translation>
     </message>
     <message>
         <source>Selection horizontal position</source>
@@ -18229,7 +18229,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Do you want to save this session?</source>
-        <translation>Doriți să salvați această sesiune?</translation>
+        <translation>Dorești să salvezi această sesiune?</translation>
     </message>
     <message>
         <source>Creating backup, please wait...</source>
