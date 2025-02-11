@@ -14374,7 +14374,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Armenian</source>
-        <translation>Armenian</translation>
+        <translation>Հայերեն</translation>
     </message>
     <message>
         <source>Catalan</source>
