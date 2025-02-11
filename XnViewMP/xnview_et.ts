@@ -18681,7 +18681,7 @@ Kas soovite jätkata?</translation>
     <message>
         <location filename="LanguageComboBox.cpp" line="26"/>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Eesti</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="27"/>
