@@ -1239,7 +1239,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Add mask</source>
-        <translation>Adăugați mască</translation>
+        <translation>Adaugă o mască</translation>
     </message>
     <message>
         <source>Automatic contrast</source>
@@ -1247,7 +1247,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Posterize</source>
-        <translation>Posterizați</translation>
+        <translation>Posterizează</translation>
     </message>
     <message>
         <source>Pointillize</source>
@@ -1335,7 +1335,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Clean metadata</source>
-        <translation>Curățați metadatele</translation>
+        <translation>Curăță metadatele</translation>
     </message>
     <message>
         <source>De-interlace</source>
@@ -1593,7 +1593,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Do you want to continue to scan?</source>
-        <translation>Doriți să continuați scanarea?</translation>
+        <translation>Dorești să continui scanarea?</translation>
     </message>
     <message>
         <source>Continue?</source>
@@ -1621,7 +1621,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Restart TWAIN driver</source>
-        <translation>Reporniți driverul TWAIN</translation>
+        <translation>Repornește driverul TWAIN</translation>
     </message>
     <message>
         <source>Batch acquire (TWAIN)</source>
@@ -1640,7 +1640,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Select a folder</source>
-        <translation>Selectați un dosar</translation>
+        <translation>Selectează un dosar (folder)</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1648,7 +1648,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Configure Adobe Plugin</source>
-        <translation>Configurați pluginul Adobe</translation>
+        <translation>Configurează pluginul (modulul) Adobe</translation>
     </message>
 </context>
 <context>
@@ -1659,7 +1659,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Configure...</source>
-        <translation>Configurați...</translation>
+        <translation>Configurează...</translation>
     </message>
     <message>
         <source>Start...</source>
@@ -1682,7 +1682,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Creating archive, please wait...</source>
-        <translation>Se creează arhiva, așteptați...</translation>
+        <translation>Se creează arhiva, te rugăm să aștepți...</translation>
     </message>
 </context>
 <context>
@@ -2316,7 +2316,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Play sound when done</source>
-        <translation>Redați sunet când ați terminat</translation>
+        <translation>Redă un sunet când ai terminat</translation>
     </message>
     <message>
         <source>Hotkey</source>
@@ -2344,7 +2344,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Copiați în clipboard</translation>
+        <translation>Copiază în clipboard</translation>
     </message>
     <message>
         <source>Capture</source>
@@ -2415,11 +2415,11 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Add Set...</source>
-        <translation>Adăugați set...</translation>
+        <translation>Adaugă un set...</translation>
     </message>
     <message>
         <source>Copy Categories to Set...</source>
-        <translation>Copiați categoriile în set...</translation>
+        <translation>Copiază categoriile în set...</translation>
     </message>
     <message>
         <source>Enter a name for this set</source>
@@ -2427,7 +2427,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Editați ...</translation>
+        <translation>Editează...</translation>
     </message>
     <message>
         <source>New name</source>
@@ -2450,11 +2450,11 @@ Dorești să-l suprascrii?</translation>
     <name>DlgChangeDepthClass</name>
     <message>
         <source>Apply to image</source>
-        <translation>Aplicați la imagine</translation>
+        <translation>Aplică la imagine</translation>
     </message>
     <message>
         <source>Change color depth</source>
-        <translation>Schimbați adâncimea culorii</translation>
+        <translation>Schimbă adâncimea culorii</translation>
     </message>
 </context>
 <context>
@@ -2485,7 +2485,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Clean metadata</source>
-        <translation>Curățați metadatele</translation>
+        <translation>Curăță metadatele</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
@@ -2606,7 +2606,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation>Afișați informații</translation>
+        <translation>Arată informațiile</translation>
     </message>
     <message>
         <source>File list</source>
@@ -2718,7 +2718,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Informație</translation>
+        <translation>Informații</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -2766,7 +2766,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Spacing (pixels)</source>
-        <translation>Spațiere (pixeli)</translation>
+        <translation>Spațiere (în pixeli)</translation>
     </message>
     <message>
         <source>You need to choose an output folder.</source>
@@ -2829,7 +2829,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Would you like to export filenames, too?</source>
-        <translation>Doriți să exportați și numele fișierelor?</translation>
+        <translation>Ai dori să exporți și numele fișierelor?</translation>
     </message>
     <message>
         <source>Save log as...</source>
@@ -2945,7 +2945,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Load script</source>
-        <translation>Încărcați scriptul</translation>
+        <translation>Încarcă scriptul</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
@@ -2993,7 +2993,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnConvert este oferit ca program gratuit pentru uz privat (necomercial) sau educațional, inclusiv pentru organizații non-profit. &lt;br&gt;Compania trebuie să achiziționeze licențe pentru a-l putea folosi.&lt;br&gt;&lt;br&gt;Vi se acordă dreptul de a utiliza și de a face un număr nelimitat de copii ale acestui software.&lt;br&gt;&lt;br&gt;Aceste software sunt furnizate „ așa cum este&quot;.&lt;br&gt;Nu este exprimată sau implicită nicio garanție de niciun fel.&lt;br&gt;Autorul nu va fi responsabil pentru pierderea datelor, daune, pierderi de profit sau orice alt fel de pierdere în timpul utilizării sau utilizării abuzive a acestui software.&lt; br&gt;&lt;br&gt;Orice sugestii, feedback și comentarii sunt binevenite. </translation>
+        <translation>&lt;br&gt;XnConvert este oferit ca program gratuit pentru uz privat (necomercial) sau educațional, inclusiv pentru organizații non-profit. &lt;br&gt;Compania trebuie să achiziționeze licențe pentru a-l putea folosi.&lt;br&gt;&lt;br&gt;Ți se acordă dreptul de a utiliza și de a face un număr nelimitat de copii ale acestui software.&lt;br&gt;&lt;br&gt;Aceste software sunt furnizate „așa cum sunt&quot;.&lt;br&gt;Nu este exprimată sau implicită nicio garanție de niciun fel.&lt;br&gt;Autorul nu va fi responsabil pentru pierderea datelor, daune, pierderi de profit sau orice alt fel de pierdere în timpul utilizării sau utilizării abuzive a acestui software.&lt; br&gt;&lt;br&gt;Orice sugestii, feedback și comentarii sunt binevenite. </translation>
     </message>
     <message>
         <source>: saved</source>
@@ -3417,7 +3417,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Păstrați raportul</translation>
+        <translation>Păstrează raportul</translation>
     </message>
     <message>
         <source>Center</source>
@@ -3564,7 +3564,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove preset from list</source>
-        <translation>Eliminați presetarea din listă</translation>
+        <translation>Elimină presetarea din listă</translation>
     </message>
     <message>
         <source>Load image...</source>
@@ -3604,7 +3604,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Preserve Metadata</source>
-        <translation>Păstrați metadatele</translation>
+        <translation>Păstrează metadatele</translation>
     </message>
     <message>
         <source>After conversion</source>
@@ -3612,7 +3612,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Load format settings...</source>
-        <translation>Încărcați setările de format...</translation>
+        <translation>Încarcă setările formatului...</translation>
     </message>
     <message>
         <source>Processing list:</source>
@@ -3628,7 +3628,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Update preview</source>
-        <translation>Actualizați previzualizarea</translation>
+        <translation>Actualizează previzualizarea</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
@@ -3640,7 +3640,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
-        <translation>Adăugați „Conversie cu XnConvert” în meniul contextual</translation>
+        <translation>Adaugă „Convertire cu XnConvert” în meniul contextual</translation>
     </message>
     <message>
         <source>Save script as</source>
@@ -3660,7 +3660,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove unfiltered</source>
-        <translation>Eliminați nefiltrat</translation>
+        <translation>Elimină elementul nefiltrat</translation>
     </message>
     <message>
         <source>Monthly</source>
@@ -3708,7 +3708,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Keep parent folder</source>
-        <translation>Păstrați dosarul părinte</translation>
+        <translation>Păstrează dosarul (folderul) părinte</translation>
     </message>
     <message>
         <source>Output</source>
@@ -3748,7 +3748,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Preserve extension</source>
-        <translation>Păstrați extensia</translation>
+        <translation>Păstrează extensia</translation>
     </message>
     <message>
         <source>Start index</source>
@@ -3788,7 +3788,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Load preset</source>
-        <translation>Încărcați presetarea</translation>
+        <translation>Încarcă presetarea</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -3800,11 +3800,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Load script</source>
-        <translation>Încărcați scriptul</translation>
+        <translation>Încarcă scriptul</translation>
     </message>
     <message>
         <source>Add action&gt;</source>
-        <translation>Adăugați acțiune&gt;</translation>
+        <translation>Adaugă o acțiune&gt;</translation>
     </message>
     <message>
         <source>Remaining:</source>
@@ -3820,7 +3820,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Restore previous input file list</source>
-        <translation>Restaurați lista anterioară de fișiere de intrare</translation>
+        <translation>Restaurează lista anterioară de fișiere de intrare</translation>
     </message>
     <message>
         <source>As original</source>
@@ -3852,7 +3852,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove script from list</source>
-        <translation>Eliminați scriptul din listă</translation>
+        <translation>Elimină scriptul din listă</translation>
     </message>
     <message>
         <source>Processing</source>
@@ -3892,11 +3892,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add files...</source>
-        <translation>Adăugați fișiere...</translation>
+        <translation>Adaugă fișiere...</translation>
     </message>
     <message>
         <source>Remove filtered</source>
-        <translation>Eliminați filtratul</translation>
+        <translation>Elimină elementul filtrat</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
@@ -3924,7 +3924,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Keep original date/time attributes</source>
-        <translation>Păstrați atributele originale de dată/ora</translation>
+        <translation>Păstrează atributele originale de dată/oră</translation>
     </message>
     <message>
         <source>Clear filename field at startup</source>
@@ -3948,7 +3948,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Load last script used at startup</source>
-        <translation>Încărcați ultimul script folosit la pornire</translation>
+        <translation>Încărcă ultimul script folosit la pornire</translation>
     </message>
     <message>
         <source>Name uppercase</source>
@@ -3956,11 +3956,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Verificați actualizările programului</translation>
+        <translation>Verifică actualizările programului</translation>
     </message>
     <message>
         <source>Keep folder structure</source>
-        <translation>Păstrați structura folderului</translation>
+        <translation>Păstrează structura folderului (dosarului)</translation>
     </message>
     <message>
         <source>Next file</source>
@@ -3976,7 +3976,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Apply actions</source>
-        <translation>Aplicați acțiuni</translation>
+        <translation>Aplică acțiunile</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
@@ -4228,7 +4228,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Keep print size</source>
-        <translation>Păstrați dimensiunea de imprimare</translation>
+        <translation>Păstrează dimensiunea de imprimare</translation>
     </message>
 </context>
 <context>
@@ -4299,7 +4299,7 @@ Vrei să continui?</translation>
     <name>DlgConvertICC</name>
     <message>
         <source>Load ICC profile</source>
-        <translation>Încărcați profilul ICC</translation>
+        <translation>Încarcă profilul ICC</translation>
     </message>
 </context>
 <context>
@@ -4314,7 +4314,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Ignore embedded profile</source>
-        <translation>Ignorați profilul încorporat</translation>
+        <translation>Ignoră profilul încorporat</translation>
     </message>
     <message>
         <source>Black point compensation</source>
@@ -4375,7 +4375,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IPTC-IIM, actualizați sau creați XMP</translation>
+        <translation>IPTC-IIM, actualizează sau crează XMP</translation>
     </message>
     <message>
         <source>XMP only</source>
@@ -4403,12 +4403,12 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, actualizați sau creați IPTC-IIM</translation>
+        <translation>XMP, actualizează sau crează IPTC-IIM</translation>
     </message>
     <message>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>Păstrați și adăugați valoare nouă
+        <translation>Păstrează și adaugă o valoare nouă
  (Cuvinte cheie și categorii suplimentare)</translation>
     </message>
     <message>
@@ -4563,7 +4563,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Wrap image around</source>
-        <translation>Înfășurați imaginea</translation>
+        <translation>Înfășoară imaginea</translation>
     </message>
     <message>
         <source>Right</source>
@@ -4579,7 +4579,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Repeat edges pixels</source>
-        <translation>Repetați marginile pixelilor</translation>
+        <translation>Repetă marginile pixelilor</translation>
     </message>
     <message>
         <source>Empty Area</source>
@@ -5074,7 +5074,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Adjust to image&apos;s width</source>
-        <translation>Ajustați la lățimea imaginii</translation>
+        <translation>Ajusteaz-o la lățimea imaginii</translation>
     </message>
     <message>
         <source>Aspect</source>
@@ -5368,7 +5368,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Insert all pages from multipage source files</source>
-        <translation>Inserați toate paginile din fișierele sursă cu mai multe pagini</translation>
+        <translation>Inserează toate paginile din fișierele sursă cu mai multe pagini</translation>
     </message>
     <message>
         <source>After finish</source>
@@ -5392,7 +5392,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Create multi-page file</source>
-        <translation>Creați fișier cu mai multe pagini</translation>
+        <translation>Crează un fișier cu mai multe pagini</translation>
     </message>
     <message>
         <source>Open File Explorer</source>
@@ -5400,7 +5400,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Creating multipage file, please wait...</source>
-        <translation>Se creează fișierul cu mai multe pagini, așteptați...</translation>
+        <translation>Se creează fișierul cu mai multe pagini, așteaptă...</translation>
     </message>
     <message>
         <source>Problem</source>
@@ -5443,7 +5443,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Editați...</translation>
+        <translation>Editare...</translation>
     </message>
     <message>
         <source>Defaults</source>
@@ -5470,7 +5470,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Resetați</translation>
+        <translation>Resetează</translation>
     </message>
     <message>
         <source>Curves</source>
@@ -14740,7 +14740,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Select TWAIN source...</source>
-        <translation>Selectați sursa TWAIN...</translation>
+        <translation>Selectează sursa TWAIN...</translation>
     </message>
     <message>
         <source>Open in Finder</source>
@@ -14892,7 +14892,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation>Achiziționați (TWAIN)</translation>
+        <translation>Achiziționează (TWAIN)</translation>
     </message>
     <message>
         <source>Print size</source>
@@ -15364,7 +15364,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Acquire into (TWAIN)...</source>
-        <translation>Achiziționați în (TWAIN)...</translation>
+        <translation>Achiziționează în (TWAIN)...</translation>
     </message>
     <message>
         <source>Open all selected</source>
@@ -15941,7 +15941,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Select TWAIN source...</source>
-        <translation>Selectați sursa TWAIN...</translation>
+        <translation>Selectează sursa TWAIN...</translation>
     </message>
     <message>
         <source>Open in Finder</source>
@@ -16045,7 +16045,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation>Achiziționați (TWAIN)</translation>
+        <translation>Achiziționează (TWAIN)</translation>
     </message>
     <message>
         <source>Batch convert...</source>
@@ -16401,7 +16401,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Acquire into (TWAIN)...</source>
-        <translation>Achiziționați în (TWAIN)...</translation>
+        <translation>Achiziționează în (TWAIN)...</translation>
     </message>
     <message>
         <source>White Balance...</source>
