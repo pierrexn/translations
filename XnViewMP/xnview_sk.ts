@@ -1809,7 +1809,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
         <source>Video</source>
-        <translation type="unfinished">Video súbory</translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
@@ -1830,7 +1830,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmazať viac</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -1875,7 +1875,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Osirelý</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="729"/>
@@ -4200,7 +4200,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Zväčšiť</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -4888,7 +4888,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvert.ui" line="464"/>
         <source>Last file</source>
-        <translation type="unfinished">Posledný súbor</translation>
+        <translation>Posledný súbor</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="565"/>
@@ -5795,7 +5795,7 @@ Chcete pokračovať?</translation>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished">Roztiahnuť masku</translation>
+        <translation>Roztiahnuť</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
@@ -6733,7 +6733,7 @@ Chcete pokračovať?</translation>
         <location filename="DlgConvertWatermark.ui" line="155"/>
         <source>Tile</source>
         <oldsource>Tiling</oldsource>
-        <translation type="unfinished">Dlaždičkovanie</translation>
+        <translation>Dlaždica</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="189"/>
@@ -6880,7 +6880,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvertXMP.ui" line="35"/>
         <source>Load template...</source>
-        <translation type="unfinished">Načítať šablónu...</translation>
+        <translation>Načítať šablónu...</translation>
     </message>
 </context>
 <context>
@@ -7748,7 +7748,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgExport.ui" line="495"/>
         <source>Convert to XYB colorspace</source>
-        <translation type="unfinished">Konvertovať do farebného priestoru XYB</translation>
+        <translation>Konvertovať do farebného priestoru XYB</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="575"/>
@@ -9355,7 +9355,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgOpenWith.ui" line="52"/>
         <source>Path</source>
-        <translation type="unfinished">Cesta</translation>
+        <translation>Cesta</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="57"/>
@@ -10250,7 +10250,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
         <location filename="DlgRegistration.ui" line="20"/>
         <source>Person/Company name:</source>
         <oldsource>Name/Company name:</oldsource>
-        <translation type="unfinished">Meno/Názov firmy:</translation>
+        <translation>Meno/Názov firmy:</translation>
     </message>
     <message>
         <location filename="DlgRegistration.ui" line="30"/>
@@ -10862,13 +10862,13 @@ Chcete ich odstrániť?</translation>
         <location filename="DlgSearch.ui" line="87"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
-        <translation type="unfinished">Použiť katalóg</translation>
+        <translation>Vyhľadávať iba v katalógu</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="114"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation type="unfinished">Vrátane podadresárov</translation>
+        <translation>Hľadať v podpriečinkoch</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
@@ -10889,7 +10889,7 @@ Chcete ich odstrániť?</translation>
         <location filename="DlgSearch.ui" line="121"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
-        <translation type="unfinished">&amp;Zahrnúť priečinky</translation>
+        <translation>Hľadať v názvoch priečinkov</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="141"/>
@@ -10975,7 +10975,7 @@ Chcete ich odstrániť?</translation>
         <location filename="DlgSearch.ui" line="53"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
-        <translation type="unfinished">Názov súboru</translation>
+        <translation>&amp;Názov súboru</translation>
     </message>
 </context>
 <context>
@@ -11921,7 +11921,7 @@ Miniatúru</translation>
         <location filename="DlgSettingsGeneral.ui" line="105"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation type="unfinished">Povoliť len jedno spustenie XnView</translation>
+        <translation>Povoliť iba jednu inštanciu aplikácie</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="119"/>
@@ -12207,12 +12207,12 @@ Miniatúru</translation>
         <location filename="DlgSettingsGeneral.ui" line="605"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation type="unfinished">Duplicitné súbory</translation>
+        <translation>Duplicitné názvy súborov</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="530"/>
         <source>Save changes to file</source>
-        <translation type="unfinished">Uložiť zmeny do súboru</translation>
+        <translation>Uložiť zmeny do súboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="616"/>
@@ -12375,12 +12375,12 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="503"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView súbor prezentácie</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="510"/>
         <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 súbor obrázka</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="701"/>
@@ -12756,7 +12756,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished">Záhlavie okna</translation>
+        <translation>Záhlavie okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -12778,78 +12778,78 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="682"/>
         <source>StatusBar</source>
-        <translation type="unfinished">Stavový riadok</translation>
+        <translation>Stavový riadok</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="714"/>
         <location filename="DlgSettingsInterface.ui" line="830"/>
         <source>File date</source>
-        <translation type="unfinished">Dátum súboru</translation>
+        <translation>Dátum súboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="722"/>
         <location filename="DlgSettingsInterface.ui" line="838"/>
         <source>File created date</source>
-        <translation type="unfinished">Dátum vytvorenia súboru</translation>
+        <translation>Dátum vytvorenia súboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="727"/>
         <location filename="DlgSettingsInterface.ui" line="843"/>
         <source>File modified date</source>
-        <translation type="unfinished">Dátum poslednej zmeny súboru</translation>
+        <translation>Dátum poslednej zmeny súboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="732"/>
         <location filename="DlgSettingsInterface.ui" line="848"/>
         <source>EXIF date taken</source>
-        <translation type="unfinished">EXIF dátum zhotovenia</translation>
+        <translation>EXIF dátum zhotovenia</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="737"/>
         <location filename="DlgSettingsInterface.ui" line="853"/>
         <source>EXIF date modified</source>
-        <translation type="unfinished">EXIF dátum poslednej zmeny</translation>
+        <translation>EXIF dátum poslednej zmeny</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="698"/>
         <location filename="DlgSettingsInterface.ui" line="814"/>
         <source>Filename</source>
-        <translation type="unfinished">Názov súboru</translation>
+        <translation>Názov súboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="760"/>
         <location filename="DlgSettingsInterface.ui" line="876"/>
         <source>Properties</source>
-        <translation type="unfinished">Vlastnosti</translation>
+        <translation>Vlastnosti</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="767"/>
         <location filename="DlgSettingsInterface.ui" line="883"/>
         <source>Print size</source>
-        <translation type="unfinished">Veľkosť pre tlač</translation>
+        <translation>Veľkosť tlače</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="705"/>
         <location filename="DlgSettingsInterface.ui" line="821"/>
         <source>File size</source>
-        <translation type="unfinished">Veľkosť súboru</translation>
+        <translation>Veľkosť súboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Zapustený komentár</translation>
+        <translation>Vložený komentár</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
         <location filename="DlgSettingsInterface.ui" line="904"/>
         <source>Description</source>
-        <translation type="unfinished">Popis</translation>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="890"/>
         <source>Zoom</source>
-        <translation type="unfinished">Priblíženie</translation>
+        <translation>Priblíženie</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1141"/>
@@ -12917,7 +12917,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation type="unfinished">Približiť a posunúť</translation>
+        <translation>Približiť a posunúť</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -12977,7 +12977,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation type="unfinished">Presunúť obrázok</translation>
+        <translation>Posunúť obrázok</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -13041,7 +13041,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Prehliadač – miniatúra</translation>
+        <translation>Prehliadač – zoznam súborov</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
@@ -13131,7 +13131,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2259"/>
         <source>Switching modes</source>
-        <translation type="unfinished">Prepínanie režimov</translation>
+        <translation>Prepínanie režimov</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2286"/>
@@ -13382,7 +13382,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation type="unfinished">Vytvárať miniatúry vo vysokej kvalite</translation>
+        <translation>Vytvorte vysokokvalitnú miniatúru (bilineárny filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -13404,7 +13404,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
-        <translation type="unfinished">Zaostrovať miniatúru</translation>
+        <translation>Použiť ostrenie</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -13512,17 +13512,17 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnanie obrázka</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="476"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Horná časť</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Spodná časť</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="511"/>
@@ -13537,37 +13537,37 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Farby popiskov</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Používať farby podľa formátu</translation>
+        <translation>Použiť farbu podľa formátu súboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1186"/>
         <source>Enter an extension:</source>
-        <translation type="unfinished">Zadajte príponu:</translation>
+        <translation>Zadajte príponu:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1196"/>
         <source>or choose a format:</source>
-        <translation type="unfinished">alebo vyberte formát:</translation>
+        <translation>alebo vyberte formát:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1242"/>
         <source>New</source>
-        <translation type="unfinished">Nová</translation>
+        <translation>Nová</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1252"/>
         <source>Remove</source>
-        <translation type="unfinished">Odobrať</translation>
+        <translation>Odobrať</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1276"/>
         <source>Default color</source>
-        <translation type="unfinished">Predvolená farba</translation>
+        <translation>Predvolená farba</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="481"/>
@@ -13593,7 +13593,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="883"/>
         <source>Companion</source>
-        <translation type="unfinished">Spoločník</translation>
+        <translation>Spoločník</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1054"/>
@@ -13664,7 +13664,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation type="unfinished">Prehliadač – Miniatúra</translation>
+        <translation>Prehliadač › Zobraziť › Zobraziť ako › Miniatúry + štítky</translation>
     </message>
 </context>
 <context>
@@ -15389,25 +15389,25 @@ Chcette pokračovať?</translation>
         <location filename="DlgWallpaper.ui" line="33"/>
         <source>Center</source>
         <oldsource>Centered</oldsource>
-        <translation type="unfinished">Do stredu</translation>
+        <translation>Do stredu</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="38"/>
         <source>Tile</source>
         <oldsource>Tiled</oldsource>
-        <translation type="unfinished">Ako dlaždice</translation>
+        <translation>Dlaždica</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished">Ako dlaždice od stredu</translation>
+        <translation>Dlaždica zo stredu</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished">Natiahnutý</translation>
+        <translation>Natiahnuť</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
@@ -15458,12 +15458,12 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="DlgWriteAvif.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">Najvyššia</translation>
+        <translation>Najvyššia</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Bezstratová kompresia</translation>
+        <translation>Bezstratová kompresia</translation>
     </message>
     <message>
         <location filename="DlgWriteAvif.ui" line="112"/>
@@ -15518,12 +15518,12 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="DlgWriteHeic.ui" line="79"/>
         <source>Best</source>
-        <translation type="unfinished">Najvyššia</translation>
+        <translation>Najvyššia</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="101"/>
         <source>Lossless compression</source>
-        <translation type="unfinished">Bezstratová kompresia</translation>
+        <translation>Bezstratová kompresia</translation>
     </message>
     <message>
         <location filename="DlgWriteHeic.ui" line="94"/>
@@ -15944,7 +15944,7 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="57"/>
         <source>Description</source>
-        <translation type="unfinished">Popis</translation>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
@@ -15954,72 +15954,72 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="144"/>
         <source>Copyright status</source>
-        <translation type="unfinished">Stav autorských práv</translation>
+        <translation>Stav autorských práv</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="152"/>
         <source>Undefined</source>
-        <translation type="unfinished">Neurčené</translation>
+        <translation>Nedefinované</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="157"/>
         <source>Protected by copyright</source>
-        <translation type="unfinished">Chránené zákonom o autorských právach</translation>
+        <translation>Chránené zákonom o autorských právach</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="162"/>
         <source>Public domain</source>
-        <translation type="unfinished">Verejná doména</translation>
+        <translation>Verejná doména</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="216"/>
         <source>Creation Date: </source>
-        <translation type="unfinished">Dátum vytvorenia: </translation>
+        <translation>Dátum vytvorenia: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="230"/>
         <source>Modification Date: </source>
-        <translation type="unfinished">Dátum poslednej zmeny: </translation>
+        <translation>Dátum poslednej zmeny: </translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="262"/>
         <source>Keywords</source>
-        <translation type="unfinished">Kľúčové slová</translation>
+        <translation>Kľúčové slová</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="268"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished">(Na oddelenie kľúčových slov v hierarchii použite | (pajpu))</translation>
+        <translation>(Na oddelenie kľúčových slov v hierarchii použite | (pajpu))</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="295"/>
         <source>Apply parent categories</source>
-        <translation type="unfinished">Použiť nadradené kategórie</translation>
+        <translation>Použiť nadradené kategórie</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="303"/>
         <source>Origin</source>
-        <translation type="unfinished">Pôvod</translation>
+        <translation>Pôvod</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="341"/>
         <source>Date created</source>
-        <translation type="unfinished">Dátum vytvorenia</translation>
+        <translation>Dátum vytvorenia</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="433"/>
         <source>Urgency</source>
-        <translation type="unfinished">Naliehavosť</translation>
+        <translation>Naliehavosť</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="463"/>
         <source>IPTC Contact</source>
-        <translation type="unfinished">IPTC kontakt</translation>
+        <translation>IPTC kontakt</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="515"/>
         <source>IPTC extensions</source>
-        <translation type="unfinished">IPTC prípony</translation>
+        <translation>IPTC prípony</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="609"/>
@@ -16029,107 +16029,107 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="630"/>
         <source>Mode:</source>
-        <translation type="unfinished">Režim:</translation>
+        <translation>Režim:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="638"/>
         <source>XMP only</source>
-        <translation type="unfinished">Iba XMP</translation>
+        <translation>Iba XMP</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, aktualizovať alebo vytvoriť IPTC-IIM</translation>
+        <translation>XMP, aktualizovať alebo vytvoriť IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
         <source>Multiple selection</source>
-        <translation type="unfinished">Viacnásobný výber</translation>
+        <translation>Viacnásobný výber</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponechať a pridať novú hodnotu (kľúčové slová)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Zachovať pôvodnú hodnotu ak je nová hodnota prázdna</translation>
+        <translation>Zachovať pôvodnú hodnotu ak je nová hodnota prázdna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="695"/>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Nahradiť len ak je pôvodna hodnota prázdna</translation>
+        <translation>Nahradiť len ak je pôvodná hodnota prázdna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="705"/>
         <source>Remember opened tab</source>
-        <translation type="unfinished">Zapamätať si otvorenú kartu</translation>
+        <translation>Zapamätať si otvorenú kartu</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="68"/>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished">(Použiť ; alebo , pre oddelenie kľúčových slov)</translation>
+        <translation>(Použiť ; alebo , pre oddelenie kľúčových slov)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="121"/>
         <source>0: None</source>
-        <translation type="unfinished">0: Žiadna</translation>
+        <translation>0: Žiadna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="121"/>
         <source>1: High</source>
-        <translation type="unfinished">1: Vysoká</translation>
+        <translation>1: Vysoká</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="122"/>
         <source>5: Normal</source>
-        <translation type="unfinished">5: Normálna</translation>
+        <translation>5: Normálna</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="122"/>
         <source>8: Low</source>
-        <translation type="unfinished">8: Nízka</translation>
+        <translation>8: Nízka</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="302"/>
         <source>Required field</source>
-        <translation type="unfinished">Požadované pole</translation>
+        <translation>Požadované pole</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="302"/>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished">Niektoré polia sú povinné, vyplňte ich!</translation>
+        <translation>Niektoré polia sú povinné, vyplňte ich!</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="444"/>
         <source>Insert</source>
-        <translation type="unfinished">Vložiť</translation>
+        <translation>Vložiť</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="456"/>
         <source>Insert from</source>
-        <translation type="unfinished">Vložiť z</translation>
+        <translation>Vložiť z</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="477"/>
         <source>Copy into</source>
-        <translation type="unfinished">Kopírovať do</translation>
+        <translation>Kopírovať do</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="501"/>
         <source>Library</source>
-        <translation type="unfinished">Knižnica</translation>
+        <translation>Knižnica</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="506"/>
         <source>Edit history...</source>
-        <translation type="unfinished">Upraviť históriu...</translation>
+        <translation>Upraviť históriu...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="507"/>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Zoradiť podľa abecedy</translation>
+        <translation>Zoradiť podľa abecedy</translation>
     </message>
 </context>
 <context>
@@ -16278,7 +16278,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="23"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
-        <translation type="unfinished">Malé miniatúry</translation>
+        <translation>Malé miniatúry</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="28"/>
@@ -16289,7 +16289,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="FileListWidget.cpp" line="33"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
-        <translation type="unfinished">Veľké miniatúry</translation>
+        <translation>Veľké miniatúry</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="38"/>
@@ -16304,12 +16304,12 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="53"/>
         <source>Remove filtered</source>
-        <translation type="unfinished">Odobrať filtrované</translation>
+        <translation>Odobrať filtrované</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove unfiltered</source>
-        <translation type="unfinished">Odobrať nefiltrované</translation>
+        <translation>Odobrať nefiltrované</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -16339,7 +16339,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="328"/>
@@ -16904,7 +16904,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2775"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished">Názov súboru (posledné číslo)</translation>
+        <translation>Názov súboru (posledné číslo)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="344"/>
@@ -17034,12 +17034,12 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2561"/>
         <source>DPI-X</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-X</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2562"/>
         <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI-Y</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2758"/>
@@ -18264,7 +18264,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
         <source>Country Code</source>
-        <translation type="unfinished">Kód krajiny</translation>
+        <translation>Kód krajiny</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="119"/>
@@ -19206,7 +19206,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neoznačené súbory</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="458"/>
@@ -19256,7 +19256,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
         <source>Set Category</source>
-        <translation type="unfinished">Nastaviť kategóriu</translation>
+        <translation>Nastaviť kategóriu</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
@@ -20179,7 +20179,7 @@ Chcete pokračovať?</translation>
         <location filename="BrowserMenu.h" line="582"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">JPEG bezstratové transformácie</translation>
+        <translation>JPEG bezstratové transformácie</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="584"/>
@@ -21173,7 +21173,7 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="437"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">Prejsť na pozíciu x,y...</translation>
+        <translation>Posunúť na súradnice...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -21204,7 +21204,7 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="728"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">Metaúdaje</translation>
+        <translation>Metaúdaje</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="729"/>
@@ -21264,12 +21264,12 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>Set Rating</source>
-        <translation type="unfinished">Nastaviť hodnotenie</translation>
+        <translation>Nastaviť hodnotenie</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="394"/>
         <source>Set Color label</source>
-        <translation type="unfinished">Nastaviť farbu štítku</translation>
+        <translation>Nastaviť farbu štítku</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21633,7 +21633,7 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="525"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
-        <translation type="unfinished">JPEG bezstratové transformácie</translation>
+        <translation>JPEG bezstratové transformácie</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="527"/>
@@ -21789,13 +21789,13 @@ Chcete pokračovať?</translation>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save a copy</source>
-        <translation type="unfinished">Uložiť kópiu</translation>
+        <translation>Uložiť kópiu</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="558"/>
         <location filename="Helper.cpp" line="639"/>
         <source>Save as</source>
-        <translation type="unfinished">Uložiť ako</translation>
+        <translation>Uložiť ako</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
@@ -22137,7 +22137,7 @@ Chcete pokračovať?</translation>
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
-        <translation type="unfinished">Veľkosť miniatúr uložených vo vyrovnávacej pamäti je menšia ako vybratá.
+        <translation>Veľkosť miniatúr uložených vo vyrovnávacej pamäte je menšia ako vybratá. 
 Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     </message>
     <message>
@@ -22592,7 +22592,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished">Roztiahnuť obrázok</translation>
+        <translation>Roztiahnuť</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="436"/>
@@ -22662,7 +22662,7 @@ Kliknite pravým tlačidlom myši na vyskakovacie menu s akciami.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="490"/>
         <source>Map</source>
-        <translation type="unfinished">Mapa</translation>
+        <translation>Mapa</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="571"/>
@@ -23460,32 +23460,32 @@ Kliknite pravým tlačidlom myši na vyskakovacie menu s akciami.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="47"/>
         <source>Advanced search</source>
-        <translation type="unfinished">Rozšírené vyhľadávanie</translation>
+        <translation>Rozšírené vyhľadávanie</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Vyhľadávať v</translation>
+        <translation>Vyhľadávať v</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="151"/>
         <source>IPTC fields</source>
-        <translation type="unfinished">poliach IPTC</translation>
+        <translation>poliach IPTC</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="159"/>
         <source>Embedded comment</source>
-        <translation type="unfinished">Zapustený komentár</translation>
+        <translation>Vložený komentár</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="164"/>
         <source>Description</source>
-        <translation type="unfinished">Popis</translation>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="169"/>
         <source>Categories (catalog)</source>
-        <translation type="unfinished">Kategórie (katalóg)</translation>
+        <translation>Kategórie (katalóg)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="174"/>
