@@ -7744,7 +7744,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="503"/>
         <source>Color</source>
-        <translation type="unfinished">Kleur</translation>
+        <translation>Kleur</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="582"/>
@@ -7769,22 +7769,22 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="610"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metagegevens</translation>
+        <translation>Metagegevens</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="616"/>
         <source>Keep EXIF</source>
-        <translation type="unfinished">EXIF behouden</translation>
+        <translation>EXIF behouden</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="623"/>
         <source>Keep IPTC</source>
-        <translation type="unfinished">IPTC behouden</translation>
+        <translation>IPTC behouden</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="630"/>
         <source>Keep XMP</source>
-        <translation type="unfinished">XMP behouden</translation>
+        <translation>XMP behouden</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="672"/>
@@ -12202,27 +12202,27 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
         <source>Theme</source>
-        <translation type="unfinished">Thema</translation>
+        <translation>Thema</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="92"/>
         <source>Default</source>
-        <translation type="unfinished">Standaard</translation>
+        <translation>Standaard</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="97"/>
         <source>Light</source>
-        <translation type="unfinished">Licht</translation>
+        <translation>Licht</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
         <source>Dark</source>
-        <translation type="unfinished">Donker</translation>
+        <translation>Donker</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="107"/>
         <source>Black</source>
-        <translation type="unfinished">Zwart</translation>
+        <translation>Zwart</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
@@ -15656,7 +15656,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished">JPEG-li gebruiken</translation>
+        <translation>JPEG-li gebruiken</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
