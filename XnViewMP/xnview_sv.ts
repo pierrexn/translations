@@ -311,22 +311,22 @@
 &quot;%1&quot; (%2 objekt)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
+        <location filename="ViewWindow.cpp" line="2961"/>
         <source>Confirm Save</source>
         <translation>Bekräfta Spara</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2961"/>
+        <location filename="ViewWindow.cpp" line="2962"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; finns redan!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2961"/>
+        <location filename="ViewWindow.cpp" line="2962"/>
         <source>Do you want to overwrite it?</source>
         <translation>Vill du skriva över den?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4393"/>
+        <location filename="ViewWindow.cpp" line="4394"/>
         <source>Number of unique colors: %1</source>
         <translation>Antal unika färger: %1</translation>
     </message>
@@ -372,48 +372,48 @@
         <translation>&lt; Tom &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2942"/>
-        <location filename="ViewWindow.cpp" line="2952"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
+        <location filename="ViewWindow.cpp" line="2953"/>
         <source>Save</source>
         <translation>Spara</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2942"/>
+        <location filename="ViewWindow.cpp" line="2943"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Bilden kommer att konverteras till 24-bitars RGB (8 bitar per kanal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2952"/>
+        <location filename="ViewWindow.cpp" line="2953"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Filen &lt;%1&gt; är skrivskyddad, välj ett annat filnamn.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2985"/>
-        <location filename="ViewWindow.cpp" line="3116"/>
-        <location filename="ViewWindow.cpp" line="3166"/>
+        <location filename="ViewWindow.cpp" line="2986"/>
+        <location filename="ViewWindow.cpp" line="3117"/>
+        <location filename="ViewWindow.cpp" line="3167"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Sparar bild...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2987"/>
-        <location filename="ViewWindow.cpp" line="3168"/>
+        <location filename="ViewWindow.cpp" line="2988"/>
+        <location filename="ViewWindow.cpp" line="3169"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2987"/>
-        <location filename="ViewWindow.cpp" line="3168"/>
+        <location filename="ViewWindow.cpp" line="2988"/>
+        <location filename="ViewWindow.cpp" line="3169"/>
         <source>An error occurred during saving!</source>
         <translation>Ett fel inträffade vid sparande!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3257"/>
+        <location filename="ViewWindow.cpp" line="3258"/>
         <source>Properties</source>
         <translation>Egenskaper</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4393"/>
+        <location filename="ViewWindow.cpp" line="4394"/>
         <source>Colors count</source>
         <translation>Antal färger</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4876"/>
+        <location filename="ViewWindow.cpp" line="4878"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4867"/>
-        <location filename="ViewWindow.cpp" line="4876"/>
+        <location filename="ViewWindow.cpp" line="4869"/>
+        <location filename="ViewWindow.cpp" line="4878"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Filen kan inte läsas in!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4867"/>
+        <location filename="ViewWindow.cpp" line="4869"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>XnView MP kräver att Ghostscript %1 finns installerat på ditt system, för att visa och konvertera PDF/PS/EPS/AI-filer.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4868"/>
+        <location filename="ViewWindow.cpp" line="4870"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Besök %1 för vidare information.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4880"/>
+        <location filename="ViewWindow.cpp" line="4882"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Tom &gt;</translation>
     </message>
@@ -991,87 +991,87 @@ Dra och släpp över önskad nod för att tilldela.</translation>
 <context>
     <name>CompareWidget</name>
     <message>
-        <location filename="CompareWidget.cpp" line="43"/>
+        <location filename="CompareWidget.cpp" line="44"/>
         <source>Grid</source>
         <translation>Stödlinjer</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="45"/>
+        <location filename="CompareWidget.cpp" line="46"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="47"/>
+        <location filename="CompareWidget.cpp" line="48"/>
         <source>CRC</source>
         <translation>CRC</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="49"/>
+        <location filename="CompareWidget.cpp" line="50"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="541"/>
+        <location filename="CompareWidget.cpp" line="542"/>
         <source>Zoom out</source>
         <translation>Zooma ut</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="544"/>
+        <location filename="CompareWidget.cpp" line="545"/>
         <source>Zoom in</source>
         <translation>Zooma in</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="547"/>
+        <location filename="CompareWidget.cpp" line="548"/>
         <source>Zoom 100%</source>
         <translation>Zoom 100%</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="550"/>
+        <location filename="CompareWidget.cpp" line="551"/>
         <source>Best fit</source>
         <translation>Bästa anpassning</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="574"/>
+        <location filename="CompareWidget.cpp" line="575"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1164"/>
+        <location filename="CompareWidget.cpp" line="1172"/>
         <source>Delete file</source>
         <translation>Ta bort fil</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1164"/>
+        <location filename="CompareWidget.cpp" line="1172"/>
         <source>Do you want to delete this file?</source>
         <translation>Vill du verkligen ta bort denna fil?</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="556"/>
+        <location filename="CompareWidget.cpp" line="557"/>
         <source>Copy to</source>
         <translation>Kopiera till</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="41"/>
+        <location filename="CompareWidget.cpp" line="42"/>
         <source>Auto fit</source>
         <translation>Auto-anpassa</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="70"/>
+        <location filename="CompareWidget.cpp" line="71"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="73"/>
+        <location filename="CompareWidget.cpp" line="74"/>
         <source>Tabs</source>
         <translation>Flikar</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="561"/>
+        <location filename="CompareWidget.cpp" line="562"/>
         <source>Move to</source>
         <translation>Flytta till</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="567"/>
+        <location filename="CompareWidget.cpp" line="568"/>
         <source>Delete</source>
         <translation>Ta bort</translation>
     </message>
@@ -1167,7 +1167,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <translation>Ändra färgdjup</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1727"/>
+        <location filename="DlgConvert.cpp" line="1728"/>
         <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation>Justera</translation>
@@ -1204,33 +1204,33 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <translation>Text</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1338"/>
+        <location filename="DlgConvertProcess.h" line="1347"/>
         <source>Crop</source>
         <translation>Beskär</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1406"/>
+        <location filename="DlgConvertProcess.h" line="1415"/>
         <source>Canvas resize</source>
         <translation>Ändra arbetsytans storlek</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1642"/>
+        <location filename="DlgConvertProcess.h" line="1651"/>
         <source>Resize</source>
         <translation>Ändra bildstorlek</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2060"/>
+        <location filename="DlgConvertProcess.h" line="2069"/>
         <source>Rotate</source>
         <translation>Rotera</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2390"/>
+        <location filename="DlgConvertProcess.h" line="2399"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
         <translation>Ange upplösning</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2429"/>
+        <location filename="DlgConvertProcess.h" line="2438"/>
         <source>Extract channel</source>
         <translation>Extrahera kanal</translation>
     </message>
@@ -1247,261 +1247,261 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <translation>Kurvor</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4677"/>
+        <location filename="DlgConvertProcess.h" line="4686"/>
         <location filename="DlgWhiteBalance.h" line="88"/>
         <source>White Balance</source>
         <translation>Vitbalans</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2453"/>
+        <location filename="DlgConvertProcess.h" line="2462"/>
         <source>Black/White Points</source>
         <translation>Svarta/Vita punkter</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2474"/>
+        <location filename="DlgConvertProcess.h" line="2483"/>
         <source>Mirror</source>
         <translation>Spegla</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2498"/>
+        <location filename="DlgConvertProcess.h" line="2507"/>
         <source>Replace color</source>
         <translation>Ersätt färg</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2530"/>
+        <location filename="DlgConvertProcess.h" line="2539"/>
         <source>Transparent color</source>
         <translation>Transparensfärg</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2577"/>
+        <location filename="DlgConvertProcess.h" line="2586"/>
         <source>Aspect Pad</source>
         <translation>Förhållande</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2636"/>
+        <location filename="DlgConvertProcess.h" line="2645"/>
         <source>Color balance</source>
         <translation>Färgbalans</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2662"/>
+        <location filename="DlgConvertProcess.h" line="2671"/>
         <source>HLS</source>
         <translation>HLS</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2737"/>
+        <location filename="DlgConvertProcess.h" line="2746"/>
         <location filename="DlgShadowHighlight.h" line="88"/>
         <source>Shadow-Highlight</source>
         <translation>Skugga-högdager</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2759"/>
+        <location filename="DlgConvertProcess.h" line="2768"/>
         <source>Add noise</source>
         <translation>Lägg till brus</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2835"/>
+        <location filename="DlgConvertProcess.h" line="2844"/>
         <source>Edge detect</source>
         <translation>Kantidentifiering</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2902"/>
+        <location filename="DlgConvertProcess.h" line="2911"/>
         <source>De-interlace</source>
         <translation>Ta bort sammanflätning</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3234"/>
+        <location filename="DlgConvertProcess.h" line="3243"/>
         <source>Blurred frame</source>
         <translation>Oskarp bildruta</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3485"/>
+        <location filename="DlgConvertProcess.h" line="3494"/>
         <source>Inner Frame</source>
         <translation>Innre ram</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3839"/>
+        <location filename="DlgConvertProcess.h" line="3848"/>
         <source>JPEG Lossless rotation</source>
         <translation>JPEG förlustfri rotation</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4250"/>
+        <location filename="DlgConvertProcess.h" line="4259"/>
         <source>Retro</source>
         <translation>Retro</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4479"/>
+        <location filename="DlgConvertProcess.h" line="4488"/>
         <source>Film Simulation</source>
         <translation>Filmsimulering</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4519"/>
+        <location filename="DlgConvertProcess.h" line="4528"/>
         <source>Bloom</source>
         <translation>Överstrålning</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4543"/>
+        <location filename="DlgConvertProcess.h" line="4552"/>
         <source>Unsharp Mask</source>
         <translation>Oskärpemask</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4575"/>
+        <location filename="DlgConvertProcess.h" line="4584"/>
         <source>Clear transparent pixels</source>
         <translation>Rensa transparenta pixlar</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4589"/>
+        <location filename="DlgConvertProcess.h" line="4598"/>
         <source>Remove alpha channel</source>
         <translation>Ta bort alfakanal</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4603"/>
+        <location filename="DlgConvertProcess.h" line="4612"/>
         <location filename="DlgOffset.h" line="100"/>
         <source>Offset</source>
         <translation>Förskjutning</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4629"/>
+        <location filename="DlgConvertProcess.h" line="4638"/>
         <source>Symmetry</source>
         <translation>Symmetri</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4650"/>
+        <location filename="DlgConvertProcess.h" line="4659"/>
         <source>Saturation</source>
         <translation>Mättnad</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4693"/>
+        <location filename="DlgConvertProcess.h" line="4702"/>
         <source>Mono Mixer</source>
         <translation>Monomixer</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4718"/>
+        <location filename="DlgConvertProcess.h" line="4727"/>
         <source>Fantasy</source>
         <translation>Fantasy</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4738"/>
+        <location filename="DlgConvertProcess.h" line="4747"/>
         <source>Crystallize</source>
         <translation>Kristallisera</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4756"/>
+        <location filename="DlgConvertProcess.h" line="4765"/>
         <source>Temperature</source>
         <translation>Temperatur</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4773"/>
+        <location filename="DlgConvertProcess.h" line="4782"/>
         <source>Photo Spread</source>
         <translation>Fotospridning</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4800"/>
+        <location filename="DlgConvertProcess.h" line="4809"/>
         <source>Frequency</source>
         <translation>Frekvens</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4805"/>
+        <location filename="DlgConvertProcess.h" line="4814"/>
         <source>Halftone</source>
         <translation>Halvton</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4939"/>
+        <location filename="DlgConvertProcess.h" line="4948"/>
         <source>QR Code</source>
         <translation>QR-kod</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2924"/>
+        <location filename="DlgConvertProcess.h" line="2933"/>
         <location filename="Dlg1SliderPanel.h" line="82"/>
         <source>Posterize</source>
         <translation>Färgreduktion</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2702"/>
+        <location filename="DlgConvertProcess.h" line="2711"/>
         <source>Swap color</source>
         <translation>Växla färg</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2944"/>
+        <location filename="DlgConvertProcess.h" line="2953"/>
         <source>Border 3D</source>
         <translation>3D-ram</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2971"/>
+        <location filename="DlgConvertProcess.h" line="2980"/>
         <source>Waves</source>
         <translation>Vågor</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2976"/>
+        <location filename="DlgConvertProcess.h" line="2985"/>
         <source>Length</source>
         <translation>Längd</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2977"/>
+        <location filename="DlgConvertProcess.h" line="2986"/>
         <source>Phase</source>
         <translation>Fas</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2978"/>
+        <location filename="DlgConvertProcess.h" line="2987"/>
         <source>Amount</source>
         <translation>Mängd</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3020"/>
+        <location filename="DlgConvertProcess.h" line="3029"/>
         <source>Normalize Ex</source>
         <translation>Normalisera Ex</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3025"/>
-        <location filename="DlgConvertProcess.h" line="3083"/>
+        <location filename="DlgConvertProcess.h" line="3034"/>
+        <location filename="DlgConvertProcess.h" line="3092"/>
         <source>Black limit %</source>
         <translation>Svartgräns %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3026"/>
-        <location filename="DlgConvertProcess.h" line="3084"/>
+        <location filename="DlgConvertProcess.h" line="3035"/>
+        <location filename="DlgConvertProcess.h" line="3093"/>
         <source>White limit %</source>
         <translation>Vitgräns %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3027"/>
+        <location filename="DlgConvertProcess.h" line="3036"/>
         <source>Expansion limit</source>
         <translatorcomment>Osäker, vad menas?</translatorcomment>
         <translation>Expansionsgräns</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3078"/>
+        <location filename="DlgConvertProcess.h" line="3087"/>
         <source>Align histogram</source>
         <translation>Justera histogram</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3085"/>
+        <location filename="DlgConvertProcess.h" line="3094"/>
         <source>Align %</source>
         <translation>Justera %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3149"/>
+        <location filename="DlgConvertProcess.h" line="3158"/>
         <source>ICC convert</source>
         <translation>Konvertera ICC</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3291"/>
+        <location filename="DlgConvertProcess.h" line="3300"/>
         <source>Border</source>
         <translation>Ram</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3531"/>
+        <location filename="DlgConvertProcess.h" line="3540"/>
         <location filename="DlgOldCamera.h" line="99"/>
         <source>Old camera</source>
         <translation>Gammal kamera</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3552"/>
+        <location filename="DlgConvertProcess.h" line="3561"/>
         <location filename="DlgVignetting.h" line="108"/>
         <source>Vignetting</source>
         <translation>Vinjettering</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3731"/>
+        <location filename="DlgConvertProcess.h" line="3740"/>
         <source>Add mask</source>
         <translation>Lägg till mask</translation>
     </message>
@@ -1546,274 +1546,274 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <translation>Höger</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="202"/>
+        <location filename="DlgConvert.cpp" line="203"/>
         <source>Automatic levels</source>
         <translation>Automatiska nivåer</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="203"/>
+        <location filename="DlgConvert.cpp" line="204"/>
         <source>Automatic contrast</source>
         <translation>Automatisk kontrast</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="204"/>
+        <location filename="DlgConvert.cpp" line="205"/>
         <source>Negative</source>
         <translation>Negativ</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="205"/>
+        <location filename="DlgConvert.cpp" line="206"/>
         <source>Desaturate</source>
         <translation>Avmätta</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="208"/>
+        <location filename="DlgConvert.cpp" line="209"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation>Logaritmisk LUT</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="210"/>
+        <location filename="DlgConvert.cpp" line="211"/>
         <source>Normalize</source>
         <translation>Normalisera</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="214"/>
+        <location filename="DlgConvert.cpp" line="215"/>
         <source>Equalize</source>
         <translation>Utjämna</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="215"/>
+        <location filename="DlgConvert.cpp" line="216"/>
         <location filename="Dlg1SliderPanel.h" line="93"/>
         <source>Sepia</source>
         <translation>Sepia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="216"/>
+        <location filename="DlgConvert.cpp" line="217"/>
         <location filename="Dlg1SliderPanel.h" line="73"/>
         <source>Solarize</source>
         <translation>Solarisera</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="225"/>
+        <location filename="DlgConvert.cpp" line="226"/>
         <source>Exposure</source>
         <translation>Exponering</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="233"/>
+        <location filename="DlgConvert.cpp" line="234"/>
         <location filename="DlgFilter.cpp" line="42"/>
         <source>Enhance detail</source>
         <translation>Förbättra detalj</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="234"/>
+        <location filename="DlgConvert.cpp" line="235"/>
         <location filename="DlgFilter.cpp" line="43"/>
         <source>Enhance focus</source>
         <translation>Förbättra fokus</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="235"/>
+        <location filename="DlgConvert.cpp" line="236"/>
         <location filename="DlgFilter.cpp" line="44"/>
         <source>Enhance edges</source>
         <translation>Förbättra kanter</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="236"/>
+        <location filename="DlgConvert.cpp" line="237"/>
         <location filename="DlgFilter.cpp" line="45"/>
         <source>Focus restoration</source>
         <translation>Fokusåterställning</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="238"/>
+        <location filename="DlgConvert.cpp" line="239"/>
         <location filename="DlgFilter.cpp" line="52"/>
         <source>Emboss</source>
         <translation>Relief</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="239"/>
+        <location filename="DlgConvert.cpp" line="240"/>
         <location filename="DlgFilter.cpp" line="53"/>
         <source>Emboss more</source>
         <translation>Mer relief</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="240"/>
+        <location filename="DlgConvert.cpp" line="241"/>
         <location filename="DlgFilter.cpp" line="36"/>
         <source>Average</source>
         <translation>Medel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="241"/>
-        <location filename="DlgConvert.cpp" line="1728"/>
+        <location filename="DlgConvert.cpp" line="242"/>
+        <location filename="DlgConvert.cpp" line="1729"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Blur</source>
         <translation>Oskärpa</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="242"/>
+        <location filename="DlgConvert.cpp" line="243"/>
         <location filename="DlgFilter.cpp" line="38"/>
         <source>Soften</source>
         <translation>Dämpa</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="243"/>
+        <location filename="DlgConvert.cpp" line="244"/>
         <location filename="DlgFilter.cpp" line="39"/>
         <source>Gaussian blur</source>
         <translation>Gaussisk oskärpa</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="244"/>
+        <location filename="DlgConvert.cpp" line="245"/>
         <location filename="DlgFilter.cpp" line="54"/>
         <source>Maximum</source>
         <translation>Maximum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="245"/>
+        <location filename="DlgConvert.cpp" line="246"/>
         <location filename="DlgFilter.cpp" line="55"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="246"/>
+        <location filename="DlgConvert.cpp" line="247"/>
         <location filename="DlgFilter.cpp" line="56"/>
         <source>Median box</source>
         <translation>Medianruta</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="247"/>
+        <location filename="DlgConvert.cpp" line="248"/>
         <location filename="DlgFilter.cpp" line="57"/>
         <source>Median cross</source>
         <translation>Mediankors</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="248"/>
+        <location filename="DlgConvert.cpp" line="249"/>
         <location filename="DlgFilter.cpp" line="51"/>
         <source>Sharpen</source>
         <translation>Skärpa</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="250"/>
+        <location filename="DlgConvert.cpp" line="251"/>
         <location filename="DlgFilter.cpp" line="59"/>
         <source>Reduce noise</source>
         <translation>Reducera brus</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="259"/>
+        <location filename="DlgConvert.cpp" line="260"/>
         <location filename="DlgFilter.cpp" line="68"/>
         <source>Mosaic</source>
         <translation>Mosaik</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="260"/>
+        <location filename="DlgConvert.cpp" line="261"/>
         <location filename="DlgFilter.cpp" line="69"/>
         <source>Slice</source>
         <translation>Skiva</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="261"/>
+        <location filename="DlgConvert.cpp" line="262"/>
         <location filename="DlgFilter.cpp" line="70"/>
         <source>Tile</source>
         <translation>Rutor</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="262"/>
+        <location filename="DlgConvert.cpp" line="263"/>
         <location filename="DlgFilter.cpp" line="71"/>
         <source>Shear</source>
         <translation>Bristning</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="263"/>
+        <location filename="DlgConvert.cpp" line="264"/>
         <location filename="DlgFilter.cpp" line="72"/>
         <source>Oil painting</source>
         <translation>Oljemålning</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="264"/>
+        <location filename="DlgConvert.cpp" line="265"/>
         <location filename="DlgFilter.cpp" line="73"/>
         <source>Oil painting 2</source>
         <translation>Oljemålning 2</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="265"/>
+        <location filename="DlgConvert.cpp" line="266"/>
         <location filename="DlgFilter.cpp" line="74"/>
         <source>Swirl</source>
         <translation>Virvel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="266"/>
+        <location filename="DlgConvert.cpp" line="267"/>
         <location filename="DlgFilter.cpp" line="75"/>
         <source>Spread</source>
         <translation>Sprid ut</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="267"/>
+        <location filename="DlgConvert.cpp" line="268"/>
         <location filename="DlgFilter.cpp" line="76"/>
         <source>Lens</source>
         <translation>Lins</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="270"/>
+        <location filename="DlgConvert.cpp" line="271"/>
         <location filename="DlgFilter.cpp" line="79"/>
         <source>Band</source>
         <translation>Band</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="283"/>
+        <location filename="DlgConvert.cpp" line="284"/>
         <location filename="DlgFilter.cpp" line="92"/>
         <source>Pointillize</source>
         <translation>Punktilisera</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1726"/>
+        <location filename="DlgConvert.cpp" line="1727"/>
         <source>Add</source>
         <translation>Lägg till</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1729"/>
+        <location filename="DlgConvert.cpp" line="1730"/>
         <source>Channel</source>
         <translation>Kanal</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1730"/>
+        <location filename="DlgConvert.cpp" line="1731"/>
         <source>Enhance</source>
         <translation>Förbättra</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1731"/>
+        <location filename="DlgConvert.cpp" line="1732"/>
         <source>Frame</source>
         <translation>Ram</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1732"/>
+        <location filename="DlgConvert.cpp" line="1733"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1733"/>
+        <location filename="DlgConvert.cpp" line="1734"/>
         <source>Noise</source>
         <translation>Brus</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1734"/>
+        <location filename="DlgConvert.cpp" line="1735"/>
         <source>Pixelate</source>
         <translation>Pixelera</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1735"/>
+        <location filename="DlgConvert.cpp" line="1736"/>
         <source>Stylize</source>
         <translation>Stilisera</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1736"/>
+        <location filename="DlgConvert.cpp" line="1737"/>
         <source>Transform</source>
         <translation>Transformera</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1737"/>
+        <location filename="DlgConvert.cpp" line="1738"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2766"/>
+        <location filename="DlgConvert.cpp" line="2767"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 fil(er) - %2% - %3</translation>
     </message>
@@ -1866,9 +1866,9 @@ Dra och släpp över önskad nod för att tilldela.</translation>
     <name>DB</name>
     <message>
         <location filename="CategoryManager.cpp" line="151"/>
-        <location filename="MyDB.cpp" line="728"/>
-        <location filename="MyDB.cpp" line="1646"/>
-        <location filename="MyDB.cpp" line="2875"/>
+        <location filename="MyDB.cpp" line="729"/>
+        <location filename="MyDB.cpp" line="1648"/>
+        <location filename="MyDB.cpp" line="2877"/>
         <source>Other</source>
         <translation>Övrigt</translation>
     </message>
@@ -1878,72 +1878,72 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <translation>Ensamstående</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="729"/>
+        <location filename="MyDB.cpp" line="730"/>
         <source>Photographs</source>
         <translation>Fotografier</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="730"/>
+        <location filename="MyDB.cpp" line="731"/>
         <source>Family</source>
         <translation>Familj</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="731"/>
+        <location filename="MyDB.cpp" line="732"/>
         <source>Friends</source>
         <translation>Vänner</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="732"/>
+        <location filename="MyDB.cpp" line="733"/>
         <source>Pets</source>
         <translation>Husdjur</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="733"/>
+        <location filename="MyDB.cpp" line="734"/>
         <source>Travel</source>
         <translation>Resor</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="734"/>
+        <location filename="MyDB.cpp" line="735"/>
         <source>Landscapes</source>
         <translation>Landskap</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="735"/>
+        <location filename="MyDB.cpp" line="736"/>
         <source>Portraits</source>
         <translation>Porträtt</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="736"/>
+        <location filename="MyDB.cpp" line="737"/>
         <source>Flowers</source>
         <translation>Blommor</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="737"/>
+        <location filename="MyDB.cpp" line="738"/>
         <source>Animals</source>
         <translation>Djur</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="738"/>
+        <location filename="MyDB.cpp" line="739"/>
         <source>Pictures</source>
         <translation>Bilder</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="739"/>
+        <location filename="MyDB.cpp" line="740"/>
         <source>Icons</source>
         <translation>Ikoner</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="740"/>
+        <location filename="MyDB.cpp" line="741"/>
         <source>Drawings</source>
         <translation>Teckningar</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="741"/>
+        <location filename="MyDB.cpp" line="742"/>
         <source>Videos</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="742"/>
+        <location filename="MyDB.cpp" line="743"/>
         <source>Audios</source>
         <translation>Ljud</translation>
     </message>
@@ -3480,82 +3480,82 @@ Vill du skriva över den?</translation>
         <translation>Zooma ut</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="183"/>
+        <location filename="DlgContactSheet.cpp" line="184"/>
         <source>&amp;Create</source>
         <translation>&amp;Skapa</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="216"/>
+        <location filename="DlgContactSheet.cpp" line="217"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="216"/>
+        <location filename="DlgContactSheet.cpp" line="217"/>
         <source>You need to choose an output folder.</source>
         <translation>Du måste välja en utdatamapp.</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="354"/>
+        <location filename="DlgContactSheet.cpp" line="355"/>
         <source>Page number</source>
         <translation>Sidnummer</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="356"/>
+        <location filename="DlgContactSheet.cpp" line="357"/>
         <source>Page count</source>
         <translation>Sidräkning</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="358"/>
+        <location filename="DlgContactSheet.cpp" line="359"/>
         <source>Current date</source>
         <translation>Aktuellt datum</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="389"/>
+        <location filename="DlgContactSheet.cpp" line="390"/>
         <source>Letter (8.5x11 inch)</source>
         <translation>Letter (8.5x11 inch)</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="391"/>
+        <location filename="DlgContactSheet.cpp" line="392"/>
         <source>Legal (8.5x14 inch)</source>
         <translation>Legal (8.5x14 inch)</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="393"/>
+        <location filename="DlgContactSheet.cpp" line="394"/>
         <source>A4 (21.0x29.7cm)</source>
         <translation>A4 (21.0x29.7cm)</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="395"/>
+        <location filename="DlgContactSheet.cpp" line="396"/>
         <source>A3 (29.7x42.0cm)</source>
         <translation>A3 (29.7x42.0cm)</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="397"/>
+        <location filename="DlgContactSheet.cpp" line="398"/>
         <source>4x6 inch</source>
         <translation>4x6 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="399"/>
+        <location filename="DlgContactSheet.cpp" line="400"/>
         <source>5x7 inch</source>
         <translation>5x7 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="401"/>
+        <location filename="DlgContactSheet.cpp" line="402"/>
         <source>6x8 inch</source>
         <translation>6x8 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="403"/>
+        <location filename="DlgContactSheet.cpp" line="404"/>
         <source>8x10 inch</source>
         <translation>8x10 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="405"/>
+        <location filename="DlgContactSheet.cpp" line="406"/>
         <source>9x12 inch</source>
         <translation>9x12 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="407"/>
+        <location filename="DlgContactSheet.cpp" line="408"/>
         <source>11x14 inch</source>
         <translation>11x14 inch</translation>
     </message>
@@ -3563,29 +3563,29 @@ Vill du skriva över den?</translation>
 <context>
     <name>DlgConvert</name>
     <message>
-        <location filename="DlgConvert.cpp" line="750"/>
+        <location filename="DlgConvert.cpp" line="751"/>
         <source>_result</source>
         <translation>_resultat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1159"/>
+        <location filename="DlgConvert.cpp" line="1160"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;Xnconvert tillhandahålls som fri programvara&lt;br&gt;&lt;br&gt;Du har rätt att använda och göra ett obegränsat antal kopior av programvarorna.&lt;br&gt;&lt;br&gt;Dessa programvaror tillhandahålls i befintligt skick.&lt;br&gt;Inga garantier av något slag är uttryckta eller underförstådda.&lt;br&gt;Utvecklaren ansvarar inte för förlust av data, förlust av vinst eller någon annan typ av skada när du brukar eller missbrukar denna programvara.&lt;br&gt;&lt;br&gt;Alla förslag, synpunkter och kommentarer är välkomna. </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1309"/>
+        <location filename="DlgConvert.cpp" line="1310"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
         <translation>Starta om programmet.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1331"/>
+        <location filename="DlgConvert.cpp" line="1332"/>
         <source>New version</source>
         <translation>Ny version</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1332"/>
+        <location filename="DlgConvert.cpp" line="1333"/>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
@@ -3595,33 +3595,33 @@ Do you want to go on the download page?</source>
 Vill du gå till nerladdningssidan?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1635"/>
+        <location filename="DlgConvert.cpp" line="1636"/>
         <source>Export script</source>
         <translation>Exportera skript</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1641"/>
+        <location filename="DlgConvert.cpp" line="1642"/>
         <source>Would you like to export filenames, too?</source>
         <translation>Vill du exportera filnamn också?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1964"/>
+        <location filename="DlgConvert.cpp" line="1965"/>
         <source>Load script</source>
         <translation>Läs in skript</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1978"/>
+        <location filename="DlgConvert.cpp" line="1979"/>
         <source>Save script</source>
         <translation>Spara skript</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2104"/>
-        <location filename="DlgConvert.cpp" line="2108"/>
+        <location filename="DlgConvert.cpp" line="2105"/>
+        <location filename="DlgConvert.cpp" line="2109"/>
         <source>Parameters</source>
         <translation>Parametrar</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2153"/>
+        <location filename="DlgConvert.cpp" line="2154"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Indata: %n fil</numerusform>
@@ -3629,103 +3629,103 @@ Vill du gå till nerladdningssidan?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2183"/>
+        <location filename="DlgConvert.cpp" line="2184"/>
         <source>Choose a directory</source>
         <translation>Välj en mapp</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2222"/>
+        <location filename="DlgConvert.cpp" line="2223"/>
         <source>Choose ZIP filename</source>
         <translation>Välj namn på ZIP-filen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="170"/>
+        <location filename="DlgConvert.cpp" line="171"/>
         <source>Same as original</source>
         <translation>Samma som originalet</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="580"/>
+        <location filename="DlgConvert.cpp" line="581"/>
         <source>Convert with XnConvert</source>
         <translation>Konvertera med XnConvert</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="615"/>
+        <location filename="DlgConvert.cpp" line="616"/>
         <source>Save log as...</source>
         <translation>Spara logg som...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="621"/>
+        <location filename="DlgConvert.cpp" line="622"/>
         <source>Export log</source>
         <translation>Exportera logg</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1466"/>
-        <location filename="DlgConvert.cpp" line="1475"/>
+        <location filename="DlgConvert.cpp" line="1467"/>
+        <location filename="DlgConvert.cpp" line="1476"/>
         <source>Actions</source>
         <translation>Åtgärder</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1590"/>
+        <location filename="DlgConvert.cpp" line="1591"/>
         <source>Load image...</source>
         <translation>Läs in bild...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1596"/>
+        <location filename="DlgConvert.cpp" line="1597"/>
         <source>Remove file from filelist</source>
         <translation>Ta bort filen från fillistan</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1603"/>
+        <location filename="DlgConvert.cpp" line="1604"/>
         <source>Use image from input files</source>
         <translation>Använd bild från indatafiler</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2378"/>
+        <location filename="DlgConvert.cpp" line="2379"/>
         <source>Input files:</source>
         <translation>Indatafiler:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2379"/>
+        <location filename="DlgConvert.cpp" line="2380"/>
         <source>Extracted pages:</source>
         <translation>Extraherade sidor:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2382"/>
+        <location filename="DlgConvert.cpp" line="2383"/>
         <source>New files:</source>
         <translation>Nya filer:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2384"/>
+        <location filename="DlgConvert.cpp" line="2385"/>
         <source>Overwritten:</source>
         <translation>Överskrivet:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2386"/>
+        <location filename="DlgConvert.cpp" line="2387"/>
         <source>Skipped:</source>
         <translation>Undantaget:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2390"/>
+        <location filename="DlgConvert.cpp" line="2391"/>
         <source>Total input file size:</source>
         <translation>Sammanlagd indatastorlek:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2391"/>
+        <location filename="DlgConvert.cpp" line="2392"/>
         <source>Total output file size:</source>
         <translation>Sammanlagd utdatastorlek:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2393"/>
+        <location filename="DlgConvert.cpp" line="2394"/>
         <source>File size ratio:</source>
         <translation>Filstorleksförhållande:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2397"/>
+        <location filename="DlgConvert.cpp" line="2398"/>
         <source>Total Duration:</source>
         <translation>Sammanlagd varaktighet:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2403"/>
+        <location filename="DlgConvert.cpp" line="2404"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n sekund</numerusform>
@@ -3733,8 +3733,8 @@ Vill du gå till nerladdningssidan?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2406"/>
-        <location filename="DlgConvert.cpp" line="2410"/>
+        <location filename="DlgConvert.cpp" line="2407"/>
+        <location filename="DlgConvert.cpp" line="2411"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minut</numerusform>
@@ -3742,12 +3742,12 @@ Vill du gå till nerladdningssidan?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2440"/>
+        <location filename="DlgConvert.cpp" line="2441"/>
         <source>Overwrite</source>
         <translation>Skriv över</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2441"/>
+        <location filename="DlgConvert.cpp" line="2442"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3757,100 +3757,100 @@ Do you want to overwrite it?</source>
 Vill du skriva över den?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2450"/>
+        <location filename="DlgConvert.cpp" line="2451"/>
         <source>Saving ZIP file...</source>
         <translation>Sparar ZIP-fil...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2453"/>
+        <location filename="DlgConvert.cpp" line="2454"/>
         <source>: saved</source>
         <translation>: sparat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2479"/>
+        <location filename="DlgConvert.cpp" line="2480"/>
         <source>Uploading image(s) to server...</source>
         <translation>Laddar upp fil(er) till server...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2542"/>
-        <location filename="DlgConvert.cpp" line="2544"/>
+        <location filename="DlgConvert.cpp" line="2543"/>
+        <location filename="DlgConvert.cpp" line="2545"/>
         <source>[Finished]</source>
         <translation>[Slutförd]</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2556"/>
+        <location filename="DlgConvert.cpp" line="2557"/>
         <source>Finished at: </source>
         <translation>Slutfört: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2587"/>
+        <location filename="DlgConvert.cpp" line="2588"/>
         <source>uploaded</source>
         <translation>uppladdad</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2595"/>
+        <location filename="DlgConvert.cpp" line="2596"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation>inte en bild</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2598"/>
+        <location filename="DlgConvert.cpp" line="2599"/>
         <source>open error</source>
         <translation>inläsningssfel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2601"/>
+        <location filename="DlgConvert.cpp" line="2602"/>
         <source>create error</source>
         <translation>skapandefel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2604"/>
+        <location filename="DlgConvert.cpp" line="2605"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>är skrivskyddad, kan inte skrivas över!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2607"/>
+        <location filename="DlgConvert.cpp" line="2608"/>
         <source>skipped, file already exists!</source>
         <translation>undantagen, filen finns redan!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2609"/>
+        <location filename="DlgConvert.cpp" line="2610"/>
         <source>failed</source>
         <translation>misslyckad</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2615"/>
+        <location filename="DlgConvert.cpp" line="2616"/>
         <source>loading</source>
         <translation>läser in</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2633"/>
+        <location filename="DlgConvert.cpp" line="2634"/>
         <source>loaded</source>
         <translation>inläst</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2667"/>
+        <location filename="DlgConvert.cpp" line="2668"/>
         <source>copied</source>
         <translation>kopierad</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2671"/>
+        <location filename="DlgConvert.cpp" line="2672"/>
         <source>saved</source>
         <translation>sparad</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2685"/>
+        <location filename="DlgConvert.cpp" line="2686"/>
         <source>%1 of %2 files</source>
         <translation>%1 av %2 filer</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2716"/>
+        <location filename="DlgConvert.cpp" line="2717"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Skriv över filen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2717"/>
+        <location filename="DlgConvert.cpp" line="2718"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3863,32 +3863,32 @@ Do you want to overwrite it?</oldsource>
 Vill du skriva över den?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2719"/>
+        <location filename="DlgConvert.cpp" line="2720"/>
         <source>Yes to &amp;all</source>
         <translation>Ja till &amp;alla</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2720"/>
+        <location filename="DlgConvert.cpp" line="2721"/>
         <source>&amp;Yes</source>
         <translation>&amp;Ja</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2721"/>
+        <location filename="DlgConvert.cpp" line="2722"/>
         <source>&amp;No</source>
         <translation>&amp;Nej</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2722"/>
+        <location filename="DlgConvert.cpp" line="2723"/>
         <source>&amp;Rename</source>
         <translation>&amp;Byt namn</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2723"/>
+        <location filename="DlgConvert.cpp" line="2724"/>
         <source>&amp;Cancel</source>
         <translation>A&amp;vbryt</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2751"/>
+        <location filename="DlgConvert.cpp" line="2752"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n sekund kvar</numerusform>
@@ -3896,8 +3896,8 @@ Vill du skriva över den?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2754"/>
-        <location filename="DlgConvert.cpp" line="2758"/>
+        <location filename="DlgConvert.cpp" line="2755"/>
+        <location filename="DlgConvert.cpp" line="2759"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minut kvar</numerusform>
@@ -3905,7 +3905,7 @@ Vill du skriva över den?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2780"/>
+        <location filename="DlgConvert.cpp" line="2781"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3914,7 +3914,7 @@ Do you want to continue?</source>
 Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2790"/>
+        <location filename="DlgConvert.cpp" line="2791"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
@@ -3923,12 +3923,12 @@ Do you want to continue?</source>
 Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2799"/>
+        <location filename="DlgConvert.cpp" line="2800"/>
         <source>Choose output pathname</source>
         <translation>Välj utdatanamn/-sökväg</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2813"/>
+        <location filename="DlgConvert.cpp" line="2814"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
@@ -3937,19 +3937,19 @@ Do you want to continue?</source>
 Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2941"/>
+        <location filename="DlgConvert.cpp" line="2942"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>Inställningen &quot;Använd flera CPU-kärnor&quot; avaktiverades. Denna inställning kan inte kombineras med &quot;Fråga-läget&quot; eller flersidiga PDF-filer.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2943"/>
+        <location filename="DlgConvert.cpp" line="2944"/>
         <source>Started at: </source>
         <translation>Startad: </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2410"/>
-        <location filename="DlgConvert.cpp" line="2758"/>
+        <location filename="DlgConvert.cpp" line="2411"/>
+        <location filename="DlgConvert.cpp" line="2759"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n timma och </numerusform>
@@ -3957,27 +3957,27 @@ Vill du fortsätta?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2307"/>
+        <location filename="DlgConvert.cpp" line="2308"/>
         <source>Cancel batch processing</source>
         <translation>Avbryt batch-arbete</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2307"/>
+        <location filename="DlgConvert.cpp" line="2308"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>Vill du avbryta pågående batch-arbete?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2359"/>
+        <location filename="DlgConvert.cpp" line="2360"/>
         <source>Loading error(s):</source>
         <translation>Inläsningsfel:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2367"/>
+        <location filename="DlgConvert.cpp" line="2368"/>
         <source>Saving error(s):</source>
         <translation>Sparfel:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2790"/>
+        <location filename="DlgConvert.cpp" line="2791"/>
         <source>Output filename</source>
         <translation>Namn på utdatafil</translation>
     </message>
@@ -5684,12 +5684,12 @@ Vill du fortsätta?</translation>
         <translation>Fungerar endast på utdataformaten JPEG, TIFF och PNG</translation>
     </message>
     <message>
-        <location filename="DlgConvertIptc.h" line="235"/>
+        <location filename="DlgConvertIptc.h" line="236"/>
         <source>Insert</source>
         <translation>Infoga</translation>
     </message>
     <message>
-        <location filename="DlgConvertIptc.h" line="242"/>
+        <location filename="DlgConvertIptc.h" line="243"/>
         <source>Insert from</source>
         <translation>Infoga från</translation>
     </message>
@@ -7518,100 +7518,100 @@ Tillse att filerna inte är skrivskyddade!</translation>
 <context>
     <name>DlgExport</name>
     <message>
-        <location filename="DlgExport.cpp" line="196"/>
+        <location filename="DlgExport.cpp" line="193"/>
         <source>Problem</source>
         <translation>Problem</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="197"/>
+        <location filename="DlgExport.cpp" line="194"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
         <translation>Detta är inte en bildfil</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="296"/>
+        <location filename="DlgExport.cpp" line="297"/>
         <source>Black&amp;White</source>
         <translation>Svart&amp;vit</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="298"/>
+        <location filename="DlgExport.cpp" line="299"/>
         <source>8 colors</source>
         <translation>8 färger</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="300"/>
+        <location filename="DlgExport.cpp" line="301"/>
         <source>16 colors</source>
         <translation>16 färger</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="302"/>
+        <location filename="DlgExport.cpp" line="303"/>
         <source>32 colors</source>
         <translation>32 färger</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="304"/>
+        <location filename="DlgExport.cpp" line="305"/>
         <source>64 colors</source>
         <translation>64 färger</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="306"/>
+        <location filename="DlgExport.cpp" line="307"/>
         <source>128 colors</source>
         <translation>128 färger</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="308"/>
+        <location filename="DlgExport.cpp" line="309"/>
         <source>256 colors</source>
         <translation>256 färger</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="310"/>
+        <location filename="DlgExport.cpp" line="311"/>
         <source>Greyscale</source>
         <translation>Gråskala</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="313"/>
+        <location filename="DlgExport.cpp" line="314"/>
         <source>16m</source>
         <translation>16m</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
+        <location filename="DlgExport.cpp" line="332"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
-        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="332"/>
+        <location filename="DlgExport.cpp" line="341"/>
         <source>Pattern</source>
         <translation>Mönster</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
-        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="332"/>
+        <location filename="DlgExport.cpp" line="341"/>
         <source>Floyd-Steinberg</source>
         <translation>Floyd-Steinberg</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
+        <location filename="DlgExport.cpp" line="332"/>
         <source>Halftone 45</source>
         <translation>Halvton 45</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
+        <location filename="DlgExport.cpp" line="332"/>
         <source>Halftone 90</source>
         <translation>Halvton 90</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="341"/>
         <source>Adaptive</source>
         <translation>Adaptiv</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="597"/>
+        <location filename="DlgExport.cpp" line="601"/>
         <source>Images</source>
         <translation>Bilder</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="616"/>
+        <location filename="DlgExport.cpp" line="620"/>
         <source>Save File</source>
         <translation>Spara fil</translation>
     </message>
@@ -7663,12 +7663,12 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <translation>Uppdatera förhandsgranskning</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="528"/>
+        <location filename="DlgExport.ui" line="511"/>
         <source>Mode</source>
         <translation>Läge</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="542"/>
+        <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
         <translation>Gitter</translation>
     </message>
@@ -7683,12 +7683,12 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <translation>Kvalitet</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="419"/>
+        <location filename="DlgExport.ui" line="337"/>
         <source>Progressive</source>
         <translation>Progressiv</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="412"/>
+        <location filename="DlgExport.ui" line="390"/>
         <source>Optimize Huffman table</source>
         <translation>Optimera Huffman-tabell</translation>
     </message>
@@ -7698,72 +7698,92 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <translation>Använd JPEG-li</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="339"/>
-        <source>Remove all Metadata</source>
-        <translation>Rensa all metadata</translation>
-    </message>
-    <message>
-        <location filename="DlgExport.ui" line="359"/>
+        <location filename="DlgExport.ui" line="346"/>
         <source>DCT Method</source>
         <translation>DCT-metod</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="379"/>
+        <location filename="DlgExport.ui" line="357"/>
         <source>Slow</source>
         <translation>Långsam</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="384"/>
+        <location filename="DlgExport.ui" line="362"/>
         <source>Fast (worst but faster)</source>
         <translation>Snabb (sämst men snabbare)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="389"/>
+        <location filename="DlgExport.ui" line="367"/>
         <source>Float (best but slowest)</source>
         <translation>Flytande (bäst men långsammast)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="426"/>
+        <location filename="DlgExport.ui" line="399"/>
         <source>Smoothing factor</source>
         <translation>Utjämningsfaktor</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="446"/>
+        <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling factor</source>
         <translation>Delsamplingsfaktor</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="495"/>
+        <location filename="DlgExport.ui" line="477"/>
         <source>Convert to XYB colorspace</source>
         <translation>Konvertera till XYB-färgrymd</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="575"/>
+        <location filename="DlgExport.ui" line="503"/>
+        <source>Color</source>
+        <translation type="unfinished">Färg</translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="582"/>
         <source>Edit palette...</source>
         <translation>Redigera färgkarta...</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="459"/>
+        <location filename="DlgExport.ui" line="441"/>
         <source>2x2,1x1,1x1 (default)</source>
         <translation>2x2, 1x1, 1x1 (standard)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="464"/>
+        <location filename="DlgExport.ui" line="446"/>
         <source>2x1,1x1,1x1 (4:2:2)</source>
         <translation>2x1, 1x1, 1x1 (4:2:2)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="469"/>
+        <location filename="DlgExport.ui" line="451"/>
         <source>1x1,1x1,1x1 (best quality)</source>
         <translation>1x1, 1x1, 1x1 (bäst kvalitet)</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="612"/>
+        <location filename="DlgExport.ui" line="610"/>
+        <source>Metadata</source>
+        <translation type="unfinished">Metadata</translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="616"/>
+        <source>Keep EXIF</source>
+        <translation type="unfinished">Bevara EXIF</translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="623"/>
+        <source>Keep IPTC</source>
+        <translation type="unfinished">Bevara IPTC</translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="630"/>
+        <source>Keep XMP</source>
+        <translation type="unfinished">Bevara XMP</translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="672"/>
         <source>&amp;Export...</source>
         <translation>&amp;Exportera...</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="619"/>
+        <location filename="DlgExport.ui" line="679"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -8744,154 +8764,154 @@ Undermappar kommer att skapas. </translation>
 <context>
     <name>DlgIptc</name>
     <message>
-        <location filename="DlgIptc.cpp" line="47"/>
+        <location filename="DlgIptc.cpp" line="48"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
         <translation>Skriv &amp;till alla filer</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="48"/>
+        <location filename="DlgIptc.cpp" line="49"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
         <translation>&amp;Skriv</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="174"/>
+        <location filename="DlgIptc.cpp" line="175"/>
         <source>0: None</source>
         <translation>0: Ingen</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="174"/>
+        <location filename="DlgIptc.cpp" line="175"/>
         <source>1: High</source>
         <translation>1: Hög</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="175"/>
+        <location filename="DlgIptc.cpp" line="176"/>
         <source>5: Normal</source>
         <translation>5: Normal</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="175"/>
+        <location filename="DlgIptc.cpp" line="176"/>
         <source>8: Low</source>
         <translation>8: Låg</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="176"/>
+        <location filename="DlgIptc.cpp" line="177"/>
         <source>a: Morning</source>
         <translation>a: Morgon</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="176"/>
+        <location filename="DlgIptc.cpp" line="177"/>
         <source>b: Afternoon</source>
         <translation>b: Eftermiddag</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="176"/>
+        <location filename="DlgIptc.cpp" line="177"/>
         <source>c: Evening</source>
         <translation>c: Kväll</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="211"/>
+        <location filename="DlgIptc.cpp" line="212"/>
         <source>File created date/time</source>
         <translation>Skapad datum/tid</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="211"/>
+        <location filename="DlgIptc.cpp" line="212"/>
         <source>File modified date/time</source>
         <translation>Ändrad datum/tid</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="212"/>
+        <location filename="DlgIptc.cpp" line="213"/>
         <source>EXIF date/time taken (if exists)</source>
         <translation>EXIF-datum/-tid hämtad (om tillgänglig)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="212"/>
+        <location filename="DlgIptc.cpp" line="213"/>
         <source>EXIF date/time digitized (if exists)</source>
         <translation>EXIF-datum/-tid digitaliserad (om tillgänglig)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="212"/>
+        <location filename="DlgIptc.cpp" line="213"/>
         <source>EXIF date/time modified (if exists)</source>
         <translation>EXIF-datum/-tid ändrad (om tillgänglig)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="319"/>
+        <location filename="DlgIptc.cpp" line="320"/>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
         <translation>Om du vill redigera XMP-metadata kollar du den nya dialogrutan &quot;Redigera XMP&quot;. </translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="363"/>
+        <location filename="DlgIptc.cpp" line="364"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation>Fältvärden läses inte in, eftersom &quot;Läs inte in fältvärden&quot; är förbockat</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="49"/>
+        <location filename="DlgIptc.cpp" line="50"/>
         <source>&amp;Apply</source>
         <oldsource>Apply</oldsource>
         <translation>&amp;Tillämpa</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="896"/>
+        <location filename="DlgIptc.cpp" line="897"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>IPTC-data har ändrats.
 Vill du spara dina ändringar?</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="916"/>
+        <location filename="DlgIptc.cpp" line="917"/>
         <source>IPTC has changed</source>
         <translation>IPTC har ändrats</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="917"/>
+        <location filename="DlgIptc.cpp" line="918"/>
         <source>Do you want to save your changes?</source>
         <translation>Vill du spara dina ändringar?</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1038"/>
+        <location filename="DlgIptc.cpp" line="1039"/>
         <source>Insert</source>
         <translation>Infoga</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1050"/>
+        <location filename="DlgIptc.cpp" line="1051"/>
         <source>Insert from</source>
         <translation>Infoga från</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1075"/>
+        <location filename="DlgIptc.cpp" line="1076"/>
         <source>Copy into</source>
         <translation>Kopiera in i</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1098"/>
+        <location filename="DlgIptc.cpp" line="1099"/>
         <source>Library</source>
         <translation>Bibliotek</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1104"/>
+        <location filename="DlgIptc.cpp" line="1105"/>
         <source>Edit history...</source>
         <translation>Redigera historik...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1105"/>
+        <location filename="DlgIptc.cpp" line="1106"/>
         <source>Sort alphabetically</source>
         <translation>Sortera alfabetiskt</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1571"/>
+        <location filename="DlgIptc.cpp" line="1572"/>
         <source>Required field</source>
         <translation>Obligatoriskt fält</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1571"/>
+        <location filename="DlgIptc.cpp" line="1572"/>
         <source>Some fields are required, please fill them!</source>
         <translation>Vissa fält är obligatoriska, vänligen fyll i dem!</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1642"/>
-        <location filename="DlgIptc.cpp" line="1710"/>
-        <location filename="DlgIptc.cpp" line="1757"/>
+        <location filename="DlgIptc.cpp" line="1643"/>
+        <location filename="DlgIptc.cpp" line="1711"/>
+        <location filename="DlgIptc.cpp" line="1758"/>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
@@ -8900,7 +8920,7 @@ Please make sure that files are not read-only!</oldsource>
 Tillse att filerna inte är skrivskyddade!</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1677"/>
+        <location filename="DlgIptc.cpp" line="1678"/>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
         <translation>Vill du verkligen skriva över IPTC/XMP-data för ALLA filer, med aktuella fältvärden?</translation>
     </message>
@@ -11862,38 +11882,38 @@ miniatyr</translation>
 <context>
     <name>DlgSettingsGeneral</name>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="240"/>
-        <location filename="DlgSettingsGeneral.cpp" line="241"/>
+        <location filename="DlgSettingsGeneral.cpp" line="257"/>
+        <location filename="DlgSettingsGeneral.cpp" line="258"/>
         <source>Load profile</source>
         <translation>Läs in profil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="248"/>
+        <location filename="DlgSettingsGeneral.cpp" line="265"/>
         <source>Perceptual</source>
         <translation>Perceptuell</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="248"/>
+        <location filename="DlgSettingsGeneral.cpp" line="265"/>
         <source>Relative colorimetric</source>
         <translation>Relativ kolormetri</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="248"/>
+        <location filename="DlgSettingsGeneral.cpp" line="265"/>
         <source>Saturation</source>
         <translation>Mättnad</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="248"/>
+        <location filename="DlgSettingsGeneral.cpp" line="265"/>
         <source>Absolute colorimetric</source>
         <translation>Absolut kolormetri</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="414"/>
+        <location filename="DlgSettingsGeneral.cpp" line="431"/>
         <source>Delete</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="414"/>
+        <location filename="DlgSettingsGeneral.cpp" line="431"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Vill du ta bort den automatiska korrigeringsposten?</translation>
     </message>
@@ -11906,95 +11926,95 @@ miniatyr</translation>
         <translation>Allmänt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="105"/>
+        <location filename="DlgSettingsGeneral.ui" line="158"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
         <translation>Tillåt endast en programinstans</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="119"/>
+        <location filename="DlgSettingsGeneral.ui" line="172"/>
         <source>Use EXIF DPI (if exists)</source>
         <translation>Använd EXIF-DPI (om tillgängligt)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="126"/>
+        <location filename="DlgSettingsGeneral.ui" line="179"/>
         <source>Adjust image if X/Y DPI are different</source>
         <oldsource>Adjust zoom if X/Y DPI are different</oldsource>
         <translation>Justera bilden om X-/Y-DPI är olika</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="451"/>
-        <location filename="DlgSettingsGeneral.ui" line="854"/>
-        <location filename="DlgSettingsGeneral.ui" line="921"/>
+        <location filename="DlgSettingsGeneral.ui" line="504"/>
+        <location filename="DlgSettingsGeneral.ui" line="907"/>
+        <location filename="DlgSettingsGeneral.ui" line="974"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="98"/>
+        <location filename="DlgSettingsGeneral.ui" line="151"/>
         <source>Show all graphic formats</source>
         <translation>Visa alla grafikformat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="135"/>
+        <location filename="DlgSettingsGeneral.ui" line="188"/>
         <source>Unit for print size</source>
         <translation>Enhet för utskriftsstorlek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="143"/>
+        <location filename="DlgSettingsGeneral.ui" line="196"/>
         <source>inch</source>
         <translation>tum</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="148"/>
+        <location filename="DlgSettingsGeneral.ui" line="201"/>
         <source>cm</source>
         <translation>cm</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="153"/>
+        <location filename="DlgSettingsGeneral.ui" line="206"/>
         <source>mm</source>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="178"/>
+        <location filename="DlgSettingsGeneral.ui" line="231"/>
         <source>Save session on program exit</source>
         <translation>Spara session vid programavslut</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="186"/>
-        <location filename="DlgSettingsGeneral.ui" line="538"/>
+        <location filename="DlgSettingsGeneral.ui" line="239"/>
+        <location filename="DlgSettingsGeneral.ui" line="591"/>
         <source>Ask</source>
         <translation>Fråga</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="191"/>
-        <location filename="DlgSettingsGeneral.ui" line="543"/>
+        <location filename="DlgSettingsGeneral.ui" line="244"/>
+        <location filename="DlgSettingsGeneral.ui" line="596"/>
         <source>Always</source>
         <translation>Alltid</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="196"/>
-        <location filename="DlgSettingsGeneral.ui" line="253"/>
-        <location filename="DlgSettingsGeneral.ui" line="548"/>
+        <location filename="DlgSettingsGeneral.ui" line="249"/>
+        <location filename="DlgSettingsGeneral.ui" line="306"/>
+        <location filename="DlgSettingsGeneral.ui" line="601"/>
         <source>Never</source>
         <translation>Aldrig</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="430"/>
+        <location filename="DlgSettingsGeneral.ui" line="483"/>
         <source>Directory</source>
         <translation>Mapp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="437"/>
+        <location filename="DlgSettingsGeneral.ui" line="490"/>
         <source>Last</source>
         <translation>Senaste</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="444"/>
+        <location filename="DlgSettingsGeneral.ui" line="497"/>
         <source>Specified</source>
         <translation>Specificerad</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="400"/>
+        <location filename="DlgSettingsGeneral.ui" line="453"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -12004,294 +12024,320 @@ miniatyr</translation>
         <translation>Språk</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="112"/>
+        <location filename="DlgSettingsGeneral.ui" line="165"/>
         <source>Auto-rotate images according to EXIF orientation tag</source>
         <oldsource>Rotate images according to EXIF orientation tag</oldsource>
         <translation>Autorotera bilder enligt EXIF-orienteringstagg</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="344"/>
+        <location filename="DlgSettingsGeneral.ui" line="397"/>
         <source>Browser</source>
         <translation>Filhanterare</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="221"/>
+        <location filename="DlgSettingsGeneral.ui" line="274"/>
         <source>Reset all confirm prompts</source>
         <translation>Återställ alla bekräftelsemeddelanden</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="291"/>
+        <location filename="DlgSettingsGeneral.ui" line="344"/>
         <source>Send anonymous logs</source>
         <translation>Skicka anonyma loggar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="493"/>
+        <location filename="DlgSettingsGeneral.ui" line="546"/>
         <source>File operations</source>
         <translation>Filåtgärder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="580"/>
+        <location filename="DlgSettingsGeneral.ui" line="633"/>
         <source>Confirm file delete</source>
         <translation>Bekräfta filborttagning</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="587"/>
+        <location filename="DlgSettingsGeneral.ui" line="640"/>
         <source>Use Recycle Bin</source>
         <translation>Använd papperskorgen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="514"/>
+        <location filename="DlgSettingsGeneral.ui" line="567"/>
         <source>For &apos;Save as&apos;, use original pathname</source>
         <translation>Använd ursprungligt filnamn för &quot;Spara som&quot;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="339"/>
+        <location filename="DlgSettingsGeneral.ui" line="392"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation>Visare - Helskärm</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="245"/>
+        <location filename="DlgSettingsGeneral.ui" line="298"/>
         <source>Check for program updates</source>
         <translation>Sök efter programuppdateringar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="258"/>
+        <location filename="DlgSettingsGeneral.ui" line="84"/>
+        <source>Theme</source>
+        <translation type="unfinished">Tema</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsGeneral.ui" line="92"/>
+        <source>Default</source>
+        <translation type="unfinished">Standard</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsGeneral.ui" line="97"/>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsGeneral.ui" line="102"/>
+        <source>Dark</source>
+        <translation type="unfinished">Mörk</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsGeneral.ui" line="107"/>
+        <source>Black</source>
+        <translation type="unfinished">Svart</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsGeneral.ui" line="311"/>
         <source>Daily</source>
         <translation>Dagligen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="263"/>
+        <location filename="DlgSettingsGeneral.ui" line="316"/>
         <source>Weekly</source>
         <translation>Veckovis</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="268"/>
+        <location filename="DlgSettingsGeneral.ui" line="321"/>
         <source>Monthly</source>
         <translation>Månadsvis</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="312"/>
+        <location filename="DlgSettingsGeneral.ui" line="365"/>
         <source>Startup</source>
         <translation>Uppstart</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="318"/>
+        <location filename="DlgSettingsGeneral.ui" line="371"/>
         <source>Start with file</source>
         <translation>Starta med fil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="326"/>
+        <location filename="DlgSettingsGeneral.ui" line="379"/>
         <source>Open</source>
         <translation>Öppna</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="334"/>
+        <location filename="DlgSettingsGeneral.ui" line="387"/>
         <source>Viewer</source>
         <translation>Visare</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="349"/>
+        <location filename="DlgSettingsGeneral.ui" line="402"/>
         <source>Browser - Fullscreen</source>
         <translation>Filhanterare - Helskärm</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="375"/>
+        <location filename="DlgSettingsGeneral.ui" line="428"/>
         <source>Start without file</source>
         <translation>Starta utan fil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="381"/>
+        <location filename="DlgSettingsGeneral.ui" line="434"/>
         <source>Open browser</source>
         <translation>Öppna filhanterare</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="390"/>
+        <location filename="DlgSettingsGeneral.ui" line="443"/>
         <source>Remember selected filename</source>
         <translation>Kom ihåg valt filnamn</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="501"/>
+        <location filename="DlgSettingsGeneral.ui" line="554"/>
         <source>Save</source>
         <translation>Spara</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="507"/>
+        <location filename="DlgSettingsGeneral.ui" line="560"/>
         <source>Save as copy for &apos;Save&apos; action</source>
         <translation>Spara som kopia för åtgärden &quot;Spara&quot;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="521"/>
+        <location filename="DlgSettingsGeneral.ui" line="574"/>
         <source>For &apos;Save as&apos;, use original format</source>
         <translation>Använd originalformat för &quot;Spara som&quot;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="574"/>
+        <location filename="DlgSettingsGeneral.ui" line="627"/>
         <source>Delete</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="597"/>
+        <location filename="DlgSettingsGeneral.ui" line="650"/>
         <source>Copy</source>
         <translation>Kopiera</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="662"/>
+        <location filename="DlgSettingsGeneral.ui" line="715"/>
         <source>Rename</source>
         <translation>Byt namn</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="668"/>
+        <location filename="DlgSettingsGeneral.ui" line="721"/>
         <source>Use dialog to rename file/folder</source>
         <translation>Använd dialog för att namnändra fil/mapp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="695"/>
+        <location filename="DlgSettingsGeneral.ui" line="748"/>
         <source>Lossless operations</source>
         <translation>Förlustfria åtgärder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="701"/>
+        <location filename="DlgSettingsGeneral.ui" line="754"/>
         <source>Make backup for lossless flip/rotation</source>
         <translation>Säkerhetskopiera för förlustfri vändning/rotation</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="708"/>
+        <location filename="DlgSettingsGeneral.ui" line="761"/>
         <source>Make backup for lossless crop</source>
         <translation>Säkerhetskopiera för förlustfri beskärning</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="715"/>
+        <location filename="DlgSettingsGeneral.ui" line="768"/>
         <source>Make backup for other lossless operations</source>
         <translation>Säkerhetskopiera för andra förlustfria åtgärder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="771"/>
+        <location filename="DlgSettingsGeneral.ui" line="824"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
         <translation>Färghantering</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1037"/>
+        <location filename="DlgSettingsGeneral.ui" line="1090"/>
         <source>Auto correct</source>
         <translation>Autokorrigera</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1065"/>
+        <location filename="DlgSettingsGeneral.ui" line="1118"/>
         <source>Replace</source>
         <translation>Ersätt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1070"/>
+        <location filename="DlgSettingsGeneral.ui" line="1123"/>
         <source>With</source>
         <translation>Med</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1107"/>
+        <location filename="DlgSettingsGeneral.ui" line="1160"/>
         <source>Delimiter character</source>
         <translation>Avgränsningstecken</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="605"/>
+        <location filename="DlgSettingsGeneral.ui" line="658"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
         <translation>Namnge duplicerade filer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="530"/>
+        <location filename="DlgSettingsGeneral.ui" line="583"/>
         <source>Save changes to file</source>
         <translation>Spara ändringar till fil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="616"/>
+        <location filename="DlgSettingsGeneral.ui" line="669"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
         <translation>&lt;Filnamn&gt; - Kopiera (#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="636"/>
+        <location filename="DlgSettingsGeneral.ui" line="689"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
         <translation>Kopiera (#) av &lt;Filnamn&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="621"/>
+        <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
         <translation>&lt;Filnamn&gt;-Kopiera (#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="626"/>
+        <location filename="DlgSettingsGeneral.ui" line="679"/>
         <source>&lt;Filename&gt;-(#)</source>
         <translation>&lt;Filnamn&gt;-(#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="631"/>
+        <location filename="DlgSettingsGeneral.ui" line="684"/>
         <source>&lt;Filename&gt;-#</source>
         <translation>&lt;Filnamn&gt;-#</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="725"/>
+        <location filename="DlgSettingsGeneral.ui" line="778"/>
         <source>Keep original date/time</source>
         <translation>Bevara ursprunglig datum/tid</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="731"/>
+        <location filename="DlgSettingsGeneral.ui" line="784"/>
         <source>File saving</source>
         <translation>När filer sparas</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="738"/>
+        <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>Lossless transformations</source>
         <translation>Förlustfria omvandlingar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="745"/>
+        <location filename="DlgSettingsGeneral.ui" line="798"/>
         <source>Embedded Metadata change</source>
         <translation>Inbäddad metadataändringar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="777"/>
+        <location filename="DlgSettingsGeneral.ui" line="830"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
         <translation>Använd ICC-profil för bildskärm (långsammare)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="821"/>
+        <location filename="DlgSettingsGeneral.ui" line="874"/>
         <source>System</source>
         <translation>System</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="808"/>
-        <location filename="DlgSettingsGeneral.ui" line="870"/>
-        <location filename="DlgSettingsGeneral.ui" line="937"/>
+        <location filename="DlgSettingsGeneral.ui" line="112"/>
+        <location filename="DlgSettingsGeneral.ui" line="861"/>
+        <location filename="DlgSettingsGeneral.ui" line="923"/>
+        <location filename="DlgSettingsGeneral.ui" line="990"/>
         <source>Custom</source>
         <translation>Anpassat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="848"/>
+        <location filename="DlgSettingsGeneral.ui" line="901"/>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
         <translation>RGB-profil som används när inbäddad profil saknas</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="861"/>
+        <location filename="DlgSettingsGeneral.ui" line="914"/>
         <source>sRGB</source>
         <translation>sRGB</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="915"/>
+        <location filename="DlgSettingsGeneral.ui" line="968"/>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
         <translation>CMYK-profil som används när inbäddad profil saknas</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="928"/>
+        <location filename="DlgSettingsGeneral.ui" line="981"/>
         <source>System profile</source>
         <translation>Systemprofil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="984"/>
+        <location filename="DlgSettingsGeneral.ui" line="1037"/>
         <source>Rendering intent:</source>
         <translation>Renderingsavsikt:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1013"/>
+        <location filename="DlgSettingsGeneral.ui" line="1066"/>
         <source>Black Point Compensation</source>
         <translation>Svartpunktskompensation</translation>
     </message>
@@ -15028,7 +15074,7 @@ Vill du fortsätta?</translation>
         <translation>Ta bort alla</translation>
     </message>
     <message>
-        <location filename="DlgTransfer.cpp" line="228"/>
+        <location filename="DlgTransfer.cpp" line="231"/>
         <source>Apply</source>
         <translation>Tillämpa</translation>
     </message>
@@ -15556,88 +15602,93 @@ Vill du fortsätta?</translation>
 <context>
     <name>DlgWriteJPEGClass</name>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="21"/>
+        <location filename="DlgWriteJPEG.ui" line="42"/>
         <source>Lowest</source>
         <translation>Lägst</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="47"/>
+        <location filename="DlgWriteJPEG.ui" line="68"/>
         <source>Best</source>
         <translation>Bäst</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="62"/>
+        <location filename="DlgWriteJPEG.ui" line="26"/>
         <source>Quality</source>
         <translation>Kvalitet</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="94"/>
+        <location filename="DlgWriteJPEG.ui" line="101"/>
         <source>Progressive</source>
         <translation>Progressiv</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="101"/>
+        <location filename="DlgWriteJPEG.ui" line="108"/>
         <source>Optimize Huffman table</source>
         <translation>Optimerad Huffman-tabell</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="153"/>
+        <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT Method</source>
         <translation>DCT-metod</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="113"/>
+        <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Slow</source>
         <translation>Långsam</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="118"/>
+        <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast (worst but faster)</source>
         <translation>Snabb (sämst men snabbast)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="123"/>
+        <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Float (best but slowest)</source>
         <translation>Flytande (bäst men långsammast)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="160"/>
+        <location filename="DlgWriteJPEG.ui" line="167"/>
         <source>Smoothing factor</source>
         <translation>Utjämningsfaktor</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="146"/>
+        <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling factor</source>
         <translation>Nersamplingsfaktor</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="194"/>
+        <location filename="DlgWriteJPEG.ui" line="17"/>
+        <source>Use JPEG-li</source>
+        <translation type="unfinished">Använd JPEG-li</translation>
+    </message>
+    <message>
+        <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>2x2,1x1,1x1 (default)</source>
         <translation>2x2, 1x1, 1x1 (standard)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="199"/>
+        <location filename="DlgWriteJPEG.ui" line="206"/>
         <source>2x1,1x1,1x1 (4:2:2)</source>
         <translation>2x1, 1x1, 1x1 (4:2:2)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="204"/>
+        <location filename="DlgWriteJPEG.ui" line="211"/>
         <source>1x1,1x1,1x1 (best quality)</source>
         <translation>1x1, 1x1, 1x1 (bäst kvalitet)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="229"/>
+        <location filename="DlgWriteJPEG.ui" line="236"/>
         <source>Rebuild embedded EXIF thumbnail</source>
         <oldsource>Rebuild embedded thumbnail</oldsource>
         <translation>Återskapa inbäddad EXIF-miniatyrbild</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="236"/>
+        <location filename="DlgWriteJPEG.ui" line="243"/>
         <source>Use estimated quality (when possible)</source>
         <translation>Använd beräknad kvalitet (om möjligt)</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="243"/>
+        <location filename="DlgWriteJPEG.ui" line="253"/>
         <source>Convert to XYB colorspace</source>
         <translation>Konvertera till XYB-färgrymd</translation>
     </message>
@@ -16055,67 +16106,67 @@ Vill du fortsätta?</translation>
         <translation>Kom ihåg öppnad flik</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="68"/>
+        <location filename="EditXMPWidget.cpp" line="69"/>
         <source>(Use ; or , to separate the values)</source>
         <translation>(Använd ; eller , för att separera värden)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="121"/>
+        <location filename="EditXMPWidget.cpp" line="122"/>
         <source>0: None</source>
         <translation>0: Ingen</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="121"/>
+        <location filename="EditXMPWidget.cpp" line="122"/>
         <source>1: High</source>
         <translation>1: Hög</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="122"/>
+        <location filename="EditXMPWidget.cpp" line="123"/>
         <source>5: Normal</source>
         <translation>5: Normal</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="122"/>
+        <location filename="EditXMPWidget.cpp" line="123"/>
         <source>8: Low</source>
         <translation>8: Låg</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="302"/>
+        <location filename="EditXMPWidget.cpp" line="303"/>
         <source>Required field</source>
         <translation>Obligatoriskt fält</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="302"/>
+        <location filename="EditXMPWidget.cpp" line="303"/>
         <source>Some fields are required, please fill them!</source>
         <translation>Vissa fält är obligatoriska, fyll i dem!</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="444"/>
+        <location filename="EditXMPWidget.cpp" line="445"/>
         <source>Insert</source>
         <translation>Infoga</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="456"/>
+        <location filename="EditXMPWidget.cpp" line="457"/>
         <source>Insert from</source>
         <translation>Infoga från</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="477"/>
+        <location filename="EditXMPWidget.cpp" line="478"/>
         <source>Copy into</source>
         <translation>Kopiera in i</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="501"/>
+        <location filename="EditXMPWidget.cpp" line="502"/>
         <source>Library</source>
         <translation>Bibliotek</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="506"/>
+        <location filename="EditXMPWidget.cpp" line="507"/>
         <source>Edit history...</source>
         <translation>Redigera historik...</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="507"/>
+        <location filename="EditXMPWidget.cpp" line="508"/>
         <source>Sort alphabetically</source>
         <translation>Sortera alfabetiskt</translation>
     </message>
@@ -16263,39 +16314,39 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
 <context>
     <name>FileListWidget</name>
     <message>
-        <location filename="FileListWidget.cpp" line="23"/>
+        <location filename="FileListWidget.cpp" line="24"/>
         <source>Thumbnails small</source>
         <oldsource>Small thumbnails</oldsource>
         <translation>Små miniatyrer</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="28"/>
+        <location filename="FileListWidget.cpp" line="29"/>
         <source>Thumbnails</source>
         <translation>Miniatyrer</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="33"/>
+        <location filename="FileListWidget.cpp" line="34"/>
         <source>Thumbnails large</source>
         <oldsource>Large thumbnails</oldsource>
         <translation>Stora miniatyrer</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="38"/>
+        <location filename="FileListWidget.cpp" line="39"/>
         <source>Details</source>
         <translation>Detaljerat</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="43"/>
+        <location filename="FileListWidget.cpp" line="44"/>
         <source>List</source>
         <translation>Lista</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="53"/>
+        <location filename="FileListWidget.cpp" line="54"/>
         <source>Remove filtered</source>
         <translation>Ta bort filtrerade</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="55"/>
+        <location filename="FileListWidget.cpp" line="56"/>
         <source>Remove unfiltered</source>
         <translation>Ta bort ofiltrerade</translation>
     </message>
@@ -16330,7 +16381,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="328"/>
+        <location filename="FileListWidget.cpp" line="329"/>
         <source>Choose a directory</source>
         <translation>Välj en mapp</translation>
     </message>
@@ -16433,26 +16484,26 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="676"/>
         <location filename="InfoPropertiesView.cpp" line="694"/>
         <location filename="InfoPropertiesView.cpp" line="713"/>
-        <location filename="SearchField.cpp" line="35"/>
-        <location filename="TemplateData.cpp" line="2553"/>
+        <location filename="SearchField.cpp" line="36"/>
+        <location filename="TemplateData.cpp" line="2565"/>
         <source>Format</source>
         <translation>Format</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="73"/>
         <location filename="InfoPropertiesView.cpp" line="679"/>
-        <location filename="ItemModel.cpp" line="1105"/>
-        <location filename="TemplateData.cpp" line="2556"/>
-        <location filename="TemplateData.cpp" line="2579"/>
+        <location filename="ItemModel.cpp" line="1108"/>
+        <location filename="TemplateData.cpp" line="2568"/>
+        <location filename="TemplateData.cpp" line="2591"/>
         <source>Width</source>
         <translation>Bredd</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <location filename="InfoPropertiesView.cpp" line="680"/>
-        <location filename="ItemModel.cpp" line="1107"/>
-        <location filename="TemplateData.cpp" line="2557"/>
-        <location filename="TemplateData.cpp" line="2580"/>
+        <location filename="ItemModel.cpp" line="1110"/>
+        <location filename="TemplateData.cpp" line="2569"/>
+        <location filename="TemplateData.cpp" line="2592"/>
         <source>Height</source>
         <translation>Höjd</translation>
     </message>
@@ -16469,7 +16520,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="79"/>
         <location filename="InfoPropertiesView.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2554"/>
+        <location filename="TemplateData.cpp" line="2566"/>
         <source>Color model</source>
         <translation>Färgmodell</translation>
     </message>
@@ -16485,22 +16536,22 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="85"/>
-        <location filename="ItemModel.cpp" line="1109"/>
-        <location filename="TemplateData.cpp" line="2560"/>
-        <location filename="TemplateData.cpp" line="2582"/>
+        <location filename="ItemModel.cpp" line="1112"/>
+        <location filename="TemplateData.cpp" line="2572"/>
+        <location filename="TemplateData.cpp" line="2594"/>
         <source>DPI</source>
         <translation>DPI</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="90"/>
-        <location filename="ItemModel.cpp" line="1087"/>
+        <location filename="ItemModel.cpp" line="1090"/>
         <source>Print size</source>
         <translation>Utskriftsstorlek</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="93"/>
         <location filename="InfoPropertiesView.cpp" line="98"/>
-        <location filename="TemplateData.cpp" line="2555"/>
+        <location filename="TemplateData.cpp" line="2567"/>
         <source>Compression</source>
         <translation>Komprimering</translation>
     </message>
@@ -16539,7 +16590,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="138"/>
         <location filename="InfoPropertiesView.cpp" line="141"/>
-        <location filename="SearchField.cpp" line="190"/>
+        <location filename="SearchField.cpp" line="191"/>
         <source>Embedded comment</source>
         <translation>Inbäddad kommentar</translation>
     </message>
@@ -16714,343 +16765,343 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1085"/>
+        <location filename="ItemModel.cpp" line="1088"/>
         <source>Properties</source>
         <translation>Egenskaper</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1091"/>
-        <location filename="SearchField.cpp" line="29"/>
-        <location filename="SearchField.cpp" line="132"/>
-        <location filename="TemplateData.cpp" line="2761"/>
+        <location filename="ItemModel.cpp" line="1094"/>
+        <location filename="SearchField.cpp" line="30"/>
+        <location filename="SearchField.cpp" line="133"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Rating</source>
         <translation>Klassificering</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1093"/>
+        <location filename="ItemModel.cpp" line="1096"/>
         <source>Colour label</source>
         <translation>Färgetikett</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1095"/>
+        <location filename="ItemModel.cpp" line="1098"/>
         <source>Tag</source>
         <translation>Tagg</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1101"/>
+        <location filename="ItemModel.cpp" line="1104"/>
         <source>Path</source>
         <translation>Sökväg</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="691"/>
         <location filename="InfoPropertiesView.cpp" line="731"/>
-        <location filename="ItemModel.cpp" line="1097"/>
-        <location filename="SearchField.cpp" line="40"/>
-        <location filename="TemplateData.cpp" line="2559"/>
+        <location filename="ItemModel.cpp" line="1100"/>
+        <location filename="SearchField.cpp" line="41"/>
+        <location filename="TemplateData.cpp" line="2571"/>
         <source>Comment</source>
         <translation>Kommentar</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1103"/>
-        <location filename="SearchField.cpp" line="38"/>
-        <location filename="SearchField.cpp" line="184"/>
-        <location filename="TemplateData.cpp" line="2569"/>
+        <location filename="ItemModel.cpp" line="1106"/>
+        <location filename="SearchField.cpp" line="39"/>
+        <location filename="SearchField.cpp" line="185"/>
+        <location filename="TemplateData.cpp" line="2581"/>
         <source>Ratio</source>
         <translation>Proportioner</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1111"/>
+        <location filename="ItemModel.cpp" line="1114"/>
         <source>Extension</source>
         <translation>Filtillägg</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="27"/>
-        <location filename="SearchField.cpp" line="121"/>
+        <location filename="SearchField.cpp" line="28"/>
+        <location filename="SearchField.cpp" line="122"/>
         <source>Pathname</source>
         <translation>Sökväg</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1113"/>
-        <location filename="SearchField.cpp" line="28"/>
-        <location filename="SearchField.cpp" line="127"/>
-        <location filename="TemplateData.cpp" line="2765"/>
+        <location filename="ItemModel.cpp" line="1116"/>
+        <location filename="SearchField.cpp" line="29"/>
+        <location filename="SearchField.cpp" line="128"/>
+        <location filename="TemplateData.cpp" line="2777"/>
         <source>Categories</source>
         <translation>Kategorier</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="30"/>
-        <location filename="SearchField.cpp" line="138"/>
-        <location filename="TemplateData.cpp" line="2763"/>
+        <location filename="SearchField.cpp" line="31"/>
+        <location filename="SearchField.cpp" line="139"/>
+        <location filename="TemplateData.cpp" line="2775"/>
         <source>Color label</source>
         <translation>Färgetikett</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="31"/>
-        <location filename="SearchField.cpp" line="144"/>
+        <location filename="SearchField.cpp" line="32"/>
+        <location filename="SearchField.cpp" line="145"/>
         <source>File size</source>
         <translation>Filstorlek</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="32"/>
-        <location filename="SearchField.cpp" line="150"/>
+        <location filename="SearchField.cpp" line="33"/>
+        <location filename="SearchField.cpp" line="151"/>
         <source>Modified file date</source>
         <translation>Ändrad</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="33"/>
-        <location filename="SearchField.cpp" line="156"/>
+        <location filename="SearchField.cpp" line="34"/>
+        <location filename="SearchField.cpp" line="157"/>
         <source>Created file date</source>
         <translation>Skapad</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="34"/>
-        <location filename="SearchField.cpp" line="161"/>
+        <location filename="SearchField.cpp" line="35"/>
+        <location filename="SearchField.cpp" line="162"/>
         <source>Accessed file date</source>
         <translation>Senast använd</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="36"/>
-        <location filename="SearchField.cpp" line="172"/>
+        <location filename="SearchField.cpp" line="37"/>
+        <location filename="SearchField.cpp" line="173"/>
         <source>Image width</source>
         <translation>Bildbredd</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="37"/>
-        <location filename="SearchField.cpp" line="178"/>
+        <location filename="SearchField.cpp" line="38"/>
+        <location filename="SearchField.cpp" line="179"/>
         <source>Image height</source>
         <translation>Bildhöjd</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="352"/>
+        <location filename="EditXMPWidget.cpp" line="353"/>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="IptcEditBase.cpp" line="114"/>
-        <location filename="ItemModel.cpp" line="1099"/>
-        <location filename="SearchField.cpp" line="39"/>
-        <location filename="SearchField.cpp" line="195"/>
-        <location filename="TemplateData.cpp" line="2785"/>
+        <location filename="ItemModel.cpp" line="1102"/>
+        <location filename="SearchField.cpp" line="40"/>
+        <location filename="SearchField.cpp" line="196"/>
+        <location filename="TemplateData.cpp" line="2797"/>
         <source>Annotation</source>
         <translation>Notering</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="41"/>
-        <location filename="SearchField.cpp" line="200"/>
+        <location filename="SearchField.cpp" line="42"/>
+        <location filename="SearchField.cpp" line="201"/>
         <source>All fields</source>
         <translation>Alla fält</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="166"/>
+        <location filename="SearchField.cpp" line="167"/>
         <source>Image format</source>
         <translation>Bildformat</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2558"/>
-        <location filename="TemplateData.cpp" line="2581"/>
+        <location filename="TemplateData.cpp" line="2570"/>
+        <location filename="TemplateData.cpp" line="2593"/>
         <source>BPP</source>
         <translation>BPP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2563"/>
-        <location filename="TemplateData.cpp" line="2583"/>
+        <location filename="TemplateData.cpp" line="2575"/>
+        <location filename="TemplateData.cpp" line="2595"/>
         <source>Width (inch)</source>
         <translation>Bredd (tum)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2564"/>
-        <location filename="TemplateData.cpp" line="2584"/>
+        <location filename="TemplateData.cpp" line="2576"/>
+        <location filename="TemplateData.cpp" line="2596"/>
         <source>Height (inch)</source>
         <translation>Höjd (tum)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2565"/>
-        <location filename="TemplateData.cpp" line="2585"/>
+        <location filename="TemplateData.cpp" line="2577"/>
+        <location filename="TemplateData.cpp" line="2597"/>
         <source>Width (cm)</source>
         <translation>Bredd (cm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2566"/>
-        <location filename="TemplateData.cpp" line="2586"/>
+        <location filename="TemplateData.cpp" line="2578"/>
+        <location filename="TemplateData.cpp" line="2598"/>
         <source>Height (cm)</source>
         <translation>Höjd (cm)</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="228"/>
-        <location filename="EditXMPWidget.cpp" line="342"/>
+        <location filename="EditXMPWidget.cpp" line="343"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <location filename="IptcEditBase.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2773"/>
+        <location filename="TemplateData.cpp" line="2785"/>
         <source>Filename</source>
         <translation>Filnamn</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="341"/>
+        <location filename="EditXMPWidget.cpp" line="342"/>
         <location filename="IptcEditBase.cpp" line="71"/>
         <source>Filename without extension</source>
         <translation>Filnamn utan filtillägg</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="343"/>
+        <location filename="EditXMPWidget.cpp" line="344"/>
         <location filename="IptcEditBase.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2775"/>
+        <location filename="TemplateData.cpp" line="2787"/>
         <source>Filename (last number)</source>
         <translation>Filnamn (sista siffran)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="344"/>
+        <location filename="EditXMPWidget.cpp" line="345"/>
         <location filename="IptcEditBase.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2776"/>
+        <location filename="TemplateData.cpp" line="2788"/>
         <source>Folder</source>
         <translation>Mapp</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="345"/>
+        <location filename="EditXMPWidget.cpp" line="346"/>
         <location filename="IptcEditBase.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2777"/>
+        <location filename="TemplateData.cpp" line="2789"/>
         <source>Folder name</source>
         <translation>Mappnamn</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="346"/>
+        <location filename="EditXMPWidget.cpp" line="347"/>
         <location filename="IptcEditBase.cpp" line="76"/>
-        <location filename="TemplateData.cpp" line="2778"/>
+        <location filename="TemplateData.cpp" line="2790"/>
         <source>Accessed date</source>
         <translation>Senast använd</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="347"/>
+        <location filename="EditXMPWidget.cpp" line="348"/>
         <location filename="IptcEditBase.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2779"/>
+        <location filename="TemplateData.cpp" line="2791"/>
         <source>Creation date</source>
         <translation>Skapad</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="230"/>
-        <location filename="EditXMPWidget.cpp" line="348"/>
+        <location filename="EditXMPWidget.cpp" line="349"/>
         <location filename="IptcEditBase.cpp" line="78"/>
-        <location filename="TemplateData.cpp" line="2780"/>
+        <location filename="TemplateData.cpp" line="2792"/>
         <source>Modified date</source>
         <translation>Ändrad</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="349"/>
+        <location filename="EditXMPWidget.cpp" line="350"/>
         <location filename="IptcEditBase.cpp" line="79"/>
-        <location filename="TemplateData.cpp" line="2781"/>
+        <location filename="TemplateData.cpp" line="2793"/>
         <source>Size (Auto)</source>
         <translation>Storlek (Auto)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="350"/>
+        <location filename="EditXMPWidget.cpp" line="351"/>
         <location filename="IptcEditBase.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2782"/>
+        <location filename="TemplateData.cpp" line="2794"/>
         <source>Size (Bytes)</source>
         <translation>Storlek (Byte)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="351"/>
+        <location filename="EditXMPWidget.cpp" line="352"/>
         <location filename="IptcEditBase.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2783"/>
+        <location filename="TemplateData.cpp" line="2795"/>
         <source>Size (KB)</source>
         <translation>Storlek (KB)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2567"/>
+        <location filename="TemplateData.cpp" line="2579"/>
         <source>Width (mm)</source>
         <translation>Bredd (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2568"/>
+        <location filename="TemplateData.cpp" line="2580"/>
         <source>Height (mm)</source>
         <translation>Höjd (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2570"/>
+        <location filename="TemplateData.cpp" line="2582"/>
         <source>Ratio Decimal</source>
         <translation>Förhållandedecimal</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2571"/>
+        <location filename="TemplateData.cpp" line="2583"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
         <translation>Bredd-/Höjdförhållande</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2572"/>
+        <location filename="TemplateData.cpp" line="2584"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
         <translation>Höjd-/Breddförhållande</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2573"/>
+        <location filename="TemplateData.cpp" line="2585"/>
         <source>MPixels</source>
         <translation>MPixel</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2755"/>
+        <location filename="TemplateData.cpp" line="2767"/>
         <source>Create date</source>
         <translation>Skapad</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2756"/>
+        <location filename="TemplateData.cpp" line="2768"/>
         <source>Modify date</source>
         <translation>Ändrad</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2774"/>
+        <location filename="TemplateData.cpp" line="2786"/>
         <source>Filename (with extension)</source>
         <translation>Filnamn (med filnamnstillägg)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2784"/>
+        <location filename="TemplateData.cpp" line="2796"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2786"/>
+        <location filename="TemplateData.cpp" line="2798"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
         <translation>Namn på utdatafil</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2787"/>
+        <location filename="TemplateData.cpp" line="2799"/>
         <source>Output filename (with extension)</source>
         <translation>Namn på utdatafil (med filnamnstillägg)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2757"/>
+        <location filename="TemplateData.cpp" line="2769"/>
         <source>File index</source>
         <translation>Filindex</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2561"/>
+        <location filename="TemplateData.cpp" line="2573"/>
         <source>DPI-X</source>
         <translation>DPI-X</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2562"/>
+        <location filename="TemplateData.cpp" line="2574"/>
         <source>DPI-Y</source>
         <translation>DPI-Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2758"/>
+        <location filename="TemplateData.cpp" line="2770"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2759"/>
+        <location filename="TemplateData.cpp" line="2771"/>
         <source>Current date</source>
         <translation>Aktuellt datum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2760"/>
+        <location filename="TemplateData.cpp" line="2772"/>
         <source>Tag status</source>
         <translation>Taggstatus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2762"/>
+        <location filename="TemplateData.cpp" line="2774"/>
         <source>Rating (number)</source>
         <translation>Klassificering (siffra)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2764"/>
+        <location filename="TemplateData.cpp" line="2776"/>
         <source>Color label (number)</source>
         <translation>Färgetikett (nummer)</translation>
     </message>
@@ -17058,55 +17109,55 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
 <context>
     <name>InfoCategoryTreeView</name>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1090"/>
+        <location filename="InfoCategoryView.cpp" line="1091"/>
         <source>New category</source>
         <translation>Ny kategori</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1091"/>
+        <location filename="InfoCategoryView.cpp" line="1092"/>
         <source>New subcategory</source>
         <translation>Ny underkategori</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1098"/>
+        <location filename="InfoCategoryView.cpp" line="1099"/>
         <source>Rename</source>
         <translation>Byt namn</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1101"/>
+        <location filename="InfoCategoryView.cpp" line="1102"/>
         <source>Move to...</source>
         <translation>Flytta till...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1102"/>
+        <location filename="InfoCategoryView.cpp" line="1103"/>
         <source>Merge with...</source>
         <translation>Slå samman med...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1103"/>
+        <location filename="InfoCategoryView.cpp" line="1104"/>
         <source>Delete</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1107"/>
+        <location filename="InfoCategoryView.cpp" line="1108"/>
         <source>Edit...</source>
         <translation>Redigera...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1066"/>
-        <location filename="InfoCategoryView.cpp" line="1125"/>
+        <location filename="InfoCategoryView.cpp" line="1067"/>
+        <location filename="InfoCategoryView.cpp" line="1126"/>
         <source>Delete category</source>
         <translation>Ta bort kategori</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1066"/>
-        <location filename="InfoCategoryView.cpp" line="1125"/>
+        <location filename="InfoCategoryView.cpp" line="1067"/>
+        <location filename="InfoCategoryView.cpp" line="1126"/>
         <source>Are you sure to delete this category?</source>
         <translation>Vill du verkligen ta bort denna kategori?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1136"/>
-        <location filename="InfoCategoryView.cpp" line="1147"/>
+        <location filename="InfoCategoryView.cpp" line="1137"/>
+        <location filename="InfoCategoryView.cpp" line="1148"/>
         <source>New Category</source>
         <translation>Ny kategori</translation>
     </message>
@@ -17114,145 +17165,130 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
 <context>
     <name>InfoCategoryView</name>
     <message>
-        <location filename="InfoCategoryView.cpp" line="89"/>
+        <location filename="InfoCategoryView.cpp" line="90"/>
         <source>Search Mode</source>
         <translation>Sökläge</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="91"/>
+        <location filename="InfoCategoryView.cpp" line="92"/>
         <source>Partial Match at the Beginning</source>
         <translation>Partiell matchning i början</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="96"/>
+        <location filename="InfoCategoryView.cpp" line="97"/>
         <source>Partial Match Anywhere</source>
         <translation>Partiell matchning var som helst</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="101"/>
+        <location filename="InfoCategoryView.cpp" line="102"/>
         <source>Use Regular Expressions</source>
         <translation>Använd Regular Expressions</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="109"/>
+        <location filename="InfoCategoryView.cpp" line="110"/>
         <source>Options</source>
         <translation>Alternativ</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="111"/>
+        <location filename="InfoCategoryView.cpp" line="112"/>
         <source>Hide assigned categories</source>
         <translation>Dölj tilldelade kategorier</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="119"/>
+        <location filename="InfoCategoryView.cpp" line="120"/>
         <source>Action</source>
         <translation>Åtgärd</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="121"/>
+        <location filename="InfoCategoryView.cpp" line="122"/>
         <source>Assign Category</source>
         <translation>Tilldela kategori</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="126"/>
+        <location filename="InfoCategoryView.cpp" line="127"/>
         <source>Open Tree</source>
         <translation>Öppna filträd</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="134"/>
+        <location filename="InfoCategoryView.cpp" line="135"/>
         <source>Categories Management</source>
         <translation>Kategorihantering</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="135"/>
+        <location filename="InfoCategoryView.cpp" line="136"/>
         <source>Auto Correct...</source>
         <translation>Korrigera automatiskt...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="137"/>
+        <location filename="InfoCategoryView.cpp" line="138"/>
         <source>Import Categories File</source>
         <translation>Importera kategorifil</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="139"/>
+        <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Export Categories File</source>
         <translation>Exportera kategorifil</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="142"/>
+        <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Clear all...</source>
         <translation>Rensa alla...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="149"/>
-        <source>Catalog</source>
-        <translation>Katalog</translation>
-    </message>
-    <message>
-        <location filename="InfoCategoryView.cpp" line="150"/>
-        <source>Import...</source>
-        <translation>Importera...</translation>
-    </message>
-    <message>
-        <location filename="InfoCategoryView.cpp" line="152"/>
-        <source>Export...</source>
-        <translation>ExporteraExportera...</translation>
-    </message>
-    <message>
-        <location filename="InfoCategoryView.cpp" line="245"/>
-        <location filename="InfoCategoryView.cpp" line="286"/>
-        <location filename="InfoCategoryView.cpp" line="310"/>
+        <location filename="InfoCategoryView.cpp" line="246"/>
+        <location filename="InfoCategoryView.cpp" line="287"/>
+        <location filename="InfoCategoryView.cpp" line="311"/>
         <source>Categories file</source>
         <translation>Kategorifil</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="251"/>
-        <location filename="InfoCategoryView.cpp" line="292"/>
+        <location filename="InfoCategoryView.cpp" line="252"/>
+        <location filename="InfoCategoryView.cpp" line="293"/>
         <source>Import</source>
         <translation>Importera</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="251"/>
-        <location filename="InfoCategoryView.cpp" line="292"/>
+        <location filename="InfoCategoryView.cpp" line="252"/>
+        <location filename="InfoCategoryView.cpp" line="293"/>
         <source>Are you sure that you want to start importing categories file?</source>
         <translation>Vill du verkligen starta import av kategorifil?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="256"/>
-        <location filename="InfoCategoryView.cpp" line="299"/>
+        <location filename="InfoCategoryView.cpp" line="257"/>
+        <location filename="InfoCategoryView.cpp" line="300"/>
         <source>Importing categories file, please wait...</source>
         <oldsource>Importing categories file, please wait... </oldsource>
         <translation>Importerar kategorifil, vänta...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="274"/>
-        <location filename="InfoCategoryView.cpp" line="320"/>
+        <location filename="InfoCategoryView.cpp" line="275"/>
+        <location filename="InfoCategoryView.cpp" line="321"/>
         <source>Exporting categories file, please wait...</source>
         <oldsource>Exporting categories file, please wait... </oldsource>
         <translation>Exporterar kategorifil, vänta...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="326"/>
+        <location filename="InfoCategoryView.cpp" line="327"/>
         <source>Clear all categories</source>
         <translation>Ta bort alla kategorier</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="326"/>
+        <location filename="InfoCategoryView.cpp" line="327"/>
         <source>Do you want to clear all categories?</source>
         <translation>Vill du ta bort alla kategorier?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="332"/>
+        <location filename="InfoCategoryView.cpp" line="333"/>
         <source>Clear orphaned categories</source>
         <translation>Ta bort övergivna underkategorier</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="332"/>
+        <location filename="InfoCategoryView.cpp" line="333"/>
         <source>Do you want to clear orphaned categories?</source>
         <translation>Vill du ta bort alla underkategorier som saknar överordnad kategori?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="412"/>
+        <location filename="InfoCategoryView.cpp" line="413"/>
         <source> [Create New]</source>
         <translation> [Skapa ny]</translation>
     </message>
@@ -17313,478 +17349,478 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Skaparnoteringar</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1116"/>
-        <location filename="SearchField.cpp" line="260"/>
-        <location filename="TemplateData.cpp" line="2591"/>
+        <location filename="ItemModel.cpp" line="1119"/>
+        <location filename="SearchField.cpp" line="261"/>
+        <location filename="TemplateData.cpp" line="2603"/>
         <source>Maker</source>
         <translation>Skapare</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1118"/>
-        <location filename="SearchField.cpp" line="265"/>
-        <location filename="TemplateData.cpp" line="2592"/>
+        <location filename="ItemModel.cpp" line="1121"/>
+        <location filename="SearchField.cpp" line="266"/>
+        <location filename="TemplateData.cpp" line="2604"/>
         <source>Model</source>
         <translation>Modell</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1120"/>
+        <location filename="ItemModel.cpp" line="1123"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1122"/>
+        <location filename="ItemModel.cpp" line="1125"/>
         <source>ShutterSpeed</source>
         <translation>Slutarhastighet</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1124"/>
-        <location filename="SearchField.cpp" line="313"/>
+        <location filename="ItemModel.cpp" line="1127"/>
+        <location filename="SearchField.cpp" line="314"/>
         <source>Exposure Time</source>
         <translation>Exponeringstid</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1126"/>
+        <location filename="ItemModel.cpp" line="1129"/>
         <source>Focal Length</source>
         <translation>Brännvidd</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1128"/>
-        <location filename="TemplateData.cpp" line="2630"/>
+        <location filename="ItemModel.cpp" line="1131"/>
+        <location filename="TemplateData.cpp" line="2642"/>
         <source>Aperture</source>
         <translation>Bländare</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1130"/>
-        <location filename="TemplateData.cpp" line="2675"/>
+        <location filename="ItemModel.cpp" line="1133"/>
+        <location filename="TemplateData.cpp" line="2687"/>
         <source>Latitude</source>
         <translation>Latitud</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1132"/>
-        <location filename="TemplateData.cpp" line="2678"/>
+        <location filename="ItemModel.cpp" line="1135"/>
+        <location filename="TemplateData.cpp" line="2690"/>
         <source>Longitude</source>
         <translation>Longitud</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="270"/>
-        <location filename="TemplateData.cpp" line="2604"/>
+        <location filename="SearchField.cpp" line="271"/>
+        <location filename="TemplateData.cpp" line="2616"/>
         <source>Software</source>
         <translation>Mjukvara</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="275"/>
-        <location filename="TemplateData.cpp" line="2593"/>
+        <location filename="SearchField.cpp" line="276"/>
+        <location filename="TemplateData.cpp" line="2605"/>
         <source>Artist</source>
         <translation>Konstnär</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="280"/>
-        <location filename="TemplateData.cpp" line="2617"/>
+        <location filename="SearchField.cpp" line="281"/>
+        <location filename="TemplateData.cpp" line="2629"/>
         <source>User comment</source>
         <translation>Användarkommentar</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="285"/>
+        <location filename="SearchField.cpp" line="286"/>
         <source>Modified date</source>
         <translation>Ändrad</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="290"/>
+        <location filename="SearchField.cpp" line="291"/>
         <source>Taken date</source>
         <translation>Bilden togs</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="295"/>
+        <location filename="SearchField.cpp" line="296"/>
         <source>Digitized date</source>
         <translation>Digitaliserades</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="300"/>
+        <location filename="SearchField.cpp" line="301"/>
         <source>Sensitivity</source>
         <translation>Känslighet</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="306"/>
+        <location filename="SearchField.cpp" line="307"/>
         <source>Focal length</source>
         <translation>Brännvidd</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="320"/>
-        <location filename="TemplateData.cpp" line="2625"/>
+        <location filename="SearchField.cpp" line="321"/>
+        <location filename="TemplateData.cpp" line="2637"/>
         <source>F-Number</source>
         <translation>F-nummer</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2594"/>
+        <location filename="TemplateData.cpp" line="2606"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2595"/>
+        <location filename="TemplateData.cpp" line="2607"/>
         <source>Date/time modified</source>
         <translation>Ändrad datum/tid</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2596"/>
+        <location filename="TemplateData.cpp" line="2608"/>
         <source>Orientation</source>
         <translation>Orientering</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2597"/>
+        <location filename="TemplateData.cpp" line="2609"/>
         <source>X-Resolution</source>
         <translation>X-upplösning</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2598"/>
+        <location filename="TemplateData.cpp" line="2610"/>
         <source>Y-Resolution</source>
         <translation>Y-upplösning</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2599"/>
+        <location filename="TemplateData.cpp" line="2611"/>
         <source>Resolution unit</source>
         <translation>Upplösningsenhet</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2600"/>
+        <location filename="TemplateData.cpp" line="2612"/>
         <source>Primary chromaticities</source>
         <translation>Primär kromaticitet</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2601"/>
+        <location filename="TemplateData.cpp" line="2613"/>
         <source>YCbCr-Coefficients</source>
         <translation>YCbCr-Koefficienter</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2602"/>
+        <location filename="TemplateData.cpp" line="2614"/>
         <source>YCbCr-Positioning</source>
         <translation>YCbCr-Positionering</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2603"/>
+        <location filename="TemplateData.cpp" line="2615"/>
         <source>Ref. black/white</source>
         <translation>Ref. svart/vit</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2606"/>
+        <location filename="TemplateData.cpp" line="2618"/>
         <source>LensID</source>
         <translation>Lins-ID</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2608"/>
+        <location filename="TemplateData.cpp" line="2620"/>
         <source>XP Title</source>
         <translation>XP-titel</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2609"/>
+        <location filename="TemplateData.cpp" line="2621"/>
         <source>XP Comment</source>
         <translation>XP-kommentar</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2610"/>
+        <location filename="TemplateData.cpp" line="2622"/>
         <source>XP Author</source>
         <translation>XP-författare</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2611"/>
+        <location filename="TemplateData.cpp" line="2623"/>
         <source>XP Keywords</source>
         <translation>XP-nyckelord</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2612"/>
+        <location filename="TemplateData.cpp" line="2624"/>
         <source>XP Subject</source>
         <translation>XP-ämne</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2618"/>
+        <location filename="TemplateData.cpp" line="2630"/>
         <source>Date taken</source>
         <translation>Bilden togs</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2619"/>
+        <location filename="TemplateData.cpp" line="2631"/>
         <source>Date digitized</source>
         <translation>Digitaliserades</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2620"/>
+        <location filename="TemplateData.cpp" line="2632"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translation>Exponeringstid (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2621"/>
+        <location filename="TemplateData.cpp" line="2633"/>
         <source>Exposure Program</source>
         <translation>Exponeringsprogram</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2622"/>
+        <location filename="TemplateData.cpp" line="2634"/>
         <source>Exposure Mode</source>
         <translation>Exponeringsläge</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2623"/>
+        <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Bias</source>
         <translation>Exponeringsbias</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2624"/>
+        <location filename="TemplateData.cpp" line="2636"/>
         <source>Exposure Index</source>
         <translation>Exponeringsindex</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2626"/>
+        <location filename="TemplateData.cpp" line="2638"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translation>Brännvidd (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2627"/>
+        <location filename="TemplateData.cpp" line="2639"/>
         <source>35mm Focal length</source>
         <translation>35mm brännvidd</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2628"/>
+        <location filename="TemplateData.cpp" line="2640"/>
         <source>ISO Value</source>
         <translation>ISO-värde</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2629"/>
+        <location filename="TemplateData.cpp" line="2641"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translation>Slutarhastighet (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="TemplateData.cpp" line="2643"/>
         <source>Max. aperture</source>
         <translation>Max. slutare</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2632"/>
+        <location filename="TemplateData.cpp" line="2644"/>
         <source>Colour space</source>
         <translation>Färgrymd</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2633"/>
+        <location filename="TemplateData.cpp" line="2645"/>
         <source>Digital zoom</source>
         <translation>Digital zoom</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2634"/>
+        <location filename="TemplateData.cpp" line="2646"/>
         <source>Subject Distance (m)</source>
         <translation>Motivets avstånd (m)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2635"/>
+        <location filename="TemplateData.cpp" line="2647"/>
         <source>Subj. Dist. Range</source>
         <translation>Motiv distansomr</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2636"/>
+        <location filename="TemplateData.cpp" line="2648"/>
         <source>Subject location</source>
         <translation>Plats för motiv</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="328"/>
-        <location filename="TemplateData.cpp" line="2637"/>
+        <location filename="SearchField.cpp" line="329"/>
+        <location filename="TemplateData.cpp" line="2649"/>
         <source>Flash</source>
         <translation>Blixt</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2638"/>
+        <location filename="TemplateData.cpp" line="2650"/>
         <source>Flash energy</source>
         <translation>Blixtstyrka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2639"/>
+        <location filename="TemplateData.cpp" line="2651"/>
         <source>Metering mode</source>
         <translation>Mätningsläge</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2640"/>
+        <location filename="TemplateData.cpp" line="2652"/>
         <source>Gain control</source>
         <translation>Förstärkningskontroll</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2641"/>
+        <location filename="TemplateData.cpp" line="2653"/>
         <source>Light source</source>
         <translation>Ljuskälla</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2642"/>
+        <location filename="TemplateData.cpp" line="2654"/>
         <source>White balance</source>
         <translation>Vitbalans</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2643"/>
+        <location filename="TemplateData.cpp" line="2655"/>
         <source>Contrast</source>
         <translation>Kontrast</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2644"/>
+        <location filename="TemplateData.cpp" line="2656"/>
         <source>Saturation</source>
         <translation>Mättnad</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2645"/>
+        <location filename="TemplateData.cpp" line="2657"/>
         <source>Sharpness</source>
         <translation>Skärpa</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2646"/>
+        <location filename="TemplateData.cpp" line="2658"/>
         <source>Brightness</source>
         <translation>Ljusstyrka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2647"/>
+        <location filename="TemplateData.cpp" line="2659"/>
         <source>Spectral sensitivity</source>
         <translation>Spektralkänslighet</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2648"/>
+        <location filename="TemplateData.cpp" line="2660"/>
         <source>Spatial freq. response</source>
         <translation>Spatial frekv.respons</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2649"/>
+        <location filename="TemplateData.cpp" line="2661"/>
         <source>Sensing method</source>
         <translation>Avkänningsmetod</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2650"/>
+        <location filename="TemplateData.cpp" line="2662"/>
         <source>File source</source>
         <translation>Filkälla</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2651"/>
+        <location filename="TemplateData.cpp" line="2663"/>
         <source>CFA pattern</source>
         <translation>CFA-mönster</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2652"/>
+        <location filename="TemplateData.cpp" line="2664"/>
         <source>Custom rendered</source>
         <translation>Anpassad rendering</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2653"/>
+        <location filename="TemplateData.cpp" line="2665"/>
         <source>Device settings desc.</source>
         <translation>Beskrivning av enhetsinställningar.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2654"/>
+        <location filename="TemplateData.cpp" line="2666"/>
         <source>Scene type</source>
         <translation>Scentyp</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2655"/>
+        <location filename="TemplateData.cpp" line="2667"/>
         <source>Scene capture type</source>
         <translation>Typ av scenupptagning</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2656"/>
+        <location filename="TemplateData.cpp" line="2668"/>
         <source>Image-ID</source>
         <translation>Bild-ID</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2657"/>
+        <location filename="TemplateData.cpp" line="2669"/>
         <source>Image width</source>
         <translation>Bildbredd</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2658"/>
+        <location filename="TemplateData.cpp" line="2670"/>
         <source>Image height</source>
         <translation>Bildhöjd</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2659"/>
+        <location filename="TemplateData.cpp" line="2671"/>
         <source>Image description</source>
         <translation>Bildbeskrivning</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2660"/>
+        <location filename="TemplateData.cpp" line="2672"/>
         <source>Components configuration</source>
         <translation>Komponentkonfiguration</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2661"/>
+        <location filename="TemplateData.cpp" line="2673"/>
         <source>Photometric interpretation</source>
         <translation>Fotometrisk tolkning</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2662"/>
+        <location filename="TemplateData.cpp" line="2674"/>
         <source>Focal Plane X-Resolution</source>
         <translation>Fokalplanets X-upplösning</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2663"/>
+        <location filename="TemplateData.cpp" line="2675"/>
         <source>Focal Plane Y-Resolution</source>
         <translation>Fokalplanets Y-upplösning</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2664"/>
+        <location filename="TemplateData.cpp" line="2676"/>
         <source>Focal Plane Res. Unit</source>
         <translation>Fokalplanets upplösningsenhet</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2665"/>
+        <location filename="TemplateData.cpp" line="2677"/>
         <source>EXIF Version</source>
         <translation>EXIF-version</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2666"/>
+        <location filename="TemplateData.cpp" line="2678"/>
         <source>White point</source>
         <translation>Vitpunkt</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2667"/>
+        <location filename="TemplateData.cpp" line="2679"/>
         <source>Lens Make</source>
         <translation>Objektivfabrikat</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2668"/>
+        <location filename="TemplateData.cpp" line="2680"/>
         <source>Lens Model</source>
         <translation>Objektivmodell</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2674"/>
+        <location filename="TemplateData.cpp" line="2686"/>
         <source>Latitude ref.</source>
         <translation>Latitudref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2676"/>
+        <location filename="TemplateData.cpp" line="2688"/>
         <source>Latitude (value)</source>
         <translation>Latitud (värde)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2677"/>
+        <location filename="TemplateData.cpp" line="2689"/>
         <source>Longitude ref.</source>
         <translation>Longitudref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2679"/>
+        <location filename="TemplateData.cpp" line="2691"/>
         <source>Longitude (value)</source>
         <translation>Longitud (värde)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2680"/>
+        <location filename="TemplateData.cpp" line="2692"/>
         <source>Altitude ref.</source>
         <translation>Altitudref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2681"/>
+        <location filename="TemplateData.cpp" line="2693"/>
         <source>Altitude</source>
         <translation>Altitud</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2682"/>
+        <location filename="TemplateData.cpp" line="2694"/>
         <source>Direction ref.</source>
         <translation>Riktningsref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2683"/>
+        <location filename="TemplateData.cpp" line="2695"/>
         <source>Direction</source>
         <translation>Riktning</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2684"/>
+        <location filename="TemplateData.cpp" line="2696"/>
         <source>Location Code</source>
         <translation>Platskod</translation>
     </message>
@@ -17822,101 +17858,101 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
-        <location filename="ItemModel.cpp" line="1135"/>
-        <location filename="SearchField.cpp" line="43"/>
-        <location filename="SearchField.cpp" line="205"/>
-        <location filename="TemplateData.cpp" line="2689"/>
+        <location filename="ItemModel.cpp" line="1138"/>
+        <location filename="SearchField.cpp" line="44"/>
+        <location filename="SearchField.cpp" line="206"/>
+        <location filename="TemplateData.cpp" line="2701"/>
         <source>Caption</source>
         <translation>Bildtext</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="101"/>
+        <location filename="EditXMPWidget.cpp" line="102"/>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
-        <location filename="ItemModel.cpp" line="1137"/>
-        <location filename="SearchField.cpp" line="44"/>
-        <location filename="SearchField.cpp" line="76"/>
-        <location filename="SearchField.cpp" line="210"/>
-        <location filename="SearchField.cpp" line="356"/>
-        <location filename="TemplateData.cpp" line="2690"/>
-        <location filename="TemplateData.cpp" line="2743"/>
+        <location filename="ItemModel.cpp" line="1140"/>
+        <location filename="SearchField.cpp" line="45"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="SearchField.cpp" line="211"/>
+        <location filename="SearchField.cpp" line="357"/>
+        <location filename="TemplateData.cpp" line="2702"/>
+        <location filename="TemplateData.cpp" line="2755"/>
         <source>Caption writer</source>
         <translation>Bildtextförfattare</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="117"/>
+        <location filename="EditXMPWidget.cpp" line="118"/>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
-        <location filename="ItemModel.cpp" line="1139"/>
-        <location filename="SearchField.cpp" line="45"/>
-        <location filename="SearchField.cpp" line="215"/>
-        <location filename="TemplateData.cpp" line="2691"/>
-        <location filename="TemplateData.cpp" line="2747"/>
+        <location filename="ItemModel.cpp" line="1142"/>
+        <location filename="SearchField.cpp" line="46"/>
+        <location filename="SearchField.cpp" line="216"/>
+        <location filename="TemplateData.cpp" line="2703"/>
+        <location filename="TemplateData.cpp" line="2759"/>
         <source>Headline</source>
         <translation>Rubrik</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
-        <location filename="TemplateData.cpp" line="2692"/>
+        <location filename="TemplateData.cpp" line="2704"/>
         <source>Special instructions</source>
         <translation>Specialinstruktioner</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="107"/>
+        <location filename="EditXMPWidget.cpp" line="108"/>
         <location filename="InfoIPTCView.cpp" line="33"/>
         <location filename="IptcHelper.cpp" line="22"/>
-        <location filename="ItemModel.cpp" line="1141"/>
-        <location filename="SearchField.cpp" line="51"/>
-        <location filename="SearchField.cpp" line="245"/>
-        <location filename="TemplateData.cpp" line="2697"/>
+        <location filename="ItemModel.cpp" line="1144"/>
+        <location filename="SearchField.cpp" line="52"/>
+        <location filename="SearchField.cpp" line="246"/>
+        <location filename="TemplateData.cpp" line="2709"/>
         <source>Keywords</source>
         <translation>Nyckelord</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="34"/>
-        <location filename="SearchField.cpp" line="77"/>
-        <location filename="SearchField.cpp" line="358"/>
-        <location filename="TemplateData.cpp" line="2698"/>
+        <location filename="SearchField.cpp" line="78"/>
+        <location filename="SearchField.cpp" line="359"/>
+        <location filename="TemplateData.cpp" line="2710"/>
         <source>Category</source>
         <translation>Kategori</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
         <location filename="IptcHelper.cpp" line="24"/>
-        <location filename="TemplateData.cpp" line="2699"/>
+        <location filename="TemplateData.cpp" line="2711"/>
         <source>Supplemental categories</source>
         <translation>Underkategorier</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="40"/>
         <location filename="IptcHelper.cpp" line="30"/>
-        <location filename="ItemModel.cpp" line="1153"/>
-        <location filename="SearchField.cpp" line="46"/>
-        <location filename="SearchField.cpp" line="72"/>
-        <location filename="SearchField.cpp" line="220"/>
-        <location filename="TemplateData.cpp" line="2704"/>
-        <location filename="TemplateData.cpp" line="2739"/>
+        <location filename="ItemModel.cpp" line="1156"/>
+        <location filename="SearchField.cpp" line="47"/>
+        <location filename="SearchField.cpp" line="73"/>
+        <location filename="SearchField.cpp" line="221"/>
+        <location filename="TemplateData.cpp" line="2716"/>
+        <location filename="TemplateData.cpp" line="2751"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="26"/>
-        <location filename="ItemModel.cpp" line="1145"/>
-        <location filename="SearchField.cpp" line="47"/>
-        <location filename="SearchField.cpp" line="225"/>
-        <location filename="TemplateData.cpp" line="2705"/>
+        <location filename="ItemModel.cpp" line="1148"/>
+        <location filename="SearchField.cpp" line="48"/>
+        <location filename="SearchField.cpp" line="226"/>
+        <location filename="TemplateData.cpp" line="2717"/>
         <source>Byline</source>
         <translation>Byline</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
-        <location filename="ItemModel.cpp" line="1147"/>
-        <location filename="SearchField.cpp" line="48"/>
-        <location filename="SearchField.cpp" line="230"/>
-        <location filename="TemplateData.cpp" line="2706"/>
+        <location filename="ItemModel.cpp" line="1150"/>
+        <location filename="SearchField.cpp" line="49"/>
+        <location filename="SearchField.cpp" line="231"/>
+        <location filename="TemplateData.cpp" line="2718"/>
         <source>Byline title</source>
         <translation>Bylinerubrik</translation>
     </message>
@@ -17927,35 +17963,35 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Erkännanden</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="116"/>
+        <location filename="EditXMPWidget.cpp" line="117"/>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="29"/>
-        <location filename="ItemModel.cpp" line="1151"/>
-        <location filename="SearchField.cpp" line="50"/>
-        <location filename="SearchField.cpp" line="240"/>
-        <location filename="TemplateData.cpp" line="2708"/>
-        <location filename="TemplateData.cpp" line="2749"/>
+        <location filename="ItemModel.cpp" line="1154"/>
+        <location filename="SearchField.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="241"/>
+        <location filename="TemplateData.cpp" line="2720"/>
+        <location filename="TemplateData.cpp" line="2761"/>
         <source>Source</source>
         <translation>Källa</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="49"/>
         <location filename="IptcHelper.cpp" line="33"/>
-        <location filename="TemplateData.cpp" line="2713"/>
+        <location filename="TemplateData.cpp" line="2725"/>
         <source>Edit status</source>
         <translation>Redigeringsstatus</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2716"/>
+        <location filename="TemplateData.cpp" line="2728"/>
         <source>Job ID</source>
         <translation>Jobb-ID</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="37"/>
-        <location filename="TemplateData.cpp" line="2717"/>
+        <location filename="TemplateData.cpp" line="2729"/>
         <source>Program</source>
         <translation>Program</translation>
     </message>
@@ -17968,7 +18004,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="53"/>
         <location filename="IptcHelper.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2714"/>
+        <location filename="TemplateData.cpp" line="2726"/>
         <source>Priority</source>
         <translation>Prioritet</translation>
     </message>
@@ -17979,22 +18015,22 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Objektcykel</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="111"/>
-        <location filename="EditXMPWidget.cpp" line="152"/>
-        <location filename="EditXMPWidget.cpp" line="169"/>
+        <location filename="EditXMPWidget.cpp" line="112"/>
+        <location filename="EditXMPWidget.cpp" line="153"/>
+        <location filename="EditXMPWidget.cpp" line="170"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="42"/>
-        <location filename="ItemModel.cpp" line="1157"/>
-        <location filename="SearchField.cpp" line="78"/>
-        <location filename="SearchField.cpp" line="360"/>
-        <location filename="TemplateData.cpp" line="2725"/>
-        <location filename="TemplateData.cpp" line="2744"/>
+        <location filename="ItemModel.cpp" line="1160"/>
+        <location filename="SearchField.cpp" line="79"/>
+        <location filename="SearchField.cpp" line="361"/>
+        <location filename="TemplateData.cpp" line="2737"/>
+        <location filename="TemplateData.cpp" line="2756"/>
         <source>City</source>
         <translation>Stad</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2732"/>
+        <location filename="TemplateData.cpp" line="2744"/>
         <source>Content location</source>
         <translation>Innehållsplats</translation>
     </message>
@@ -18005,23 +18041,23 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Stat/provins</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="113"/>
-        <location filename="EditXMPWidget.cpp" line="155"/>
-        <location filename="EditXMPWidget.cpp" line="170"/>
+        <location filename="EditXMPWidget.cpp" line="114"/>
+        <location filename="EditXMPWidget.cpp" line="156"/>
+        <location filename="EditXMPWidget.cpp" line="171"/>
         <location filename="InfoIPTCView.cpp" line="63"/>
         <location filename="IptcHelper.cpp" line="45"/>
-        <location filename="ItemModel.cpp" line="1163"/>
-        <location filename="SearchField.cpp" line="79"/>
-        <location filename="SearchField.cpp" line="362"/>
-        <location filename="TemplateData.cpp" line="2728"/>
-        <location filename="TemplateData.cpp" line="2745"/>
+        <location filename="ItemModel.cpp" line="1166"/>
+        <location filename="SearchField.cpp" line="80"/>
+        <location filename="SearchField.cpp" line="363"/>
+        <location filename="TemplateData.cpp" line="2740"/>
+        <location filename="TemplateData.cpp" line="2757"/>
         <source>Country</source>
         <translation>Land</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
-        <location filename="TemplateData.cpp" line="2729"/>
+        <location filename="TemplateData.cpp" line="2741"/>
         <source>Country code</source>
         <translation>Landskod</translation>
     </message>
@@ -18032,7 +18068,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <location filename="TemplateData.cpp" line="2723"/>
+        <location filename="TemplateData.cpp" line="2735"/>
         <source>Created date</source>
         <translation>Skapad (datum)</translation>
     </message>
@@ -18043,7 +18079,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="68"/>
-        <location filename="TemplateData.cpp" line="2724"/>
+        <location filename="TemplateData.cpp" line="2736"/>
         <source>Released date</source>
         <translation>Publicerad (datum)</translation>
     </message>
@@ -18065,17 +18101,17 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="72"/>
         <location filename="IptcHelper.cpp" line="31"/>
-        <location filename="ItemModel.cpp" line="1155"/>
-        <location filename="TemplateData.cpp" line="2731"/>
+        <location filename="ItemModel.cpp" line="1158"/>
+        <location filename="TemplateData.cpp" line="2743"/>
         <source>Contact</source>
         <translation>Kontakt</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="167"/>
+        <location filename="EditXMPWidget.cpp" line="168"/>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
-        <location filename="ItemModel.cpp" line="1159"/>
-        <location filename="TemplateData.cpp" line="2726"/>
+        <location filename="ItemModel.cpp" line="1162"/>
+        <location filename="TemplateData.cpp" line="2738"/>
         <source>Location</source>
         <translation>Plats</translation>
     </message>
@@ -18086,9 +18122,9 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="IptcHelper.cpp" line="23"/>
-        <location filename="ItemModel.cpp" line="1143"/>
-        <location filename="SearchField.cpp" line="52"/>
-        <location filename="SearchField.cpp" line="250"/>
+        <location filename="ItemModel.cpp" line="1146"/>
+        <location filename="SearchField.cpp" line="53"/>
+        <location filename="SearchField.cpp" line="251"/>
         <source>Categories</source>
         <translation>Kategorier</translation>
     </message>
@@ -18108,209 +18144,208 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Ursprungling överföringsreferens</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="115"/>
-        <location filename="ItemModel.cpp" line="1149"/>
-        <location filename="SearchField.cpp" line="49"/>
-        <location filename="SearchField.cpp" line="80"/>
-        <location filename="SearchField.cpp" line="235"/>
-        <location filename="SearchField.cpp" line="364"/>
-        <location filename="TemplateData.cpp" line="2707"/>
-        <location filename="TemplateData.cpp" line="2746"/>
+        <location filename="EditXMPWidget.cpp" line="116"/>
+        <location filename="ItemModel.cpp" line="1152"/>
+        <location filename="SearchField.cpp" line="50"/>
+        <location filename="SearchField.cpp" line="81"/>
+        <location filename="SearchField.cpp" line="236"/>
+        <location filename="SearchField.cpp" line="365"/>
+        <location filename="TemplateData.cpp" line="2719"/>
+        <location filename="TemplateData.cpp" line="2758"/>
         <source>Credit</source>
         <translation>Erkännande</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="112"/>
-        <location filename="EditXMPWidget.cpp" line="153"/>
-        <location filename="EditXMPWidget.cpp" line="168"/>
-        <location filename="ItemModel.cpp" line="1161"/>
-        <location filename="TemplateData.cpp" line="2727"/>
-        <location filename="TemplateData.cpp" line="2750"/>
+        <location filename="EditXMPWidget.cpp" line="113"/>
+        <location filename="EditXMPWidget.cpp" line="154"/>
+        <location filename="EditXMPWidget.cpp" line="169"/>
+        <location filename="ItemModel.cpp" line="1164"/>
+        <location filename="TemplateData.cpp" line="2739"/>
+        <location filename="TemplateData.cpp" line="2762"/>
         <source>State</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2715"/>
+        <location filename="TemplateData.cpp" line="2727"/>
         <source>Cycle</source>
         <translation>Cykel</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2730"/>
+        <location filename="TemplateData.cpp" line="2742"/>
         <source>Original trans. ref.</source>
         <translation>Ursprungling överf. ref.</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="118"/>
-        <location filename="TemplateData.cpp" line="2748"/>
+        <location filename="EditXMPWidget.cpp" line="119"/>
+        <location filename="TemplateData.cpp" line="2760"/>
         <source>Instructions</source>
         <translation>Instruktioner</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="53"/>
-        <location filename="SearchField.cpp" line="68"/>
-        <location filename="SearchField.cpp" line="81"/>
-        <location filename="SearchField.cpp" line="255"/>
-        <location filename="SearchField.cpp" line="334"/>
-        <location filename="SearchField.cpp" line="366"/>
+        <location filename="SearchField.cpp" line="54"/>
+        <location filename="SearchField.cpp" line="69"/>
+        <location filename="SearchField.cpp" line="82"/>
+        <location filename="SearchField.cpp" line="256"/>
+        <location filename="SearchField.cpp" line="335"/>
+        <location filename="SearchField.cpp" line="367"/>
         <source>All fields</source>
         <translation>Alla fält</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="70"/>
-        <location filename="SearchField.cpp" line="346"/>
-        <location filename="TemplateData.cpp" line="2737"/>
+        <location filename="SearchField.cpp" line="71"/>
+        <location filename="SearchField.cpp" line="347"/>
+        <location filename="TemplateData.cpp" line="2749"/>
         <source>Creator</source>
         <translation>Skapare</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="99"/>
-        <location filename="SearchField.cpp" line="71"/>
-        <location filename="SearchField.cpp" line="348"/>
-        <location filename="TemplateData.cpp" line="2738"/>
+        <location filename="EditXMPWidget.cpp" line="100"/>
+        <location filename="SearchField.cpp" line="72"/>
+        <location filename="SearchField.cpp" line="349"/>
+        <location filename="TemplateData.cpp" line="2750"/>
         <source>Description</source>
         <translation>Beskrivning</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="73"/>
-        <location filename="SearchField.cpp" line="339"/>
-        <location filename="TemplateData.cpp" line="2740"/>
+        <location filename="SearchField.cpp" line="74"/>
+        <location filename="SearchField.cpp" line="340"/>
+        <location filename="TemplateData.cpp" line="2752"/>
         <source>Subject</source>
         <translation>Ämne</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="74"/>
-        <location filename="SearchField.cpp" line="352"/>
-        <location filename="TemplateData.cpp" line="2741"/>
+        <location filename="SearchField.cpp" line="75"/>
+        <location filename="SearchField.cpp" line="353"/>
+        <location filename="TemplateData.cpp" line="2753"/>
         <source>Title</source>
         <translation>Titel</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="98"/>
-        <location filename="SearchField.cpp" line="75"/>
-        <location filename="SearchField.cpp" line="354"/>
-        <location filename="TemplateData.cpp" line="2742"/>
+        <location filename="EditXMPWidget.cpp" line="99"/>
+        <location filename="SearchField.cpp" line="76"/>
+        <location filename="SearchField.cpp" line="355"/>
+        <location filename="TemplateData.cpp" line="2754"/>
         <source>Authors position</source>
         <translation>Skaparens befattning</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="82"/>
-        <location filename="SearchField.cpp" line="368"/>
+        <location filename="SearchField.cpp" line="83"/>
+        <location filename="SearchField.cpp" line="369"/>
         <source>All fields (Number)</source>
         <translation>Alla fält (Nummer)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="83"/>
-        <location filename="SearchField.cpp" line="370"/>
+        <location filename="SearchField.cpp" line="84"/>
+        <location filename="SearchField.cpp" line="371"/>
         <source>Field</source>
         <translation>Fält</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="84"/>
-        <location filename="SearchField.cpp" line="372"/>
+        <location filename="SearchField.cpp" line="85"/>
+        <location filename="SearchField.cpp" line="373"/>
         <source>Field (Number)</source>
         <translation>Fält (Nummer)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="350"/>
+        <location filename="SearchField.cpp" line="351"/>
         <source>Copyrights</source>
         <translation>Copyrights</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="96"/>
+        <location filename="EditXMPWidget.cpp" line="97"/>
         <location filename="InfoIPTCView.cpp" line="59"/>
         <location filename="IptcHelper.cpp" line="48"/>
-        <location filename="ItemModel.cpp" line="1165"/>
-        <location filename="TemplateData.cpp" line="2722"/>
+        <location filename="ItemModel.cpp" line="1168"/>
+        <location filename="TemplateData.cpp" line="2734"/>
         <source>Document title</source>
         <translation>Dokumenttitel</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="97"/>
+        <location filename="EditXMPWidget.cpp" line="98"/>
         <source>Author</source>
         <translation>Författare</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="102"/>
+        <location filename="EditXMPWidget.cpp" line="103"/>
         <source>Copyright Notice</source>
         <translation>Upphovsrättsmeddelande</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="103"/>
+        <location filename="EditXMPWidget.cpp" line="104"/>
         <source>Copyright info URL</source>
         <translation>Copyright-info URL</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="104"/>
+        <location filename="EditXMPWidget.cpp" line="105"/>
         <source>Copyright usage terms</source>
         <translation>Upphovsrättsliga användningsvillkor</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="110"/>
+        <location filename="EditXMPWidget.cpp" line="111"/>
         <source>Sublocation</source>
         <translation>Dellokalisering</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="114"/>
+        <location filename="EditXMPWidget.cpp" line="115"/>
         <source>Country Code</source>
         <translation>Landskod</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="119"/>
+        <location filename="EditXMPWidget.cpp" line="120"/>
         <source>Transmission reference</source>
         <translation>Överföringsreferens</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="151"/>
+        <location filename="EditXMPWidget.cpp" line="152"/>
         <source>Address</source>
         <translation>Adress</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="154"/>
+        <location filename="EditXMPWidget.cpp" line="155"/>
         <source>ZIP code</source>
         <translation>ZIP-kod</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="156"/>
+        <location filename="EditXMPWidget.cpp" line="157"/>
         <source>Telephon number</source>
         <translation>Telefonnummer</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="157"/>
+        <location filename="EditXMPWidget.cpp" line="158"/>
         <source>Email</source>
         <translation>E-postadress</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="158"/>
+        <location filename="EditXMPWidget.cpp" line="159"/>
         <source>Web site</source>
         <translation>Webbsida</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="159"/>
+        <location filename="EditXMPWidget.cpp" line="160"/>
         <source>Subject code</source>
         <translation>Ämneskod</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="162"/>
+        <location filename="EditXMPWidget.cpp" line="163"/>
         <source>Person in image</source>
         <translation>Person på bild</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="163"/>
+        <location filename="EditXMPWidget.cpp" line="164"/>
         <source>Name of organization represented</source>
         <translation>Namn på den organisation som representeras</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="164"/>
+        <location filename="EditXMPWidget.cpp" line="165"/>
         <source>Code of organization represented</source>
         <translation>Organisationskod representerad</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="165"/>
+        <location filename="EditXMPWidget.cpp" line="166"/>
         <source>Event</source>
         <translation>Händelse</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="173"/>
         <location filename="EditXMPWidget.cpp" line="174"/>
         <location filename="EditXMPWidget.cpp" line="175"/>
         <location filename="EditXMPWidget.cpp" line="176"/>
@@ -18320,6 +18355,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="180"/>
         <location filename="EditXMPWidget.cpp" line="181"/>
         <location filename="EditXMPWidget.cpp" line="182"/>
+        <location filename="EditXMPWidget.cpp" line="183"/>
         <source>Custom field</source>
         <translation>Anpassat fält</translation>
     </message>
@@ -18504,52 +18540,52 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
 <context>
     <name>ItemModel</name>
     <message>
-        <location filename="ItemModel.cpp" line="1071"/>
+        <location filename="ItemModel.cpp" line="1074"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1073"/>
+        <location filename="ItemModel.cpp" line="1076"/>
         <source>Size</source>
         <translation>Storlek</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1069"/>
+        <location filename="ItemModel.cpp" line="1072"/>
         <source>No.</source>
         <translation>Nr.</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1075"/>
+        <location filename="ItemModel.cpp" line="1078"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1077"/>
+        <location filename="ItemModel.cpp" line="1080"/>
         <source>Modified date</source>
         <translation>Ändrad</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1079"/>
+        <location filename="ItemModel.cpp" line="1082"/>
         <source>Created date</source>
         <translation>Skapad</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1081"/>
+        <location filename="ItemModel.cpp" line="1084"/>
         <source>EXIF Date Taken</source>
         <translation>EXIF-datum tagen</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1083"/>
+        <location filename="ItemModel.cpp" line="1086"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF-datum ändrad</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1089"/>
+        <location filename="ItemModel.cpp" line="1092"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="4970"/>
+        <location filename="ItemModel.cpp" line="4981"/>
         <source>New Folder %1</source>
         <translation>Ny mapp %1</translation>
     </message>
@@ -18885,8 +18921,8 @@ Vill du fortsätta?</translation>
 <context>
     <name>MainMenu</name>
     <message>
-        <location filename="MainMenu.cpp" line="574"/>
-        <location filename="MainMenu.cpp" line="595"/>
+        <location filename="MainMenu.cpp" line="575"/>
+        <location filename="MainMenu.cpp" line="596"/>
         <source>ToolBar %1</source>
         <translation>Verktygsfält %1</translation>
     </message>
@@ -18894,12 +18930,12 @@ Vill du fortsätta?</translation>
 <context>
     <name>MediaPlayer</name>
     <message>
-        <location filename="MediaPlayer.cpp" line="273"/>
+        <location filename="MediaPlayer.cpp" line="274"/>
         <source>Show playbar</source>
         <translation>Visa uppspelningskontroller</translation>
     </message>
     <message>
-        <location filename="MediaPlayer.cpp" line="277"/>
+        <location filename="MediaPlayer.cpp" line="278"/>
         <source>Extract current frame</source>
         <translation>Extrahera aktuell bildruta</translation>
     </message>
@@ -18933,17 +18969,17 @@ Vill du fortsätta?</translation>
 <context>
     <name>MediaPlayerMDK</name>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="233"/>
+        <location filename="MediaPlayerMDK.cpp" line="234"/>
         <source>Show playbar</source>
         <translation>Visa uppspelningskontroller</translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="237"/>
+        <location filename="MediaPlayerMDK.cpp" line="238"/>
         <source>Extract current frame</source>
         <translation>Extrahera aktuell bildruta</translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="240"/>
+        <location filename="MediaPlayerMDK.cpp" line="241"/>
         <source>Save frame as...</source>
         <translation>Spara bildruta som...</translation>
     </message>
@@ -19192,161 +19228,161 @@ Vill du fortsätta?</translation>
         <translation>Taggad(e) fil(er)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="461"/>
         <source>Navigate to</source>
         <translation>Navigera till</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="475"/>
+        <location filename="BrowserMenu.h" line="478"/>
         <source>Excellent (go to next image)</source>
         <translation>Utmärkt (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="476"/>
+        <location filename="BrowserMenu.h" line="479"/>
         <source>Good (go to next image)</source>
         <translation>Bra (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="477"/>
+        <location filename="BrowserMenu.h" line="480"/>
         <source>Average (go to next image)</source>
         <translation>Medel (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="478"/>
+        <location filename="BrowserMenu.h" line="481"/>
         <source>Fair (go to next image)</source>
         <translation>Rimlig (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="480"/>
+        <location filename="BrowserMenu.h" line="483"/>
         <source>Unrated (go to next image)</source>
         <translation>Oklassificerad (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="493"/>
+        <location filename="BrowserMenu.h" line="496"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>Set Rating</source>
         <translation>Ange betyg</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="516"/>
         <source>Set Color label</source>
         <translation>Ange färgetikett</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>Set Category</source>
         <translation>Ange kategori</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="541"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Show files in subfolders</source>
         <translation>Visa filer i undermappar</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="568"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Info panels</source>
         <translation>Infopaneler</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>Open GPS location in</source>
         <translation>Öppna GPS-plats i</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="662"/>
+        <location filename="BrowserMenu.h" line="665"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>Växla panel</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Face tag...</source>
         <translation>Ansiktstagg...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="673"/>
         <source>Paste as image</source>
         <translation>Klistra in som bild</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="674"/>
+        <location filename="BrowserMenu.h" line="677"/>
         <source>Acquire (TWAIN)</source>
         <translation>Skaffa (TWAIN)</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="459"/>
-        <location filename="BrowserMenu.h" line="468"/>
+        <location filename="CompareWidget.cpp" line="460"/>
+        <location filename="BrowserMenu.h" line="471"/>
         <source>Excellent</source>
         <translation>Utmärkt</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="456"/>
-        <location filename="BrowserMenu.h" line="469"/>
+        <location filename="CompareWidget.cpp" line="457"/>
+        <location filename="BrowserMenu.h" line="472"/>
         <source>Good</source>
         <translation>Bra</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="453"/>
-        <location filename="BrowserMenu.h" line="470"/>
+        <location filename="CompareWidget.cpp" line="454"/>
+        <location filename="BrowserMenu.h" line="473"/>
         <source>Average</source>
         <translation>Medel</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="444"/>
-        <location filename="BrowserMenu.h" line="473"/>
+        <location filename="CompareWidget.cpp" line="445"/>
+        <location filename="BrowserMenu.h" line="476"/>
         <source>Unrated</source>
         <translation>Oklassificerad</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="464"/>
+        <location filename="CompareWidget.cpp" line="465"/>
         <location filename="BrowserMenu.h" line="112"/>
-        <location filename="BrowserMenu.h" line="491"/>
+        <location filename="BrowserMenu.h" line="494"/>
         <source>Uncolored</source>
         <translation>Utan färg</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>No fit</source>
         <translation>Ingen passning</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Fit image to window</source>
         <translation>Anpassa bild till fönster</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="275"/>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Fit image to window, large only</source>
         <translation>Anpassa bild till fönster, endast stora</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="276"/>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Fit image to window width</source>
         <translation>Anpassa bild till fönsterbredd</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="277"/>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Fit image to window height</source>
         <translation>Anpassa bild till fönsterhöjd</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="278"/>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Fit image to window width or height</source>
         <translation>Anpassa bild till fönsterbredd eller -höjd</translation>
     </message>
@@ -19372,12 +19408,12 @@ Vill du fortsätta?</translation>
         <translation>Kategoriuppsättningar</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Panels</source>
         <translation>Paneler</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserMenu.h" line="427"/>
         <source>Open file list...</source>
         <translation>Öppna fillista...</translation>
     </message>
@@ -19392,246 +19428,241 @@ Vill du fortsätta?</translation>
         <translation>Information</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
-        <source>Theme</source>
-        <translation>Tema</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="535"/>
         <source>Filelist toolbar</source>
         <translation>Verktygsfält för fillista</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Update catalog from files</source>
         <translation>Uppdatera Katalog från filer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="542"/>
         <source>Update files from catalog</source>
         <translation>Uppdatera filer från Katalog</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="551"/>
+        <location filename="BrowserMenu.h" line="554"/>
         <source>Open all selected</source>
         <translation>Öppna alla markerade</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="556"/>
+        <location filename="BrowserMenu.h" line="559"/>
         <source>Preview as tab</source>
         <translation>Förhandsvisa som flik</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Rotate 90° right</source>
         <translation>Rotera 90° höger</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Rotate 90° left</source>
         <translation>Rotera 90° vänster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="576"/>
         <source>Rotate 180°</source>
         <translation>Rotera 180°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="575"/>
+        <location filename="BrowserMenu.h" line="578"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Rotera 90° höger (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="576"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Rotera 90° vänster (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="577"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Rotera 180° (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="581"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Rotera baserat på orienteringsfältet i EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="582"/>
         <source>Reset EXIF orientation field</source>
         <translation>Återställ orienteringsfältet i EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="580"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Vänd horisontellt (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="581"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Flip vertically (lossless)</source>
         <translation>Vänd vertikalt (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>Edit IPTC...</source>
         <translation>Redigera IPTC...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>Edit XMP...</source>
         <translation>Redigera XMP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation>Redigera GPS-data...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>Transfer...</source>
         <translation>Överför...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF-miniatyr</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>File listing...</source>
         <translation>Fillistning...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Send by email...</source>
         <translation>Skicka via e-post...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>Import and sort...</source>
         <translation>Importera och sortera...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="622"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>Contact sheet...</source>
         <translation>Kontaktark...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Slideshow...</source>
         <translation>Bildspel...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>Dela upp bild(er)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Banner...</source>
         <translation>Banderoll...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>New image...</source>
         <translation>Ny bild...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Video thumbnails gallery...</source>
         <translation>Videominiatyrgalleri...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Draw as tiled</source>
         <translation>Rita upp som rutor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>File operations</source>
         <translation>Filåtgärder</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>Rensa &amp;&amp; Importera...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="664"/>
         <source>Category Search</source>
         <translation>Kategorisök</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="663"/>
+        <location filename="BrowserMenu.h" line="666"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation>Sökvägsfokus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="667"/>
         <source>Filter by All</source>
         <translation>Filtrera efter alla</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="669"/>
+        <location filename="BrowserMenu.h" line="672"/>
         <source>Capture...</source>
         <translation>Skärmklipp...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="671"/>
+        <location filename="BrowserMenu.h" line="674"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Tom flik</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="673"/>
+        <location filename="BrowserMenu.h" line="676"/>
         <source>Select TWAIN source...</source>
         <translation>Välj TWAIN-källa...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="815"/>
+        <location filename="BrowserMenu.h" line="816"/>
         <source>&amp;File</source>
         <translation>&amp;Arkiv</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="816"/>
+        <location filename="BrowserMenu.h" line="817"/>
         <source>&amp;Edit</source>
         <translation>&amp;Redigera</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="817"/>
+        <location filename="BrowserMenu.h" line="818"/>
         <source>&amp;View</source>
         <translation>&amp;Visa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="818"/>
+        <location filename="BrowserMenu.h" line="819"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;data</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="819"/>
+        <location filename="BrowserMenu.h" line="820"/>
         <source>&amp;Tools</source>
         <translation>V&amp;erktyg</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="675"/>
+        <location filename="BrowserMenu.h" line="678"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Hämta till (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="820"/>
+        <location filename="BrowserMenu.h" line="821"/>
         <source>C&amp;reate</source>
         <translation>&amp;Skapa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="821"/>
+        <location filename="BrowserMenu.h" line="822"/>
         <source>&amp;Help</source>
         <translation>&amp;Hjälp</translation>
     </message>
@@ -19698,38 +19729,38 @@ Vill du fortsätta?</translation>
         <translation>Spara layout C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="430"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Selected path(s)</source>
         <translation>Vald(a) sökväg(ar)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Selected filename(s)</source>
         <translation>Valt/valda filnamn</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Valt/valda filnamn och sökväg(ar)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="528"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Back</source>
         <translation>Tillbaka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="529"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>Framåt</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="533"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Toolbar</source>
         <translation>Verktygsfält</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="534"/>
+        <location filename="BrowserMenu.h" line="537"/>
         <source>Status bar</source>
         <translation>Statusfält</translation>
     </message>
@@ -19761,8 +19792,8 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="BrowserMenu.h" line="316"/>
         <location filename="BrowserMenu.h" line="327"/>
-        <location filename="BrowserMenu.h" line="562"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Preview</source>
         <translation>Förhandsvisning</translation>
     </message>
@@ -19789,564 +19820,564 @@ Vill du fortsätta?</translation>
         <translation>Skapad (datum)</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="450"/>
-        <location filename="BrowserMenu.h" line="471"/>
+        <location filename="CompareWidget.cpp" line="451"/>
+        <location filename="BrowserMenu.h" line="474"/>
         <source>Fair</source>
         <translation>Godkänd</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="447"/>
-        <location filename="BrowserMenu.h" line="472"/>
+        <location filename="CompareWidget.cpp" line="448"/>
+        <location filename="BrowserMenu.h" line="475"/>
         <source>Poor</source>
         <translation>Underkänd</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="419"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation>Öppna med</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="420"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Recent files</source>
         <translation>Tidigare filer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Open...</source>
         <translation>Öppna...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4205"/>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserMenu.h" line="429"/>
         <source>Cut</source>
         <translation>Klipp ut</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4207"/>
-        <location filename="BrowserMenu.h" line="428"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Copy</source>
         <translation>Kopiera</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="429"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Image</source>
         <translation>Bild</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4209"/>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="436"/>
         <source>Paste</source>
         <translation>Klistra in</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Select all</source>
         <translation>Markera alla</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="437"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Select none</source>
         <translation>Avmarkera alla</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="438"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>Invert selection</source>
         <translation>Invertera markering</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>Select all images</source>
         <translation>Markera alla bilder</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Select all files</source>
         <translation>Markera alla filer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="444"/>
         <source>Select tagged files</source>
         <translation>Markera taggade filer</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4217"/>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Copy to...</source>
         <translation>Kopiera till...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4219"/>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Move to...</source>
         <translation>Flytta till...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4212"/>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Delete</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>Rename...</source>
         <translation>Byt namn...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>New folder</source>
         <translation>Ny mapp</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Previous file</source>
         <translation>Föregående fil</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>Next file</source>
         <translation>Nästa fil</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>First file</source>
         <translation>Första filen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Last file</source>
         <translation>Sista filen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Previous page</source>
         <translation>Föregående sida</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="454"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Next page</source>
         <translation>Nästa sida</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>First page</source>
         <translation>Första sidan</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Last page</source>
         <translation>Sista sidan</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Page</source>
         <translation>Sida</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="463"/>
         <source>Show header</source>
         <translation>Visa rubrik</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="440"/>
-        <location filename="BrowserMenu.h" line="461"/>
+        <location filename="CompareWidget.cpp" line="441"/>
+        <location filename="BrowserMenu.h" line="464"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation>Tagga/Avtagga aktuell</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="462"/>
+        <location filename="BrowserMenu.h" line="465"/>
         <source>Invert</source>
         <translation>Invertera</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="463"/>
+        <location filename="BrowserMenu.h" line="466"/>
         <source>Untag all</source>
         <translation>Tagga av alla</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="464"/>
+        <location filename="BrowserMenu.h" line="467"/>
         <source>Clear all tags</source>
         <translation>Ta bort alla taggar</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="465"/>
+        <location filename="BrowserMenu.h" line="468"/>
         <source>Show tagged files</source>
         <translation>Visa taggade filer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="466"/>
+        <location filename="BrowserMenu.h" line="469"/>
         <source>Show tag box</source>
         <translation>Visa taggruta</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="479"/>
+        <location filename="BrowserMenu.h" line="482"/>
         <source>Poor (go to next image)</source>
         <oldsource>##label## (move to next image)</oldsource>
         <translation>Underkänd (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Layout</source>
         <translation>Layout</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="507"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>View as</source>
         <translation>Visa som</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="511"/>
         <source>Sort by</source>
         <translation>Sortera efter</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>Filter by</source>
         <translation>Filtrera efter</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>Thumbnails size</source>
         <translation>Miniatyrstorlek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>Tag</source>
         <translation>Tagg</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>Remove from category</source>
         <translation>Ta bort från kategorin</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>Remove from all categories</source>
         <translation>Ta bort från alla kategorier</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>Visa som miniatyrer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>Visa som miniatyrer+filnamn</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="523"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>Visa som miniatyrer+etiketter</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="524"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>Visa som miniatyrer+detaljer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>Visa som ikoner</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="523"/>
+        <location filename="BrowserMenu.h" line="526"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>Visa som lista</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>Visa som detaljer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Show hidden files</source>
         <translation>Visa dolda filer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="530"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Up</source>
         <translation>Upp</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Show title of panels</source>
         <translation>Visa panelnamn</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="537"/>
+        <location filename="BrowserMenu.h" line="540"/>
         <source>Rebuild thumbnails</source>
         <translation>Återskapa miniatyrer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Refresh</source>
         <translation>Uppdatera</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="545"/>
         <source>Stop</source>
         <translation>Stopp</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="547"/>
         <source>Open</source>
         <translation>Öppna</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="545"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Open containing folder</source>
         <translation>Öppna innehållande mapp</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="550"/>
         <source>Open in Finder</source>
         <translation>Öppna i Finder</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="549"/>
+        <location filename="BrowserMenu.h" line="552"/>
         <source>Open in file explorer</source>
         <translation>Öppna i filhanterare</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="553"/>
+        <location filename="BrowserMenu.h" line="556"/>
         <source>Fullscreen</source>
         <translation>Helskärm</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="554"/>
+        <location filename="BrowserMenu.h" line="557"/>
         <source>Show</source>
         <translation>Visa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="558"/>
         <source>Use tabs</source>
         <translation>Använd flikar</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="559"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>Show source panels</source>
         <translation>Visa källpaneler</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="564"/>
         <source>Vertical tabs</source>
         <translation>Vertikala flikar</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="564"/>
+        <location filename="BrowserMenu.h" line="567"/>
         <source>Add to favorites...</source>
         <translation>Lägg till i Favoriter...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="566"/>
+        <location filename="BrowserMenu.h" line="569"/>
         <source>Thumbnails view only</source>
         <translation>Endast miniatyrvy</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="582"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Förlustfria-omvandlingar (JPEG)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Batch rename...</source>
         <translation>Namnändra filer (flera)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Jämför...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>Search...</source>
         <translation>Sök...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>Find similar files...</source>
         <translation>Sök liknande filer...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Redigera kommentar...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>Change timestamp...</source>
         <translation>Ändra tidsstämpel...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Export...</source>
         <translation>Exportera...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Clean...</source>
         <translation>Rensa...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>EXIF-miniatyr - Rotera 90° vänster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>EXIF-miniatyr - Rotera 90° höger</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF-miniatyr - Återskapa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>Convert into</source>
         <translation>Konvertera till</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Batch convert...</source>
         <translation>Konvertera flera...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="611"/>
         <source>Send by FTP...</source>
         <translation>Skicka via FTP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Upload on web...</source>
         <translation>Ladda upp på webben...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="611"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Archive...</source>
         <translation>Arkiv...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Set as wallpaper...</source>
         <translation>Använd som skrivbordsbakgrund...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Print...</source>
         <translation>Skriv ut...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Properties...</source>
         <translation>Egenskaper...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Multi-page file...</source>
         <translation>Flersidig fil...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>Join images...</source>
         <translation>Slå samman bilder...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Real size</source>
         <translation>Verklig storlek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>Zoom in</source>
         <translation>Zooma in</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Zoom out</source>
         <translation>Zooma ut</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Lock zoom</source>
         <translation>Lås zoom</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Använd transparensindex (≤ 8bitar)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Use alpha channel</source>
         <translation>Använd alfakanal</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Show alpha</source>
         <translation>Visa alfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Show red</source>
         <translation>Visa röd</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Show green</source>
         <translation>Visa grön</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Show blue</source>
         <translation>Visa blå</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>Fit image to window, small only</source>
         <translation>Anpassa bild till fönster, endast små</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Copy to clipboard</source>
         <translation>Kopiera till urklipp</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>Quick Filter</source>
         <translation>Snabbfilter</translation>
     </message>
@@ -20465,128 +20496,128 @@ Vill du fortsätta?</translation>
 <context>
     <name>MenuTemplate</name>
     <message>
-        <location filename="TemplateData.cpp" line="2771"/>
+        <location filename="TemplateData.cpp" line="2783"/>
         <source>Date format variables</source>
         <translation>Variabler för datumformat</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2536"/>
+        <location filename="TemplateData.cpp" line="2548"/>
         <source>Y - Year</source>
         <translation>Y - År</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2537"/>
+        <location filename="TemplateData.cpp" line="2549"/>
         <source>y - Year without century (00-99)</source>
         <translation>y - År utan århundrade (00-99)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2538"/>
+        <location filename="TemplateData.cpp" line="2550"/>
         <source>m - Month as decimal (01-12)</source>
         <translation>m - Månad i talform (01-12)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2539"/>
+        <location filename="TemplateData.cpp" line="2551"/>
         <source>d - Day as decimal (01-31)</source>
         <translation>d - Dag i talform (01-31)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2541"/>
+        <location filename="TemplateData.cpp" line="2553"/>
         <source>H - Hour (01-24)</source>
         <translation>H - Timma (01-24)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2542"/>
+        <location filename="TemplateData.cpp" line="2554"/>
         <source>M - Minute (00-59)</source>
         <translation>M - Minut (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2543"/>
+        <location filename="TemplateData.cpp" line="2555"/>
         <source>S - Second (00-59)</source>
         <translation>S - Sekund (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2545"/>
+        <location filename="TemplateData.cpp" line="2557"/>
         <source>B - Month name (eg. february)</source>
         <translation>B - Månad i textform (ex. februari)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2546"/>
+        <location filename="TemplateData.cpp" line="2558"/>
         <source>b - Abbreviated month name (eg. feb)</source>
         <translation>b - Månad i textform, förkortning (ex. feb)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2547"/>
+        <location filename="TemplateData.cpp" line="2559"/>
         <source>A - Weekday name (eg. wednesday)</source>
         <translation>A - Dag i textform (ex. onsdag)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2548"/>
+        <location filename="TemplateData.cpp" line="2560"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
         <translation>a - Dag i textform, förkortning (ex. ons)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2770"/>
+        <location filename="TemplateData.cpp" line="2782"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
         <translation># - Numerisk uppräknare</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2788"/>
+        <location filename="TemplateData.cpp" line="2800"/>
         <source>Extra</source>
         <translation>Extra</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2790"/>
+        <location filename="TemplateData.cpp" line="2802"/>
         <source>Image</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2791"/>
+        <location filename="TemplateData.cpp" line="2803"/>
         <source>Saved Image</source>
         <translation>Sparad bild</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2792"/>
+        <location filename="TemplateData.cpp" line="2804"/>
         <source>EXIF - Camera</source>
         <translation>EXIF - Kamera</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2793"/>
+        <location filename="TemplateData.cpp" line="2805"/>
         <source>EXIF - Image</source>
         <translation>EXIF - Bild</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2794"/>
+        <location filename="TemplateData.cpp" line="2806"/>
         <source>EXIF - GPS</source>
         <translation>EXIF - GPS</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2795"/>
+        <location filename="TemplateData.cpp" line="2807"/>
         <source>IPTC - Caption</source>
         <translation>IPTC - Bildtext</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2796"/>
+        <location filename="TemplateData.cpp" line="2808"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
         <translation>IPTC - Nyckelord&amp;&amp;Kategorier</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2800"/>
+        <location filename="TemplateData.cpp" line="2812"/>
         <source>XMP</source>
         <translation>XMP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2797"/>
+        <location filename="TemplateData.cpp" line="2809"/>
         <source>IPTC - Credits</source>
         <translation>IPTC - Erkännanden</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2798"/>
+        <location filename="TemplateData.cpp" line="2810"/>
         <source>IPTC - Status</source>
         <translation>IPTC - Status</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2799"/>
+        <location filename="TemplateData.cpp" line="2811"/>
         <source>IPTC - Origin</source>
         <translation>IPTC - Ursprung</translation>
     </message>
@@ -21752,12 +21783,12 @@ Vill du fortsätta?</translation>
         <translation>Alla filer</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="496"/>
+        <location filename="DlgIptc.cpp" line="497"/>
         <source>Open Text File</source>
         <translation>Öppna textfil</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1184"/>
+        <location filename="DlgIptc.cpp" line="1185"/>
         <location filename="Helper.h" line="202"/>
         <source>Open Image</source>
         <translation>Öppna bild</translation>
@@ -22141,8 +22172,8 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
         <translation>Uppdaterar filer, vänta...</translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1228"/>
-        <location filename="MyThumbView.cpp" line="1241"/>
+        <location filename="MyThumbView.cpp" line="1227"/>
+        <location filename="MyThumbView.cpp" line="1240"/>
         <source>%n object(s)</source>
         <translation>
             <numerusform>%n objekt</numerusform>
@@ -22150,7 +22181,7 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1228"/>
+        <location filename="MyThumbView.cpp" line="1227"/>
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
             <numerusform>%n markerat objekt [%3 %4]</numerusform>
@@ -22158,7 +22189,7 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1239"/>
+        <location filename="MyThumbView.cpp" line="1238"/>
         <source>%n object(s) [%2 %3]</source>
         <translation>
             <numerusform>%n objekt [%2 %3]</numerusform>
@@ -22166,17 +22197,17 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
         </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1281"/>
+        <location filename="MyThumbView.cpp" line="1280"/>
         <source>[Free disk space: %1 %2]</source>
         <translation>[Ledigt diskutrymme: %1 %2]</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1599"/>
+        <location filename="MyThumbView.cpp" line="1598"/>
         <source>All</source>
         <translation>Alla</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1603"/>
+        <location filename="MyThumbView.cpp" line="1602"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
@@ -23235,7 +23266,7 @@ Högerklicka för popup-meny med åtgärder.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4588"/>
+        <location filename="ItemModel.cpp" line="4599"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Ett fel inträffade vid namnbyte!</translation>
@@ -23244,140 +23275,140 @@ Högerklicka för popup-meny med åtgärder.</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="456"/>
-        <location filename="SearchField.cpp" line="679"/>
+        <location filename="SearchField.cpp" line="457"/>
+        <location filename="SearchField.cpp" line="680"/>
         <source>is</source>
         <translation>är</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="457"/>
+        <location filename="SearchField.cpp" line="458"/>
         <source>is not</source>
         <translation>är inte</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="458"/>
-        <location filename="SearchField.cpp" line="577"/>
+        <location filename="SearchField.cpp" line="459"/>
+        <location filename="SearchField.cpp" line="578"/>
         <source>is any of</source>
         <translation>är något av</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="459"/>
-        <location filename="SearchField.cpp" line="578"/>
-        <location filename="SearchField.cpp" line="677"/>
+        <location filename="SearchField.cpp" line="460"/>
+        <location filename="SearchField.cpp" line="579"/>
+        <location filename="SearchField.cpp" line="678"/>
         <source>contains</source>
         <translation>innehåller</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="460"/>
-        <location filename="SearchField.cpp" line="678"/>
+        <location filename="SearchField.cpp" line="461"/>
+        <location filename="SearchField.cpp" line="679"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>innehåller inte</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="461"/>
+        <location filename="SearchField.cpp" line="462"/>
         <source>starts with</source>
         <translation>börjar med</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="528"/>
+        <location filename="SearchField.cpp" line="529"/>
         <source>With at least one of the words</source>
         <translation>Med åtminstone ett av orden</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="530"/>
+        <location filename="SearchField.cpp" line="531"/>
         <source>With all of the words</source>
         <translation>Med samtliga ord</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="532"/>
+        <location filename="SearchField.cpp" line="533"/>
         <source>With the exact phrase</source>
         <translation>Med den exakta frasen</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="535"/>
+        <location filename="SearchField.cpp" line="536"/>
         <source>Whole word only</source>
         <translation>Endast hela ord</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="823"/>
+        <location filename="SearchField.cpp" line="824"/>
         <source>and</source>
         <translation>och</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="914"/>
+        <location filename="SearchField.cpp" line="915"/>
         <source>is before</source>
         <translation>ligger före</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="915"/>
+        <location filename="SearchField.cpp" line="916"/>
         <source>is after</source>
         <translation>ligger efter</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="916"/>
+        <location filename="SearchField.cpp" line="917"/>
         <source>is between</source>
         <translation>ligger mellan</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="976"/>
-        <location filename="SearchField.cpp" line="1105"/>
-        <location filename="SearchField.cpp" line="1190"/>
-        <source>is less than</source>
-        <translation>är mindre än</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="977"/>
         <location filename="SearchField.cpp" line="1106"/>
         <location filename="SearchField.cpp" line="1191"/>
-        <source>is less than or equal to</source>
-        <translation>är mindre eller lika med</translation>
+        <source>is less than</source>
+        <translation>är mindre än</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="978"/>
         <location filename="SearchField.cpp" line="1107"/>
         <location filename="SearchField.cpp" line="1192"/>
-        <source>equal to</source>
-        <translation>är lika med</translation>
+        <source>is less than or equal to</source>
+        <translation>är mindre eller lika med</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="979"/>
         <location filename="SearchField.cpp" line="1108"/>
         <location filename="SearchField.cpp" line="1193"/>
-        <source>is greater than</source>
-        <translation>är större än</translation>
+        <source>equal to</source>
+        <translation>är lika med</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="980"/>
         <location filename="SearchField.cpp" line="1109"/>
         <location filename="SearchField.cpp" line="1194"/>
-        <source>is greater than or equal to</source>
-        <translation>är större eller lika med</translation>
+        <source>is greater than</source>
+        <translation>är större än</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="981"/>
         <location filename="SearchField.cpp" line="1110"/>
         <location filename="SearchField.cpp" line="1195"/>
+        <source>is greater than or equal to</source>
+        <translation>är större eller lika med</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="982"/>
+        <location filename="SearchField.cpp" line="1111"/>
+        <location filename="SearchField.cpp" line="1196"/>
         <source>between</source>
         <translation>mellan</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1035"/>
+        <location filename="SearchField.cpp" line="1036"/>
         <source>bytes</source>
         <translation>byte</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1036"/>
+        <location filename="SearchField.cpp" line="1037"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1037"/>
+        <location filename="SearchField.cpp" line="1038"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1038"/>
+        <location filename="SearchField.cpp" line="1039"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>
@@ -23442,52 +23473,52 @@ Högerklicka för popup-meny med åtgärder.</translation>
 <context>
     <name>ToolbarSearch</name>
     <message>
-        <location filename="ToolbarSearch.cpp" line="47"/>
+        <location filename="ToolbarSearch.cpp" line="48"/>
         <source>Advanced search</source>
         <translation>Avancerat sök</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="145"/>
+        <location filename="ToolbarSearch.cpp" line="146"/>
         <source>Search in</source>
         <translation>Sök i</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="151"/>
+        <location filename="ToolbarSearch.cpp" line="152"/>
         <source>IPTC fields</source>
         <translation>IPTC-fält</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="159"/>
+        <location filename="ToolbarSearch.cpp" line="160"/>
         <source>Embedded comment</source>
         <translation>Inbäddad kommentar</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="164"/>
+        <location filename="ToolbarSearch.cpp" line="165"/>
         <source>Description</source>
         <translation>Beskrivning</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="169"/>
+        <location filename="ToolbarSearch.cpp" line="170"/>
         <source>Categories (catalog)</source>
         <translation>Kategorier (katalog)</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="174"/>
+        <location filename="ToolbarSearch.cpp" line="175"/>
         <source>Thumbnail&apos;s labels</source>
         <translation>Miniatyrbilders etiketter</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="186"/>
+        <location filename="ToolbarSearch.cpp" line="187"/>
         <source>No Recent Searches</source>
         <translation>Inga tidigare sökningar</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="190"/>
+        <location filename="ToolbarSearch.cpp" line="191"/>
         <source>Recent Searches</source>
         <translation>Tidigare sökningar</translation>
     </message>
     <message>
-        <location filename="ToolbarSearch.cpp" line="202"/>
+        <location filename="ToolbarSearch.cpp" line="203"/>
         <source>Clear Recent Searches</source>
         <translation>Ta bort tidigare sökningar</translation>
     </message>

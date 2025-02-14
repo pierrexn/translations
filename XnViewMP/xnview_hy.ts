@@ -5968,10 +5968,6 @@ Please make sure that files are not read-only!</source>
         <translation>2х1, 1x1, 1x1 (4:2:2)</translation>
     </message>
     <message>
-        <source>Remove all Metadata</source>
-        <translation>Ջնջել բոլոր տվյալները</translation>
-    </message>
-    <message>
         <source>Float (best but slowest)</source>
         <translation>Հարթիչ (լավագույն որակ)</translation>
     </message>
@@ -6046,6 +6042,26 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Convert to XYB colorspace</source>
         <translation type="unfinished">Փոխարկել XYB colorspace</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Գույն</translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Տվյալներ</translation>
+    </message>
+    <message>
+        <source>Keep EXIF</source>
+        <translation type="unfinished">Պահպանել EXIF-ը</translation>
+    </message>
+    <message>
+        <source>Keep IPTC</source>
+        <translation type="unfinished">Պահպանել IPTC-ը</translation>
+    </message>
+    <message>
+        <source>Keep XMP</source>
+        <translation type="unfinished">Պահպանել XMP-ը</translation>
     </message>
 </context>
 <context>
@@ -9598,6 +9614,26 @@ Thumbnail</source>
         <source>Duplicate files naming</source>
         <translation>Կրկնօրինակել ֆայլերի անվանումը</translation>
     </message>
+    <message>
+        <source>Theme</source>
+        <translation type="unfinished">Ոճ</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Ծրագրային</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished">Բաց</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished">Մուգ</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished">Սև</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -12097,6 +12133,10 @@ Do you want to continue?</source>
         <source>Convert to XYB colorspace</source>
         <translation>Փոխարկել XYB colorspace</translation>
     </message>
+    <message>
+        <source>Use JPEG-li</source>
+        <translation type="unfinished">Օգտագործել JPEG-li</translation>
+    </message>
 </context>
 <context>
     <name>DlgWriteJPEGXLClass</name>
@@ -13269,14 +13309,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Մաքրե՞լ որբացած գրացուցակները</translation>
     </message>
     <message>
-        <source>Import...</source>
-        <translation>Ներմուծել...</translation>
-    </message>
-    <message>
-        <source>Export...</source>
-        <translation>Արտահանել...</translation>
-    </message>
-    <message>
         <source>Hide assigned categories</source>
         <translation>Թաքցնել նշանակված անվանակարգերը</translation>
     </message>
@@ -13291,10 +13323,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Exporting categories file, please wait...</source>
         <translation>Անվանակարգի ֆայլի արտահանում, սպասեք...</translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation>Գրացուցակ</translation>
     </message>
 </context>
 <context>
@@ -14609,10 +14637,6 @@ Do you want to continue?</source>
     <message>
         <source>Ratio</source>
         <translation>Գնահատական</translation>
-    </message>
-    <message>
-        <source>Theme</source>
-        <translation>Ոճ</translation>
     </message>
     <message>
         <source>Clear all tags</source>

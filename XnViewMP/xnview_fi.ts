@@ -5968,10 +5968,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation>2x1,1x1,1x1 (4:2:2)</translation>
     </message>
     <message>
-        <source>Remove all Metadata</source>
-        <translation>Poista kaikki metatiedot</translation>
-    </message>
-    <message>
         <source>Float (best but slowest)</source>
         <translation>Float (paras mutta hitain)</translation>
     </message>
@@ -6046,6 +6042,26 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Convert to XYB colorspace</source>
         <translation>Muunna XYB-väriavaruuteen</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Väri</translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metatiedot</translation>
+    </message>
+    <message>
+        <source>Keep EXIF</source>
+        <translation type="unfinished">Pidä EXIF</translation>
+    </message>
+    <message>
+        <source>Keep IPTC</source>
+        <translation type="unfinished">Pidä IPTC</translation>
+    </message>
+    <message>
+        <source>Keep XMP</source>
+        <translation type="unfinished">Pidä XMP</translation>
     </message>
 </context>
 <context>
@@ -9604,6 +9620,26 @@ esikatselukuvina</translation>
         <source>Duplicate files naming</source>
         <translation>Samannimisten tiedostojen nimeäminen</translation>
     </message>
+    <message>
+        <source>Theme</source>
+        <translation type="unfinished">Teema</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Oletus</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished">Vaalea</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished">Tumma</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished">Musta</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -12104,6 +12140,10 @@ Haluatko jatkaa?</translation>
         <source>Convert to XYB colorspace</source>
         <translation>Muunna XYB-väriavaruuteen</translation>
     </message>
+    <message>
+        <source>Use JPEG-li</source>
+        <translation type="unfinished">Käytä JPEG-li:tä</translation>
+    </message>
 </context>
 <context>
     <name>DlgWriteJPEGXLClass</name>
@@ -13248,14 +13288,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Kategoria-tiedosto</translation>
     </message>
     <message>
-        <source>Export...</source>
-        <translation>Vie...</translation>
-    </message>
-    <message>
-        <source>Import...</source>
-        <translation>Tuo...</translation>
-    </message>
-    <message>
         <source>Exporting categories file, please wait...</source>
         <translation>Viedään kategoriatiedosto, odota...</translation>
     </message>
@@ -13298,10 +13330,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source> [Create New]</source>
         <translation> [Luo uusi]</translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation>Luettelo</translation>
     </message>
 </context>
 <context>
@@ -14644,10 +14672,6 @@ Jatketaanko?</translation>
     <message>
         <source>Ratio</source>
         <translation>Suhde</translation>
-    </message>
-    <message>
-        <source>Theme</source>
-        <translation>Teema</translation>
     </message>
     <message>
         <source>Clear all tags</source>

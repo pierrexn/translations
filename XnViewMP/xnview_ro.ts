@@ -5983,10 +5983,6 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
         <translation>2x1,1x1,1x1 (4:2:2)</translation>
     </message>
     <message>
-        <source>Remove all Metadata</source>
-        <translation>Eliminați toate metadatele</translation>
-    </message>
-    <message>
         <source>Float (best but slowest)</source>
         <translation>Plutire (cea mai bună, dar cel mai lentă)</translation>
     </message>
@@ -6061,6 +6057,26 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <message>
         <source>Edit palette...</source>
         <translation>Editează paleta...</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Culoare</translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep EXIF</source>
+        <translation type="unfinished">Păstrați EXIF</translation>
+    </message>
+    <message>
+        <source>Keep IPTC</source>
+        <translation type="unfinished">Păstrați IPTC</translation>
+    </message>
+    <message>
+        <source>Keep XMP</source>
+        <translation type="unfinished">Păstrați XMP</translation>
     </message>
 </context>
 <context>
@@ -9614,6 +9630,26 @@ Miniatură</translation>
         <source>Delimiter character</source>
         <translation>Caracterul delimitator</translation>
     </message>
+    <message>
+        <source>Theme</source>
+        <translation type="unfinished">Temă</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished">Negru</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -12113,6 +12149,10 @@ Vrei să continui?</translation>
         <source>Convert to XYB colorspace</source>
         <translation>Convertește în spațiu de culori XYB</translation>
     </message>
+    <message>
+        <source>Use JPEG-li</source>
+        <translation type="unfinished">Folosește JPEG-li</translation>
+    </message>
 </context>
 <context>
     <name>DlgWriteJPEGXLClass</name>
@@ -13257,14 +13297,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Fișierul categoriilor</translation>
     </message>
     <message>
-        <source>Export...</source>
-        <translation>Export...</translation>
-    </message>
-    <message>
-        <source>Import...</source>
-        <translation>Import...</translation>
-    </message>
-    <message>
         <source>Exporting categories file, please wait...</source>
         <translation>Se exportă fișierul de categorii, așteptați...</translation>
     </message>
@@ -13307,10 +13339,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source> [Create New]</source>
         <translation> [Crează nou]</translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation>Catalog</translation>
     </message>
 </context>
 <context>
@@ -14653,10 +14681,6 @@ Vrei să continui?</translation>
     <message>
         <source>Ratio</source>
         <translation>Raport</translation>
-    </message>
-    <message>
-        <source>Theme</source>
-        <translation>Temă</translation>
     </message>
     <message>
         <source>Clear all tags</source>

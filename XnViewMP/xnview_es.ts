@@ -5968,10 +5968,6 @@ Please make sure that files are not read-only!</source>
         <translation>2x1,1x1,1x1 (4:2:2)</translation>
     </message>
     <message>
-        <source>Remove all Metadata</source>
-        <translation>Eliminar todos los metadatos</translation>
-    </message>
-    <message>
         <source>Float (best but slowest)</source>
         <translation>Flotante (mejor pero lento)</translation>
     </message>
@@ -6046,6 +6042,26 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Convert to XYB colorspace</source>
         <translation type="unfinished">Convertir a espacio de color XYB</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metadatos</translation>
+    </message>
+    <message>
+        <source>Keep EXIF</source>
+        <translation type="unfinished">Mantener EXIF</translation>
+    </message>
+    <message>
+        <source>Keep IPTC</source>
+        <translation type="unfinished">Mantener IPTC</translation>
+    </message>
+    <message>
+        <source>Keep XMP</source>
+        <translation type="unfinished">Mantener XMP</translation>
     </message>
 </context>
 <context>
@@ -9599,6 +9615,26 @@ miniatura</translation>
         <source>Duplicate files naming</source>
         <translation>Nombres de archivos duplicados</translation>
     </message>
+    <message>
+        <source>Theme</source>
+        <translation type="unfinished">Tema</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Predeterminado</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished">Oscuro</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished">Negro</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -12098,6 +12134,10 @@ Do you want to continue?</source>
         <source>Convert to XYB colorspace</source>
         <translation>Convertir a espacio de color XYB</translation>
     </message>
+    <message>
+        <source>Use JPEG-li</source>
+        <translation type="unfinished">Utilizar JPEG-li</translation>
+    </message>
 </context>
 <context>
     <name>DlgWriteJPEGXLClass</name>
@@ -13242,14 +13282,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Archivo de Categorías</translation>
     </message>
     <message>
-        <source>Export...</source>
-        <translation>Exportar...</translation>
-    </message>
-    <message>
-        <source>Import...</source>
-        <translation>Importar...</translation>
-    </message>
-    <message>
         <source>Exporting categories file, please wait...</source>
         <translation>Exportando archivo de categorías, por favor espere...</translation>
     </message>
@@ -13292,10 +13324,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source> [Create New]</source>
         <translation> [Crear Nueva]</translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation>Catálogo</translation>
     </message>
 </context>
 <context>
@@ -14638,10 +14666,6 @@ Do you want to continue?</source>
     <message>
         <source>Ratio</source>
         <translation>Relación</translation>
-    </message>
-    <message>
-        <source>Theme</source>
-        <translation>Tema</translation>
     </message>
     <message>
         <source>Clear all tags</source>
