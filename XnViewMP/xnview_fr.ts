@@ -7733,7 +7733,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgExport.ui" line="503"/>
         <source>Color</source>
-        <translation type="unfinished">Couleur</translation>
+        <translation>Couleur</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="582"/>
@@ -7758,22 +7758,22 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgExport.ui" line="610"/>
         <source>Metadata</source>
-        <translation type="unfinished">Métadonnées</translation>
+        <translation>Métadonnées</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="616"/>
         <source>Keep EXIF</source>
-        <translation type="unfinished">Conserver l&apos;EXIF</translation>
+        <translation>Conserver l&apos;EXIF</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="623"/>
         <source>Keep IPTC</source>
-        <translation type="unfinished">Conserver l&apos;IPTC</translation>
+        <translation>Conserver l&apos;IPTC</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="630"/>
         <source>Keep XMP</source>
-        <translation type="unfinished">Conserver XMP</translation>
+        <translation>Conserver XMP</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="672"/>
@@ -12024,12 +12024,12 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
         <source>Theme</source>
-        <translation type="unfinished">Thème</translation>
+        <translation>Thème</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="92"/>
         <source>Default</source>
-        <translation type="unfinished">Défaut</translation>
+        <translation>Défaut</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="97"/>
@@ -12039,12 +12039,12 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
         <source>Dark</source>
-        <translation type="unfinished">Sombre</translation>
+        <translation>Sombre</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="107"/>
         <source>Black</source>
-        <translation type="unfinished">Noir</translation>
+        <translation>Noir</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="402"/>
@@ -15658,7 +15658,7 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished">Utiliser JPEG-li</translation>
+        <translation>Utiliser JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
