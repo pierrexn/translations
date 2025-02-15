@@ -7727,7 +7727,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgExport.ui" line="503"/>
         <source>Color</source>
-        <translation type="unfinished">Szín</translation>
+        <translation>Szín</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="582"/>
@@ -7752,22 +7752,22 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgExport.ui" line="610"/>
         <source>Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaadat</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="616"/>
         <source>Keep EXIF</source>
-        <translation type="unfinished">EXIF megőrzése</translation>
+        <translation>EXIF megőrzése</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="623"/>
         <source>Keep IPTC</source>
-        <translation type="unfinished">IPTC megőrzése</translation>
+        <translation>IPTC megőrzése</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="630"/>
         <source>Keep XMP</source>
-        <translation type="unfinished">XMP megőrzése</translation>
+        <translation>XMP megőrzése</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="672"/>
@@ -12185,27 +12185,27 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
         <source>Theme</source>
-        <translation type="unfinished">Téma</translation>
+        <translation>Téma</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="92"/>
         <source>Default</source>
-        <translation type="unfinished">Alapértelmezett</translation>
+        <translation>Alapértelmezett</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="97"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Világos</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
         <source>Dark</source>
-        <translation type="unfinished">Sötét</translation>
+        <translation>Sötét</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="107"/>
         <source>Black</source>
-        <translation type="unfinished">Fekete</translation>
+        <translation>Fekete</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
@@ -15637,7 +15637,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished">JPEG-li használata</translation>
+        <translation>JPEG-li használata</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
