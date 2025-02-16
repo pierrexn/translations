@@ -112,11 +112,11 @@
     <name>AboutWidget</name>
     <message>
         <source>Read</source>
-        <translation>Citit</translation>
+        <translation>Citește</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nume de fișier</translation>
+        <translation>Numele fișierului</translation>
     </message>
     <message>
         <source>Write</source>
@@ -152,7 +152,7 @@
     </message>
     <message>
         <source>Credits</source>
-        <translation>Credite</translation>
+        <translation>Mulțumiri</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -365,7 +365,7 @@
     <name>BannerProcess</name>
     <message>
         <source>Abort</source>
-        <translation>Anulat</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Creating contact sheet...</source>
@@ -497,7 +497,7 @@ Vrei să ștergi favoritul „%1”?</translation>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation>Fă clic pentru a filtra - utilizează Shift și Control pentru mai multe selecții.
+        <translation>Fă clic pentru a filtra - folosește Shift și Control pentru mai multe selecții.
 Fă clic dreapta pe diferite elemente pentru meniurile pop-up cu acțiuni.
 Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
@@ -575,7 +575,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Match all selected entries (AND)</source>
-        <translation>Potriviți toate intrările selectate (ȘI)</translation>
+        <translation>Potriviește toate intrările selectate (AND/ȘI)</translation>
     </message>
     <message>
         <source>This folder doesn&apos;t exist!</source>
@@ -725,7 +725,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumiți</translation>
+        <translation>Redenumire</translation>
     </message>
     <message>
         <source>New album...</source>
@@ -769,7 +769,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Are you sure to delete this category?</source>
-        <translation>Sigur ștergeți această categorie?</translation>
+        <translation>Ești sigur(ă) că ștergi această categorie?</translation>
     </message>
 </context>
 <context>
@@ -810,7 +810,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Do you want to delete this file?</source>
-        <translation>Doriți să ștergeți acest fișier?</translation>
+        <translation>Dorești să ștergi acest fișier?</translation>
     </message>
     <message>
         <source>Move to</source>
@@ -884,7 +884,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <name>ContactSheetProcess</name>
     <message>
         <source>Abort</source>
-        <translation>Anulat</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Creating contact sheet...</source>
@@ -1011,7 +1011,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Reduce noise</source>
-        <translation>Reduceți zgomotul</translation>
+        <translation>Redu zgomotul</translation>
     </message>
     <message>
         <source>Clear transparent pixels</source>
@@ -1550,7 +1550,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <name>DlgAboutClass</name>
     <message>
         <source>About</source>
-        <translation>Anulat</translation>
+        <translation>Despre</translation>
     </message>
 </context>
 <context>
@@ -1577,7 +1577,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Please enter a valid output pathname!</source>
-        <translation>Vă rugăm să introduceți o cale de ieșire validă!</translation>
+        <translation>Te rugăm să introduci o cale de ieșire validă!</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1605,11 +1605,11 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Start index</source>
-        <translation>Începeți indexul</translation>
+        <translation>Începe indexarea</translation>
     </message>
     <message>
         <source>Use subfolder based on current date</source>
-        <translation>Utilizează subdosarul (subfolderul) pe baza datei curente</translation>
+        <translation>Folosește subdosarul (subfolderul) pe baza datei curente</translation>
     </message>
     <message>
         <source>Save as multipage (TIFF/PDF)</source>
@@ -1625,7 +1625,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Batch acquire (TWAIN)</source>
-        <translation>Achiziție în loturi (TWAIN)</translation>
+        <translation>Scanează la grămadă (TWAIN)</translation>
     </message>
     <message>
         <source>An error has occurred when saving %1</source>
@@ -1927,7 +1927,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Utilizează corecția gamma</translation>
+        <translation>Folosește corecția gamma</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
@@ -2403,7 +2403,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Do you want to delete current category set?</source>
-        <translation>Doriți să ștergeți setul de categorii curent?</translation>
+        <translation>Dorești să ștergi setul de categorii curent?</translation>
     </message>
     <message>
         <source>Choose a Set</source>
@@ -2439,7 +2439,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Rename Set...</source>
-        <translation>Redenumiți setul...</translation>
+        <translation>Redenumește setul...</translation>
     </message>
     <message>
         <source>Category Sets Settings</source>
@@ -2893,7 +2893,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Convert with XnConvert</source>
-        <translation>Convertiți cu XnConvert</translation>
+        <translation>Convertește-o cu XnConvert</translation>
     </message>
     <message>
         <source>Finished at: </source>
@@ -2989,7 +2989,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>&amp;Redenumiți</translation>
+        <translation>&amp;Redenumire</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
@@ -3465,7 +3465,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Follow orientation</source>
-        <translation>Urmați orientarea</translation>
+        <translation>Urmează orientarea</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
@@ -3652,7 +3652,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Batch convert</source>
-        <translation>Conversie lot</translation>
+        <translation>Convertește la grămadă</translation>
     </message>
     <message>
         <source>Multipage</source>
@@ -4066,7 +4066,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
-        <translation>Înlocuiește alfa pentru imaginile pe 32 de biți</translation>
+        <translation>Înlocuiește canalul alfa pentru imaginile pe 32 de biți</translation>
     </message>
 </context>
 <context>
@@ -4395,7 +4395,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Replace all values</source>
-        <translation>Înlocuiți toate valorile</translation>
+        <translation>Înlocuiește toate valorile</translation>
     </message>
     <message>
         <source>Country code</source>
@@ -5489,7 +5489,7 @@ Vrei să continui?</translation>
     <name>DlgDBClean</name>
     <message>
         <source>Remove data for orphaned directories</source>
-        <translation>Eliminați datele pentru directoarele orfane</translation>
+        <translation>Elimină datele pentru directoarele orfane</translation>
     </message>
     <message>
         <source>Optimize database (long process)</source>
@@ -5497,7 +5497,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove data for empty directories</source>
-        <translation>Eliminați datele pentru directoarele goale</translation>
+        <translation>Elimină datele pentru directoarele goale</translation>
     </message>
     <message>
         <source>Catalog maintenance</source>
@@ -5509,11 +5509,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove data for orphaned files</source>
-        <translation>Eliminați datele pentru fișierele orfane</translation>
+        <translation>Elimină datele pentru fișierele orfane</translation>
     </message>
     <message>
         <source>Purge all thumbnails</source>
-        <translation>Curățați toate miniaturile</translation>
+        <translation>Curăță toate miniaturile</translation>
     </message>
     <message>
         <source>Clean up</source>
@@ -5532,11 +5532,11 @@ Vrei să continui?</translation>
     <name>DlgEditFavClass</name>
     <message>
         <source>Create subfolder</source>
-        <translation>Creați un subdosar</translation>
+        <translation>Crează un subdosar (un subfolder)</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Redenumiți...</translation>
+        <translation>Redenumire...</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -5548,7 +5548,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Editați...</translation>
+        <translation>Editare...</translation>
     </message>
 </context>
 <context>
@@ -5599,7 +5599,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Edit GPS Data</source>
-        <translation>Editați datele GPS</translation>
+        <translation>Editează datele GPS</translation>
     </message>
     <message>
         <source>Altitude (m)</source>
@@ -5610,7 +5610,7 @@ Vrei să continui?</translation>
     <name>DlgEditXMP</name>
     <message>
         <source>Changing files, please wait...</source>
-        <translation>Se schimbă fișierele, așteptați...</translation>
+        <translation>Se schimbă fișierele, te rugăm să aștepți...</translation>
     </message>
     <message>
         <source>IPTC data has changed.
@@ -5620,11 +5620,11 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>Valorile câmpurilor nu sunt încărcate deoarece „Nu încărcați valorile câmpurilor” este bifată</translation>
+        <translation>Valorile câmpurilor nu sunt încărcate deoarece „Nu încărca valorile câmpurilor” e bifat</translation>
     </message>
     <message>
         <source>Load template...</source>
-        <translation>Încărcați șablonul...</translation>
+        <translation>Încarcă șablonul...</translation>
     </message>
     <message>
         <source>Save template...</source>
@@ -5632,7 +5632,7 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
-        <translation>Nu încărcați valorile câmpurilor</translation>
+        <translation>Nu încărca valorile câmpurilor</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
@@ -5640,7 +5640,7 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>Edit XMP</source>
-        <translation>Editați XMP</translation>
+        <translation>Editează XMP-ul</translation>
     </message>
     <message>
         <source>Clear all fields</source>
@@ -5749,7 +5749,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Compress file(s) as ZIP file</source>
-        <translation>Comprimați fișierele ca fișier ZIP</translation>
+        <translation>Comprimă fișierele ca fișier ZIP</translation>
     </message>
 </context>
 <context>
@@ -5941,7 +5941,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Export all files from catalog</source>
-        <translation>Exportați toate fișierele din catalog</translation>
+        <translation>Exportă toate fișierele din catalog</translation>
     </message>
     <message>
         <source>Categories file</source>
@@ -6036,7 +6036,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Optimize Huffman table</source>
-        <translation>Optimizați masa Huffman</translation>
+        <translation>Optimizează masa Huffman</translation>
     </message>
     <message>
         <source>Automatic preview refresh</source>
@@ -6052,7 +6052,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Convert to XYB colorspace</source>
-        <translation>Convertește în spațiu de culoare XYB</translation>
+        <translation>Convertește în spațiul de culoare XYB</translation>
     </message>
     <message>
         <source>Edit palette...</source>
@@ -6060,23 +6060,23 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Culoare</translation>
+        <translation>Culoare</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadate</translation>
     </message>
     <message>
         <source>Keep EXIF</source>
-        <translation type="unfinished">Păstrați EXIF</translation>
+        <translation>Păstrează EXIF-ul</translation>
     </message>
     <message>
         <source>Keep IPTC</source>
-        <translation type="unfinished">Păstrați IPTC</translation>
+        <translation>Păstrează IPTC-ul</translation>
     </message>
     <message>
         <source>Keep XMP</source>
-        <translation type="unfinished">Păstrați XMP</translation>
+        <translation>Păstrează XMP-ul</translation>
     </message>
 </context>
 <context>
@@ -6087,15 +6087,15 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Move</source>
-        <translation>Mutați</translation>
+        <translation>Mută</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation>Mutați la</translation>
+        <translation>Mută în</translation>
     </message>
     <message>
         <source>Do you want to create this folder?</source>
-        <translation>Doriți să creați acest dosar?</translation>
+        <translation>Vrei să creezi acest dosar (folder)?</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -6111,16 +6111,16 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <message>
         <source>Select the file-types which you would like to associate with XnViewMP
 (E.g. when double-clicking on a file to open under Windows Explorer)</source>
-        <translation>Selectați tipurile de fișiere pe care doriți să le asociați cu XnViewMP
-(De exemplu, când faceți dublu clic pe un fișier pentru a-l deschide în Windows Explorer)</translation>
+        <translation>Selectează tipurile de fișiere pe care dorești să le asociezi cu XnViewMP
+(De exemplu, când faci dublu clic pe un fișier ca să-l deschizi în Windows Explorer)</translation>
     </message>
     <message>
         <source>Unregister XnViewMP</source>
-        <translation>Anulați înregistrarea XnViewMP</translation>
+        <translation>Anulează înregistrarea XnViewMP</translation>
     </message>
     <message>
         <source>Problem to change file association. Please try to start with admin rights.</source>
-        <translation>Problemă la modificarea asocierii fișierelor. Vă rugăm să încercați să începeți cu drepturi de administrator.</translation>
+        <translation>Problemă la modificarea asocierii fișierelor. Te rugăm să încerci să începi cu drepturile de administrator.</translation>
     </message>
     <message>
         <source>Format name</source>
@@ -6128,7 +6128,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Select none</source>
-        <translation>Selectați niciunul</translation>
+        <translation>Nu selecta niciunul</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -6147,7 +6147,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <name>DlgFileClass</name>
     <message>
         <source>Show selected folder in folder tree</source>
-        <translation>Afișați folderul selectat în arborele de dosar</translation>
+        <translation>Afișează folderul (dosarul) selectat în arborele de dosar (folder)</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -6178,7 +6178,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Add column</source>
-        <translation>Adăugați coloană</translation>
+        <translation>Adaugă o coloană</translation>
     </message>
     <message>
         <source>Save as...</source>
@@ -6190,7 +6190,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation>Copiați în clipboard</translation>
+        <translation>Copiază în Clipboard</translation>
     </message>
     <message>
         <source>File listing</source>
@@ -6198,7 +6198,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Export file listing</source>
-        <translation>Exportați lista de fișiere</translation>
+        <translation>Exportă lista de fișiere</translation>
     </message>
     <message>
         <source>Only image files</source>
@@ -6206,11 +6206,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Remove column</source>
-        <translation>Eliminați coloana</translation>
+        <translation>Elimină coloana</translation>
     </message>
     <message>
         <source>Append to file</source>
-        <translation>Adăugați la fișier</translation>
+        <translation>Adaugă la fișier</translation>
     </message>
 </context>
 <context>
@@ -6245,7 +6245,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>The destination contains already a folder with same name, what do you want to do?</source>
-        <translation>Destinația conține deja un folder cu același nume, ce doriți să faceți?</translation>
+        <translation>Destinația conține deja un folder (dosar) cu același nume, ce vrei să faci?</translation>
     </message>
     <message>
         <source>Status</source>
@@ -6341,7 +6341,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <name>DlgFlickr</name>
     <message>
         <source>Abort</source>
-        <translation>Anulat</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6372,7 +6372,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Remove script from list</source>
-        <translation>Eliminați scriptul din listă</translation>
+        <translation>Elimină scriptul din listă</translation>
     </message>
     <message>
         <source>New user...</source>
@@ -6387,7 +6387,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Abort</source>
-        <translation>Anulat</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
@@ -6399,7 +6399,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Upload</source>
-        <translation>Încărcați</translation>
+        <translation>Încarcă</translation>
     </message>
     <message>
         <source>Connecting to FTP server %1...</source>
@@ -6415,7 +6415,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>Nu se poate conecta la serverul FTP la %1. Vă rugăm să verificați dacă numele gazdei este corect.</translation>
+        <translation>Nu se poate conecta la serverul FTP la %1. Te rugăm să verifici dacă numele gazdei este corect.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
@@ -6509,7 +6509,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Abort</source>
-        <translation>Anulat</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
@@ -6830,7 +6830,7 @@ Subfolderele vor fi create.. </translation>
     <name>DlgImportThread</name>
     <message>
         <source>Abort</source>
-        <translation>Anulat</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Import and sort files...</source>
@@ -7060,7 +7060,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Credits</source>
-        <translation>Credite</translation>
+        <translation>Mulțumiri</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -7373,7 +7373,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Abort</source>
-        <translation>Anulat</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Problem</source>
@@ -8124,7 +8124,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Batch rename</source>
-        <translation>Redenumirea lotului</translation>
+        <translation>Redenumește la grămadă</translation>
     </message>
     <message>
         <source>Use Regular Expression</source>
@@ -8308,7 +8308,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation>Utilizează corecția gamma</translation>
+        <translation>Folosește corecția gamma</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
@@ -8497,7 +8497,7 @@ Vrei să le redenumești?</translation>
     <name>DlgSearchClass</name>
     <message>
         <source>Abort</source>
-        <translation>Anulat</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Close</source>
@@ -9372,7 +9372,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original format</source>
-        <translation>Pentru „Salvează ca”, utilizează formatul original</translation>
+        <translation>Pentru „Salvează ca”, folosește formatul original</translation>
     </message>
     <message>
         <source>Embedded Metadata change</source>
@@ -9632,23 +9632,23 @@ Miniatură</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished">Temă</translation>
+        <translation>Temă</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Implicit</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Luminoasă</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Întunecată</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished">Negru</translation>
+        <translation>Negru</translation>
     </message>
 </context>
 <context>
@@ -10896,7 +10896,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Dual monitor: Use second monitor</source>
-        <translation>Monitor dublu: utilizează al doilea monitor</translation>
+        <translation>Monitor dublu: folosește al doilea monitor</translation>
     </message>
     <message>
         <source>Floating views</source>
@@ -12151,7 +12151,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use JPEG-li</source>
-        <translation type="unfinished">Folosește JPEG-li</translation>
+        <translation>Folosește JPEG-li</translation>
     </message>
 </context>
 <context>
@@ -12382,7 +12382,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
-        <translation>Folosește o conversie RGB → YUV curată (și lentă)</translation>
+        <translation>Folosește o conversia RGB → YUV curată (și lentă)</translation>
     </message>
 </context>
 <context>
@@ -12544,7 +12544,7 @@ Vrei să continui?</translation>
     <name>Email</name>
     <message>
         <source>Abort</source>
-        <translation>Anulat</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Authentication failed: </source>
@@ -13775,7 +13775,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Credite</translation>
+        <translation>Mulțumiri</translation>
     </message>
 </context>
 <context>
@@ -13966,7 +13966,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Credite</translation>
+        <translation>Mulțumiri</translation>
     </message>
     <message>
         <source>Subject</source>
@@ -14928,7 +14928,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Batch convert...</source>
-        <translation>Conversie lot...</translation>
+        <translation>Convertește la grămadă...</translation>
     </message>
     <message>
         <source>Rating</source>
@@ -15432,7 +15432,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Batch rename...</source>
-        <translation>Redenumirea lotului...</translation>
+        <translation>Redenumește la grămadă...</translation>
     </message>
     <message>
         <source>Archive...</source>
@@ -15667,7 +15667,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Check for update...</source>
-        <translation>Verifica pentru actualizare...</translation>
+        <translation>Verifică pentru actualizări...</translation>
     </message>
     <message>
         <source>Make a donation...</source>
@@ -15790,7 +15790,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>IPTC - Credits</source>
-        <translation>IPTC - Credite</translation>
+        <translation>IPTC - Mulțumiri</translation>
     </message>
     <message>
         <source>H - Hour (01-24)</source>
@@ -16073,7 +16073,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Batch convert...</source>
-        <translation>Conversie lot...</translation>
+        <translation>Convertește la grămadă...</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -16813,7 +16813,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Check folders...</source>
-        <translation>Verificați dosarele...</translation>
+        <translation>Verifică dosarele (folderele)...</translation>
     </message>
 </context>
 <context>
