@@ -7748,7 +7748,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgExport.ui" line="503"/>
         <source>Color</source>
-        <translation type="unfinished">Farba</translation>
+        <translation>Farba</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="582"/>
@@ -7773,22 +7773,22 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgExport.ui" line="610"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metaúdaje</translation>
+        <translation>Metaúdaje</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="616"/>
         <source>Keep EXIF</source>
-        <translation type="unfinished">Zachovať EXIF</translation>
+        <translation>Zachovať EXIF</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="623"/>
         <source>Keep IPTC</source>
-        <translation type="unfinished">Zachovať IPTC</translation>
+        <translation>Zachovať IPTC</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="630"/>
         <source>Keep XMP</source>
-        <translation type="unfinished">Zachovať XMP</translation>
+        <translation>Zachovať XMP</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="672"/>
@@ -12095,27 +12095,27 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
         <source>Theme</source>
-        <translation type="unfinished">Téma</translation>
+        <translation>Téma</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="92"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Prednastavená</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="97"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlá</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
         <source>Dark</source>
-        <translation type="unfinished">Tmavá</translation>
+        <translation>Tmavá</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="107"/>
         <source>Black</source>
-        <translation type="unfinished">Čierna</translation>
+        <translation>Čierna</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="311"/>
@@ -15671,7 +15671,7 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished">Použiť JPEG-li</translation>
+        <translation>Použiť JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
@@ -17814,7 +17814,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2692"/>
         <source>Altitude ref.</source>
-        <translation>Referenčná nadmorská výška</translation>
+        <translation>Refer. nadmorská výška</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2693"/>
@@ -18076,7 +18076,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
         <source>Original tr. ref.</source>
-        <translation>Originálna prenosová referencia</translation>
+        <translation>Orig. prenosová ref.</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
