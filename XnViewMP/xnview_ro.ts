@@ -1565,7 +1565,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nume de fișier</translation>
+        <translation>Numele fișierului</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2003,7 +2003,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Output Filename</source>
-        <translation>Nume fișier de ieșire</translation>
+        <translation>Numele fișierului de ieșire</translation>
     </message>
     <message>
         <source>Keep parent folder</source>
@@ -2566,7 +2566,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nume de fișier</translation>
+        <translation>Numele fișierului</translation>
     </message>
     <message>
         <source>Color</source>
@@ -2881,7 +2881,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Output filename</source>
-        <translation>Nume fișier de ieșire</translation>
+        <translation>Numele fișierului de ieșire</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
@@ -3572,7 +3572,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nume de fișier</translation>
+        <translation>Numele fișierului</translation>
     </message>
     <message>
         <source>About</source>
@@ -3716,7 +3716,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Output filename:</source>
-        <translation>Nume fișier de ieșiree:</translation>
+        <translation>Numele fișierului de ieșire:</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -4375,7 +4375,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IPTC-IIM, actualizează sau crează XMP</translation>
+        <translation>IPTC-IIM, actualizează sau crează XMP-ul</translation>
     </message>
     <message>
         <source>XMP only</source>
@@ -4403,7 +4403,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, actualizează sau crează IPTC-IIM</translation>
+        <translation>XMP, actualizează sau crează IPTC-IIM-ul</translation>
     </message>
     <message>
         <source>Keep and add new value
@@ -5937,7 +5937,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <name>DlgExportCatalog</name>
     <message>
         <source>Filename</source>
-        <translation>Nume de fișier</translation>
+        <translation>Numele fișierului</translation>
     </message>
     <message>
         <source>Export all files from catalog</source>
@@ -6419,7 +6419,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>Nu se poate conecta la serverul FTP la %1. Vă rugăm să verificați dacă numele de utilizator și parola sunt corecte.</translation>
+        <translation>Nu se poate conecta la serverul FTP la %1. Te rugăm să verifici dacă numele de utilizator și parola sunt corecte.</translation>
     </message>
     <message>
         <source>Unable to go to folder %1</source>
@@ -6458,7 +6458,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Remove entry</source>
-        <translation>Eliminați intrarea</translation>
+        <translation>Elimină intrarea</translation>
     </message>
     <message>
         <source>Save settings</source>
@@ -6466,11 +6466,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Resize</source>
-        <translation>Redimensionați</translation>
+        <translation>Redimensionează</translation>
     </message>
     <message>
         <source>Upload to an FTP server</source>
-        <translation>Încărcați pe un server FTP</translation>
+        <translation>Încarcă pe un server FTP</translation>
     </message>
     <message>
         <source>Password</source>
@@ -6537,11 +6537,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>Nu se poate conecta la serverul FTP la %1. Vă rugăm să verificați dacă numele gazdei este corect.</translation>
+        <translation>Nu se poate conecta la serverul FTP la %1. Te rugăm rugăm să verifici dacă numele gazdei e corect.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>Nu se poate conecta la serverul FTP la %1. Vă rugăm să verificați dacă numele de utilizator și parola sunt corecte.</translation>
+        <translation>Nu se poate conecta la serverul FTP la %1. Te rugăm să verifici dacă numele de utilizator și parola sunt corecte.</translation>
     </message>
     <message>
         <source>Unable to go to folder %1</source>
@@ -6618,7 +6618,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Remove script from list</source>
-        <translation>Eliminați scriptul din listă</translation>
+        <translation>Elimină scriptul din listă</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -6711,7 +6711,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
-        <translation>Scrieți în metadatele încorporate (JPEG/TIFF/PNG) și creați sidecar XMP (altele)</translation>
+        <translation>Scrie în metadatele încorporate (JPEG/TIFF/PNG) și crează fișierul însoțitor (sidecar-ul) XMP (altele)</translation>
     </message>
     <message>
         <source>Include subfolders</source>
@@ -6759,7 +6759,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Move files</source>
-        <translation>Mutați fișierele</translation>
+        <translation>Mută fișierele</translation>
     </message>
     <message>
         <source>Subfolder</source>
@@ -6767,15 +6767,15 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>The &apos;Other Files&apos; folder if doesn&apos;t exist will be created as a subfolder of destination.</source>
-        <translation>Dosarul „Alte fișiere”, dacă nu există, va fi creat ca subdosar de destinație.</translation>
+        <translation>Dosarul (Folderul) „Alte fișiere”, dacă nu există, va fi creat ca subdosar (subfolder) de destinație.</translation>
     </message>
     <message>
         <source>Create XMP sidecar for all files</source>
-        <translation>Creați sidecar XMP pentru toate fișierele</translation>
+        <translation>Crează un fișier însoțitor (sidecar) XMP pentru toate fișierele</translation>
     </message>
     <message>
         <source>Transfer files with no EXIF to &apos;Other Files&apos; folder</source>
-        <translation>Transferați fișiere fără EXIF în folderul „Alte fișiere”</translation>
+        <translation>Transferă fișiere fără EXIF în folderul (dosarul) „Alte fișiere”</translation>
     </message>
     <message>
         <source>Extensions (; to separate)</source>
@@ -6783,7 +6783,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>New filename</source>
-        <translation>Nume de fișier nou</translation>
+        <translation>Numele fișierului nou</translation>
     </message>
     <message>
         <source>Write to embedded metadata (JPEG/TIFF/PNG)</source>
@@ -6819,7 +6819,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
-        <translation>Importul nu se poate face, folderul sursă este același cu folderul destinație!</translation>
+        <translation>Importul nu se poate face, folderul (dosarul) sursă este același cu folderul (dosarul) destinație!</translation>
     </message>
     <message>
         <source>No action</source>
@@ -6845,7 +6845,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
-        <translation>Dacă doriți să editați metadatele XMP, vă rugăm să verificați noul dialog „Editați XMP”. </translation>
+        <translation>Dacă dorești să editezi metadatele XMP, te rugăm să verifici noul dialog „Editează XMP”. </translation>
     </message>
     <message>
         <source>IPTC data has changed.
@@ -6875,11 +6875,11 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>Valorile câmpurilor nu sunt încărcate deoarece „Nu încărcați valorile câmpurilor” este bifată</translation>
+        <translation>Valorile câmpurilor nu sunt încărcate deoarece „Nu încărca valorile câmpurilor” este bifată</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
-        <translation>Sortați alfabetic</translation>
+        <translation>Sortează alfabetic</translation>
     </message>
     <message>
         <source>a: Morning</source>
@@ -6899,7 +6899,7 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>Copy into</source>
-        <translation>Copiați în</translation>
+        <translation>Copiază în</translation>
     </message>
     <message>
         <source>File created date/time</source>
@@ -6911,7 +6911,7 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>Insert from</source>
-        <translation>Inserați de la</translation>
+        <translation>Inserează din</translation>
     </message>
     <message>
         <source>EXIF date/time digitized (if exists)</source>
@@ -6919,7 +6919,7 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>Edit history...</source>
-        <translation>Editați istoricul...</translation>
+        <translation>Editează istoricul...</translation>
     </message>
     <message>
         <source>IPTC has changed</source>
@@ -6980,11 +6980,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IPTC-IIM, actualizați sau creați XMP</translation>
+        <translation>IPTC-IIM, actualizează sau crează XMP-ul</translation>
     </message>
     <message>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
-        <translation>Păstrați și adăugați valoare nouă (Cuvinte cheie și categorii suplimentare)</translation>
+        <translation>Păstrează și adaugă o valoare nouă (Cuvinte cheie și categorii suplimentare)</translation>
     </message>
     <message>
         <source>XMP only</source>
@@ -7000,11 +7000,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Keep original value if new value is empty</source>
-        <translation>Păstrați valoarea inițială dacă valoarea nouă este goală</translation>
+        <translation>Păstrează valoarea inițială dacă valoarea nouă este goală</translation>
     </message>
     <message>
         <source>Load template...</source>
-        <translation>Încărcați șablonul...</translation>
+        <translation>Încarcă șablonul...</translation>
     </message>
     <message>
         <source>Source</source>
@@ -7080,11 +7080,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Edit IPTC-IIM</source>
-        <translation>Editați IPTC-IIM</translation>
+        <translation>Editează IPTC-IIM-ul</translation>
     </message>
     <message>
         <source>Load template V1...</source>
-        <translation>Încărcați șablonul V1...</translation>
+        <translation>Încarcă șablonul V1...</translation>
     </message>
     <message>
         <source>Clear all fields</source>
@@ -7092,7 +7092,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, actualizați sau creați IPTC-IIM</translation>
+        <translation>XMP, actualizează sau crează IPTC-IIM-ul</translation>
     </message>
     <message>
         <source>YYYYMMDD</source>
@@ -7123,7 +7123,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgIptcHistoryEditClass</name>
     <message>
         <source>Edit history</source>
-        <translation>Editați istoricul</translation>
+        <translation>Editează istoricul</translation>
     </message>
 </context>
 <context>
@@ -7142,7 +7142,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Merge data</source>
-        <translation>Îmbinați datele</translation>
+        <translation>Îmbină datele</translation>
     </message>
     <message>
         <source>Choose template file</source>
@@ -7161,7 +7161,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Don&apos;t export</source>
-        <translation>Nu exportați</translation>
+        <translation>Nu exporta</translation>
     </message>
     <message>
         <source>Parent</source>
@@ -7203,7 +7203,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Change layout...</source>
-        <translation>Schimbați aspectul...</translation>
+        <translation>Schimbă aspectul...</translation>
     </message>
 </context>
 <context>
@@ -7276,7 +7276,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Create image</source>
-        <translation>Creați imagine</translation>
+        <translation>Crează o imagine</translation>
     </message>
     <message>
         <source>256 Colors</source>
@@ -7330,7 +7330,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgPalette</name>
     <message>
         <source>Edit Palette</source>
-        <translation>Editați paleta</translation>
+        <translation>Editează paleta</translation>
     </message>
     <message>
         <source>Transparency</source>
@@ -7389,7 +7389,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>An error occurred, please check your login data!</source>
-        <translation>A apărut o eroare, vă rugăm să vă verificați datele de conectare!</translation>
+        <translation>A apărut o eroare, te rugăm să îți verifici datele de conectare!</translation>
     </message>
 </context>
 <context>
@@ -7532,7 +7532,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Show information</source>
-        <translation>Afișați informații</translation>
+        <translation>Afișează informațiile</translation>
     </message>
     <message>
         <source>Single - DPI</source>
@@ -7592,7 +7592,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Insert&gt;&gt;</source>
-        <translation>Inserați &gt;&gt;</translation>
+        <translation>Inserare&gt;&gt;</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
@@ -7644,7 +7644,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Insert all Pages/Images of multi-page source images</source>
-        <translation>Inserați toate paginile/imaginile imaginilor sursă cu mai multe pagini</translation>
+        <translation>Inserează toate paginile/imaginile imaginilor sursă cu mai multe pagini</translation>
     </message>
     <message>
         <source>102x152mm (4x6&quot;) [3]</source>
@@ -7688,7 +7688,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Crop to page</source>
-        <translation>Single - Decupați în pagină</translation>
+        <translation>Single - Decupează în pagină</translation>
     </message>
     <message>
         <source>Y scale</source>
@@ -7704,7 +7704,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Print as grayscale</source>
-        <translation>Imprimați în tonuri de gri</translation>
+        <translation>Imprimă în tonuri de gri</translation>
     </message>
     <message>
         <source>152x102mm (6x4&quot;) [2]</source>
@@ -7736,7 +7736,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Crop to size</source>
-        <translation>Decupați la dimensiune</translation>
+        <translation>Decupează la dimensiune</translation>
     </message>
     <message>
         <source>Collection</source>
@@ -7786,7 +7786,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Apply to image</source>
-        <translation>Aplicați la imagine</translation>
+        <translation>Aplică la imagine</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -7802,7 +7802,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Eliminați presetarea</translation>
+        <translation>Elimină presetarea</translation>
     </message>
 </context>
 <context>
@@ -7943,7 +7943,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadPSD</name>
     <message>
         <source>Fix alpha channel</source>
-        <translation>Remediați canalul alfa</translation>
+        <translation>Remediază canalul alfa</translation>
     </message>
 </context>
 <context>
@@ -7993,7 +7993,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadSettings</name>
     <message>
         <source>Load format settings</source>
-        <translation>Încărcați setările de format</translation>
+        <translation>Încarcă setările formatului</translation>
     </message>
 </context>
 <context>
@@ -10348,7 +10348,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
-        <translation>Actualizează sau crează un fișier însoțitor XMP</translation>
+        <translation>Actualizează sau crează un fișier însoțitor (sidecar) XMP</translation>
     </message>
     <message>
         <source>Naming convention</source>
@@ -12465,7 +12465,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, actualizează sau crează IPTC-IIM</translation>
+        <translation>XMP, actualizează sau crează IPTC-IIM-ul</translation>
     </message>
     <message>
         <source>Multiple selection</source>
@@ -17000,7 +17000,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Updating catalog, please wait...</source>
-        <translation>Se actualizează catalogul, așteptați...</translation>
+        <translation>Se actualizează catalogul, te rugăm să aștepți...</translation>
     </message>
     <message numerus="yes">
         <source>%n object(s)</source>
@@ -17012,7 +17012,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Updating files, please wait...</source>
-        <translation>Se actualizează fișierele, așteptați...</translation>
+        <translation>Se actualizează fișierele, te rugăm să aștepți...</translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
@@ -18277,7 +18277,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Upgrading catalog, please wait...</source>
-        <translation>Se actualizează catalogul, așteptați...</translation>
+        <translation>Se revizuiește catalogul, te rugăm să aștepți...</translation>
     </message>
     <message>
         <source>Do you want to quit?</source>
