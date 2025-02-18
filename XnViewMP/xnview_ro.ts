@@ -3540,7 +3540,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation>Cere</translation>
+        <translation>Întreabă</translation>
     </message>
     <message>
         <source>FTP</source>
@@ -8704,7 +8704,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Misc.</source>
-        <translation>Diverse.</translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <source>Never</source>
@@ -9340,7 +9340,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation>Cere</translation>
+        <translation>Întreabă</translation>
     </message>
     <message>
         <source>Last</source>
@@ -9576,7 +9576,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Open browser</source>
-        <translation>Deschide browser-ul</translation>
+        <translation>Deschide navigatorul</translation>
     </message>
     <message>
         <source>Remember selected filename</source>
@@ -9950,7 +9950,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Left/Right</source>
-        <translation>Stanga/Dreapta</translation>
+        <translation>Stânga/Dreapta</translation>
     </message>
     <message>
         <source>pixels</source>
@@ -10632,7 +10632,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Misc.</source>
-        <translation>Diverse.</translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <source>Loop video playing</source>
@@ -13846,7 +13846,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Original trans. ref.</source>
-        <translation>Traducere originală. ref.</translation>
+        <translation>Traducere de ref. originală</translation>
     </message>
     <message>
         <source>Digitized date</source>
