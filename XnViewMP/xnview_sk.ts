@@ -2655,7 +2655,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="1280"/>
         <source>Check for program updates</source>
-        <translation>Kontrolovať aktualizácie programu</translation>
+        <translation>Skontrolovať aktualizácie programu</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1288"/>
@@ -4722,7 +4722,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1617"/>
         <source>Check for program updates</source>
-        <translation>Kontrolovať aktualizácie programu</translation>
+        <translation>Skontrolovať aktualizácie programu</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1625"/>
@@ -5078,13 +5078,13 @@ Chcete pokračovať?</translation>
         <location filename="DlgConvert.ui" line="1199"/>
         <location filename="DlgConvert-old.ui" line="1581"/>
         <source>Convert multipage file to multipage file (when possible)</source>
-        <translation>Konvertovať viacstránkový súbor do viacstránkového súboru (Ak je to možné)</translation>
+        <translation>Konvertovať viac stránkový súbor do viac stránkového súboru (ak je to možné)</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1206"/>
         <location filename="DlgConvert-old.ui" line="1588"/>
         <source>Convert all pages from multipage file</source>
-        <translation>Konvertovať všetky stránky viacstránkového súboru</translation>
+        <translation>Konvertovať všetky stránky viac stránkového súboru</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1222"/>
@@ -6976,7 +6976,7 @@ Chcete pokračovať?</translation>
         <location filename="DlgCreateMulti.cpp" line="160"/>
         <source>Loading file(s). Please wait...</source>
         <oldsource>Load file(s), please wait... </oldsource>
-        <translation>Načítavanie súboru(súborov), počkajte, prosím...</translation>
+        <translation>Načítavanie súboru(-ov). Počkajte prosím...</translation>
     </message>
 </context>
 <context>
@@ -8070,7 +8070,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgFileReplace.cpp" line="121"/>
         <source>The destination contains already a folder with same name, what do you want to do?</source>
-        <translation>Cieľ už obsahuje priečinok s rovnakým názvom, čo chcete spravit?</translation>
+        <translation>Cieľ už obsahuje priečinok s rovnakým názvom, čo chcete spraviť?</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.cpp" line="124"/>
@@ -8230,7 +8230,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgFtp.cpp" line="583"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>Nie je možné sa pripojiť k FTP serveru %1. Skontroluje prosím, či je uživateľské meno a heslo správne.</translation>
+        <translation>Nie je možné sa pripojiť k FTP serveru %1. Skontroluje prosím, či je prihlasovacie meno a heslo správne.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="594"/>
@@ -8392,7 +8392,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgFtp.h" line="323"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>Nie je možné sa pripojiť k FTP serveru %1. Skontroluje prosím, či je uživateľské meno a heslo správne.</translation>
+        <translation>Nie je možné sa pripojiť k FTP serveru %1. Skontroluje prosím, či je prihlasovacie meno a heslo správne.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="328"/>
@@ -9036,7 +9036,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgIptc.ui" line="320"/>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="329"/>
@@ -9497,7 +9497,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgPicasaSettings.ui" line="22"/>
         <source>User email:</source>
-        <translation>Uživateľský email:</translation>
+        <translation>Email používateľa:</translation>
     </message>
     <message>
         <location filename="DlgPicasaSettings.ui" line="32"/>
@@ -11500,7 +11500,7 @@ Chcete odstrániť položky priradené ku kategórii?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="244"/>
         <source>Check integrity of catalog at startup</source>
-        <translation>Skontrolovať integritu katalóga pri spustení</translation>
+        <translation>Skontrolovať integritu katalógu pri spustení</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="290"/>
@@ -11852,7 +11852,7 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsFormat.ui" line="42"/>
         <source>Choose the formats which you use for saving.</source>
-        <translation>Vyberte formáty, ktoré používate pre uloženie.</translation>
+        <translation>Vyberte formáty, do ktorých chcete uložiť súbory.</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="80"/>
@@ -12090,7 +12090,7 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="298"/>
         <source>Check for program updates</source>
-        <translation>Kontrolovať aktualizácie programu</translation>
+        <translation>Skontrolovať aktualizácie programu</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
@@ -12364,7 +12364,7 @@ Miniatúru</translation>
         <location filename="DlgStartupWizard.cpp" line="142"/>
         <location filename="DlgStartupWizard.cpp" line="159"/>
         <source>User (System)</source>
-        <translation>Uživateľ (Systém)</translation>
+        <translation>Používateľ (systémový)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="29"/>
@@ -14458,7 +14458,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="291"/>
         <source>Loop</source>
-        <translation>Slučka</translation>
+        <translation>Sľučka</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="298"/>
@@ -14622,7 +14622,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSplit.cpp" line="166"/>
         <source>Splitting image(s), please wait...</source>
-        <translation>Rozdeľovanie obrázkov, počkajte, prosím...</translation>
+        <translation>Rozdeľovanie obrázka(-ov), počkajte prosím...</translation>
     </message>
 </context>
 <context>
@@ -14726,7 +14726,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="273"/>
         <source>Check for program updates</source>
-        <translation>Kontrolovať aktualizácie programu</translation>
+        <translation>Skontrolovať aktualizácie programu</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="284"/>
@@ -15292,7 +15292,7 @@ Chcette pokračovať?</translation>
         <location filename="DlgUserFilter.ui" line="14"/>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>User filter</source>
-        <translation>Uživateľský filter</translation>
+        <translation>Používateľský filter</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="22"/>
@@ -17417,7 +17417,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="SearchField.cpp" line="271"/>
         <location filename="TemplateData.cpp" line="2616"/>
         <source>Software</source>
-        <translation>Software</translation>
+        <translation>Softvér</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="276"/>
@@ -17784,7 +17784,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2679"/>
         <source>Lens Make</source>
-        <translation>Značka objektívu</translation>
+        <translation>Výrobca objektívu</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2680"/>
@@ -17799,7 +17799,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2688"/>
         <source>Latitude (value)</source>
-        <translation>Zzemepisná šírka (hodnota)</translation>
+        <translation>Zemepisná šírka (hodnota)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2689"/>
@@ -17857,7 +17857,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="128"/>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="132"/>
@@ -19527,7 +19527,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="615"/>
         <source>Send by email...</source>
-        <translation>Poslať cez email...</translation>
+        <translation>Odoslať cez email...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="622"/>
@@ -20461,7 +20461,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="xnview.cpp" line="1475"/>
         <source>Check for update...</source>
-        <translation>Kontrolovať aktualizáciu...</translation>
+        <translation>Skontrolovať aktualizáciu...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1476"/>
@@ -20626,7 +20626,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2810"/>
         <source>IPTC - Status</source>
-        <translation>IPTC - Status</translation>
+        <translation>IPTC - Stav</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2811"/>
@@ -21402,7 +21402,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="471"/>
         <source>User filter...</source>
-        <translation>Uživateľský filter...</translation>
+        <translation>Používateľský filter...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
@@ -21560,7 +21560,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="515"/>
         <source>Send by email...</source>
-        <translation>Poslať cez email...</translation>
+        <translation>Odoslať cez email...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="517"/>
