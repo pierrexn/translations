@@ -8033,9 +8033,9 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
         <source>Registration successful.
 
 Thank you for purchasing %1.</source>
-        <translation>Înregistrare realizata.
+        <translation>Înregistrare realizată.
 
-Vă mulțumim că ați achiziționat %1.</translation>
+Îți mulțumim că ai achiziționat %1.</translation>
     </message>
     <message>
         <source>Person/Company name:</source>
@@ -8104,7 +8104,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Ignore extension for # enumerator</source>
-        <translation>Ignorați extensia pentru # enumerator</translation>
+        <translation>Ignoră extensia pentru # enumerator</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
@@ -8136,7 +8136,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Create new name template when opening dialog</source>
-        <translation>Creați un nou șablon de nume când deschideți dialogul</translation>
+        <translation>Crează un nou șablon de nume când deschizi dialogul</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -8195,7 +8195,7 @@ Vrei să le redenumești?</translation>
     <name>DlgRenameDupClass</name>
     <message>
         <source>Add</source>
-        <translation>Adăugați</translation>
+        <translation>Adăugare</translation>
     </message>
     <message>
         <source>Only if needed</source>
@@ -8372,7 +8372,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Load &apos;Default values&apos;</source>
-        <translation>Încărcați „Valori implicite”</translation>
+        <translation>Încarcă „Valorile implicite”</translation>
     </message>
     <message>
         <source>Presets:</source>
@@ -8384,7 +8384,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Resample</source>
-        <translation>Reeșantionați</translation>
+        <translation>Reeșantionează</translation>
     </message>
     <message>
         <source>Size (pixels)</source>
@@ -8404,7 +8404,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Eliminați presetarea</translation>
+        <translation>Elimină presetarea</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -8451,7 +8451,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Apply to image</source>
-        <translation>Aplicați la imagine</translation>
+        <translation>Aplică la imagine</translation>
     </message>
     <message>
         <source>Show grid</source>
@@ -8509,7 +8509,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
-        <translation>Adăugați&gt;&gt;</translation>
+        <translation>Adăugare &gt;&gt;</translation>
     </message>
     <message>
         <source>Search</source>
@@ -8638,7 +8638,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation>Setați DPI</translation>
+        <translation>Setează DPI-ul</translation>
     </message>
 </context>
 <context>
@@ -8728,7 +8728,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>View scroll the content by thumbnail</source>
-        <translation>Vizualizați derulați conținutul după miniatură</translation>
+        <translation>Vizualizează și derulează conținutul după miniatură</translation>
     </message>
     <message>
         <source>Thumbnails</source>
@@ -8792,7 +8792,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Show ratings</source>
-        <translation>Afișați evaluări</translation>
+        <translation>Afișează evaluările</translation>
     </message>
     <message>
         <source>Favorites</source>
@@ -8800,7 +8800,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Change EXIF orientation ONLY (if possible)</source>
-        <translation>Schimbați NUMAI orientarea EXIF (dacă este posibil)</translation>
+        <translation>Schimbă NUMAI orientarea EXIF (dacă este posibil)</translation>
     </message>
     <message>
         <source>Preview background color</source>
@@ -8896,7 +8896,7 @@ you&apos;ll be able to re-import later.
 Do you want to remove entries assigned to a Category?</source>
         <translation>Intrările din catalog cu etichetele Categorii, Evaluare și Culoare vor fi eliminate. 
 
-Dacă informațiile sunt exportate în metadate încorporate sau cu dosar suplimentar (sidecar), 
+Dacă informațiile sunt exportate în metadate încorporate (sidecar) sau cu dosar (folder) suplimentar, 
 le vei putea reimporta mai târziu. 
 
 Dorești să elimini intrările atribuite unei categorii?</translation>
@@ -9008,7 +9008,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Enable thumbnail caching</source>
-        <translation>Activați stocarea în cache a miniaturilor</translation>
+        <translation>Activează stocarea în cache (depozit) a miniaturilor</translation>
     </message>
     <message>
         <source>Compression:</source>
@@ -9036,11 +9036,11 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Enable Catalog</source>
-        <translation>Activați Catalog</translation>
+        <translation>Activează catalogul</translation>
     </message>
     <message>
         <source>Check integrity of catalog at startup</source>
-        <translation>Verificați integritatea catalogului la pornire</translation>
+        <translation>Verifică integritatea catalogului la pornire</translation>
     </message>
     <message>
         <source>Excluded/Included</source>
@@ -9191,11 +9191,11 @@ Miniatură</translation>
     </message>
     <message>
         <source>Scan file headers</source>
-        <translation>Scanați antetele fișierelor</translation>
+        <translation>Scanează antetele fișierelor</translation>
     </message>
     <message>
         <source>Show companion files</source>
-        <translation>Afișați fișierele însoțitoare</translation>
+        <translation>Afișează fișierele însoțitoare</translation>
     </message>
     <message>
         <source>New files are added at the end of the list</source>
@@ -9266,7 +9266,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Select most used</source>
-        <translation>Selectați cel mai folosit</translation>
+        <translation>Selectează cel mai folosit</translation>
     </message>
     <message>
         <source>Choose the formats which you use for saving.</source>
@@ -9274,7 +9274,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Show write settings before saving</source>
-        <translation>Afișați setările de scriere înainte de a salva</translation>
+        <translation>Afișează setările de scriere înainte de salvare</translation>
     </message>
     <message>
         <source>Clear all</source>
@@ -9392,7 +9392,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Confirm file delete</source>
-        <translation>Confirmați ștergerea fișierului</translation>
+        <translation>Confirmă ștergerea fișierului</translation>
     </message>
     <message>
         <source>Make backup for other lossless operations</source>
@@ -9400,7 +9400,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Reset all confirm prompts</source>
-        <translation>Resetați toate solicitările de confirmare</translation>
+        <translation>Resetează toate solicitările de confirmare</translation>
     </message>
     <message>
         <source>Monthly</source>
@@ -9460,7 +9460,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Show all graphic formats</source>
-        <translation>Afișați toate formatele grafice</translation>
+        <translation>Afișează toate formatele grafice</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -9472,7 +9472,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Keep original date/time</source>
-        <translation>Păstrați data/ora originală</translation>
+        <translation>Păstrează data/ora originală</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original pathname</source>
@@ -9496,7 +9496,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>Copiați (#) &lt;Nume fișier&gt;</translation>
+        <translation>Copiază (#) &lt;Numele fișierului&gt;</translation>
     </message>
     <message>
         <source>Lossless transformations</source>
@@ -9532,7 +9532,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Verificați actualizările programului</translation>
+        <translation>Verifică actualizările programului</translation>
     </message>
     <message>
         <source>&lt;Filename&gt; - Copy (#)</source>
@@ -11390,7 +11390,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Verificați actualizările programului</translation>
+        <translation>Verifică actualizările programului</translation>
     </message>
     <message>
         <source>Startup Wizard</source>
@@ -11602,7 +11602,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Force the update in case of anomaly</source>
-        <translation>Forțați actualizarea în caz de anomalie</translation>
+        <translation>Forțează actualizarea în caz de anomalie</translation>
     </message>
     <message>
         <source>Change</source>
@@ -17692,7 +17692,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Cannot open destination file. Please check permissions.</source>
-        <translation>Nu se poate deschide fișierul destinație. Vă rugăm să verificați permisiunile.</translation>
+        <translation>Nu se poate deschide fișierul destinație. Te rugăm să verifici permisiunile.</translation>
     </message>
     <message>
         <source>Cannot read source file.</source>
@@ -17716,7 +17716,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Cannot open source file. Please check permissions.</source>
-        <translation>Nu se poate deschide fișierul sursă. Vă rugăm să verificați permisiunile.</translation>
+        <translation>Nu se poate deschide fișierul sursă. Te rugăm să verifici permisiunile.</translation>
     </message>
     <message>
         <source>Copy Warning</source>
@@ -18265,7 +18265,7 @@ Faceți clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Există o problemă la actualizarea catalogului (Eroare: %1), vă rugăm să contactați dezvoltatorul.</translation>
+        <translation>XnViewMP - Există o problemă la actualizarea catalogului (Eroare: %1), te rugăm să contactezi dezvoltatorul.</translation>
     </message>
     <message>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
