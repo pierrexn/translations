@@ -1840,7 +1840,7 @@ Položky můžete přiřazovat přetažením.</translation>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozostřit více</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
