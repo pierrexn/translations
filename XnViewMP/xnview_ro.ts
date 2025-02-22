@@ -9396,7 +9396,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Make backup for other lossless operations</source>
-        <translation>Fă backup pentru alte operațiuni fără pierderi</translation>
+        <translation>Fă un backup (o copie de rezervă) pentru alte operațiuni fără pierderi</translation>
     </message>
     <message>
         <source>Reset all confirm prompts</source>
@@ -9671,7 +9671,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Browse with XnViewMP</source>
-        <translation>Navigați cu XnViewMP</translation>
+        <translation>Navighează cu XnViewMP</translation>
     </message>
     <message>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
@@ -9687,7 +9687,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>File Associations</source>
-        <translation>Asociații de fișiere</translation>
+        <translation>Asocierea de fișiere</translation>
     </message>
     <message>
         <source>XnViewMP for Windows</source>
@@ -9730,7 +9730,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Open the Catalog Location</source>
-        <translation>Deschideți locația catalogului</translation>
+        <translation>Deschide locația catalogului</translation>
     </message>
     <message>
         <source>Other settings</source>
@@ -9746,11 +9746,11 @@ Miniatură</translation>
     </message>
     <message>
         <source>Open Config Files Location</source>
-        <translation>Deschideți locația fișierelor de configurare</translation>
+        <translation>Deschide locația fișierelor de configurare</translation>
     </message>
     <message>
         <source>Set file associations...</source>
-        <translation>Setați asocierile fișierelor...</translation>
+        <translation>Setează asocierile fișierelor...</translation>
     </message>
     <message>
         <source>Integration</source>
@@ -9758,7 +9758,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Adăugați „Răsfoiți cu XnViewMP” în meniul contextual (necesită drepturi de administrator)</translation>
+        <translation>Adaugă „Răsfoiește cu XnViewMP” în meniul contextual (necesită drepturi de administrator)</translation>
     </message>
     <message>
         <source>Use Windows registry</source>
@@ -9769,7 +9769,7 @@ Miniatură</translation>
     <name>DlgSettingsInterface</name>
     <message>
         <source>Load toolbar</source>
-        <translation>Încărcați bara de instrumente</translation>
+        <translation>Încarcă bara de instrumente</translation>
     </message>
     <message>
         <source>Save toolbar</source>
@@ -9777,7 +9777,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Load shortcuts</source>
-        <translation>Încărcați comenzile rapide</translation>
+        <translation>Încarcă comenzile rapide (scurtăturile)</translation>
     </message>
     <message>
         <source>-- SEPARATOR --</source>
@@ -9789,7 +9789,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Set label</source>
-        <translation>Setați eticheta</translation>
+        <translation>Setează eticheta</translation>
     </message>
     <message>
         <source>Browse mode</source>
@@ -9817,7 +9817,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Set Icon...</source>
-        <translation>Setați pictograma...</translation>
+        <translation>Setează pictograma...</translation>
     </message>
     <message>
         <source>-- NEW IPTC TEMPLATE --</source>
@@ -9878,7 +9878,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Set label...</source>
-        <translation>Setați eticheta...</translation>
+        <translation>Setează eticheta...</translation>
     </message>
     <message>
         <source>Close button</source>
@@ -9938,7 +9938,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom in/out</source>
-        <translation>Măriți/micșorați</translation>
+        <translation>Mărește/micșorează</translation>
     </message>
     <message>
         <source>Left button</source>
@@ -9970,7 +9970,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Purge now</source>
-        <translation>Curățați acum</translation>
+        <translation>Curăță acum</translation>
     </message>
     <message>
         <source>Double-click on tab: </source>
@@ -10030,7 +10030,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Set command...</source>
-        <translation>Setați comanda...</translation>
+        <translation>Setează comanda...</translation>
     </message>
     <message>
         <source>Next file</source>
@@ -10038,7 +10038,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Set Icon...</source>
-        <translation>Setați pictograma...</translation>
+        <translation>Setează pictograma...</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
@@ -10240,7 +10240,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create IPTC data</source>
-        <translation>Creați date IPTC</translation>
+        <translation>Crează date IPTC</translation>
     </message>
     <message>
         <source>Video files</source>
@@ -10248,7 +10248,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Import XMP Face tag</source>
-        <translation>Importați eticheta XMP Face</translation>
+        <translation>Importă eticheta XMP Face</translation>
     </message>
     <message>
         <source>Rating &amp;&amp; Label</source>
@@ -10264,7 +10264,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Export color label in XMP metadata</source>
-        <translation>Exportați eticheta de culoare în metadate XMP</translation>
+        <translation>Exportă eticheta de culoare în metadate XMP</translation>
     </message>
     <message>
         <source>Encoding</source>
@@ -10288,7 +10288,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create XMP data</source>
-        <translation>Creați date XMP</translation>
+        <translation>Crează date XMP</translation>
     </message>
     <message>
         <source>Sidecar</source>
@@ -10312,7 +10312,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Export rating in XMP metadata</source>
-        <translation>Exportați evaluarea în metadate XMP</translation>
+        <translation>Exportă evaluarea în metadate XMP</translation>
     </message>
     <message>
         <source>Update when file is changed outside (date/size)</source>
@@ -10410,7 +10410,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Go to Thumbnail DB related settings &gt;&gt;</source>
-        <translation>Accesați setările legate de Thumbnail DB &gt;&gt;</translation>
+        <translation>Accesează setările legate de Thumbnail DB &gt;&gt;</translation>
     </message>
     <message>
         <source>Background</source>
@@ -10418,7 +10418,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
-        <translation>Afișați 4 miniaturi în miniatura videoclipului (în loc de 1)</translation>
+        <translation>Afișează 4 miniaturi în miniatura videoclipului (în loc de 1)</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -10426,7 +10426,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
-        <translation>Afișați 4 miniaturi în miniatura dosarului (în loc de 1)</translation>
+        <translation>Afișează 4 miniaturi în miniatura dosarului/folderului (în loc de 1)</translation>
     </message>
     <message>
         <source>Color label</source>
@@ -10526,7 +10526,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
-        <translation>Creați din imaginea originală dacă miniatura încorporată este mai mică decât dimensiunea miniaturii</translation>
+        <translation>Crează din imaginea originală dacă miniatura încorporată este mai mică decât dimensiunea miniaturii</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -10648,7 +10648,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Always show in fullscreen</source>
-        <translation>Afișați întotdeauna pe ecran complet</translation>
+        <translation>Afișează întotdeauna pe ecranul complet (pe tot ecranul)</translation>
     </message>
     <message>
         <source>Half size</source>
@@ -10668,11 +10668,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
-        <translation>Dezactivați animația GIF/JIF/APNG/ANI</translation>
+        <translation>Dezactivează animația GIF/JIF/APNG/ANI</translation>
     </message>
     <message>
         <source>Show highlight selection</source>
-        <translation>Afișați selecția de evidențiere</translation>
+        <translation>Afișează selecția de evidențiere</translation>
     </message>
     <message>
         <source>Relative step</source>
@@ -10748,7 +10748,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Keep current image</source>
-        <translation>Păstrați imaginea curentă</translation>
+        <translation>Păstrează imaginea curentă</translation>
     </message>
     <message>
         <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
@@ -10784,7 +10784,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Show Pan tool</source>
-        <translation>Afișați instrumentul Pan</translation>
+        <translation>Afișează instrumentul de panoramare</translation>
     </message>
     <message>
         <source>Auto zoom</source>
@@ -10884,7 +10884,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Show info</source>
-        <translation>Afișează informații</translation>
+        <translation>Afișează informațiile</translation>
     </message>
     <message>
         <source>Show toolbar</source>
@@ -10939,7 +10939,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Search similar files</source>
-        <translation>Căutați fișiere similare</translation>
+        <translation>Caută fișiere similare</translation>
     </message>
     <message>
         <source>Same filename</source>
@@ -10967,7 +10967,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Add files...</source>
-        <translation>Adăugați fișiere...</translation>
+        <translation>Adaugă fișiere...</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -11010,7 +11010,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Copy file to...</source>
-        <translation>Copiați fișierul în...</translation>
+        <translation>Copiază fișierul în...</translation>
     </message>
     <message>
         <source>Similar files result</source>
@@ -11026,7 +11026,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation>Mutați la</translation>
+        <translation>Mută în</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11058,7 +11058,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Move file to...</source>
-        <translation>Mutați fișierul în...</translation>
+        <translation>Mută fișierul în...</translation>
     </message>
     <message>
         <source>Selected</source>
@@ -11136,7 +11136,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation>Afișați informații</translation>
+        <translation>Afișează informațiile</translation>
     </message>
     <message>
         <source>Fullscreen</source>
@@ -11184,11 +11184,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Export Slideshow</source>
-        <translation>Exportați prezentarea de diapozitive</translation>
+        <translation>Exportă prezentarea de diapozitive</translation>
     </message>
     <message>
         <source>Import Slideshow</source>
-        <translation>Importați prezentarea de diapozitive</translation>
+        <translation>Importă prezentarea de diapozitive</translation>
     </message>
     <message>
         <source>Save...</source>
@@ -11291,7 +11291,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Splitting image(s), please wait...</source>
-        <translation>Se împarte imaginile, așteptați...</translation>
+        <translation>Se despart imaginile, te rugăm să aștepți...</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -11342,11 +11342,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation>Adăugați „Răsfoiți cu XnViewMP” în meniul contextual</translation>
+        <translation>Adaugă „Răsfoiește cu XnViewMP” în meniul contextual</translation>
     </message>
     <message>
         <source>Run the File association(s) tool...</source>
-        <translation>Rulați instrumentul Asociere fișiere...</translation>
+        <translation>Rulează instrumentul Asocierea fișierelor...</translation>
     </message>
     <message>
         <source>Monthly</source>
@@ -11457,7 +11457,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Join images</source>
-        <translation>Alăturați-vă imaginilor</translation>
+        <translation>Unește imaginile</translation>
     </message>
     <message>
         <source>Thumbnails per row</source>
@@ -11524,7 +11524,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Search face</source>
-        <translation>Căutați fața</translation>
+        <translation>Caută fața</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11571,7 +11571,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Modifying timestamp, please wait...</source>
-        <translation>Se modifică marcajul de timp, așteptați...</translation>
+        <translation>Se modifică marcajul de timp, te rugă să aștepți...</translation>
     </message>
 </context>
 <context>
@@ -11622,11 +11622,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Change timestamp</source>
-        <translation>Schimbați marcajul de timp</translation>
+        <translation>Schimbă marcajul de timp</translation>
     </message>
     <message>
         <source>Create EXIF metadata if needed</source>
-        <translation>Creați metadate EXIF dacă este necesar</translation>
+        <translation>Crează metadate EXIF dacă este necesar</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -11657,7 +11657,7 @@ Vrei să continui?</translation>
     <name>DlgTransfer</name>
     <message>
         <source>Add&gt;&gt;</source>
-        <translation>Adăugați&gt;&gt;</translation>
+        <translation>Adăugare&gt;&gt;</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -11727,11 +11727,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation>Actualizați</translation>
+        <translation>Actualizare</translation>
     </message>
     <message>
         <source>Download new version...</source>
-        <translation>Descărcați versiunea nouă...</translation>
+        <translation>Descarcă versiunea nouă...</translation>
     </message>
     <message>
         <source>A new version is available</source>
@@ -11754,7 +11754,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Încărcați</translation>
+        <translation>Încarcă</translation>
     </message>
     <message>
         <source>Unable to upload image file...</source>
@@ -11793,7 +11793,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation>Redimensionați</translation>
+        <translation>Redimensionează</translation>
     </message>
     <message>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
@@ -11891,7 +11891,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation>Afișați informații</translation>
+        <translation>Afișează informațiile</translation>
     </message>
     <message>
         <source>Draw border</source>
@@ -11907,7 +11907,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Creating video thumbnails, please wait...</source>
-        <translation>Se creează miniaturi video, așteptați...</translation>
+        <translation>Se creează miniaturile video, te rugăm să aștepți...</translation>
     </message>
     <message>
         <source>Create Video Gallery</source>
