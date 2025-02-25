@@ -867,7 +867,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation>Pienoiskuvat</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -2140,7 +2140,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnResize toimitetaan ilmaisohjelmana yksityiseen käyttöön. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä  &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Niillä ei ole minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
+        <translation>&lt;br&gt;XnResize toimitetaan ilmaisohjelmana yksityiseen käyttöön. &lt;br&gt; Sinulla on oikeus käyttää ja tehdä rajattomasti kopioita tästä ohjelmistosta. &lt;br&gt; Nämä ohjelmistot toimitetaan termillä &quot;siinä kunnossa kuin&quot;. &lt; br&gt; Niillä ei ole minkäänlaista takuuta suoraan tai epäsuorasti. &lt;br&gt; Ohjelmiston tekijä ei ole vastuussa tietojen häviämisestä, vahingoista, tai rahallisista tappioista käytettäessä tätä ohjelmistoa. &lt;br&gt; Mitkä tahansa ehdotukset, palautteet ja kommentit ovat tervetulleita. </translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
@@ -2464,7 +2464,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>EXIF thumbnail</source>
-        <translation>EXIF-esikatselukuva</translation>
+        <translation>EXIF-pienoiskuva</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -2585,7 +2585,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Thumbnails per page</source>
-        <translation>Esikatselukuvien määrää sivulla</translation>
+        <translation>Pienoiskuvien määrää sivulla</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -2741,7 +2741,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation>Pienoiskuva</translation>
     </message>
     <message>
         <source>Best fit</source>
@@ -2890,7 +2890,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>_result</source>
-        <translation>_result</translation>
+        <translation>_tulos</translation>
     </message>
     <message>
         <source>Export log</source>
@@ -4008,7 +4008,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>EXIF thumbnail</source>
-        <translation>EXIF-esikatselukuva</translation>
+        <translation>EXIF-eikkukuva</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -5361,7 +5361,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation>Pienoiskuvat</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -5498,7 +5498,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Purge all thumbnails</source>
-        <translation>Puhdista kaikki esikatselukuvat</translation>
+        <translation>Puhdista kaikki pienoiskuvat</translation>
     </message>
     <message>
         <source>Clean up</source>
@@ -6045,23 +6045,23 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Väri</translation>
+        <translation>Väri</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished">Metatiedot</translation>
+        <translation>Metatiedot</translation>
     </message>
     <message>
         <source>Keep EXIF</source>
-        <translation type="unfinished">Pidä EXIF</translation>
+        <translation>Pidä EXIF</translation>
     </message>
     <message>
         <source>Keep IPTC</source>
-        <translation type="unfinished">Pidä IPTC</translation>
+        <translation>Pidä IPTC</translation>
     </message>
     <message>
         <source>Keep XMP</source>
-        <translation type="unfinished">Pidä XMP</translation>
+        <translation>Pidä XMP</translation>
     </message>
 </context>
 <context>
@@ -7541,7 +7541,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation>Pienoiskuvat</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -8039,7 +8039,7 @@ Kiitos että tilasit %1.</translation>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation>Asenna kohdasta Työkalut &gt; Lisäosat</translation>
+        <translation>Asenna se kohdasta Työkalut › -Lisäosat</translation>
     </message>
 </context>
 <context>
@@ -8654,7 +8654,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation>Pienoiskuva</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -8701,7 +8701,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Thumbnails + Filename</source>
-        <translation>Esikatselukuvat + tiedostonimet</translation>
+        <translation>Pienoiskuvat + tiedostonimet</translation>
     </message>
     <message>
         <source>Use tooltips</source>
@@ -8717,11 +8717,11 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>View scroll the content by thumbnail</source>
-        <translation>Näytä vierityspalkki esikatselukuvanäkymässä</translation>
+        <translation>Näytä vierityspalkki pienoiskuvanäkymässä</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation>Pienoiskuvat</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -8745,7 +8745,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Thumbnails scaling</source>
-        <translation>Esikatselukuvien skaalaus</translation>
+        <translation>Pienoiskuvien skaalaus</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -8757,7 +8757,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
-        <translation>Esikatselukuvat + tietoikkuna</translation>
+        <translation>Pienoiskuvat + tietoikkuna</translation>
     </message>
     <message>
         <source>Details</source>
@@ -8765,7 +8765,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
-        <translation>Esikatselukuvat + tiedot</translation>
+        <translation>Pienoiskuvat + tiedot</translation>
     </message>
     <message>
         <source>ToolBar</source>
@@ -8974,11 +8974,11 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
     </message>
     <message>
         <source>Rebuild thumbnails</source>
-        <translation>Päivitä esikatselukuvat</translation>
+        <translation>Päivitä pienoiskuvat</translation>
     </message>
     <message>
         <source>Get thumbnail size</source>
-        <translation>Anna esikatselukuvien koko</translation>
+        <translation>Anna pienoiskuvien koko</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8998,7 +8998,7 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
     </message>
     <message>
         <source>Enable thumbnail caching</source>
-        <translation>Välimuisti esikatselukuville</translation>
+        <translation>Välimuisti pienoiskuville</translation>
     </message>
     <message>
         <source>Compression:</source>
@@ -9022,7 +9022,7 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
     </message>
     <message>
         <source>Maximum size for cached thumbnails</source>
-        <translation>Maksimi välimuisti esikatselukuville</translation>
+        <translation>Maksimi välimuisti pienoiskuville</translation>
     </message>
     <message>
         <source>Enable Catalog</source>
@@ -9106,7 +9106,7 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
         <source>Show as 
 Thumbnail</source>
         <translation>Näytä 
-esikatselukuvina</translation>
+pienoiskuvina</translation>
     </message>
     <message>
         <source>Archives</source>
@@ -9622,23 +9622,23 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished">Teema</translation>
+        <translation>Teema</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Oletus</translation>
+        <translation>Oletus</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">Vaalea</translation>
+        <translation>Vaalea</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished">Tumma</translation>
+        <translation>Tumma</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished">Musta</translation>
+        <translation>Musta</translation>
     </message>
 </context>
 <context>
@@ -9716,7 +9716,7 @@ esikatselukuvina</translation>
     </message>
     <message>
         <source>Folder for Thumbnails Database</source>
-        <translation>Kansio esikatselukuvien tietokannalle</translation>
+        <translation>Kansio pienoiskuvien tietokannalle</translation>
     </message>
     <message>
         <source>Open the Catalog Location</source>
@@ -10012,7 +10012,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation>Pienoiskuva</translation>
     </message>
     <message>
         <source>Previous/next file</source>
@@ -10377,7 +10377,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Thumbnail cell</source>
-        <translation>Esikatselukuva-solu</translation>
+        <translation>Pienoiskuva-solu</translation>
     </message>
     <message>
         <source>Right</source>
@@ -10401,7 +10401,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Go to Thumbnail DB related settings &gt;&gt;</source>
-        <translation>Esikatselukuva DB-tiedostoihin liittyvät asetukset &gt;&gt;</translation>
+        <translation>Pienoiskuva DB-tiedostoihin liittyvät asetukset &gt;&gt;</translation>
     </message>
     <message>
         <source>Background</source>
@@ -10409,7 +10409,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
-        <translation>Näytä 4 kuvaa videoiden esikatselukuvassa (yhden sijaan)</translation>
+        <translation>Näytä 4 kuvaa videoiden pienoiskuvissa (yhden sijaan)</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -10417,7 +10417,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
-        <translation>Näytä 4 kuvaa kansioiden esikatselukuvassa (yhden sijaan)</translation>
+        <translation>Näytä 4 kuvaa kansioiden pienoiskuvissa (yhden sijaan)</translation>
     </message>
     <message>
         <source>Color label</source>
@@ -10453,7 +10453,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Embedded thumbnail</source>
-        <translation>Upotettu esikatselukuva</translation>
+        <translation>Upotettu pienoiskuva</translation>
     </message>
     <message>
         <source>Label alignment</source>
@@ -10469,7 +10469,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Use embedded thumbnail</source>
-        <translation>Käytä upotettua esikatselukuvaa</translation>
+        <translation>Käytä upotettua pienoiskuvaa</translation>
     </message>
     <message>
         <source>Sidecar</source>
@@ -10485,7 +10485,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Custom thumbnail size</source>
-        <translation>Muokkaa esikatselukuvan kokoa</translation>
+        <translation>Muokkaa pienoiskuvan kokoa</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -10501,7 +10501,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation>Pienoiskuva</translation>
     </message>
     <message>
         <source>Has category</source>
@@ -10517,7 +10517,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
-        <translation>Luo alkuperäisestä kuvasta jos upotettu- on pienempi kuin esikatselukuva</translation>
+        <translation>Luo alkuperäisestä kuvasta jos upotettu- on pienempi kuin pienoiskuva</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -10533,7 +10533,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Create thumbnails for whole folder</source>
-        <translation>Luo esikatselukuvat koko kansiolle</translation>
+        <translation>Luo pienoiskuvat koko kansiolle</translation>
     </message>
     <message>
         <source>Image alignment</source>
@@ -11349,7 +11349,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Folder for Thumbnails Database</source>
-        <translation>Kansio esikatselukuvien tietokannalle</translation>
+        <translation>Kansio pienoiskuvien tietokannalle</translation>
     </message>
     <message>
         <source>Weekly</source>
@@ -11452,7 +11452,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Thumbnails per row</source>
-        <translation>Esikatselukuvia rivillä</translation>
+        <translation>Pienoiskuvia rivillä</translation>
     </message>
     <message>
         <source>Background color</source>
@@ -11764,7 +11764,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Thumbnail link</source>
-        <translation>Esikatselukuvalinkki</translation>
+        <translation>Pienoiskuvalinkki</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11898,7 +11898,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Creating video thumbnails, please wait...</source>
-        <translation>Luodaan videon esikatselukuvia, odota...</translation>
+        <translation>Luodaan videon pienoiskuvia, odota...</translation>
     </message>
     <message>
         <source>Create Video Gallery</source>
@@ -12098,7 +12098,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Rebuild embedded EXIF thumbnail</source>
-        <translation>Päivitä upotetut EXIF-esikatselukuvat</translation>
+        <translation>Päivitä upotetut EXIF-pienoiskuvat</translation>
     </message>
     <message>
         <source>Lowest</source>
@@ -12142,7 +12142,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Use JPEG-li</source>
-        <translation type="unfinished">Käytä JPEG-li:tä</translation>
+        <translation>Käytä JPEG-li:tä</translation>
     </message>
 </context>
 <context>
@@ -12257,7 +12257,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Paeth</source>
-        <translation>Paeth</translation>
+        <translation>Polku</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -12647,7 +12647,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <name>FileListWidget</name>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation>Pienoiskuvat</translation>
     </message>
     <message>
         <source>Drag&amp;Drop your files here</source>
@@ -13344,7 +13344,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation>Pienoiskuva</translation>
     </message>
     <message>
         <source>Makernotes</source>
@@ -13675,7 +13675,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Esikatselukuva</translation>
+        <translation>Pienoiskuva</translation>
     </message>
     <message>
         <source>Longitude ref.</source>
@@ -14683,7 +14683,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rebuild</source>
-        <translation>EXIF-esikatselukuva - Päivitä</translation>
+        <translation>EXIF-pienoiskuva - Päivitä</translation>
     </message>
     <message>
         <source>Show title of panels</source>
@@ -14783,11 +14783,11 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Video thumbnails gallery...</source>
-        <translation>Videoiden esikatselukuvakokoelma...</translation>
+        <translation>Videoiden pienoiskuvakokoelma...</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Esikatselukuvat</translation>
+        <translation>Pienoiskuvat</translation>
     </message>
     <message>
         <source>Fullscreen</source>
@@ -14831,7 +14831,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Thumbnails + Filenames</source>
-        <translation>Esikatselukuvat + tiedostonimet</translation>
+        <translation>Pienoiskuvat + tiedostonimet</translation>
     </message>
     <message>
         <source>Videos (+folders)</source>
@@ -14851,7 +14851,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Rebuild thumbnails</source>
-        <translation>Päivitä esikatselukuvat</translation>
+        <translation>Päivitä pienoiskuvat</translation>
     </message>
     <message>
         <source>Rename...</source>
@@ -14871,7 +14871,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>View as Thumbnails+Details</source>
-        <translation>Näytä esikatselukuvat + tiedot</translation>
+        <translation>Näytä pienoiskuvat + tiedot</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -15075,7 +15075,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>EXIF Thumbnail</source>
-        <translation>EXIF esikatselukuva</translation>
+        <translation>EXIF pienoiskuva</translation>
     </message>
     <message>
         <source>Remove from all categories</source>
@@ -15187,7 +15187,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
-        <translation>Esikatselukuvat + tietoikkuna</translation>
+        <translation>Pienoiskuvat + tietoikkuna</translation>
     </message>
     <message>
         <source>Select none</source>
@@ -15227,7 +15227,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Show source panels</source>
-        <translation>Näytä lähdeikkuna</translation>
+        <translation>Näytä lähdeikkunat</translation>
     </message>
     <message>
         <source>Histogram</source>
@@ -15267,7 +15267,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
-        <translation>Esikatselukuvat + tiedot</translation>
+        <translation>Pienoiskuvat + tiedot</translation>
     </message>
     <message>
         <source>Tagged file(s)</source>
@@ -15347,7 +15347,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Thumbnails view only</source>
-        <translation>Vain esikatselukuvanäyttö</translation>
+        <translation>Vain pienoiskuvanäyttö</translation>
     </message>
     <message>
         <source>Favorites</source>
@@ -15395,7 +15395,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>View as Thumbnails</source>
-        <translation>Näytä esikatselukuvat</translation>
+        <translation>Näytä pienoiskuvat</translation>
     </message>
     <message>
         <source>Selected filename(s)</source>
@@ -15419,7 +15419,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>View as Thumbnails+Labels</source>
-        <translation>Näytä esikatselukuvat + tietoikkunat</translation>
+        <translation>Näytä pienoiskuvat + tietoikkunat</translation>
     </message>
     <message>
         <source>Draw as tiled</source>
@@ -15455,11 +15455,11 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Thumbnails size</source>
-        <translation>Esikatselukuvien koko</translation>
+        <translation>Pienoiskuvien koko</translation>
     </message>
     <message>
         <source>View as Thumbnails+Filename</source>
-        <translation>Näytä esikatselukuvat + tiedostonimet</translation>
+        <translation>Näytä pienoiskuvat + tiedostonimet</translation>
     </message>
     <message>
         <source>Created Date</source>
@@ -15535,11 +15535,11 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rotate 90° left</source>
-        <translation>EXIF-esikatselukuva - Käännä 90° vasemmalle</translation>
+        <translation>EXIF-pienoiskuva - Käännä 90° vasemmalle</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rotate 90° right</source>
-        <translation>EXIF-esikatselukuva - Käännä 90° oikealle</translation>
+        <translation>EXIF-pienoiskuva - Käännä 90° oikealle</translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
@@ -16793,7 +16793,7 @@ Jatketaanko?</translation>
     <name>MyAddFolderProcess2</name>
     <message>
         <source>Build thumbnails...</source>
-        <translation>Luodaan esikatselukuvat...</translation>
+        <translation>Luodaan pienoiskuvat...</translation>
     </message>
 </context>
 <context>
@@ -16924,7 +16924,7 @@ Jatketaanko?</translation>
     <name>MyLittleToolBar</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Liukusäätimellä voit muuttaa esikatselukuvien kokoa [pikseleinä] ja määrää saraketta kohden</translation>
+        <translation>Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikseleinä] ja määrää saraketta kohden</translation>
     </message>
 </context>
 <context>
@@ -17371,7 +17371,7 @@ Voit muuttaa sitä kohdassa Asetukset › Luettelo.</translation>
     <message>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
-        <translation>Klikkaa ruutua valitaksesi kategoria, 
+        <translation>Klikkaa ruutua valitaksesi tehtävä, 
 kaksoisklikkauksella voit nimetä sen uudelleen.
 Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</translation>
     </message>
@@ -17626,7 +17626,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>%1 of %2 completed</source>
-        <translation>%1  %2:stä valmiina</translation>
+        <translation>%1 %2:stä valmiina</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17650,7 +17650,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>%1% of %2 (%3)</source>
-        <translation>%1%  %2 (%3):sta</translation>
+        <translation>%1% %2 (%3):sta</translation>
     </message>
     <message>
         <source>%1 / %2 files</source>
@@ -18279,7 +18279,7 @@ Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
         <translation>XnViewMP päivittää luetteloa. Se voi kestää jonkin aikaa.
 
-Haluatko säilyttää pikkukuvat?
+Haluatko säilyttää pienoiskuvat?
  (Jos valitset KYLLÄ, päivitys kestää kauemmin)</translation>
     </message>
     <message>
