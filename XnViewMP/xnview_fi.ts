@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoitus</translation>
+        <translation>Kirjoita</translation>
     </message>
     <message>
         <source>Command line</source>
@@ -5556,7 +5556,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoitus</translation>
+        <translation>Kirjoita</translation>
     </message>
     <message>
         <source>Write all</source>
@@ -7989,11 +7989,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgReadWriteSettings</name>
     <message>
         <source>Read</source>
-        <translation>Luku</translation>
+        <translation>Lue</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoitus</translation>
+        <translation>Kirjoita</translation>
     </message>
     <message>
         <source>Format settings</source>
@@ -9248,11 +9248,11 @@ pienoiskuvina</translation>
     <name>DlgSettingsFormat</name>
     <message>
         <source>Read</source>
-        <translation>Luku</translation>
+        <translation>Lue</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoitus</translation>
+        <translation>Kirjoita</translation>
     </message>
     <message>
         <source>Select most used</source>
@@ -10222,11 +10222,11 @@ Haluatko määrittää uudelleen?</translation>
     <name>DlgSettingsKeywordsClass</name>
     <message>
         <source>Label</source>
-        <translation>Ikkuna</translation>
+        <translation>Merkintä</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoitus</translation>
+        <translation>Kirjoita</translation>
     </message>
     <message>
         <source>Create IPTC data</source>
@@ -11581,7 +11581,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Kirjoitus</translation>
+        <translation>Kirjoita</translation>
     </message>
     <message>
         <source>Current date &amp;&amp; time</source>
