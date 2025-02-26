@@ -1803,7 +1803,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="1736"/>
         <source>Stylize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">风格化</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1737"/>
@@ -1834,7 +1834,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">再次模糊</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -4173,7 +4173,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>放大</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -12159,7 +12159,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>主题</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="92"/>
@@ -12169,7 +12169,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="97"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">浅色</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
