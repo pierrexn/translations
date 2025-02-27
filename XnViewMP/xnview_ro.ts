@@ -9675,7 +9675,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Vă rugăm să porniți XnViewMP cu drepturi de administrator (doar prima dată).</translation>
+        <translation>Te rugăm să pornești XnViewMP cu drepturi de administrator (doar pentru prima dată).</translation>
     </message>
     <message>
         <source>User (System)</source>
@@ -10692,7 +10692,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Camera RAW, use</source>
-        <translation>Camera RAW, folosiți</translation>
+        <translation>Camera RAW, folosește</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10760,7 +10760,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Read one image ahead</source>
-        <translation>Citiți o imagine înainte</translation>
+        <translation>Citește o imagine înainte</translation>
     </message>
     <message>
         <source>Rule of thirds</source>
@@ -11172,7 +11172,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use timer</source>
-        <translation>Folosiți cronometrul</translation>
+        <translation>Folosește cronometrul</translation>
     </message>
     <message>
         <source>Background color</source>
@@ -11180,7 +11180,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use keyboard press or mouse click</source>
-        <translation>Folosiți apăsarea de la tastatură sau clic de mouse</translation>
+        <translation>Folosește apăsarea de la tastatură sau apăsarea de la mouse</translation>
     </message>
     <message>
         <source>Export Slideshow</source>
@@ -11417,7 +11417,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Fit width or height</source>
-        <translation>Potriviți lățimea sau înălțimea</translation>
+        <translation>Potrivește lățimea sau înălțimea</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11797,7 +11797,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
-        <translation>Fiți atenți, imaginile dvs. vor fi încărcate pe un server public!</translation>
+        <translation>Fii atent, imaginea/imaginile tale vor fi încărcate pe un server public!</translation>
     </message>
     <message>
         <source>Password</source>
@@ -12107,7 +12107,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rebuild embedded EXIF thumbnail</source>
-        <translation>Reconstruiți miniatura EXIF încorporată</translation>
+        <translation>Reconstruiește miniatura EXIF încorporată</translation>
     </message>
     <message>
         <source>Lowest</source>
@@ -12591,7 +12591,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumiți</translation>
+        <translation>Redenumire</translation>
     </message>
     <message>
         <source>Favorite doesn&apos;t exist</source>
@@ -12649,7 +12649,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Paste filenames</source>
-        <translation>Lipiți numele fișierelor</translation>
+        <translation>Lipește numele fișierelor</translation>
     </message>
 </context>
 <context>
@@ -12920,7 +12920,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Bit rate mode</source>
-        <translation>Mod rata de biți</translation>
+        <translation>Modul de rată de biți</translation>
     </message>
     <message>
         <source>Frame rate</source>
@@ -13211,7 +13211,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumiți</translation>
+        <translation>Redenumire</translation>
     </message>
     <message>
         <source>Move to...</source>
@@ -13262,7 +13262,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Assign Category</source>
-        <translation>Atribuiți o categorie</translation>
+        <translation>Atribuie o categorie</translation>
     </message>
     <message>
         <source>Do you want to clear orphaned categories?</source>
@@ -14257,7 +14257,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>This file uses a nonwritable format, so it&apos;s not possible to rotate it.</source>
-        <translation>Acest fișier folosește un format care nu se poate scrie, așa că nu este posibil să îl rotiți.</translation>
+        <translation>Acest fișier folosește un format care nu se poate scrie, așa că nu este posibil să îl rotești.</translation>
     </message>
     <message>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
@@ -14273,7 +14273,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
-        <translation>Acest fișier conține mai mult de o pagină/imagine, așa că nu este posibil să îl rotiți.</translation>
+        <translation>Acest fișier conține mai mult de o pagină/imagine, așa că nu este posibil să îl rotești.</translation>
     </message>
     <message>
         <source>Lossless Crop</source>
@@ -14852,19 +14852,19 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Find similar files...</source>
-        <translation>Găsiți fișiere similare...</translation>
+        <translation>Găsește fișiere similare...</translation>
     </message>
     <message>
         <source>Fit image to window width</source>
-        <translation>Potriviți imaginea la lățimea ferestrei</translation>
+        <translation>Potrivește imaginea la lățimea ferestrei</translation>
     </message>
     <message>
         <source>Rebuild thumbnails</source>
-        <translation>Reconstruiți miniaturile</translation>
+        <translation>Reconstruiește miniaturile</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Redenumiți...</translation>
+        <translation>Redenumire...</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -14916,7 +14916,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation>Achiziționează (TWAIN)</translation>
+        <translation>Obține (TWAIN)</translation>
     </message>
     <message>
         <source>Print size</source>
@@ -14936,7 +14936,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumiți</translation>
+        <translation>Redenumire</translation>
     </message>
     <message>
         <source>Open file list...</source>
@@ -14972,11 +14972,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Potriviți imaginea pe fereastră, numai mică</translation>
+        <translation>Potrivește imaginea pe fereastră, numai mică</translation>
     </message>
     <message>
         <source>Fit image to window height</source>
-        <translation>Potriviți imaginea la înălțimea ferestrei</translation>
+        <translation>Potrivește imaginea la înălțimea ferestrei</translation>
     </message>
     <message>
         <source>New image...</source>
@@ -15080,7 +15080,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit window to image</source>
-        <translation>Potriviți fereastra la imagine</translation>
+        <translation>Potrivește fereastra la imagine</translation>
     </message>
     <message>
         <source>Remove from all categories</source>
@@ -15160,7 +15160,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Potriviți imaginea pe fereastră, numai mare</translation>
+        <translation>Potrivește imaginea pe fereastră, numai mare</translation>
     </message>
     <message>
         <source>View as Icons</source>
@@ -15344,7 +15344,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window</source>
-        <translation>Potriviți imaginea pe fereastră</translation>
+        <translation>Potrivește imaginea pe fereastră</translation>
     </message>
     <message>
         <source>Selected path(s)</source>
@@ -15388,7 +15388,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Acquire into (TWAIN)...</source>
-        <translation>Achiziționează în (TWAIN)...</translation>
+        <translation>Obține în (TWAIN)...</translation>
     </message>
     <message>
         <source>Open all selected</source>
@@ -15444,7 +15444,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window width or height</source>
-        <translation>Potriviți imaginea la lățimea sau înălțimea ferestrei</translation>
+        <translation>Potrivește imaginea la lățimea sau înălțimea ferestrei</translation>
     </message>
     <message>
         <source>Next file</source>
@@ -15909,7 +15909,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Paste outside</source>
-        <translation>Lipiți afară</translation>
+        <translation>Lipește afară</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -15953,7 +15953,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>Rotiți pe baza câmpului de orientare EXIF</translation>
+        <translation>Rotește pe baza câmpului de orientare EXIF</translation>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
@@ -15989,7 +15989,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
-        <translation>Rotiți 180°</translation>
+        <translation>Rotește cu 180°</translation>
     </message>
     <message>
         <source>Use checkerboard pattern</source>
@@ -16033,11 +16033,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Restore selection</source>
-        <translation>Restabiliți selecția</translation>
+        <translation>Restabilește selecția</translation>
     </message>
     <message>
         <source>Fit image to window width</source>
-        <translation>Potriviți imaginea la lățimea ferestrei</translation>
+        <translation>Potrivește imaginea la lățimea ferestrei</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -16045,7 +16045,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Redenumiți...</translation>
+        <translation>Redenumire...</translation>
     </message>
     <message>
         <source>Set DPI...</source>
@@ -16069,7 +16069,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation>Achiziționează (TWAIN)</translation>
+        <translation>Obține (TWAIN)</translation>
     </message>
     <message>
         <source>Batch convert...</source>
@@ -16109,7 +16109,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Potriviți imaginea pe fereastră, numai mică</translation>
+        <translation>Potrivește imaginea pe fereastră, numai mică</translation>
     </message>
     <message>
         <source>Vignetting...</source>
@@ -16117,7 +16117,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window height</source>
-        <translation>Potriviți imaginea la înălțimea ferestrei</translation>
+        <translation>Potrivește imaginea la înălțimea ferestrei</translation>
     </message>
     <message>
         <source>New image...</source>
@@ -16213,7 +16213,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit window to image</source>
-        <translation>Potriviți fereastra la imagine</translation>
+        <translation>Potrivește fereastra la imagine</translation>
     </message>
     <message>
         <source>Send by FTP...</source>
@@ -16245,7 +16245,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Potriviți imaginea pe fereastră, numai mare</translation>
+        <translation>Potrivește imaginea pe fereastră, numai mare</translation>
     </message>
     <message>
         <source>Excellent</source>
@@ -16409,7 +16409,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window</source>
-        <translation>Potriviți imaginea pe fereastră</translation>
+        <translation>Potrivește imaginea la fereastră</translation>
     </message>
     <message>
         <source>Save selection...</source>
@@ -16425,7 +16425,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Acquire into (TWAIN)...</source>
-        <translation>Achiziționează în (TWAIN)...</translation>
+        <translation>Obține în (TWAIN)...</translation>
     </message>
     <message>
         <source>White Balance...</source>
@@ -16449,7 +16449,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window width or height</source>
-        <translation>Potriviți imaginea la lățimea sau înălțimea ferestrei</translation>
+        <translation>Potrivește imaginea la lățimea sau înălțimea ferestrei</translation>
     </message>
     <message>
         <source>Next file</source>
@@ -18070,7 +18070,7 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Bit rate</source>
-        <translation>Rată de biți</translation>
+        <translation>Rata de biți</translation>
     </message>
 </context>
 <context>
