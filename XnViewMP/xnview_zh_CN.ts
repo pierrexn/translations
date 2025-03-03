@@ -13485,7 +13485,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1167"/>
         <source>Label colors</source>
-        <translation type="unfinished"></translation>
+        <translation>标签颜色</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1173"/>
@@ -18336,7 +18336,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="160"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>主题编码</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="163"/>
@@ -19260,7 +19260,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="86"/>
         <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>无标记文件</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
@@ -23532,7 +23532,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ToolbarSearch.cpp" line="175"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
+        <translation>缩略图的标签</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="187"/>
