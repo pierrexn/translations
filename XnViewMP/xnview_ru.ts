@@ -4,133 +4,133 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="420"/>
+        <location filename="MyThumbSettings.cpp" line="425"/>
         <source>Uncolored</source>
         <translation>Без цветовой метки</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="426"/>
+        <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Important</source>
         <translation>Важное</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="426"/>
+        <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Red</source>
         <translation>Краcный</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="426"/>
+        <location filename="MyThumbSettings.cpp" line="431"/>
         <source>Select</source>
         <translation>Выделение</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="427"/>
+        <location filename="MyThumbSettings.cpp" line="432"/>
         <source>Work</source>
         <translation>Рабочее</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="427"/>
+        <location filename="MyThumbSettings.cpp" line="432"/>
         <source>Yellow</source>
         <translation>Желтый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="427"/>
+        <location filename="MyThumbSettings.cpp" line="432"/>
         <source>Second</source>
         <translatorcomment>Секунда?</translatorcomment>
         <translation>Вторичные</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="428"/>
+        <location filename="MyThumbSettings.cpp" line="433"/>
         <source>Personal</source>
         <translation>Личное</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="428"/>
+        <location filename="MyThumbSettings.cpp" line="433"/>
         <source>Green</source>
         <translation>Зеленый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="428"/>
+        <location filename="MyThumbSettings.cpp" line="433"/>
         <source>Approved</source>
         <translation>Утверждённые</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="429"/>
+        <location filename="MyThumbSettings.cpp" line="434"/>
         <source>To do</source>
         <translation>На обработку</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="429"/>
+        <location filename="MyThumbSettings.cpp" line="434"/>
         <source>Blue</source>
         <translation>Синий</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="429"/>
+        <location filename="MyThumbSettings.cpp" line="434"/>
         <source>Review</source>
         <translation>На рассмотрение</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="430"/>
+        <location filename="MyThumbSettings.cpp" line="435"/>
         <source>Later</source>
         <translation>На потом</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="430"/>
+        <location filename="MyThumbSettings.cpp" line="435"/>
         <source>Purple</source>
         <translation>Фиолетовый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="430"/>
+        <location filename="MyThumbSettings.cpp" line="435"/>
         <source>To Do</source>
         <translation>На обработку</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="431"/>
+        <location filename="MyThumbSettings.cpp" line="436"/>
         <source>Orange</source>
         <translation>Оранжевый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="432"/>
+        <location filename="MyThumbSettings.cpp" line="437"/>
         <source>Grey</source>
         <translation>Серый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="433"/>
+        <location filename="MyThumbSettings.cpp" line="438"/>
         <source>Black</source>
         <translation>Черный</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="434"/>
+        <location filename="MyThumbSettings.cpp" line="439"/>
         <source>White</source>
         <translation>Белый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="333"/>
+        <location filename="MyThumbSettings.cpp" line="334"/>
         <source>Unrated</source>
         <translation>Без рейтинга</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="334"/>
+        <location filename="MyThumbSettings.cpp" line="335"/>
         <source>Poor</source>
         <translation>Плохо</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="335"/>
+        <location filename="MyThumbSettings.cpp" line="336"/>
         <source>Fair</source>
         <translation>Неплохо</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="336"/>
+        <location filename="MyThumbSettings.cpp" line="337"/>
         <source>Average</source>
         <translation>Средне</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="337"/>
+        <location filename="MyThumbSettings.cpp" line="338"/>
         <source>Good</source>
         <translation>Хорошо</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="338"/>
+        <location filename="MyThumbSettings.cpp" line="339"/>
         <source>Excellent</source>
         <translation>Отлично</translation>
     </message>
@@ -228,27 +228,27 @@
         <translation>Изменения</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="228"/>
+        <location filename="AboutWidget.cpp" line="234"/>
         <source>Format</source>
         <translation>Формат</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="228"/>
+        <location filename="AboutWidget.cpp" line="234"/>
         <source>Read</source>
         <translation>Чтение</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="228"/>
+        <location filename="AboutWidget.cpp" line="234"/>
         <source>Write</source>
         <translation>Запись</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="228"/>
+        <location filename="AboutWidget.cpp" line="234"/>
         <source>Extension</source>
         <translation>Расширение</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="271"/>
+        <location filename="AboutWidget.cpp" line="277"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Чтение форматов: %1 | Запись форматов: %2</translation>
     </message>
@@ -279,63 +279,63 @@
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1421"/>
+        <location filename="ViewWindow.cpp" line="1422"/>
         <source>Frame %1/%2</source>
         <translation>Кадр %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1424"/>
+        <location filename="ViewWindow.cpp" line="1425"/>
         <source>Icon %1/%2</source>
         <translation>Значок %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1426"/>
+        <location filename="ViewWindow.cpp" line="1427"/>
         <source>Page %1/%2</source>
         <translation>Страница %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1590"/>
-        <location filename="ViewWindow.cpp" line="1609"/>
+        <location filename="ViewWindow.cpp" line="1593"/>
+        <location filename="ViewWindow.cpp" line="1612"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Пусто &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2961"/>
+        <location filename="ViewWindow.cpp" line="2980"/>
         <source>Confirm Save</source>
         <translation>Подтверждение сохранения</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; уже существует!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>Do you want to overwrite it?</source>
         <translation>Вы хотите его перезаписать?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2986"/>
-        <location filename="ViewWindow.cpp" line="3117"/>
-        <location filename="ViewWindow.cpp" line="3167"/>
+        <location filename="ViewWindow.cpp" line="3005"/>
+        <location filename="ViewWindow.cpp" line="3136"/>
+        <location filename="ViewWindow.cpp" line="3186"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translatorcomment>Правильный падеж?</translatorcomment>
         <translation>Сохранение изображения...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2988"/>
-        <location filename="ViewWindow.cpp" line="3169"/>
+        <location filename="ViewWindow.cpp" line="3007"/>
+        <location filename="ViewWindow.cpp" line="3188"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4394"/>
+        <location filename="ViewWindow.cpp" line="4413"/>
         <source>Colors count</source>
         <translation>Количество цветов</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1999"/>
+        <location filename="ViewWindow.cpp" line="2014"/>
         <source>Customize toolbar...</source>
         <translation>Настроить панель инструментов...</translation>
     </message>
@@ -360,64 +360,64 @@
         <translation>Больше не спрашивать</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2271"/>
-        <location filename="ViewWindow.cpp" line="2277"/>
-        <location filename="ViewWindow.cpp" line="2281"/>
+        <location filename="ViewWindow.cpp" line="2286"/>
+        <location filename="ViewWindow.cpp" line="2292"/>
+        <location filename="ViewWindow.cpp" line="2296"/>
         <source>Delete items</source>
         <translation>Удаление элементов</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2271"/>
+        <location filename="ViewWindow.cpp" line="2286"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Вы действительно хотите отменить изменения и удалить 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2277"/>
+        <location filename="ViewWindow.cpp" line="2292"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Вы действительно хотите удалить 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2281"/>
+        <location filename="ViewWindow.cpp" line="2296"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Вы действительно хотите удалить 
 &quot;%1&quot; (%2 объект(ов))?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2943"/>
-        <location filename="ViewWindow.cpp" line="2953"/>
+        <location filename="ViewWindow.cpp" line="2962"/>
+        <location filename="ViewWindow.cpp" line="2972"/>
         <source>Save</source>
         <translatorcomment>Используется пи вылезании второго диалого, когда не возможно сохранить файл</translatorcomment>
         <translation>Сохранение</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2943"/>
+        <location filename="ViewWindow.cpp" line="2962"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Изображение будет преобразовано в 24-битный RGB (8 бит на канал)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2953"/>
+        <location filename="ViewWindow.cpp" line="2972"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Файл &lt;%1&gt; доступен только для чтения.
 Попробуйте сохранить файл под другим именем.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2988"/>
-        <location filename="ViewWindow.cpp" line="3169"/>
+        <location filename="ViewWindow.cpp" line="3007"/>
+        <location filename="ViewWindow.cpp" line="3188"/>
         <source>An error occurred during saving!</source>
         <translation>Произошла ошибка при сохранении!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3258"/>
+        <location filename="ViewWindow.cpp" line="3277"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4394"/>
+        <location filename="ViewWindow.cpp" line="4413"/>
         <source>Number of unique colors: %1</source>
         <translation>Количество уникальных цветов: %1</translation>
     </message>
@@ -477,28 +477,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4878"/>
+        <location filename="ViewWindow.cpp" line="4897"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4869"/>
-        <location filename="ViewWindow.cpp" line="4878"/>
+        <location filename="ViewWindow.cpp" line="4888"/>
+        <location filename="ViewWindow.cpp" line="4897"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Не удалось загрузить файл!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4869"/>
+        <location filename="ViewWindow.cpp" line="4888"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4870"/>
+        <location filename="ViewWindow.cpp" line="4889"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Для получения более подробной информации, пожалуйста, посетите %1.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4882"/>
+        <location filename="ViewWindow.cpp" line="4901"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Пусто &gt;</translation>
     </message>
@@ -552,74 +552,74 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="663"/>
+        <location filename="BrowserWindow.cpp" line="666"/>
         <source>Customize toolbar...</source>
         <translation>Настроить панель инструментов...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1640"/>
+        <location filename="BrowserWindow.cpp" line="1643"/>
         <source>Add Favorite...</source>
         <translation>Добавить в избранное...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1871"/>
+        <location filename="BrowserWindow.cpp" line="1874"/>
         <source>Folders</source>
         <translation>Папки</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1875"/>
+        <location filename="BrowserWindow.cpp" line="1878"/>
         <source>Favorites</source>
         <translation>Избранное</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1889"/>
+        <location filename="BrowserWindow.cpp" line="1892"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1927"/>
+        <location filename="BrowserWindow.cpp" line="1930"/>
         <source>Info</source>
         <translation>Информация</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="667"/>
+        <location filename="BrowserWindow.cpp" line="670"/>
         <source>Detach preview panel</source>
         <translation>Открепить область предпросмотра</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="669"/>
+        <location filename="BrowserWindow.cpp" line="672"/>
         <source>Attach preview panel</source>
         <translation>Прикрепить область предпросмотра</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="901"/>
+        <location filename="BrowserWindow.cpp" line="904"/>
         <source>The database is corrupted, please check it before to continue!</source>
         <translation>База данных повреждена, пожалуйста, проверьте данные перед продолжением!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1632"/>
+        <location filename="BrowserWindow.cpp" line="1635"/>
         <source>Add to Favorites</source>
         <translation>Добавить в избранное</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1879"/>
+        <location filename="BrowserWindow.cpp" line="1882"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Фильтр Каталога</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1894"/>
+        <location filename="BrowserWindow.cpp" line="1897"/>
         <source>Category Sets</source>
         <translation>Наборы категорий</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2105"/>
+        <location filename="BrowserWindow.cpp" line="2108"/>
         <source>Match</source>
         <translatorcomment>Еще раз проверить?</translatorcomment>
         <translation>Соответствовать</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2115"/>
+        <location filename="BrowserWindow.cpp" line="2118"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -628,43 +628,43 @@ Drag and Drop over the desired node to assign.</source>
 Перетащите объект на необходимый узел для присвоения категории.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2138"/>
+        <location filename="BrowserWindow.cpp" line="2141"/>
         <source>Global</source>
         <translation>Везде</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2145"/>
+        <location filename="BrowserWindow.cpp" line="2148"/>
         <source>Current folder</source>
         <translation>Текущая папка</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2152"/>
+        <location filename="BrowserWindow.cpp" line="2155"/>
         <source>Current folder (Recursive)</source>
         <translation>Текущая папка (включая вложенные)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3220"/>
+        <location filename="BrowserWindow.cpp" line="3223"/>
         <source>&lt;Search results&gt;</source>
         <translatorcomment>Результат поиска</translatorcomment>
         <translation>&lt;Результат поиска&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3222"/>
+        <location filename="BrowserWindow.cpp" line="3225"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Отмеченные файлы&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3311"/>
+        <location filename="BrowserWindow.cpp" line="3314"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Папка не найдена!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3531"/>
+        <location filename="BrowserWindow.cpp" line="3534"/>
         <source>Favorite name:</source>
         <translation>Имя для избранного:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3775"/>
+        <location filename="BrowserWindow.cpp" line="3778"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Вы действительно хотите удалить %n объект?</numerusform>
@@ -673,53 +673,53 @@ Drag and Drop over the desired node to assign.</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3860"/>
+        <location filename="BrowserWindow.cpp" line="3863"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Файл не может быть переименован, возникла ошибка.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3311"/>
-        <location filename="BrowserWindow.cpp" line="3860"/>
+        <location filename="BrowserWindow.cpp" line="3314"/>
+        <location filename="BrowserWindow.cpp" line="3863"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1935"/>
+        <location filename="BrowserWindow.cpp" line="1938"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1944"/>
+        <location filename="BrowserWindow.cpp" line="1947"/>
         <source>Histogram</source>
         <translation>Гистограмма</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2121"/>
+        <location filename="BrowserWindow.cpp" line="2124"/>
         <source>Match any selected entry (OR)</source>
         <translation>Совпадение с любой из выбранных записей (ИЛИ)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2127"/>
+        <location filename="BrowserWindow.cpp" line="2130"/>
         <source>Match all selected entries (AND)</source>
         <translation>Совпадение со всеми выбранными записями (И)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3224"/>
+        <location filename="BrowserWindow.cpp" line="3227"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Результат фильтрации каталога&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3226"/>
+        <location filename="BrowserWindow.cpp" line="3229"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;файлы&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3768"/>
+        <location filename="BrowserWindow.cpp" line="3771"/>
         <source>Delete items &amp; companions</source>
         <translation>Удаление элементов и сопутствующих файлов</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3769"/>
+        <location filename="BrowserWindow.cpp" line="3772"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Вы действительно хотите удалить %n объект - %1 объект выделен?</numerusform>
@@ -728,57 +728,57 @@ Drag and Drop over the desired node to assign.</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4224"/>
+        <location filename="BrowserWindow.cpp" line="4227"/>
         <source>Search...</source>
         <translation>Поиск...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4225"/>
+        <location filename="BrowserWindow.cpp" line="4228"/>
         <source>Add to favorites...</source>
         <translation>Добавить в избранное...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4228"/>
+        <location filename="BrowserWindow.cpp" line="4231"/>
         <source>Start slideshow</source>
         <translation>Запустить слайд-шоу</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4233"/>
+        <location filename="BrowserWindow.cpp" line="4236"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4342"/>
+        <location filename="BrowserWindow.cpp" line="4345"/>
         <source>Load filelist</source>
         <translation>Открыть список файлов</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3774"/>
+        <location filename="BrowserWindow.cpp" line="3777"/>
         <source>Delete items</source>
         <translation>Удаление элементов</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4222"/>
+        <location filename="BrowserWindow.cpp" line="4225"/>
         <source>Show files in subfolders</source>
         <translation>Показать файлы из подпапок</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4230"/>
+        <location filename="BrowserWindow.cpp" line="4233"/>
         <source>Explorer</source>
         <translation>Открыть в проводнике</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4265"/>
+        <location filename="BrowserWindow.cpp" line="4268"/>
         <source>Delete folder</source>
         <translation>Удаление папки</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4265"/>
+        <location filename="BrowserWindow.cpp" line="4268"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Вы действительно хотите удалить эту папку?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="615"/>
+        <location filename="BrowserWindow.cpp" line="618"/>
         <source>Browser</source>
         <translation>Обозреватель</translation>
     </message>
@@ -795,7 +795,7 @@ Drag and Drop over the desired node to assign.</source>
     <name>CategoryManager</name>
     <message>
         <location filename="CategoryManager.cpp" line="203"/>
-        <location filename="CategoryManager.cpp" line="385"/>
+        <location filename="CategoryManager.cpp" line="389"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
@@ -1182,14 +1182,14 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Изменение глубины цвета</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1728"/>
+        <location filename="DlgConvert.cpp" line="1730"/>
         <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation>Коррекция</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="516"/>
-        <location filename="DlgAutoCrop.h" line="107"/>
+        <location filename="DlgAutoCrop.h" line="89"/>
         <source>Automatic crop</source>
         <translation>Автообрезка</translation>
     </message>
@@ -1234,24 +1234,24 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Изменение размера</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2069"/>
+        <location filename="DlgConvertProcess.h" line="2078"/>
         <source>Rotate</source>
         <translation>Вращение</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2399"/>
+        <location filename="DlgConvertProcess.h" line="2408"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
         <translation>Изменение DPI</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2438"/>
+        <location filename="DlgConvertProcess.h" line="2447"/>
         <source>Extract channel</source>
         <translation>Извлечение канала</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="397"/>
-        <location filename="DlgLevels.h" line="47"/>
+        <location filename="DlgLevels.h" line="46"/>
         <source>Levels</source>
         <translation>Уровни</translation>
     </message>
@@ -1262,263 +1262,263 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Кривые</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4686"/>
-        <location filename="DlgWhiteBalance.h" line="88"/>
+        <location filename="DlgConvertProcess.h" line="4695"/>
+        <location filename="DlgWhiteBalance.h" line="68"/>
         <source>White Balance</source>
         <translation>Баланс белого</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2462"/>
+        <location filename="DlgConvertProcess.h" line="2471"/>
         <source>Black/White Points</source>
         <translation>Черно-белые точки</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2483"/>
+        <location filename="DlgConvertProcess.h" line="2492"/>
         <source>Mirror</source>
         <translation>Отражение</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2507"/>
+        <location filename="DlgConvertProcess.h" line="2516"/>
         <source>Replace color</source>
         <translation>Замена цвета</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2539"/>
+        <location filename="DlgConvertProcess.h" line="2548"/>
         <source>Transparent color</source>
         <translation>Прозрачный цвет</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2586"/>
+        <location filename="DlgConvertProcess.h" line="2595"/>
         <source>Aspect Pad</source>
         <translation>Пропорции</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2645"/>
+        <location filename="DlgConvertProcess.h" line="2654"/>
         <source>Color balance</source>
         <translation>Цветовой баланс</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2671"/>
+        <location filename="DlgConvertProcess.h" line="2680"/>
         <source>HLS</source>
         <translation>HLS</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2746"/>
-        <location filename="DlgShadowHighlight.h" line="88"/>
+        <location filename="DlgConvertProcess.h" line="2755"/>
+        <location filename="DlgShadowHighlight.h" line="69"/>
         <source>Shadow-Highlight</source>
         <translation>Затенение/Осветление</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2768"/>
+        <location filename="DlgConvertProcess.h" line="2777"/>
         <source>Add noise</source>
         <translation>Добавление шума</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2844"/>
+        <location filename="DlgConvertProcess.h" line="2853"/>
         <source>Edge detect</source>
         <translation>Выделение границ</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2911"/>
+        <location filename="DlgConvertProcess.h" line="2920"/>
         <source>De-interlace</source>
         <translation>Деинтерлейсинг</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3243"/>
+        <location filename="DlgConvertProcess.h" line="3252"/>
         <source>Blurred frame</source>
         <translation>Рамка размытая</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3494"/>
+        <location filename="DlgConvertProcess.h" line="3503"/>
         <source>Inner Frame</source>
         <translation>Рамка внутренняя</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3848"/>
+        <location filename="DlgConvertProcess.h" line="3857"/>
         <source>JPEG Lossless rotation</source>
         <translation>Вращение JPEG без потерь</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4259"/>
+        <location filename="DlgConvertProcess.h" line="4268"/>
         <source>Retro</source>
         <translation>Ретро</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4488"/>
+        <location filename="DlgConvertProcess.h" line="4497"/>
         <source>Film Simulation</source>
         <translation>Имитация плёнки</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4528"/>
+        <location filename="DlgConvertProcess.h" line="4537"/>
         <source>Bloom</source>
         <translation>Свечение</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4552"/>
+        <location filename="DlgConvertProcess.h" line="4561"/>
         <source>Unsharp Mask</source>
         <translation>Нерезкая маска</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4584"/>
+        <location filename="DlgConvertProcess.h" line="4593"/>
         <source>Clear transparent pixels</source>
         <translation>Удалить прозрачные пиксели</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4598"/>
+        <location filename="DlgConvertProcess.h" line="4607"/>
         <source>Remove alpha channel</source>
         <translation>Удалить альфа-канал</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4612"/>
-        <location filename="DlgOffset.h" line="100"/>
+        <location filename="DlgConvertProcess.h" line="4621"/>
+        <location filename="DlgOffset.h" line="108"/>
         <source>Offset</source>
         <translation>Смещение</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4638"/>
+        <location filename="DlgConvertProcess.h" line="4647"/>
         <source>Symmetry</source>
         <translation>Симметрия</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4659"/>
+        <location filename="DlgConvertProcess.h" line="4668"/>
         <source>Saturation</source>
         <translation>Насыщенность</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4702"/>
+        <location filename="DlgConvertProcess.h" line="4711"/>
         <source>Mono Mixer</source>
         <translation>Мономиксер</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4727"/>
+        <location filename="DlgConvertProcess.h" line="4736"/>
         <source>Fantasy</source>
         <translation>Фантазия</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4747"/>
+        <location filename="DlgConvertProcess.h" line="4756"/>
         <source>Crystallize</source>
         <translation>Кристаллизация</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4765"/>
+        <location filename="DlgConvertProcess.h" line="4774"/>
         <source>Temperature</source>
         <translation>Цветовая температура</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4782"/>
+        <location filename="DlgConvertProcess.h" line="4791"/>
         <source>Photo Spread</source>
         <translatorcomment>Глупо, но как еще?</translatorcomment>
         <translation>Фоторазложение</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4809"/>
+        <location filename="DlgConvertProcess.h" line="4818"/>
         <source>Frequency</source>
         <translation>Частота</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4814"/>
+        <location filename="DlgConvertProcess.h" line="4823"/>
         <source>Halftone</source>
         <translation>Полутон</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4948"/>
+        <location filename="DlgConvertProcess.h" line="4957"/>
         <source>QR Code</source>
         <translation>QR-код</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2933"/>
-        <location filename="Dlg1SliderPanel.h" line="82"/>
+        <location filename="DlgConvertProcess.h" line="2942"/>
+        <location filename="Dlg1SliderPanel.h" line="81"/>
         <source>Posterize</source>
         <translation>Постеризация</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2711"/>
+        <location filename="DlgConvertProcess.h" line="2720"/>
         <source>Swap color</source>
         <translation>Поменять местами цвета</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2953"/>
+        <location filename="DlgConvertProcess.h" line="2962"/>
         <source>Border 3D</source>
         <translation>Рамка 3D</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2980"/>
+        <location filename="DlgConvertProcess.h" line="2989"/>
         <source>Waves</source>
         <translation>Волны</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2985"/>
+        <location filename="DlgConvertProcess.h" line="2994"/>
         <source>Length</source>
         <translatorcomment>??</translatorcomment>
         <translation>Длина</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2986"/>
+        <location filename="DlgConvertProcess.h" line="2995"/>
         <source>Phase</source>
         <translation>Фаза</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2987"/>
+        <location filename="DlgConvertProcess.h" line="2996"/>
         <source>Amount</source>
         <translatorcomment>Значение?</translatorcomment>
         <translation>Амплитуда</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3029"/>
+        <location filename="DlgConvertProcess.h" line="3038"/>
         <source>Normalize Ex</source>
         <translation>Нормализация Ex</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3034"/>
-        <location filename="DlgConvertProcess.h" line="3092"/>
+        <location filename="DlgConvertProcess.h" line="3043"/>
+        <location filename="DlgConvertProcess.h" line="3101"/>
         <source>Black limit %</source>
         <translation>Предел чёрного %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3035"/>
-        <location filename="DlgConvertProcess.h" line="3093"/>
+        <location filename="DlgConvertProcess.h" line="3044"/>
+        <location filename="DlgConvertProcess.h" line="3102"/>
         <source>White limit %</source>
         <translation>Предел белого %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3036"/>
+        <location filename="DlgConvertProcess.h" line="3045"/>
         <source>Expansion limit</source>
         <translation>Предел расширения</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3087"/>
+        <location filename="DlgConvertProcess.h" line="3096"/>
         <source>Align histogram</source>
         <translation>Выравнивание гистограммы</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3094"/>
+        <location filename="DlgConvertProcess.h" line="3103"/>
         <source>Align %</source>
         <translation>Выравнивание %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3158"/>
+        <location filename="DlgConvertProcess.h" line="3167"/>
         <source>ICC convert</source>
         <translation>Преобразование ICC</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3300"/>
+        <location filename="DlgConvertProcess.h" line="3309"/>
         <source>Border</source>
         <translation>Рамка</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3540"/>
-        <location filename="DlgOldCamera.h" line="99"/>
+        <location filename="DlgConvertProcess.h" line="3549"/>
+        <location filename="DlgOldCamera.h" line="86"/>
         <source>Old camera</source>
         <translation>Старая камера</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3561"/>
-        <location filename="DlgVignetting.h" line="108"/>
+        <location filename="DlgConvertProcess.h" line="3570"/>
+        <location filename="DlgVignetting.h" line="94"/>
         <source>Vignetting</source>
         <translation>Виньетирование</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3740"/>
+        <location filename="DlgConvertProcess.h" line="3749"/>
         <source>Add mask</source>
         <translation>Добавление маски</translation>
     </message>
@@ -1600,13 +1600,13 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="216"/>
-        <location filename="Dlg1SliderPanel.h" line="93"/>
+        <location filename="Dlg1SliderPanel.h" line="92"/>
         <source>Sepia</source>
         <translation>Сепия</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="217"/>
-        <location filename="Dlg1SliderPanel.h" line="73"/>
+        <location filename="Dlg1SliderPanel.h" line="72"/>
         <source>Solarize</source>
         <translation>Соляризация</translation>
     </message>
@@ -1659,7 +1659,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="242"/>
-        <location filename="DlgConvert.cpp" line="1729"/>
+        <location filename="DlgConvert.cpp" line="1731"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Blur</source>
         <translation>Размытие</translation>
@@ -1780,58 +1780,58 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Покрытие точками</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1727"/>
+        <location filename="DlgConvert.cpp" line="1729"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1730"/>
+        <location filename="DlgConvert.cpp" line="1732"/>
         <source>Channel</source>
         <translation>Каналы</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1731"/>
+        <location filename="DlgConvert.cpp" line="1733"/>
         <source>Enhance</source>
         <translation>Улучшить</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1732"/>
+        <location filename="DlgConvert.cpp" line="1734"/>
         <source>Frame</source>
         <translation>Рамка</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1733"/>
+        <location filename="DlgConvert.cpp" line="1735"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1734"/>
+        <location filename="DlgConvert.cpp" line="1736"/>
         <source>Noise</source>
         <translation>Шум</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1735"/>
+        <location filename="DlgConvert.cpp" line="1737"/>
         <source>Pixelate</source>
         <translation>Пикселизация</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1736"/>
+        <location filename="DlgConvert.cpp" line="1738"/>
         <source>Stylize</source>
         <translation>Стилизация</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1737"/>
+        <location filename="DlgConvert.cpp" line="1739"/>
         <source>Transform</source>
         <translation>Преобразовать</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1738"/>
+        <location filename="DlgConvert.cpp" line="1740"/>
         <source>Video</source>
         <translation>Видео</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2767"/>
+        <location filename="DlgConvert.cpp" line="2769"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 - %2% - %3</translation>
     </message>
@@ -1859,8 +1859,8 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>ConvertThread</name>
     <message>
-        <location filename="ConvertThread.cpp" line="777"/>
-        <location filename="ConvertThread.cpp" line="1254"/>
+        <location filename="ConvertThread.cpp" line="773"/>
+        <location filename="ConvertThread.cpp" line="1247"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
         <translation>Предупреждение: Изображение будет преобразовано в 24-битный RGB (8 бит на канал)</translation>
@@ -1886,7 +1886,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="CategoryManager.cpp" line="151"/>
         <location filename="MyDB.cpp" line="729"/>
         <location filename="MyDB.cpp" line="1648"/>
-        <location filename="MyDB.cpp" line="2877"/>
+        <location filename="MyDB.cpp" line="2883"/>
         <source>Other</source>
         <translation>Прочее</translation>
     </message>
@@ -3588,29 +3588,29 @@ Do you want to overwrite it?</oldsource>
 <context>
     <name>DlgConvert</name>
     <message>
-        <location filename="DlgConvert.cpp" line="751"/>
+        <location filename="DlgConvert.cpp" line="753"/>
         <source>_result</source>
         <translation>_result</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1160"/>
+        <location filename="DlgConvert.cpp" line="1162"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;XnConvert бесплатна только для персонального некоммерческого или образовательного использования, включая не профильные организации (т.e. школы, университеты, государственные органы, полиция, пожарные части и больницы).&lt;br&gt;Для коммерческого использования и распространения необходимо зарегистрироваться.&lt;br&gt;&lt;br&gt;Вы имеете право использовать и делать неограниченное количество копий данного приложения.&lt;br&gt;&lt;br&gt;Приложение предоставляется на условиях «как есть».&lt;br&gt;Автор не предоставляет и не подразумевает каких-либо гарантий.&lt;br&gt;Автор не несет ответственности за потерю данных, убытки, потерю прибыли или любой другой вид убытков при использовании или невозможности использования этого приложения.&lt;br&gt;&lt;br&gt;Приветствуются любые предложения, пожелания и комментарии. </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1310"/>
+        <location filename="DlgConvert.cpp" line="1312"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
         <translation>Перезапустите приложение.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1332"/>
+        <location filename="DlgConvert.cpp" line="1334"/>
         <source>New version</source>
         <translation>Новая версия</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1333"/>
+        <location filename="DlgConvert.cpp" line="1335"/>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
@@ -3620,33 +3620,33 @@ Do you want to go on the download page?</source>
 Вы хотите перейти на страницу загрузки?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1636"/>
+        <location filename="DlgConvert.cpp" line="1638"/>
         <source>Export script</source>
         <translation>Экспортировать скрипт</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1642"/>
+        <location filename="DlgConvert.cpp" line="1644"/>
         <source>Would you like to export filenames, too?</source>
         <translation>Вы также хотите экспортировать имена файлов?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1965"/>
+        <location filename="DlgConvert.cpp" line="1967"/>
         <source>Load script</source>
         <translation>Загрузить сценарий</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1979"/>
+        <location filename="DlgConvert.cpp" line="1981"/>
         <source>Save script</source>
         <translation>Сохранить сценарий</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2105"/>
-        <location filename="DlgConvert.cpp" line="2109"/>
+        <location filename="DlgConvert.cpp" line="2107"/>
+        <location filename="DlgConvert.cpp" line="2111"/>
         <source>Parameters</source>
         <translation>Параметры</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2154"/>
+        <location filename="DlgConvert.cpp" line="2156"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Входные данные: %n файл</numerusform>
@@ -3655,37 +3655,37 @@ Do you want to go on the download page?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2184"/>
+        <location filename="DlgConvert.cpp" line="2186"/>
         <source>Choose a directory</source>
         <translation>Выберите папку</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2223"/>
+        <location filename="DlgConvert.cpp" line="2225"/>
         <source>Choose ZIP filename</source>
         <translation>Выберите имя ZIP-файла</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2308"/>
+        <location filename="DlgConvert.cpp" line="2310"/>
         <source>Cancel batch processing</source>
         <translation>Отмена пакетной обработки</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2308"/>
+        <location filename="DlgConvert.cpp" line="2310"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>Вы действительно хотите отменить текущую пакетную обработку?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2360"/>
+        <location filename="DlgConvert.cpp" line="2362"/>
         <source>Loading error(s):</source>
         <translation>Ошибка(и) загрузки:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2368"/>
+        <location filename="DlgConvert.cpp" line="2370"/>
         <source>Saving error(s):</source>
         <translation>Ошибка(и) сохранения:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2404"/>
+        <location filename="DlgConvert.cpp" line="2406"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n секунда</numerusform>
@@ -3694,8 +3694,8 @@ Do you want to go on the download page?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2407"/>
-        <location filename="DlgConvert.cpp" line="2411"/>
+        <location filename="DlgConvert.cpp" line="2409"/>
+        <location filename="DlgConvert.cpp" line="2413"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n минута</numerusform>
@@ -3704,12 +3704,12 @@ Do you want to go on the download page?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2441"/>
+        <location filename="DlgConvert.cpp" line="2443"/>
         <source>Overwrite</source>
         <translation>Перезаписать</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2442"/>
+        <location filename="DlgConvert.cpp" line="2444"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3719,28 +3719,28 @@ Do you want to overwrite it?</source>
 Вы хотите его перезаписать?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2451"/>
+        <location filename="DlgConvert.cpp" line="2453"/>
         <source>Saving ZIP file...</source>
         <translation>Сохранение ZIP-файла...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2454"/>
+        <location filename="DlgConvert.cpp" line="2456"/>
         <source>: saved</source>
         <translation>:файл сохранён</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2480"/>
+        <location filename="DlgConvert.cpp" line="2482"/>
         <source>Uploading image(s) to server...</source>
         <translation>Загрузить рисунок на сервер...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2543"/>
         <location filename="DlgConvert.cpp" line="2545"/>
+        <location filename="DlgConvert.cpp" line="2547"/>
         <source>[Finished]</source>
         <translation>[Завершено]</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2752"/>
+        <location filename="DlgConvert.cpp" line="2754"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n секунда</numerusform>
@@ -3749,8 +3749,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2755"/>
-        <location filename="DlgConvert.cpp" line="2759"/>
+        <location filename="DlgConvert.cpp" line="2757"/>
+        <location filename="DlgConvert.cpp" line="2761"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n минута</numerusform>
@@ -3759,8 +3759,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2411"/>
-        <location filename="DlgConvert.cpp" line="2759"/>
+        <location filename="DlgConvert.cpp" line="2413"/>
+        <location filename="DlgConvert.cpp" line="2761"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n час и </numerusform>
@@ -3769,7 +3769,7 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2791"/>
+        <location filename="DlgConvert.cpp" line="2793"/>
         <source>Output filename</source>
         <translation>Имя на выходе</translation>
     </message>
@@ -3779,161 +3779,161 @@ Do you want to overwrite it?</source>
         <translation>Как исходный</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="581"/>
+        <location filename="DlgConvert.cpp" line="583"/>
         <source>Convert with XnConvert</source>
         <translation>Преобразовать в XnConvert</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="616"/>
+        <location filename="DlgConvert.cpp" line="618"/>
         <source>Save log as...</source>
         <translation>Сохранить журнал как...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="622"/>
+        <location filename="DlgConvert.cpp" line="624"/>
         <source>Export log</source>
         <translation>Экспорт журнала</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1467"/>
-        <location filename="DlgConvert.cpp" line="1476"/>
+        <location filename="DlgConvert.cpp" line="1469"/>
+        <location filename="DlgConvert.cpp" line="1478"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1591"/>
+        <location filename="DlgConvert.cpp" line="1593"/>
         <source>Load image...</source>
         <translation>Загрузить изображение...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1597"/>
+        <location filename="DlgConvert.cpp" line="1599"/>
         <source>Remove file from filelist</source>
         <translation>Удалить файл из списка</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1604"/>
+        <location filename="DlgConvert.cpp" line="1606"/>
         <source>Use image from input files</source>
         <translation>Использовать изображение из входных данных</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2379"/>
+        <location filename="DlgConvert.cpp" line="2381"/>
         <source>Input files:</source>
         <translation>Входных файлов:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2380"/>
+        <location filename="DlgConvert.cpp" line="2382"/>
         <source>Extracted pages:</source>
         <translation>Извлечено страниц:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2383"/>
+        <location filename="DlgConvert.cpp" line="2385"/>
         <source>New files:</source>
         <translation>Новых файлов:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2385"/>
+        <location filename="DlgConvert.cpp" line="2387"/>
         <source>Overwritten:</source>
         <translation>Перезаписано:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2387"/>
+        <location filename="DlgConvert.cpp" line="2389"/>
         <source>Skipped:</source>
         <translation>Пропущено:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2391"/>
+        <location filename="DlgConvert.cpp" line="2393"/>
         <source>Total input file size:</source>
         <translation>Общий размер входных файлов:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2392"/>
+        <location filename="DlgConvert.cpp" line="2394"/>
         <source>Total output file size:</source>
         <translation>Общий размер выходных файлов:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2394"/>
+        <location filename="DlgConvert.cpp" line="2396"/>
         <source>File size ratio:</source>
         <translation>Соотношение размера файлов:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2398"/>
+        <location filename="DlgConvert.cpp" line="2400"/>
         <source>Total Duration:</source>
         <translation>Общая продолжительность:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2557"/>
+        <location filename="DlgConvert.cpp" line="2559"/>
         <source>Finished at: </source>
         <translation>Завершилось: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2588"/>
+        <location filename="DlgConvert.cpp" line="2590"/>
         <source>uploaded</source>
         <translatorcomment>Проверить падеж</translatorcomment>
         <translation>файл загружен</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2596"/>
+        <location filename="DlgConvert.cpp" line="2598"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation>файл не является изображением</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2599"/>
+        <location filename="DlgConvert.cpp" line="2601"/>
         <source>open error</source>
         <translation>ошибка при открытии</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2602"/>
+        <location filename="DlgConvert.cpp" line="2604"/>
         <source>create error</source>
         <translation>ошибка при создании</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2605"/>
+        <location filename="DlgConvert.cpp" line="2607"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>файл имеет атрибут &quot;только для чтения&quot; и не может быть перезаписан!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2608"/>
+        <location filename="DlgConvert.cpp" line="2610"/>
         <source>skipped, file already exists!</source>
         <translation>пропущено, файл уже существует!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2610"/>
+        <location filename="DlgConvert.cpp" line="2612"/>
         <source>failed</source>
         <translation>неудачно</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2616"/>
+        <location filename="DlgConvert.cpp" line="2618"/>
         <source>loading</source>
         <translation>загрузка</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2634"/>
+        <location filename="DlgConvert.cpp" line="2636"/>
         <source>loaded</source>
         <translation>загружено</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2668"/>
+        <location filename="DlgConvert.cpp" line="2670"/>
         <source>copied</source>
         <translation>скопировано</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2672"/>
+        <location filename="DlgConvert.cpp" line="2674"/>
         <source>saved</source>
         <translation>сохранено</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2686"/>
+        <location filename="DlgConvert.cpp" line="2688"/>
         <source>%1 of %2 files</source>
         <translation>%1 из %2 файлов</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2717"/>
+        <location filename="DlgConvert.cpp" line="2719"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Перезапись файла</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2718"/>
+        <location filename="DlgConvert.cpp" line="2720"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3946,33 +3946,33 @@ Do you want to overwrite it?</oldsource>
 Вы хотите его перезаписать?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2720"/>
+        <location filename="DlgConvert.cpp" line="2722"/>
         <source>Yes to &amp;all</source>
         <translatorcomment>Проверить</translatorcomment>
         <translation>Да для всех</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2721"/>
+        <location filename="DlgConvert.cpp" line="2723"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2722"/>
+        <location filename="DlgConvert.cpp" line="2724"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2723"/>
+        <location filename="DlgConvert.cpp" line="2725"/>
         <source>&amp;Rename</source>
         <translation>&amp;Переименовать</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2724"/>
+        <location filename="DlgConvert.cpp" line="2726"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Отмена</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2781"/>
+        <location filename="DlgConvert.cpp" line="2783"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3981,7 +3981,7 @@ Do you want to continue?</source>
 Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2791"/>
+        <location filename="DlgConvert.cpp" line="2793"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
@@ -3990,12 +3990,12 @@ Do you want to continue?</source>
 Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2800"/>
+        <location filename="DlgConvert.cpp" line="2802"/>
         <source>Choose output pathname</source>
         <translation>Выберите конечный путь</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2814"/>
+        <location filename="DlgConvert.cpp" line="2816"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
@@ -4004,13 +4004,13 @@ Do you want to continue?</source>
 Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2942"/>
+        <location filename="DlgConvert.cpp" line="2944"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>Настройка &quot;Использовать несколько ядер в многоядерных процессорах&quot; отключена. Эта настройка не может работать одновременно с настройкой &quot;Уведомлять&quot; или с многостраничными PDF-файлами.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2944"/>
+        <location filename="DlgConvert.cpp" line="2946"/>
         <source>Started at: </source>
         <translation>Запущено: </translation>
     </message>
@@ -8707,38 +8707,32 @@ Subfolders will be created. </source>
     </message>
     <message>
         <location filename="DlgImport.ui" line="331"/>
-        <source>Categories to assign</source>
-        <oldsource>Keywords to assign at import (XMP)</oldsource>
-        <translation>Категории, присваиваемые при импорте</translation>
+        <source>Categories to assign (use ; to separate categories)</source>
+        <oldsource>Categories to assign</oldsource>
+        <translation type="unfinished">Категории, присваиваемые при импорте</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="337"/>
-        <source>Use ; to separate categories</source>
-        <oldsource>Use ; to separate keywords</oldsource>
-        <translation>Используйте ; для разделения</translation>
-    </message>
-    <message>
-        <location filename="DlgImport.ui" line="364"/>
+        <location filename="DlgImport.ui" line="357"/>
         <source>Filter</source>
         <translation>Фильтр</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="372"/>
+        <location filename="DlgImport.ui" line="365"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="398"/>
+        <location filename="DlgImport.ui" line="391"/>
         <source>from</source>
         <translation>c</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="408"/>
+        <location filename="DlgImport.ui" line="401"/>
         <source>to</source>
         <translation>по</translation>
     </message>
     <message>
-        <location filename="DlgImport.ui" line="435"/>
+        <location filename="DlgImport.ui" line="428"/>
         <source>Extensions (; to separate)</source>
         <translation>Расширения (; для разделения)</translation>
     </message>
@@ -8995,39 +8989,39 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Изменить данные IPTC/IIM</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="810"/>
+        <location filename="DlgIptc.ui" line="811"/>
         <source>Ctrl+Left</source>
         <translation>Ctrl+Left</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="830"/>
+        <location filename="DlgIptc.ui" line="831"/>
         <source>Ctrl+Right</source>
         <translation>Ctrl+Right</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="854"/>
+        <location filename="DlgIptc.ui" line="855"/>
         <source>Load template...</source>
         <translation>Загрузить шаблон...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="738"/>
+        <location filename="DlgIptc.ui" line="739"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
         <translation>Запоминать открытую вкладку</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="878"/>
+        <location filename="DlgIptc.ui" line="879"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
         <translation>Не загружать значения полей</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="844"/>
+        <location filename="DlgIptc.ui" line="845"/>
         <source>Save template...</source>
         <translation>Сохранить шаблон...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="871"/>
+        <location filename="DlgIptc.ui" line="872"/>
         <source>Clear all fields</source>
         <translation>Очистить все поля</translation>
     </message>
@@ -9123,64 +9117,64 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Местоположение</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="589"/>
+        <location filename="DlgIptc.ui" line="597"/>
         <source>Country code</source>
         <translation>Код страны</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="632"/>
+        <location filename="DlgIptc.ui" line="633"/>
         <source>Options</source>
         <translation>Параметры сохранения</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="705"/>
+        <location filename="DlgIptc.ui" line="706"/>
         <source>Multiple selection</source>
         <translation>Множественный выбор</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="714"/>
+        <location filename="DlgIptc.ui" line="715"/>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
         <translation>Добавлять новые значения к текущим («Ключевые слова» и «Дополнительные категории»)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="861"/>
+        <location filename="DlgIptc.ui" line="862"/>
         <source>Load template V1...</source>
         <translation>Загрузить шаблон V1...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="721"/>
+        <location filename="DlgIptc.ui" line="722"/>
         <source>Keep original value if new value is empty</source>
         <translation>Сохранять текущее значение, если новое значение пустое</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="728"/>
+        <location filename="DlgIptc.ui" line="729"/>
         <source>Replace only if original value is empty</source>
         <translation>Заменять только пустые значения</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="653"/>
+        <location filename="DlgIptc.ui" line="654"/>
         <source>Mode:</source>
         <translation>Режим:</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="661"/>
+        <location filename="DlgIptc.ui" line="662"/>
         <source>IPTC-IIM only</source>
         <oldsource>IPTC only</oldsource>
         <translation>IPTC только</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="666"/>
+        <location filename="DlgIptc.ui" line="667"/>
         <source>IPTC-IIM, update or create XMP</source>
         <oldsource>IPTC, update or create XMP</oldsource>
         <translation>IPTC, создавать или обновлять XMP</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="671"/>
+        <location filename="DlgIptc.ui" line="672"/>
         <source>XMP only</source>
         <translation>XMP только</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="676"/>
+        <location filename="DlgIptc.ui" line="677"/>
         <source>XMP, update or create IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC</oldsource>
         <translation>XMP, обновлять или создавать IPTC</translation>
@@ -10159,6 +10153,39 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgReadHDRI.ui" line="22"/>
         <source>Gamma</source>
         <translation>Гамма</translation>
+    </message>
+</context>
+<context>
+    <name>DlgReadJPEG</name>
+    <message>
+        <location filename="DlgReadJPEG.ui" line="22"/>
+        <source>Dithering</source>
+        <translation type="unfinished">Дизеринг</translation>
+    </message>
+    <message>
+        <location filename="DlgReadJPEG.ui" line="30"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgReadJPEG.ui" line="35"/>
+        <source>Ordered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgReadJPEG.ui" line="76"/>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgReadJPEG.ui" line="81"/>
+        <source>Fast integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgReadJPEG.ui" line="86"/>
+        <source>Floating</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11958,38 +11985,38 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsGeneral</name>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="257"/>
-        <location filename="DlgSettingsGeneral.cpp" line="258"/>
+        <location filename="DlgSettingsGeneral.cpp" line="263"/>
+        <location filename="DlgSettingsGeneral.cpp" line="264"/>
         <source>Load profile</source>
         <translation>Загрузить профиль</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="265"/>
+        <location filename="DlgSettingsGeneral.cpp" line="271"/>
         <source>Perceptual</source>
         <translation>Перцепционный</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="265"/>
+        <location filename="DlgSettingsGeneral.cpp" line="271"/>
         <source>Relative colorimetric</source>
         <translation>Относительный колориметрический</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="265"/>
+        <location filename="DlgSettingsGeneral.cpp" line="271"/>
         <source>Saturation</source>
         <translation>Насыщенность</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="265"/>
+        <location filename="DlgSettingsGeneral.cpp" line="271"/>
         <source>Absolute colorimetric</source>
         <translation>Абсолютный колориметрический</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="431"/>
+        <location filename="DlgSettingsGeneral.cpp" line="437"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="431"/>
+        <location filename="DlgSettingsGeneral.cpp" line="437"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Вы действительно хотите удалить выбранную позицию автозамены?</translation>
     </message>
@@ -12035,8 +12062,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="504"/>
-        <location filename="DlgSettingsGeneral.ui" line="907"/>
-        <location filename="DlgSettingsGeneral.ui" line="974"/>
+        <location filename="DlgSettingsGeneral.ui" line="914"/>
+        <location filename="DlgSettingsGeneral.ui" line="981"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
@@ -12334,86 +12361,91 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
+        <source>File copying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsGeneral.ui" line="798"/>
         <source>Lossless transformations</source>
         <translation>При преобразовании без потерь</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="798"/>
+        <location filename="DlgSettingsGeneral.ui" line="805"/>
         <source>Embedded Metadata change</source>
         <translation>При изменении встроенных метаданных</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="830"/>
+        <location filename="DlgSettingsGeneral.ui" line="837"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
         <translation>Использовать профиль ICC (замедляет работу программы)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="874"/>
+        <location filename="DlgSettingsGeneral.ui" line="881"/>
         <source>System</source>
         <translation>Система</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1090"/>
+        <location filename="DlgSettingsGeneral.ui" line="1097"/>
         <source>Auto correct</source>
         <translation>Автозамена</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1118"/>
+        <location filename="DlgSettingsGeneral.ui" line="1125"/>
         <source>Replace</source>
         <translation>Заменять</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1123"/>
+        <location filename="DlgSettingsGeneral.ui" line="1130"/>
         <source>With</source>
         <translation>на</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1160"/>
+        <location filename="DlgSettingsGeneral.ui" line="1167"/>
         <source>Delimiter character</source>
         <translation>Символ-разделитель</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
-        <location filename="DlgSettingsGeneral.ui" line="861"/>
-        <location filename="DlgSettingsGeneral.ui" line="923"/>
-        <location filename="DlgSettingsGeneral.ui" line="990"/>
+        <location filename="DlgSettingsGeneral.ui" line="868"/>
+        <location filename="DlgSettingsGeneral.ui" line="930"/>
+        <location filename="DlgSettingsGeneral.ui" line="997"/>
         <source>Custom</source>
         <translation>Пользовательский</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="824"/>
+        <location filename="DlgSettingsGeneral.ui" line="831"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
         <translation>Управление цветом</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="901"/>
+        <location filename="DlgSettingsGeneral.ui" line="908"/>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
         <translation>Использовать RGB профиль, если встроенный профиль не найден</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="914"/>
+        <location filename="DlgSettingsGeneral.ui" line="921"/>
         <source>sRGB</source>
         <translation>sRGB</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="968"/>
+        <location filename="DlgSettingsGeneral.ui" line="975"/>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
         <translation>Использовать CMYK профиль, если встроенный профиль не найден</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="981"/>
+        <location filename="DlgSettingsGeneral.ui" line="988"/>
         <source>System profile</source>
         <translation>Системный профиль</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1037"/>
+        <location filename="DlgSettingsGeneral.ui" line="1044"/>
         <source>Rendering intent:</source>
         <translation>Метод преобразования:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1066"/>
+        <location filename="DlgSettingsGeneral.ui" line="1073"/>
         <source>Black Point Compensation</source>
         <translation>Компенсация чёрной точки</translation>
     </message>
@@ -12474,32 +12506,32 @@ Thumbnail</source>
         <translation>Пожалуйста, предоставьте необходимые права папке, которую использует XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="483"/>
+        <location filename="DlgSettingsIntegration.cpp" line="482"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP - это быстрая кроссплатформенная программа для просмотра, каталогизации и редактирования изображений. Всего поддерживается более 400 форматов.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="484"/>
+        <location filename="DlgSettingsIntegration.cpp" line="483"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP для Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="503"/>
+        <location filename="DlgSettingsIntegration.cpp" line="502"/>
         <source>XnView Slide file</source>
         <translation>SLD файл слайдшоу XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="510"/>
+        <location filename="DlgSettingsIntegration.cpp" line="509"/>
         <source>%1 Image file</source>
         <translation>%1 Файл изображения</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="701"/>
+        <location filename="DlgSettingsIntegration.cpp" line="700"/>
         <source>File Associations</source>
         <translation>Ассоциации файлов</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="701"/>
+        <location filename="DlgSettingsIntegration.cpp" line="700"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>Запустите XnViewMP с правами администратора (только в первый раз).</translation>
     </message>
@@ -13557,52 +13589,57 @@ Do you want to reassign?</source>
         <translation>Снизу</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="883"/>
+        <location filename="DlgSettingsThumbnail.ui" line="642"/>
         <source>Companion</source>
         <translation>Сопутствующие файлы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1054"/>
+        <location filename="DlgSettingsThumbnail.ui" line="897"/>
+        <source>Frame&apos;s count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1061"/>
         <source>Color</source>
         <translation>Цвет</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1062"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Text</source>
         <translation>Текст</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1167"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1174"/>
         <source>Label colors</source>
         <translation>Цвета подписей</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1173"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1180"/>
         <source>Use color based on file format</source>
         <translation>Использовать цвет в зависимости от формата файла</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1186"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1193"/>
         <source>Enter an extension:</source>
         <translation>Введите расширение:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1196"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1203"/>
         <source>or choose a format:</source>
         <translation>или выберите формат:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1242"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1249"/>
         <source>New</source>
         <translation>Добавить</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1252"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1259"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1276"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1283"/>
         <source>Default color</source>
         <translation>Цвет по умолчанию</translation>
     </message>
@@ -13643,7 +13680,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="397"/>
-        <location filename="DlgSettingsThumbnail.ui" line="1092"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1099"/>
         <source>Background</source>
         <translation>Цвет фона</translation>
     </message>
@@ -13674,7 +13711,7 @@ Do you want to reassign?</source>
         <translation>Ячейка эскиза</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="718"/>
+        <location filename="DlgSettingsThumbnail.ui" line="876"/>
         <source>Has category</source>
         <translation>Имеет категорию</translation>
     </message>
@@ -13715,69 +13752,69 @@ Do you want to reassign?</source>
         <translation>Пиктограммы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="611"/>
+        <location filename="DlgSettingsThumbnail.ui" line="829"/>
         <source>Shortcut</source>
         <translatorcomment>Проверить что значит?</translatorcomment>
         <translation>Ярлык</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="777"/>
+        <location filename="DlgSettingsThumbnail.ui" line="715"/>
         <source>Tag</source>
         <translation>Метка</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="843"/>
+        <location filename="DlgSettingsThumbnail.ui" line="869"/>
         <source>Automatic rotation</source>
         <translation>Автоматическое вращение</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="577"/>
+        <location filename="DlgSettingsThumbnail.ui" line="849"/>
         <source>Rating</source>
         <translation>Рейтинг</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="584"/>
+        <location filename="DlgSettingsThumbnail.ui" line="742"/>
         <source>Embedded thumbnail</source>
         <translation>Встроенный эскиз</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="850"/>
+        <location filename="DlgSettingsThumbnail.ui" line="695"/>
         <source>Color label</source>
         <translation>Цветовая метка</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="651"/>
+        <location filename="DlgSettingsThumbnail.ui" line="822"/>
         <source>Color profile</source>
         <translation>Цветовой профиль</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="711"/>
+        <location filename="DlgSettingsThumbnail.ui" line="762"/>
         <source>Face tag</source>
         <translation>Тег лица</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="604"/>
+        <location filename="DlgSettingsThumbnail.ui" line="890"/>
         <source>Sidecar</source>
         <translatorcomment>???</translatorcomment>
         <translation>Связанные файлы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="900"/>
+        <location filename="DlgSettingsThumbnail.ui" line="907"/>
         <source>Labels</source>
         <translation>Подписи эскиза</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1126"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1133"/>
         <source>Reset color</source>
         <translation>Сбросить цвет</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1026"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1033"/>
         <source>Custom label</source>
         <translation>Пользовательские подписи</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="914"/>
+        <location filename="DlgSettingsThumbnail.ui" line="921"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
         <translation>Обозреватель › Вид › Вид › Эскизы + Подписи</translation>
@@ -13856,8 +13893,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="507"/>
-        <source>Show Pan tool</source>
-        <translation>Отображать окно навигации</translation>
+        <source>Show navigator</source>
+        <oldsource>Show Pan tool</oldsource>
+        <translation type="unfinished">Отображать окно навигации</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -16195,67 +16233,67 @@ Do you want to continue?</source>
         <translation>Запоминать открытую вкладку</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="69"/>
+        <location filename="EditXMPWidget.cpp" line="70"/>
         <source>(Use ; or , to separate the values)</source>
         <translation>(используйте ; или , для разделения)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="122"/>
+        <location filename="EditXMPWidget.cpp" line="133"/>
         <source>0: None</source>
         <translation>0: Не указан</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="122"/>
+        <location filename="EditXMPWidget.cpp" line="133"/>
         <source>1: High</source>
         <translation>1: Высокий</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="123"/>
+        <location filename="EditXMPWidget.cpp" line="134"/>
         <source>5: Normal</source>
         <translation>5: Нормальный</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="123"/>
+        <location filename="EditXMPWidget.cpp" line="134"/>
         <source>8: Low</source>
         <translation>8: Низкий</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="303"/>
+        <location filename="EditXMPWidget.cpp" line="314"/>
         <source>Required field</source>
         <translation>Обязательное поле</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="303"/>
+        <location filename="EditXMPWidget.cpp" line="314"/>
         <source>Some fields are required, please fill them!</source>
         <translation>Некоторые поля обязательны, их необходимо заполнить!</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="445"/>
+        <location filename="EditXMPWidget.cpp" line="456"/>
         <source>Insert</source>
         <translation>Вставить</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="457"/>
+        <location filename="EditXMPWidget.cpp" line="468"/>
         <source>Insert from</source>
         <translation>Вставить из</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="478"/>
+        <location filename="EditXMPWidget.cpp" line="489"/>
         <source>Copy into</source>
         <translation>Копировать в</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="502"/>
+        <location filename="EditXMPWidget.cpp" line="513"/>
         <source>Library</source>
         <translation>Библиотека</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="507"/>
+        <location filename="EditXMPWidget.cpp" line="518"/>
         <source>Edit history...</source>
         <translation>Редактировать историю...</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="508"/>
+        <location filename="EditXMPWidget.cpp" line="519"/>
         <source>Sort alphabetically</source>
         <translation>Упорядочить по алфавиту</translation>
     </message>
@@ -16352,32 +16390,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>File</name>
     <message>
-        <location filename="GeneralSettings.cpp" line="903"/>
+        <location filename="GeneralSettings.cpp" line="937"/>
         <source>Copy of %1%2</source>
         <translation>Копия %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="905"/>
+        <location filename="GeneralSettings.cpp" line="939"/>
         <source>Copy (%3) of %1%2</source>
         <translation>Копируется (%3) из %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="911"/>
+        <location filename="GeneralSettings.cpp" line="945"/>
         <source>%1 - Copy%2</source>
         <translation>%1 - Копия%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="913"/>
+        <location filename="GeneralSettings.cpp" line="947"/>
         <source>%1 - Copy (%3)%2</source>
         <translation>%1 - Копия (%3)%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="918"/>
+        <location filename="GeneralSettings.cpp" line="952"/>
         <source>%1-Copy%2</source>
         <translation>%1-Копия%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="920"/>
+        <location filename="GeneralSettings.cpp" line="954"/>
         <source>%1-Copy (%3)%2</source>
         <translation>%1-Копия (%3)%2</translation>
     </message>
@@ -16574,7 +16612,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="694"/>
         <location filename="InfoPropertiesView.cpp" line="713"/>
         <location filename="SearchField.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2565"/>
+        <location filename="TemplateData.cpp" line="2567"/>
         <source>Format</source>
         <translation>Формат</translation>
     </message>
@@ -16582,8 +16620,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="73"/>
         <location filename="InfoPropertiesView.cpp" line="679"/>
         <location filename="ItemModel.cpp" line="1108"/>
-        <location filename="TemplateData.cpp" line="2568"/>
-        <location filename="TemplateData.cpp" line="2591"/>
+        <location filename="TemplateData.cpp" line="2570"/>
+        <location filename="TemplateData.cpp" line="2593"/>
         <source>Width</source>
         <translation>Ширина</translation>
     </message>
@@ -16591,8 +16629,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <location filename="InfoPropertiesView.cpp" line="680"/>
         <location filename="ItemModel.cpp" line="1110"/>
-        <location filename="TemplateData.cpp" line="2569"/>
-        <location filename="TemplateData.cpp" line="2592"/>
+        <location filename="TemplateData.cpp" line="2571"/>
+        <location filename="TemplateData.cpp" line="2594"/>
         <source>Height</source>
         <translation>Высота</translation>
     </message>
@@ -16610,7 +16648,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="79"/>
         <location filename="InfoPropertiesView.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2566"/>
+        <location filename="TemplateData.cpp" line="2568"/>
         <source>Color model</source>
         <translation>Цветовая модель</translation>
     </message>
@@ -16627,8 +16665,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="85"/>
         <location filename="ItemModel.cpp" line="1112"/>
-        <location filename="TemplateData.cpp" line="2572"/>
-        <location filename="TemplateData.cpp" line="2594"/>
+        <location filename="TemplateData.cpp" line="2574"/>
+        <location filename="TemplateData.cpp" line="2596"/>
         <source>DPI</source>
         <translation>Кол-во точек/дюйм</translation>
     </message>
@@ -16641,7 +16679,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="93"/>
         <location filename="InfoPropertiesView.cpp" line="98"/>
-        <location filename="TemplateData.cpp" line="2567"/>
+        <location filename="TemplateData.cpp" line="2569"/>
         <source>Compression</source>
         <translation>Сжатие</translation>
     </message>
@@ -16864,7 +16902,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1094"/>
         <location filename="SearchField.cpp" line="30"/>
         <location filename="SearchField.cpp" line="133"/>
-        <location filename="TemplateData.cpp" line="2773"/>
+        <location filename="TemplateData.cpp" line="2775"/>
         <source>Rating</source>
         <translation>Рейтинг</translation>
     </message>
@@ -16888,7 +16926,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="731"/>
         <location filename="ItemModel.cpp" line="1100"/>
         <location filename="SearchField.cpp" line="41"/>
-        <location filename="TemplateData.cpp" line="2571"/>
+        <location filename="TemplateData.cpp" line="2573"/>
         <source>Comment</source>
         <translation>Комментарий</translation>
     </message>
@@ -16896,7 +16934,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1106"/>
         <location filename="SearchField.cpp" line="39"/>
         <location filename="SearchField.cpp" line="185"/>
-        <location filename="TemplateData.cpp" line="2581"/>
+        <location filename="TemplateData.cpp" line="2583"/>
         <source>Ratio</source>
         <translatorcomment>Рейтинг?</translatorcomment>
         <translation>Соотношение</translation>
@@ -16916,14 +16954,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1116"/>
         <location filename="SearchField.cpp" line="29"/>
         <location filename="SearchField.cpp" line="128"/>
-        <location filename="TemplateData.cpp" line="2777"/>
+        <location filename="TemplateData.cpp" line="2779"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="31"/>
         <location filename="SearchField.cpp" line="139"/>
-        <location filename="TemplateData.cpp" line="2775"/>
+        <location filename="TemplateData.cpp" line="2777"/>
         <source>Color label</source>
         <translation>Цветовая метка</translation>
     </message>
@@ -16964,13 +17002,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Высота изображения</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="353"/>
+        <location filename="EditXMPWidget.cpp" line="364"/>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="IptcEditBase.cpp" line="114"/>
         <location filename="ItemModel.cpp" line="1102"/>
         <location filename="SearchField.cpp" line="40"/>
         <location filename="SearchField.cpp" line="196"/>
-        <location filename="TemplateData.cpp" line="2797"/>
+        <location filename="TemplateData.cpp" line="2799"/>
         <source>Annotation</source>
         <translatorcomment>Аннотация</translatorcomment>
         <translation>Описание</translation>
@@ -16987,215 +17025,215 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Формат изображения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2570"/>
-        <location filename="TemplateData.cpp" line="2593"/>
+        <location filename="TemplateData.cpp" line="2572"/>
+        <location filename="TemplateData.cpp" line="2595"/>
         <source>BPP</source>
         <translation>Кол-во бит/пиксель</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2575"/>
-        <location filename="TemplateData.cpp" line="2595"/>
+        <location filename="TemplateData.cpp" line="2577"/>
+        <location filename="TemplateData.cpp" line="2597"/>
         <source>Width (inch)</source>
         <translation>Ширина (дюймы)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2576"/>
-        <location filename="TemplateData.cpp" line="2596"/>
+        <location filename="TemplateData.cpp" line="2578"/>
+        <location filename="TemplateData.cpp" line="2598"/>
         <source>Height (inch)</source>
         <translation>Высота (дюймы)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2577"/>
-        <location filename="TemplateData.cpp" line="2597"/>
+        <location filename="TemplateData.cpp" line="2579"/>
+        <location filename="TemplateData.cpp" line="2599"/>
         <source>Width (cm)</source>
         <translation>Ширина (см)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2578"/>
-        <location filename="TemplateData.cpp" line="2598"/>
+        <location filename="TemplateData.cpp" line="2580"/>
+        <location filename="TemplateData.cpp" line="2600"/>
         <source>Height (cm)</source>
         <translation>Высота (см)</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="228"/>
-        <location filename="EditXMPWidget.cpp" line="343"/>
+        <location filename="EditXMPWidget.cpp" line="354"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <location filename="IptcEditBase.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2785"/>
+        <location filename="TemplateData.cpp" line="2787"/>
         <source>Filename</source>
         <translation>Имя файла</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="342"/>
+        <location filename="EditXMPWidget.cpp" line="353"/>
         <location filename="IptcEditBase.cpp" line="71"/>
         <source>Filename without extension</source>
         <translation>Имя файла без расширения</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="344"/>
+        <location filename="EditXMPWidget.cpp" line="355"/>
         <location filename="IptcEditBase.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2787"/>
+        <location filename="TemplateData.cpp" line="2789"/>
         <source>Filename (last number)</source>
         <translation>Имя файла (последний номер)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="345"/>
+        <location filename="EditXMPWidget.cpp" line="356"/>
         <location filename="IptcEditBase.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2788"/>
+        <location filename="TemplateData.cpp" line="2790"/>
         <source>Folder</source>
         <translation>Путь папки</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="346"/>
+        <location filename="EditXMPWidget.cpp" line="357"/>
         <location filename="IptcEditBase.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2789"/>
+        <location filename="TemplateData.cpp" line="2791"/>
         <source>Folder name</source>
         <translation>Имя папки</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="347"/>
+        <location filename="EditXMPWidget.cpp" line="358"/>
         <location filename="IptcEditBase.cpp" line="76"/>
-        <location filename="TemplateData.cpp" line="2790"/>
+        <location filename="TemplateData.cpp" line="2792"/>
         <source>Accessed date</source>
         <translation>Дата открытия</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="348"/>
+        <location filename="EditXMPWidget.cpp" line="359"/>
         <location filename="IptcEditBase.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2791"/>
+        <location filename="TemplateData.cpp" line="2793"/>
         <source>Creation date</source>
         <translation>Дата создания</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="230"/>
-        <location filename="EditXMPWidget.cpp" line="349"/>
+        <location filename="EditXMPWidget.cpp" line="360"/>
         <location filename="IptcEditBase.cpp" line="78"/>
-        <location filename="TemplateData.cpp" line="2792"/>
+        <location filename="TemplateData.cpp" line="2794"/>
         <source>Modified date</source>
         <translation>Дата изменения</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="350"/>
+        <location filename="EditXMPWidget.cpp" line="361"/>
         <location filename="IptcEditBase.cpp" line="79"/>
-        <location filename="TemplateData.cpp" line="2793"/>
+        <location filename="TemplateData.cpp" line="2795"/>
         <source>Size (Auto)</source>
         <translation>Размер (Авто)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="351"/>
+        <location filename="EditXMPWidget.cpp" line="362"/>
         <location filename="IptcEditBase.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2794"/>
+        <location filename="TemplateData.cpp" line="2796"/>
         <source>Size (Bytes)</source>
         <translation>Размер (Байты)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="352"/>
+        <location filename="EditXMPWidget.cpp" line="363"/>
         <location filename="IptcEditBase.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2795"/>
+        <location filename="TemplateData.cpp" line="2797"/>
         <source>Size (KB)</source>
         <translation>Размер (Кб)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2579"/>
+        <location filename="TemplateData.cpp" line="2581"/>
         <source>Width (mm)</source>
         <translation>Ширина (мм)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2580"/>
+        <location filename="TemplateData.cpp" line="2582"/>
         <source>Height (mm)</source>
         <translation>Высота (мм)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2582"/>
+        <location filename="TemplateData.cpp" line="2584"/>
         <source>Ratio Decimal</source>
         <translation>Соотношение (десятичное)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2583"/>
+        <location filename="TemplateData.cpp" line="2585"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
         <translation>Соотношение ширина/высота</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2584"/>
+        <location filename="TemplateData.cpp" line="2586"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
         <translation>Соотношение высота/ширина</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2585"/>
+        <location filename="TemplateData.cpp" line="2587"/>
         <source>MPixels</source>
         <translation>Мегапиксели</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2767"/>
+        <location filename="TemplateData.cpp" line="2769"/>
         <source>Create date</source>
         <translation>Дата создания</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2768"/>
+        <location filename="TemplateData.cpp" line="2770"/>
         <source>Modify date</source>
         <translation>Дата изменения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2786"/>
+        <location filename="TemplateData.cpp" line="2788"/>
         <source>Filename (with extension)</source>
         <translation>Имя файла (с расширением)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2796"/>
+        <location filename="TemplateData.cpp" line="2798"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2798"/>
+        <location filename="TemplateData.cpp" line="2800"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
         <translation>Имя файла на выходе</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2799"/>
+        <location filename="TemplateData.cpp" line="2801"/>
         <source>Output filename (with extension)</source>
         <translation>Имя файла на выходе (с расширением)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2769"/>
+        <location filename="TemplateData.cpp" line="2771"/>
         <source>File index</source>
         <translation>Индекс файла</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2573"/>
+        <location filename="TemplateData.cpp" line="2575"/>
         <source>DPI-X</source>
         <translation>DPI-X</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2574"/>
+        <location filename="TemplateData.cpp" line="2576"/>
         <source>DPI-Y</source>
         <translation>DPI-Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2770"/>
+        <location filename="TemplateData.cpp" line="2772"/>
         <source>Zoom</source>
         <translation>Масштаб</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2771"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Current date</source>
         <translation>Текущая дата</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2772"/>
+        <location filename="TemplateData.cpp" line="2774"/>
         <source>Tag status</source>
         <translation>Состояние метки</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2774"/>
+        <location filename="TemplateData.cpp" line="2776"/>
         <source>Rating (number)</source>
         <translatorcomment>рейтинг?</translatorcomment>
         <translation>Рейтинг (число)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2776"/>
+        <location filename="TemplateData.cpp" line="2778"/>
         <source>Color label (number)</source>
         <translation>Цветовая метка (число)</translation>
     </message>
@@ -17446,14 +17484,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1119"/>
         <location filename="SearchField.cpp" line="261"/>
-        <location filename="TemplateData.cpp" line="2603"/>
+        <location filename="TemplateData.cpp" line="2605"/>
         <source>Maker</source>
         <translation>Камера, производитель</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1121"/>
         <location filename="SearchField.cpp" line="266"/>
-        <location filename="TemplateData.cpp" line="2604"/>
+        <location filename="TemplateData.cpp" line="2606"/>
         <source>Model</source>
         <translation>Камера, модель</translation>
     </message>
@@ -17480,37 +17518,37 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1131"/>
-        <location filename="TemplateData.cpp" line="2642"/>
+        <location filename="TemplateData.cpp" line="2644"/>
         <source>Aperture</source>
         <translation>Диафрагма</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1133"/>
-        <location filename="TemplateData.cpp" line="2687"/>
+        <location filename="TemplateData.cpp" line="2689"/>
         <source>Latitude</source>
         <translation>Широта</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1135"/>
-        <location filename="TemplateData.cpp" line="2690"/>
+        <location filename="TemplateData.cpp" line="2692"/>
         <source>Longitude</source>
         <translation>Долгота</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="271"/>
-        <location filename="TemplateData.cpp" line="2616"/>
+        <location filename="TemplateData.cpp" line="2618"/>
         <source>Software</source>
         <translation>Программное обеспечение</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="276"/>
-        <location filename="TemplateData.cpp" line="2605"/>
+        <location filename="TemplateData.cpp" line="2607"/>
         <source>Artist</source>
         <translation>Автор</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="281"/>
-        <location filename="TemplateData.cpp" line="2629"/>
+        <location filename="TemplateData.cpp" line="2631"/>
         <source>User comment</source>
         <translation>Комментарий пользователя</translation>
     </message>
@@ -17541,381 +17579,381 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="SearchField.cpp" line="321"/>
-        <location filename="TemplateData.cpp" line="2637"/>
+        <location filename="TemplateData.cpp" line="2639"/>
         <source>F-Number</source>
         <translation>Светосила</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2606"/>
+        <location filename="TemplateData.cpp" line="2608"/>
         <source>Copyright</source>
         <translation>Авторские права</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2607"/>
+        <location filename="TemplateData.cpp" line="2609"/>
         <source>Date/time modified</source>
         <translation>Дата/время изменения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2608"/>
+        <location filename="TemplateData.cpp" line="2610"/>
         <source>Orientation</source>
         <translation>Ориентация</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2609"/>
+        <location filename="TemplateData.cpp" line="2611"/>
         <source>X-Resolution</source>
         <translation>Разрешение по Х</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2610"/>
+        <location filename="TemplateData.cpp" line="2612"/>
         <source>Y-Resolution</source>
         <translation>Разрешение по Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2611"/>
+        <location filename="TemplateData.cpp" line="2613"/>
         <source>Resolution unit</source>
         <translation>Единица измерения разрешения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2612"/>
+        <location filename="TemplateData.cpp" line="2614"/>
         <source>Primary chromaticities</source>
         <translation>Цветность основных цветов</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2613"/>
+        <location filename="TemplateData.cpp" line="2615"/>
         <source>YCbCr-Coefficients</source>
         <translation>YCbCr-коэффициенты</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2614"/>
+        <location filename="TemplateData.cpp" line="2616"/>
         <source>YCbCr-Positioning</source>
         <translation>YCbCr-положение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2615"/>
+        <location filename="TemplateData.cpp" line="2617"/>
         <source>Ref. black/white</source>
         <translation>Эталонный черный/белый</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2618"/>
+        <location filename="TemplateData.cpp" line="2620"/>
         <source>LensID</source>
         <translation>ID объектива</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2620"/>
+        <location filename="TemplateData.cpp" line="2622"/>
         <source>XP Title</source>
         <translation>XP Заголовок</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2621"/>
+        <location filename="TemplateData.cpp" line="2623"/>
         <source>XP Comment</source>
         <translation>XP Комментарий</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2622"/>
+        <location filename="TemplateData.cpp" line="2624"/>
         <source>XP Author</source>
         <translation>XP Автор</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2623"/>
+        <location filename="TemplateData.cpp" line="2625"/>
         <source>XP Keywords</source>
         <translation>XP Ключевые слова</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2624"/>
+        <location filename="TemplateData.cpp" line="2626"/>
         <source>XP Subject</source>
         <translation>XP Тема</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2630"/>
+        <location filename="TemplateData.cpp" line="2632"/>
         <source>Date taken</source>
         <translation>Дата съёмки</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="TemplateData.cpp" line="2633"/>
         <source>Date digitized</source>
         <translation>Дата оцифровки</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2632"/>
+        <location filename="TemplateData.cpp" line="2634"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translation>Выдержка (c)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2633"/>
+        <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Program</source>
         <translation>Программа экспозиции</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2634"/>
+        <location filename="TemplateData.cpp" line="2636"/>
         <source>Exposure Mode</source>
         <translation>Режим экспозиции</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2635"/>
+        <location filename="TemplateData.cpp" line="2637"/>
         <source>Exposure Bias</source>
         <translation>Компенсация экспозиции</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2636"/>
+        <location filename="TemplateData.cpp" line="2638"/>
         <source>Exposure Index</source>
         <translation>Индекс экспозиции</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2638"/>
+        <location filename="TemplateData.cpp" line="2640"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translation>Фокусное расстояние (мм)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2639"/>
+        <location filename="TemplateData.cpp" line="2641"/>
         <source>35mm Focal length</source>
         <translation>Фокусное расстояние 35мм</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2640"/>
+        <location filename="TemplateData.cpp" line="2642"/>
         <source>ISO Value</source>
         <translation>Скорость ISO</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2641"/>
+        <location filename="TemplateData.cpp" line="2643"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translation>Скорость затвора (c)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2643"/>
+        <location filename="TemplateData.cpp" line="2645"/>
         <source>Max. aperture</source>
         <translation>Диафрагма макс.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2644"/>
+        <location filename="TemplateData.cpp" line="2646"/>
         <source>Colour space</source>
         <translation>Цветовое пространство</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2645"/>
+        <location filename="TemplateData.cpp" line="2647"/>
         <source>Digital zoom</source>
         <translation>Цифровое увеличение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2646"/>
+        <location filename="TemplateData.cpp" line="2648"/>
         <source>Subject Distance (m)</source>
         <translation>Расстояние до объекта (м)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2647"/>
+        <location filename="TemplateData.cpp" line="2649"/>
         <source>Subj. Dist. Range</source>
         <translation>Дистанция съемки</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2648"/>
+        <location filename="TemplateData.cpp" line="2650"/>
         <source>Subject location</source>
         <translation>Положение объекта</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="329"/>
-        <location filename="TemplateData.cpp" line="2649"/>
+        <location filename="TemplateData.cpp" line="2651"/>
         <source>Flash</source>
         <translation>Вспышка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2650"/>
+        <location filename="TemplateData.cpp" line="2652"/>
         <source>Flash energy</source>
         <translation>Вспышка, энергия</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2651"/>
+        <location filename="TemplateData.cpp" line="2653"/>
         <source>Metering mode</source>
         <translation>Фокусировка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2652"/>
+        <location filename="TemplateData.cpp" line="2654"/>
         <source>Gain control</source>
         <translation>Регулировка усиления</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2653"/>
+        <location filename="TemplateData.cpp" line="2655"/>
         <source>Light source</source>
         <translation>Источник света</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2654"/>
+        <location filename="TemplateData.cpp" line="2656"/>
         <source>White balance</source>
         <translation>Баланс белого</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2655"/>
+        <location filename="TemplateData.cpp" line="2657"/>
         <source>Contrast</source>
         <translation>Контрастность</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2656"/>
+        <location filename="TemplateData.cpp" line="2658"/>
         <source>Saturation</source>
         <translation>Насыщенность</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2657"/>
+        <location filename="TemplateData.cpp" line="2659"/>
         <source>Sharpness</source>
         <translation>Резкость</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2658"/>
+        <location filename="TemplateData.cpp" line="2660"/>
         <source>Brightness</source>
         <translation>Яркость</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2659"/>
+        <location filename="TemplateData.cpp" line="2661"/>
         <source>Spectral sensitivity</source>
         <translation>Спектральная чувствительность</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2660"/>
+        <location filename="TemplateData.cpp" line="2662"/>
         <source>Spatial freq. response</source>
         <translation>Пространственно-частотная хар-ка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2661"/>
+        <location filename="TemplateData.cpp" line="2663"/>
         <source>Sensing method</source>
         <translation>Метод измерения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2662"/>
+        <location filename="TemplateData.cpp" line="2664"/>
         <source>File source</source>
         <translation>Файл источник</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2663"/>
+        <location filename="TemplateData.cpp" line="2665"/>
         <source>CFA pattern</source>
         <translation>Модель CFA</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2664"/>
+        <location filename="TemplateData.cpp" line="2666"/>
         <source>Custom rendered</source>
         <translation>Режим рендеринга</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2665"/>
+        <location filename="TemplateData.cpp" line="2667"/>
         <source>Device settings desc.</source>
         <translation>Настройка устройства</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2666"/>
+        <location filename="TemplateData.cpp" line="2668"/>
         <source>Scene type</source>
         <translation>Тип сцены</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2667"/>
+        <location filename="TemplateData.cpp" line="2669"/>
         <source>Scene capture type</source>
         <translation>Тип снимка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2668"/>
+        <location filename="TemplateData.cpp" line="2670"/>
         <source>Image-ID</source>
         <translation>ID изображения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2669"/>
+        <location filename="TemplateData.cpp" line="2671"/>
         <source>Image width</source>
         <translation>Ширина изображения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2670"/>
+        <location filename="TemplateData.cpp" line="2672"/>
         <source>Image height</source>
         <translation>Высота изображения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2671"/>
+        <location filename="TemplateData.cpp" line="2673"/>
         <source>Image description</source>
         <translation>Описание изображения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2672"/>
+        <location filename="TemplateData.cpp" line="2674"/>
         <source>Components configuration</source>
         <translation>Конфигурация компонентов</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2673"/>
+        <location filename="TemplateData.cpp" line="2675"/>
         <source>Photometric interpretation</source>
         <translation>Фотометрическая интерпретация</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2674"/>
+        <location filename="TemplateData.cpp" line="2676"/>
         <source>Focal Plane X-Resolution</source>
         <translation>Разрешение фокальной плоскости по Х</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2675"/>
+        <location filename="TemplateData.cpp" line="2677"/>
         <source>Focal Plane Y-Resolution</source>
         <translation>Разрешение фокальной плоскости по Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2676"/>
+        <location filename="TemplateData.cpp" line="2678"/>
         <source>Focal Plane Res. Unit</source>
         <translation>Единица измерения фокальной плоскости</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2677"/>
+        <location filename="TemplateData.cpp" line="2679"/>
         <source>EXIF Version</source>
         <translation>Версия EXIF</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2678"/>
+        <location filename="TemplateData.cpp" line="2680"/>
         <source>White point</source>
         <translation>Белая точка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2679"/>
+        <location filename="TemplateData.cpp" line="2681"/>
         <source>Lens Make</source>
         <translation>Объектив, производитель</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2680"/>
+        <location filename="TemplateData.cpp" line="2682"/>
         <source>Lens Model</source>
         <translation>Объектив, модель</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2686"/>
+        <location filename="TemplateData.cpp" line="2688"/>
         <source>Latitude ref.</source>
         <translation>Широта ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2688"/>
+        <location filename="TemplateData.cpp" line="2690"/>
         <source>Latitude (value)</source>
         <translation>Широта (значение)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2689"/>
+        <location filename="TemplateData.cpp" line="2691"/>
         <source>Longitude ref.</source>
         <translation>Долгота ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2691"/>
+        <location filename="TemplateData.cpp" line="2693"/>
         <source>Longitude (value)</source>
         <translation>Долгота (значение)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2692"/>
+        <location filename="TemplateData.cpp" line="2694"/>
         <source>Altitude ref.</source>
         <translation>Высота ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2693"/>
+        <location filename="TemplateData.cpp" line="2695"/>
         <source>Altitude</source>
         <translation>Высота</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2694"/>
+        <location filename="TemplateData.cpp" line="2696"/>
         <source>Direction ref.</source>
         <translation>Направление ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2695"/>
+        <location filename="TemplateData.cpp" line="2697"/>
         <source>Direction</source>
         <translation>Направление</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2696"/>
+        <location filename="TemplateData.cpp" line="2698"/>
         <source>Location Code</source>
         <translation>Код местоположения</translation>
     </message>
@@ -17956,12 +17994,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1138"/>
         <location filename="SearchField.cpp" line="44"/>
         <location filename="SearchField.cpp" line="206"/>
-        <location filename="TemplateData.cpp" line="2701"/>
+        <location filename="TemplateData.cpp" line="2703"/>
         <source>Caption</source>
         <translation>Описание</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="102"/>
+        <location filename="EditXMPWidget.cpp" line="113"/>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <location filename="ItemModel.cpp" line="1140"/>
@@ -17969,38 +18007,38 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="77"/>
         <location filename="SearchField.cpp" line="211"/>
         <location filename="SearchField.cpp" line="357"/>
-        <location filename="TemplateData.cpp" line="2702"/>
-        <location filename="TemplateData.cpp" line="2755"/>
+        <location filename="TemplateData.cpp" line="2704"/>
+        <location filename="TemplateData.cpp" line="2757"/>
         <source>Caption writer</source>
         <translation>Автор описания</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="118"/>
+        <location filename="EditXMPWidget.cpp" line="129"/>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1142"/>
         <location filename="SearchField.cpp" line="46"/>
         <location filename="SearchField.cpp" line="216"/>
-        <location filename="TemplateData.cpp" line="2703"/>
-        <location filename="TemplateData.cpp" line="2759"/>
+        <location filename="TemplateData.cpp" line="2705"/>
+        <location filename="TemplateData.cpp" line="2761"/>
         <source>Headline</source>
         <translation>Заголовок</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
-        <location filename="TemplateData.cpp" line="2704"/>
+        <location filename="TemplateData.cpp" line="2706"/>
         <source>Special instructions</source>
         <translation>Особая заметка</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="108"/>
+        <location filename="EditXMPWidget.cpp" line="119"/>
         <location filename="InfoIPTCView.cpp" line="33"/>
         <location filename="IptcHelper.cpp" line="22"/>
         <location filename="ItemModel.cpp" line="1144"/>
         <location filename="SearchField.cpp" line="52"/>
         <location filename="SearchField.cpp" line="246"/>
-        <location filename="TemplateData.cpp" line="2709"/>
+        <location filename="TemplateData.cpp" line="2711"/>
         <source>Keywords</source>
         <translation>Ключевые слова</translation>
     </message>
@@ -18008,14 +18046,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="SearchField.cpp" line="78"/>
         <location filename="SearchField.cpp" line="359"/>
-        <location filename="TemplateData.cpp" line="2710"/>
+        <location filename="TemplateData.cpp" line="2712"/>
         <source>Category</source>
         <translation>Категории</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
         <location filename="IptcHelper.cpp" line="24"/>
-        <location filename="TemplateData.cpp" line="2711"/>
+        <location filename="TemplateData.cpp" line="2713"/>
         <source>Supplemental categories</source>
         <translation>Дополнительные категории</translation>
     </message>
@@ -18026,8 +18064,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="47"/>
         <location filename="SearchField.cpp" line="73"/>
         <location filename="SearchField.cpp" line="221"/>
-        <location filename="TemplateData.cpp" line="2716"/>
-        <location filename="TemplateData.cpp" line="2751"/>
+        <location filename="TemplateData.cpp" line="2718"/>
+        <location filename="TemplateData.cpp" line="2753"/>
         <source>Copyright</source>
         <translation>Авторские права</translation>
     </message>
@@ -18037,7 +18075,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1148"/>
         <location filename="SearchField.cpp" line="48"/>
         <location filename="SearchField.cpp" line="226"/>
-        <location filename="TemplateData.cpp" line="2717"/>
+        <location filename="TemplateData.cpp" line="2719"/>
         <source>Byline</source>
         <translation>Автор</translation>
     </message>
@@ -18047,7 +18085,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1150"/>
         <location filename="SearchField.cpp" line="49"/>
         <location filename="SearchField.cpp" line="231"/>
-        <location filename="TemplateData.cpp" line="2718"/>
+        <location filename="TemplateData.cpp" line="2720"/>
         <source>Byline title</source>
         <translation>Авторское заглавие</translation>
     </message>
@@ -18058,35 +18096,35 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Соавторы</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="117"/>
+        <location filename="EditXMPWidget.cpp" line="128"/>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="29"/>
         <location filename="ItemModel.cpp" line="1154"/>
         <location filename="SearchField.cpp" line="51"/>
         <location filename="SearchField.cpp" line="241"/>
-        <location filename="TemplateData.cpp" line="2720"/>
-        <location filename="TemplateData.cpp" line="2761"/>
+        <location filename="TemplateData.cpp" line="2722"/>
+        <location filename="TemplateData.cpp" line="2763"/>
         <source>Source</source>
         <translation>Источник</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="49"/>
         <location filename="IptcHelper.cpp" line="33"/>
-        <location filename="TemplateData.cpp" line="2725"/>
+        <location filename="TemplateData.cpp" line="2727"/>
         <source>Edit status</source>
         <translation>Состояние редактирования</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2728"/>
+        <location filename="TemplateData.cpp" line="2730"/>
         <source>Job ID</source>
         <translation>ID работы</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="37"/>
-        <location filename="TemplateData.cpp" line="2729"/>
+        <location filename="TemplateData.cpp" line="2731"/>
         <source>Program</source>
         <translation>Программа</translation>
     </message>
@@ -18099,7 +18137,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="53"/>
         <location filename="IptcHelper.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2726"/>
+        <location filename="TemplateData.cpp" line="2728"/>
         <source>Priority</source>
         <translation>Приоритет</translation>
     </message>
@@ -18110,22 +18148,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Цикл объекта</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="112"/>
-        <location filename="EditXMPWidget.cpp" line="153"/>
-        <location filename="EditXMPWidget.cpp" line="170"/>
+        <location filename="EditXMPWidget.cpp" line="123"/>
+        <location filename="EditXMPWidget.cpp" line="164"/>
+        <location filename="EditXMPWidget.cpp" line="181"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="42"/>
         <location filename="ItemModel.cpp" line="1160"/>
         <location filename="SearchField.cpp" line="79"/>
         <location filename="SearchField.cpp" line="361"/>
-        <location filename="TemplateData.cpp" line="2737"/>
-        <location filename="TemplateData.cpp" line="2756"/>
+        <location filename="TemplateData.cpp" line="2739"/>
+        <location filename="TemplateData.cpp" line="2758"/>
         <source>City</source>
         <translation>Город</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2744"/>
+        <location filename="TemplateData.cpp" line="2746"/>
         <source>Content location</source>
         <translation>Регион</translation>
     </message>
@@ -18136,23 +18174,23 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Край/Область</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="114"/>
-        <location filename="EditXMPWidget.cpp" line="156"/>
-        <location filename="EditXMPWidget.cpp" line="171"/>
+        <location filename="EditXMPWidget.cpp" line="125"/>
+        <location filename="EditXMPWidget.cpp" line="167"/>
+        <location filename="EditXMPWidget.cpp" line="182"/>
         <location filename="InfoIPTCView.cpp" line="63"/>
         <location filename="IptcHelper.cpp" line="45"/>
         <location filename="ItemModel.cpp" line="1166"/>
         <location filename="SearchField.cpp" line="80"/>
         <location filename="SearchField.cpp" line="363"/>
-        <location filename="TemplateData.cpp" line="2740"/>
-        <location filename="TemplateData.cpp" line="2757"/>
+        <location filename="TemplateData.cpp" line="2742"/>
+        <location filename="TemplateData.cpp" line="2759"/>
         <source>Country</source>
         <translation>Страна</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
-        <location filename="TemplateData.cpp" line="2741"/>
+        <location filename="TemplateData.cpp" line="2743"/>
         <source>Country code</source>
         <translation>Код страны</translation>
     </message>
@@ -18163,7 +18201,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <location filename="TemplateData.cpp" line="2735"/>
+        <location filename="TemplateData.cpp" line="2737"/>
         <source>Created date</source>
         <translation>Дата создания</translation>
     </message>
@@ -18174,7 +18212,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="68"/>
-        <location filename="TemplateData.cpp" line="2736"/>
+        <location filename="TemplateData.cpp" line="2738"/>
         <source>Released date</source>
         <translation>Дата публикации</translation>
     </message>
@@ -18197,16 +18235,16 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="72"/>
         <location filename="IptcHelper.cpp" line="31"/>
         <location filename="ItemModel.cpp" line="1158"/>
-        <location filename="TemplateData.cpp" line="2743"/>
+        <location filename="TemplateData.cpp" line="2745"/>
         <source>Contact</source>
         <translation>Контактная информация</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="168"/>
+        <location filename="EditXMPWidget.cpp" line="179"/>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
         <location filename="ItemModel.cpp" line="1162"/>
-        <location filename="TemplateData.cpp" line="2738"/>
+        <location filename="TemplateData.cpp" line="2740"/>
         <source>Location</source>
         <translation>Название региона</translation>
     </message>
@@ -18239,35 +18277,35 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Ссылка на оригинал</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="116"/>
+        <location filename="EditXMPWidget.cpp" line="127"/>
         <location filename="ItemModel.cpp" line="1152"/>
         <location filename="SearchField.cpp" line="50"/>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="SearchField.cpp" line="236"/>
         <location filename="SearchField.cpp" line="365"/>
-        <location filename="TemplateData.cpp" line="2719"/>
-        <location filename="TemplateData.cpp" line="2758"/>
+        <location filename="TemplateData.cpp" line="2721"/>
+        <location filename="TemplateData.cpp" line="2760"/>
         <source>Credit</source>
         <translation>Соавтор</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="113"/>
-        <location filename="EditXMPWidget.cpp" line="154"/>
-        <location filename="EditXMPWidget.cpp" line="169"/>
+        <location filename="EditXMPWidget.cpp" line="124"/>
+        <location filename="EditXMPWidget.cpp" line="165"/>
+        <location filename="EditXMPWidget.cpp" line="180"/>
         <location filename="ItemModel.cpp" line="1164"/>
-        <location filename="TemplateData.cpp" line="2739"/>
-        <location filename="TemplateData.cpp" line="2762"/>
+        <location filename="TemplateData.cpp" line="2741"/>
+        <location filename="TemplateData.cpp" line="2764"/>
         <source>State</source>
         <translatorcomment>Верно ли???</translatorcomment>
         <translation>Край/Область</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2727"/>
+        <location filename="TemplateData.cpp" line="2729"/>
         <source>Cycle</source>
         <translation>Цикл объекта</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2742"/>
+        <location filename="TemplateData.cpp" line="2744"/>
         <source>Original trans. ref.</source>
         <translation>Ссылка на оригинал</translation>
     </message>
@@ -18284,37 +18322,37 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="SearchField.cpp" line="347"/>
-        <location filename="TemplateData.cpp" line="2749"/>
+        <location filename="TemplateData.cpp" line="2751"/>
         <source>Creator</source>
         <translation>Создатель</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="100"/>
+        <location filename="EditXMPWidget.cpp" line="111"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="SearchField.cpp" line="349"/>
-        <location filename="TemplateData.cpp" line="2750"/>
+        <location filename="TemplateData.cpp" line="2752"/>
         <source>Description</source>
         <translation>Описание</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="74"/>
         <location filename="SearchField.cpp" line="340"/>
-        <location filename="TemplateData.cpp" line="2752"/>
+        <location filename="TemplateData.cpp" line="2754"/>
         <source>Subject</source>
         <translation>Тема</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="75"/>
         <location filename="SearchField.cpp" line="353"/>
-        <location filename="TemplateData.cpp" line="2753"/>
+        <location filename="TemplateData.cpp" line="2755"/>
         <source>Title</source>
         <translation>Название</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="99"/>
+        <location filename="EditXMPWidget.cpp" line="110"/>
         <location filename="SearchField.cpp" line="76"/>
         <location filename="SearchField.cpp" line="355"/>
-        <location filename="TemplateData.cpp" line="2754"/>
+        <location filename="TemplateData.cpp" line="2756"/>
         <source>Authors position</source>
         <translation>Должность автора</translation>
     </message>
@@ -18342,116 +18380,116 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Авторские права</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="119"/>
-        <location filename="TemplateData.cpp" line="2760"/>
+        <location filename="EditXMPWidget.cpp" line="130"/>
+        <location filename="TemplateData.cpp" line="2762"/>
         <source>Instructions</source>
         <translation>Инструкции</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="97"/>
+        <location filename="EditXMPWidget.cpp" line="108"/>
         <location filename="InfoIPTCView.cpp" line="59"/>
         <location filename="IptcHelper.cpp" line="48"/>
         <location filename="ItemModel.cpp" line="1168"/>
-        <location filename="TemplateData.cpp" line="2734"/>
+        <location filename="TemplateData.cpp" line="2736"/>
         <source>Document title</source>
         <translation>Заголовок документа</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="98"/>
+        <location filename="EditXMPWidget.cpp" line="109"/>
         <source>Author</source>
         <translation>Автор</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="103"/>
+        <location filename="EditXMPWidget.cpp" line="114"/>
         <source>Copyright Notice</source>
         <translation>Уведомление об авторских правах</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="104"/>
+        <location filename="EditXMPWidget.cpp" line="115"/>
         <source>Copyright info URL</source>
         <translation>Информация об авторских правах</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="105"/>
+        <location filename="EditXMPWidget.cpp" line="116"/>
         <source>Copyright usage terms</source>
         <translation>Условия использования авторских прав</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="111"/>
+        <location filename="EditXMPWidget.cpp" line="122"/>
         <source>Sublocation</source>
         <translation>Район</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="115"/>
+        <location filename="EditXMPWidget.cpp" line="126"/>
         <source>Country Code</source>
         <translation>Код страны</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="120"/>
+        <location filename="EditXMPWidget.cpp" line="131"/>
         <source>Transmission reference</source>
         <translation>Ссылка на оригинал</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="152"/>
+        <location filename="EditXMPWidget.cpp" line="163"/>
         <source>Address</source>
         <translation>Адрес</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="155"/>
+        <location filename="EditXMPWidget.cpp" line="166"/>
         <source>ZIP code</source>
         <translation>Почтовый индекс</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="157"/>
+        <location filename="EditXMPWidget.cpp" line="168"/>
         <source>Telephon number</source>
         <translation>Номер телефона</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="158"/>
+        <location filename="EditXMPWidget.cpp" line="169"/>
         <source>Email</source>
         <translation>Электронная почта</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="159"/>
+        <location filename="EditXMPWidget.cpp" line="170"/>
         <source>Web site</source>
         <translation>Веб-сайт</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="160"/>
+        <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Subject code</source>
         <translation>Код темы</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="163"/>
+        <location filename="EditXMPWidget.cpp" line="174"/>
         <source>Person in image</source>
         <translation>Человек на изображении</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="164"/>
+        <location filename="EditXMPWidget.cpp" line="175"/>
         <source>Name of organization represented</source>
         <translation>Название представляемой организации</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="165"/>
+        <location filename="EditXMPWidget.cpp" line="176"/>
         <source>Code of organization represented</source>
         <translation>Код представляемой организации</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="166"/>
+        <location filename="EditXMPWidget.cpp" line="177"/>
         <source>Event</source>
         <translation>Событие</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="174"/>
-        <location filename="EditXMPWidget.cpp" line="175"/>
-        <location filename="EditXMPWidget.cpp" line="176"/>
-        <location filename="EditXMPWidget.cpp" line="177"/>
-        <location filename="EditXMPWidget.cpp" line="178"/>
-        <location filename="EditXMPWidget.cpp" line="179"/>
-        <location filename="EditXMPWidget.cpp" line="180"/>
-        <location filename="EditXMPWidget.cpp" line="181"/>
-        <location filename="EditXMPWidget.cpp" line="182"/>
-        <location filename="EditXMPWidget.cpp" line="183"/>
+        <location filename="EditXMPWidget.cpp" line="185"/>
+        <location filename="EditXMPWidget.cpp" line="186"/>
+        <location filename="EditXMPWidget.cpp" line="187"/>
+        <location filename="EditXMPWidget.cpp" line="188"/>
+        <location filename="EditXMPWidget.cpp" line="189"/>
+        <location filename="EditXMPWidget.cpp" line="190"/>
+        <location filename="EditXMPWidget.cpp" line="191"/>
+        <location filename="EditXMPWidget.cpp" line="192"/>
+        <location filename="EditXMPWidget.cpp" line="193"/>
+        <location filename="EditXMPWidget.cpp" line="194"/>
         <source>Custom field</source>
         <translation>Пользовательское поле</translation>
     </message>
@@ -18591,12 +18629,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoTreeView</name>
     <message>
-        <location filename="InfoPanel.cpp" line="60"/>
-        <source>Copy this item</source>
-        <translation>Копировать этот элемент</translation>
+        <location filename="InfoPanel.cpp" line="18"/>
+        <source>Filter</source>
+        <translation type="unfinished">Фильтр</translation>
     </message>
     <message>
-        <location filename="InfoPanel.cpp" line="61"/>
+        <location filename="InfoPanel.cpp" line="31"/>
+        <source>Tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoPanel.cpp" line="31"/>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoPanel.cpp" line="79"/>
+        <source>Copy value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoPanel.cpp" line="80"/>
+        <source>Copy item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoPanel.cpp" line="81"/>
         <source>Copy all items</source>
         <translation>Копировать все элементы</translation>
     </message>
@@ -19187,306 +19245,301 @@ Do you want to continue?</oldsource>
         <translation>Имя</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="45"/>
+        <location filename="BrowserMenu.h" line="43"/>
         <source>Extension</source>
         <translation>Расширение</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="46"/>
-        <source>Date</source>
-        <translation>Дата</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="47"/>
+        <location filename="BrowserMenu.h" line="45"/>
         <source>Created Date</source>
         <translation>Дата создания</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="48"/>
+        <location filename="BrowserMenu.h" line="46"/>
         <source>EXIF Date Taken</source>
         <oldsource>EXIF Date</oldsource>
         <translation>EXIF: Дата съёмки</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="49"/>
+        <location filename="BrowserMenu.h" line="47"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF: Дата изменения</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="50"/>
+        <location filename="BrowserMenu.h" line="48"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="51"/>
+        <location filename="BrowserMenu.h" line="49"/>
         <source>File size</source>
         <translation>Размер файла</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="52"/>
+        <location filename="BrowserMenu.h" line="50"/>
         <source>Image size</source>
         <translation>Размер изображения</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="53"/>
+        <location filename="BrowserMenu.h" line="51"/>
         <source>Image Width</source>
         <translation>Ширина изображения</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="54"/>
+        <location filename="BrowserMenu.h" line="52"/>
         <source>Image Height</source>
         <translation>Высота изображения</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="55"/>
+        <location filename="BrowserMenu.h" line="53"/>
         <source>Orientation</source>
         <translation>Ориентация</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="56"/>
+        <location filename="BrowserMenu.h" line="54"/>
         <source>Ratio</source>
         <translation>Соотношение</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="57"/>
+        <location filename="BrowserMenu.h" line="55"/>
         <source>Print size</source>
         <translation>Размер при печати</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="58"/>
+        <location filename="BrowserMenu.h" line="56"/>
         <source>Comment</source>
         <translation>Комментарий</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="59"/>
+        <location filename="BrowserMenu.h" line="57"/>
         <source>Path</source>
         <translation>Путь</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="60"/>
+        <location filename="BrowserMenu.h" line="58"/>
         <source>Rating</source>
         <translation>Рейтинг</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="61"/>
+        <location filename="BrowserMenu.h" line="59"/>
         <source>Colour label</source>
         <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="7"/>
-        <location filename="BrowserMenu.h" line="63"/>
-        <location filename="BrowserMenu.h" line="87"/>
-        <location filename="BrowserMenu.h" line="127"/>
+        <location filename="BrowserMenu.h" line="61"/>
+        <location filename="BrowserMenu.h" line="85"/>
+        <location filename="BrowserMenu.h" line="125"/>
         <source>Custom</source>
         <translation>Пользовательская</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="65"/>
+        <location filename="BrowserMenu.h" line="63"/>
         <source>Ascending</source>
         <translation>По возрастанию</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="66"/>
+        <location filename="BrowserMenu.h" line="64"/>
         <source>Descending</source>
         <translation>По убыванию</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="68"/>
+        <location filename="BrowserMenu.h" line="66"/>
         <source>Name - numeric order</source>
         <translation>Имя - числовая последовательность</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="69"/>
+        <location filename="BrowserMenu.h" line="67"/>
         <source>Name - normal order</source>
         <translation>Имя - обычный порядок</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="70"/>
+        <location filename="BrowserMenu.h" line="68"/>
         <source>Name - alphabetic order</source>
         <translation>Имя - упорядочить по алфавиту</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="78"/>
+        <location filename="BrowserMenu.h" line="76"/>
         <source>Images</source>
         <translation>Изображения</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="80"/>
+        <location filename="BrowserMenu.h" line="78"/>
         <source>Videos</source>
         <translation>Видеофайлы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="82"/>
+        <location filename="BrowserMenu.h" line="80"/>
         <source>Sounds</source>
         <translation>Аудиофайлы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="83"/>
+        <location filename="BrowserMenu.h" line="81"/>
         <source>Archives</source>
         <translation>Архивы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="84"/>
-        <location filename="BrowserMenu.h" line="113"/>
+        <location filename="BrowserMenu.h" line="82"/>
+        <location filename="BrowserMenu.h" line="111"/>
         <source>All</source>
         <translation>Все</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="85"/>
+        <location filename="BrowserMenu.h" line="83"/>
         <source>Tagged file(s)</source>
         <translation>Отмеченные файлы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="478"/>
+        <location filename="BrowserMenu.h" line="462"/>
         <source>Excellent (go to next image)</source>
         <translation>Отлично (перейти к следующему файлу)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="479"/>
+        <location filename="BrowserMenu.h" line="463"/>
         <source>Good (go to next image)</source>
         <translation>Хорошо (перейти к следующему файлу)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="480"/>
+        <location filename="BrowserMenu.h" line="464"/>
         <source>Average (go to next image)</source>
         <translation>Средне (перейти к следующему файлу)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="481"/>
+        <location filename="BrowserMenu.h" line="465"/>
         <source>Fair (go to next image)</source>
         <translation>Неплохо (перейти к следующему файлу)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="483"/>
+        <location filename="BrowserMenu.h" line="467"/>
         <source>Unrated (go to next image)</source>
         <translation>Без рейтинга (перейти к следующему файлу)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="496"/>
+        <location filename="BrowserMenu.h" line="480"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (перейти к следующему файлу)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="499"/>
         <source>Set Rating</source>
         <translation>Задать рейтинг</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="500"/>
         <source>Set Color label</source>
         <translation>Задать цветовую метку</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="501"/>
         <source>Set Category</source>
         <translation>Задать категорию</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Open GPS location in</source>
         <translation>Показать местоположение GPS в</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="665"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>Переключить панель</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="669"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Face tag...</source>
         <translation>Тег лица...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="673"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Paste as image</source>
         <translation>Вставить как изображение</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="677"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Acquire (TWAIN)</source>
         <translation>Получить (TWAIN)</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="460"/>
-        <location filename="BrowserMenu.h" line="471"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Excellent</source>
         <translation>Отлично</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="457"/>
-        <location filename="BrowserMenu.h" line="472"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Good</source>
         <translation>Хорошо</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="454"/>
-        <location filename="BrowserMenu.h" line="473"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Average</source>
         <translation>Средне</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="445"/>
-        <location filename="BrowserMenu.h" line="476"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Unrated</source>
         <translation>Без рейтинга</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="465"/>
-        <location filename="BrowserMenu.h" line="112"/>
-        <location filename="BrowserMenu.h" line="494"/>
+        <location filename="BrowserMenu.h" line="110"/>
+        <location filename="BrowserMenu.h" line="478"/>
         <source>Uncolored</source>
         <translation>Без цветовой метки</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="622"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>Import and sort...</source>
         <translation>Импорт и сортировка...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Multi-page file...</source>
         <translation>Многостраничный файл...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>No fit</source>
         <translation>Без подгонки</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Fit image to window</source>
         <translation>По размеру окна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="275"/>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Fit image to window, large only</source>
         <translation>По размеру окна, только большие</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="276"/>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Fit image to window width</source>
         <translation>По ширине окна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="277"/>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Fit image to window height</source>
         <translation>По высоте окна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="278"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>Fit image to window width or height</source>
         <translation>По ширине или высоте окна</translation>
     </message>
@@ -19496,7 +19549,7 @@ Do you want to continue?</oldsource>
         <translation>По размеру рабочего стола</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="265"/>
+        <location filename="BrowserMenu.h" line="249"/>
         <source>Save layout D</source>
         <translation>Сохранить макет D</translation>
     </message>
@@ -19507,264 +19560,269 @@ Do you want to continue?</oldsource>
         <translation>Темная</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="86"/>
+        <location filename="BrowserMenu.h" line="44"/>
+        <source>Modified Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="84"/>
         <source>Untagged file(s)</source>
         <translation>Неотмеченные файлы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="427"/>
+        <location filename="BrowserMenu.h" line="411"/>
         <source>Open file list...</source>
         <translation>Открыть список файлов...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="502"/>
         <source>Remove from category</source>
         <translation>Удалить из категории</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>Remove from all categories</source>
         <translation>Удалить из всех категорий</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>Filelist toolbar</source>
         <translation>Панель инструментов списка файлов</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="541"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>Update catalog from files</source>
         <translation>Обновить Каталог из файлов</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="526"/>
         <source>Update files from catalog</source>
         <translation>Обновить файлы из Каталога</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="528"/>
         <source>Show files in subfolders</source>
         <translation>Показать файлы из подпапок</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="550"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Open in Finder</source>
         <translation>Открыть в Finder</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="559"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Preview as tab</source>
         <translation>Предпросмотр как вкладка</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="551"/>
         <source>Add to favorites...</source>
         <translation>Добавить в избранное...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="555"/>
         <source>Info panels</source>
         <translation>Панель информации</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="558"/>
         <source>Rotate 90° right</source>
         <translation>Повернуть на 90° вправо</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="575"/>
+        <location filename="BrowserMenu.h" line="559"/>
         <source>Rotate 90° left</source>
         <translation>Повернуть на 90° влево</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="576"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Rotate 180°</source>
         <translation>Повернуть на 180°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Повернуть на 90° вправо (без потерь)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="563"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Повернуть на 90° влево (без потерь)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="580"/>
+        <location filename="BrowserMenu.h" line="564"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Повернуть на 180° (без потерь)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="581"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Повернуть на основании поля ориентации EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="582"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Reset EXIF orientation field</source>
         <translation>Сбросить поле ориентации EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="583"/>
+        <location filename="BrowserMenu.h" line="567"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Отразить по горизонтали (без потерь)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="568"/>
         <source>Flip vertically (lossless)</source>
         <translation>Отразить по вертикали (без потерь)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="582"/>
         <source>Edit IPTC...</source>
         <translation>Изменить данные IPTC...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Edit XMP...</source>
         <translation>Изменить данные XMP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation>Изменить данные GPS...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Transfer...</source>
         <translation>Перенос...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>EXIF Thumbnail</source>
         <translation>Эскиз EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>File listing...</source>
         <translation>Список файлов...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>Send by email...</source>
         <translatorcomment>Отправить по e-mail...</translatorcomment>
         <translation>Отправить по почте...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>Join images...</source>
         <translation>Соединение изображений...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>Contact sheet...</source>
         <translation>Обзорный лист...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Slideshow...</source>
         <translation>Слайд-шоу...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="611"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translatorcomment>Может разделение?</translatorcomment>
         <translation>Разбивка изображения...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Banner...</source>
         <translation>Баннер...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>New image...</source>
         <translation>Новое изображение...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Video thumbnails gallery...</source>
         <translation>Галерея эскизов видео...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Draw as tiled</source>
         <translatorcomment>Имеется ввиду замостить изображением в окне предпросмотра</translatorcomment>
         <translation>Отображать в виде плитки</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>File operations</source>
         <translation>Операции с файлами</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>Удаление и импорт...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Catalog</source>
         <translation>Каталог</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>Category Search</source>
         <translation>Поиск категорий</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation>Переместить фокус на путь</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="667"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Filter by All</source>
         <translation>Фильтровать по всем</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="672"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Capture...</source>
         <translation>Захват экрана...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="674"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Пустая вкладка</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="676"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Select TWAIN source...</source>
         <translation>Выбрать TWAIN-совместимое устройство...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="816"/>
+        <location filename="BrowserMenu.h" line="800"/>
         <source>&amp;File</source>
         <translation>&amp;Файл</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="817"/>
+        <location filename="BrowserMenu.h" line="801"/>
         <source>&amp;Edit</source>
         <translation>&amp;Правка</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="818"/>
+        <location filename="BrowserMenu.h" line="802"/>
         <source>&amp;View</source>
         <translation>&amp;Вид</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="819"/>
+        <location filename="BrowserMenu.h" line="803"/>
         <source>Meta&amp;data</source>
         <translation>&amp;Метаданные</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="820"/>
+        <location filename="BrowserMenu.h" line="804"/>
         <source>&amp;Tools</source>
         <translation>&amp;Инструменты</translation>
     </message>
@@ -19779,718 +19837,718 @@ Do you want to continue?</oldsource>
         <translation>Черная</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="79"/>
+        <location filename="BrowserMenu.h" line="77"/>
         <source>Images (+folders)</source>
         <translation>Изображения (+папки)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="81"/>
+        <location filename="BrowserMenu.h" line="79"/>
         <source>Videos (+folders)</source>
         <translation>Видеофайлы (+папки)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="315"/>
+        <location filename="BrowserMenu.h" line="299"/>
         <source>Information</source>
         <translation>Информация</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="554"/>
         <source>Panels</source>
         <translation>Панели</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="416"/>
         <source>Image</source>
         <translation>Изображение</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="678"/>
+        <location filename="BrowserMenu.h" line="662"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Получить в (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="821"/>
+        <location filename="BrowserMenu.h" line="805"/>
         <source>C&amp;reate</source>
         <translation>С&amp;оздать</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="822"/>
+        <location filename="BrowserMenu.h" line="806"/>
         <source>&amp;Help</source>
         <translation>Сп&amp;равка</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="256"/>
+        <location filename="BrowserMenu.h" line="240"/>
         <source>Restore layout A</source>
         <oldsource>Restore layout 3</oldsource>
         <translation>Восстановить макет A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="257"/>
+        <location filename="BrowserMenu.h" line="241"/>
         <source>Restore layout B</source>
         <oldsource>Restore layout 4</oldsource>
         <translation>Восстановить макет B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="258"/>
+        <location filename="BrowserMenu.h" line="242"/>
         <source>Restore layout C</source>
         <oldsource>Restore layout 5</oldsource>
         <translation>Восстановить макет C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="260"/>
+        <location filename="BrowserMenu.h" line="244"/>
         <source>Restore layout E</source>
         <oldsource>Save layout 1</oldsource>
         <translation>Восстановить макет E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="262"/>
+        <location filename="BrowserMenu.h" line="246"/>
         <source>Save layout A</source>
         <oldsource>Save layout 3</oldsource>
         <translation>Сохранить макет A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="263"/>
+        <location filename="BrowserMenu.h" line="247"/>
         <source>Save layout B</source>
         <oldsource>Save layout 4</oldsource>
         <translation>Сохранить макет B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="264"/>
+        <location filename="BrowserMenu.h" line="248"/>
         <source>Save layout C</source>
         <oldsource>Save layout 5</oldsource>
         <translation>Сохранить макет C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="312"/>
+        <location filename="BrowserMenu.h" line="296"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Фильтр Каталога</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="314"/>
+        <location filename="BrowserMenu.h" line="298"/>
         <source>Category Sets</source>
         <translation>Наборы категорий</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="417"/>
         <source>Selected path(s)</source>
         <translation>Путь(и)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="418"/>
         <source>Selected filename(s)</source>
         <translation>Имя файла(ов)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="419"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Путь(и) и имя файла(ов)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="461"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>Navigate to</source>
         <translation>Перейти к</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="482"/>
+        <location filename="BrowserMenu.h" line="466"/>
         <source>Poor (go to next image)</source>
         <oldsource>##label## (move to next image)</oldsource>
         <translation>Плохо (перейти к следующему файлу)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="516"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>Вперед</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>Toolbar</source>
         <translation>Панель инструментов</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="537"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>Status bar</source>
         <translation>Строка состояния</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="310"/>
+        <location filename="BrowserMenu.h" line="294"/>
         <source>Folder</source>
         <translation>Папки</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="451"/>
-        <location filename="BrowserMenu.h" line="474"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Fair</source>
         <translation>Неплохо</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="448"/>
-        <location filename="BrowserMenu.h" line="475"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Poor</source>
         <translation>Плохо</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="259"/>
+        <location filename="BrowserMenu.h" line="243"/>
         <source>Restore layout D</source>
         <translation>Восстановить макет D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="266"/>
+        <location filename="BrowserMenu.h" line="250"/>
         <source>Save layout E</source>
         <translation>Сохранить макет E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="311"/>
+        <location filename="BrowserMenu.h" line="295"/>
         <source>Favorites</source>
         <translation>Избранное</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="313"/>
+        <location filename="BrowserMenu.h" line="297"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="316"/>
-        <location filename="BrowserMenu.h" line="327"/>
-        <location filename="BrowserMenu.h" line="565"/>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="BrowserMenu.h" line="300"/>
+        <location filename="BrowserMenu.h" line="311"/>
+        <location filename="BrowserMenu.h" line="549"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Preview</source>
         <translation>Предпросмотр</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="328"/>
+        <location filename="BrowserMenu.h" line="312"/>
         <source>Histogram</source>
         <translation>Гистограмма</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="422"/>
+        <location filename="BrowserMenu.h" line="406"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation>Открыть c</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserMenu.h" line="407"/>
         <source>Recent files</source>
         <translation>Недавние файлы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserMenu.h" line="410"/>
         <source>Open...</source>
         <translation>Открыть файл...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4205"/>
-        <location filename="BrowserMenu.h" line="429"/>
+        <location filename="BrowserWindow.cpp" line="4208"/>
+        <location filename="BrowserMenu.h" line="413"/>
         <source>Cut</source>
         <translation>Вырезать</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4207"/>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserWindow.cpp" line="4210"/>
+        <location filename="BrowserMenu.h" line="415"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4209"/>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserWindow.cpp" line="4212"/>
+        <location filename="BrowserMenu.h" line="420"/>
         <source>Paste</source>
         <translation>Вставить</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Select all</source>
         <translation>Выделить все</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Select none</source>
         <translation>Снять выделение</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Invert selection</source>
         <translation>Инвертировать выделение</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Select all images</source>
         <translation>Выделить все изображения</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="427"/>
         <source>Select all files</source>
         <translation>Выделить все файлы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="428"/>
         <source>Select tagged files</source>
         <translation>Выделить отмеченные файлы</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4217"/>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="BrowserWindow.cpp" line="4220"/>
+        <location filename="BrowserMenu.h" line="430"/>
         <source>Copy to...</source>
         <translation>Копировать в...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4219"/>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserWindow.cpp" line="4222"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Move to...</source>
         <translation>Переместить в...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4212"/>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserWindow.cpp" line="4215"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Rename...</source>
         <translation>Переименовать...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>New folder</source>
         <translation>Создать новую папку</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="436"/>
         <source>Previous file</source>
         <translation>Предыдущий файл</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Next file</source>
         <translation>Следующий файл</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="454"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>First file</source>
         <translation>Первый файл</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Last file</source>
         <translation>Последний файл</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Previous page</source>
         <translation>Предыдущая страница</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>Next page</source>
         <translation>Следующая страница</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>First page</source>
         <translation>Первая страница</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="459"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Last page</source>
         <translation>Последняя страница</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="444"/>
         <source>Page</source>
         <translation>Страница</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="463"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Show header</source>
         <translation>Показывать заголовок</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="441"/>
-        <location filename="BrowserMenu.h" line="464"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation>Поставить/снять метку</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="465"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>Invert</source>
         <translation>Инвертировать</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="466"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>Untag all</source>
         <translation>Снять все метки</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="467"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Clear all tags</source>
         <translation>Удалить все метки</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="468"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Show tagged files</source>
         <translation>Показать все отмеченные файлы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="469"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>Show tag box</source>
         <translation>Показывать метки</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="493"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Layout</source>
         <translation>Расположение панелей</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="494"/>
         <source>View as</source>
         <translation>Вид</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="495"/>
         <source>Sort by</source>
         <translation>Сортировка</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="496"/>
         <source>Filter by</source>
         <translation>Фильтр</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="497"/>
         <source>Thumbnails size</source>
         <translation>Размер эскизов</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="498"/>
         <source>Tag</source>
         <translation>Метка</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="505"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>Отображать как Эскизы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>Отображать как Эскизы + Имя файла</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="523"/>
+        <location filename="BrowserMenu.h" line="507"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>Отображать как Эскизы + Информация</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>Отображать как Эскизы + Таблица</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="525"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>Отображать как Значки</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>Отображать как Список</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="511"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>Отображать как Таблица</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="529"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>Show hidden files</source>
         <translation>Показывать скрытые файлы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="533"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>Up</source>
         <translation>Вверх</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>Show title of panels</source>
         <translation>Показывать названия панелей</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="524"/>
         <source>Rebuild thumbnails</source>
         <translation>Пересоздать эскизы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Refresh</source>
         <translation>Обновить</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="545"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Stop</source>
         <translation>Остановить</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Open</source>
         <translation>Открыть</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Open containing folder</source>
         <translation>Открыть папку хранения файла</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="552"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Open in file explorer</source>
         <translation>Открыть в проводнике</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="554"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Open all selected</source>
         <translation>Открыть все выделенные</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="556"/>
+        <location filename="BrowserMenu.h" line="540"/>
         <source>Fullscreen</source>
         <translation>Во весь экран</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="557"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Show</source>
         <translation>Отображать</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="558"/>
+        <location filename="BrowserMenu.h" line="542"/>
         <source>Use tabs</source>
         <translation>Использовать вкладки</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="546"/>
         <source>Show source panels</source>
         <translation>Отображать панели навигации</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="564"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Vertical tabs</source>
         <translation>Вертикальное расположение вкладок</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="569"/>
+        <location filename="BrowserMenu.h" line="553"/>
         <source>Thumbnails view only</source>
         <translation>Показать только эскизы</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="569"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Преобразование без потерь (JPEG)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Batch rename...</source>
         <translation>Пакетное переименование...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Сравнить файлы...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="578"/>
         <source>Search...</source>
         <translation>Поиск...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Find similar files...</source>
         <translation>Поиск похожих файлов...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Изменить описание/комментарий...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="581"/>
         <source>Change timestamp...</source>
         <translation>Изменить дату/время...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Export...</source>
         <translation>Экспорт...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Clean...</source>
         <translation>Удалить...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>Эскиз EXIF - повернуть на 90° влево</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>Эскиз EXIF - повернуть на 90° вправо</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>Эскиз EXIF - пересоздать</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>Convert into</source>
         <translation>Преобразовать в</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>Batch convert...</source>
         <translation>Пакетная обработка...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="611"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>Send by FTP...</source>
         <translation>Загрузить на FTP-сервер...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>Upload on web...</source>
         <translatorcomment>Возможно на веб-хостинг</translatorcomment>
         <translation>Загрузить на веб-сайт...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>Archive...</source>
         <translation>Архив...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Set as wallpaper...</source>
         <translation>Сделать фоном рабочего стола...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Print...</source>
         <translation>Печать...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Properties...</source>
         <translation>Свойства...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Real size</source>
         <translation>Реальный размер</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Zoom in</source>
         <translation>Увеличить</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Zoom out</source>
         <translation>Уменьшить</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Lock zoom</source>
         <translation>Зафиксировать масштаб</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Использовать индекс прозрачности (≤ 8бит)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Use alpha channel</source>
         <translation>Использовать альфа-канал</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>Show alpha</source>
         <translation>Отображать альфа-канал</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>Show red</source>
         <translation>Отображать красный канал</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Show green</source>
         <translation>Отображать зеленый канал</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Show blue</source>
         <translation>Отображать синий канал</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Fit image to window, small only</source>
         <translation>По размеру окна, только маленькие</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Zoom</source>
         <translation>Масштаб</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Copy to clipboard</source>
         <translation>Копировать в буфер обмена</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="663"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Quick Filter</source>
         <translatorcomment>????</translatorcomment>
         <translation>Фильтр</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4202"/>
+        <location filename="BrowserWindow.cpp" line="4205"/>
         <source>New Folder</source>
         <translation>Создать новую папку</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4214"/>
+        <location filename="BrowserWindow.cpp" line="4217"/>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
@@ -20503,95 +20561,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1466"/>
+        <location filename="xnview.cpp" line="1469"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1469"/>
+        <location filename="xnview.cpp" line="1472"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Веб-сайт...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1474"/>
+        <location filename="xnview.cpp" line="1477"/>
         <source>Make a donation...</source>
         <translation>Пожертвовать...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1467"/>
+        <location filename="xnview.cpp" line="1470"/>
         <source>About</source>
         <translation>О программе</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1468"/>
+        <location filename="xnview.cpp" line="1471"/>
         <source>PlugIns...</source>
         <translation>Подключаемые модули...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1470"/>
+        <location filename="xnview.cpp" line="1473"/>
         <source>Forum...</source>
         <translation>Форум...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1471"/>
+        <location filename="xnview.cpp" line="1474"/>
         <source>Technical Support...</source>
         <translation>Техническая поддержка...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1472"/>
+        <location filename="xnview.cpp" line="1475"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Сообщить об ошибке...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1473"/>
+        <location filename="xnview.cpp" line="1476"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1475"/>
+        <location filename="xnview.cpp" line="1478"/>
         <source>Check for update...</source>
         <translation>Проверить обновление...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1476"/>
+        <location filename="xnview.cpp" line="1479"/>
         <source>Registration...</source>
         <translation>Регистрация...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1480"/>
         <source>Purchase...</source>
         <translation>Купить...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1487"/>
-        <location filename="xnview.cpp" line="1489"/>
+        <location filename="xnview.cpp" line="1490"/>
+        <location filename="xnview.cpp" line="1492"/>
         <source>Settings...</source>
         <translation>Настройки...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1493"/>
+        <location filename="xnview.cpp" line="1496"/>
         <source>Always on top</source>
         <translation>Всегда поверх окон</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1495"/>
+        <location filename="xnview.cpp" line="1498"/>
         <source>Titlebar</source>
         <translation>Заголовок окна</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1496"/>
+        <location filename="xnview.cpp" line="1499"/>
         <source>Show</source>
         <translation>Отображать</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1497"/>
+        <location filename="xnview.cpp" line="1500"/>
         <source>Bottom</source>
         <translation>Располагать снизу</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1498"/>
+        <location filename="xnview.cpp" line="1501"/>
         <source>Tab</source>
         <translation>Вкладка</translation>
     </message>
@@ -20599,128 +20657,128 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuTemplate</name>
     <message>
-        <location filename="TemplateData.cpp" line="2783"/>
+        <location filename="TemplateData.cpp" line="2785"/>
         <source>Date format variables</source>
         <translation>Дата (переменные формата)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2548"/>
+        <location filename="TemplateData.cpp" line="2550"/>
         <source>Y - Year</source>
         <translation>Y - Год</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2549"/>
+        <location filename="TemplateData.cpp" line="2551"/>
         <source>y - Year without century (00-99)</source>
         <translation>y - Год без столетия (00-99)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2550"/>
+        <location filename="TemplateData.cpp" line="2552"/>
         <source>m - Month as decimal (01-12)</source>
         <translation>m - Месяц в виде порядкового номера (01-12)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2551"/>
+        <location filename="TemplateData.cpp" line="2553"/>
         <source>d - Day as decimal (01-31)</source>
         <translation>d - День в виде порядкового номера (01-31)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2553"/>
+        <location filename="TemplateData.cpp" line="2555"/>
         <source>H - Hour (01-24)</source>
         <translation>H - Часы (01-24)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2554"/>
+        <location filename="TemplateData.cpp" line="2556"/>
         <source>M - Minute (00-59)</source>
         <translation>M - Минуты (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2555"/>
+        <location filename="TemplateData.cpp" line="2557"/>
         <source>S - Second (00-59)</source>
         <translation>S - Секунды (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2557"/>
+        <location filename="TemplateData.cpp" line="2559"/>
         <source>B - Month name (eg. february)</source>
         <translation>B - Название месяца (н-р, февраль)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2558"/>
+        <location filename="TemplateData.cpp" line="2560"/>
         <source>b - Abbreviated month name (eg. feb)</source>
         <translation>b - Аббревиатура названия месяца (н-р, фев)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2559"/>
+        <location filename="TemplateData.cpp" line="2561"/>
         <source>A - Weekday name (eg. wednesday)</source>
         <translation>A - День недели (н-р, четверг)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2560"/>
+        <location filename="TemplateData.cpp" line="2562"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
         <translation>a - Аббревиатура дня недели (н-р, чт)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2782"/>
+        <location filename="TemplateData.cpp" line="2784"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
         <translation># - счётчик</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2800"/>
+        <location filename="TemplateData.cpp" line="2802"/>
         <source>Extra</source>
         <translation>Дополнительно</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2802"/>
+        <location filename="TemplateData.cpp" line="2804"/>
         <source>Image</source>
         <translation>Изображение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2803"/>
+        <location filename="TemplateData.cpp" line="2805"/>
         <source>Saved Image</source>
         <translation>Сохраненное изображение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2804"/>
+        <location filename="TemplateData.cpp" line="2806"/>
         <source>EXIF - Camera</source>
         <translation>EXIF - Камера</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2805"/>
+        <location filename="TemplateData.cpp" line="2807"/>
         <source>EXIF - Image</source>
         <translation>EXIF - Изображение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2806"/>
+        <location filename="TemplateData.cpp" line="2808"/>
         <source>EXIF - GPS</source>
         <translation>EXIF - GPS</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2807"/>
+        <location filename="TemplateData.cpp" line="2809"/>
         <source>IPTC - Caption</source>
         <translation>IPTC - Описание</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2808"/>
+        <location filename="TemplateData.cpp" line="2810"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
         <translation>IPTC - Ключевые слова и Категории</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2812"/>
+        <location filename="TemplateData.cpp" line="2814"/>
         <source>XMP</source>
         <translation>XMP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2809"/>
+        <location filename="TemplateData.cpp" line="2811"/>
         <source>IPTC - Credits</source>
         <translation>IPTC - Контакты</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2810"/>
+        <location filename="TemplateData.cpp" line="2812"/>
         <source>IPTC - Status</source>
         <translation>IPTC - Состояние</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2811"/>
+        <location filename="TemplateData.cpp" line="2813"/>
         <source>IPTC - Origin</source>
         <translation>IPTC - Местоположение</translation>
     </message>
@@ -21727,16 +21785,6 @@ Do you want to continue?</oldsource>
         <translation>Затенение/Осветление...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="473"/>
-        <source>Normalize...</source>
-        <translation>Нормализовать...</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="474"/>
-        <source>Align...</source>
-        <translation>Выровнять...</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="487"/>
         <source>Rotate...</source>
         <translation>Повернуть...</translation>
@@ -22220,34 +22268,29 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyTabBar</name>
     <message>
-        <location filename="MyTabBar.cpp" line="213"/>
+        <location filename="MyTabBar.cpp" line="196"/>
         <source>&amp;Close tab</source>
         <translation>&amp;Закрыть вкладку</translation>
     </message>
     <message>
-        <location filename="MyTabBar.cpp" line="228"/>
+        <location filename="MyTabBar.cpp" line="211"/>
         <source>Close &amp;other tabs</source>
         <translation>Закрыть прочие вкладки</translation>
     </message>
     <message>
-        <location filename="MyTabBar.cpp" line="236"/>
+        <location filename="MyTabBar.cpp" line="219"/>
         <source>Duplicate tab</source>
         <translation>Дублировать вкладку</translation>
     </message>
     <message>
-        <location filename="MyTabBar.cpp" line="245"/>
+        <location filename="MyTabBar.cpp" line="228"/>
         <source>Tab settings...</source>
         <translation>Настройки вкладок...</translation>
     </message>
     <message>
-        <location filename="MyTabBar.cpp" line="247"/>
+        <location filename="MyTabBar.cpp" line="230"/>
         <source>Iconify tabs</source>
         <translation>Иконки вкладок</translation>
-    </message>
-    <message>
-        <location filename="MyTabBar.cpp" line="413"/>
-        <source>Close this tab</source>
-        <translation>Закрыть эту вкладку</translation>
     </message>
 </context>
 <context>
@@ -22261,7 +22304,7 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyThumbView</name>
     <message>
-        <location filename="MyThumbView.cpp" line="490"/>
+        <location filename="MyThumbView.cpp" line="489"/>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
@@ -22270,20 +22313,20 @@ You can change it in Settings › Catalog.</oldsource>
 Вы можете это изменить в Настройки › Каталог.</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="612"/>
+        <location filename="MyThumbView.cpp" line="611"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
         <translation>Обновление Каталога...</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="626"/>
+        <location filename="MyThumbView.cpp" line="625"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
         <translation>Обновление файлов...</translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1227"/>
-        <location filename="MyThumbView.cpp" line="1240"/>
+        <location filename="MyThumbView.cpp" line="1226"/>
+        <location filename="MyThumbView.cpp" line="1239"/>
         <source>%n object(s)</source>
         <translation>
             <numerusform>%n объект</numerusform>
@@ -22292,7 +22335,7 @@ You can change it in Settings › Catalog.</oldsource>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1227"/>
+        <location filename="MyThumbView.cpp" line="1226"/>
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
             <numerusform>%n объект выделен [%3 %4]</numerusform>
@@ -22301,7 +22344,7 @@ You can change it in Settings › Catalog.</oldsource>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1238"/>
+        <location filename="MyThumbView.cpp" line="1237"/>
         <source>%n object(s) [%2 %3]</source>
         <translation>
             <numerusform>%n объект [%2 %3]</numerusform>
@@ -22310,17 +22353,17 @@ You can change it in Settings › Catalog.</oldsource>
         </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1280"/>
+        <location filename="MyThumbView.cpp" line="1279"/>
         <source>[Free disk space: %1 %2]</source>
         <translation>[Свободное место на диске: %1 %2]</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1598"/>
+        <location filename="MyThumbView.cpp" line="1597"/>
         <source>All</source>
         <translation>Все</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1602"/>
+        <location filename="MyThumbView.cpp" line="1601"/>
         <source>None</source>
         <translation>Ничего</translation>
     </message>
@@ -22328,23 +22371,23 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>MyView</name>
     <message>
-        <location filename="MyView.cpp" line="373"/>
+        <location filename="MyView.cpp" line="376"/>
         <source>RGB/A</source>
         <translation>RGB/A</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="376"/>
+        <location filename="MyView.cpp" line="379"/>
         <source>RGB</source>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="951"/>
+        <location filename="MyView.cpp" line="901"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1.</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="952"/>
+        <location filename="MyView.cpp" line="902"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>Для получения более подробной информации, пожалуйста, посетите %1.</translation>
     </message>
@@ -22778,7 +22821,7 @@ You can change it in Settings › Catalog.</oldsource>
         <translation>Гистограмма</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2202"/>
+        <location filename="BrowserWindow.cpp" line="2205"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Щёлкните по флажку, чтобы переключить назначение.
@@ -22795,7 +22838,7 @@ Right Click for pop-up menu with actions.</source>
         <translation>Карта</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="571"/>
+        <location filename="PreviewInfo.cpp" line="568"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
@@ -22811,7 +22854,7 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="726"/>
+        <location filename="PreviewInfo.cpp" line="730"/>
         <source>Preview</source>
         <translation>Предпросмотр</translation>
     </message>
@@ -23359,7 +23402,7 @@ Right Click for pop-up menu with actions.</source>
         <translation>Пропускать ошибки чтения</translation>
     </message>
     <message>
-        <location filename="ReadSettingsWidget.cpp" line="34"/>
+        <location filename="ReadSettingsWidget.cpp" line="38"/>
         <source>Camera RAW</source>
         <translation>Camera RAW</translation>
     </message>
@@ -23943,12 +23986,12 @@ Do you want to keep the thumbnails?
         <translation>Обновлений нет. Вы используете последнюю версию программы.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1696"/>
+        <location filename="xnview.cpp" line="1694"/>
         <source>Do you want to save session?</source>
         <translation>Вы хотите сохранять сессию?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3117"/>
+        <location filename="xnview.cpp" line="3115"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -23966,18 +24009,18 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <translation>Сессия</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1621"/>
+        <location filename="xnview.cpp" line="1619"/>
         <source>Do you want to quit?</source>
         <translation>Вы действительно хотите выйти?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1697"/>
+        <location filename="xnview.cpp" line="1695"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Сохранение большого количества вкладок может заметно замедлить открытие программы.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1703"/>
+        <location filename="xnview.cpp" line="1701"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Больше не спрашивать</translation>
@@ -23993,7 +24036,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <translation>Файл не найден.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1722"/>
+        <location filename="xnview.cpp" line="1720"/>
         <source>Do you want to save this session?</source>
         <translation>Хотите сохранить эту сессию?</translation>
     </message>

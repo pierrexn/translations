@@ -6691,10 +6691,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation>Ulostulokansio</translation>
     </message>
     <message>
-        <source>Categories to assign</source>
-        <translation>Kategorioiden määrittäminen</translation>
-    </message>
-    <message>
         <source>Import and sort</source>
         <translation>Tuo ja lajittele</translation>
     </message>
@@ -6783,10 +6779,6 @@ ja luodaan alikansiot. </translation>
         <translation>Kirjoita upotetut metatiedot (JPEG/TIFF/PNG)</translation>
     </message>
     <message>
-        <source>Use ; to separate categories</source>
-        <translation>Käytä ; luokkien erottamiseen</translation>
-    </message>
-    <message>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
         <translation>Tuontia ei voida suorittaa, lähde- ja kohdekansio ovat samoja!</translation>
     </message>
@@ -6809,6 +6801,10 @@ ja luodaan alikansiot. </translation>
     <message>
         <source>No action</source>
         <translation>Ei toimintaa</translation>
+    </message>
+    <message>
+        <source>Categories to assign (use ; to separate categories)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7877,6 +7873,33 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Gamma</source>
         <translation>Gamma</translation>
+    </message>
+</context>
+<context>
+    <name>DlgReadJPEG</name>
+    <message>
+        <source>Dithering</source>
+        <translation type="unfinished">Rasterointi</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Ei mitään</translation>
+    </message>
+    <message>
+        <source>Ordered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9640,6 +9663,10 @@ pienoiskuvina</translation>
         <source>Black</source>
         <translation>Musta</translation>
     </message>
+    <message>
+        <source>File copying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -10591,6 +10618,10 @@ Haluatko määrittää uudelleen?</translation>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <translation>Kuvaselain › Näkymä › Näkymä nimellä › Esikatselukuvat + Tiedot</translation>
     </message>
+    <message>
+        <source>Frame&apos;s count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -10782,10 +10813,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Jatkuva toisto (Tiedostolistalla olevat)</translation>
     </message>
     <message>
-        <source>Show Pan tool</source>
-        <translation>Näytä panorointityökalu</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Suodin</translation>
     </message>
@@ -10896,6 +10923,10 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Stretch horizontally</source>
         <translation>Venytä vaakasuunnassa</translation>
+    </message>
+    <message>
+        <source>Show navigator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14162,12 +14193,28 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
 <context>
     <name>InfoTreeView</name>
     <message>
-        <source>Copy this item</source>
-        <translation>Kopioi tämä kohde</translation>
-    </message>
-    <message>
         <source>Copy all items</source>
         <translation>Kopioi kaikki kohteet</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Suodin</translation>
+    </message>
+    <message>
+        <source>Tag</source>
+        <translation type="unfinished">Merkintä (Tagit)</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy item</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14572,10 +14619,6 @@ Jatketaanko?</translation>
     <message>
         <source>Dark</source>
         <translation>Tumma</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation>Päiväys</translation>
     </message>
     <message>
         <source>Fair</source>
@@ -15613,6 +15656,10 @@ Jatketaanko?</translation>
         <source>Untagged file(s)</source>
         <translation>Merkitsemättömät tiedostot</translation>
     </message>
+    <message>
+        <source>Modified Date</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16003,10 +16050,6 @@ Jatketaanko?</translation>
         <translation>Poista...</translation>
     </message>
     <message>
-        <source>Align...</source>
-        <translation>Kohdista...</translation>
-    </message>
-    <message>
         <source>A4, A3, ... (1.41)</source>
         <translation>A4, A3, ... (1.41)</translation>
     </message>
@@ -16193,10 +16236,6 @@ Jatketaanko?</translation>
     <message>
         <source>Print selection...</source>
         <translation>Tulosta valinta...</translation>
-    </message>
-    <message>
-        <source>Normalize...</source>
-        <translation>Normalisoi...</translation>
     </message>
     <message>
         <source>Desaturate</source>
@@ -16966,10 +17005,6 @@ Jatketaanko?</translation>
     <message>
         <source>Tab settings...</source>
         <translation>Välilehti asetukset...</translation>
-    </message>
-    <message>
-        <source>Close this tab</source>
-        <translation>Sulje tämä täppi</translation>
     </message>
 </context>
 <context>

@@ -6724,14 +6724,6 @@ The internal folder structure will be flattened. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Categories to assign</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use ; to separate categories</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Extensions (; to separate)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6781,6 +6773,10 @@ The internal folder structure will be flattened. </source>
     </message>
     <message>
         <source>No action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Categories to assign (use ; to separate categories)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7845,6 +7841,33 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Gamma</source>
         <translation>Gama</translation>
+    </message>
+</context>
+<context>
+    <name>DlgReadJPEG</name>
+    <message>
+        <source>Dithering</source>
+        <translation type="unfinished">Pontilhamento</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Nenhum</translation>
+    </message>
+    <message>
+        <source>Ordered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9589,6 +9612,10 @@ Thumbnail</source>
         <source>Black</source>
         <translation type="unfinished">Preto</translation>
     </message>
+    <message>
+        <source>File copying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -10536,6 +10563,10 @@ Do you want to reassign?</source>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Frame&apos;s count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -10673,10 +10704,6 @@ Do you want to reassign?</source>
     <message>
         <source>Auto play (video)</source>
         <translation>Executar vídeos automaticamente</translation>
-    </message>
-    <message>
-        <source>Show Pan tool</source>
-        <translation>Mostrar a ferramenta panorâmica</translation>
     </message>
     <message>
         <source>Show scrollbars</source>
@@ -10840,6 +10867,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Stretch horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show navigator</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14104,12 +14135,28 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoTreeView</name>
     <message>
-        <source>Copy this item</source>
-        <translation>Copiar esse item</translation>
-    </message>
-    <message>
         <source>Copy all items</source>
         <translation>Copiar todos os itens</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filtro</translation>
+    </message>
+    <message>
+        <source>Tag</source>
+        <translation type="unfinished">Marcação</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy item</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14552,10 +14599,6 @@ Do you want to continue?</source>
     <message>
         <source>Extension</source>
         <translation>Extensão</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation>Data</translation>
     </message>
     <message>
         <source>Type</source>
@@ -15553,6 +15596,10 @@ Do you want to continue?</source>
         <source>Untagged file(s)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Modified Date</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16009,14 +16056,6 @@ Do you want to continue?</source>
     <message>
         <source>Shadow/Highlight...</source>
         <translation>Sombra/Destaque...</translation>
-    </message>
-    <message>
-        <source>Normalize...</source>
-        <translation>Normalizar...</translation>
-    </message>
-    <message>
-        <source>Align...</source>
-        <translation>Alinhar...</translation>
     </message>
     <message>
         <source>Map</source>
@@ -16888,10 +16927,6 @@ Do you want to continue?</source>
 </context>
 <context>
     <name>MyTabBar</name>
-    <message>
-        <source>Close this tab</source>
-        <translation>Fechar esta aba</translation>
-    </message>
     <message>
         <source>Tab settings...</source>
         <translation>Configurações da aba...</translation>

@@ -6702,10 +6702,6 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
         <translation>din</translation>
     </message>
     <message>
-        <source>Categories to assign</source>
-        <translation>Categorii de atribuit</translation>
-    </message>
-    <message>
         <source>Import and sort</source>
         <translation>Importă și sortează</translation>
     </message>
@@ -6790,10 +6786,6 @@ Subfolderele vor fi create.. </translation>
         <translation>Scrie în metadatele încorporate (JPEG/TIFF/PNG)</translation>
     </message>
     <message>
-        <source>Use ; to separate categories</source>
-        <translation>Utilizare ; a separa categoriile</translation>
-    </message>
-    <message>
         <source>Files import finished!</source>
         <translation>Importul fișierelor s-a încheiat!</translation>
     </message>
@@ -6824,6 +6816,10 @@ Subfolderele vor fi create.. </translation>
     <message>
         <source>No action</source>
         <translation>Nicio acțiune</translation>
+    </message>
+    <message>
+        <source>Categories to assign (use ; to separate categories)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7888,6 +7884,33 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <message>
         <source>Gamma</source>
         <translation>Gamma</translation>
+    </message>
+</context>
+<context>
+    <name>DlgReadJPEG</name>
+    <message>
+        <source>Dithering</source>
+        <translation type="unfinished">Rasterizare</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9650,6 +9673,10 @@ Miniatură</translation>
         <source>Black</source>
         <translation>Negru</translation>
     </message>
+    <message>
+        <source>File copying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -10600,6 +10627,10 @@ Dorești să-l reatribui?</translation>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <translation>Navigator › Vezi › Vezi ca › Miniaturi + Etichete</translation>
     </message>
+    <message>
+        <source>Frame&apos;s count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -10783,10 +10814,6 @@ Dorești să-l reatribui?</translation>
         <translation>Buclă pe lista de fișiere</translation>
     </message>
     <message>
-        <source>Show Pan tool</source>
-        <translation>Afișează instrumentul de panoramare</translation>
-    </message>
-    <message>
         <source>Auto zoom</source>
         <translation>Scalare automată</translation>
     </message>
@@ -10905,6 +10932,10 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
         <translation>(apare atunci când mouse-ul este mutat în partea de sus sau în dreapta ecranului)</translation>
+    </message>
+    <message>
+        <source>Show navigator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14171,12 +14202,28 @@ Dorești să ștergi favoritul „%1”?</translation>
 <context>
     <name>InfoTreeView</name>
     <message>
-        <source>Copy this item</source>
-        <translation>Copiază acest articol</translation>
-    </message>
-    <message>
         <source>Copy all items</source>
         <translation>Copiază toate elementele</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filtru</translation>
+    </message>
+    <message>
+        <source>Tag</source>
+        <translation type="unfinished">Etichetă</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy item</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14581,10 +14628,6 @@ Vrei să continui?</translation>
     <message>
         <source>Dark</source>
         <translation>Întunecat</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation>Data</translation>
     </message>
     <message>
         <source>Fair</source>
@@ -15622,6 +15665,10 @@ Vrei să continui?</translation>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;date</translation>
     </message>
+    <message>
+        <source>Modified Date</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16008,10 +16055,6 @@ Vrei să continui?</translation>
         <translation>Șterge...</translation>
     </message>
     <message>
-        <source>Align...</source>
-        <translation>Alinia...</translation>
-    </message>
-    <message>
         <source>A4, A3, ... (1.41)</source>
         <translation>A4, A3, ... (1.41)</translation>
     </message>
@@ -16190,10 +16233,6 @@ Vrei să continui?</translation>
     <message>
         <source>Print selection...</source>
         <translation>Imprimă selecția...</translation>
-    </message>
-    <message>
-        <source>Normalize...</source>
-        <translation>Normalizare...</translation>
     </message>
     <message>
         <source>Desaturate</source>
@@ -16975,10 +17014,6 @@ Vrei să continui?</translation>
     <message>
         <source>Tab settings...</source>
         <translation>Tab Setări...</translation>
-    </message>
-    <message>
-        <source>Close this tab</source>
-        <translation>Închide această filă</translation>
     </message>
 </context>
 <context>

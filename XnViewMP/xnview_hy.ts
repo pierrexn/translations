@@ -6750,14 +6750,6 @@ The internal folder structure will be flattened. </source>
         <translation>Անվանափոխել ըստ լուսանկարների</translation>
     </message>
     <message>
-        <source>Categories to assign</source>
-        <translation>Կցելու համար անվանակարգեր</translation>
-    </message>
-    <message>
-        <source>Use ; to separate categories</source>
-        <translation>Օգտագործեք ;՝ տարանջատելու համար անվանակարգերը</translation>
-    </message>
-    <message>
         <source>Extensions (; to separate)</source>
         <translation>Ընդլայնումներ (;՝ առանձնացնելու համար)</translation>
     </message>
@@ -6808,6 +6800,10 @@ The internal folder structure will be flattened. </source>
     <message>
         <source>No action</source>
         <translation>Չկա գործույթ</translation>
+    </message>
+    <message>
+        <source>Categories to assign (use ; to separate categories)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7872,6 +7868,33 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Gamma</source>
         <translation>Գամմա</translation>
+    </message>
+</context>
+<context>
+    <name>DlgReadJPEG</name>
+    <message>
+        <source>Dithering</source>
+        <translation type="unfinished">Ողորկում</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Չկա</translation>
+    </message>
+    <message>
+        <source>Ordered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9634,6 +9657,10 @@ Thumbnail</source>
         <source>Black</source>
         <translation type="unfinished">Սև</translation>
     </message>
+    <message>
+        <source>File copying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -10584,6 +10611,10 @@ Do you want to reassign?</source>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <translation>Դիտարկիչ » Տեսք » Դիտել որպես » Մանրապատկերներ » Պիտակներ</translation>
     </message>
+    <message>
+        <source>Frame&apos;s count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -10721,10 +10752,6 @@ Do you want to reassign?</source>
     <message>
         <source>Loop on the file list</source>
         <translation>Կրկնել ցանկը</translation>
-    </message>
-    <message>
-        <source>Show Pan tool</source>
-        <translation>Ցուցադրել Առջ. գործիքը</translation>
     </message>
     <message>
         <source>Show scrollbars</source>
@@ -10889,6 +10916,10 @@ Do you want to reassign?</source>
     <message>
         <source>Stretch horizontally</source>
         <translation>Ձգել հորիզոնական</translation>
+    </message>
+    <message>
+        <source>Show navigator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14155,12 +14186,28 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoTreeView</name>
     <message>
-        <source>Copy this item</source>
-        <translation>Պատճենել միույթը</translation>
-    </message>
-    <message>
         <source>Copy all items</source>
         <translation>Պատճենել բոլորը</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Զտիչ</translation>
+    </message>
+    <message>
+        <source>Tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy item</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14561,10 +14608,6 @@ Do you want to continue?</source>
     <message>
         <source>Copy</source>
         <translation>Պատճենել</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation>Ամսաթիվ</translation>
     </message>
     <message>
         <source>Fair</source>
@@ -15606,6 +15649,10 @@ Do you want to continue?</source>
         <source>Untagged file(s)</source>
         <translation>Չպիտակավորված ֆայլ(եր)</translation>
     </message>
+    <message>
+        <source>Modified Date</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15932,10 +15979,6 @@ Do you want to continue?</source>
         <translation>Ջնջել...</translation>
     </message>
     <message>
-        <source>Align...</source>
-        <translation>Հավասարեցում...</translation>
-    </message>
-    <message>
         <source>A4, A3, ... (1.41)</source>
         <translation>A4, A3, ... (1.41)</translation>
     </message>
@@ -16066,10 +16109,6 @@ Do you want to continue?</source>
     <message>
         <source>Real size</source>
         <translation>Իրական չափ</translation>
-    </message>
-    <message>
-        <source>Normalize...</source>
-        <translation>Կանոնավորել...</translation>
     </message>
     <message>
         <source>Equalize</source>
@@ -16947,10 +16986,6 @@ Do you want to continue?</source>
     <message>
         <source>Tab settings...</source>
         <translation>Ներդիրի կարգավորումներ...</translation>
-    </message>
-    <message>
-        <source>Close this tab</source>
-        <translation>Փակել այս պատուհանը</translation>
     </message>
     <message>
         <source>&amp;Close tab</source>

@@ -6687,10 +6687,6 @@ Please make sure that files are not read-only!</source>
         <translation>desde</translation>
     </message>
     <message>
-        <source>Categories to assign</source>
-        <translation>Categorías a asignar</translation>
-    </message>
-    <message>
         <source>Import and sort</source>
         <translation>Importar y ordenar</translation>
     </message>
@@ -6775,10 +6771,6 @@ Se crearán subcarpetas. </translation>
         <translation>Escribir en metadatos incrustados (JPEG/TIFF/PNG)</translation>
     </message>
     <message>
-        <source>Use ; to separate categories</source>
-        <translation>Utilizar ; para separar categorías</translation>
-    </message>
-    <message>
         <source>Files import finished!</source>
         <translation>¡Importación de archivos finalizada!</translation>
     </message>
@@ -6809,6 +6801,10 @@ Se crearán subcarpetas. </translation>
     <message>
         <source>No action</source>
         <translation>Sin acción</translation>
+    </message>
+    <message>
+        <source>Categories to assign (use ; to separate categories)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7873,6 +7869,33 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Gamma</source>
         <translation>Gamma</translation>
+    </message>
+</context>
+<context>
+    <name>DlgReadJPEG</name>
+    <message>
+        <source>Dithering</source>
+        <translation type="unfinished">Tramado</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ordered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9635,6 +9658,10 @@ miniatura</translation>
         <source>Black</source>
         <translation type="unfinished">Negro</translation>
     </message>
+    <message>
+        <source>File copying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -10585,6 +10612,10 @@ Do you want to reassign?</source>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <translation>Navegador › Ver › Ver como › Miniaturas + Etiquetas</translation>
     </message>
+    <message>
+        <source>Frame&apos;s count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -10768,10 +10799,6 @@ Do you want to reassign?</source>
         <translation>Bucle en la lista de archivos</translation>
     </message>
     <message>
-        <source>Show Pan tool</source>
-        <translation>Mostrar la herramienta Desplazar</translation>
-    </message>
-    <message>
         <source>Zoom Out</source>
         <translation>Alejar</translation>
     </message>
@@ -10890,6 +10917,10 @@ Do you want to reassign?</source>
     <message>
         <source>Stretch horizontally</source>
         <translation>Estirar horizontalmente</translation>
+    </message>
+    <message>
+        <source>Show navigator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14156,12 +14187,28 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoTreeView</name>
     <message>
-        <source>Copy this item</source>
-        <translation>Copiar este elemento</translation>
-    </message>
-    <message>
         <source>Copy all items</source>
         <translation>Copiar todos los elementos</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filtro</translation>
+    </message>
+    <message>
+        <source>Tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy item</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14566,10 +14613,6 @@ Do you want to continue?</source>
     <message>
         <source>Dark</source>
         <translation>Oscuro</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation>Fecha</translation>
     </message>
     <message>
         <source>Fair</source>
@@ -15607,6 +15650,10 @@ Do you want to continue?</source>
         <source>Untagged file(s)</source>
         <translation>Archivo(s) sin etiquetar</translation>
     </message>
+    <message>
+        <source>Modified Date</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15993,10 +16040,6 @@ Do you want to continue?</source>
         <translation>Eliminar...</translation>
     </message>
     <message>
-        <source>Align...</source>
-        <translation>Alinear...</translation>
-    </message>
-    <message>
         <source>A4, A3, ... (1.41)</source>
         <translation></translation>
     </message>
@@ -16175,10 +16218,6 @@ Do you want to continue?</source>
     <message>
         <source>Print selection...</source>
         <translation>Imprimir selección...</translation>
-    </message>
-    <message>
-        <source>Normalize...</source>
-        <translation>Normalizar...</translation>
     </message>
     <message>
         <source>Desaturate</source>
@@ -16960,10 +16999,6 @@ Do you want to continue?</source>
     <message>
         <source>Tab settings...</source>
         <translation>Configuración de pestaña...</translation>
-    </message>
-    <message>
-        <source>Close this tab</source>
-        <translation>Cerrar esta pestaña</translation>
     </message>
 </context>
 <context>
