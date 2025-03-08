@@ -10078,12 +10078,12 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Összemosás</translation>
+        <translation>Összemosás</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
@@ -10093,7 +10093,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Egész szám</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
@@ -10103,7 +10103,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lebegőpontos szám</translation>
     </message>
 </context>
 <context>
@@ -12267,7 +12267,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl másolása</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="798"/>
@@ -18512,7 +18512,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="18"/>
         <source>Filter</source>
-        <translation type="unfinished">Szűrő</translation>
+        <translation>Szűrő</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
@@ -19221,7 +19221,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Módosítás dátuma</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="63"/>
