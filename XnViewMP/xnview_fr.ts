@@ -8648,7 +8648,7 @@ Les sous-dossiers seront créés.</translation>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">Assigner des catégories</translation>
+        <translation>Assigner des catégories (; pour séparer les catégories)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
@@ -10094,12 +10094,12 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Tramage</translation>
+        <translation>Tramage</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
@@ -10109,12 +10109,12 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Entier</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Entier rapide</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
@@ -12061,7 +12061,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="97"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Clair</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
@@ -12156,7 +12156,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie de fichier</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="831"/>
@@ -13571,7 +13571,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d&apos;images</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1174"/>
@@ -13791,7 +13791,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
-        <translation type="unfinished">Afficher l&apos;outil d&apos;ajustement</translation>
+        <translation>Afficher l&apos;outil de navigation</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -18533,27 +18533,27 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="18"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished">Marque</translation>
+        <translation>Marque</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier la valeur</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier l&apos;objet</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -20252,7 +20252,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date de modification</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="77"/>
