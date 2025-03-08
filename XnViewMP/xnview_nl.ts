@@ -8649,7 +8649,7 @@ Submappen worden aangemaakt. </translation>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">Categorieën toewijzen</translation>
+        <translation>Categorieën toewijzen(gebruik ; om categorieën te scheiden)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
@@ -10095,32 +10095,32 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Rastering</translation>
+        <translation>Rastering</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished">Geen</translation>
+        <translation>Geen</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Geordend</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Integer</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Fast integer</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating</source>
-        <translation type="unfinished"></translation>
+        <translation>Floating</translation>
     </message>
 </context>
 <context>
@@ -12284,7 +12284,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand kopiëren</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="798"/>
@@ -13512,7 +13512,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantal frames</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1061"/>
@@ -13905,7 +13905,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
-        <translation type="unfinished">Pan-gereedschap weergeven</translation>
+        <translation>Navigatie weergeven</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -18530,27 +18530,27 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="18"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished">Label</translation>
+        <translation>Label</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarde</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarde kopiëren</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Item kopiëren</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -19289,7 +19289,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepaste datum</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="63"/>
