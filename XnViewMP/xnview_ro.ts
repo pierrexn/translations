@@ -4062,7 +4062,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Rasterizare</translation>
+        <translation>Pixelare</translation>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
@@ -6032,7 +6032,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Rasterizare</translation>
+        <translation>Pixelare</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
@@ -7890,7 +7890,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadJPEG</name>
     <message>
         <source>Dithering</source>
-        <translation>Rasterizare</translation>
+        <translation>Pixelare</translation>
     </message>
     <message>
         <source>None</source>
