@@ -6537,7 +6537,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>Nu se poate conecta la serverul FTP la %1. Te rugăm rugăm să verifici dacă numele gazdei e corect.</translation>
+        <translation>Nu se poate conecta la serverul FTP la %1. Te rugăm să verifici dacă numele gazdei e corect.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
@@ -6819,7 +6819,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Categories to assign (use ; to separate categories)</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorii de atribuit (folosește ; pentru separarea categoriilor)</translation>
     </message>
 </context>
 <context>
@@ -7890,27 +7890,27 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadJPEG</name>
     <message>
         <source>Dithering</source>
-        <translation type="unfinished">Rasterizare</translation>
+        <translation>Rasterizare</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciunul</translation>
     </message>
     <message>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordonat</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg</translation>
     </message>
     <message>
         <source>Fast integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr întreg rapid</translation>
     </message>
     <message>
         <source>Floating</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr în virgulă mobilă</translation>
     </message>
 </context>
 <context>
@@ -9675,7 +9675,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Copierea fișierelor</translation>
     </message>
 </context>
 <context>
@@ -10629,7 +10629,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Numerotarea cadrelor</translation>
     </message>
 </context>
 <context>
@@ -10935,7 +10935,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Show navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează navigatorul</translation>
     </message>
 </context>
 <context>
@@ -13877,7 +13877,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Original trans. ref.</source>
-        <translation>Traducere de ref. originală</translation>
+        <translation>Traducere de referință originală</translation>
     </message>
     <message>
         <source>Digitized date</source>
@@ -13897,7 +13897,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Credit</source>
-        <translation>Credit</translation>
+        <translation>Mulțumire</translation>
     </message>
     <message>
         <source>Job ID</source>
@@ -14207,23 +14207,23 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtru</translation>
+        <translation>Filtru</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished">Etichetă</translation>
+        <translation>Etichetă</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare</translation>
     </message>
     <message>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiază valoarea</translation>
     </message>
     <message>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiază elementul</translation>
     </message>
 </context>
 <context>
@@ -15667,7 +15667,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data modificată</translation>
     </message>
 </context>
 <context>
@@ -15980,7 +15980,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>US Letter (1.29)</source>
-        <translation>US Letter (1.29)</translation>
+        <translation>US Letter (Scrisoare americană) (1.29)</translation>
     </message>
     <message>
         <source>High zoom quality</source>
