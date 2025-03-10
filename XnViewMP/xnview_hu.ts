@@ -8632,7 +8632,7 @@ Az almappák jönnek létre. </translation>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">Társítandó kategóriák</translation>
+        <translation>Társítandó kategóriák (elválasztáshoz &apos;;&apos;)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
