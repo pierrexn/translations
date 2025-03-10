@@ -6,7 +6,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="425"/>
         <source>Uncolored</source>
-        <translation>Brez barve</translation>
+        <translation>Neobarvan</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="431"/>
@@ -8681,7 +8681,7 @@ Ustvarjene bodo podmape. </translation>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">Razredi za dodelitev</translation>
+        <translation>Kategorije za dodelitev (uporabite ; za ločevanje kategorij)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
@@ -10128,32 +10128,32 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Stresanje</translation>
+        <translation>Stresanje</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished">Brez</translation>
+        <translation>Brez</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Naročeno</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Celo število</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitro celo število</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating</source>
-        <translation type="unfinished"></translation>
+        <translation>Lebdeče</translation>
     </message>
 </context>
 <context>
@@ -12188,7 +12188,7 @@ sličico</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiranje datoteke</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="831"/>
@@ -13604,7 +13604,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Število okvirjev</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1174"/>
@@ -13824,7 +13824,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
-        <translation type="unfinished">Prikaži orodje za prilagajanje</translation>
+        <translation>Prikaži navigator</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -14333,7 +14333,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSimilarResult.ui" line="422"/>
         <location filename="DlgSimilarResult.ui" line="568"/>
         <source>Modified date</source>
-        <translation>Datum spremembe</translation>
+        <translation>Spremenjen datum</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="436"/>
@@ -16651,7 +16651,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2794"/>
         <source>Modified date</source>
-        <translation>Datum spremembe</translation>
+        <translation>Spremenjen datum</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="167"/>
@@ -17486,7 +17486,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="286"/>
         <source>Modified date</source>
-        <translation>Datum spremembe</translation>
+        <translation>Spremenjen datum</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="291"/>
@@ -18560,27 +18560,27 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="18"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished">Oznaka</translation>
+        <translation>Oznaka</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj vrednost</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj postavko</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -18646,7 +18646,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1080"/>
         <source>Modified date</source>
-        <translation>Datum spremembe</translation>
+        <translation>Spremenjen datum</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1082"/>
@@ -20319,7 +20319,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenjeni datum</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
