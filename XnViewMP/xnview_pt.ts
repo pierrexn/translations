@@ -8679,7 +8679,7 @@ Irão ser criadas subpastas. </translation>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">Categorias a atribuir</translation>
+        <translation>Categorias a atribuir (use ; para separar categorias)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
@@ -10128,32 +10128,32 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Trama</translation>
+        <translation>Pontilhado</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Por ordem</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteiro</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteiro rápido</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating</source>
-        <translation type="unfinished"></translation>
+        <translation>Flutuante</translation>
     </message>
 </context>
 <context>
@@ -12327,7 +12327,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Cópia de ficheiros</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="798"/>
@@ -13559,7 +13559,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Contagem de fotogramas</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1061"/>
@@ -13858,7 +13858,7 @@ Pretende reatribuir?</translation>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
         <translatorcomment>The traslation for the preceding (greyed) Show Pan assumes that Pan is an abbreviation for panorama, which I believe is false. I could not edit it.</translatorcomment>
-        <translation type="unfinished">Ferramenta de deslocamento da imagem</translation>
+        <translation>Mostrar navegador</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -15837,7 +15837,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="134"/>
         <source>Off</source>
-        <translation>Nenhum</translation>
+        <translation>Desligar</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="139"/>
@@ -18591,27 +18591,27 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="18"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished">Etiqueta</translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar valor</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar elemento</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -19292,7 +19292,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de modificação</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="63"/>
