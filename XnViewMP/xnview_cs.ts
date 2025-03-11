@@ -1886,7 +1886,7 @@ Položky můžete přiřazovat přetažením.</translation>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Osiřelý</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="730"/>
@@ -4214,7 +4214,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvertBorder.ui" line="44"/>
         <source>Enlarge</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvětšit</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
@@ -8691,7 +8691,7 @@ Budou vytvořeny odpovídající podsložky.</translation>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">Kategorie k přiřazení</translation>
+        <translation>Kategorie k přiřazení (jednotlivé kategorie oddělte středníky ; )</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
@@ -10148,7 +10148,7 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Ditherace</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
