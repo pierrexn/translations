@@ -10088,22 +10088,22 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendezett</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished">Egész szám</translation>
+        <translation>Egész szám</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyors egész-szám</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating</source>
-        <translation type="unfinished">Lebegőpontos szám</translation>
+        <translation>Lebegőpontos szám</translation>
     </message>
 </context>
 <context>
@@ -13495,7 +13495,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Képkockaszám</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1061"/>
@@ -13888,7 +13888,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
-        <translation type="unfinished">Pásztázás eszköztár megjelenítése</translation>
+        <translation>Képnavigátor megjelenítése</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -18517,22 +18517,22 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished">Címke</translation>
+        <translation>Címke</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Érték</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Érték másolása</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Elem másolása</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
