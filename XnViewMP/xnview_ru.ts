@@ -8709,7 +8709,7 @@ Subfolders will be created. </source>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">Категории, присваиваемые при импорте</translation>
+        <translation>Присвоить Категории (; - разделитель)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
@@ -10160,17 +10160,17 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Дизеринг</translation>
+        <translation>Дизеринг</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Упорядоченный</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
@@ -12362,7 +12362,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>При копировании файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="798"/>
@@ -13596,7 +13596,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Счетчик кадров</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1061"/>
@@ -13895,7 +13895,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
-        <translation type="unfinished">Отображать окно навигации</translation>
+        <translation>Отображать Hавигатор</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -18631,27 +18631,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPanel.cpp" line="18"/>
         <source>Filter</source>
-        <translation type="unfinished">Фильтр</translation>
+        <translation>Фильтр</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать значение</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать элемент</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -19562,7 +19562,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата изменения</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="84"/>
