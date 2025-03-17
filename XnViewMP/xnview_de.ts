@@ -10107,13 +10107,13 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Integer fast</source>
         <oldsource>Fast integer</oldsource>
-        <translation type="unfinished">Schnelle Ganzzahl</translation>
+        <translation>Schnelle Ganzzahl</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Float</source>
         <oldsource>Floating</oldsource>
-        <translation type="unfinished">Gleitkommazahl</translation>
+        <translation>Gleitkommazahl</translation>
     </message>
 </context>
 <context>
@@ -15661,7 +15661,7 @@ Wollen Sie fortfahren?</translation>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Integer fast (worst but faster)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Schnell (schlechter aber schneller)</translation>
+        <translation>Schnelle Ganzzahl (am schlechtesten aber schneller)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
@@ -15677,7 +15677,7 @@ Wollen Sie fortfahren?</translation>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Subsampling-Faktor</translation>
+        <translation>Subsampling-Faktor</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
@@ -15687,7 +15687,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished">Ganzzahl</translation>
+        <translation>Ganzzahl</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
@@ -16843,17 +16843,17 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Alle Felder (Zahl)</translation>
+        <translation>Alle Felder (Zahl)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">Feld</translation>
+        <translation>Feld</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">Feld (Zahl)</translation>
+        <translation>Feld (Zahl)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
