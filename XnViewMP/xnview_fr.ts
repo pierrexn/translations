@@ -10115,13 +10115,13 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Integer fast</source>
         <oldsource>Fast integer</oldsource>
-        <translation type="unfinished">Entier rapide</translation>
+        <translation>Entier rapide</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Float</source>
         <oldsource>Floating</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Flottant</translation>
     </message>
 </context>
 <context>
@@ -15674,7 +15674,7 @@ Voulez-vous continuer?</translation>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Integer fast (worst but faster)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Rapide (mauvaise)</translation>
+        <translation>Entier rapide (mauvaise)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
@@ -15690,7 +15690,7 @@ Voulez-vous continuer?</translation>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Sous échantillonage</translation>
+        <translation>Sous échantillonage</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
@@ -15700,7 +15700,7 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished">Entier</translation>
+        <translation>Entier</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
@@ -16540,17 +16540,17 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Tous champs (nombre)</translation>
+        <translation>Tous champs (nombre)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">Champs</translation>
+        <translation>Champs</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">Champs (nombre)</translation>
+        <translation>Champs (nombre)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2777"/>
