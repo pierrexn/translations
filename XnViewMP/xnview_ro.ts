@@ -7906,11 +7906,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Integer fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg rapid</translation>
     </message>
     <message>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>Float (Număr real)</translation>
     </message>
 </context>
 <context>
@@ -12174,15 +12174,15 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished">Întreg</translation>
+        <translation>Număr întreg</translation>
     </message>
     <message>
         <source>Integer fast (worst but faster)</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg rapid (cel mai prost, dar cel mai rapid)</translation>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished">Subeșantionare</translation>
+        <translation>Factor de subeșantionare</translation>
     </message>
 </context>
 <context>
@@ -13207,15 +13207,15 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Toate câmpurile (număr)</translation>
+        <translation>Toate câmpurile (Număr)</translation>
     </message>
     <message>
         <source>Field</source>
-        <translation type="unfinished">Camp</translation>
+        <translation>Câmp</translation>
     </message>
     <message>
         <source>Field (Number)</source>
-        <translation type="unfinished">Câmp (număr)</translation>
+        <translation>Câmp (Număr)</translation>
     </message>
 </context>
 <context>
