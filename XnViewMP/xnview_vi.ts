@@ -540,225 +540,225 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="1643"/>
+        <location filename="BrowserWindow.cpp" line="1648"/>
         <source>Add Favorite...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1874"/>
+        <location filename="BrowserWindow.cpp" line="1879"/>
         <source>Folders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1878"/>
+        <location filename="BrowserWindow.cpp" line="1883"/>
         <source>Favorites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1892"/>
+        <location filename="BrowserWindow.cpp" line="1897"/>
         <source>Categories</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1930"/>
+        <location filename="BrowserWindow.cpp" line="1935"/>
         <source>Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="670"/>
+        <location filename="BrowserWindow.cpp" line="675"/>
         <source>Detach preview panel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="672"/>
+        <location filename="BrowserWindow.cpp" line="677"/>
         <source>Attach preview panel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="904"/>
+        <location filename="BrowserWindow.cpp" line="909"/>
         <source>The database is corrupted, please check it before to continue!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1635"/>
+        <location filename="BrowserWindow.cpp" line="1640"/>
         <source>Add to Favorites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1882"/>
+        <location filename="BrowserWindow.cpp" line="1887"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1897"/>
+        <location filename="BrowserWindow.cpp" line="1902"/>
         <source>Category Sets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1938"/>
+        <location filename="BrowserWindow.cpp" line="1943"/>
         <source>Metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1947"/>
+        <location filename="BrowserWindow.cpp" line="1952"/>
         <source>Histogram</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2108"/>
+        <location filename="BrowserWindow.cpp" line="2113"/>
         <source>Match</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2118"/>
+        <location filename="BrowserWindow.cpp" line="2123"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2141"/>
+        <location filename="BrowserWindow.cpp" line="2146"/>
         <source>Global</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2148"/>
+        <location filename="BrowserWindow.cpp" line="2153"/>
         <source>Current folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2155"/>
+        <location filename="BrowserWindow.cpp" line="2160"/>
         <source>Current folder (Recursive)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3223"/>
+        <location filename="BrowserWindow.cpp" line="3228"/>
         <source>&lt;Search results&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3225"/>
+        <location filename="BrowserWindow.cpp" line="3230"/>
         <source>&lt;Tagged files&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3229"/>
+        <location filename="BrowserWindow.cpp" line="3234"/>
         <source>&lt;files&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3314"/>
+        <location filename="BrowserWindow.cpp" line="3319"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3534"/>
+        <location filename="BrowserWindow.cpp" line="3539"/>
         <source>Favorite name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3778"/>
+        <location filename="BrowserWindow.cpp" line="3783"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3314"/>
-        <location filename="BrowserWindow.cpp" line="3863"/>
+        <location filename="BrowserWindow.cpp" line="3319"/>
+        <location filename="BrowserWindow.cpp" line="3868"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4225"/>
+        <location filename="BrowserWindow.cpp" line="4230"/>
         <source>Show files in subfolders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4228"/>
+        <location filename="BrowserWindow.cpp" line="4233"/>
         <source>Add to favorites...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4236"/>
+        <location filename="BrowserWindow.cpp" line="4241"/>
         <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4345"/>
+        <location filename="BrowserWindow.cpp" line="4350"/>
         <source>Load filelist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3777"/>
+        <location filename="BrowserWindow.cpp" line="3782"/>
         <source>Delete items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="666"/>
+        <location filename="BrowserWindow.cpp" line="671"/>
         <source>Customize toolbar...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2124"/>
+        <location filename="BrowserWindow.cpp" line="2129"/>
         <source>Match any selected entry (OR)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2130"/>
+        <location filename="BrowserWindow.cpp" line="2135"/>
         <source>Match all selected entries (AND)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3227"/>
+        <location filename="BrowserWindow.cpp" line="3232"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3771"/>
+        <location filename="BrowserWindow.cpp" line="3776"/>
         <source>Delete items &amp; companions</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3772"/>
+        <location filename="BrowserWindow.cpp" line="3777"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3863"/>
+        <location filename="BrowserWindow.cpp" line="3868"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4227"/>
+        <location filename="BrowserWindow.cpp" line="4232"/>
         <source>Search...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4231"/>
+        <location filename="BrowserWindow.cpp" line="4236"/>
         <source>Start slideshow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4233"/>
+        <location filename="BrowserWindow.cpp" line="4238"/>
         <source>Explorer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4268"/>
+        <location filename="BrowserWindow.cpp" line="4273"/>
         <source>Delete folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4268"/>
+        <location filename="BrowserWindow.cpp" line="4273"/>
         <source>Are you sure to delete this folder?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="618"/>
+        <location filename="BrowserWindow.cpp" line="623"/>
         <source>Browser</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1157,7 +1157,7 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1730"/>
+        <location filename="DlgConvert.cpp" line="1755"/>
         <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation type="unfinished"></translation>
@@ -1631,7 +1631,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="242"/>
-        <location filename="DlgConvert.cpp" line="1731"/>
+        <location filename="DlgConvert.cpp" line="1756"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Blur</source>
         <translation type="unfinished"></translation>
@@ -1751,58 +1751,58 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1729"/>
+        <location filename="DlgConvert.cpp" line="1754"/>
         <source>Add</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1732"/>
+        <location filename="DlgConvert.cpp" line="1757"/>
         <source>Channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1733"/>
+        <location filename="DlgConvert.cpp" line="1758"/>
         <source>Enhance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1734"/>
+        <location filename="DlgConvert.cpp" line="1759"/>
         <source>Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1735"/>
+        <location filename="DlgConvert.cpp" line="1760"/>
         <source>Metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1736"/>
+        <location filename="DlgConvert.cpp" line="1761"/>
         <source>Noise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1737"/>
+        <location filename="DlgConvert.cpp" line="1762"/>
         <source>Pixelate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1738"/>
+        <location filename="DlgConvert.cpp" line="1763"/>
         <source>Stylize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1739"/>
+        <location filename="DlgConvert.cpp" line="1764"/>
         <source>Transform</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1740"/>
+        <location filename="DlgConvert.cpp" line="1765"/>
         <source>Video</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2769"/>
+        <location filename="DlgConvert.cpp" line="2794"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3571,151 +3571,151 @@ Do you want to go on the download page?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1469"/>
-        <location filename="DlgConvert.cpp" line="1478"/>
+        <location filename="DlgConvert.cpp" line="1494"/>
+        <location filename="DlgConvert.cpp" line="1503"/>
         <source>Actions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1593"/>
+        <location filename="DlgConvert.cpp" line="1618"/>
         <source>Load image...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1599"/>
+        <location filename="DlgConvert.cpp" line="1624"/>
         <source>Remove file from filelist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1606"/>
+        <location filename="DlgConvert.cpp" line="1631"/>
         <source>Use image from input files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1638"/>
+        <location filename="DlgConvert.cpp" line="1663"/>
         <source>Export script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1967"/>
+        <location filename="DlgConvert.cpp" line="1992"/>
         <source>Load script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1981"/>
+        <location filename="DlgConvert.cpp" line="2006"/>
         <source>Save script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2107"/>
-        <location filename="DlgConvert.cpp" line="2111"/>
+        <location filename="DlgConvert.cpp" line="2132"/>
+        <location filename="DlgConvert.cpp" line="2136"/>
         <source>Parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2156"/>
+        <location filename="DlgConvert.cpp" line="2181"/>
         <source>Input: %n file(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2186"/>
+        <location filename="DlgConvert.cpp" line="2211"/>
         <source>Choose a directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2225"/>
+        <location filename="DlgConvert.cpp" line="2250"/>
         <source>Choose ZIP filename</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2310"/>
+        <location filename="DlgConvert.cpp" line="2335"/>
         <source>Cancel batch processing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2310"/>
+        <location filename="DlgConvert.cpp" line="2335"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2362"/>
+        <location filename="DlgConvert.cpp" line="2387"/>
         <source>Loading error(s):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2370"/>
+        <location filename="DlgConvert.cpp" line="2395"/>
         <source>Saving error(s):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2381"/>
+        <location filename="DlgConvert.cpp" line="2406"/>
         <source>Input files:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2382"/>
+        <location filename="DlgConvert.cpp" line="2407"/>
         <source>Extracted pages:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2385"/>
+        <location filename="DlgConvert.cpp" line="2410"/>
         <source>New files:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2387"/>
+        <location filename="DlgConvert.cpp" line="2412"/>
         <source>Overwritten:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2389"/>
+        <location filename="DlgConvert.cpp" line="2414"/>
         <source>Skipped:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2393"/>
+        <location filename="DlgConvert.cpp" line="2418"/>
         <source>Total input file size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2394"/>
+        <location filename="DlgConvert.cpp" line="2419"/>
         <source>Total output file size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2396"/>
+        <location filename="DlgConvert.cpp" line="2421"/>
         <source>File size ratio:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2400"/>
+        <location filename="DlgConvert.cpp" line="2425"/>
         <source>Total Duration:</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2406"/>
+        <location filename="DlgConvert.cpp" line="2431"/>
         <source>%n second(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2409"/>
-        <location filename="DlgConvert.cpp" line="2413"/>
+        <location filename="DlgConvert.cpp" line="2434"/>
+        <location filename="DlgConvert.cpp" line="2438"/>
         <source>%n minute(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2443"/>
+        <location filename="DlgConvert.cpp" line="2468"/>
         <source>Overwrite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2444"/>
+        <location filename="DlgConvert.cpp" line="2469"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3723,100 +3723,100 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2453"/>
+        <location filename="DlgConvert.cpp" line="2478"/>
         <source>Saving ZIP file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2456"/>
+        <location filename="DlgConvert.cpp" line="2481"/>
         <source>: saved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2482"/>
+        <location filename="DlgConvert.cpp" line="2507"/>
         <source>Uploading image(s) to server...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2545"/>
-        <location filename="DlgConvert.cpp" line="2547"/>
+        <location filename="DlgConvert.cpp" line="2570"/>
+        <location filename="DlgConvert.cpp" line="2572"/>
         <source>[Finished]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2559"/>
+        <location filename="DlgConvert.cpp" line="2584"/>
         <source>Finished at: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2590"/>
+        <location filename="DlgConvert.cpp" line="2615"/>
         <source>uploaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2598"/>
+        <location filename="DlgConvert.cpp" line="2623"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2601"/>
+        <location filename="DlgConvert.cpp" line="2626"/>
         <source>open error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2604"/>
+        <location filename="DlgConvert.cpp" line="2629"/>
         <source>create error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2607"/>
+        <location filename="DlgConvert.cpp" line="2632"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2610"/>
+        <location filename="DlgConvert.cpp" line="2635"/>
         <source>skipped, file already exists!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2612"/>
+        <location filename="DlgConvert.cpp" line="2637"/>
         <source>failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2618"/>
+        <location filename="DlgConvert.cpp" line="2643"/>
         <source>loading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2636"/>
+        <location filename="DlgConvert.cpp" line="2661"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2670"/>
+        <location filename="DlgConvert.cpp" line="2695"/>
         <source>copied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2674"/>
+        <location filename="DlgConvert.cpp" line="2699"/>
         <source>saved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2688"/>
+        <location filename="DlgConvert.cpp" line="2713"/>
         <source>%1 of %2 files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2719"/>
+        <location filename="DlgConvert.cpp" line="2744"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2720"/>
+        <location filename="DlgConvert.cpp" line="2745"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3826,85 +3826,85 @@ Do you want to overwrite it?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2722"/>
+        <location filename="DlgConvert.cpp" line="2747"/>
         <source>Yes to &amp;all</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2723"/>
+        <location filename="DlgConvert.cpp" line="2748"/>
         <source>&amp;Yes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2724"/>
+        <location filename="DlgConvert.cpp" line="2749"/>
         <source>&amp;No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2725"/>
+        <location filename="DlgConvert.cpp" line="2750"/>
         <source>&amp;Rename</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2726"/>
+        <location filename="DlgConvert.cpp" line="2751"/>
         <source>&amp;Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2754"/>
+        <location filename="DlgConvert.cpp" line="2779"/>
         <source>%n second(s) remaining</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2757"/>
-        <location filename="DlgConvert.cpp" line="2761"/>
+        <location filename="DlgConvert.cpp" line="2782"/>
+        <location filename="DlgConvert.cpp" line="2786"/>
         <source>%n minute(s) remaining</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2783"/>
+        <location filename="DlgConvert.cpp" line="2808"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2793"/>
+        <location filename="DlgConvert.cpp" line="2818"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2802"/>
+        <location filename="DlgConvert.cpp" line="2827"/>
         <source>Choose output pathname</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2816"/>
+        <location filename="DlgConvert.cpp" line="2841"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2944"/>
+        <location filename="DlgConvert.cpp" line="2969"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2946"/>
+        <location filename="DlgConvert.cpp" line="2971"/>
         <source>Started at: </source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2413"/>
-        <location filename="DlgConvert.cpp" line="2761"/>
+        <location filename="DlgConvert.cpp" line="2438"/>
+        <location filename="DlgConvert.cpp" line="2786"/>
         <source>%n hour(s) and </source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -3931,12 +3931,12 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1644"/>
+        <location filename="DlgConvert.cpp" line="1669"/>
         <source>Would you like to export filenames, too?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2793"/>
+        <location filename="DlgConvert.cpp" line="2818"/>
         <source>Output filename</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10059,12 +10059,14 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
-        <source>Fast integer</source>
+        <source>Integer fast</source>
+        <oldsource>Fast integer</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
-        <source>Floating</source>
+        <source>Float</source>
+        <oldsource>Floating</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15579,13 +15581,9 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="120"/>
-        <source>Slow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
-        <source>Fast (worst but faster)</source>
+        <source>Integer fast (worst but faster)</source>
+        <oldsource>Fast (worst but faster)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15600,12 +15598,18 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="153"/>
-        <source>Subsampling factor</source>
+        <source>Subsampling</source>
+        <oldsource>Subsampling factor</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
         <source>Use JPEG-li</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgWriteJPEG.ui" line="120"/>
+        <source>Integer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16429,7 +16433,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="676"/>
         <location filename="InfoPropertiesView.cpp" line="694"/>
         <location filename="InfoPropertiesView.cpp" line="713"/>
-        <location filename="SearchField.cpp" line="36"/>
         <location filename="TemplateData.cpp" line="2567"/>
         <source>Format</source>
         <translation type="unfinished"></translation>
@@ -16535,7 +16538,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="138"/>
         <location filename="InfoPropertiesView.cpp" line="141"/>
-        <location filename="SearchField.cpp" line="191"/>
         <source>Embedded comment</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16716,8 +16718,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1094"/>
-        <location filename="SearchField.cpp" line="30"/>
-        <location filename="SearchField.cpp" line="133"/>
         <location filename="TemplateData.cpp" line="2775"/>
         <source>Rating</source>
         <translation type="unfinished"></translation>
@@ -16741,7 +16741,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="691"/>
         <location filename="InfoPropertiesView.cpp" line="731"/>
         <location filename="ItemModel.cpp" line="1100"/>
-        <location filename="SearchField.cpp" line="41"/>
         <location filename="TemplateData.cpp" line="2573"/>
         <source>Comment</source>
         <translation type="unfinished"></translation>
@@ -16755,8 +16754,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1106"/>
-        <location filename="SearchField.cpp" line="39"/>
-        <location filename="SearchField.cpp" line="185"/>
         <location filename="TemplateData.cpp" line="2583"/>
         <source>Ratio</source>
         <translation type="unfinished"></translation>
@@ -16767,60 +16764,39 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="28"/>
-        <location filename="SearchField.cpp" line="122"/>
+        <location filename="SearchField.cpp" line="25"/>
         <source>Pathname</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="133"/>
+        <source>All fields (Number)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="134"/>
+        <source>Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="135"/>
+        <source>Field (Number)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="ItemModel.cpp" line="1116"/>
-        <location filename="SearchField.cpp" line="29"/>
-        <location filename="SearchField.cpp" line="128"/>
         <location filename="TemplateData.cpp" line="2779"/>
         <source>Categories</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="31"/>
-        <location filename="SearchField.cpp" line="139"/>
         <location filename="TemplateData.cpp" line="2777"/>
         <source>Color label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="32"/>
-        <location filename="SearchField.cpp" line="145"/>
+        <location filename="SearchField.cpp" line="29"/>
         <source>File size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="33"/>
-        <location filename="SearchField.cpp" line="151"/>
-        <source>Modified file date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="34"/>
-        <location filename="SearchField.cpp" line="157"/>
-        <source>Created file date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="35"/>
-        <location filename="SearchField.cpp" line="162"/>
-        <source>Accessed file date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="37"/>
-        <location filename="SearchField.cpp" line="173"/>
-        <source>Image width</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="38"/>
-        <location filename="SearchField.cpp" line="179"/>
-        <source>Image height</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16828,21 +16804,16 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="IptcEditBase.cpp" line="114"/>
         <location filename="ItemModel.cpp" line="1102"/>
-        <location filename="SearchField.cpp" line="40"/>
-        <location filename="SearchField.cpp" line="196"/>
         <location filename="TemplateData.cpp" line="2799"/>
         <source>Annotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="42"/>
-        <location filename="SearchField.cpp" line="201"/>
+        <location filename="SearchField.cpp" line="39"/>
+        <location filename="SearchField.cpp" line="70"/>
+        <location filename="SearchField.cpp" line="86"/>
+        <location filename="SearchField.cpp" line="132"/>
         <source>All fields</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="167"/>
-        <source>Image format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17295,14 +17266,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1119"/>
-        <location filename="SearchField.cpp" line="261"/>
         <location filename="TemplateData.cpp" line="2605"/>
         <source>Maker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1121"/>
-        <location filename="SearchField.cpp" line="266"/>
         <location filename="TemplateData.cpp" line="2606"/>
         <source>Model</source>
         <translation type="unfinished"></translation>
@@ -17319,7 +17288,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
-        <location filename="SearchField.cpp" line="314"/>
         <source>Exposure Time</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17347,50 +17315,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="271"/>
         <location filename="TemplateData.cpp" line="2618"/>
         <source>Software</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="276"/>
         <location filename="TemplateData.cpp" line="2607"/>
         <source>Artist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="281"/>
         <location filename="TemplateData.cpp" line="2631"/>
         <source>User comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="286"/>
-        <source>Modified date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="291"/>
-        <source>Taken date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="296"/>
-        <source>Digitized date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="301"/>
-        <source>Sensitivity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="307"/>
-        <source>Focal length</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="321"/>
         <location filename="TemplateData.cpp" line="2639"/>
         <source>F-Number</source>
         <translation type="unfinished"></translation>
@@ -17564,7 +17503,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="329"/>
         <location filename="TemplateData.cpp" line="2651"/>
         <source>Flash</source>
         <translation type="unfinished"></translation>
@@ -17804,8 +17742,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
         <location filename="ItemModel.cpp" line="1138"/>
-        <location filename="SearchField.cpp" line="44"/>
-        <location filename="SearchField.cpp" line="206"/>
         <location filename="TemplateData.cpp" line="2703"/>
         <source>Caption</source>
         <translation type="unfinished"></translation>
@@ -17815,10 +17751,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <location filename="ItemModel.cpp" line="1140"/>
-        <location filename="SearchField.cpp" line="45"/>
-        <location filename="SearchField.cpp" line="77"/>
-        <location filename="SearchField.cpp" line="211"/>
-        <location filename="SearchField.cpp" line="357"/>
         <location filename="TemplateData.cpp" line="2704"/>
         <location filename="TemplateData.cpp" line="2757"/>
         <source>Caption writer</source>
@@ -17829,8 +17761,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1142"/>
-        <location filename="SearchField.cpp" line="46"/>
-        <location filename="SearchField.cpp" line="216"/>
         <location filename="TemplateData.cpp" line="2705"/>
         <location filename="TemplateData.cpp" line="2761"/>
         <source>Headline</source>
@@ -17848,16 +17778,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="33"/>
         <location filename="IptcHelper.cpp" line="22"/>
         <location filename="ItemModel.cpp" line="1144"/>
-        <location filename="SearchField.cpp" line="52"/>
-        <location filename="SearchField.cpp" line="246"/>
         <location filename="TemplateData.cpp" line="2711"/>
         <source>Keywords</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="34"/>
-        <location filename="SearchField.cpp" line="78"/>
-        <location filename="SearchField.cpp" line="359"/>
         <location filename="TemplateData.cpp" line="2712"/>
         <source>Category</source>
         <translation type="unfinished"></translation>
@@ -17873,9 +17799,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="40"/>
         <location filename="IptcHelper.cpp" line="30"/>
         <location filename="ItemModel.cpp" line="1156"/>
-        <location filename="SearchField.cpp" line="47"/>
-        <location filename="SearchField.cpp" line="73"/>
-        <location filename="SearchField.cpp" line="221"/>
         <location filename="TemplateData.cpp" line="2718"/>
         <location filename="TemplateData.cpp" line="2753"/>
         <source>Copyright</source>
@@ -17885,8 +17808,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="26"/>
         <location filename="ItemModel.cpp" line="1148"/>
-        <location filename="SearchField.cpp" line="48"/>
-        <location filename="SearchField.cpp" line="226"/>
         <location filename="TemplateData.cpp" line="2719"/>
         <source>Byline</source>
         <translation type="unfinished"></translation>
@@ -17895,8 +17816,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
         <location filename="ItemModel.cpp" line="1150"/>
-        <location filename="SearchField.cpp" line="49"/>
-        <location filename="SearchField.cpp" line="231"/>
         <location filename="TemplateData.cpp" line="2720"/>
         <source>Byline title</source>
         <translation type="unfinished"></translation>
@@ -17912,8 +17831,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="29"/>
         <location filename="ItemModel.cpp" line="1154"/>
-        <location filename="SearchField.cpp" line="51"/>
-        <location filename="SearchField.cpp" line="241"/>
         <location filename="TemplateData.cpp" line="2722"/>
         <location filename="TemplateData.cpp" line="2763"/>
         <source>Source</source>
@@ -17966,8 +17883,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="42"/>
         <location filename="ItemModel.cpp" line="1160"/>
-        <location filename="SearchField.cpp" line="79"/>
-        <location filename="SearchField.cpp" line="361"/>
         <location filename="TemplateData.cpp" line="2739"/>
         <location filename="TemplateData.cpp" line="2758"/>
         <source>City</source>
@@ -17992,8 +17907,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="63"/>
         <location filename="IptcHelper.cpp" line="45"/>
         <location filename="ItemModel.cpp" line="1166"/>
-        <location filename="SearchField.cpp" line="80"/>
-        <location filename="SearchField.cpp" line="363"/>
         <location filename="TemplateData.cpp" line="2742"/>
         <location filename="TemplateData.cpp" line="2759"/>
         <source>Country</source>
@@ -18068,8 +17981,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="IptcHelper.cpp" line="23"/>
         <location filename="ItemModel.cpp" line="1146"/>
-        <location filename="SearchField.cpp" line="53"/>
-        <location filename="SearchField.cpp" line="251"/>
         <source>Categories</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18091,10 +18002,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="127"/>
         <location filename="ItemModel.cpp" line="1152"/>
-        <location filename="SearchField.cpp" line="50"/>
-        <location filename="SearchField.cpp" line="81"/>
-        <location filename="SearchField.cpp" line="236"/>
-        <location filename="SearchField.cpp" line="365"/>
         <location filename="TemplateData.cpp" line="2721"/>
         <location filename="TemplateData.cpp" line="2760"/>
         <source>Credit</source>
@@ -18111,73 +18018,30 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="54"/>
-        <location filename="SearchField.cpp" line="69"/>
-        <location filename="SearchField.cpp" line="82"/>
-        <location filename="SearchField.cpp" line="256"/>
-        <location filename="SearchField.cpp" line="335"/>
-        <location filename="SearchField.cpp" line="367"/>
-        <source>All fields</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="71"/>
-        <location filename="SearchField.cpp" line="347"/>
         <location filename="TemplateData.cpp" line="2751"/>
         <source>Creator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="111"/>
-        <location filename="SearchField.cpp" line="72"/>
-        <location filename="SearchField.cpp" line="349"/>
         <location filename="TemplateData.cpp" line="2752"/>
         <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="74"/>
-        <location filename="SearchField.cpp" line="340"/>
         <location filename="TemplateData.cpp" line="2754"/>
         <source>Subject</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="75"/>
-        <location filename="SearchField.cpp" line="353"/>
         <location filename="TemplateData.cpp" line="2755"/>
         <source>Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="110"/>
-        <location filename="SearchField.cpp" line="76"/>
-        <location filename="SearchField.cpp" line="355"/>
         <location filename="TemplateData.cpp" line="2756"/>
         <source>Authors position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="83"/>
-        <location filename="SearchField.cpp" line="369"/>
-        <source>All fields (Number)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="84"/>
-        <location filename="SearchField.cpp" line="371"/>
-        <source>Field</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="85"/>
-        <location filename="SearchField.cpp" line="373"/>
-        <source>Field (Number)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="351"/>
-        <source>Copyrights</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19602,13 +19466,13 @@ Do you want to continue?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4208"/>
+        <location filename="BrowserWindow.cpp" line="4213"/>
         <location filename="BrowserMenu.h" line="413"/>
         <source>Cut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4210"/>
+        <location filename="BrowserWindow.cpp" line="4215"/>
         <location filename="BrowserMenu.h" line="415"/>
         <source>Copy</source>
         <translation type="unfinished"></translation>
@@ -19629,7 +19493,7 @@ Do you want to continue?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4212"/>
+        <location filename="BrowserWindow.cpp" line="4217"/>
         <location filename="BrowserMenu.h" line="420"/>
         <source>Paste</source>
         <translation type="unfinished"></translation>
@@ -19665,19 +19529,19 @@ Do you want to continue?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4220"/>
+        <location filename="BrowserWindow.cpp" line="4225"/>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Copy to...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4222"/>
+        <location filename="BrowserWindow.cpp" line="4227"/>
         <location filename="BrowserMenu.h" line="431"/>
         <source>Move to...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4215"/>
+        <location filename="BrowserWindow.cpp" line="4220"/>
         <location filename="BrowserMenu.h" line="432"/>
         <source>Delete</source>
         <translation type="unfinished"></translation>
@@ -20339,12 +20203,12 @@ Do you want to continue?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4205"/>
+        <location filename="BrowserWindow.cpp" line="4210"/>
         <source>New Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4217"/>
+        <location filename="BrowserWindow.cpp" line="4222"/>
         <source>Rename</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20357,95 +20221,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1469"/>
+        <location filename="xnview.cpp" line="1471"/>
         <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1470"/>
+        <location filename="xnview.cpp" line="1472"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1471"/>
+        <location filename="xnview.cpp" line="1473"/>
         <source>PlugIns...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1472"/>
+        <location filename="xnview.cpp" line="1474"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1473"/>
+        <location filename="xnview.cpp" line="1475"/>
         <source>Forum...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1474"/>
+        <location filename="xnview.cpp" line="1476"/>
         <source>Technical Support...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1475"/>
+        <location filename="xnview.cpp" line="1477"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1476"/>
+        <location filename="xnview.cpp" line="1478"/>
         <source>Wiki...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1479"/>
         <source>Make a donation...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1478"/>
+        <location filename="xnview.cpp" line="1480"/>
         <source>Check for update...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1479"/>
+        <location filename="xnview.cpp" line="1481"/>
         <source>Registration...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1480"/>
+        <location filename="xnview.cpp" line="1482"/>
         <source>Purchase...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1490"/>
         <location filename="xnview.cpp" line="1492"/>
+        <location filename="xnview.cpp" line="1494"/>
         <source>Settings...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1496"/>
+        <location filename="xnview.cpp" line="1498"/>
         <source>Always on top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1498"/>
+        <location filename="xnview.cpp" line="1500"/>
         <source>Titlebar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1499"/>
+        <location filename="xnview.cpp" line="1501"/>
         <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1500"/>
+        <location filename="xnview.cpp" line="1502"/>
         <source>Bottom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1501"/>
+        <location filename="xnview.cpp" line="1503"/>
         <source>Tab</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22613,7 +22477,7 @@ You can change it in Settings › Catalog.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2205"/>
+        <location filename="BrowserWindow.cpp" line="2210"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation type="unfinished"></translation>
@@ -23199,140 +23063,140 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="457"/>
-        <location filename="SearchField.cpp" line="680"/>
+        <location filename="SearchField.cpp" line="431"/>
+        <location filename="SearchField.cpp" line="654"/>
         <source>is</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="458"/>
+        <location filename="SearchField.cpp" line="432"/>
         <source>is not</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="459"/>
-        <location filename="SearchField.cpp" line="578"/>
+        <location filename="SearchField.cpp" line="433"/>
+        <location filename="SearchField.cpp" line="552"/>
         <source>is any of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="460"/>
-        <location filename="SearchField.cpp" line="579"/>
-        <location filename="SearchField.cpp" line="678"/>
+        <location filename="SearchField.cpp" line="434"/>
+        <location filename="SearchField.cpp" line="553"/>
+        <location filename="SearchField.cpp" line="652"/>
         <source>contains</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="461"/>
-        <location filename="SearchField.cpp" line="679"/>
+        <location filename="SearchField.cpp" line="435"/>
+        <location filename="SearchField.cpp" line="653"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="462"/>
+        <location filename="SearchField.cpp" line="436"/>
         <source>starts with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="529"/>
+        <location filename="SearchField.cpp" line="503"/>
         <source>With at least one of the words</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="531"/>
+        <location filename="SearchField.cpp" line="505"/>
         <source>With all of the words</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="533"/>
+        <location filename="SearchField.cpp" line="507"/>
         <source>With the exact phrase</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="536"/>
+        <location filename="SearchField.cpp" line="510"/>
         <source>Whole word only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="824"/>
+        <location filename="SearchField.cpp" line="798"/>
         <source>and</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="915"/>
+        <location filename="SearchField.cpp" line="889"/>
         <source>is before</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="916"/>
+        <location filename="SearchField.cpp" line="890"/>
         <source>is after</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="917"/>
+        <location filename="SearchField.cpp" line="891"/>
         <source>is between</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="977"/>
-        <location filename="SearchField.cpp" line="1106"/>
-        <location filename="SearchField.cpp" line="1191"/>
+        <location filename="SearchField.cpp" line="951"/>
+        <location filename="SearchField.cpp" line="1080"/>
+        <location filename="SearchField.cpp" line="1165"/>
         <source>is less than</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="978"/>
-        <location filename="SearchField.cpp" line="1107"/>
-        <location filename="SearchField.cpp" line="1192"/>
+        <location filename="SearchField.cpp" line="952"/>
+        <location filename="SearchField.cpp" line="1081"/>
+        <location filename="SearchField.cpp" line="1166"/>
         <source>is less than or equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="979"/>
-        <location filename="SearchField.cpp" line="1108"/>
-        <location filename="SearchField.cpp" line="1193"/>
+        <location filename="SearchField.cpp" line="953"/>
+        <location filename="SearchField.cpp" line="1082"/>
+        <location filename="SearchField.cpp" line="1167"/>
         <source>equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="980"/>
-        <location filename="SearchField.cpp" line="1109"/>
-        <location filename="SearchField.cpp" line="1194"/>
+        <location filename="SearchField.cpp" line="954"/>
+        <location filename="SearchField.cpp" line="1083"/>
+        <location filename="SearchField.cpp" line="1168"/>
         <source>is greater than</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="981"/>
-        <location filename="SearchField.cpp" line="1110"/>
-        <location filename="SearchField.cpp" line="1195"/>
+        <location filename="SearchField.cpp" line="955"/>
+        <location filename="SearchField.cpp" line="1084"/>
+        <location filename="SearchField.cpp" line="1169"/>
         <source>is greater than or equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="982"/>
-        <location filename="SearchField.cpp" line="1111"/>
-        <location filename="SearchField.cpp" line="1196"/>
+        <location filename="SearchField.cpp" line="956"/>
+        <location filename="SearchField.cpp" line="1085"/>
+        <location filename="SearchField.cpp" line="1170"/>
         <source>between</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1036"/>
+        <location filename="SearchField.cpp" line="1010"/>
         <source>bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1037"/>
+        <location filename="SearchField.cpp" line="1011"/>
         <source>KiB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1038"/>
+        <location filename="SearchField.cpp" line="1012"/>
         <source>MiB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1039"/>
+        <location filename="SearchField.cpp" line="1013"/>
         <source>GiB</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23759,24 +23623,24 @@ Do you want to keep the thumbnails?
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1694"/>
+        <location filename="xnview.cpp" line="1696"/>
         <source>Do you want to save session?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1695"/>
+        <location filename="xnview.cpp" line="1697"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1701"/>
+        <location filename="xnview.cpp" line="1703"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3115"/>
+        <location filename="xnview.cpp" line="3117"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -23793,12 +23657,12 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1619"/>
+        <location filename="xnview.cpp" line="1621"/>
         <source>Do you want to quit?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1720"/>
+        <location filename="xnview.cpp" line="1722"/>
         <source>Do you want to save this session?</source>
         <translation type="unfinished"></translation>
     </message>

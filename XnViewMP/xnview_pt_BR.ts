@@ -7862,11 +7862,11 @@ Please make sure that files are not read-only!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fast integer</source>
+        <source>Integer fast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Floating</source>
+        <source>Float</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12071,24 +12071,12 @@ Do you want to continue?</source>
         <translation>Método DCT</translation>
     </message>
     <message>
-        <source>Slow</source>
-        <translation>Lento</translation>
-    </message>
-    <message>
-        <source>Fast (worst but faster)</source>
-        <translation>Rápido (pior mas bem rápido)</translation>
-    </message>
-    <message>
         <source>Float (best but slowest)</source>
         <translation>Flutuante (melhor mas um pouco mais lento)</translation>
     </message>
     <message>
         <source>Smoothing factor</source>
         <translation>Fator de refinamento</translation>
-    </message>
-    <message>
-        <source>Subsampling factor</source>
-        <translation>Fator de sub amostragem</translation>
     </message>
     <message>
         <source>2x2,1x1,1x1 (default)</source>
@@ -12116,6 +12104,18 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use JPEG-li</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer fast (worst but faster)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12854,36 +12854,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Tamanho do arquivo</translation>
     </message>
     <message>
-        <source>Modified file date</source>
-        <translation>Data de alteração do arquivo</translation>
-    </message>
-    <message>
-        <source>Created file date</source>
-        <translation>Data de criação do arquivo</translation>
-    </message>
-    <message>
-        <source>Accessed file date</source>
-        <translation>Data de acesso do arquivo</translation>
-    </message>
-    <message>
-        <source>Image width</source>
-        <translation>Largura da imagem</translation>
-    </message>
-    <message>
-        <source>Image height</source>
-        <translation>Altura da imagem</translation>
-    </message>
-    <message>
         <source>Annotation</source>
         <translation>Anotação</translation>
     </message>
     <message>
         <source>All fields</source>
         <translation>Todos os campos</translation>
-    </message>
-    <message>
-        <source>Image format</source>
-        <translation>Formato da imagem</translation>
     </message>
     <message>
         <source>BPP</source>
@@ -13161,6 +13137,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>DPI-Y</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>All fields (Number)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field (Number)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13393,26 +13381,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>User comment</source>
         <translation>Comentários do usuário</translation>
-    </message>
-    <message>
-        <source>Modified date</source>
-        <translation>Data de alteração</translation>
-    </message>
-    <message>
-        <source>Taken date</source>
-        <translation>Data da fotografia</translation>
-    </message>
-    <message>
-        <source>Digitized date</source>
-        <translation>Data da digitalização</translation>
-    </message>
-    <message>
-        <source>Sensitivity</source>
-        <translation>Sensibilidade</translation>
-    </message>
-    <message>
-        <source>Focal length</source>
-        <translation>Distância focal</translation>
     </message>
     <message>
         <source>F-Number</source>
@@ -13893,10 +13861,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Referência de transmissão original.</translation>
     </message>
     <message>
-        <source>All fields</source>
-        <translation>Todos os campos</translation>
-    </message>
-    <message>
         <source>Creator</source>
         <translation>Criador</translation>
     </message>
@@ -13917,28 +13881,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Posição do autor</translation>
     </message>
     <message>
-        <source>Copyrights</source>
-        <translation>Copyrights</translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>Outro</translation>
     </message>
     <message>
         <source>Content location</source>
         <translation>Local do conteúdo</translation>
-    </message>
-    <message>
-        <source>All fields (Number)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Field</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Field (Number)</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Instructions</source>

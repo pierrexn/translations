@@ -7890,11 +7890,11 @@ Please make sure that files are not read-only!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fast integer</source>
+        <source>Integer fast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Floating</source>
+        <source>Float</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12102,10 +12102,6 @@ Do you want to continue?</source>
         <translation>Alta</translation>
     </message>
     <message>
-        <source>Slow</source>
-        <translation>Lento</translation>
-    </message>
-    <message>
         <source>Smoothing factor</source>
         <translation>Factor de suavizado</translation>
     </message>
@@ -12138,16 +12134,8 @@ Do you want to continue?</source>
         <translation>1x1,1x1,1x1 (mejor calidad)</translation>
     </message>
     <message>
-        <source>Subsampling factor</source>
-        <translation>Factor de sub-muestreo</translation>
-    </message>
-    <message>
         <source>2x2,1x1,1x1 (default)</source>
         <translation>2x2,1x1,1x1 (predeterminado)</translation>
-    </message>
-    <message>
-        <source>Fast (worst but faster)</source>
-        <translation>Rápido (peor pero más rápido)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -12168,6 +12156,18 @@ Do you want to continue?</source>
     <message>
         <source>Use JPEG-li</source>
         <translation type="unfinished">Utilizar JPEG-li</translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer fast (worst but faster)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished">Submuestreo</translation>
     </message>
 </context>
 <context>
@@ -12947,16 +12947,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Dimensión</translation>
     </message>
     <message>
-        <source>Image format</source>
-        <translation>Formato imagen</translation>
-    </message>
-    <message>
         <source>Recorded date</source>
         <translation>Fecha de grabación</translation>
-    </message>
-    <message>
-        <source>Image height</source>
-        <translation>Alto de imagen</translation>
     </message>
     <message>
         <source>Embedded comment</source>
@@ -13035,10 +13027,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Bits/muestra</translation>
     </message>
     <message>
-        <source>Image width</source>
-        <translation>Ancho de imagen</translation>
-    </message>
-    <message>
         <source>Width (inch)</source>
         <translation>Ancho (pulgada)</translation>
     </message>
@@ -13061,14 +13049,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Compression</source>
         <translation>Compresión</translation>
-    </message>
-    <message>
-        <source>Modified file date</source>
-        <translation>Fecha de modificación del archivo</translation>
-    </message>
-    <message>
-        <source>Created file date</source>
-        <translation>Fecha de creación del archivo</translation>
     </message>
     <message>
         <source>Pathname</source>
@@ -13171,10 +13151,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Fecha de codificación</translation>
     </message>
     <message>
-        <source>Accessed file date</source>
-        <translation>Fecha de acceso al archivo</translation>
-    </message>
-    <message>
         <source>Filename (with extension)</source>
         <translation>Nombre de archivo (con extensión)</translation>
     </message>
@@ -13213,6 +13189,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>DPI-Y</source>
         <translation>DPI-Y</translation>
+    </message>
+    <message>
+        <source>All fields (Number)</source>
+        <translation type="unfinished">Todos los campos (Números)</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Campo</translation>
+    </message>
+    <message>
+        <source>Field (Number)</source>
+        <translation type="unfinished">Campo (Número)</translation>
     </message>
 </context>
 <context>
@@ -13423,10 +13411,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Espacio de color</translation>
     </message>
     <message>
-        <source>Sensitivity</source>
-        <translation>Sensibilidad</translation>
-    </message>
-    <message>
         <source>Exposure Program</source>
         <translation>Programa de exposición</translation>
     </message>
@@ -13499,10 +13483,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Alto de imagen</translation>
     </message>
     <message>
-        <source>Focal length</source>
-        <translation>Distancia focal</translation>
-    </message>
-    <message>
         <source>35mm Focal length</source>
         <translation>Distancia focal 35mm</translation>
     </message>
@@ -13517,10 +13497,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Exposure Mode</source>
         <translation>Modo de exposición</translation>
-    </message>
-    <message>
-        <source>Digitized date</source>
-        <translation>Fecha de digitalización</translation>
     </message>
     <message>
         <source>Artist</source>
@@ -13691,10 +13667,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Distancia al sujeto (m)</translation>
     </message>
     <message>
-        <source>Taken date</source>
-        <translation>Fecha de captura</translation>
-    </message>
-    <message>
         <source>Thumbnail</source>
         <translation>Miniatura</translation>
     </message>
@@ -13741,10 +13713,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Longitude (value)</source>
         <translation>Longitud decimal</translation>
-    </message>
-    <message>
-        <source>Modified date</source>
-        <translation>Fecha de modificación</translation>
     </message>
     <message>
         <source>Latitude (value)</source>
@@ -13813,10 +13781,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Evento</translation>
     </message>
     <message>
-        <source>Field</source>
-        <translation>Campo</translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>Otro</translation>
     </message>
@@ -13829,16 +13793,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Título</translation>
     </message>
     <message>
-        <source>Copyrights</source>
-        <translation>Derechos de autor</translation>
-    </message>
-    <message>
         <source>Transmission reference</source>
         <translation>Referencia de transmisión</translation>
-    </message>
-    <message>
-        <source>All fields (Number)</source>
-        <translation>Todos los campos (Números)</translation>
     </message>
     <message>
         <source>Object cycle</source>
@@ -13901,10 +13857,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Aviso sobre derechos de autor</translation>
     </message>
     <message>
-        <source>All fields</source>
-        <translation>Todos los campos</translation>
-    </message>
-    <message>
         <source>Program</source>
         <translation>Programa</translation>
     </message>
@@ -13963,10 +13915,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Country</source>
         <translation>País</translation>
-    </message>
-    <message>
-        <source>Field (Number)</source>
-        <translation>Campo (Número)</translation>
     </message>
     <message>
         <source>Creator</source>

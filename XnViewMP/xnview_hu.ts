@@ -546,68 +546,68 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="1643"/>
+        <location filename="BrowserWindow.cpp" line="1648"/>
         <source>Add Favorite...</source>
         <translation>Kedvenc hozzáadása...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1874"/>
+        <location filename="BrowserWindow.cpp" line="1879"/>
         <source>Folders</source>
         <translation>Mappák</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1878"/>
+        <location filename="BrowserWindow.cpp" line="1883"/>
         <source>Favorites</source>
         <translation>Kedvencek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1892"/>
+        <location filename="BrowserWindow.cpp" line="1897"/>
         <source>Categories</source>
         <translation>Kategóriák</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1930"/>
+        <location filename="BrowserWindow.cpp" line="1935"/>
         <source>Info</source>
         <translation>Információ</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="670"/>
+        <location filename="BrowserWindow.cpp" line="675"/>
         <source>Detach preview panel</source>
         <translation>Előnézeti panel leválasztása</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="672"/>
+        <location filename="BrowserWindow.cpp" line="677"/>
         <source>Attach preview panel</source>
         <translation>Előnézeti panel csatolása</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="904"/>
+        <location filename="BrowserWindow.cpp" line="909"/>
         <source>The database is corrupted, please check it before to continue!</source>
         <translation>Az adatbázis megsérült, kérem ellenőrizze!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1635"/>
+        <location filename="BrowserWindow.cpp" line="1640"/>
         <source>Add to Favorites</source>
         <translation>Hozzáadás a Kedvencekhez</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1882"/>
+        <location filename="BrowserWindow.cpp" line="1887"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Katalógus szűrő</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1897"/>
+        <location filename="BrowserWindow.cpp" line="1902"/>
         <source>Category Sets</source>
         <translation>Kategória beállítások</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2108"/>
+        <location filename="BrowserWindow.cpp" line="2113"/>
         <source>Match</source>
         <translation>Egyezés</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2118"/>
+        <location filename="BrowserWindow.cpp" line="2123"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -616,157 +616,157 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
 Átrendezéshez Fogd-és-vidd módszer.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2141"/>
+        <location filename="BrowserWindow.cpp" line="2146"/>
         <source>Global</source>
         <translation>Globális</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2148"/>
+        <location filename="BrowserWindow.cpp" line="2153"/>
         <source>Current folder</source>
         <translation>Jelenlegi mappa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2155"/>
+        <location filename="BrowserWindow.cpp" line="2160"/>
         <source>Current folder (Recursive)</source>
         <translation>Jelenlegi mappa (rekurzívan)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3223"/>
+        <location filename="BrowserWindow.cpp" line="3228"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Keresési eredmények&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3225"/>
+        <location filename="BrowserWindow.cpp" line="3230"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Kijelölt fájlok&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3314"/>
+        <location filename="BrowserWindow.cpp" line="3319"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>A mappa nem létezik!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3534"/>
+        <location filename="BrowserWindow.cpp" line="3539"/>
         <source>Favorite name:</source>
         <translation>Kedvenc neve:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3778"/>
+        <location filename="BrowserWindow.cpp" line="3783"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Biztosan törölni szeretne %n elemet?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3863"/>
+        <location filename="BrowserWindow.cpp" line="3868"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>A fájlokat nem lehet átnevezni, hiba történt.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3314"/>
-        <location filename="BrowserWindow.cpp" line="3863"/>
+        <location filename="BrowserWindow.cpp" line="3319"/>
+        <location filename="BrowserWindow.cpp" line="3868"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3229"/>
+        <location filename="BrowserWindow.cpp" line="3234"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;fájlok&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3771"/>
+        <location filename="BrowserWindow.cpp" line="3776"/>
         <source>Delete items &amp; companions</source>
         <translation>Elemek és társak törlése</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3772"/>
+        <location filename="BrowserWindow.cpp" line="3777"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Biztosan törölni szeretne %n elem(ek)et - %1 társ(aka)t?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4225"/>
+        <location filename="BrowserWindow.cpp" line="4230"/>
         <source>Show files in subfolders</source>
         <translation>Fájlok megjelenítése az almappákban</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4228"/>
+        <location filename="BrowserWindow.cpp" line="4233"/>
         <source>Add to favorites...</source>
         <translation>Hozzáadás a Kedvencekhez...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4236"/>
+        <location filename="BrowserWindow.cpp" line="4241"/>
         <source>Properties</source>
         <translation>Tulajdonságok</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4345"/>
+        <location filename="BrowserWindow.cpp" line="4350"/>
         <source>Load filelist</source>
         <translation>Fájllista betöltés</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3777"/>
+        <location filename="BrowserWindow.cpp" line="3782"/>
         <source>Delete items</source>
         <translation>Elemek törlése</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="666"/>
+        <location filename="BrowserWindow.cpp" line="671"/>
         <source>Customize toolbar...</source>
         <translation>Eszköztár testreszabása...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1938"/>
+        <location filename="BrowserWindow.cpp" line="1943"/>
         <source>Metadata</source>
         <translation>Metaadat</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1947"/>
+        <location filename="BrowserWindow.cpp" line="1952"/>
         <source>Histogram</source>
         <translation>Hisztogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2124"/>
+        <location filename="BrowserWindow.cpp" line="2129"/>
         <source>Match any selected entry (OR)</source>
         <translation>Egyezés bármelyik kiválasztott bejegyzéssel (VAGY)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2130"/>
+        <location filename="BrowserWindow.cpp" line="2135"/>
         <source>Match all selected entries (AND)</source>
         <translation>Egyezés minden kiválasztott bejegyzéssel (ÉS)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3227"/>
+        <location filename="BrowserWindow.cpp" line="3232"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Katalógus szűrési eredményei&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4227"/>
+        <location filename="BrowserWindow.cpp" line="4232"/>
         <source>Search...</source>
         <translation>Keresés...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4231"/>
+        <location filename="BrowserWindow.cpp" line="4236"/>
         <source>Start slideshow</source>
         <translation>Diavetítés indítása</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4233"/>
+        <location filename="BrowserWindow.cpp" line="4238"/>
         <source>Explorer</source>
         <translation>Felfedező</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4268"/>
+        <location filename="BrowserWindow.cpp" line="4273"/>
         <source>Delete folder</source>
         <translation>Mappa törlése</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4268"/>
+        <location filename="BrowserWindow.cpp" line="4273"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Biztosan törölni szeretné ezt a mappát?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="618"/>
+        <location filename="BrowserWindow.cpp" line="623"/>
         <source>Browser</source>
         <translation>Böngésző</translation>
     </message>
@@ -1165,7 +1165,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <translation>Színmélység módosítása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1730"/>
+        <location filename="DlgConvert.cpp" line="1755"/>
         <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation>Módosítás</translation>
@@ -1640,7 +1640,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="242"/>
-        <location filename="DlgConvert.cpp" line="1731"/>
+        <location filename="DlgConvert.cpp" line="1756"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Blur</source>
         <translation>Elmosás</translation>
@@ -1760,58 +1760,58 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <translation>Pontosítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1729"/>
+        <location filename="DlgConvert.cpp" line="1754"/>
         <source>Add</source>
         <translation>Hozzáadás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1732"/>
+        <location filename="DlgConvert.cpp" line="1757"/>
         <source>Channel</source>
         <translation>Csatorna</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1733"/>
+        <location filename="DlgConvert.cpp" line="1758"/>
         <source>Enhance</source>
         <translation>Hangsúlyozás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1734"/>
+        <location filename="DlgConvert.cpp" line="1759"/>
         <source>Frame</source>
         <translation>Keret</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1735"/>
+        <location filename="DlgConvert.cpp" line="1760"/>
         <source>Metadata</source>
         <translation>Metaadatok</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1736"/>
+        <location filename="DlgConvert.cpp" line="1761"/>
         <source>Noise</source>
         <translation>Zaj</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1737"/>
+        <location filename="DlgConvert.cpp" line="1762"/>
         <source>Pixelate</source>
         <translation>Képpontosítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1738"/>
+        <location filename="DlgConvert.cpp" line="1763"/>
         <source>Stylize</source>
         <translation>Stilizálás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1739"/>
+        <location filename="DlgConvert.cpp" line="1764"/>
         <source>Transform</source>
         <translation>Átalakítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1740"/>
+        <location filename="DlgConvert.cpp" line="1765"/>
         <source>Video</source>
         <translation>Videó</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2769"/>
+        <location filename="DlgConvert.cpp" line="2794"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 fájl - %2% - %3</translation>
     </message>
@@ -3583,126 +3583,126 @@ Do you want to go on the download page?</source>
 Szeretné a weboldalról letölteni?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1469"/>
-        <location filename="DlgConvert.cpp" line="1478"/>
+        <location filename="DlgConvert.cpp" line="1494"/>
+        <location filename="DlgConvert.cpp" line="1503"/>
         <source>Actions</source>
         <translation>Műveletek</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1593"/>
+        <location filename="DlgConvert.cpp" line="1618"/>
         <source>Load image...</source>
         <translation>Kép betöltése...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1599"/>
+        <location filename="DlgConvert.cpp" line="1624"/>
         <source>Remove file from filelist</source>
         <translation>Fájl eltávolítása a fájllistáról</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1606"/>
+        <location filename="DlgConvert.cpp" line="1631"/>
         <source>Use image from input files</source>
         <translation>Kép használata bemeneti fájlból</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1638"/>
+        <location filename="DlgConvert.cpp" line="1663"/>
         <source>Export script</source>
         <translation>Szkript exportálása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1644"/>
+        <location filename="DlgConvert.cpp" line="1669"/>
         <source>Would you like to export filenames, too?</source>
         <translation>Exportálni szeretné a fájlneveket is?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1967"/>
+        <location filename="DlgConvert.cpp" line="1992"/>
         <source>Load script</source>
         <translation>Szkript betöltése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1981"/>
+        <location filename="DlgConvert.cpp" line="2006"/>
         <source>Save script</source>
         <translation>Szkript mentése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2107"/>
-        <location filename="DlgConvert.cpp" line="2111"/>
+        <location filename="DlgConvert.cpp" line="2132"/>
+        <location filename="DlgConvert.cpp" line="2136"/>
         <source>Parameters</source>
         <translation>Paraméterek</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2156"/>
+        <location filename="DlgConvert.cpp" line="2181"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Bemenet: %n fájl</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2186"/>
+        <location filename="DlgConvert.cpp" line="2211"/>
         <source>Choose a directory</source>
         <translation>Válasszon mappát</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2225"/>
+        <location filename="DlgConvert.cpp" line="2250"/>
         <source>Choose ZIP filename</source>
         <translation>Válasszon Zip fájlnevet</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2310"/>
+        <location filename="DlgConvert.cpp" line="2335"/>
         <source>Cancel batch processing</source>
         <translation>Kötegelt feldolgozás megszakítása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2310"/>
+        <location filename="DlgConvert.cpp" line="2335"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>Biztos meg akarja szakítani a kötegelt feldolgozást?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2362"/>
+        <location filename="DlgConvert.cpp" line="2387"/>
         <source>Loading error(s):</source>
         <translation>Betöltési hiba:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2370"/>
+        <location filename="DlgConvert.cpp" line="2395"/>
         <source>Saving error(s):</source>
         <translation>Mentési hiba:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2393"/>
+        <location filename="DlgConvert.cpp" line="2418"/>
         <source>Total input file size:</source>
         <translation>Bementi fájl teljes mérete:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2394"/>
+        <location filename="DlgConvert.cpp" line="2419"/>
         <source>Total output file size:</source>
         <translation>Kimenti fájl teljes mérete:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2396"/>
+        <location filename="DlgConvert.cpp" line="2421"/>
         <source>File size ratio:</source>
         <translation>Fájlméret arány:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2406"/>
+        <location filename="DlgConvert.cpp" line="2431"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n másodperc</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2409"/>
-        <location filename="DlgConvert.cpp" line="2413"/>
+        <location filename="DlgConvert.cpp" line="2434"/>
+        <location filename="DlgConvert.cpp" line="2438"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n perc</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2443"/>
+        <location filename="DlgConvert.cpp" line="2468"/>
         <source>Overwrite</source>
         <translation>Felülírás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2444"/>
+        <location filename="DlgConvert.cpp" line="2469"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3712,53 +3712,53 @@ Do you want to overwrite it?</source>
 Felül szeretné írni?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2453"/>
+        <location filename="DlgConvert.cpp" line="2478"/>
         <source>Saving ZIP file...</source>
         <translation>Zip fájl mentése...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2456"/>
+        <location filename="DlgConvert.cpp" line="2481"/>
         <source>: saved</source>
         <translation>: mentve</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2482"/>
+        <location filename="DlgConvert.cpp" line="2507"/>
         <source>Uploading image(s) to server...</source>
         <translation>Kép(ek) feltöltése a szerverre...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2545"/>
-        <location filename="DlgConvert.cpp" line="2547"/>
+        <location filename="DlgConvert.cpp" line="2570"/>
+        <location filename="DlgConvert.cpp" line="2572"/>
         <source>[Finished]</source>
         <translation>[Befejezve]</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2670"/>
+        <location filename="DlgConvert.cpp" line="2695"/>
         <source>copied</source>
         <translation>másolva</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2688"/>
+        <location filename="DlgConvert.cpp" line="2713"/>
         <source>%1 of %2 files</source>
         <translation>%1 / %2 fájl</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2754"/>
+        <location filename="DlgConvert.cpp" line="2779"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n másodperc van hátra</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2757"/>
-        <location filename="DlgConvert.cpp" line="2761"/>
+        <location filename="DlgConvert.cpp" line="2782"/>
+        <location filename="DlgConvert.cpp" line="2786"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n perc van hátra</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2816"/>
+        <location filename="DlgConvert.cpp" line="2841"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
@@ -3767,8 +3767,8 @@ Do you want to continue?</source>
 Szeretné folytatni?</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2413"/>
-        <location filename="DlgConvert.cpp" line="2761"/>
+        <location filename="DlgConvert.cpp" line="2438"/>
+        <location filename="DlgConvert.cpp" line="2786"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n óra és </numerusform>
@@ -3795,104 +3795,104 @@ Szeretné folytatni?</translation>
         <translation>Exportálási napló</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2793"/>
+        <location filename="DlgConvert.cpp" line="2818"/>
         <source>Output filename</source>
         <translation>Kimeneti fájlnév</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2381"/>
+        <location filename="DlgConvert.cpp" line="2406"/>
         <source>Input files:</source>
         <translation>Bemeneti fájlok:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2382"/>
+        <location filename="DlgConvert.cpp" line="2407"/>
         <source>Extracted pages:</source>
         <translation>Kivont oldalak:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2385"/>
+        <location filename="DlgConvert.cpp" line="2410"/>
         <source>New files:</source>
         <translation>Új fájlok:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2387"/>
+        <location filename="DlgConvert.cpp" line="2412"/>
         <source>Overwritten:</source>
         <translation>Felülírva:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2389"/>
+        <location filename="DlgConvert.cpp" line="2414"/>
         <source>Skipped:</source>
         <translation>Kihagyva:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2400"/>
+        <location filename="DlgConvert.cpp" line="2425"/>
         <source>Total Duration:</source>
         <translation>Teljes időtartam:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2559"/>
+        <location filename="DlgConvert.cpp" line="2584"/>
         <source>Finished at: </source>
         <translation>Befejezve: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2590"/>
+        <location filename="DlgConvert.cpp" line="2615"/>
         <source>uploaded</source>
         <translation>feltölve</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2598"/>
+        <location filename="DlgConvert.cpp" line="2623"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation>nem kép</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2601"/>
+        <location filename="DlgConvert.cpp" line="2626"/>
         <source>open error</source>
         <translation>megnyitási hiba</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2604"/>
+        <location filename="DlgConvert.cpp" line="2629"/>
         <source>create error</source>
         <translation>létrehozási hiba</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2607"/>
+        <location filename="DlgConvert.cpp" line="2632"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>csak olvasható, nem lehet felülírni!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2610"/>
+        <location filename="DlgConvert.cpp" line="2635"/>
         <source>skipped, file already exists!</source>
         <translation>kihagyva, a fájl már létezik!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2612"/>
+        <location filename="DlgConvert.cpp" line="2637"/>
         <source>failed</source>
         <translation>sikertelen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2618"/>
+        <location filename="DlgConvert.cpp" line="2643"/>
         <source>loading</source>
         <translation>töltés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2636"/>
+        <location filename="DlgConvert.cpp" line="2661"/>
         <source>loaded</source>
         <translation>betöltött</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2674"/>
+        <location filename="DlgConvert.cpp" line="2699"/>
         <source>saved</source>
         <translation>mentve</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2719"/>
+        <location filename="DlgConvert.cpp" line="2744"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Fájl felülírása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2720"/>
+        <location filename="DlgConvert.cpp" line="2745"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3905,32 +3905,32 @@ Do you want to overwrite it?</oldsource>
 Felül szeretné írni?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2722"/>
+        <location filename="DlgConvert.cpp" line="2747"/>
         <source>Yes to &amp;all</source>
         <translation>Mindre &amp;igen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2723"/>
+        <location filename="DlgConvert.cpp" line="2748"/>
         <source>&amp;Yes</source>
         <translation>&amp;Igen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2724"/>
+        <location filename="DlgConvert.cpp" line="2749"/>
         <source>&amp;No</source>
         <translation>&amp;Nem</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2725"/>
+        <location filename="DlgConvert.cpp" line="2750"/>
         <source>&amp;Rename</source>
         <translation>Á&amp;tnevezés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2726"/>
+        <location filename="DlgConvert.cpp" line="2751"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Mégse</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2783"/>
+        <location filename="DlgConvert.cpp" line="2808"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3939,7 +3939,7 @@ Do you want to continue?</source>
 Biztosan folytassuk?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2793"/>
+        <location filename="DlgConvert.cpp" line="2818"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
@@ -3948,18 +3948,18 @@ Do you want to continue?</source>
 Biztos folytassuk?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2802"/>
+        <location filename="DlgConvert.cpp" line="2827"/>
         <source>Choose output pathname</source>
         <translation>Válasszon kimeneti elérési utat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2944"/>
+        <location filename="DlgConvert.cpp" line="2969"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>A &apos;Több CPU mag használata&apos; ki volt kapcsolva. Ezen beállítás nem kombinálható a &apos;Kérdés&apos; móddal vagy többoldalas PDF fájllal.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2946"/>
+        <location filename="DlgConvert.cpp" line="2971"/>
         <source>Started at: </source>
         <translation>Kezdés: </translation>
     </message>
@@ -10097,13 +10097,15 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
-        <source>Fast integer</source>
-        <translation>Gyors egész-szám</translation>
+        <source>Integer fast</source>
+        <oldsource>Fast integer</oldsource>
+        <translation type="unfinished">Gyors egész-szám</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
-        <source>Floating</source>
-        <translation>Lebegőpontos szám</translation>
+        <source>Float</source>
+        <oldsource>Floating</oldsource>
+        <translation type="unfinished">Lebegőpontos szám</translation>
     </message>
 </context>
 <context>
@@ -15648,14 +15650,10 @@ Biztos folytassuk?</translation>
         <translation>DCT metódus</translation>
     </message>
     <message>
-        <location filename="DlgWriteJPEG.ui" line="120"/>
-        <source>Slow</source>
-        <translation>Lassú</translation>
-    </message>
-    <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
-        <source>Fast (worst but faster)</source>
-        <translation>Gyors (legrosszabb, de leggyorsabb)</translation>
+        <source>Integer fast (worst but faster)</source>
+        <oldsource>Fast (worst but faster)</oldsource>
+        <translation type="unfinished">Gyors (legrosszabb, de leggyorsabb)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
@@ -15669,13 +15667,19 @@ Biztos folytassuk?</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="153"/>
-        <source>Subsampling factor</source>
-        <translation>Almintavételezési faktor</translation>
+        <source>Subsampling</source>
+        <oldsource>Subsampling factor</oldsource>
+        <translation type="unfinished">Almintavételezési faktor</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
         <source>Use JPEG-li</source>
         <translation>JPEG-li használata</translation>
+    </message>
+    <message>
+        <location filename="DlgWriteJPEG.ui" line="120"/>
+        <source>Integer</source>
+        <translation type="unfinished">Egész szám</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
@@ -16501,7 +16505,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="676"/>
         <location filename="InfoPropertiesView.cpp" line="694"/>
         <location filename="InfoPropertiesView.cpp" line="713"/>
-        <location filename="SearchField.cpp" line="36"/>
         <location filename="TemplateData.cpp" line="2567"/>
         <source>Format</source>
         <translation>Formátum</translation>
@@ -16607,7 +16610,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="138"/>
         <location filename="InfoPropertiesView.cpp" line="141"/>
-        <location filename="SearchField.cpp" line="191"/>
         <source>Embedded comment</source>
         <translation>Beágyazott megjegyzés</translation>
     </message>
@@ -16788,8 +16790,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1094"/>
-        <location filename="SearchField.cpp" line="30"/>
-        <location filename="SearchField.cpp" line="133"/>
         <location filename="TemplateData.cpp" line="2775"/>
         <source>Rating</source>
         <translation>Értékelés</translation>
@@ -16813,7 +16813,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="691"/>
         <location filename="InfoPropertiesView.cpp" line="731"/>
         <location filename="ItemModel.cpp" line="1100"/>
-        <location filename="SearchField.cpp" line="41"/>
         <location filename="TemplateData.cpp" line="2573"/>
         <source>Comment</source>
         <translation>Megjegyzés</translation>
@@ -16827,8 +16826,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1106"/>
-        <location filename="SearchField.cpp" line="39"/>
-        <location filename="SearchField.cpp" line="185"/>
         <location filename="TemplateData.cpp" line="2583"/>
         <source>Ratio</source>
         <translation>Arány</translation>
@@ -16839,83 +16836,57 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Kiterjesztés</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="28"/>
-        <location filename="SearchField.cpp" line="122"/>
+        <location filename="SearchField.cpp" line="25"/>
         <source>Pathname</source>
         <translation>Elérési út</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="133"/>
+        <source>All fields (Number)</source>
+        <translation type="unfinished">Minden mező (szám)</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="134"/>
+        <source>Field</source>
+        <translation type="unfinished">Mező</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="135"/>
+        <source>Field (Number)</source>
+        <translation type="unfinished">Mező (szám)</translation>
+    </message>
+    <message>
         <location filename="ItemModel.cpp" line="1116"/>
-        <location filename="SearchField.cpp" line="29"/>
-        <location filename="SearchField.cpp" line="128"/>
         <location filename="TemplateData.cpp" line="2779"/>
         <source>Categories</source>
         <translation>Kategóriák</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="31"/>
-        <location filename="SearchField.cpp" line="139"/>
         <location filename="TemplateData.cpp" line="2777"/>
         <source>Color label</source>
         <translation>Színcímke</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="32"/>
-        <location filename="SearchField.cpp" line="145"/>
+        <location filename="SearchField.cpp" line="29"/>
         <source>File size</source>
         <translation>Fájlméret</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="33"/>
-        <location filename="SearchField.cpp" line="151"/>
-        <source>Modified file date</source>
-        <translation>Módosított fájldátum</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="34"/>
-        <location filename="SearchField.cpp" line="157"/>
-        <source>Created file date</source>
-        <translation>Készített fájldátum</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="35"/>
-        <location filename="SearchField.cpp" line="162"/>
-        <source>Accessed file date</source>
-        <translation>Hozzáfért fájldátum</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="37"/>
-        <location filename="SearchField.cpp" line="173"/>
-        <source>Image width</source>
-        <translation>Kép szélessége</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="38"/>
-        <location filename="SearchField.cpp" line="179"/>
-        <source>Image height</source>
-        <translation>Kép magassága</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="364"/>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="IptcEditBase.cpp" line="114"/>
         <location filename="ItemModel.cpp" line="1102"/>
-        <location filename="SearchField.cpp" line="40"/>
-        <location filename="SearchField.cpp" line="196"/>
         <location filename="TemplateData.cpp" line="2799"/>
         <source>Annotation</source>
         <translation>Jegyzet</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="42"/>
-        <location filename="SearchField.cpp" line="201"/>
+        <location filename="SearchField.cpp" line="39"/>
+        <location filename="SearchField.cpp" line="70"/>
+        <location filename="SearchField.cpp" line="86"/>
+        <location filename="SearchField.cpp" line="132"/>
         <source>All fields</source>
         <translation>Minden mező</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="167"/>
-        <source>Image format</source>
-        <translation>Képformátum</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2572"/>
@@ -17367,14 +17338,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1119"/>
-        <location filename="SearchField.cpp" line="261"/>
         <location filename="TemplateData.cpp" line="2605"/>
         <source>Maker</source>
         <translation>Készítő</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1121"/>
-        <location filename="SearchField.cpp" line="266"/>
         <location filename="TemplateData.cpp" line="2606"/>
         <source>Model</source>
         <translation>Modell</translation>
@@ -17391,7 +17360,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
-        <location filename="SearchField.cpp" line="314"/>
         <source>Exposure Time</source>
         <translation>Expozíciós idő</translation>
     </message>
@@ -17419,50 +17387,21 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Hosszúság</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="271"/>
         <location filename="TemplateData.cpp" line="2618"/>
         <source>Software</source>
         <translation>Szoftver</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="276"/>
         <location filename="TemplateData.cpp" line="2607"/>
         <source>Artist</source>
         <translation>Szerző</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="281"/>
         <location filename="TemplateData.cpp" line="2631"/>
         <source>User comment</source>
         <translation>Felhasználói megjegyzés</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="286"/>
-        <source>Modified date</source>
-        <translation>Módosítás dátuma</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="291"/>
-        <source>Taken date</source>
-        <translation>Készítés dátuma</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="296"/>
-        <source>Digitized date</source>
-        <translation>Digitalizálás dátuma</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="301"/>
-        <source>Sensitivity</source>
-        <translation>Érzékenység</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="307"/>
-        <source>Focal length</source>
-        <translation>Fókusztávolság</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="321"/>
         <location filename="TemplateData.cpp" line="2639"/>
         <source>F-Number</source>
         <translation>F-érték</translation>
@@ -17636,7 +17575,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Tárgy helye</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="329"/>
         <location filename="TemplateData.cpp" line="2651"/>
         <source>Flash</source>
         <translation>Vaku</translation>
@@ -17876,8 +17814,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
         <location filename="ItemModel.cpp" line="1138"/>
-        <location filename="SearchField.cpp" line="44"/>
-        <location filename="SearchField.cpp" line="206"/>
         <location filename="TemplateData.cpp" line="2703"/>
         <source>Caption</source>
         <translation>Képaláírás</translation>
@@ -17887,10 +17823,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <location filename="ItemModel.cpp" line="1140"/>
-        <location filename="SearchField.cpp" line="45"/>
-        <location filename="SearchField.cpp" line="77"/>
-        <location filename="SearchField.cpp" line="211"/>
-        <location filename="SearchField.cpp" line="357"/>
         <location filename="TemplateData.cpp" line="2704"/>
         <location filename="TemplateData.cpp" line="2757"/>
         <source>Caption writer</source>
@@ -17901,8 +17833,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1142"/>
-        <location filename="SearchField.cpp" line="46"/>
-        <location filename="SearchField.cpp" line="216"/>
         <location filename="TemplateData.cpp" line="2705"/>
         <location filename="TemplateData.cpp" line="2761"/>
         <source>Headline</source>
@@ -17920,16 +17850,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="33"/>
         <location filename="IptcHelper.cpp" line="22"/>
         <location filename="ItemModel.cpp" line="1144"/>
-        <location filename="SearchField.cpp" line="52"/>
-        <location filename="SearchField.cpp" line="246"/>
         <location filename="TemplateData.cpp" line="2711"/>
         <source>Keywords</source>
         <translation>Kulcsszavak</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="34"/>
-        <location filename="SearchField.cpp" line="78"/>
-        <location filename="SearchField.cpp" line="359"/>
         <location filename="TemplateData.cpp" line="2712"/>
         <source>Category</source>
         <translation>Kategória</translation>
@@ -17945,9 +17871,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="40"/>
         <location filename="IptcHelper.cpp" line="30"/>
         <location filename="ItemModel.cpp" line="1156"/>
-        <location filename="SearchField.cpp" line="47"/>
-        <location filename="SearchField.cpp" line="73"/>
-        <location filename="SearchField.cpp" line="221"/>
         <location filename="TemplateData.cpp" line="2718"/>
         <location filename="TemplateData.cpp" line="2753"/>
         <source>Copyright</source>
@@ -17957,8 +17880,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="26"/>
         <location filename="ItemModel.cpp" line="1148"/>
-        <location filename="SearchField.cpp" line="48"/>
-        <location filename="SearchField.cpp" line="226"/>
         <location filename="TemplateData.cpp" line="2719"/>
         <source>Byline</source>
         <translation>Szerző</translation>
@@ -17967,8 +17888,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
         <location filename="ItemModel.cpp" line="1150"/>
-        <location filename="SearchField.cpp" line="49"/>
-        <location filename="SearchField.cpp" line="231"/>
         <location filename="TemplateData.cpp" line="2720"/>
         <source>Byline title</source>
         <translation>Szerző cím</translation>
@@ -17984,8 +17903,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="29"/>
         <location filename="ItemModel.cpp" line="1154"/>
-        <location filename="SearchField.cpp" line="51"/>
-        <location filename="SearchField.cpp" line="241"/>
         <location filename="TemplateData.cpp" line="2722"/>
         <location filename="TemplateData.cpp" line="2763"/>
         <source>Source</source>
@@ -18038,8 +17955,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="42"/>
         <location filename="ItemModel.cpp" line="1160"/>
-        <location filename="SearchField.cpp" line="79"/>
-        <location filename="SearchField.cpp" line="361"/>
         <location filename="TemplateData.cpp" line="2739"/>
         <location filename="TemplateData.cpp" line="2758"/>
         <source>City</source>
@@ -18064,8 +17979,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="63"/>
         <location filename="IptcHelper.cpp" line="45"/>
         <location filename="ItemModel.cpp" line="1166"/>
-        <location filename="SearchField.cpp" line="80"/>
-        <location filename="SearchField.cpp" line="363"/>
         <location filename="TemplateData.cpp" line="2742"/>
         <location filename="TemplateData.cpp" line="2759"/>
         <source>Country</source>
@@ -18140,8 +18053,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="IptcHelper.cpp" line="23"/>
         <location filename="ItemModel.cpp" line="1146"/>
-        <location filename="SearchField.cpp" line="53"/>
-        <location filename="SearchField.cpp" line="251"/>
         <source>Categories</source>
         <translation>Kategóriák</translation>
     </message>
@@ -18163,10 +18074,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="127"/>
         <location filename="ItemModel.cpp" line="1152"/>
-        <location filename="SearchField.cpp" line="50"/>
-        <location filename="SearchField.cpp" line="81"/>
-        <location filename="SearchField.cpp" line="236"/>
-        <location filename="SearchField.cpp" line="365"/>
         <location filename="TemplateData.cpp" line="2721"/>
         <location filename="TemplateData.cpp" line="2760"/>
         <source>Credit</source>
@@ -18183,74 +18090,31 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Állam</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="54"/>
-        <location filename="SearchField.cpp" line="69"/>
-        <location filename="SearchField.cpp" line="82"/>
-        <location filename="SearchField.cpp" line="256"/>
-        <location filename="SearchField.cpp" line="335"/>
-        <location filename="SearchField.cpp" line="367"/>
-        <source>All fields</source>
-        <translation>Minden mező</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="71"/>
-        <location filename="SearchField.cpp" line="347"/>
         <location filename="TemplateData.cpp" line="2751"/>
         <source>Creator</source>
         <translation>Létrehozó</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="111"/>
-        <location filename="SearchField.cpp" line="72"/>
-        <location filename="SearchField.cpp" line="349"/>
         <location filename="TemplateData.cpp" line="2752"/>
         <source>Description</source>
         <translation>Leírás</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="74"/>
-        <location filename="SearchField.cpp" line="340"/>
         <location filename="TemplateData.cpp" line="2754"/>
         <source>Subject</source>
         <translation>Tárgy</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="75"/>
-        <location filename="SearchField.cpp" line="353"/>
         <location filename="TemplateData.cpp" line="2755"/>
         <source>Title</source>
         <translation>Cím</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="110"/>
-        <location filename="SearchField.cpp" line="76"/>
-        <location filename="SearchField.cpp" line="355"/>
         <location filename="TemplateData.cpp" line="2756"/>
         <source>Authors position</source>
         <translation>Szerző pozíció</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="83"/>
-        <location filename="SearchField.cpp" line="369"/>
-        <source>All fields (Number)</source>
-        <translation>Minden mező (szám)</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="84"/>
-        <location filename="SearchField.cpp" line="371"/>
-        <source>Field</source>
-        <translation>Mező</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="85"/>
-        <location filename="SearchField.cpp" line="373"/>
-        <source>Field (Number)</source>
-        <translation>Mező (szám)</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="351"/>
-        <source>Copyrights</source>
-        <translation>Szerzői jogok</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2729"/>
@@ -19771,19 +19635,19 @@ Biztosan folytassuk?</translation>
         <translation>Fájllista megnyitása...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4208"/>
+        <location filename="BrowserWindow.cpp" line="4213"/>
         <location filename="BrowserMenu.h" line="413"/>
         <source>Cut</source>
         <translation>Kivágás</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4210"/>
+        <location filename="BrowserWindow.cpp" line="4215"/>
         <location filename="BrowserMenu.h" line="415"/>
         <source>Copy</source>
         <translation>Másolás</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4212"/>
+        <location filename="BrowserWindow.cpp" line="4217"/>
         <location filename="BrowserMenu.h" line="420"/>
         <source>Paste</source>
         <translation>Beillesztés</translation>
@@ -19819,19 +19683,19 @@ Biztosan folytassuk?</translation>
         <translation>Megjelölt fájlok kijelölése</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4220"/>
+        <location filename="BrowserWindow.cpp" line="4225"/>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Copy to...</source>
         <translation>Másolás...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4222"/>
+        <location filename="BrowserWindow.cpp" line="4227"/>
         <location filename="BrowserMenu.h" line="431"/>
         <source>Move to...</source>
         <translation>Áthelyezés...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4215"/>
+        <location filename="BrowserWindow.cpp" line="4220"/>
         <location filename="BrowserMenu.h" line="432"/>
         <source>Delete</source>
         <translation>Törlés</translation>
@@ -20417,12 +20281,12 @@ Biztosan folytassuk?</translation>
         <translation>&amp;Súgó</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4205"/>
+        <location filename="BrowserWindow.cpp" line="4210"/>
         <source>New Folder</source>
         <translation>Új mappa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4217"/>
+        <location filename="BrowserWindow.cpp" line="4222"/>
         <source>Rename</source>
         <translation>Átnevezés</translation>
     </message>
@@ -20435,95 +20299,95 @@ Biztosan folytassuk?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1469"/>
+        <location filename="xnview.cpp" line="1471"/>
         <source>Quit</source>
         <translation>Kilépés</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1472"/>
+        <location filename="xnview.cpp" line="1474"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Weboldal...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1479"/>
         <source>Make a donation...</source>
         <translation>Adományozás...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1470"/>
+        <location filename="xnview.cpp" line="1472"/>
         <source>About</source>
         <translation>Névjegy</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1471"/>
+        <location filename="xnview.cpp" line="1473"/>
         <source>PlugIns...</source>
         <translation>Beépülők...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1473"/>
+        <location filename="xnview.cpp" line="1475"/>
         <source>Forum...</source>
         <translation>Fórum...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1474"/>
+        <location filename="xnview.cpp" line="1476"/>
         <source>Technical Support...</source>
         <translation>Technikai támogatás...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1475"/>
+        <location filename="xnview.cpp" line="1477"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Hiba jelentése...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1476"/>
+        <location filename="xnview.cpp" line="1478"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1478"/>
+        <location filename="xnview.cpp" line="1480"/>
         <source>Check for update...</source>
         <translation>Frissítések keresése...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1479"/>
+        <location filename="xnview.cpp" line="1481"/>
         <source>Registration...</source>
         <translation>Regisztráció...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1480"/>
+        <location filename="xnview.cpp" line="1482"/>
         <source>Purchase...</source>
         <translation>Vásárlás...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1490"/>
         <location filename="xnview.cpp" line="1492"/>
+        <location filename="xnview.cpp" line="1494"/>
         <source>Settings...</source>
         <translation>Beállítások...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1496"/>
+        <location filename="xnview.cpp" line="1498"/>
         <source>Always on top</source>
         <translation>Mindig látható</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1498"/>
+        <location filename="xnview.cpp" line="1500"/>
         <source>Titlebar</source>
         <translation>Címsor</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1499"/>
+        <location filename="xnview.cpp" line="1501"/>
         <source>Show</source>
         <translation>Megjelenítés</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1500"/>
+        <location filename="xnview.cpp" line="1502"/>
         <source>Bottom</source>
         <translation>Lent</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1501"/>
+        <location filename="xnview.cpp" line="1503"/>
         <source>Tab</source>
         <translation>Lap</translation>
     </message>
@@ -22689,7 +22553,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
         <translation>Kategóriák</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2205"/>
+        <location filename="BrowserWindow.cpp" line="2210"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Jelölőre kattintva válthat a feladatok között
@@ -23285,140 +23149,140 @@ Jobb klikkre előugrik egy ablak a műveletekkel.</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="457"/>
-        <location filename="SearchField.cpp" line="680"/>
+        <location filename="SearchField.cpp" line="431"/>
+        <location filename="SearchField.cpp" line="654"/>
         <source>is</source>
         <translation> </translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="458"/>
+        <location filename="SearchField.cpp" line="432"/>
         <source>is not</source>
         <translation>nem</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="459"/>
-        <location filename="SearchField.cpp" line="578"/>
+        <location filename="SearchField.cpp" line="433"/>
+        <location filename="SearchField.cpp" line="552"/>
         <source>is any of</source>
         <translation>bármely</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="460"/>
-        <location filename="SearchField.cpp" line="579"/>
-        <location filename="SearchField.cpp" line="678"/>
+        <location filename="SearchField.cpp" line="434"/>
+        <location filename="SearchField.cpp" line="553"/>
+        <location filename="SearchField.cpp" line="652"/>
         <source>contains</source>
         <translation>tartalmazza</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="461"/>
-        <location filename="SearchField.cpp" line="679"/>
+        <location filename="SearchField.cpp" line="435"/>
+        <location filename="SearchField.cpp" line="653"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>nem tartalmazza</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="462"/>
+        <location filename="SearchField.cpp" line="436"/>
         <source>starts with</source>
         <translation>kezdődik</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="529"/>
+        <location filename="SearchField.cpp" line="503"/>
         <source>With at least one of the words</source>
         <translation>Legalább az egyik szó</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="531"/>
+        <location filename="SearchField.cpp" line="505"/>
         <source>With all of the words</source>
         <translation>Minden szóval</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="533"/>
+        <location filename="SearchField.cpp" line="507"/>
         <source>With the exact phrase</source>
         <translation>Pontos kifejezés</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="536"/>
+        <location filename="SearchField.cpp" line="510"/>
         <source>Whole word only</source>
         <translation>Csak teljes szó</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="824"/>
+        <location filename="SearchField.cpp" line="798"/>
         <source>and</source>
         <translation>és</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="915"/>
+        <location filename="SearchField.cpp" line="889"/>
         <source>is before</source>
         <translation>előtt</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="916"/>
+        <location filename="SearchField.cpp" line="890"/>
         <source>is after</source>
         <translation>után</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="917"/>
+        <location filename="SearchField.cpp" line="891"/>
         <source>is between</source>
         <translation>között</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="977"/>
-        <location filename="SearchField.cpp" line="1106"/>
-        <location filename="SearchField.cpp" line="1191"/>
+        <location filename="SearchField.cpp" line="951"/>
+        <location filename="SearchField.cpp" line="1080"/>
+        <location filename="SearchField.cpp" line="1165"/>
         <source>is less than</source>
         <translation>kevesebb, mint</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="978"/>
-        <location filename="SearchField.cpp" line="1107"/>
-        <location filename="SearchField.cpp" line="1192"/>
+        <location filename="SearchField.cpp" line="952"/>
+        <location filename="SearchField.cpp" line="1081"/>
+        <location filename="SearchField.cpp" line="1166"/>
         <source>is less than or equal to</source>
         <translation>kevesebb, mint vagy egyenlő</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="979"/>
-        <location filename="SearchField.cpp" line="1108"/>
-        <location filename="SearchField.cpp" line="1193"/>
+        <location filename="SearchField.cpp" line="953"/>
+        <location filename="SearchField.cpp" line="1082"/>
+        <location filename="SearchField.cpp" line="1167"/>
         <source>equal to</source>
         <translation>egyenlő</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="980"/>
-        <location filename="SearchField.cpp" line="1109"/>
-        <location filename="SearchField.cpp" line="1194"/>
+        <location filename="SearchField.cpp" line="954"/>
+        <location filename="SearchField.cpp" line="1083"/>
+        <location filename="SearchField.cpp" line="1168"/>
         <source>is greater than</source>
         <translation>nagyobb, mint</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="981"/>
-        <location filename="SearchField.cpp" line="1110"/>
-        <location filename="SearchField.cpp" line="1195"/>
+        <location filename="SearchField.cpp" line="955"/>
+        <location filename="SearchField.cpp" line="1084"/>
+        <location filename="SearchField.cpp" line="1169"/>
         <source>is greater than or equal to</source>
         <translation>nagyobb, mint vagy egyenlő</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="982"/>
-        <location filename="SearchField.cpp" line="1111"/>
-        <location filename="SearchField.cpp" line="1196"/>
+        <location filename="SearchField.cpp" line="956"/>
+        <location filename="SearchField.cpp" line="1085"/>
+        <location filename="SearchField.cpp" line="1170"/>
         <source>between</source>
         <translation>között</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1036"/>
+        <location filename="SearchField.cpp" line="1010"/>
         <source>bytes</source>
         <translation>byte</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1037"/>
+        <location filename="SearchField.cpp" line="1011"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1038"/>
+        <location filename="SearchField.cpp" line="1012"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1039"/>
+        <location filename="SearchField.cpp" line="1013"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>
@@ -23838,12 +23702,12 @@ Megőrizzük a miniatűröket?
         <translation>Az alkalmazás jelenleg naprakész.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1694"/>
+        <location filename="xnview.cpp" line="1696"/>
         <source>Do you want to save session?</source>
         <translation>El akarja menteni a munkamenetet?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3115"/>
+        <location filename="xnview.cpp" line="3117"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -23861,18 +23725,18 @@ Az értékelés, címke, színcímke nem kerül mentésre.</translation>
         <translation>Munkamenet</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1619"/>
+        <location filename="xnview.cpp" line="1621"/>
         <source>Do you want to quit?</source>
         <translation>Biztosan kilép?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1695"/>
+        <location filename="xnview.cpp" line="1697"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Túl sok lap elmentése az alkalmazás lassú újraindítását okozhatja.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1701"/>
+        <location filename="xnview.cpp" line="1703"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Ne kérdezze többet</translation>
@@ -23888,7 +23752,7 @@ Az értékelés, címke, színcímke nem kerül mentésre.</translation>
         <translation>Fájl nem található!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1720"/>
+        <location filename="xnview.cpp" line="1722"/>
         <source>Do you want to save this session?</source>
         <translation>Szeretné menteni ezt a munkamenetet?</translation>
     </message>

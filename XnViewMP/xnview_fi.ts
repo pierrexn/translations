@@ -7894,11 +7894,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fast integer</source>
+        <source>Integer fast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Floating</source>
+        <source>Float</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12108,10 +12108,6 @@ Haluatko jatkaa?</translation>
         <translation>Paras</translation>
     </message>
     <message>
-        <source>Slow</source>
-        <translation>Hidas</translation>
-    </message>
-    <message>
         <source>Smoothing factor</source>
         <translation>Tasoituskerroin</translation>
     </message>
@@ -12144,16 +12140,8 @@ Haluatko jatkaa?</translation>
         <translation>1x1,1x1,1x1 (paras laatu)</translation>
     </message>
     <message>
-        <source>Subsampling factor</source>
-        <translation>Alinäytteistys</translation>
-    </message>
-    <message>
         <source>2x2,1x1,1x1 (default)</source>
         <translation>2x2,1x1,1x1 (oletus)</translation>
-    </message>
-    <message>
-        <source>Fast (worst but faster)</source>
-        <translation>Nopea (huonoin mutta nopein)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -12174,6 +12162,18 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Use JPEG-li</source>
         <translation>Käytä JPEG-li:tä</translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer fast (worst but faster)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished">Alinäytteistys</translation>
     </message>
 </context>
 <context>
@@ -12957,16 +12957,8 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Koko</translation>
     </message>
     <message>
-        <source>Image format</source>
-        <translation>Kuvaformaatti</translation>
-    </message>
-    <message>
         <source>Recorded date</source>
         <translation>Äänityspäivä</translation>
-    </message>
-    <message>
-        <source>Image height</source>
-        <translation>Kuvan korkeus</translation>
     </message>
     <message>
         <source>Embedded comment</source>
@@ -13045,10 +13037,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Bittiä/näyte</translation>
     </message>
     <message>
-        <source>Image width</source>
-        <translation>Kuvan leveys</translation>
-    </message>
-    <message>
         <source>Width (inch)</source>
         <translation>Leveys (tuumaa)</translation>
     </message>
@@ -13071,14 +13059,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Compression</source>
         <translation>Pakkaus</translation>
-    </message>
-    <message>
-        <source>Modified file date</source>
-        <translation>Tiedoston muokkauspäivä</translation>
-    </message>
-    <message>
-        <source>Created file date</source>
-        <translation>Tiedoston luontipäivä</translation>
     </message>
     <message>
         <source>Pathname</source>
@@ -13181,10 +13161,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Koodauspäiväys</translation>
     </message>
     <message>
-        <source>Accessed file date</source>
-        <translation>Käsittelypäivä</translation>
-    </message>
-    <message>
         <source>Path</source>
         <translation>Polku</translation>
     </message>
@@ -13219,6 +13195,18 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>DPI-Y</source>
         <translation>DPI-Y</translation>
+    </message>
+    <message>
+        <source>All fields (Number)</source>
+        <translation type="unfinished">Kaikki kentät (Numero)</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Kenttä</translation>
+    </message>
+    <message>
+        <source>Field (Number)</source>
+        <translation type="unfinished">Kenttä (Numero)</translation>
     </message>
 </context>
 <context>
@@ -13429,10 +13417,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Väriavaruus</translation>
     </message>
     <message>
-        <source>Sensitivity</source>
-        <translation>Herkkyys</translation>
-    </message>
-    <message>
         <source>Exposure Program</source>
         <translation>Valotusohjelma</translation>
     </message>
@@ -13505,10 +13489,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Kuvan korkeus</translation>
     </message>
     <message>
-        <source>Focal length</source>
-        <translation>Polttoväli</translation>
-    </message>
-    <message>
         <source>35mm Focal length</source>
         <translation>35mm Polttoväli</translation>
     </message>
@@ -13527,10 +13507,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Exposure Mode</source>
         <translation>Valotustila</translation>
-    </message>
-    <message>
-        <source>Digitized date</source>
-        <translation>Digitointipäivä</translation>
     </message>
     <message>
         <source>Artist</source>
@@ -13701,10 +13677,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Kohteen etäisyys (m)</translation>
     </message>
     <message>
-        <source>Taken date</source>
-        <translation>Kuvauspäivä</translation>
-    </message>
-    <message>
         <source>Thumbnail</source>
         <translation>Pienoiskuva</translation>
     </message>
@@ -13751,10 +13723,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Longitude (value)</source>
         <translation>Pituusaste (arvo)</translation>
-    </message>
-    <message>
-        <source>Modified date</source>
-        <translation>Muokkauspäivä</translation>
     </message>
     <message>
         <source>Latitude (value)</source>
@@ -13819,10 +13787,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Tapahtuma</translation>
     </message>
     <message>
-        <source>Field</source>
-        <translation>Kenttä</translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>Muut</translation>
     </message>
@@ -13835,16 +13799,8 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Otsikko</translation>
     </message>
     <message>
-        <source>Copyrights</source>
-        <translation>Tekijänoikeudet (Copyrights)</translation>
-    </message>
-    <message>
         <source>Transmission reference</source>
         <translation>Lähetysviite</translation>
-    </message>
-    <message>
-        <source>All fields (Number)</source>
-        <translation>Kaikki kentät (Numero)</translation>
     </message>
     <message>
         <source>Object cycle</source>
@@ -13919,10 +13875,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Tekijänoikeushuomautus</translation>
     </message>
     <message>
-        <source>All fields</source>
-        <translation>Kaikki kentät</translation>
-    </message>
-    <message>
         <source>Program</source>
         <translation>Ohjelma</translation>
     </message>
@@ -13981,10 +13933,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Country</source>
         <translation>Maa</translation>
-    </message>
-    <message>
-        <source>Field (Number)</source>
-        <translation>Kenttä (Numero)</translation>
     </message>
     <message>
         <source>Creator</source>

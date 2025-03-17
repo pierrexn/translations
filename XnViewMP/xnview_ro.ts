@@ -7905,12 +7905,12 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
         <translation>Întreg</translation>
     </message>
     <message>
-        <source>Fast integer</source>
-        <translation>Număr întreg rapid</translation>
+        <source>Integer fast</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Floating</source>
-        <translation>Număr în virgulă mobilă</translation>
+        <source>Float</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12117,10 +12117,6 @@ Vrei să continui?</translation>
         <translation>Cea mai bună</translation>
     </message>
     <message>
-        <source>Slow</source>
-        <translation>Încet</translation>
-    </message>
-    <message>
         <source>Smoothing factor</source>
         <translation>Factor de netezire</translation>
     </message>
@@ -12153,16 +12149,8 @@ Vrei să continui?</translation>
         <translation>1x1,1x1,1x1 (cea mai bună calitate)</translation>
     </message>
     <message>
-        <source>Subsampling factor</source>
-        <translation>Factorul de subeșantionare</translation>
-    </message>
-    <message>
         <source>2x2,1x1,1x1 (default)</source>
         <translation>2x2,1x1,1x1 (implicit)</translation>
-    </message>
-    <message>
-        <source>Fast (worst but faster)</source>
-        <translation>Rapid (cel mai rău, dar mai rapid)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -12183,6 +12171,18 @@ Vrei să continui?</translation>
     <message>
         <source>Use JPEG-li</source>
         <translation>Folosește JPEG-li</translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished">Întreg</translation>
+    </message>
+    <message>
+        <source>Integer fast (worst but faster)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished">Subeșantionare</translation>
     </message>
 </context>
 <context>
@@ -12966,16 +12966,8 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Dimensiune</translation>
     </message>
     <message>
-        <source>Image format</source>
-        <translation>Format imagine</translation>
-    </message>
-    <message>
         <source>Recorded date</source>
         <translation>Data inregistrata</translation>
-    </message>
-    <message>
-        <source>Image height</source>
-        <translation>Înălțimea imaginii</translation>
     </message>
     <message>
         <source>Embedded comment</source>
@@ -13054,10 +13046,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Biți/probă</translation>
     </message>
     <message>
-        <source>Image width</source>
-        <translation>Lățimea imaginii</translation>
-    </message>
-    <message>
         <source>Width (inch)</source>
         <translation>Lățime (inci)</translation>
     </message>
@@ -13080,14 +13068,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Compression</source>
         <translation>Comprimare</translation>
-    </message>
-    <message>
-        <source>Modified file date</source>
-        <translation>Data fișierului modificat</translation>
-    </message>
-    <message>
-        <source>Created file date</source>
-        <translation>Data fișierului creat</translation>
     </message>
     <message>
         <source>Pathname</source>
@@ -13190,10 +13170,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Data codificată</translation>
     </message>
     <message>
-        <source>Accessed file date</source>
-        <translation>Data fișierului accesat</translation>
-    </message>
-    <message>
         <source>Filename (last number)</source>
         <translation>Numele fișierului (ultimul număr)</translation>
     </message>
@@ -13228,6 +13204,18 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Output filename (with extension)</source>
         <translation>Numele fișierului de ieșire (cu extensie)</translation>
+    </message>
+    <message>
+        <source>All fields (Number)</source>
+        <translation type="unfinished">Toate câmpurile (număr)</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Camp</translation>
+    </message>
+    <message>
+        <source>Field (Number)</source>
+        <translation type="unfinished">Câmp (număr)</translation>
     </message>
 </context>
 <context>
@@ -13438,10 +13426,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Spațiu de culoare</translation>
     </message>
     <message>
-        <source>Sensitivity</source>
-        <translation>Sensibilitate</translation>
-    </message>
-    <message>
         <source>Exposure Program</source>
         <translation>Programul de expunere</translation>
     </message>
@@ -13514,10 +13498,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Înălțimea imaginii</translation>
     </message>
     <message>
-        <source>Focal length</source>
-        <translation>Distanta focala</translation>
-    </message>
-    <message>
         <source>35mm Focal length</source>
         <translation>Lungime focală 35 mm</translation>
     </message>
@@ -13532,10 +13512,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Exposure Mode</source>
         <translation>Modul de expunere</translation>
-    </message>
-    <message>
-        <source>Digitized date</source>
-        <translation>Data digitizată</translation>
     </message>
     <message>
         <source>Artist</source>
@@ -13706,10 +13682,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Distanța subiectului (m)</translation>
     </message>
     <message>
-        <source>Taken date</source>
-        <translation>Data luării</translation>
-    </message>
-    <message>
         <source>Thumbnail</source>
         <translation>Miniatură</translation>
     </message>
@@ -13756,10 +13728,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Longitude (value)</source>
         <translation>Longitudine (valoare)</translation>
-    </message>
-    <message>
-        <source>Modified date</source>
-        <translation>Data modificata</translation>
     </message>
     <message>
         <source>Latitude (value)</source>
@@ -13828,10 +13796,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Eveniment</translation>
     </message>
     <message>
-        <source>Field</source>
-        <translation>Camp</translation>
-    </message>
-    <message>
         <source>Other</source>
         <translation>Alte</translation>
     </message>
@@ -13844,16 +13808,8 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Titlu</translation>
     </message>
     <message>
-        <source>Copyrights</source>
-        <translation>Drepturi de autor</translation>
-    </message>
-    <message>
         <source>Transmission reference</source>
         <translation>Referința transmisiei</translation>
-    </message>
-    <message>
-        <source>All fields (Number)</source>
-        <translation>Toate câmpurile (număr)</translation>
     </message>
     <message>
         <source>Object cycle</source>
@@ -13924,10 +13880,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Notificare privind drepturile de autor</translation>
     </message>
     <message>
-        <source>All fields</source>
-        <translation>Toate câmpurile</translation>
-    </message>
-    <message>
         <source>Program</source>
         <translation>Program</translation>
     </message>
@@ -13986,10 +13938,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Country</source>
         <translation>Țară</translation>
-    </message>
-    <message>
-        <source>Field (Number)</source>
-        <translation>Câmp (număr)</translation>
     </message>
     <message>
         <source>Creator</source>

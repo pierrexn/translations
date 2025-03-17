@@ -7889,11 +7889,11 @@ Please make sure that files are not read-only!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fast integer</source>
+        <source>Integer fast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Floating</source>
+        <source>Float</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12101,10 +12101,6 @@ Do you want to continue?</source>
         <translation>Լավագույն</translation>
     </message>
     <message>
-        <source>Slow</source>
-        <translation>Դանդաղ</translation>
-    </message>
-    <message>
         <source>Smoothing factor</source>
         <translation>Հարթեցման գործակիցը</translation>
     </message>
@@ -12133,16 +12129,8 @@ Do you want to continue?</source>
         <translation>1x1, 1x1, 1x1 (լավագույն որակ)</translation>
     </message>
     <message>
-        <source>Subsampling factor</source>
-        <translation>Դիսկրետիզացիա</translation>
-    </message>
-    <message>
         <source>2x2,1x1,1x1 (default)</source>
         <translation>2х2, 1x1, 1x1 (ըստ ծրագրայինի)</translation>
-    </message>
-    <message>
-        <source>Fast (worst but faster)</source>
-        <translation>Արագ (ցածր որակ)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -12167,6 +12155,18 @@ Do you want to continue?</source>
     <message>
         <source>Use JPEG-li</source>
         <translation type="unfinished">Օգտագործել JPEG-li</translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer fast (worst but faster)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished">Ենթանմուշառում</translation>
     </message>
 </context>
 <context>
@@ -12886,14 +12886,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Պրոգրեսիվ եղանակ</translation>
     </message>
     <message>
-        <source>Image format</source>
-        <translation>Պատկերի ձևաչափ</translation>
-    </message>
-    <message>
-        <source>Image height</source>
-        <translation>Պատկերի բարձրություն</translation>
-    </message>
-    <message>
         <source>Embedded comment</source>
         <translation>Ներկառուցված մեկնաբանություն</translation>
     </message>
@@ -12950,10 +12942,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Հատկությունները</translation>
     </message>
     <message>
-        <source>Image width</source>
-        <translation>Պատկերի լայնություն</translation>
-    </message>
-    <message>
         <source>Width (inch)</source>
         <translation>Լայնություն (դյույմ)</translation>
     </message>
@@ -12976,14 +12964,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Compression</source>
         <translation>Սեղմում</translation>
-    </message>
-    <message>
-        <source>Modified file date</source>
-        <translation>Ֆայլի ամսաթվի փոփոխում</translation>
-    </message>
-    <message>
-        <source>Created file date</source>
-        <translation>Ֆայլը ստեղծելու ամսաթիվ</translation>
     </message>
     <message>
         <source>Size (Bytes)</source>
@@ -13044,10 +13024,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Modified date</source>
         <translation>Փոփոխումը</translation>
-    </message>
-    <message>
-        <source>Accessed file date</source>
-        <translation>Մուտք գործելու ֆայլի ամսաթիվ</translation>
     </message>
     <message>
         <source>Type</source>
@@ -13212,6 +13188,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>DPI-Y</source>
         <translation>DPI-Y</translation>
+    </message>
+    <message>
+        <source>All fields (Number)</source>
+        <translation type="unfinished">Բոլոր դաշտերը (թիվ)</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Դաշտ</translation>
+    </message>
+    <message>
+        <source>Field (Number)</source>
+        <translation type="unfinished">Դաշտ (թիվ)</translation>
     </message>
 </context>
 <context>
@@ -13422,10 +13410,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Գույնային տարածք</translation>
     </message>
     <message>
-        <source>Sensitivity</source>
-        <translation>Զգայունությունը</translation>
-    </message>
-    <message>
         <source>Exposure Program</source>
         <translation>Ցուցադրման ծրագիրը</translation>
     </message>
@@ -13498,10 +13482,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Պատկերի բարձրություն</translation>
     </message>
     <message>
-        <source>Focal length</source>
-        <translation>Ֆոկուսային հեռավորությունը</translation>
-    </message>
-    <message>
         <source>35mm Focal length</source>
         <translation>35մմ կիզակետային հեռվ.</translation>
     </message>
@@ -13516,10 +13496,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Exposure Mode</source>
         <translation>Ցուցադրանքի կերպ</translation>
-    </message>
-    <message>
-        <source>Digitized date</source>
-        <translation>Թվային ամսաթիվ</translation>
     </message>
     <message>
         <source>Artist</source>
@@ -13670,10 +13646,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Հեռավորությունը (մ)</translation>
     </message>
     <message>
-        <source>Taken date</source>
-        <translation>Տրված ամսաթիվ</translation>
-    </message>
-    <message>
         <source>Thumbnail</source>
         <translation>Մանրապատկեր</translation>
     </message>
@@ -13716,10 +13688,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Gain control</source>
         <translation>Աճի ղեկավարում</translation>
-    </message>
-    <message>
-        <source>Modified date</source>
-        <translation>Փոփոխումը</translation>
     </message>
     <message>
         <source>YCbCr-Positioning</source>
@@ -13816,10 +13784,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Անվանում</translation>
     </message>
     <message>
-        <source>Copyrights</source>
-        <translation>Հեղինկային իրավունք</translation>
-    </message>
-    <message>
         <source>Object cycle</source>
         <translation>Ֆայլի շրջանը</translation>
     </message>
@@ -13862,10 +13826,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Source</source>
         <translation>Աղբյուր</translation>
-    </message>
-    <message>
-        <source>All fields</source>
-        <translation>Բոլոր դաշտերը</translation>
     </message>
     <message>
         <source>Program</source>
@@ -13978,18 +13938,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Content location</source>
         <translation>Բովանդակության տեղ.</translation>
-    </message>
-    <message>
-        <source>All fields (Number)</source>
-        <translation>Բոլոր դաշտերը (թիվ)</translation>
-    </message>
-    <message>
-        <source>Field</source>
-        <translation>Դաշտ</translation>
-    </message>
-    <message>
-        <source>Field (Number)</source>
-        <translation>Դաշտ (թիվ)</translation>
     </message>
     <message>
         <source>Instructions</source>
