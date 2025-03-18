@@ -10055,7 +10055,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>Use</source>
-        <translation>Использовать</translation>
+        <translation>Использовать при пакетной обработке</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10175,19 +10175,19 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Целое</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Integer fast</source>
         <oldsource>Fast integer</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Целое быстрое</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Float</source>
         <oldsource>Floating</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>С плавающей точкой</translation>
     </message>
 </context>
 <context>
@@ -15706,7 +15706,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJP2K.ui" line="54"/>
         <source>Lowest</source>
-        <translation>Низкое</translation>
+        <translation>Худшее</translation>
     </message>
     <message>
         <location filename="DlgWriteJP2K.ui" line="83"/>
@@ -15730,7 +15730,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="42"/>
         <source>Lowest</source>
-        <translation>Низкое</translation>
+        <translation>Худшее</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="68"/>
@@ -15761,12 +15761,12 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Integer fast (worst but faster)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Быстрый (хуже но быстрее)</translation>
+        <translation>Целое быстрое (худший, но быстрый)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Float (best but slowest)</source>
-        <translation>Переменный (лучше но медленнее)</translation>
+        <translation>С плавающей точкой (лучший, но самый медленный)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15777,7 +15777,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Субдискретизация</translation>
+        <translation>Субдискретизация</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
@@ -15787,7 +15787,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Целое</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
@@ -15808,7 +15808,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="236"/>
         <source>Rebuild embedded EXIF thumbnail</source>
         <oldsource>Rebuild embedded thumbnail</oldsource>
-        <translation>Пересоздать встроенный эскиз</translation>
+        <translation>Пересоздать встроенный эскиз EXIF</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="243"/>
@@ -15836,7 +15836,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEGXL.ui" line="50"/>
         <source>Lowest</source>
-        <translation>Низкое</translation>
+        <translation>Худшее</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEGXL.ui" line="79"/>
@@ -15854,12 +15854,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="31"/>
         <source>Lowest</source>
-        <translation>Низкое</translation>
+        <translation>Худшее</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="57"/>
         <source>Best (lossless)</source>
-        <translation>Лучшее (меньше потерь)</translation>
+        <translation>Лучшее (без потерь)</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="22"/>
@@ -16065,7 +16065,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteWebP.ui" line="92"/>
         <source>Lowest</source>
-        <translation>Низкое</translation>
+        <translation>Худшее</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="121"/>
@@ -16949,17 +16949,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Все поля (числовые)</translation>
+        <translation>Все поля (числовые)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">Поле</translation>
+        <translation>Поле</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">Поле (числовое)</translation>
+        <translation>Поле (числовое)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
