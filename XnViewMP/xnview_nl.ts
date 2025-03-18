@@ -7734,7 +7734,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling factor</source>
-        <translation>Subsampling</translation>
+        <translation>Sub-sampling factor</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -10116,13 +10116,13 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Integer fast</source>
         <oldsource>Fast integer</oldsource>
-        <translation type="unfinished">Fast integer</translation>
+        <translation>Integer snel</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Float</source>
         <oldsource>Floating</oldsource>
-        <translation type="unfinished">Floating</translation>
+        <translation>Float</translation>
     </message>
 </context>
 <context>
@@ -15672,7 +15672,7 @@ Doorgaan?</translation>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Integer fast (worst but faster)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Snel (minst maar sneller)</translation>
+        <translation>Integer snel (minst maar sneller)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
@@ -15688,7 +15688,7 @@ Doorgaan?</translation>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Subsampling factor</translation>
+        <translation>Sub-sampling</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
@@ -15698,7 +15698,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished">Integer</translation>
+        <translation>Integer</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
@@ -16861,17 +16861,17 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Alle velden (nummer)</translation>
+        <translation>Alle velden (nummer)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">Veld</translation>
+        <translation>Veld</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">Veld (nummer)</translation>
+        <translation>Veld (nummer)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
