@@ -13166,7 +13166,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2366"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation>Обозреватель ↔ Полноэкранный режим | Просмотр ↔ Полноэкранный режим</translation>
+        <translation>Обозреватель ↔ Полноэкранный | Просмотр ↔ Полноэкранный</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2259"/>
@@ -13187,7 +13187,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2376"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation>Обозреватель → Полноэкранный режим → Просмотр</translation>
+        <translation>Обозреватель → Полноэкранный → Просмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2296"/>
@@ -13195,7 +13195,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2381"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation>Обозреватель → Просмотр → Полноэкранный режим</translation>
+        <translation>Обозреватель → Просмотр → Полноэкранный</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="221"/>
@@ -13940,7 +13940,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="604"/>
         <source>Like Browser</source>
-        <translation>Как в режиме обозревателя</translation>
+        <translation>Как в режиме Обозревателя</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="611"/>
