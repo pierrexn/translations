@@ -10149,13 +10149,13 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Integer fast</source>
         <oldsource>Fast integer</oldsource>
-        <translation type="unfinished">Hitro celo število</translation>
+        <translation>Hitro celo število</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Float</source>
         <oldsource>Floating</oldsource>
-        <translation type="unfinished">Lebdeče</translation>
+        <translation>Lebdeče</translation>
     </message>
 </context>
 <context>
@@ -15701,7 +15701,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Integer fast (worst but faster)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Hitro (slabo, a hitro)</translation>
+        <translation>Hitro celo število (najslabše, a hitreje)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
@@ -15717,7 +15717,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Faktor podvzorčenja</translation>
+        <translation>Podvzorčenje</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
@@ -15727,7 +15727,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished">Celo število</translation>
+        <translation>Celo število</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
@@ -16567,17 +16567,17 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Vsa polja (številka)</translation>
+        <translation>Vsa polja (števiło)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">Polje</translation>
+        <translation>Polje</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">Polje (številka)</translation>
+        <translation>Polje (številka)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2777"/>
