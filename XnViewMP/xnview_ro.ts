@@ -7804,10 +7804,6 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
 <context>
     <name>DlgReadCRaw</name>
     <message>
-        <source>Use</source>
-        <translation>Utilizare</translation>
-    </message>
-    <message>
         <source>Convert to sRGB</source>
         <translation>Convertește în sRGB</translation>
     </message>
@@ -7832,24 +7828,20 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
         <translation>Folosește balansul de alb al camerei</translation>
     </message>
     <message>
-        <source>Red scaling</source>
-        <translation>Scalare roșie</translation>
-    </message>
-    <message>
         <source>Embedded preview</source>
         <translation>Previzualizare încorporată</translation>
     </message>
     <message>
-        <source>Blue scaling</source>
-        <translation>Scalare albastră</translation>
-    </message>
-    <message>
-        <source>Brightness</source>
-        <translation>Luminozitate</translation>
-    </message>
-    <message>
         <source>Automatic brightness</source>
         <translation>Luminozitate automată</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Vizualizare</translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation type="unfinished">Convertit</translation>
     </message>
 </context>
 <context>
@@ -7905,12 +7897,12 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
         <translation>Întreg</translation>
     </message>
     <message>
-        <source>Integer fast</source>
-        <translation>Întreg rapid</translation>
+        <source>Fast integer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Float</source>
-        <translation>Float (Număr real)</translation>
+        <source>Floating-point</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10266,20 +10258,8 @@ Dorești să-l reatribui?</translation>
         <translation>Scrie</translation>
     </message>
     <message>
-        <source>Create IPTC data</source>
-        <translation>Crează date IPTC</translation>
-    </message>
-    <message>
         <source>Video files</source>
         <translation>Fișiere video</translation>
-    </message>
-    <message>
-        <source>Import XMP Face tag</source>
-        <translation>Importă eticheta XMP Face</translation>
-    </message>
-    <message>
-        <source>Rating &amp;&amp; Label</source>
-        <translation>Evaluare &amp;&amp; Etichetă</translation>
     </message>
     <message>
         <source>Embedded comment</source>
@@ -10288,10 +10268,6 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Other files</source>
         <translation>Alte fișiere</translation>
-    </message>
-    <message>
-        <source>Export color label in XMP metadata</source>
-        <translation>Exportă eticheta de culoare în metadate XMP</translation>
     </message>
     <message>
         <source>Encoding</source>
@@ -10314,10 +10290,6 @@ Dorești să-l reatribui?</translation>
         <translation>Citește cuvintele cheie ierarhice din imagini ca niște categorii</translation>
     </message>
     <message>
-        <source>Create XMP data</source>
-        <translation>Crează date XMP</translation>
-    </message>
-    <message>
         <source>Sidecar</source>
         <translation>Fișierul însoțitor (Sidecar)</translation>
     </message>
@@ -10338,10 +10310,6 @@ Dorești să-l reatribui?</translation>
         <translation>Folosește UTF-8 ca să scrii câmpuri IPTC</translation>
     </message>
     <message>
-        <source>Export rating in XMP metadata</source>
-        <translation>Exportă evaluarea în metadate XMP</translation>
-    </message>
-    <message>
         <source>Update when file is changed outside (date/size)</source>
         <translation>Actualizează când fișierul este schimbat în afară (dată/dimensiune)</translation>
     </message>
@@ -10356,14 +10324,6 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Metadata</source>
         <translation>Metadate</translation>
-    </message>
-    <message>
-        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
-        <translation>Importă automat XMP:Subiect și IPTC:Cuvinte cheie în Categoriile din Catalog</translation>
-    </message>
-    <message>
-        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
-        <translation>Exportă categoriile de catalog în XMP:Subiect și IPTC:Cuvinte cheie</translation>
     </message>
     <message>
         <source>Write categories into images as hierarchical keywords</source>
@@ -10388,6 +10348,38 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Color labels</source>
         <translation>Etichete de culori</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished">Import</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished">Export</translation>
+    </message>
+    <message>
+        <source>Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color label</source>
+        <translation type="unfinished">Etichetă de culoare</translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation type="unfinished">Categorii</translation>
+    </message>
+    <message>
+        <source>XMP:Subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Face tag</source>
+        <translation type="unfinished">Eticheta facială</translation>
+    </message>
+    <message>
+        <source>IPTC:Keywords</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10682,16 +10674,8 @@ Dorești să-l reatribui?</translation>
         <translation>Afișează întotdeauna pe ecranul complet (pe tot ecranul)</translation>
     </message>
     <message>
-        <source>Half size</source>
-        <translation>Jumătate de măsură</translation>
-    </message>
-    <message>
         <source>Selection</source>
         <translation>Selecţie</translation>
-    </message>
-    <message>
-        <source>Full size</source>
-        <translation>Mărime completă</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -10720,10 +10704,6 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Reset X/Y (No fit)</source>
         <translation>Resetează X/Y (nu se potrivește)</translation>
-    </message>
-    <message>
-        <source>Camera RAW, use</source>
-        <translation>Camera RAW, folosește</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10796,10 +10776,6 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Rule of thirds</source>
         <translation>Regula treimilor</translation>
-    </message>
-    <message>
-        <source>Embedded preview</source>
-        <translation>Previzualizare încorporată</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -12121,14 +12097,6 @@ Vrei să continui?</translation>
         <translation>Factor de netezire</translation>
     </message>
     <message>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1,1x1,1x1 (4:2:2)</translation>
-    </message>
-    <message>
-        <source>Float (best but slowest)</source>
-        <translation>Plutire (cea mai bună, dar cel mai lentă)</translation>
-    </message>
-    <message>
         <source>Use estimated quality (when possible)</source>
         <translation>Folosește calitatea estimată (când este posibil)</translation>
     </message>
@@ -12143,14 +12111,6 @@ Vrei să continui?</translation>
     <message>
         <source>DCT Method</source>
         <translation>Metoda DCT</translation>
-    </message>
-    <message>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1,1x1 (cea mai bună calitate)</translation>
-    </message>
-    <message>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (implicit)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -12177,12 +12137,28 @@ Vrei să continui?</translation>
         <translation>Număr întreg</translation>
     </message>
     <message>
-        <source>Integer fast (worst but faster)</source>
-        <translation>Întreg rapid (cel mai prost, dar cel mai rapid)</translation>
-    </message>
-    <message>
         <source>Subsampling</source>
         <translation>Factor de subeșantionare</translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but faster)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating-point (best but slowest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:2:2 (2x1,1x1,1x1)</source>
+        <translation type="unfinished">2x1,1x1,1x1 (4:2:2) {4:2:2 (2x?} {1,1x?} {1,1x?} {1)?}</translation>
+    </message>
+    <message>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

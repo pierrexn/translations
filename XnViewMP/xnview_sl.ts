@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="425"/>
+        <location filename="MyThumbSettings.cpp" line="437"/>
         <source>Uncolored</source>
         <translation>Neobarvan</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="431"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Important</source>
         <translation>Pomembno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="431"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Red</source>
         <translation>Rdeča</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="431"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Select</source>
         <translation>Izbira</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="432"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Work</source>
         <translation>Delo</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="432"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Yellow</source>
         <translation>Rumena</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="432"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Second</source>
         <translation>Drugo</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="433"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Personal</source>
         <translation>Osebno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="433"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Green</source>
         <translation>Zelena</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="433"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Approved</source>
         <translation>Odobreno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="434"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>To do</source>
         <translation>Stori</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="434"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Blue</source>
         <translation>Modra</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="434"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Review</source>
         <translation>Pregled</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="435"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Later</source>
         <translation>Kasneje</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="435"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Purple</source>
         <translation>Vijolična</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="435"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>To Do</source>
         <translation>Naredi</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="436"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>Orange</source>
         <translation>Oranžna</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="437"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Grey</source>
         <translation>Siva</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="438"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Black</source>
         <translation>Črna</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="439"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>White</source>
         <translation>Bela</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="334"/>
+        <location filename="MyThumbSettings.cpp" line="344"/>
         <source>Unrated</source>
         <translation>Neocenjeno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="335"/>
+        <location filename="MyThumbSettings.cpp" line="345"/>
         <source>Poor</source>
         <translation>Slabo</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="336"/>
+        <location filename="MyThumbSettings.cpp" line="346"/>
         <source>Fair</source>
         <translation>Razumno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="337"/>
+        <location filename="MyThumbSettings.cpp" line="347"/>
         <source>Average</source>
         <translation>Povprečno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="338"/>
+        <location filename="MyThumbSettings.cpp" line="348"/>
         <source>Good</source>
         <translation>Dobro</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="339"/>
+        <location filename="MyThumbSettings.cpp" line="349"/>
         <source>Excellent</source>
         <translation>Odlično</translation>
     </message>
@@ -10023,61 +10023,54 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <name>DlgReadCRaw</name>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
-        <source>Use</source>
-        <translation>Uporabi</translation>
+        <source>View</source>
+        <translation type="unfinished">Pogled</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
+        <location filename="DlgReadCRaw.ui" line="73"/>
         <source>Embedded preview</source>
         <translation>Integrirani predogled</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="35"/>
+        <location filename="DlgReadCRaw.ui" line="78"/>
         <source>Half size</source>
         <translation>Polovična velikost</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="40"/>
+        <location filename="DlgReadCRaw.ui" line="83"/>
         <source>Full size</source>
         <translation>Polna velikost</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="63"/>
+        <location filename="DlgReadCRaw.ui" line="65"/>
+        <source>Convert</source>
+        <translation type="unfinished">Pretvori</translation>
+    </message>
+    <message>
+        <location filename="DlgReadCRaw.ui" line="106"/>
         <source>Use Embedded color matrix</source>
         <translation>Uporabi vdelano barvno matrico</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="70"/>
+        <location filename="DlgReadCRaw.ui" line="113"/>
         <source>Use Automatic white balance</source>
         <translation>Samodejno ravnovesje beline</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="77"/>
+        <location filename="DlgReadCRaw.ui" line="120"/>
         <source>Use Camera white balance</source>
         <translation>Uporabi ravnovesje beline kamere</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="84"/>
+        <location filename="DlgReadCRaw.ui" line="127"/>
         <source>Automatic brightness</source>
         <translation>Samodejna svetlost</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="93"/>
-        <source>Brightness</source>
-        <translation>Svetlost</translation>
-    </message>
-    <message>
-        <location filename="DlgReadCRaw.ui" line="120"/>
-        <source>Red scaling</source>
-        <translation>Lestvica rdeče</translation>
-    </message>
-    <message>
-        <location filename="DlgReadCRaw.ui" line="147"/>
-        <source>Blue scaling</source>
-        <translation>Lestvica modre</translation>
-    </message>
-    <message>
-        <location filename="DlgReadCRaw.ui" line="172"/>
+        <location filename="DlgReadCRaw.ui" line="134"/>
         <source>Convert to sRGB</source>
         <translation>Pretvori v sRGB</translation>
     </message>
@@ -10147,15 +10140,15 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
-        <source>Integer fast</source>
-        <oldsource>Fast integer</oldsource>
-        <translation>Hitro celo število</translation>
+        <source>Fast integer</source>
+        <oldsource>Integer fast</oldsource>
+        <translation type="unfinished">Hitro celo število</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
-        <source>Float</source>
-        <oldsource>Floating</oldsource>
-        <translation>Lebdeče</translation>
+        <source>Floating-point</source>
+        <oldsource>Float</oldsource>
+        <translation type="unfinished">Lebdeče</translation>
     </message>
 </context>
 <context>
@@ -11499,19 +11492,19 @@ Ali želite najprej preveriti prizadete vnose?</translation>
         <translation>Stiskanje:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="166"/>
+        <location filename="DlgSettingsCache.ui" line="163"/>
         <source>Maximum size for cached thumbnails</source>
         <translation>Največja velikost predpomnilnika sličic</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="256"/>
+        <location filename="DlgSettingsCache.ui" line="270"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
         <translation>Osnovna pot datotek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="176"/>
-        <location filename="DlgSettingsCache.ui" line="216"/>
+        <location filename="DlgSettingsCache.ui" line="186"/>
+        <location filename="DlgSettingsCache.ui" line="236"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
@@ -11541,107 +11534,107 @@ Ali želite najprej preveriti prizadete vnose?</translation>
         <translation>Pridobi velikost sličic</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="206"/>
+        <location filename="DlgSettingsCache.ui" line="213"/>
         <source>Memory usage for database engine</source>
         <translation>Uporabi pomnilnik za zbirko podatkov</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="244"/>
+        <location filename="DlgSettingsCache.ui" line="258"/>
         <source>Check integrity of catalog at startup</source>
         <translation>Preveri celovitost kataloga ob zagonu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="290"/>
+        <location filename="DlgSettingsCache.ui" line="304"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
         <translation>Imenik</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="295"/>
+        <location filename="DlgSettingsCache.ui" line="309"/>
         <source>Files</source>
         <translation>Datoteke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="300"/>
+        <location filename="DlgSettingsCache.ui" line="314"/>
         <source>Size</source>
         <translation>Velikost</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="315"/>
-        <location filename="DlgSettingsCache.ui" line="498"/>
+        <location filename="DlgSettingsCache.ui" line="329"/>
+        <location filename="DlgSettingsCache.ui" line="512"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="322"/>
-        <location filename="DlgSettingsCache.ui" line="505"/>
+        <location filename="DlgSettingsCache.ui" line="336"/>
+        <location filename="DlgSettingsCache.ui" line="519"/>
         <source>Delete all</source>
         <translation>Izbriši vse</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="361"/>
+        <location filename="DlgSettingsCache.ui" line="375"/>
         <source>Maintenance...</source>
         <translation>Vzdrževanje...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="368"/>
+        <location filename="DlgSettingsCache.ui" line="382"/>
         <source>Import folder...</source>
         <translation>Uvozi mapo...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="402"/>
+        <location filename="DlgSettingsCache.ui" line="416"/>
         <source>Rebuild thumbnails</source>
         <translation>Ponovno ustvari sličice</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="542"/>
+        <location filename="DlgSettingsCache.ui" line="556"/>
         <source>Tools</source>
         <translation>Orodja</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="548"/>
+        <location filename="DlgSettingsCache.ui" line="562"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
         <translation>Uvoz baze podatkov kategorije XnView Classic...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="472"/>
+        <location filename="DlgSettingsCache.ui" line="486"/>
         <source>Add folder...</source>
         <translation>Dodaj mapo...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="378"/>
+        <location filename="DlgSettingsCache.ui" line="392"/>
         <source>Relocate...</source>
         <translation>Preseli...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="409"/>
+        <location filename="DlgSettingsCache.ui" line="423"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
         <translation>Sinhroniziraj mape...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="432"/>
+        <location filename="DlgSettingsCache.ui" line="446"/>
         <source>Excluded/Included</source>
         <translation>Izključeno/Vključeno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="457"/>
+        <location filename="DlgSettingsCache.ui" line="471"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="462"/>
+        <location filename="DlgSettingsCache.ui" line="476"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="527"/>
+        <location filename="DlgSettingsCache.ui" line="541"/>
         <source>Always exclude removable drives</source>
         <translation>Vedno izključi odstranljive pogone</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="534"/>
+        <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Always exclude CD/DVD drives</source>
         <translation>Vedno izključi pogone CD/DVD</translation>
     </message>
@@ -12598,39 +12591,39 @@ sličico</translation>
         <translation>-- NOVA XMP PREDLOGA --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="504"/>
+        <location filename="DlgSettingsInterface.cpp" line="506"/>
         <source>Browse mode</source>
         <translation>Način brskalnika</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="505"/>
+        <location filename="DlgSettingsInterface.cpp" line="507"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>Način pregledovalnika</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="861"/>
-        <location filename="DlgSettingsInterface.cpp" line="881"/>
+        <location filename="DlgSettingsInterface.cpp" line="864"/>
+        <location filename="DlgSettingsInterface.cpp" line="884"/>
         <source>Set Icon...</source>
         <translation>Nastavi ikono...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1059"/>
+        <location filename="DlgSettingsInterface.cpp" line="1062"/>
         <source>Set label</source>
         <translation>Nastavi oznako</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1060"/>
+        <location filename="DlgSettingsInterface.cpp" line="1063"/>
         <source>Label:</source>
         <translation>Oznaka:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1209"/>
+        <location filename="DlgSettingsInterface.cpp" line="1211"/>
         <source>This shortcut is already assigned for </source>
         <translation>Ta bližnjica je že dodeljena </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1225"/>
+        <location filename="DlgSettingsInterface.cpp" line="1227"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12641,22 +12634,22 @@ Do you want to reassign?</source>
 Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1274"/>
+        <location filename="DlgSettingsInterface.cpp" line="1276"/>
         <source>Load toolbar</source>
         <translation>Naloži orodno vrstico</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1292"/>
+        <location filename="DlgSettingsInterface.cpp" line="1294"/>
         <source>Save toolbar</source>
         <translation>Shrani orodno vrstico</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1348"/>
+        <location filename="DlgSettingsInterface.cpp" line="1350"/>
         <source>Load shortcuts</source>
         <translation>Naloži bližnjice</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1379"/>
+        <location filename="DlgSettingsInterface.cpp" line="1381"/>
         <source>Save shortcuts</source>
         <translation>Shrani bližnjice</translation>
     </message>
@@ -13155,13 +13148,13 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1221"/>
-        <location filename="DlgSettingsInterface.ui" line="1264"/>
+        <location filename="DlgSettingsInterface.ui" line="1269"/>
         <source>Shortcut</source>
         <translation>Bližnjica</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1226"/>
-        <location filename="DlgSettingsInterface.ui" line="1269"/>
+        <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
         <translation>Ime ukaza</translation>
     </message>
@@ -13284,178 +13277,177 @@ Ali želite ponovno dodeliti?</translation>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="45"/>
-        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
-        <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation>Samodejno uvozi XMP:Subject in IPTC:Keywords v kategorije kataloga</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="151"/>
+        <location filename="DlgSettingsKeywords.ui" line="191"/>
         <source>Read hierarchical keywords from images as categories</source>
         <oldsource>Read hierarchical keywords</oldsource>
         <translation>Preberi hierarhične ključne besede iz slik kot kategorije</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="252"/>
+        <location filename="DlgSettingsKeywords.ui" line="292"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation>Samodejno dodeli nadrejeno kategorijo (Ctrl+klik samo za trenutno)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="82"/>
-        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
-        <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation>Izvozi kategorije kataloga v XMP:Subject in IPTC:Keywords</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="73"/>
+        <location filename="DlgSettingsKeywords.ui" line="180"/>
         <source>Update when file is changed outside (date/size)</source>
         <translation>Posodobi, ko se datoteka spremeni zunaj (datum/velikost)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="39"/>
+        <location filename="DlgSettingsKeywords.ui" line="169"/>
         <source>Categories and keywords</source>
         <translation>Kategorije in ključne besede</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="110"/>
-        <source>Create XMP data</source>
-        <translation>Ustvari XMP podatke</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="140"/>
-        <source>Create IPTC data</source>
-        <translation>Ustvari IPTC podatke</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="245"/>
+        <location filename="DlgSettingsKeywords.ui" line="285"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
         <translation>Zapiši kategorije v slike kot hierahične ključne besede</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="328"/>
+        <location filename="DlgSettingsKeywords.ui" line="338"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translation>Ustvarite ali posodobite XMP Sidecar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="335"/>
+        <location filename="DlgSettingsKeywords.ui" line="345"/>
         <source>Naming convention</source>
         <translation>Konvencija poimenovanja</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="341"/>
+        <location filename="DlgSettingsKeywords.ui" line="351"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
         <translation>&lt;ime datoteke&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="348"/>
+        <location filename="DlgSettingsKeywords.ui" line="358"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
         <translation>&lt;ime datoteke&gt;.&lt;pripona&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="262"/>
-        <source>Rating &amp;&amp; Label</source>
-        <translation>Ocena &amp;&amp; Oznaka</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="33"/>
+        <location filename="DlgSettingsKeywords.ui" line="39"/>
         <source>Metadata</source>
         <translation>Metapodatki</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="268"/>
-        <source>Export rating in XMP metadata</source>
-        <translation>Izvozi oceno v metapodatkih XMP</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="275"/>
-        <source>Export color label in XMP metadata</source>
-        <translation>Izvozi barvno oznako v metapodatkih XMP</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="285"/>
+        <location filename="DlgSettingsKeywords.ui" line="302"/>
         <source>Comment</source>
         <translation>Komentar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="291"/>
+        <location filename="DlgSettingsKeywords.ui" line="308"/>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>Napiši komentar v XMP (dc:opis in exif:UserComment)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="301"/>
-        <source>Import XMP Face tag</source>
-        <translation>Uvozi XMP Face tag</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="322"/>
+        <location filename="DlgSettingsKeywords.ui" line="332"/>
         <source>Sidecar</source>
         <translation>Sidecar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="391"/>
+        <location filename="DlgSettingsKeywords.ui" line="401"/>
         <source>Video files</source>
         <translation>Video datoteke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="398"/>
+        <location filename="DlgSettingsKeywords.ui" line="408"/>
         <source>Other files</source>
         <translation>Druge datoteke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="422"/>
+        <location filename="DlgSettingsKeywords.ui" line="432"/>
         <source>Encoding</source>
         <translation>Kodiranje</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="436"/>
-        <location filename="DlgSettingsKeywords.ui" line="486"/>
-        <location filename="DlgSettingsKeywords.ui" line="529"/>
+        <location filename="DlgSettingsKeywords.ui" line="446"/>
+        <location filename="DlgSettingsKeywords.ui" line="496"/>
+        <location filename="DlgSettingsKeywords.ui" line="539"/>
         <source>Default encoding</source>
         <translation>Privzeto kodiranje</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="478"/>
+        <location filename="DlgSettingsKeywords.ui" line="488"/>
         <source>Embedded comment</source>
         <translation>Vdelani komentar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="521"/>
+        <location filename="DlgSettingsKeywords.ui" line="531"/>
         <source>EXIF Copyright</source>
         <translation>EXIF avtorske pravice</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="746"/>
+        <location filename="DlgSettingsKeywords.ui" line="756"/>
         <source>Label</source>
         <translation>Oznaka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="696"/>
+        <location filename="DlgSettingsKeywords.ui" line="706"/>
         <source>Read (separated by ,)</source>
         <translation>Beri (ločeno z ,)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="358"/>
+        <location filename="DlgSettingsKeywords.ui" line="45"/>
+        <source>Import</source>
+        <translation type="unfinished">Uvoz</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="52"/>
+        <source>Export</source>
+        <translation type="unfinished">Izvoz</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="59"/>
+        <source>Rating</source>
+        <translation type="unfinished">Ocena</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="80"/>
+        <source>Color label</source>
+        <translation type="unfinished">Barvna oznaka</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="114"/>
+        <source>Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="121"/>
+        <source>XMP:Subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="142"/>
+        <source>Face tag</source>
+        <translation type="unfinished">Oznaka obraza</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="159"/>
+        <source>IPTC:Keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="368"/>
         <source>Supported formats</source>
         <translation>Podprti formati</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="739"/>
+        <location filename="DlgSettingsKeywords.ui" line="749"/>
         <source>Write</source>
         <translation>Piši</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="468"/>
+        <location filename="DlgSettingsKeywords.ui" line="478"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
         <translation>Uporabi UTF-8 za pisanje IPTC polj</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="578"/>
+        <location filename="DlgSettingsKeywords.ui" line="588"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>Barvne oznake</translation>
@@ -13790,8 +13782,8 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
-        <location filename="DlgSettingsView.ui" line="1056"/>
-        <location filename="DlgSettingsView.ui" line="1213"/>
+        <location filename="DlgSettingsView.ui" line="1013"/>
+        <location filename="DlgSettingsView.ui" line="1170"/>
         <source>Background color</source>
         <translation>Barva ozadja</translation>
     </message>
@@ -13817,7 +13809,7 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
-        <location filename="DlgSettingsView.ui" line="1147"/>
+        <location filename="DlgSettingsView.ui" line="1104"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
         <translation>Samodejna povečava</translation>
@@ -13830,32 +13822,32 @@ Ali želite ponovno dodeliti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
-        <location filename="DlgSettingsView.ui" line="1190"/>
+        <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Show scrollbars</source>
         <translation>Pokaži drsnike</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="713"/>
+        <location filename="DlgSettingsView.ui" line="670"/>
         <source>Misc.</source>
         <translation>Razno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="790"/>
+        <location filename="DlgSettingsView.ui" line="747"/>
         <source>Cache</source>
         <translation>Predpomnilnik</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="796"/>
+        <location filename="DlgSettingsView.ui" line="753"/>
         <source>Read one image ahead</source>
         <translation>Preberi eno sliko naprej</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="803"/>
+        <location filename="DlgSettingsView.ui" line="760"/>
         <source>Keep current image</source>
         <translation>Ohrani trenutno sliko</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="762"/>
+        <location filename="DlgSettingsView.ui" line="719"/>
         <source>Loop on the file list</source>
         <translation>Zanka na seznamu datotek</translation>
     </message>
@@ -13881,37 +13873,17 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Relativni korak</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="769"/>
+        <location filename="DlgSettingsView.ui" line="726"/>
         <source>Auto play (video)</source>
         <translation>Samodejno predvajanje (video)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="537"/>
-        <source>Camera RAW, use</source>
-        <translation>Kamera RAW, uporaba</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="545"/>
-        <source>Embedded preview</source>
-        <translation>Vdelan predogled</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="550"/>
-        <source>Half size</source>
-        <translation>Polovična velikost</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="555"/>
-        <source>Full size</source>
-        <translation>Polna velikost</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="878"/>
+        <location filename="DlgSettingsView.ui" line="835"/>
         <source>Multipage files</source>
         <translation>Večstranske datoteke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="884"/>
+        <location filename="DlgSettingsView.ui" line="841"/>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Onemogoči GIF/JIF/APNG/ANI animacijo</translation>
     </message>
@@ -13932,17 +13904,17 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Uporabi ostrenje</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="721"/>
+        <location filename="DlgSettingsView.ui" line="678"/>
         <source>Selection</source>
         <translation>Izbira</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="729"/>
+        <location filename="DlgSettingsView.ui" line="686"/>
         <source>Normal</source>
         <translation>Običajno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="734"/>
+        <location filename="DlgSettingsView.ui" line="691"/>
         <source>Rule of thirds</source>
         <translation>Pravilo tretjin</translation>
     </message>
@@ -13988,179 +13960,179 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Ponastavi X/Y (ne prileganje)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="592"/>
+        <location filename="DlgSettingsView.ui" line="549"/>
         <source>Filter</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="604"/>
+        <location filename="DlgSettingsView.ui" line="561"/>
         <source>Like Browser</source>
         <translation>Kot brskalnik</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="611"/>
+        <location filename="DlgSettingsView.ui" line="568"/>
         <source>Custom</source>
         <translation>Po meri</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="642"/>
+        <location filename="DlgSettingsView.ui" line="599"/>
         <source>Audio</source>
         <translation>Avdio</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="649"/>
+        <location filename="DlgSettingsView.ui" line="606"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="656"/>
+        <location filename="DlgSettingsView.ui" line="613"/>
         <source>Text</source>
         <translation>Besedilo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="670"/>
+        <location filename="DlgSettingsView.ui" line="627"/>
         <source>Exclude</source>
         <translation>Izključi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="677"/>
+        <location filename="DlgSettingsView.ui" line="634"/>
         <source>Include</source>
         <translation>Vključi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="684"/>
+        <location filename="DlgSettingsView.ui" line="641"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
         <translation>(Iz Nastavitve › Seznam datotek › Filter po meri)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="739"/>
+        <location filename="DlgSettingsView.ui" line="696"/>
         <source>Golden ratio (Phi)</source>
         <translation>Zlati rez (Phi)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="776"/>
+        <location filename="DlgSettingsView.ui" line="733"/>
         <source>Loop video playing</source>
         <translation>Predvajanje videa v zanki</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="783"/>
+        <location filename="DlgSettingsView.ui" line="740"/>
         <source>Two-pass rendering at loading</source>
         <translation>Dvakratno upodabljanje ob nalaganju</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="813"/>
+        <location filename="DlgSettingsView.ui" line="770"/>
         <source>Quick slideshow</source>
         <translation>Hitra diaprojekcija</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="819"/>
+        <location filename="DlgSettingsView.ui" line="776"/>
         <source>Delay (ms)</source>
         <translation>Zakasnitev (ms)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="836"/>
+        <location filename="DlgSettingsView.ui" line="793"/>
         <source>Direction</source>
         <translation>Smer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="844"/>
+        <location filename="DlgSettingsView.ui" line="801"/>
         <source>Forward</source>
         <translation>Naprej</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="849"/>
+        <location filename="DlgSettingsView.ui" line="806"/>
         <source>Backward</source>
         <translation>Nazaj</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="854"/>
+        <location filename="DlgSettingsView.ui" line="811"/>
         <source>Random</source>
         <translation>Naključno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="891"/>
+        <location filename="DlgSettingsView.ui" line="848"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
         <translation>Nariši ikone z več ločljivostmi kot posnetke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="915"/>
+        <location filename="DlgSettingsView.ui" line="872"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1120"/>
+        <location filename="DlgSettingsView.ui" line="1077"/>
         <source>Stretch horizontally</source>
         <translation>Raztegni vodoravno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1139"/>
+        <location filename="DlgSettingsView.ui" line="1096"/>
         <source>Fullscreen</source>
         <translation>Celozaslonski način</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1176"/>
+        <location filename="DlgSettingsView.ui" line="1133"/>
         <source>Show playbar</source>
         <translation>Prikaži predvajalno vrstico</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1183"/>
+        <location filename="DlgSettingsView.ui" line="1140"/>
         <source>Show info</source>
         <translation>Prikaži info</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1197"/>
+        <location filename="DlgSettingsView.ui" line="1154"/>
         <source>Show toolbar</source>
         <translation>Prikaži orodno vrstico</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1204"/>
+        <location filename="DlgSettingsView.ui" line="1161"/>
         <source>Hide mouse cursor</source>
         <translation>Skrij kazalec miške</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1238"/>
+        <location filename="DlgSettingsView.ui" line="1195"/>
         <source>Dual monitor: Use second monitor</source>
         <translation>Dvojni monitor: uporabi drugi monitor</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1251"/>
+        <location filename="DlgSettingsView.ui" line="1208"/>
         <source>Floating views</source>
         <translation>Plavajoči pogledi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1276"/>
+        <location filename="DlgSettingsView.ui" line="1233"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
         <translation>(pojavi se, ko se miška premakne na zgornjo ali desno stran zaslona)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1093"/>
+        <location filename="DlgSettingsView.ui" line="1050"/>
         <source>Text color</source>
         <translation>Barva besedila</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1049"/>
+        <location filename="DlgSettingsView.ui" line="1006"/>
         <source>Font</source>
         <translation>Pisava</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="928"/>
+        <location filename="DlgSettingsView.ui" line="885"/>
         <source>Support HTML tags</source>
         <translation>Podpira oznake HTML</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1131"/>
+        <location filename="DlgSettingsView.ui" line="1088"/>
         <source>Always show in fullscreen</source>
         <translation>Vedno prikaži v celozaslonskem načinu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1113"/>
+        <location filename="DlgSettingsView.ui" line="1070"/>
         <source>Opacity</source>
         <translation>Motnost</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1019"/>
+        <location filename="DlgSettingsView.ui" line="976"/>
         <source>Position</source>
         <translation>Pozicija</translation>
     </message>
@@ -15699,14 +15671,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
-        <source>Integer fast (worst but faster)</source>
-        <oldsource>Fast (worst but faster)</oldsource>
-        <translation>Hitro celo število (najslabše, a hitreje)</translation>
+        <source>Fast integer (worst but faster)</source>
+        <oldsource>Integer fast (worst but faster)</oldsource>
+        <translation type="unfinished">Hitro celo število (najslabše, a hitreje)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
-        <source>Float (best but slowest)</source>
-        <translation>Float (najboljšie a najpočasnejše)</translation>
+        <source>Floating-point (best but slowest)</source>
+        <oldsource>Float (best but slowest)</oldsource>
+        <translation type="unfinished">Float (najboljšie a najpočasnejše)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15731,18 +15704,20 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (privzeto)</translation>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="206"/>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1,1x1,1x1 (4:2:2)</translation>
+        <source>4:2:2 (2x1,1x1,1x1)</source>
+        <oldsource>2x1,1x1,1x1 (4:2:2)</oldsource>
+        <translation type="unfinished">2x1,1x1,1x1 (4:2:2)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1,1x1 (meilleure qualité)</translation>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
+        <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
+        <translation type="unfinished">1x1,1x1,1x1 (meilleure qualité)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="236"/>
@@ -16399,12 +16374,12 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Velike sličice</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="39"/>
+        <location filename="FileListWidget.cpp" line="44"/>
         <source>Details</source>
         <translation>Podrobnosti</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="44"/>
+        <location filename="FileListWidget.cpp" line="39"/>
         <source>List</source>
         <translation>Seznam</translation>
     </message>
@@ -19559,7 +19534,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
-        <location filename="DlgSettingsView.cpp" line="274"/>
+        <location filename="DlgSettingsView.cpp" line="270"/>
         <location filename="BrowserMenu.h" line="632"/>
         <source>Fit image to window, small only</source>
         <translation>Prilagodi sliko oknu, samo manjše</translation>
@@ -19698,42 +19673,42 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
-        <location filename="DlgSettingsView.cpp" line="272"/>
+        <location filename="DlgSettingsView.cpp" line="268"/>
         <location filename="BrowserMenu.h" line="629"/>
         <source>No fit</source>
         <translation>Brez prilagoditve</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
-        <location filename="DlgSettingsView.cpp" line="273"/>
+        <location filename="DlgSettingsView.cpp" line="269"/>
         <location filename="BrowserMenu.h" line="630"/>
         <source>Fit image to window</source>
         <translation>Prilagodi sliko oknu</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
-        <location filename="DlgSettingsView.cpp" line="275"/>
+        <location filename="DlgSettingsView.cpp" line="271"/>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Fit image to window, large only</source>
         <translation>Prilagodi sliko oknu, samo večje</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
-        <location filename="DlgSettingsView.cpp" line="276"/>
+        <location filename="DlgSettingsView.cpp" line="272"/>
         <location filename="BrowserMenu.h" line="633"/>
         <source>Fit image to window width</source>
         <translation>Prilagodi sliko na širino okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
-        <location filename="DlgSettingsView.cpp" line="277"/>
+        <location filename="DlgSettingsView.cpp" line="273"/>
         <location filename="BrowserMenu.h" line="634"/>
         <source>Fit image to window height</source>
         <translation>Prilagodi sliko na višino okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
-        <location filename="DlgSettingsView.cpp" line="278"/>
+        <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="635"/>
         <source>Fit image to window width or height</source>
         <translation>Prilagodi sliko na širino ali višino okna</translation>
@@ -20578,1078 +20553,1078 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuView</name>
     <message>
-        <location filename="ViewMenu.h" line="340"/>
+        <location filename="ViewMenu.h" line="342"/>
         <source>No fit</source>
         <translation>Brez prilagoditve</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="341"/>
+        <location filename="ViewMenu.h" line="343"/>
         <source>Fit image to window</source>
         <translation>Prilagodi sliko oknu</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="342"/>
+        <location filename="ViewMenu.h" line="344"/>
         <source>Fit image to window, large only</source>
         <translation>Prilagodi sliko oknu, samo večje</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="344"/>
+        <location filename="ViewMenu.h" line="346"/>
         <source>Fit image to window width</source>
         <translation>Prilagodi sliko na širino okna</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="345"/>
+        <location filename="ViewMenu.h" line="347"/>
         <source>Fit image to window height</source>
         <translation>Prilagodi sliko na višino okna</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="346"/>
+        <location filename="ViewMenu.h" line="348"/>
         <source>Fit image to window width or height</source>
         <translation>Prilagodi sliko na širino ali višino okna</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
-        <location filename="ViewMenu.h" line="329"/>
+        <location filename="ViewMenu.h" line="331"/>
         <source>Free</source>
         <translation>Prosto</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="330"/>
+        <location filename="ViewMenu.h" line="332"/>
         <source>Same as image</source>
         <translation>Enako kot slika</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="290"/>
+        <location filename="ViewMenu.h" line="292"/>
         <source>Open...</source>
         <translation>Odpri...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="291"/>
+        <location filename="ViewMenu.h" line="293"/>
         <source>Open with</source>
         <translation>Odpri z</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="292"/>
+        <location filename="ViewMenu.h" line="294"/>
         <source>Recent files</source>
         <translation>Nedavne datoteke</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="293"/>
+        <location filename="ViewMenu.h" line="295"/>
         <source>Browse</source>
         <translation>Brskaj</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="294"/>
+        <location filename="ViewMenu.h" line="296"/>
         <source>Format settings...</source>
         <translation>Nastavitve formata...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="311"/>
+        <location filename="ViewMenu.h" line="313"/>
         <source>Undo</source>
         <translation>Razveljavi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="312"/>
+        <location filename="ViewMenu.h" line="314"/>
         <source>Redo</source>
         <translation>Znova uveljavi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="313"/>
+        <location filename="ViewMenu.h" line="315"/>
         <source>Cut</source>
         <translation>Izreži</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="314"/>
+        <location filename="ViewMenu.h" line="316"/>
         <source>Copy</source>
         <translation>Kopiraj</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="315"/>
+        <location filename="ViewMenu.h" line="317"/>
         <source>Paste</source>
         <translation>Prilepi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="322"/>
+        <location filename="ViewMenu.h" line="324"/>
         <source>Crop...</source>
         <oldsource>Crop</oldsource>
         <translation>Obreži...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="332"/>
+        <location filename="ViewMenu.h" line="334"/>
         <source>Select all</source>
         <oldsource>Select None</oldsource>
         <translation>Izberi vse</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="321"/>
+        <location filename="ViewMenu.h" line="323"/>
         <source>Background color...</source>
         <translation>Barva ozadja...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="360"/>
+        <location filename="ViewMenu.h" line="362"/>
         <source>Fair</source>
         <translation>Razumno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="361"/>
+        <location filename="ViewMenu.h" line="363"/>
         <source>Poor</source>
         <translation>Slabo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="333"/>
+        <location filename="ViewMenu.h" line="335"/>
         <source>Select none</source>
         <translation>Brez izbire</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="240"/>
+        <location filename="ViewMenu.h" line="242"/>
         <source>Left</source>
         <oldsource>To the left</oldsource>
         <translation>Na levo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="241"/>
+        <location filename="ViewMenu.h" line="243"/>
         <source>Right</source>
         <oldsource>To the right</oldsource>
         <translation>Na desno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="243"/>
+        <location filename="ViewMenu.h" line="245"/>
         <source>Bottom</source>
         <oldsource>To the bottom</oldsource>
         <translation>Na dno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="298"/>
+        <location filename="ViewMenu.h" line="300"/>
         <source>Open in Finder</source>
         <translation>Odpri v Finder</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="308"/>
+        <location filename="ViewMenu.h" line="310"/>
         <source>Print selection...</source>
         <translation>Tiskaj izbrano...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="309"/>
+        <location filename="ViewMenu.h" line="311"/>
         <source>Close</source>
         <translation>Zapri</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="317"/>
+        <location filename="ViewMenu.h" line="319"/>
         <source>Image content</source>
         <oldsource>Image</oldsource>
         <translation>Vsebina slike</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="323"/>
+        <location filename="ViewMenu.h" line="325"/>
         <source>Add text...</source>
         <translation>Dodaj besedilo...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="324"/>
+        <location filename="ViewMenu.h" line="326"/>
         <source>Add watermark...</source>
         <oldsource>Watermark...</oldsource>
         <translation>Dodaj vodni žig...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="326"/>
+        <location filename="ViewMenu.h" line="328"/>
         <source>Red-Eye correction</source>
         <oldsource>Red-Eyes reduction</oldsource>
         <translation>Popravek rdečih oči</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="334"/>
+        <location filename="ViewMenu.h" line="336"/>
         <source>Selection - swap width &amp;&amp; height</source>
         <translation>Izbira - zamenjaj širino &amp;&amp; višino</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="335"/>
+        <location filename="ViewMenu.h" line="337"/>
         <source>Save selection</source>
         <translation>Shrani izbor</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="336"/>
+        <location filename="ViewMenu.h" line="338"/>
         <source>Restore selection</source>
         <translation>Obnovi izbor</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="337"/>
+        <location filename="ViewMenu.h" line="339"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
         <translation>Izbira - nastavljeno razmerje</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="338"/>
+        <location filename="ViewMenu.h" line="340"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
         <translation>Izbira - nastavi velikost</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="347"/>
+        <location filename="ViewMenu.h" line="349"/>
         <source>Fit window to image</source>
         <translation>Prilagodi okno sliki</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="350"/>
+        <location filename="ViewMenu.h" line="352"/>
         <source>Copy to...</source>
         <translation>Kopiraj v...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="351"/>
+        <location filename="ViewMenu.h" line="353"/>
         <source>Move to...</source>
         <translation>Premakni v...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="352"/>
+        <location filename="ViewMenu.h" line="354"/>
         <source>Delete...</source>
         <translation>Izbriši...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="353"/>
+        <location filename="ViewMenu.h" line="355"/>
         <source>Rename...</source>
         <translation>Preimenuj...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="396"/>
+        <location filename="ViewMenu.h" line="398"/>
         <source>Previous file</source>
         <translation>Predhodna datoteka</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="397"/>
+        <location filename="ViewMenu.h" line="399"/>
         <source>Next file</source>
         <translation>Naslednja datoteka</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="398"/>
+        <location filename="ViewMenu.h" line="400"/>
         <source>First file</source>
         <translation>Prva datoteka</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="399"/>
+        <location filename="ViewMenu.h" line="401"/>
         <source>Last file</source>
         <translation>Zadnja datoteka</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="401"/>
+        <location filename="ViewMenu.h" line="403"/>
         <source>Previous page</source>
         <translation>Predhodna stran</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="402"/>
+        <location filename="ViewMenu.h" line="404"/>
         <source>Next page</source>
         <translation>Naslednja stran</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="403"/>
+        <location filename="ViewMenu.h" line="405"/>
         <source>First page</source>
         <translation>Prva stran</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="404"/>
+        <location filename="ViewMenu.h" line="406"/>
         <source>Last page</source>
         <translation>Zadnja stran</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="407"/>
+        <location filename="ViewMenu.h" line="410"/>
         <source>Quick Slideshow</source>
         <translation>Hitra diaprojekcija</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="409"/>
+        <location filename="ViewMenu.h" line="412"/>
         <source>Fullscreen</source>
         <translation>Celozaslonski način</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="410"/>
+        <location filename="ViewMenu.h" line="413"/>
         <source>Real size</source>
         <translation>Stvarna velikost</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="411"/>
+        <location filename="ViewMenu.h" line="414"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="412"/>
+        <location filename="ViewMenu.h" line="415"/>
         <source>Zoom in</source>
         <translation>Povečaj</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="413"/>
+        <location filename="ViewMenu.h" line="416"/>
         <source>Zoom out</source>
         <translation>Pomanjšaj</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="414"/>
+        <location filename="ViewMenu.h" line="417"/>
         <source>Lock zoom</source>
         <translation>Zakleni povečavo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="423"/>
+        <location filename="ViewMenu.h" line="426"/>
         <source>Show alpha</source>
         <translation>Pokaži alfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="357"/>
+        <location filename="ViewMenu.h" line="359"/>
         <source>Excellent</source>
         <translation>Odlično</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="358"/>
+        <location filename="ViewMenu.h" line="360"/>
         <source>Good</source>
         <translation>Dobro</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="359"/>
+        <location filename="ViewMenu.h" line="361"/>
         <source>Average</source>
         <translation>Povprečno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="362"/>
+        <location filename="ViewMenu.h" line="364"/>
         <source>Unrated</source>
         <translation>Neocenjeno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="380"/>
+        <location filename="ViewMenu.h" line="382"/>
         <source>Uncolored</source>
         <translation>Brez barve</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="343"/>
+        <location filename="ViewMenu.h" line="345"/>
         <source>Fit image to window, small only</source>
         <translation>Prilagodi sliko oknu, samo manjše</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="223"/>
+        <location filename="ViewMenu.h" line="225"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
         <translation>RGB→RBG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="224"/>
+        <location filename="ViewMenu.h" line="226"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
         <translation>RGB→BGR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="225"/>
+        <location filename="ViewMenu.h" line="227"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
         <translation>RGB→BRG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="226"/>
+        <location filename="ViewMenu.h" line="228"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
         <translation>RGB→GRB</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="227"/>
+        <location filename="ViewMenu.h" line="229"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
         <translation>RGB→GBR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="232"/>
+        <location filename="ViewMenu.h" line="234"/>
         <source>Red</source>
         <translation>Rdeča</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="233"/>
+        <location filename="ViewMenu.h" line="235"/>
         <source>Green</source>
         <translation>Zelena</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="234"/>
+        <location filename="ViewMenu.h" line="236"/>
         <source>Blue</source>
         <translation>Modra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="235"/>
+        <location filename="ViewMenu.h" line="237"/>
         <source>Alpha</source>
         <translation>Alfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="300"/>
+        <location filename="ViewMenu.h" line="302"/>
         <source>Open in file explorer</source>
         <translation>Odpri v raziskovalcu datotek</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="302"/>
+        <location filename="ViewMenu.h" line="304"/>
         <source>Reload</source>
         <translation>Ponovno naloži</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="303"/>
+        <location filename="ViewMenu.h" line="305"/>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="306"/>
+        <location filename="ViewMenu.h" line="308"/>
         <source>Save selection...</source>
         <translation>Shrani izbor...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="307"/>
+        <location filename="ViewMenu.h" line="309"/>
         <source>Print...</source>
         <translation>Natisni...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="316"/>
+        <location filename="ViewMenu.h" line="318"/>
         <source>Clear selection</source>
         <translation>Počisti izbiro</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="318"/>
+        <location filename="ViewMenu.h" line="320"/>
         <source>Path</source>
         <translation>Pot</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="319"/>
+        <location filename="ViewMenu.h" line="321"/>
         <source>Filename</source>
         <translation>Ime datoteke</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="320"/>
+        <location filename="ViewMenu.h" line="322"/>
         <source>Filename and path</source>
         <translation>Ime datoteke in pot</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="325"/>
+        <location filename="ViewMenu.h" line="327"/>
         <source>Spotlight...</source>
         <translation>Označevanje...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="348"/>
+        <location filename="ViewMenu.h" line="350"/>
         <source>Fit image to desktop</source>
         <translation>Prilagodi sliko namizju</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="355"/>
+        <location filename="ViewMenu.h" line="357"/>
         <source>Tag/Untag current</source>
         <translation>Označi/Odznači trenutno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="400"/>
+        <location filename="ViewMenu.h" line="402"/>
         <source>Random file</source>
         <translation>Naključna datoteka</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="420"/>
+        <location filename="ViewMenu.h" line="423"/>
         <source>Navigate to</source>
         <translation>Pojdi na</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="424"/>
+        <location filename="ViewMenu.h" line="427"/>
         <source>Show red</source>
         <translation>Prikaži rdečo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="425"/>
+        <location filename="ViewMenu.h" line="428"/>
         <source>Show green</source>
         <translation>Prikaži zeleno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="426"/>
+        <location filename="ViewMenu.h" line="429"/>
         <source>Show blue</source>
         <translation>Prikaži modro</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="431"/>
+        <location filename="ViewMenu.h" line="434"/>
         <source>Start/stop animation</source>
         <translation>Začni/ustavi animacijo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="432"/>
+        <location filename="ViewMenu.h" line="435"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
         <translation>Nariši kot posnetek (samo ikone)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="433"/>
+        <location filename="ViewMenu.h" line="436"/>
         <source>Show colour information</source>
         <translation>Pokaži informacije o barvi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="435"/>
+        <location filename="ViewMenu.h" line="438"/>
         <source>Toolbar</source>
         <oldsource>Use toolbar</oldsource>
         <translation>Orodna vrstica</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="436"/>
+        <location filename="ViewMenu.h" line="439"/>
         <source>Status bar</source>
         <oldsource>Use statusbar</oldsource>
         <translation>Statusna vrstica</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="437"/>
+        <location filename="ViewMenu.h" line="407"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
         <translation>Pomik na koordinate...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="438"/>
+        <location filename="ViewMenu.h" line="440"/>
         <source>Show people&apos;s region</source>
         <translation>Pokaži regijo ljudi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="439"/>
+        <location filename="ViewMenu.h" line="441"/>
         <source>High zoom quality</source>
         <translation>Visoka kakovost povečave</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="440"/>
+        <location filename="ViewMenu.h" line="442"/>
         <source>Use checkerboard pattern</source>
         <translation>Uporabi vzorec šahovnice</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="442"/>
+        <location filename="ViewMenu.h" line="444"/>
         <source>Export...</source>
         <translation>Izvoz...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="443"/>
+        <location filename="ViewMenu.h" line="445"/>
         <source>Batch convert...</source>
         <translation>Pretvorba v paketu...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="515"/>
+        <location filename="ViewMenu.h" line="517"/>
         <source>Send by email...</source>
         <translation>Pošlji po e-pošti...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="528"/>
+        <location filename="ViewMenu.h" line="530"/>
         <source>Paste as image</source>
         <translation>Prilepi kot sliko</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="728"/>
+        <location filename="ViewMenu.h" line="729"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation>Meta&amp;podatki</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="729"/>
+        <location filename="ViewMenu.h" line="730"/>
         <source>Effect</source>
         <translation>Efekt</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="449"/>
+        <location filename="ViewMenu.h" line="451"/>
         <source>Set as wallpaper...</source>
         <translation>Nastavi za ozadje...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="305"/>
+        <location filename="ViewMenu.h" line="307"/>
         <source>Save a copy...</source>
         <translation>Shrani kopijo...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="364"/>
+        <location filename="ViewMenu.h" line="366"/>
         <source>Excellent (go to next image)</source>
         <translation>Odlično (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="365"/>
+        <location filename="ViewMenu.h" line="367"/>
         <source>Good (go to next image)</source>
         <translation>Dobro (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="366"/>
+        <location filename="ViewMenu.h" line="368"/>
         <source>Average (go to next image)</source>
         <translation>Povprečno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="367"/>
+        <location filename="ViewMenu.h" line="369"/>
         <source>Fair (go to next image)</source>
         <translation>Pošteno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="368"/>
+        <location filename="ViewMenu.h" line="370"/>
         <source>Poor (go to next image)</source>
         <translation>Slabo (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="369"/>
+        <location filename="ViewMenu.h" line="371"/>
         <source>Unrated (go to next image)</source>
         <translation>Neocenjeno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="382"/>
+        <location filename="ViewMenu.h" line="384"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="393"/>
+        <location filename="ViewMenu.h" line="395"/>
         <source>Set Rating</source>
         <translation>Nastavi oceno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="394"/>
+        <location filename="ViewMenu.h" line="396"/>
         <source>Set Color label</source>
         <translation>Nastavi barvno oznako</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="450"/>
+        <location filename="ViewMenu.h" line="452"/>
         <source>Properties...</source>
         <translation>Lastnosti...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="451"/>
+        <location filename="ViewMenu.h" line="453"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Uredi komentar...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="452"/>
+        <location filename="ViewMenu.h" line="454"/>
         <source>Draw...</source>
         <translation>Riši...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="453"/>
+        <location filename="ViewMenu.h" line="455"/>
         <source>Set DPI...</source>
         <translation>Nastavi DPI...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="456"/>
+        <location filename="ViewMenu.h" line="458"/>
         <source>Change color depth...</source>
         <translation>Spremeni barvno globino...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="457"/>
+        <location filename="ViewMenu.h" line="459"/>
         <source>Automatic levels</source>
         <translation>Samodejne ravni</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="458"/>
+        <location filename="ViewMenu.h" line="460"/>
         <source>Automatic contrast</source>
         <translation>Samodejni kontrast</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="459"/>
+        <location filename="ViewMenu.h" line="461"/>
         <source>Negative</source>
         <translation>Negativ</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="460"/>
+        <location filename="ViewMenu.h" line="462"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation>Logaritemski LUT</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="461"/>
+        <location filename="ViewMenu.h" line="463"/>
         <source>Normalize</source>
         <translation>Normaliziraj</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="462"/>
+        <location filename="ViewMenu.h" line="464"/>
         <source>Equalize</source>
         <translation>Izenači</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="463"/>
+        <location filename="ViewMenu.h" line="465"/>
         <source>Solarize...</source>
         <translation>Solarizacija...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="464"/>
+        <location filename="ViewMenu.h" line="466"/>
         <source>Posterize...</source>
         <translation>Posteriziraj...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="465"/>
+        <location filename="ViewMenu.h" line="467"/>
         <source>Sepia...</source>
         <translation>Sepia...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="466"/>
+        <location filename="ViewMenu.h" line="468"/>
         <source>Old camera...</source>
         <translation>Stara kamera...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="467"/>
+        <location filename="ViewMenu.h" line="469"/>
         <source>Vignetting...</source>
         <translation>Vinjetiranje...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="468"/>
+        <location filename="ViewMenu.h" line="470"/>
         <source>Enhance colors...</source>
         <translation>Izboljšaj barve...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="469"/>
+        <location filename="ViewMenu.h" line="471"/>
         <source>Levels...</source>
         <translation>Ravni...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="471"/>
+        <location filename="ViewMenu.h" line="473"/>
         <source>User filter...</source>
         <translation>Uporabniški filter...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="472"/>
+        <location filename="ViewMenu.h" line="474"/>
         <source>Shadow/Highlight...</source>
         <translation>Senca/Označba...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="476"/>
+        <location filename="ViewMenu.h" line="478"/>
         <source>Film simulation...</source>
         <translation>Simulacijski film...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="477"/>
+        <location filename="ViewMenu.h" line="479"/>
         <source>Curves...</source>
         <translation>Krivulje...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="478"/>
+        <location filename="ViewMenu.h" line="480"/>
         <source>Desaturate</source>
         <translation>Nenasičeno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="479"/>
+        <location filename="ViewMenu.h" line="481"/>
         <source>Offset...</source>
         <translation>Odmik...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="480"/>
+        <location filename="ViewMenu.h" line="482"/>
         <source>White Balance...</source>
         <translation>Ravnovesje beline...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="482"/>
+        <location filename="ViewMenu.h" line="484"/>
         <source>Automatic crop...</source>
         <translation>Samodejno obrezovanje...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="487"/>
+        <location filename="ViewMenu.h" line="489"/>
         <source>Rotate...</source>
         <translation>Rotiraj...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="490"/>
+        <location filename="ViewMenu.h" line="492"/>
         <source>Automatic Deskew</source>
         <translation>Samodejna izravnava</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="491"/>
+        <location filename="ViewMenu.h" line="493"/>
         <source>Remove alpha channel</source>
         <translation>Odstrani alfa kanal</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="493"/>
+        <location filename="ViewMenu.h" line="495"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
         <translation>Spremeni velikost...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="494"/>
+        <location filename="ViewMenu.h" line="496"/>
         <source>Canvas resize...</source>
         <translation>Spremeni velikost platna...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="495"/>
+        <location filename="ViewMenu.h" line="497"/>
         <source>Map</source>
         <translation>Mapa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="496"/>
+        <location filename="ViewMenu.h" line="498"/>
         <source>Adjust</source>
         <translation>Prilagodi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="497"/>
+        <location filename="ViewMenu.h" line="499"/>
         <source>Rotate</source>
         <translation>Rotacija</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="511"/>
+        <location filename="ViewMenu.h" line="513"/>
         <source>Clean metadata...</source>
         <translation>Očisti metapodatke...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="512"/>
+        <location filename="ViewMenu.h" line="514"/>
         <source>Join images...</source>
         <translation>Pridruži slike...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="513"/>
+        <location filename="ViewMenu.h" line="515"/>
         <source>Contact sheet...</source>
         <translation>List stika...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="514"/>
+        <location filename="ViewMenu.h" line="516"/>
         <source>Slideshow...</source>
         <translation>Diaprojekcija...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="532"/>
+        <location filename="ViewMenu.h" line="534"/>
         <source>Acquire (TWAIN)</source>
         <translation>Pridobi (TWAIN)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="499"/>
+        <location filename="ViewMenu.h" line="501"/>
         <source>Count colors used</source>
         <translation>Število uporabljenih barv</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="481"/>
+        <location filename="ViewMenu.h" line="483"/>
         <source>Remove Background</source>
         <translation>Odstrani ozadje</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="484"/>
+        <location filename="ViewMenu.h" line="486"/>
         <source>Rotate 90° right</source>
         <translation>Zasukaj za 90° v desno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="486"/>
+        <location filename="ViewMenu.h" line="488"/>
         <source>Rotate 90° left</source>
         <translation>Zasukaj za 90° v levo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="488"/>
+        <location filename="ViewMenu.h" line="490"/>
         <source>Flip horizontally</source>
         <translation>Zrcali vodoravno</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="489"/>
+        <location filename="ViewMenu.h" line="491"/>
         <source>Flip vertically</source>
         <translation>Zrcali navpično</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="500"/>
+        <location filename="ViewMenu.h" line="502"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
         <translation>Zamenjaj barvo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="501"/>
+        <location filename="ViewMenu.h" line="503"/>
         <source>Extract channel</source>
         <translation>Izvleci kanal</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="502"/>
+        <location filename="ViewMenu.h" line="504"/>
         <source>Copy to clipboard</source>
         <translation>Kopiraj v odložišče</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="505"/>
+        <location filename="ViewMenu.h" line="507"/>
         <source>Adobe Photoshop Plugin...</source>
         <translation>Vtičnik Adobe Photoshop...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="508"/>
+        <location filename="ViewMenu.h" line="510"/>
         <source>Edit IPTC...</source>
         <translation>Uredi IPTC...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="509"/>
+        <location filename="ViewMenu.h" line="511"/>
         <source>Edit XMP...</source>
         <translation>Uredi XMP...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="517"/>
+        <location filename="ViewMenu.h" line="519"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Zasukaj za 90° v desno (brez izgub)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="518"/>
+        <location filename="ViewMenu.h" line="520"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Zasukaj za 90° v levo (brez izgub)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="519"/>
+        <location filename="ViewMenu.h" line="521"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Zasukaj za 180° (brez izgub)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="522"/>
+        <location filename="ViewMenu.h" line="524"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Zrcali vodoravno (brez izgub)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="523"/>
+        <location filename="ViewMenu.h" line="525"/>
         <source>Flip vertically (lossless)</source>
         <translation>Zrcali navpično (brez izgub)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="524"/>
+        <location filename="ViewMenu.h" line="526"/>
         <source>Crop (lossless)</source>
         <translation>Obreži (brez izgub)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="533"/>
+        <location filename="ViewMenu.h" line="535"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
         <translation>Pridobi v (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="724"/>
+        <location filename="ViewMenu.h" line="725"/>
         <source>&amp;File</source>
         <translation>&amp;Datoteka</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="727"/>
+        <location filename="ViewMenu.h" line="728"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Slika</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="730"/>
+        <location filename="ViewMenu.h" line="731"/>
         <source>&amp;Tools</source>
         <translation>&amp;Orodja</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="731"/>
+        <location filename="ViewMenu.h" line="732"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>&amp;Pomoč</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="417"/>
+        <location filename="ViewMenu.h" line="420"/>
         <source>Zoom</source>
         <translation>Povečava</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="242"/>
+        <location filename="ViewMenu.h" line="244"/>
         <source>Top</source>
         <translation>Zgoraj</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="418"/>
+        <location filename="ViewMenu.h" line="421"/>
         <source>File</source>
         <translation>Datoteka</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="419"/>
+        <location filename="ViewMenu.h" line="422"/>
         <source>Page</source>
         <translation>Stran</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="421"/>
+        <location filename="ViewMenu.h" line="424"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Uporabi indeks transparence (≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="422"/>
+        <location filename="ViewMenu.h" line="425"/>
         <source>Use alpha channel</source>
         <translation>Uporabi alfa kanal</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="427"/>
+        <location filename="ViewMenu.h" line="430"/>
         <source>Show grid</source>
         <translation>Pokaži mrežo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="428"/>
+        <location filename="ViewMenu.h" line="431"/>
         <source>Grid settings...</source>
         <translation>Nastavitve mreže...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="429"/>
+        <location filename="ViewMenu.h" line="432"/>
         <source>Show information</source>
         <translation>Pokaži informacije</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="430"/>
+        <location filename="ViewMenu.h" line="433"/>
         <source>Show histogram</source>
         <oldsource>Show ToolBar</oldsource>
         <translation>Prikaži histogram</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="448"/>
+        <location filename="ViewMenu.h" line="450"/>
         <source>Open GPS location in</source>
         <translation>Odpri GPS lokacijo v</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="454"/>
+        <location filename="ViewMenu.h" line="456"/>
         <source>Send by FTP...</source>
         <translation>Pošlji po FTP...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="470"/>
+        <location filename="ViewMenu.h" line="472"/>
         <source>Effect...</source>
         <translation>Učinek...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="498"/>
+        <location filename="ViewMenu.h" line="500"/>
         <source>Mirror</source>
         <translation>Zrcalo</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="503"/>
+        <location filename="ViewMenu.h" line="505"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
         <translation>Prilepi zunaj</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="510"/>
+        <location filename="ViewMenu.h" line="512"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
         <translation>Uredi paleto...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="485"/>
+        <location filename="ViewMenu.h" line="487"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
         <translation>Zasuk za 180°</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="520"/>
+        <location filename="ViewMenu.h" line="522"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Rotacija na temelju usmerjevalnega polja EXIF</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="521"/>
+        <location filename="ViewMenu.h" line="523"/>
         <source>Reset EXIF orientation field</source>
         <translation>Ponastavi polje za usmerjanje EXIF</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="525"/>
+        <location filename="ViewMenu.h" line="527"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Transformacije brez izgub (JPEG)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="527"/>
+        <location filename="ViewMenu.h" line="529"/>
         <source>Capture...</source>
         <translation>Zajemi...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="529"/>
+        <location filename="ViewMenu.h" line="531"/>
         <source>Empty tab...</source>
         <translation>Prazen zavihek...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="531"/>
+        <location filename="ViewMenu.h" line="533"/>
         <source>Select TWAIN source...</source>
         <translation>Izberi vir TWAIN...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="535"/>
+        <location filename="ViewMenu.h" line="537"/>
         <source>New image...</source>
         <translation>Nova slika...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="536"/>
+        <location filename="ViewMenu.h" line="538"/>
         <source>Save All</source>
         <translation>Shrani kot</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="725"/>
+        <location filename="ViewMenu.h" line="726"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>&amp;Uredi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="726"/>
+        <location filename="ViewMenu.h" line="727"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>&amp;Pogled</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="304"/>
+        <location filename="ViewMenu.h" line="306"/>
         <source>Save as...</source>
         <translation>Shrani kot...</translation>
     </message>
@@ -21762,66 +21737,66 @@ Do you want to continue?</oldsource>
         <translation>Shrani kot</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="223"/>
+        <location filename="DlgSettingsView.cpp" line="219"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Left</source>
         <translation>Zgoraj-Levo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="224"/>
+        <location filename="DlgSettingsView.cpp" line="220"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Top-Center</source>
         <translation>Zgoraj-Center</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="225"/>
+        <location filename="DlgSettingsView.cpp" line="221"/>
         <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Top-Right</source>
         <translation>Zgoraj-Desno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="226"/>
+        <location filename="DlgSettingsView.cpp" line="222"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
         <translation>Center-Levo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="227"/>
+        <location filename="DlgSettingsView.cpp" line="223"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Center</source>
         <translation>Center</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="228"/>
+        <location filename="DlgSettingsView.cpp" line="224"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Center-Right</source>
         <translation>Center-Desno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="229"/>
+        <location filename="DlgSettingsView.cpp" line="225"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Left</source>
         <translation>Spodaj-Levo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="230"/>
+        <location filename="DlgSettingsView.cpp" line="226"/>
         <location filename="DlgSlideshow.cpp" line="52"/>
         <source>Bottom-Center</source>
         <translation>Spodaj-Center</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="231"/>
+        <location filename="DlgSettingsView.cpp" line="227"/>
         <location filename="DlgSlideshow.cpp" line="53"/>
         <source>Bottom-Right</source>
         <translation>Spodaj-Desno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1003"/>
+        <location filename="DlgSettingsInterface.cpp" line="1006"/>
         <source>Choose command</source>
         <translation>Izberi ukaz</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1035"/>
+        <location filename="DlgSettingsInterface.cpp" line="1038"/>
         <source>Choose icon</source>
         <translation>Izberi ikono</translation>
     </message>
@@ -21832,7 +21807,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="18"/>
-        <location filename="DlgSettingsView.cpp" line="271"/>
+        <location filename="DlgSettingsView.cpp" line="267"/>
         <source>Last used</source>
         <translation>Nazadnje uporabljeno</translation>
     </message>
@@ -22561,37 +22536,37 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
         <translation>Riši [%1]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="583"/>
+        <location filename="PaintWidget.cpp" line="587"/>
         <source>X: %1, Y: %2</source>
         <translation>X: %1, Y: %2</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="588"/>
+        <location filename="PaintWidget.cpp" line="592"/>
         <source>R: %1, G: %2, B: %3 [#%4]</source>
         <translation>R: %1, G: %2, B: %3 [#%4]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="999"/>
+        <location filename="PaintWidget.cpp" line="1003"/>
         <source>Choose an image</source>
         <translation>Izberi sliko</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="999"/>
+        <location filename="PaintWidget.cpp" line="1003"/>
         <source>Images</source>
         <translation>Slike</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1410"/>
+        <location filename="PaintWidget.cpp" line="1414"/>
         <source>Include color</source>
         <translation>Vključi barvo</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1417"/>
+        <location filename="PaintWidget.cpp" line="1421"/>
         <source>Name:</source>
         <translation>Ime:</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1425"/>
+        <location filename="PaintWidget.cpp" line="1429"/>
         <source>Preset name</source>
         <translation>Prednastavljeno ime</translation>
     </message>

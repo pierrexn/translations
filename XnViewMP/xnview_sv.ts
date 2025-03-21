@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="425"/>
+        <location filename="MyThumbSettings.cpp" line="437"/>
         <source>Uncolored</source>
         <translation>Utan färg</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="431"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Important</source>
         <translation>Viktigt</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="431"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Red</source>
         <translation>Röd</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="431"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Select</source>
         <translation>Välj</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="432"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Work</source>
         <translation>Arbete</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="432"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Yellow</source>
         <translation>Gul</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="432"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Second</source>
         <translation>Andra</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="433"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Personal</source>
         <translation>Personligt</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="433"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Green</source>
         <translation>Grön</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="433"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Approved</source>
         <translation>Godkänd</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="434"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>To do</source>
         <translation>Att göra</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="434"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Blue</source>
         <translation>Blå</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="434"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Review</source>
         <translation>Granskning</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="435"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Later</source>
         <translation>Senare</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="435"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Purple</source>
         <translation>Lila</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="435"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>To Do</source>
         <translation>Att göra</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="436"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>Orange</source>
         <translation>Orange</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="437"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Grey</source>
         <translation>Grå</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="438"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Black</source>
         <translation>Svart</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="439"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>White</source>
         <translation>Vit</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="334"/>
+        <location filename="MyThumbSettings.cpp" line="344"/>
         <source>Unrated</source>
         <translation>Oklassificerad</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="335"/>
+        <location filename="MyThumbSettings.cpp" line="345"/>
         <source>Poor</source>
         <translation>Underkänd</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="336"/>
+        <location filename="MyThumbSettings.cpp" line="346"/>
         <source>Fair</source>
         <translation>Rimlig</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="337"/>
+        <location filename="MyThumbSettings.cpp" line="347"/>
         <source>Average</source>
         <translation>Medel</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="338"/>
+        <location filename="MyThumbSettings.cpp" line="348"/>
         <source>Good</source>
         <translation>Bra</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="339"/>
+        <location filename="MyThumbSettings.cpp" line="349"/>
         <source>Excellent</source>
         <translation>Utmärkt</translation>
     </message>
@@ -9991,61 +9991,54 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <name>DlgReadCRaw</name>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
-        <source>Use</source>
-        <translation>Använd</translation>
+        <source>View</source>
+        <translation type="unfinished">Visning</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
+        <location filename="DlgReadCRaw.ui" line="73"/>
         <source>Embedded preview</source>
         <translation>Inbäddad förhandsvisning</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="35"/>
+        <location filename="DlgReadCRaw.ui" line="78"/>
         <source>Half size</source>
         <translation>Halv storlek</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="40"/>
+        <location filename="DlgReadCRaw.ui" line="83"/>
         <source>Full size</source>
         <translation>Full storlek</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="63"/>
+        <location filename="DlgReadCRaw.ui" line="65"/>
+        <source>Convert</source>
+        <translation type="unfinished">Konvertera</translation>
+    </message>
+    <message>
+        <location filename="DlgReadCRaw.ui" line="106"/>
         <source>Use Embedded color matrix</source>
         <translation>Använd inbäddad färgmatris</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="70"/>
+        <location filename="DlgReadCRaw.ui" line="113"/>
         <source>Use Automatic white balance</source>
         <translation>Använd automatisk vitbalans</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="77"/>
+        <location filename="DlgReadCRaw.ui" line="120"/>
         <source>Use Camera white balance</source>
         <translation>Använd kamerans vitbalans</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="84"/>
+        <location filename="DlgReadCRaw.ui" line="127"/>
         <source>Automatic brightness</source>
         <translation>Automatisk ljusstyrka</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="93"/>
-        <source>Brightness</source>
-        <translation>Ljusstyrka</translation>
-    </message>
-    <message>
-        <location filename="DlgReadCRaw.ui" line="120"/>
-        <source>Red scaling</source>
-        <translation>Rödskala</translation>
-    </message>
-    <message>
-        <location filename="DlgReadCRaw.ui" line="147"/>
-        <source>Blue scaling</source>
-        <translation>Blåskala</translation>
-    </message>
-    <message>
-        <location filename="DlgReadCRaw.ui" line="172"/>
+        <location filename="DlgReadCRaw.ui" line="134"/>
         <source>Convert to sRGB</source>
         <translation>Konvertera till sRGB</translation>
     </message>
@@ -10115,14 +10108,14 @@ Tillse att filerna inte är skrivskyddade!</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
-        <source>Integer fast</source>
-        <oldsource>Fast integer</oldsource>
+        <source>Fast integer</source>
+        <oldsource>Integer fast</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
-        <source>Float</source>
-        <oldsource>Floating</oldsource>
+        <source>Floating-point</source>
+        <oldsource>Float</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11468,19 +11461,19 @@ Vill du ta bort poster som tilldelats en kategori?</translation>
         <translation>Komprimering:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="166"/>
+        <location filename="DlgSettingsCache.ui" line="163"/>
         <source>Maximum size for cached thumbnails</source>
         <translation>Maxstorlek för cache-lagrade miniatyrer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="256"/>
+        <location filename="DlgSettingsCache.ui" line="270"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
         <translation>Standardsökväg för filer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="176"/>
-        <location filename="DlgSettingsCache.ui" line="216"/>
+        <location filename="DlgSettingsCache.ui" line="186"/>
+        <location filename="DlgSettingsCache.ui" line="236"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
@@ -11510,107 +11503,107 @@ Vill du ta bort poster som tilldelats en kategori?</translation>
         <translation>Hämta miniatyrstorlek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="206"/>
+        <location filename="DlgSettingsCache.ui" line="213"/>
         <source>Memory usage for database engine</source>
         <translation>Minnesanvändning för databasmotorn</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="244"/>
+        <location filename="DlgSettingsCache.ui" line="258"/>
         <source>Check integrity of catalog at startup</source>
         <translation>Kontrollera katalogens integritet vid programstart</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="290"/>
+        <location filename="DlgSettingsCache.ui" line="304"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
         <translation>Mapp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="295"/>
+        <location filename="DlgSettingsCache.ui" line="309"/>
         <source>Files</source>
         <translation>Filer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="300"/>
+        <location filename="DlgSettingsCache.ui" line="314"/>
         <source>Size</source>
         <translation>Storlek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="315"/>
-        <location filename="DlgSettingsCache.ui" line="498"/>
+        <location filename="DlgSettingsCache.ui" line="329"/>
+        <location filename="DlgSettingsCache.ui" line="512"/>
         <source>Delete</source>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="322"/>
-        <location filename="DlgSettingsCache.ui" line="505"/>
+        <location filename="DlgSettingsCache.ui" line="336"/>
+        <location filename="DlgSettingsCache.ui" line="519"/>
         <source>Delete all</source>
         <translation>Ta bort alla</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="361"/>
+        <location filename="DlgSettingsCache.ui" line="375"/>
         <source>Maintenance...</source>
         <translation>Underhåll...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="368"/>
+        <location filename="DlgSettingsCache.ui" line="382"/>
         <source>Import folder...</source>
         <translation>Importmapp...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="402"/>
+        <location filename="DlgSettingsCache.ui" line="416"/>
         <source>Rebuild thumbnails</source>
         <translation>Återskapa miniatyrer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="542"/>
+        <location filename="DlgSettingsCache.ui" line="556"/>
         <source>Tools</source>
         <translation>Verktyg</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="548"/>
+        <location filename="DlgSettingsCache.ui" line="562"/>
         <source>Import XnView Classic category db...</source>
         <oldsource>Import XnView category db...</oldsource>
         <translation>Importera XnView Classic kategoridatabas...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="472"/>
+        <location filename="DlgSettingsCache.ui" line="486"/>
         <source>Add folder...</source>
         <translation>Lägg till mapp...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="378"/>
+        <location filename="DlgSettingsCache.ui" line="392"/>
         <source>Relocate...</source>
         <translation>Omplacera...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="409"/>
+        <location filename="DlgSettingsCache.ui" line="423"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
         <translation>Synkronisera mappar...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="432"/>
+        <location filename="DlgSettingsCache.ui" line="446"/>
         <source>Excluded/Included</source>
         <translation>Exkluderad/Inkluderad</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="457"/>
+        <location filename="DlgSettingsCache.ui" line="471"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="462"/>
+        <location filename="DlgSettingsCache.ui" line="476"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="527"/>
+        <location filename="DlgSettingsCache.ui" line="541"/>
         <source>Always exclude removable drives</source>
         <translation>Exkludera alltid flyttbara enheter</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="534"/>
+        <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Always exclude CD/DVD drives</source>
         <translation>Exkludera alltid CD-/DVD-enheter</translation>
     </message>
@@ -12567,39 +12560,39 @@ miniatyr</translation>
         <translation>-- NY XMP-MALL --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="504"/>
+        <location filename="DlgSettingsInterface.cpp" line="506"/>
         <source>Browse mode</source>
         <translation>Filläsarläge</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="505"/>
+        <location filename="DlgSettingsInterface.cpp" line="507"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>Visningsläge</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="861"/>
-        <location filename="DlgSettingsInterface.cpp" line="881"/>
+        <location filename="DlgSettingsInterface.cpp" line="864"/>
+        <location filename="DlgSettingsInterface.cpp" line="884"/>
         <source>Set Icon...</source>
         <translation>Ange ikon...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1059"/>
+        <location filename="DlgSettingsInterface.cpp" line="1062"/>
         <source>Set label</source>
         <translation>Ange etikett</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1060"/>
+        <location filename="DlgSettingsInterface.cpp" line="1063"/>
         <source>Label:</source>
         <translation>Etikett:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1209"/>
+        <location filename="DlgSettingsInterface.cpp" line="1211"/>
         <source>This shortcut is already assigned for </source>
         <translation>Denna genväg är redan tilldelad </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1225"/>
+        <location filename="DlgSettingsInterface.cpp" line="1227"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12610,22 +12603,22 @@ Do you want to reassign?</source>
 Vill du ta bort tilldelningen?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1274"/>
+        <location filename="DlgSettingsInterface.cpp" line="1276"/>
         <source>Load toolbar</source>
         <translation>Läs in verktygsfält</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1292"/>
+        <location filename="DlgSettingsInterface.cpp" line="1294"/>
         <source>Save toolbar</source>
         <translation>Spara verktygsfält</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1348"/>
+        <location filename="DlgSettingsInterface.cpp" line="1350"/>
         <source>Load shortcuts</source>
         <translation>Läs in genvägar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1379"/>
+        <location filename="DlgSettingsInterface.cpp" line="1381"/>
         <source>Save shortcuts</source>
         <translation>Spara genvägar</translation>
     </message>
@@ -12979,13 +12972,13 @@ Vill du ta bort tilldelningen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1221"/>
-        <location filename="DlgSettingsInterface.ui" line="1264"/>
+        <location filename="DlgSettingsInterface.ui" line="1269"/>
         <source>Shortcut</source>
         <translation>Genväg</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1226"/>
-        <location filename="DlgSettingsInterface.ui" line="1269"/>
+        <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
         <translation>Kommandonamn</translation>
     </message>
@@ -13253,178 +13246,177 @@ Vill du ta bort tilldelningen?</translation>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="45"/>
-        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
-        <oldsource>Import XMP subject or IPTC keyword to Catalog&apos;s Categories</oldsource>
-        <translation>Importera automatiskt XMP:Subject och IPTC:Keywords till katalogens kategorier</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="151"/>
+        <location filename="DlgSettingsKeywords.ui" line="191"/>
         <source>Read hierarchical keywords from images as categories</source>
         <oldsource>Read hierarchical keywords</oldsource>
         <translation>Läs hierarkiska nyckelord från bilder som kategorier</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="252"/>
+        <location filename="DlgSettingsKeywords.ui" line="292"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation>Tilldela automatiskt överordnad kategori (Ctrl+klick endast för aktuell)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="73"/>
+        <location filename="DlgSettingsKeywords.ui" line="180"/>
         <source>Update when file is changed outside (date/size)</source>
         <translation>Uppdatera när fil ändras externt (datum/storlek)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="82"/>
-        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
-        <oldsource>Export Catalog&apos;s Category to XMP Subject and IPTC Keyword</oldsource>
-        <translation>Exportera katalogens kategorier till XMP:Subject och IPTC:Keywords</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="110"/>
-        <source>Create XMP data</source>
-        <translation>Skapa XMP-data</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="140"/>
-        <source>Create IPTC data</source>
-        <translation>Skapa IPTC-data</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="245"/>
+        <location filename="DlgSettingsKeywords.ui" line="285"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
         <translation>Skriv in kategorier i bilderna som hierarkiska nyckelord</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="328"/>
+        <location filename="DlgSettingsKeywords.ui" line="338"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translation>Skapa eller uppdatera XMP Sidecar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="335"/>
+        <location filename="DlgSettingsKeywords.ui" line="345"/>
         <source>Naming convention</source>
         <translation>Namnkonvention</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="341"/>
+        <location filename="DlgSettingsKeywords.ui" line="351"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
         <translation>&lt;filnamn&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="348"/>
+        <location filename="DlgSettingsKeywords.ui" line="358"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
         <translation>&lt;filnamn&gt;.&lt;filtillägg&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="262"/>
-        <source>Rating &amp;&amp; Label</source>
-        <translation>Klassificering &amp;&amp; Etikett</translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="33"/>
+        <location filename="DlgSettingsKeywords.ui" line="39"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="268"/>
-        <source>Export rating in XMP metadata</source>
-        <translation>Exportera klassificering till XMP-metadata</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="275"/>
-        <source>Export color label in XMP metadata</source>
-        <translation>Exportera färgetikett i XMP-metadata</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="285"/>
+        <location filename="DlgSettingsKeywords.ui" line="302"/>
         <source>Comment</source>
         <translation>Kommentar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="291"/>
+        <location filename="DlgSettingsKeywords.ui" line="308"/>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>Skriv kommentar i XMP (dc:description och exif:UserComment)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="301"/>
-        <source>Import XMP Face tag</source>
-        <translation>Importera XMP Face-tagg</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="322"/>
+        <location filename="DlgSettingsKeywords.ui" line="332"/>
         <source>Sidecar</source>
         <translation>Sidfält</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="391"/>
+        <location filename="DlgSettingsKeywords.ui" line="401"/>
         <source>Video files</source>
         <translation>Videofiler</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="398"/>
+        <location filename="DlgSettingsKeywords.ui" line="408"/>
         <source>Other files</source>
         <translation>Andra filer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="422"/>
+        <location filename="DlgSettingsKeywords.ui" line="432"/>
         <source>Encoding</source>
         <translation>Kodning</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="436"/>
-        <location filename="DlgSettingsKeywords.ui" line="486"/>
-        <location filename="DlgSettingsKeywords.ui" line="529"/>
+        <location filename="DlgSettingsKeywords.ui" line="446"/>
+        <location filename="DlgSettingsKeywords.ui" line="496"/>
+        <location filename="DlgSettingsKeywords.ui" line="539"/>
         <source>Default encoding</source>
         <translation>Standard teckentabell</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="478"/>
+        <location filename="DlgSettingsKeywords.ui" line="488"/>
         <source>Embedded comment</source>
         <translation>Inbäddad kommentar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="521"/>
+        <location filename="DlgSettingsKeywords.ui" line="531"/>
         <source>EXIF Copyright</source>
         <translation>EXIF Copyright</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="746"/>
+        <location filename="DlgSettingsKeywords.ui" line="756"/>
         <source>Label</source>
         <translation>Etikett</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="696"/>
+        <location filename="DlgSettingsKeywords.ui" line="706"/>
         <source>Read (separated by ,)</source>
         <translation>Läs (separerat med ,)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="739"/>
+        <location filename="DlgSettingsKeywords.ui" line="749"/>
         <source>Write</source>
         <translation>Skriv</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="468"/>
+        <location filename="DlgSettingsKeywords.ui" line="478"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
         <translation>Använd UTF-8 för att skriva IPTC-fält</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="39"/>
+        <location filename="DlgSettingsKeywords.ui" line="45"/>
+        <source>Import</source>
+        <translation type="unfinished">Importera</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="52"/>
+        <source>Export</source>
+        <translation type="unfinished">Exportera</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="59"/>
+        <source>Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="80"/>
+        <source>Color label</source>
+        <translation type="unfinished">Färgetikett</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="114"/>
+        <source>Categories</source>
+        <translation type="unfinished">Kategorier</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="121"/>
+        <source>XMP:Subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="142"/>
+        <source>Face tag</source>
+        <translation type="unfinished">Face-tagg</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="159"/>
+        <source>IPTC:Keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="169"/>
         <source>Categories and keywords</source>
         <translation>Kategorier och nyckelord</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="358"/>
+        <location filename="DlgSettingsKeywords.ui" line="368"/>
         <source>Supported formats</source>
         <translation>Format som stöds</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="578"/>
+        <location filename="DlgSettingsKeywords.ui" line="588"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>Färgetiketter</translation>
@@ -13758,8 +13750,8 @@ Vill du ta bort tilldelningen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
-        <location filename="DlgSettingsView.ui" line="1056"/>
-        <location filename="DlgSettingsView.ui" line="1213"/>
+        <location filename="DlgSettingsView.ui" line="1013"/>
+        <location filename="DlgSettingsView.ui" line="1170"/>
         <source>Background color</source>
         <translation>Bakgrundsfärg</translation>
     </message>
@@ -13806,7 +13798,7 @@ Vill du ta bort tilldelningen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
-        <location filename="DlgSettingsView.ui" line="1147"/>
+        <location filename="DlgSettingsView.ui" line="1104"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
         <translation>Automatisk zoom</translation>
@@ -13819,12 +13811,12 @@ Vill du ta bort tilldelningen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
-        <location filename="DlgSettingsView.ui" line="1190"/>
+        <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Show scrollbars</source>
         <translation>Visa rullningslister</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="769"/>
+        <location filename="DlgSettingsView.ui" line="726"/>
         <source>Auto play (video)</source>
         <translation>Automatisk uppspelning (video)</translation>
     </message>
@@ -13835,13 +13827,13 @@ Vill du ta bort tilldelningen?</translation>
         <translation>Återställ X/Y (Ingen anpassning)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="891"/>
+        <location filename="DlgSettingsView.ui" line="848"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
         <translation>Rita ikoner med flera upplösningar som ögonblicksbilder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="713"/>
+        <location filename="DlgSettingsView.ui" line="670"/>
         <source>Misc.</source>
         <translation>Övr.</translation>
     </message>
@@ -13862,63 +13854,63 @@ Vill du ta bort tilldelningen?</translation>
         <translation>Zoom på HiDPI-skärm: 1 bildpixel lika med 1 skärmpixel</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="592"/>
+        <location filename="DlgSettingsView.ui" line="549"/>
         <source>Filter</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="604"/>
+        <location filename="DlgSettingsView.ui" line="561"/>
         <source>Like Browser</source>
         <translation>Som filhanteraren</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="611"/>
+        <location filename="DlgSettingsView.ui" line="568"/>
         <source>Custom</source>
         <translation>Anpassat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="642"/>
+        <location filename="DlgSettingsView.ui" line="599"/>
         <source>Audio</source>
         <translation>Ljud</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="649"/>
+        <location filename="DlgSettingsView.ui" line="606"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="656"/>
+        <location filename="DlgSettingsView.ui" line="613"/>
         <source>Text</source>
         <translation>Text</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="670"/>
+        <location filename="DlgSettingsView.ui" line="627"/>
         <source>Exclude</source>
         <translation>Undanta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="677"/>
+        <location filename="DlgSettingsView.ui" line="634"/>
         <source>Include</source>
         <translation>Inkludera</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="684"/>
+        <location filename="DlgSettingsView.ui" line="641"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
         <translation>(Från Inställningar › Fillista › Anpassat filter)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="721"/>
+        <location filename="DlgSettingsView.ui" line="678"/>
         <source>Selection</source>
         <translation>Val</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="729"/>
+        <location filename="DlgSettingsView.ui" line="686"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="734"/>
+        <location filename="DlgSettingsView.ui" line="691"/>
         <source>Rule of thirds</source>
         <translation>Tredjedelsregel</translation>
     </message>
@@ -13959,177 +13951,157 @@ Vill du ta bort tilldelningen?</translation>
         <translation>Visa klassificering &amp;&amp; färgetiketter</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="739"/>
+        <location filename="DlgSettingsView.ui" line="696"/>
         <source>Golden ratio (Phi)</source>
         <translation>Gyllene snittet (Phi)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="762"/>
+        <location filename="DlgSettingsView.ui" line="719"/>
         <source>Loop on the file list</source>
         <translation>Loopa i fillistan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="776"/>
+        <location filename="DlgSettingsView.ui" line="733"/>
         <source>Loop video playing</source>
         <translation>Loopa videouppspelning</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="783"/>
+        <location filename="DlgSettingsView.ui" line="740"/>
         <source>Two-pass rendering at loading</source>
         <translation>2-pass-rendering vid inläsning</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="790"/>
+        <location filename="DlgSettingsView.ui" line="747"/>
         <source>Cache</source>
         <translation>Cache</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="796"/>
+        <location filename="DlgSettingsView.ui" line="753"/>
         <source>Read one image ahead</source>
         <translation>Läs in en bild i förväg</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="803"/>
+        <location filename="DlgSettingsView.ui" line="760"/>
         <source>Keep current image</source>
         <translation>Bevara aktuell bild</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="813"/>
+        <location filename="DlgSettingsView.ui" line="770"/>
         <source>Quick slideshow</source>
         <translation>Snabbt bildspel</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="819"/>
+        <location filename="DlgSettingsView.ui" line="776"/>
         <source>Delay (ms)</source>
         <translation>Fördröjning (ms)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="836"/>
+        <location filename="DlgSettingsView.ui" line="793"/>
         <source>Direction</source>
         <translation>Riktning</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="844"/>
+        <location filename="DlgSettingsView.ui" line="801"/>
         <source>Forward</source>
         <translation>Framåt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="849"/>
+        <location filename="DlgSettingsView.ui" line="806"/>
         <source>Backward</source>
         <translation>Bakåt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="854"/>
+        <location filename="DlgSettingsView.ui" line="811"/>
         <source>Random</source>
         <translation>Slumpmässigt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="915"/>
+        <location filename="DlgSettingsView.ui" line="872"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1120"/>
+        <location filename="DlgSettingsView.ui" line="1077"/>
         <source>Stretch horizontally</source>
         <translation>Sträck ut horisontellt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1139"/>
+        <location filename="DlgSettingsView.ui" line="1096"/>
         <source>Fullscreen</source>
         <translation>Helskärm</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1176"/>
+        <location filename="DlgSettingsView.ui" line="1133"/>
         <source>Show playbar</source>
         <translation>Visa uppspelningskontroller</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1183"/>
+        <location filename="DlgSettingsView.ui" line="1140"/>
         <source>Show info</source>
         <translation>Visa information</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1197"/>
+        <location filename="DlgSettingsView.ui" line="1154"/>
         <source>Show toolbar</source>
         <translation>Visa verktygsfält</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1204"/>
+        <location filename="DlgSettingsView.ui" line="1161"/>
         <source>Hide mouse cursor</source>
         <translation>Dölj muspekare</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1238"/>
+        <location filename="DlgSettingsView.ui" line="1195"/>
         <source>Dual monitor: Use second monitor</source>
         <translation>Dubbla skärmar: Använd sekundär skärm</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1251"/>
+        <location filename="DlgSettingsView.ui" line="1208"/>
         <source>Floating views</source>
         <translation>Flytande vyer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1276"/>
+        <location filename="DlgSettingsView.ui" line="1233"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
         <translation>(visas när musen flyttas till överkant eller höger sida av skärmen)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1093"/>
+        <location filename="DlgSettingsView.ui" line="1050"/>
         <source>Text color</source>
         <translation>Textfärg</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1049"/>
+        <location filename="DlgSettingsView.ui" line="1006"/>
         <source>Font</source>
         <translation>Teckensnitt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="928"/>
+        <location filename="DlgSettingsView.ui" line="885"/>
         <source>Support HTML tags</source>
         <translation>Stöd HTML-taggar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1131"/>
+        <location filename="DlgSettingsView.ui" line="1088"/>
         <source>Always show in fullscreen</source>
         <translation>Visa alltid i helskärmsläge</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1113"/>
+        <location filename="DlgSettingsView.ui" line="1070"/>
         <source>Opacity</source>
         <translation>Opacitet</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1019"/>
+        <location filename="DlgSettingsView.ui" line="976"/>
         <source>Position</source>
         <translation>Position</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="537"/>
-        <source>Camera RAW, use</source>
-        <translation>Camera RAW, använd</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="545"/>
-        <source>Embedded preview</source>
-        <translation>Inbäddad förhandsgranskning</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="550"/>
-        <source>Half size</source>
-        <translation>Halv storlek</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="555"/>
-        <source>Full size</source>
-        <translation>Full storlek</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="878"/>
+        <location filename="DlgSettingsView.ui" line="835"/>
         <source>Multipage files</source>
         <translation>Flersidiga filer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="884"/>
+        <location filename="DlgSettingsView.ui" line="841"/>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Inaktivera GIF/JIF/APNG/ANI-animering</translation>
     </message>
@@ -15673,14 +15645,15 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
-        <source>Integer fast (worst but faster)</source>
-        <oldsource>Fast (worst but faster)</oldsource>
+        <source>Fast integer (worst but faster)</source>
+        <oldsource>Integer fast (worst but faster)</oldsource>
         <translation type="unfinished">Snabb (sämst men snabbast)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
-        <source>Float (best but slowest)</source>
-        <translation>Flytande (bäst men långsammast)</translation>
+        <source>Floating-point (best but slowest)</source>
+        <oldsource>Float (best but slowest)</oldsource>
+        <translation type="unfinished">Flytande (bäst men långsammast)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15705,18 +15678,20 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2, 1x1, 1x1 (standard)</translation>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="206"/>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1, 1x1, 1x1 (4:2:2)</translation>
+        <source>4:2:2 (2x1,1x1,1x1)</source>
+        <oldsource>2x1,1x1,1x1 (4:2:2)</oldsource>
+        <translation type="unfinished">2x1, 1x1, 1x1 (4:2:2)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1, 1x1, 1x1 (bäst kvalitet)</translation>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
+        <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
+        <translation type="unfinished">1x1, 1x1, 1x1 (bäst kvalitet)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="236"/>
@@ -16373,12 +16348,12 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Stora miniatyrer</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="39"/>
+        <location filename="FileListWidget.cpp" line="44"/>
         <source>Details</source>
         <translation>Detaljerat</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="44"/>
+        <location filename="FileListWidget.cpp" line="39"/>
         <source>List</source>
         <translation>Lista</translation>
     </message>
@@ -19263,42 +19238,42 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
-        <location filename="DlgSettingsView.cpp" line="272"/>
+        <location filename="DlgSettingsView.cpp" line="268"/>
         <location filename="BrowserMenu.h" line="629"/>
         <source>No fit</source>
         <translation>Ingen passning</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
-        <location filename="DlgSettingsView.cpp" line="273"/>
+        <location filename="DlgSettingsView.cpp" line="269"/>
         <location filename="BrowserMenu.h" line="630"/>
         <source>Fit image to window</source>
         <translation>Anpassa bild till fönster</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
-        <location filename="DlgSettingsView.cpp" line="275"/>
+        <location filename="DlgSettingsView.cpp" line="271"/>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Fit image to window, large only</source>
         <translation>Anpassa bild till fönster, endast stora</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
-        <location filename="DlgSettingsView.cpp" line="276"/>
+        <location filename="DlgSettingsView.cpp" line="272"/>
         <location filename="BrowserMenu.h" line="633"/>
         <source>Fit image to window width</source>
         <translation>Anpassa bild till fönsterbredd</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
-        <location filename="DlgSettingsView.cpp" line="277"/>
+        <location filename="DlgSettingsView.cpp" line="273"/>
         <location filename="BrowserMenu.h" line="634"/>
         <source>Fit image to window height</source>
         <translation>Anpassa bild till fönsterhöjd</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
-        <location filename="DlgSettingsView.cpp" line="278"/>
+        <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="635"/>
         <source>Fit image to window width or height</source>
         <translation>Anpassa bild till fönsterbredd eller -höjd</translation>
@@ -20283,7 +20258,7 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
-        <location filename="DlgSettingsView.cpp" line="274"/>
+        <location filename="DlgSettingsView.cpp" line="270"/>
         <location filename="BrowserMenu.h" line="632"/>
         <source>Fit image to window, small only</source>
         <translation>Anpassa bild till fönster, endast små</translation>
@@ -20547,1075 +20522,1075 @@ Vill du fortsätta?</translation>
 <context>
     <name>MenuView</name>
     <message>
-        <location filename="ViewMenu.h" line="340"/>
+        <location filename="ViewMenu.h" line="342"/>
         <source>No fit</source>
         <translation>Ingen passning</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="341"/>
+        <location filename="ViewMenu.h" line="343"/>
         <source>Fit image to window</source>
         <translation>Anpassa bild till fönster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="342"/>
+        <location filename="ViewMenu.h" line="344"/>
         <source>Fit image to window, large only</source>
         <translation>Anpassa bild till fönster, endast stora</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="344"/>
+        <location filename="ViewMenu.h" line="346"/>
         <source>Fit image to window width</source>
         <translation>Anpassa bild till fönsterbredd</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="345"/>
+        <location filename="ViewMenu.h" line="347"/>
         <source>Fit image to window height</source>
         <translation>Anpassa bild till fönsterhöjd</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="346"/>
+        <location filename="ViewMenu.h" line="348"/>
         <source>Fit image to window width or height</source>
         <translation>Anpassa bild till fönsterbredd eller -höjd</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
-        <location filename="ViewMenu.h" line="329"/>
+        <location filename="ViewMenu.h" line="331"/>
         <source>Free</source>
         <translation>Fri</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="242"/>
+        <location filename="ViewMenu.h" line="244"/>
         <source>Top</source>
         <translation>Överkant</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="317"/>
+        <location filename="ViewMenu.h" line="319"/>
         <source>Image content</source>
         <oldsource>Image</oldsource>
         <translation>Bildinnehåll</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="355"/>
+        <location filename="ViewMenu.h" line="357"/>
         <source>Tag/Untag current</source>
         <translation>Tagga/Avtagga aktuell</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="357"/>
+        <location filename="ViewMenu.h" line="359"/>
         <source>Excellent</source>
         <translation>Utmärkt</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="358"/>
+        <location filename="ViewMenu.h" line="360"/>
         <source>Good</source>
         <translation>Bra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="359"/>
+        <location filename="ViewMenu.h" line="361"/>
         <source>Average</source>
         <translation>Medel</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="360"/>
+        <location filename="ViewMenu.h" line="362"/>
         <source>Fair</source>
         <translation>Godkänd</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="361"/>
+        <location filename="ViewMenu.h" line="363"/>
         <source>Poor</source>
         <translation>Underkänd</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="362"/>
+        <location filename="ViewMenu.h" line="364"/>
         <source>Unrated</source>
         <translation>Oklassificerad</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="380"/>
+        <location filename="ViewMenu.h" line="382"/>
         <source>Uncolored</source>
         <translation>Utan färg</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="343"/>
+        <location filename="ViewMenu.h" line="345"/>
         <source>Fit image to window, small only</source>
         <translation>Anpassa bild till fönster, endast små</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="330"/>
+        <location filename="ViewMenu.h" line="332"/>
         <source>Same as image</source>
         <translation>Samma som bild</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="223"/>
+        <location filename="ViewMenu.h" line="225"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
         <translation>RGB→RBG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="224"/>
+        <location filename="ViewMenu.h" line="226"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
         <translation>RGB→BGR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="225"/>
+        <location filename="ViewMenu.h" line="227"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
         <translation>RGB→BRG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="226"/>
+        <location filename="ViewMenu.h" line="228"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
         <translation>RGB→GRB</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="227"/>
+        <location filename="ViewMenu.h" line="229"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
         <translation>RGB→GBR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="232"/>
+        <location filename="ViewMenu.h" line="234"/>
         <source>Red</source>
         <translation>Röd</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="233"/>
+        <location filename="ViewMenu.h" line="235"/>
         <source>Green</source>
         <translation>Grön</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="234"/>
+        <location filename="ViewMenu.h" line="236"/>
         <source>Blue</source>
         <translation>Blå</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="235"/>
+        <location filename="ViewMenu.h" line="237"/>
         <source>Alpha</source>
         <translation>Alfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="240"/>
+        <location filename="ViewMenu.h" line="242"/>
         <source>Left</source>
         <oldsource>To the left</oldsource>
         <translation>Vänster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="241"/>
+        <location filename="ViewMenu.h" line="243"/>
         <source>Right</source>
         <oldsource>To the right</oldsource>
         <translation>Höger</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="243"/>
+        <location filename="ViewMenu.h" line="245"/>
         <source>Bottom</source>
         <oldsource>To the bottom</oldsource>
         <translation>Underkant</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="290"/>
+        <location filename="ViewMenu.h" line="292"/>
         <source>Open...</source>
         <translation>Öppna...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="291"/>
+        <location filename="ViewMenu.h" line="293"/>
         <source>Open with</source>
         <translation>Öppna med</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="292"/>
+        <location filename="ViewMenu.h" line="294"/>
         <source>Recent files</source>
         <translation>Tidigare filer</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="293"/>
+        <location filename="ViewMenu.h" line="295"/>
         <source>Browse</source>
         <translation>Bläddra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="294"/>
+        <location filename="ViewMenu.h" line="296"/>
         <source>Format settings...</source>
         <translation>Formatinställningar...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="298"/>
+        <location filename="ViewMenu.h" line="300"/>
         <source>Open in Finder</source>
         <translation>Öppna i Finder</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="300"/>
+        <location filename="ViewMenu.h" line="302"/>
         <source>Open in file explorer</source>
         <translation>Öppna i filhanterare</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="302"/>
+        <location filename="ViewMenu.h" line="304"/>
         <source>Reload</source>
         <translation>Uppdatera</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="303"/>
+        <location filename="ViewMenu.h" line="305"/>
         <source>Save</source>
         <translation>Spara</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="304"/>
+        <location filename="ViewMenu.h" line="306"/>
         <source>Save as...</source>
         <translation>Spara som...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="306"/>
+        <location filename="ViewMenu.h" line="308"/>
         <source>Save selection...</source>
         <translation>Spara markerat...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="307"/>
+        <location filename="ViewMenu.h" line="309"/>
         <source>Print...</source>
         <translation>Skriv ut...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="308"/>
+        <location filename="ViewMenu.h" line="310"/>
         <source>Print selection...</source>
         <translation>Skriv ut markerat...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="309"/>
+        <location filename="ViewMenu.h" line="311"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="311"/>
+        <location filename="ViewMenu.h" line="313"/>
         <source>Undo</source>
         <translation>Ångra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="312"/>
+        <location filename="ViewMenu.h" line="314"/>
         <source>Redo</source>
         <translation>Upprepa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="313"/>
+        <location filename="ViewMenu.h" line="315"/>
         <source>Cut</source>
         <translation>Klipp ut</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="314"/>
+        <location filename="ViewMenu.h" line="316"/>
         <source>Copy</source>
         <translation>Kopiera</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="315"/>
+        <location filename="ViewMenu.h" line="317"/>
         <source>Paste</source>
         <translation>Klistra in</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="318"/>
+        <location filename="ViewMenu.h" line="320"/>
         <source>Path</source>
         <translation>Sökväg</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="319"/>
+        <location filename="ViewMenu.h" line="321"/>
         <source>Filename</source>
         <translation>Filnamn</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="320"/>
+        <location filename="ViewMenu.h" line="322"/>
         <source>Filename and path</source>
         <translation>Filnamn och sökväg</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="321"/>
+        <location filename="ViewMenu.h" line="323"/>
         <source>Background color...</source>
         <translation>Bakgrundsfärg...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="322"/>
+        <location filename="ViewMenu.h" line="324"/>
         <source>Crop...</source>
         <oldsource>Crop</oldsource>
         <translation>Beskär...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="323"/>
+        <location filename="ViewMenu.h" line="325"/>
         <source>Add text...</source>
         <translation>Lägg till text...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="324"/>
+        <location filename="ViewMenu.h" line="326"/>
         <source>Add watermark...</source>
         <oldsource>Watermark...</oldsource>
         <translation>Lägg till vattenstämpel...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="325"/>
+        <location filename="ViewMenu.h" line="327"/>
         <source>Spotlight...</source>
         <translation>Strålkastare...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="326"/>
+        <location filename="ViewMenu.h" line="328"/>
         <source>Red-Eye correction</source>
         <oldsource>Red-Eyes reduction</oldsource>
         <translation>Röda ögon-korrigering</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="332"/>
+        <location filename="ViewMenu.h" line="334"/>
         <source>Select all</source>
         <translation>Markera alla</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="333"/>
+        <location filename="ViewMenu.h" line="335"/>
         <source>Select none</source>
         <translation>Avmarkera alla</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="334"/>
+        <location filename="ViewMenu.h" line="336"/>
         <source>Selection - swap width &amp;&amp; height</source>
         <translation>Markering - Växla höjd &amp;&amp; bredd</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="335"/>
+        <location filename="ViewMenu.h" line="337"/>
         <source>Save selection</source>
         <translation>Spara markerat</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="336"/>
+        <location filename="ViewMenu.h" line="338"/>
         <source>Restore selection</source>
         <translation>Återställ markerat</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="337"/>
+        <location filename="ViewMenu.h" line="339"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
         <translation>Markering - Inställt förhållande</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="338"/>
+        <location filename="ViewMenu.h" line="340"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
         <translation>Markering - Inställd storlek</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="347"/>
+        <location filename="ViewMenu.h" line="349"/>
         <source>Fit window to image</source>
         <translation>Anpassa fönster till bild</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="348"/>
+        <location filename="ViewMenu.h" line="350"/>
         <source>Fit image to desktop</source>
         <translation>Anpassa bild till skrivbord</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="350"/>
+        <location filename="ViewMenu.h" line="352"/>
         <source>Copy to...</source>
         <translation>Kopiera till...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="351"/>
+        <location filename="ViewMenu.h" line="353"/>
         <source>Move to...</source>
         <translation>Flytta till...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="352"/>
+        <location filename="ViewMenu.h" line="354"/>
         <source>Delete...</source>
         <translation>Ta bort...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="353"/>
+        <location filename="ViewMenu.h" line="355"/>
         <source>Rename...</source>
         <translation>Byt namn...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="481"/>
+        <location filename="ViewMenu.h" line="483"/>
         <source>Remove Background</source>
         <translation>Ta bort bakgrund</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="484"/>
+        <location filename="ViewMenu.h" line="486"/>
         <source>Rotate 90° right</source>
         <translation>Rotera 90° höger</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="396"/>
+        <location filename="ViewMenu.h" line="398"/>
         <source>Previous file</source>
         <translation>Föregående fil</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="397"/>
+        <location filename="ViewMenu.h" line="399"/>
         <source>Next file</source>
         <translation>Nästa fil</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="398"/>
+        <location filename="ViewMenu.h" line="400"/>
         <source>First file</source>
         <translation>Första filen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="399"/>
+        <location filename="ViewMenu.h" line="401"/>
         <source>Last file</source>
         <translation>Sista filen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="400"/>
+        <location filename="ViewMenu.h" line="402"/>
         <source>Random file</source>
         <translation>Slumpmässig fil</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="401"/>
+        <location filename="ViewMenu.h" line="403"/>
         <source>Previous page</source>
         <translation>Föregående sida</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="402"/>
+        <location filename="ViewMenu.h" line="404"/>
         <source>Next page</source>
         <translation>Nästa sida</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="403"/>
+        <location filename="ViewMenu.h" line="405"/>
         <source>First page</source>
         <translation>Första sidan</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="404"/>
+        <location filename="ViewMenu.h" line="406"/>
         <source>Last page</source>
         <translation>Sista sidan</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="407"/>
+        <location filename="ViewMenu.h" line="410"/>
         <source>Quick Slideshow</source>
         <translation>Snabbt bildspel</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="409"/>
+        <location filename="ViewMenu.h" line="412"/>
         <source>Fullscreen</source>
         <translation>Helskärm</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="410"/>
+        <location filename="ViewMenu.h" line="413"/>
         <source>Real size</source>
         <translation>Verklig storlek</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="411"/>
+        <location filename="ViewMenu.h" line="414"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="412"/>
+        <location filename="ViewMenu.h" line="415"/>
         <source>Zoom in</source>
         <translation>Zooma in</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="413"/>
+        <location filename="ViewMenu.h" line="416"/>
         <source>Zoom out</source>
         <translation>Zooma ut</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="414"/>
+        <location filename="ViewMenu.h" line="417"/>
         <source>Lock zoom</source>
         <translation>Lås zoom</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="417"/>
+        <location filename="ViewMenu.h" line="420"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="418"/>
+        <location filename="ViewMenu.h" line="421"/>
         <source>File</source>
         <translation>Arkiv</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="419"/>
+        <location filename="ViewMenu.h" line="422"/>
         <source>Page</source>
         <translation>Sida</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="420"/>
+        <location filename="ViewMenu.h" line="423"/>
         <source>Navigate to</source>
         <translation>Navigera till</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="421"/>
+        <location filename="ViewMenu.h" line="424"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Använd transparensindex (≤ 8bitar)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="422"/>
+        <location filename="ViewMenu.h" line="425"/>
         <source>Use alpha channel</source>
         <translation>Använd alfakanal</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="423"/>
+        <location filename="ViewMenu.h" line="426"/>
         <source>Show alpha</source>
         <translation>Visa alfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="424"/>
+        <location filename="ViewMenu.h" line="427"/>
         <source>Show red</source>
         <translation>Visa röd</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="425"/>
+        <location filename="ViewMenu.h" line="428"/>
         <source>Show green</source>
         <translation>Visa grön</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="426"/>
+        <location filename="ViewMenu.h" line="429"/>
         <source>Show blue</source>
         <translation>Visa blå</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="427"/>
+        <location filename="ViewMenu.h" line="430"/>
         <source>Show grid</source>
         <translation>Visa stödlinjer</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="428"/>
+        <location filename="ViewMenu.h" line="431"/>
         <source>Grid settings...</source>
         <translation>Stödlinjeinställningar...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="429"/>
+        <location filename="ViewMenu.h" line="432"/>
         <source>Show information</source>
         <translation>Visa information</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="430"/>
+        <location filename="ViewMenu.h" line="433"/>
         <source>Show histogram</source>
         <translation>Visa histogram</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="431"/>
+        <location filename="ViewMenu.h" line="434"/>
         <source>Start/stop animation</source>
         <translation>Starta/stoppa animation</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="432"/>
+        <location filename="ViewMenu.h" line="435"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
         <translation>Rita som ögonblicksbild (endast ikoner)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="433"/>
+        <location filename="ViewMenu.h" line="436"/>
         <source>Show colour information</source>
         <translation>Visa färginformation</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="435"/>
+        <location filename="ViewMenu.h" line="438"/>
         <source>Toolbar</source>
         <oldsource>Use toolbar</oldsource>
         <translation>Verktygsfält</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="436"/>
+        <location filename="ViewMenu.h" line="439"/>
         <source>Status bar</source>
         <oldsource>Use statusbar</oldsource>
         <translation>Statusfält</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="437"/>
+        <location filename="ViewMenu.h" line="407"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
         <translation>Panorera till koordinater...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="438"/>
+        <location filename="ViewMenu.h" line="440"/>
         <source>Show people&apos;s region</source>
         <translation>Visa folkregion</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="439"/>
+        <location filename="ViewMenu.h" line="441"/>
         <source>High zoom quality</source>
         <translation>Hög zoomkvalitet</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="440"/>
+        <location filename="ViewMenu.h" line="442"/>
         <source>Use checkerboard pattern</source>
         <translation>Använd schackrutigt mönster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="442"/>
+        <location filename="ViewMenu.h" line="444"/>
         <source>Export...</source>
         <translation>Exportera...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="443"/>
+        <location filename="ViewMenu.h" line="445"/>
         <source>Batch convert...</source>
         <translation>Konvertera flera...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="728"/>
+        <location filename="ViewMenu.h" line="729"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation>Meta&amp;data</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="729"/>
+        <location filename="ViewMenu.h" line="730"/>
         <source>Effect</source>
         <translation>Effekt</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="449"/>
+        <location filename="ViewMenu.h" line="451"/>
         <source>Set as wallpaper...</source>
         <translation>Använd som skrivbordsbakgrund...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="305"/>
+        <location filename="ViewMenu.h" line="307"/>
         <source>Save a copy...</source>
         <translation>Spara en kopia...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="316"/>
+        <location filename="ViewMenu.h" line="318"/>
         <source>Clear selection</source>
         <translation>Rensa markerat</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="364"/>
+        <location filename="ViewMenu.h" line="366"/>
         <source>Excellent (go to next image)</source>
         <translation>Utmärkt (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="365"/>
+        <location filename="ViewMenu.h" line="367"/>
         <source>Good (go to next image)</source>
         <translation>Bra (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="366"/>
+        <location filename="ViewMenu.h" line="368"/>
         <source>Average (go to next image)</source>
         <translation>Medel (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="367"/>
+        <location filename="ViewMenu.h" line="369"/>
         <source>Fair (go to next image)</source>
         <translation>Rimlig (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="368"/>
+        <location filename="ViewMenu.h" line="370"/>
         <source>Poor (go to next image)</source>
         <translation>Underkänd (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="369"/>
+        <location filename="ViewMenu.h" line="371"/>
         <source>Unrated (go to next image)</source>
         <translation>Oklassificerad (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="382"/>
+        <location filename="ViewMenu.h" line="384"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (gå till nästa bild)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="393"/>
+        <location filename="ViewMenu.h" line="395"/>
         <source>Set Rating</source>
         <translation>Ange betyg</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="394"/>
+        <location filename="ViewMenu.h" line="396"/>
         <source>Set Color label</source>
         <translation>Ange färgetikett</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="450"/>
+        <location filename="ViewMenu.h" line="452"/>
         <source>Properties...</source>
         <translation>Egenskaper...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="451"/>
+        <location filename="ViewMenu.h" line="453"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Redigera kommentar...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="452"/>
+        <location filename="ViewMenu.h" line="454"/>
         <source>Draw...</source>
         <translation>Rita upp...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="453"/>
+        <location filename="ViewMenu.h" line="455"/>
         <source>Set DPI...</source>
         <translation>Ange DPI...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="454"/>
+        <location filename="ViewMenu.h" line="456"/>
         <source>Send by FTP...</source>
         <translation>Skicka via FTP...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="456"/>
+        <location filename="ViewMenu.h" line="458"/>
         <source>Change color depth...</source>
         <translation>Ändra färgdjup...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="457"/>
+        <location filename="ViewMenu.h" line="459"/>
         <source>Automatic levels</source>
         <translation>Autonivåer</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="458"/>
+        <location filename="ViewMenu.h" line="460"/>
         <source>Automatic contrast</source>
         <translation>Autokontrast</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="459"/>
+        <location filename="ViewMenu.h" line="461"/>
         <source>Negative</source>
         <translation>Negativ</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="460"/>
+        <location filename="ViewMenu.h" line="462"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation>Logaritmisk LUT</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="461"/>
+        <location filename="ViewMenu.h" line="463"/>
         <source>Normalize</source>
         <translation>Normalisera</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="462"/>
+        <location filename="ViewMenu.h" line="464"/>
         <source>Equalize</source>
         <translation>Utjämna</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="463"/>
+        <location filename="ViewMenu.h" line="465"/>
         <source>Solarize...</source>
         <translation>Solarisera...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="464"/>
+        <location filename="ViewMenu.h" line="466"/>
         <source>Posterize...</source>
         <translation>Färgreduktion...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="465"/>
+        <location filename="ViewMenu.h" line="467"/>
         <source>Sepia...</source>
         <translation>Sepia...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="466"/>
+        <location filename="ViewMenu.h" line="468"/>
         <source>Old camera...</source>
         <translation>Gammal kamera...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="467"/>
+        <location filename="ViewMenu.h" line="469"/>
         <source>Vignetting...</source>
         <translation>Vinjettering...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="468"/>
+        <location filename="ViewMenu.h" line="470"/>
         <source>Enhance colors...</source>
         <translation>Förbättra färger...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="469"/>
+        <location filename="ViewMenu.h" line="471"/>
         <source>Levels...</source>
         <translation>Nivåer...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="471"/>
+        <location filename="ViewMenu.h" line="473"/>
         <source>User filter...</source>
         <translation>Användarfilter...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="472"/>
+        <location filename="ViewMenu.h" line="474"/>
         <source>Shadow/Highlight...</source>
         <translation>Skugga/Högdager...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="476"/>
+        <location filename="ViewMenu.h" line="478"/>
         <source>Film simulation...</source>
         <translation>Filmsimulering...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="477"/>
+        <location filename="ViewMenu.h" line="479"/>
         <source>Curves...</source>
         <translation>Kurvor...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="478"/>
+        <location filename="ViewMenu.h" line="480"/>
         <source>Desaturate</source>
         <translation>Avmätta</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="479"/>
+        <location filename="ViewMenu.h" line="481"/>
         <source>Offset...</source>
         <translation>Förskjutning...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="480"/>
+        <location filename="ViewMenu.h" line="482"/>
         <source>White Balance...</source>
         <translation>Vitbalans...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="482"/>
+        <location filename="ViewMenu.h" line="484"/>
         <source>Automatic crop...</source>
         <translation>Automatisk beskärning...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="487"/>
+        <location filename="ViewMenu.h" line="489"/>
         <source>Rotate...</source>
         <translation>Rotera...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="490"/>
+        <location filename="ViewMenu.h" line="492"/>
         <source>Automatic Deskew</source>
         <translation>Automatisk snedhetskorrigering</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="491"/>
+        <location filename="ViewMenu.h" line="493"/>
         <source>Remove alpha channel</source>
         <translation>Ta bort alfakanal</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="493"/>
+        <location filename="ViewMenu.h" line="495"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
         <translation>Ändra storlek...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="494"/>
+        <location filename="ViewMenu.h" line="496"/>
         <source>Canvas resize...</source>
         <translation>Ändra arbetsytans storlek...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="495"/>
+        <location filename="ViewMenu.h" line="497"/>
         <source>Map</source>
         <translation>Karta</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="496"/>
+        <location filename="ViewMenu.h" line="498"/>
         <source>Adjust</source>
         <translation>Justera</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="497"/>
+        <location filename="ViewMenu.h" line="499"/>
         <source>Rotate</source>
         <translation>Rotera</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="498"/>
+        <location filename="ViewMenu.h" line="500"/>
         <source>Mirror</source>
         <translation>Spegla</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="499"/>
+        <location filename="ViewMenu.h" line="501"/>
         <source>Count colors used</source>
         <translation>Antal använda färger</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="500"/>
+        <location filename="ViewMenu.h" line="502"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
         <translation>Växla färg</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="501"/>
+        <location filename="ViewMenu.h" line="503"/>
         <source>Extract channel</source>
         <translation>Extrahera kanal</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="502"/>
+        <location filename="ViewMenu.h" line="504"/>
         <source>Copy to clipboard</source>
         <translation>Kopiera till urklipp</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="503"/>
+        <location filename="ViewMenu.h" line="505"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
         <translation>Klistra in utanför</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="505"/>
+        <location filename="ViewMenu.h" line="507"/>
         <source>Adobe Photoshop Plugin...</source>
         <translation>Adobe Photoshop-instick...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="508"/>
+        <location filename="ViewMenu.h" line="510"/>
         <source>Edit IPTC...</source>
         <translation>Redigera IPTC...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="509"/>
+        <location filename="ViewMenu.h" line="511"/>
         <source>Edit XMP...</source>
         <translation>Redigera XMP...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="511"/>
+        <location filename="ViewMenu.h" line="513"/>
         <source>Clean metadata...</source>
         <translation>Ta bort metadata...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="512"/>
+        <location filename="ViewMenu.h" line="514"/>
         <source>Join images...</source>
         <translation>Slå samman bilder...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="513"/>
+        <location filename="ViewMenu.h" line="515"/>
         <source>Contact sheet...</source>
         <translation>Kontaktark...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="514"/>
+        <location filename="ViewMenu.h" line="516"/>
         <source>Slideshow...</source>
         <translation>Bildspel...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="515"/>
+        <location filename="ViewMenu.h" line="517"/>
         <source>Send by email...</source>
         <translation>Skicka via e-post...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="517"/>
+        <location filename="ViewMenu.h" line="519"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Rotera 90° höger (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="518"/>
+        <location filename="ViewMenu.h" line="520"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Rotera 90° vänster (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="519"/>
+        <location filename="ViewMenu.h" line="521"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Rotera 180° (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="522"/>
+        <location filename="ViewMenu.h" line="524"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Vänd horisontellt (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="523"/>
+        <location filename="ViewMenu.h" line="525"/>
         <source>Flip vertically (lossless)</source>
         <translation>Vänd vertikalt (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="524"/>
+        <location filename="ViewMenu.h" line="526"/>
         <source>Crop (lossless)</source>
         <translation>Beskär (förlustfritt)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="528"/>
+        <location filename="ViewMenu.h" line="530"/>
         <source>Paste as image</source>
         <translation>Klistra in som bild</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="532"/>
+        <location filename="ViewMenu.h" line="534"/>
         <source>Acquire (TWAIN)</source>
         <translation>Hämta (TWAIN)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="533"/>
+        <location filename="ViewMenu.h" line="535"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
         <translation>Hämta till (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="536"/>
+        <location filename="ViewMenu.h" line="538"/>
         <source>Save All</source>
         <translation>Spara alla</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="510"/>
+        <location filename="ViewMenu.h" line="512"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
         <translation>Redigera färgkarta...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="448"/>
+        <location filename="ViewMenu.h" line="450"/>
         <source>Open GPS location in</source>
         <translation>Öppna GPS-plats i</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="470"/>
+        <location filename="ViewMenu.h" line="472"/>
         <source>Effect...</source>
         <translation>Effekt...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="485"/>
+        <location filename="ViewMenu.h" line="487"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
         <translation>Rotera 180°</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="486"/>
+        <location filename="ViewMenu.h" line="488"/>
         <source>Rotate 90° left</source>
         <translation>Rotera 90° vänster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="488"/>
+        <location filename="ViewMenu.h" line="490"/>
         <source>Flip horizontally</source>
         <translation>Vänd horisontellt</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="489"/>
+        <location filename="ViewMenu.h" line="491"/>
         <source>Flip vertically</source>
         <translation>Vänd vertikalt</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="520"/>
+        <location filename="ViewMenu.h" line="522"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Rotera bilder baserat på orienteringsfältet i EXIF</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="521"/>
+        <location filename="ViewMenu.h" line="523"/>
         <source>Reset EXIF orientation field</source>
         <translation>Återställ orienteringsfältet i EXIF</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="525"/>
+        <location filename="ViewMenu.h" line="527"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Förlustfria-omvandlingar (JPEG)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="527"/>
+        <location filename="ViewMenu.h" line="529"/>
         <source>Capture...</source>
         <translation>Skärmklipp...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="529"/>
+        <location filename="ViewMenu.h" line="531"/>
         <source>Empty tab...</source>
         <translation>Tom flik...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="531"/>
+        <location filename="ViewMenu.h" line="533"/>
         <source>Select TWAIN source...</source>
         <translation>Välj TWAIN-källa...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="535"/>
+        <location filename="ViewMenu.h" line="537"/>
         <source>New image...</source>
         <translation>Ny bild...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="724"/>
+        <location filename="ViewMenu.h" line="725"/>
         <source>&amp;File</source>
         <translation>&amp;Arkiv</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="725"/>
+        <location filename="ViewMenu.h" line="726"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>&amp;Redigera</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="726"/>
+        <location filename="ViewMenu.h" line="727"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>&amp;Visa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="727"/>
+        <location filename="ViewMenu.h" line="728"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Bild</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="730"/>
+        <location filename="ViewMenu.h" line="731"/>
         <source>&amp;Tools</source>
         <translation>V&amp;erktyg</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="731"/>
+        <location filename="ViewMenu.h" line="732"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>&amp;Hjälp</translation>
@@ -21729,66 +21704,66 @@ Vill du fortsätta?</translation>
         <translation>Spara som</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="223"/>
+        <location filename="DlgSettingsView.cpp" line="219"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Left</source>
         <translation>Vänster överkant</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="224"/>
+        <location filename="DlgSettingsView.cpp" line="220"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Top-Center</source>
         <translation>Centrum överkant</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="225"/>
+        <location filename="DlgSettingsView.cpp" line="221"/>
         <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Top-Right</source>
         <translation>Höger överkant</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="226"/>
+        <location filename="DlgSettingsView.cpp" line="222"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Left</source>
         <translation>Centrum vänster</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="227"/>
+        <location filename="DlgSettingsView.cpp" line="223"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Center</source>
         <translation>Centrum</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="228"/>
+        <location filename="DlgSettingsView.cpp" line="224"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Center-Right</source>
         <translation>Centrum höger</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="229"/>
+        <location filename="DlgSettingsView.cpp" line="225"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Left</source>
         <translation>Vänster underkan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="230"/>
+        <location filename="DlgSettingsView.cpp" line="226"/>
         <location filename="DlgSlideshow.cpp" line="52"/>
         <source>Bottom-Center</source>
         <translation>Centrum underkant</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="231"/>
+        <location filename="DlgSettingsView.cpp" line="227"/>
         <location filename="DlgSlideshow.cpp" line="53"/>
         <source>Bottom-Right</source>
         <translation>Höger underkant</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1003"/>
+        <location filename="DlgSettingsInterface.cpp" line="1006"/>
         <source>Choose command</source>
         <translation>Välj kommando</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1035"/>
+        <location filename="DlgSettingsInterface.cpp" line="1038"/>
         <source>Choose icon</source>
         <translation>Välj ikon</translation>
     </message>
@@ -21799,7 +21774,7 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="18"/>
-        <location filename="DlgSettingsView.cpp" line="271"/>
+        <location filename="DlgSettingsView.cpp" line="267"/>
         <source>Last used</source>
         <translation>Senast använd</translation>
     </message>
@@ -22523,37 +22498,37 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
         <translation>Rita [%1]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="583"/>
+        <location filename="PaintWidget.cpp" line="587"/>
         <source>X: %1, Y: %2</source>
         <translation>X: %1, Y: %2</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="588"/>
+        <location filename="PaintWidget.cpp" line="592"/>
         <source>R: %1, G: %2, B: %3 [#%4]</source>
         <translation>R: %1, G: %2, B: %3 [#%4]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="999"/>
+        <location filename="PaintWidget.cpp" line="1003"/>
         <source>Choose an image</source>
         <translation>Välj en bild</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="999"/>
+        <location filename="PaintWidget.cpp" line="1003"/>
         <source>Images</source>
         <translation>Bilder</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1410"/>
+        <location filename="PaintWidget.cpp" line="1414"/>
         <source>Include color</source>
         <translation>Inkludera färg</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1417"/>
+        <location filename="PaintWidget.cpp" line="1421"/>
         <source>Name:</source>
         <translation>Namn:</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1425"/>
+        <location filename="PaintWidget.cpp" line="1429"/>
         <source>Preset name</source>
         <translation>Förinställningsnamn</translation>
     </message>

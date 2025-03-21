@@ -7788,10 +7788,6 @@ Please make sure that files are not read-only!</source>
 <context>
     <name>DlgReadCRaw</name>
     <message>
-        <source>Use</source>
-        <translation>Օգտագործել</translation>
-    </message>
-    <message>
         <source>Use Automatic white balance</source>
         <translation>Օգտ. սպիտակ գույն</translation>
     </message>
@@ -7808,20 +7804,8 @@ Please make sure that files are not read-only!</source>
         <translation>Օգտ. ապարատի սպիտակ բալանս</translation>
     </message>
     <message>
-        <source>Red scaling</source>
-        <translation>Կարմիր</translation>
-    </message>
-    <message>
         <source>Embedded preview</source>
         <translation>Ներկառուցված դիտում</translation>
-    </message>
-    <message>
-        <source>Blue scaling</source>
-        <translation>Կապույտ</translation>
-    </message>
-    <message>
-        <source>Brightness</source>
-        <translation>Պայծառություն</translation>
     </message>
     <message>
         <source>Automatic brightness</source>
@@ -7834,6 +7818,14 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Convert to sRGB</source>
         <translation>Փոխարկել sRGB-ի</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation type="unfinished">Փոխել</translation>
     </message>
 </context>
 <context>
@@ -7889,11 +7881,11 @@ Please make sure that files are not read-only!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Integer fast</source>
+        <source>Fast integer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Float</source>
+        <source>Floating-point</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10242,14 +10234,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <source>Rating &amp;&amp; Label</source>
-        <translation>Գնահատական և Պիտակ</translation>
-    </message>
-    <message>
-        <source>Export color label in XMP metadata</source>
-        <translation>Արտահանել գույնի պիտակը XMP տեղեկույթում</translation>
-    </message>
-    <message>
         <source>Comment</source>
         <translation>Մեկնաբանություն</translation>
     </message>
@@ -10258,20 +10242,8 @@ Do you want to reassign?</source>
         <translation>Օգտագործեք UTF-8՝ IPTC գրառման համար</translation>
     </message>
     <message>
-        <source>Export rating in XMP metadata</source>
-        <translation>Արտահանել գնահատականը XMP-ով</translation>
-    </message>
-    <message>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>Գրել մեկնաբանություն XMP-ում (dc:նկարագրություն և exif:Օգտվողի մեկնաբանություն)</translation>
-    </message>
-    <message>
-        <source>Create XMP data</source>
-        <translation>Ստեղծել XMP տվյալ</translation>
-    </message>
-    <message>
-        <source>Create IPTC data</source>
-        <translation>Ստեղծել IPTC տվյալ</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.xmp</source>
@@ -10304,10 +10276,6 @@ Do you want to reassign?</source>
     <message>
         <source>Update when file is changed outside (date/size)</source>
         <translation>Արդիացնել, երբ ֆայլը փոխվում է դրսում (ամսաթիվ/չափ)</translation>
-    </message>
-    <message>
-        <source>Import XMP Face tag</source>
-        <translation>Ներմուծել XMP դիմային պիտակ</translation>
     </message>
     <message>
         <source>Embedded comment</source>
@@ -10350,10 +10318,6 @@ Do you want to reassign?</source>
         <translation>Աջակցվող ձևաչափեր</translation>
     </message>
     <message>
-        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
-        <translation>Ինքնաբար ներմուծել XMP:Subject և IPTC:Keywords գրացուցակի անվանակարգերում</translation>
-    </message>
-    <message>
         <source>Write categories into images as hierarchical keywords</source>
         <translation>Գրել անվանակարգերը պատկերներում որպես հիերարխիկ հիմնաբառեր</translation>
     </message>
@@ -10362,16 +10326,44 @@ Do you want to reassign?</source>
         <translation>Ինքնաբար վերագրել ծնող անվանակարգը (Ctrl+կտտոց՝ միյնա ընթացիկի համար)</translation>
     </message>
     <message>
-        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
-        <translation>Արտահանել գրացուցակի անվանակարգերը XMP:Subject and IPTC:Keywords</translation>
-    </message>
-    <message>
         <source>Create or update XMP Sidecar</source>
         <translation>Ստեղծել կամ թարմացնել XMP կողաֆայլը</translation>
     </message>
     <message>
         <source>Color labels</source>
         <translation>Գույնային պիտակներ</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished">Ներմուծել</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished">Արտահանել</translation>
+    </message>
+    <message>
+        <source>Rating</source>
+        <translation type="unfinished">Գնահատական</translation>
+    </message>
+    <message>
+        <source>Color label</source>
+        <translation type="unfinished">Գույնի պիտակ</translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation type="unfinished">Գրացուցակներ</translation>
+    </message>
+    <message>
+        <source>XMP:Subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Face tag</source>
+        <translation type="unfinished">Դիմային պիտակ</translation>
+    </message>
+    <message>
+        <source>IPTC:Keywords</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10658,14 +10650,6 @@ Do you want to reassign?</source>
         <translation>Ընտրվածը օգտագործել որպես խորք</translation>
     </message>
     <message>
-        <source>Half size</source>
-        <translation>Կես չափով</translation>
-    </message>
-    <message>
-        <source>Full size</source>
-        <translation>Ամբողջ չափով</translation>
-    </message>
-    <message>
         <source>Use gamma correction</source>
         <translation>Օգտագործել գամմա ուղղում</translation>
     </message>
@@ -10680,10 +10664,6 @@ Do you want to reassign?</source>
     <message>
         <source>Multipage files</source>
         <translation>Մի քանի ֆայլեր</translation>
-    </message>
-    <message>
-        <source>Camera RAW, use</source>
-        <translation>RAW ապարատ՝</translation>
     </message>
     <message>
         <source>Random</source>
@@ -10736,10 +10716,6 @@ Do you want to reassign?</source>
     <message>
         <source>Read one image ahead</source>
         <translation>Կարդալ պատկերը սկզբից</translation>
-    </message>
-    <message>
-        <source>Embedded preview</source>
-        <translation>Ներկառուցված դիտում</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -12105,14 +12081,6 @@ Do you want to continue?</source>
         <translation>Հարթեցման գործակիցը</translation>
     </message>
     <message>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2х1, 1x1, 1x1 (4:2:2)</translation>
-    </message>
-    <message>
-        <source>Float (best but slowest)</source>
-        <translation>Ընդունելի (լավագույն որակ, բայց դանդաղ)</translation>
-    </message>
-    <message>
         <source>Use estimated quality (when possible)</source>
         <translation>Օգտագործել գնահատված որակ (երբ հնարավոր է)</translation>
     </message>
@@ -12123,14 +12091,6 @@ Do you want to continue?</source>
     <message>
         <source>DCT Method</source>
         <translation>DCT մեթոդ</translation>
-    </message>
-    <message>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1, 1x1, 1x1 (լավագույն որակ)</translation>
-    </message>
-    <message>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2х2, 1x1, 1x1 (ըստ ծրագրայինի)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -12161,12 +12121,28 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Integer fast (worst but faster)</source>
+        <source>Subsampling</source>
+        <translation type="unfinished">Ենթանմուշառում</translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but faster)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Subsampling</source>
-        <translation type="unfinished">Ենթանմուշառում</translation>
+        <source>Floating-point (best but slowest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:2:2 (2x1,1x1,1x1)</source>
+        <translation type="unfinished">2х1, 1x1, 1x1 (4:2:2) {4:2:2 (2x?} {1,1x?} {1,1x?} {1)?}</translation>
+    </message>
+    <message>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

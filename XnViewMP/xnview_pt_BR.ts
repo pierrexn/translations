@@ -7761,10 +7761,6 @@ Please make sure that files are not read-only!</source>
 <context>
     <name>DlgReadCRaw</name>
     <message>
-        <source>Use</source>
-        <translation>Usar</translation>
-    </message>
-    <message>
         <source>Embedded preview</source>
         <translation>Previsão embutida</translation>
     </message>
@@ -7789,24 +7785,20 @@ Please make sure that files are not read-only!</source>
         <translation>Brilho automático</translation>
     </message>
     <message>
-        <source>Brightness</source>
-        <translation>Brilho</translation>
-    </message>
-    <message>
-        <source>Red scaling</source>
-        <translation>Escala de vermelho</translation>
-    </message>
-    <message>
-        <source>Blue scaling</source>
-        <translation>Escala de azul</translation>
-    </message>
-    <message>
         <source>Use Embedded color matrix</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert to sRGB</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Visualizar</translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation type="unfinished">Converter</translation>
     </message>
 </context>
 <context>
@@ -7862,11 +7854,11 @@ Please make sure that files are not read-only!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Integer fast</source>
+        <source>Fast integer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Float</source>
+        <source>Floating-point</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10194,18 +10186,6 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <source>Rating &amp;&amp; Label</source>
-        <translation>Pontuação &amp;&amp; Etiqueta</translation>
-    </message>
-    <message>
-        <source>Export rating in XMP metadata</source>
-        <translation>Exportar a pontuação em metadados XMP</translation>
-    </message>
-    <message>
-        <source>Export color label in XMP metadata</source>
-        <translation>Exportar cor da etiqueta nos metadados XMP</translation>
-    </message>
-    <message>
         <source>Comment</source>
         <translation>Comentário</translation>
     </message>
@@ -10216,14 +10196,6 @@ Do you want to reassign?</source>
     <message>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>Escrever comentário em XMP (dc:Descrição e exif:Comentários do usuário)</translation>
-    </message>
-    <message>
-        <source>Create XMP data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create IPTC data</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;filename&gt;.xmp</source>
@@ -10255,10 +10227,6 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Update when file is changed outside (date/size)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import XMP Face tag</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10302,10 +10270,6 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Automatically import XMP:Subject and IPTC:Keywords to Catalog&apos;s Categories</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Write categories into images as hierarchical keywords</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10314,15 +10278,43 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Catalog&apos;s Categories to XMP:Subject and IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Create or update XMP Sidecar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished">Importar</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished">Exportar</translation>
+    </message>
+    <message>
+        <source>Rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color label</source>
+        <translation type="unfinished">Cor da etiqueta</translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation type="unfinished">Categorias</translation>
+    </message>
+    <message>
+        <source>XMP:Subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Face tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IPTC:Keywords</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10664,22 +10656,6 @@ Do you want to reassign?</source>
     <message>
         <source>Opacity</source>
         <translation>Opacidade</translation>
-    </message>
-    <message>
-        <source>Camera RAW, use</source>
-        <translation>Câmera RAW, use</translation>
-    </message>
-    <message>
-        <source>Embedded preview</source>
-        <translation>Previsão embutida</translation>
-    </message>
-    <message>
-        <source>Half size</source>
-        <translation>Metade do tamanho</translation>
-    </message>
-    <message>
-        <source>Full size</source>
-        <translation>Tamanho inteiro</translation>
     </message>
     <message>
         <source>Text color</source>
@@ -12071,24 +12047,8 @@ Do you want to continue?</source>
         <translation>Método DCT</translation>
     </message>
     <message>
-        <source>Float (best but slowest)</source>
-        <translation>Flutuante (melhor mas um pouco mais lento)</translation>
-    </message>
-    <message>
         <source>Smoothing factor</source>
         <translation>Fator de refinamento</translation>
-    </message>
-    <message>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (padrão)</translation>
-    </message>
-    <message>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1,1x1,1x1 (4:2:2)</translation>
-    </message>
-    <message>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1,1x1 (melhor qualidade)</translation>
     </message>
     <message>
         <source>Use estimated quality (when possible)</source>
@@ -12111,11 +12071,27 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Integer fast (worst but faster)</source>
+        <source>Subsampling</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Subsampling</source>
+        <source>Fast integer (worst but faster)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating-point (best but slowest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:2:2 (2x1,1x1,1x1)</source>
+        <translation type="unfinished">2x1,1x1,1x1 (4:2:2) {4:2:2 (2x?} {1,1x?} {1,1x?} {1)?}</translation>
+    </message>
+    <message>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
