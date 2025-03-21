@@ -9990,7 +9990,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10013,7 +10013,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="65"/>
         <source>Convert</source>
-        <translation type="unfinished">Convertir</translation>
+        <translation>Convertir</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="106"/>
@@ -10108,13 +10108,13 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished">Entier rapide</translation>
+        <translation>Entier rapide</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished">Flottant</translation>
+        <translation>Flottant</translation>
     </message>
 </context>
 <context>
@@ -13361,27 +13361,27 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">Importer</translation>
+        <translation>Importer</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">Exporter</translation>
+        <translation>Exporter</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished">Note</translation>
+        <translation>Note</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished">Libellé de couleur</translation>
+        <translation>Libellé de couleur</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished">Catégories</translation>
+        <translation>Catégories</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="121"/>
@@ -13391,7 +13391,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">Champ Face</translation>
+        <translation>Champ Face</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
@@ -15646,13 +15646,13 @@ Voulez-vous continuer?</translation>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but faster)</source>
         <oldsource>Integer fast (worst but faster)</oldsource>
-        <translation type="unfinished">Entier rapide (mauvaise)</translation>
+        <translation>Entier rapide (mauvaise)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Flottante (meilleure mais lente)</translation>
+        <translation>Flottant (meilleure mais lente)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15678,19 +15678,19 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) plus petit fichier</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="206"/>
         <source>4:2:2 (2x1,1x1,1x1)</source>
         <oldsource>2x1,1x1,1x1 (4:2:2)</oldsource>
-        <translation type="unfinished">2x1,1x1,1x1 (4:2:2) {4:2:2 (2x?} {1,1x?} {1,1x?} {1)?}</translation>
+        <translation>4:2:2 (2x1,1x1,1x1)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (meilleure qualité)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) meilleure qualité</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="236"/>
