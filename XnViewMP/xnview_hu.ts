@@ -9974,7 +9974,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished">Nézet</translation>
+        <translation>Nézet</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -9997,7 +9997,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="65"/>
         <source>Convert</source>
-        <translation type="unfinished">Konvertálás</translation>
+        <translation>Konvertálás</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="106"/>
@@ -13280,27 +13280,27 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">Importálás</translation>
+        <translation>Importálás</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">Exportálás</translation>
+        <translation>Exportálás</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished">Értékelés</translation>
+        <translation>Értékelés</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished">Színcímke</translation>
+        <translation>Színcímke</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished">Kategóriák</translation>
+        <translation>Kategóriák</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="121"/>
@@ -13310,7 +13310,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">Arcmegjelölés</translation>
+        <translation>Arcmegjelölés</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
@@ -15663,13 +15663,13 @@ Biztos folytassuk?</translation>
         <location filename="DlgWriteJPEG.ui" line="206"/>
         <source>4:2:2 (2x1,1x1,1x1)</source>
         <oldsource>2x1,1x1,1x1 (4:2:2)</oldsource>
-        <translation type="unfinished">2x1,1x1,1x1 (4:2:2)</translation>
+        <translation>4:2:2 (2x1,1x1,1x1)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (legjobb minőség)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) legjobb minőség</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="236"/>
@@ -16818,17 +16818,17 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Minden mező (szám)</translation>
+        <translation>Minden mező (szám)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">Mező</translation>
+        <translation>Mező</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">Mező (szám)</translation>
+        <translation>Mező (szám)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
