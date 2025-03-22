@@ -10092,13 +10092,13 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished">Gyors egész-szám</translation>
+        <translation>Gyors egész-szám</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished">Lebegőpontos szám</translation>
+        <translation>Lebegőpontos</translation>
     </message>
 </context>
 <context>
@@ -13305,7 +13305,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="121"/>
         <source>XMP:Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP:Tárgy</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
@@ -13315,7 +13315,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC:Kulcsszavak</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -15625,13 +15625,13 @@ Biztos folytassuk?</translation>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but faster)</source>
         <oldsource>Integer fast (worst but faster)</oldsource>
-        <translation type="unfinished">Gyors (legrosszabb, de leggyorsabb)</translation>
+        <translation>Gyors egész-szám (a legrosszabb, de gyorsabb)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Lebegőpontos (legjobb, de leglassabb)</translation>
+        <translation>Lebegőpontos (legjobb, de leglassabb)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15642,7 +15642,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Almintavételezési faktor</translation>
+        <translation>Almintavételezés</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
@@ -15652,12 +15652,12 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished">Egész szám</translation>
+        <translation>Egész szám</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) legkisebb fájl</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="206"/>
