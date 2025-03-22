@@ -12150,7 +12150,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation>Cel mai mic fișier 4:2:0 (2x2,1x1,1x1)</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) Cel mai mic fișier</translation>
     </message>
     <message>
         <source>4:2:2 (2x1,1x1,1x1)</source>
@@ -12158,7 +12158,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
-        <translation>Cea mai bună calitate 4:4:4 (1x1,1x1,1x1)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) Cea mai bună calitate</translation>
     </message>
 </context>
 <context>
