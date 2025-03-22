@@ -12143,7 +12143,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
-        <translation type="unfinished"></translation>
+        <translation>4:4:4 (1x1,1x1,1x1) mejor calidad</translation>
     </message>
 </context>
 <context>
