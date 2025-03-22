@@ -15697,13 +15697,13 @@ Chcette pokračovať?</translation>
         <location filename="DlgWriteJPEG.ui" line="206"/>
         <source>4:2:2 (2x1,1x1,1x1)</source>
         <oldsource>2x1,1x1,1x1 (4:2:2)</oldsource>
-        <translation type="unfinished">2x1,1x1,1x1 (4:2:2)</translation>
+        <translation>4:2:2 (2x1,1x1,1x1)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (najvyššia kvalita)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) najvyššia kvalita</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="236"/>
