@@ -12149,7 +12149,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
-        <translation type="unfinished"></translation>
+        <translation>4:4:4 (1x1,1x1,1x1) paras laatu</translation>
     </message>
 </context>
 <context>
