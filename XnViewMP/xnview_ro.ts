@@ -7837,11 +7837,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Vizualizare</translation>
+        <translation>Vizualizare</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished">Convertit</translation>
+        <translation>Convertește</translation>
     </message>
 </context>
 <context>
@@ -7898,11 +7898,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Fast integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg rapid</translation>
     </message>
     <message>
         <source>Floating-point</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr în virgulă mobilă</translation>
     </message>
 </context>
 <context>
@@ -10351,35 +10351,35 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Importă</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportă</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluare</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation type="unfinished">Etichetă de culoare</translation>
+        <translation>Etichetă de culoare</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished">Categorii</translation>
+        <translation>Categorii</translation>
     </message>
     <message>
         <source>XMP:Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP:Subiect</translation>
     </message>
     <message>
         <source>Face tag</source>
-        <translation type="unfinished">Eticheta facială</translation>
+        <translation>Etichetă facială</translation>
     </message>
     <message>
         <source>IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC:Cuvinte cheie</translation>
     </message>
 </context>
 <context>
@@ -12142,23 +12142,23 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fast integer (worst but faster)</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg rapid (mai prost, dar mai rapid)</translation>
     </message>
     <message>
         <source>Floating-point (best but slowest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr în virgulă mobilă (cel mai bun, dar cel mai lent)</translation>
     </message>
     <message>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel mai mic fișier 4:2:0 (2x2,1x1,1x1)</translation>
     </message>
     <message>
         <source>4:2:2 (2x1,1x1,1x1)</source>
-        <translation type="unfinished">2x1,1x1,1x1 (4:2:2) {4:2:2 (2x?} {1,1x?} {1,1x?} {1)?}</translation>
+        <translation>4:2:2 (2x1,1x1,1x1)</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Cea mai bună calitate 4:4:4 (1x1,1x1,1x1)</translation>
     </message>
 </context>
 <context>
