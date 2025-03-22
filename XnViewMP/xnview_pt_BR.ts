@@ -12088,7 +12088,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>4:2:2 (2x1,1x1,1x1)</source>
-        <translation type="unfinished">2x1,1x1,1x1 (4:2:2) {4:2:2 (2x?} {1,1x?} {1,1x?} {1)?}</translation>
+        <translation>4:2:2 (2x1,1x1,1x1)</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
