@@ -9991,7 +9991,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished">Beeld</translation>
+        <translation>Weergave</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10014,7 +10014,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="65"/>
         <source>Convert</source>
-        <translation type="unfinished">Converteren</translation>
+        <translation>Converteren</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="106"/>
@@ -10109,13 +10109,13 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished">Integer snel</translation>
+        <translation>Integer snel</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished">Float</translation>
+        <translation>Floating-point</translation>
     </message>
 </context>
 <context>
@@ -13297,42 +13297,42 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">Importeren</translation>
+        <translation>Importeren</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">Exporteren</translation>
+        <translation>Exporteren</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished">Waardering</translation>
+        <translation>Waardering</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished">Kleurlabel</translation>
+        <translation>Kleurlabel</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished">Categorieën</translation>
+        <translation>Categorieën</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="121"/>
         <source>XMP:Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP:Onderwerp</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">Gezichts tag</translation>
+        <translation>Gezichtsherkenning</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC:Trefwoorden</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -13566,7 +13566,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="240"/>
         <source>Appearance</source>
-        <translation>Weergave</translation>
+        <translation>Uiterlijk</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="249"/>
@@ -15644,13 +15644,13 @@ Doorgaan?</translation>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but faster)</source>
         <oldsource>Integer fast (worst but faster)</oldsource>
-        <translation type="unfinished">Integer snel (minst maar sneller)</translation>
+        <translation>Fast integer (minst maar sneller)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Precisie (beste maar traag)</translation>
+        <translation>Floating-point (beste maar traag)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15676,19 +15676,19 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) kleinste bestand</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="206"/>
         <source>4:2:2 (2x1,1x1,1x1)</source>
         <oldsource>2x1,1x1,1x1 (4:2:2)</oldsource>
-        <translation type="unfinished">2x1,1x1,1x1 (4:2:2)</translation>
+        <translation>4:2:2 (2x1,1x1,1x1)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (hoogste kwaliteit)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) hoogste kwaliteit</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="236"/>
