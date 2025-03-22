@@ -3590,7 +3590,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="753"/>
         <source>_result</source>
-        <translation>_result</translation>
+        <translation>_результат</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1162"/>
@@ -5675,7 +5675,8 @@ Do you want to continue?</source>
         <location filename="DlgConvertIptc.ui" line="124"/>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>Добавлять новые значения к текущим (Ключевые слова и Дополнительные категории)</translation>
+        <translation>Добавлять новые значения к исходным
+ (Ключевые слова и Дополнительные категории)</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="135"/>
@@ -9134,7 +9135,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="715"/>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
-        <translation>Добавлять новые значения к текущим («Ключевые слова» и «Дополнительные категории»)</translation>
+        <translation>Добавлять новые значения к исходным (Ключевые слова и Дополнительные категории)</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="862"/>
@@ -9144,7 +9145,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="722"/>
         <source>Keep original value if new value is empty</source>
-        <translation>Сохранять текущее значение, если новое значение пустое</translation>
+        <translation>Сохранять исходное значение, если новое значение пустое</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="729"/>
@@ -10055,7 +10056,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished">Просмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10078,7 +10079,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="65"/>
         <source>Convert</source>
-        <translation type="unfinished">Преобразовать</translation>
+        <translation>Конвертация</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="106"/>
@@ -10173,13 +10174,13 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished">Целое быстрое</translation>
+        <translation>Быстрое целое</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished">С плавающей точкой</translation>
+        <translation>С плавающей точкой</translation>
     </message>
 </context>
 <context>
@@ -13378,42 +13379,42 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">Импорт</translation>
+        <translation>Импорт</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">Экспорт</translation>
+        <translation>Экспорт</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished">Рейтинг</translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished">Цветовая метка</translation>
+        <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished">Категории</translation>
+        <translation>Категории</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="121"/>
         <source>XMP:Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP:Subject</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">Тег лица</translation>
+        <translation>Тег лица</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC:Keywords</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -15732,13 +15733,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but faster)</source>
         <oldsource>Integer fast (worst but faster)</oldsource>
-        <translation type="unfinished">Целое быстрое (худший, но быстрый)</translation>
+        <translation>Быстрое целое (худший, но быстрый)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">С плавающей точкой (лучший, но самый медленный)</translation>
+        <translation>С плавающей точкой (лучший, но самый медленный)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15764,19 +15765,19 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) наименьший файл</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="206"/>
         <source>4:2:2 (2x1,1x1,1x1)</source>
         <oldsource>2x1,1x1,1x1 (4:2:2)</oldsource>
-        <translation type="unfinished">2х1,1x1,1x1 (4:2:2)</translation>
+        <translation>4:2:2 (2x1,1x1,1x1)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (наилучшее качество)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) наилучшее качество</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="236"/>
@@ -16193,12 +16194,12 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation>Сохранять и добавлять новые значения (ключевые слова)</translation>
+        <translation>Добавлять новые значения к исходным (Ключевые слова)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
         <source>Keep original value if new value is empty</source>
-        <translation>Сохранять текущее значение, если новое значение пустое</translation>
+        <translation>Сохранять исходное значение, если новое значение пустое</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="695"/>
@@ -17948,7 +17949,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="TemplateData.cpp" line="2712"/>
         <source>Category</source>
-        <translation>Категории</translation>
+        <translation>Категория</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
