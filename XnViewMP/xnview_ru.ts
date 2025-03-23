@@ -760,7 +760,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4230"/>
         <source>Show files in subfolders</source>
-        <translation>Показать файлы из подпапок</translation>
+        <translation>Показывать файлы из подпапок</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4238"/>
@@ -833,7 +833,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
@@ -3361,12 +3361,12 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="308"/>
         <source>Columns</source>
-        <translation>Столбцов</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="328"/>
         <source>Rows</source>
-        <translation>Рядов</translation>
+        <translation>Ряды</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="358"/>
@@ -3406,7 +3406,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="510"/>
         <source>Show information</source>
-        <translation>Отображать блок информации</translation>
+        <translation>Показывать информацию</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="533"/>
@@ -7716,7 +7716,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished">Целое</translation>
+        <translation>Целое</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7757,19 +7757,19 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="346"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Метод DCT</translation>
+        <translation>Метод DCT</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Быстрый (наихудшее качество)</translation>
+        <translation>Быстрое целое (худшее качество, но самый быстрый)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Переменный (наилучшее качество)</translation>
+        <translation>С плавающей точкой (лучшее качество, но самый медленный)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7780,12 +7780,12 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Субдискретизация</translation>
+        <translation>Субдискретизация</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished">4:2:0 (2x2,1x1,1x1) наименьший файл</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) наименьший файл</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -7806,7 +7806,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="451"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1, 1x1, 1x1 (наилучшее качество)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) наилучшее качество</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="610"/>
@@ -7935,7 +7935,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
         <translatorcomment>Смысл не понятен</translatorcomment>
-        <translation>Показывать выбранную папку в дереве папок</translation>
+        <translation>Развернуть к выбранной папке</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
@@ -9680,7 +9680,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="305"/>
         <source>Rows</source>
         <translatorcomment>Строки</translatorcomment>
-        <translation>Рядов</translation>
+        <translation>Ряды</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="312"/>
@@ -9690,7 +9690,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="319"/>
         <source>Columns</source>
-        <translation>Столбцов</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="345"/>
@@ -9725,12 +9725,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="384"/>
         <source>Post card - 148x100mm (5.83x3.94&quot;)</source>
-        <translation>Почтовая открытка - 148x100мм (5.83x3.94&quot;)</translation>
+        <translation>148x100мм (5.83x3.94&quot;) почтовая открытка</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="389"/>
         <source>Visiting card - 91x55mm (3.58x2.17&quot;)</source>
-        <translation>Визитная карточка - 91x55мм (3.58x2.17&quot;)</translation>
+        <translation>91x55мм (3.58x2.17&quot;) визитная карточка</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="394"/>
@@ -9872,7 +9872,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="673"/>
         <source>Show information</source>
-        <translation>Печатать информацию</translation>
+        <translation>Показывать информацию</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="687"/>
@@ -10084,7 +10084,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Рендеринг Полного/Половинного размеров</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -10916,7 +10916,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRotate.ui" line="124"/>
         <source>Show grid</source>
-        <translation>Показать сетку</translation>
+        <translation>Показывать сетку</translation>
     </message>
     <message>
         <location filename="DlgRotate.ui" line="131"/>
@@ -11219,13 +11219,13 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="75"/>
         <source>Show ratings</source>
-        <translation>Отображать Рейтинг в области предпросмотра</translation>
+        <translation>Показывать Рейтинг в области предпросмотра</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="85"/>
         <source>View scroll the content by thumbnail</source>
         <translatorcomment>Так и не понял значение данного выражения</translatorcomment>
-        <translation>Отображать прокручиваемый контент в виде эскизов</translation>
+        <translation>Показывать прокручиваемый контент в виде эскизов</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="174"/>
@@ -11529,7 +11529,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="54"/>
         <source>Enable thumbnail caching</source>
         <oldsource>Enable thumbnails caching</oldsource>
-        <translation>Включить кеширование эскизов</translation>
+        <translation>Включить кэширование эскизов</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="65"/>
@@ -11539,7 +11539,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="163"/>
         <source>Maximum size for cached thumbnails</source>
-        <translation>Максимальный размер кеша для эскизов</translation>
+        <translation>Максимальный размер кэша для эскизов</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="270"/>
@@ -11893,7 +11893,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation>Отображать размер файла в байтах</translation>
+        <translation>Показывать размер файла в байтах</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -12070,7 +12070,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="151"/>
         <source>Show all graphic formats</source>
-        <translation>Отображать все доступные графические форматы</translation>
+        <translation>Показывать все доступные графические форматы</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="165"/>
@@ -13238,7 +13238,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="277"/>
         <source>Display:</source>
-        <translation>Отображать:</translation>
+        <translation>Показывать:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="290"/>
@@ -13884,7 +13884,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
-        <translation>Отображать Hавигатор</translation>
+        <translation>Показывать Hавигатор</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -13896,7 +13896,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="848"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation>Отображать иконки с несколькими разрешениями в виде Снимков</translation>
+        <translation>Показывать иконки с несколькими разрешениями в виде Снимков</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="670"/>
@@ -13907,7 +13907,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation>Сбрасывать настройки Автомасштабирования при переходе к следующему/предыдущему файлу</translation>
+        <translation>Сбрасывать настройки Автомасштабирования при смене файла</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -13973,7 +13973,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="686"/>
         <source>Normal</source>
-        <translation>Нормальное</translation>
+        <translation>Обычное</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="691"/>
@@ -14014,7 +14014,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation>Отображать Рейтинг и Цветовую метку</translation>
+        <translation>Показывать Рейтинг и Цветовую метку</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="696"/>
@@ -14024,7 +14024,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="719"/>
         <source>Loop on the file list</source>
-        <translation>Повтор списка файлов</translation>
+        <translation>Закольцевать список файлов</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="733"/>
@@ -14039,7 +14039,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
         <source>Cache</source>
-        <translation>Кеширование</translation>
+        <translation>Кэширование</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="753"/>
@@ -14104,7 +14104,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1140"/>
         <source>Show info</source>
-        <translation>Отображать блок информации</translation>
+        <translation>Показывать информацию</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1154"/>
@@ -14119,7 +14119,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1195"/>
         <source>Dual monitor: Use second monitor</source>
-        <translation>Использовать второй монитор при наличии двух мониторов</translation>
+        <translation>Использовать второй монитор (при наличии двух мониторов)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1208"/>
@@ -14149,7 +14149,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1088"/>
         <source>Always show in fullscreen</source>
-        <translation>Всегда отображать в полноэкранном режиме</translation>
+        <translation>Всегда показывать в полноэкранном режиме</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1070"/>
@@ -14170,7 +14170,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y (No fit)</source>
         <oldsource>Reset XY (Not fit)</oldsource>
-        <translation>Сброс по X/Y (Без подгонки)</translation>
+        <translation>Сбрасывать X/Y координаты при смене файла (Без подгонки)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="835"/>
@@ -14578,7 +14578,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="369"/>
         <source>Show information</source>
-        <translation>Отображение информации</translation>
+        <translation>Показывать информацию</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="473"/>
@@ -14656,12 +14656,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="140"/>
         <source>Columns</source>
-        <translation>Столбцов</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="169"/>
         <source>Rows</source>
-        <translation>Рядов</translation>
+        <translation>Ряды</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="192"/>
@@ -15441,12 +15441,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="59"/>
         <source>Columns</source>
-        <translation>Столбцов</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="69"/>
         <source>Rows</source>
-        <translation>Рядов</translation>
+        <translation>Ряды</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="108"/>
@@ -15491,7 +15491,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="240"/>
         <source>Show information</source>
-        <translation>Отображение информации</translation>
+        <translation>Показывать информацию</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.cpp" line="72"/>
@@ -15723,19 +15723,19 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Метод DCT</translation>
+        <translation>Метод DCT</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation type="unfinished">Быстрое целое (худший, но быстрый)</translation>
+        <translation>Быстрое целое (худшее качество, но самый быстрый)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation>С плавающей точкой (лучший, но самый медленный)</translation>
+        <translation>С плавающей точкой (лучшее качество, но самый медленный)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -17301,32 +17301,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить неиспользуемые Категории...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить все Категории...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление всех Категорий</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить все Категории?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление неиспользуемых Категорий</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить неиспользуемые Категории?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
@@ -19271,7 +19271,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="577"/>
         <source>Open GPS location in</source>
-        <translation>Показать местоположение GPS в</translation>
+        <translation>Открыть GPS-координаты в</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="649"/>
@@ -19436,7 +19436,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="528"/>
         <source>Show files in subfolders</source>
-        <translation>Показать файлы из подпапок</translation>
+        <translation>Показывать файлы из подпапок</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="534"/>
@@ -19586,7 +19586,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="628"/>
         <source>Draw as tiled</source>
         <translatorcomment>Имеется ввиду замостить изображением в окне предпросмотра</translatorcomment>
-        <translation>Отображать в виде плитки</translation>
+        <translation>Показывать в виде плитки</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="641"/>
@@ -20165,7 +20165,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
         <source>Show</source>
-        <translation>Отображать</translation>
+        <translation>Показывать</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="542"/>
@@ -20175,7 +20175,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Show source panels</source>
-        <translation>Отображать панели навигации</translation>
+        <translation>Показывать панели навигации</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -20336,22 +20336,22 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="624"/>
         <source>Show alpha</source>
-        <translation>Отображать альфа-канал</translation>
+        <translation>Показывать альфа-канал</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="625"/>
         <source>Show red</source>
-        <translation>Отображать красный канал</translation>
+        <translation>Показывать красный канал</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="626"/>
         <source>Show green</source>
-        <translation>Отображать зеленый канал</translation>
+        <translation>Показывать зеленый канал</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="627"/>
         <source>Show blue</source>
-        <translation>Отображать синий канал</translation>
+        <translation>Показывать синий канал</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
@@ -20475,7 +20475,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1501"/>
         <source>Show</source>
-        <translation>Отображать</translation>
+        <translation>Показывать</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1502"/>
@@ -21114,22 +21114,22 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="426"/>
         <source>Show alpha</source>
-        <translation>Отображать альфа-канал</translation>
+        <translation>Показывать альфа-канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="427"/>
         <source>Show red</source>
-        <translation>Отображать красный канал</translation>
+        <translation>Показывать красный канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="428"/>
         <source>Show green</source>
-        <translation>Отображать зеленый канал</translation>
+        <translation>Показывать зеленый канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="429"/>
         <source>Show blue</source>
-        <translation>Отображать синий канал</translation>
+        <translation>Показывать синий канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="430"/>
@@ -21144,7 +21144,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="432"/>
         <source>Show information</source>
-        <translation>Отображать блок информации</translation>
+        <translation>Показывать информацию</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="433"/>
@@ -21160,7 +21160,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="435"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation>Отображать в виде Снимка (только для иконок)</translation>
+        <translation>Показывать в виде Снимка (только для иконок)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="407"/>
@@ -21171,7 +21171,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="440"/>
         <source>Show people&apos;s region</source>
-        <translation>Отображать области с лицами</translation>
+        <translation>Показывать области с лицами</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="441"/>
@@ -21212,7 +21212,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="450"/>
         <source>Open GPS location in</source>
-        <translation>Показать местоположение GPS в</translation>
+        <translation>Открыть GPS-координаты в</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="453"/>
@@ -23562,7 +23562,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="ViewCropAction.cpp" line="240"/>
         <source>Show selection grid</source>
-        <translation>Показать сетку в выделенной области</translation>
+        <translation>Показывать сетку в выделенной области</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="246"/>
