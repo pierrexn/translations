@@ -663,10 +663,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Nombre:</translation>
     </message>
     <message>
-        <source>Manager...</source>
-        <translation>Administrador...</translation>
-    </message>
-    <message>
         <source>Enter a name for this set</source>
         <translation>Introducir nombre para este conjunto</translation>
     </message>
@@ -697,6 +693,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Enter a name for this layout</source>
         <translation>Introducir nombre para este diseño</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5956,20 +5956,8 @@ Please make sure that files are not read-only!</source>
         <translation>Modo</translation>
     </message>
     <message>
-        <source>Slow</source>
-        <translation>Lento</translation>
-    </message>
-    <message>
         <source>Smoothing factor</source>
         <translation>Factor de suavizado</translation>
-    </message>
-    <message>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1,1x1,1x1 (4:2:2)</translation>
-    </message>
-    <message>
-        <source>Float (best but slowest)</source>
-        <translation>Flotante (mejor pero lento)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5984,28 +5972,8 @@ Please make sure that files are not read-only!</source>
         <translation>Baja</translation>
     </message>
     <message>
-        <source>DCT Method</source>
-        <translation>Método DCT</translation>
-    </message>
-    <message>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1,1x1 (mejor calidad)</translation>
-    </message>
-    <message>
-        <source>Subsampling factor</source>
-        <translation>Factor de sub-muestreo</translation>
-    </message>
-    <message>
         <source>&amp;Export...</source>
         <translation>&amp;Exportar...</translation>
-    </message>
-    <message>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (predeterminado)</translation>
-    </message>
-    <message>
-        <source>Fast (worst but faster)</source>
-        <translation>Rápido (peor pero más rápido)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -6062,6 +6030,34 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Keep XMP</source>
         <translation type="unfinished">Mantener XMP</translation>
+    </message>
+    <message>
+        <source>DCT method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but fastest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating-point (best but slowest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished">Submuestreo</translation>
+    </message>
+    <message>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
+        <translation type="unfinished">4:4:4 (1x1,1x1,1x1) mejor calidad</translation>
     </message>
 </context>
 <context>
@@ -7827,6 +7823,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Convert</source>
         <translation type="unfinished">Convertir</translation>
+    </message>
+    <message>
+        <source>Full/Half size rendering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10355,16 +10355,8 @@ Do you want to reassign?</source>
         <translation type="unfinished">Categorías</translation>
     </message>
     <message>
-        <source>XMP:Subject</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Face tag</source>
         <translation type="unfinished">Etiqueta de cara</translation>
-    </message>
-    <message>
-        <source>IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12094,10 +12086,6 @@ Do you want to continue?</source>
         <translation>Baja</translation>
     </message>
     <message>
-        <source>DCT Method</source>
-        <translation>Método DCT</translation>
-    </message>
-    <message>
         <source>Progressive</source>
         <translation>Progresivo</translation>
     </message>
@@ -12126,10 +12114,6 @@ Do you want to continue?</source>
         <translation type="unfinished">Submuestreo</translation>
     </message>
     <message>
-        <source>Fast integer (worst but faster)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Floating-point (best but slowest)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12138,12 +12122,16 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4:2:2 (2x1,1x1,1x1)</source>
-        <translation>4:2:2 (2x1,1x1,1x1)</translation>
-    </message>
-    <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <translation>4:4:4 (1x1,1x1,1x1) mejor calidad</translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but fastest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DCT method</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13245,16 +13233,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Asignar Categoría</translation>
     </message>
     <message>
-        <source>Do you want to clear orphaned categories?</source>
-        <translation>¿Desea borrar las categorías huérfanas?</translation>
-    </message>
-    <message>
         <source>Are you sure that you want to start importing categories file?</source>
         <translation>¿Está seguro de que desea empezar a importar el archivo de categorías?</translation>
-    </message>
-    <message>
-        <source>Clear all...</source>
-        <translation>Limpiar todo...</translation>
     </message>
     <message>
         <source>Auto Correct...</source>
@@ -13293,16 +13273,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Importando archivo de categorías, por favor espere...</translation>
     </message>
     <message>
-        <source>Clear all categories</source>
-        <translation>Borrar todas las categorías</translation>
-    </message>
-    <message>
         <source>Open Tree</source>
         <translation>Expandir Arbol</translation>
-    </message>
-    <message>
-        <source>Clear orphaned categories</source>
-        <translation>Borrar categorías huérfanas</translation>
     </message>
     <message>
         <source>Partial Match at the Beginning</source>
@@ -13313,12 +13285,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Ocultar categorias asignadas</translation>
     </message>
     <message>
-        <source>Do you want to clear all categories?</source>
-        <translation>¿Desea borrar todas las categorías?</translation>
-    </message>
-    <message>
         <source> [Create New]</source>
         <translation> [Crear Nueva]</translation>
+    </message>
+    <message>
+        <source>Delete unused categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete all categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete all categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete all categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete unused categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete unused categories?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -829,55 +829,55 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategorySets</name>
     <message>
-        <location filename="CategorySets.cpp" line="32"/>
-        <source>Manager...</source>
-        <translation>マネージャー...</translation>
+        <location filename="CategorySets.cpp" line="30"/>
+        <source>Layout</source>
+        <translation type="unfinished">レイアウト</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="48"/>
+        <location filename="CategorySets.cpp" line="36"/>
         <source>&lt;Unsaved Layout&gt;</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="178"/>
+        <location filename="CategorySets.cpp" line="175"/>
         <source>Save layout...</source>
         <translation>レイアウトを保存...</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="243"/>
-        <location filename="CategorySets.cpp" line="275"/>
+        <location filename="CategorySets.cpp" line="240"/>
+        <location filename="CategorySets.cpp" line="272"/>
         <source>Enter a name for this layout</source>
         <translation>このレイアウトの名前を入力して下さい</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="243"/>
-        <location filename="CategorySets.cpp" line="275"/>
-        <location filename="CategorySets.cpp" line="415"/>
+        <location filename="CategorySets.cpp" line="240"/>
+        <location filename="CategorySets.cpp" line="272"/>
+        <location filename="CategorySets.cpp" line="412"/>
         <source>Name:</source>
         <translation>名前:</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="345"/>
+        <location filename="CategorySets.cpp" line="342"/>
         <source>Assigned</source>
         <translation>割り当て</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="358"/>
+        <location filename="CategorySets.cpp" line="355"/>
         <source>History</source>
         <translation>履歴</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="372"/>
+        <location filename="CategorySets.cpp" line="369"/>
         <source>Suggested</source>
         <translation>提案</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="415"/>
+        <location filename="CategorySets.cpp" line="412"/>
         <source>Enter a name for this set</source>
         <translation>このセットの名前を入力して下さい</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="415"/>
+        <location filename="CategorySets.cpp" line="412"/>
         <source>New name</source>
         <translation>新しい名前</translation>
     </message>
@@ -1929,8 +1929,8 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="151"/>
         <location filename="MyDB.cpp" line="729"/>
-        <location filename="MyDB.cpp" line="1648"/>
-        <location filename="MyDB.cpp" line="2883"/>
+        <location filename="MyDB.cpp" line="1651"/>
+        <location filename="MyDB.cpp" line="2886"/>
         <source>Other</source>
         <translation>その他</translation>
     </message>
@@ -7752,6 +7752,11 @@ Please make sure that files are not read-only!</oldsource>
         <translation>プレビューを更新</translation>
     </message>
     <message>
+        <location filename="DlgExport.ui" line="357"/>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgExport.ui" line="511"/>
         <source>Mode</source>
         <translation>モード</translation>
@@ -7790,24 +7795,22 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgExport.ui" line="346"/>
-        <source>DCT Method</source>
+        <source>DCT method</source>
+        <oldsource>DCT Method</oldsource>
         <translatorcomment>TXT_DCT_Method</translatorcomment>
-        <translation>DCT法</translation>
-    </message>
-    <message>
-        <location filename="DlgExport.ui" line="357"/>
-        <source>Slow</source>
-        <translation>遅く</translation>
+        <translation type="unfinished">DCT法</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
-        <source>Fast (worst but faster)</source>
-        <translation>速く (低品質だが高速）</translation>
+        <source>Fast integer (worst but fastest)</source>
+        <oldsource>Fast (worst but faster)</oldsource>
+        <translation type="unfinished">速く (低品質だが高速）</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
-        <source>Float (best but slowest)</source>
-        <translation>Float (高品質だが低速）</translation>
+        <source>Floating-point (best but slowest)</source>
+        <oldsource>Float (best but slowest)</oldsource>
+        <translation type="unfinished">Float (高品質だが低速）</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7817,9 +7820,15 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgExport.ui" line="430"/>
-        <source>Subsampling factor</source>
+        <source>Subsampling</source>
+        <oldsource>Subsampling factor</oldsource>
         <translatorcomment>TXT_Subsampling_Factor</translatorcomment>
-        <translation>サブサンプリングファクタ</translation>
+        <translation type="unfinished">サブサンプリングファクタ</translation>
+    </message>
+    <message>
+        <location filename="DlgExport.ui" line="441"/>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -7837,19 +7846,10 @@ Please make sure that files are not read-only!</oldsource>
         <translation>パレットの編集...</translation>
     </message>
     <message>
-        <location filename="DlgExport.ui" line="441"/>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (初期値)</translation>
-    </message>
-    <message>
-        <location filename="DlgExport.ui" line="446"/>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1,1x1,1x1 (4:2:2)</translation>
-    </message>
-    <message>
         <location filename="DlgExport.ui" line="451"/>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1,1x1 (最高品質)</translation>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
+        <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
+        <translation type="unfinished">1x1,1x1,1x1 (最高品質)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="610"/>
@@ -10108,49 +10108,54 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
-        <location filename="DlgReadCRaw.ui" line="73"/>
+        <location filename="DlgReadCRaw.ui" line="56"/>
         <source>Embedded preview</source>
         <translation>埋め込みプレビュー</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="35"/>
-        <location filename="DlgReadCRaw.ui" line="78"/>
+        <location filename="DlgReadCRaw.ui" line="61"/>
         <source>Half size</source>
         <translation>半分のサイズ</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="40"/>
-        <location filename="DlgReadCRaw.ui" line="83"/>
+        <location filename="DlgReadCRaw.ui" line="66"/>
         <source>Full size</source>
         <translation>フルサイズ</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="65"/>
+        <location filename="DlgReadCRaw.ui" line="48"/>
         <source>Convert</source>
         <translation type="unfinished">変換</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="106"/>
+        <location filename="DlgReadCRaw.ui" line="89"/>
+        <source>Full/Half size rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgReadCRaw.ui" line="95"/>
         <source>Use Embedded color matrix</source>
         <translation>埋め込まれた色配列を使用</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="113"/>
+        <location filename="DlgReadCRaw.ui" line="102"/>
         <source>Use Automatic white balance</source>
         <translation>自動ホワイトバランスを使用</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="120"/>
+        <location filename="DlgReadCRaw.ui" line="109"/>
         <source>Use Camera white balance</source>
         <translation>カメラホワイトバランスを使用</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="127"/>
+        <location filename="DlgReadCRaw.ui" line="116"/>
         <source>Automatic brightness</source>
         <translation>明るさの自動調整</translation>
     </message>
     <message>
-        <location filename="DlgReadCRaw.ui" line="134"/>
+        <location filename="DlgReadCRaw.ui" line="123"/>
         <source>Convert to sRGB</source>
         <translation>sRGBにコンバート</translation>
     </message>
@@ -13514,19 +13519,9 @@ Do you want to reassign?</source>
         <translation type="unfinished">カテゴリー</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="121"/>
-        <source>XMP:Subject</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
         <translation type="unfinished">フェイスタグ</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="159"/>
-        <source>IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -15764,13 +15759,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="160"/>
-        <source>DCT Method</source>
-        <translation>DCT法</translation>
+        <source>DCT method</source>
+        <oldsource>DCT Method</oldsource>
+        <translation type="unfinished">DCT法</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
-        <source>Fast integer (worst but faster)</source>
-        <oldsource>Integer fast (worst but faster)</oldsource>
+        <source>Fast integer (worst but fastest)</source>
+        <oldsource>Fast integer (worst but faster)</oldsource>
         <translation type="unfinished">速く (低品質だが高速）</translation>
     </message>
     <message>
@@ -15804,12 +15800,6 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgWriteJPEG.ui" line="206"/>
-        <source>4:2:2 (2x1,1x1,1x1)</source>
-        <oldsource>2x1,1x1,1x1 (4:2:2)</oldsource>
-        <translation>4:2:2 (2x1,1x1,1x1)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
@@ -16629,7 +16619,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="676"/>
         <location filename="InfoPropertiesView.cpp" line="694"/>
         <location filename="InfoPropertiesView.cpp" line="713"/>
-        <location filename="TemplateData.cpp" line="2567"/>
+        <location filename="TemplateData.cpp" line="2562"/>
         <source>Format</source>
         <translatorcomment>TXT_String_Infos_Format</translatorcomment>
         <translation>形式</translation>
@@ -16638,8 +16628,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="73"/>
         <location filename="InfoPropertiesView.cpp" line="679"/>
         <location filename="ItemModel.cpp" line="1108"/>
-        <location filename="TemplateData.cpp" line="2570"/>
-        <location filename="TemplateData.cpp" line="2593"/>
+        <location filename="TemplateData.cpp" line="2565"/>
+        <location filename="TemplateData.cpp" line="2588"/>
         <source>Width</source>
         <translatorcomment>TXT_String_Infos_Width</translatorcomment>
         <translation>幅</translation>
@@ -16648,8 +16638,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <location filename="InfoPropertiesView.cpp" line="680"/>
         <location filename="ItemModel.cpp" line="1110"/>
-        <location filename="TemplateData.cpp" line="2571"/>
-        <location filename="TemplateData.cpp" line="2594"/>
+        <location filename="TemplateData.cpp" line="2566"/>
+        <location filename="TemplateData.cpp" line="2589"/>
         <source>Height</source>
         <translatorcomment>TXT_String_Infos_Height</translatorcomment>
         <translation>高さ</translation>
@@ -16667,7 +16657,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="79"/>
         <location filename="InfoPropertiesView.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2568"/>
+        <location filename="TemplateData.cpp" line="2563"/>
         <source>Color model</source>
         <translatorcomment>TXT_String_Infos_Color_Model</translatorcomment>
         <translation>カラーモデル</translation>
@@ -16685,8 +16675,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="85"/>
         <location filename="ItemModel.cpp" line="1112"/>
-        <location filename="TemplateData.cpp" line="2574"/>
-        <location filename="TemplateData.cpp" line="2596"/>
+        <location filename="TemplateData.cpp" line="2569"/>
+        <location filename="TemplateData.cpp" line="2591"/>
         <source>DPI</source>
         <translatorcomment>TXT_String_Infos_Dpi</translatorcomment>
         <translation>DPI</translation>
@@ -16700,7 +16690,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="93"/>
         <location filename="InfoPropertiesView.cpp" line="98"/>
-        <location filename="TemplateData.cpp" line="2569"/>
+        <location filename="TemplateData.cpp" line="2564"/>
         <source>Compression</source>
         <translatorcomment>TXT_String_Infos_Compression</translatorcomment>
         <translation>データ圧縮</translation>
@@ -16925,7 +16915,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1094"/>
-        <location filename="TemplateData.cpp" line="2775"/>
+        <location filename="TemplateData.cpp" line="2770"/>
         <source>Rating</source>
         <translatorcomment>TXT_String_Rating</translatorcomment>
         <translation>レーティング</translation>
@@ -16950,13 +16940,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="691"/>
         <location filename="InfoPropertiesView.cpp" line="731"/>
         <location filename="ItemModel.cpp" line="1100"/>
-        <location filename="TemplateData.cpp" line="2573"/>
+        <location filename="TemplateData.cpp" line="2568"/>
         <source>Comment</source>
         <translation>コメント</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1106"/>
-        <location filename="TemplateData.cpp" line="2583"/>
+        <location filename="TemplateData.cpp" line="2578"/>
         <source>Ratio</source>
         <translation>比率</translation>
     </message>
@@ -16987,13 +16977,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
-        <location filename="TemplateData.cpp" line="2779"/>
+        <location filename="TemplateData.cpp" line="2774"/>
         <source>Categories</source>
         <translatorcomment>TXT_String_TabTitle_Categories</translatorcomment>
         <translation>カテゴリー</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2777"/>
+        <location filename="TemplateData.cpp" line="2772"/>
         <source>Color label</source>
         <translatorcomment>TXT_String_Color_Label</translatorcomment>
         <translation>カラーラベル</translation>
@@ -17009,7 +16999,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="IptcEditBase.cpp" line="114"/>
         <location filename="ItemModel.cpp" line="1102"/>
-        <location filename="TemplateData.cpp" line="2799"/>
+        <location filename="TemplateData.cpp" line="2794"/>
         <source>Annotation</source>
         <translatorcomment>TXT_TemplateMenu_Annotation</translatorcomment>
         <translation>注記</translation>
@@ -17023,33 +17013,33 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>すべてのフィールド</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2572"/>
-        <location filename="TemplateData.cpp" line="2595"/>
+        <location filename="TemplateData.cpp" line="2567"/>
+        <location filename="TemplateData.cpp" line="2590"/>
         <source>BPP</source>
         <translatorcomment>TXT_TemplateMenu_BPP</translatorcomment>
         <translation>BPP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2577"/>
-        <location filename="TemplateData.cpp" line="2597"/>
+        <location filename="TemplateData.cpp" line="2572"/>
+        <location filename="TemplateData.cpp" line="2592"/>
         <source>Width (inch)</source>
         <translation>幅（インチ）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2578"/>
-        <location filename="TemplateData.cpp" line="2598"/>
+        <location filename="TemplateData.cpp" line="2573"/>
+        <location filename="TemplateData.cpp" line="2593"/>
         <source>Height (inch)</source>
         <translation>高さ（インチ）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2579"/>
-        <location filename="TemplateData.cpp" line="2599"/>
+        <location filename="TemplateData.cpp" line="2574"/>
+        <location filename="TemplateData.cpp" line="2594"/>
         <source>Width (cm)</source>
         <translation>幅（cm）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2580"/>
-        <location filename="TemplateData.cpp" line="2600"/>
+        <location filename="TemplateData.cpp" line="2575"/>
+        <location filename="TemplateData.cpp" line="2595"/>
         <source>Height (cm)</source>
         <translation>高さ（cm）</translation>
     </message>
@@ -17058,7 +17048,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="354"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <location filename="IptcEditBase.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2787"/>
+        <location filename="TemplateData.cpp" line="2782"/>
         <source>Filename</source>
         <translatorcomment>TXT_String_Infos_Filename</translatorcomment>
         <translation>ファイル名</translation>
@@ -17073,21 +17063,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="355"/>
         <location filename="IptcEditBase.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2789"/>
+        <location filename="TemplateData.cpp" line="2784"/>
         <source>Filename (last number)</source>
         <translation>ファイル名（最後の番号）</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="356"/>
         <location filename="IptcEditBase.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2790"/>
+        <location filename="TemplateData.cpp" line="2785"/>
         <source>Folder</source>
         <translation>フォルダー</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="357"/>
         <location filename="IptcEditBase.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2791"/>
+        <location filename="TemplateData.cpp" line="2786"/>
         <source>Folder name</source>
         <translatorcomment>TXT_TemplateMenu_Folder_Name</translatorcomment>
         <translation>フォルダー名</translation>
@@ -17095,7 +17085,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="358"/>
         <location filename="IptcEditBase.cpp" line="76"/>
-        <location filename="TemplateData.cpp" line="2792"/>
+        <location filename="TemplateData.cpp" line="2787"/>
         <source>Accessed date</source>
         <translatorcomment>TXT_TemplateMenu_Accessed_Date</translatorcomment>
         <translation>アクセス日付</translation>
@@ -17103,7 +17093,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="359"/>
         <location filename="IptcEditBase.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2793"/>
+        <location filename="TemplateData.cpp" line="2788"/>
         <source>Creation date</source>
         <translatorcomment>TXT_TemplateMenu_Creation_Date</translatorcomment>
         <translation>作成日付</translation>
@@ -17112,7 +17102,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgImport.cpp" line="230"/>
         <location filename="EditXMPWidget.cpp" line="360"/>
         <location filename="IptcEditBase.cpp" line="78"/>
-        <location filename="TemplateData.cpp" line="2794"/>
+        <location filename="TemplateData.cpp" line="2789"/>
         <source>Modified date</source>
         <translatorcomment>TXT_TemplateMenu_Modified_Date</translatorcomment>
         <translation>更新日付</translation>
@@ -17120,127 +17110,127 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="361"/>
         <location filename="IptcEditBase.cpp" line="79"/>
-        <location filename="TemplateData.cpp" line="2795"/>
+        <location filename="TemplateData.cpp" line="2790"/>
         <source>Size (Auto)</source>
         <translation>サイズ（自動）</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="362"/>
         <location filename="IptcEditBase.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2796"/>
+        <location filename="TemplateData.cpp" line="2791"/>
         <source>Size (Bytes)</source>
         <translation>サイズ（バイト）</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="363"/>
         <location filename="IptcEditBase.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2797"/>
+        <location filename="TemplateData.cpp" line="2792"/>
         <source>Size (KB)</source>
         <translation>サイズ(KB)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2581"/>
+        <location filename="TemplateData.cpp" line="2576"/>
         <source>Width (mm)</source>
         <translation>幅（mm）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2582"/>
+        <location filename="TemplateData.cpp" line="2577"/>
         <source>Height (mm)</source>
         <translation>高さ（mm）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2584"/>
+        <location filename="TemplateData.cpp" line="2579"/>
         <source>Ratio Decimal</source>
         <translation>比率</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2585"/>
+        <location filename="TemplateData.cpp" line="2580"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
         <translation>幅/高さの比率</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2586"/>
+        <location filename="TemplateData.cpp" line="2581"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
         <translation>高さ/幅の比率</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2587"/>
+        <location filename="TemplateData.cpp" line="2582"/>
         <source>MPixels</source>
         <translation>メガピクセル</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2769"/>
+        <location filename="TemplateData.cpp" line="2764"/>
         <source>Create date</source>
         <translation>作成日付</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2770"/>
+        <location filename="TemplateData.cpp" line="2765"/>
         <source>Modify date</source>
         <translation>更新日付</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2788"/>
+        <location filename="TemplateData.cpp" line="2783"/>
         <source>Filename (with extension)</source>
         <translation>ファイル名（拡張子付き）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2798"/>
+        <location filename="TemplateData.cpp" line="2793"/>
         <source>Type</source>
         <translation>種類</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2800"/>
+        <location filename="TemplateData.cpp" line="2795"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
         <translation>出力ファイル名</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2801"/>
+        <location filename="TemplateData.cpp" line="2796"/>
         <source>Output filename (with extension)</source>
         <translation>出力ファイル名（拡張子付き）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2771"/>
+        <location filename="TemplateData.cpp" line="2766"/>
         <source>File index</source>
         <translatorcomment>TXT_TemplateMenu_File_Index</translatorcomment>
         <translation>ファイルインデックス</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2575"/>
+        <location filename="TemplateData.cpp" line="2570"/>
         <source>DPI-X</source>
         <translation>DPI-X</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2576"/>
+        <location filename="TemplateData.cpp" line="2571"/>
         <source>DPI-Y</source>
         <translation>DPI-Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2772"/>
+        <location filename="TemplateData.cpp" line="2767"/>
         <source>Zoom</source>
         <translation>ズーム</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2773"/>
+        <location filename="TemplateData.cpp" line="2768"/>
         <source>Current date</source>
         <translatorcomment>TXT_TemplateMenu_Current_Date</translatorcomment>
         <translation>現在日付</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2774"/>
+        <location filename="TemplateData.cpp" line="2769"/>
         <source>Tag status</source>
         <translatorcomment>TXT_TemplateMenu_Tag_Status</translatorcomment>
         <translation>タグの状態</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2776"/>
+        <location filename="TemplateData.cpp" line="2771"/>
         <source>Rating (number)</source>
         <translation>レーティング(数字)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2778"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Color label (number)</source>
         <translation>カラーラベル（数字）</translation>
     </message>
@@ -17248,55 +17238,55 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoCategoryTreeView</name>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1091"/>
+        <location filename="InfoCategoryView.cpp" line="1084"/>
         <source>New category</source>
         <translation>新しいカテゴリー</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1092"/>
+        <location filename="InfoCategoryView.cpp" line="1085"/>
         <source>New subcategory</source>
         <translation>新しいサブカテゴリー</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1099"/>
+        <location filename="InfoCategoryView.cpp" line="1092"/>
         <source>Rename</source>
         <translation>名前の変更</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1102"/>
+        <location filename="InfoCategoryView.cpp" line="1095"/>
         <source>Move to...</source>
         <translation>フォルダーに移動...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1103"/>
+        <location filename="InfoCategoryView.cpp" line="1096"/>
         <source>Merge with...</source>
         <translation>結合...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1104"/>
+        <location filename="InfoCategoryView.cpp" line="1097"/>
         <source>Delete</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1108"/>
+        <location filename="InfoCategoryView.cpp" line="1101"/>
         <source>Edit...</source>
         <translation>編集...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1067"/>
-        <location filename="InfoCategoryView.cpp" line="1126"/>
+        <location filename="InfoCategoryView.cpp" line="1060"/>
+        <location filename="InfoCategoryView.cpp" line="1119"/>
         <source>Delete category</source>
         <translation>カテゴリーの削除</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1067"/>
-        <location filename="InfoCategoryView.cpp" line="1126"/>
+        <location filename="InfoCategoryView.cpp" line="1060"/>
+        <location filename="InfoCategoryView.cpp" line="1119"/>
         <source>Are you sure to delete this category?</source>
         <translation>このカテゴリーを削除してよろしいですか？</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1137"/>
-        <location filename="InfoCategoryView.cpp" line="1148"/>
+        <location filename="InfoCategoryView.cpp" line="1130"/>
+        <location filename="InfoCategoryView.cpp" line="1141"/>
         <source>New Category</source>
         <translation>新しいカテゴリー</translation>
     </message>
@@ -17370,64 +17360,69 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
-        <source>Clear all...</source>
-        <translation>全てクリア...</translation>
+        <source>Delete unused categories...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="246"/>
-        <location filename="InfoCategoryView.cpp" line="287"/>
-        <location filename="InfoCategoryView.cpp" line="311"/>
+        <location filename="InfoCategoryView.cpp" line="146"/>
+        <source>Delete all categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoCategoryView.cpp" line="320"/>
+        <source>Delete all categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoCategoryView.cpp" line="320"/>
+        <source>Do you want to delete all categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoCategoryView.cpp" line="326"/>
+        <source>Delete unused categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoCategoryView.cpp" line="326"/>
+        <source>Do you want to delete unused categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoCategoryView.cpp" line="239"/>
+        <location filename="InfoCategoryView.cpp" line="280"/>
+        <location filename="InfoCategoryView.cpp" line="304"/>
         <source>Categories file</source>
         <translation>カテゴリーファイル</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="252"/>
-        <location filename="InfoCategoryView.cpp" line="293"/>
+        <location filename="InfoCategoryView.cpp" line="245"/>
+        <location filename="InfoCategoryView.cpp" line="286"/>
         <source>Import</source>
         <translation>インポート</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="252"/>
-        <location filename="InfoCategoryView.cpp" line="293"/>
+        <location filename="InfoCategoryView.cpp" line="245"/>
+        <location filename="InfoCategoryView.cpp" line="286"/>
         <source>Are you sure that you want to start importing categories file?</source>
         <translation>カテゴリーファイルのインポートを開始してよろしいですか？</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="257"/>
-        <location filename="InfoCategoryView.cpp" line="300"/>
+        <location filename="InfoCategoryView.cpp" line="250"/>
+        <location filename="InfoCategoryView.cpp" line="293"/>
         <source>Importing categories file, please wait...</source>
         <oldsource>Importing categories file, please wait... </oldsource>
         <translation>カテゴリーファイルをインポートしています。お待ちください...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="275"/>
-        <location filename="InfoCategoryView.cpp" line="321"/>
+        <location filename="InfoCategoryView.cpp" line="268"/>
+        <location filename="InfoCategoryView.cpp" line="314"/>
         <source>Exporting categories file, please wait...</source>
         <oldsource>Exporting categories file, please wait... </oldsource>
         <translation>カテゴリーファイルをエクスポートしています。お待ちください...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="327"/>
-        <source>Clear all categories</source>
-        <translation>すべてのカテゴリーをクリア</translation>
-    </message>
-    <message>
-        <location filename="InfoCategoryView.cpp" line="327"/>
-        <source>Do you want to clear all categories?</source>
-        <translation>すべてのカテゴリーをクリアしますか？</translation>
-    </message>
-    <message>
-        <location filename="InfoCategoryView.cpp" line="333"/>
-        <source>Clear orphaned categories</source>
-        <translation>不明なカテゴリーをクリア</translation>
-    </message>
-    <message>
-        <location filename="InfoCategoryView.cpp" line="333"/>
-        <source>Do you want to clear orphaned categories?</source>
-        <translation>不明なカテゴリーをクリアしますか？</translation>
-    </message>
-    <message>
-        <location filename="InfoCategoryView.cpp" line="413"/>
+        <location filename="InfoCategoryView.cpp" line="406"/>
         <source> [Create New]</source>
         <translation> [新規作成]</translation>
     </message>
@@ -17494,14 +17489,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1119"/>
-        <location filename="TemplateData.cpp" line="2605"/>
+        <location filename="TemplateData.cpp" line="2600"/>
         <source>Maker</source>
         <translatorcomment>TXT_String_Exif_Make</translatorcomment>
         <translation>メーカー名</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1121"/>
-        <location filename="TemplateData.cpp" line="2606"/>
+        <location filename="TemplateData.cpp" line="2601"/>
         <source>Model</source>
         <translatorcomment>TXT_String_Exif_Model</translatorcomment>
         <translation>機種名</translation>
@@ -17530,479 +17525,479 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1131"/>
-        <location filename="TemplateData.cpp" line="2644"/>
+        <location filename="TemplateData.cpp" line="2639"/>
         <source>Aperture</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Aperture</translatorcomment>
         <translation>絞り</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1133"/>
-        <location filename="TemplateData.cpp" line="2689"/>
+        <location filename="TemplateData.cpp" line="2684"/>
         <source>Latitude</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Latitude</translatorcomment>
         <translation>&quot;緯度 (数値)&quot;</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1135"/>
-        <location filename="TemplateData.cpp" line="2692"/>
+        <location filename="TemplateData.cpp" line="2687"/>
         <source>Longitude</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Longitude</translatorcomment>
         <translation>経度 (数値)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2618"/>
+        <location filename="TemplateData.cpp" line="2613"/>
         <source>Software</source>
         <translatorcomment>TXT_String_Exif_Software</translatorcomment>
         <translation>ソフトウェア</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2607"/>
+        <location filename="TemplateData.cpp" line="2602"/>
         <source>Artist</source>
         <translatorcomment>TXT_String_Exif_Artist</translatorcomment>
         <translation>作者</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="TemplateData.cpp" line="2626"/>
         <source>User comment</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_User_comment</translatorcomment>
         <translation>ユーザーコメント</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2639"/>
+        <location filename="TemplateData.cpp" line="2634"/>
         <source>F-Number</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_F_Number</translatorcomment>
         <translation>F-値</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2608"/>
+        <location filename="TemplateData.cpp" line="2603"/>
         <source>Copyright</source>
         <translatorcomment>TXT_String_Exif_Copyright</translatorcomment>
         <translation>著作権</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2609"/>
+        <location filename="TemplateData.cpp" line="2604"/>
         <source>Date/time modified</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Date_time_modified</translatorcomment>
         <translation>更新時</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2610"/>
+        <location filename="TemplateData.cpp" line="2605"/>
         <source>Orientation</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Orientation</translatorcomment>
         <translation>向き</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2611"/>
+        <location filename="TemplateData.cpp" line="2606"/>
         <source>X-Resolution</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_XResolution</translatorcomment>
         <translation>横解像度</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2612"/>
+        <location filename="TemplateData.cpp" line="2607"/>
         <source>Y-Resolution</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_YResolution</translatorcomment>
         <translation>縦解像度</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2613"/>
+        <location filename="TemplateData.cpp" line="2608"/>
         <source>Resolution unit</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Resolution_unit</translatorcomment>
         <translation>解像度単位</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2614"/>
+        <location filename="TemplateData.cpp" line="2609"/>
         <source>Primary chromaticities</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Primary_chromaticities</translatorcomment>
         <translation>一次色度</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2615"/>
+        <location filename="TemplateData.cpp" line="2610"/>
         <source>YCbCr-Coefficients</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_YCbCr_Coefficients</translatorcomment>
         <translation>YCbCr - 係数</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2616"/>
+        <location filename="TemplateData.cpp" line="2611"/>
         <source>YCbCr-Positioning</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_YCbCr_Positioning</translatorcomment>
         <translation>YCbCr - 位置</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2617"/>
+        <location filename="TemplateData.cpp" line="2612"/>
         <source>Ref. black/white</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Ref_black_white</translatorcomment>
         <translation>基準白/黒</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2620"/>
+        <location filename="TemplateData.cpp" line="2615"/>
         <source>LensID</source>
         <translation>レンズID</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2622"/>
+        <location filename="TemplateData.cpp" line="2617"/>
         <source>XP Title</source>
         <translation>XP タイトル</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2623"/>
+        <location filename="TemplateData.cpp" line="2618"/>
         <source>XP Comment</source>
         <translation>XP コメント</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2624"/>
+        <location filename="TemplateData.cpp" line="2619"/>
         <source>XP Author</source>
         <translation>XP 著作者</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2625"/>
+        <location filename="TemplateData.cpp" line="2620"/>
         <source>XP Keywords</source>
         <translation>XP キーワード</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2626"/>
+        <location filename="TemplateData.cpp" line="2621"/>
         <source>XP Subject</source>
         <translation>XP 被写体</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2632"/>
+        <location filename="TemplateData.cpp" line="2627"/>
         <source>Date taken</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Date_taken</translatorcomment>
         <translation>撮影日付</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2633"/>
+        <location filename="TemplateData.cpp" line="2628"/>
         <source>Date digitized</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Date_digitized</translatorcomment>
         <translation>デジタル化日付</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2634"/>
+        <location filename="TemplateData.cpp" line="2629"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translatorcomment>TXT_TemplateMenu_EXIF_Exposure_time</translatorcomment>
         <translation>露光時間（秒）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2635"/>
+        <location filename="TemplateData.cpp" line="2630"/>
         <source>Exposure Program</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Exposure_program</translatorcomment>
         <translation>露光プログラム</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2636"/>
+        <location filename="TemplateData.cpp" line="2631"/>
         <source>Exposure Mode</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Exposure_mode</translatorcomment>
         <translation>露光モード</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2637"/>
+        <location filename="TemplateData.cpp" line="2632"/>
         <source>Exposure Bias</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Exposure_bias</translatorcomment>
         <translation>露光バイアス</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2638"/>
+        <location filename="TemplateData.cpp" line="2633"/>
         <source>Exposure Index</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Exposure_index</translatorcomment>
         <translation>露光指数</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2640"/>
+        <location filename="TemplateData.cpp" line="2635"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_length</translatorcomment>
         <translation>焦点距離 (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2641"/>
+        <location filename="TemplateData.cpp" line="2636"/>
         <source>35mm Focal length</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_35mm_focal_length</translatorcomment>
         <translation>35mm 相当焦点距離</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2642"/>
+        <location filename="TemplateData.cpp" line="2637"/>
         <source>ISO Value</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_ISO_value</translatorcomment>
         <translation>ISO 値</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2643"/>
+        <location filename="TemplateData.cpp" line="2638"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translatorcomment>TXT_TemplateMenu_EXIF_Shutter_speed</translatorcomment>
         <translation>シャッタースピード (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2645"/>
+        <location filename="TemplateData.cpp" line="2640"/>
         <source>Max. aperture</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Max_aperture</translatorcomment>
         <translation>最大絞り</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2646"/>
+        <location filename="TemplateData.cpp" line="2641"/>
         <source>Colour space</source>
         <translation>色空間</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2647"/>
+        <location filename="TemplateData.cpp" line="2642"/>
         <source>Digital zoom</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Digital_zoom</translatorcomment>
         <translation>デジタルズーム</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2648"/>
+        <location filename="TemplateData.cpp" line="2643"/>
         <source>Subject Distance (m)</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Subject_distance</translatorcomment>
         <translation>被写体距離 (m)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2649"/>
+        <location filename="TemplateData.cpp" line="2644"/>
         <source>Subj. Dist. Range</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Subj_distance_range</translatorcomment>
         <translation>被写体距離範囲</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2650"/>
+        <location filename="TemplateData.cpp" line="2645"/>
         <source>Subject location</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Subject_location</translatorcomment>
         <translation>被写体位置</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2651"/>
+        <location filename="TemplateData.cpp" line="2646"/>
         <source>Flash</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Flash</translatorcomment>
         <translation>フラッシュ</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2652"/>
+        <location filename="TemplateData.cpp" line="2647"/>
         <source>Flash energy</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Flash_energy</translatorcomment>
         <translation>フラッシュエネルギー</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2653"/>
+        <location filename="TemplateData.cpp" line="2648"/>
         <source>Metering mode</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Metering_mode</translatorcomment>
         <translation>計量モード</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2654"/>
+        <location filename="TemplateData.cpp" line="2649"/>
         <source>Gain control</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Gain_control</translatorcomment>
         <translation>ゲインコントロール</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2655"/>
+        <location filename="TemplateData.cpp" line="2650"/>
         <source>Light source</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Light_source</translatorcomment>
         <translation>光源</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2656"/>
+        <location filename="TemplateData.cpp" line="2651"/>
         <source>White balance</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_White_balance</translatorcomment>
         <translation>ホワイトバランス</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2657"/>
+        <location filename="TemplateData.cpp" line="2652"/>
         <source>Contrast</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Contrast</translatorcomment>
         <translation>コントラスト</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2658"/>
+        <location filename="TemplateData.cpp" line="2653"/>
         <source>Saturation</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Saturation</translatorcomment>
         <translation>色彩度</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2659"/>
+        <location filename="TemplateData.cpp" line="2654"/>
         <source>Sharpness</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Sharpness</translatorcomment>
         <translation>シャープネス</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2660"/>
+        <location filename="TemplateData.cpp" line="2655"/>
         <source>Brightness</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Brightness</translatorcomment>
         <translation>明るさ</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2661"/>
+        <location filename="TemplateData.cpp" line="2656"/>
         <source>Spectral sensitivity</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Spectral_sensitivity</translatorcomment>
         <translation>スペクトル感度</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2662"/>
+        <location filename="TemplateData.cpp" line="2657"/>
         <source>Spatial freq. response</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Spatial_freq_response</translatorcomment>
         <translation>空間周波数特性</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2663"/>
+        <location filename="TemplateData.cpp" line="2658"/>
         <source>Sensing method</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Sensing_method</translatorcomment>
         <translation>感知方法</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2664"/>
+        <location filename="TemplateData.cpp" line="2659"/>
         <source>File source</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_File_source</translatorcomment>
         <translation>ファイルソース</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2665"/>
+        <location filename="TemplateData.cpp" line="2660"/>
         <source>CFA pattern</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_CFA_pattern</translatorcomment>
         <translation>CFAパターン</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2666"/>
+        <location filename="TemplateData.cpp" line="2661"/>
         <source>Custom rendered</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Custom_rendered</translatorcomment>
         <translation>カスタムレンダリング</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2667"/>
+        <location filename="TemplateData.cpp" line="2662"/>
         <source>Device settings desc.</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Device_settings_desc</translatorcomment>
         <translation>機械設定</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2668"/>
+        <location filename="TemplateData.cpp" line="2663"/>
         <source>Scene type</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Scene_type</translatorcomment>
         <translation>シーンタイプ</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2669"/>
+        <location filename="TemplateData.cpp" line="2664"/>
         <source>Scene capture type</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Scene_capture_type</translatorcomment>
         <translation>シーンキャプチャタイプ</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2670"/>
+        <location filename="TemplateData.cpp" line="2665"/>
         <source>Image-ID</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Image_ID</translatorcomment>
         <translation>画像ID</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2671"/>
+        <location filename="TemplateData.cpp" line="2666"/>
         <source>Image width</source>
         <translatorcomment>TXT_String_Exif_Image_Width</translatorcomment>
         <translation>画像幅</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2672"/>
+        <location filename="TemplateData.cpp" line="2667"/>
         <source>Image height</source>
         <translatorcomment>TXT_String_Exif_Image_Length</translatorcomment>
         <translation>画像高さ</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2673"/>
+        <location filename="TemplateData.cpp" line="2668"/>
         <source>Image description</source>
         <translatorcomment>TXT_String_Exif_Image_Description</translatorcomment>
         <translation>説明</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2674"/>
+        <location filename="TemplateData.cpp" line="2669"/>
         <source>Components configuration</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Components_conf</translatorcomment>
         <translation>構成要素設定</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2675"/>
+        <location filename="TemplateData.cpp" line="2670"/>
         <source>Photometric interpretation</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Photometric_interp</translatorcomment>
         <translation>測光解説</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2676"/>
+        <location filename="TemplateData.cpp" line="2671"/>
         <source>Focal Plane X-Resolution</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_plane_XRes</translatorcomment>
         <translation>焦点面の幅の解像度</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2677"/>
+        <location filename="TemplateData.cpp" line="2672"/>
         <source>Focal Plane Y-Resolution</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_plane_YRes</translatorcomment>
         <translation>焦点面の高さの解像度</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2678"/>
+        <location filename="TemplateData.cpp" line="2673"/>
         <source>Focal Plane Res. Unit</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_plane_res_unit</translatorcomment>
         <translation>焦点面解像度単位</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2679"/>
+        <location filename="TemplateData.cpp" line="2674"/>
         <source>EXIF Version</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_EXIF_version</translatorcomment>
         <translation>EXIFバージョン</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2680"/>
+        <location filename="TemplateData.cpp" line="2675"/>
         <source>White point</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_White_point</translatorcomment>
         <translation>白点</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2681"/>
+        <location filename="TemplateData.cpp" line="2676"/>
         <source>Lens Make</source>
         <translation>レンズメーカー</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2682"/>
+        <location filename="TemplateData.cpp" line="2677"/>
         <source>Lens Model</source>
         <translation>レンズモデル</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2688"/>
+        <location filename="TemplateData.cpp" line="2683"/>
         <source>Latitude ref.</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Latitude_Ref</translatorcomment>
         <translation>北緯(N) or 南緯(S)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2690"/>
+        <location filename="TemplateData.cpp" line="2685"/>
         <source>Latitude (value)</source>
         <translation>緯度（数値）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2691"/>
+        <location filename="TemplateData.cpp" line="2686"/>
         <source>Longitude ref.</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Longitude_Ref</translatorcomment>
         <translation>東経(E) or 西経(W)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2693"/>
+        <location filename="TemplateData.cpp" line="2688"/>
         <source>Longitude (value)</source>
         <translation>経度（数値）</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2694"/>
+        <location filename="TemplateData.cpp" line="2689"/>
         <source>Altitude ref.</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Altitude_Ref</translatorcomment>
         <translation>高度の単位</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2695"/>
+        <location filename="TemplateData.cpp" line="2690"/>
         <source>Altitude</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Altitude</translatorcomment>
         <translation>高度 (数値)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2696"/>
+        <location filename="TemplateData.cpp" line="2691"/>
         <source>Direction ref.</source>
         <translation>方向の単位</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2697"/>
+        <location filename="TemplateData.cpp" line="2692"/>
         <source>Direction</source>
         <translation>方向</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2698"/>
+        <location filename="TemplateData.cpp" line="2693"/>
         <source>Location Code</source>
         <translation>撮影地コード</translation>
     </message>
@@ -18046,7 +18041,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
         <location filename="ItemModel.cpp" line="1138"/>
-        <location filename="TemplateData.cpp" line="2703"/>
+        <location filename="TemplateData.cpp" line="2698"/>
         <source>Caption</source>
         <translatorcomment>TXT_String_Iptc_Caption</translatorcomment>
         <translation>キャプション</translation>
@@ -18056,8 +18051,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <location filename="ItemModel.cpp" line="1140"/>
-        <location filename="TemplateData.cpp" line="2704"/>
-        <location filename="TemplateData.cpp" line="2757"/>
+        <location filename="TemplateData.cpp" line="2699"/>
+        <location filename="TemplateData.cpp" line="2752"/>
         <source>Caption writer</source>
         <translatorcomment>TXT_String_Iptc_Caption_Writer</translatorcomment>
         <translation>筆者</translation>
@@ -18067,8 +18062,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1142"/>
-        <location filename="TemplateData.cpp" line="2705"/>
-        <location filename="TemplateData.cpp" line="2761"/>
+        <location filename="TemplateData.cpp" line="2700"/>
+        <location filename="TemplateData.cpp" line="2756"/>
         <source>Headline</source>
         <translatorcomment>TXT_String_Iptc_Headline</translatorcomment>
         <translation>ヘッドライン</translation>
@@ -18076,7 +18071,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
-        <location filename="TemplateData.cpp" line="2706"/>
+        <location filename="TemplateData.cpp" line="2701"/>
         <source>Special instructions</source>
         <translatorcomment>TXT_Iptc_Special_Instruction</translatorcomment>
         <translation>特殊な指示</translation>
@@ -18086,14 +18081,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="33"/>
         <location filename="IptcHelper.cpp" line="22"/>
         <location filename="ItemModel.cpp" line="1144"/>
-        <location filename="TemplateData.cpp" line="2711"/>
+        <location filename="TemplateData.cpp" line="2706"/>
         <source>Keywords</source>
         <translatorcomment>TXT_String_Keywords</translatorcomment>
         <translation>キーワード</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2712"/>
+        <location filename="TemplateData.cpp" line="2707"/>
         <source>Category</source>
         <translatorcomment>TXT_String_Categories</translatorcomment>
         <translation>カテゴリー</translation>
@@ -18101,7 +18096,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
         <location filename="IptcHelper.cpp" line="24"/>
-        <location filename="TemplateData.cpp" line="2713"/>
+        <location filename="TemplateData.cpp" line="2708"/>
         <source>Supplemental categories</source>
         <translatorcomment>TXT_Iptc_Supplemental_Categories</translatorcomment>
         <translation>補足カテゴリー</translation>
@@ -18110,8 +18105,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="40"/>
         <location filename="IptcHelper.cpp" line="30"/>
         <location filename="ItemModel.cpp" line="1156"/>
-        <location filename="TemplateData.cpp" line="2718"/>
-        <location filename="TemplateData.cpp" line="2753"/>
+        <location filename="TemplateData.cpp" line="2713"/>
+        <location filename="TemplateData.cpp" line="2748"/>
         <source>Copyright</source>
         <translatorcomment>TXT_Iptc_Copyright</translatorcomment>
         <translation>著作権</translation>
@@ -18120,7 +18115,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="26"/>
         <location filename="ItemModel.cpp" line="1148"/>
-        <location filename="TemplateData.cpp" line="2719"/>
+        <location filename="TemplateData.cpp" line="2714"/>
         <source>Byline</source>
         <translatorcomment>TXT_String_Iptc_Byline</translatorcomment>
         <translation>著者欄</translation>
@@ -18129,7 +18124,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
         <location filename="ItemModel.cpp" line="1150"/>
-        <location filename="TemplateData.cpp" line="2720"/>
+        <location filename="TemplateData.cpp" line="2715"/>
         <source>Byline title</source>
         <translatorcomment>TXT_String_Iptc_BylineTitle</translatorcomment>
         <translation>著者欄のタイトル</translation>
@@ -18145,8 +18140,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="29"/>
         <location filename="ItemModel.cpp" line="1154"/>
-        <location filename="TemplateData.cpp" line="2722"/>
-        <location filename="TemplateData.cpp" line="2763"/>
+        <location filename="TemplateData.cpp" line="2717"/>
+        <location filename="TemplateData.cpp" line="2758"/>
         <source>Source</source>
         <translatorcomment>TXT_String_Iptc_Source</translatorcomment>
         <translation>ソース</translation>
@@ -18154,7 +18149,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="49"/>
         <location filename="IptcHelper.cpp" line="33"/>
-        <location filename="TemplateData.cpp" line="2727"/>
+        <location filename="TemplateData.cpp" line="2722"/>
         <source>Edit status</source>
         <translatorcomment>TXT_Iptc_Edit_Status</translatorcomment>
         <translation>編集状況</translation>
@@ -18162,7 +18157,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2730"/>
+        <location filename="TemplateData.cpp" line="2725"/>
         <source>Job ID</source>
         <translatorcomment>TXT_Iptc_Job_ID</translatorcomment>
         <translation>ジョブID</translation>
@@ -18170,7 +18165,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="37"/>
-        <location filename="TemplateData.cpp" line="2731"/>
+        <location filename="TemplateData.cpp" line="2726"/>
         <source>Program</source>
         <translatorcomment>TXT_Iptc_Program</translatorcomment>
         <translation>プログラム</translation>
@@ -18185,7 +18180,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="53"/>
         <location filename="IptcHelper.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2728"/>
+        <location filename="TemplateData.cpp" line="2723"/>
         <source>Priority</source>
         <translatorcomment>TXT_Iptc_Priority</translatorcomment>
         <translation>優先順位</translation>
@@ -18204,15 +18199,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="42"/>
         <location filename="ItemModel.cpp" line="1160"/>
-        <location filename="TemplateData.cpp" line="2739"/>
-        <location filename="TemplateData.cpp" line="2758"/>
+        <location filename="TemplateData.cpp" line="2734"/>
+        <location filename="TemplateData.cpp" line="2753"/>
         <source>City</source>
         <translatorcomment>TXT_Iptc_City</translatorcomment>
         <translation>都市名</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2746"/>
+        <location filename="TemplateData.cpp" line="2741"/>
         <source>Content location</source>
         <translation>撮影地</translation>
     </message>
@@ -18230,8 +18225,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="63"/>
         <location filename="IptcHelper.cpp" line="45"/>
         <location filename="ItemModel.cpp" line="1166"/>
-        <location filename="TemplateData.cpp" line="2742"/>
-        <location filename="TemplateData.cpp" line="2759"/>
+        <location filename="TemplateData.cpp" line="2737"/>
+        <location filename="TemplateData.cpp" line="2754"/>
         <source>Country</source>
         <translatorcomment>TXT_Iptc_Country</translatorcomment>
         <translation>国</translation>
@@ -18239,7 +18234,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
-        <location filename="TemplateData.cpp" line="2743"/>
+        <location filename="TemplateData.cpp" line="2738"/>
         <source>Country code</source>
         <translatorcomment>TXT_Iptc_Country_Code</translatorcomment>
         <translation>国番号</translation>
@@ -18252,7 +18247,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <location filename="TemplateData.cpp" line="2737"/>
+        <location filename="TemplateData.cpp" line="2732"/>
         <source>Created date</source>
         <translatorcomment>TXT_Iptc_Date_Created</translatorcomment>
         <translation>作成日付</translation>
@@ -18265,7 +18260,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="68"/>
-        <location filename="TemplateData.cpp" line="2738"/>
+        <location filename="TemplateData.cpp" line="2733"/>
         <source>Released date</source>
         <translatorcomment>TXT_Iptc_Release_Date</translatorcomment>
         <translation>リリース日付</translation>
@@ -18290,7 +18285,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="72"/>
         <location filename="IptcHelper.cpp" line="31"/>
         <location filename="ItemModel.cpp" line="1158"/>
-        <location filename="TemplateData.cpp" line="2745"/>
+        <location filename="TemplateData.cpp" line="2740"/>
         <source>Contact</source>
         <translatorcomment>TXT_Iptc_Contact</translatorcomment>
         <translation>連絡先</translation>
@@ -18300,7 +18295,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
         <location filename="ItemModel.cpp" line="1162"/>
-        <location filename="TemplateData.cpp" line="2740"/>
+        <location filename="TemplateData.cpp" line="2735"/>
         <source>Location</source>
         <translatorcomment>TXT_Iptc_Location?</translatorcomment>
         <translation>場所</translation>
@@ -18338,8 +18333,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="127"/>
         <location filename="ItemModel.cpp" line="1152"/>
-        <location filename="TemplateData.cpp" line="2721"/>
-        <location filename="TemplateData.cpp" line="2760"/>
+        <location filename="TemplateData.cpp" line="2716"/>
+        <location filename="TemplateData.cpp" line="2755"/>
         <source>Credit</source>
         <translation>クレジット</translation>
     </message>
@@ -18348,54 +18343,54 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="165"/>
         <location filename="EditXMPWidget.cpp" line="180"/>
         <location filename="ItemModel.cpp" line="1164"/>
-        <location filename="TemplateData.cpp" line="2741"/>
-        <location filename="TemplateData.cpp" line="2764"/>
+        <location filename="TemplateData.cpp" line="2736"/>
+        <location filename="TemplateData.cpp" line="2759"/>
         <source>State</source>
         <translatorcomment>不明</translatorcomment>
         <translation>州/県名</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2729"/>
+        <location filename="TemplateData.cpp" line="2724"/>
         <source>Cycle</source>
         <translatorcomment>TXT_Iptc_Object_Cycle</translatorcomment>
         <translation>オブジェクトのサイクル</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2744"/>
+        <location filename="TemplateData.cpp" line="2739"/>
         <source>Original trans. ref.</source>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
         <translation>オリジナル送信リファレンス</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2751"/>
+        <location filename="TemplateData.cpp" line="2746"/>
         <source>Creator</source>
         <translation>作成者</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="111"/>
-        <location filename="TemplateData.cpp" line="2752"/>
+        <location filename="TemplateData.cpp" line="2747"/>
         <source>Description</source>
         <translation>説明</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2754"/>
+        <location filename="TemplateData.cpp" line="2749"/>
         <source>Subject</source>
         <translation>題名</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2755"/>
+        <location filename="TemplateData.cpp" line="2750"/>
         <source>Title</source>
         <translation>タイトル</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2756"/>
+        <location filename="TemplateData.cpp" line="2751"/>
         <source>Authors position</source>
         <translation>作者の位置</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="130"/>
-        <location filename="TemplateData.cpp" line="2762"/>
+        <location filename="TemplateData.cpp" line="2757"/>
         <source>Instructions</source>
         <translation>指示</translation>
     </message>
@@ -18404,7 +18399,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="59"/>
         <location filename="IptcHelper.cpp" line="48"/>
         <location filename="ItemModel.cpp" line="1168"/>
-        <location filename="TemplateData.cpp" line="2736"/>
+        <location filename="TemplateData.cpp" line="2731"/>
         <source>Document title</source>
         <translation>文書のタイトル</translation>
     </message>
@@ -20697,128 +20692,128 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuTemplate</name>
     <message>
-        <location filename="TemplateData.cpp" line="2785"/>
+        <location filename="TemplateData.cpp" line="2780"/>
         <source>Date format variables</source>
         <translation>日付書式の変数記号</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2550"/>
+        <location filename="TemplateData.cpp" line="2545"/>
         <source>Y - Year</source>
         <translation>Y - 年</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2551"/>
+        <location filename="TemplateData.cpp" line="2546"/>
         <source>y - Year without century (00-99)</source>
         <translation>y - 世紀なしの年 (00-99)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2552"/>
+        <location filename="TemplateData.cpp" line="2547"/>
         <source>m - Month as decimal (01-12)</source>
         <translation>m - 月(01-12)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2553"/>
+        <location filename="TemplateData.cpp" line="2548"/>
         <source>d - Day as decimal (01-31)</source>
         <translation>d - 日(01-31)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2555"/>
+        <location filename="TemplateData.cpp" line="2550"/>
         <source>H - Hour (01-24)</source>
         <translation>H - 時(01-24)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2556"/>
+        <location filename="TemplateData.cpp" line="2551"/>
         <source>M - Minute (00-59)</source>
         <translation>M - 分 (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2557"/>
+        <location filename="TemplateData.cpp" line="2552"/>
         <source>S - Second (00-59)</source>
         <translation>S - 秒(00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2559"/>
+        <location filename="TemplateData.cpp" line="2554"/>
         <source>B - Month name (eg. february)</source>
         <translation>B - 月の名前(例:february)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2560"/>
+        <location filename="TemplateData.cpp" line="2555"/>
         <source>b - Abbreviated month name (eg. feb)</source>
         <translation>b - 省略された月の名前(例:feb)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2561"/>
+        <location filename="TemplateData.cpp" line="2556"/>
         <source>A - Weekday name (eg. wednesday)</source>
         <translation>A - 曜日の名前(例:wednesday)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2562"/>
+        <location filename="TemplateData.cpp" line="2557"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
         <translation>a - 省略された曜日の名前(例:wed)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2784"/>
+        <location filename="TemplateData.cpp" line="2779"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
         <translation># - 数値列挙子</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2802"/>
+        <location filename="TemplateData.cpp" line="2797"/>
         <source>Extra</source>
         <translation>その他</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2804"/>
+        <location filename="TemplateData.cpp" line="2799"/>
         <source>Image</source>
         <translation>画像</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2805"/>
+        <location filename="TemplateData.cpp" line="2800"/>
         <source>Saved Image</source>
         <translation>保存した画像</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2806"/>
+        <location filename="TemplateData.cpp" line="2801"/>
         <source>EXIF - Camera</source>
         <translation>EXIF - カメラ</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2807"/>
+        <location filename="TemplateData.cpp" line="2802"/>
         <source>EXIF - Image</source>
         <translation>EXIF - 画像</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2808"/>
+        <location filename="TemplateData.cpp" line="2803"/>
         <source>EXIF - GPS</source>
         <translation>EXIF - GPS</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2809"/>
+        <location filename="TemplateData.cpp" line="2804"/>
         <source>IPTC - Caption</source>
         <translation>IPTC - キャプション</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2810"/>
+        <location filename="TemplateData.cpp" line="2805"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
         <translation>IPTC - キーワード ＆ カテゴリー</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2814"/>
+        <location filename="TemplateData.cpp" line="2809"/>
         <source>XMP</source>
         <translation>XMP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2811"/>
+        <location filename="TemplateData.cpp" line="2806"/>
         <source>IPTC - Credits</source>
         <translation>IPTC - クレジット</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2812"/>
+        <location filename="TemplateData.cpp" line="2807"/>
         <source>IPTC - Status</source>
         <translation>IPTC - ステータス</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2813"/>
+        <location filename="TemplateData.cpp" line="2808"/>
         <source>IPTC - Origin</source>
         <translation>IPTC - 起源</translation>
     </message>

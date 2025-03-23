@@ -663,10 +663,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Nimi:</translation>
     </message>
     <message>
-        <source>Manager...</source>
-        <translation>Hallinta...</translation>
-    </message>
-    <message>
         <source>Enter a name for this set</source>
         <translation>Anna nimi tälle ryhmälle</translation>
     </message>
@@ -697,6 +693,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Enter a name for this layout</source>
         <translation>Anna nimi tälle asettelulle</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">Asettelu</translation>
     </message>
 </context>
 <context>
@@ -5956,20 +5956,8 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation>Tila</translation>
     </message>
     <message>
-        <source>Slow</source>
-        <translation>Hidas</translation>
-    </message>
-    <message>
         <source>Smoothing factor</source>
         <translation>Tasoituskerroin</translation>
-    </message>
-    <message>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1,1x1,1x1 (4:2:2)</translation>
-    </message>
-    <message>
-        <source>Float (best but slowest)</source>
-        <translation>Float (paras mutta hitain)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5984,28 +5972,8 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <translation>Huonoin</translation>
     </message>
     <message>
-        <source>DCT Method</source>
-        <translation>DCT-menetelmä</translation>
-    </message>
-    <message>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1,1x1 (paras laatu)</translation>
-    </message>
-    <message>
-        <source>Subsampling factor</source>
-        <translation>Alinäytteistys</translation>
-    </message>
-    <message>
         <source>&amp;Export...</source>
         <translation>&amp;Vie...</translation>
-    </message>
-    <message>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (oletus)</translation>
-    </message>
-    <message>
-        <source>Fast (worst but faster)</source>
-        <translation>Nopea (huonoin mutta nopein)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -6062,6 +6030,34 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Keep XMP</source>
         <translation>Pidä XMP</translation>
+    </message>
+    <message>
+        <source>DCT method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but fastest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating-point (best but slowest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished">Alinäytteistys</translation>
+    </message>
+    <message>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
+        <translation type="unfinished">4:4:4 (1x1,1x1,1x1) paras laatu</translation>
     </message>
 </context>
 <context>
@@ -7831,6 +7827,10 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Convert</source>
         <translation type="unfinished">Muunna</translation>
+    </message>
+    <message>
+        <source>Full/Half size rendering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10360,16 +10360,8 @@ Haluatko määrittää uudelleen?</translation>
         <translation type="unfinished">Kategoriat</translation>
     </message>
     <message>
-        <source>XMP:Subject</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Face tag</source>
         <translation type="unfinished">Kasvojen tunnistus</translation>
-    </message>
-    <message>
-        <source>IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12100,10 +12092,6 @@ Haluatko jatkaa?</translation>
         <translation>Huonoin</translation>
     </message>
     <message>
-        <source>DCT Method</source>
-        <translation>DCT-menetelmä</translation>
-    </message>
-    <message>
         <source>Progressive</source>
         <translation>Progressiivinen</translation>
     </message>
@@ -12132,10 +12120,6 @@ Haluatko jatkaa?</translation>
         <translation type="unfinished">Alinäytteistys</translation>
     </message>
     <message>
-        <source>Fast integer (worst but faster)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Floating-point (best but slowest)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12144,12 +12128,16 @@ Haluatko jatkaa?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4:2:2 (2x1,1x1,1x1)</source>
-        <translation>4:2:2 (2x1,1x1,1x1)</translation>
-    </message>
-    <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <translation>4:4:4 (1x1,1x1,1x1) paras laatu</translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but fastest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DCT method</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13251,16 +13239,8 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Aseta kategoria</translation>
     </message>
     <message>
-        <source>Do you want to clear orphaned categories?</source>
-        <translation>Haluatko tyhjentää orvot kategoriat?</translation>
-    </message>
-    <message>
         <source>Are you sure that you want to start importing categories file?</source>
         <translation>Oletko varma että haluat aloittaa kategoriat-tiedoston tuonnin?</translation>
-    </message>
-    <message>
-        <source>Clear all...</source>
-        <translation>Tyhjennä kaikki...</translation>
     </message>
     <message>
         <source>Auto Correct...</source>
@@ -13299,16 +13279,8 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Tuodaan kategoriatiedosto, odota...</translation>
     </message>
     <message>
-        <source>Clear all categories</source>
-        <translation>Tyhjennä kaikki kategoriat</translation>
-    </message>
-    <message>
         <source>Open Tree</source>
         <translation>Avaa kansiopuu</translation>
-    </message>
-    <message>
-        <source>Clear orphaned categories</source>
-        <translation>Tyhjennä orvot kategoriat</translation>
     </message>
     <message>
         <source>Partial Match at the Beginning</source>
@@ -13319,12 +13291,32 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Piilota määritetyt luokat</translation>
     </message>
     <message>
-        <source>Do you want to clear all categories?</source>
-        <translation>Haluatko tyhjentää kaikki kategoriat?</translation>
-    </message>
-    <message>
         <source> [Create New]</source>
         <translation> [Luo uusi]</translation>
+    </message>
+    <message>
+        <source>Delete unused categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete all categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete all categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete all categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete unused categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete unused categories?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

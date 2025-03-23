@@ -665,10 +665,6 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Nume:</translation>
     </message>
     <message>
-        <source>Manager...</source>
-        <translation>Administrator...</translation>
-    </message>
-    <message>
         <source>Enter a name for this set</source>
         <translation>Introdu un nume pentru acest set</translation>
     </message>
@@ -699,6 +695,10 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <message>
         <source>Enter a name for this layout</source>
         <translation>Introdu un nume pentru acest aspect</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">Aspect</translation>
     </message>
 </context>
 <context>
@@ -5971,20 +5971,8 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
         <translation>Modul</translation>
     </message>
     <message>
-        <source>Slow</source>
-        <translation>Încet</translation>
-    </message>
-    <message>
         <source>Smoothing factor</source>
         <translation>Factor de netezire</translation>
-    </message>
-    <message>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2x1,1x1,1x1 (4:2:2)</translation>
-    </message>
-    <message>
-        <source>Float (best but slowest)</source>
-        <translation>Plutire (cea mai bună, dar cel mai lentă)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5999,28 +5987,8 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
         <translation>Cel mai scăzut</translation>
     </message>
     <message>
-        <source>DCT Method</source>
-        <translation>Metoda DCT</translation>
-    </message>
-    <message>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1,1x1,1x1 (cea mai bună calitate)</translation>
-    </message>
-    <message>
-        <source>Subsampling factor</source>
-        <translation>Factorul de subeșantionare</translation>
-    </message>
-    <message>
         <source>&amp;Export...</source>
         <translation>&amp;Export...</translation>
-    </message>
-    <message>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2x2,1x1,1x1 (implicit)</translation>
-    </message>
-    <message>
-        <source>Fast (worst but faster)</source>
-        <translation>Rapid (cel mai rău, dar mai rapid)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -6077,6 +6045,34 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <message>
         <source>Keep XMP</source>
         <translation>Păstrează XMP-ul</translation>
+    </message>
+    <message>
+        <source>DCT method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but fastest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating-point (best but slowest)</source>
+        <translation type="unfinished">Număr în virgulă mobilă (cel mai bun, dar cel mai lent)</translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished">4:2:0 (2x2,1x1,1x1) Cel mai mic fișier</translation>
+    </message>
+    <message>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
+        <translation type="unfinished">4:4:4 (1x1,1x1,1x1) Cea mai bună calitate</translation>
     </message>
 </context>
 <context>
@@ -7842,6 +7838,10 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <message>
         <source>Convert</source>
         <translation>Convertește</translation>
+    </message>
+    <message>
+        <source>Full/Half size rendering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10370,16 +10370,8 @@ Dorești să-l reatribui?</translation>
         <translation>Categorii</translation>
     </message>
     <message>
-        <source>XMP:Subject</source>
-        <translation>XMP:Subiect</translation>
-    </message>
-    <message>
         <source>Face tag</source>
         <translation>Etichetă facială</translation>
-    </message>
-    <message>
-        <source>IPTC:Keywords</source>
-        <translation>IPTC:Cuvinte cheie</translation>
     </message>
 </context>
 <context>
@@ -12109,10 +12101,6 @@ Vrei să continui?</translation>
         <translation>Cel mai scăzut</translation>
     </message>
     <message>
-        <source>DCT Method</source>
-        <translation>Metoda DCT</translation>
-    </message>
-    <message>
         <source>Progressive</source>
         <translation>Progresist</translation>
     </message>
@@ -12141,10 +12129,6 @@ Vrei să continui?</translation>
         <translation>Factor de subeșantionare</translation>
     </message>
     <message>
-        <source>Fast integer (worst but faster)</source>
-        <translation>Întreg rapid (mai prost, dar mai rapid)</translation>
-    </message>
-    <message>
         <source>Floating-point (best but slowest)</source>
         <translation>Număr în virgulă mobilă (cel mai bun, dar cel mai lent)</translation>
     </message>
@@ -12153,12 +12137,16 @@ Vrei să continui?</translation>
         <translation>4:2:0 (2x2,1x1,1x1) Cel mai mic fișier</translation>
     </message>
     <message>
-        <source>4:2:2 (2x1,1x1,1x1)</source>
-        <translation>4:2:2 (2x1,1x1,1x1)</translation>
-    </message>
-    <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <translation>4:4:4 (1x1,1x1,1x1) Cea mai bună calitate</translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but fastest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DCT method</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13260,16 +13248,8 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Atribuie o categorie</translation>
     </message>
     <message>
-        <source>Do you want to clear orphaned categories?</source>
-        <translation>Vrei să ștergi categoriile orfane?</translation>
-    </message>
-    <message>
         <source>Are you sure that you want to start importing categories file?</source>
         <translation>Ești sigur(ă) că dorești să începi să imporți fișierul de categorii?</translation>
-    </message>
-    <message>
-        <source>Clear all...</source>
-        <translation>Curata tot...</translation>
     </message>
     <message>
         <source>Auto Correct...</source>
@@ -13308,16 +13288,8 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Se importă fișierul de categorii, te rugăm să aștepți...</translation>
     </message>
     <message>
-        <source>Clear all categories</source>
-        <translation>Șterge toate categoriile</translation>
-    </message>
-    <message>
         <source>Open Tree</source>
         <translation>Deschide Arborele</translation>
-    </message>
-    <message>
-        <source>Clear orphaned categories</source>
-        <translation>Șterge categoriile orfane</translation>
     </message>
     <message>
         <source>Partial Match at the Beginning</source>
@@ -13328,12 +13300,32 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Ascunde categoriile atribuite</translation>
     </message>
     <message>
-        <source>Do you want to clear all categories?</source>
-        <translation>Dorești să ștergi toate categoriile?</translation>
-    </message>
-    <message>
         <source> [Create New]</source>
         <translation> [Crează nou]</translation>
+    </message>
+    <message>
+        <source>Delete unused categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete all categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete all categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete all categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete unused categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete unused categories?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

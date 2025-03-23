@@ -659,10 +659,6 @@ Drag and Drop over the desired node to assign.</translation>
 <context>
     <name>CategorySets</name>
     <message>
-        <source>Manager...</source>
-        <translation>Կառավարիչ...</translation>
-    </message>
-    <message>
         <source>&lt;Unsaved Layout&gt;</source>
         <translation>&lt;Չպահված Դասավորություն&gt;</translation>
     </message>
@@ -697,6 +693,10 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>New name</source>
         <translation>Նոր անուն</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">Դասավորություն</translation>
     </message>
 </context>
 <context>
@@ -5956,20 +5956,8 @@ Please make sure that files are not read-only!</source>
         <translation>Կերպ.</translation>
     </message>
     <message>
-        <source>Slow</source>
-        <translation>Դանդաղ</translation>
-    </message>
-    <message>
         <source>Smoothing factor</source>
         <translation>Հարթեցման գործակիցը</translation>
-    </message>
-    <message>
-        <source>2x1,1x1,1x1 (4:2:2)</source>
-        <translation>2х1, 1x1, 1x1 (4:2:2)</translation>
-    </message>
-    <message>
-        <source>Float (best but slowest)</source>
-        <translation>Հարթիչ (լավագույն որակ)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5982,26 +5970,6 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Lowest</source>
         <translation>Ամենացածր</translation>
-    </message>
-    <message>
-        <source>DCT Method</source>
-        <translation>DCT մեթոդ</translation>
-    </message>
-    <message>
-        <source>1x1,1x1,1x1 (best quality)</source>
-        <translation>1x1, 1x1, 1x1 (լավագույն որակ)</translation>
-    </message>
-    <message>
-        <source>Subsampling factor</source>
-        <translation>Դիսկրետիզացիա</translation>
-    </message>
-    <message>
-        <source>2x2,1x1,1x1 (default)</source>
-        <translation>2х2, 1x1, 1x1 (ըստ ծրագրայինի)</translation>
-    </message>
-    <message>
-        <source>Fast (worst but faster)</source>
-        <translation>Արագ (ցածր որակ)</translation>
     </message>
     <message>
         <source>Progressive</source>
@@ -6062,6 +6030,34 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Keep XMP</source>
         <translation type="unfinished">Պահպանել XMP-ը</translation>
+    </message>
+    <message>
+        <source>DCT method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but fastest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating-point (best but slowest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished">Ենթանմուշառում</translation>
+    </message>
+    <message>
+        <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4:4:4 (1x1,1x1,1x1) best quality</source>
+        <translation type="unfinished">4:4:4 (1x1,1x1,1x1) լավագույն որակ</translation>
     </message>
 </context>
 <context>
@@ -7826,6 +7822,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Convert</source>
         <translation type="unfinished">Փոխել</translation>
+    </message>
+    <message>
+        <source>Full/Half size rendering</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10354,16 +10354,8 @@ Do you want to reassign?</source>
         <translation type="unfinished">Գրացուցակներ</translation>
     </message>
     <message>
-        <source>XMP:Subject</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Face tag</source>
         <translation type="unfinished">Դիմային պիտակ</translation>
-    </message>
-    <message>
-        <source>IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12089,10 +12081,6 @@ Do you want to continue?</source>
         <translation>Ամենացածր</translation>
     </message>
     <message>
-        <source>DCT Method</source>
-        <translation>DCT մեթոդ</translation>
-    </message>
-    <message>
         <source>Progressive</source>
         <translation>Պրոգրեսիվ</translation>
     </message>
@@ -12125,10 +12113,6 @@ Do you want to continue?</source>
         <translation type="unfinished">Ենթանմուշառում</translation>
     </message>
     <message>
-        <source>Fast integer (worst but faster)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Floating-point (best but slowest)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12137,12 +12121,16 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4:2:2 (2x1,1x1,1x1)</source>
-        <translation>4:2:2 (2x1,1x1,1x1)</translation>
-    </message>
-    <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <translation>4:4:4 (1x1,1x1,1x1) լավագույն որակ</translation>
+    </message>
+    <message>
+        <source>Fast integer (worst but fastest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DCT method</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13268,10 +13256,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Արտածել գրացուցակի ֆայլ</translation>
     </message>
     <message>
-        <source>Clear all...</source>
-        <translation>Մաքրել բոլորը...</translation>
-    </message>
-    <message>
         <source>Categories file</source>
         <translation>Գրացուցակների ֆայլ</translation>
     </message>
@@ -13284,24 +13268,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Սկսե՞լ գրացուցակների ներմուծումը:</translation>
     </message>
     <message>
-        <source>Clear all categories</source>
-        <translation>Մաքրել բոլոր գրացուցակները</translation>
-    </message>
-    <message>
-        <source>Do you want to clear all categories?</source>
-        <translation>Մաքրե՞լ բոլոր գրացուցակները</translation>
-    </message>
-    <message>
         <source> [Create New]</source>
         <translation> [Ստեղծել նորը]</translation>
-    </message>
-    <message>
-        <source>Clear orphaned categories</source>
-        <translation>Մաքրել որբացած գրացուցակները</translation>
-    </message>
-    <message>
-        <source>Do you want to clear orphaned categories?</source>
-        <translation>Մաքրե՞լ որբացած գրացուցակները</translation>
     </message>
     <message>
         <source>Hide assigned categories</source>
@@ -13318,6 +13286,30 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Exporting categories file, please wait...</source>
         <translation>Անվանակարգի ֆայլի արտահանում, սպասեք...</translation>
+    </message>
+    <message>
+        <source>Delete unused categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete all categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete all categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete all categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete unused categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete unused categories?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
