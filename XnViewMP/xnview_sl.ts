@@ -10024,7 +10024,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished">Pogled</translation>
+        <translation>Pogled</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10047,7 +10047,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="65"/>
         <source>Convert</source>
-        <translation type="unfinished">Pretvori</translation>
+        <translation>Pretvori</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="106"/>
@@ -10142,13 +10142,13 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished">Hitro celo število</translation>
+        <translation>Hitro celo število</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished">Lebdeče</translation>
+        <translation>Plavajoča vejica</translation>
     </message>
 </context>
 <context>
@@ -13393,42 +13393,42 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">Uvoz</translation>
+        <translation>Uvoz</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">Izvoz</translation>
+        <translation>Izvoz</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished">Ocena</translation>
+        <translation>Ocena</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished">Barvna oznaka</translation>
+        <translation>Barvna oznaka</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorije</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="121"/>
         <source>XMP:Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP: Zadeva</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">Oznaka obraza</translation>
+        <translation>Oznaka obraza</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>IPTC:Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC: Ključne besede</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="368"/>
@@ -15673,13 +15673,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but faster)</source>
         <oldsource>Integer fast (worst but faster)</oldsource>
-        <translation type="unfinished">Hitro celo število (najslabše, a hitreje)</translation>
+        <translation>Hitro celo število (najslabše, a hitrejše)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Float (najboljšie a najpočasnejše)</translation>
+        <translation>Plavajoča vejica (najboljšie a najpočasnejše)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15705,7 +15705,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) najmanjša datoteka</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="206"/>
