@@ -7768,7 +7768,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
         <location filename="DlgExport.ui" line="451"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (najvyššia kvalita)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) najvyššia kvalita</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="610"/>
