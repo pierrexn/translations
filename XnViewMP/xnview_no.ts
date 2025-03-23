@@ -7735,7 +7735,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="451"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (beste kvalitet)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) beste kvalitet</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="610"/>
