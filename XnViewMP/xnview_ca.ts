@@ -7746,7 +7746,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgExport.ui" line="451"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (Màxima qualitat)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) Màxima qualitat</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="610"/>
