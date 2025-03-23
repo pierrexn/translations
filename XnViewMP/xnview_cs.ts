@@ -7796,7 +7796,7 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
         <location filename="DlgExport.ui" line="451"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (nejlepší kvalita)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) nejlepší kvalita</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="610"/>
