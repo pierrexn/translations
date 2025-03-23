@@ -7745,7 +7745,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgExport.ui" line="451"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (Beste Qualität)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) Beste Qualität</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="610"/>
