@@ -821,7 +821,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished">Disposition</translation>
+        <translation>Disposition</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
@@ -1827,7 +1827,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgFilter.cpp" line="40"/>
         <source>Blur more</source>
-        <translation type="unfinished"></translation>
+        <translation>Flouter plus</translation>
     </message>
     <message>
         <location filename="DlgFilter.cpp" line="268"/>
@@ -7663,7 +7663,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished">Entier</translation>
+        <translation>Entier</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7704,19 +7704,19 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgExport.ui" line="346"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Methode DCT</translation>
+        <translation>Méthode DCT</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Rapide (mauvais mais rapide)</translation>
+        <translation>Rapide (mauvais mais rapide)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Float (meilleure mais lente)</translation>
+        <translation>Flottant (meilleure mais lente)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7727,12 +7727,12 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Sous-échantillonnage</translation>
+        <translation>Sous-échantillonnage</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished">4:2:0 (2x2,1x1,1x1) plus petit fichier</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) plus petit fichier</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -7753,7 +7753,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgExport.ui" line="451"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation type="unfinished">1x1,1x1,1x1 (meilleure qualité)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) meilleure qualité</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="610"/>
@@ -10018,7 +10018,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu demi/pleine taille</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -15636,13 +15636,13 @@ Voulez-vous continuer?</translation>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Méthode DCT</translation>
+        <translation>Méthode DCT</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation type="unfinished">Entier rapide (mauvaise)</translation>
+        <translation>Entier rapide (mauvaise)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
@@ -17205,32 +17205,32 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer les catégories non utilisées...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer toutes les catégories...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer toutes les catégories</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous effacer toutes les catégories?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer les catégories non utilisées</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous effacer les catégories non utilisées?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
