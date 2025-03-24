@@ -828,7 +828,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished">Postavitev</translation>
+        <translation>Postavitev</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
@@ -7696,7 +7696,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished">Celo število</translation>
+        <translation>Celo število</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7737,19 +7737,19 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgExport.ui" line="346"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Postopek DCT</translation>
+        <translation>Postopek DCT</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Hitro (slabo, a hitro)</translation>
+        <translation>Hitro celo število (najslabše, a najhitrejše)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Float (najboljši, a najpočasnejši)</translation>
+        <translation>Plavajoča vejica (najboljši, a najpočasnejši)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7760,12 +7760,12 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Faktor podvzorčenja</translation>
+        <translation>Podvzorčenje</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished">4:2:0 (2x2,1x1,1x1) najmanjša datoteka</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) najmanjša datoteka</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -10052,7 +10052,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Upodabljanje v polni/polovični velikosti</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -15663,13 +15663,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Postopek DCT</translation>
+        <translation>Postopek DCT</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation type="unfinished">Hitro celo število (najslabše, a hitrejše)</translation>
+        <translation>Hitro celo število (najslabše, a hitrejše)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
@@ -17232,32 +17232,32 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši neuporabljene kategorije...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši vse kategorije...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši vse kategorije</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite izbrisati vse kategorije?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši neuporabljene kategorije</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite izbrisati neuporabljene kategorije?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
