@@ -823,7 +823,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished">Indeling</translation>
+        <translation>Indeling</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
@@ -7699,7 +7699,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished">Integer</translation>
+        <translation>Integer</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="390"/>
@@ -7715,19 +7715,19 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgExport.ui" line="346"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">DCT-methode</translation>
+        <translation>DCT-methode</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Snel (minder goed)</translation>
+        <translation>Fast integer (slechtst maar snelst)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Precisie (beste maar traag)</translation>
+        <translation>Floating-point (best maar langzaamst)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7738,12 +7738,12 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Sub-sampling factor</translation>
+        <translation>Sub-sampling</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished">4:2:0 (2x2,1x1,1x1) kleinste bestand</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) kleinste bestand</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -7764,7 +7764,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgExport.ui" line="451"/>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <oldsource>1x1,1x1,1x1 (best quality)</oldsource>
-        <translation>4:4:4 (1x1,1x1,1x1) beste kwaliteit</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) hoogste kwaliteit</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="610"/>
@@ -10019,7 +10019,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledige/halve grootte weergave</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -15634,13 +15634,13 @@ Doorgaan?</translation>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">DCT-methode</translation>
+        <translation>DCT-methode</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation type="unfinished">Fast integer (minst maar sneller)</translation>
+        <translation>Fast integer (slechtst maar snelst)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
@@ -17203,32 +17203,32 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongebruikte categorieën verwijderen…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle categorieën verwijderen…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle categorieën verwijderen</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wil je alle categorieën verwijderen?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongebruikte categorieën verwijderen</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wil je de ongebruikte categorieën verwijderen?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
