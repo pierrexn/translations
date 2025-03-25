@@ -698,7 +698,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Aspect</translation>
+        <translation>Aspect</translation>
     </message>
 </context>
 <context>
@@ -6048,31 +6048,31 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>DCT method</source>
-        <translation type="unfinished"></translation>
+        <translation>Metoda DCT</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg</translation>
     </message>
     <message>
         <source>Fast integer (worst but fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg rapid (cel mai prost, dar cel mai rapid)</translation>
     </message>
     <message>
         <source>Floating-point (best but slowest)</source>
-        <translation type="unfinished">Număr în virgulă mobilă (cel mai bun, dar cel mai lent)</translation>
+        <translation>Număr în virgulă mobilă (cel mai bun, dar cel mai lent)</translation>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Subeșantionare</translation>
     </message>
     <message>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished">4:2:0 (2x2,1x1,1x1) Cel mai mic fișier</translation>
+        <translation>Cel mai mic fișier 4:2:0 (2x2,1x1,1x1)</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
-        <translation type="unfinished">4:4:4 (1x1,1x1,1x1) Cea mai bună calitate</translation>
+        <translation>Cea mai bună calitate 4:4:4 (1x1,1x1,1x1)</translation>
     </message>
 </context>
 <context>
@@ -7841,7 +7841,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Randare la dimensiunea completă/ la jumătate</translation>
     </message>
 </context>
 <context>
@@ -12142,11 +12142,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fast integer (worst but fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg rapid (cel mai prost, dar cel mai rapid)</translation>
     </message>
     <message>
         <source>DCT method</source>
-        <translation type="unfinished"></translation>
+        <translation>Metoda DCT</translation>
     </message>
 </context>
 <context>
@@ -13305,27 +13305,27 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge categoriile nefolosite...</translation>
     </message>
     <message>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate categoriile...</translation>
     </message>
     <message>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate categoriile</translation>
     </message>
     <message>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrei să ștergi toate categoriile?</translation>
     </message>
     <message>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge categoriile nefolosite</translation>
     </message>
     <message>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrei să ștergi categoriile nefolosite?</translation>
     </message>
 </context>
 <context>
