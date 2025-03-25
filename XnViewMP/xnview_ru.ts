@@ -11225,7 +11225,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="85"/>
         <source>View scroll the content by thumbnail</source>
         <translatorcomment>Так и не понял значение данного выражения</translatorcomment>
-        <translation>Показывать прокручиваемый контент в виде эскизов</translation>
+        <translation>Прокручивать на один полный эскиз</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="174"/>
