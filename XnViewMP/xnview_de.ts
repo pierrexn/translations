@@ -820,7 +820,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished">Anordnung</translation>
+        <translation>Anordnung</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
@@ -7655,7 +7655,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished">Ganzzahl</translation>
+        <translation>Ganzzahl</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7696,19 +7696,19 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgExport.ui" line="346"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">DCT-Methode</translation>
+        <translation>DCT-Methode</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Schnell (schnell, aber schlecht)</translation>
+        <translation>Schnelle Ganzzahl (am schlechtesten, aber am schnellsten)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Float (optimal, aber langsam)</translation>
+        <translation>Float (am besten, aber am langsamsten)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7719,12 +7719,12 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Subsampling-Faktor</translation>
+        <translation>Subsampling</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) kleinste Datei</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -9982,7 +9982,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished">Bildansicht</translation>
+        <translation>Bildansicht</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10005,12 +10005,12 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
     <message>
         <location filename="DlgReadCRaw.ui" line="48"/>
         <source>Convert</source>
-        <translation type="unfinished">Konvertieren</translation>
+        <translation>Konvertieren</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Voll-/Halbgrößen-Rendering</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -10105,13 +10105,13 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished">Schnelle Ganzzahl</translation>
+        <translation>Schnelle Ganzzahl</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished">Gleitkommazahl</translation>
+        <translation>Gleitkommazahl</translation>
     </message>
 </context>
 <context>
@@ -13291,32 +13291,32 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">Importieren</translation>
+        <translation>Importieren</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">Exportieren</translation>
+        <translation>Exportieren</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished">Bewertung</translation>
+        <translation>Bewertung</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished">Farbkennzeichnung</translation>
+        <translation>Farbkennzeichnung</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished">Kategorien</translation>
+        <translation>Kategorien</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">Gesichtsbereich (Face-Tag)</translation>
+        <translation>Gesichtsbereich (Face-Tag)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -15623,19 +15623,19 @@ Wollen Sie fortfahren?</translation>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">DCT-Methode</translation>
+        <translation>DCT-Methode</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation type="unfinished">Schnelle Ganzzahl (am schlechtesten aber schneller)</translation>
+        <translation>Schnelle Ganzzahl (am schlechtesten aber am schnellsten)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Float (Optimal aber langsam)</translation>
+        <translation>Gleitkomma (am besten, aber am langsamsten)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15661,7 +15661,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) kleinste Datei</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
@@ -17192,32 +17192,32 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht verwendete Kategorien löschen...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Kategorien löschen...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Kategorien löschen</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie alle Kategorien löschen?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht verwendete Kategorien löschen</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie nicht verwendete Kategorien löschen?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
