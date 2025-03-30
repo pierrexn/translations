@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Command line</source>
-        <translation>Linie de comanda</translation>
+        <translation>Linie de comandă</translation>
     </message>
     <message>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
@@ -172,7 +172,7 @@
     </message>
     <message>
         <source>Social</source>
-        <translation>Social</translation>
+        <translation>Rețele de socializare</translation>
     </message>
     <message>
         <source>Email</source>
@@ -421,7 +421,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     <name>BookmarksMenu</name>
     <message>
         <source>No favorites</source>
-        <translation>Fără favorite</translation>
+        <translation>Nu există favorite</translation>
     </message>
 </context>
 <context>
@@ -432,7 +432,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Pathname</source>
-        <translation>Nume cale</translation>
+        <translation>Numele căii</translation>
     </message>
 </context>
 <context>
@@ -1577,7 +1577,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Please enter a valid output pathname!</source>
-        <translation>Te rugăm să introduci o cale de ieșire validă!</translation>
+        <translation>Te rugăm să introduci un nume al căii de ieșire validă!</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1625,7 +1625,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Batch acquire (TWAIN)</source>
-        <translation>Scanează la grămadă (TWAIN)</translation>
+        <translation>Scanează în masă (TWAIN)</translation>
     </message>
     <message>
         <source>An error has occurred when saving %1</source>
@@ -1995,7 +1995,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Choose output pathname</source>
-        <translation>Alege calea de ieșire</translation>
+        <translation>Alege numele căii de ieșire</translation>
     </message>
     <message>
         <source>Next &gt;</source>
@@ -3065,7 +3065,7 @@ Vrei să mergi pe pagina de descărcare?</translation>
     </message>
     <message>
         <source>Cancel batch processing</source>
-        <translation>Anulează procesarea în masă</translation>
+        <translation>Anulează procesarea multiplă</translation>
     </message>
     <message>
         <source>Do you want to cancel current batch processing?</source>
@@ -3652,7 +3652,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Batch convert</source>
-        <translation>Convertește la grămadă</translation>
+        <translation>Convertește în masă</translation>
     </message>
     <message>
         <source>Multipage</source>
@@ -6660,7 +6660,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Pathname</source>
-        <translation>Nume cale</translation>
+        <translation>Numele căii</translation>
     </message>
     <message>
         <source>Recursive</source>
@@ -8139,7 +8139,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Batch rename</source>
-        <translation>Redenumește la grămadă</translation>
+        <translation>Redenumește în masă</translation>
     </message>
     <message>
         <source>Use Regular Expression</source>
@@ -8532,7 +8532,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Current pathname:</source>
-        <translation>Calea curentă:</translation>
+        <translation>Numele căii curente:</translation>
     </message>
     <message>
         <source>Delete current search</source>
@@ -8634,7 +8634,7 @@ Vrei să le redenumești?</translation>
     <name>DlgSearchProgressClass</name>
     <message>
         <source>Current pathname:</source>
-        <translation>Calea curentă:</translation>
+        <translation>Numele căii curente:</translation>
     </message>
     <message>
         <source>Searching</source>
@@ -9491,7 +9491,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original pathname</source>
-        <translation>Pentru „Salvează ca”, folosește calea originală</translation>
+        <translation>Pentru „Salvează ca”, folosește numele căii originale</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -10946,7 +10946,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Pathname</source>
-        <translation>Nume cale</translation>
+        <translation>Numele căii</translation>
     </message>
     <message>
         <source>Same file data</source>
@@ -14887,7 +14887,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Batch convert...</source>
-        <translation>Convertește la grămadă...</translation>
+        <translation>Convertește în masă...</translation>
     </message>
     <message>
         <source>Rating</source>
@@ -15391,7 +15391,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Batch rename...</source>
-        <translation>Redenumește la grămadă...</translation>
+        <translation>Redenumire în masă...</translation>
     </message>
     <message>
         <source>Archive...</source>
@@ -16032,7 +16032,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Batch convert...</source>
-        <translation>Convertește la grămadă...</translation>
+        <translation>Convertește în masă...</translation>
     </message>
     <message>
         <source>Reload</source>
