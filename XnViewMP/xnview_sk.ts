@@ -825,23 +825,23 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozloženie</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
         <source>&lt;Unsaved Layout&gt;</source>
-        <translation>&lt;Neuložené Rozmiestnenie&gt;</translation>
+        <translation>&lt;Neuložené Rozloženie&gt;</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="175"/>
         <source>Save layout...</source>
-        <translation>Uložiť rozmiestnenie...</translation>
+        <translation>Uložiť rozloženie...</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="240"/>
         <location filename="CategorySets.cpp" line="272"/>
         <source>Enter a name for this layout</source>
-        <translation>Vložiť názov pre toto rozmiestnenie</translation>
+        <translation>Vložiť názov pre toto rozloženie</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="240"/>
@@ -2685,7 +2685,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="1357"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Otáčať obrázok podľa EXIF orientácie</translation>
+        <translation>Otáčať obrázok podľa EXIF štítku orientácie</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1371"/>
@@ -3238,7 +3238,7 @@ Chcete ho prepísať?</translation>
     <message>
         <location filename="DlgConbright.ui" line="19"/>
         <source>Conbright</source>
-        <translation>Conbright</translation>
+        <translation>Kontrast + jas</translation>
     </message>
     <message>
         <location filename="DlgConbright.ui" line="73"/>
@@ -4807,7 +4807,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1777"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Otáčať obrázok podľa EXIF orientácie</translation>
+        <translation>Otáčať obrázok podľa EXIF štítku orientácie</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="1891"/>
@@ -7678,7 +7678,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Celé číslo</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7725,13 +7725,13 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Rýchla (najhoršia ale rýchlejšia)</translation>
+        <translation>Rýchle celé číslo (najhoršia ale najrýchlejšia)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Premenlivá (najlepšia ale najpomalšia)</translation>
+        <translation>S pohyblivou desatinnou čiarkou (najlepšia ale najpomalšia)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7747,7 +7747,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) najmenší súbor</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -10034,7 +10034,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykresľovanie v plnej/polovičnej veľkosti</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -10113,29 +10113,29 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadny</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoradené</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Celé číslo</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Rýchle celé číslo</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Plávajúca desatinná čiarka</translation>
     </message>
 </context>
 <context>
@@ -12066,7 +12066,7 @@ Miniatúru</translation>
         <location filename="DlgSettingsGeneral.ui" line="165"/>
         <source>Auto-rotate images according to EXIF orientation tag</source>
         <oldsource>Rotate images according to EXIF orientation tag</oldsource>
-        <translation>Automaticky otáčať obrázky podľa značky orientácie EXIF</translation>
+        <translation>Automaticky otáčať obrázky podľa EXIF štítku orientácie</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="274"/>
@@ -12252,7 +12252,7 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovanie súborov</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="831"/>
@@ -13395,7 +13395,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnotenie</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
@@ -13604,7 +13604,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet snímok</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1174"/>
@@ -14085,7 +14085,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="885"/>
         <source>Support HTML tags</source>
-        <translation>Podpora HTML tagov</translation>
+        <translation>Podpora HTML štítkov</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1088"/>
@@ -15682,12 +15682,12 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Celé číslo</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) najmenší súbor</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
@@ -17218,32 +17218,32 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť nepoužívané kategórie...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť všetky kategórie...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť všetky kategórie</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete odstrániť všetky kategórie?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť nepoužívané kategórie</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete odstrániť nepoužívané kategórie?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
@@ -18385,22 +18385,22 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Štítok</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnota</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať hodnotu</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať položku</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -19073,7 +19073,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum úpravy</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="63"/>
