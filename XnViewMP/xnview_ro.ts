@@ -112,7 +112,7 @@
     <name>AboutWidget</name>
     <message>
         <source>Read</source>
-        <translation>Citește</translation>
+        <translation>Citire</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Write</source>
-        <translation>Scrie</translation>
+        <translation>Scriere</translation>
     </message>
     <message>
         <source>Command line</source>
@@ -975,7 +975,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Photo Spread</source>
-        <translation>Răspândire fotografie</translation>
+        <translation>Răspândirea fotografiei</translation>
     </message>
     <message>
         <source>Automatic levels</source>
@@ -1307,7 +1307,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Saturare</translation>
+        <translation>Saturație</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
@@ -2147,7 +2147,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnResize este oferit ca program gratuit pentru uz privat sau comercial. &lt;br&gt;Vi se acordă dreptul de a utiliza și de a face un număr nelimitat de copii ale acestui software.&lt;br&gt;&lt;br&gt;Aceste software sunt furnizate „ca atare”.&lt;br&gt;Nu este exprimată sau implicită nicio garanție de niciun fel. .&lt;br&gt;Autorul nu va fi răspunzător pentru pierderea datelor, daune, pierderi de profit sau orice alt fel de pierdere în timpul utilizării sau utilizării abuzive a acestui software.&lt;br&gt;&lt;br&gt;Orice sugestii, feedback și comentarii sunt binevenite. </translation>
+        <translation>&lt;br&gt;XnResize este oferit ca program gratuit pentru uz privat sau comercial. &lt;br&gt;Vi se acordă dreptul de a utiliza și de a face un număr nelimitat de copii ale acestui software.&lt;br&gt;&lt;br&gt;Aceste software-uri sunt furnizate „așa cum sunt”.&lt;br&gt;Nu este exprimată sau implicită nicio garanție de niciun fel. &lt;br&gt;Autorul nu va fi răspunzător pentru pierderea datelor, daune, pierderi de profit sau orice alt fel de pierdere în timpul utilizării sau utilizării abuzive a acestui software.&lt;br&gt;&lt;br&gt;Orice sugestii, feedback și comentarii sunt binevenite. </translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
@@ -2465,7 +2465,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>ICC profile</source>
@@ -2508,7 +2508,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>&amp;Write</source>
-        <translation>&amp;Scrie</translation>
+        <translation>&amp;Scriere</translation>
     </message>
     <message>
         <source>Description (stored in descript.ion file)</source>
@@ -2516,7 +2516,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Write &amp;all</source>
-        <translation>Scrie &amp;toate</translation>
+        <translation>Scrie-le pe &amp;toate</translation>
     </message>
     <message>
         <source>Use same text for description &amp;&amp; comment</source>
@@ -2993,7 +2993,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnConvert este oferit ca program gratuit pentru uz privat (necomercial) sau educațional, inclusiv pentru organizații non-profit. &lt;br&gt;Compania trebuie să achiziționeze licențe pentru a-l putea folosi.&lt;br&gt;&lt;br&gt;Ți se acordă dreptul de a utiliza și de a face un număr nelimitat de copii ale acestui software.&lt;br&gt;&lt;br&gt;Aceste software sunt furnizate „așa cum sunt&quot;.&lt;br&gt;Nu este exprimată sau implicită nicio garanție de niciun fel.&lt;br&gt;Autorul nu va fi responsabil pentru pierderea datelor, daune, pierderi de profit sau orice alt fel de pierdere în timpul utilizării sau utilizării abuzive a acestui software.&lt; br&gt;&lt;br&gt;Orice sugestii, feedback și comentarii sunt binevenite. </translation>
+        <translation>&lt;br&gt;XnConvert este oferit ca program gratuit pentru uz privat (necomercial) sau educațional, inclusiv pentru organizații non-profit. &lt;br&gt;Compania trebuie să achiziționeze licențe pentru a-l putea folosi.&lt;br&gt;&lt;br&gt;Ți se acordă dreptul de a utiliza și de a face un număr nelimitat de copii ale acestui software.&lt;br&gt;&lt;br&gt;Aceste software-uri sunt furnizate „așa cum sunt&quot;.&lt;br&gt;Nu este exprimată sau implicită nicio garanție de niciun fel.&lt;br&gt;Autorul nu va fi responsabil pentru pierderea datelor, daune, pierderi de profit sau orice alt fel de pierdere în timpul utilizării sau utilizării abuzive a acestui software.&lt; br&gt;&lt;br&gt;Orice sugestii, feedback și comentarii sunt binevenite. </translation>
     </message>
     <message>
         <source>: saved</source>
@@ -3253,7 +3253,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Saturare</translation>
+        <translation>Saturație</translation>
     </message>
 </context>
 <context>
@@ -4004,7 +4004,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Implicit</translation>
+        <translation>Implicită</translation>
     </message>
     <message>
         <source>Light</source>
@@ -4288,7 +4288,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Saturare</translation>
+        <translation>Saturație</translation>
     </message>
     <message>
         <source>Lightness</source>
@@ -4334,7 +4334,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Saturare</translation>
+        <translation>Saturație</translation>
     </message>
     <message>
         <source>Input profile (sRGB by default)</source>
@@ -5831,7 +5831,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Saturare</translation>
+        <translation>Saturație</translation>
     </message>
     <message>
         <source>Temperature</source>
@@ -7476,7 +7476,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Custom</source>
-        <translation>Single - Personalizat</translation>
+        <translation>Unic - Personalizat</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -9131,7 +9131,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
         <source>Show as 
 Thumbnail</source>
         <translation>Arată ca
-Miniatură</translation>
+miniatură</translation>
     </message>
     <message>
         <source>Archives</source>
@@ -9190,7 +9190,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Show hidden files &amp;&amp; folders</source>
-        <translation>Afișează fișierele și folderele ascunse</translation>
+        <translation>Afișează fișierele și folderele (dosarele) ascunse</translation>
     </message>
     <message>
         <source>Always</source>
@@ -9218,7 +9218,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Custom filter</source>
-        <translation>Filtru customizat</translation>
+        <translation>Filtru personalizat</translation>
     </message>
     <message>
         <source>Only fixed disks</source>
@@ -9246,7 +9246,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Display file size in bytes</source>
-        <translation>Afișează dimensiunea fișierului în octeți/bytes</translation>
+        <translation>Afișează dimensiunea fișierului în octeți (bytes)</translation>
     </message>
     <message>
         <source>Link companion files for the following actions</source>
@@ -9328,7 +9328,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>Saturare</translation>
+        <translation>Saturație</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9383,7 +9383,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-#</source>
-        <translation>&lt;Nume fișier&gt;-#</translation>
+        <translation>&lt;Numele fișierului&gt;-#</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original format</source>
@@ -9539,7 +9539,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation>&lt;Nume fișier&gt;-(#)</translation>
+        <translation>&lt;Numele fișierului&gt;-(#)</translation>
     </message>
     <message>
         <source>Use EXIF DPI (if exists)</source>
@@ -9551,7 +9551,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation>&lt;Nume fișier&gt; - Copiere (#)</translation>
+        <translation>&lt;Numele fișierului&gt; - Copie (#)</translation>
     </message>
     <message>
         <source>Unit for print size</source>
@@ -9651,7 +9651,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Implicit</translation>
+        <translation>Implicită</translation>
     </message>
     <message>
         <source>Light</source>
@@ -9686,7 +9686,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
-        <translation>XnViewMP este un browser rapid, vizualizator și convertor grafic multi-format. Citește peste 400 de formate de fișiere.</translation>
+        <translation>XnViewMP este un navigator rapid, vizualizator și convertor grafic pentru mai multe formate. Citește peste 400 de formate de fișiere.</translation>
     </message>
     <message>
         <source>Browse with XnViewMP</source>
@@ -9777,7 +9777,7 @@ Miniatură</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Adaugă „Răsfoiește cu XnViewMP” în meniul contextual (necesită drepturi de administrator)</translation>
+        <translation>Adaugă „Navighează cu XnViewMP” în meniul contextual (necesită drepturi de administrator)</translation>
     </message>
     <message>
         <source>Use Windows registry</source>
@@ -10275,7 +10275,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
-        <translation>&lt;numelefișierului&gt;.&lt;extensie&gt;.xmp</translation>
+        <translation>&lt;numele fișierului&gt;.&lt;extensie&gt;.xmp</translation>
     </message>
     <message>
         <source>Categories and keywords</source>
@@ -10315,7 +10315,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.xmp</source>
-        <translation>&lt;numelefișierului&gt;.xmp</translation>
+        <translation>&lt;numele fișierului&gt;.xmp</translation>
     </message>
     <message>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
@@ -10851,7 +10851,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>(From Settings › File list › Custom Filter)</source>
-        <translation>(Din Seări › Lista de fișiere › Filtru personalizat)</translation>
+        <translation>(Din Setări › Lista de fișiere › Filtru personalizat)</translation>
     </message>
     <message>
         <source>Golden ratio (Phi)</source>
@@ -11341,7 +11341,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation>Adaugă „Răsfoiește cu XnViewMP” în meniul contextual</translation>
+        <translation>Adaugă „Navighează cu XnViewMP” în meniul contextual</translation>
     </message>
     <message>
         <source>Run the File association(s) tool...</source>
@@ -12075,7 +12075,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>File size (kbytes)</source>
-        <translation>Dimensiunea fișierului (kbytes)</translation>
+        <translation>Dimensiunea fișierului (kbytes/kocteți)</translation>
     </message>
 </context>
 <context>
@@ -12373,7 +12373,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>File size (kbytes)</source>
-        <translation>Dimensiunea fișierului (kbytes)</translation>
+        <translation>Dimensiunea fișierului (kbytes/kocteți)</translation>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
@@ -13443,7 +13443,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Custom rendered</source>
-        <translation>Redate personalizat</translation>
+        <translation>Randate în mod personalizat</translation>
     </message>
     <message>
         <source>Digital zoom</source>
@@ -16643,7 +16643,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bytes</source>
-        <translation>Biti</translation>
+        <translation>Bytes (Octeți)</translation>
     </message>
     <message>
         <source>Open Image</source>
@@ -17836,7 +17836,7 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>bytes</source>
-        <translation>bytes</translation>
+        <translation>bytes (octeți)</translation>
     </message>
     <message>
         <source>is greater than or equal to</source>
