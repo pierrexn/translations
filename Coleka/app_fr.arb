@@ -415,5 +415,12 @@
   "searchLorcana": "une carte Lorcana",
   "searchBestScan": "Nous avons un scanner dédié qui vous donnera de bien meilleurs résultats",
   "searchOpenScan": "Ouvrir le Scanner",
-  "searchAINoResult": "Aucun résultat trouvé!"
+  "searchAINoResult": "Aucun résultat trouvé!",
+    "settings": "Paramètres",
+    "settingsCommon": "Général",
+    "settingsAccount": "Compte",
+    "settingsLanguage": "Langue",
+    "settingsCurrency": "Monnaie",
+    "settingsSelectLanguage": "Sélectionnez une langue",
+    "settingsSelectCurrency": "Sélectionnez une monnaie"
 }

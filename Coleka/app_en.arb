@@ -422,5 +422,12 @@
   "searchLorcana": "a Lorcana Card",
   "searchBestScan": "We have a dedicated scanner that will give you much better results",
   "searchOpenScan": "Open scan",
-  "searchAINoResult": "No result found!"
+  "searchAINoResult": "No result found!",
+  "settings": "Settings",
+  "settingsCommon": "General",
+  "settingsAccount": "Account",
+  "settingsLanguage": "Language",
+  "settingsCurrency": "Currency",
+  "settingsSelectLanguage": "Select a language",
+  "settingsSelectCurrency": "Select a currency"
 }
