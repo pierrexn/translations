@@ -498,5 +498,19 @@
   "marketPriceInfo": "Tenemos {count} anuncio(s) \ncon un precio entre {min} y {max}",
   "@marketPriceInfo": {},
   "marketLinkInfo2": "Cuando usted hace clic en los enlaces a diversos comerciantes en COLEKA y realiza una compra, esto puede dar lugar a que COLEKA gane una comisión. Los programas de afiliación y las afiliaciones incluyen, entre otros, eBay Partner Network.",
-  "@marketLinkInfo2": {}
+  "@marketLinkInfo2": {},
+  "settings": "Ajustes",
+  "@settings": {},
+  "settingsCommon": "General",
+  "@settingsCommon": {},
+  "settingsAccount": "Cuenta",
+  "@settingsAccount": {},
+  "settingsLanguage": "Idioma",
+  "@settingsLanguage": {},
+  "settingsCurrency": "Moneda",
+  "@settingsCurrency": {},
+  "settingsSelectLanguage": "Seleccione un idioma",
+  "@settingsSelectLanguage": {},
+  "settingsSelectCurrency": "Seleccione una moneda",
+  "@settingsSelectCurrency": {}
 }
