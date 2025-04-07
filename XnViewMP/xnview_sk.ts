@@ -451,8 +451,8 @@
     <name>AutoHideButton</name>
     <message>
         <location filename="ViewAutoHidePanel.cpp" line="37"/>
-        <source>Auto hide</source>
-        <translation>Automaticky skryť</translation>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1169,7 +1169,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <translation>Zmeniť farebnú hĺbku</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1755"/>
+        <location filename="DlgConvert.cpp" line="1776"/>
         <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation>Prispôsobiť</translation>
@@ -1546,274 +1546,274 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <translation>Vpravo</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="203"/>
+        <location filename="DlgConvert.cpp" line="204"/>
         <source>Automatic levels</source>
         <translation>Automatické úrovne</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="204"/>
+        <location filename="DlgConvert.cpp" line="205"/>
         <source>Automatic contrast</source>
         <translation>Automatický kontrast</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="205"/>
+        <location filename="DlgConvert.cpp" line="206"/>
         <source>Negative</source>
         <translation>Negatív</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="206"/>
+        <location filename="DlgConvert.cpp" line="207"/>
         <source>Desaturate</source>
         <translation>Odsýtenie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="209"/>
+        <location filename="DlgConvert.cpp" line="210"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation>Logaritmický LUT</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="211"/>
+        <location filename="DlgConvert.cpp" line="212"/>
         <source>Normalize</source>
         <translation>Normalizácia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="215"/>
+        <location filename="DlgConvert.cpp" line="216"/>
         <source>Equalize</source>
         <translation>Ekvalizácia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="216"/>
+        <location filename="DlgConvert.cpp" line="217"/>
         <location filename="Dlg1SliderPanel.h" line="92"/>
         <source>Sepia</source>
         <translation>Sépia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="217"/>
+        <location filename="DlgConvert.cpp" line="218"/>
         <location filename="Dlg1SliderPanel.h" line="72"/>
         <source>Solarize</source>
         <translation>Solarizácia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="226"/>
+        <location filename="DlgConvert.cpp" line="227"/>
         <source>Exposure</source>
         <translation>Expozícia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="234"/>
+        <location filename="DlgConvert.cpp" line="235"/>
         <location filename="DlgFilter.cpp" line="42"/>
         <source>Enhance detail</source>
         <translation>Zvýšiť detaily</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="235"/>
+        <location filename="DlgConvert.cpp" line="236"/>
         <location filename="DlgFilter.cpp" line="43"/>
         <source>Enhance focus</source>
         <translation>Zvýšiť ostrosť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="236"/>
+        <location filename="DlgConvert.cpp" line="237"/>
         <location filename="DlgFilter.cpp" line="44"/>
         <source>Enhance edges</source>
         <translation>Zvýrazniť hrany</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="237"/>
+        <location filename="DlgConvert.cpp" line="238"/>
         <location filename="DlgFilter.cpp" line="45"/>
         <source>Focus restoration</source>
         <translation>Zvýrazniť ostrosť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="239"/>
+        <location filename="DlgConvert.cpp" line="240"/>
         <location filename="DlgFilter.cpp" line="52"/>
         <source>Emboss</source>
         <translation>Vyraziť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="240"/>
+        <location filename="DlgConvert.cpp" line="241"/>
         <location filename="DlgFilter.cpp" line="53"/>
         <source>Emboss more</source>
         <translation>Zvýrazniť vyrazenie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="241"/>
+        <location filename="DlgConvert.cpp" line="242"/>
         <location filename="DlgFilter.cpp" line="36"/>
         <source>Average</source>
         <translation>Priemerovať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="242"/>
-        <location filename="DlgConvert.cpp" line="1756"/>
+        <location filename="DlgConvert.cpp" line="243"/>
+        <location filename="DlgConvert.cpp" line="1777"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Blur</source>
         <translation>Rozostriť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="243"/>
+        <location filename="DlgConvert.cpp" line="244"/>
         <location filename="DlgFilter.cpp" line="38"/>
         <source>Soften</source>
         <translation>Zjemniť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="244"/>
+        <location filename="DlgConvert.cpp" line="245"/>
         <location filename="DlgFilter.cpp" line="39"/>
         <source>Gaussian blur</source>
         <translation>Gaussové rozostrenie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="245"/>
+        <location filename="DlgConvert.cpp" line="246"/>
         <location filename="DlgFilter.cpp" line="54"/>
         <source>Maximum</source>
         <translation>Maximum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="246"/>
+        <location filename="DlgConvert.cpp" line="247"/>
         <location filename="DlgFilter.cpp" line="55"/>
         <source>Minimum</source>
         <translation>Maximum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="247"/>
+        <location filename="DlgConvert.cpp" line="248"/>
         <location filename="DlgFilter.cpp" line="56"/>
         <source>Median box</source>
         <translation>Stredná kocka</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="248"/>
+        <location filename="DlgConvert.cpp" line="249"/>
         <location filename="DlgFilter.cpp" line="57"/>
         <source>Median cross</source>
         <translation>Stredný kríž</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="249"/>
+        <location filename="DlgConvert.cpp" line="250"/>
         <location filename="DlgFilter.cpp" line="51"/>
         <source>Sharpen</source>
         <translation>Zaostriť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="251"/>
+        <location filename="DlgConvert.cpp" line="252"/>
         <location filename="DlgFilter.cpp" line="59"/>
         <source>Reduce noise</source>
         <translation>Zmierniť šum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="260"/>
+        <location filename="DlgConvert.cpp" line="261"/>
         <location filename="DlgFilter.cpp" line="68"/>
         <source>Mosaic</source>
         <translation>Mozaika</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="261"/>
+        <location filename="DlgConvert.cpp" line="262"/>
         <location filename="DlgFilter.cpp" line="69"/>
         <source>Slice</source>
         <translation>Rozkrájať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="262"/>
+        <location filename="DlgConvert.cpp" line="263"/>
         <location filename="DlgFilter.cpp" line="70"/>
         <source>Tile</source>
         <translation>Dlaždice</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="263"/>
+        <location filename="DlgConvert.cpp" line="264"/>
         <location filename="DlgFilter.cpp" line="71"/>
         <source>Shear</source>
         <translation>Strihať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="264"/>
+        <location filename="DlgConvert.cpp" line="265"/>
         <location filename="DlgFilter.cpp" line="72"/>
         <source>Oil painting</source>
         <translation>Olejomaľba</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="265"/>
+        <location filename="DlgConvert.cpp" line="266"/>
         <location filename="DlgFilter.cpp" line="73"/>
         <source>Oil painting 2</source>
         <translation>Olejomaľba 2</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="266"/>
+        <location filename="DlgConvert.cpp" line="267"/>
         <location filename="DlgFilter.cpp" line="74"/>
         <source>Swirl</source>
         <translation>Rozvíriť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="267"/>
+        <location filename="DlgConvert.cpp" line="268"/>
         <location filename="DlgFilter.cpp" line="75"/>
         <source>Spread</source>
         <translation>Rozšíriť šum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="268"/>
+        <location filename="DlgConvert.cpp" line="269"/>
         <location filename="DlgFilter.cpp" line="76"/>
         <source>Lens</source>
         <translation>Šošovka</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="271"/>
+        <location filename="DlgConvert.cpp" line="272"/>
         <location filename="DlgFilter.cpp" line="79"/>
         <source>Band</source>
         <translation>Pruh</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="284"/>
+        <location filename="DlgConvert.cpp" line="285"/>
         <location filename="DlgFilter.cpp" line="92"/>
         <source>Pointillize</source>
         <translation>Pointillize</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1754"/>
+        <location filename="DlgConvert.cpp" line="1775"/>
         <source>Add</source>
         <translation>Pridať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1757"/>
+        <location filename="DlgConvert.cpp" line="1778"/>
         <source>Channel</source>
         <translation>Kanál</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1758"/>
+        <location filename="DlgConvert.cpp" line="1779"/>
         <source>Enhance</source>
         <translation>Zlepšiť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1759"/>
+        <location filename="DlgConvert.cpp" line="1780"/>
         <source>Frame</source>
         <translation>Rám</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1760"/>
+        <location filename="DlgConvert.cpp" line="1781"/>
         <source>Metadata</source>
         <translation>Metaúdaje</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1761"/>
+        <location filename="DlgConvert.cpp" line="1782"/>
         <source>Noise</source>
         <translation>Šum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1762"/>
+        <location filename="DlgConvert.cpp" line="1783"/>
         <source>Pixelate</source>
         <translation>Pixelovať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1763"/>
+        <location filename="DlgConvert.cpp" line="1784"/>
         <source>Stylize</source>
         <translation>Štylizovať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1764"/>
+        <location filename="DlgConvert.cpp" line="1785"/>
         <source>Transform</source>
         <translation>Transformovať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1765"/>
+        <location filename="DlgConvert.cpp" line="1786"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2794"/>
+        <location filename="DlgConvert.cpp" line="2833"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 súbor(ov) - %2% - %3</translation>
     </message>
@@ -3569,29 +3569,29 @@ Chcete ho prepísať?</translation>
 <context>
     <name>DlgConvert</name>
     <message>
-        <location filename="DlgConvert.cpp" line="753"/>
+        <location filename="DlgConvert.cpp" line="767"/>
         <source>_result</source>
         <translation>_výsledok</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1162"/>
+        <location filename="DlgConvert.cpp" line="1183"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;XnConvert je poskytovaný ako freeware, bezplatne pre osobné (nekomerčné), alebo vzdelávacie použitie, vrátane neziskových organizácii. &lt;br&gt;Komerčné firmy si musia zakúpiť licencie, aby ho mohli používať.&lt;br&gt;&lt;br&gt;&lt;br&gt;Máte právo používať a vytvárať neobmedzený počet kópii tohoto programu.&lt;br&gt;&lt;br&gt;Tento program je poskytovaný tak ako je.&lt;br&gt;Nie je poskytovaná záruka akéhokoľvek druhu.&lt;br&gt;Autor nebude zodpovedný pri strate dát, škodách, strate ušlého zisku alebo stratách akéhokoľvek iného druhu počas používania alebo pri nesprávnom použití tohoto programu.&lt;br&gt;&lt;br&gt;Akékoľvek návrhy, pripomienky a komentáre sú vítané. </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1312"/>
+        <location filename="DlgConvert.cpp" line="1333"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
         <translation>Prosím reštartujte aplikáciu.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1334"/>
+        <location filename="DlgConvert.cpp" line="1355"/>
         <source>New version</source>
         <translation>Nová verzia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1335"/>
+        <location filename="DlgConvert.cpp" line="1356"/>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
@@ -3601,43 +3601,43 @@ Do you want to go on the download page?</source>
 Chcete prejsť na stránku s odkazom na stiahnutie?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1494"/>
-        <location filename="DlgConvert.cpp" line="1503"/>
+        <location filename="DlgConvert.cpp" line="1515"/>
+        <location filename="DlgConvert.cpp" line="1524"/>
         <source>Actions</source>
         <translation>Operácie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1618"/>
+        <location filename="DlgConvert.cpp" line="1639"/>
         <source>Load image...</source>
         <translation>Načítať obrázok...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1631"/>
+        <location filename="DlgConvert.cpp" line="1652"/>
         <source>Use image from input files</source>
         <translation>Použiť obrázok zo vstupných súborov</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1663"/>
+        <location filename="DlgConvert.cpp" line="1684"/>
         <source>Export script</source>
         <translation>Exportovať skript</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1669"/>
+        <location filename="DlgConvert.cpp" line="1690"/>
         <source>Would you like to export filenames, too?</source>
         <translation>Chcete exportovať aj názvy súborov?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1992"/>
+        <location filename="DlgConvert.cpp" line="2027"/>
         <source>Load script</source>
         <translation>Načítať skript</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2006"/>
+        <location filename="DlgConvert.cpp" line="2041"/>
         <source>Save script</source>
         <translation>Uložiť skript</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2181"/>
+        <location filename="DlgConvert.cpp" line="2220"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Vstup: %n súbor</numerusform>
@@ -3646,22 +3646,22 @@ Chcete prejsť na stránku s odkazom na stiahnutie?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2211"/>
+        <location filename="DlgConvert.cpp" line="2250"/>
         <source>Choose a directory</source>
         <translation>Vyberte priečinok</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2250"/>
+        <location filename="DlgConvert.cpp" line="2289"/>
         <source>Choose ZIP filename</source>
         <translation>Zvoľte názov súboru ZIP</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2468"/>
+        <location filename="DlgConvert.cpp" line="2507"/>
         <source>Overwrite</source>
         <translation>Nahradiť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2469"/>
+        <location filename="DlgConvert.cpp" line="2508"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3671,28 +3671,28 @@ Do you want to overwrite it?</source>
 Chcete ho nahradiť?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2478"/>
+        <location filename="DlgConvert.cpp" line="2517"/>
         <source>Saving ZIP file...</source>
         <translation>Ukladanie súboru ZIP...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2481"/>
+        <location filename="DlgConvert.cpp" line="2520"/>
         <source>: saved</source>
         <translation>: uložené</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2507"/>
+        <location filename="DlgConvert.cpp" line="2546"/>
         <source>Uploading image(s) to server...</source>
         <translation>Odosielanie obrázka (obrázkov) na server...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2570"/>
-        <location filename="DlgConvert.cpp" line="2572"/>
+        <location filename="DlgConvert.cpp" line="2609"/>
+        <location filename="DlgConvert.cpp" line="2611"/>
         <source>[Finished]</source>
         <translation>[Dokončené]</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2779"/>
+        <location filename="DlgConvert.cpp" line="2818"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n sekunda do konca</numerusform>
@@ -3701,8 +3701,8 @@ Chcete ho nahradiť?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2782"/>
-        <location filename="DlgConvert.cpp" line="2786"/>
+        <location filename="DlgConvert.cpp" line="2821"/>
+        <location filename="DlgConvert.cpp" line="2825"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minúta do konca</numerusform>
@@ -3711,8 +3711,8 @@ Chcete ho nahradiť?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2438"/>
-        <location filename="DlgConvert.cpp" line="2786"/>
+        <location filename="DlgConvert.cpp" line="2477"/>
+        <location filename="DlgConvert.cpp" line="2825"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n hodina a </numerusform>
@@ -3721,103 +3721,103 @@ Chcete ho nahradiť?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="171"/>
+        <location filename="DlgConvert.cpp" line="172"/>
         <source>Same as original</source>
         <translation>Ako pôvodný</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="583"/>
+        <location filename="DlgConvert.cpp" line="584"/>
         <source>Convert with XnConvert</source>
         <translation>Konvertovať s XnConvert</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="618"/>
+        <location filename="DlgConvert.cpp" line="619"/>
         <source>Save log as...</source>
         <translation>Uložiť denník ako...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="624"/>
+        <location filename="DlgConvert.cpp" line="625"/>
         <source>Export log</source>
         <translation>Exportovať denník</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1624"/>
+        <location filename="DlgConvert.cpp" line="1645"/>
         <source>Remove file from filelist</source>
         <translation>Odstrániť súbor zo zoznamu súborov</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2132"/>
-        <location filename="DlgConvert.cpp" line="2136"/>
+        <location filename="DlgConvert.cpp" line="2171"/>
+        <location filename="DlgConvert.cpp" line="2175"/>
         <source>Parameters</source>
         <translation>Parametre</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2335"/>
+        <location filename="DlgConvert.cpp" line="2374"/>
         <source>Cancel batch processing</source>
         <translation>Zrušiť dávkové spracovanie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2335"/>
+        <location filename="DlgConvert.cpp" line="2374"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>Chcete zrušiť aktuálne dávkové spracovanie?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2387"/>
+        <location filename="DlgConvert.cpp" line="2426"/>
         <source>Loading error(s):</source>
         <translation>Chyby pri načítavaní:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2395"/>
+        <location filename="DlgConvert.cpp" line="2434"/>
         <source>Saving error(s):</source>
         <translation>Chyby pri ukladaní:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2406"/>
+        <location filename="DlgConvert.cpp" line="2445"/>
         <source>Input files:</source>
         <translation>Vstupné súbory:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2407"/>
+        <location filename="DlgConvert.cpp" line="2446"/>
         <source>Extracted pages:</source>
         <translation>Extrahované stránky:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2410"/>
+        <location filename="DlgConvert.cpp" line="2449"/>
         <source>New files:</source>
         <translation>Nové súbory:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2412"/>
+        <location filename="DlgConvert.cpp" line="2451"/>
         <source>Overwritten:</source>
         <translation>Prepísané:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2414"/>
+        <location filename="DlgConvert.cpp" line="2453"/>
         <source>Skipped:</source>
         <translation>Preskočené:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2418"/>
+        <location filename="DlgConvert.cpp" line="2457"/>
         <source>Total input file size:</source>
         <translation>Celková veľkosť vstupného súboru:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2419"/>
+        <location filename="DlgConvert.cpp" line="2458"/>
         <source>Total output file size:</source>
         <translation>Celková veľkosť výstupného súboru:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2421"/>
+        <location filename="DlgConvert.cpp" line="2460"/>
         <source>File size ratio:</source>
         <translation>Pomer veľkosti súboru:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2425"/>
+        <location filename="DlgConvert.cpp" line="2464"/>
         <source>Total Duration:</source>
         <translation>Celková doba trvania:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2431"/>
+        <location filename="DlgConvert.cpp" line="2470"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n sekunda</numerusform>
@@ -3826,8 +3826,8 @@ Chcete ho nahradiť?</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2434"/>
-        <location filename="DlgConvert.cpp" line="2438"/>
+        <location filename="DlgConvert.cpp" line="2473"/>
+        <location filename="DlgConvert.cpp" line="2477"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minúta</numerusform>
@@ -3836,80 +3836,80 @@ Chcete ho nahradiť?</translation>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2584"/>
+        <location filename="DlgConvert.cpp" line="2623"/>
         <source>Finished at: </source>
         <translatorcomment>**o alebo za?</translatorcomment>
         <translation>Dokončené o: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2615"/>
+        <location filename="DlgConvert.cpp" line="2654"/>
         <source>uploaded</source>
         <translation>odoslané</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2623"/>
+        <location filename="DlgConvert.cpp" line="2662"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation>nie je obrázok</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2626"/>
+        <location filename="DlgConvert.cpp" line="2665"/>
         <source>open error</source>
         <translation>chyba pri otvorení</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2629"/>
+        <location filename="DlgConvert.cpp" line="2668"/>
         <source>create error</source>
         <translation>chyba pri vytváraní</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2632"/>
+        <location filename="DlgConvert.cpp" line="2671"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>ma atribút len na čítanie a preto nemôže byť prepísaný!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2635"/>
+        <location filename="DlgConvert.cpp" line="2674"/>
         <source>skipped, file already exists!</source>
         <translation>preskočené, súbor už existuje!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2637"/>
+        <location filename="DlgConvert.cpp" line="2676"/>
         <source>failed</source>
         <translation>neúspešný</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2643"/>
+        <location filename="DlgConvert.cpp" line="2682"/>
         <source>loading</source>
         <translation>načítanie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2661"/>
+        <location filename="DlgConvert.cpp" line="2700"/>
         <source>loaded</source>
         <translation>načítaný</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2695"/>
+        <location filename="DlgConvert.cpp" line="2734"/>
         <source>copied</source>
         <translation>skopírované</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2699"/>
+        <location filename="DlgConvert.cpp" line="2738"/>
         <source>saved</source>
         <translation>uložený</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2713"/>
+        <location filename="DlgConvert.cpp" line="2752"/>
         <source>%1 of %2 files</source>
         <translation>%1 z %2 súborov</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2744"/>
+        <location filename="DlgConvert.cpp" line="2783"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Prepísať súbor</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2745"/>
+        <location filename="DlgConvert.cpp" line="2784"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3922,32 +3922,32 @@ Do you want to overwrite it?</oldsource>
 Chcete ho prepísať?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2747"/>
+        <location filename="DlgConvert.cpp" line="2786"/>
         <source>Yes to &amp;all</source>
         <translation>Áno pre &amp;všetky</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2748"/>
+        <location filename="DlgConvert.cpp" line="2787"/>
         <source>&amp;Yes</source>
         <translation>Án&amp;o</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2749"/>
+        <location filename="DlgConvert.cpp" line="2788"/>
         <source>&amp;No</source>
         <translation>&amp;Nie</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2750"/>
+        <location filename="DlgConvert.cpp" line="2789"/>
         <source>&amp;Rename</source>
         <translation>&amp;Premenovať</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2751"/>
+        <location filename="DlgConvert.cpp" line="2790"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Zrušiť</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2808"/>
+        <location filename="DlgConvert.cpp" line="2847"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -3956,7 +3956,7 @@ Do you want to continue?</source>
 Chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2818"/>
+        <location filename="DlgConvert.cpp" line="2857"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
@@ -3965,7 +3965,7 @@ Do you want to continue?</source>
 Chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2841"/>
+        <location filename="DlgConvert.cpp" line="2880"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
@@ -3974,24 +3974,24 @@ Do you want to continue?</source>
 Chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2969"/>
+        <location filename="DlgConvert.cpp" line="3008"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>Nastavenie &apos;Používať viacero jadier procesora&apos; je vypnuté. Toto nastavenie nemôže byť kombinované s režimom &apos;Spýtať sa&apos; alebo viacstránkovými súbormi PDF.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2971"/>
+        <location filename="DlgConvert.cpp" line="3010"/>
         <source>Started at: </source>
         <translatorcomment>**</translatorcomment>
         <translation>Spustené o: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2818"/>
+        <location filename="DlgConvert.cpp" line="2857"/>
         <source>Output filename</source>
         <translation>Názov výstupného súboru</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2827"/>
+        <location filename="DlgConvert.cpp" line="2866"/>
         <source>Choose output pathname</source>
         <translation>Vybrať výstupnú cestu</translation>
     </message>
@@ -12424,49 +12424,49 @@ Miniatúru</translation>
         <translation>Rovnaké ako katalóg</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="132"/>
-        <location filename="DlgSettingsIntegration.cpp" line="133"/>
-        <location filename="DlgSettingsIntegration.cpp" line="134"/>
+        <location filename="DlgSettingsIntegration.cpp" line="137"/>
+        <location filename="DlgSettingsIntegration.cpp" line="138"/>
+        <location filename="DlgSettingsIntegration.cpp" line="139"/>
         <source>Browse with XnViewMP</source>
         <translation>Prehliadať s XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="319"/>
+        <location filename="DlgSettingsIntegration.cpp" line="324"/>
         <source>Paths</source>
         <translation>Cesty</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="319"/>
+        <location filename="DlgSettingsIntegration.cpp" line="324"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Buďte prosím opatrný s právami pre priečinok pri používaní XnView priečinka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="482"/>
+        <location filename="DlgSettingsIntegration.cpp" line="487"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP je rýchly multi-formátový grafický prehliadač, zobrazovač a prevodník. Dokáže prečítať viac ako 400 súborových formátov.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="483"/>
+        <location filename="DlgSettingsIntegration.cpp" line="488"/>
         <source>XnViewMP for Windows</source>
         <translation>XnView MP pre Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="502"/>
+        <location filename="DlgSettingsIntegration.cpp" line="507"/>
         <source>XnView Slide file</source>
         <translation>XnView súbor prezentácie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="509"/>
+        <location filename="DlgSettingsIntegration.cpp" line="514"/>
         <source>%1 Image file</source>
         <translation>%1 súbor obrázka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="700"/>
+        <location filename="DlgSettingsIntegration.cpp" line="705"/>
         <source>File Associations</source>
         <translation>Asociácie súborov</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="700"/>
+        <location filename="DlgSettingsIntegration.cpp" line="705"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>Spustite prosím XnViewMP s administrátorskými právami (iba prvý-krát).</translation>
     </message>
@@ -13763,7 +13763,7 @@ Chcete ho priradiť znova?</translation>
         <translation>Farba pozadia</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="127"/>
+        <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use checkboard pattern as background</source>
         <translation>Používať šachovnicový vzor ako pozadie</translation>
     </message>
@@ -16503,7 +16503,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="676"/>
         <location filename="InfoPropertiesView.cpp" line="694"/>
         <location filename="InfoPropertiesView.cpp" line="713"/>
-        <location filename="TemplateData.cpp" line="2562"/>
+        <location filename="TemplateData.cpp" line="2564"/>
         <source>Format</source>
         <translation>Formát</translation>
     </message>
@@ -16511,8 +16511,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="73"/>
         <location filename="InfoPropertiesView.cpp" line="679"/>
         <location filename="ItemModel.cpp" line="1108"/>
-        <location filename="TemplateData.cpp" line="2565"/>
-        <location filename="TemplateData.cpp" line="2588"/>
+        <location filename="TemplateData.cpp" line="2567"/>
+        <location filename="TemplateData.cpp" line="2590"/>
         <source>Width</source>
         <translation>Šírka</translation>
     </message>
@@ -16520,8 +16520,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <location filename="InfoPropertiesView.cpp" line="680"/>
         <location filename="ItemModel.cpp" line="1110"/>
-        <location filename="TemplateData.cpp" line="2566"/>
-        <location filename="TemplateData.cpp" line="2589"/>
+        <location filename="TemplateData.cpp" line="2568"/>
+        <location filename="TemplateData.cpp" line="2591"/>
         <source>Height</source>
         <translation>Výška</translation>
     </message>
@@ -16538,7 +16538,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="79"/>
         <location filename="InfoPropertiesView.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2563"/>
+        <location filename="TemplateData.cpp" line="2565"/>
         <source>Color model</source>
         <translation>Farebný model</translation>
     </message>
@@ -16555,8 +16555,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="85"/>
         <location filename="ItemModel.cpp" line="1112"/>
-        <location filename="TemplateData.cpp" line="2569"/>
-        <location filename="TemplateData.cpp" line="2591"/>
+        <location filename="TemplateData.cpp" line="2571"/>
+        <location filename="TemplateData.cpp" line="2593"/>
         <source>DPI</source>
         <translation>DPI</translation>
     </message>
@@ -16569,7 +16569,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="93"/>
         <location filename="InfoPropertiesView.cpp" line="98"/>
-        <location filename="TemplateData.cpp" line="2564"/>
+        <location filename="TemplateData.cpp" line="2566"/>
         <source>Compression</source>
         <translation>Kompresia</translation>
     </message>
@@ -16788,7 +16788,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1094"/>
-        <location filename="TemplateData.cpp" line="2770"/>
+        <location filename="TemplateData.cpp" line="2772"/>
         <source>Rating</source>
         <translation>Hodnotenie</translation>
     </message>
@@ -16811,13 +16811,13 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="691"/>
         <location filename="InfoPropertiesView.cpp" line="731"/>
         <location filename="ItemModel.cpp" line="1100"/>
-        <location filename="TemplateData.cpp" line="2568"/>
+        <location filename="TemplateData.cpp" line="2570"/>
         <source>Comment</source>
         <translation>Komentár</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1106"/>
-        <location filename="TemplateData.cpp" line="2578"/>
+        <location filename="TemplateData.cpp" line="2580"/>
         <source>Ratio</source>
         <translation>Pomer strán</translation>
     </message>
@@ -16848,12 +16848,12 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
-        <location filename="TemplateData.cpp" line="2774"/>
+        <location filename="TemplateData.cpp" line="2776"/>
         <source>Categories</source>
         <translation>Kategórie</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2772"/>
+        <location filename="TemplateData.cpp" line="2774"/>
         <source>Color label</source>
         <translation>Farebné značenie</translation>
     </message>
@@ -16867,7 +16867,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="IptcEditBase.cpp" line="114"/>
         <location filename="ItemModel.cpp" line="1102"/>
-        <location filename="TemplateData.cpp" line="2794"/>
+        <location filename="TemplateData.cpp" line="2796"/>
         <source>Annotation</source>
         <translation>Poznámka</translation>
     </message>
@@ -16880,32 +16880,32 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Všetky polia</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2567"/>
-        <location filename="TemplateData.cpp" line="2590"/>
+        <location filename="TemplateData.cpp" line="2569"/>
+        <location filename="TemplateData.cpp" line="2592"/>
         <source>BPP</source>
         <translation>BPP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2572"/>
-        <location filename="TemplateData.cpp" line="2592"/>
+        <location filename="TemplateData.cpp" line="2574"/>
+        <location filename="TemplateData.cpp" line="2594"/>
         <source>Width (inch)</source>
         <translation>Šírka (palcov)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2573"/>
-        <location filename="TemplateData.cpp" line="2593"/>
+        <location filename="TemplateData.cpp" line="2575"/>
+        <location filename="TemplateData.cpp" line="2595"/>
         <source>Height (inch)</source>
         <translation>Výška (palcov)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2574"/>
-        <location filename="TemplateData.cpp" line="2594"/>
+        <location filename="TemplateData.cpp" line="2576"/>
+        <location filename="TemplateData.cpp" line="2596"/>
         <source>Width (cm)</source>
         <translation>Šírka (cm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2575"/>
-        <location filename="TemplateData.cpp" line="2595"/>
+        <location filename="TemplateData.cpp" line="2577"/>
+        <location filename="TemplateData.cpp" line="2597"/>
         <source>Height (cm)</source>
         <translation>Výška (cm)</translation>
     </message>
@@ -16914,7 +16914,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="354"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <location filename="IptcEditBase.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2782"/>
+        <location filename="TemplateData.cpp" line="2784"/>
         <source>Filename</source>
         <translation>Názov súboru</translation>
     </message>
@@ -16927,35 +16927,35 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="355"/>
         <location filename="IptcEditBase.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2784"/>
+        <location filename="TemplateData.cpp" line="2786"/>
         <source>Filename (last number)</source>
         <translation>Názov súboru (posledné číslo)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="356"/>
         <location filename="IptcEditBase.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2785"/>
+        <location filename="TemplateData.cpp" line="2787"/>
         <source>Folder</source>
         <translation>Priečinok</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="357"/>
         <location filename="IptcEditBase.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2786"/>
+        <location filename="TemplateData.cpp" line="2788"/>
         <source>Folder name</source>
         <translation>Názov priečinka</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="358"/>
         <location filename="IptcEditBase.cpp" line="76"/>
-        <location filename="TemplateData.cpp" line="2787"/>
+        <location filename="TemplateData.cpp" line="2789"/>
         <source>Accessed date</source>
         <translation>Dátum posledného prístupu</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="359"/>
         <location filename="IptcEditBase.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2788"/>
+        <location filename="TemplateData.cpp" line="2790"/>
         <source>Creation date</source>
         <translation>Dátum vytvorenia</translation>
     </message>
@@ -16963,131 +16963,131 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="DlgImport.cpp" line="230"/>
         <location filename="EditXMPWidget.cpp" line="360"/>
         <location filename="IptcEditBase.cpp" line="78"/>
-        <location filename="TemplateData.cpp" line="2789"/>
+        <location filename="TemplateData.cpp" line="2791"/>
         <source>Modified date</source>
         <translation>Dátum poslednej zmeny</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="361"/>
         <location filename="IptcEditBase.cpp" line="79"/>
-        <location filename="TemplateData.cpp" line="2790"/>
+        <location filename="TemplateData.cpp" line="2792"/>
         <source>Size (Auto)</source>
         <translation>Veľkosť (automaticky - v Bajtoch/KB/MB/GB)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="362"/>
         <location filename="IptcEditBase.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2791"/>
+        <location filename="TemplateData.cpp" line="2793"/>
         <source>Size (Bytes)</source>
         <translation>Veľkosť (v Bajtoch)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="363"/>
         <location filename="IptcEditBase.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2792"/>
+        <location filename="TemplateData.cpp" line="2794"/>
         <source>Size (KB)</source>
         <translation>Veľkosť (v KB)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2576"/>
+        <location filename="TemplateData.cpp" line="2578"/>
         <source>Width (mm)</source>
         <translation>Šírka (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2577"/>
+        <location filename="TemplateData.cpp" line="2579"/>
         <source>Height (mm)</source>
         <translation>Výška (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2579"/>
+        <location filename="TemplateData.cpp" line="2581"/>
         <source>Ratio Decimal</source>
         <translation>Desatinný pomer</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2580"/>
+        <location filename="TemplateData.cpp" line="2582"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
         <translation>Pomer šírka/výška</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2581"/>
+        <location filename="TemplateData.cpp" line="2583"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
         <translation>Pomer výška/šírka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2582"/>
+        <location filename="TemplateData.cpp" line="2584"/>
         <source>MPixels</source>
         <translation>Megapixelov</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2764"/>
+        <location filename="TemplateData.cpp" line="2766"/>
         <source>Create date</source>
         <translation>Vytvoriť dátum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2765"/>
+        <location filename="TemplateData.cpp" line="2767"/>
         <source>Modify date</source>
         <translation>Upraviť dátum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2783"/>
+        <location filename="TemplateData.cpp" line="2785"/>
         <source>Filename (with extension)</source>
         <translation>Názov súboru (s príponou)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2793"/>
+        <location filename="TemplateData.cpp" line="2795"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2795"/>
+        <location filename="TemplateData.cpp" line="2797"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
         <translation>Názov výstupného súboru</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2796"/>
+        <location filename="TemplateData.cpp" line="2798"/>
         <source>Output filename (with extension)</source>
         <translation>Názov výstupného súboru (s príponou)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2766"/>
+        <location filename="TemplateData.cpp" line="2768"/>
         <source>File index</source>
         <translation>Index súboru</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2570"/>
+        <location filename="TemplateData.cpp" line="2572"/>
         <source>DPI-X</source>
         <translation>DPI-X</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2571"/>
+        <location filename="TemplateData.cpp" line="2573"/>
         <source>DPI-Y</source>
         <translation>DPI-Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2767"/>
+        <location filename="TemplateData.cpp" line="2769"/>
         <source>Zoom</source>
         <translation>Priblíženie</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2768"/>
+        <location filename="TemplateData.cpp" line="2770"/>
         <source>Current date</source>
         <translation>Aktuálny dátum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2769"/>
+        <location filename="TemplateData.cpp" line="2771"/>
         <source>Tag status</source>
         <translation>Stav označenia</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2771"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Rating (number)</source>
         <translation>Hodnotenie (číslo)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2773"/>
+        <location filename="TemplateData.cpp" line="2775"/>
         <source>Color label (number)</source>
         <translation>Farebné značenie (číslo)</translation>
     </message>
@@ -17341,13 +17341,13 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1119"/>
-        <location filename="TemplateData.cpp" line="2600"/>
+        <location filename="TemplateData.cpp" line="2602"/>
         <source>Maker</source>
         <translation>Zhotoviteľ</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1121"/>
-        <location filename="TemplateData.cpp" line="2601"/>
+        <location filename="TemplateData.cpp" line="2603"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
@@ -17373,412 +17373,412 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1131"/>
-        <location filename="TemplateData.cpp" line="2639"/>
+        <location filename="TemplateData.cpp" line="2641"/>
         <source>Aperture</source>
         <translation>Clona</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1133"/>
-        <location filename="TemplateData.cpp" line="2684"/>
+        <location filename="TemplateData.cpp" line="2686"/>
         <source>Latitude</source>
         <translation>Zemepisná šírka</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1135"/>
-        <location filename="TemplateData.cpp" line="2687"/>
+        <location filename="TemplateData.cpp" line="2689"/>
         <source>Longitude</source>
         <translation>Zemepisná dĺžka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2613"/>
+        <location filename="TemplateData.cpp" line="2615"/>
         <source>Software</source>
         <translation>Softvér</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2602"/>
+        <location filename="TemplateData.cpp" line="2604"/>
         <source>Artist</source>
         <translation>Vytvoril</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2626"/>
+        <location filename="TemplateData.cpp" line="2628"/>
         <source>User comment</source>
         <translation>Užívateľský komentár</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2634"/>
+        <location filename="TemplateData.cpp" line="2636"/>
         <source>F-Number</source>
         <translation>F-číslo</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2603"/>
+        <location filename="TemplateData.cpp" line="2605"/>
         <source>Copyright</source>
         <translation>Autorské právo</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2604"/>
+        <location filename="TemplateData.cpp" line="2606"/>
         <source>Date/time modified</source>
         <translation>Dátum/čas poslednej zmeny</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2605"/>
+        <location filename="TemplateData.cpp" line="2607"/>
         <source>Orientation</source>
         <translation>Orientácia</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2606"/>
+        <location filename="TemplateData.cpp" line="2608"/>
         <source>X-Resolution</source>
         <translation>X-rozlíšenie</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2607"/>
+        <location filename="TemplateData.cpp" line="2609"/>
         <source>Y-Resolution</source>
         <translation>Y-rozlíšenie</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2608"/>
+        <location filename="TemplateData.cpp" line="2610"/>
         <source>Resolution unit</source>
         <translation>Jednotka rozlíšenia</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2609"/>
+        <location filename="TemplateData.cpp" line="2611"/>
         <source>Primary chromaticities</source>
         <translation>Primárna chrómatickosť</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2610"/>
+        <location filename="TemplateData.cpp" line="2612"/>
         <source>YCbCr-Coefficients</source>
         <translation>YCbCr-koeficienty</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2611"/>
+        <location filename="TemplateData.cpp" line="2613"/>
         <source>YCbCr-Positioning</source>
         <translation>YCbCr-umiestnenie</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2612"/>
+        <location filename="TemplateData.cpp" line="2614"/>
         <source>Ref. black/white</source>
         <translation>Ref. čierna/biela</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2615"/>
+        <location filename="TemplateData.cpp" line="2617"/>
         <source>LensID</source>
         <translation>ID šošovky</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2617"/>
+        <location filename="TemplateData.cpp" line="2619"/>
         <source>XP Title</source>
         <translation>XP Názov</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2618"/>
+        <location filename="TemplateData.cpp" line="2620"/>
         <source>XP Comment</source>
         <translation>XP Komentár</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2619"/>
+        <location filename="TemplateData.cpp" line="2621"/>
         <source>XP Author</source>
         <translation>XP Autor</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2620"/>
+        <location filename="TemplateData.cpp" line="2622"/>
         <source>XP Keywords</source>
         <translation>XP Kľúčové slová</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2621"/>
+        <location filename="TemplateData.cpp" line="2623"/>
         <source>XP Subject</source>
         <translation>XP Predmet</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2627"/>
+        <location filename="TemplateData.cpp" line="2629"/>
         <source>Date taken</source>
         <translation>Dátum zhotovenia</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2628"/>
+        <location filename="TemplateData.cpp" line="2630"/>
         <source>Date digitized</source>
         <translation>Dátum digitalizácie</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2629"/>
+        <location filename="TemplateData.cpp" line="2631"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translation>Expozičný čas (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2630"/>
+        <location filename="TemplateData.cpp" line="2632"/>
         <source>Exposure Program</source>
         <translation>Expozičný program</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="TemplateData.cpp" line="2633"/>
         <source>Exposure Mode</source>
         <translation>Expozičný režim</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2632"/>
+        <location filename="TemplateData.cpp" line="2634"/>
         <source>Exposure Bias</source>
         <translation>Expozičné skreslenie</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2633"/>
+        <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Index</source>
         <translation>Expozičný index</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2635"/>
+        <location filename="TemplateData.cpp" line="2637"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translation>Ohnisková vzdialenosť (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2636"/>
+        <location filename="TemplateData.cpp" line="2638"/>
         <source>35mm Focal length</source>
         <translation>35mm ohnisková vzdialenosť</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2637"/>
+        <location filename="TemplateData.cpp" line="2639"/>
         <source>ISO Value</source>
         <translation>Hodnota ISO</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2638"/>
+        <location filename="TemplateData.cpp" line="2640"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translation>Rýchlosť uzávierky (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2640"/>
+        <location filename="TemplateData.cpp" line="2642"/>
         <source>Max. aperture</source>
         <translation>Max. clona</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2641"/>
+        <location filename="TemplateData.cpp" line="2643"/>
         <source>Colour space</source>
         <translation>Farebná oblasť</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2642"/>
+        <location filename="TemplateData.cpp" line="2644"/>
         <source>Digital zoom</source>
         <translation>Digitálne priblíženie</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2643"/>
+        <location filename="TemplateData.cpp" line="2645"/>
         <source>Subject Distance (m)</source>
         <translation>Vzdialenosť objektu (m)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2644"/>
+        <location filename="TemplateData.cpp" line="2646"/>
         <source>Subj. Dist. Range</source>
         <translation>Rozsah vzdialenosti objektu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2645"/>
+        <location filename="TemplateData.cpp" line="2647"/>
         <source>Subject location</source>
         <translation>Umiestnenie objektu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2646"/>
+        <location filename="TemplateData.cpp" line="2648"/>
         <source>Flash</source>
         <translation>Blesk</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2647"/>
+        <location filename="TemplateData.cpp" line="2649"/>
         <source>Flash energy</source>
         <translation>Sila blesku</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2648"/>
+        <location filename="TemplateData.cpp" line="2650"/>
         <source>Metering mode</source>
         <translation>Dávkovací režim</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2649"/>
+        <location filename="TemplateData.cpp" line="2651"/>
         <source>Gain control</source>
         <translation>Regulácia zosilnenia</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2650"/>
+        <location filename="TemplateData.cpp" line="2652"/>
         <source>Light source</source>
         <translation>Zdroj svetla</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2651"/>
+        <location filename="TemplateData.cpp" line="2653"/>
         <source>White balance</source>
         <translation>Vyváženie bielej</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2652"/>
+        <location filename="TemplateData.cpp" line="2654"/>
         <source>Contrast</source>
         <translation>Kontrast</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2653"/>
+        <location filename="TemplateData.cpp" line="2655"/>
         <source>Saturation</source>
         <translation>Sýtosť</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2654"/>
+        <location filename="TemplateData.cpp" line="2656"/>
         <source>Sharpness</source>
         <translation>Ostrosť</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2655"/>
+        <location filename="TemplateData.cpp" line="2657"/>
         <source>Brightness</source>
         <translation>Jas</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2656"/>
+        <location filename="TemplateData.cpp" line="2658"/>
         <source>Spectral sensitivity</source>
         <translation>Spektrálna citlivosť</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2657"/>
+        <location filename="TemplateData.cpp" line="2659"/>
         <source>Spatial freq. response</source>
         <translation>Plošná frekv. odozva</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2658"/>
+        <location filename="TemplateData.cpp" line="2660"/>
         <source>Sensing method</source>
         <translation>Snímacia metóda</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2659"/>
+        <location filename="TemplateData.cpp" line="2661"/>
         <source>File source</source>
         <translation>Zdroj súboru</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2660"/>
+        <location filename="TemplateData.cpp" line="2662"/>
         <source>CFA pattern</source>
         <translation>CFA vzor</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2661"/>
+        <location filename="TemplateData.cpp" line="2663"/>
         <source>Custom rendered</source>
         <translation>Voliteľný rendering</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2662"/>
+        <location filename="TemplateData.cpp" line="2664"/>
         <source>Device settings desc.</source>
         <translation>Popis nastavenia zariadenia</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2663"/>
+        <location filename="TemplateData.cpp" line="2665"/>
         <source>Scene type</source>
         <translation>Typ scény</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2664"/>
+        <location filename="TemplateData.cpp" line="2666"/>
         <source>Scene capture type</source>
         <translation>Typ zachytenia scény</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2665"/>
+        <location filename="TemplateData.cpp" line="2667"/>
         <source>Image-ID</source>
         <translation>ID obrázka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2666"/>
+        <location filename="TemplateData.cpp" line="2668"/>
         <source>Image width</source>
         <translation>Šírka obrázka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2667"/>
+        <location filename="TemplateData.cpp" line="2669"/>
         <source>Image height</source>
         <translation>Výška obrázka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2668"/>
+        <location filename="TemplateData.cpp" line="2670"/>
         <source>Image description</source>
         <translation>Popis obrázka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2669"/>
+        <location filename="TemplateData.cpp" line="2671"/>
         <source>Components configuration</source>
         <translation>Nastavenie komponentov</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2670"/>
+        <location filename="TemplateData.cpp" line="2672"/>
         <source>Photometric interpretation</source>
         <translation>Fotometrická interpretácia</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2671"/>
+        <location filename="TemplateData.cpp" line="2673"/>
         <source>Focal Plane X-Resolution</source>
         <translation>Ohnisková rovina - rozlíšenie v osi X</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2672"/>
+        <location filename="TemplateData.cpp" line="2674"/>
         <source>Focal Plane Y-Resolution</source>
         <translation>Ohnisková rovina - rozlíšenie v osi Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2673"/>
+        <location filename="TemplateData.cpp" line="2675"/>
         <source>Focal Plane Res. Unit</source>
         <translation>Jednotka rozl. ohniskovej roviny</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2674"/>
+        <location filename="TemplateData.cpp" line="2676"/>
         <source>EXIF Version</source>
         <translation>Verzia EXIF</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2675"/>
+        <location filename="TemplateData.cpp" line="2677"/>
         <source>White point</source>
         <translation>Prah bielej</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2676"/>
+        <location filename="TemplateData.cpp" line="2678"/>
         <source>Lens Make</source>
         <translation>Výrobca objektívu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2677"/>
+        <location filename="TemplateData.cpp" line="2679"/>
         <source>Lens Model</source>
         <translation>Model objektívu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2683"/>
+        <location filename="TemplateData.cpp" line="2685"/>
         <source>Latitude ref.</source>
         <translation>Referenčná zemepisná šírka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2685"/>
+        <location filename="TemplateData.cpp" line="2687"/>
         <source>Latitude (value)</source>
         <translation>Zemepisná šírka (hodnota)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2686"/>
+        <location filename="TemplateData.cpp" line="2688"/>
         <source>Longitude ref.</source>
         <translation>Referenčná zemepisná dĺžka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2688"/>
+        <location filename="TemplateData.cpp" line="2690"/>
         <source>Longitude (value)</source>
         <translation>Zemepisná dĺžka (hodnota)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2689"/>
+        <location filename="TemplateData.cpp" line="2691"/>
         <source>Altitude ref.</source>
         <translation>Refer. nadmorská výška</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2690"/>
+        <location filename="TemplateData.cpp" line="2692"/>
         <source>Altitude</source>
         <translation>Nadmorská výška</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2691"/>
+        <location filename="TemplateData.cpp" line="2693"/>
         <source>Direction ref.</source>
         <translation>Smer ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2692"/>
+        <location filename="TemplateData.cpp" line="2694"/>
         <source>Direction</source>
         <translation>Smer</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2693"/>
+        <location filename="TemplateData.cpp" line="2695"/>
         <source>Location Code</source>
         <translation>Kód miesta</translation>
     </message>
@@ -17817,7 +17817,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
         <location filename="ItemModel.cpp" line="1138"/>
-        <location filename="TemplateData.cpp" line="2698"/>
+        <location filename="TemplateData.cpp" line="2700"/>
         <source>Caption</source>
         <translation>Popis</translation>
     </message>
@@ -17826,8 +17826,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <location filename="ItemModel.cpp" line="1140"/>
-        <location filename="TemplateData.cpp" line="2699"/>
-        <location filename="TemplateData.cpp" line="2752"/>
+        <location filename="TemplateData.cpp" line="2701"/>
+        <location filename="TemplateData.cpp" line="2754"/>
         <source>Caption writer</source>
         <translation>Autor popisu</translation>
     </message>
@@ -17836,15 +17836,15 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1142"/>
-        <location filename="TemplateData.cpp" line="2700"/>
-        <location filename="TemplateData.cpp" line="2756"/>
+        <location filename="TemplateData.cpp" line="2702"/>
+        <location filename="TemplateData.cpp" line="2758"/>
         <source>Headline</source>
         <translation>Titulok</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
-        <location filename="TemplateData.cpp" line="2701"/>
+        <location filename="TemplateData.cpp" line="2703"/>
         <source>Special instructions</source>
         <translation>Špeciálne pokyny</translation>
     </message>
@@ -17853,20 +17853,20 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="33"/>
         <location filename="IptcHelper.cpp" line="22"/>
         <location filename="ItemModel.cpp" line="1144"/>
-        <location filename="TemplateData.cpp" line="2706"/>
+        <location filename="TemplateData.cpp" line="2708"/>
         <source>Keywords</source>
         <translation>Kľúčové slová</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2707"/>
+        <location filename="TemplateData.cpp" line="2709"/>
         <source>Category</source>
         <translation>Kategória</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
         <location filename="IptcHelper.cpp" line="24"/>
-        <location filename="TemplateData.cpp" line="2708"/>
+        <location filename="TemplateData.cpp" line="2710"/>
         <source>Supplemental categories</source>
         <translation>Doplnkové kategórie</translation>
     </message>
@@ -17874,8 +17874,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="40"/>
         <location filename="IptcHelper.cpp" line="30"/>
         <location filename="ItemModel.cpp" line="1156"/>
-        <location filename="TemplateData.cpp" line="2713"/>
-        <location filename="TemplateData.cpp" line="2748"/>
+        <location filename="TemplateData.cpp" line="2715"/>
+        <location filename="TemplateData.cpp" line="2750"/>
         <source>Copyright</source>
         <translation>Autorské právo</translation>
     </message>
@@ -17883,7 +17883,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="26"/>
         <location filename="ItemModel.cpp" line="1148"/>
-        <location filename="TemplateData.cpp" line="2714"/>
+        <location filename="TemplateData.cpp" line="2716"/>
         <source>Byline</source>
         <translation>Meno autora</translation>
     </message>
@@ -17891,7 +17891,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
         <location filename="ItemModel.cpp" line="1150"/>
-        <location filename="TemplateData.cpp" line="2715"/>
+        <location filename="TemplateData.cpp" line="2717"/>
         <source>Byline title</source>
         <translation>Titul autora</translation>
     </message>
@@ -17906,29 +17906,29 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="29"/>
         <location filename="ItemModel.cpp" line="1154"/>
-        <location filename="TemplateData.cpp" line="2717"/>
-        <location filename="TemplateData.cpp" line="2758"/>
+        <location filename="TemplateData.cpp" line="2719"/>
+        <location filename="TemplateData.cpp" line="2760"/>
         <source>Source</source>
         <translation>Zdroj</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="49"/>
         <location filename="IptcHelper.cpp" line="33"/>
-        <location filename="TemplateData.cpp" line="2722"/>
+        <location filename="TemplateData.cpp" line="2724"/>
         <source>Edit status</source>
         <translation>Stav spracovania</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2725"/>
+        <location filename="TemplateData.cpp" line="2727"/>
         <source>Job ID</source>
         <translation>ID procesu</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="37"/>
-        <location filename="TemplateData.cpp" line="2726"/>
+        <location filename="TemplateData.cpp" line="2728"/>
         <source>Program</source>
         <translation>Program</translation>
     </message>
@@ -17941,7 +17941,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="53"/>
         <location filename="IptcHelper.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2723"/>
+        <location filename="TemplateData.cpp" line="2725"/>
         <source>Priority</source>
         <translation>Priorita</translation>
     </message>
@@ -17958,14 +17958,14 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="42"/>
         <location filename="ItemModel.cpp" line="1160"/>
-        <location filename="TemplateData.cpp" line="2734"/>
-        <location filename="TemplateData.cpp" line="2753"/>
+        <location filename="TemplateData.cpp" line="2736"/>
+        <location filename="TemplateData.cpp" line="2755"/>
         <source>City</source>
         <translation>Mesto</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2741"/>
+        <location filename="TemplateData.cpp" line="2743"/>
         <source>Content location</source>
         <translation>Umiestnenie obsahu</translation>
     </message>
@@ -17982,15 +17982,15 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="63"/>
         <location filename="IptcHelper.cpp" line="45"/>
         <location filename="ItemModel.cpp" line="1166"/>
-        <location filename="TemplateData.cpp" line="2737"/>
-        <location filename="TemplateData.cpp" line="2754"/>
+        <location filename="TemplateData.cpp" line="2739"/>
+        <location filename="TemplateData.cpp" line="2756"/>
         <source>Country</source>
         <translation>Krajina</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
-        <location filename="TemplateData.cpp" line="2738"/>
+        <location filename="TemplateData.cpp" line="2740"/>
         <source>Country code</source>
         <translation>Kód krajiny</translation>
     </message>
@@ -18001,7 +18001,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <location filename="TemplateData.cpp" line="2732"/>
+        <location filename="TemplateData.cpp" line="2734"/>
         <source>Created date</source>
         <translation>Dátum vytvorenia</translation>
     </message>
@@ -18012,7 +18012,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="68"/>
-        <location filename="TemplateData.cpp" line="2733"/>
+        <location filename="TemplateData.cpp" line="2735"/>
         <source>Released date</source>
         <translation>Dátum zverejnenia</translation>
     </message>
@@ -18035,7 +18035,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="72"/>
         <location filename="IptcHelper.cpp" line="31"/>
         <location filename="ItemModel.cpp" line="1158"/>
-        <location filename="TemplateData.cpp" line="2740"/>
+        <location filename="TemplateData.cpp" line="2742"/>
         <source>Contact</source>
         <translation>Kontakt</translation>
     </message>
@@ -18044,7 +18044,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
         <location filename="ItemModel.cpp" line="1162"/>
-        <location filename="TemplateData.cpp" line="2735"/>
+        <location filename="TemplateData.cpp" line="2737"/>
         <source>Location</source>
         <translation>Poloha</translation>
     </message>
@@ -18077,8 +18077,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="127"/>
         <location filename="ItemModel.cpp" line="1152"/>
-        <location filename="TemplateData.cpp" line="2716"/>
-        <location filename="TemplateData.cpp" line="2755"/>
+        <location filename="TemplateData.cpp" line="2718"/>
+        <location filename="TemplateData.cpp" line="2757"/>
         <source>Credit</source>
         <translation>Zásluha</translation>
     </message>
@@ -18087,51 +18087,51 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="165"/>
         <location filename="EditXMPWidget.cpp" line="180"/>
         <location filename="ItemModel.cpp" line="1164"/>
-        <location filename="TemplateData.cpp" line="2736"/>
-        <location filename="TemplateData.cpp" line="2759"/>
+        <location filename="TemplateData.cpp" line="2738"/>
+        <location filename="TemplateData.cpp" line="2761"/>
         <source>State</source>
         <translation>Štát</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2724"/>
+        <location filename="TemplateData.cpp" line="2726"/>
         <source>Cycle</source>
         <translation>Cyklus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2739"/>
+        <location filename="TemplateData.cpp" line="2741"/>
         <source>Original trans. ref.</source>
         <translation>Originálna pren. ref.</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="130"/>
-        <location filename="TemplateData.cpp" line="2757"/>
+        <location filename="TemplateData.cpp" line="2759"/>
         <source>Instructions</source>
         <translation>Pokyny</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2746"/>
+        <location filename="TemplateData.cpp" line="2748"/>
         <source>Creator</source>
         <translation>Autor</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="111"/>
-        <location filename="TemplateData.cpp" line="2747"/>
+        <location filename="TemplateData.cpp" line="2749"/>
         <source>Description</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2749"/>
+        <location filename="TemplateData.cpp" line="2751"/>
         <source>Subject</source>
         <translation>Predmet</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2750"/>
+        <location filename="TemplateData.cpp" line="2752"/>
         <source>Title</source>
         <translation>Názov</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2751"/>
+        <location filename="TemplateData.cpp" line="2753"/>
         <source>Authors position</source>
         <translation>Pozícia autora</translation>
     </message>
@@ -18140,7 +18140,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="59"/>
         <location filename="IptcHelper.cpp" line="48"/>
         <location filename="ItemModel.cpp" line="1168"/>
-        <location filename="TemplateData.cpp" line="2731"/>
+        <location filename="TemplateData.cpp" line="2733"/>
         <source>Document title</source>
         <translation>Nadpis dokumentu</translation>
     </message>
@@ -20400,128 +20400,128 @@ Chcete pokračovať?</translation>
 <context>
     <name>MenuTemplate</name>
     <message>
-        <location filename="TemplateData.cpp" line="2780"/>
+        <location filename="TemplateData.cpp" line="2782"/>
         <source>Date format variables</source>
         <translation>Premenné pre formát dátumu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2545"/>
+        <location filename="TemplateData.cpp" line="2547"/>
         <source>Y - Year</source>
         <translation>Y - Rok</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2546"/>
+        <location filename="TemplateData.cpp" line="2548"/>
         <source>y - Year without century (00-99)</source>
         <translation>y - Rok bez storočia (00-99)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2547"/>
+        <location filename="TemplateData.cpp" line="2549"/>
         <source>m - Month as decimal (01-12)</source>
         <translation>m - Mesiac (01-12)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2548"/>
+        <location filename="TemplateData.cpp" line="2550"/>
         <source>d - Day as decimal (01-31)</source>
         <translation>d - Ďeň (01-31)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2550"/>
+        <location filename="TemplateData.cpp" line="2552"/>
         <source>H - Hour (01-24)</source>
         <translation>H - Hodina (01-24)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2551"/>
+        <location filename="TemplateData.cpp" line="2553"/>
         <source>M - Minute (00-59)</source>
         <translation>M - Minúta (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2552"/>
+        <location filename="TemplateData.cpp" line="2554"/>
         <source>S - Second (00-59)</source>
         <translation>S - Sekunda (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2554"/>
+        <location filename="TemplateData.cpp" line="2556"/>
         <source>B - Month name (eg. february)</source>
         <translation>B - Názov mesiaca (napr. február)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2555"/>
+        <location filename="TemplateData.cpp" line="2557"/>
         <source>b - Abbreviated month name (eg. feb)</source>
         <translation>b - Názov mesiaca skrátene (napr. feb)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2556"/>
+        <location filename="TemplateData.cpp" line="2558"/>
         <source>A - Weekday name (eg. wednesday)</source>
         <translation>A - Ďen v týždni (napr. streda)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2557"/>
+        <location filename="TemplateData.cpp" line="2559"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
         <translation>a - Ďen v týždni skrátene (napr. str)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2779"/>
+        <location filename="TemplateData.cpp" line="2781"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
         <translation># - Poradové číslo</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2797"/>
+        <location filename="TemplateData.cpp" line="2799"/>
         <source>Extra</source>
         <translation>Extra</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2799"/>
+        <location filename="TemplateData.cpp" line="2801"/>
         <source>Image</source>
         <translation>Obrázok</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2800"/>
+        <location filename="TemplateData.cpp" line="2802"/>
         <source>Saved Image</source>
         <translation>Uložený obrázok</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2801"/>
+        <location filename="TemplateData.cpp" line="2803"/>
         <source>EXIF - Camera</source>
         <translation>EXIF - Fotoaparát</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2802"/>
+        <location filename="TemplateData.cpp" line="2804"/>
         <source>EXIF - Image</source>
         <translation>EXIF - Obrázok</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2803"/>
+        <location filename="TemplateData.cpp" line="2805"/>
         <source>EXIF - GPS</source>
         <translation>EXIF - GPS</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2804"/>
+        <location filename="TemplateData.cpp" line="2806"/>
         <source>IPTC - Caption</source>
         <translation>IPTC - Popis</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2805"/>
+        <location filename="TemplateData.cpp" line="2807"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
         <translation>IPTC - Kľúčové slová a kategórie</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2809"/>
+        <location filename="TemplateData.cpp" line="2811"/>
         <source>XMP</source>
         <translation>XMP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2806"/>
+        <location filename="TemplateData.cpp" line="2808"/>
         <source>IPTC - Credits</source>
         <translation>IPTC - Zásluhy</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2807"/>
+        <location filename="TemplateData.cpp" line="2809"/>
         <source>IPTC - Status</source>
         <translation>IPTC - Stav</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2808"/>
+        <location filename="TemplateData.cpp" line="2810"/>
         <source>IPTC - Origin</source>
         <translation>IPTC - Pôvod</translation>
     </message>
@@ -23726,7 +23726,7 @@ Chcete v ňom ponechať miniatúry?
         <translation>Chcete uložiť reláciu?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3117"/>
+        <location filename="xnview.cpp" line="3155"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>

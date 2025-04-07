@@ -357,8 +357,8 @@
 <context>
     <name>AutoHideButton</name>
     <message>
-        <source>Auto hide</source>
-        <translation>Թաքցնել</translation>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

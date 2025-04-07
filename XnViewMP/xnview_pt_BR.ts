@@ -353,8 +353,8 @@
 <context>
     <name>AutoHideButton</name>
     <message>
-        <source>Auto hide</source>
-        <translation>Esconder automaticamente</translation>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
