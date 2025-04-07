@@ -452,7 +452,7 @@
     <message>
         <location filename="ViewAutoHidePanel.cpp" line="37"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Épingler</translation>
     </message>
 </context>
 <context>
@@ -1872,7 +1872,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="171"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation>Orphelin</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="730"/>
@@ -10051,7 +10051,7 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
     <message>
         <location filename="DlgReadFITS.ui" line="22"/>
         <source>FITS Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage FITS</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="30"/>
@@ -18194,7 +18194,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Subject code</source>
-        <translation type="unfinished"></translation>
+        <translation>Code du sujet</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="174"/>
