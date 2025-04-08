@@ -696,7 +696,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Asettelu</translation>
+        <translation>Asettelu</translation>
     </message>
 </context>
 <context>
@@ -6037,27 +6037,27 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Integer</source>
-        <translation>Kokonaisluku</translation>
+        <translation>Integraali</translation>
     </message>
     <message>
         <source>Fast integer (worst but fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nopea integraali (huonoin, mutta nopein)</translation>
     </message>
     <message>
         <source>Floating-point (best but slowest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Liukuluku (paras, mutta hitain)</translation>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished">Alinäytteistys</translation>
+        <translation>Alinäytteistys</translation>
     </message>
     <message>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) pienin tiedosto</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
-        <translation type="unfinished">4:4:4 (1x1,1x1,1x1) paras laatu</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) paras laatu</translation>
     </message>
 </context>
 <context>
@@ -6800,7 +6800,7 @@ ja luodaan alikansiot. </translation>
     </message>
     <message>
         <source>Categories to assign (use ; to separate categories)</source>
-        <translation type="unfinished"></translation>
+        <translation>Määritettävät kategoriat (käytä ; kategorien erottamiseen)</translation>
     </message>
 </context>
 <context>
@@ -7822,15 +7822,15 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Näkymä</translation>
+        <translation>Näkymä</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished">Muunna</translation>
+        <translation>Muunna</translation>
     </message>
     <message>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Täysi-/puolikokoinen renderöinti</translation>
     </message>
 </context>
 <context>
@@ -7871,27 +7871,27 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgReadJPEG</name>
     <message>
         <source>Dithering</source>
-        <translation type="unfinished">Rasterointi</translation>
+        <translation>Rasterointi</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ei mitään</translation>
+        <translation>Ei mitään</translation>
     </message>
     <message>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestetty</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Integraali</translation>
     </message>
     <message>
         <source>Fast integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Nopea integraali</translation>
     </message>
     <message>
         <source>Floating-point</source>
-        <translation type="unfinished"></translation>
+        <translation>Liukuluku</translation>
     </message>
 </context>
 <context>
@@ -9657,7 +9657,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedoston kopiointi</translation>
     </message>
 </context>
 <context>
@@ -10341,27 +10341,27 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished">Tuo</translation>
+        <translation>Tuo</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished">Vie</translation>
+        <translation>Vie</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation type="unfinished">Luokitus</translation>
+        <translation>Luokitus</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation type="unfinished">Värimerkintä</translation>
+        <translation>Värimerkintä</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished">Kategoriat</translation>
+        <translation>Kategoriat</translation>
     </message>
     <message>
         <source>Face tag</source>
-        <translation type="unfinished">Kasvojen tunnistus</translation>
+        <translation>Kasvojen tunnistus</translation>
     </message>
 </context>
 <context>
@@ -10604,7 +10604,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Kehysten määrä</translation>
     </message>
 </context>
 <context>
@@ -10894,7 +10894,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä navigaattori</translation>
     </message>
 </context>
 <context>
@@ -12113,19 +12113,19 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Integraali</translation>
     </message>
     <message>
         <source>Subsampling</source>
-        <translation type="unfinished">Alinäytteistys</translation>
+        <translation>Alinäytteistys</translation>
     </message>
     <message>
         <source>Floating-point (best but slowest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Liukuluku (paras, mutta hitain)</translation>
     </message>
     <message>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) pienin tiedosto</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
@@ -12133,11 +12133,11 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Fast integer (worst but fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nopea integraali (huonoin, mutta nopein)</translation>
     </message>
     <message>
         <source>DCT method</source>
-        <translation type="unfinished"></translation>
+        <translation>DCT-menetelmä</translation>
     </message>
 </context>
 <context>
@@ -13162,15 +13162,15 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Kaikki kentät (Numero)</translation>
+        <translation>Kaikki kentät (Numero)</translation>
     </message>
     <message>
         <source>Field</source>
-        <translation type="unfinished">Kenttä</translation>
+        <translation>Kenttä</translation>
     </message>
     <message>
         <source>Field (Number)</source>
-        <translation type="unfinished">Kenttä (Numero)</translation>
+        <translation>Kenttä (Numero)</translation>
     </message>
 </context>
 <context>
@@ -13296,27 +13296,27 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista käyttämättömät kategoriat...</translation>
     </message>
     <message>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kaikki kategoriat...</translation>
     </message>
     <message>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kaikki kategoriat</translation>
     </message>
     <message>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko poistaa kaikki kategoriat?</translation>
     </message>
     <message>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista käyttämättömät kategoriat</translation>
     </message>
     <message>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko poistaa käyttämättömät kategoriat?</translation>
     </message>
 </context>
 <context>
@@ -14114,23 +14114,23 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Suodin</translation>
+        <translation>Suodin</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished">Merkintä (Tagit)</translation>
+        <translation>Merkintä (Tagit)</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Arvo</translation>
     </message>
     <message>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi arvo</translation>
     </message>
     <message>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi nimike</translation>
     </message>
 </context>
 <context>
@@ -15574,7 +15574,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkauspäivä</translation>
     </message>
 </context>
 <context>
