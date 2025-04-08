@@ -358,7 +358,7 @@
     <name>AutoHideButton</name>
     <message>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixează</translation>
     </message>
 </context>
 <context>
