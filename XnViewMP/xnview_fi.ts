@@ -358,7 +358,7 @@
     <name>AutoHideButton</name>
     <message>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pin</translation>
     </message>
 </context>
 <context>
@@ -6033,11 +6033,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>DCT method</source>
-        <translation type="unfinished"></translation>
+        <translation>DCT-menetelmä</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokonaisluku</translation>
     </message>
     <message>
         <source>Fast integer (worst but fastest)</source>
