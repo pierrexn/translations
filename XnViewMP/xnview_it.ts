@@ -452,7 +452,7 @@
     <message>
         <location filename="ViewAutoHidePanel.cpp" line="37"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocca</translation>
     </message>
 </context>
 <context>
@@ -823,7 +823,7 @@ Trascinate e Rilasciate sopra il nodo designato per assegnare.</translation>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Disposizione</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
@@ -7664,7 +7664,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Intero</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7705,19 +7705,19 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgExport.ui" line="346"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Metodo DCT</translation>
+        <translation>Metodo DCT</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Veloce (peggiore ma il più veloce)</translation>
+        <translation>Interi veloci (peggiore ma più veloce)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Virgola mobile (migliore ma il più lento)</translation>
+        <translation>Virgola mobile (migliore ma più lento)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7728,12 +7728,12 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Fattore di sottocampionamento</translation>
+        <translation>Sottocampionamento</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) file più piccolo</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -7743,7 +7743,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgExport.ui" line="503"/>
         <source>Color</source>
-        <translation type="unfinished">Colore</translation>
+        <translation>Colore</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="582"/>
@@ -7759,22 +7759,22 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgExport.ui" line="610"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadati</translation>
+        <translation>Metadati</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="616"/>
         <source>Keep EXIF</source>
-        <translation type="unfinished">Preserva EXIF</translation>
+        <translation>Preserva EXIF</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="623"/>
         <source>Keep IPTC</source>
-        <translation type="unfinished">Preserva IPTC</translation>
+        <translation>Preserva IPTC</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="630"/>
         <source>Keep XMP</source>
-        <translation type="unfinished">Preserva XMP</translation>
+        <translation>Preserva XMP</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="672"/>
@@ -8649,7 +8649,7 @@ Saranno create delle sottocartelle. </translation>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">Categorie da assegnare</translation>
+        <translation>Categorie da assegnare (; per separare le categorie)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
@@ -9991,7 +9991,7 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10014,12 +10014,12 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="48"/>
         <source>Convert</source>
-        <translation type="unfinished">Converti</translation>
+        <translation>Converti</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendering a grandezza piena/dimezzata</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -10093,34 +10093,34 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Dithering</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuno</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordinato</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Intero</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Intero veloce</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Virgola mobile</translation>
     </message>
 </context>
 <context>
@@ -12109,27 +12109,27 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
         <source>Theme</source>
-        <translation type="unfinished">Tema</translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="92"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Predefinito</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="97"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiaro</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
         <source>Dark</source>
-        <translation type="unfinished">Tema fusion dark</translation>
+        <translation>Scuro</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="107"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Nero</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="298"/>
@@ -12244,7 +12244,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia del file</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="831"/>
@@ -13303,32 +13303,32 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">Importa</translation>
+        <translation>Importa</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">Esporta</translation>
+        <translation>Esporta</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished">Valutazione</translation>
+        <translation>Valutazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetta colorata</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished">Categorie</translation>
+        <translation>Categorie</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">Contrassegno facciale</translation>
+        <translation>Contrassegno facciale</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -13503,7 +13503,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di immagini</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1061"/>
@@ -13800,7 +13800,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
-        <translation type="unfinished">Mostra strumento panoramica</translation>
+        <translation>Mostra strumento panoramica</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -15635,19 +15635,19 @@ Volete continuare?</translation>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Metodo DCT</translation>
+        <translation>Metodo DCT</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation type="unfinished">Veloce (peggiore ma il più veloce)</translation>
+        <translation>Interi Veloci (peggiore ma più veloce)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Virgola mobile (migliore ma il più lento)</translation>
+        <translation>Virgola mobile (migliore ma più lento)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15658,22 +15658,22 @@ Volete continuare?</translation>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Fattore di sottocampionamento</translation>
+        <translation>Sottocampionamento</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished">Utilizzare JPEG-li</translation>
+        <translation>Utilizzare JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Intero</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) file più piccolo</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
@@ -16820,17 +16820,17 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Tutti i campi (Numero)</translation>
+        <translation>Tutti i campi (Numero)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">Campo</translation>
+        <translation>Campo</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">Campo (Numero)</translation>
+        <translation>Campo (Numero)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17204,32 +17204,32 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella le categorie inutilizzate...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella tutte le categorie...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella tutte le categorie</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Volete eliminare tutte le categorie?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina le categorie inutilizzate</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Volete eliminare le categorie inutilizzate?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
@@ -18366,27 +18366,27 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="18"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrassegno</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valore</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia valore</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia elemento</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -19296,7 +19296,7 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data di modifica</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="84"/>
@@ -19560,7 +19560,7 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="5"/>
         <source>Black</source>
-        <translation>Scuro</translation>
+        <translation>Nero</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="77"/>
