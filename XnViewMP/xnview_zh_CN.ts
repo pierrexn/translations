@@ -1600,7 +1600,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgConvert.cpp" line="227"/>
         <source>Exposure</source>
-        <translation type="unfinished">曝光度</translation>
+        <translation>曝光度</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="235"/>
@@ -7651,7 +7651,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">整数</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7720,7 +7720,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4:2:0 (2x2,1x1,1x1) 最小文件</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -9980,7 +9980,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>查看</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10087,7 +10087,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
@@ -10097,19 +10097,19 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">整数</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快速整数</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">浮点</translation>
     </message>
 </context>
 <context>
@@ -12291,7 +12291,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件复制</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="798"/>
@@ -13496,7 +13496,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">帧数</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1061"/>
@@ -15662,12 +15662,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">整数</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4:2:0 (2x2,1x1,1x1) 最小文件</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
@@ -17208,32 +17208,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除未使用的类别……</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除所有类别……</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除所有类别</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您想删除所有类别吗？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除未使用的类别</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您想删除未使用的类别吗？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
@@ -18386,22 +18386,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">标签</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">值</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制值</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复制项目</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -19090,7 +19090,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>修改日期</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="63"/>
