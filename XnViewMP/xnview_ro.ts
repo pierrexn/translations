@@ -9961,7 +9961,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Left button</source>
-        <translation>Butonul din stanga</translation>
+        <translation>Butonul din stânga</translation>
     </message>
     <message>
         <source>Large icons</source>
