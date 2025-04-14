@@ -2481,7 +2481,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>All other &apos;APP&apos; markers</source>
-        <translation>Toate celelalte marcatoare „APP”</translation>
+        <translation>Toate celelalte marcatoare „APP” (aplicație)</translation>
     </message>
     <message>
         <source>Clean metadata</source>
@@ -5416,7 +5416,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Loading file(s). Please wait...</source>
-        <translation>Se încarcă fișiere. Va rugam asteptati...</translation>
+        <translation>Se încarcă fișiere. Te rugăm să astepți...</translation>
     </message>
     <message>
         <source>Open Browser</source>
@@ -6155,7 +6155,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Create folder</source>
-        <translation>Creează un dosar (folder)</translation>
+        <translation>Creează un dosar (un folder)</translation>
     </message>
 </context>
 <context>
@@ -8179,7 +8179,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Clean diacritic characters</source>
-        <translation>Caractere diacritice curate</translation>
+        <translation>Curăță caracterele diacritice</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
@@ -13993,7 +13993,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Created time</source>
-        <translation>Timp creat</translation>
+        <translation>Ora la care a fost creat</translation>
     </message>
     <message>
         <source>Copyright usage terms</source>
@@ -14486,7 +14486,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Can not create video renderer</source>
-        <translation>Nu se poate crea redarea video</translation>
+        <translation>Nu se poate crea randorul video</translation>
     </message>
 </context>
 <context>
@@ -14743,7 +14743,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Clean...</source>
-        <translation>Curat...</translation>
+        <translation>Curăță...</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -17663,7 +17663,7 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Cannot create symbolic link targeting to source.</source>
-        <translation>Nu se poate crea direcționarea prin linkuri simbolice către sursă.</translation>
+        <translation>Nu se poate crea direcționarea prin legături simbolice către sursă.</translation>
     </message>
     <message>
         <source>Cannot open source file. Please check permissions.</source>
