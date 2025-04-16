@@ -8061,7 +8061,7 @@ Thank you for purchasing %1.</source>
     <name>DlgRemoveBg</name>
     <message>
         <source>Background remover</source>
-        <translation>Eliminator de fundal</translation>
+        <translation>Eliminatorul de fundal</translation>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
@@ -14955,7 +14955,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Set as wallpaper...</source>
-        <translation>Seteaza ca Imagine de fundal...</translation>
+        <translation>Setează ca imagine de fundal...</translation>
     </message>
     <message>
         <source>Compare...</source>
@@ -16104,7 +16104,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Set as wallpaper...</source>
-        <translation>Seteaza ca Imagine de fundal...</translation>
+        <translation>Setează ca imagine de fundal...</translation>
     </message>
     <message>
         <source>Canvas resize...</source>
@@ -16360,7 +16360,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Background color...</source>
-        <translation>Culoare de fundalr...</translation>
+        <translation>Culoare de fundal...</translation>
     </message>
     <message>
         <source>Fit image to window</source>
