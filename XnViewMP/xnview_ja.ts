@@ -459,7 +459,7 @@
     <message>
         <location filename="ViewAutoHidePanel.cpp" line="37"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>ピン</translation>
     </message>
 </context>
 <context>
@@ -831,7 +831,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished">レイアウト</translation>
+        <translation>レイアウト</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
@@ -4196,7 +4196,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBloom.ui" line="22"/>
         <source>Method</source>
-        <translation>Method</translation>
+        <translation>方法</translation>
     </message>
     <message>
         <location filename="DlgConvertBloom.ui" line="49"/>
@@ -5180,7 +5180,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1695"/>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
-        <translation>注意：この設定の変更を有効にするには管理者権限で起動する必要があります。</translation>
+        <translation>注意：この設定の変更を有効にするには管理者権限で起動する必要があります</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1756"/>
@@ -7201,7 +7201,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditFav.ui" line="76"/>
         <source>Rename...</source>
-        <translation>名前の変更</translation>
+        <translation>名前の変更...</translation>
     </message>
     <message>
         <location filename="DlgEditFav.ui" line="83"/>
@@ -7754,7 +7754,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>整数</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7798,19 +7798,19 @@ Please make sure that files are not read-only!</oldsource>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
         <translatorcomment>TXT_DCT_Method</translatorcomment>
-        <translation type="unfinished">DCT法</translation>
+        <translation>DCT法</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">速く (低品質だが高速）</translation>
+        <translation>高速整数 (低品質だが高速）</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Float (高品質だが低速）</translation>
+        <translation>浮動小数(高品質だが低速）</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7823,12 +7823,12 @@ Please make sure that files are not read-only!</oldsource>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
         <translatorcomment>TXT_Subsampling_Factor</translatorcomment>
-        <translation type="unfinished">サブサンプリングファクタ</translation>
+        <translation>サブサンプリング</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) 最小のファイル</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -7838,7 +7838,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="503"/>
         <source>Color</source>
-        <translation type="unfinished">色</translation>
+        <translation>色</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="582"/>
@@ -7854,22 +7854,22 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="610"/>
         <source>Metadata</source>
-        <translation type="unfinished">メタデータ</translation>
+        <translation>メタデータ</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="616"/>
         <source>Keep EXIF</source>
-        <translation type="unfinished">EXIFを保つ</translation>
+        <translation>EXIFを保つ</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="623"/>
         <source>Keep IPTC</source>
-        <translation type="unfinished">IPTCを保つ</translation>
+        <translation>IPTCを保つ</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="630"/>
         <source>Keep XMP</source>
-        <translation type="unfinished">XMPを保つ</translation>
+        <translation>XMPを保つ</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="672"/>
@@ -8110,7 +8110,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileReplace.ui" line="362"/>
         <source>New name:</source>
-        <translation>新しい名前</translation>
+        <translation>新しい名前:</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="432"/>
@@ -8304,7 +8304,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="506"/>
         <source>The file called %1 already exists.</source>
-        <translation>%1はすでに存在します</translation>
+        <translation>ファイル&quot;%1&quot;はすでに存在します</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="556"/>
@@ -8314,7 +8314,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="583"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>FTPサーバ%1に接続できませんでした。ユーザー名、パスワードが正しいかチェックしてください</translation>
+        <translation>FTPサーバ&quot;%1&quot;に接続できませんでした。ユーザー名、パスワードが正しいかチェックしてください</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="594"/>
@@ -8329,12 +8329,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="619"/>
         <source>Directory changed to %1.</source>
-        <translation>%1にディレクトリを変更</translation>
+        <translation>&quot;%1&quot;にディレクトリを変更</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="516"/>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>%1は存在しません</translation>
+        <translation>ファイル&quot;%1&quot;は存在しません</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="547"/>
@@ -8349,7 +8349,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="575"/>
         <source>Logged onto %1.</source>
-        <translation>%1にログイン</translation>
+        <translation>&quot;%1&quot;にログイン</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="614"/>
@@ -8456,12 +8456,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.h" line="249"/>
         <source>The file called %1 already exists.</source>
-        <translation>%1はすでに存在します</translation>
+        <translation>ファイル&quot;%1&quot;はすでに存在します</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="259"/>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>%1は存在しません</translation>
+        <translation>ファイル&quot;%1&quot;は存在しません</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="269"/>
@@ -8471,17 +8471,17 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.h" line="311"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>FTPサーバ%1に接続できませんでした。ユーザー名、パスワードをチェックしてください</translation>
+        <translation>FTPサーバ&quot;%1&quot;に接続できませんでした。ユーザー名、パスワードをチェックしてください</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="323"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>FTPサーバ%1に接続できませんでした。ユーザー名、パスワードをチェックしてください</translation>
+        <translation>FTPサーバ&quot;%1&quot;に接続できませんでした。ユーザー名とパスワードが正しいかチェックしてください</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="328"/>
         <source>Logged onto %1.</source>
-        <translation>%1にログイン</translation>
+        <translation>&quot;%1&quot;にログイン</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="369"/>
@@ -8748,7 +8748,7 @@ Subfolders will be created. </source>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">割り当てるカテゴリー</translation>
+        <translation>割り当てるカテゴリー（カテゴリーを区切るには、&quot;;&quot;を使用してください）</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
@@ -8778,7 +8778,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="101"/>
         <source>The &apos;Other Files&apos; folder if doesn&apos;t exist will be created as a subfolder of destination.</source>
-        <translation></translation>
+        <translation>&apos;Other Files&apos; フォルダが存在しない場合、宛先のサブフォルダとして作成されます</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="191"/>
@@ -8850,7 +8850,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImportThread.h" line="94"/>
         <source>Import and sort files...</source>
-        <translation>ファイルのインポートとソート</translation>
+        <translation>ファイルのインポートとソート...</translation>
     </message>
 </context>
 <context>
@@ -9109,7 +9109,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="201"/>
         <source>Import...</source>
-        <translation>インポート</translation>
+        <translation>インポート...</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="228"/>
@@ -9324,7 +9324,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgLayout.ui" line="16"/>
         <source>Change layout...</source>
-        <translation>レイアウトの変更</translation>
+        <translation>レイアウトの変更...</translation>
     </message>
     <message>
         <location filename="DlgLayout.ui" line="28"/>
@@ -9995,7 +9995,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="1061"/>
         <source>Page setup...</source>
-        <translation>ページの設定</translation>
+        <translation>ページの設定...</translation>
     </message>
     <message>
         <location filename="DlgPrint.cpp" line="1612"/>
@@ -10104,7 +10104,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished">表示</translation>
+        <translation>表示</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10127,12 +10127,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="48"/>
         <source>Convert</source>
-        <translation type="unfinished">変換</translation>
+        <translation>変換</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>全/半サイズレンダリング</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -10206,34 +10206,34 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">ディザリング</translation>
+        <translation>ディザリング</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished">なし</translation>
+        <translation>なし</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>規則的</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>整数</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>高速整数</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>浮動小数</translation>
     </message>
 </context>
 <context>
@@ -10273,7 +10273,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgReadPDF.ui" line="69"/>
         <source>Ledger</source>
         <translatorcomment>？？？</translatorcomment>
-        <translation>Ledger</translation>
+        <translation>元帳</translation>
     </message>
     <message>
         <location filename="DlgReadPDF.ui" line="74"/>
@@ -10283,7 +10283,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadPDF.ui" line="79"/>
         <source>Letter</source>
-        <translation>Letter</translation>
+        <translation>レター</translation>
     </message>
     <message>
         <location filename="DlgReadPDF.ui" line="84"/>
@@ -11181,7 +11181,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSetDpi.ui" line="122"/>
         <source>Print size:</source>
-        <translation>印刷サイズ</translation>
+        <translation>印刷サイズ:</translation>
     </message>
     <message>
         <location filename="DlgSetDpi.ui" line="144"/>
@@ -12227,27 +12227,27 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
         <source>Theme</source>
-        <translation type="unfinished">テーマ</translation>
+        <translation>テーマ</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="92"/>
         <source>Default</source>
-        <translation type="unfinished">デフォルト</translation>
+        <translation>デフォルト</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="97"/>
         <source>Light</source>
-        <translation type="unfinished">弱</translation>
+        <translation>ライト</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
         <source>Dark</source>
-        <translation type="unfinished">ダーク</translation>
+        <translation>ダーク</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="107"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>ブラック</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="311"/>
@@ -12362,7 +12362,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルコピー中</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="831"/>
@@ -13496,32 +13496,32 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">インポート</translation>
+        <translation>インポート</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">エクスポート</translation>
+        <translation>エクスポート</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished">レーティング</translation>
+        <translation>レーティング</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished">カラーラベル</translation>
+        <translation>カラーラベル</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished">カテゴリー</translation>
+        <translation>カテゴリー</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">フェイスタグ</translation>
+        <translation>フェイスタグ</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -13715,7 +13715,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム数</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1174"/>
@@ -13826,7 +13826,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="890"/>
         <source>Sidecar</source>
-        <translation>Sidecar</translation>
+        <translation>サイドカー</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="907"/>
@@ -13925,7 +13925,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
-        <translation type="unfinished">パンツールを表示</translation>
+        <translation>ナビゲーターを表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -14799,7 +14799,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="124"/>
         <source>Run the File association(s) tool...</source>
-        <translation>ファイルを関連付けする</translation>
+        <translation>ファイル関連付けツールを起動...</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
@@ -15220,7 +15220,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransitionEffects.ui" line="24"/>
         <source>Transition Effects List:</source>
-        <translation>遷移効果リスト</translation>
+        <translation>遷移効果リスト:</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="49"/>
@@ -15761,19 +15761,19 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">DCT法</translation>
+        <translation>DCT法</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation type="unfinished">速く (低品質だが高速）</translation>
+        <translation>高速整数 (低品質だが高速）</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Float (高品質だが低速）</translation>
+        <translation>浮動小数 (高品質だが低速）</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15784,22 +15784,22 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">サブサンプリングファクタ</translation>
+        <translation>サブサンプリング</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished">JPEG-liを使用する</translation>
+        <translation>JPEG-liを使用する</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>整数</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) 最小ファイル</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
@@ -15956,7 +15956,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWritePNG.ui" line="75"/>
         <source>Sub</source>
-        <translation>Sub</translation>
+        <translation>サブ</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="80"/>
@@ -15966,7 +15966,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWritePNG.ui" line="85"/>
         <source>Avg</source>
-        <translation>Avg</translation>
+        <translation>平均</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="90"/>
@@ -16963,17 +16963,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">すべてのフィールド（数）</translation>
+        <translation>すべてのフィールド（数）</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">フィールド</translation>
+        <translation>フィールド</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">フィールド（数）</translation>
+        <translation>フィールド（数）</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17361,32 +17361,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>使用されてないカテゴリーを削除...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのカテゴリーを削除...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのカテゴリーを削除</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのカテゴリーを削除しますか？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>使用していないカテゴリーの削除</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>使用していないカテゴリーを削除しますか？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
@@ -17862,7 +17862,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2664"/>
         <source>Device settings desc.</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Device_settings_desc</translatorcomment>
-        <translation>機械設定</translation>
+        <translation>デバイス設定記述</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2665"/>
@@ -18243,7 +18243,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="65"/>
         <source>Original tr. ref.</source>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
-        <translation>オリジナル転送のリファレンス</translation>
+        <translation>オリジナル送信のリファレンス</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
@@ -18359,7 +18359,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2741"/>
         <source>Original trans. ref.</source>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
-        <translation>オリジナル送信リファレンス</translation>
+        <translation>オリジナル送信のリファレンス</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2748"/>
@@ -18639,27 +18639,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPanel.cpp" line="18"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>フィルター</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished">タグ</translation>
+        <translation>タグ</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>値</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>値をコピー</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>アイテムをコピー</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -19585,7 +19585,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>更新日付</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="84"/>
@@ -20563,7 +20563,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Clear &amp;&amp; Import...</source>
-        <translation>クリア＆インポート</translation>
+        <translation>クリア＆インポート...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="645"/>
@@ -20614,7 +20614,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1472"/>
         <source>About</source>
-        <translation>About</translation>
+        <translation>XnViewMPについて</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1473"/>
@@ -21932,17 +21932,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="150"/>
         <source>US Letter (1.29)</source>
-        <translation>US Letter (1.29)</translation>
+        <translation>USレター(1.29)</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="151"/>
         <source>Cinema 1 (1.85)</source>
-        <translation></translation>
+        <translation>シネマ1 (1.85)</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="152"/>
         <source>Cinema 2 (2.35)</source>
-        <translation></translation>
+        <translation>シネマ2 (2.35)</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="179"/>
@@ -23155,7 +23155,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="qtcopydialog.cpp" line="343"/>
         <source>100% of %1 (Done)</source>
-        <translation>100% of %1 (Done)</translation>
+        <translation>100% 中 %1 (完了)</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="482"/>
@@ -23501,7 +23501,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="SearchField.cpp" line="433"/>
         <location filename="SearchField.cpp" line="552"/>
         <source>is any of</source>
-        <translation></translation>
+        <translation>いずれか</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="434"/>
@@ -23545,7 +23545,7 @@ Right Click for pop-up menu with actions.</source>
     <message>
         <location filename="SearchField.cpp" line="798"/>
         <source>and</source>
-        <translation>and</translation>
+        <translation>と</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="889"/>
@@ -24010,6 +24010,7 @@ Right Click for pop-up menu with actions.</source>
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
         <translation>XnViewMPがカタログをアップグレードします。しばらく時間がかかります。
+
 サムネイルを保持しますか？
 （はいを選択すると、アップグレードプロセスが遅くなります）</translation>
     </message>
