@@ -12252,7 +12252,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Paeth</source>
-        <translation>Polku</translation>
+        <translation>Paeth</translation>
     </message>
     <message>
         <source>Filter</source>
