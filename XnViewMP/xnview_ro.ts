@@ -757,11 +757,11 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>New category</source>
-        <translation>Categorie noua</translation>
+        <translation>Categorie nouă</translation>
     </message>
     <message>
         <source>New Category</source>
-        <translation>Categorie noua</translation>
+        <translation>Categorie nouă</translation>
     </message>
     <message>
         <source>Are you sure to clear this album?</source>
@@ -806,7 +806,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Do you want to delete this file?</source>
@@ -822,11 +822,11 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoom 100%</translation>
+        <translation>Mărește (Scalează) cu 100%</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>Delete file</source>
@@ -2267,7 +2267,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Enlarge/Reduce</source>
-        <translation>Mărire/Reducere</translation>
+        <translation>Lărgire/Reducere</translation>
     </message>
     <message>
         <source>Always</source>
@@ -2279,7 +2279,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Enlarge only</source>
-        <translation>Doar mărește</translation>
+        <translation>Doar lărgește</translation>
     </message>
     <message>
         <source>not an image</source>
@@ -2598,7 +2598,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Current date</source>
@@ -2666,7 +2666,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>Text color</source>
@@ -3346,7 +3346,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Enlarge</source>
-        <translation>Mărește</translation>
+        <translation>Lărgește</translation>
     </message>
     <message>
         <source>Rounded corner</source>
@@ -3636,7 +3636,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
@@ -3760,7 +3760,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>Options</source>
@@ -4794,7 +4794,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Enlarge/Reduce</source>
-        <translation>Mărire/Reducere</translation>
+        <translation>Lărgire/Reducere</translation>
     </message>
     <message>
         <source>Keep ratio</source>
@@ -4858,7 +4858,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Enlarge only</source>
-        <translation>Mărește doar</translation>
+        <translation>Doar lărgește</translation>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
@@ -6221,11 +6221,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Original zoom</source>
-        <translation>Original zoom</translation>
+        <translation>Scalare originală</translation>
     </message>
     <message>
         <source>Are you sure to delete this file?</source>
@@ -6249,7 +6249,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -6548,7 +6548,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <name>DlgGoXY</name>
     <message>
         <source>Current zoom</source>
-        <translation>Zoom actual</translation>
+        <translation>Scalare actuală</translation>
     </message>
     <message>
         <source>You can paste values as Xx, Yy</source>
@@ -7743,11 +7743,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgProcess</name>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoom 100%</translation>
+        <translation>Mărește cu 100%</translation>
     </message>
     <message>
         <source>&lt;Last Used&gt;</source>
@@ -7755,7 +7755,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
@@ -7985,7 +7985,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Byte order</source>
-        <translation>Ordinea octetilor</translation>
+        <translation>Ordinea octeților (bytes-ilor)</translation>
     </message>
     <message>
         <source>Interleaved</source>
@@ -7997,7 +7997,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Greyscale</source>
-        <translation>Scara tonurilor de gri</translation>
+        <translation>Tonuri de gri</translation>
     </message>
     <message>
         <source>Channel type</source>
@@ -8858,7 +8858,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>New path:</source>
-        <translation>Noua cale:</translation>
+        <translation>Cale nouă:</translation>
     </message>
     <message>
         <source>Lossy - Low quality (JPEG)</source>
@@ -11017,7 +11017,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Original zoom</source>
@@ -11037,7 +11037,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>Delete file</source>
@@ -11266,7 +11266,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Create</source>
@@ -11286,7 +11286,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>Splitting image(s), please wait...</source>
@@ -11738,7 +11738,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New version: </source>
-        <translation>Versiune noua: </translation>
+        <translation>Versiune nouă: </translation>
     </message>
 </context>
 <context>
@@ -12578,7 +12578,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Dosar nou</translation>
+        <translation>Dosar (Folder) nou</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -12594,7 +12594,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New subfolder</source>
-        <translation>Subdosar nou</translation>
+        <translation>Subdosar (Subfolder) nou</translation>
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
@@ -13210,11 +13210,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>New category</source>
-        <translation>Categorie noua</translation>
+        <translation>Categorie nouă</translation>
     </message>
     <message>
         <source>New Category</source>
-        <translation>Categorie noua</translation>
+        <translation>Categorie nouă</translation>
     </message>
     <message>
         <source>Are you sure to delete this category?</source>
@@ -14193,7 +14193,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>New Folder %1</source>
-        <translation>Dosar nou %1</translation>
+        <translation>Dosar (Folder) nou %1</translation>
     </message>
     <message>
         <source>EXIF Date Taken</source>
@@ -14591,7 +14591,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>Scalare</translation>
     </message>
     <message>
         <source>Update catalog from files</source>
@@ -14663,7 +14663,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Open containing folder</source>
@@ -14843,7 +14843,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Dosar nou</translation>
+        <translation>Dosar (Folder) nou</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -14939,7 +14939,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New image...</source>
-        <translation>Imagine noua...</translation>
+        <translation>Imagine nouă...</translation>
     </message>
     <message>
         <source>View as Details</source>
@@ -14947,7 +14947,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -14971,7 +14971,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation>Dosar nou</translation>
+        <translation>Dosar (Folder) nou</translation>
     </message>
     <message>
         <source>Show hidden files</source>
@@ -15900,7 +15900,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>High zoom quality</source>
-        <translation>Calitate ridicată a zoomului</translation>
+        <translation>Calitate ridicată a scalării</translation>
     </message>
     <message>
         <source>Automatic levels</source>
@@ -15908,7 +15908,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
@@ -16080,7 +16080,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New image...</source>
-        <translation>Imagine noua...</translation>
+        <translation>Imagine nouă...</translation>
     </message>
     <message>
         <source>Fixed ratio</source>
@@ -16088,7 +16088,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -16300,7 +16300,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Draw...</source>
-        <translation>A desena...</translation>
+        <translation>Desenează...</translation>
     </message>
     <message>
         <source>Show colour information</source>
@@ -16790,7 +16790,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New Folder %1</source>
-        <translation>Dosar nou %1</translation>
+        <translation>Dosar (Folder) nou %1</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -17078,7 +17078,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation>A desena</translation>
+        <translation>Desenează</translation>
     </message>
     <message>
         <source>Font</source>
@@ -17118,7 +17118,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>A mari</translation>
+        <translation>Mărire</translation>
     </message>
     <message>
         <source>Background</source>
@@ -17162,7 +17162,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Marire 100%</translation>
+        <translation>Marește cu 100%</translation>
     </message>
     <message>
         <source>Choose an image</source>
@@ -17170,7 +17170,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>A micsora</translation>
+        <translation>Micșorare</translation>
     </message>
     <message>
         <source>Opacity</source>
