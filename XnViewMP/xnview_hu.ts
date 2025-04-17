@@ -452,7 +452,7 @@
     <message>
         <location filename="ViewAutoHidePanel.cpp" line="37"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Rögzítés</translation>
     </message>
 </context>
 <context>
