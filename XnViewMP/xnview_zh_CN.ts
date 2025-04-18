@@ -10008,7 +10008,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全尺寸/半尺寸渲染图</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -12431,7 +12431,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="507"/>
         <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">XnView 幻灯片文件</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="514"/>
