@@ -455,7 +455,7 @@
     <message>
         <location filename="ViewAutoHidePanel.cpp" line="37"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Připnout</translation>
     </message>
 </context>
 <context>
@@ -830,7 +830,7 @@ Položky můžete přiřazovat přetažením.</translation>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished">Vzhled</translation>
+        <translation>Rozvržení</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
@@ -5144,7 +5144,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1574"/>
         <source>Theme</source>
-        <translation>Vzhled</translation>
+        <translation>Barevné schéma</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1582"/>
@@ -5730,7 +5730,7 @@ Chcete pokračovat?</translation>
         <location filename="DlgConvertLevels.ui" line="38"/>
         <source>Luminance</source>
         <oldsource>Luminosity</oldsource>
-        <translation>Svítivost</translation>
+        <translation>Zářivost</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
@@ -7706,7 +7706,7 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished">Celé číslo</translation>
+        <translation>Celé číslo</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7747,19 +7747,19 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
         <location filename="DlgExport.ui" line="346"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Metoda DCT</translation>
+        <translation>Metoda DCT</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Rychlá (nejhorší, ale rychlejší)</translation>
+        <translation>Rychlá (nejhorší, ale nejrychlejší)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Plovoucí (nejlepší, ale nejpomalejší)</translation>
+        <translation>Plovoucí (nejlepší, ale nejpomalejší)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7770,12 +7770,12 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
         <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Faktor snížení rozlišení</translation>
+        <translation>Snížení rozlišení (subsampling)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) nejmenší soubor</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -10045,7 +10045,7 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished">Zobrazit</translation>
+        <translation>Zobrazit</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10068,12 +10068,12 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
     <message>
         <location filename="DlgReadCRaw.ui" line="48"/>
         <source>Convert</source>
-        <translation type="unfinished">Konvertovat</translation>
+        <translation>Konvertovat</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderovat plnou/poloviční velikost</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -10168,13 +10168,13 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished">Rychlé celočíselné operace</translation>
+        <translation>Rychlé celočíselné operace</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished">Desetinné číslo</translation>
+        <translation>Desetinné číslo</translation>
     </message>
 </context>
 <context>
@@ -12054,7 +12054,7 @@ Náhled</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
         <source>Theme</source>
-        <translation>Vzhled</translation>
+        <translation>Barevné schéma</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="92"/>
@@ -13374,32 +13374,32 @@ Chcete znovu přiřadit?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">Importovat</translation>
+        <translation>Importovat</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportovat</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished">Hodnocení</translation>
+        <translation>Hodnocení</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished">Barevné označení</translation>
+        <translation>Barevné označení</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished">Kategorie</translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">Označení obličeje</translation>
+        <translation>Označení obličeje</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -15715,19 +15715,19 @@ Chcete pokračovat?</translation>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">Metoda DCT</translation>
+        <translation>Metoda DCT</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation type="unfinished">Rychlá (nejhorší, ale rychlejší)</translation>
+        <translation>Rychlá celočíselná (nejhorší, ale rychlejší)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Plovoucí (nejlepší, ale nejpomalejší)</translation>
+        <translation>Plovoucí desetinná čárka (nejlepší, ale nejpomalejší)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15738,7 +15738,7 @@ Chcete pokračovat?</translation>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Faktor subvzorkování</translation>
+        <translation>Snížení rozlišení (subsampling)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
@@ -15748,12 +15748,12 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished">Celé číslo</translation>
+        <translation>Celé číslo</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) nejmenší soubor</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
@@ -16903,17 +16903,17 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Všechna pole (číslo)</translation>
+        <translation>Všechna pole (číslo)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">Pole</translation>
+        <translation>Pole</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">Pole (číslo)</translation>
+        <translation>Pole (číslo)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17287,32 +17287,32 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat nepoužité kategorie...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat všechny kategorie...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat všechny kategorie</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete smazat všechny kategorie?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat nepoužité kategorie</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete smazat nepoužité kategorie?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
