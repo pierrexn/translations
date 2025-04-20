@@ -2119,7 +2119,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Limba</translation>
+        <translation>Limbă</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -3816,7 +3816,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Limba</translation>
+        <translation>Limbă</translation>
     </message>
     <message>
         <source>Restore previous input file list</source>
@@ -5400,7 +5400,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Creating multipage file, please wait...</source>
-        <translation>Se creează fișierul cu mai multe pagini, așteaptă...</translation>
+        <translation>Se creează fișierul cu mai multe pagini, te rugăm să aștepți...</translation>
     </message>
     <message>
         <source>Problem</source>
@@ -9471,7 +9471,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Limba</translation>
+        <translation>Limbă</translation>
     </message>
     <message>
         <source>Show all graphic formats</source>
@@ -11369,7 +11369,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Limba</translation>
+        <translation>Limbă</translation>
     </message>
     <message>
         <source>Use .ini file in folder</source>
@@ -14353,7 +14353,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>Polonă</translation>
+        <translation>Poloneză</translation>
     </message>
     <message>
         <source>Slovak</source>
@@ -14365,7 +14365,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation>Portugheză-Portugalia</translation>
+        <translation>Portugheză - Portugalia</translation>
     </message>
     <message>
         <source>Slovenian</source>
@@ -14373,11 +14373,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Galician</source>
-        <translation>Galiciana</translation>
+        <translation>Galiciană</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation>Portuguese - Brazil</translation>
+        <translation>Portugheză - Brazilia</translation>
     </message>
     <message>
         <source>Japanese</source>
@@ -14389,7 +14389,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation>Armeana</translation>
+        <translation>Armeană</translation>
     </message>
     <message>
         <source>Catalan</source>
@@ -14421,7 +14421,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Macedonian</source>
-        <translation>Macedoniana</translation>
+        <translation>Macedoniană</translation>
     </message>
     <message>
         <source>Turkish</source>
@@ -14429,7 +14429,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>your name</source>
-        <translation>Numele dumneavoastră</translation>
+        <translation>Numele tău</translation>
     </message>
     <message>
         <source>English</source>
