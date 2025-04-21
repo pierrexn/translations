@@ -1065,7 +1065,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Effect</source>
-        <translation>Tehoste</translation>
+        <translation>Tehosteet</translation>
     </message>
     <message>
         <source>Emboss</source>
@@ -14416,7 +14416,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>your name</source>
-        <translation>SeppoK</translation>
+        <translation>Seppo Kinnunen</translation>
     </message>
     <message>
         <source>English</source>
@@ -16015,7 +16015,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Effect</source>
-        <translation>Tehoste</translation>
+        <translation>Tehosteet</translation>
     </message>
     <message>
         <source>Contact sheet...</source>
@@ -17134,7 +17134,7 @@ Voit muuttaa sitä kohdassa Asetukset › Luettelo.</translation>
     </message>
     <message>
         <source>Effect</source>
-        <translation>Tehoste</translation>
+        <translation>Tehosteet</translation>
     </message>
     <message>
         <source>Draw an ellipse</source>
