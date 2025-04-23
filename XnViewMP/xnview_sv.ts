@@ -452,7 +452,7 @@
     <message>
         <location filename="ViewAutoHidePanel.cpp" line="37"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Stift</translation>
     </message>
 </context>
 <context>
@@ -823,7 +823,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
     <message>
         <location filename="CategorySets.cpp" line="30"/>
         <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="36"/>
@@ -7665,7 +7665,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <message>
         <location filename="DlgExport.ui" line="357"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Heltal</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="511"/>
@@ -7706,19 +7706,19 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <location filename="DlgExport.ui" line="346"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">DCT-metod</translation>
+        <translation>DCT-metod</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation type="unfinished">Snabb (sämst men snabbare)</translation>
+        <translation>Snabbt heltal (sämst men snabbast)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Flytande (bäst men långsammast)</translation>
+        <translation>Flytande punkt(bäst men långsammast)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -7729,12 +7729,12 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <location filename="DlgExport.ui" line="430"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Delsamplingsfaktor</translation>
+        <translation>Delsampling</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) minsta fil</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -7744,7 +7744,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <message>
         <location filename="DlgExport.ui" line="503"/>
         <source>Color</source>
-        <translation type="unfinished">Färg</translation>
+        <translation>Färg</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="582"/>
@@ -7760,22 +7760,22 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <message>
         <location filename="DlgExport.ui" line="610"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadata</translation>
+        <translation>Metadata</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="616"/>
         <source>Keep EXIF</source>
-        <translation type="unfinished">Bevara EXIF</translation>
+        <translation>Bevara EXIF</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="623"/>
         <source>Keep IPTC</source>
-        <translation type="unfinished">Bevara IPTC</translation>
+        <translation>Bevara IPTC</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="630"/>
         <source>Keep XMP</source>
-        <translation type="unfinished">Bevara XMP</translation>
+        <translation>Bevara XMP</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="672"/>
@@ -8650,7 +8650,7 @@ Undermappar kommer att skapas. </translation>
         <location filename="DlgImport.ui" line="331"/>
         <source>Categories to assign (use ; to separate categories)</source>
         <oldsource>Categories to assign</oldsource>
-        <translation type="unfinished">Kategorier att tilldela</translation>
+        <translation>Kategorier att tilldela (använd ; för att separera kategorier)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="357"/>
@@ -9992,7 +9992,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="22"/>
         <source>View</source>
-        <translation type="unfinished">Visning</translation>
+        <translation>Vy</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="30"/>
@@ -10015,12 +10015,12 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <message>
         <location filename="DlgReadCRaw.ui" line="48"/>
         <source>Convert</source>
-        <translation type="unfinished">Konvertera</translation>
+        <translation>Konvertera</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Hel-/Halvstorleksrendering</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -10094,34 +10094,34 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Gitter</translation>
+        <translation>Gitter</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
         <source>None</source>
-        <translation type="unfinished">Ingen</translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="35"/>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Beställt</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="76"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Heltal</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="81"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Snabbt heltal</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="86"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Flytande punkt</translation>
     </message>
 </context>
 <context>
@@ -12105,27 +12105,27 @@ miniatyr</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
         <source>Theme</source>
-        <translation type="unfinished">Tema</translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="92"/>
         <source>Default</source>
-        <translation type="unfinished">Standard</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="97"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljus</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
         <source>Dark</source>
-        <translation type="unfinished">Mörk</translation>
+        <translation>Mörk</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="107"/>
         <source>Black</source>
-        <translation type="unfinished">Svart</translation>
+        <translation>Svart</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="311"/>
@@ -12240,7 +12240,7 @@ miniatyr</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Filkopiering</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="831"/>
@@ -13373,32 +13373,32 @@ Vill du ta bort tilldelningen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Import</source>
-        <translation type="unfinished">Importera</translation>
+        <translation>Importera</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Export</source>
-        <translation type="unfinished">Exportera</translation>
+        <translation>Exportera</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassifisering</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="80"/>
         <source>Color label</source>
-        <translation type="unfinished">Färgetikett</translation>
+        <translation>Färgetikett</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="114"/>
         <source>Categories</source>
-        <translation type="unfinished">Kategorier</translation>
+        <translation>Kategorier</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation type="unfinished">Face-tagg</translation>
+        <translation>Face-tagg</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -13592,7 +13592,7 @@ Vill du ta bort tilldelningen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal bildrutor</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1174"/>
@@ -13802,7 +13802,7 @@ Vill du ta bort tilldelningen?</translation>
         <location filename="DlgSettingsView.ui" line="507"/>
         <source>Show navigator</source>
         <oldsource>Show Pan tool</oldsource>
-        <translation type="unfinished">Visa panoreringsverktyg</translation>
+        <translation>Visa navigator</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
@@ -15637,19 +15637,19 @@ Vill du fortsätta?</translation>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation type="unfinished">DCT-metod</translation>
+        <translation>DCT-metod</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation type="unfinished">Snabb (sämst men snabbast)</translation>
+        <translation>Snabbt heltal (sämst men snabbast)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation type="unfinished">Flytande (bäst men långsammast)</translation>
+        <translation>Flytande punkt (bäst men långsammast)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -15660,22 +15660,22 @@ Vill du fortsätta?</translation>
         <location filename="DlgWriteJPEG.ui" line="153"/>
         <source>Subsampling</source>
         <oldsource>Subsampling factor</oldsource>
-        <translation type="unfinished">Nersamplingsfaktor</translation>
+        <translation>Delsampling</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="17"/>
         <source>Use JPEG-li</source>
-        <translation type="unfinished">Använd JPEG-li</translation>
+        <translation>Använd JPEG-li</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="120"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Heltal</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) minsta fil</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
@@ -16822,17 +16822,17 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>All fields (Number)</source>
-        <translation type="unfinished">Alla fält (Nummer)</translation>
+        <translation>Alla fält (Nummer)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Field</source>
-        <translation type="unfinished">Fält</translation>
+        <translation>Fält</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Field (Number)</source>
-        <translation type="unfinished">Fält (Nummer)</translation>
+        <translation>Fält (Nummer)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17206,32 +17206,32 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="143"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort oanvända kategorier...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla kategorier...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort alla kategorier</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du ta bort alla kategorier?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort oanvända kategorier</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="326"/>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du ta bort oanvända kategorier?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="239"/>
@@ -18368,27 +18368,27 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="18"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Tag</source>
-        <translation type="unfinished">Tagg</translation>
+        <translation>Tagg</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="31"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Värde</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="79"/>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera värde</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="80"/>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera objekt</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="81"/>
@@ -19307,7 +19307,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändrad</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="84"/>
