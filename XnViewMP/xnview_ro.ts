@@ -3025,7 +3025,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Uploading image(s) to server...</source>
-        <translation>Se încarcă imaginea/imaginile pe server...</translation>
+        <translation>Se încarcă imaginea (imaginile) pe server...</translation>
     </message>
     <message>
         <source>Overwritten:</source>
@@ -3948,7 +3948,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Load last script used at startup</source>
-        <translation>Încărcă ultimul script folosit la pornire</translation>
+        <translation>Încarcă ultimul script folosit la pornire</translation>
     </message>
     <message>
         <source>Name uppercase</source>
@@ -6345,11 +6345,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Uploading image(s) to Picasa album</source>
-        <translation>Se încarcă imaginea/imaginile în albumul Picasa</translation>
+        <translation>Se încarcă imaginea (imaginile) în albumul Picasa</translation>
     </message>
     <message>
         <source>Uploading image(s) to Flickr album</source>
-        <translation>Se încarcă imaginea/imaginile în albumul Flickr</translation>
+        <translation>Se încarcă imaginea (imaginile) în albumul Flickr</translation>
     </message>
 </context>
 <context>
@@ -6541,7 +6541,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Unable to go to folder %1</source>
-        <translation>Nu se poate accesa folderul %1</translation>
+        <translation>Nu se poate accesa folderul (dosarul) %1</translation>
     </message>
 </context>
 <context>
@@ -11757,11 +11757,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Unable to upload image file...</source>
-        <translation>Nu se poate încărca fișierul imagine...</translation>
+        <translation>Nu se poate încărca fișierul de imagine...</translation>
     </message>
     <message>
         <source>Unable to load image file...</source>
-        <translation>Nu se poate încărca fișierul imagine...</translation>
+        <translation>Nu se poate încărca fișierul de imagine...</translation>
     </message>
 </context>
 <context>
@@ -11772,7 +11772,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Thumbnail link</source>
-        <translation>Link miniatura</translation>
+        <translation>Legătura (link-ul) miniaturii</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11784,7 +11784,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Upload image</source>
-        <translation>Incarca imaginea</translation>
+        <translation>Încarcă imaginea</translation>
     </message>
     <message>
         <source>Height</source>
@@ -11796,7 +11796,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
-        <translation>Fii atent, imaginea/imaginile tale vor fi încărcate pe un server public!</translation>
+        <translation>Fii atent, imaginea (imaginile) tale vor fi încărcate pe un server public!</translation>
     </message>
     <message>
         <source>Password</source>
@@ -11804,7 +11804,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Nume de utilizator</translation>
+        <translation>Numele de utilizator</translation>
     </message>
     <message>
         <source>Service</source>
@@ -11816,7 +11816,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Image link</source>
-        <translation>Link imagine</translation>
+        <translation>Legătura (link-ul) imaginii</translation>
     </message>
 </context>
 <context>
@@ -16711,7 +16711,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Last used</source>
-        <translation>Folosită ultima dată</translation>
+        <translation>Cea folosită ultima dată</translation>
     </message>
     <message>
         <source>Choose a directory</source>
