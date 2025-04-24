@@ -12458,12 +12458,12 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">Учетной записи (Системы)</translation>
+        <translation>Система - Текущий пользователь</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Система - Текущий пользователь (реестр Windows)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12471,14 +12471,14 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Система - локальный компьютер</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка приложения</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12569,7 +12569,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки - Общие</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12578,47 +12578,47 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущее расположение</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки - Другое</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>База данных - Каталог</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>База данных - Эскизы</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфигурация</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий пользователь (рекомендуется)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Локальный компьютер</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Портативные</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательская</translation>
     </message>
 </context>
 <context>
@@ -13852,7 +13852,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">Использовать следующие цвета в шахматном фоне</translation>
+        <translation>Использовать сетку прозрачности (шахматный узор)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
@@ -13923,7 +13923,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">Масштабирование на HiDPI экране: 1 пиксель изображения равен 1 пикселю экрана</translation>
+        <translation>Масштабирование на HiDPI экране: 1 пиксель изображения равен 1 пикселю экрана</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -14009,7 +14009,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Сглаживание</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14181,7 +14181,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">Сбрасывать X/Y координаты при смене файла (Без подгонки)</translation>
+        <translation>Сбрасывать X/Y координаты при смене файла (Без подгонки)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="835"/>
@@ -14760,22 +14760,22 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий пользователь (рекомендуется)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий пользователь (реестр Windows)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Локальный компьютер</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Портативные (папка приложения)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -18070,7 +18070,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Местное описание</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19593,7 +19593,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать канал</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="649"/>
@@ -20348,17 +20348,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="632"/>
         <source>Show red</source>
-        <translation>Показывать красный канал</translation>
+        <translation>Показать красный канал</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="633"/>
         <source>Show green</source>
-        <translation>Показывать зеленый канал</translation>
+        <translation>Показать зеленый канал</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="634"/>
         <source>Show blue</source>
-        <translation>Показывать синий канал</translation>
+        <translation>Показать синий канал</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
@@ -21126,17 +21126,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="435"/>
         <source>Show red</source>
-        <translation>Показывать красный канал</translation>
+        <translation>Показать красный канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="436"/>
         <source>Show green</source>
-        <translation>Показывать зеленый канал</translation>
+        <translation>Показать зеленый канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
         <source>Show blue</source>
-        <translation>Показывать синий канал</translation>
+        <translation>Показать синий канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -21512,17 +21512,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать сглаживание</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать сетку прозрачности</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="453"/>
