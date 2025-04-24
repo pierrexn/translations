@@ -12382,12 +12382,12 @@ Vignette</translation>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">Utilisateur (Système)</translation>
+        <translation>Système - Utilisateur actuel</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Système - Utilisateur actuel (Base de registres)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12395,14 +12395,14 @@ Vignette</translation>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Système - Machine locale</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier de l&apos;application</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12491,7 +12491,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres - Général</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12500,47 +12500,47 @@ Vignette</translation>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier actuel</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres - Autres</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de données - Catalogue</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de données - Vignettes</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisateur actuel (recommandé)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Machine locale</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personnalisé</translation>
     </message>
 </context>
 <context>
@@ -13763,7 +13763,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">Utiliser un motif damier comme fond</translation>
+        <translation>Utiliser une grille de transparence (motif en damier)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="224"/>
@@ -13849,7 +13849,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">Réinitialiser la position (pas d&apos;adaptation)</translation>
+        <translation>Réinitialiser la position (pas d&apos;adaptation)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="835"/>
@@ -13882,7 +13882,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">Zoom sur écran HiDPI: 1 pixel image correspond à 1 pixel écran</translation>
+        <translation>Zoom sur écran HiDPI: 1 pixel image correspond à 1 pixel écran</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
@@ -13922,7 +13922,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anti-crénelage</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14676,22 +14676,22 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisateur actuel (recommandé)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisateur actuel (Base de registres)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Machine locale</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable (dossier d&apos;application)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -17960,7 +17960,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Légende locale</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="29"/>
@@ -20273,7 +20273,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le canal</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="645"/>
@@ -21122,17 +21122,17 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser l&apos;anticrénelage</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser la grille de transparence</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le canal</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
